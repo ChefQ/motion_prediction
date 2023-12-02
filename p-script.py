@@ -3,6 +3,7 @@ from transformers import pipeline, set_seed
 from datasets import load_dataset
 import pandas as pd
 import json
+import regex as re
 import nltk
 from nltk.tokenize import sent_tokenize
 from transformers import PegasusForConditionalGeneration, PegasusTokenizer
@@ -101,21 +102,32 @@ if __name__ == "__main__":
     parser.add_argument('--data',  default= 'embeddings.csv')
 
 
+
     arg = parser.parse_args()
 
-    testset = pd.read_csv(arg.data, index_col=0)
+    model_name = re.match(r"models/(.*).pkl", arg.model_path).group(1)   
+    embedding_method = summerizeEmbeddings
+   
     embedding_method = summerizeEmbeddings
 
-    if 'embeddings' not in testset.columns:
-        model_name  = "mistralai/Mistral-7B-v0.1"
-        config = AutoConfig.from_pretrained(model_name)
-        max_input_size =  config.max_position_embeddings  
-        tokenizer = AutoTokenizer.from_pretrained(model_name, device=device, )
+    testset = pd.read_csv(arg.data, index_col=0)
 
-        tokenizer.pad_token = tokenizer.eos_token
-        model = AutoModel.from_pretrained(model_name, use_flash_attention_2=True, torch_dtype= torch.bfloat16 ).to(device)  #,device_map = "auto"
-        #parallel_model = torch.nn.DataParallel(model)
-        sentence_model = SentenceTransformer('sentence-transformers/all-MiniLM-L6-v2').to(device)
+    testset["completion"] = list(map(lambda x : x.strip() ,testset["completion"].to_list()))
+    embedding_method = summerizeEmbeddings
+
+    summerize = True
+    if 'embeddings' not in testset.columns:
+        if not summerize:
+            model  = "mistralai/Mistral-7B-v0.1"
+            config = AutoConfig.from_pretrained(model)
+            max_input_size =  config.max_position_embeddings  
+            tokenizer = AutoTokenizer.from_pretrained(model, device=device, )
+
+            tokenizer.pad_token = tokenizer.eos_token
+            model = AutoModel.from_pretrained(model, torch_dtype= torch.bfloat16 ).to(device)  #,device_map = "auto"
+            #parallel_model = torch.nn.DataParallel(model)
+        else:
+            sentence_model = SentenceTransformer('sentence-transformers/all-MiniLM-L6-v2').to(device)
 
         testset['embeddings'] = ""
         testset['embeddings'] = testset['prompt'].map(embedding_method)
@@ -126,34 +138,49 @@ if __name__ == "__main__":
         turn2list = lambda x: ast.literal_eval(x)
         testset['embeddings'] = testset['embeddings'].map(turn2list)
 
-#get model for predictions
-x_support = np.array(testset["embeddings"].loc[testset["brief_type"]=="support"].to_list())  #  np.array(testset['file_path'].to_list())
-x_opposition = np.array(testset["embeddings"].loc[testset["brief_type"]=="opposition"].to_list())  #  np.array(testset['file_path'].to_list())
+    #get model for predictions
+    x_support = np.array(testset["embeddings"].loc[(testset["brief_type"]=="support") & (testset["data_type"]=="test") ].to_list())  #  np.array(testset['file_path'].to_list())
+    x_opposition = np.array(testset["embeddings"].loc[(testset["brief_type"]=="opposition") & (testset["data_type"]=="test") ].to_list())  #  np.array(testset['file_path'].to_list())
 
+    y_support = np.array( testset["embeddings"].loc[(testset["brief_type"]=="support") & (testset["data_type"]=="test") ].to_list())  # np.array(testset['label'].to_list())
+    y_opposition =  np.array(testset["embeddings"].loc[(testset["brief_type"]=="opposition") & (testset["data_type"]=="test") ].to_list())  # np.array(testset['label'].to_list())
 
-y_support = np.array( testset["completion"].loc[testset["brief_type"]=="support"].to_list())  # np.array(testset['label'].to_list())
-y_opposition =  np.array(testset["completion"].loc[testset["brief_type"]=="opposition"].to_list())  # np.array(testset['label'].to_list())
+    clf = load(arg.model_path) 
 
+    if hasattr(clf, 'predict_proba') and callable(getattr(clf, 'predict_proba')):
+        scores_support = clf.predict_proba(x_support)
+        scores_opposition = clf.predict_proba(x_opposition)
+    else:
+        scores_support = clf.decision_function(x_support)
+        scores_opposition = clf.decision_function(x_opposition)
 
-clf = load(arg.model_path) 
+    prediction_opposition = clf.predict(x_opposition)
+    prediction_support = clf.predict(x_support)
 
-scores_support = clf.predict_proba(x_support)
-prediction_support = clf.predict(x_support)
+    testset.rename(columns={"file_name": "brief","completion": "truth"} , inplace = True  )
 
-scores_opposition = clf.predict_proba(x_opposition)
-prediction_opposition = clf.predict(x_opposition)
+    support = testset.loc[(testset["brief_type"]=="support") & (testset["data_type"]=="test") ].copy()
+    opposition = testset.loc[(testset["brief_type"]=="opposition") & (testset["data_type"]=="test") ].copy()
 
-results = testset.copy()
-results.drop(['data_type', 'file_path', 'file_name'], axis=1, inplace=True)
+    support.drop(['data_type','prompt' , 'brief_type','file_path','embeddings'], axis=1, inplace=True)
+    opposition.drop(['data_type', 'prompt' , 'brief_type','file_path','embeddings'], axis=1, inplace=True)
 
-results['prediction'] = ""
-results['prediction'].loc[results["brief_type"]=="support"] = prediction_support
+    support['predict'] = ""
+    opposition['predict'] = ""
 
-results['prediction'].loc[results["brief_type"]=="opposition"] = prediction_opposition
+    support['predict'] = prediction_support
+    opposition['predict'] = prediction_opposition
 
-results['scores'] = ""
-results['scores'].loc[results["brief_type"]=="support"] = scores_support.tolist()
-results['scores'].loc[results["brief_type"]=="opposition"] = scores_opposition.tolist()
+    support['score'] = ""
+    opposition['score'] = ""
 
-results.to_csv('results.csv')
+    support['score'] = list(map( np.max ,scores_support.tolist()))
+    opposition['score']= list(map(  np.max ,scores_opposition.tolist() ))
+
+    support = support[["brief","predict","score","truth"]]
+    opposition = opposition[["brief","predict","score","truth"]]
+
+    support.to_csv(f'{model_name}_supppredictions.csv' , index = False)
+    opposition.to_csv(f'{model_name}_oppopredictions.csv', index = False)
+
 

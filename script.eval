@@ -1,0 +1,21 @@
+#!/bin/bash
+export LANG=C
+
+for x in $* ; do
+         TP=`grep grant.*grant ${x} | wc -l` 
+         FP=`grep grant.*deny ${x} | wc -l` 
+         FN=`grep deny.*grant ${x} | wc -l` 
+         TN=`grep deny.*deny ${x} | wc -l` 
+         ACC=`echo "($TP+$TN)/($TP+$TN+$FP+$FN)" | bc -l`
+         SEN=`echo "$TP/($TP+$FN)" | bc -l`
+         SPE=`echo "$TN/($TN+$FP)" | bc -l`
+         for w in `grep 'grant$' ${x} | cut -d, -f3` ; do 
+            for y in `grep 'deny$' ${x} | cut -d, -f3`; do
+               echo "($w>$y)+0.5*($w==$y)"
+            done | bc -l
+         done | sort | uniq -c > roc
+         echo `sed -e 's/ *//' -e 's/ /*/' roc | tr '\n' + | sed -e 's/.$//' -e 's/.*/(&)/'` / \
+              `sed -e 's/ *//' -e 's/ .*//' roc | tr '\n' + | sed -e 's/.$//' -e 's/.*/(&)/'`  | bc -l > auc
+         AUC=`cat auc`
+         echo $x $TP $FP $FN $TN $ACC $SEN $SPE $AUC | sed -e 's/ /,/g'
+done | cat <(echo method,tp,fp,fn,tn,accuracy,sensitivity,specificity,auc) -
