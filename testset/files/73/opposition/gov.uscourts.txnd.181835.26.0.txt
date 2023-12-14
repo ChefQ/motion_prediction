@@ -1,0 +1,1038 @@
+Securities and Exchange Commission v. Cuban
+
+Doc. 26
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE NORTHERN DISTRICT OF TEXAS
+DALLAS DIVISION
+
+SECURITIES AND EXCHANGE
+COMMISSION,
+Plaintiff,
+v.
+MARK CUBAN,
+Defendant.
+
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+
+Civil Action No.: 3-08-CV-2050-D (SAF)
+
+PLAINTIFF SECURITIES AND EXCHANGE COMMMISSION’S MEMORADUM OF
+LAW IN OPPOSITION TO DEFENDANT MARK CUBAN’S MOTION TO DISMISS
+
+Dockets.Justia.com
+
+TABLE OF CONTENTS
+Page
+INTRODUCTION ...........................................................................................................................1
+FACTS ALLEGED IN THE COMPLAINT ...................................................................................2
+ARGUMENT...................................................................................................................................4
+I.
+
+Standard Of Review.............................................................................................................4
+
+II.
+
+An Agreement Establishes A Duty ......................................................................................5
+A.
+
+B.
+
+Under Rule 10b5-2, an Agreement Establishes a Duty ...........................................6
+1.
+
+Rule 10b5-2 Applies to Both Business and Non-Business
+Relationships................................................................................................6
+
+2.
+
+Rule 10b5-2 was Properly Promulgated and
+is Entitled to Deference..............................................................................11
+
+Misappropriation Case Law Developed Under Section 10(b) of the
+Exchange Act Has Established that an Agreement of Confidentiality
+Creates a Duty........................................................................................................14
+
+III.
+
+The Commission Has More Than Sufficiently Alleged An Agreement
+Of Confidentiality That Was Violated...............................................................................20
+
+IV.
+
+Cuban’s Argument Regarding Application Of State Law Fails ........................................22
+
+V.
+
+Amici Curiae Repeat Cuban’s Misstatement Of The Law ................................................25
+
+CONCLUSION..............................................................................................................................25
+
+i
+
+TABLE OF AUTHORITIES
+Page(s)
+FEDERAL CASES
+Bell Atl. Corp. v. Twombly,
+550 U.S. 544 (2007).......................................................................................................5, 24
+Bragdon v. Abbott,
+524 U.S. 624 (1998).....................................................................................................11, 12
+Chevron U.S.A., Inc. v. Natural Res. Def. Council, Inc.,
+467 U.S. 837 (1984)...........................................................................................................11
+Chiarella v. United States,
+445 U.S. 222 (1980)...........................................................................................................19
+CompuDyne Corp. v. Shane,
+453 F. Supp. 2d 807 (2006) ...............................................................................................19
+Dirks v. SEC,
+463 U.S. 646 (1983)...........................................................................................................15
+Doe v. Hillsboro Indep. Sch. Dist.,
+81 F.3d 1395 (5th Cir. 1996) ...............................................................................................4
+In re Abbot Labs.,
+51 F.3d 524, 528 (5th Cir. 1995) .........................................................................................7
+In re Enron Corp. Sec., Derivative & ERISA Litig.,
+235 F. Supp. 2d 549 (S.D. Tex. 2002) ...........................................................................4, 11
+In re Katrina Canal Breaches Litig.,
+495 F.3d 191 (5th Cir. 2007) ...............................................................................................4
+Lowrey v. Tex. A&M Univ. Sys.,
+117 F.3d 242 (5th Cir. 1997) ...............................................................................................4
+Melder v. Morris,
+27 F.3d 1097 (5th Cir. 1994) ...............................................................................................5
+National Cable & Telecomm. Ass’n v. Brand X Internet Servs.,
+545 U.S. 967 (2005)...........................................................................................................13
+Regents of the Univ. of Cal. v. Credit Suisse First Boston (USA), Inc.,
+482 F.3d 372 (5th Cir. 2007) .............................................................................................19
+
+ii
+
+Scheuer v. Rhodes,
+416 U.S. 232 (1974).............................................................................................................4
+SEC v. Brady,
+Civil Action No. 3:05-CV-1416-D, 2006 WL 1310320 (N.D. Tex. May 12, 2006) ...........5
+SEC v. Dorozhko,
+No. 07 Civ. 9606(NRB), 2008 WL 126612 (S.D.N.Y. Jan. 8, 2008)................................17
+SEC v. Kirch,
+263 F. Supp. 2d 1144 (N.D. Ill. 2003) ...........................................................................9, 18
+SEC v. Kornman,
+391 F. Supp. 2d 477 (N.D. Tex. 2005) ...................................................................... passim
+SEC v. Lenfest,
+949 F. Supp. 341 (E.D. Pa. 1996) ......................................................................................20
+SEC v. Lyon,
+529 F. Supp. 2d 444 (S.D.N.Y. 2008).......................................................................... 17-18
+SEC v. Mayhew,
+916 F. Supp. 123 (D. Conn. 1995).....................................................................................22
+SEC v. Monarch Funding Corp.,
+192 F.3d 295 (2d Cir. 1999).................................................................................................1
+SEC v. Nothern,
+Civil Action No. 05-10983 (NMG), --- F. Supp. 2d ---, 2009 WL 467535
+(D. Mass. Feb. 20, 2009)................................................................................................8, 17
+SEC v. Sargent,
+229 F.3d 68 (1st Cir. 2000).......................................................................................... 16-17
+SEC v. Talbot,
+430 F. Supp. 2d 1029 (C.D. Cal. 2006), rev’d, 530 F.3d 1085 (9th Cir. 2008)......... passim
+SEC v. Yun,
+327 F.3d 1263 (11th Cir. 2003) .........................................................................................16
+SEC v. Zandford,
+535 U.S. 813 (2002)...........................................................................................................12
+Southwest Realty, Ltd. v. Daseke,
+No. CA3-89-3055-D, 1992 WL 373166 (N.D. Tex. May 21, 1992) .................................23
+
+iii
+
+SR Int’l Bus. Ins. Co. Ltd. v. Energy Future Holdings Corp.,
+539 F. Supp. 2d 871 (N.D. Tex. 2008) ................................................................................4
+Steiner v. Southmark Corp.,
+734 F. Supp. 269 (N.D. Tex. 1990) .....................................................................................5
+United States v. Cassese,
+273 F. Supp. 2d 481 (S.D.N.Y. 2003).......................................................................... 19-20
+United States v. Chestman,
+947 F.2d 551 (2d Cir. 1991) (en banc), cert. denied, 503 U.S. 1004 (1992) ............. passim
+United States v. Falcone,
+257 F.3d 226 (2d Cir. 2001)....................................................................................... passim
+United States v. Kim,
+184 F. Supp. 2d 1006 (N.D. Cal. 2002) ................................................................... 9-10, 18
+United States v. O’Hagan,
+521 U.S. 642 (1997)................................................................................................... passim
+United States v. Reed,
+601 F. Supp. 685 (S.D.N.Y.),
+rev’d on other grounds, 773 F.2d 477 (2d Cir. 1985) ..................................................12, 15
+Verizon Employee Benefits Comm. v. Fitzgerald,
+Civil Action No. 3:06-CV-0482-D, 2007 WL 2080004 (N.D. Tex. July 12, 2007)............4
+Walton v. Morgan Stanley & Co.,
+623 F.2d 796 (2d Cir. 1980)...............................................................................................22
+Zagami v. Natural Health Trends Corp.,
+540 F. Supp. 2d 705 (N.D. Tex. 2008) ............................................................................ 4-5
+FEDERAL STATUTES AND REGULATORY MATERIALS
+15 U.S.C. § 77q(a) ...........................................................................................................................1
+15 U.S.C. § 78j(b) ......................................................................................................................1, 11
+17 C.F.R. § 240.10b5-2....................................................................................................................6
+17 C.F.R. § 240.10b5-2(a) ...............................................................................................................6
+17 C.F.R. § 240.10b5-2(b)(1) ..........................................................................................................7
+17 C.F.R. § 243.100(b)(2)................................................................................................................7
+Adopting Release, Selective Disclosure and Insider Trading,
+Exchange Act Release No. 34-43154, 65 Fed. Reg. 51716 (Aug. 15, 2000) ................7, 12
+
+iv
+
+Proposing Release, Selective Disclosure and Insider Trading,
+Exchange Act Release No. 34-42259, 64 Fed. Reg. 72590 (Dec. 20, 1999).................7, 12
+MISCELLANEOUS
+Barbara Balder Aldave, Misappropriation: A General Theory of Liability
+for Trading on Nonpublic Information, 13 Hofstra L. Rev. 101 (1984)...................... 15-16
+John C. Coffee, Insider Trading: Expansion and Contraction,
+N.Y.L.J., Jan. 19, 2006, at 5.................................................................................................7
+Ralph C. Ferrara, et al., Ferrara on Insider Trading
+and The Wall § 2.02[6] (2008) ....................................................................................16, 24
+Dallas Morning News, Feb. 3, 2009, at 1D ...................................................................................16
+William K.S. Wang & Mark I. Steinberg,
+Insider Trading § 5:4.2 (2d ed. 2005 & 2008 Supp.).........................................................24
+
+v
+
+PLAINTIFF SECURITIES AND EXCHANGE COMMMISSION’S MEMORADUM OF
+LAW IN OPPOSITION TO DEFENDANT MARK CUBAN’S MOTION TO DISMISS
+INTRODUCTION
+This case involves the application of well-settled insider trading principles to
+straightforward allegations of fraud. As alleged in the Complaint, Mamma.com Inc.
+(“Mamma.com”) contacted defendant Mark Cuban, the company’s then-largest known
+shareholder, to ask — confidentially — if he wished to participate in a private offering. Cuban
+agreed to keep the offering information confidential. In reliance on Cuban’s acceptance of a
+duty of confidentiality, the company conveyed material, nonpublic offering information to the
+defendant. Upset and angry that Mamma.com was conducting the offering, Cuban breached his
+agreement of confidentiality and promptly sold his entire 600,000 share Mamma.com position
+before the offering was publicly announced. In so doing, defendant fraudulently avoided losses
+in excess of $750,000 when Mamma.com’s stock price declined after the public announcement.
+Cuban’s trading in Mamma.com took advantage of precisely the type of informational advantage
+stemming from contrivance, as opposed to research or skill, with which the Supreme Court was
+concerned when it adopted the misappropriation theory of insider trading under Section 10(b) of
+the Securities Exchange Act of 1934, 15 U.S.C. § 78j(b), in United States v. O’Hagan, 521 U.S.
+642, 658-59 (1997).1
+Cuban mischaracterizes this case as a “test case” attempting to “impermissibly expand
+the scope” of misappropriation law. Yet, the reality is that Cuban’s agreement to keep the
+offering information confidential and his immediate and bold breach of that agreement is a
+1
+
+The Complaint also charges Cuban with violating Section 17(a) of the Securities Act of 1933, 15 U.S.C. §
+77q(a), by the same conduct. Section 17(a) of the Securities Act applies to fraud in the offer or sale of a security.
+The facts that support a showing of a Section 10(b) and Rule 10b-5 violation will also support a showing of a
+Section 17(a) violation. See SEC v. Monarch Funding Corp., 192 F.3d 295, 308 (2d Cir. 1999) (the standard for a
+Section 17(a)(1) violation is “essentially the same” as the standard for a violation of Section 10(b) and Rule 10b-5).
+
+1
+
+textbook example of unlawful misappropriation. This case involves no new theory of liability or
+expansion of existing law; the Court need only apply black letter law and an unambiguous rule
+consistent with that law. Indeed, defendant’s motion — by inappropriately focusing primarily on
+irrelevant state law fiduciary principles, choice of law, and agency rule promulgation —
+essentially concedes the impossibility of his task under well-settled misappropriation law.
+As demonstrated conclusively herein, under that well-settled law and a clear Commission
+rule, a confidentiality agreement establishes a duty under the misappropriation theory.
+FACTS ALLEGED IN THE COMPLAINT
+In March 2004, Cuban purchased 600,000 shares of Mamma.com, a 6.3% stake in the
+company. Compl. ¶ 10.2 In Spring 2004, Mamma.com, at the suggestion of investment bank
+Merriman Curhan Ford & Co. (“Merriman”), decided to raise capital through a private placement
+know as a PIPE (“private investment in public equity”). Compl. ¶ 11. Mamma.com engaged
+Merriman to serve as the placement agent for the offering. Id.
+At the end of June 2004 and as the PIPE progressed toward closing, Mamma.com
+decided to invite defendant Cuban to participate in the PIPE. Compl. ¶ 12. On June 28, 2004,
+Mamma.com’s CEO spoke with Cuban by telephone for eight minutes and thirty-five seconds.
+Compl. ¶ 13. The CEO prefaced the call by informing defendant Cuban that he had confidential
+information to convey to him. Compl. ¶ 14. Cuban agreed that he would keep whatever
+information the CEO intended to share with him confidential. Id. In reliance on Cuban’s
+agreement, the CEO informed defendant about the PIPE offering. Id. Defendant Cuban became
+upset and angry during the conversation saying, among other things, that he disliked PIPEs
+
+2
+
+Defendant Cuban has filed a motion requesting judicial notice of certain publicly filed documents that may
+be related to this case. The Commission does not object to Cuban’s motion, but notes that the documents primarily
+raise factual issues that are inappropriate at this stage of the proceedings and add nothing in support of Cuban’s
+motion to dismiss.
+
+2
+
+because they dilute stock value for existing shareholders. Id. At the end of the conversation,
+Cuban told the CEO, “Well, now I’m screwed. I can’t sell.” Id.
+Shortly thereafter, Mamma.com’s executive chairman sent an email to other
+Mamma.com board members updating them on PIPE-related items, including the CEO’s
+conversation with Cuban, and stating that “[a]s anticipated [defendant] initially ‘flew off the
+handle’ and said he would sell his shares (recognizing that he was not able to do anything until
+we announce the equity) but then asked to see the terms and conditions . . . .” Compl. ¶ 15.
+Later that same day, in reliance on Cuban’s acceptance of a duty of confidentiality and
+acknowledgment that he could not sell his shares until after the public announcement, the CEO
+sent defendant a follow-up email stating “[i]f you want more details about the private placement
+please contact . . . [Merriman]” and provided the telephone number of the Merriman sales
+representative. Compl. ¶ 16. Cuban called the Merriman sales representative that afternoon and
+spoke with him for eight minutes about the PIPE. Compl. ¶ 17. During that call, the salesman
+provided additional confidential details about the PIPE, and, in response to defendant’s
+questions, told him that the PIPE was being sold at a discount to the market price and offered
+other incentives for the PIPE investors. Id.
+One minute after hanging up with the sales representative, Cuban called his broker and
+told him to liquidate his entire 600,000 share position in Mamma.com. Compl. ¶ 18.
+On June 29, 2004, Mamma.com’s executive chairman wrote an email to the board that
+said “we did speak to Mark Cuban ([the CEO] and, subsequently, our investment banker) to find
+out if he had any interest in participating to the extent of maintaining his interest. His answers
+were: he would not invest, he does not want the company to make acquisitions, he will sell his
+shares which he can not do until after we announce.” Compl. ¶ 20.
+
+3
+
+At 6:00 p.m. on June 29, after the markets had closed, Mamma.com publicly announced
+the PIPE offering. Compl. ¶ 22. Defendant Cuban avoided losses in excess of $750,000 by
+selling his Mamma.com shares prior to the public announcement. Compl. ¶ 24. Cuban never
+disclosed to Mamma.com that he was going to sell his shares prior to the public announcement
+of the PIPE, but later publicly stated that he had sold his shares because the company was
+conducting a PIPE. Compl. ¶ 25.3
+ARGUMENT
+I.
+
+STANDARD OF REVIEW
+When “reviewing the sufficiency of a complaint in response to a motion to dismiss for
+
+failure to state a claim under Fed. R. Civ. P. 12(b)(6), . . . the district court’s task is limited.” In
+re Enron Corp. Sec., Derivative & ERISA Litig., 235 F. Supp. 2d 549, 563 n.3 (S.D. Tex. 2002)
+(citing Scheuer v. Rhodes, 416 U.S. 232, 236 (1974)). Motions to dismiss are viewed with
+disfavor and rarely granted. See Lowrey v. Tex. A&M Univ. Sys., 117 F.3d 242, 247 (5th Cir.
+1997); SR Int’l Bus. Ins. Co. Ltd. v. Energy Future Holdings Corp., 539 F. Supp. 2d 871, 874-75
+(N.D. Tex. 2008) (citation omitted). “The issue is not whether a plaintiff will ultimately prevail
+on the merits but whether he is entitled to offer evidence to support his claims.” Doe v.
+Hillsboro Indep. Sch. Dist., 81 F.3d 1395, 1401 (5th Cir. 1996); see also Verizon Employee
+Benefits Comm. v. Fitzgerald, Civil Action No. 3:06-CV-0482-D, 2007 WL 2080004, at *2
+(N.D. Tex. July 12, 2007). Accordingly, dismissal is inappropriate unless a complaint, construed
+with all well-pleaded facts viewed in the light most favorable to the plaintiff, see In re Katrina
+Canal Breaches Litig., 495 F.3d 191, 205 (5th Cir. 2007); Zagami v. Natural Health Trends
+3
+
+Cuban suggests that disclosure of his sales and the reasons for them — after the PIPE had been publicly
+announced — somehow diminishes his breach of his duty of confidentiality to Mamma.com. See Cuban’s
+Memorandum in Support (“Memo.”) at 4-5. As an initial matter, this kind of factual argument is inappropriate in a
+motion to dismiss. In addition, Cuban failed to disclose that he had breached a confidentiality agreement, and,
+thereby, avoided losses in excess of $750,000.
+
+4
+
+Corp., 540 F. Supp. 2d 705, 709 (N.D. Tex. 2008), fails “to state a claim to relief that is plausible
+on its face.” Bell Atl. Corp. v. Twombly, 550 U.S. 544, 570 (2007).
+Rule 9(b) requires allegations of fraud to be pleaded with particularity, but “is not
+intended . . . ‘to procure punctilious pleading detail.’” SEC v. Brady, Civil Action No. 3:05-CV1416-D, 2006 WL 1310320, at *3 (N.D. Tex. May 12, 2006) (quoting Steiner v. Southmark
+Corp., 734 F. Supp. 269, 273 (N.D. Tex. 1990)). Rather, Rule 9(b), “read in conjunction with
+Rule 8, which requires only a short and plain statement of the claim showing that the pleader is
+entitled to relief,” Brady, 2006 WL 1310320, at *3 (internal citations and quotations omitted),
+merely requires a plaintiff to plead facts “analogous to the first paragraph of a newspaper story,
+‘namely the who, what, when, where, and how.’” Id. (quoting Melder v. Morris, 27 F.3d 1097,
+1100 n.5 (5th cir. 1994)).
+The Complaint, containing specific allegations of an agreement of confidentiality, breach
+of that agreement, and losses avoided in securities transactions by that breach, easily meets the
+standard to survive a motion to dismiss.
+II.
+
+AN AGREEMENT ESTABLISHES A DUTY
+Defendant’s argument that a confidentiality agreement is insufficient to establish a duty
+
+in a misappropriation insider trading case fundamentally misconstrues black letter law. Under
+both an express Commission rule and long-established case law, an agreement to keep
+information confidential establishes a duty. If that were not the case, business partners would be
+free to surreptitiously violate their written and oral promises of confidentiality and flagrantly
+defraud their transaction partners through the purchase or sale of securities for their personal
+benefit, sowing distrust in the financial markets and in the business community.
+
+5
+
+A.
+
+Under Rule 10b5-2, an Agreement Establishes a Duty
+
+Cuban argues that Exchange Act Rule 10b5-2 (titled “Duties of Trust or Confidence in
+Misappropriation Insider Trading Cases”) does not apply to business relationships or, if it does
+apply to business relationships, it is invalid. Because the plain language of the rule contains no
+limitations and because the Commission was within its authority to promulgate the rule — and
+thus is entitled to Chevron deference — the Court should reject defendant’s arguments.
+1.
+
+Rule 10b5-2 Applies to Both Business and Non-Business Relationships
+
+In arguing that Rule 10b5-2 does not apply to business relationships, Cuban (i) disregards
+the plain language of the rule, and (ii) glosses over a case from this district that is directly on
+point, SEC v. Kornman, 391 F. Supp. 2d 477 (N.D. Tex. 2005) (Lindsay, J.), which specifically
+applied Rule 10b5-2 in a business context.
+Rule 10b5-2, which took effect on October 23, 2000, provides that a duty of trust or
+confidence for purposes of the misappropriation theory exists in certain delineated but “nonexclusive” circumstances. 17 C.F.R. § 240.10b5-2 (Preliminary Note).4 The rule applies to “any
+violation” of Section 10(b). Id. § 240.10b5-2(a).5
+
+4
+
+The rule’s Preliminary Note states: “This section provides a non-exclusive definition of the circumstances
+in which a person has a duty of trust or confidence for purposes of the ‘misappropriation’ theory of insider trading
+under Section 10(b) of the [Securities Exchange] Act [of 1934] and Rule 10b-5 [thereunder]. The law of insider
+trading is otherwise defined by judicial opinions construing Rule 10b-5, and Rule 10b5-2 does not modify the scope
+of insider trading law in any other respect.” The full text of the rule states:
+(a) Scope of Rule. This section shall apply to any violation of Section 10(b) of the [Securities Exchange] Act
+[of 1934] (15 U.S.C. 78j(b)) and Rule 10b-5 thereunder that is based on the purchase or sale of securities on the
+basis of, or the communication of, material nonpublic information misappropriated in breach of a duty of trust
+or confidence.
+(b) Enumerated “duties of trust or confidence.” For purposes of this rule, a “duty of trust or confidence”
+exists in the following circumstances, among others:
+(1) Whenever a person agrees to maintain information in confidence;
+(2) Whenever the person communicating the material nonpublic information and the person to whom it is
+communicated have a history, pattern, or practice of sharing confidences, such that the recipient of the
+
+6
+
+The plain language of subsection (b)(1) of the rule states that a duty of trust or confidence
+exists, among other circumstances, “[w]henever a person agrees to maintain information in
+confidence . . . .” Id. § 240.10b5-2(b)(1) (emphasis added). Unlike other subsections of the rule
+that are expressly confined to the family context, subsection (b)(1) contains no limitations or
+qualifications.6 The Court should decline Cuban’s improper invitation to re-write the rule, which
+securities law experts agree applies to the facts alleged in the Complaint. See, e.g., John C.
+Coffee, Insider Trading: Expansion and Contraction, N.Y.L.J., Jan. 19, 2006, at 5 (“[I]f the
+investor executed a confidentiality agreement specifying that it would not trade in the stock prior
+to the public announcement of the PIPE transaction, then Rule 10b5-2 should apply, and liability
+could arise.”).7
+
+information knows or reasonably should know that the person communicating the material nonpublic
+information expects that the recipient will maintain its confidentiality; or
+(3) Whenever a person receives or obtains material nonpublic information from his or her spouse, parent,
+child, or sibling; provided, however, that the person receiving or obtaining the information may
+demonstrate that no duty of trust or confidence existed with respect to the information, by establishing
+that he or she neither knew nor reasonably should have known that the person who was the source of
+the information expected that the person would keep the information confidential, because of the
+parties’ history, pattern, or practice of sharing and maintaining confidences, and because there was no
+agreement or understanding to maintain the confidentiality of the information.
+5
+
+Cuban’s argument flatly contradicts Rule 10b5-2(a), titled “Scope of Rule,” which states that the rule
+applies “to any violation of Section 10(b)” and Rule 10b-5 under the misappropriation theory (emphasis added).
+Because the rule’s text is plain and unambiguous, the Court need not inquire into the rulemaking releases. Cf. In re
+Abbott Labs., 51 F.3d 524, 528 (5th Cir. 1995) (courts do not look to legislative history where language of statute is
+clear and unambiguous). Rule 10b5-2’s applicability to all misappropriation cases requires denial of Cuban’s
+motion.
+6
+
+Defendant quotes selectively from Commission releases, see Memo. at 21, but ignores that the Commission
+explicitly contemplated that Rule 10b5-2(b)(1) would apply to business contexts. See Proposing Release, Selective
+Disclosure and Insider Trading, Exchange Act Release No. 34-42259, 64 Fed. Reg. 72590, 72603 (Dec. 20, 1999)
+(“Although sometimes, most commonly in a business context, the parties will sign an express, written
+confidentiality agreement, the Rule does not require either a written or express confidentiality agreement.”
+(emphasis added)).
+7
+
+Regulation FD (Fair Disclosure), adopted as part of the same final rule as Rule 10b5-2, further confirms
+that the rule makes no distinction between business and non-business relationships. See Adopting Release, Selective
+Disclosure and Insider Trading, Exchange Act Release No. 34-43154, 65 Fed. Reg. 51716 (Aug. 15, 2000)
+(“Adopting Release”). Regulation FD recognizes that issuers may disclose material, nonpublic information to
+outsiders for legitimate business purposes only if those outsiders are subject to confidentiality agreements. See 17
+
+7
+
+In an opinion issued last week denying a defendant’s motion for summary judgment, a
+court rejected as “untenable” and contrary to “persuasive caselaw” the very arguments that
+Cuban is attempting here: that a violation of an agreement — in that case, an agreement to
+comply with an embargo on use of confidential news until the official release time — cannot
+constitute misappropriation and that Rule 10b5-2(b) impermissibly expanded the scope of
+Section 10(b) and does not apply to business relationships. See SEC v. Nothern, Civil Action
+No. 05-10983 (NMG), --- F. Supp. 2d ---, 2009 WL 467535 (D. Mass. Feb. 20, 2009). Citing
+this district’s decision in Kornman, 391 F. Supp. 2d at 489-90, the court noted that, as to Rule
+10b5-2, the defendant’s “novel” argument that an agreement cannot establish a duty and that the
+Commission lacked the authority to promulgate the rule “contradict[s] persuasive caselaw
+holding that Rule 10b5-2(b) properly defines those circumstances under which misappropriation
+liability can arise . . . [and] [t]hus . . . is untenable.” Nothern, 2009 WL 467535, at *6. The court
+also noted that “[n]either the SEC release describing the then-proposed Rule 10b5-2 nor the text
+of the Rule itself indicates . . . that its scope is limited to only non-business relationships.” Id.
+Cuban cites inapposite cases from other jurisdictions to support his argument that Rule
+10b5-2(b)(1) does not apply in a business context while virtually ignoring a case from this
+district that is directly on point. Despite its obvious relevance, Defendant relegates Kornman to
+a “cf.” citation. In Kornman, a case involving conduct that occurred, as here, in the course of a
+business relationship, Judge Lindsay held that the Commission adequately stated a claim within
+Rule 10b5-2(b)(1). See 391 F. Supp. 2d at 489-90. The Commission alleged that a tax and
+estate planning adviser misappropriated confidential information obtained from two executives
+who were considering retaining him. Judge Lindsay rejected the defendant’s argument that Rule
+C.F.R. § 243.100(b)(2). The Adopting Release expressly recognizes that “misuse of the information for trading [by
+a person who agreed to keep the information confidential] would . . . be covered under . . . the misappropriation
+theory of insider trading.” Adopting Release at 51720 (emphasis added).
+
+8
+
+10b5-2(b)(1) did not apply to business relationships and denied the adviser’s motion to dismiss.
+Id. at 490 (holding that “[t]he complaint adequately alleges that [the adviser] agreed to safeguard
+the confidential information he obtained from the executives” and that the allegations “bring this
+case within Rule 10b5-2(b)(1)”) (emphasis added).8 Accordingly, the established law in this
+district is that Rule 10b5-2(b)(1) applies in the context of business relationships, and, under the
+rule, Cuban’s agreement to keep the offering information confidential established a duty in the
+context of a business relationship.
+United States v. Kim, 184 F. Supp. 2d 1006 (N.D. Cal. 2002), and SEC v. Talbot, 430 F.
+Supp. 2d 1029 (C.D. Cal. 2006), rev’d, 530 F.3d 1085 (9th Cir. 2008), the cases Cuban cites in
+arguing that Rule 10b5-2 does not apply to business relationships, are not useful authority. Kim
+did not concern the applicability of the rule in the context of a business relationship, and Talbot
+was overturned by the Ninth Circuit.
+It is unclear why defendant cites Kim, a case involving a social relationship, to support
+his argument concerning the application of Rule 10b5-2 to business relationships. In Kim, a
+criminal case involving conduct that pre-dated the adoption of the rule, the court concluded that a
+generic confidentiality agreement signed by members of a social club, where there was no need
+for the club members to exchange material, nonpublic information, was insufficient to establish a
+duty. See 184 F. Supp. 2d at 1015.9 However, the court explicitly stated that, had Rule 10b5-2
+
+8
+
+In finding a sufficiently stated cause of action under Rule 10b5-2, Judge Lindsay quoted and cited with
+approval the holdings in United States v. Falcone, 257 F.3d 226 (2d Cir. 2001), and SEC v. Kirch, 263 F. Supp. 2d
+1144 (N.D. Ill. 2003), discussed infra at 16, 18, thus confirming that Rule 10b5-2 and case law duty analysis are
+consistent.
+
+9
+
+The communications between Cuban and the company CEO concerning the offering were not in the
+context of being social acquaintances or fellow members of a social club. Cuban owned 6.3% of the company.
+Compl. ¶ 10. The CEO of the company was Cuban’s primary point of contact at the company. Id. The CEO
+contacted Cuban and, after he agreed to keep it confidential, provided Cuban with the information about the offering
+for the legitimate business purpose of soliciting him to participate in the offering. Compl. ¶ 12.
+
+9
+
+been in effect at the time of the defendant’s conduct, the rule would have applied. Id. at 1014.
+Because Kim does not address the applicability of Rule 10b5-2 to a business relationship, Kim
+provides no support for Cuban.
+In Talbot, the district court granted the defendant’s motion for summary judgment,
+holding in relevant part that he was not liable for insider trading under the misappropriation
+theory because neither he nor the issuer (Fidelity) on whose board of directors he sat owed a duty
+to the “originating source” (LendingTree) of the information. 430 F. Supp. 2d at 1049. The
+court first concluded that Fidelity had not expressly agreed to keep the LendingTree information
+confidential. Id. at 1061.10 Because there was no evidence of an agreement, the court then
+examined whether, under federal law, there was other evidence of a relationship of trust and
+confidence such that a duty might be implied. Id. Though the court, in footnoted dicta and
+without analysis, stated that Rule 10b5-2 did not apply to “purely business relationships,” it
+noted that the result would be unchanged even if the rule did apply because there was no
+evidence that Fidelity had agreed to keep the information confidential. Id. at 1061 n.91.
+The Commission appealed, arguing that the defendant had breached a duty he owed to
+Fidelity. The Ninth Circuit agreed and reversed. Talbot, 530 F.3d at 1092-97. Even though the
+Commission did not appeal the portion of the district court opinion containing the dicta that Rule
+10b5-2 did not apply to business relationships, the Ninth Circuit sua sponte stated that, contrary
+to the district court’s conclusion, “[i]t is unclear from the record before us whether Fidelity and,
+by extension, [the defendant] owed a fiduciary duty arising from a relationship of trust and
+10
+
+The court in Talbot stated that “the SEC can survive summary judgment on the breach of duty element only
+if it has adduced evidence that would permit a reasonable factfinder to conclude that Fidelity either (a) explicitly
+undertook to maintain LendingTree’s acquisition information confidentially, or (b) implicitly accepted such a duty
+because it had a relationship of trust and confidence with LendingTree.” Id. at 1055 (emphasis added). See
+discussion infra, at 20. While the district court erroneously focused on the questions of whether Fidelity owed a
+duty to Lending Tree — and as noted in the text, the Ninth Circuit reversed on this ground — it is notable that even
+the district court recognized that an explicit acceptance of confidentiality would have been sufficient.
+
+10
+
+confidence to LendingTree.” Id. at 1092 n.2. Thus, in sum, the district court’s decision in
+Talbot provides no support for Cuban. The lower court’s footnoted dicta concerning Rule 10b52 is of no precedential value, is inconsistent with Kornman from this district, and contradicts the
+plain language of the rule, which contains no limitations or qualifications.
+2.
+
+Rule 10b5-2 was Properly Promulgated and is Entitled to Deference
+
+The Commission’s promulgation of Rule 10b5-2 through notice-and-comment
+rulemaking was a routine and appropriate exercise of the authority delegated to it by Congress.
+Cuban’s claim to the contrary must fail because it ignores the fundamental — and dispositive —
+principle of administrative deference and relies on his mistaken exposition of insider trading law.
+In the Securities Exchange Act of 1934 establishing the Commission, Congress expressly
+delegated to the Commission the authority to adopt rules and regulations to effectuate the
+antifraud provisions of Section 10(b) of that Act. See 15 U.S.C. § 78j(b). Since then, the
+Commission has exercised its delegated authority to issue “such rules and regulations” as it
+deems “necessary or appropriate in the public interest or for the protection of investors.” Id.
+When the Commission exercises this delegated rulemaking authority, courts “accord[]
+considerable weight to the SEC’s construction of the statute” as expressed in the rule, provided
+that the Commission’s construction is not “arbitrary, capricious or manifestly contrary to
+[Section 10(b)].” In re Enron Corp. Sec., Derivative & ERISA Litig., 235 F. Supp. 2d at 588
+(citing Bragdon v. Abbott, 524 U.S. 624, 642 (1998) (“[T]he well-reasoned views of the agencies
+implementing a statute constitute a body of experience and informed judgment to which courts
+and litigants may properly resort for guidance”)); see also Chevron U.S.A., Inc. v. Natural Res.
+Def. Council, Inc., 467 U.S. 837, 842-45 (1984) (reasonable statutory construction given by
+executive department is given great deference).
+
+11
+
+The Commission, drawing on its “body of experience and informed judgment,” Bragdon,
+524 U.S. at 642 (internal citations and quotations omitted), exercised the authority delegated to it
+by Congress to promulgate Rule 10b5-2(b)(1). On December 20, 1999, the Commission issued a
+release proposing, among other things, the adoption of a rule codifying the “common-sense
+notion, acknowledged in Reed11 and Chestman,12 that reasonable expectations of confidentiality,
+and corresponding duties, can be created by an agreement between two parties.” Proposing
+Release at 72603. Following a period for public comment and Commission consideration of the
+comments received, the Commission promulgated Rule 10b5-2(b)(1) as proposed. See Adopting
+Release at 51730.
+The Commission’s interpretation of Section 10(b) as expressed in Rule 10b5-2(b)(1) —
+i.e., an express confidentiality agreement creates a duty of trust or confidence — is the result of
+an application of the Commission’s expertise and judgment informed by its consideration of
+public comment and insider trading law. Rule 10b5-2(b)(1), the result of the administrative
+exercise of expressly delegated rulemaking powers to interpret Section 10(b), is neither arbitrary,
+capricious, nor contrary to the statute it interprets. Therefore, it is entitled to deference by the
+Court. See SEC v. Zandford, 535 U.S. 813, 819-20 (2002) (Commission’s interpretation of text
+of Section 10(b) is “entitled to deference if it is reasonable”).
+Cuban does not mention — let alone question — that the Commission’s interpretation of
+Rule 10b5-2(b)(1) is entitled to deference under Chevron and its progeny. Instead, Cuban argues
+that the Commission has exceeded its statutorily delegated rulemaking authority by purportedly
+broadly crafting Rule 10b5-2(b)(1) to exceed the scope of conduct that has been judicially
+recognized to be within the ambit of Section 10(b) of the Exchange Act. See Memo. at 22-25.
+11
+
+United States v. Reed, 601 F. Supp. 685, 715 (S.D.N.Y), rev’d on other grounds, 773 F.2d 477 (2d Cir. 1985).
+
+12
+
+United States v. Chestman, 947 F.2d 551, 571 (2d Cir. 1991) (en banc), cert. denied, 503 U.S. 1004 (1992).
+
+12
+
+Cuban’s argument is meritless: Courts have consistently concluded — in the context of
+evaluating violations of Section 10(b) — that a confidentiality agreement creates a duty
+sufficient to give rise to liability under insider trading law.13
+Cuban’s argument that the Commission lacked authority to promulgate Rule 10b52(b)(1) is a thinly-veiled rehashing of his primary argument that “[u]nder the applicable common
+law, a confidentiality agreement alone cannot create an obligation to act loyally to the other party
+. . . .”, or, in short, that his conduct was not fraudulent. See Memo. at 24. As described fully in
+Section II.B., infra, Cuban misstates the applicable law. Indeed, none of the cases defendant
+cites support his erroneous articulation of insider trading law because none of them analyze
+whether a duty exists in the context of an express confidentiality agreement. In each case Cuban
+relies on, the court was required to analyze whether a fiduciary duty existed only because there
+was no confidentiality agreement. As the courts that have considered the question have
+repeatedly held, see Section II.B., infra, if there is a confidentiality agreement, a duty of trust and
+confidence exists. There is no need to engage in a fiduciary duty analysis.
+Rule 10b5-2, when properly accorded deference as an appropriate exercise of the
+Commission’s rulemaking authority, is dispositive of Cuban’s motion. Cuban’s challenge to the
+Commission’s rulemaking authority invites the Court to reject the deference accorded the
+Commission’s interpretation of Rule 10b5-2(b)(1) and the body of case law that has held,
+consistent with the rule, that a duty of trust and confidence arises from a confidentiality
+agreement. The Court should decline to do so. Cuban’s motion offers no grounds for dismissal
+13
+
+Even if it were true that the Commission’s interpretation of the statute and the rule were contrary to the
+courts’ prior interpretation — which it is not — the Court should still defer to the Commission’s interpretation. See
+National Cable & Telecomm. Ass’n v. Brand X Internet Servs., 545 U.S. 967, 982-85 (2005) (holding that, in case
+of ambiguous statute delegated to administrative agency for enforcement, agency’s interpretation is entitled to
+Chevron deference even where courts have previously interpreted statute differently from agency). Here, as
+described in Section II.B., the rule and the case law are entirely consistent, and the Court should defer to the
+Commission’s reasoned interpretation.
+
+13
+
+other than the lack of a duty of trust and confidence. Because the Complaint alleges an
+agreement that, under validly promulgated Rule 10b5-2(b)(1), creates such a duty, defendant’s
+motion should be denied.
+B.
+
+Misappropriation Case Law Developed Under Section 10(b) of the Exchange
+Act Has Established that an Agreement of Confidentiality Creates a Duty
+
+Rule 10b5-2(b)(1) comports with the long line of misappropriation cases — both
+preceding and succeeding the Supreme Court’s express endorsement of misappropriation theory
+under Section 10(b) and Rule 10b-5 in O’Hagan — uniformly holding that a duty can established
+either (i) by an acceptance of a duty of confidentiality or (ii) through the pre-existence of a
+fiduciary relationship (whether express or implied). Because an acceptance of a duty of
+confidentiality typically is easily determined, published cases primarily grapple with the more
+difficult issue of when, in the absence of an acceptance of a duty by agreement, acceptance can
+be implied from the relationship between the information provider and recipient. While this
+more involved analysis is not necessary here — the Complaint alleges that defendant accepted a
+duty of confidentiality — even these more difficult implied-relationship cases make clear that a
+confidentiality agreement establishes a duty.
+The seminal pre-O’Hagan misappropriation case, United States v. Chestman, 947 F.2d
+551 (2d Cir. 1991) (en banc), cert. denied, 503 U.S. 1004 (1992), held that a duty can be
+established either way — by acceptance of a duty or through a fiduciary relationship. In
+Chestman, a wife told her husband about a pending tender offer for her family’s company but —
+unlike here — neither sought nor received her husband’s agreement to keep the information
+confidential. Id. at 555-56, 571. The court observed that fiduciary status could be established
+through either of two black letter law positions: “a pre-existing fiduciary relation or an express
+agreement of confidentiality . . . .’” Id. at 571 (emphasis added). Noting the “absence of
+
+14
+
+evidence of an explicit acceptance by [the husband] of a duty of confidentiality,” the court then
+proceeded to conduct the more difficult analysis: whether, based on factors such as “reliance,
+and de facto control and dominance,” a fiduciary-like relationship sufficient to imply a duty
+existed between the husband and wife. Id. at 568-71. Had the husband explicitly accepted a
+duty of confidentiality, the court would never have analyzed whether a duty could be implied
+from their pre-existing relationship; the agreement would have sufficed. Here, the Complaint
+alleges that Cuban accepted a duty of confidentiality. No further analysis is necessary.14
+Six years after Chestman, the Supreme Court expressly embraced the misappropriation
+theory in O’Hagan, holding that, while “[t]here is no ‘general duty between all participants in
+market transactions to forgo actions based on material, nonpublic information,’” 521 U.S. at 663
+(quoting Dirks v. SEC, 463 U.S. 646, 655 (1983)), a person who gains nonpublic information
+through misappropriation in breach of a duty and trades on that information faces Section 10(b)
+liability. See 521 U.S. at 665-66. As in Chestman, there was no allegation of an express
+confidentiality agreement in O’Hagan. Thus, the Supreme Court and the government were
+required to analyze whether a duty could be implied from a fiduciary relationship. Nonetheless,
+the Court was reluctant to circumscribe the types of situations that might give rise to a duty. In
+fact, it specifically recognized that a contractual — not fiduciary — duty, like the contractual
+duty alleged in the instant case, could create insider trading liability under the misappropriation
+theory. Id. at 663 (quoting Barbara Bader Aldave, Misappropriation: A General Theory of
+Liability for Trading on Nonpublic Information, 13 Hofstra L. Rev. 101, 122 (1984), as stating
+that the misappropriation theory bars “‘trading on the basis of information that the wrongdoer
+14
+
+Prior to Chestman, a district court had likewise noted the sufficiency of a confidentiality agreement to
+create a duty: “[E]ven in the absence of an express agreement, it may properly be determined that a confidential
+relationship existed where the evidence reveals that conclusion to be in accord with the expectations and behavior of
+the parties.” Reed, 601 F. Supp. at 717 (emphasis added).
+
+15
+
+converted to his own use in violation of some fiduciary, contractual, or similar obligation to the
+owner or rightful possessor of the information’”) (emphasis added).15
+Post-O’Hagan, the Second Circuit again recognized that a confidentiality agreement
+alone establishes a duty: “a fiduciary relationship, or its functional equivalent, exists only where
+there is explicit acceptance of a duty of confidentiality or where such acceptance may be implied
+from a similar relationship of trust and confidence between the parties.” United States v.
+Falcone, 257 F.3d 226, 234 (2d Cir. 2001) (emphasis added).
+Unsurprisingly, other courts have also recognized that a confidentiality agreement
+establishes a duty. In SEC v. Yun, 327 F.3d 1263 (11th Cir. 2003), the court held that duty can
+be established either by confidentiality agreement or a pre-existing fiduciary relationship. Id. at
+1273 (holding that the Commission could establish a duty under the misappropriation theory by
+“present[ing] evidence that [the defendant] had agreed in this particular instance to keep the
+information confidential” and stating that “[o]f course, a breach of an agreement to maintain
+business confidences would . . . suffice” to yield insider trading liability) (emphasis added). The
+Yun court noted that its conclusion was “bolstered” by Rule 10b5-2, which became effective
+after the conduct at issue. Id. at 1273 n.23.16
+
+15
+
+A treatise co-authored by Cuban’s counsel likewise recognizes that a confidentiality agreement would
+establish the duty: “[T]he [O’Hagan] Court appeared somewhat reluctant to limit the scope of the duty to
+relationships that may be characterized as strictly ‘fiduciary.’ . . . Presumably, a ‘recognized duty’ would include the
+duties flowing from a fiduciary relationship, but could also include contractual duties and duties arising at common
+law.” Ralph C. Ferrara et al., Ferrara on Insider Trading & The Wall § 2.02[6][e][i], at 2-50 (2008) (emphasis
+added); see also Dallas Morning News, Feb. 3, 2009, at 1D (quoting Professor John C. Coffee as stating: “The
+understanding of the bar has always been that if someone signs a confidentiality agreement and later trades on it,
+they may be breaching a duty and may have committed insider trading.”).
+16
+
+Defendant’s parenthetical concerning SEC v. Sargent, 229 F.3d 68 (1st Cir. 2000), see Memo. at 17, is
+misleading. In Sargent, the court held, in relevant part, that a jury could reasonably find that the defendants
+expected confidential business matters to be held in trust and that the alleged misappropriator therefore owed a
+fiduciary duty to keep material, nonpublic information confidential. See 229 F.3d at 76. Contrary to Cuban’s
+parenthetical, the court did not hold that both a confidentiality agreement and a pre-existing relationship were
+necessary. Rather, the court simply noted that the Commission had presented evidence of both an agreement (“a
+
+16
+
+District courts that have considered this issue — including several very recently and on
+strikingly similar facts and arguments — likewise have concluded that acceptance of a duty of
+confidentiality suffices to establish a misappropriation duty.17 Last week’s Nothern opinion
+expressly rejected the argument that, under common law, a confidentiality agreement cannot give
+rise to a duty for purposes of misappropriation liability. See 2009 WL 467535, at *7-8. The
+Nothern court canvassed the misappropriation caselaw and concluded, as the Commission argues
+here, that a confidentiality agreement establishes the duty. Id.
+Similarly, in SEC v. Lyon, 529 F. Supp. 2d 444 (S.D.N.Y. 2008), the Commission
+alleged that, in three instances, defendants received offering documents containing
+confidentiality language, and in a fourth instance agreed to be bound by the confidentiality
+provision in a purchase agreement. Id. at 451-52. The court denied defendants’ motion to
+dismiss and concluded that the Commission had alleged sufficient facts to state a
+misappropriation claim. Id. at 453.18 In Lyon, the court noted that in discovery the Commission
+might “uncover[] communications showing that defendants explicitly accepted the relevant
+confidentiality conditions . . . .” Id. at 452. Here, the Complaint already alleges what the Lyon
+
+jury could reasonably infer that [the source] relied [on the alleged misappropriator’s promise not to divulge the
+information]”), and of a pre-existing fiduciary relationship. Id.
+17
+
+Cuban’s citation to SEC v. Dorozhko, No. 07 Civ. 9606(NRB), 2008 WL 126612 (S.D.N.Y. Jan. 8, 2008),
+see Memo. at 6-7, 24, is unavailing. In Dorozhko, now on appeal to the Second Circuit, the court held that the
+defendant, who allegedly hacked into a computer network and stole material, nonpublic information on the basis of
+which he traded, was a “true outsider[] who owed no duties of disclosure to either market participants or to the
+source of his information.” 2008 WL 126612, at *14. Not surprisingly, there were no allegations that the defendant
+in Dorozhko, unlike here, accepted a duty of confidentiality as to the hacked information. Under earlier Second
+Circuit authority, the duty of disclosure about which the court in Dorozhko was speaking included an “acceptance of
+a duty of confidentiality.” See Falcone, 257 F.3d at 234. The only alleged fraud in Dorozhko arose from the
+hacker’s acquisition of information through affirmatively deceptive means. No breach of duty is required when the
+defendant engages in affirmatively deceptive conduct, such as lying, acting deceptively, or telling half-truths.
+18
+
+The Lyon defendants (represented by Cuban’s current counsel) argued in their motion to dismiss that, “with
+respect to the relevant PIPE transactions, the SEC has not alleged facts showing that [defendants] either consented to
+be bound by a duty of confidentiality or entered into a ‘relationship of trust and confidence’ that would imply such a
+duty.” Id. at 451 (emphasis added).
+
+17
+
+court held would establish the duty if learned during discovery — that Cuban accepted the
+relevant confidentiality conditions during his conversation with Mamma.com’s CEO. Compl. ¶
+14. Nothing more is required.
+In SEC v. Kirch, 263 F. Supp. 2d 1144 (N.D. Ill. 2003), the CEO of a computer software
+company belonged to a business organization called the CEO Roundtable, a group whose
+“fundamental purpose” was “business-oriented” and that had an express policy that matters
+discussed by the group be kept confidential. Id. at 1147. During one of the group’s meetings, a
+member gave a presentation — with, as in the instant case, the preface that the information he
+was about to share was confidential — disclosing that his company would not meet its earnings
+estimates. Id. at 1147-48. Approximately ninety minutes after the presentation, the defendant
+sold his shares in that company to avoid potential losses. Id. at 1148. The court granted the
+Commission’s motion for summary judgment, holding that the defendant, because he attended
+the meeting in which he was told that the information was confidential and because the group
+had a confidentiality policy, had unlawfully misappropriated the presenting CEO’s material,
+nonpublic information. Id. at 1149-51 (holding “that the ‘duty of loyalty and confidentiality’
+owed by [the defendant] to the [presenting CEO] who shared confidential information with him .
+. . is not limited to fiduciary relationships . . . .”).19
+In an effort to distinguish the instant case from the well-settled law, Cuban
+
+19
+
+Kirch can be read as a contrast to Kim, 184 F. Supp. 2d at 1008, discussed supra, at 9-10. While trading on
+gratuitously conveyed confidential information in violation of a social club’s generic “Confidentiality Commitment”
+was held to be insufficient to create criminal liability in Kim, 184 F. Supp. 2d at 1012-15, Kirch held that civil
+liability could be created by trading in violation of an express confidentiality policy when information was conveyed
+in a fundamentally “business-oriented” setting. 263 F. Supp. 2d at 1147, 1149-51. The allegations in the instant
+case go well beyond those in Kim, indeed, beyond those in Kirch, and are sufficient to plead the existence of a duty.
+Unlike in Kim, the Complaint here alleges that Cuban explicitly agreed to keep the PIPE information — the very
+information that predicated his trading and information that Mamma.com needed to convey to him to solicit his
+participation in the offering — confidential. Compl. ¶ 14. Moreover, as discussed supra, the court in Kim
+acknowledged that had Rule 10b5-2 been effective at the time of the relevant conduct, “the first [prong re:
+agreement] . . . would apply to defendant’s conduct.” 184 F. Supp. 2d at 1014.
+
+18
+
+inappropriately cites to several cases. Cuban’s reliance on Chiarella v. United States, 445 U.S.
+222 (1980), see Memo. at 5-6, 22-23, is misplaced. While Chiarella was brought under the
+classical theory of insider trading, not the misappropriation theory, the holding in Chiarella —
+that there is no fraud absent a “duty to speak” — is nonetheless entirely satisfied by the
+Commission’s Complaint in the present case. Cuban’s agreement of confidentiality established a
+duty of trust and confidence, with the resulting duty to abstain from trading unless he first made
+a disclosure to the source of the information.20
+Defendant also obscures black letter law by citing United States v. Cassese, 273 F. Supp.
+2d 481 (S.D.N.Y. 2003) as support for his assertion that “a single phone call can[not] create the
+necessary pre-existing fiduciary relationship.” Memo. at 18-19. First, as discussed above,
+Cuban fundamentally misstates the law: A fiduciary relationship, while sufficient, is not
+necessary to establish a duty. See, e.g., Falcone, 257 F.3d at 234. Second, defendant
+mischaracterizes Cassese. In Cassese, a potential acquirer sent an acquisition target and its CEO,
+Cassese, a confidentiality agreement in connection with merger negotiations, but no one at the
+target, including Cassese, signed it. See 273 F. Supp. 2d at 483. The court first determined that
+there was no agreement creating a duty, and then analyzed whether there was a relationship
+sufficient to imply a duty. Id. at 485-87 (quotations omitted). The court concluded that Cassese
+and his counterpart at the potential acquirer did not have a “history, pattern, or practice of
+sharing confidences” because they “took part in only a single telephone conversation.” Id. at 487
+(citing Rule 10b5-2(b)(2)). The court did not, as defendant argues, reject the notion that a
+20
+
+Cuban also cites Regents of the Univ. of Cal. v. Credit Suisse First Boston (USA), Inc., 482 F. 3d 372, 389
+(5th Cir. 2007), for the proposition that “deception” must involve a breach of a duty of disclosure. See Memo. at 8.
+Consistent with Regents, a duty of disclosure was an essential part of Cuban’s duty of trust and confidence. See
+CompuDyne Corp. v. Shane, 453 F. Supp. 2d 807, 819 (S.D.N.Y. 2006) (citing O’Hagan, denying motion to dismiss
+as to misrepresentation claim based on defendant’s agreement to keep PIPE information confidential, and noting that
+“[i]t is antithetical to the concept of keeping information private…that the information be used by the person
+receiving [it] for their own personal benefit without obtaining the express approval to so use it”). As alleged in the
+Complaint, Cuban violated that duty.
+
+19
+
+telephone call could create a duty; rather, it held that where, unlike here, a defendant does not
+accept a duty, one phone call does not create a “history, pattern, or practice of sharing
+confidences” such that acceptance of the duty may be implied. Id.
+Defendant similarly tries — unsuccessfully — to read Talbot as support for his argument.
+See Memo. at 16. In Talbot, the court again conducted a two-prong analysis, concluding that
+“the SEC can survive summary judgment on the breach of duty element only if . . . a reasonable
+factfinder [could] conclude that [an information recipient] either (a) explicitly undertook to
+maintain [an information provider’s] acquisition information confidentially, or (b) implicitly
+accepted such a duty because it had a relationship of trust and confidence with [the information
+provider].” 430 F. Supp. 2d at 1054-55 (emphasis added). The court held that “[t]he existence
+of an express confidentiality agreement covering the information at issue [would be] persuasive
+evidence that the parties had a relationship of trust and confidence.” Id. at 1055 (citations
+omitted). Thus, Talbot offers no support for Cuban’s argument that a confidentiality agreement
+alone cannot create a duty for purposes of an insider trading claim.21
+III.
+
+THE COMMISSION HAS MORE THAN SUFFICIENTLY ALLEGED AN
+AGREEMENT OF CONFIDENTIALITY THAT WAS VIOLATED
+As alleged in the Complaint, Mamma.com’s CEO contacted Cuban and, after Cuban
+
+agreed to keep the information confidential, informed him about the offering for the legitimate
+business purpose of soliciting Cuban to participate. At the end of their telephone call, Cuban
+
+21
+
+At the end of his brief, Cuban attempts to spin an argument based on a purported difference between a duty
+of “trust and confidence” and a duty of “trust or confidence.” See Memo. at 24-25. Courts, however, have used
+both formulations to discuss the duty. See, e.g., SEC v. Lenfest, 949 F. Supp. 341, 344 (E.D. Pa. 1996) (noting that
+“the use of the information need not arise from a breach of fiduciary duty, only a relationship of trust or confidence
+is necessary”) (emphasis added). Some courts have just referred to a “duty of confidentiality.” See, e.g., Falcone,
+257 F.3d at 234 (“acceptance of a duty of confidentiality”). Cuban’s attempt to elevate a connector into the
+difference between lawful and unlawful insider trading should be disregarded since the claimed distinction is not
+meaningful here. Cuban’s trading after promising to keep that information confidential, and after returning for a
+second helping of confidential information, violated and was fundamentally antithetical to a “duty of trust or
+confidence” and a “duty of trust and confidence.”
+
+20
+
+told the CEO “Well, now I’m screwed. I can’t sell.” Cuban thus reiterated that he had agreed to
+treat the information as confidential and that he could not trade. Based on Cuban’s agreement to
+treat the information confidentially and not sell until after the public announcement, the company
+was induced to convey even more detailed nonpublic confidential information to Cuban.
+Under the cloak of his agreement of confidentiality and acknowledgement that he could
+not sell, in an act of brazen subterfuge, Cuban used the access provided by the CEO to obtain
+even more material, nonpublic information about the offering from the placement agent. In
+response to Cuban’s questions, the placement agent provided Cuban additional confidential
+details about the offering, including that the offering was being sold at a discount to the market
+price and that it included other incentives for investors. Having actively induced the company to
+provide the additional confidential information by his agreement of confidentiality, and within a
+minute of hanging up the telephone with the placement agent, Cuban called his broker and told
+him to sell his entire 600,000 share position in Mamma.com. Cuban never disclosed to
+Mamma.com that he was going to sell his shares prior to the public announcement of the PIPE.
+Cuban’s alleged actions were out-and-out deception. He agreed to keep the information
+about the offering confidential. Cuban feigned loyalty, while obtaining and secretly converting
+the information for his personal benefit without providing any disclosure to the source of the
+information, thereby defrauding the company that had entrusted him with the confidential
+information. Cuban’s argument that a person can promise confidentiality and then deliberately
+and furtively break that promise by trading on the confidential information is shameless. Cuban
+accepted a duty of trust and confidence to the source of the information and was therefore legally
+obligated to abstain from trading or first disclose his plan to trade.
+
+21
+
+Cuban only once even acknowledges the allegation that he told the CEO “now I’m
+screwed. I can’t sell.” See Memo. at 18 n.12. Cuban argues that the company’s reliance on this
+statement imposed no responsibility or obligation on him.22 To the contrary, the “screwed . . .
+can’t sell” statement by Cuban both reiterated and itself constituted an explicit acceptance of a
+duty of confidentiality, including a prohibition on trading until the offering was publicly
+announced.
+As the Commission has demonstrated, both factually and legally, Cuban’s alleged breach
+of his agreement of confidentiality amply alleges a violation of the established misappropriation
+law and the clear and properly promulgated Rule 10b5-2. This case is straight down the middle
+of established insider trading jurisprudence, equally applicable to all.
+IV.
+
+CUBAN’S ARGUMENT REGARDING APPLICATION OF STATE LAW FAILS
+Because the well-developed case law addressing the misappropriation theory of insider
+
+trading is against him, Cuban devotes half of his brief to knocking down a straw man state law
+fiduciary duty argument. Cuban argues that, in deciding a misappropriation insider trading claim
+under the federal securities laws, courts must look to a specific jurisdiction’s state law — and
+
+22
+
+This argument by Cuban is precisely the type of factual argument that would be inappropriate for the Court
+to consider at this stage of the proceedings. Moreover, Cuban’s argument is exactly backward. Rather than the
+unilateral imposition of a duty by Mamma.com, Cuban’s “screwed . . . can’t sell” statement indicates his
+acknowledgement of a duty of confidentiality.
+The two cases cited by Cuban on this issue provide no support for his argument. Cuban cites Walton v.
+Morgan Stanley & Co., 623 F.2d 796, 799 (2d Cir.1980), for the proposition that an “expectation on part of source
+that party receiving nonpublic information will not trade cannot impose duty of confidentiality.” Memo. at 18 n.12.
+However, the Second Circuit’s decision in Walton hardly provides support for Cuban since the opinion turned on the
+fact that there was neither an allegation of an “agreement or understanding” of confidentiality, nor an allegation that
+the provider of the confidential information was induced to provide the information by deception. 623 F.2d at 799
+& n.5. Cuban also cites SEC v. Mayhew, 916 F. Supp. 123, 130 (D. Conn. 1995), see Memo. at 18 n.12, for the
+proposition that the fact that an insider expected the recipient of information to keep a lunch conversation
+confidential did not give rise to a fiduciary duty. Again, however, in Mayhew, there was neither an agreement of
+confidentiality nor inducement based on deception.
+
+22
+
+only to that state law — to determine whether a defendant has a duty.23 Cuban does not,
+however, cite any misappropriation insider trading cases that have relied exclusively on a
+specific state’s law to evaluate the existence of a duty.
+In fact, courts addressing the misappropriation theory in Commission enforcement cases
+typically do not apply specific state law to determine the existence of a duty.24 Most notably,
+when assessing the existence of a duty in O’Hagan, the Supreme Court did not rely on the state
+law of the specific jurisdiction. In O’Hagan, the Court, referencing federal fraud cases arising in
+other contexts, synthesized strands of jurisprudence to define misappropriators as those who
+“deal in deception” or “dupe[]” by “feigning loyalty to [a] principal while secretly converting the
+principal’s information for personal gain.” 521 U.S. at 653-54. Other federal misappropriation
+cases have similarly declined to rely exclusively on the law of a specific state in evaluating a
+misappropriation insider trading claim. See, e.g., Chestman, 947 F.2d at 568 (“We take our cues
+as to what is required to create the requisite relationship from the securities fraud precedents and
+the common law.”). Instead, various sources of law and legal developments — such as state
+laws generally, historical common law, or statutes and regulations — have informed federal
+court decisions establishing the scope of Section 10(b) and Rule 10b-5.
+The courts’ decision not to limit their analysis to the law of a specific state is for good
+reason: Application of specific state law would Balkanize the misappropriation theory and
+23
+
+This Court’s decision in Southwest Realty, Ltd. v. Daseke, Civ. A. No. CA3-89-3055-D, 1992 WL 373166
+(N.D. Tex. May 21, 1992), is not to the contrary. Southwest Realty was not decided in the context of insider trading
+law and it preceded the Supreme Court decision in O’Hagan and the Commission’s promulgation of Rule 10b5-2.
+The case did not concern an alleged violation of an agreement of confidentiality and deceptive conduct. Most
+importantly, this Court in Southwest Realty did not hold that Texas or other specific state law had to be applied, just
+that a duty to speak had to be established, and on the facts of that case had not been. Southwest Realty, 1992 WL
+373166, at *10 (“The agreement to purchase an interest in a limited partnership, which will in turn purchase
+regulated securities, cannot be said to create a duty to speak.”)
+24
+
+Tellingly, even the amici curiae brief filed by the five law professors enlisted by Cuban did not endorse his
+argument that state fiduciary duty law should apply to determine the existence of a duty under federal insider trading
+law.
+
+23
+
+invariably lead to inconsistent outcomes. Under Cuban’s formulation of insider trading law,
+liability would depend on whether one was located in, for example, Texas or Tennessee or Iowa
+or Idaho. Commentators have recognized the uncertainty and inefficiency that the application of
+state law to the duty question would inject into insider trading law. See, e.g., William K.S.
+Wang & Mark I. Steinberg, Insider Trading § 5:4.2, at 5-181 (2d ed. 2005 & 2008 Supp.)
+(application of state law would result in a “quagmire” of uncertainty); Ferrara et al., Ferrara on
+Insider Trading & The Wall § 2.02[6][e][i][D], at 2-57 (“[applying state law] would inevitably
+lead to different results when the very same conduct occurs in different states”). Cuban’s
+argument that specific state law must be applied is both bad policy and contrary to established
+insider trading law. The Court should reject it.
+As described herein, the scope of a duty of trust and confidence has been set by O’Hagan,
+subsequent federal cases alleging misappropriation insider trading, and the Commission’s
+properly promulgated rule. A duty premised on a confidentiality agreement is squarely within
+the scope of the case law and the rule. In the context of this well-settled case law, Cuban’s
+analysis of fiduciary duties under Texas state law is a red herring that distracts from the simple
+facts alleged in the Complaint and the well-settled case law and a properly promulgated
+Commission rule applicable to those facts. Put simply, the Complaint alleges that Cuban
+promised Mamma.com to keep information confidential and deceived Mamma.com by obtaining
+even more confidential information and then using all the confidential information for his own
+benefit in securities transactions. Viewing these allegations, as particularized in the Complaint,
+in the light most favorable to the Commission and applying established insider trading law and
+Rule 10b5-2(b)(1), the Complaint easily “state[s] a claim to relief that is plausible on its face.”
+Twombly, 550 U.S. at 570. The motion should be denied.
+
+24
+
+V.
+
+AMICI CURIAE REPEAT CUBAN’S MISSTATEMENT OF THE LAW
+Despite the 49 pages of attached credentials, the amici curiae’s three-page brief in
+
+support of Cuban’s motion adds nothing for the Court’s consideration in this case. The brief is
+merely a conclusory reiteration of Cuban’s erroneous central argument that an agreement to
+maintain information in confidence is insufficient to create a duty. The amici cite no new
+authority and offer no new analysis beyond that found in Cuban’s motion. As established herein,
+Cuban and the amici misstate the law when they assert that a confidentiality agreement is
+insufficient to create a duty. The amici’s unsupported parroting of Cuban’s argument, citing no
+treatise, case law, law review article, or other authority beyond that cited in Cuban’s motion,
+only underscores the lack of authority for the inaccurate position they advocate. Because the
+amici simply restate, rather than amplify, expand, or explain, Cuban’s argument, the Court
+should give their brief no weight in deciding Cuban’s motion.
+CONCLUSION
+For the above stated reasons, the Court should deny defendant’s motion to dismiss.
+
+Dated: February 27, 2009
+
+Respectfully submitted,
+
+Toby M. Galloway
+Texas Bar No. 00790733
+Securities and Exchange Commission
+Burnett Plaza, Suite 1900
+801 Cherry Street, Unit 18
+Fort Worth, TX 76102
+(817) 978-6447
+(817) 978-2700 (fax)
+
+s/ Kevin P. O’Rourke
+Kevin P. O’Rourke (D.C. Bar No. 254920)
+Julie M. Riewe (D.C. Bar No. 472470)
+Adam S. Aderton (D.C. Bar No. 496247)
+Securities and Exchange Commission
+100 F Street, N.E.
+Washington, D.C. 20549
+(202) 551-4442 (O’Rourke)
+(202) 772-9246 (fax) (O’Rourke)
+orourkek@sec.gov
+Attorneys for Plaintiff
+Securities and Exchange Commission
+
+25
+
+

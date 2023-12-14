@@ -1,0 +1,807 @@
+Case 1:10-cv-10515-DPW Document 30
+
+Filed 07/15/10 Page 1 of 24
+
+UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF MASSACHUSETTS
+JEFFREY WIENER, derivatively on behalf of
+EATON VANCE MUNICIPALS TRUST,
+Plaintiff,
+v.
+EATON VANCE DISTRIBUTORS, INC.,
+BENJAMIN C. ESTY, ALLEN R. FREEDMAN,
+WILLIAM H. PARK, RONALD A.
+PEARLMAN, HELEN FRAME PETERS,
+HEIDI L. STEIGER, LYNN A. STOUT,
+RALPH F. VERNI, and THOMAS FAUST,
+
+Civil Action No. 10-10515-DPW
+
+Defendants,
+and
+EATON VANCE MUNICIPALS TRUST,
+Nominal Defendant.
+MEMORANDUM OF LAW IN SUPPORT OF DEFENDANTS
+EATON VANCE DISTRIBUTORS, INC.’S AND THOMAS E. FAUST JR.’S
+MOTION TO DISMISS THE AMENDED COMPLAINT
+Ryan M. Tosi (BBO #661080)
+K&L GATES LLP
+State Street Financial Center
+One Lincoln Street
+Boston, MA 02111-2950
+Tel: (617) 261-3100
+Fax: (617) 261-3175
+ryan.tosi@klgates.com
+Charles L. Eisen (admitted pro hac vice)
+Jeffrey B. Maletta (admitted pro hac vice)
+Nicholas G. Terris (pro hac vice application to
+be submitted)
+K&L GATES LLP
+1601 K Street, NW
+Washington, DC 20006-1600
+Tel: (202) 778-9000
+Fax: (202) 778-9100
+charles.eisen@klgates.com
+jeffrey.maletta@klgates.com
+nicholas.terris@klgates.com
+
+BOS-1416118 v2
+
+Case 1:10-cv-10515-DPW Document 30
+
+Filed 07/15/10 Page 2 of 24
+
+TABLE OF CONTENTS
+Page
+PRELIMINARY STATEMENT .....................................................................................................1
+BACKGROUND .............................................................................................................................4
+ARGUMENT .................................................................................................................................7
+I.
+
+The Payments To EVD Under The Distribution Plans Do Not Violate
+The Advisers Act .................................................................................................................7
+
+II.
+
+The Individual Counts Against EVD Fail To State A Claim ............................................10
+
+III.
+
+A.
+
+The Amended Complaint Fails to State a Claim Under ICA § 47(b) .................. 10
+
+B.
+
+The Amended Complaint Fails to State a Claim for “Contract Voiding” .............13
+
+C.
+
+The Amended Complaint Fails to State a Claim for Breach of Contract ..............16
+
+The Claims For Breach Of Fiduciary Duty And Waste Against Mr. Faust
+Should Be Dismissed.........................................................................................................17
+
+CONCLUSION .............................................................................................................................18
+
+i
+
+Case 1:10-cv-10515-DPW Document 30
+
+Filed 07/15/10 Page 3 of 24
+
+TABLE OF AUTHORITIES
+Page
+Federal Cases
+Ashcroft v. Iqbal,
+129 S. Ct. 1937 (2009) ..................................................................................................... 7
+Beddall v. State Street Bank & Trust Co.,
+137 F.3d 12 (1st Cir. 1998)............................................................................................... 5
+Bell Atlantic Corp. v. Twombly,
+550 U.S. 544 (2007) ......................................................................................................... 7
+Brooks v. AIG SunAmerica Life Assur. Co.,
+480 F.3d 579 (1st Cir. 2007)............................................................................................. 16
+Burks v. Lasker,
+441 U.S. 471 (1979) ......................................................................................................... 14
+Central Bank of Denver, N.A. v. First Interstate Bank of Denver, N.A.,
+511 U.S. 164 (1994) ......................................................................................................... 12
+D.R. Wilder Mfg. Co. v. Corn Products Refining Co.,
+236 U.S. 165 (1915) ......................................................................................................... 14
+Erie R. Co. v. Tompkins,
+304 U.S. 64 (1938) ........................................................................................................... 14
+Financial Planning Ass’n v. Securities and Exchange Comm’n,
+482 F.3d 481 (D.C. Cir. 2007)...................................................................................passim
+General Life of Mo. Inv. Co. v. Shamburger,
+546 F.2d 774 (8th Cir. 1976) ............................................................................................ 14
+GFL Advantage Fund, Ltd. v. Colkitt,
+272 F.3d 189 (3d Cir. 2001) ............................................................................................. 13
+Gonzaga Univ. v. Doe,
+536 U.S. 273 (2002) ......................................................................................................... 12
+ING v. Principal Protection Funds Litig.,
+369 F. Supp. 2d 163 (D. Mass. 2005)............................................................................... 13
+Kassover v. UBS Fin. Serv.,
+619 F. Supp. 2d 28 (S.D.N.Y. 2008) ................................................................................ 10
+ii
+
+Case 1:10-cv-10515-DPW Document 30
+
+Filed 07/15/10 Page 4 of 24
+
+Kaufman v. Merrill Lynch, Pierce, Fenner & Smith, Inc.,
+464 F. Supp. 528 (D. Md. 1978)....................................................................................... 10
+Kelly v. Kosuga,
+358 U.S. 516 (1959) ......................................................................................................... 14
+Luzerne County Ret. Bd. v. Makowski,
+627 F. Supp. 2d 506 (M.D. Pa. 2007)............................................................................... 10
+Rothberg v. Rosenbloom,
+808 F.2d 252 (3d Cir. 1986) ............................................................................................. 14
+Smith v. Franklin/Templeton Distr. Inc.,
+2010 WL 2348644 (N.D. Cal. 2010)………………………………………………. passim
+Smith v. Oppenheimer Funds Distr.,
+Civil Action No. 10-CV-00655-JLK-KMT (D. Col.) ...................................................... 1
+Smith v. Oppenheimer Funds Distr.,
+No. 1:10-CV-00654-JLK (D. Col.) .................................................................................. 1
+Stegall v. Ladner,
+394 F. Supp. 2d 358 (D. Mass. 2005).........................................................................11, 17
+In re Stone & Webster, Inc., Securities Litig.,
+253 F. Supp. 2d 102 (D. Mass 2003)................................................................................ 5
+Thomas v. Metropolitan Life Ins. Co.,
+2009 WL 2778663 (W.D. Okla. Aug. 31, 2009) .............................................................. 10
+Yameen v. Eaton Vance Distrib., Inc.,
+394 F. Supp. 2d 350 (D. Mass. 2005)........................................................................passim
+Zerman v. Jacobs,
+510 F. Supp. 132 (S.D.N.Y. 1981) ................................................................................... 13
+State Cases
+City of Lawrence v. Falzarano,
+380 Mass. 18, 402 N.E. 2d 1017 (1980)........................................................................... 15
+LeClair v. Norwell,
+430 Mass. 328, 719 N.E. 2d 464 (1999)........................................................................... 15
+
+iii
+
+Case 1:10-cv-10515-DPW Document 30
+
+Filed 07/15/10 Page 5 of 24
+
+Town Planning and Engineering Associates, Inc.,
+369 Mass. 737, 342 N.E. 2d 706 (1976)........................................................................... 15
+Federal Statutes
+Investment Company Act of 1940, § 12(b), 15 U.S.C. § 80a-12(b) ............................................ 8
+Investment Company Act of 1940, § 22, 15 U.S.C. § 80a-22(b) ................................................. 8
+Investment Company Act of 1940, § 36(a), 15 U.S.C. § 80a-35(a) ..........................................3, 11
+Investment Company Act of 1940, § 38(c), 15 U.S.C. § 80a-37(c) ............................................. 13
+Investment Company Act of 1940, § 44, 15 U.S.C. § 80a-43...................................................... 17
+Investment Company Act of 1940, § 47(b), 15 U.S.C. § 80a-46(b) .................................. ...passim
+Investment Advisers Act of 1940, § 2(a)(11), 15 U.S.C. § 80b-2(a)(11)…………………...passim
+28 U.S.C. § 1367 .......................................................................................................................... 17
+28 U.S.C. § 1331 .......................................................................................................................... 17
+Federal Regulations
+Securities and Exchange Commission Rule 38a-1, 17 C.F.R. § 270.38a-1 ................................. 12
+Securities and Exchange Commission Rule 38a-1(a), 17 C.F.R. § 270.38a-1(a) ........................ 12
+Other Authorities
+Investment Advisers Act of 1940, Investment Advices Act Release No. 1633 ........................... 15
+Securities Exchange Act of 1934 Release No. 30897 (July 13, 1992)..................................... 2, 8
+S. Rep. No. 293............................................................................................................................. 15
+
+iv
+
+Case 1:10-cv-10515-DPW Document 30
+
+Filed 07/15/10 Page 6 of 24
+
+Defendants Eaton Vance Distributors, Inc. (“EVD”) and Thomas E. Faust Jr. (“Mr.
+Faust”) submit this Memorandum of Law in Support of Their Motion to Dismiss the Amended
+Complaint and Demand for Jury Trial (“Amended Complaint” or “Am. Compl.”).
+PRELIMINARY STATEMENT
+This case is part of a broadside attack on fees paid by mutual funds in accordance with
+Rule 12b-1 of the Investment Company Act of 1940 (“ICA”) that has already been rejected in
+Smith v. Franklin/Templeton Distr. Inc., 4:09-cv-4775-PJH, 2010 WL 2348644 (N.D. Cal. June
+8, 2010).1
+Plaintiff is a shareholder in one of the mutual funds (“Funds”) that is a series of Eaton
+Vance Municipals Trust (the “Trust”). EVD is the Trust’s distributor and the individual
+defendants are its trustees (“Trustees”). In his Amended Complaint, plaintiff attacks 12b-1
+payments from the Trust to EVD, which EVD uses to compensate broker-dealers who sell Fund
+shares.
+The core premise of the lawsuit is that the payment of 12b-1 fees to a broker-dealer that
+is not also registered as an investment adviser pursuant to the Investment Advisers Act of 1940
+(“Advisers Act”) is illegal. According to plaintiff, the receipt of 12b-1 fees, which plaintiff
+labels “asset-based compensation,” Am. Compl. ¶¶ 33-34, transforms a broker into an
+investment adviser under Advisers Act § 202(a)(11), which generally defines an investment
+adviser as “any person who, for compensation, engages in the business of advising others … as
+to the value of securities.” Plaintiff recognizes that the Advisers Act expressly excludes from the
+1
+
+This is one of a number of lawsuits and “investigations” mounted by the same counsel
+making essentially identical allegations and leveling the same legal challenge against the same
+established practices. The plaintiff who filed the Franklin case also filed two other cases, Smith
+v. Oppenheimer Funds Distr., Civil Action No. 10-CV-00655-JLK-KMT (D. Col.), and Smith v.
+Oppenheimer Funds Distr., No. 1:10-CV-00654-JLK (D. Col.). In addition, the website for
+plaintiff’s lead counsel states that they are “investigating” more than 20 other mutual fund
+complexes. See www.milberg.com, “Investigation of Improper Mutual Fund Sales Practices.”
+
+Case 1:10-cv-10515-DPW Document 30
+
+Filed 07/15/10 Page 7 of 24
+
+definition of an investment adviser “any broker or dealer whose performance of such services is
+solely incidental to the conduct of his business as a broker and who receives no special
+compensation therefor.” 15 U.S.C. § 80b-2(a)(11)(C). Nonetheless, citing Financial Planning
+Ass’n v. SEC, 482 F.3d 481 (D.C. Cir. 2007), plaintiff maintains that 12b-1 fees are “special
+compensation,” rather than transactional commissions (which plaintiff concedes that a broker
+may legally receive).
+Plaintiff’s theory is meritless. Rule 12b-1 fees are transaction-based compensation in that
+they are tied to the sale of particular mutual fund shares. And much of the purpose of Rule 12b-1
+is to facilitate an investor’s ability to finance the payment of a sales load to his broker. See, e.g.,
+Yameen v. Eaton Vance Distributors, Inc., 394 F. Supp. 2d 350, 354-55 (D. Mass. 2005).
+Accordingly, the SEC views Rule 12b-1 fees as the functional equivalent of a broker’s
+commission, and they are regulated as such by the National Association of Securities Dealers
+(“NASD”). See Exchange Act Release No. 30897, 1992 WL 159735, 57 Fed. Reg. 30,985,
+30,986, 30,988-90 (July 13, 1992); Franklin, 2010 WL 2348644 at *8. As the Franklin court
+recognized, moreover, Financial Planning “is irrelevant to the payment of the distribution fees
+known as ‘12b-1 fees’ that plaintiff challenges in the present case.” Id. Indeed, Financial
+Planning had no occasion to consider 12b-1 fees or the meaning of “special compensation.” It
+merely struck down an unrelated SEC rule promulgated 25 years after Rule 12b-1.
+While plaintiff’s failure to allege any unlawful conduct resolves the case in its entirety,
+there are numerous additional grounds to dismiss each of the individual claims of the Amended
+Complaint. Based on his erroneous theory that it is illegal for brokers to receive 12b-1 fees,
+plaintiff asserts five purported shareholder derivative claims set out in separate “counts.” Each is
+legally deficient.
+
+2
+
+Case 1:10-cv-10515-DPW Document 30
+
+Filed 07/15/10 Page 8 of 24
+
+Count I (against EVD) is based on § 47(b) of the ICA, 15 U.S.C. § 80a-46(b). Plaintiff
+alleges that the performance of the Trust’s Distribution Agreement with EVD pursuant to which
+the Trust pays 12b-1 fees to EVD, ultimately results in a violation of the Advisers Act by the
+recipient broker-dealers. Plaintiff claims that this implicates EVD’s “duties [that] arise under
+Section 36(a) of the ICA and SEC Rule 38a-1 thereunder”; Am. Compl. ¶ 73. Therefore,
+according to plaintiff, “[t]he Trust is obligated to void the broker-dealer compensation provisions
+in its Distribution Agreement” and obtain restitution of the payments made to EVD. Am.
+Compl. ¶¶ 74-75.
+But plaintiff has no claim under § 47(b). See Franklin, 2010 WL 2348644 at *7-8. The
+alleged violation of the Advisers Act does not render the Trust’s Distribution Agreement
+voidable under § 47(b), which requires predicate violation of the ICA enforceable by plaintiff.
+The vague duties conjured up by plaintiff under § 36(a) and Rule 38a-1 do not supply plaintiff
+with a right of action. And plaintiff has failed to allege any contract that is itself unlawful (as
+opposed to allegedly illegal transactions pursuant to a lawful contract) – another prerequisite to a
+§ 47(b) claim. Moreover, defendants’ reliance on Rule 12b-1 in paying distribution fees
+provides a complete defense under ICA § 38(c) to the claims under § 47(b).
+Count II (against EVD) is similar to plaintiff’s § 47(b) claim. It seeks “contract voiding”
+and restitution under state law, again relying on a purported violation of the Advisers Act by the
+broker-dealers and supposed “duties [of EVD] created by the ICA,” not to make “unlawful”
+payments. Am. Compl. ¶¶ 76-80.2 Count II is preempted because it seeks to impose additional
+consequences under state law for the supposed illegality of the Distribution Agreement under
+
+2
+
+Paragraph 80 of the Amended Complaint is missing text. The intent appears to be to
+track paragraph 75.
+
+3
+
+Case 1:10-cv-10515-DPW Document 30
+
+Filed 07/15/10 Page 9 of 24
+
+federal law. Even if it were not preempted, state law does not pile on additional and potentially
+inconsistent sanctions based on the supposed illegality of a contract under a federal statute.
+Count III alleges that EVD has breached its contract with the Trust based on EVD’s
+breach of its warranty in its Distribution Agreement with the Trust “that it comply with the
+federal securities laws.” Am. Compl. ¶¶ 81-86. This claim is also preempted. And plaintiff has
+simply distorted the contractual language and has failed to identify any provision of the
+Distribution Agreement that would have been breached by EVD’s allegedly illegal conduct.
+The Amended Complaint also includes two counts against Mr. Faust and the other
+Trustees, which both turn on the alleged violation of the Advisers Act: Count IV, for alleged
+breach of fiduciary duty in permitting the “unlawful” 12b-1 payments, and Count V, for waste in
+authorizing the payments. Am. Compl. ¶¶ 87-96.
+These claims must be dismissed for the separate reasons set forth in the Memorandum of
+Law filed by the independent trustees and the Trust in support of their Motion to Dismiss the
+Amended Complaint (“Trustees’ Memorandum”). As set forth in detail in the Trustees’
+Memorandum, which is incorporated by reference herein, plaintiff’s effort to pursue these claims
+derivatively in the Trust’s name fails. The Trust’s board has considered and rejected, for the
+sound reasons described in the Trustees’ Memorandum, plaintiff’s demand that the Trust take
+action on his claims.
+BACKGROUND
+The Amended Complaint contains few averments of fact3 but many conclusory legal
+allegations setting out plaintiff’s position on Rule 12b-1 fees. It does allege that plaintiff owns
+Class C shares of a single mutual fund, the Eaton Vance National Municipal Income Fund
+(formerly the Eaton Vance National Municipals Fund) (“Income Fund”), a series of the Trust.
+3
+
+EVD and Mr. Faust reserve their rights to contest any of the facts as pleaded.
+4
+
+Case 1:10-cv-10515-DPW Document 30
+
+Filed 07/15/10 Page 10 of 24
+
+Am. Compl. ¶ 9. Plaintiff references the Trust’s public filings as a source of some of his
+allegations (Am. Compl. ¶¶ 1, 44). The Amended Complaint also describes, and in selective
+instances quotes from, the Funds’ Distribution Plans, Distribution Agreement and the agreements
+between EVD and the broker-dealers concerning the sale of Fund shares (“Selling Agreement”).
+Am. Compl. ¶¶ 44-46. Accordingly, the relevant facts are taken from the Amended Complaint
+and the Registration Statement on Form N-1A filed by the Trust, and effective on February 1,
+2009 (in effect at the time of plaintiff’s demand on the Trust’s board of trustees), which includes
+the Prospectus and Statement of Additional Information for the Income Fund describing the
+Distribution Plans, and the Distribution Agreement and form of Selling Agreement, all of which
+were filed publicly with the Securities and Exchange Commission (“SEC”).4
+Plaintiff Jeffrey Wiener allegedly has owned Class C shares of the Income Fund since
+May 17, 2007. Am. Compl. ¶ 9. Defendant EVD is a registered broker-dealer and a member of
+the Financial Industry Regulatory Authority, the successor to the NASD. Am. Compl. ¶ 19. The
+Trust is a registered investment company that has established the Funds as separate series. Id.
+¶¶ 2, 10. Mr. Faust is one of nine Trustees of the Trust and has been classified as an “interested”
+Trustee for purposes of the ICA. Id. ¶ 18. The remaining Trustees are all disinterested or
+“independent.” Am. Compl. ¶¶ 11-17.
+The Trust has elected to act as a distributor of its own shares. Id. ¶ 48. To effect this
+distribution, the Trust has adopted Distribution Plans for certain classes of fund shares and has
+
+4
+
+Copies of the relevant documents are attached to the Declaration of Jeffrey B. Maletta
+(“Maletta Decl.”) submitted with EVD’s and Mr. Faust’s motion to dismiss the initial complaint.
+See Dckt. no. 15. In ruling on a motion to dismiss pursuant to Rule 12(b)(6), the Court may take
+judicial notice of matters of public record, documents sufficiently referred to in a complaint, and
+other indisputably authentic documents underlying plaintiff’s claims. Beddall v. State Street
+Bank & Trust Co., 137 F.3d 12, 17 (1st Cir. 1998). SEC filings fall within these parameters. In
+re Stone & Webster, Inc., Securities Litig., 253 F. Supp. 2d 102, 128 n.11 (D. Mass. 2003).
+5
+
+Case 1:10-cv-10515-DPW Document 30
+
+Filed 07/15/10 Page 11 of 24
+
+entered into the Distribution Agreement with EVD, which appoints EVD as the principal
+underwriter of the Funds. Am. Compl. ¶ 44. EVD buys from the Trust sufficient shares to fill
+orders it has received from financial services firms. Maletta Decl. Ex. C at Section 2. Under the
+Distribution Agreement, the Trust pays to EVD fees in accordance with the Distribution Plans.
+Id. at Section 5(c) and (d).
+The relevant Distribution Plans are described in the Prospectus in the Registration
+Statement for the Income Fund, the Fund in which plaintiff allegedly owns shares. See id.;
+Maletta Decl. Ex. A at 10.5 Individual investors such as plaintiff have a choice among different
+classes of shares with differing fee structures. Maletta Decl. Ex. A at 10. See Yameen v. Eaton
+Vance Distributors, Inc., 394 F. Supp. 2d at 352-53 (D. Mass. 2005) (describing generally
+similar share classes available for Eaton Vance Tax-Managed Growth Fund 1.1).
+Investors in Class A shares pay a sales charge or “load” at the time of purchase of up to
+4.75 percent. Maletta Decl. Ex. A at 10, 12. Purchasers of Class B and Class C shares pay no
+up-front sales charge. Id. These classes pay .75 percent of net assets annually as a distribution
+fee to EVD. Id. Class B and C shareholders who redeem within certain periods after purchase
+may pay a contingent deferred sales charge. Id. at 12. All three classes pay a .25 percent service
+fee. Id. at 12.6
+These distribution arrangements, which are typical of those in place for a multitude of
+other mutual funds, give investors a choice of how to pay the sales charges associated with their
+purchases of fund shares. The applicable 12b-1 fees are paid by each class to EVD under the
+5
+
+The Income Fund has four classes of shares outstanding, three of which – Classes A, B,
+and C – have adopted Distribution Plans.
+6
+
+These fees are consistent with the limitations on sales compensation imposed by Rule
+2830 of the NASD. See NASD Rule 2830(d). The Income Fund also offers Class I shares
+through certain financial intermediaries. See Maletta Decl. Ex. A at 11.
+
+6
+
+Case 1:10-cv-10515-DPW Document 30
+
+Filed 07/15/10 Page 12 of 24
+
+Distribution Agreement. EVD, in turn, enters into contracts with the registered broker-dealers
+who effect retail sales of Fund shares in the format of the Selling Agreement. Maletta Decl.
+Ex. D at ¶ 1. The Selling Agreement spells out the broker-dealer’s obligations in selling Fund
+shares and its compensation for its selling efforts. Those contracts provide for payments based
+on the sale of Fund shares through transactional commissions, or through dealer discounts, and
+service fees for servicing shareholder accounts holding Fund shares. Id.
+ARGUMENT
+To survive a motion to dismiss, “a complaint must contain sufficient factual matter,
+accepted as true, to ‘state a claim to relief that is plausible on its face.’” Ashcroft v. Iqbal, 129 S.
+Ct. 1937, 1949 (2009), quoting Bell Atlantic Corp. v. Twombly, 550 U.S. 544, 570 (2007). This
+requires pleading “factual content that allows the court to draw the reasonable inference that the
+defendant is liable for the misconduct alleged.” Iqbal, 129 S. Ct. at 1949. “[T]hreadbare recitals
+of elements of cause of action, supported by mere conclusory statements, do not suffice.” Id.
+The Amended Complaint falls far short of this standard.
+I.
+
+THE PAYMENTS TO EVD UNDER THE DISTRIBUTION PLANS DO NOT
+VIOLATE THE ADVISERS ACT
+The Amended Complaint makes it very clear that plaintiff’s entire case hinges on
+
+§ 202(a)(11) of the Advisers Act, 15 U.S.C. § 80b-2(a)(11)(C), and the Financial Planning
+decision (see Am. Compl. ¶¶ 2, 4). Under plaintiff’s reading of that statute, a broker-dealer can
+receive only “transactional commissions” and asset-based compensation is not a “transactional
+commission,” it is “special compensation” for investment advisers. Am. Compl. ¶¶ 31-33.
+There are two flaws in this argument. First, to implicate the Advisers Act at all, the
+payments must be “special compensation” for investment advice. There is no allegation that
+EVD, the recipient of the payments under the Distribution Agreement under attack, is giving any
+
+7
+
+Case 1:10-cv-10515-DPW Document 30
+
+Filed 07/15/10 Page 13 of 24
+
+investment advice to anyone. The payments received by EVD are expressly for sales
+transactions and shareholder account services.
+Second, and more fundamentally, the contention that these asset-based fees are not
+functionally “transactional commissions,” Am. Compl. ¶ 33, is simply wrong. The amounts paid
+to the selling broker-dealer are paid solely as the result of a transaction: the sale of Fund shares.
+No sale, no payment. In addition, 12b-1 fees may differ based on the particular investment
+company securities the broker sells and that are maintained in the brokerage account. Such
+incentives provide much of the impetus for broker-dealer regulation.
+Indeed, Rule 12b-1 is part of a longstanding and multilayered regulatory scheme
+governing mutual fund distribution arrangements authorized by the ICA. Rule 12b-1 is expressly
+authorized by § 12(b) of the ICA, 15 U.S.C. § 80a-12(b). Section 12(b) allows the SEC to adopt
+rules under which a mutual fund may act as a distributor of its own shares, as the Trust has
+elected to do here. In § 22(b) of the ICA, 15 U.S.C. § 80a-22(b), Congress granted the NASD
+the power to regulate all charges for sales of mutual fund shares, including the distribution fees
+at issue in this case. NASD Rule 28307, which was promulgated pursuant to § 22(b) and has
+been approved by the SEC, see Yameen, 394 F. Supp. 2d at 354, demonstrates that much of the
+purpose of Rule 12b-1 is to facilitate an investor’s ability to effectively finance the payment of a
+sales load to his broker. See Exchange Act Release No. 30897, 1992 WL 159735, 57 Fed. Reg.
+30,985, 30,989 (July 13, 1992) (“The [SEC] is of the opinion that the rule change carries out the
+NASD’s congressional mandate to prevent excessive sales charges on mutual fund shares” and
+ensures that “broker-dealers, sales personnel and underwriters … receive reasonable
+compensation” and “that investors are charged reasonable sales loads”); id. (NASD’s authority to
+7
+
+A copy of NASD Rule 2830 is included as Ex. A. to the Legal Appendix to this
+Memorandum.
+
+8
+
+Case 1:10-cv-10515-DPW Document 30
+
+Filed 07/15/10 Page 14 of 24
+
+“regulate comprehensively mutual fund fees received by members” comports with “the statutory
+mandate of section 22(b) that gives the NASD authority to prohibit excessive sales loads”);
+Yameen, 394 F. Supp. 2d at 354 (Rule 12b-1 effectively allows investors in mutual funds “to
+choose between paying distribution and service charges up front and spreading them out over a
+period of several years”). Rule 2830(b)(8) accordingly includes “asset based sales charge[s]”
+within the definition of “sales charges,” all of which are subject to the limitations of the Rule.
+See Rule 2830(d). Rule 2830 similarly regulates service fees. See Rule 2830(d)(5).
+Nothing in any of the federal securities laws states that an investor cannot elect to spread
+a commission payment over a number of years, as plaintiff apparently elected to do in purchasing
+Class C shares, rather than paying the whole, potentially higher commission, up front.
+Financial Planning does not relate to this structure in any way. See Franklin, 2010 WL
+2348644, at *8 (recognizing that Financial Planning is “irrelevant” in this context). Financial
+Planning involved a challenge to a rule promulgated by the SEC in 2005 that, contrary to the text
+of the Advisers Act, exempted broker-dealers who received “special compensation” for
+providing investment advice from the requirement that they register as investment advisers. The
+D.C. Circuit struck down the rule, concluding that the conduct permitted by the rule was outside
+the scope of the statutory exemption granted in § 202(a)(11)(C) of the Advisers Act. 482 F.3d at
+494. The court did not consider 12b-1 fees and did not address (let alone alter) the statutory
+exemption for “any broker or dealer whose performance of [investment advisory] services is
+solely incidental to the conduct of his business as a broker or dealer, and who receives no special
+compensation therefor.”
+Other courts, both before and after Financial Planning, have read the Advisers Act to
+exempt broker-dealers from registration where the compensation related to sales and other
+
+9
+
+Case 1:10-cv-10515-DPW Document 30
+
+Filed 07/15/10 Page 15 of 24
+
+broker-dealer functions. See Thomas v. Metropolitan Life Ins. Co., No. CIV-07-0121-F, 2009
+WL 2778663, *6-10 (W.D. Okla. Aug. 31, 2009) (registration not required where compensation
+was for “making the sale”); Kassover v. UBS Fin. Serv., 619 F. Supp. 2d 28, 34 (S.D.N.Y. 2008)
+(dismissing complaint that failed to allege broker-dealer was paid special compensation for
+investment advice or that any advice was not solely incidental to maintenance of brokerage
+accounts); Luzerne County Ret. Bd. v. Makowski, 627 F. Supp. 2d 506, 573-74 (M.D. Pa. 2007)
+(compensation for transaction-related services and administration of investment fund is not
+special compensation for investment advice); Kaufman v. Merrill Lynch, Pierce, Fenner &
+Smith, Inc., 464 F. Supp. 528, 538 (D. Md. 1978) (broker-dealer not an investment adviser as any
+investment advice was incidental to services as broker on account).
+In short, the Advisers Act’s requirement that broker-dealers who receive “special
+compensation” for investment advice must register as an investment adviser simply has no
+application to payments under Rule 12b-1. Accordingly, the Amended Complaint should be
+dismissed in its entirety.
+II.
+
+THE INDIVIDUAL COUNTS AGAINST EVD FAIL TO STATE A CLAIM
+A.
+
+The Amended Complaint Fails to State a Claim Under ICA § 47(b)
+
+Section 47(b) does not regulate conduct; it provides a remedy under which the parties to a
+contract may seek to rescind it if that contract violates another provision of this “subchapter” –
+the ICA or the regulations issued under the ICA.8 See, e.g., Stegall v. Ladner, 394 F. Supp. 2d
+358, 378 (D. Mass. 2005). This aspect of the statute compels dismissal of plaintiff’s § 47(b)
+claim for two reasons.
+
+8
+
+Section 47(b)(1) provides that “[a] contract that is made, or whose performance involves
+a violation of this subchapter, or any rule, regulation or order thereunder, is unenforceable by
+either party . . . .” 15 U.S.C. § 80a-46 (emphasis added).
+
+10
+
+Case 1:10-cv-10515-DPW Document 30
+
+Filed 07/15/10 Page 16 of 24
+
+First, since plaintiff’s allegations that duties owed under the ICA have been breached
+depend entirely on his defective claim under the Advisers Act, he has not stated a violation of the
+ICA to support a § 47(b) claim.
+Second, plaintiff’s effort to bootstrap his way to a § 47(b) claim by alleging a supposed
+“violation” of § 36(a) and Rule 38-1 fails. Numerous courts have recognized that § 36(a) does
+not provide a private plaintiff with a right of action. See, e.g., Bellikoff v. Eaton Vance Corp.,
+481 F.3d 110, 117 (2d Cir. 2007); Stegall, 394 F. Supp. 2d at 371-72. It therefore cannot serve
+as a basis for a claim under § 47(b). See Stegall, 394 F. Supp. 2d at 378 (dismissing § 47(b)
+claim after finding no private right of action under § 36(a)).
+Moreover, § 36(a) is not a substantive provision of the ICA that can be violated. As the
+SEC has recognized, the section provided no basis for finding a violation of the Act, even by the
+SEC itself:
+Neither before the [1970] amendment nor afterwards, does § 36 in
+terms make anything unlawful. It simply authorizes the
+Commission to file an action in the Federal court and empowers
+the court to grant appropriate relief. Such language would not
+normally lead to the conclusion that the conduct actionable under
+the section is a violation of the Act. Moreover, violations of the
+Act are criminal offenses. And . . . Congress in 1940 deliberately
+determined that Section 36 should not be a basis for criminal
+prosecution. . . . Hence . . . Section 36 cannot serve as the sole
+basis for administrative sanctions.
+In re Carl L. Shipley, Exchange Act Release No. 10870, 4 SEC Docket 476, 478, 1974 WL
+161761, *3 (Jun. 21, 1974).
+Thus, even though ICA § 9(b) authorizes the SEC to conduct an administrative
+proceeding for “willful[] viola[tions] [of] any provision[] of . . . this Act,” the SEC has
+concluded that § 36(a) cannot be the basis for an administrative action because it cannot be
+“violated.” This analysis is equally applicable to § 47(b), which as a prerequisite to relief
+
+11
+
+Case 1:10-cv-10515-DPW Document 30
+
+Filed 07/15/10 Page 17 of 24
+
+similarly requires a plaintiff to show “a violation of this subchapter or of any rule, regulation or
+order thereunder.” 15 U.S.C. § 80a-46(b). This is the only plausible view of the statutory text.
+It makes no sense to suggest that an enforcement provision that cannot itself be violated can
+serve as the basis for a remedy under § 47(b). See Central Bank of Denver, N.A. v. First
+Interstate Bank of Denver, N.A., 511 U.S. 164, 176-77 (1994) (federal courts lack authority to
+“extend liability beyond the scope of conduct prohibited by the statutory text”); cf. Gonzaga
+Univ. v. Doe, 536 U.S. 273, 285 (2002) (“One cannot go into court and claim a ‘violation’ of
+Section 1983 – for Section 1983 by itself does not protect anyone against anything.”).
+Similarly, Rule 38a-1 imposes no obligations on EVD, the only defendant named in
+Count I, or any other defendant. It imposes obligations only on registered investment companies
+and their Chief Compliance Officers (“CCOs”). For example, an investment company must
+adopt a compliance plan and designate a CCO. See Rule 38a-1(a)(1) and (4), 17 C.F.R. §
+270.38a-1(a). The CCO must report violations of federal securities laws to the board. Rule
+38a-1(a)(4)(iii), 17 C.F.R. § 270.38a-1(a)(4). There is no allegation that these requirements have
+not been satisfied here. Plaintiff attempts to spin from these provisions affirmative obligations
+on the part of the Trustees to take the action that he demands in the Amended Complaint. But
+Rule 38a-1 imposes no such obligations. See Franklin, 2010 WL 2348644, at *7-8 (Rule 38a-1
+creates no private right of action and “does not impose on funds a duty to assure that the brokerdealers comply with registration requirements”).
+Count I also fails because plaintiff does not allege that the Distribution Agreement itself
+is unlawful, only that its “performance” violates the duties arising under the ICA. See, e.g., Am.
+Compl. ¶ 61. Section 47(b) does not support a claim absent an allegation that the relevant
+contract itself (here the Distribution Agreement) is illegal. See, e.g., GFL Advantage Fund, Ltd.
+
+12
+
+Case 1:10-cv-10515-DPW Document 30
+
+Filed 07/15/10 Page 18 of 24
+
+v. Colkitt, 272 F.3d 189, 200-02 (3d Cir. 2001) (under the Securities Exchange Act of 1934 §
+29(b), only unlawful contracts may be rescinded, not allegedly unlawful transactions made
+pursuant to lawful contracts); Zerman v. Jacobs, 510 F. Supp. 132, 135 (S.D.N.Y. 1981), aff’d,
+672 F.2d 901 (2d Cir. 1981). As noted above, the Amended Complaint contains no allegation
+that the payments from the Trust to EVD under the Distribution Agreement are “special
+compensation” to a broker-dealer to provide “investment advice” to any customer in exchange
+for that compensation. Cf. ING v. Principal Protection Funds Litig., 369 F. Supp. 2d 163, 169
+(D. Mass. 2005) (dismissing claims that 25 basis point service fee was excessive where no
+allegation that fees are unrelated to services being rendered). In any event, as plaintiff
+acknowledges, the retail broker-dealers can comply with plaintiff’s vision of the Advisers Act,
+thus making the payments lawful even under plaintiff’s theory. See Am. Compl. ¶ 51.
+Finally, to the extent that the Amended Complaint relies on a violation of the ICA, no
+relief can be granted, as EVD has a complete defense under § 38(c) of that Act. 15 U.S.C.
+§ 80a-37(c). Section 38(c) provides that “[n]o provision of this title imposing any liability shall
+apply to any act done or omitted in good faith in conformity with any rule, regulation or order of
+the [SEC],” even if such rule, regulation or order may subsequently be rescinded or invalidated.
+As plaintiff’s initial complaint itself alleged, the payments made under the Plans have been made
+“as allowed by Rule 12b-1” (Compl. ¶ 45) and other SEC and NASD regulations. There is no
+allegation that defendants could not rely in good faith on this regulatory framework. Therefore,
+no liability may be based on § 47(b).
+B.
+
+The Amended Complaint Fails to State a Claim for “Contract Voiding”
+
+Plaintiff’s Second Count, “Contract Voiding Pursuant to State Law Against Eaton Vance
+Distributors,” Am. Compl. ¶¶ 76-80, expressly asserts that the “Trust is obligated to void the
+broker-dealer compensation provisions in its Distribution Agreement between the Trust and
+13
+
+Case 1:10-cv-10515-DPW Document 30
+
+Filed 07/15/10 Page 19 of 24
+
+Eaton Vance Distributors, because performance cannot be accomplished without violating the
+foregoing duties under the ICA and SEC Rule 38a-1 and the Advisers Act.” Am. Compl. ¶ 79.
+This claim fails for two reasons.
+First, it is preempted by federal law. Although state law generally governs the rights and
+duties of sellers and purchasers of goods and services, “the effect of illegality under a federal
+statute is a matter of federal law … even in diversity actions in the federal courts after [Erie R.
+Co. v. Tompkins, 304 U.S. 64 (1938).” Kelly v. Kosuga, 358 U.S. 516, 519 (1959) (antitrust).
+The express remedies provided by federal law should “not be added to judicially by including the
+avoidance of private contracts as a sanction.” Id. (citing D.R. Wilder Mfg. Co. v. Corn Products
+Refining Co., 236 U.S. 165 (1915). See also General Life of Mo. Inv. Co. v. Shamburger, 546
+F.2d 774, 783 n.15 (8th Cir. 1976) (enforceability of stock subscription agreement in violation of
+the Securities Act of 1933 was a matter of federal law); Rothberg v. Rosenbloom, 808 F.2d 252,
+254 n.2 (3d Cir. 1986) (“We see no need to consider the defense of illegality under Pennsylvania
+law because the public policy, even as alluded to by the district court, is one that underlies
+federal securities law, not Pennsylvania law. Therefore, the analysis with respect to the illegality
+defense is governed by federal law, not state law.”) (transaction allegedly in violation of Rule
+10b-5).9
+The conclusion that states are not free to impose additional or different consequences to
+contracts in supposed violation of federal law is reinforced in this context given Congress’s
+decision to reduce or eliminate overlapping and duplicative state and federal regulation of
+9
+
+See generally Burks v. Lasker, 441 U.S. 471, 476 (1979) (“When a federal statute
+condemns an act as unlawful the extent and nature of the legal consequences of the
+condemnation, though left by the statute to judicial determination, are nevertheless federal
+questions, the answers to which are to be derived from the statute and the federal policy which it
+has adopted.”) (citation and internal quotation marks omitted).
+
+14
+
+Case 1:10-cv-10515-DPW Document 30
+
+Filed 07/15/10 Page 20 of 24
+
+investment advisers. See Advisers Act § 203A, 15 U.S.C. § 80b-3a; S. Rep. No. 293, 104th
+Cong. 2d Sess. 3 (1996) (in the Investment Advisers Supervision Coordination Act, Congress
+sought to eliminate “overlapping regulatory responsibilities” over investment advisers by the
+states and the SEC).10
+Here, there is an express federal remedy for a contract that supposedly violates a federal
+statute. A new and broader one cannot be created under state law.
+Even assuming arguendo that the state law claims were not broadly preempted in this
+context, state law requires dismissal of plaintiff’s § 47(b) claim and also dooms plaintiff’s state
+law “contract voiding” claim.
+Where, as here, legislation addresses in detail when a contract is voidable for alleged
+illegality, Massachusetts courts have recognized that there is no need or persuasive basis to tack
+on additional or different standards under the common law. See, e.g., City of Lawrence v.
+Falzarano, 380 Mass. 18, 402 N.E.2d 1017, 1020 (1980) (“If a statute does not declare a contract
+made in violation of its terms to be void, and if it is not necessary to hold the contract void in
+order to accomplish the purposes of the statute, the inference is that the statute was intended to
+be directory, and not prohibitory, of the contract.”); LeClair v. Norwell, 430 Mass. 328, 719
+N.E.2d 464, 472 (1999) (similar); Town Planning and Engineering Associates, Inc., 369 Mass.
+737, 342 N.E.2d 706, 711 (1976) (“Our cases warn against the sentimental fallacy of piling on
+sanctions unthinkingly once an illegality is found.” In addition, “[c]ourts do not go out of their
+way to discover some illegal element in a contract or to impose hardship upon the parties beyond
+
+10
+
+See also Rules Implementing Amendments to the Investment Advisers Act of 1940,
+Investment Advisers Act Release No. 1633, May 15, 1997 (adopting broad view of the
+preemptive effect of the Investment Advisers Supervision Coordination Act of 1996, and
+particularly § 203A of the Advisers Act).
+
+15
+
+Case 1:10-cv-10515-DPW Document 30
+
+Filed 07/15/10 Page 21 of 24
+
+what is necessary to uphold the policy of the law.”) (citation and internal quotation marks
+omitted).
+C.
+
+The Amended Complaint Fails to State a Claim for Breach of Contract
+
+Count III alleges a breach of contract based on purported violation of a warranty in the
+Distribution Agreement that EVD “will comply with the federal securities laws.” Am. Compl. ¶
+82. Plaintiff alleges no actual damages, but contends that this supposed contractual breach
+resulted in a “per se” waste of Trust assets. Am. Compl. ¶ 85.
+Plaintiff’s “per se damages” theory is preempted for the same reason as Count II: it seeks
+to impose additional state law consequences based solely on the supposed illegality of the
+Distribution Agreement under federal law.
+In any event, the relevant provision in the Distribution Agreement, which is quoted
+elsewhere in the Amended Complaint itself, states that EVD agrees it “will use its best efforts in
+all respects duly to conform with the requirements of all state and federal laws relating to the
+sale of such [Fund] shares.” Am. Compl. ¶ 46. See Maletta Decl. Ex. C at ¶ 4 (emphasis added).
+Thus, there is no contractual term to support plaintiff’s sweeping claim. See Brooks v. AIG
+SunAmerica Life Assur. Co., 480 F.3d 579, 586 (1st Cir. 2007) (to state a viable breach of
+contract claim, plaintiff “must do more than allege, in conclusory fashion, that the defendant
+breached the contract”; he must “describe[e], with ‘substantial certainty,’ the specific contractual
+promise the defendant failed to keep”). As demonstrated in the preceding sections, the Amended
+Complaint does not allege that EVD has even violated any of the securities laws, certainly none
+relating to the sale of securities. And there are no facts alleged to support the conclusion that
+EVD did not use its best efforts to conform to the law. Accordingly, Count III fails to state a
+claim and should be dismissed as well.
+
+16
+
+Case 1:10-cv-10515-DPW Document 30
+
+III.
+
+Filed 07/15/10 Page 22 of 24
+
+THE CLAIMS FOR BREACH OF FIDUCIARY DUTY AND WASTE AGAINST
+MR. FAUST SHOULD BE DISMISSED
+The Amended Complaint contains no specific allegations concerning Mr. Faust that
+
+distinguish him from the group of Trustees as a whole. As plaintiff concedes, his entire case,
+including the claims against the Trustees for breach of fiduciary duty and for waste, depends on
+the conclusion that the payment of asset-based compensation in connection with the sale of fund
+shares and servicing of shareholder accounts violates the Advisers Act. As demonstrated above,
+the Trust’s payment of Rule 12b-1 fees violates no law and is entirely consistent with the
+regulatory framework. Accordingly, the claims against Mr. Faust and all Trustees should be
+dismissed for failure to state a claim.
+In addition, because there are no allegations of fact upon which to base these claims
+against Mr. Faust, the claims should be dismissed on the grounds set forth in Parts II.A and B of
+the Trustees’ Memorandum.
+In the alternative, the Court should decline to exercise supplemental jurisdiction of the
+claims against Mr. Faust and the Trustees that are based on state law. The Amended Complaint
+alleges jurisdiction under ICA § 44, 15 U.S.C. § 80a-43 and 28 U.S.C. §§ 1331 and 1337 over
+Counts I, II and III. The remaining claims against Mr. Faust and the Trustees for breach of
+fiduciary duty and waste are before the Court only on an allegation of supplemental jurisdiction
+and 28 U.S.C. § 1367. See Am. Compl. ¶¶ 6-7. The Amended Complaint’s claims under the
+Advisers Act and § 47(b) against EVD provide the only basis for federal jurisdiction. Since
+plaintiff has failed to state a claim based on these provisions, the Court may decline to exercise
+supplemental jurisdiction and dismiss Counts IV through V. See Stegall, 394 F. Supp. 2d at 378,
+n.26.
+
+17
+
+Case 1:10-cv-10515-DPW Document 30
+
+Filed 07/15/10 Page 23 of 24
+
+CONCLUSION
+For the foregoing reasons, and for the reasons set forth in the Trustees’ Memorandum, the
+Amended Complaint should be dismissed with prejudice in its entirety.
+Respectfully submitted,
+EATON VANCE DISTRIBUTORS, INC. and
+THOMAS E. FAUST JR.
+By their attorneys,
+
+Dated: July 15, 2010
+
+/s/ Ryan M. Tosi
+Ryan M. Tosi (BBO #661080)
+K&L GATES LLP
+State Street Financial Center
+One Lincoln Street
+Boston, MA 02111-2950
+Tel: (617) 261-3100
+Fax: (617) 261-3175
+ryan.tosi@klgates.com
+Charles L. Eisen (admitted pro hac vice)
+Jeffrey B. Maletta (admitted pro hac vice)
+Nicholas G. Terris (pro hac vice application to
+be submitted)
+K&L GATES LLP
+1601 K Street, NW
+Washington, DC 20006-1600
+Tel: (202) 778-9000
+Fax: (202) 778-9100
+charles.eisen@klgates.com
+jeffrey.maletta@klgates.com
+nicholas.terris@klgates.com
+
+18
+
+Case 1:10-cv-10515-DPW Document 30
+
+Filed 07/15/10 Page 24 of 24
+
+CERTIFICATE OF SERVICE
+I hereby certify that this document filed through the ECF system will be sent
+electronically to the registered participants as identified on the Notice of Electronic Filing (NEF),
+and paper copies will be sent to those indicated as non-registered participants, if any, on this 15th
+day of July 2010.
+/s/ Ryan M. Tosi
+Ryan M. Tosi
+
+19
+
+

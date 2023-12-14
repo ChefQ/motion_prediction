@@ -1,0 +1,486 @@
+Case 6:16-cv-00112-GAP-TBS Document 28 Filed 05/13/16 Page 1 of 15 PageID 621
+
+UNITED STATES DISTRICT COURT
+MIDDLE DISTRICT OF FLORIDA
+ORLANDO DIVISION
+
+LEO PERRERO,
+Plaintiff,
+v.
+
+Case No. 6:16-CV-00112-GAP-TBS
+
+HCL INC. and WALT DISNEY WORLD,
+
+DISPOSITIVE MOTION
+
+Defendants.
+DEFENDANT WALT DISNEY PARKS AND RESORTS U.S., INC.'S
+DISPOSITIVE MOTION TO DISMISS AND MEMORANDUM OF LAW
+Pursuant to Federal Rule of Civil Procedure 12(b)(6), Walt Disney Parks and Resorts
+U.S., Inc. ("WDPR") respectfully moves for an order dismissing the Complaint with prejudice.1
+INTRODUCTION
+In October 2014, WDPR announced a reorganization of its information-technology ("IT")
+department through which certain IT functions would be assumed by outside IT consulting firms.
+The reorganization was intended to transition WDPR's IT department from one concentrated on
+maintaining existing IT systems to one more focused on developing new technologies. To
+accomplish this, WDPR outsourced IT maintenance, quality-assurance, and related work to
+specialized, independent commercial vendors, including to defendant HCL America, Inc.
+("HCLA"). WDPR employees affected by the reorganization were given the opportunity to
+apply for other jobs at WDPR and its affiliates.
+
+1
+
+WDPR was incorrectly sued as Walt Disney World and HCL America, Inc. was incorrectly sued as HCL
+Inc. Defendants filed a Consent Motion for Substitution of Defendants and to Correct Defendants' Name in
+Complaint in order to substitute the correct entities for the ones named in the Complaint, which is pending. See ECF
+No. 12.
+
+Case 6:16-cv-00112-GAP-TBS Document 28 Filed 05/13/16 Page 2 of 15 PageID 622
+
+Although businesses in the United States commonly contract with independent vendors
+for IT services, Plaintiff Leo Perrero alleges that WDPR's commercial outsourcing agreement
+with HCLA constituted a criminal conspiracy to defraud the United States Department of Labor
+("DOL"). The Complaint
+
+which asserts a substantive claim under the Racketeer Influenced
+
+and Corrupt Organizations Act ("RICO") against HCLA alone and two conspiracy claims (under
+RICO and Florida civil-conspiracy law) against WDPR and HCLA—is riddled with serious legal
+errors and is fatally lacking in non-conclusory factual allegations. Plaintiff provides this Court
+with no basis to infer that a facially benign business relationship is, instead, a conspiracy to
+violate the law.
+The Complaint fails to state a claim against WDPR and should be dismissed.
+First, Plaintiff's RICO conspiracy claim must be dismissed because he fails to allege an
+underlying substantive RICO claim. There are three fatal flaws in the substantive RICO claim
+that are foundational to Plaintiff's Complaint.
+1.
+
+There is no unlawful act on which Plaintiff's RICO claim can be predicated. At
+
+bottom, his RICO claim rests on the demonstrably incorrect premise that HCLA made false
+statements to DOL in connection with applications it submitted for H-1B visas. As HCLA
+explains in its motion to dismiss, Plaintiff fundamentally misunderstands the applicable
+regulations and, as a result, fails to allege any inaccuracy in the statements HCLA made. See
+ECF No. 27 at 8-13 ("HCLA Br.").2
+2.
+
+Plaintiff has failed to exhaust the DOL administrative procedures designed to
+
+address the supposed immigration law violations he alleges, which independently requires
+dismissal. See HCLA Br. 14-20.
+2
+
+WDPR adopts and incorporates the arguments made in HCLA's motion to dismiss.
+
+2
+
+Case 6:16-cv-00112-GAP-TBS Document 28 Filed 05/13/16 Page 3 of 15 PageID 623
+
+3.
+
+Plaintiff has not adequately alleged that HCLA's and WDPR's commercial
+
+relationship constituted a RICO "enterprise," see HCLA Br. 20-23, or that the one-time layoff of
+certain WDPR employees exhibited the requisite continuity of conduct to establish a "pattern" of
+"continuing racketeering activity," see infra pp. 10-12.
+Second, wholly apart from his failure to allege a substantive RICO claim, Plaintiff's
+conspiracy allegations must be dismissed as unsupported and impermissible speculation.
+Plaintiff has not seen and does not purport to know any details about the contract at issue here,
+relying on its mere existence and his own guesses about its terms to posit an unlawful conspiracy
+to violate federal immigration law. The inference of unlawful agreement Plaintiff asks the Court
+to draw from this commercial IT services contract is implausible under Ashcroft v. Iqbal, 556
+U.S. 662 (2009), and Bell Atlantic Corp. v. Twombly, 550 U.S. 544 (2007).
+In sum, when the Complaint's many unsupported conclusory allegations and mistakes of
+law are stripped away, the ordinary business arrangement on which Plaintiff relies is fully
+explained by lawful motivations and Plaintiff's conspiracy claims fail.
+The Complaint should be dismissed with prejudice.
+ARGUMENT
+I.
+
+Standard of Review
+Although the Court must generally assume that the allegations in the complaint are true
+
+on a motion to dismiss pursuant to Rule 12(b)(6), the Court is not required to accept the veracity
+of legal conclusions or factual allegations that are not "well-pleaded." American Dental Ass 'n v.
+Cigna Corp., 605 F.3d 1283, 1290 (11th Cir. 2010). Further, "[b]ecause of the specificity of the
+RICO statute and the stigma associated with charges of racketeering, courts have held RICO
+claims to enhanced specificity of pleading requirements." Club Car, Inc. v. Club Car (Quebec)
+3
+
+Case 6:16-cv-00112-GAP-TBS Document 28 Filed 05/13/16 Page 4 of 15 PageID 624
+
+Imp., Inc., 276 F. Supp. 2d 1276, 1283 (S.D. Ga. 2003), aff'd, 362 F.3d 775 (11th Cir. 2004).
+Where "a plaintiff asserts RICO and RICO conspiracy claims" and "the underlying allegations
+assert claims that are akin to fraud, the heightened pleading standards of Rule 9(b) apply to the
+RICO claims." Miccosukee Tribe ofIndians ofFla. v. Cypress, 814 F.3d 1202, 1212 (11th Cir.
+2015).
+In addition, under Rule 8, every plaintiff must plead enough facts to "allow[] the court to
+draw the reasonable inference that the defendant is liable for the misconduct alleged." Iqbal, 556
+U.S. at 678. Allegations that are merely "compatible with" a claim of unlawfulness do not
+suffice, and where the facts alleged are "more likely explained by[] lawful" conduct, the
+complaint fails. Id. at 680. Those rules apply with special force where, as here, a plaintiff asks
+the court to draw inferences of criminal intent from nothing more than a defendant's ordinary
+business activity. See, e.g., RSMProd. Corp. v. Freshfields Bruckhaus Deringer U.S. LLP, 682
+F.3d 1043; 1051 (D.C. Cir. 2012) (plaintiffs theory that law firm provided legal services "to
+further [client's alleged] criminal endeavor" failed to state RICO claim, as firm's conduct was
+"more likely explained by its normal business practice of providing legal services for and
+representing clients in arbitration" (internal citation omitted)).
+In pleading the conspiracy claims against WDPR, the Complaint has not "plausibly,
+under Twombly, or particularly, under Rule 9(b), allege[d]" the elements of those claims.
+American Dental Ass 'n, 605 F.3d at 1293. Each failure independently requires dismissal of the
+claims against WDPR.
+II.
+
+Plaintiff's RICO Conspiracy Claim Should Be Dismissed
+To plead a RICO conspiracy claim under 18 U.S.C. § 1962(d), a complaint must allege
+
+both an underlying substantive RICO violation and an illegal agreement to violate a substantive
+4
+
+Case 6:16-cv-00112-GAP-TBS Document 28 Filed 05/13/16 Page 5 of 15 PageID 625
+
+provision of RICO. See Spence-Jones v. Rundle, 991 F. Supp. 2d 1221, 1255 (S.D. Fla. 2013).
+Where the complaint fails to plausibly allege a substantive RICO violation, and the conspiracy
+claim includes no new allegations, the conspiracy claim necessarily fails as well. See Viridis
+i
+F. Supp. 3d
+Corp. v. TCA Global Credit Master Fund, LP,
+
+, 2015 WL 9688202, at *14
+
+(S.D. Fla. Dec. 17, 2015).
+To state his RICO conspiracy claim against WDPR, then, Plaintiff must plead facts with
+the requisite specificity showing WDPR (1) knowingly entered a conspiratorial agreement to
+(2) conduct (3) an enterprise (4) through a pattern (5) of racketeering activity—i.e., qualifying
+predicate acts. See Viridis Corp., 2015 WL 9688202, at *5, 15. Plaintiff fails to satisfy the first
+element because the Complaint sets forth no facts even remotely showing that WDPR knew that
+HCLA planned to violate federal immigration law or agreed that HCLA would do so. The
+conspiracy claim independently fails because Plaintiff does not come close to pleading an
+underlying substantive RICO violation with the requisite particularity. As discussed in HCLA's
+motion to dismiss and addressed briefly below, the Complaint fails to plead any unlawful
+predicate act or the requisite RICO "enterprise" and "pattern" of alleged misconduct.
+A.
+
+Plaintiff Fails To Allege Facts Plausibly Establishing An Unlawful
+Agreement
+
+It is difficult to discern the basis on which the Plaintiff believes this Court could plausibly
+infer that WDPR conspired to violate RICO. Only two factual allegations appear even remotely
+pertinent. First, the Complaint alleges that HCLA and WDPR entered into a "long-term"
+"written contract," outlining the "duties and projects" HCLA would perform for WDPR. Compl.
+1120. Plaintiff has not seen the agreement, so he can only speculate that it specifically requires
+HCLA to hire H-1B visaholders (as opposed to simply requiring HCLA to provide IT services).
+See id.; see also United States ex rel. Steury v. Cardinal Health, Inc., 735 F.3d 202, 207 (5th Cir.
+5
+
+Case 6:16-cv-00112-GAP-TBS Document 28 Filed 05/13/16 Page 6 of 15 PageID 626
+
+2013) ("merely descriptive or conclusory allegations about the ... contracts were insufficient"
+under Rule 9(b)). Second, the Complaint alleges that "a senior [WDPR] manager, Mr. Tilak
+Mandadi, [WDPR's] SVP, CIO and Global Principal Tech Officer" maintains a "Linked-In [sic]
+page" indicating he had previously worked at other companies. Compl. ¶ 19. On "information
+and belief," it further alleges that those other companies also "contracted with HCL (and the like)
+to replace IT workers with H-1B visaholders." Id. On this purely speculative basis, the
+Complaint draws the inference that WDPR "knew full well" that HCLA would make false
+statements to the federal government and thereby violate federal law. Id. ¶ 67. These allegations
+fall far short of even beginning to show that WDPR knowingly and willfully agreed that HCLA
+would violate federal immigration law. See, e.g., S. Intermodal Logistics, Inc. v. D.J. Powers
+Co., 10 F. Supp. 2d 1337, 1360 (S.D. Ga. 1998) (liability "for violating § 1962(d)" applies only
+if defendant "knowingly and willfully joins a conspiracy which itself contains a common plan or
+purpose to commit two or more predicate acts" (citing Salinas v. United States, 522 U.S. 52, 6264 (1997)).
+Even accepting as true the Complaint's inaccurate allegations regarding the contract
+between HCLA and WDPR, Plaintiff nowhere alleges (and could not allege) that it is inherently
+unlawful to agree to provide IT services using a workforce that includes H-1B visaholders.
+Plaintiffs theory of unlawful conspiracy thus depends on the allegation "on information and
+belief' (Compl. ¶ 19) about one WDPR executive's supposed knowledge of the requirements of
+federal immigration law, which he allegedly acquired from work with HCLA or other unnamed
+firms before coming to WDPR. From that allegation, Plaintiff asks the Court to conclude that
+WDPR knew the applicable legal requirements, knew HCLA supposedly intended to violate
+them, and agreed that HCLA would do so.
+6
+
+Case 6:16-cv-00112-GAP-TBS Document 28 Filed 05/13/16 Page 7 of 15 PageID 627
+
+A fatal flaw in Plaintiff's theory is that, even on the facts pleaded in the Complaint,
+HCLA complied with the applicable legal requirements. Plaintiff simply gets those requirements
+wrong. See HCLA Br. 8-13. Because the Complaint alleges no actions by HCLA that are
+inconsistent with the requirements of federal law, it alleges no plausible basis whatever to
+suppose that WDPR could have anticipated, much less agreed to, any unlawful action. See
+Jackson v. BellSouth Telecomms., 372 F.3d 1250, 1269 (11th Cir. 2004) (to state RICO
+conspiracy claim, "parties must have agreed to commit an act that is itself illegal parties cannot
+be found guilty of conspiring to commit an act that is not itself against the law").
+Even if Plaintiff had sufficiently alleged that HCLA made false representations to the
+Department of Labor—which, given his legal errors, he has not Plaintiff fails to allege facts
+showing that WDPR knew or agreed that HCLA would make them. Plaintiff provides no
+meaningful detail concerning Mr. Mandadi's supposed work with prior employers. See Compl.
+;
+¶ 19. The Complaint says nothing about transactions involving Mr. Mandadi's prior employers
+when those transactions occurred; whether they were in any way similar to the WDPR contract
+here; what "sponsoring employers" were involved and whether they were H-1B dependent or the
+employees for whom the H-1B visas were obtained were "exempt"; whether those "sponsoring
+employers" made any false statements on H-1B applications; and whether Mr. Mandadi had any
+knowledge about such false statements even if they occurred. See id.3
+Plaintiff thus offers only bare allegations about a WDPR executive's work with other
+companies that supposedly contracted with other IT service providers that used H-1B visa
+holders. Those allegations, lacking the requisite "factual amplification," are plainly insufficient
+that
+The Complaint is yet more conclusory when it refers to others at WDPR and alleges with no detail
+H1B
+for
+contracts
+"[WDPR] upper management, such as Mr. Mandadi, who had extensive experience entering into
+visaholders at other companies, knew full well ... yet agreed with HCL[1" Compl. ¶ 67.
+3
+
+7
+
+Case 6:16-cv-00112-GAP-TBS Document 28 Filed 05/13/16 Page 8 of 15 PageID 628
+
+to support the speculative inference that WDPR agreed with HCLA to violate the law. DZ Bank
+AG Deutsche Zentral-Genossenschaftsbank v. McCranie, No. 3:10-cv-222, 2010 WL 4739521,
+at *2 (M.D. Fla. Nov. 16, 2010) (discussing Iqbal and Twombly). Indeed, the Complaint does
+not even provide a plausible basis for inferring that WDPR—which did not submit any of the
+applications at issue here—was aware of the requirements governing HCLA's submission of H1B visa applications. See Aldana v. Del Monte Fresh Produce, NA., 416 F.3d 1242, 1248 (11th
+Cir. 2005) ("unwarranted deductions of fact are not admitted as true on a motion to dismiss"
+(internal quotation marks omitted)).
+No criminal agreement can be inferred from Plaintiff's empty generalizations. As the
+Supreme Court has made clear, allegations of an unlawful conspiracy must "plausibly suggest[]"
+an agreement to violate the law. Twombly, 550 U.S. at 557. Allegations that are merely
+"compatible with" a claim of unlawful conspiracy do not suffice, and where
+
+as here the facts
+
+alleged are "more likely explained by[] lawful" conduct, the complaint fails. Iqbal, 556 U.S. at
+680. Entrusting third-party IT companies with certain of a corporation's IT functions has long
+been common practice. The Complaint contains not a single plausible allegation to bridge the
+gap between a commonplace commercial outsourcing arrangement and the knowing conspiracy
+to violate federal immigration law that Plaintiff asserts. See American Dental Ass 'n, 605 F.3d at
+1290, 1295 (court may "infer from the factual allegations in the complaint obvious alternative
+explanations, which suggest lawful conduct rather than the unlawful conduct the plaintiff would
+ask the court to infer"; thus, business's "participation in trade organizations provides no
+indication of conspiracy" (internal quotation omitted)); see also RSMProd. Corp., 682 F.3d at
+1051 (affirming dismissal of RICO conspiracy claim where law firm's conduct was more likely
+explained by its normal business practice of representing clients); SD3, LLC v. Black & Decker
+8
+
+Case 6:16-cv-00112-GAP-TBS Document 28 Filed 05/13/16 Page 9 of 15 PageID 629
+
+(U.S.) Inc., 801 F.3d 412, 443 (4th Cir. 2015) (Wilkinson, J., concurring in part and dissenting in
+part) ("Twombly counsels that we not leap to pejorative explanations when legitimate business
+considerations are more likely at play.").
+The Eleventh Circuit regularly affirms dismissals of RICO conspiracy claims based on
+similarly thin allegations of a conspiratorial agreement. See, e.g., American Dental Ass 'n, 605
+F.3d at 1294 (rejecting RICO conspiracy claim where plaintiff relied on "the kinds of 'formulaic
+recitations' of a conspiracy claim that the Court in Twombly and lqbal said were insufficient");
+Kivisto v. Miller, Canfield, Paddock & Stone, PLC, 413 F. App'x 136, 140 (11th Cir. 2011)
+(affirming dismissal of RICO conspiracy claim because plaintiff "did not plausibly allege
+sufficient facts regarding the defendants' agreement to engage in conduct substantively barred
+by RICO); see also Spence-Jones, 991 F. Supp. 2d at 1255 ("conclusory language that each
+Defendant 'knowingly agreed and conspired'" insufficient to allege RICO conspiracy).
+B.
+
+Plaintiff Fails To State A Substantive RICO Claim
+
+Plaintiff's RICO conspiracy claim also fails because the Complaint does not adequately
+plead a substantive RICO violation. As set forth in HCLA's motion to dismiss:
+•
+
+The Complaint fails to allege that HCLA violated the law and thus fails to
+establish a RICO predicate. As HCLA shows, contrary to Plaintiff's
+misstatement of the applicable H-1B visa regulations, it was not required to
+make two of the statements Plaintiff supposes it made, and the third supposed
+statement was accurate—not false—under a proper understanding of the
+relevant federal regulations. See HCLA Br. 8-13.
+
+• Plaintiff has not exhausted administrative remedies available to an aggrieved
+party contesting alleged misstatements in H-1B visa applications. Where "a
+regulatory statute afford[s] administrative remedies," an unexhausted claim of
+non-compliance "cannot form the basis for a civil RICO claim." McCulloch v.
+PNC Bank Inc., 298 F.3d 1217, 1227 (11th Cir. 2002); see also Palmer v.
+Trump Model Mgmt., LLC, F. Supp. 3d , 2016 WL 1544740, at *4
+(S.D.N.Y. Mar. 23, 2016) (dismissing RICO claim premised on alleged
+misstatements in H-1B application because laillowing Plaintiff to use the
+civil RICO statute to redress substantive violations of the INA would thwart
+9
+
+Case 6:16-cv-00112-GAP-TBS Document 28 Filed 05/13/16 Page 10 of 15 PageID 630
+
+Congress' careful, comprehensive scheme to remedy violations falling within
+the INA's scope" (internal quotation omitted)); HCLA Br. 14-20.
+• Plaintifffails to pleadfacts sufficient to show an unlawful "association-in-fact"
+RICO enterprise because the Complaint alleges nothing more than that WDPR
+and HCLA entered into a lawful commercial relationship to further their
+respective businesses. See, e.g., Ray v. Spirit Airlines, Inc., 126 F. Supp. 3d
+1332, 1342 (S.D. Fla. 2015) ("Plaintiffs do not plausibly allege that Spirit is
+part of a separate RICO enterprise merely by showing that it hires outside
+developers, marketers, and software designers, as most large corporations
+do."); see also HCLA Br. 20-23.
+Each of these failures independently suffices to defeat Plaintiff's substantive RICO claim, and
+his RICO conspiracy claim with it. See Crawford's Auto Ctr., Inc. v. State Farm Mut. Auto. Ins.
+Co., No. 14-cv-6016, 2015 WL 7568213, at *7 n.8 (M.D. Fla. Nov. 25, 2015) (Presnell, J.).
+In addition, Plaintiff's substantive RICO claim fails because the Complaint does not
+adequately allege a "pattern" of "continuing racketeering activity." H.J. Inc. v. Nw. Bell Tel. Co.,
+492 U.S. 229, 239 (1989) (emphasis in original). The element of continuity "is crucial to a valid
+RICO claim" because it ensures that the conduct alleged constitutes "the sort of offense that
+RICO is designed to address"—specifically, "planned, ongoing, [and] continuing" activity.
+Jackson, 372 F.3d at 1264-65; see also Ward v. Nierlich, 617 F. Supp. 2d 1226, 1239 n.20 (S.D.
+Fla. 2008) (noting that "RICO's continuity requirement serves a crucial gate keeping function").
+Plaintiff's allegations of a purported "pattern" of predicate acts exhibiting "continuity" are
+entirely conclusory. See Compl. ¶ 48. In fact, the Complaint makes clear that Plaintiffs
+substantive RICO claim is based entirely on a one-time layoff of certain WDPR employees
+effective January 30, 2015. See id. IN 12, 15. A one-time layoff cannot satisfy RICO's
+continuity requirement.
+Courts distinguish between two types of continuity: "closed-ender and "open-ended."
+Jackson, 372 F.3d at 1265-66. Neither type of continuity is properly pleaded here.
+10
+
+Case 6:16-cv-00112-GAP-TBS Document 28 Filed 05/13/16 Page 11 of 15 PageID 631
+
+Closed-ended continuity requires proof of "'a series of related predicates extending over
+a substantial period of time.'" Jackson, 372 F.3d at 1265 (quoting H.J. Inc., 492 U.S. at 242).
+That requirement "cannot be met" by allegations of a pattern of predicate acts "lasting less than a
+year." Id. at 1266. Further, where RICO allegations concern only a single venture "with a
+discrete goal, the courts have refused to find a closed-ended pattern of racketeering" even if the
+conduct "took place over longer periods of time." Id. at 1267. Here, notwithstanding conclusory
+allegations to the contrary, see Compl. ¶ 48 (RICO enterprise "extend[ed] over a multi-year
+period of time (a substantial period of time)"), the facts pleaded show only that the alleged
+"enterprise" had a "discrete goal" that was achieved through the layoffs announced in October
+2014 and effective January 30, 2015, Jackson, 372 F.3d at 1267; see, e.g., Compl. VII 12, 15.
+Such allegations are insufficient to establish closed-ended continuity. See Young v. W. Coast
+Indus. Relations Ass 'n, Inc., 763 F. Supp. 64, 73 (D. Del. 1991) (dismissing RICO claim on
+continuity grounds where employer's conduct caused "a single basic injury, the unilateral
+implementation of new terms and conditions into an existing collective bargaining agreement"
+during "a period of, at most, eleven to fourteen months"), aff'd, 961 F.2d 1570 (3d Cir. 1992).
+Open-ended continuity requires a plaintiff to show that the alleged predicate acts were
+part of the enterprise's "regular way of doing business." Jackson, 372 F.3d at 1267 (citing H.J.
+Inc., 492 U.S. at 242-43). Plaintiff seeks to satisfy that requirement only by asserting it. The
+Complaint says no more than that "the predicate offenses are part of the HCL-[WDPR]
+Enterprise's regular way of doing business." Compl. ¶ 48. This is precisely the type of
+"formulaic recitation of the elements of a cause of action" that fails to state a claim under Rule 8.
+American Dental Ass 'n, 605 F.3d at 1291. Thus, Plaintiff has failed to establish open-ended
+continuity. See Ferrell v. Durbin, 311 F. App'x 253, 257 (11th Cir. 2009) (per curiam) (plaintiff
+11
+
+Case 6:16-cv-00112-GAP-TBS Document 28 Filed 05/13/16 Page 12 of 15 PageID 632
+
+failed to plead open-ended continuity where alleged predicate acts had "a specific objective and a
+natural ending point"); see also Jackson, 372 F.3d at 1268 (no open-ended continuity where
+"defendants' actions ... were a unique, first-time occurrence").
+III.
+
+Plaintiffs Florida Civil Conspiracy Claim Should Be Dismissed
+Plaintiffs claim for civil conspiracy under state common law (Count III) also fails.
+
+Under Florida law, "[t]he elements that a plaintiff must allege for a conspiracy claim are that
+(1) two or more parties (2) agree (3) to commit an unlawful act." American United Life Ins. Co.
+v. Martinez, 480 F.3d 1043, 1067-68 (11th Cir. 2007). Plaintiff fails to allege two of these
+elements
+
+an unlawful act and a conspiratorial agreement to commit that act. See supra pp. 5-9;
+
+HCLA Br. 8-13, 23-24. Further, Plaintiff's failure to exhaust his administrative remedies bars
+his state-law civil conspiracy claim. See supra p. 9-10; HCLA Br. 14-20.
+Plaintiff's civil conspiracy claim also fails for an additional, independent reason: Under
+Florida law, "a cause of action for civil conspiracy exists ... only if the basis for the conspiracy
+is an independent wrong or tort which would constitute a cause of action if the wrong were done
+by one person." Blatt v. Green, Rose, Kahn & Piotrkowski, 456 So. 2d 949, 950-51 (Fla. 3d
+DCA 1984) (internal quotation omitted); see also Posner v. Essex Ins. Co., 178 F.3d 1209, 121718 (11th Cir. 1999) ("Under Florida law, an actionable conspiracy requires an actionable
+underlying tort or wrong." (internal quotation and brackets omitted)). For example, in Regal
+Marble, Inc. v. Drexel Investments, Inc., 568 So. 2d 1281 (Fla. 4th DCA 1990), the plaintiff's
+claim that the defendants conspired to offer false statements in judicial proceedings failed
+because Florida law does not recognize a private cause of action for giving false statements in a
+judicial proceeding. Id. at 1282-83. Here, there is no private right of action under either federal
+or Florida law to assert violations of the federal statute and regulations governing the H-1B visa
+12
+
+Case 6:16-cv-00112-GAP-TBS Document 28 Filed 05/13/16 Page 13 of 15 PageID 633
+
+program. See HCLA Br. 14-20; see also Venkatraman v. REI Sys., Inc., 417 F.3d 418, 423-24
+(4th Cir. 2005) (holding that "an implied private right of action ... is not implied under 8 U.S.C.
+§ 1182(n)").4 Because Plaintiff could not bring a claim under these provisions "if the [alleged]
+wrong were done by one person," he cannot assert a claim for civil conspiracy to violate those
+provisions, and thus the conspiracy claim against WDPR and HCLA must be dismissed. See
+Blatt, 456 So. 2d at 950-51.
+CONCLUSION
+For the foregoing reasons, and those presented in HCLA's motion to dismiss, Plaintiff's
+Complaint should be dismissed with prejudice.
+This 13th day of May, 2016.
+Respectfully submitted,
+/s/ Mary Ruth Houston
+Mary Ruth Houston (Bar No. 834440)
+SHUTTS & BOWEN LLP
+300 South Orange Ave., Suite 1000
+Orlando, FL 32801
+Telephone: 407-835-6939
+Facsimile: 407-425-8316
+E-mail: mhouston@shutts.com
+David W. Ogden (pro hac vice)
+WILMER CUTLER PICKERING
+HALE and DORR LLP
+1875 Pennsylvania Avenue, NW
+Washington, D.C. 20006
+Telephone: 202-663-6440
+Facsimile: 202-663-6363
+E-mail: david.ogden@wilmerhale.com
+Nor is there a private right of action under 18 U.S.C. § 1546, a federal criminal statute. See Gonzales v.
+Caremore Health Plan, Inc., No. CV 15-1499, 2015 WL 6394467, at *2 (C.D. Cal. Oct. 22, 2015); see also
+Adventure Outdoors, Inc. v. Bloomberg, 552 F.3d 1290, 1303 (11th Cir. 2008) (rejecting notion that Congress
+authorized "a federal private right of action any time a civil plaintiff invokes a federal criminal statute); Madison v.
+Adams-Jones, No. 3:06cv219, 2006 WL 2471491, at *2 (N.D. Fla. Aug. 23, 2006) (federal criminal statutes "do not
+create a private right of action").
+4
+
+13
+
+Case 6:16-cv-00112-GAP-TBS Document 28 Filed 05/13/16 Page 14 of 15 PageID 634
+
+Alan Schoenfeld (pro hac vice)
+Colin Reardon (pro hac vice)
+WILMER CUTLER PICKERING
+HALE and DORR LLP
+7 World Trade Center, 250 Greenwich St.
+New York, NY 10007
+Telephone: 212-230-8800
+Facsimile: 212-230-8888
+E-mail: alan.schoenfeld@wilmerhale.com
+E-mail: colin.reardon@wilmerhale.com
+Counselfor Walt Disney Parks and Resorts
+U.S., Inc.
+
+14
+
+Case 6:16-cv-00112-GAP-TBS Document 28 Filed 05/13/16 Page 15 of 15 PageID 635
+
+CERTIFICATE OF SERVICE
+Ihereby certify thatIhave this 13th day of May, 2016, electronically filed the foregoing
+with the Clerk of Court using the CM/ECF system, which will automatically send e-mail
+notification of such filing to the following attorneys of record:
+Sara Blackwell
+The Blackwell Firm
+1800 2nd St. Ste. 882
+Sarasota, FL 34236
+Telephone: 941-961-3046
+E-mail: sara@theblackwellfirm.com
+Richard S. Dellinger
+LOWNDES DROSDICK DOSTER KANTOR & REED, P.A.
+215 N. Eola Drive
+Orlando, FL 32801
+Telephone: 407-418-6480
+Facsimile: 407-843-4444
+E-mail: richard.dellinger@lowndes-law.com
+Charles B. Casper
+MONTGOMERY McCRACKEN WALKER & RHOADS LLP
+123 South Broad St.
+Philadelphia, PA 19109
+Telephone: 215-772-1500
+Facsimile: 215-731-3750
+E-mail: ccasper@mmwr.com
+
+/s/ Mary Ruth Houston
+Mary Ruth Houston
+ORLDOCS 14700057 1
+
+15
+
+

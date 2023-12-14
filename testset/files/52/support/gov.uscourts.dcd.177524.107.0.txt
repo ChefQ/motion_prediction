@@ -1,0 +1,1440 @@
+Case 1:16-cv-00445-TSC Document 107 Filed 01/27/17 Page 1 of 39
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF COLUMBIA
+
+BASSEM AL-TAMIMI, et al.,
+Plaintiffs,
+
+Case No. 16-cv-445 (TSC)
+
+v.
+SHELDON ADELSON, et al.,
+
+[Oral Argument Requested]
+
+Defendants.
+DEFENDANTS’ MOTION TO DISMISS THE AMENDED COMPLAINT
+Defendants Sheldon Adelson*+, Lawrence Ellison*, John Hagee*, Irving Moskowitz+,
+Haim Saban*, American Friends of Ariel*, American Friends of Ulpana Ofra*, American
+Friends of Bet El Yeshiva, Christian Friends of Israeli Communities*, Efrat Development
+Foundation*, Falic Family Foundation, Inc., Friends of the Israel Defense Forces*, Gush Etzion
+Foundation*, Honenu National Legal Defense Organization*, The Hebron Fund*, Bank Leumi
+Le-Israel B.M.*, Bank Leumi USA*, Bank Hapoalim B.M.*+, RE/MAX, LLC, Access
+Industries, Inc.+, Veolia Environnement S.A.*+, Veolia North America, LLC*, Hewlett Packard
+Enterprise Co.*, Hewlett Packard (Israel) Ltd.*, Motorola Solutions, Inc.*, Motorola Solutions
+Israel Ltd.*+, and Jewish National Fund (Keren Kayemeth Le Israel) Inc.* (collectively
+“Defendants”) move to dismiss Plaintiffs’ Amended Complaint (the “Complaint” or “AC”).
+As detailed in the accompanying Memorandum of Law, Defendants move this Court for
+an order dismissing the Complaint pursuant to Rule 12(b)(1) as none of the claims asserted in the
+Complaint is justiciable under the political question and act of state doctrines. A proposed order
+is attached to this Motion.
+
+Case 1:16-cv-00445-TSC Document 107 Filed 01/27/17 Page 2 of 39
+
+As previewed in the Notice previously filed by Defendants (Dkt. 93), Defendants also
+move to dismiss the Complaint under Rule 12(b) on the grounds that it fails to plead an
+actionable claim and improperly seeks to invoke jurisdiction over extraterritorial matters under
+the Alien Tort Statute (“ATS”) and, in the event of dismissal of the federal ATS claims, it fails to
+establish diversity jurisdiction over the non-federal claims. In addition, each defendant above
+whose name is designated with an asterisk (“*”) also moves on the ground of lack of personal
+jurisdiction, and each defendant above whose name is designated with a plus sign (“+”) also
+moves on the ground of lack of proper service of process. Pursuant to the Court’s December 15,
+2016 Order (Dkt. 97), the accompanying Memorandum of Law does not brief these further
+grounds for dismissal, pending further instruction by the Court.
+
+Dated: Washington, D.C.
+January 27, 2017
+Respectfully submitted,
+
+CLEARY GOTTLIEB STEEN & HAMILTON LLP
+
+COVINGTON & BURLING LLP
+
+By: /s/ Jonathan I. Blackman
+
+By: /s/ John E. Hall /Signature with
+Permission
+
+Jonathan I. Blackman (admitted pro hac vice)
+Alexis L. Collins (D.C. Bar # 474599)
+Teale E. Toweill (D.C. Bar # 996061)
+2000 Pennsylvania Avenue, N.W.
+Washington, D.C. 20006
+T: 202-974-1500
+F: 202-974-1999
+jblackman@cgsh.com
+acollins@cgsh.com
+ttoweill@cgsh.com
+
+John E. Hall (D.C. Bar No. 415364)
+David M. Zionts (D.C. Bar No. 995170)
+One CityCenter
+850 Tenth Street, NW
+Washington, DC 20001-4956
+(202) 662-6000
+jhall@cov.com
+dzionts@cov.com
+
+Counsel for Defendants Bank Leumi Le-Israel B.M.
+and Bank Leumi USA
+
+2
+
+Counsel for Defendants Hewlett Packard
+Enterprise Co. and Hewlett-Packard (Israel)
+Ltd.
+
+Case 1:16-cv-00445-TSC Document 107 Filed 01/27/17 Page 3 of 39
+
+CHADBOURNE & PARKE LLP
+
+BAKER BOTTS L.L.P.
+
+By: /s/ Abbe David Lowell /Signature with
+Permission
+
+By: /s/ William H. Jeffress, Jr. /Signature
+with Permission
+
+Abbe David Lowell (D.C. Bar No. 358651)
+Michael Bhargava (D.C. Bar No. 978078)
+1200 New Hampshire Avenue, N.W.
+Washington, D.C. 20036
+Telephone: (202) 974-5600
+Facsimile: (202) 974-5602
+E-mail: adlowell@chadbourne.com;
+mbhargava@chadbourne.com
+
+William H. Jeffress, Jr. (D.C. Bar No.
+041152)
+Aaron Stein Rabinowitz (D.C. Bar No.
+1017165)
+The Warner
+1299 Pennsylvania Avenue, NW
+Washington, DC 20004
+Tel: (202) 639-7844
+Fax: (202) 585-1004
+william.jeffress@bakerbotts.com
+aaron.rabinowitz@bakerbotts.com
+
+Counsel for Defendant Bank Hapoalim B.M.
+
+Counsel for Defendants Lawrence Ellison and
+Haim Saban
+
+FOLEY & LARDNER LLP
+
+IFRAH PLLC
+
+By: /s/ Barry G. Felder /Signature with
+Permission
+
+By: /s/ George R. Calhoun /Signature with
+Permission
+
+Barry G. Felder (D.C. Bar No. 307736)
+90 Park Avenue
+New York, New York 10016
+T: 212-338-3540
+F: 212-687-2329
+bgfelder@foley.com
+
+George R. Calhoun (D.C. Bar No. 459717)
+1717 Pennsylvania Ave., NW
+Suite 650
+Washington D.C., 20006
+T: (202) 524-4140
+F: (202) 524-4141
+george@ifrahlaw.com
+Counsel for Defendant Motorola Solutions, Inc. and
+Motorola Solutions Israel Ltd.
+
+Michael J. Tuteur (Bar No. D00202)
+111 Huntington Avenue, Suite 2500
+Boston, Massachusetts 02199
+T: 617-342-4016
+F: 617-341-4001
+mtuteur@foley.com
+Counsel for Defendant Sheldon G. Adelson
+
+3
+
+Case 1:16-cv-00445-TSC Document 107 Filed 01/27/17 Page 4 of 39
+
+COFFEY BURLINGTON, P.L.
+
+FRIED, FRANK, HARRIS, SHRIVER &
+JACOBSON LLP
+
+By: /s/ Andrew H. Marks /Signature with Permission
+By: /s/ Elliot E. Polebaum /Signature with
+Permission
+
+Andrew H. Marks, Esq. (DC Bar No. 932269)
+amarks@coffeyburlington.com
+Gabriel Groisman, Esq.
+Admitted pro hac vice
+Florida Bar No. 25644
+ggroisman@coffeyburlington.com
+yvb@coffeyburlington.com
+service@coffeyburlington.com
+2601 South Bayshore Drive, Penthouse One
+Miami, Florida 33133
+Telephone: (305) 858-2900
+Facsimile: (305) 858-5261
+
+Elliot E. Polebaum (DC Bar No. 358748)
+Douglas W. Baruch (DC Bar No. 414354)
+Joseph J. LoBue (DC Bar No. 484097)
+Jennifer M. Wollenberg (DC Bar No. 494895)
+801 17th Street, NW
+Washington, DC 20006
+Telephone: (202) 639-7000
+Facsimile: (202) 639-7003
+Email: Elliot.Polebaum@friedfrank.com
+
+Counsel for Defendant Falic Family Foundation
+
+SHEPPARD MULLIN RICHTER & HAMPTON
+LLP
+
+By: /s/ Christopher M. Loveland /Signature with
+Permission
+CHRISTOPHER M. LOVELAND
+(D.C. Bar No. 473969)
+2099 Pennsylvania Ave., N.W.
+Suite 100
+Washington, D.C. 20006-6801
+Telephone: (202) 747-1924
+Facsimile: (202) 747-3832
+cloveland@sheppardmullin.com
+
+Counsel for Defendants Veolia North
+America, LLC and Veolia Environnement S.A.
+
+O’HAGAN MEYER
+
+By: /s/ Michael E. Barnsback /Signature with
+Permission
+Michael E. Barnsback (USDC Bar No.
+VA015)
+411 E. Franklin Street, Suite 500
+Richmond, VA 23219
+PH 804-403-7100
+FX 804-403-7110
+mbarnsback@ohaganmeyer.com
+Counsel for Defendant RE/MAX, LLC
+
+Counsel for Defendant Irving Moskowitz
+
+4
+
+Case 1:16-cv-00445-TSC Document 107 Filed 01/27/17 Page 5 of 39
+
+ZELL, ARON & CO.
+
+PROSKAUER ROSE LLP
+
+By: /s/ Lawrence Marc Zell /Signature with
+Permission
+
+By: /s/ Mark D. Harris /Signature with
+Permission
+
+Lawrence Marc Zell
+D.C. Bar No. 959437
+34 Ben Yehuda Street
+15th Floor
+City Tower Building
+Jerusalem 9423001 ISRAEL
+Direct Phone: 011-972-2-633-6301
+Main Telephone: 011-972-2-633-6300
+Cell Phone: 011-972-52-869-9000
+Email: mzell@fandz.com
+
+Mark D. Harris (admitted pro hac vice)
+Eleven Times Square
+New York, NY 10036
+Telephone: (212) 969-3530
+Facsimile: (212) 969-2900
+Email: mharris@proskauer.com
+
+Counsel for Defendants American Friends of Ariel,
+Inc., American Friends of Ulpana Ofra, Gush Etzion
+Foundation, The Hebron Fund, Christian Friends of
+Israeli Communities, Honenu National Legal Defense
+Organization [sic]
+
+Rachel O. Wolkinson (DC Bar No. 975548)
+1001 Pennsylvania Avenue, N.W.
+Suite 600 South
+Washington, D.C. 20004
+Telephone: (202) 416-5811
+Facsimile: (202) 416-6899
+Email: rwolkinson@proskauer.com
+Counsel for Defendant
+Friends of the Israel Defense Forces
+
+LARS LIEBELER PC
+
+RIFKIN WEINER LIVINGSTON LLC
+
+By: /s/ Lars H. Liebeler /Signature with Permission
+
+By: /s/ Charles S. Fax /Signature with
+Permission ______
+
+Lars H. Liebeler
+D.C. Bar No. 416666
+1828 L Street, N.W., Suite 705
+Washington, D.C. 20036
+Direct Telephone: (202) 587-4747
+Main Telephone: (202) 466-4110
+Email: LLiebeler@LHL-LawFirm.com
+
+Charles S. Fax (DC Bar No. 198002)
+7979 Old Georgetown Road, Suite 400
+Bethesda, Maryland 20814
+Telephone: (301) 951-0150
+Facsimile: (301) 951-0172
+Email: cfax@rwlls.com
+
+Counsel for Defendant John Hagee
+
+Counsel for Defendant Jewish National Fund
+(Keren Kayemeth Le Israel) Inc.
+
+5
+
+Case 1:16-cv-00445-TSC Document 107 Filed 01/27/17 Page 6 of 39
+
+DAVID ABRAMS, ATTORNEY AT LAW
+
+KIRKLAND & ELLIS LLP
+
+By: /s/ David Abrams /Signature with Permission
+
+By: /s/ Jay P. Lefkowitz /Signature with
+Permission
+
+David Abrams (Bar No. NY0201)
+305 Broadway, Suite 601
+New York, NY 10007
+212-897-5821
+dnabrams@gmail.com
+
+Jay P. Lefkowitz
+Atif Khawaja
+David S. Flugman
+601 Lexington Avenue
+New York, New York 10022
+Telephone: (212) 446-4800
+Facsimile: (212) 446-6460
+lefkowitz@kirkland.com
+atif.khawaja@kirkland.com
+david.flugman@kirkland.com
+
+Counsel for Defendant Efrat Foundation USA
+
+Counsel for Defendant Access Industries, Inc.
+
+KASOWITZ, BENSON, TORRES & FRIEDMAN
+LLP
+
+THE AMERICAN CENTER FOR LAW
+AND JUSTICE
+
+By: /s/ Shelley Ivan /Signature with Permission
+
+By: /s/ Jay Alan Sekulow /Signature with
+Permission
+
+Shelley Ivan (DC Bar No. 985488)
+1633 Broadway
+New York, New York 10019
+Telephone: (212) 506-1700
+Facsimile: (212) 506-1800
+Email: sivan@kasowitz.com
+Counsel for Defendant American Friends of Bet El
+Yeshiva
+
+Jay Alan Sekulow (D.C. Bar No. 496335)
+Stuart J. Roth (D.C. Bar No. 475937)
+Andrew J. Ekonomou (admitted pro hac vice)
+Jeffrey Harold Ballabon (admitted pro hac
+vice)
+Benjamin P. Sisney (admitted pro hac vice)
+201 Maryland Avenue, N.E.
+Washington, D.C. 20002
+Email: sekulow@aclj.org
+Telephone: (202) 546-8890
+Facsimile: (202) 546-9309
+Co-Counsel for Defendant Gush Etzion
+Foundation
+
+6
+
+Case 1:16-cv-00445-TSC Document 107 Filed 01/27/17 Page 7 of 39
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF COLUMBIA
+
+BASSEM AL-TAMIMI, et al.,
+Plaintiffs,
+
+Case No. 16-cv-445 (TSC)
+
+v.
+SHELDON ADELSON, et al.,
+
+[Oral Argument Requested]
+
+Defendants.
+
+MEMORANDUM OF LAW IN SUPPORT OF
+DEFENDANTS’ MOTION TO DISMISS THE AMENDED COMPLAINT PURSUANT
+TO FEDERAL RULE OF CIVIL PROCEDURE 12(b)(1)
+
+Case 1:16-cv-00445-TSC Document 107 Filed 01/27/17 Page 8 of 39
+
+TABLE OF CONTENTS
+PAGE
+TABLE OF AUTHORITIES .......................................................................................................... ii
+PRELIMINARY STATEMENT .....................................................................................................1
+ALLEGATIONS OF THE COMPLAINT.......................................................................................3
+Conduct By Israeli Settlers And The Israeli Government ....................................................4
+The Plaintiffs ........................................................................................................................4
+The Defendants ....................................................................................................................6
+Plaintiffs’ Claims ...............................................................................................................10
+ARGUMENT .................................................................................................................................12
+THE POLITICAL QUESTION AND THE ACT OF STATE DOCTRINES BAR
+ALL OF PLAINTIFFS’ CLAIMS .....................................................................................12
+A.
+
+B.
+
+Plaintiffs’ Claims Are Not Justiciable Under The Political Question
+Doctrine..................................................................................................................13
+1.
+
+The Issues Raised In The Complaint Previously Have Been
+Deemed Political Questions Under Baker v. Carr .....................................14
+
+2.
+
+The Baker v. Carr Factors Confirm That Plaintiffs’ Complaint
+Raises Non-Justiciable Political Questions ................................................16
+
+Plaintiffs’ Claims Are Not Justiciable Under The Act Of State Doctrine .............22
+
+CONCLUSION ..............................................................................................................................26
+APPENDIX A……………………………………………………………………………………27
+
+i
+
+Case 1:16-cv-00445-TSC Document 107 Filed 01/27/17 Page 9 of 39
+
+TABLE OF AUTHORITIES *
+PAGE
+CASES
+Abu Ali v. Ashcroft,
+350 F. Supp. 2d 28 (D.D.C. 2004) .....................................................................................24
+*Baker v. Carr,
+369 U.S. 186 (1962) ................................................................................................... passim
+*Banco Nacional de Cuba v. Sabbatino,
+376 U.S. 398 (1964) ...........................................................................................................22
+Biton v. Palestinian Interim Self-Gov’t Auth.,
+310 F. Supp. 2d 172 (D.D.C. 2004) ...................................................................................22
+Biton v. Palestinian Interim Self-Gov’t Auth.,
+412 F. Supp. 2d 1 (D.D.C. 2005) .......................................................................................22
+Corrie v. Caterpillar, Inc.,
+503 F.3d 974 (9th Cir. 2007) .......................................................................................18, 20
+*Doe v. State of Israel,
+400 F. Supp. 2d 86 (D.D.C. 2005) ............................................................................. passim
+*Doe v. Exxon Mobil Corp.,
+69 F. Supp. 3d 75 (D.D.C. 2014) .......................................................................................26
+El-Shifa Pharm. Indus. Co. v. United States,
+607 F.3d 839 (D.C. Cir. 2010) ...........................................................................................13
+Glen v. Club Mediterranée, S.A.,
+450 F.3d 1251 (11th Cir. 2006) .........................................................................................24
+Haig v. Agee,
+453 U.S. 280 (1981) ...........................................................................................................16
+Harisiades v. Shaughnessy,
+342 U.S. 580 (1952) ...........................................................................................................16
+Matar v. Dichter,
+500 F. Supp. 2d 284 (S.D.N.Y. 2007)................................................................................20
+
+*
+
+Asterisks identify those authorities on which Defendants chiefly rely.
+ii
+
+Case 1:16-cv-00445-TSC Document 107 Filed 01/27/17 Page 10 of 39
+
+PAGE
+Mobarez v. Kerry,
+No. 15-cv-516 (KBJ), 2016 U.S. Dist. LEXIS 64437 (D.D.C. May 17, 2016) .................17
+Oetjen v. Central Leather Co.,
+246 U.S. 297 (1918) ...........................................................................................................25
+Schneider v. Kissinger,
+310 F. Supp. 2d 251 (D.D.C. 2004) ...................................................................................18
+Underhill v. Hernandez,
+168 U.S. 250 (1897) ...........................................................................................................25
+World Wide Minerals Ltd. v. Republic of Kazakhstan,
+296 F.3d 1154 (D.C. Cir. 2002) .........................................................................................22
+W.S. Kirkpatrick & Co. v. Envtl. Tectonics Corp., Int’l,
+493 U.S. 400 (1990) ...............................................................................................22, 23, 24
+Zivotofsky v. Kerry,
+576 U.S. ___, 135 S. Ct. 2076 (2015) ................................................................................17
+REGULATIONS
+Anti-Terrorism Act,
+18 U.S.C. § 2331 et seq......................................................................................................22
+RULES
+Fed. R. Civ. P. 12(b)(1)..........................................................................................................1, 7, 26
+OTHER AUTHORITIES
+Cong. Research Serv., U.S. Foreign Aid to Israel, Appendix B
+(RL33222 Dec. 22, 2016), www.fas.org/sgp/crs/mideast/RL33222.pdf ...........................17
+Exec. Order No. 12,947,
+60 Fed. Reg. 5079 (Jan. 25, 1995) .....................................................................................21
+Exec. Order No. 13,099,
+63 Fed. Reg. 45,167 (Aug. 25, 1998),................................................................................21
+Notice No. 2016-01427, 81 Fed. Reg. 3937 (Jan. 22, 2016) .............................................21
+G.A. Res. 66/225, U.N. Doc. A/RES/66/225 (Mar. 29, 2012),
+http://www.un.org/en/ga/search/view_doc.asp?symbol=%20A/RES/66/225 ...................19
+John Kerry, Sec’y of State, U.S. Dep’t of State, Statement on Vote in the
+UN Security Council (Dec. 23, 2016), https://20092017.state.gov/secretary/remarks/2016/12/266070.htm ....................................................20
+iii
+
+Case 1:16-cv-00445-TSC Document 107 Filed 01/27/17 Page 11 of 39
+
+PAGE
+Susan E. Rice, U.S. Ambassador to the United Nations, Explanation of Vote on the
+Resolution on the Situation in the Middle East, (Feb. 18, 2011), https://2009-2017usun.state.gov/remarks/4978..............................................................................................19
+Thomas A. Shannon, Jr., Under Sec’y of State for Political Affairs, U.S. Dep’t of State,
+Susan E. Rice, Nat’l Sec. Advisor, and Jacob Nagel, Israeli Acting Nat’l Sec.
+Advisor, Statements at the Signing of a Memorandum of Understanding
+between the United States and Israel on Security Assistance (Sept. 14, 2016),
+https://2009-2017.state.gov/p/nea/rls/rm/261928.htm .......................................................17
+Trade Facilitation and Trade Enhancement Act of 2015
+Pub. L. No. 114-125, 130 Stat. 122 (Feb. 24, 2016) ..........................................................19
+§ 909(a) ........................................................................................................................19
+§ 909(b) ........................................................................................................................19
+§ 909(e) ........................................................................................................................20
+U.N. GAOR, 66th Sess., 91st plen. mtg., U.N. Doc. A/66/PV.91 (Dec. 23, 2001),
+http://www.un.org/en/ga/search/view_doc.asp?symbol=A/66/PV.91 ...............................19
+U.S. State Department Press Releases on Israel,
+https://2009-2017.state.gov/p/nea/ci/is/c5218.htm ............................................................19
+
+iv
+
+Case 1:16-cv-00445-TSC Document 107 Filed 01/27/17 Page 12 of 39
+
+Defendants Sheldon Adelson, Lawrence Ellison, John Hagee, Irving Moskowitz, Haim
+Saban, American Friends of Ariel, American Friends of Ulpana Ofra, American Friends of Bet
+El Yeshiva, Christian Friends of Israeli Communities, Efrat Development Foundation, Falic
+Family Foundation, Inc., Friends of the Israel Defense Forces, Gush Etzion Foundation, Honenu
+National Legal Defense Organization, The Hebron Fund, Bank Leumi Le-Israel B.M., Bank
+Leumi USA, Bank Hapoalim B.M., RE/MAX, LLC, Access Industries, Inc., Veolia
+Environnement S.A., Veolia North America, LLC, Hewlett Packard Enterprise Co., Hewlett
+Packard (Israel) Ltd., Motorola Solutions, Inc., Motorola Solutions Israel Ltd., and Jewish
+National Fund (Keren Kayemeth Le Israel) Inc. (collectively, “Defendants”) respectfully submit
+this memorandum of law in support of their motion to dismiss Plaintiffs’ Amended Complaint
+(Dkt. 77, the “Complaint” or “AC”) pursuant to Federal Rule of Civil Procedure 12(b)(1). 1
+PRELIMINARY STATEMENT
+The Complaint in this action is a strident political diatribe, thinly garbed as a legal
+pleading. Its subject, the Israeli-Palestinian conflict (and, in particular, the settlements
+established by Israel in the West Bank after the 1967 War), is one of the world’s longest-running,
+
+1
+
+Pursuant to the Court’s order of December 15, 2016 (the “December 15 Order”), this
+memorandum is limited to Defendants’ contention that the Court lacks subject matter jurisdiction
+under Rule 12(b)(1). It does not address the failure of the AC to state an actionable claim.
+Because of the unique nature of the Alien Tort Statute (“ATS”) as a jurisdictional grant, the
+numerous pleading deficiencies in the AC’s ATS claims could be resolved under Rule 12(b)(1).
+The jurisdictional issues, however, are intertwined with Plaintiffs’ failure to plead an actionable
+claim under that statute, and Defendants understand that the December 15 Order defers such
+briefing. Because this brief does not address ATS-specific issues, it also does not address
+Plaintiffs’ failure to establish diversity jurisdiction over the non-federal claims, which would be a
+basis for dismissal of those claims in the event that the federal ATS claims were dismissed.
+Should the AC survive the Rule 12(b)(1) arguments briefed here, Defendants would
+thereafter intend to brief all the deficiencies in the ATS claim at one time. Also, in accordance
+with the December 15 Order, this memorandum does not address other aspects of Defendants’
+Motion, including issues of personal jurisdiction or service, which the affected Defendants also
+will brief, if necessary, at a later time as instructed by the Court.
+
+Case 1:16-cv-00445-TSC Document 107 Filed 01/27/17 Page 13 of 39
+
+most tragic, and, so far, regrettably intractable political controversies. This dispute is of great
+consequence not only to the U.S. but to the rest of the world community, which recognizes the
+importance of the dispute in the complex politics of the entire Middle East. The rights and
+wrongs of the parties to that conflict, including with respect to Israel’s settlements, have been,
+and will continue to be, fiercely debated in the political arena. The most recent United Nations
+Security Council resolution on the settlements in December 2016 and the hotly contested
+positions of various countries (and within U.S. domestic politics) demonstrate that debate
+surrounding this issue endures in the international and national political arenas and that the
+position of the U.S. Government itself may well be fluid.
+Whatever else the settlement dispute might be and wherever else it may be decided, it is
+not a proper subject for adjudication by a U.S. court. This Court recognized the
+non-justiciability of this conflict over a decade ago in Doe v. State of Israel, 400 F. Supp. 2d 86
+(D.D.C. 2005) (Bates, J.) (“Doe I”), when it dismissed a complaint by anonymous Palestinians
+that, except for the identity of the defendants, was nearly identical to this one. This Court held,
+inter alia, that claims similar to those asserted here regarding settlement activities in the West
+Bank are non-justiciable under the political question and act of state doctrines.
+The present Complaint suffers from the same defects. While Plaintiffs have spent a great
+deal of time presenting a generalized account of alleged mistreatment of unnamed Palestinians
+by unnamed soldiers and settlers, they have not pleaded claims justiciable in a U.S. court.
+Whatever forum may be appropriate for presenting this political controversy, this Court is not it.
+
+2
+
+Case 1:16-cv-00445-TSC Document 107 Filed 01/27/17 Page 14 of 39
+
+ALLEGATIONS OF THE COMPLAINT 2
+The Complaint is premised on an alleged conspiracy among Defendants, the Israeli
+military, and unidentified settlers living in Israel and in the area referenced in the Complaint as
+the “Occupied Palestinian Territories” (or “OPT”). AC at 12-13, 16, ¶ 124 (referring to
+settlement leaders as co-conspirators), ¶¶ 214-215 (alleging the Israel Defense Force (“IDF”) as
+co-conspirator with the settlers); Ex. C at 1 (identifying the Israel Air Force (“IAF”) as a
+“perpetrator” with the IDF, settlers, and Israeli-based non-governmental organizations).
+Plaintiffs’ claims are centered on activities occurring in the “OPT” (hereinafter also referred to as
+“the West Bank and Gaza”). The Complaint defines “settlements” as “all Israeli civilian
+communities built on lands occupied or otherwise administered by Israel during its second
+occupation (post-1967 Six-Day War) . . .” and the “OPT” as “[East Jerusalem], the West Bank,
+Gaza, and other Palestinian territory.” 3 AC at 11 nn.1 & 2. Throughout, the Complaint employs
+politically charged terms that highlight the political and diplomatic questions Plaintiffs would
+have this Court adjudicate. In substance, Plaintiffs seek to litigate in U.S. court almost 50 years
+of politically fraught relations between Israel and the Palestinian inhabitants of the West Bank
+and Gaza.
+
+2
+
+We recite the salient allegations of the Complaint to show that, on their face, they
+demonstrate that this is not a justiciable case or controversy. See, e.g., Doe I, 400 F. Supp. 2d at
+112-14 (referencing complaint’s allegations to determine applicability of the political question
+and act of state doctrines). Defendants do not accept the truth of these allegations.
+3
+
+All Defendants herein join fully in the legal arguments and relief sought in the Motion
+and this Memorandum. However, some Defendants take issue with the usage of certain
+terminology in describing the Israeli-Palestinian conflict, including the words used to describe
+the geographic area where the settlements are located, which they believe should be called Judea
+and Samaria. The views of these Defendants are summarized in the attached Appendix A.
+Nevertheless, in recognition of the fact that the Court’s task is to resolve a motion to dismiss and
+not the Israeli-Palestinian conflict, the terms used in the Complaint are used herein.
+3
+
+Case 1:16-cv-00445-TSC Document 107 Filed 01/27/17 Page 15 of 39
+
+Conduct By Israeli Settlers And The Israeli Government
+The Complaint contends that, since 1967, Israeli settlers, aided by the IDF, have
+“threaten[ed] and intimidate[d] the local Palestinian population on a daily basis,” resulting in
+“the expulsion of approximately 400,000 Palestinians from the OPT” and “the demolition or
+confiscation of 49,000 Palestinian homes,” as well as the denial of medical care and the
+destruction of schools, mosques, and hospitals in the West Bank and Gaza. AC at 16 & ¶¶ 78,
+92, 176. Plaintiffs further allege that settlers have committed a long list of misdeeds, including
+“daily violent attacks on Palestinian homeowners and farmers, . . . the slaughtering of livestock
+and the poisoning of water wells and destruction of electric grids, . . . [and] devastation of the
+Palestinian agricultural sector, especially destruction of olive groves . . . .” 4 AC ¶ 79. The
+purported goal of the alleged conspiracy is “the expulsion of all non-Jews from [the] OPT and
+the creation of new segregated ‘Jewish-only’ cities and villages.” AC at 12. The Complaint
+alleges that the founding and expansion of settlements have been encouraged by the Israeli
+government since “Prime Minister Sharon’s advice to seize any and all Palestinian-owned
+hilltops” forty years ago, AC ¶ 120, and asserts that, while settlement activity is illegal under
+Israeli and international law and has been condemned by U.S. policymakers, it has been
+consistently condoned by Israel throughout this period through the active participation of the
+Israeli army in the alleged illegal activity. AC at 16.
+The Plaintiffs
+Plaintiffs claim to be American citizens or Palestinian nationals whose relatives, or
+themselves, allegedly have suffered physical injury, death, or property damage or loss as a result
+
+4
+
+The Complaint extensively quotes from a 2012 book entitled Our Harsh Logic, see, e.g.,
+AC at 13 n.9, 30 & ¶¶ 89, 187-189, 205, 208, which is a compilation by an advocacy group of
+stories allegedly told by anonymous Israeli soldiers.
+4
+
+Case 1:16-cv-00445-TSC Document 107 Filed 01/27/17 Page 16 of 39
+
+of Israeli settlement activity. AC ¶ 29. Only a few of Plaintiffs are alleged to be American
+citizens; the others are apparently Palestinians, but many are unnamed altogether, being merely
+referred to as a “Village Council” or as a family who allegedly suffered damages represented by
+a named Plaintiff. AC ¶ 29; see also caption.
+While disclaiming a challenge to IDF confiscations or a request that the Court resolve the
+legality of the settlements or Palestinians’ “right to return to their homeland,” AC at 30,
+Plaintiffs nonetheless seek $1 billion in damages (reduced from $34.5 billion in the original
+complaint) from Defendants based on injuries alleged to have been suffered by Palestinians
+generally as a result of “heinous war crimes committed by IDF personnel in the OPT” and
+establishment of settlements in the West Bank encouraged by Israeli government officials. See,
+e.g., AC at 30-31 & ¶¶ 29, 80-81, 83, 85, 88, 91. Strikingly, no attempt is made to link any harm
+suffered by a particular Plaintiff to the conduct of any particular Defendant. 5 Rather, the
+Complaint asserts in generic and conclusory terms injuries such as unpaid rent; loss of
+unidentified businesses owned by unspecified individuals; loss of unidentified infrastructure
+improvements; theft of unidentified land, both by settlers and in connection with the separation
+wall and roads built by the Israeli government; costs of counseling services for “thousands of
+traumatized Palestinian children”; the destruction of “thousands of homes”; and deaths of
+unspecified relatives. AC at 30-31.
+Typical of this generic and improper pleading technique is the allegation that Plaintiffs
+and/or their unnamed relatives suffered “loss of loved ones including children, destruction of
+5
+
+Attached to the Complaint is an Exhibit C that is titled “Plaintiff’s [sic] Initial Damages
+Database” and purports to describe individual Plaintiffs’ damages. It fails, however, except in
+wholly conclusory fashion, to link any particular Plaintiff’s injury with any particular
+Defendant’s conduct. Instead, it simply repeats formulaic accusations that various categories of
+Defendants either donated or transferred funds to generally unidentified persons who allegedly
+caused an injury.
+5
+
+Case 1:16-cv-00445-TSC Document 107 Filed 01/27/17 Page 17 of 39
+
+homes, destruction of revenue-producing arable property, poisoning of water wells, slaughtering
+of livestock, destruction of electric grids, diminished water supply capacity, and destruction of
+schools, mosques and hospitals” as “the direct and proximate result” of Defendants’ conspiracy.
+AC ¶ 176. What is alleged, in short, are generalized grievances by “Palestinians” as a group,
+over the course of decades, which have little or nothing to do with the alleged injuries suffered
+by identified Plaintiffs described in Exhibit C.
+The Defendants
+Defendants in this case are not the unidentified settlers or IDF members who allegedly
+have committed those wrongs. Rather, they are a number of U.S. individuals, U.S. tax-exempt
+charities, foreign banks, and U.S. or foreign corporations that allegedly have “knowingly”
+supported Israeli settlers’ activities for decades in connection with the expansion of settlements.
+AC ¶¶ 33-77. None of the named Defendants is alleged to have engaged in any violent actions
+causing personal injuries in the West Bank and Gaza or elsewhere, nor is alleged to have taken,
+forcefully or otherwise, any property from any Plaintiff or other unidentified Palestinian. 6
+Defendants instead, at most, are alleged to be secondarily liable for the actions of
+unidentified settlers or soldiers simply by virtue of their financial or moral support or provision
+of routine banking and commercial services or products to these persons. Supposedly, based on
+“common knowledge,” public statements by media, NGOs, and international organizations (and,
+in the case of the banks, alleged “know your customer protocols”), Defendants “know” that such
+support “causes” criminal mistreatment of Palestinians. AC ¶¶ 151, 205, 212. In substance, and
+shorn of its pejorative rhetoric, the Complaint alleges that Defendants should be held liable either
+6
+
+The Complaint does state that Defendant Jewish National Fund participated in
+unspecified “physical destruction of many villages” and “military operations,” AC ¶ 54. This
+lone conclusory allegation is so vague and non-specific that it cannot be considered “well-pled”
+under any standard.
+6
+
+Case 1:16-cv-00445-TSC Document 107 Filed 01/27/17 Page 18 of 39
+
+for donating or raising funds for U.S. tax-exempt charitable organizations that, in turn, donate
+money to settlements and IDF veterans, advocating in support of Israeli settlement policies, or
+engaging in normal business transactions with settlers, settlements, and parts of the Israeli
+government that, in turn, allegedly promote settlement expansion – all without any allegation
+that Defendants direct or control the actions of either these settlers, settlements, or the Israeli
+state. AC ¶¶ 32-77.
+The Complaint groups Defendants into five categories. 7 The first category is comprised
+of eight individuals and one foundation based in the U.S. who allegedly donated funds to U.S.
+tax-exempt entities (“Donor Defendants”). 8 See AC ¶¶ 32-40. Plaintiffs allege that Donor
+Defendants “share a pro-Zionist agenda and are dedicated to doing anything they can to promote
+the growth of settlements in the OPT.” AC ¶ 32. Equating settlement support with criminal
+conduct, the Complaint asserts that “individual donors knew and intended that their donations”
+would be used in support of illegal settler or IDF activities, AC ¶ 105, that “necessarily entail the
+ethnic cleansing of all Palestinian families living near OPT settlements,” AC ¶ 32. The
+Complaint (including the newly added Exhibit C) does not contain any non-conclusory factual
+allegations of any specific donation by a Donor Defendant, or the transmission of any such
+donation to a specified recipient, that caused any alleged injury to any Plaintiff.
+
+7
+
+Not all Defendants are named in all counts, and the allegations differ even as to
+Defendants in the same “group.” The issues on Defendants’ Rule 12(b)(1) motion are
+sufficiently common to all Defendants such that, in this consolidated brief, it is unnecessary to
+discuss the particular allegations against each Defendant.
+8
+
+The Donor Defendants are Sheldon Adelson, Norman Braman, Lawrence Ellison, Daniel
+Gilbert, John Hagee, Lev Leviev, Irving Moskowitz, Haim Saban, and the Irving I. Moskowitz
+Foundation. AC ¶¶ 32-40.
+7
+
+Case 1:16-cv-00445-TSC Document 107 Filed 01/27/17 Page 19 of 39
+
+The second category, identified in the Complaint as “Settlement and IDF
+Advocate/Promoter,” is comprised of one person, Defendant Elliott Abrams (“Abrams”),
+represented in this action by the U.S. Government. AC ¶ 41.
+The third category of Defendants is comprised of thirteen U.S. tax-exempt charitable
+entities (“Charitable Entity Defendants”) that allegedly provided funds to support settlement
+expansion by transferring money to Israeli settlements and in support of the IDF. 9 AC ¶¶ 42-54.
+Plaintiffs – again asking the Court to subscribe to their mantra that settlements are inherently
+criminal – claim that these transfers of funds were conducted “knowing that those funds would
+be used by settlement leaders to arm the local settlement population and have them engage in
+ethnic cleansing and wanton property destruction . . .,” as well as to enable the IDF to commit
+purported war crimes. AC ¶¶ 103, 215-216. Among these generalizations, the Complaint
+alleges that Charitable Entity Defendants “partially financed the [Israeli government’s] Second
+(2008) and Third (2014) Gaza Invasions” – armed conflicts between Israeli troops and rocketfiring terrorist groups designated as such by the U.S. – through donations to support the IDF.
+AC ¶ 216. As with Donor Defendants, the Complaint does not contain any non-conclusory
+factual allegations regarding any specific money transfers to a particular recipient that related to
+any alleged injury suffered by any Plaintiff.
+
+9
+
+Charitable Entity Defendants are American Friends of Ariel, American Friends of Bet El
+Yeshiva, American Friends of Har Homa, American Friends of Ulpana Ofra, Christian Friends of
+Israeli Communities, Efrat Development Foundation, Falic Family Foundation, Friends of the
+Israel Defense Forces, Gush Etzion Foundation, Honenu National Legal Defense Organization,
+Karnei Shomron Foundation, The Hebron Fund, and the Jewish National Fund. AC ¶¶ 42-54.
+American Friends of Har Homa is listed in the case caption, a single footnote, and the
+“illustrative” “Causal Chain of Damages for Har Homa Plaintiffs,” but is not referenced in any
+allegation made by Plaintiffs or included in the “Defendants” section of the AC. AC at 4, 18.
+8
+
+Case 1:16-cv-00445-TSC Document 107 Filed 01/27/17 Page 20 of 39
+
+The fourth category of Defendants is comprised of three banks (“Bank Defendants”). 10
+AC ¶¶ 55-56. The Complaint makes conclusory allegations that Bank Defendants transferred
+funds from unidentified customers to similarly unidentified settlements for the purpose of
+encouraging settlement expansion. AC ¶¶ 55-56, 109. However, it lacks any allegation
+regarding any specific transfer of funds by the Bank Defendants, and it does not identify any
+specific transferor or recipient. The Complaint does not even contain any factual allegation that
+identifies which particular Donor or Charitable Entity Defendant (if any) deposited funds with
+which Bank Defendant (if any) or transferred funds through which Bank Defendant (if any).
+The Complaint alleges that, “[b]ased on the banking protocol ‘Know Your Customer,’
+[Bank Defendants’] officials knew exactly what the funds would be used for . . . promotion of
+wholesale violence, arms trafficking, ethnic cleansing, theft and malicious property destruction.”
+AC ¶ 109. But there is no allegation, nor could there be, that “Know Your Customer” rules
+require banks to fully investigate the recipient of funds transferred from a customer or to “know”
+the use to which a particular funds transfer would be put by them. The only requirements are to
+take reasonable steps to ensure that the recipient is not a sanctioned entity or individual and to
+report suspicions of unlawful activity. Notably, none of Defendants is alleged to have violated
+any sanctions imposed by the U.S. by sending funds, or otherwise directly or indirectly giving
+support, to any sanctioned individual or organization.
+Finally, Bank Defendants also are alleged to have engaged in other routine business
+activity purportedly in support of settlement expansion, including operating bank branches and
+ATMs in settlement areas, AC ¶ 240, discussing the financing of construction projects involving
+settlements, AC ¶ 135, and “offering essential banking services and below-rate long-term
+10
+
+Bank Defendants are Bank Leumi Le-Israel, Bank Leumi USA, and Bank Hapoalim. AC
+¶¶ 55-56.
+9
+
+Case 1:16-cv-00445-TSC Document 107 Filed 01/27/17 Page 21 of 39
+
+mortgage financing to settler customers,” AC ¶ 152. Again, there is no allegation relating these
+activities to any alleged injury suffered by a particular Plaintiff.
+The last category of Defendants is comprised of U.S., international, and Israeli
+corporations (collectively, “Construction/Support Defendants”), eight of which allegedly provide
+construction, real estate development, and infrastructure services to settlements in the West Bank
+and eleven of which allegedly provide support services and products to other Defendant
+companies, the settlements (such as security-related services and products), or the Israeli
+government (such as buses and equipment for Israeli prisons and military technology for the
+Israeli army allegedly used in the so-called “Gaza invasions”). 11 AC ¶¶ 57-77. None of the
+Complaint’s allegations states any facts that connect these Defendants’ business activities to any
+alleged injury suffered by a Plaintiff.
+Plaintiffs’ Claims
+Plaintiffs set forth their claims in four Counts. In Count I, Plaintiffs allege a civil
+conspiracy “to expel all non-Jews from the OPT.” AC at 103. Count I claims that “U.S.
+
+11
+
+Construction/Support Defendants are RE/MAX, LLC, RE/MAX Israel – Impact Property
+Developers Ltd., Africa Israel Investments, Ltd., AFI USA, Danya Cebus Ltd., Veolia
+Environnement S.A., Veolia North America, LLC, Veolia Environmental S.A. (Israel) Ltd., G4S
+PLC, G4S North America, G4S Israel, Volvo Group, Volvo Bussar AB, Merkavim
+Transportation Technologies, Hewlett Packard Enterprise Co. and Hewlett-Packard (Israel) Ltd.
+(collectively, “HPE”), Motorola Solutions, Inc., Motorola Solutions Israel Ltd., and Orbital
+ATK, Inc. AC ¶¶ 57-77.
+Six additional companies are mentioned in the Complaint, but Plaintiffs do not appear to
+press any claims against them. The Court already has dismissed one, Hanson Israel, Ltd., see
+Dec. 15, 2015 Order, Dkt. 97, and the Complaint should be summarily dismissed as to the rest.
+Two companies – Access Industries and CRH PLC – are listed in the caption but have been
+deleted from the “Defendants” section. See AC ¶¶ 57-77. There is only a single footnoted
+allegation with respect to these two Defendants – claiming that they engaged in unspecified
+lobbying activities in the U.S. See AC ¶ 19 & n.63. Another three companies – Readymix
+Industries (Israel) Ltd., Nesher Israel Cement Enterprises, and HeidelbergCement AG – were
+deleted from the caption as well as the “Defendants” discussion, but are referenced in scattershot
+allegations throughout the body of the Complaint.
+10
+
+Case 1:16-cv-00445-TSC Document 107 Filed 01/27/17 Page 22 of 39
+
+donor/entities and their co-conspirators, including [Elliot] Abrams and [Bank Leumi
+Le-Israel/Bank Hapoalim’s] U.S. employees, have all conspired to encourage, raise, solicit,
+contribute, or transfer significant sums overseas to promote settlement expansion,” knowing that
+those funds would be used, inter alia, to “arm the settler population with military hardware” and
+“encourage militia members, with the assistance of IDF/G4S personnel, to terrorize and violently
+expel their Palestinian neighbor[s] who were peacefully occupying nearby property tracts that the
+settlement leaders coveted.” AC ¶ 127. Plaintiffs further allege in Count I that
+“construction/support firms . . . made it possible for the settlements to thrive and expand” by,
+inter alia, “destroy[ing] Palestinian villages . . . and buil[ding] expensive housing developments,
+shopping malls, and infrastructure improvements (tunnels, highways, light rail, solid waste
+facilities) on private Palestinian property.” AC ¶ 130.
+In Count II, Plaintiffs allege “war crimes, crimes against humanity and genocide.” AC at
+145. Plaintiffs claim that Defendants named in this count are “war criminals” who “funded,
+promoted, encouraged, assisted, and facilitated wholesale violence, ethnic cleansing, arms
+trafficking, malicious wounding of their Palestinian neighbors, and theft and destruction of
+private property.” AC ¶ 182; see also, e.g., AC ¶ 186. Plaintiffs separately allege “aiding and
+abetting the commission of war crimes” in Count III, AC at 180, which “relies upon and
+specifically tracks the allegations made in Count II, i.e., the commission of war crimes,” AC
+¶ 228. Finally, in Count IV, Plaintiffs allege an “aggravated and ongoing trespass against all
+defendants who have been trespassing on private Palestinian property during the occupation.”
+AC at 184.
+The Complaint asserts, in generic and sweeping terms, that the expansion of settlements
+in the West Bank and Gaza over several decades would not have occurred without the
+
+11
+
+Case 1:16-cv-00445-TSC Document 107 Filed 01/27/17 Page 23 of 39
+
+“knowing” conduct of Defendants, see, e.g., AC ¶¶ 83, 86, and that “each one of the Plaintiffs
+named herein can trace the cause of his damages from violent settlers in nearby settlements back
+through Israel-based settlements and their bank accounts to U.S. 501(c)(3) entities and wealthy
+U.S. donors,” AC at 17. But there is no non-conclusory allegation that any one of Defendants
+did anything except to somehow “support” Israel, and, in particular, the Israeli army, Israeli
+settlers, settlements, and settlement policies – that is to say, Plaintiffs are asking the Court to take
+one side, rather than the other, in a highly controversial political dispute that has gone on for
+years without diplomatic resolution. This is quintessentially the stuff of politics and decisionmaking by the political branches of our Government, and not of judicial adjudication.
+ARGUMENT
+THE POLITICAL QUESTION AND ACT OF STATE DOCTRINES BAR ALL OF
+PLAINTIFFS’ CLAIMS
+The Complaint fails to state a justiciable claim against any of Defendants and should be
+dismissed in its entirety pursuant to both the political question doctrine and the act of state
+doctrine. The Complaint calls into question and asks this Court to substitute its judgment for the
+delicate policy decisions and choices made by the governments of Israel and the U.S. during the
+course of the Israeli-Palestinian conflict in the half century since the 1967 Six-Day War.
+In order for Plaintiffs to obtain relief on any of the Counts, the Court necessarily would
+have to make an adjudicative determination that Israel does not have sovereign rights over the
+disputed land where the settlements are located, notwithstanding Plaintiffs’ acknowledgement
+that the “settlements” are comprised of land that the Israeli government has “occupied” or
+“administered.” See AC at 11 n.1. The Court also would have to make an adjudicative
+determination that the funding of settlement activity and related Israeli military activity, as well
+as the performance of construction and other services in the West Bank and Gaza, are unlawful.
+12
+
+Case 1:16-cv-00445-TSC Document 107 Filed 01/27/17 Page 24 of 39
+
+Further, for Plaintiffs to obtain relief on their ATS claims, the Court would have to make
+adjudicative determinations on whether the Israeli activities in the West Bank and Gaza
+constitute international crimes, including “war crimes,” “genocide,” and “ethnic cleansing.” For
+Plaintiffs to obtain relief on Count IV, the Court again would have to adjudicate whether the
+settlement activity in the West Bank is tortious in nature under U.S. law.
+The Court is thus explicitly invited by Plaintiffs to step into the middle of what is both an
+internal Israeli political controversy and a major international political dispute and to add its own
+policy views to those of the U.S. Executive Branch and Congress, which have been wrestling
+with how to resolve the Israeli-Palestinian dispute for decades. Courts lack jurisdiction over
+inherently “political” questions, such as these, which arise out of and are intertwined with
+sensitive issues of foreign policy, and actions that challenge the acts of a recognized sovereign
+state taken within its own territory. The Court cannot resolve the questions outlined above
+without making pronouncements on, and thereby interjecting itself into, sensitive and complex
+foreign policy issues that are the province of the Executive and Legislative Branches.
+Furthermore, the Court cannot resolve these issues without judging the sovereign actions of the
+Israeli government taken within its own territory or otherwise in the context of armed conflicts.
+For all these reasons, the Complaint fails to state a justiciable claim against any of Defendants
+under the political question and act of state doctrines.
+A.
+
+Plaintiffs’ Claims Are Not Justiciable Under The Political Question Doctrine
+
+Under the political question doctrine, federal courts may not resolve “controversies which
+revolve around policy choices and value determinations constitutionally committed for resolution
+to the halls of Congress or the confines of the Executive Branch.” El-Shifa Pharm. Indus. Co. v.
+United States, 607 F.3d 839, 840 (D.C. Cir. 2010). The political question doctrine is rooted in
+the Constitutional separation of powers and recognizes that decisions clearly committed to the
+13
+
+Case 1:16-cv-00445-TSC Document 107 Filed 01/27/17 Page 25 of 39
+
+political branches of the Government are non-justiciable. The seminal decision on the political
+question doctrine is Baker v. Carr, 369 U.S. 186 (1962), in which the Supreme Court held that a
+question is political and therefore non-justiciable when any one of the following six factors is
+present:
+[1] a textually demonstrable constitutional commitment of the issue to a
+coordinate political department, or
+[2] a lack of judicially discoverable and manageable standards for resolving it, or
+[3] the impossibility of deciding without an initial policy determination of a kind
+clearly for non-judicial discretion, or
+[4] the impossibility of a court’s undertaking independent resolution without
+expressing a lack of the respect due coordinate branches of government, or
+[5] an unusual need for unquestioning adherence to a political decision already
+made, or
+[6] the potentiality of embarrassment from multifarious pronouncements by
+various departments on one question.
+369 U.S. at 217. Virtually all these factors apply directly to Plaintiffs’ Complaint.
+1.
+
+The Issues Raised In The Complaint Previously Have Been Deemed
+Political Questions Under Baker v. Carr
+
+The application of the political question doctrine to claims like these, stemming from the
+decades-old conflict between Israel and the Palestinians, already has been confirmed in this
+district. In Doe I, Palestinian plaintiffs filed a complaint remarkably similar to this one, asserting
+claims under the ATS, the Torture Victims Protection Act (“TVPA”), assorted international
+conventions and agreements, the Racketeer Influenced and Corrupt Organizations Act (“RICO”),
+and other laws, against the President and Secretary of State, the State of Israel, and a number of
+its officials, including several generals of the army, a number of American defense contractors
+and manufacturers, and so-called “settler defendants,” including a New Jersey congregation and
+its rabbi, who allegedly raised funds for Israeli settlers in the West Bank. The court, in a lengthy
+14
+
+Case 1:16-cv-00445-TSC Document 107 Filed 01/27/17 Page 26 of 39
+
+and carefully reasoned opinion by Judge Bates, dismissed the complaint as to all defendants
+based, inter alia, on the political question and act of state doctrines. Doe I, 400 F. Supp. 2d at
+96.
+In finding that the plaintiffs’ complaint raised non-justiciable political questions, Judge
+Bates wrote: “It is hard to conceive of an issue more quintessentially political in nature than the
+ongoing Israeli-Palestinian conflict, which has raged on the world stage with devastation for both
+sides for decades.” Id. at 111-12. Judge Bates explained that the plaintiffs’ claims “would have
+this Court adjudicate the rights and liabilities of the Palestinian and Israeli people,” requiring
+determinations (i) regarding “to whom the land in the West Bank actually belongs,” (ii) “that
+Israel’s self-defense policies are tantamount to terrorism,” (iii) “that the Israeli settlement
+activities are illegal or tortious,” and (iv) “characteriz[ing] the ongoing armed conflict in the
+West Bank as either ‘genocide’ . . . or self-defense.” Id. at 112. The court found that it could not
+rule on these issues:
+The Court can do none of this. Whether plaintiffs dress their claims in the garb of
+RICO or other federal statutes, or the tort laws of various states, the character of
+those claims is, at its core, the same: peculiarly volatile, undeniably political, and
+ultimately nonjusticiable. A ruling on any of these issues would draw the Court
+into the foreign affairs of the United States, thereby interfering with the sole
+province of the Executive Branch.
+Id. The court further held that a conclusion that Israeli settlement activities are illegal or tortious
+“would also implicitly condemn American foreign policy by suggesting that support of Israel is
+wrongful. Conclusions like these present a potential for discord between the branches that
+further demonstrates the impropriety of a judicial decision on these quintessential political
+issues.” Id.
+These findings and assessments by Judge Bates in Doe I are equally applicable in this
+case. Plaintiffs seek a U.S. judicial determination that Israeli activities in the West Bank and
+15
+
+Case 1:16-cv-00445-TSC Document 107 Filed 01/27/17 Page 27 of 39
+
+Gaza constitute unlawful activity (Count I), war crimes (Counts II and III), and aggravated and
+ongoing trespass (Count IV). All of these Counts rest on the notion that Israeli settlement
+activities have taken place on Palestinian land and resulted in “ethnic cleansing” and “genocide”
+of Palestinian nationals, as well as “malicious theft and destruction of property” belonging to
+Palestinians. See generally AC at 11-32 (Introduction/Summary). All of Plaintiffs’ alleged
+injuries as described in Exhibit C arise from those activities or Israeli military activities during
+armed conflicts in the West Bank and Gaza. See generally Ex. C. Like the claims found
+non-justiciable in Doe I, Plaintiffs’ claims would improperly require the Court to decide “to
+whom the land in the West Bank actually belongs,” to declare “that the Israeli settlement
+activities are illegal or tortious,” and to “characterize the ongoing armed conflict in the West
+Bank as [] ‘genocide.’” 400 F. Supp. 2d at 112. As in Doe I, the claims set forth in the
+Complaint are non-justiciable as to all Defendants.
+2.
+
+The Baker v. Carr Factors Confirm That Plaintiffs’ Complaint Raises
+Non-Justiciable Political Questions
+
+The political climate has not changed meaningfully since the Doe I decision, other than to
+have become, if anything, even more politicized, volatile, and complicated. Accordingly, the
+Baker v. Carr factors require that the Complaint be dismissed.
+First, the conduct of foreign policy, which is at the heart of this case, unquestionably is
+committed to the political branches of the Federal Government. Haig v. Agee, 453 U.S. 280, 292
+(1981) (“Matters intimately related to foreign policy and national security are rarely proper
+subjects for judicial intervention.”); Harisiades v. Shaughnessy, 342 U.S. 580, 589 (1952)
+(observing that matters relating “to the conduct of foreign relations . . . are so exclusively
+entrusted to the political branches of government as to be largely immune from judicial inquiry
+or interference”). America’s policy toward the State of Israel and Israel’s conflict with the
+16
+
+Case 1:16-cv-00445-TSC Document 107 Filed 01/27/17 Page 28 of 39
+
+Palestinians are among the most delicate and vexing foreign policy issues of our time and have
+been so for decades. The U.S. Government has provided over $100 billion in aid to Israel during
+the past 20 years, including over $40 billion in grants for its military forces, and the U.S. State
+Department recently announced additional grants of $38 billion in military aid over the next 10
+years. 12 Every President and Secretary of State during the last 40 years has tried to find a
+delicate balance that provides a path to peace between Israel and its neighbors and protects U.S.
+national interests. Recent debates concerning the United Nations Security Council’s resolution
+on Israeli settlements further reinforce the political nature of the issues. What the Supreme Court
+recently said concerning Jerusalem in Zivotofsky v. Kerry, 576 U.S. ___, 135 S. Ct. 2076, 2081
+(2015), is equally applicable to the West Bank and Gaza:
+Questions touching upon the history of the ancient city and its present legal and
+international status are among the most difficult and complex in international
+affairs. In our constitutional system those matters are committed to the
+Legislature and the Executive, not the judiciary.
+Second, as noted above, Plaintiffs contend that the activities of Israeli settlers and the
+Israeli armed forces constitute war crimes, crimes against humanity, and genocide. The
+government of Israel and others take an opposite view. They advocate that the settlers’ activities
+constitute lawful economic development, and its military’s activities constitute lawful
+self-defense against persons and organizations who have publicly advocated for the destruction
+
+12
+
+Cong. Research Serv., U.S. Foreign Aid to Israel, Appendix B (RL33222 Dec. 22, 2016),
+https://2009-2017.state.gov/p/nea/rls/rm/261928.htm; Thomas A. Shannon, Jr., Under Sec’y of
+State for Political Affairs, U.S. Dep’t of State, Susan E. Rice, Nat’l Sec. Advisor, and Jacob
+Nagel, Israeli Acting Nat’l Sec. Advisor, Statements at the Signing of a Memorandum of
+Understanding between the United States and Israel on Security Assistance (Sept. 14, 2016),
+http://www.state.gov/p/nea/rls/rm/261928.htm. “The D.C. Circuit has consistently treated the
+political-question doctrine as bearing on subject-matter jurisdiction,” and courts resolving a
+motion to dismiss for lack of subject matter jurisdiction may consider materials outside the
+pleadings. Mobarez v. Kerry, No. 15-cv-516 (KBJ), 2016 U.S. Dist. LEXIS 64437, at *8-9
+(D.D.C. May 17, 2016).
+17
+
+Case 1:16-cv-00445-TSC Document 107 Filed 01/27/17 Page 29 of 39
+
+of Israel. Regardless of how any litigant or this Court might view this dispute along any point
+between the ends of this political spectrum, the simple fact remains that this dispute is a political
+question that this forum cannot resolve: U.S. courts are simply in no position to find “judicially
+discoverable and manageable standards for resolving” these disputed issues. Baker, 369 U.S. at
+217. These issues would require the Court “to measure and balance a myriad of thorny foreign
+and domestic political considerations,” rendering them “inherently political” questions that
+cannot be resolved by the law of torts or other statutory law. Schneider v. Kissinger, 310
+F. Supp. 2d 251, 262 (D.D.C. 2004); accord Doe I, 400 F. Supp. 2d at 112-13.
+Third, the Court cannot decide the issues raised in the Complaint without rendering
+“initial policy determination[s] of a kind clearly for nonjudicial discretion.” Baker, 369 U.S. at
+217 (factor 3). To grant Plaintiffs relief, the Court would have to characterize the conflict in the
+West Bank and Gaza and the actions of the Israeli government (through the IDF or in
+constructing infrastructure, such as the separation wall, see AC ¶¶ 91-92) as “genocide” and
+“ethnic cleansing,” and the construction and development activities performed by certain
+Defendants as “aggravated trespass” and “malicious destruction of property.” The entire
+Complaint depends upon the notion that each of the activities alleged to underlie Plaintiffs’
+claims – donations and fundraising for lawful entities, political advocacy, and normal banking
+and commercial transactions with counterparties that have not been sanctioned by the U.S.
+Government – becomes unlawful because Plaintiffs allege that any dealings with Israeli
+settlements, settlers, or armed forces are ipso facto violations of international law or otherwise
+inherently unlawful. It is hard to imagine a more blatant case of a court being asked to make a
+political judgment on matters that our legal system properly leaves to the political branches. See
+Corrie v. Caterpillar, Inc., 503 F.3d 974, 984 (9th Cir. 2007) (dismissing ATS case against
+
+18
+
+Case 1:16-cv-00445-TSC Document 107 Filed 01/27/17 Page 30 of 39
+
+Caterpillar for selling to the Israeli army bulldozers used to demolish Palestinian homes in the
+West Bank because “[a]llowing this action to proceed would necessarily require the judicial
+branch of our government to question the political branches’ decision to grant extensive military
+aid to Israel”).
+Fourth and fifth, Plaintiffs call for a judgment by this Court that, if granted, would
+express “a lack of the respect due coordinate branches of government” and raise “the potentiality
+of embarrassment from multifarious pronouncements by various departments on one question.”
+Baker, 369 U.S. at 217 (factors 4 & 6). Executive Branch officials and members of Congress
+consistently voice support for the Israeli government, 13 and, while they have tried to walk a fine
+line on activities in the West Bank and Gaza, they have never suggested that support for Israeli
+settlements is illegal – which this Court would have to do to find in favor of Plaintiffs. For
+example, the U.S. voted against U.N. General Assembly Resolution 66/225, dated March 29,
+2012, which stated that Israeli settlements are contrary to international law and Israel’s legal
+obligations, 14 and it abstained on the recent U.N. Security Council Resolution 2334, dated
+
+13
+
+See, e.g., U.S. State Department Press Releases on Israel, https://20092017.state.gov/p/nea/ci/is/c5218.htm; Trade Facilitation and Trade Enhancement Act of 2015,
+Pub. L. No. 114-125, 130 Stat. 122 (Feb. 24, 2016) (“TFTEA”) (stating that “Israel is America’s
+dependable, democratic ally in the Middle East – an area of paramount strategic importance to
+the United States,” TFTEA § 909(a), and opposing as a matter of policy “politically motivated
+actions that penalize or otherwise limit commercial relations specifically with Israel, such as
+boycotts of, divestment from, or sanctions against Israel,” TFTEA § 909(b)).
+14
+
+G.A. Res. 66/225, U.N. Doc. A/RES/66/225 (Mar. 29, 2012),
+http://www.un.org/en/ga/search/view_doc.asp?symbol=%20A/RES/66/225; U.N. GAOR, 66th
+Sess. 91st plen. mtg. at 17, U.N. Doc. A/66/PV.91 (Dec. 23, 2001),
+http://www.un.org/en/ga/search/view_doc.asp?symbol=A/66/PV.91 (evidencing U.S. vote
+against resolution); see also Susan E. Rice, U.S. Ambassador to the United Nations, Explanation
+of Vote on the Resolution on the Situation in the Middle East (Feb. 18, 2011), https://2009-2017usun.state.gov/remarks/4978 (explaining veto of Security Council resolution condemning Israeli
+settlements as illegal, stating in part, “It is the Israelis’ and Palestinians’ conflict, and even the
+best-intentioned outsiders cannot resolve it for them. Therefore, every potential action must be
+measured against one overriding standard: will it move the parties closer to negotiations and an
+19
+
+Case 1:16-cv-00445-TSC Document 107 Filed 01/27/17 Page 31 of 39
+
+December 23, 2016, because it could not “in good conscience stand in the way of a resolution at
+the United Nations that makes clear that both sides must act now to preserve the possibility of
+peace.” 15 Any judgment from a U.S. court suggesting that settlement activity is unlawful,
+criminal, or tortious surely would serve only as a prop to be brandished by opponents of U.S.
+policy in the U.N. and elsewhere. 16 Such action could only undermine coordinate branches of
+Government and further complicate an already very difficult and delicate political situation.
+It would also undermine the Legislative Branch. In the TFTEA, Congress prohibited
+domestic courts from recognizing or enforcing foreign civil judgments entered against U.S.
+persons and entities doing business in Israel (including “any territory controlled by Israel”) or
+with Israeli entities if the judgment is based in whole or part on a determination that such
+business dealings constitute a violation of law. See TFTEA § 909(e). It would be entirely
+incongruous if Plaintiffs could obtain a judgment from a U.S. court based on a determination that
+doing business with Israel or Israeli settlements was illegal, where the same court would be
+barred from enforcing such a judgment if Plaintiffs had pressed their suit overseas.
+
+agreement? Unfortunately, this draft resolution risks hardening the positions of both
+sides. . . . While we agree with our fellow Council members – and indeed, with the wider
+world – about the folly and illegitimacy of continued Israeli settlement activity, we think it
+unwise for this Council to attempt to resolve the core issues that divide Israelis and
+Palestinians.”).
+15
+
+John Kerry, Sec’y of State, U.S. Dep’t of State, Statement on the Vote in the UN Security
+Council (Dec. 23, 2016), https://2009-2017.state.gov/secretary/remarks/2016/12/266070.htm.
+16
+
+“It is not the role of the courts to indirectly indict Israel for violating international law…
+Plaintiffs may purport to look no further than Caterpillar itself, but resolving their suit will
+necessarily require us to look beyond the lone defendant in this case and toward the foreign
+policy interests and judgments of the United States government itself.” Corrie, 503 F.3d at 984;
+see also Matar v. Dichter, 500 F. Supp. 2d 284, 295 (S.D.N.Y. 2007) (granting defendant’s
+motion for dismissal and stating, in a case alleging war crimes and brought pursuant to the ATS
+and TVPA, that “[t]his Court cannot ignore the potential impact of this litigation on the Middle
+East’s delicate diplomacy”).
+20
+
+Case 1:16-cv-00445-TSC Document 107 Filed 01/27/17 Page 32 of 39
+
+Further, the decisions each and every year by the President to request, and Congress to
+authorize, financial support to the military forces of Israel reflect a judgment that the interests of
+the U.S. warrant such support and that it is consistent with American values. 17 Plaintiffs are
+asking this Court to determine that alleged general financial support to those same military forces
+by Defendants constitutes participation in war crimes, crimes against humanity, and genocide.
+Such a decision would implicitly condemn the consistent policy decisions of the Executive and
+Legislative Branches over the past several decades.
+Finally, the President has exercised his power under laws enacted by Congress to deal
+with “grave acts of violence committed by foreign terrorists that disrupt the Middle East peace
+process.” Exec. Order No. 12,947, 60 Fed. Reg. 5079 (Jan. 25, 1995). That order prohibits
+donations by U.S. persons to persons or organizations specified in or pursuant to the order. The
+list includes Hamas, Hezbollah, and the Popular Front for the Liberation of Palestine, but it does
+not include the Israeli army, Israeli settlements, or anyone claimed in the Complaint to have
+engaged in terrorism. 18 Plaintiffs make the patently false claim that a donor’s financial support
+to IDF soldiers “directly contravenes this Executive Order.” AC ¶ 97(e). On the contrary, the
+order reflects a determination by the President as to what organizations in the Middle East may
+not receive contributions by Americans because of their acts of terrorism, and the President has
+not included the organizations alleged to have received donations in this case. In effect,
+Plaintiffs seek to have a court overrule the President’s determination, which he is exclusively
+authorized to make. Such a judicial decision would not only intrude upon the authority of the
+17
+
+See footnote 12, supra.
+
+18
+
+The order was amended to include additional terrorists by Executive Order No. 13,099 on
+August 20, 1998 (Exec. Order No. 13,099, 63 Fed. Reg. 45,167 (Aug. 25, 1998)) and was
+continued in effect by President Obama on January 20, 2016 (Notice No. 2016-01427, 81 Fed.
+Reg. 3937 (Jan. 22, 2016)).
+21
+
+Case 1:16-cv-00445-TSC Document 107 Filed 01/27/17 Page 33 of 39
+
+political branches to conduct foreign affairs, but would also present the final description of a
+political question in Baker – one presenting “the potentiality of embarrassment from multifarious
+pronouncements by various departments on one question.” 369 U.S. at 217.
+The Supreme Court has stated that the existence of any one of the six Baker factors
+requires dismissal. Id. Here, where five of the six factors are clearly present, there can be no
+doubt that this Complaint must be dismissed under the political question doctrine. 19
+B.
+
+Plaintiffs’ Claims Are Not Justiciable Under The Act Of State Doctrine
+
+The act of state doctrine also precludes all of Plaintiffs’ claims. The act of state doctrine
+prevents U.S. courts from inquiring into the validity of public acts committed by a foreign
+sovereign within its own territory. Banco Nacional de Cuba v. Sabbatino, 376 U.S. 398, 401
+(1964); accord World Wide Minerals Ltd .v. Republic of Kazakhstan, 296 F.3d 1154, 1164-65
+(D.C. Cir. 2002). The doctrine applies “when the outcome of the case turns upon [] the effect of
+official action by a foreign sovereign.” W.S. Kirkpatrick & Co. v. Envtl. Tectonics Corp., Int’l,
+493 U.S. 400, 407 (1990). Like the political question doctrine, the act of state doctrine is rooted
+
+19
+
+The reasoning set forth in Doe I and the facts detailed above fundamentally distinguish
+the instant case from those such as Biton v. The Palestinian Interim Self-Government Authority,
+310 F. Supp. 2d 172 (D.D.C. 2004) and 412 F. Supp. 2d 1 (D.D.C. 2005). The court in Biton
+held justiciable a suit against the Palestinian Authority and others for a terrorist attack under the
+Anti-Terrorism Act, 18 U.S.C. § 2331 et seq. (the “ATA”), because it was an “ordinary tort suit”
+that could be judicially resolved based on the statutory definition of “international terrorism” and
+the common law of tort and presented no separation of powers concerns since the Executive and
+Legislative Branches had “‘expressly endorsed’” suits against terrorist organizations by enacting
+the ATA. 310 F. Supp. 2d. at 175, 184. In that case and others like it, the Israeli-Palestinian
+conflict was the contextual backdrop and perhaps the motivation for the defendants’ alleged
+unlawful acts, but it was not the central issue for resolution. By contrast, the foundation of
+Plaintiffs’ claims here is the proposition that they own land allegedly unlawfully seized and
+settled by Israel and that their injuries were allegedly inflicted by the Israeli military and settlers
+during Israel’s purportedly wrongful occupation of the West Bank and Gaza. Resolution of these
+issues would require the Court to directly decide the core issues that lie at the heart of the
+political conflict, namely, the proper owners of the disputed land in the West Bank and Gaza and
+the legitimacy of Israel’s self-defense and settlement policies and activities.
+22
+
+Case 1:16-cv-00445-TSC Document 107 Filed 01/27/17 Page 34 of 39
+
+in the Constitutional separation of powers, “reflecting ‘the strong sense of the Judicial Branch
+that its engagement in the task of passing on the validity of foreign acts of state may hinder’ the
+conduct of foreign affairs.” W.S. Kirkpatrick, 493 U.S. at 405 (quoting Banco Nacional de
+Cuba, 376 U.S. at 423).
+An essential question – indeed, the essential question – raised in Plaintiffs’ Complaint is
+the propriety of decades of Israeli activities in the West Bank and Gaza. That issue underlies all
+Counts of the Complaint. The applicability of the act of state doctrine to such Israeli activities in
+the West Bank and Gaza already has been confirmed by the Doe I court, which found that
+“federal courts have long recognized that the exploitation of natural resources and land within a
+nation’s own borders is, by legal definition, an act of state.” 400 F. Supp. 2d at 114. Notably,
+while the plaintiffs in Doe I disputed whether the challenged actions occurred within Israel’s
+“borders,” Judge Bates found that this argument itself “raises a political question – the court is
+not competent to adjudicate whether the West Bank, in dispute for decades, belongs to the
+Israelis or the Palestinians.” Id. at 114 n.6. The court held that the defendants’ alleged taking of
+land for the use of Israel and its people was an act “of the Israeli state, through individual actors
+carrying out the mandate of the state for its benefit.” Id.
+Plaintiffs here ask the Court to find that the alleged financial support provided to
+settlements and the IDF by the Donor and Charitable Entity Defendants, purportedly through the
+Bank Defendants, and the services allegedly provided in the West Bank and Gaza by
+Construction/Support Defendants constitute war crimes, trespass, and other tortious and criminal
+activity. Deciding these claims would require the Court to “adjudicate sensitive issues of a
+political nature that would offend notions of international comity,” which it cannot do under the
+act of state doctrine. Id. This conclusion is not altered by the fact that Defendants are private
+
+23
+
+Case 1:16-cv-00445-TSC Document 107 Filed 01/27/17 Page 35 of 39
+
+actors rather than the State of Israel and its officials or the fact that the Complaint, in part, targets
+the actions of “armed settlers” that allegedly were supported or encouraged by certain
+Defendants. 20 See, e.g., AC ¶¶ 79, 87, 96. In this respect, the instant case is no different from
+Glen v. Club Mediterranée, S.A., 450 F.3d 1251 (11th Cir. 2006), in which the plaintiffs brought
+state law claims of trespass and unjust enrichment against a hotel chain as a result of its
+operation of a resort on land that the Cuban government had expropriated from plaintiffs. The
+Court of Appeals for the Eleventh Circuit affirmed the district court’s decision dismissing the
+plaintiffs’ claims pursuant to the act of state doctrine. Id. at 1252. The Eleventh Circuit found
+that the plaintiffs’ claims were “predicated on their continued ownership” of the property and
+therefore “[t]he validity of the Cuban government’s act of expropriation is directly at issue in this
+litigation.” Id. at 1254 (emphasis in original).
+As recognized both in Doe I and by Plaintiffs here, the land on which Israeli settlements
+have been built is land to which the Israeli government has laid claim. 400 F. Supp. 2d at 114;
+AC at 11 n.1 (“The term ‘settlements’ includes all Israeli civilian communities built on lands
+occupied or otherwise administered by Israel during its second occupation . . . .”) (emphasis
+added). Defendants that are alleged to have developed and funded the development of land in
+the West Bank have done so in connection with actions of the Israeli government. Yet,
+Plaintiffs’ claims depend on the notion that Palestine has sovereign rights over the land in
+question. This is not a justiciable dispute for a federal court to resolve.
+20
+
+Plaintiffs’ allegations differ from those found not to raise act of state issues in cases like
+W.S. Kirkpatrick and Abu Ali v. Ashcroft, 350 F. Supp. 2d 28 (D.D.C. 2004). In those cases, the
+issue was not the legality of conduct by a foreign government but rather the role that non-foreign
+entities played in “obtaining” or “procuring” the actions of the foreign government. See W.S.
+Kirkpatrick, 493 U.S. at 406; Abu Ali, 350 F. Supp. 2d at 59. The Complaint does not allege –
+nor could it – that Defendants obtained or procured Israeli government actions in the West Bank
+and Gaza; rather, it is based on the notion that these settlements themselves are illegal and that
+anything that helps the settlements is therefore also inherently illegal.
+24
+
+Case 1:16-cv-00445-TSC Document 107 Filed 01/27/17 Page 36 of 39
+
+To a great extent, Plaintiffs rest their claims on support by Defendants for alleged actions
+of the armed forces of the State of Israel. Indeed, as to Defendants Friends of the Israel Defense
+Forces, Lawrence Ellison, and Haim Saban, their alleged financial support to the IDF is the sole
+basis for Plaintiffs’ claims. For the Court to entertain these claims would necessarily require it to
+adjudicate whether the Israeli armed forces engaged in war crimes or other tortious conduct on
+Israeli soil, including second-guessing the legality of specific targeting and other real-time
+military decisions under the laws of war. The Court has no jurisdiction to make these
+adjudications under the act of state doctrine.
+The acts of the military of a foreign nation within its own borders are classic acts of state.
+In Underhill v. Hernandez, 168 U.S. 250 (1897), the plaintiff – an American citizen – sued a
+Venezuelan military commander who had allegedly assaulted and detained him in Venezuela.
+Declaring that “the courts of one country will not sit in judgment of the acts of the government of
+another,” id. at 252, the court held the damages lawsuit against the commander presented a
+political question. In Oetjen v. Central Leather Co., 246 U.S. 297 (1918), the Court reached the
+same conclusion where an army general in revolutionary Mexico ordered the seizure of hides
+from a dealer who refused to pay a tax levied for support of the army. After the hides were sold
+by the army and shipped to the U.S., the plaintiff filed suit in replevin, claiming the hides were
+its property which had been assigned to the Mexican dealer. Although neither Mexico nor any of
+its officials was a defendant in the lawsuit, the Court held the seizure “was the action, in Mexico,
+of the legitimate Mexican government when dealing with a Mexican citizen,” and “is not subject
+to re-examination and modification by the courts of this country.” Id. at 311.
+While the Complaint comments on misconduct by individual Israeli soldiers, it is
+unquestionably the Israeli army itself, not rogue individuals, whose activity Plaintiffs ask the
+
+25
+
+Case 1:16-cv-00445-TSC Document 107 Filed 01/27/17 Page 37 of 39
+
+Court to characterize as war crimes and genocide. Compare Doe v. Exxon Mobil Corp., 69
+F. Supp. 3d 75, 88 (D.D.C. 2014), where plaintiffs did not claim “that Exxon’s security forces,
+while admittedly soldiers in the Indonesian military, injured them pursuant to official policies of
+the GOI [government of Indonesia] or orders from military commanders.” Here, the support
+provided by Friends of the Israel Defense Forces was allegedly to the army itself, not to any
+particular soldiers. See, e.g., AC at 21 (Defendants “directly fund the Israeli army and the
+criminal activities that its personnel have engaged in.”). Further, Plaintiffs cannot credibly argue
+that the actions of the IDF in the territories occupied by Israel as a result of the 1967 Six-Day
+War are not within its “borders” for purposes of the act of state doctrine. That argument was
+made in Doe I, supra, and Judge Bates correctly noted that it “also raises a political question –
+the court is not competent to adjudicate whether the West Bank, in dispute for decades, belongs
+to the Israelis or the Palestinians.” 400 F. Supp. 2d at 114 n.6.
+In sum, Plaintiffs seek rulings regarding the legitimacy of actions by a foreign sovereign,
+and their case largely depends on the Court’s determinations of those questions. The Court
+cannot make these determinations as they are constitutionally committed to the political branches
+of our Government. Plaintiffs’ Complaint is therefore non-justiciable under the act of state
+doctrine.
+CONCLUSION
+For the foregoing reasons, the Court should dismiss the Complaint in its entirety with
+prejudice pursuant to Federal Rule of Civil Procedure 12(b)(1).
+
+26
+
+Case 1:16-cv-00445-TSC Document 107 Filed 01/27/17 Page 38 of 39
+
+APPENDIX A
+Separately, Defendants Gush Etzion Foundation, American Friends of Ariel, American
+Friends of Ulpana Ofra, Christian Friends of Israeli Communities, Honenu National Legal
+Defense Organization, The Hebron Fund, and the Efrat Development Foundation state as
+follows: These Defendants object to the use of the terms “OPT” and “West Bank” in this case
+and to the implied premise that suggests that the Plaintiffs enjoy any rights, let alone superior
+rights, to Judea, Samaria, the City of Jerusalem, or any part of the land of Israel. This is another
+reason why the current action must be dismissed for lack of subject matter jurisdiction for lack of
+justiciability under the political question doctrine. The area in question has been part of the
+Jewish homeland, and constant home to an unbroken succession of Jewish people, for over 3,000
+years. 1 For centuries, emissaries from the Land of Israel have engaged in collecting charitable
+contributions from Jews and Gentiles the world over for the support of Jewish communities in
+Judea, Samaria and Jerusalem, a time-honored practice that Plaintiffs allege the indigenous NGO
+Defendants continue to engage in.
+The entire area at the heart of this lawsuit was part of the territory acknowledged as and
+earmarked for a Jewish homeland in 1920 at the San Remo Conference that drafted the League
+of Nations Charter. Two years later, the League of Nations Mandate explicitly stated that the
+Mandatory Power was responsible for putting into effect the Balfour Declaration 2 in favor of a
+Jewish national home in Palestine, and that Jews have the right to settle anywhere therein,
+
+1
+
+Charles Krauthammer, Fact #1: Jews have been living in Israel continuously for
+over 3,000 years, 10 Facts About the Arab-Israeli Conflict, http://arabisraeliconflict.info/arabisrael-facts/fact-1-jewish-history-israel (last visited Jan. 26, 2017).
+2
+
+The Balfour Declaration, BBC NEWS (Nov. 29, 2001, 3:19 AM),
+http://news.bbc.co.uk/2/hi/in_depth/middle_east/israel_and_the_palestinians/key_documents/168
+2961.stm.
+2
+
+Case 1:16-cv-00445-TSC Document 107 Filed 01/27/17 Page 39 of 39
+
+including Judea, Samaria and all parts of Jerusalem. 3 That same year, a joint resolution of
+Congress, H.J. Res. 360, unanimously endorsed the legality of the Mandate and confirmed the
+irrevocable right of Jews to settle anywhere between the Jordan River and the Mediterranean
+Sea. 4 In 1947, Israel agreed to the UN Partition Plan, as approved by the General Assembly and
+recommended to the Security Council. The other relevant parties did not agree, however, and so
+the Resolution was never acted upon and rendered a dead letter legally. 5 Israel was attacked by
+the Arab world in 1948 and Jordan illegally attempted to annex Judea, Samaria and ancient
+Jerusalem. 6 As a result, the legal status of Judea, Samaria and Jerusalem remained subject to the
+terms of the League of Nations Mandate and therefore was preserved to this day by Article 80 of
+the UN Charter. 7 In 1967, Israel liberated those territories in a clearly defensive war under
+Article 51 of the UN Charter 8 thereby legitimately regaining full possession and control over
+land it already had rights to. The volatile political nature of the issue addressed in this Appendix
+alone should make it clear that this is, at the very least, a deeply political question.
+
+3
+
+The Palestine Mandate, YALE L. SCH. LILLIAN GOLDMAN L. LIBR.,
+http://avalon.law.yale.edu/20th_century/palmanda.asp (last visited Jan. 26, 2017).
+4
+
+Eli E. Hertz, “Mandate for Palestine” The Legal Aspects of Jewish Rights,
+MYTHS & FACTS,
+http://www.mythsandfacts.org/conflict/mandate_for_palestine/mandate_for_palestine.htm (last
+visited Jan. 26, 2017).
+5
+
+Eugene W. Rostow, Historical Approach to the Issue of Legality of Jewish
+Settlement Activity, THE NEW REPUBLIC, Apr. 23, 1990.
+6
+
+Abraham Bell & Eugene Kontorovich, Palestine, Uti Possidetis Juris, and the
+Borders of Israel, 58 ARIZ. L. REV. 633 (2016).
+7
+
+U.N. Charter art. 80.
+
+8
+
+U.N. Charter art. 51.
+3
+
+

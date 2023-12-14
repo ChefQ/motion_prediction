@@ -1,0 +1,893 @@
+Case 3:07-cv-02845-WHA
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+
+Document 236
+
+Filed 08/26/2008
+
+Page 1 of 8
+
+THOMAS I. ROSS (admitted pro hac vice)
+KEVIN M. FLOWERS (admitted pro hac vice)
+JEFFREY H. DEAN (admitted pro hac vice)
+JOHN R. LABBE (admitted pro hac vice)
+CULLEN N. PENDLETON (admitted pro hac vice)
+MARK H. IZRAELEWICZ (admitted pro hac vice)
+MARSHALL, GERSTEIN & BORUN LLP
+6300 Sears Tower
+233 South Wacker Drive
+Chicago, Illinois 60606-6357
+(312) 474-6300 (telephone)
+(312) 474-0448 (facsimile)
+E-Mail: kflowers@marshallip.com
+E-Mail: tross@marshallip.com
+E-Mail: jdean@marshallip.com
+E-Mail: jlabbe@marshallip.com
+E-Mail: cpendleton@marshallip.com
+E-Mail: mizraelewicz@marshallip.com
+Counsel for Defendants
+ILLUMINA, INC., SOLEXA, INC.,
+and STEPHEN C. MACEVICZ
+
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+
+UNITED STATES DISTRICT COURT
+NORTHERN DISTRICT OF CALIFORNIA
+SAN FRANCISCO DIVISION
+)
+)
+APPLERA CORPORATION—APPLIED
+BIOSYSTEMS GROUP, a Delaware corpora- )
+)
+tion,
+)
+)
+Plaintiff/Counterdefendant,
+)
+)
+v.
+)
+)
+ILLUMINA, INC., a Delaware corporation,
+SOLEXA, INC., a Delaware corporation, and )
+)
+STEPHEN C. MACEVICZ, an individual,
+)
+)
+Defendants/Counterclaimants.
+)
+)
+
+Case No. 07-CV-02845 WHA
+Honorable William H. Alsup
+SOLEXA’S MOTION FOR
+CLARIFICATION AND FOR LEAVE TO
+FILE MOTION SEEKING
+RECONSIDERATION OF THE
+COURT’S AUGUST 22, 2008 ORDER
+
+27
+28
+
+SOLEXA’S MOTION FOR CLARIFICATION AND FOR LEAVE TO FILE MOTION SEEKING
+RECONSIDERATION OF THE COURT’S AUGUST 22, 2008 ORDER; CASE NO. 07-CV-02845 WHA
+
+Case 3:07-cv-02845-WHA
+
+1
+
+I.
+
+Filed 08/26/2008
+
+Page 2 of 8
+
+INTRODUCTION AND STATEMENT OF RELIEF SOUGHT
+Pursuant to Civil Local Rule 7-9, Solexa seeks clarification of, and leave to file a motion
+
+2
+3
+
+Document 236
+
+seeking reconsideration of, the Court’s August 22, 2008 Order.1
+First, Solexa requests that the Court clarify that its grant of summary judgment of non-
+
+4
+5
+
+infringement regarding the ‘341 and ‘597 patents applies only to the “two-base-encoding” version
+
+6
+
+of the SOLiD System. As written, the Court’s holding of non-infringement of the “identifying”
+
+7
+
+limitation in the asserted claims might be interpreted to apply not only to the two-base-encoding
+
+8
+
+version of the SOLiD System (which was the sole subject of AB’s arguments regarding non-
+
+9
+
+infringement of the “identifying” limitation), but also to the one-base-encoding version (which, in
+
+10
+
+its opposition brief, AB expressly admitted satisfied the “identifying” limitation). Indeed, in dis-
+
+11
+
+cussion between counsel, AB has indicated that it considers the Order as having “resolved” the
+
+12
+
+‘341 patent in regard to infringement by the one-base-encoding version and as having left “only
+
+13
+
+the ‘597 and ‘119 as open issues,” i.e., AB takes the position that the Court has granted summary
+
+14
+
+judgment of non-infringement of the ‘341 patent as to both the two-base- and one-base-encoding
+
+15
+
+versions of the SOLiD System. Solexa requests that the Court clarify its Order so that the parties
+
+16
+
+can go forward with a clear understanding of what issues remain for trial in this case regarding
+
+17
+
+the one-base-encoding version of the SOLiD System.
+
+18
+
+Second, given AB’s admission of infringement, Solexa seeks leave to file a motion seek-
+
+19
+
+ing reconsideration of the Court’s denial of Solexa’s motion for summary judgment of infringe-
+
+20
+
+ment of the ‘341 and ‘597 patents by the one-base-encoding version of the SOLiD System.
+Finally, Solexa seeks leave to file a motion seeking reconsideration of the Court’s holding
+
+21
+22
+
+that Solexa waived reliance on the Doctrine of Equivalents with regard to the “identifying” limi-
+
+23
+
+tation in the asserted claims of the ‘341 and ‘597 patents, because AB’s vague and conclusory
+
+24
+
+comments about that issue in its opening brief were wholly inadequate to require a response by
+
+25
+
+Solexa.
+
+26
+27
+28
+
+1
+
+Docket No. 232 (hereinafter “the Order”).
+
+SOLEXA’S MOTION FOR CLARIFICATION AND FOR LEAVE TO FILE MOTION SEEKING
+RECONSIDERATION OF THE COURT’S AUGUST 22, 2008 ORDER; CASE NO. 07-CV-02845 WHA
+
+1
+
+Case 3:07-cv-02845-WHA
+
+1
+
+II.
+
+Document 236
+
+Filed 08/26/2008
+
+Page 3 of 8
+
+ARGUMENT
+
+2
+
+A.
+
+3
+
+The Court should clarify that its holding of non-infringement of the ‘341 and
+‘597 patents applies only to the two-base-encoding version of the SOLiD System
+
+4
+
+It is undisputed that AB has made, used, and sold the “two-base-encoding” version of the
+
+5
+
+SOLiD System, which the Court has found does not infringe the ‘341 or ‘597 patents. But it is
+
+6
+
+also undisputed that AB’s predecessor-in-interest, Agencourt, also made and used a “one-base-
+
+7
+
+encoding” version of the SOLiD System.2 In its motion for summary judgment, AB requested that
+
+8
+
+the Court find “(1) that all versions of the SOLiD System (including any one-base-encoding pro-
+
+9
+
+totypes) do not infringe any asserted claims of the ‘341 and ‘119 patents; and (2) that all two-base
+
+10
+
+encoding versions of the Solid System do not infringe the sole asserted claim of the ‘597 patent.”3
+
+11
+
+But AB never sought summary judgment that the one-base-encoding version of the SOLiD Sys-
+
+12
+
+tem did not infringe claim 1 of the ‘597 patent (on any ground), and it never sought summary
+
+13
+
+judgment that the one-base-encoding version did not satisfy the “identifying” limitation in the
+
+14
+
+claims of either the ‘341 or ‘597 patents.
+Although the Court’s discussion in the Order was limited to how the two-base-encoding
+
+15
+16
+
+version of the SOLiD System does not satisfy the “identifying” term in the claims of the ‘341 and
+
+17
+
+‘597 patents, the Order nevertheless includes the blanket statement that “summary judgment of
+
+18
+
+non-infringement as to all asserted claims of the ‘341 and ‘597 patents is GRANTED,” without
+
+19
+
+specifying whether the grant was with regard to the two-base-encoding or one-base-encoding ver-
+
+20
+
+sions (or both) of the SOLiD System.
+Because it is currently unclear what issues remain for trial with regard to infringement of
+
+21
+22
+
+these patents by the one-base-encoding version of the SOLiD System, Solexa respectfully re-
+
+23
+
+quests that the Court clarify that it has only granted summary judgment of non-infringement with
+
+24
+25
+26
+27
+28
+
+2
+
+As AB admitted in its Opposition (Docket No. 216 at 17-18), the “one-base-encoding” version of the SOLiD System used oligonucleotide probes where the fluorescent labels on the probes
+corresponded to the identity of a single base, while the “two-base-encoding” format uses oligonucleotide probes where the fluorescent labels on the probes correspond to the identity of two adjacent bases.
+3
+
+AB Motion for Summary Judgment of Non-Infringement (Docket No. 207) at 1 (emphases
+added).
+SOLEXA’S MOTION FOR CLARIFICATION AND FOR LEAVE TO FILE MOTION SEEKING
+RECONSIDERATION OF THE COURT’S AUGUST 22, 2008 ORDER; CASE NO. 07-CV-02845 WHA
+
+2
+
+Case 3:07-cv-02845-WHA
+
+Document 236
+
+Filed 08/26/2008
+
+Page 4 of 8
+
+1
+
+regard to the two-base-encoding version of the SOLiD System, because the two-base-encoding
+
+2
+
+version fails to satisfy the “identifying” limitation.
+
+3
+
+B.
+
+4
+5
+
+The Court should reconsider its denial of Solexa's motion for summary
+judgment of infringement of the ‘341 and ‘597 patents by the one-baseencoding version of the SOLiD System
+
+The Local Rules for the Northern District of California provide that a motion for recon-
+
+6
+
+sideration may not be noticed “without first obtaining leave of Court to file the motion.”4 A mo-
+
+7
+
+tion for leave to file a Motion for Reconsideration must specifically show that one or more of
+
+8
+
+three specific grounds for reconsideration exist.5 In this case, because the record shows “a mani-
+
+9
+
+fest failure by the Court to consider material facts or dispositive legal arguments which were pre-
+
+10
+
+sented to the Court”6 regarding Solexa’s motion for summary judgment of infringement of claim
+
+11
+
+1 of the ‘597 patent and claim 1 of the ‘341 patent by the one-base-encoding version of the
+
+12
+
+SOLiD System, the Court should reconsider its denial of Solexa’s motion.
+
+13
+
+Solexa moved for partial summary judgment that the one-base-encoding version of the
+
+14
+
+SOLiD System infringed both the ‘341 and ‘597 patents.7 As AB admitted in its Opposition to
+
+15
+
+Solexa’s motion,8 the one-base-encoding version of the SOLiD System, developed and used by
+
+16
+
+Agencourt, used sets of oligonucleotide probes in which each oligonucleotide probe in the set was
+
+17
+
+assigned a fluorescent dye (“label”) corresponding to the identity of one of the bases in a specific
+
+18
+
+position (the “interrogation position”).9
+
+19
+20
+
+Although the Court granted summary judgment of non-infringement as to the two-baseencoding version of the SOLiD System, its decision on that issue did not require denying
+
+21
+
+4
+
+L. R. 7-9(a).
+
+22
+
+5
+
+L. R. 7-9(b)(1)-(3).
+
+23
+
+6
+
+L. R. 7-9(b)(3).
+
+24
+25
+26
+
+7
+
+Solexa’s Motion for Partial Summary Judgment of Infringement (Docket No. 203) at, e.g., 1,
+2 and 13-24.
+8
+
+AB’s Opposition to Solexa’s Motion for Partial Summary Judgment of Infringement
+(Docket No. 216) at 17-18.
+9
+
+27
+28
+
+The one-base-encoding version is distinct from the commercial versions of the SOLiD System that use “two-base-encoding probes,” i.e., probes where the label corresponds to the identities
+of two adjacent bases.
+SOLEXA’S MOTION FOR CLARIFICATION AND FOR LEAVE TO FILE MOTION SEEKING
+RECONSIDERATION OF THE COURT’S AUGUST 22, 2008 ORDER; CASE NO. 07-CV-02845 WHA
+
+3
+
+Case 3:07-cv-02845-WHA
+
+Document 236
+
+Filed 08/26/2008
+
+Page 5 of 8
+
+1
+
+Solexa’s motion for summary judgment of infringement as to the one-base-encoding version. The
+
+2
+
+Order does not provide a basis for denial of Solexa’s motion with regard to the one-base-encoding
+
+3
+
+version of the SOLiD System,10 or, indeed, any indication that the Court considered the evidence
+
+4
+
+presented in Solexa’s motion (or the admission in AB’s opposition brief) that the one-base-
+
+5
+
+encoding version satisfied the “identifying” limitation in the claims of the ‘341 and ‘597 patents.
+
+6
+
+The Order suggests that the Court only considered the operation of the two-base-encoding
+
+7
+
+version of the SOLiD System in reaching its conclusion regarding the parties’ motions for sum-
+
+8
+
+mary judgment. For example, the Order states:
+
+9
+
+The record is clear that the Solid System does not literally determine the identity
+of a base in the target sequence on each and every cycle when a new probe is hybridized to the target sequence. This, of course, is because the Solid System employs a two-base identification scheme with software at the back end of the system
+to decode the sequence.11
+
+10
+11
+12
+
+Such statements in the Order suggest that the Court did not consider the operation of the
+13
+one-base-encoding version of the SOLiD System, or whether this system infringed the ‘341 and
+14
+
+‘597 patents as alleged by Solexa in its motion for partial summary judgment.12 The Court’s ap-
+
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+10
+
+Docket No. 232 at 19, n.7.
+
+11
+
+Id. at 14. See also id. at 6 (“The Solid System is a DNA sequencing machine that operates
+by interrogating two bases of an unknown DNA sequence at a time.”) (emphasis added), and id.
+at 7 (“Unlike the inventions in the asserted patents, however, the Solid System assigns a color label that is based on the identity of two bases in the probe - not one.”) (emphasis added). Likewise,
+none of the Figures used in the Court’s discussion of the operation of “the SOLiD System” relate
+to the one-base-encoding version. See id. at 7-10, Figures 5-8 (indeed, Figure 6 is specifically entitled “SOLiD Two Base Encoding”) (id. at 8).
+12
+
+Based on other statements in the Order, it appears that the Court would agree with Solexa
+that a one-base-encoding version of the SOLiD System would satisfy the “identifying” limitation
+in the asserted claims of the ‘341 and ‘597 patents. For example, the Court stated that the ‘341
+patent describes the use of oligonucleotide probes in which “each oligonucleotide probe in the set
+of probes is assigned a label corresponding to the identity of one of the bases located in the same
+position as the other probes.” Id. at 3 (emphasis added). These probes are one-base-encoding
+probes, not two-base encoding probes. See id. at 4, Fig. 1, and 5, Fig. 2. The Court further stated
+that when one-base-encoding probes are hybridized to a target, “[t]he specific oligonucleotide
+probe that hybridized may then be identified by recording the label that had previously been assigned to it (e.g., yellow) . . . . Once the color for the probe has been determined, the user then
+knows the specific identity of a nucleotide in the probe (e.g., the fifth nucleotide is an A)” (id. at
+4) (emphasis added), that “[r]epeating this process by ligating further oligonucleotide probes to
+the previously ligated probe allows additional nucleotide bases in the DNA target sequence to be
+SOLEXA’S MOTION FOR CLARIFICATION AND FOR LEAVE TO FILE MOTION SEEKING
+RECONSIDERATION OF THE COURT’S AUGUST 22, 2008 ORDER; CASE NO. 07-CV-02845 WHA
+
+4
+
+Case 3:07-cv-02845-WHA
+
+Document 236
+
+Filed 08/26/2008
+
+Page 6 of 8
+
+1
+
+parent oversight justifies granting Solexa leave to file a motion for reconsideration of the denial
+
+2
+
+of its motion.
+
+3
+
+Most importantly, the Court should reconsider its denial of Solexa’s motion because in its
+
+4
+
+Opposition brief,13 AB admitted that the one-base-encoding version of the SOLiD System satis-
+
+5
+
+fied the “identifying” limitation. AB admitted that “the prototype [i.e., the one-base-encoding
+
+6
+
+version of the SOLiD System] used one-base encoded probes in which the label on each probe
+
+7
+
+corresponded one-to-one with the identity of the target nucleotide being interrogated, and was
+
+8
+
+therefore used to determine the identity of a base within each cycle.”14 AB’s only arguments re-
+
+9
+
+garding infringement by the one-base-encoding version were that its infringement was excusable
+
+10
+
+as de minimis15 and that its affirmative ownership defenses precluded summary judgment.16
+
+11
+
+Solexa fully rebutted both of these arguments in its Reply brief,17 and will not repeat its argu-
+
+12
+
+ments here.
+
+13
+
+In light of AB’s admission, the Court should grant Solexa leave to file a motion seeking
+
+14
+
+reconsideration of its motion for partial summary judgment that the one-base-encoding version of
+
+15
+
+the SOLiD System infringed the ‘341 and ‘597 patents, and on reconsideration should grant
+
+16
+
+Solexa’s motion for partial summary judgment.
+C.
+The Court should reconsider its holding that Solexa waived any arguments
+regarding infringement of the “identifying” term under the Doctrine of
+Equivalents
+
+17
+18
+
+In its Order, the Court held that Solexa had waived its reliance on the Doctrine of Equiva19
+lents as to the “identifying” limitation because “Solexa made no infringement argument under the
+20
+
+doctrine of equivalents despite the fact it was raised by AB in its opening brief.”18 Solexa requests
+
+21
+22
+
+identified” (id. at 5), and that “[c]ontinuing this process ultimately allows for identification of
+every nucleotide in the target DNA sequence” (id. at 6).
+
+23
+
+13
+
+Docket No. 216.
+
+24
+
+14
+
+Docket No. 216 at 17-18 (emphasis added).
+
+15
+
+Id. at 18.
+
+16
+
+Id. at 20-24.
+
+25
+26
+27
+28
+
+17
+
+Solexa’s Reply in Support of Its Motion for Partial Summary Judgment of Infringement
+(Docket No. 221) at 11-15.
+18
+
+Docket No. 232 at 19, fn. 6.
+
+SOLEXA’S MOTION FOR CLARIFICATION AND FOR LEAVE TO FILE MOTION SEEKING
+RECONSIDERATION OF THE COURT’S AUGUST 22, 2008 ORDER; CASE NO. 07-CV-02845 WHA
+
+5
+
+Case 3:07-cv-02845-WHA
+
+Document 236
+
+Filed 08/26/2008
+
+Page 7 of 8
+
+1
+
+that the Court reconsider this holding because, although AB mentioned the Doctrine of Equiva-
+
+2
+
+lents in two paragraphs in its opening brief,19 other than providing quotes from cases, all AB said
+
+3
+
+was that “Illumina is estopped based on the arguments it made during prosecution” because
+
+4
+
+“Macevicz’s arguments clearly and unambiguously narrowed the scope of the claims.”20 AB did
+
+5
+
+not identify which “arguments” it was relying upon, or offer any explanation whatsoever as to
+
+6
+
+how or why these unidentified “arguments” narrowed the scope of any claim or would preclude
+
+7
+
+application of the Doctrine of Equivalents. There was simply no substance to which Solexa had to
+
+8
+
+respond.
+
+9
+
+As the Supreme Court has held, “[i]t is not enough to move for summary judgment with-
+
+10
+
+out supporting the motion in any way . . . .”21 To the contrary, “[t]he moving party bears the bur-
+
+11
+
+den of establishing the absence of a genuine issue of material fact.”22 As the Supreme Court held
+
+12
+
+in Celotex,
+
+13
+
+a party seeking summary judgment always bears the initial responsibility of informing the district court of the basis for its motion, and identifying those portions
+of “the pleadings, depositions, answers to interrogatories, and admissions on file,
+together with the affidavits, if any,” which it believes demonstrate the absence of a
+genuine issue of material fact.23
+
+14
+15
+16
+
+Solexa was not required to “fill-in-the-blanks” in a speculative attempt to rebut AB’s two
+17
+vague and wholly conclusory sentences about Macevicz’s “arguments” during prosecution, and
+18
+consequently should not be held to have waived any argument regarding the Doctrine of Equiva19
+lents.
+20
+21
+
+III.
+
+CONCLUSION
+For at least the reasons stated above, the Court should (i) clarify that its grant of summary
+
+22
+judgment of non-infringement applies only to the two-base-encoding version of the SOLiD Sys23
+24
+
+19
+
+Docket No. 207 at 15-16.
+
+25
+
+20
+
+Docket No. 207 at 16.
+
+26
+
+21
+
+Celotex Corp. v. Catrett, 477 U.S. 319, 328 (1986) (J. White, concurring).
+
+27
+
+22
+
+Cline v. Industrial Maintenance Eng'g & Contr. Co., 200 F.3d 1223, 1229 (9th Cir. 2000).
+
+23
+
+Celotex, 477 U.S. at 323.
+
+28
+
+SOLEXA’S MOTION FOR CLARIFICATION AND FOR LEAVE TO FILE MOTION SEEKING
+RECONSIDERATION OF THE COURT’S AUGUST 22, 2008 ORDER; CASE NO. 07-CV-02845 WHA
+
+6
+
+Case 3:07-cv-02845-WHA
+
+Document 236
+
+Filed 08/26/2008
+
+Page 8 of 8
+
+1
+
+tem; (ii) grant Solexa leave to file a motion seeking reconsideration of the denial of Solexa’s mo-
+
+2
+
+tion for summary judgment of infringement of the ‘341 and ‘597 patents by the one-base-
+
+3
+
+encoding version of the SOLiD System; and (iii) grant Solexa leave to file a motion seeking re-
+
+4
+
+consideration of the Court’s decision that Solexa waived reliance on the Doctrine of Equivalents
+
+5
+
+with regard to infringement by the two-base-encoding version of the SOLiD System.
+
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+
+DATED: August 26, 2008
+
+/s/ Cullen N. Pendleton
+THOMAS I. ROSS (admitted pro hac vice)
+KEVIN M. FLOWERS (admitted pro hac vice)
+JEFFREY H. DEAN (admitted pro hac vice)
+JOHN R. LABBE (admitted pro hac vice)
+CULLEN N. PENDLETON (admitted pro hac vice)
+MARK H. IZRAELEWICZ (admitted pro hac vice)
+MARSHALL, GERSTEIN & BORUN LLP
+6300 Sears Tower
+233 South Wacker Drive
+Chicago, Illinois 60606-6357
+(312) 474-6300 (telephone)
+(312) 474-0448 (facsimile)
+E-Mail: kflowers@marshallip.com
+E-Mail: tross@marshallip.com
+E-Mail: jdean@marshallip.com
+E-Mail: jlabbe@marshallip.com
+E-Mail: cpendleton@marshallip.com
+E-Mail: mizraelewicz@marshallip.com
+Counsel for Defendants
+ILLUMINA, INC., SOLEXA, INC.,
+and STEPHEN C. MACEVICZ
+
+21
+22
+23
+24
+25
+26
+27
+28
+SOLEXA’S MOTION FOR CLARIFICATION AND FOR LEAVE TO FILE MOTION SEEKING
+RECONSIDERATION OF THE COURT’S AUGUST 22, 2008 ORDER; CASE NO. 07-CV-02845 WHA
+
+7
+
+

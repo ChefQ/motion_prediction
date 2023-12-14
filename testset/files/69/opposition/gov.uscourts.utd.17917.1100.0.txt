@@ -1,0 +1,815 @@
+Case 2:03-cv-00294-CW Document 1100
+
+Filed 11/21/11 Page 1 of 17
+
+SNELL & WILMER L.L.P.
+Alan L. Sullivan (3152)
+Amy F. Sorenson (8947)
+15 West South Temple, Suite 1200
+Salt Lake City, Utah 84101-1004
+Telephone: (801) 257-1900
+
+Facsimile: (801) 257-1800
+CRA V ATH, SWAINE & MOORE LLP
+Evan R. Chesler (admitted pro hac vice)
+David R. Marriott (7572)
+Worldwide Plaza
+825 Eighth A venue
+New York, New York 10019
+Telephone: (212) 474-1000
+
+Facsimile: (212) 474-3700
+
+Attorneys for Defendant/Counterclaim-Plaintif
+International Business Machines Corporation
+
+IN THE UNITED STATES DISTRICT COURT
+
+FOR THE DISTRICT OF UTAH
+THE SCO GROUP, INC.,
+
+Plaintiff/Counterclaim-Defendant,
+
+IBM'S MEMORANDUM RESPONDING TO
+SCO'S REQUEST TO REOPEN
+
+v.
+
+INTERNATIONAL BUSINESS MACHINES
+CORPORATION,
+Defendant/Counterclaim- Plaintiff.
+
+(ORAL ARGUMENT REQUESTED)
+Civil No. 2:03CV -0294 CW
+
+Honorable Clark Waddoups
+
+Magistrate Judge Brooke C. Wells
+
+((NYLIT:2587870v3:4132W: 1 112111 1 --06:38 pJ)
+
+Case 2:03-cv-00294-CW Document 1100
+
+Filed 11/21/11 Page 2 of 17
+
+Defendant/Counterclaim- Plaintiff International Business Machines Corporation
+
+("IBM") respectfully submits this memorandum in response to the request of The SCO Group,
+
+Inc. ("SCO") (n/k/a TSG Group, Inc.) to reopen this case to pursue several of its claims against
+IBM while IBM's counterclaims against SCO remain stayed, despite the fact that IBM's
+counterclaims are inextricably intertwined with SCO's claims and litigating them separately (as
+SCO proposes) would be inefficient and fundamentally unfair and would ignore the preclusive
+
+effect ofthe final judgment (the "Novell Judgment") entered against SCO in its litigation with
+Novell (the "Novell Litigation").
+
+Preliminary Statement
+1. SCO commenced this litigation in 2003 as par of a campaign to control
+
+the Linux operating system, which was developed publicly by thousands of software developers,
+
+including developers at IBM. In response, IBM asserted a number of counterclaims against SCO
+for violating IBM's contractual, intellectual property and other rights.
+2. After years of litigation, the parties exchanged multiple summary
+
+judgment motions, and Judge Kimball heard several days of oral argument. But before the Cour
+could decide the motions, SCO filed a petition for relief under Chapter 11 of the Bankuptcy
+Code, resulting directly in an automatic stay and ultimately in closure of this case.
+3. Meanwhile, in a related litigation between SCO and Novell, the Novell
+
+Litigation, a jury returned a verdict, and now Chief Judge Stewart entered a final judgment,
+against SCO and in favor of
+
+NovelL. The Novell Judgment, which effectively forecloses SCO's
+
+claims in this case (as well as requiring a judgment in IBM's favor on several of its
+counterclaims), was affirmed by the Tenth Circuit on August 30, 2011.
+
+((NYL1T:2587870v3:4132W: 1 112111 1--06:38 pll
+
+Case 2:03-cv-00294-CW Document 1100
+
+Filed 11/21/11 Page 3 of 17
+
+4. Taking the view that not all of its claims are foreclosed by the Novell
+
+Judgment, SCO now asks the Court to reopen this case and to decide the summary judgment
+
+motions relating only to "SCO's unfair competition claim concerning the Project Monterey joint
+
+venture" (to which SCO was not even a party) and "SCO's tortious interference claims alleging
+that IBM interfered with SCO's market and business relationships".
+5. While we expect the Court wil eventually have to reopen this case, it is
+
+premature to do so now, because IBM's eleven counterclaims against SCO (which are closely
+related to SCO's claims against IBM) remain stayed, and it makes no sense to litigate this case
+
+piecemeal. Doing so would waste judicial and party resources and potentially result in
+inconsistent rulings.
+
+6. Nor does it make sense at this juncture for the Court to dive into the
+summary judgment motions IBM fied (more than four years ago) against SCO's unfair
+competition and tortious interference claims. While those claims have no merit (for the reasons
+described in IBM's motions), they are also, contrary to SCO's contention, effectively foreclosed
+
+by the Novell Judgment, which also affects IBM's counterclaims against SCO.
+7. Rather, we respectfully request that the Cour enter an order (i) providing
+
+that this case shall be reopened within 5 days of
+
+the fiing of a notice (by any party) that the stay
+
+concerning IBM's counterclaims has been lifted; (ii) stating that the claims that SCO concedes
+
+are foreclosed by the Novell Judgment wil be dismissed when the case is reopened; (iii)
+directing that, within 45 days of the reopening of the case, any party may make a motion for
+summary judgment addressing the impact of
+
+the Novell Judgment on all remaining claims
+
+(including the IBM counterclaims resolved by the Novell Judgment); and (iv) ordering the
+
+2
+((NYLIT:2587870v3:4132W:1 lIl11 1--06:38 pll
+
+Case 2:03-cv-00294-CW Document 1100
+
+Filed 11/21/11 Page 4 of 17
+
+parties jointly to submit, within 10 days of the entry of an order of the Court determining the
+impact of
+
+the Novell Judgment, a proposed scheduling order to govern the balance of
+
+the case.
+
+8. Proceeding in this way wil minimize the risks of piecemeal litigation,
+
+prevent the Court's deciding motions concerning foreclosed claims, and put the paries and the
+Court in a position to bring this case to a conclusion in the most efficient manner possible. Thus,
+SCO's motion to reopen should be denied without prejudice.
+
+Background
+9. In early 2003, SCO attempted to profit from the UNIX and Linux
+
+operating systems by, among other things, embarking on a far-reaching publicity campaign to
+create the false and unsubstantiated
+
+impression that SCO had expansive rights to the UNIX and
+
+Linux operating systems and by bringing baseless legal claims against IBM and others.
+10. SCO asserted nine claims against IBM: (l) four breach of contract claims
+
+(Counts I to IV); (2) one copyright infringement claim (Count V); (3) one unfair competition
+claim (as to a joint venture to which SCO was not a party) (Count VI); and (4) three tortious
+
+interference claims (Counts VII to IX). The crux ofSCO's case was that it owned the copyrights
+and other rights to the UNIX operating system and that IBM and others violated SCO's alleged
+
+rights and injured SCO by contributing to the development of the Linux operating system.
+11. Based on the conduct underlying SCO's attack on Linux and IBM, IBM
+
+asserted a number of counterclaims against SCO: (l) two claims for declaration of noninfringement of copyright (Counterclaims IX and X); (2) one claim for breach of contract
+
+(Counterclaim I); (3) three claims relating to SCO's copying ofIBM code in Linux
+(Counterclaims VI to VIII); (4) four claims concerning SCO's campaign to create fear,
+
+3
+((NYLIT:2587870v3:4132W: I 11111 1--06:38 pll
+
+Case 2:03-cv-00294-CW Document 1100
+
+Filed 11/21/11 Page 5 of 17
+
+uncertainty and doubt about IBM's products and services (Counterclaims II to V); and (5) one
+claim for a declaration of
+
+its other claims (Counterclaim XIV).
+
+IBM's rights under all of
+
+12. Both Judge Kimball (to whom this case was initially assigned) and
+
+Magistrate Judge Wells entered a series of orders callng SCO's claims into question and
+materiaily limiting SCO's case. SCO challenged these rulings in motions/objections that are
+the November 29,2006 Order (Doc. #
+
+fully briefed: (1) SCO's Motion for Reconsideration of
+
+894); (2) SCO's Objections to the Magistrate Judge's Order on IBM's Motion to Confine (Doc. #
+
+899); (3) SCO's Motion to Amend its December 2005 Submission (Doc. # 913); (4) SCO's
+the Order Denying SCO's Motion for
+
+Motion for Reconsideration by the Magistrate Court of
+
+Relief
+
+for IBM's Spoliation of
+
+Evidence (Doc. # 986); and (5) SCO's Objections to the
+for IBM's Spoliation of
+
+Magistrate Court's Order Denying SCO's Motion for Relief
+
+Evidence
+
+(Doc. # 995).
+
+judgment
+
+13. Thereafter, IBM tiled six sumary judgment motions, seeking
+
+in its favor on all of SCO' s claims and two of its own. SCO filed three summary judgment
+motions, seeking judgment on seven of IBM's claims and one of its own.
+14. On August 10,2007, before ruling on these motions, Judge Kimball
+
+entered an order in the Novell Litigation, rejecting the keystone of SCO's litigation campaign.
+
+Judge Kimball ruled that Novell, not SCO, owns the core UNIX copyrights and that Novell has
+
+the right, which it has exercised on IBM's behalf, to waive most of SCO's purported claims
+against IBM.
+15. Recognizing that that ruling "significantly impacts" this case, Judge
+
+his Novell ruling on this case.
+
+Kimball required the parties to state their views as to the effect of
+
+4
+((NYLIT:2587870v3:4132W:I 1/111 1--06:38 pll
+
+Case 2:03-cv-00294-CW Document 1100
+
+Filed 11/21/11 Page 6 of 17
+
+IBM believed the Novell ruling effectively rejected all of SCO's claims and effectively granted
+
+several of IBM's counterclaims. SCO took a narrower view of the ruling but did not dispute that
+it foreclosed no fewer than six of SCO's nine claims against IBM.
+16. Shortly after the parties responded to the Court concerning the effect of
+
+the Novell ruling on this case, but before Judge Kimball ruled on the pending motions, SCO fied
+
+a petition for relief under the Bankuptcy Code in Delaware, where SCO is incorporated. The
+instant case was then closed (administratively) pending resolution ofSCO's bankptcy case,
+
+which gave rise to an automatic stay.
+17. On August 24,2009, the Tenth Circuit reversed in part Judge Kimball's
+
+summary judgment ruling in the Novell Litigation and remanded the case for triaL. The Tenth
+
+Circuit ruled that there were questions of fact as to whether Novell or SCO owned the UNIX
+
+copyrights and whether Novell could waive SCO's claims against IBM.
+from both the Novell
+
+18. Upon remand, Judge Kimball recused himself
+
+Litigation and this case. This case was reassigned to Judge Campell, and the Novell Litigation
+was reassigned to Judge Stewart.
+19. On March 30, 2010, a
+
+jury retured a verdict against SCO in the Novell
+
+Litigation, finding that Novell owns the core UNIX copyrights, which lie at the hear of SCO's
+fact and conclusions of
+
+case against IBM. On June 10,2010, Judge Stewart issued findings of
+
+law refusing SCO's reqúest for specific performance and holding that Novell had the authority to
+
+judgment
+
+waive SCO's claims against IBM. On the same day, Judge Stewart issued a final
+
+embodying the jury verdict and his findings of fact and conclusions of law.
+20. Shortly after SCO fied an appeal, but before the Tenth Circuit ruled on
+
+5
+((NYLIT:2587870v3:4132W:1 1/111 1--06:38 pll
+
+Case 2:03-cv-00294-CW Document 1100
+
+Filed 11/21/11 Page 7 of 17
+
+the appeal, SCO requested that this Cour permit it to proceed as to several of its claims against
+IBM (i.e., SCO's unfair competition and tortious inference claims) while IBM's counterclaims
+against SCO remained stayed. In an order dated September 10,2010, Judge Campell declined to
+
+take that piecemeal approach.
+
+21. While Judge Campell stated that either party could move to reopen this
+case after the Tenth Circuit issued its decision in the Novell Litigation, she expressed no view as
+to whether it would make sense to reopen the case while IBM's counterclaims remained stayed.
+22. SCO seeks to reopen this case and to proceed piecemeal, while IBM's
+
+counterclaims remain stayed. In fact, despite the fact that it has been more than four years since
+
+SCO fied a petition for relief under the bankuptcy laws, it has not confirmed a plan of
+relief
+
+reorganization or sought
+
+from the stay as to IBM's counterclaims.
+
+Argument
+the Novell Judgment brings this
+
+23. While the Tenth Circuit's affrmance of
+
+case closèr to the point where it should be reopened, it makes no sense to proceed with the case
+before the stay of
+
+IBM's counterclaims is lifted. Nor does it make any sense for the Court to
+
+dive into the summary judgment motions IBM fied against SCO's unfair competition and
+tortious interference claims. However, as soon as the stay is lifted as to IBM's counterclaims,
+
+the Cour should (i) dismiss the claims that SCO concedes are foreclosed, (ii) determine the
+effect of
+
+the Novell Judgment
+
+on the remaining claims and counterclaims, and (iii) enter a
+
+scheduling order to bring this matter to an expeditious resolution.
+
+24. The Court should not reopen this case to proceed piecemeal; it should
+reopen the case when the stay has been lifted as to IBM's counterclaims. In seeking to
+
+6
+((NYLIT:2587870v3:4132W: I 1/1/1 1--06:38 pll
+
+Case 2:03-cv-00294-CW Document 1100
+
+Filed 11/21/11 Page 8 of 17
+
+reopen this case now, SCO scarcely makes mention ofIBM's counterclaims. But, as stated, IBM
+non-infringement of
+
+has eleven counterclaims against SCO: (1) two claims for declaration of
+
+copyright (Counterclaims ix and X); (2) one claim for breach of contract (Counterclaim i); (3)
+
+three claims relating to SCO's copying ofIBM code in Linux (Counterclaims Vi to VIIi); (4)
+four claims concerning SCO's campaign to create fear, uncertainty and doubt about IBM's
+
+products and services (Counterclaims II to V); and (5) one claim for a declaration ofIBM's
+rights under all of its other claims (Counterclaim XiV).
+
+25. IBM's counterclaims are closely related to SCO's claims, including its
+unfair competition claim (Count VI) and its tortious interference claims (Count VII-IX).! IBM's
+is alleged by SCO to
+
+counterclaims accuse SCO of (i) breaching the same UNIX contracts IBM
+
+have breached (Counterclaim I); (ii) infringing IBM copyrights and violating the General Public
+
+License with respect to the same Linux operating system that SCO claims IBM improperly
+supported (Counterclaims VI, VII, VIII); (iii) orchestrating a campaign of fear, uncertainty and
+
+doubt about IBM's products and services - the very course of conduct with which it claims
+IBM interfered (Counterclaims II, III, iv, and V); (iv) falsely asserting claims of copyright
+! SCO's tortious interference claims accuse IBM of (i) inducing Novell to assert
+copyright and waiver rights that SCO argues Novell does not have under the APA (Count VIII)
+(though SCO seems to recognize this claim is bared by the Novell Judgment); (ii) interfering
+with SCO's business relationships with 175 companies (besides Novell) by urging them to use
+Linux (instead ofSCO's UNIX products) while knowing that such use would violate their UNIX
+licenses (Count VII); and (iii) interfering with SCO's business relationships with six other
+entities by urging them not to do business with SCO because ofSCO's efforts to protect the
+UNIX code allegedly misappropriated by Linux (Count IX). SCO's unfair competition claim
+(Count VI) purorts to be a catch-all count, accusing IBM of a variety of alleged misconduct,
+such as breaches of contracts, misappropriation of source code, and infringement of copyrights,
+including with respect to certain UNIX SVr4 code (licensed to IBM by The Santa Cruz
+this claim are barred.
+Operation, Inc. during "Project Monterey"); SCO admits branches of
+
+7
+((NYLIT:2587870v3:4132W:1 11111 1--06:38 pll
+
+Case 2:03-cv-00294-CW Document 1100
+
+Filed 11/21/11 Page 9 of 17
+
+infringement with respect to the same copyrights referenced by SCO in its claims (Counterclaim
+
+ix and X); and (v) interfering with IBM's relationships with the same customer base that SCO
+accuses IBM of interfering with (Counterclaim IV).
+26. Given the connection between SCO's claims and IBM's counterclaims,
+
+proceeding with SCO's claims alone has nothing to recommend it. IfSCO's claims are to be
+litigated, they should be litigated with IBM's counterclaims, as they were for years prior to
+
+SCO's bankuptcy fiing. SCO's claims and IBM's counterclaims concern the same course of
+conduct and intellectual property. Litigating them separately, and potentially conducting two
+separate trials, would make no sense.
+27. Thus, we respectfully submit that the Court should enter an order
+
+providing that this case shall be reopened within 5 days ofthe fiing of a notice (by any party)
+that the stay has been fully lifted concerning IBM's counterclaims (except as to the enforcement
+
+of any money judgment that IBM obtains against SCO). IBM does not object to lifting the stay,
+and, as the debtor, SCO should be able to obtain an order lifting it in short order.
+28. After the stay has been lifted and this case has been reopened, the
+
+Court should first dismiss the claims that SCO concedes are foreclosed. SCO admits that at
+least five (and perhaps six) of its claims against IBM, and part of another of its claims, are
+
+foreclosed by the Novell Judgment. Specifically, SCO clearly concedes that its four claims for
+breach of contract (Counts I-IV) and its copyright claim (Count V) are barred by the Novell
+Judgment; it also acknowledges that the branches of its unfair competition claim unrelated to
+
+Project Monterey are barred. The Tenth Circuit affrmed the final judgment entered by Judge
+Stewart providing that Novell (not SCO) owns the copyrights SCO claimed to have been
+
+8
+((NYLIT:2587870v3:4132W:I 1/111 1--06:38 pll
+
+Case 2:03-cv-00294-CW Document 1100
+
+Filed 11/21/11 Page 10 of 17
+
+infringed and that Novell was authorized to waive SCO's claims against IBM for alleged
+
+breaches of contract. Thus, these claims should be dismissed as soon as the case is reopened.
+The Court need not decide IBM's summary judgment motions to resolve these claims.
+
+29. While SCO's motion to reopen is not entirely clear on the subject, we
+expect SCO wil also concede that, when the case is reopened, judgment should be entered in
+favor ofIBM with respect to SCO's claim (Count VIII) that IBM induced Novell to assert
+copyright and waiver rights that SCO argues Novell does not have under the Asset Purchase
+
+Agreement between SCO and Novell (the "APA"). Again, in affrming the Novell Judgment, the
+Tenth Circuit ruled that Novell owned the copyrights and properly exercised the waiver rights in
+question. Under these circumstances, SCO's tortious interference claim concerning Novell is
+
+Decision and
+
+untenable, as SCO acknowledged in its response to Judge Kimball's Notice of
+
+Request for Status Update dated August 10,2007.
+30. Once the Court has dismissed the claims that SCO concedes are
+
+foreclosed, we suggest it should determine the impact of the Novell Judgment on the
+parties' remaining claims and counterclaims. While SCO concedes that the Novell Judgment
+
+forecloses its four contract claims (Counts I-IV) and its copyright claim (Count V), SCO claims
+
+that the Novell Judgment does not bar "SCO's unfair competition claim concerning the Project
+
+Monterey joint venture" (to which SCO was not a party) (Count VI) and "SCO's tortious
+interference claims alleging that IBM interfered with SCO's market and business relationships"
+
+(Counts VII and IX). SCO is wrong.
+31. "SCO' s tortious interference claims alleging that IBM interfered with
+
+SCO's market and business relationships" (Counts VII and IX) depend on the proposition that
+
+9
+((NYLIT:2587870v3:4132W: 1112111 1--06:38 pll
+
+Case 2:03-cv-00294-CW Document 1100
+
+Filed 11/21/11 Page 11 of 17
+
+IBM acted improperly in contributing its own source code to Linux. Specifically, Count VII
+alleges IBM interfered with SCO's business relationships with "its market" (175 companies
+
+besides Novell) by urging them to use Linux (instead of SCO's UNiX products) while knowing
+
+that such use would violate SCO's UNiX licenses. Count iX alleges that IBM interfered with
+SCO's business relationships with six other entities by urging them not to do business with SCO
+
+because of SCO's efforts to protect the UNiX code allegedly misappropriated by Linux.
+However, the Novell Judgment precludes SCO from challenging IBM's contributions of
+
+its own
+
+code to Linux: the Novell Judgment expressly affrms Judge Stewart's judgment that Novell
+
+properly waived any such claim and that Novell, not SCO, owns the copyrights in (and thus has
+the right to reproduce and distribute) the allegedly misused code.
+32. SCO's unfair competition claim (Count Vi), which is a mix of SCO's
+
+other causes of action, is likewise foreclosed. Insofar as the claim concerns the alleged
+misconduct underlying SCO's breach of contract and copyright infringement claims, it is plainly
+
+foreclosed by the Novell Judgment, as SCO seems to concede, because Novell waived the
+
+alleged breaches and owns the relevant copyrights. The only branch of its unfair competition
+
+claim that SCO appears to seek to assert relates to "Project Monterey". But the crux ofSCO's
+Monterey allegations is that IBM exceeded the scope of its license to certain UNIX SVr4 code
+(licensed to IBM by The Santa Cruz Operation Inc., not SCO, during Project Monterey) by
+
+copying the code into IBM's AIX for POWER product. SCO has never properly identified any
+such code that is not covered by copyrights determined in the Novell Litigation to be owned by
+
+Novell. Nor did SCO make the disclosures required by IBM's discovery requests and the
+Court's orders with respect to the "Project Monterey" code on which it would seek to base its
+
+10
+((NYLIT:2587870v3:4132W: I 112111 1--06:38 pll
+
+Case 2:03-cv-00294-CW Document 1100
+
+Filed 11/21/11 Page 12 of 17
+
+claim. Thus, SCO's Monterey allegations are untenable following the Novell Judgment.2
+(SCO's Monterey allegations are also untenable for the reasons discussed in paragraph 38
+below.)
+
+33. IBM thus proposes to make a motion for summary judgment, within 45
+days of
+
+the reopening of
+
+the Novell Judgment on all remaining
+
+the case, addressing the impact of
+
+we are correct about the impact of
+
+claims (including IBM's counterclaims). If
+
+the Novell
+
+Judgment, it wil be unnecessary for the Cour to decide a number ofthe pending summary
+judgment motions to resolve these claims.
+34. Once the Court has determined the effect of the Novell Judgment, we
+
+propose it require the parties to submit a scheduling order to govern the balance of this
+proceeding. If the Court were to deny the summary judgment motion that IBM proposes to
+the Novell Judgment on SCO's tortious interference and unfair
+
+make concerning the impact of
+
+competition claims, then it would be necessary for the Court to wade into the pending sumary
+
+likely be advisable
+
+judgment motions concerning those claims. But before doing so, it wil
+
+(depending in part of
+
+the nature ofthe Cour's ruling as to the scope ofthe Novell Judgment) for
+
+the parties to supplement the existing briefing, and the Court may want to hear additional
+
+argument. Not only does the Novell Judgment affect these claims in important respects, but also
+2 In addition to disposing ofthe only claims that SCO seeks to pursue, the Novell
+
+Judgment had a significant impact on IBM's counterclaims. For example, the Tenth Circuit's
+judgment in favor ofIBM on its
+the Novell Judgment (1) requires the entry of
+affirmance of
+Counterclaims IX and X, which seek declarations of non-infringement, as SCO canot show
+
+IBM infringed copyrights SCO does not own; (2) requires the entry of summary judgment in
+favor of IBM on its Counterclaim I, insofar as it rejects the premise on which SCO purported to
+terminate an IBM license; and (3) precludes SCO's primar defenses as to IBM's three claims
+relating to SCO's copying ofIBM code in Linux (Counterclaim VI, VII and VIII).
+
+11
+((NYLIT:2587870v3:4132W:I 1121/1 1--06:38 pll
+
+Case 2:03-cv-00294-CW Document 1100
+
+Filed 11/21/11 Page 13 of 17
+
+the pending motions were made nearly five years ago and the body of relevant case law has
+grown.
+
+the Court were to grant IBM's proposed summary judgment
+
+35. Even if
+
+motion (as to the impact of
+
+the Novell Judgment) in its entirety, it wil make sense for the parties
+
+to submit a proposed scheduling order based upon that decision. While the Novell Judgment had
+a significant impact of the claims and counterclaims in this case, it did not resolve all of IBM's
+
+counterclaims. For example, while the Novell Judgment strengthens IBM's counterclaims
+concerning SCO's campaign to create fear, uncertainty and doubt about IBM's products and
+services, it does not completely resolve all of
+
+those claims. Thus, the Court wil need to address
+
+certain of the pending motions, which may also require supplemental briefing and argument. 3
+36. Finally, lest there be any doubt about it, IBM disputes SCO's
+
+allegations of misconduct. IBM does not believe the present motion is the place to argue the
+alleged merits of SCO's claims. That has been done extensively in the pending motions for
+summary judgment, and this is a procedural motion. But insofar as SCO's motion to reopen
+seeks to sell its claims, we wish at least to make one thing crystal clear: not only are SCO's
+claims barred by the Novell Judgment, but they are also without merit for multiple reasons
+independent of
+
+the Novell Judgment. As explained at length in IBM's pending motions for
+
+summary judgment, IBM did nothing to injure SCO; rather, it is SCO that undertook - with
+
+much fanfare - a multi-year campaign to profit off of the thousands of persons and entities,
+3 Depending on what remains in the case following the Court's ruling concerning the
+impact of
+the Novell Judgment, and the pending summary judgment motions, the Court may also
+need to decide the motions/objections referenced in paragraph 12 above, in the event SCO elects
+
+to pursue them.
+
+12
+((NYLIT:2587870v3:4132W:1 112111 1--06:38 pll
+
+Case 2:03-cv-00294-CW Document 1100
+
+Filed 11/21/11 Page 14 of 17
+
+including IBM, who have contributed to the development of Linux.
+37. In touting its tortious interference claims, SCO neglects to mention that,
+
+while it has identified numerous relationships with which IBM purportedly interfered, SCO
+alleges nothing more than "indirect interference" as to the overwhelming majority of
+
+of 182); SCO accuses IBM of
+
+them (175
+
+"direct interference" with only seven entities. However, SCO's
+
+allegations of "indirect interference" are untenable as a matter of law, and each of the entities
+with whom IBM allegedly "directly interfered" has testified that no such interference occurred
+or, in any event, that they did not change their relationships with SCO as a result of any IBM
+
+conduct. Moreover, (i) IBM's allegedly tortious acts were not undertaken with an improper
+link between any act of IBM and any
+
+purpose or by improper means, and (ii) there is no causal
+
+specitic injury to SCO. These flaws in SCO's claims are described in detail in IBM's summary
+judgment motion, the transcript of
+
+the oral argument on that motion and the demonstrative
+
+exhibits submitted at oral argument.
+38. Similarly, in touting its unfair competition claim, SCO accuses IBM of
+
+abandoning Project Monterey (a venture between IBM and The Santa Cruz Operation, Inc., not
+
+SCO), only to misappropriate source code to which IBM was given access during the project. In
+
+fact, IBM did not abandon Project Monterey; Santa Cruz did. Rather than meet its obligations on
+the project, Santa Cruz sold the very Unix assets involved in the project to a Linux company
+
+called Caldera Systems, which later changed its name to The SCO Group, Inc. It was only then
+that IBM exercised its undisputed right to terminate the project, which had simply not progressed
+
+as originally hoped. Nor did IBM misappropriate any source code in connection with Project
+Monterey; it simply used the code to which it was given access and which it had a contractual
+
+13
+((NYLIT:2587870v3:4132W: 11121/1 1--06:38 pll
+
+Case 2:03-cv-00294-CW Document 1100
+
+right to use. Absent from SCO's description of
+
+Filed 11/21/11 Page 15 of 17
+
+its claim is any mention of
+
+the fact that (i) SCO
+
+was not a pary to the joint development agreement relating to Project Monterey (the "JDA") and
+
+thus does not have the right to seek redress of rights relating to that contract; (ii) even if SCO
+could pursue a claim relating to the JDA, the JDA contains a two-year limitations provision,
+
+under which SCO's unfair competition claim would be untimely; (iii) the crux of SCO's
+
+claim - that IBM used Project Monterey as a pretext to misappropriate source code - is preempted by federal copyright law; (iv) the conduct about which SCO complains does not
+constitute unfair competition under well-established law; and (v) SCO cannot show that alleged
+
+unfair competition resulted in damages to SCO, which would in any case be limited to $5 milion
+under the terms of
+
+the JDA. These flaws in SCO's claims are further described in detail in
+
+IBM's summary judgment motion, the transcript of the oral argument on that motion and the
+demonstrative exhibits submitted at oral argument.
+39. In summary, IBM supports the expeditious resolution ofthis case. But the
+best way to bring that about is not to proceed piecemeal as to three of SCO' s claims, especially
+
+where, as here, those claims are intimately related to IBM's counterclaims, which remain stayed
+
+due to SCO's banuptcy fiing, and are barred by the Novell Judgment. We respectfully submit
+that the most sensible way to proceed here is for the Court to enter an order (i) providing that this
+
+case shall be reopened within 5 days of the fiing of a notice (by any party) that the stay of IBM's
+counterclaims has been lifted, which SCO should be able to accomplish expeditiously; (ii) stating
+
+that the claims that SCO concedes are foreclosed by the Novell Judgment wil be dismissed
+the reopening of
+
+when the case is reopened; (iii) directing that, within 45 days of
+
+the Novell Judgment
+
+party may make a motion for sumary judgment addressing the impact of
+
+14
+((NYLIT:2587870v3:4132W:1 1/111 1--06:38 pll
+
+the case, any
+
+Case 2:03-cv-00294-CW Document 1100
+
+Filed 11/21/11 Page 16 of 17
+
+on all remaining claims; and (iv) ordering the parties jointly to submit, within 10 days of the
+entry of an order of
+
+the Novell Judgment, a proposed
+
+the Court determining the impact of
+
+scheduling order to govern the balance of the case.
+
+Conclusion
+For the foregoing reasons, IBM respectfully submits that the Court should decline
+SCO's request to proceed piecemeal; the Court should proceed instead as outlined above.
+DATED this 21st of
+
+November 2011
+
+SNELL & WILMERL.L.P.
+
+/s/ Amy F. Sorenson
+Alan L. Sullvan
+Amy F. Sorenson
+
+CRA V ATH, SWAINE & MOORE LLP
+Evan R. Chesler
+David R. Marriott
+
+Attorneys for Defendant/Counterclaim-Plaintif
+International Business Machines Corporation
+Of
+
+Counsel:
+
+INTERNATIONAL BUSINESS MACHINES CORPORATION
+Alec S. Berman
+1 North Castle Drive
+Armonk, New York 10504
+(914) 765-1900
+
+Attorneys for Defendant/Counterclaim-Plaintif
+International Business Machines Corporation
+
+15
+((NYLIT:2587870v3:4132W:1 112111 1--06:38 pll
+
+Case 2:03-cv-00294-CW Document 1100
+
+Filed 11/21/11 Page 17 of 17
+
+CERTIFICATE OF SERVICE
+I hereby certify that a true and accurate copy of the foregoing was electronically fied on
+the 21 st day of
+
+November, 2011 with the Clerk of
+
+the Court and delivered by CM/ECF system to
+
+the following:
+Brent O. Hatch
+
+Mark F. James
+HATCH, JAMES & DODGE, P.C.
+10 West Broadway, Suite 400
+Salt Lake City, Utah 84101
+David Boies
+
+Robert Silver
+
+Edward Normand
+BOIES, SCHILLER & FLEXNER LLP
+333 Main Street
+Armonk, New York 10504
+
+Stuart Singer
+
+BOIES, SCHILLER & FLEXNER LLP
+100 Southeast Second Street, Suite 2800
+Miami, Florida 33131
+
+/s/ Amy F. Sorenson
+
+13460050.1
+14070088.1
+
+

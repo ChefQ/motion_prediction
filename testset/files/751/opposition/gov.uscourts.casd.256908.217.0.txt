@@ -1,0 +1,751 @@
+Case 3:07-cv-02000-H-CAB
+
+Document 217
+
+Filed 01/08/2008
+
+Page 1 of 11
+
+1 David A. Hahn, SBN 125784
+HAHN & ADEMA
+2 501 West Broadway, Suite 1600
+San Diego, California 92101-3595
+3 Telephone: (619) 235-2100
+Facsimile: (619) 235-2101
+4
+John M. Desmarais (pro hac vice)
+5 Paul A. Bondor (pro hac vice)
+Elizabeth T. Bernard (pro hac vice)
+6 KIRKLAND & ELLIS LLP
+153 East 53rd Street
+7 New York, New York 10022
+Telephone: (212) 446-4800
+8 Facsimile: (212) 446-4900
+9 Attorneys for Lucent Technologies Inc.
+and Multimedia Patent Trust
+10
+11
+12
+13
+14
+15
+16
+
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF CALIFORNIA
+CASE NO. 07-CV-2000-H (CAB)
+LUCENT TECHNOLOGIES INC. and
+consisting of matters severed from
+MULTIMEDIA PATENT TRUST
+the consolidated cases:
+CASE NO. 02-CV-2060-B (CAB)
+Plaintiffs and Counter-Defendants,
+CASE NO. 03-CV-0699-B (CAB)
+CASE NO. 03-CV-1108-B (CAB)
+vs.
+GATEWAY, INC., et al.
+
+17
+18
+19
+20
+
+Defendants and Counterclaimants.
+and
+MICROSOFT CORPORATION,
+Intervener and Counterclaimant.
+
+21
+22
+
+AND RELATED CLAIMS
+
+LUCENT TECHNOLOGIES INC.
+AND MULTIMEDIA PATENT
+TRUST’S OPPOSITION TO
+DEFENDANTS’ MOTION FOR
+REVIEW OF MAGISTRATE
+JUDGE’S RULING REGARDING
+SUPPLEMENTAL DAMAGES
+EXPERT REPORT
+Date:
+January 22, 2008
+Time:
+10:30 a.m.
+Courtroom: 13, 5th Floor
+Judge:
+Hon. Marilyn L. Huff
+
+23
+24
+25
+26
+27
+28
+
+LUCENT AND MPT’S OPPOSITION TO DEFENDANTS’
+MOTION FOR REVIEW OF MAGISTRATE JUDGE’S RULING
+REGARDING SUPPLEMENTAL DAMAGES EXPERT
+REPORT
+
+Case No. 07--CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+2 I.
+4
+5
+6
+
+Page 2 of 11
+
+INTRODUCTION ...............................................................................................................1
+
+II.
+
+FACTUAL BACKGROUND..............................................................................................1
+
+III.
+
+LEGAL STANDARD..........................................................................................................3
+
+IV.
+
+ARGUMENT.......................................................................................................................3
+A.
+
+Magistrate Judge Bencivengo’s Order Denying Defendants’ Motion To Strike
+The Supplemental Report Is Neither Clearly Erroneous Nor Contrary To Law
+Because The Report Is Timely, Substantially Justified, And Causes No
+Prejudice. .................................................................................................................3
+
+B.
+
+Mr. Smith’s Testimony Will Assist The Trier of Fact And Is Highly Relevant......6
+
+7
+8
+9
+10
+
+Filed 01/08/2008
+
+TABLE OF CONTENTS
+
+1
+
+3
+
+Document 217
+
+V.
+
+CONCLUSION....................................................................................................................6
+
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+LUCENT AND MPT’S OPPOSITION TO DEFENDANTS’
+MOTION FOR REVIEW OF MAGISTRATE JUDGE’S RULING
+REGARDING SUPPLEMENTAL DAMAGES EXPERT
+REPORT
+
+i
+
+Case No. 07--CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Filed 01/08/2008
+
+Page 3 of 11
+
+TABLE OF AUTHORITIES
+
+1
+2
+
+Document 217
+
+Cases
+
+3 Becton Dickinson and Co. v. Syntron Bioresearch, Inc.,
+No. 97-CV-1634 K (POR), 1998 U.S. Dist. LEXIS 22082, at *50-55 (S.D. Cal. Dec. 19,
+1998) ......................................................................................................................................... 3
+4
+5 Bhan v. NME Hospitals, Inc.,
+929 F.2d 1404 (9th Cir. 1991) .................................................................................................. 3
+6
+Diomed, Inc. v. AngioDynamics, Inc.,
+7
+450 F. Supp. 2d 130 (D. Mass. 2006) ....................................................................................... 6
+8
+Eng’g Co. v. ITT Flygt Corp.,
+No. 03-2060MaV, 2004 U.S. Dist. LEXIS 26155, at *6-9 (W.D. Tenn. June 8, 2004)........... 4
+9
+10 Engineered Prods. Co. v. Donaldson Co., Inc.,
+313 F. Supp. 2d 951 (N.D. Iowa 2004)..................................................................................... 4
+11
+Green v. Baca,
+12
+219 F.R.D. 485 (C.D. Cal. 2003) .............................................................................................. 3
+13
+
+Klund v. High Tech. Solutions, Inc.,
+No. 05CV0565JAH, 2006 WL 549385, at *6 (S.D. Cal. Feb. 27, 2006) ................................. 5
+14
+15 Lozano v. City of Hazelton,
+241 F.R.D. 252 (M.D. Pa. 2007)............................................................................................... 5
+16
+Michelone v. Desmarais,
+17
+25 Fed. Appx. 155 (4th Cir. 2002)........................................................................................... 5
+18 Montgomery v. Mitsubishi Motors Corp.,
+448 F. Supp. 2d 619 (E.D. Pa. 2006) ........................................................................................ 5
+19
+20 Robinson Co. v. Zurich Am. Ins. Co.,
+No. Civ. 02-4794PAMRLE, 2004 WL 1765320, at *2 (D. Minn. Aug. 5, 2004) .................... 6
+21
+Sepulveda v. Wal-Mart Stores, Inc.,
+22
+237 F.R.D. 229 (C.D. Cal. 2006) .............................................................................................. 6
+23 The SCO Group, Inc. v. Novell, Inc.,
+No. 2:04CV139DAK, 2007 WL 2702456, at *1-3 (D. Utah Sept. 11, 2007) .......................... 4
+24
+25 Statutes
+26 28 U.S.C. § 636 (b)(1)(A)..................................................................................................................... 3
+27 35 U.S.C. § 284..................................................................................................................................... 6
+28
+
+LUCENT AND MPT’S OPPOSITION TO DEFENDANTS’
+MOTION FOR REVIEW OF MAGISTRATE JUDGE’S RULING
+REGARDING SUPPLEMENTAL DAMAGES EXPERT
+REPORT
+
+ii
+
+Case No. 07--CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+1
+2
+
+Document 217
+
+Filed 01/08/2008
+
+Page 4 of 11
+
+Rules
+FED. R. CIV. P. 26(a)(3)......................................................................................................................... 3
+
+3 FED. R. CIV. P. 26(e) ............................................................................................................................. 3
+4 FED. R. CIV. P. 37(c)(1)......................................................................................................................... 6
+5 Fed. R. Civ. P. 72(a) ............................................................................................................................. 3
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+LUCENT AND MPT’S OPPOSITION TO DEFENDANTS’
+MOTION FOR REVIEW OF MAGISTRATE JUDGE’S RULING
+REGARDING SUPPLEMENTAL DAMAGES EXPERT
+REPORT
+
+iii
+
+Case No. 07--CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 217
+
+Filed 01/08/2008
+
+Page 5 of 11
+
+1 I.
+
+INTRODUCTION
+
+2
+
+Lucent and MPT submit this memorandum in opposition to defendants’ motion for reversal
+
+3 of Magistrate Judge Bencivengo’s order denying defendants’ motion to strike the 6-page
+4 supplemental expert report of Lucent and MPT’s damages expert Roger Smith. As recognized by
+5 the defendants, Magistrate Judge Bencivengo made a Court-informed decision to allow the
+6 supplemental expert report and explicitly recognized that Mr. Smith’s expert report was issued in
+7 response to an intervening Court ruling that may impact the legal boundaries of the damages
+8 analysis. Since Mr. Smith’s report was issued, the defendants have deposed Mr. Smith and issued
+9 rebuttal expert reports―well in advance of trial. Therefore, the Magistrate’s refusal to strike the
+10 report is clearly in accordance with the Federal Rules of Civil Procedure allowing supplemental
+11 expert reports where timely, substantial justified and/or harmless.
+
+Because Magistrate Judge
+
+12 Bencivengo’s order refusing to strike the report is neither clearly erroneous nor contrary to law, the
+13 Court should deny defendants’ motion.
+14 II.
+
+FACTUAL BACKGROUND
+
+15
+
+The original case between the parties was divided into six trials: Group 1 (Video Coding);
+
+16 Group 2 (Audio Coding); Group 3 (Speech Coding); Group 4 (Graphical User Interface) and Group
+17 5 (Fleming/Doughty patents); and Group 6 (Xbox 360), with the first trial set to go forward in
+18 November 2006. (Ex. B, Trial Schedule; D.I. 1876.)1 Due to defendants’ repeated requests to
+19 postpone the trials and other dispositive motions, the upcoming February 2008 trial involves five
+20 remaining Lucent and MPT patents and numerous accused products consolidated from the Group 1,
+21 Group 4, Group 5 and Group 6 trials, including Microsoft software, and Gateway and Dell computer
+22 systems, and third-party software sold by Gateway and Dell. The upcoming trial was preceded by
+23
+All references to Exhibits refer to the exhibits attached to the Declaration of Elizabeth T. Bernard
+in Support of Lucent Technologies Inc. and Multimedia Patent Trust’s Opposition to Defendants’
+25 Motion for Review of Magistrate Judge’s Ruling Regarding Supplemental Damages Expert Report
+filed concurrently herewith. Lucent and MPT’s letter brief is attached as Exhibit A, including
+26 Exhibits 1-5. The arguments and authorities contained therein are incorporated by reference.
+24
+
+1
+
+27
+28
+
+LUCENT AND MPT’S OPPOSITION TO DEFENDANTS’
+MOTION FOR REVIEW OF MAGISTRATE JUDGE’S RULING
+REGARDING SUPPLEMENTAL DAMAGES EXPERT
+REPORT
+
+1
+
+Case No. 07--CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 217
+
+Filed 01/08/2008
+
+Page 6 of 11
+
+1 the Group 2 Audio trial between Lucent and Microsoft that took place in January 2007. Lucent
+2 obtained a jury verdict in its favor with the jury awarding Lucent all the damages it sought—over
+3 $1.5 billion. (D.I. 1187.) Judge Rudi Brewster subsequently set the verdict aside on August 6, 2007.
+4 (D.I. 1975.) In doing so, Judge Brewster concluded that the jury’s damages verdict in that case
+5 constituted an inappropriate application of the entire market value rule, because the evidence (in his
+6 view) did not permit an award of reasonable royalty damages based on the infringing computer
+7 system.2 (Id. at 34.) Previously, Judge Brewster twice denied defendants’ attempts to preclude
+8 Lucent’s damages theory regarding the computer system as the royalty base. (D.I. 827 at 4; D.I.
+9 1737 at 3.) After the verdict, Judge Brewster even explicitly expressed his view that the jury’s
+10 award of damages based on the entire computer system comported with the unrebutted evidence in
+11 the Group II trial. (Ex. A, Letter Brief at Ex. 1.) Thus, in setting aside the damages verdict, Judge
+12 Brewster reversed his own prior decisions on that very issue, and for the first time potentially placed
+13 new legal restrictions on the outcome of the Georgia-Pacific hypothetical negotiation underlying the
+14 reasonable royalty.
+Lucent and MPT’s damages expert, Roger Smith, subsequently issued a 6-page supplemental
+
+15
+
+16 expert report that expressly purports to address the potential effect of Judge Brewster’s ruling on the
+17 Georgia-Pacific analysis. (Ex. C, Second Supp. Report of Roger Smith.) Despite the report being
+18 issued more than three months before trial, and after turning down two opportunities to depose Mr.
+19 Smith at the time the report was served, (Ex. 1, Letter Brief at Ex. 2; Ex. 1, Letter Brief at Ex. 3.),
+20 the defendants requested Magistrate Judge Bencivengo strike the supplemental expert report as
+21 untimely. (Def. Opening Br. at Exs. A and B.) After briefing and argument—during which
+22 defendants made all of they arguments they do now—Magistrate Judge Bencivengo properly denied
+23 defendants’ motion. (D.I. 116). Magistrate Judge Bencivengo gave defendants the opportunity to
+24 depose Mr. Smith and to issue rebuttal expert reports. (Id.) Defendants deposed Mr. Smith on
+25
+26
+27
+28
+
+2
+
+Lucent is appealing Judge Brewster’s decision.
+
+LUCENT AND MPT’S OPPOSITION TO DEFENDANTS’
+MOTION FOR REVIEW OF MAGISTRATE JUDGE’S RULING
+REGARDING SUPPLEMENTAL EXPERT REPORT
+
+2
+
+Case No. 07--CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 217
+
+Filed 01/08/2008
+
+Page 7 of 11
+
+1 January 4, 2008 and have been ordered to issue any rebuttal expert reports by January 8th. (Id.; Ex.
+2 D, Amended Notice of Smith Deposition.)
+3 III.
+
+LEGAL STANDARD
+
+4
+
+The Court has already recognized the proper standard of review to be applied to Magistrate
+
+5 Judge Bencivengo’s order. Specifically, as a nondispositive order on a discovery matter, the Court:
+6
+
+may only modify or set aside the order if it is “found to be clearly erroneous or
+contrary to law.” Fed. R. Civ. P. 72(a); 28 U.S.C. § 636 (b)(1)(A) (magistrate judge’s
+decision on nondispositive issue reviewed under clearly erroneous standard); see
+Bhan v. NME Hospitals, Inc., 929 F.2d 1404, 1414 (9th Cir. 1991) (same). Discovery
+matters are considered nondispositive. See Bhan, 929 F.2d at 1414; Green v. Baca,
+219 F.R.D. 485, 489 (C.D. Cal. 2003).
+
+7
+8
+9
+10
+11
+12
+
+(11/19/07 Order Denying Gateway’s Motion for Review of Magistrate Judge’s Ruling Under Fed. R.
+Civ. P. 72(a), D.I. 53 at 2.)
+IV.
+
+ARGUMENT
+
+14
+
+Magistrate Judge Bencivengo’s Order Denying Defendants’ Motion To Strike
+The Supplemental Report Is Neither Clearly Erroneous Nor Contrary To Law
+Because The Report Is Timely, Substantially Justified, And Causes No
+Prejudice.
+
+15
+
+1.
+
+13
+
+16
+
+A.
+
+Mr. Smith’s Report Is Timely Under Rule 26(e).
+
+Rule 26(e) requires supplementation of discovery disclosures at appropriate intervals and
+
+17 seasonable amendments of prior discovery if the earlier discovery is found to be incorrect or
+18 incomplete. FED. R. CIV. P. 26(e). With regard to expert testimony, those disclosures are to be made
+19 at least 30 days prior to trial. See id; FED. R. CIV. P. 26(a)(3). As this Court has recognized, an
+20 intervening Court ruling may constitute a proper basis for supplementation under Rule 26. See
+21 Becton Dickinson and Co. v. Syntron Bioresearch, Inc., No. 97-CV-1634 K (POR), 1998 U.S. Dist.
+22 LEXIS 22082, at *50-55 (S.D. Cal. Dec. 19, 1998) (refusing to preclude supplemental expert
+23 opinion issued after a court order construing claim terms). Given that Judge Brewster had not
+24 previously found to the contrary, and given the law and facts supporting the reasonable royalty in the
+25 audio trial prior to the August decision (see D.I. 1848 at 17; D.I. 1849 at 14-16.), Mr. Smith’s brief
+26 supplemental report is both timely and justified under Rule 26(e). Accordingly, the Magistrate
+27 Judge denial of defendants’ motion to strike was neither clearly erroneous nor contrary to law. See
+28
+
+LUCENT AND MPT’S OPPOSITION TO DEFENDANTS’
+MOTION FOR REVIEW OF MAGISTRATE JUDGE’S RULING
+REGARDING SUPPLEMENTAL EXPERT REPORT
+
+3
+
+Case No. 07--CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 217
+
+Filed 01/08/2008
+
+Page 8 of 11
+
+1 Tyler Eng’g Co. v. ITT Flygt Corp., No. 03-2060MaV, 2004 U.S. Dist. LEXIS 26155, at *6-9 (W.D.
+2 Tenn. June 8, 2004) (applying Rule 26(e) to deny motion to strike supplemental expert report
+3 submitted two months before trial even where supplemental report substantially changed prior
+4 opinions).
+5
+6
+
+2.
+
+Mr. Smith’s Supplemental Report Is Substantially Justified.
+
+Federal Rule of Civil Procedure 37 also provides support for the Magistrate’s Order. As
+
+7 defendants recognize, Rule 37 will not operate to exclude an expert’s opinion if failure to disclose
+8 the information during the discovery period is substantially justified or harmless. Mr. Smith’s
+9 supplemental expert report addresses only the potential impact of Judge Brewster’s intervening
+10 ruling, and is thus substantially justified.
+
+See The SCO Group, Inc. v. Novell, Inc., No.
+
+11 2:04CV139DAK, 2007 WL 2702456, at *1-3 (D. Utah Sept. 11, 2007) (holding supplemental
+12 disclosure substantially justified as a result of an intervening court order); Engineered Prods. Co. v.
+13 Donaldson Co., Inc., 313 F. Supp. 2d 951, 1005-06 (N.D. Iowa 2004) (denying motion to strike
+14 supplemental expert report because report was substantially justified following a ruling that resolved
+15 certain issues as a matter of law).
+16
+
+Defendants do not claim that Judge Brewster’s ruling does not constitute an intervening
+
+17 development in the damages portion of this case. Instead, the defendants make the unfounded and
+18 misleading claim that Lucent and MPT should have anticipated the intervening development. As
+19 discussed above, Judge Brewster twice denied defendants’ previous attempts to preclude Lucent’s
+20 damages theory regarding the computer system as the royalty base and even explicitly expressed his
+21 view after the verdict that the jury’s award of damages based on the entire computer system
+22 comported with the unrebutted evidence in the Group 2 trial. It was not until its decision on post23 trial motions that the Court adopted a different view of the applicable law and facts. Mr. Smith’s
+24 supplemental report is substantially justified in light of Judge Brewster’s unanticipated ruling.
+25 Accordingly, the Magistrate Judge’s denial of defendants’ motion to strike was neither clearly
+26 erroneous nor contrary to law.
+27
+28
+
+LUCENT AND MPT’S OPPOSITION TO DEFENDANTS’
+MOTION FOR REVIEW OF MAGISTRATE JUDGE’S RULING
+REGARDING SUPPLEMENTAL EXPERT REPORT
+
+4
+
+Case No. 07--CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+3.
+
+1
+2
+
+Document 217
+
+Filed 01/08/2008
+
+Page 9 of 11
+
+Mr. Smith’s Report Causes No Prejudice.
+
+Nor does the timing of the 6-page report cause any genuine prejudice to defendants. The
+
+3 Court has recognized that “preclusion of evidence is among the most severe” of sanctions under
+4 Rule 37 and is “generally improper absent undue prejudice.” Klund v. High Tech. Solutions, Inc.,
+5 No. 05CV0565JAH, 2006 WL 549385, at *6 (S.D. Cal. Feb. 27, 2006). The “touchstone” of the
+6 prejudice inquiry under Rule 37 is whether “a discovery violation ‘threaten[s] to interfere with the
+7 rightful decision of the case’ or ‘impair[s] the moving party’s ability to go to trial.’” Id. (internal
+8 citations omitted).
+9
+
+Here, both the limited nature of the report and the fact that it was served more than three
+
+10 months before trial demonstrates that it causes no prejudice. It does not present any new evidence or
+11 licensing approaches not previously known to the defendants; indeed, all evidence Mr. Smith cites in
+12 his supplemental expert report was explicitly discussed in Mr. Smith’s initial reports, and admitted in
+13 evidence at the Group 2 trial—some of which is also relied upon by defendants’ own expert.
+14 Moreover, Mr. Smith’s supplemental alternative opinions are based on the application of Lucent’s
+15 adoption of IBM licensing policies, just as disclosed in his earlier reports.3 Nor has there been any
+16 undue delay, since the report was served within a reasonable period after the decision and well
+17 before trial. And, defendants have already had the opportunity to fully depose Mr. Smith regarding
+18 his opinions expressed in the supplemental report and to issue rebuttal expert reports in ample time
+19 before trial.
+Numerous courts (including this one) have found such an opportunity to depose the expert
+
+20
+
+21 sufficient to alleviate any alleged prejudice. See, e.g., Michelone v. Desmarais, 25 Fed. Appx. 155,
+22 159 (4th Cir. 2002); Lozano v. City of Hazelton, 241 F.R.D. 252, 258-59 (M.D. Pa. 2007);
+23
+24
+Defendants’ complaints that they have been deprived of the chance to seek contradicting
+documents or testimony from third parties is disingenuous. Defendants have known the basis for
+26 Mr. Smith’s opinions for years and have had ample opportunity to seek discovery regarding IBM
+policies.
+27
+25
+
+28
+
+3
+
+LUCENT AND MPT’S OPPOSITION TO DEFENDANTS’
+MOTION FOR REVIEW OF MAGISTRATE JUDGE’S RULING
+REGARDING SUPPLEMENTAL EXPERT REPORT
+
+5
+
+Case No. 07--CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 217
+
+Filed 01/08/2008
+
+Page 10 of 11
+
+1 Montgomery v. Mitsubishi Motors Corp., 448 F. Supp. 2d 619, 634 (E.D. Pa. 2006); C.H. Robinson
+2 Co. v. Zurich Am. Ins. Co., No. Civ. 02-4794PAMRLE, 2004 WL 1765320, at *2 (D. Minn. Aug. 5,
+3 2004); Becton Dickinson, 1998 U.S. Dist. LEXIS 22082, at *52. Rule 37 expressly provides the
+4 Court with the discretion to adopt lesser remedies, such as a deposition, in lieu of preclusion. FED.
+5 R. CIV. P. 37(c)(1); see also Sepulveda v. Wal-Mart Stores, Inc., 237 F.R.D. 229, 234 (C.D. Cal.
+6 2006) (declining to exclude late-disclosed declarations and ordering limited depositions).
+7 Accordingly, the Magistrate Judge’s denial of defendants’ motion to strike was neither clearly
+8 erroneous nor contrary to law. See Diomed, Inc. v. AngioDynamics, Inc., 450 F. Supp. 2d 130, 137
+9 (D. Mass. 2006) (denying motion to exclude new damages theory where there was no significant
+10 prejudice to warrant exclusion).
+11
+
+B.
+
+12
+
+By statute, Lucent and MPT are entitled to “damages adequate to compensate for the
+
+Mr. Smith’s Testimony Will Assist The Trier of Fact And Is Highly Relevant.
+
+13 infringement but in no event less that a reasonable royalty” for defendants’ infringement. 35 U.S.C.
+14 § 284. Accordingly, there is nothing clearly erroneous nor contrary to law about Magistrate Judge
+15 Bencivengo’s order denying defendants’ motion to strike the timely and highly relevant expert
+16 report, and the Court should not modify Magistrate Judge Bencivengo’s order to endorse defendants’
+17 attempt to limit the damages Lucent and MPT are entitled to by law. Any continuing dispute about
+18 the appropriateness of damages theories to be presented at trial—and there should be none—may be
+19 properly addressed in pretrial filings.
+20 V.
+
+CONCLUSION
+
+21
+
+Magistrate Judge Bencivengo’s Order denying defendants’ motion to strike the supplemental
+
+22 expert report of Roger Smith is neither clearly erroneous nor contrary to law.
+
+Accordingly,
+
+23 defendants’ motion for reversal of the Magistrate Judge’s ruling should be denied.
+24
+25
+26
+27
+28
+
+LUCENT AND MPT’S OPPOSITION TO DEFENDANTS’
+MOTION FOR REVIEW OF MAGISTRATE JUDGE’S RULING
+REGARDING SUPPLEMENTAL EXPERT REPORT
+
+6
+
+Case No. 07--CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 217
+
+Filed 01/08/2008
+
+1 Dated: January 8, 2008
+
+Page 11 of 11
+
+Respectfully submitted,
+
+2
+By:
+
+3
+4
+5
+6
+
+s/David A. Hahn
+David A. Hahn, SBN 125784
+HAHN & ADEMA
+501 West Broadway, Suite 1600
+San Diego, California 92101-3595
+Telephone: (619) 235-2100
+Facsimile: (619) 235-2101
+John M. Desmarais (admitted pro hac vice)
+Paul A. Bondor (admitted pro hac vice)
+Elizabeth T. Bernard (admitted pro hac vice)
+KIRKLAND & ELLIS LLP
+153 East 53rd Street
+New York, New York 10022
+Telephone: (212) 446-4800
+Facsimile: (212) 446-4900
+
+7
+8
+9
+10
+11
+
+Attorneys for Lucent Technologies Inc. and
+Multimedia Patent Trust
+
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+LUCENT AND MPT’S OPPOSITION TO DEFENDANTS’
+MOTION FOR REVIEW OF MAGISTRATE JUDGE’S RULING
+REGARDING SUPPLEMENTAL EXPERT REPORT
+
+7
+
+Case No. 07--CV-2000-H (CAB)
+
+

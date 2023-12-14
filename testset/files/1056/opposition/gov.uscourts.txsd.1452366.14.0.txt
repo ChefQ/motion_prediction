@@ -1,0 +1,980 @@
+UNITED STATES DISTRICT COURT
+FOR THE SOUTHERN DISTRICT OF TEXAS
+HOUSTON DIVISION
+MEMORIAL HERMANN HEALTH SYSTEM,
+Plaintiff,
+v.
+
+Case No. 4:17-cv-2661
+
+BLUE CROSS BLUE SHIELD OF TEXAS,
+Defendant.
+
+PLAINTIFF MEMORIAL HERMANN HEALTH SYSTEM’S
+RESPONSE TO DEFENDANT’S MOTION TO DISMISS FOR
+IMPROPER VENUE AND MOTION TO COMPEL ARBITRATION
+
+684307.3
+
+TABLE OF CONTENTS
+Page
+I.
+
+Introduction and Summary of Argument ............................................................................ 1
+
+II.
+
+Nature and Stage of the Proceeding. ................................................................................... 2
+
+III.
+
+Statement of Issues. ............................................................................................................ 2
+
+IV.
+
+Background. ........................................................................................................................ 4
+
+V.
+
+A.
+
+In 2005, Memorial Hermann and BCBS entered into separate
+contracts governing reimbursement for treatment of patients
+covered by HMO, PPO, and Indemnity plans..........................................................4
+
+B.
+
+The 2005 Indemnity Contract contained an arbitration clause
+requiring arbitration of specific categories of disputes. ...........................................6
+
+C.
+
+In 2013, Memorial Hermann and BCBS entered into the BAV
+HMO Agreement, which does not include an arbitration clause. ............................7
+
+D.
+
+BCBS generally complied with the BAV HMO Agreement and
+paid for all healthcare treatment given to BAV HMO plan
+members, emergency or non-emergency, for about 18 months. ..............................9
+
+E.
+
+After losing hundreds of millions of dollars on the ACA market in
+Texas in 2014, BCBS began breaching the BAV HMO Agreement
+by refusing to pay for continuing care that Memorial Hermann
+provided to emergency patients. ..............................................................................9
+
+F.
+
+Memorial Hermann sued BCBS for breach of the BAV HMO
+Agreement, not for breach of the Indemnity Contract. ..........................................10
+
+The parties did not agree to arbitrate this dispute. ............................................................ 11
+A.
+
+BCBS has failed to meet its burden to establish that the parties
+agreed to arbitrate this dispute—the BAV HMO Agreement does
+not include an agreement to arbitrate. ....................................................................11
+
+B.
+
+Because the BAV HMO Agreement and the Indemnity Contract
+are separate agreements, the narrow arbitration clause from the
+Indemnity Contract does not apply to this dispute.................................................13
+
+VI.
+
+This Court, and not an arbitrator, must decide whether Memorial Hermann and BCBS
+agreed to arbitrate this dispute; the inapplicable Indemnity Contract does not delegate
+arbitrability. ....................................................................................................................... 18
+
+VII.
+
+Conclusion. ....................................................................................................................... 23
+
+ii
+684307.3
+
+TABLE OF AUTHORITIES
+Page(s)
+CASES
+A&A Global Industries, Inc. v. Wolfe,
+2001 WL 1343628 (N.D. Tex. Oct. 29, 2001) .........................................................................17
+AT & T Mobility LLC, v. Concepcion,
+131 S.Ct. 1740 (2011) ................................................................................................................3
+Branch Law Firm L.L.P. v. Osborn,
+14-14-00892-CV, 2016 WL 444867 (Tex. App.—Houston [14th Dist.] Feb. 4, 2016,
+pet. denied) ...............................................................................................................................17
+Burlington Resources Oil & Gas Co., L.P. v. San Juan Basin Royalty Trust,
+249 S.W.3d 34 (Tex. App.—Houston [1st Dist.] 2007, pet. denied)..................................20, 22
+Capital Income Properties–LXXX v. Blackmon,
+843 S.W.2d 22 (Tex. 1992)......................................................................................................11
+Crawford Prof'l Drugs, Inc. v. CVS Caremark Corp.,
+748 F.3d 249 (5th Cir. 2014) ...................................................................................................21
+Exceed Int’l Ltd. v. DSL Corp.,
+No. H-13-2572, 2014 WL 1761264 (S.D. Tex. Apr. 30, 2014) (Atlas, J.) ..............................22
+First Options of Chicago, Inc. v. Kaplan,
+514 U.S. 938, 115 S.Ct. 1920, 131 L.Ed.2d 985 (1995) ......................................................3, 21
+Haddock v. Quinn,
+287 S.W.3d 158 (Tex. App.—Fort Worth 2009, pet. denied) ...........................................20, 22
+Houston Refining LP v. United Steel, Paper and Forestry,
+2016 WL 270918 (S.D. Tex. Jan. 22, 2016) (Lake, J.) ............................................................19
+Houston Refining LP v. United Steel, Paper and Forestry,
+765 F.3d 396 (5th Cir. 2014) .............................................................................................20, 22
+Howsam v Dean Witter Reynolds, Inc.,
+537 U.S. 79 (2002) ...................................................................................................................18
+I.D.E.A. Corp. v. WC & R Interests, Inc.,
+545 F. Supp. 2d 600 (W.D. Tex. 2008)....................................................................7, 14, 15, 16
+IKON Office Sols., Inc. v. Eifert,
+2 S.W.3d 688 (Tex. App.—Houston [14th Dist.] 1999, no pet.) .............................................18
+
+iii
+684307.3
+
+In re Bates,
+177 S.W.3d 419 (Tex. App.—Houston [1st Dist.] 2005, orig. proceeding) ..........................3, 4
+In re Bunzl USA, Inc.,
+155 S.W.3d 202 (Tex. App.—El Paso 2004, orig. proceeding) ................................................3
+In re Margolin,
+05-00-00875-CV, 2000 WL 964692 (Tex. App.—Dallas July 13, 2000, no pet.) ..................17
+In re Sino Swearingen Aircraft Corp.,
+05-03-01618-CV, 2004 WL 1193960 (Tex. App.—Austin June 1, 2004, no pet.) .................12
+In re Weekley Homes, L.P.,
+180 S.W.3d 127 (Tex. 2005)......................................................................................................3
+J.M. Davidson, Inc. v. Webster,
+128 S.W.3d 223 (Tex. 2003)......................................................................................................3
+Kubala v. Supreme Prod. Services, Inc.,
+830 F.3d 199 (5th Cir. 2016) ...................................................................................................21
+Lucchese Boot Company v. Rodriguez, 473 S.W.3d 373 (Tex. App.—El Paso 2015, no
+pet.) ....................................................................................................................................20, 21
+Osornia v. AmeriMex Motor & Controls, Inc.,
+367 S.W.3d 707 (Tex. App.—Houston [14th Dist.] 2012, no pet.) .........................................18
+Peacock v. Wave Tec Pools, Inc.,
+107 S.W.3d 631 (Tex. App.—Waco 2003, no pet.)...................................................................4
+Pennzoil Exploration & Prod. Co. v. Ramco Energy,
+139 F.3d 1061 (5th Cir. 1998) .................................................................................................15
+Petrofac, Inc. v. DynMcDermott Petroleum Operations Co.,
+687 F.3d 671 (5th Cir. 2012) ...................................................................................................21
+Rosenblum v. Travelbyus.com Ltd.,
+299 F.3d 657 (7th Cir. 2002) ...................................................................................................14
+Seven Hills Commercial, LLC v. Mirabal Custom Homes, Inc.,
+442 S.W.3d 706 (Tex. App.—Dallas 2014, pet. denied) .........................................................14
+Super Starr Int’l, LLC v. Fresh Tex Produce, LLC,
+13-17-00184-CV, 2017 WL 4054395 (Tex. App.—Corpus Christi Sept. 14, 2017, no
+pet. h.) ......................................................................................................................................20
+Trafigura Pte. v. CNA Metals Ltd.,
+14-16-00530-CV, 2017 WL 2784950 (Tex. App.—Houston [14th Dist.] June 27,
+2017, no pet.) ...........................................................................................................................20
+iv
+684307.3
+
+Vujasinovic & Beckcom, PLLC v. Cubillos,
+CV H-15-2546, 2016 WL 5573712 (S.D. Tex. Sept. 29, 2016) ..............................................21
+Weber v. Hall,
+929 S.W.2d 138 (Tex. App.—Houston [14th Dist.] 1996, orig. proceeding)..........................14
+Will Drill Res., Inc. v. Samson Res. Co.,
+352 F.3d 211 (5th Cir. 2003) .....................................................................................................3
+
+v
+684307.3
+
+I.
+
+Introduction and Summary of Argument
+Blue Cross Blue Shield of Texas (“BCBS”) has not met its burden to establish that the
+
+parties agreed to arbitrate this dispute. Instead, BCBS has mischaracterized Memorial Hermann
+Health System’s claims in an improper attempt to force arbitration of a dispute that the parties
+did not agree to arbitrate. The Court should deny BCBS’s Motion because:
+•
+
+BCBS’s motion is based on the false argument that Memorial Hermann is suing for
+breach of the Hospital Contract for Traditional Indemnity Business (“Indemnity
+Contract”), which governs patients covered by traditional indemnity plans and has an
+arbitration clause;
+
+•
+
+But, as clearly stated in its pleading, Memorial Hermann is suing because BCBS
+breached (and continues to breach) a verbal and email-based contract to pay Memorial
+Hermann a particular rate for its treatment of patients covered by the Blue Advantage
+HMO (“BAV HMO”) plan, a rate that BCBS paid at for about 18 months until it decided
+to breach that agreement (the “BAV HMO Agreement”);
+
+•
+
+The BAV HMO Agreement, entered into 8 years after the Indemnity Contract, does not
+include an agreement to arbitrate, as set forth in the attached affidavit;
+
+•
+
+BCBS has not tendered any evidence that the BAV HMO plan is part of the traditional
+indemnity business, which is a different type of insurance product than HMO plans, or
+that the BAV HMO Agreement is governed by the Indemnity Contract; BCBS cannot do
+so because the Indemnity Contract was not amended according to its terms to add BAV
+HMO plan participants;
+
+•
+
+BCBS therefore has latched onto an arbitration clause in a separate agreement that
+governs a different patient/insured population—the Indemnity Contract—and improperly
+seeks to rewrite Memorial Hermann’s complaint to make the Indemnity Contract govern;
+
+•
+
+Because Memorial Hermann is not suing under the Indemnity Contract, its arbitration
+clause does not apply, and this Court should deny BCBS’s motion; and
+
+•
+
+In any event, Memorial Hermann’s claim for declaratory judgment—about whether
+BCBS complies with the Texas Insurance Code provisions concerning treatment of
+emergency patients—is not subject to any arbitration agreement.
+BCBS, wanting to shield its conduct from the public, also wrongly asserts that the
+
+question of whether there is an applicable arbitration clause should be sent to arbitration.
+Because there is a dispute as to whether there is a valid agreement to arbitrate, this Court decides
+
+684307.3
+
+whether the parties agreed to arbitrate. And, since Memorial Hermann has presented the only
+evidence—that there is no valid agreement to arbitrate—this Court should deny BCBS’s motion
+and retain this case. Moreover, the narrow arbitration clause in the Indemnity Contract does not
+clearly and unmistakably delegate the issue of arbitrability to an arbitrator.
+Because the parties do business through multiple, different agreements that each have
+differing scopes, terms, and conditions, it is not enough for BCBS to simply point to an
+arbitration provision in one separate contract, such as the Indemnity Contract, and say that any
+dispute between Memorial Hermann and BCBS, even if it arises under another contract, must be
+sent to arbitration where the arbitrator should determine whether the asserted arbitration
+provision applies. As a result, this Court should find that Memorial Hermann’s claims under the
+BAV HMO Agreement are not subject to the arbitration provision in the Indemnity Contract, and
+deny BCBS’s Motion.
+II.
+
+Nature and Stage of the Proceeding.
+This case is about BCBS refusing to pay for millions of dollars of emergency and life-
+
+saving medical treatment that its insureds have received from Memorial Hermann during the last
+few years, care that BCBS paid for during the first 18 months of the contract until BCBS decided
+to renege. Memorial Hermann sued BCBS in Texas state court on August 1, 2017. BCBS
+removed on the basis of diversity jurisdiction on September 3, 2017. BCBS then filed its Motion
+to Compel Arbitration on September 11, incorrectly alleging that the “contract underlying
+Memorial Hermann’s complaint” is the Indemnity Contract, a contract which governs only
+traditional indemnity business (not HMO business like the BAV HMO plan).
+III.
+
+Statement of Issues.
+Issue: Should the Court deny BCBS’s motion to compel arbitration because the parties
+
+did not agree to arbitrate this dispute that falls under the BAV HMO Agreement, and thus this
+
+2
+684307.3
+
+case does not involve arbitrable “contract interpretations” or “claim issues” under the separate
+Indemnity Contract?
+Standard of Review:
+
+As the movant, BCBS bears the burden to establish (1) the
+
+existence of a valid agreement to arbitrate the dispute and (2) that the claims asserted by
+Memorial Hermann are within the scope of such agreement. See Will Drill Res., Inc. v. Samson
+Res. Co., 352 F.3d 211, 214 (5th Cir. 2003); J.M. Davidson, Inc. v. Webster, 128 S.W.3d 223,
+227 (Tex. 2003).
+An agreement to arbitrate is a contract, the relation of the parties is contractual, and the
+rights and liabilities of the parties are controlled by the law of contracts. See AT & T Mobility
+LLC, v. Concepcion, 131 S.Ct. 1740, 1748–49, 1752–53 (2011) (arbitration is a creature of
+contract; a person can be compelled to arbitrate a dispute only if, to the extent that, and in the
+manner which, he has agreed to do so). Since arbitration is generally a matter of contract, courts
+should honor the parties’ expectations. Id. at 1752–53; see also In re Bunzl USA, Inc., 155
+S.W.3d 202, 209 (Tex. App.—El Paso 2004, orig. proceeding) (“[A] party cannot be compelled
+to arbitrate a dispute unless he has agreed to do so.”).
+When deciding whether parties agreed to arbitrate, courts should apply ordinary state law
+principles regarding the formation of contracts. First Options of Chicago, Inc. v. Kaplan, 514
+U.S. 938, 944, 115 S.Ct. 1920, 1924, 131 L.Ed.2d 985 (1995); J.M. Davidson, 128 S.W.3d at
+227–28; see also In re Weekley Homes, L.P., 180 S.W.3d 127, 130 (Tex. 2005) (“Generally
+under the FAA, state law governs whether a litigant agreed to arbitrate.”). In conducting its
+review, the Court “may not expand upon the terms of the contract or tolerate a liberal
+interpretation of it by reading into it a voluntary, consensual agreement to arbitrate when one
+otherwise does not exist.” In re Bates, 177 S.W.3d 419, 422 (Tex. App.-Houston [1st Dist.]
+
+3
+684307.3
+
+2005, orig. proceeding). “Although an arbitration agreement does not have to assume any
+particular form, the language of the agreement must clearly indicate the intent to arbitrate.” Id.
+Additionally, in resolving disputes regarding interpretation of an arbitration agreement, courts
+are to apply standard principles of contract interpretation and construction. Peacock v. Wave Tec
+Pools, Inc., 107 S.W.3d 631, 636 (Tex. App.—Waco 2003, no pet.). The plain meaning of the
+contractual language should be looked to in order to ascertain the intent of the parties. Id.
+IV.
+
+Background.
+A.
+
+In 2005, Memorial Hermann and BCBS entered into separate contracts
+governing reimbursement for treatment of patients covered by HMO, PPO,
+and Indemnity plans.
+
+Memorial Hermann is a non-profit, charitable healthcare system, the largest such system
+in Texas. BCBS offers, issues, and administers insurance plans that provide access to health care
+services. Persons covered under insurance policies issued or administered by BCBS and its
+affiliates (“insureds”) receive health care services at Memorial Hermann. The insurance benefits
+are governed by a number of different types of agreements between the individual patients and
+BCBS or an employer health plan administered by BCBS.
+
+These plans include Health
+
+Maintenance Organization (“HMO”), Preferred Provider Organization (“PPO”), and Traditional
+Indemnity (“Indemnity”). Each type of plan provides different benefits and coverage.
+Separate from these insurance policies between BCBS and its insureds, business between
+Memorial Hermann and BCBS is governed by multiple, different agreements. Ex. 1, Affidavit of
+Michelle Lindsley, at ¶ 3. Each agreement has a specific purpose and applies to a specific subset
+of patients who are insured by BCBS and receive medical treatment at Memorial Hermann. Id.
+These agreements provide BCBS with a contractual discount from Memorial Hermann’s usual
+and customary charges when BCBS’s insureds receive medical or health services at Memorial
+Hermann’s facilities. Id. The rates of reimbursement/payment and other material terms and
+
+4
+684307.3
+
+conditions vary from agreement to agreement. Id. When Memorial Hermann and BCBS enter
+into such an agreement, Memorial Hermann is considered “in-network” for that particular group
+of BCBS insureds. Id.
+Effective May 1, 2005 Memorial Hermann and BCBS entered into the Hospital
+Agreement for HMO Network Participation (“HMO Agreement”) and the Hospital Agreement
+for PPO/POS Network Participation (“PPO Agreement”). Ex. 1, Lindsley Aff., at ¶ 4. Each is a
+separately-negotiated contract that contains unique financial and other terms, i.e. specific rates
+apply to payment for treatment given to a particular type of insured. Id., at ¶ 5. When an HMO
+insured receives treatment, Memorial Hermann expects payment pursuant to the HMO
+Agreement.
+
+Id.
+
+When a PPO insured with BCBS is treated, Memorial Hermann expects
+
+payment under the terms of the PPO Agreement. Id.
+Also effective May 1, 2005, Memorial Hermann and BCBS entered into the Hospital
+Contract for Traditional Indemnity Business (“Indemnity Contract”). Ex. 1, Lindsley Aff., at ¶ 6.
+Traditional indemnity business is an insurance product that is different from HMO or PPO. Id.,
+at ¶ 7. It is a very small patient population compared to the HMO and PPO patient populations.
+Id. When the Indemnity Contract was negotiated and executed, Memorial Hermann and BCBS
+contemplated and agreed that the Indemnity Contract would apply only to the traditional
+indemnity business. Id., at ¶ 8. They did not agree that other types of insurance products, such
+as HMO, fell under the Indemnity Contract. Id. As reflected in the title and in other provisions
+of the agreement, the Indemnity Contract governs reimbursement of BCBS insureds covered by a
+traditional indemnity plan. Id.; see also Ex. 1-A, at 1 (titled “Hospital Contract for Traditional
+Indemnity Business”); id. at Art. 15 (referring to “HOSPITAL’s status as a contracting hospital
+with BCBSTX for traditional indemnity business”).
+
+5
+684307.3
+
+When a BCBS insured covered by a
+
+traditional indemnity plan is treated at one of its facilities, Memorial Hermann expects to be paid
+pursuant to the terms of the Indemnity Contract, including but not limited to the rate term
+(known as the PAR rate). Ex. 1, Lindsley Aff., at ¶ 7.
+From May 1, 2005 through the present, the HMO and PPO Agreements and the
+Indemnity Contract have been in place and Memorial Hermann has been a contracted “innetwork” provider for BCBS insureds covered by the applicable HMO, PPO, and Indemnity
+insurance policies.
+B.
+
+The 2005 Indemnity Contract contained an arbitration clause requiring
+arbitration of specific categories of disputes.
+
+When BCBS and Memorial Hermann agreed to a contract to govern the traditional
+indemnity business in 2005, they also agreed to arbitrate certain disputes under the Indemnity
+Contract. The arbitration clause provided in relevant part as follows:
+After exhausting the remedies contained in this Article 11, any Contract
+interpretation or claim issue which the HOSPITAL or BCBSTX determines has
+not been satisfactorily resolved shall be resolved by arbitration under the
+commercial rules and regulations of the American Arbitration Association, and in
+accordance with the Texas General Arbitration Act (Chapter 171 Texas Civil
+Practice and Remedies Code).
+Ex. 1-A, at Art. 11(C) (emphasis added).
+
+Unlike broad arbitration clauses, the Indemnity
+
+Contract’s narrow arbitration clause does not require arbitration of all disputes relating to,
+concerning, or connected to the Indemnity Contract.
+
+It applies only to disputes over (1)
+
+interpretation of the Indemnity Contract and (2) claim issues for patients covered by traditional
+indemnity insurance plans.
+
+Moreover, the Indemnity Contract also contains an “entire
+
+agreement” clause, which states:
+This Contract and any exhibit(s) shall constitute the entire Contract.
+The Contract and exhibit(s) may be amended only by written agreement between
+the HOSPITAL and BCBSTX. Only the BCBSTX Vice President of Network
+
+6
+684307.3
+
+Management, or his designee, has the authority to amend any provision of the
+Contract and exhibit(s) for BCBSTX.
+Id., at Art. 21. This clause demonstrates that the parties agreed the arbitration provision would
+apply only to claims arising under this agreement, i.e. the Indemnity Contract.
+C.
+
+In 2013, Memorial Hermann and BCBS entered into the BAV HMO
+Agreement, which does not include an arbitration clause.
+
+In the fall of 2013, over eight years after the Indemnity Contract was signed, BCBS
+began offering health insurance plans over the exchanges created under the Affordable Care Act
+(“ACA”), with an effective start date of January 1, 2014. Ex. 1, Lindsley Aff., at ¶ 9. One of
+those new ACA plans offered by BCBS was the Blue Advantage HMO (“BAV HMO”) plan. Id.
+When the BAV HMO plan was introduced, it was not included in BCBS’s HMO Agreement
+with Memorial Hermann. Id. Thus, BCBS initially designated Memorial Hermann as “out-ofnetwork” for BAV HMO plan members. Id. Under the “out-of-network” scenario, the payor
+must reimburse the healthcare provider at its usual and customary rate, i.e. 100% of its billed
+charges (no contractual discount). Id.
+However, before the BAV HMO plan took effect, BCBS took the position that the
+Indemnity Contract governed reimbursement for healthcare services that Memorial Hermann
+provided to BAV HMO insureds. Ex. 1, Lindsley Aff. at ¶ 10. In other words, BCBS argued
+that it could pay less than 100% of Memorial Hermann’s usual and customary charges because,
+according to BCBS, the Indemnity Contract governed reimbursement for the BAV HMO plan
+(which is not a traditional indemnity product). Memorial Hermann disagreed and maintained
+that the Indemnity Contract did not govern reimbursement of treatment provided to BAV HMO
+insureds. Id. Memorial Hermann emphasized that the Indemnity Contract applied only to
+“traditional indemnity” business, which is a different product and different patient population
+from HMO plans. Id.
+
+7
+684307.3
+
+Throughout the fall of 2013, Memorial Hermann and BCBS had multiple e-mails, phone
+calls, and meetings about this disagreement, as well as about other points they were negotiating
+concerning the PPO Agreement, HMO Agreement, and Indemnity Contract. Ex. 1, Lindsley
+Aff., at ¶¶ 11-14. One proposal that Memorial Hermann made was that if BCBS would agree to
+Memorial Hermann’s proposed amended acquisition language for the HMO and PPO
+Agreements (concerning how these contracts would address facilities that are acquired by
+Memorial Hermann) then Memorial Hermann would agree to amend the Indemnity Contract to
+provide that it also applied to services provided to BAV HMO plan members. Id. at ¶ 11. BCBS
+did not accept this proposal. Id. The Indemnity Contract was not amended to add the BAV
+HMO plan. Id. Memorial Hermann made a modified version of this proposal, which was also
+rejected. Id. at ¶ 12. No amendment to the Indemnity Contract to add the BAV HMO plan was
+signed. Id.
+Memorial Hermann then proposed to BCBSTX that if the PAR rate were increased then
+Memorial Hermann would agree to amend the Indemnity Contract to state that it also governed
+the BAV HMO plan. Ex. 1, Lindsley Aff., at ¶ 13. BCBS did not accept this proposal either. Id.
+The Indemnity Contract was not amended to increase the PAR rate or to state that the Indemnity
+Contract also applies to BAV HMO plan members. Id.
+Through subsequent negotiation in late 2013, the parties ultimately agreed that BCBS
+would pay Memorial Hermann at the PAR rate for healthcare services and treatment provided to
+BAV HMO plan members (“the BAV HMO Agreement”). Ex. 1, Lindsley Aff., at ¶ 14. The
+parties also agreed to amend the Indemnity Contract to eliminate the scheduled 5% reduction in
+the PAR rate effective January 1, 2015. Id. The Indemnity Contract was not amended to state
+that it also applied to patients covered by the BAV HMO plan. Id. Instead, Memorial Hermann
+
+8
+684307.3
+
+and BCBC agreed to use the rate from the Indemnity Contract for the BAV HMO patient
+population. Id. The material terms of the BAV HMO Agreement are that BCBS will reimburse
+Memorial Hermann at the PAR rate for the care rendered to BAV HMO plan members who are
+treated at Memorial Hermann facilities. Id.
+D.
+
+BCBS generally complied with the BAV HMO Agreement and paid for all
+healthcare treatment given to BAV HMO plan members, emergency or nonemergency, for about 18 months.
+
+BCBS generally complied with the BAV HMO Agreement for the first 18 months and
+generally paid Memorial Hermann at the PAR rate for all of the healthcare services that BAV
+HMO insureds received at Memorial Hermann facilities. Ex. 1, Lindsley Aff., at ¶ 18. There
+were thousands of such claims during this time period (January 2014 through mid-2015) for
+which BCBS paid millions of dollars at the PAR rate pursuant to the BAV HMO Agreement. Id.
+BCBS did not claim that the BAV HMO plan members were required to be transferred to another
+facility upon “stabilization” because Memorial Hermann was “out-of-network.”
+E.
+
+After losing hundreds of millions of dollars on the ACA market in Texas in
+2014, BCBS began breaching the BAV HMO Agreement by refusing to pay
+for continuing care that Memorial Hermann provided to emergency patients.
+
+In mid-2015, BCBS notified its customers and agents that it had lost more than
+$400 million on its ACA Exchange products in Texas for the year 2014. Ex. 1, Lindsley Aff., at
+¶ 19. In other words, when setting its premium rates for the forthcoming new ACA Exchange
+products in Texas, BCBS underestimated potential claims for healthcare for the upcoming 2014
+year and ended up paying out $400 million more than it collected in premiums in Texas that
+year. Beginning in 2015, BCBS began looking for any and all ways to recoup its losses.
+Therefore, it was no coincidence that in mid-2015 BCBS began denying hundreds of claim
+payments for treatment that Memorial Hermann provided to BAV HMO plan members who
+came to Memorial Hermann with emergency conditions. Id. Contrary to the parties’ agreement
+
+9
+684307.3
+
+and to their prior conduct for the previous 18 months, for hundreds of claims BCBS began
+paying only for what BCBS deemed, after the fact, to be “emergency treatment” and denying
+claims for what BCBS deemed to be “post-stabilization treatment.” 1 Id.
+BCBS’s belated position is that Memorial Hermann must force BAV HMO plan
+members out of a Memorial Hermann facility, requiring them to leave the facility and transfer to
+an “in-network” hospital so that BCBS can save a little money, even if it disrupts the patient’s
+continuity of care, endangers patient safety, and subjects Memorial Hermann to potential liability
+for improper transfers or medical malpractice. As a result of BCBS’s change in position in mid2015, BCBS substantially increased its denials of payment for anything beyond what BCBS
+unilaterally deemed to be “emergency” care, going from approximately one such denial per
+month, on average, to approximately 40 such denials per month, on average. If, as BCBS now
+insists, the BAV HMO members had been transferred to an “in-network” facility for continuing
+care, BCBS still would have had to pay the “in-network” provider for those services. However,
+under BCBS’s view of the world, BCBS does not have to pay anything at all and can shift the
+cost of continuing, related medical care to its own BAV HMO plan members (by denying
+benefits) or to Memorial Hermann (by denying claims). See Ex. 1, Lindsley Aff., at ¶ 20.
+F.
+
+Memorial Hermann sued BCBS for breach of the BAV HMO Agreement, not
+for breach of the Indemnity Contract.
+
+BCBS repeatedly mischaracterizes Memorial Hermann’s claims to make the argument
+that the Indemnity Contract is the governing agreement. For example, citing to paragraph 20 of
+the Original Petition, BCBS says it “took the position that the Traditional Contract applied for
+1
+
+By contrast, BCBS has not denied payment of claims for “post-stabilization” services provided
+to patients covered by a traditional indemnity insurance plan. Ex. 1, Lindsley Aff., at ¶ 21.
+BCBS has not told Memorial Hermann that it must transfer to another hospital a patient covered
+by a traditional indemnity insurance plan because Memorial Hermann is not “in-network” for
+that traditional indemnity plan. Id.
+
+10
+684307.3
+
+reimbursement of services provided by Memorial Hermann to BAV Plan members” and that
+“Memorial Hermann eventually agreed.” Dkt. No. 8, at 5. Actually reading paragraph 20 of the
+Original Petition reveals that Memorial Hermann agreed that BCBS could use the rate from the
+Indemnity Contract for such reimbursement—it does not say that Memorial Hermann agreed to
+application of the entire Indemnity Contract.
+In its pleading, Memorial Hermann alleges the following for the breach of contract claim:
+BCBS and Memorial Hermann entered into an agreement, based on their oral and
+written communications, that BCBS would reimburse Memorial Hermann for all
+services provided to BAV insureds at Memorial Hermann using the PAR
+reimbursement rate. BCBS breached its agreement with Memorial Hermann by
+failing to pay claims for healthcare services provided to BAV plan members.
+Dkt. No. 3-1, at ¶ 35. Memorial Hermann did not allege that the Indemnity Contract is the basis
+for its breach of contract claim. Memorial Hermann did not allege that BCBS breached the
+Indemnity Contract by failing to pay for services provided to BAV HMO plan members.
+Memorial Hermann is not seeking in this lawsuit to be paid for healthcare services or treatment
+that it provided to patients covered by traditional indemnity insurance plans.
+BCBS’s Motion is based on an improper attempt to rewrite and mischaracterize
+Memorial Hermann’s pleaded claims.
+V.
+
+The parties did not agree to arbitrate this dispute.
+A.
+
+BCBS has failed to meet its burden to establish that the parties agreed to
+arbitrate this dispute—the BAV HMO Agreement does not include an
+agreement to arbitrate.
+
+In determining whether Memorial Hermann and BCBS entered into an agreement to
+arbitrate, the nature of the parties’ relationship is critical.
+
+If their sole relationship were
+
+established and governed by a single contract with a valid arbitration provision (e.g., the
+Indemnity Contract), their disputes would be more likely to be subject to arbitration. See, e.g.,
+Capital Income Properties–LXXX v. Blackmon, 843 S.W.2d 22, 23 (Tex. 1992) (single limited
+
+11
+684307.3
+
+partnership agreement with broad arbitration provision). But when, as here, the relationship
+extends beyond just a single agreement and is governed by separate and independent agreements,
+the question of whether the parties agreed to arbitrate must be answered by examining each
+agreement individually to answer the contract formation question one agreement at a time. See,
+e.g., In re Sino Swearingen Aircraft Corp., 05-03-01618-CV, 2004 WL 1193960, at *3 (Tex.
+App.—Austin June 1, 2004, no pet.) (concluding that the narrow arbitration clause in one
+agreement “does not encompass the parties’ dispute under” other agreements).
+The BAV HMO Agreement, in which the parties agreed upon the rate of payment for
+BAV HMO patients, is separate from the Indemnity Contract. Ex. 1, Lindsley Aff., at ¶¶ 6-7, 14.
+The Indemnity Contract governs the entire relationship between Memorial Hermann and BCBS
+as it relates to traditional indemnity business, which is not the same as HMO. Id., at ¶¶ 6-8.
+Memorial Hermann and BCBS agreed that the rate set forth in the Indemnity Contract would
+apply to reimbursement of claims for services provided to BAV HMO plan members. Id., at ¶
+14. That is the substance of the BAV HMO Agreement. The parties did not agree that the entire
+Indemnity Contract applied to healthcare treatment given to BAV HMO plan members, who are
+covered by an HMO product and not by a traditional indemnity plan. Id. at ¶¶ 14, 16.
+When Memorial Hermann and BCBS entered into the BAV HMO Agreement, they did
+not agree upon, much less discuss, an arbitration provision. Ex. 1, Lindsley Aff., at ¶ 17. The
+BAV HMO Agreement’s material terms are that BCBS would pay, and Memorial Hermann
+would accept, the PAR rate for all treatment provided to patients covered by the BAV HMO
+plan. Id., at ¶¶ 14, 17. Memorial Hermann expected that any dispute concerning BAV HMO
+claims would be resolved in court. Id., at ¶ 17. The parties did not reach an agreement to
+arbitrate BAV HMO claims.
+
+12
+684307.3
+
+Thus, BCBS has not met its burden to show a valid agreement to arbitrate.
+B.
+
+Because the BAV HMO Agreement and the Indemnity Contract are separate
+agreements, the narrow arbitration clause from the Indemnity Contract does
+not apply to this dispute.
+
+The Indemnity Contract governs the relationship between Memorial Hermann and BCBS
+with respect to all traditional indemnity plans offered by BCBS.
+
+It does not govern the
+
+relationship between Memorial Hermann and BCBS with respect to the BAV HMO plan.
+BCBS argues that the Indemnity Contract applies to BAV HMO plan members because
+of the definition of “Subscribers” in the Indemnity Contract. Wrong. The Indemnity Contract
+applies to traditional indemnity business, only. Ex. 1, Lindsley Aff., at ¶¶ 6-8. It is not a “broadranging” umbrella contract that covers payment for treatment given to all BCBS insureds. Id. If
+it were as broad as BCBS claims, the Indemnity Contract would obviate the need for all other
+managed care agreements between Memorial Hermann and BCBS. Obviously, it does not. The
+Indemnity Contract applies to traditional indemnity business, which is a very small patient
+population that is entirely different from the BAV HMO patient population. See Ex. 1, Lindsley
+Aff., at ¶ 7; see also Ex. 1-A, at 1 (title); id., at Art. 15 (referring to “HOSPITAL’s status as a
+contracting hospital with BCBSTX for traditional indemnity business”). 2
+
+The Indemnity
+
+Contract and the BAV HMO Agreement are separate.
+When parties have multiple contracts that govern their relationship, courts refuse to
+compel arbitration when the movant relies upon an arbitration clause that is found in a separate
+2
+
+BCBS offers the BAV HMO plan to individuals through the ACA. Ex. 1, Lindsley Aff., at ¶ 9.
+The BAV HMO plan is not a traditional indemnity plan. Id., at ¶¶ 9-10. It is an HMO plan that
+has its own benefits, terms, and policies. See BAV HMO Quick Reference Guide, available at
+https://www.bcbstx.com/provider/pdf/tx_provider_blue_advantage_hmo
+_quick_reference_guide.pdf (last accessed September 29, 2017).
+By contrast, BCBS’s
+Indemnity plans are not HMO plans. Ex. 1, Lindsley Aff. at ¶ 7. Each Indemnity plan has its
+own benefits terms, and policies. See Traditional/Indemnity Quick Reference Guide, available at
+https://www.bcbstx.com/provider/pdf/parplan_qrg.pdf (last accessed September 29, 2017).
+
+13
+684307.3
+
+agreement that is not the subject of the breach of contract claim. In such circumstances, the
+parties have not agreed to arbitrate. For example, in Weber v. Hall, 929 S.W.2d 138, 142 (Tex.
+App.—Houston [14th Dist.] 1996, orig. proceeding), the court held that an arbitration clause in
+the plaintiffs’ employment agreement did not apply to the plaintiffs’ claim for breach of a
+separate sales commission agreement. Id. The clause at issue required arbitration of all disputes
+“as to all or any part of” an employment agreement. Id. The plaintiffs, however, were not suing
+for breach of the employment agreement. Id. The appellate court noted that the two agreements
+were not executed contemporaneously, did not have the same purpose, and thus did not have to
+be read together. Id. at 143. As a result, the court held that the parties had not agreed to arbitrate
+the sales commission dispute because that dispute did not concern the provisions of the separate
+employment agreement, noting that “[t]he federal policy of resolving doubts in favor of
+arbitration may not serve to stretch a contract beyond the scope intended by the parties.” Id.; see
+also Seven Hills Commercial, LLC v. Mirabal Custom Homes, Inc., 442 S.W.3d 706, 717-19
+(Tex. App.—Dallas 2014, pet. denied) (holding that arbitration clause in LLC agreement did not
+apply to LLC member’s claims for breach of separate agreement and/or quantum meruit
+concerning a promised “promote interest” in real estate projects); Rosenblum v. Travelbyus.com
+Ltd., 299 F.3d 657, 664 (7th Cir. 2002) (arbitration clause in employment agreement did govern
+the dispute because the plaintiff’s claims arose under the separate acquisition agreement
+governing the purchase and sale of the business).
+Similarly, in I.D.E.A. Corp. v. WC & R Interests, Inc., 545 F. Supp. 2d 600, 606 (W.D.
+Tex. 2008), the court denied a motion to compel arbitration where the plaintiff had sued for
+breach of the parties’ Manufacturing Agreement and the defendant sought arbitration pursuant to
+an arbitration provision in the parties’ separate Business Relationship Agreement (“BRA”).
+
+14
+684307.3
+
+Central to the court’s decision was that the arbitration provision was narrow in scope—it was
+limited to disputes “arising under this Agreement”—and that the BRA contained an entire
+agreement clause. 3 Id. at 605, 607. The court said: “An entire agreement clause demonstrates
+that the parties did not intend for an arbitration provision contained in the same agreement to
+apply to claims arising under a separate agreement.” Id., at 607.
+The same rule applies here. BCBS cites only to the Indemnity Contract and relies only
+on the arbitration provision in the Indemnity Contract. Importantly, like the separate contract in
+I.D.E.A. Corp., the Indemnity Contract contains a narrow arbitration provision, limited to
+“contract interpretation” and “claim issues,” as well as an “entire agreement” clause that limits
+application of the arbitration provision to the Indemnity Contract alone.
+
+Ex. 1-A, at Art. 11(C),
+
+Art. 21.
+Because the Indemnity Contract does not cover “any and all disputes” that are “related
+to,” “connected to,” or “concerning” the Indemnity Contract, Memorial Hermann’s claims for
+breach of the BAV HMO Agreement, alternatively for quantum meruit, and for declaratory
+judgment do not fall within the narrow scope of the arbitration provision. Memorial Hermann’s
+claims do not involve interpretation of the Indemnity Contract, nor claim issues for patients
+covered by traditional indemnity plans. See Dkt. 3-1, at ¶¶ 34-50. First, the claim for breach of
+the BAV HMO Agreement depends upon whether BCBS agreed to pay Memorial Hermann at a
+specific rate for all treatment provided to BAV HMO patients (or just for emergency care), and
+whether BCBS has paid Memorial Hermann at that rate. There is nothing in the separate
+
+3
+
+“[C]ourts distinguish ‘narrow’ arbitration clauses that only require arbitration of disputes
+‘arising out of’ the contract from broad arbitration clauses governing disputes that ‘relate to’ or
+‘are connected with’ the contract.” Pennzoil Exploration & Prod. Co. v. Ramco Energy, 139 F.3d
+1061, 1067 (5th Cir. 1998). An arbitration provision that expressly encompasses disputes
+“related to” or “connected with” the agreement containing the provision is construed broadly. Id.
+
+15
+684307.3
+
+Indemnity Contract that needs to be “interpreted” in order to resolve that claim. Second, the
+alternative claim for quantum meruit presupposes the lack of a contract, so there would not be
+any “interpretation” of the Indemnity Contract there either. Third, to the extent that Memorial
+Hermann’s declaratory judgment claim involves a contract, it involves only the BAV HMO
+Agreement. Memorial Hermann does not seek a declaration concerning a difference in opinion
+as to whether the PAR rate is X or Y—it seeks a declaration that BCBS’s conduct violates Texas
+statutory law and the parties’ BAV HMO Agreement. Whether BCBS complies with the Texas
+Insurance Code provisions concerning payment for treatment of emergency patients is not a
+question that the parties agreed to arbitrate. Finally, none of the “claim issues” in this case
+involve patients covered by traditional indemnity insurance plans. The only disputed claim
+issues are for patients covered by the BAV HMO plan.
+Moreover, as in I.D.E.A. Corp., the Indemnity Contract contains an “entire agreement”
+clause that states:
+This Contract and any exhibit(s) shall constitute the entire Contract.
+The Contract and exhibit(s) may be amended only by written agreement between
+the HOSPITAL and BCBSTX. Only the BCBSTX Vice President of Network
+Management, or his designee, has the authority to amend any provision of the
+Contract and exhibit(s) for BCBSTX.
+Ex. 1-A, at Art. 21. This clause shows that Memorial Hermann and BCBS did not intend for the
+arbitration provision in the Indemnity Contract to apply to disputes arising under a separate
+contract. I.D.E.A. Corp., 545 F. Supp. 2d at 606. That the parties may have agreed to arbitrate
+disputes concerning “contract interpretation” and “claim issues” under the Indemnity Contract
+has no bearing on whether the parties separately agreed to arbitrate their disputes arising under
+the separate BAV HMO Agreement. See Ex. 1, Lindsley Aff., at ¶¶ 16-17.
+
+16
+684307.3
+
+BCBS also argues that the arbitration provision from the Indemnity Contract applies to
+Memorial Hermann’s claims because the factual allegations in the petition “implicate” the
+Indemnity Contract. Dkt. No. 8, at 13-14. This argument is misplaced and, again, relies on a
+mischaracterization of Memorial Hermann’s claims and allegations. The BAV HMO Agreement
+borrows the rate term from the Indemnity Contract—it does not include any other terms from the
+Indemnity Contract. Therefore, as in a case cited by BCBS itself, “reference to the [Indemnity
+Contract] is required only as an evidentiary matter”—for instance, to show the specific rate of
+reimbursement—“not as a legal matter in order for [Memorial Hermann] to maintain [its] claim.”
+See A&A Global Industries, Inc. v. Wolfe, 2001 WL 1343628, at *4 (N.D. Tex. Oct. 29, 2001).
+The factual and legal basis of Memorial Hermann’s claims is not the Indemnity Contract.
+Therefore, Memorial Hermann’s claims are not “so interwoven” with the Indemnity Contract
+that they “cannot stand alone.” See id.
+Furthermore, because the Indemnity Contract’s arbitration provision is narrow, the cases
+compelling to arbitration claims that were “factually intertwined” or “inextricably enmeshed”
+with the contract containing the arbitration provision do not apply here. Compare Branch Law
+Firm L.L.P. v. Osborn, 14-14-00892-CV, 2016 WL 444867, at *11 (Tex. App.—Houston [14th
+Dist.] Feb. 4, 2016, pet. denied) (“When the contract contains a broadly written arbitration
+clause, as long as the allegations touch matters, have a significant relationship with, or are
+inextricably enmeshed or factually intertwined with the contract, the claim will be arbitrable.”);
+with In re Margolin, 05-00-00875-CV, 2000 WL 964692, at *2 (Tex. App.—Dallas July 13,
+2000, no pet.) (“Because of the narrow and limited scope of the arbitration clause included in the
+Voting Agreement, we reject Margolin’s argument that the alleged breaches of the Shareholders
+
+17
+684307.3
+
+Agreement and Management Agreement fall within the scope of the arbitration agreement
+because they are so factually intertwined with the Voting Agreement.”). 4
+Memorial Hermann and BCBS only agreed to arbitrate disputes concerning interpretation
+of the Indemnity Contract and disputes over claims for patients covered by traditional indemnity
+plans. Memorial Hermann’s claims involve neither. Thus, the Indemnity Contract’s arbitration
+clause is not susceptible of an interpretation that would cover Memorial Hermann’s claims for
+breach of the BAV HMO Agreement, quantum meruit, and declaratory judgment concerning
+BCBS’s obligations under the Texas Insurance Code. See, e.g., Osornia, 367 S.W.3d at 713;
+IKON Office Sols., Inc. v. Eifert, 2 S.W.3d 688, 696 (Tex. App.—Houston [14th Dist.] 1999, no
+pet.) (“[T]he narrow arbitration clause in this case covers only disputes related to the termination
+of employment. Eifert’s claims are not based on the termination of his employment. Therefore,
+they are not covered by the arbitration provision.”).
+VI.
+
+This Court, and not an arbitrator, must decide whether Memorial Hermann and
+BCBS agreed to arbitrate this dispute; the inapplicable Indemnity Contract does
+not delegate arbitrability.
+BCBS acknowledges that the question of whether the parties have submitted a particular
+
+dispute to arbitration is “an issue for judicial determination [u]nless the parties clearly and
+unmistakably provide otherwise.” See Howsam v Dean Witter Reynolds, Inc., 537 U.S. 79, 83
+(2002) (quoting AT&T Technologies, Inc. v. Communications Workers, 475 U.S. 643, 649
+
+4
+
+See also Osornia v. AmeriMex Motor & Controls, Inc., 367 S.W.3d 707, 713 (Tex. App.—
+Houston [14th Dist.] 2012, no pet.) (“Significantly, the cases in which this formulation
+[“factually intertwined”] has been utilized have involved very broad arbitration clauses in which
+the parties agree to arbitrate all claims arising out of or relating to a contract or in which the
+parties agree to arbitrate all disputes that may arise among them.”). In Osornia, the court
+affirmed the denial of a motion to compel arbitration where the arbitration provision was
+narrow—“any and all claims arising out of this Agreement”—and the plaintiff did not allege a
+breach of the agreement or a disputed interpretation of the agreement. Id., at 713-15.
+
+18
+684307.3
+
+(1986)). But, BCBS then asserts that this Court should not make the decision on arbitration
+because of an alleged “delegation” of the issue to the AAA.
+As noted above in section V., the Indemnity contract does not apply to BAV HMO
+claims, and this Court has recognized that whether there is an agreement to arbitrate is a decision
+for this Court, not the arbitrator. Houston Refining LP v. United Steel, Paper and Forestry, 2016
+WL 270918, * 7 (S.D. Tex. Jan. 22, 2016) (Lake, J.) (CL # 3: “Whether an agreement to
+arbitrate exists, on which a matter of breach can arise, is a question of law for the Court.”).
+However, even if the Indemnity Contract may apply, there was no delegation.
+Here, the Indemnity Contract states in Article 11.C:
+After exhausting the remedies contained in this Article 11, any Contract
+interpretation or claim issue which the HOSPITAL or BCBSTX determines has
+not been satisfactorily resolved shall be resolved by arbitration under the
+commercial rules and regulations of the American Arbitration Association, and in
+accordance with the Texas General Arbitration Act (Chapter 171 Texas Civil
+Practice and Remedies Code).
+There are three key aspects to this clause: (1) it makes no mention of any intent by any party to
+delegate arbitrability issues to an arbitrator; (2) it is a narrow or limited arbitration clause; it does
+not address all disputes arising from, relating to, referring to or connected in any manner to the
+Indemnity Contract; and (3) it applies Texas law (see also Article 20, Texas choice of law).
+BCBS argues that Texas and Fifth Circuit case law simply hold that incorporation of
+AAA rules into an arbitration clause necessarily means that a Court must find that the parties
+intended that the arbitrator decide arbitrability issues. Dkt. No 8, at 9-11. The test is not that
+simple. The United States Supreme Court has noted that “the law treats silence or ambiguity
+about the question ‘who (primarily) should decide arbitrability’ different from the way it treats
+silence or ambiguity about the question ‘whether a particular merits-related dispute is arbitrable
+because it is within the scope of a valid arbitration agreement’ so as to not ‘force unwilling
+
+19
+684307.3
+
+parties to arbitrate a matter they reasonably would have thought a judge, not an arbitrator, would
+decide.’” Burlington Resources Oil & Gas Co., L.P. v. San Juan Basin Royalty Trust, 249
+S.W.3d 34, 39-40 (Tex. App.—Houston [1st Dist.] 2007, pet. denied) (quoting First Options of
+Chicago, Inc. v. Kaplan, 514 U.S. 938, 944 (1995)).
+Texas and Fifth Circuit case law instead hold that a court only should find delegation
+when there is (1) a specific mention of gateway issues like arbitrability or (2) a broad arbitration
+clause that clearly and unmistakably provides for arbitration of all disputes, plus an express
+incorporation of arbitration rules. See, e.g., Trafigura Pte. v. CNA Metals Ltd., 14-16-00530-CV,
+2017 WL 2784950, at ** 4-5 (Tex. App.—Houston [14th Dist.] June 27, 2017, no pet.) (“[W]hen
+a broad arbitration agreement exists between the parties, and when that agreement incorporates
+arbitration rules that specifically empower the arbitrator to decide issues of arbitrability, then the
+incorporation of those rules constitutes clear and unmistakable evidence of the parties’ intent to
+delegate arbitrability to the arbitrator.”) (finding broad clause, unlike this case); Super Starr Int’l,
+LLC v. Fresh Tex Produce, LLC, 13-17-00184-CV, 2017 WL 4054395, *4 (Tex. App.—Corpus
+Christi Sept. 14, 2017, no pet. h.) (“When the parties agree to a broad arbitration clause, and that
+clause incorporates arbitration rules that specifically empower an arbitrator to decide issues of
+arbitrability, the incorporation of those rules may serve as clear and unmistakable evidence of the
+parties’ agreement to delegate such issues to an arbitrator.”) (finding broad clause, unlike this
+case); Lucchese Boot Company v. Rodriguez, 473 S.W.3d 373, 381-382 (Tex. App.—El Paso
+2015, no pet.); Burlington Resources, 249 S.W.3d at 39-40; Haddock v. Quinn, 287 S.W.3d 158,
+173, 175 (Tex. App.—Fort Worth 2009, pet. denied); see also Houston Refining LP v. United
+Steel, Paper and Forestry, 765 F.3d 396, 408-412 (5th Cir. 2014). This is because courts
+“hesitate to interpret silence or ambiguity on the ‘who should decide arbitrability’ point as giving
+
+20
+684307.3
+
+the arbitrators that power, for doing so might too often force unwilling parties to arbitrate a
+matter they reasonably would have thought a judge, not an arbitrator, would decide.” First
+Options of Chicago, Inc. v. Kaplan, 514 U.S. 938, 945, 115 S.Ct. 1920, 131 L.Ed.2d 985 (1995).
+The Lucchese Boot court distinguished the cases cited by the party in that case (like the
+BCBS-cited cases here) 5 on the basis that “[i]n those cases, the arbitration agreements either
+applied specifically to gateway issues or otherwise purported to apply to all disputes between an
+employer and employee, meaning that procedural rules giving an arbitrator the power to rule on
+whether a claim is even subject to arbitration were consistent with the parties’ intent to
+completely exclude the courts from the dispute-resolution process.” 473 S.W.3d at 382. The
+Lucchese Boot court held:
+Given that the agreement’s plain language purports to restrict the arbitrator’s
+power to hear only certain classes of disputes, we will not read an unwritten
+clause into the agreement that enlarges the arbitrator’s power to rule on
+unenumerated gateway issue disputes based on silence or mere incorporation by
+reference of general arbitration rules.
+Id. at 383 (citing cases and doctrine that expression of one or more things implies the exclusion
+of all not expressed).
+
+5
+
+By examples: In Kubala v. Supreme Prod. Services, Inc., 830 F.3d 199, 200 (5th Cir. 2016),
+the arbitration agreement “contained a ‘delegation clause’ that assigned to the arbitrator the
+power to make gateway determinations as to the arbitrability of a specific claim.” In Petrofac,
+Inc. v. DynMcDermott Petroleum Operations Co., 687 F.3d 671, 674 (5th Cir. 2012), the
+arbitration clause read: “[t]hey shall submit to binding arbitration the [REA] and all claims and
+disputes between them arising out of or relating to the Subcontract.” (emphasis added). In
+Vujasinovic & Beckcom, PLLC v. Cubillos, CV H-15-2546, 2016 WL 5573712, at *2 (S.D. Tex.
+Sept. 29, 2016), the arbitration clause read: “ANY AND ALL DISPUTES, CONTROVERSIES,
+CLAIMS OR DEMANDS ARISING OUT OF OR RELATING TO THIS AGREEMENT OR
+ANY PROVISION HEREOF….” (emphasis added). In Crawford Prof'l Drugs, Inc. v. CVS
+Caremark Corp., 748 F.3d 249, 256 (5th Cir. 2014)¸ applying Arizona law, the arbitration clause
+read: “[a]ny and all disputes in connection with or arising out of the Provider agreement….”
+(emphasis added).
+
+21
+684307.3
+
+Here, the Indemnity Contract contains no specific reference to gateway / arbitrability
+issues, nor is there any broad agreement to arbitrate all disputes related to or connected with the
+agreement. See Ex. 1-A, at Art. 11-C. In Burlington Resources, the Texas court refused to find
+arbitrability was delegated where the parties’ arbitration agreement was of limited scope,
+addressing only certain issues.
+
+287 S.W.3d at 40.
+
+The Burlington Resources court then
+
+alternatively held that “[e]ven if we were to conclude, based, in part, on the authority cited
+below, that some ambiguity was created by the parties’ reference to the AAA rules, the parties
+simply did not clearly and unmistakably submit the issue of arbitrability to arbitration.” Id. Both
+Burlington Resources holdings apply in this case – the lack of an arbitration clause that clearly
+and unmistakably states that it applies to all disputes between Memorial Hermann and BCBS
+precludes delegation, and to the extent that there is any ambiguity as to the scope of the
+arbitration clause, that also precludes delegation.
+
+See also Haddock, 287 S.W.3d at 175
+
+(“Silence is not ‘clear and unmistakable evidence’ of intent. The agreement is silent as to
+whether the parties intended to incorporate the current rules, silent as to whether the arbitrator is
+to decide issues or ‘arbitrability,’…”); Houston Refining LP v. United Steel, Paper and Forestry,
+765 F.3d 396, 408-412 (5th Cir. 2014) (“Because we hold that the parties here did not clearly and
+unmistakably agree to arbitrate arbitrability, see supra Part IV.A., courts must decide
+arbitrability questions independently.”); Arbitration between Exceed Int’l Ltd. v. DSL Corp., No.
+H-13-2572, 2014 WL 1761264, at *3 (S.D. Tex. Apr. 30, 2014) (Atlas, J.) (concluding that
+incorporation of arbitral body’s rules did not express clear and unmistakable intent to delegate
+issue of arbitrability to arbitrator, and ruling on the question of whether the parties agreed to
+arbitrate the dispute).
+
+22
+684307.3
+
+Memorial Hermann and BCBS did not agree to arbitrate. Even if they did, Memorial
+Hermann and BCBS did not clearly and unmistakably delegate the issue of arbitrability away
+from the courts and to an arbitrator. This Court should examine the pleadings and evidence in
+order to determine that Memorial Hermann’s claims concerning breach of the BAV HMO
+Agreement, quantum meruit, and declaratory judgment are not subject to the arbitration clause in
+the Indemnity Contract.
+VII.
+
+Conclusion.
+Memorial Hermann and BCBS did not agree to arbitrate claims resulting from BCBS’s
+
+failure to pay for medical treatment provided by Memorial Hermann to patients covered by the
+BAV HMO plan. The Court should deny BCBS’ Motion.
+
+23
+684307.3
+
+DATED: October 2, 2017.
+Respectfully submitted,
+SMYSER KAPLAN & VESELKA, L.L.P.
+
+/s/ Jeff Potts________________________________
+Jeff Potts
+State Bar No. 00784781
+jpotts@skv.com
+Jarod R. Stewart
+State Bar No. 24066147
+jstewart@skv.com
+700 Louisiana, Suite 2300
+Houston, Texas 77002
+713/221-2300 - telephone
+713/221-2320 - fax
+ATTORNEYS FOR MEMORIAL HERMANN
+HEALTH SYSTEM
+
+CERTIFICATE OF SERVICE
+I hereby certify that, on October 2, 2017, I filed the foregoing with the Clerk of the Court
+using the CM/ECF system, which will provide electronic notice to all counsel of record.
+
+/s/ Jarod R. Stewart
+Jarod R. Stewart
+
+24
+684307.3
+
+

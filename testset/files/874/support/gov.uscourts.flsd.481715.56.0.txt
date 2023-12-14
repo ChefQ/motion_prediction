@@ -1,0 +1,776 @@
+Case 1:16-cv-21199-CMA Document 56 Entered on FLSD Docket 09/29/2016 Page 1 of 25
+
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF FLORIDA
+CASE NO.: 1:16-cv-21199-CMA
+
+ANDREA ROSSI and LEONARDO
+CORPORATION,
+Plaintiffs,
+v.
+THOMAS DARDEN; John T. Vaughn;
+INDUSTRIAL HEAT, LLC; IPH
+INTERNATIONAL B.V.; and CHEROKEE
+INVESTMENT PARTNERS, LLC,
+Defendants.
+/
+
+PLAINTIFFS/COUNTER-DEFENDANTS’ MOTION TO DISMISS
+DEFENDANTS’ AMENDED COUNTERCLAIMS
+AGAINST PLAINTIFFS AND MEMORANDUM OF LAW
+
+PERLMAN, BAJANDAS, YEVOLI & ALBRIGHT, P.L.
+
+200 South Andrews Avenue, Suite 600, Fort Lauderdale, Florida 33301 • (954) 566-7117
+283 Catalonia Avenue, Suite 200, Coral Gables, Florida 33134 • (305) 377-0086
+
+Case 1:16-cv-21199-CMA Document 56 Entered on FLSD Docket 09/29/2016 Page 2 of 25
+
+TABLE OF CONTENTS
+PAGE(S)
+TABLE OF AUTHORITIES .............................................................................................. i
+I. INTRODUCTION ......................................................................................................... 1
+II. RELEVANT FACTUAL ALLEGATIONS IN THE AMENDED
+COUNTERCLAIM AND EXHIBITS THERETO ....................................................... 2
+LEGAL STANDARD......................................................................................................... 4
+ARGUMENT ...................................................................................................................... 5
+1. Count I: Breach of Contract .................................................................................... 5
+a. IH Lacks the Requisite Standing ....................................................................... 5
+b. Count I Fails to State a Cause of Action for Breach of Contract ...................... 6
+2. Count II: Breach of Contract (Various Provisions) ................................................. 8
+a. Covenant Not to Compete ................................................................................. 8
+b. Failure to Pay Taxes .......................................................................................... 11
+3. Count III: Fraudulent Inducement ........................................................................... 13
+4. Count IV: Florida Deceptive and Unfair Trade Practices Act ................................ 14
+a. Industrial Heat, LLC Lacks Standing on Claims Relating to License
+Agreement. ........................................................................................................ 15
+b. Count IV Impermissibly Recasts Breach of Contract Claims in Tort ............... 16
+c. Defendants Fail to Satisfy the Rule 9(b) Heightened Pleading
+Requirements ..................................................................................................... 16
+III. CONCLUSION ............................................................................................................. 18
+
+i
+PERLMAN, BAJANDAS, YEVOLI & ALBRIGHT, P.L.
+
+200 South Andrews Avenue, Suite 600, Fort Lauderdale, Florida 33301 • (954) 566-7117
+283 Catalonia Avenue, Suite 200, Coral Gables, Florida 33134 • (305) 377-0086
+
+Case 1:16-cv-21199-CMA Document 56 Entered on FLSD Docket 09/29/2016 Page 3 of 25
+
+TABLE OF
+AUTHORITIES
+CASES
+Page(s)
+Abbot Labs., Inc. v. Gen. Elec. Capital,
+765 So.2d 737 (Fla. Dist. Ct. App. 2000) .....................................................................................6
+Am. Boxing & Athletic Ass'n v. Young,
+911 So.2d 862 (Fla. 2d DCA 2005) ............................................................................................16
+APR Energy, LLC v. Pakistan Power Resources, LLC,
+653 F. Supp. 2d 1227 (M.D. Fla. 2009) ......................................................................................11
+Ashcroft v. Iqbal,
+556 U.S. 662 (2009) ..............................................................................................................4, 7, 8
+Ashmore v. F.A.A.,
+2011 WL 3915752 (S.D. Fla. Sept. 2, 2011) .................................................................................4
+Bell Atl. Corp. v. Twombly,
+550 U.S. 544 (2007) ......................................................................................................................4
+Burger King Corp. v. Huynh,
+2011 WL 6190163 (S.D. Fla. Dec. 5, 2011) .................................................................................6
+Casey v. Florida Coastal Sch. of L., Inc.,
+2015 WL 10096084 (M.D. Fla. Aug. 11, 2015) ............................................................................7
+Casey v. Florida Coastal Sch. of L., Inc.,
+2015 WL 10818746 (M.D. Fla. Sept. 29, 2015) .....................................................................7, 14
+Chandler v. Sec. of Florida Dept. of Transp.,
+695 F.3d 1194 (11th Cir. 2012) ...................................................................................................11
+Coutant v. U.S., Dep't of Treasury, I.R.S.,
+2002 WL 34382737 (S.D. Fla. Feb. 27, 2002).......................................................................12-13
+Crowley Liner Servs., Inc. v. Transtainer Corp.,
+2007 WL 433352 (S.D.Fla. Feb. 6, 2007) ...................................................................................16
+E & C Copiers Export Import Corp. V. Arizs Fotocopiandras S.A.S.,
+2015 WL 7720604 (S.D. Fla. Nov. 30, 2015)…………………………………………………..17
+
+ii
+PERLMAN, BAJANDAS, YEVOLI & ALBRIGHT, P.L.
+
+200 South Andrews Avenue, Suite 600, Fort Lauderdale, Florida 33301 • (954) 566-7117
+283 Catalonia Avenue, Suite 200, Coral Gables, Florida 33134 • (305) 377-0086
+
+Case 1:16-cv-21199-CMA Document 56 Entered on FLSD Docket 09/29/2016 Page 4 of 25
+
+TABLE OF
+AUTHORITIES
+CASES
+CONTINUED
+
+Page(s)
+
+Ferrara v. LCS Fin. Services Corp.,
+2015 WL 84703 (M.D. Fla. Jan. 7, 2015) ...................................................................................17
+Guarisma v. Microsoft Corp.,
+2016 WL 4017196 (S.D. Fla. July 26, 2016) ................................................................................4
+In re Garcia,
+2002 WL 31409580 (S.D. Fla. Sept. 6, 2002)……………………….…………….………...…12
+Jackson v. Guardian Life Ins. Co. of Am.,
+2008 WL 2439796 (M.D. Fla. June 13, 2008) ..............................................................................5
+Kaye v. Ingenio, Filiale De Loto-Quebec, Inc.,
+2014 WL 2215770 (S.D. Fla. May 29, 2014) .............................................................................16
+Leisure Founders, Inc. v. CUC Intern., Inc.,
+833 F. Supp. 1562 (S.D. Fla. 1993) ............................................................................................14
+Llado-Carreno v. Guidant Corp.,
+2011 WL 705403 (S.D. Fla. Feb. 22, 2011) ................................................................................14
+M.C. Dean, Inc. v. City of Miami Beach, Florida,
+2016 WL 4179807 (S.D. Fla. Aug. 8, 2016) .............................................................................4, 7
+McNeely v. Berk,
+2011 WL 5358057 (M.D. Fla. Oct. 31, 2011)................................................................................5
+Persaud v. Bank of Am., N.A.,
+2014 WL 4260853 (S.D. Fla. Aug. 28, 2014) .............................................................................13
+Picazio v. Melvin K. Silverman and Associates, P.C.,
+965 F. Supp. 2d 1411 (S.D. Fla. 2013) .......................................................................................12
+Price v. RLI Ins. Co.,
+914 So. 2d 1010 (Fla. 5th DCA 2005) ..........................................................................................5
+Sierra Equity Group, Inc. v. White Oak Equity Partners, LLC,
+650 F. Supp.2d 1213 (S.D. Fla. 2009) ..........................................................................................5
+
+iii
+PERLMAN, BAJANDAS, YEVOLI & ALBRIGHT, P.L.
+
+200 South Andrews Avenue, Suite 600, Fort Lauderdale, Florida 33301 • (954) 566-7117
+283 Catalonia Avenue, Suite 200, Coral Gables, Florida 33134 • (305) 377-0086
+
+Case 1:16-cv-21199-CMA Document 56 Entered on FLSD Docket 09/29/2016 Page 5 of 25
+
+TABLE OF
+AUTHORITIES
+CASES CONTINUED
+Page(s)
+Sinaltrainal v. Coca-Cola Co.,
+578 F.3d 1252 (11th Cir. 2009) .....................................................................................................4
+Stires v. Carnival Corp.,
+243 F.Supp.2d 1313 (M.D.Fla.2002) ....................................................................................14, 15
+United States v. Barnes,
+509 F. App'x 837 (11th Cir. 2012)...............................................................................................12
+United States v. Rodgers,
+461 U.S. 677 (1982)……………………………………………………………….……………12
+Vess v. Ciba–Geigy Corp. USA,
+317 F.3d 1097 (9th Cir.2003) ......................................................................................................15
+W. Coast Life Ins. Co. v. Life Brokerage Partners LLC,
+2009 WL 2957749 (S.D. Fla. Sept. 9, 2009) ...............................................................................13
+Ziemba v. Cascade Int’l. Inc.,
+156 F.3d 1994 (11th Cir. 2001) ...................................................................................................13
+OTHER
+AUTHORITIES
+Rule 8, Fed. R.Civ.P.......................................................................................................................8
+Rule 9(b), Fed. R.Civ.P.........................................................................................................passim
+Rule 12(b)(6), Fed.R.Civ.P............................................................................................................1
+
+iv
+PERLMAN, BAJANDAS, YEVOLI & ALBRIGHT, P.L.
+
+200 South Andrews Avenue, Suite 600, Fort Lauderdale, Florida 33301 • (954) 566-7117
+283 Catalonia Avenue, Suite 200, Coral Gables, Florida 33134 • (305) 377-0086
+
+Case 1:16-cv-21199-CMA Document 56 Entered on FLSD Docket 09/29/2016 Page 6 of 25
+
+Plaintiffs, Andrea Rossi (“ROSSI”) and Leonardo Corporation (“LEONARDO”), by and
+through their undersigned counsel, pursuant to Rule 12(b)(6), Fed. R. Civ. P., move this Court
+for the entry of an Order dismissing the Second Amended Counterclaim filed by Defendants
+Industrial Heat, LLC (“IH”) and IPH International, B.V. (“IPH”), and state:
+I.
+
+INTRODUCTION
+
+On April 5, 2016, Plaintiffs ROSSI and LEONARDO were forced to commence the above
+styled lawsuit as a result of, inter alia, Defendants IH and IPH’s breach of a provision of the
+parties’ License Agreement which required IH (and assignee IPH) to pay to Plaintiffs EightyNine Million Dollars ($89,000,000.00). See (DE:1). The aforementioned payment `came due
+after a nearly yearlong operational test conducted by a mutually agreed upon independent third
+party expert. (DE:1, ¶67) (DE:50, ¶56). During such test, Defendants had two full time
+representatives present at all times relevant thereto. (DE:1, ¶67) (DE:50). In and untenable third
+attempt to justify their non-payment, Defendants IH and IPH filed their Second Amended
+Counterclaim and Third Party claims alleging that Plaintiffs breached the License Agreement and
+committed other non-contract related offenses. See (DE:50). Moreover, as a red-herring,
+Defendants IH and IPH assert claims against most of the persons and/or entities involved in the
+testing of the underlying licensed technology including, but not limited to, IH’s own consultant
+and the independent third party expert selected by IH to evaluate the licensed technology.
+(DE:50).
+A plain reading of the Defendant’s Counterclaim demonstrates that the Defendants
+themselves are unable to distinguish between the rights, obligations and actions of IH as opposed
+to the rights, obligations and actions of IPH, its apparent alter ego. Despite Defendants’
+
+1
+PERLMAN, BAJANDAS, YEVOLI & ALBRIGHT, P.L.
+200 South Andrews Avenue, Suite 600, Fort Lauderdale, Florida 33301 • (954) 566-7117
+283 Catalonia Avenue, Suite 200, Coral Gables, Florida 33134 • (305) 377-0086
+
+Case 1:16-cv-21199-CMA Document 56 Entered on FLSD Docket 09/29/2016 Page 7 of 25
+
+numerous factual misrepresentations,1 Defendants claims, as alleged in the Second Amended
+Counterclaim, are both factually and legally deficient and cannot stand as a matter of law.
+For the reasons set forth below, Plaintiffs respectfully move this Court to dismiss the
+Amended Counterclaims.
+II.
+RELEVANT FACTUAL ALLEGATIONS IN THE
+SECOND AMENDED COUNTERCLAIM AND EXHIBITS THERETO
+Defendants IH and IPH allege that, consistent with IH’s “guiding mission,” IH entered into
+a “License Agreement” with LEONARDO and ROSSI in October 2012 related to the E-Cat device
+and formula developed by ROSSI. (DE:50, ¶1-2). Pursuant to the License Agreement, IH was
+granted “the exclusive right and license under the Patents and other E-Cat IP to develop,
+manufacture, make, have made, use, have used, offer to sell, have offered for sale, sell, have sold,
+import, and have imported all the products deriving from the E-Cat IP” in the territory limited to
+the Americas, China, Russia, Saudi Arabia and the Arabian Emirates. (License Agreement, §1).
+The License Agreement defines the E-Cat IP as “the patents, designs, trade secrets, technology,
+know-how,…products, and business plans and all other intellectual property related directly or
+indirectly to energy production and conversion technologies and to the development, manufacture
+and sale of products using such technologies, including the Energy Catalyzer (“E-Cat”) the
+catalyzer formula used to fuel the E-Cat, the “Hot Cat” and related energy production and
+conversion technologies.” Id. The total price for the granting of such license and purchase of one
+E-Cat plant was One Hundred Million Five Hundred Thousand Dollars ($100,500,000.00).
+(License Agreement §3.1). Notably, the License Agreement was only exclusive as to the licensed
+territories and recognized the existence of other licensees for different regions throughout the
+world including, but not limited to, Northern Europe, Australasia, Africa, India, France, Italy,
+Defendants’ factual inaccuracies are not properly considered in a Motion to Dismiss and therefore will not
+be discussed herein.
+
+1
+
+2
+PERLMAN, BAJANDAS, YEVOLI & ALBRIGHT, P.L.
+200 South Andrews Avenue, Suite 600, Fort Lauderdale, Florida 33301 • (954) 566-7117
+283 Catalonia Avenue, Suite 200, Coral Gables, Florida 33134 • (305) 377-0086
+
+Case 1:16-cv-21199-CMA Document 56 Entered on FLSD Docket 09/29/2016 Page 8 of 25
+
+Austria, Germany and Greece, to name a few. (License Agreement, Exhibit “D”).
+Pursuant to the License Agreement, IH made its initial installment payment of One Million
+Five Hundred Thousand Dollars ($1,500,000.00) in October 2012. (Defendants’ Amended
+Counterclaim, DE:50, ¶4). Thereafter, on or about April 29, 2013, IH purportedly “assigned its
+rights under the License Agreement to IPH.” (DE:50, ¶48). Pursuant to such assignment, IH
+assigned to IPH “all right, title and interest of [IH] in and to the [License] Agreement” and IPH
+represented that IPH “accepts the assignment of the Agreement and assumes all of Assignor’s
+obligations under the Agreement.” (DE:50, Exhibit “7”). Notably, the Assignment and Assumption
+of License Agreement did not reserve any interest in the License Agreement to IH. See Id.
+Thereafter, Plaintiffs successfully completed a 24 hour validation test of the licensed technology,
+and transferred “all of the E-Cat IP to Industrial Heat and IPH” in accordance with the terms of
+the License Agreement. (DE:50, ¶57, 60). After the conclusion of the successful test, IH and/or
+IPH paid into escrow the second installment of Ten Million Dollars ($10,000,000.00).
+Following the conclusion of the validation test, the E-Cat Plant was delivered to a location
+in Miami, Florida to be operated and for further testing pursuant to a separate agreement between
+Plaintiffs, Defendant IH and Third Party Defendant J.M. Products, Inc., referred to as the “Term
+Sheet”. (DE:50, ¶75). During the E-Cat Plant’s operations in Miami, Defendant FABIO PENON
+(“Penon”) conducted the Guaranteed Performance test. (DE:50, ¶90). Inexplicably, Defendants
+now m a k e t w o i r r e c o n c i l a b l e c l a i m s , ( 1 ) t h e y deny that the test carried out by
+Penon was the Guaranteed Performance t o w h i c h t h e y a g r e e d u p o n , while (2)
+complaining that the E-Cat Plant did not “perform up to the standards set forth in the License
+Agreement” for the very same Guaranteed Performance test. (DE:50, ¶84).
+
+3
+PERLMAN, BAJANDAS, YEVOLI & ALBRIGHT, P.L.
+200 South Andrews Avenue, Suite 600, Fort Lauderdale, Florida 33301 • (954) 566-7117
+283 Catalonia Avenue, Suite 200, Coral Gables, Florida 33134 • (305) 377-0086
+
+Case 1:16-cv-21199-CMA Document 56 Entered on FLSD Docket 09/29/2016 Page 9 of 25
+
+Finally, in a last desperate attempt to wrongfully avoid their obligation to pay Plaintiffs
+Eighty-Nine Million Dollars ($89,000,000.00), Defendants now also complain that the
+“methodologies being used [by Penon] to measure those operations…were fatally flawed”
+notwithstanding the fact that Defendants IH, IPH and Darden approved the now contested
+methodology. (DE:50, ¶82); see also (License Agreement, §4).
+LEGAL STANDARD
+“To survive a motion to dismiss, a complaint must contain sufficient factual matter,
+accepted as true, to state a claim to relief that is plausible on its face.” Guarisma v. Microsoft
+Corp., No. 15-24326-CIV, 2016 WL 4017196, at *2 (S.D. Fla. July 26, 2016) (citing Ashcroft v.
+Iqbal, 556 U.S. 662, 678, 129 S.Ct. 1937, 173 L.Ed.2d 868 (2009)). “Pleadings must contain more
+than labels and conclusions, and a formulaic recitation of the elements of a cause of action will not
+do.” M.C. Dean, Inc. v. City of Miami Beach, Florida, No. 16-21731-CIV, 2016 WL 4179807,
+at *3 (S.D. Fla. Aug. 8, 2016) (citing Bell Atl. Corp. v. Twombly, 550 U.S. at 555, 127 S.Ct.
+1955 (2007)(quotations omitted). “The mere possibility the defendant acted unlawfully is
+insufficient to survive a motion to dismiss.” Id. (citing Sinaltrainal v. Coca–Cola Co., 578 F.3d
+1252, 1261 (11th Cir.2009)). As cited by Defendants, “pleadings that are no more than
+conclusions, are not entitled to the assumption of truth.” See (DE:17, pg. 4) (citing Ashmore v.
+F.A.A., 2011 WL 3915752, at *2 (S.D. Fla. Sept. 2, 2011) (quoting Iqbal, 556 U.S. at 678)).
+
+4
+PERLMAN, BAJANDAS, YEVOLI & ALBRIGHT, P.L.
+200 South Andrews Avenue, Suite 600, Fort Lauderdale, Florida 33301 • (954) 566-7117
+283 Catalonia Avenue, Suite 200, Coral Gables, Florida 33134 • (305) 377-0086
+
+Case 1:16-cv-21199-CMA Document 56 Entered on FLSD Docket 09/29/2016 Page 10 of 25
+
+ARGUMENT
+1.
+
+Count I: Breach of Contract
+a.
+
+IH Lacks the Requisite Standing:
+
+Count I of the Second Amended Counterclaim attempts to state a claim on behalf of both
+Defendant IH and Defendant IPH predicated upon the Plaintiffs’ alleged breach of the License
+Agreement. (DE:50, p. 50). In Florida, “[t]here are three requirements for standing: (1) injury in
+fact, which means an invasion of a legally protected interest that is (a) concrete and
+particularized, and (b) actual or imminent, not conjectural or hypothetical; (2) a causal
+relationship between the injury and the challenged conduct, which means that the injury fairly
+can be traced to the challenged action of the defendant; and (3) the likelihood that the injury will
+be redressed by a favorable decision.” McNeely v. Berk, 510-CV-682-OC-37TBS, 2011 WL
+5358057, at *6 (M.D. Fla. Oct. 31, 2011). Pursuant to the Amended Counterclaim and exhibits
+thereto, on or about April 29, 2013 IH assigned all of its “rights, title and interest” in the License
+Agreement to IPH. (DE:50, ¶48), see also (Exhibit “7”). Notably, the Assignment and
+Assumption of License Agreement executed by and between IH and IPH is quiet as to any
+reservation of rights to IH of any sort. Id. As such, upon IH’s execution of the Assignment and
+Assumption of License Agreement, IH was divested of any legally protected interest in the
+underlying License Agreement. Accordingly, IH lacks any contractual privity, or beneficial
+interest, arising from the License Agreement which is necessary to confer the standing necessary
+to maintain a cause of action based upon such agreement.
+It is well settled that “[a]n assignment is a transfer of all the interests and rights to the thing
+assigned. Sierra Equity Group, Inc. v. White Oak Equity Partners, LLC, 650 F. Supp.2d 1213 (S.D.
+Fla. 2009); see also Price v. RLI Ins. Co., 914 So. 2d 1010, 1013–14 (Fla. 5th DCA 2005)
+(“[b]ecause an assignment vests in the assignee the right to enforce the contract, an assignor retains
+5
+PERLMAN, BAJANDAS, YEVOLI & ALBRIGHT, P.L.
+200 South Andrews Avenue, Suite 600, Fort Lauderdale, Florida 33301 • (954) 566-7117
+283 Catalonia Avenue, Suite 200, Coral Gables, Florida 33134 • (305) 377-0086
+
+Case 1:16-cv-21199-CMA Document 56 Entered on FLSD Docket 09/29/2016 Page 11 of 25
+
+no rights to enforce the contract after it has been assigned”). Under Florida law, “[f]ollowing an
+assignment, the assignee stands in the shoes of the assignor and the assignor retains no rights to
+enforce the contract at all.” Id.; Jackson v. Guardian Life Ins. Co. of Am., 608-CV-753-ORL19GJK, 2008 WL 2439796, at *3 (M.D. Fla. June 13, 2008). Having divested itself of any and all
+rights, title and/or interest in the License Agreement, IH lacks the requisite standing to assert an
+alleged breach of such agreement. Accordingly, IH’s claims relating to Count I must be dismissed.
+b.
+
+Count I Fails to State a Cause of Action for Breach of Contract
+
+“To state a claim for breach of contract a plaintiff must allege: (1) the existence of a
+contract; (2) a material breach of that contract; and (3) damages resulting from the breach.” Burger
+King Corp. v. Huynh, No. 11-22602-CIV, 2011 WL 6190163, at *5 (S.D. Fla. Dec. 5, 2011)
+(internal quotations omitted). Count I of Defendants Second Amended Counterclaim fails to
+state a claim because it fails to sufficiently allege specific provisions of the License Agreement
+that were allegedly breached. See Abbot Labs., Inc. v. Gen. Elec. Capital, 765 So.2d 737, 740
+(Fla. 5th DCA 2000). Although Count I references §3.2(b) of the License Agreement which
+provides, in pertinent part, that “[o]n the date the Escrow Agent pays the $10,000,000.00 to
+Leonardo, the License will commence and Leonardo and Rossi will immediately transfer, and
+the Validation Agent…will deliver to the Company all E-Cat IP,” the Defendants fail to allege
+that Plaintiffs did not comply with this provision. (DE:50, ¶¶93-99). In fact, rather than alleging
+that Plaintiffs have breached §3.2(b) of the License Agreement, because they cannot, Defendants
+merely suggest that one might conclude that Defendants’ failed attempts to replicate Plaintiffs
+work could be explained if Defendants were not provided all of the E-Cat IP. Id.
+Count I is entirely based upon Defendants untenable claim that “[o]nly one of three
+conclusions can be drawn from the foregoing facts: 1) Leonardo and Rossi did not transfer and
+
+6
+PERLMAN, BAJANDAS, YEVOLI & ALBRIGHT, P.L.
+200 South Andrews Avenue, Suite 600, Fort Lauderdale, Florida 33301 • (954) 566-7117
+283 Catalonia Avenue, Suite 200, Coral Gables, Florida 33134 • (305) 377-0086
+
+Case 1:16-cv-21199-CMA Document 56 Entered on FLSD Docket 09/29/2016 Page 12 of 25
+
+deliver all E-Cat IP to Counter-Plaintiffs; 2) Validation was never achieved and Penon’s reported
+COP calculations were false; or 3) both.” (DE:50, ¶97). Amazingly, Defendants further allege that
+“[e]ach of these scenarios leads to only one conclusion: Leonardo and Rossi breached the terms of
+the License Agreement…” (DE:50, ¶98). “The mere possibility [a party] acted unlawfully is
+insufficient to survive a motion to dismiss.” M.C. Dean, Inc., 2016 WL 4179807, at *3.
+Notwithstanding Defendants untenable and conclusory allegation that “only one of three
+conclusions can be drawn,” logic dictates that additional conclusions could just as easily be
+drawn from the same set of alleged facts which do not constitute a breach of the License
+Agreement by the Plaintiffs. As an example, the Court could also infer that Defendants failure to
+replicate the results achieved by the independent expert could be attributable to (a) Defendants’
+failure to follow the instructions and formula contained in the E-Cat IP; (b) Defendants’
+intentional sabotage in an effort to avoid having to pay Plaintiffs Eighty-Nine Million Dollars;
+(c) Defendants’ mere scientific incompetence; (d) Defendants’ use of substandard quality
+components and materials; (e) Defendants’ failure to properly measure the energy input and
+output; and/or a litany of other equally likely possibilities.
+Where, as here, “the well-pleaded facts do not permit the court to infer more than the mere
+possibility of misconduct, the complaint has alleged—but it has not “show[n]”—“that the pleader
+is entitled to relief.” Iqbal at 556 U.S. 679. “Factual allegations that are merely consistent with a
+defendant's liability, however, are not facially plausible.” Casey v. Florida Coastal Sch. of L., Inc.,
+3:14-CV-1229-J-39PDB, 2015 WL 10096084, at *8 (M.D. Fla. Aug. 11, 2015), report and
+recommendation adopted, 3:14-CV-01229, 2015 WL 10818746 (M.D. Fla. Sept. 29, 2015). The
+only factual allegation set forth in support of Count I is that Defendants have been unable to
+successfully replicate the results of the independent expert, the remaining allegations are mere
+
+7
+PERLMAN, BAJANDAS, YEVOLI & ALBRIGHT, P.L.
+200 South Andrews Avenue, Suite 600, Fort Lauderdale, Florida 33301 • (954) 566-7117
+283 Catalonia Avenue, Suite 200, Coral Gables, Florida 33134 • (305) 377-0086
+
+Case 1:16-cv-21199-CMA Document 56 Entered on FLSD Docket 09/29/2016 Page 13 of 25
+
+conjecture and speculation. See (DE:50, ¶93-99). As aptly stated by the Supreme Court in Ashcroft
+v. Iqbal, “Rule 8…does not unlock the doors of discovery for a plaintiff armed with nothing more
+than conclusions.” Iqbal at 556 U.S. 678–79.
+Furthermore, despite Defendants’ allegation they have been unable to “generate
+measureable excess energy”, Defendants freely acknowledge that numerous third parties have
+been successful in generating an energy multiplier (COP) ranging from COP 2.6 to COP 10.85.
+(DE:50, ¶57, 58, 68). Absent an express allegation of the nature of the alleged breach of the
+License Agreement, as opposed to Defendants’ self-serving conjecture, Count I must be
+dismissed for its failure to set forth facts establishing the necessary elements of a cause of action
+for breach of contract.
+2.
+
+Count II: Breach of Contract (Various Provisions)
+Count II of Defendants’ Second Amended Counterclaim asserts that Plaintiffs have
+
+breached the License Agreement by (a) breaching the confidentiality provisions therein; (b)
+failing to assign licensed patents to IPH; (c) failing to consult with IH or IPH regarding all Patent
+Applications; (d) violating the alleged covenant not to compete, and (e) failing to pay taxes.
+See (DE:50, ¶¶100-133). Despite the fact that Count II of the Second Amended Counterclaim is
+replete with misstatements and factual inaccuracies, Plaintiffs only seek dismissal of claims (d)
+and (e) above for the reasons set forth below.
+a. Covenant Not to Compete
+Defendant IPH alleges, in pertinent part, that ROSSI and LEONARDO have breached the
+non-compete provision of the license agreement. Id. Specifically, Defendant IPH alleges that
+“[s]ince at least the filing of their Complaint…Leonardo and Rossi have been open in
+broadcasting that they are engaged in designing and developing what are classified as ‘E-Cat
+Products’ under the License Agreement.” Id. at ¶122. Furthermore, Defendant IPH alleges that
+8
+PERLMAN, BAJANDAS, YEVOLI & ALBRIGHT, P.L.
+200 South Andrews Avenue, Suite 600, Fort Lauderdale, Florida 33301 • (954) 566-7117
+283 Catalonia Avenue, Suite 200, Coral Gables, Florida 33134 • (305) 377-0086
+
+Case 1:16-cv-21199-CMA Document 56 Entered on FLSD Docket 09/29/2016 Page 14 of 25
+
+ROSSI and LEONARDO “are doing so in combination with a company or companies
+unaffiliated with IPH.” Id. Assuming, arguendo, that the non-compete agreement was valid and
+enforceable, and that the aforementioned allegations were true, the allegations contained in the
+Amended Counterclaim fail to state a breach of the plain terms of the License Agreement.
+Specifically, the terms of the non-compete agreement are as follows:
+For as long as Company or any of its subsidiaries is
+engaged in any business related to the E-Cat Products and
+Leonardo, Rossi or any Affiliate of Leonardo own any of the
+Company’s equity ownership interests or Leonardo, Rossi or any
+Affiliate are performing services for the Company or such
+transferee (whether as an employee, consultant or otherwise and
+specifically including the period of services required by Section
+13.1) and for an additional period of two (2) years after the last of
+Leonardo, Rossi or such Affiliate shall have ceased to provide
+such services, none of Leonardo, Rossi or any of their Affiliates
+will (except as an officer, director, stockholder, employee, agent or
+consultant of the Company or such subsidiary of the Company)
+directly or indirectly own, manage, operate, join, or have a
+financial interest in, control or participate in the ownership,
+management, operation or control of, or be employed or engaged
+as an employee, agent or consultant, or in any other individual or
+representative capacity whatsoever, or use or permit their names to
+be used in connection with, or be otherwise connected in any
+manner with any business or enterprise (a) engaged in the design,
+development, manufacture, distribution, lease, rental or sale of any
+E-Cat Products, or the provision of any services related thereto or
+(b) which is competitive with the E-Cat Products, unless Leonardo
+or such Affiliate shall have obtained the prior written consent of
+the Company or such subsidiary of the Company, as the case may
+be. In the event of termination of this Agreement due to a breach
+by the Company, the Company and all its affiliates, employees,
+officers, directors, for two (2) years after the period of
+effectiveness of this agreement, will not be allowed to work for a
+competitor of Leonardo in the licensing or sale of products
+competing with the E-Cat Products. (License Agreement, §13.3)
+Defendant IPH’s sole allegation in support of its claim that ROSSI and/or LEONARDO
+breached §13.3 of the License agreement is that Plaintiffs were “engaged in designing and
+developing what are classified as ‘E-Cat Products.” This claim flies in the face of the clear and
+9
+PERLMAN, BAJANDAS, YEVOLI & ALBRIGHT, P.L.
+200 South Andrews Avenue, Suite 600, Fort Lauderdale, Florida 33301 • (954) 566-7117
+283 Catalonia Avenue, Suite 200, Coral Gables, Florida 33134 • (305) 377-0086
+
+Case 1:16-cv-21199-CMA Document 56 Entered on FLSD Docket 09/29/2016 Page 15 of 25
+
+unambiguous language of the License Agreement which clearly recognizes that (a) it was the
+parties intent that ROSSI and LEONARDO continue to develop new innovative products related
+to the E-Cat, and (b) ROSSI and LEONARDO were engaged in license agreements with other
+companies in Northern Europe, Australasia, Africa, India, France, Benelux, Slovenia, Italia,
+Austria, Germany, Switzerland, Liechtenstein, Malta, Greece, the Balkans and Cyprus. See
+(License Agreement, §13.4 “After Acquired/Developed Assets, Intellectual Property Rights”); see
+also (License Agreement, Exhibit D “List of Exclusive Commercial Licenses”). In fact,
+Defendant IPH admits to encouraging Plaintiffs’ development, modification and testing of the ECat and various E-Cat reactors. (DE:50, ¶62). Plainly stated, there is no prohibition in the noncompete provision against Rossi’s continued research and development of the E-Cat technology.
+As Defendant IPH is well aware, the License Agreement granted the licensee rights
+within a very specific and limited geographic territory. (License Agreement, §2). Amazingly,
+despite Defendant IPH’s geographically limited licensed territory, IPH’s knowledge of the
+existence of numerous other Licensees in other territories and Defendants’ facilitation and
+encouragement of further development of the E-Cat technology, Defendant IPH nonetheless
+maintains that it is entitled to prevent ROSSI and LEONARDO from continuing their work
+globally. Notably, Defendant IPH has not alleged, nor can it, that Plaintiffs have undertaken
+any activity whatsoever in competition with Defendant IPH within the Defendants limited
+geographic territory. Accordingly, Defendant IPH has failed to set forth a prima facie claim for
+breach of the non-compete provision of the License Agreement and Count II as to this claim
+should be dismissed.
+
+10
+PERLMAN, BAJANDAS, YEVOLI & ALBRIGHT, P.L.
+200 South Andrews Avenue, Suite 600, Fort Lauderdale, Florida 33301 • (954) 566-7117
+283 Catalonia Avenue, Suite 200, Coral Gables, Florida 33134 • (305) 377-0086
+
+Case 1:16-cv-21199-CMA Document 56 Entered on FLSD Docket 09/29/2016 Page 16 of 25
+
+b. Failure to Pay Taxes:
+Defendant IPH’s allegations pertaining to Plaintiffs alleged “Failure to Pay Taxes”
+amounts to nothing more than an improper and frivolous attempt by Defendants to cast Plaintiffs
+in a bad light before the Court and otherwise defame Plaintiffs under the protection of the
+litigation privilege. Even assuming, arguendo, the allegations made upon Defendant IPH’s
+“information and belief” were true (they are not), for the purposes of this motion, Defendant IPH
+fails to allege facts sufficient to state a claim for relief that is plausible on its face. See Chandler v.
+Sec. of Florida Dept. of Transp., 695 F.3d 1194, 1198–99 (11th Cir. 2012). “In order to state a
+claim for breach of contract under Florida law, Plaintiff must allege: “(1) a valid contract, (2) a
+material breach, and (3) damages,” as well as Plaintiffs “performance of its obligations under the
+contract or a legal excuse for its nonperformance.” APR Energy, LLC v. Pakistan Power
+Resources, LLC, 653 F. Supp. 2d 1227, 1232 (M.D. Fla. 2009).
+As the basis for this claim, Defendant IPH relies upon its vexatious allegations that (a)
+“on information and belief, Leonardo and Rossi have not paid their federal taxes on payments
+made to them from Counter-Plaintiffs, and have not filed all tax returns or reports relating to
+payments made to them from Counter-Plaintiffs” and (b) that “[p]rior to Leonardo and Rossi
+entering into the License Agreement, it was well known that Rossi had taxation issues with the
+Italian Government, which even led to him facing criminal charges in Italy. As a clear
+acknowledgement that such allegations are improper and do not give rise to a cause of action,
+Defendant IPH states that “Industrial Heat and IPH do not assert this breach as a basis to recover
+damages… but reserve the right to assert this claim in the event a federal tax lien is issued
+affecting Industrial Heat and/or IPH’s assets or rights under the License Agreement.” [DE: 50,
+¶133]. There can be no doubt that such allegations, set forth in Defendant IPH’s Second
+
+11
+PERLMAN, BAJANDAS, YEVOLI & ALBRIGHT, P.L.
+200 South Andrews Avenue, Suite 600, Fort Lauderdale, Florida 33301 • (954) 566-7117
+283 Catalonia Avenue, Suite 200, Coral Gables, Florida 33134 • (305) 377-0086
+
+Case 1:16-cv-21199-CMA Document 56 Entered on FLSD Docket 09/29/2016 Page 17 of 25
+
+Amended Counterclaim, were included for improper purposes and do not give rise to a viable
+cause of action.
+Despite Defendant IPH’s admission that it has not been damaged as of this time, IPH
+attempts to “reserve the right” to claim damages in the event that a tax lien is issued. [DE:50,
+¶133]. Even assuming, arguendo, that a tax lien could attach to the Defendants’ interest in the ECat IP at some point in the future, contrary to well settled law, such claim would be barred at this
+time by the ripeness doctrine as the claim is premature. “The ripeness doctrine protects federal
+courts from engaging in speculation or wasting their resources through the review of potential or
+abstract disputes. Picazio v. Melvin K. Silverman and Associates, P.C., 965 F. Supp. 2d 1411,
+1415 (S.D. Fla. 2013).
+Notwithstanding the fact that Defendant IPH’s allegations are unripe at best, the
+allegations contained in the Second Amended Counterclaim could never give rise to a cause of
+action against Plaintiffs. The United States Supreme Court has made clear that a federal tax lien
+does not “extend beyond the property interests held by the delinquent taxpayer.” United States v.
+Rodgers, 461 U.S. 677, 690–91 (1982). The lien attaches to property that the taxpayer owns at
+the time the tax liability is assessed and to property acquired thereafter. United States v. Barnes,
+509 F. App'x 837, 840 (11th Cir. 2012). A tax lien is assessed “at the time liability is determined.”
+In re Garcia, No. 01-945-CIV, 2002 WL 31409580, at *4 (S.D. Fla. Sept. 6, 2002). Accordingly,
+“a tax lien cannot attach to any property interest that was transferred before the assessment.”
+Coutant v. U.S., Dep't of Treasury, I.R.S., No. 00-14163CV, 2002 WL 34382737, at *4 (S.D. Fla.
+Feb. 27, 2002). Accordingly, Defendant can never satisfy the damage element necessary to state
+a claim for breach of contract based upon such allegations. The allegations and/or claims related
+to the Plaintiffs alleged “Failure to Pay Taxes” were clearly made for improper purposes and the
+
+12
+PERLMAN, BAJANDAS, YEVOLI & ALBRIGHT, P.L.
+200 South Andrews Avenue, Suite 600, Fort Lauderdale, Florida 33301 • (954) 566-7117
+283 Catalonia Avenue, Suite 200, Coral Gables, Florida 33134 • (305) 377-0086
+
+Case 1:16-cv-21199-CMA Document 56 Entered on FLSD Docket 09/29/2016 Page 18 of 25
+
+allegations must be dismissed as immaterial, impertinent and improper.
+3. Count III: Fraudulent Inducement
+Count III of Defendants’ Second Amended Counterclaim alleges that Plaintiffs and
+others fraudulently induced Defendant Industrial Heat into entering into the “Term
+Sheet.”(DE:50, ¶134-139). “To state a cause of action for fraudulent inducement, a plaintiff must
+plead: (1) the defendant made a false statement about a material fact; (2) the defendant knew the
+statement was false when he made it or was without knowledge of its truth or falsity; (3) the
+defendant intended that the plaintiff rely and act on the false statement; and (4) the plaintiff
+justifiably relied on the false statement to his detriment.” Persaud v. Bank of Am., N.A., 1421819-CIV, 2014 WL 4260853, at *12 (S.D. Fla. Aug. 28, 2014) (internal citations omitted).
+“Under Federal Rule of Civil Procedure 9(b), a plaintiff must also plead the circumstances
+constituting fraud with particularity.” Id. “To comply with Rule 9(b), the Eleventh Circuit requires
+a complaint to set forth (1) precisely what statements were made in what documents or oral
+representations or what omissions were made, (2) the time and place of each such statement and
+the person responsible for making (or, in the case of omissions, not making) same, (3) the content
+of such statements and the manner in which they misled the plaintiff, and (4) what the defendants
+obtained as a consequence of the fraud.” W. Coast Life Ins. Co. v. Life Brokerage Partners LLC,
+08-80897-CIV, 2009 WL 2957749, at *7 (S.D. Fla. Sept. 9, 2009) (citing Ziemba v. Cascade Int’l.
+Inc., 156 F.3d 1994, 1202 (11th Cir. 2001)).
+In the instant case, Defendant IH alleges numerous statements which Defendant IH
+attributes c o l l e c t i v e l y to “Rossi, both in his individual capacity and as the representative of
+Leonardo, and Johnson, both in his individual capacity and as the representative of JMP.”
+(DE:50, ¶74, 75, 135, 137). With the exception of one email alleged to have been made by
+
+13
+PERLMAN, BAJANDAS, YEVOLI & ALBRIGHT, P.L.
+200 South Andrews Avenue, Suite 600, Fort Lauderdale, Florida 33301 • (954) 566-7117
+283 Catalonia Avenue, Suite 200, Coral Gables, Florida 33134 • (305) 377-0086
+
+Case 1:16-cv-21199-CMA Document 56 Entered on FLSD Docket 09/29/2016 Page 19 of 25
+
+Rossi, Defendant IH fails to specifically allege (a) the specific alleged fraudulent statements that
+were purportedly made, (b) to whom such statements were made, (c) which individual and/or
+entity made such statement(s), and (d) what each such individual and/or entity obtained as a
+consequence of the fraud. See Id. “Where multiple parties are charged with fraud, the complaint
+must distinguish among defendants and specify their respective roles in the fraud.” Leisure
+Founders, Inc. v. CUC Intern., Inc., 833 F. Supp. 1562, 1575 (S.D. Fla. 1993). “It is a serious
+matter to charge a person with fraud and hence no one is permitted to do so unless he is in a
+position and is willing to put himself on record as to what the alleged fraud consists of
+specifically. Id. Plaintiffs submit that Defendant IH has failed to meet the heightened pleading
+requirements necessary to properly plead a claim for fraud, and that Count III should therefore be
+dismissed.
+4. Count IV: Florida Deceptive and Unfair Trade Practices Act
+As its fourth claim against Plaintiffs, Defendants allege that Plaintiffs violated the Florida
+Deceptive and Unfair Trade Practices Act (hereafter “FDUTPA”) arising from, in large part, the
+same alleged facts and circumstances set forth in Count III of the Second Amended Counterclaim
+for fraud. (DE:50, ¶140-148) “To establish a claim for damages under FDUTPA a plaintiff must
+show three elements: 1) a deceptive act or unfair practice; 2) causation; and 3) actual damages.”
+Casey v. Florida Coastal Sch. of L., Inc., 3:14-CV-01229, 2015 WL 10818746, at *2 (M.D. Fla.
+Sept. 29, 2015). Where, as here, the FDUTPA claims sound in fraud, the heightened pleading
+requirements of Rule 9(b) apply. Llado-Carreno v. Guidant Corp., 09-20971-CIV, 2011 WL
+705403, at *5 (S.D. Fla. Feb. 22, 2011) (finding that the “particularity requirement of Rule 9(b)
+applies to all claims that sound in fraud, regardless of whether those claims are grounded in state
+or federal law”); see also Stires v. Carnival Corp., 243 F.Supp.2d 1313, 1322 (M.D.Fla.2002)
+
+14
+PERLMAN, BAJANDAS, YEVOLI & ALBRIGHT, P.L.
+200 South Andrews Avenue, Suite 600, Fort Lauderdale, Florida 33301 • (954) 566-7117
+283 Catalonia Avenue, Suite 200, Coral Gables, Florida 33134 • (305) 377-0086
+
+Case 1:16-cv-21199-CMA Document 56 Entered on FLSD Docket 09/29/2016 Page 20 of 25
+
+(“Most courts construing claims alleging violations of the Federal Deceptive Trade Practices Act
+or its state counterparts have required the heightened pleading standard requirements of Rule
+9(b).”); Vess v. Ciba–Geigy Corp. USA, 317 F.3d 1097, 1108 (9th Cir.2003) (“Where, as here,
+the averments in the complaint necessarily describe fraudulent conduct, Rule 9(b) applies to
+those averments.”).
+a. Industrial Heat, LLC Lacks Standing on Claims Relating to License Agreement.
+As with Defendants’ allegations in Count I and Count II of the Second Amended
+Counterclaim, Defendants again make no distinction between Industrial Heat, LLC. and IPH
+International, B.V. in Count IV by simply referring to the two parties jointly as “CounterPlaintiffs”. (DE:50, ¶140). In doing so, the Amended Counterclaim purports to assert identical
+claims on behalf of both entities despite the heightened pleading requirements of Rule 9(b)
+discussed more fully below. Moreover, as part of its claim, Defendant IH alleges that Plaintiffs
+undertook a fraudulent scheme manipulate the results of the Guaranteed Performance test in
+order to induce Defendants to pay Plaintiffs Eighty-Nine Million Dollars ($89,000,000.00) in
+accordance with the License Agreement. (DE:50, ¶143-146). To the extent such claims are based
+upon the License Agreement, including but not limited to allegations pertaining to the testing
+and operation of the E-Cat in accordance with the License Agreement, Defendant IH lacks
+standing to assert such claims as discussed in relation to Count I above. Similarly, Defendant
+IPH lacks standing to raise any claims in relation to the Term Sheet as Defendant IPH was not
+alleged to be a party to the Term Sheet nor a third party beneficiary thereof.
+
+15
+PERLMAN, BAJANDAS, YEVOLI & ALBRIGHT, P.L.
+200 South Andrews Avenue, Suite 600, Fort Lauderdale, Florida 33301 • (954) 566-7117
+283 Catalonia Avenue, Suite 200, Coral Gables, Florida 33134 • (305) 377-0086
+
+Case 1:16-cv-21199-CMA Document 56 Entered on FLSD Docket 09/29/2016 Page 21 of 25
+
+b. Count IV Impermissibly Recasts Breach of Contract Claims in Tort.
+The entirety of Defendants’ claims alleged in Count IV relate to the parties contractual
+dealings. In Florida, parties to a contract may not recast their breach of contract claims as tort
+claims. Kaye v. Ingenio, Filiale De Loto-Quebec, Inc., 2014 WL 2215770, at *4 (S.D. Fla. May
+29, 2014). The allegations contained in Count IV of the Amend Counterclaim arise from the
+parties dealings pursuant to the License Agreement, Term Sheet and USQL Agreement.
+(DE:50, ¶146). In fact, Defendants specifically alleged that Plaintiffs “engaged in
+unconscionable, unfair and deceptive acts and practices” by “refusing to provide other
+information property requested by Counter-Plaintiffs, and to which Counter-Plaintiffs were
+entitled pursuant to the License Agreement, the Term Sheet, the USQL Agreement…” (DE:50,
+¶146(e)). Notwithstanding, Defendants attempt to recast such contract claims as tort claims.
+Count IV under the Florida Deceptive and Unfair Trade Practices Act impermissibly sounds in
+tort. See, e.g., Am. Boxing & Athletic Ass'n v. Young, 911 So.2d 862, 865 (Fla. 2d DCA 2005)
+(“a tort claim under FDUTPA”); Crowley Liner Servs., Inc. v. Transtainer Corp., No. 06–
+21995, 2007 WL 433352, at *5 (S.D.Fla. Feb. 6, 2007) (“The defendant's FDUTPA
+counterclaim sounds in tort.”). Accordingly, Defendants’ claims must be dismissed as
+Defendants are clearly attempting to improperly recast their contract claims as claims in tort
+under FDUTPA.
+c. Defendants Fail to Satisfy the Rule 9(b) Heightened Pleading Requirements.
+Defendants’ Second Amended Counterclaim fails, as a matter of law, to plead, with the
+requisite specificity, each element of the Defendants’ FDUTPA claims in that Defendants fail
+to state (a) the specific facts including time, date, place and person responsible for the alleged
+actions and/or inactions which Defendants’ claim were misleading, (b) how such alleged actions
+
+16
+PERLMAN, BAJANDAS, YEVOLI & ALBRIGHT, P.L.
+200 South Andrews Avenue, Suite 600, Fort Lauderdale, Florida 33301 • (954) 566-7117
+283 Catalonia Avenue, Suite 200, Coral Gables, Florida 33134 • (305) 377-0086
+
+Case 1:16-cv-21199-CMA Document 56 Entered on FLSD Docket 09/29/2016 Page 22 of 25
+
+and/or statements were misleading, and (d) and any allegations as to causation connecting the
+alleged misleading actions to any alleged damages. Ferrara v. LCS Fin. Services Corp., 8:14CV-2450- T-30AEP, 2015 WL 84703, at *3 (M.D. Fla. Jan. 7, 2015); see also E & C Copiers
+Export Import Corp. V. Arizs Fotocopiandras S.A.S., 2015 WL 7720604, at *3 (S.D. Fla. Nov.
+30, 2015). In pleading a claim under FDUTPA, it is necessary to plead not only the alleged
+wrongdoing, but also facts to establish the causation between the alleged wrongdoing and the
+alleged damages. Id. Defendants have failed to plead any such facts with the requisite specificity
+required pursuant to Rule 9(b). Similarly, since Defendants were required to plead damages as an
+element of its FDUTPA claim, Defendants unsupported allegation that Defendants “have
+suffered and continue to suffer actual damages…” lacks the requisite specificity and is
+insufficient as a matter of law. For the foregoing reasons, Count IV of Defendants’ Amended
+Counterclaim should be dismissed.
+
+PAGE INTENTIONALLY LEFT BLANK
+
+17
+PERLMAN, BAJANDAS, YEVOLI & ALBRIGHT, P.L.
+200 South Andrews Avenue, Suite 600, Fort Lauderdale, Florida 33301 • (954) 566-7117
+283 Catalonia Avenue, Suite 200, Coral Gables, Florida 33134 • (305) 377-0086
+
+Case 1:16-cv-21199-CMA Document 56 Entered on FLSD Docket 09/29/2016 Page 23 of 25
+
+III
+
+CONCLUSION
+
+For the foregoing reasons, this Court should dismiss Counts I, II, III and IV of
+Defendants Second Amended Counterclaim.
+Respectfully submitted,
+/s/ John W. Annesser
+John W. Annesser, Esq. (98233)
+jannesser@pbyalaw.com
+Brian Chaiken, Esq. (118060)
+bchaiken@pbyalaw.com
+Paul D. Turner, Esq. (0113743)
+pturner@pbyalaw.com
+D. Porpoise Evans, Esq. (576883)
+pevans@pbyalaw.com
+PERLMAN, BAJANDAS,YEVOLI & ALBRIGHT, P.L.
+283 Catalonia Avenue, Suite 200
+Coral Gables, FL 33134
+Telephone: (305) 377-0086
+Facsimile: (305) 377-0781
+Counsel for Plaintiffs
+
+18
+PERLMAN, BAJANDAS, YEVOLI & ALBRIGHT, P.L.
+200 South Andrews Avenue, Suite 600, Fort Lauderdale, Florida 33301 • (954) 566-7117
+283 Catalonia Avenue, Suite 200, Coral Gables, Florida 33134 • (305) 377-0086
+
+Case 1:16-cv-21199-CMA Document 56 Entered on FLSD Docket 09/29/2016 Page 24 of 25
+
+CERTIFICATE OF SERVICE
+I HEREBY CERTIFY that on September 29, 2016, I electronically filed the foregoing
+motion with the Clerk of the Court using CM/ECF. Copies of the foregoing document will
+be served upon interested counsel either via transmission of Notices of Electronic Filing
+generated by CM/ECF or in some other authorized manner for those counsel or parties who are
+not authorized to receive electronically Notices of Electronic Filing.
+
+/s/ John W. Annesser
+John W. Annesser, Esq. (98233)
+
+19
+PERLMAN, BAJANDAS, YEVOLI & ALBRIGHT, P.L.
+200 South Andrews Avenue, Suite 600, Fort Lauderdale, Florida 33301 • (954) 566-7117
+283 Catalonia Avenue, Suite 200, Coral Gables, Florida 33134 • (305) 377-0086
+
+Case 1:16-cv-21199-CMA Document 56 Entered on FLSD Docket 09/29/2016 Page 25 of 25
+
+SERVICE LIST
+Christopher R.J. Pace (FBN 0721166)
+Christopher Lomax (FBN 56220)
+JONES DAY
+Brickell World Plaza
+600 Brickell Avenue, Suite 3300
+Miami, FL 33131
+Tel.: 305.714.9700
+Fax: 305.714.9799
+crjpace@jonesday.com
+clomax@jonesday.com
+Attorneys for Defendants
+Fernando S. Aran (FBN 349712)
+ARAN, CORREA & GUARCH, P.A.
+255 University Drive
+Coral Gables, FL 33134-6732
+Tel.: 305-665-3400
+Fax: 305-665-2250
+faran@acg-law.com
+
+20
+PERLMAN, BAJANDAS, YEVOLI & ALBRIGHT, P.L.
+200 South Andrews Avenue, Suite 600, Fort Lauderdale, Florida 33301 • (954) 566-7117
+283 Catalonia Avenue, Suite 200, Coral Gables, Florida 33134 • (305) 377-0086
+
+

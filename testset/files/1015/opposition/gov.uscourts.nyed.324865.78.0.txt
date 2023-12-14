@@ -1,0 +1,891 @@
+Case 1:11-cv-05910-PKC-RER Document 78 Filed 04/18/16 Page 1 of 31 PageID #: 1125
+
+UNITED STATES DISTRICT COURT
+EASTERN DISTRICT OF NEW YORK
+---------------------------------------------------------------------------------X
+SHANE RHOOMS,
+
+Plaintiff,
+-against-
+
+11 CV 5910
+(PKC) (RER)
+
+CITY OF NEW YORK, ROBERT ORTLIEB, Individually,
+ROBERT HENDERSON, Individually, JOSEPH SEMINARA,
+Individually, DEVON FREED, Individually, and JOHN DOE 1,
+Individually, (the name John Doe being fictitious, as the true
+name is presently unknown),
+Defendants.
+---------------------------------------------------------------------------------X
+
+MEMORANDUM OF LAW IN OPPOSITION TO DEFENDANTS’
+MOTION FOR SUMMARY JUDGMENT
+
+BRETT H. KLEIN, ESQ., PLLC
+Attorneys for the Plaintiff
+305 Broadway, Suite 600
+New York, New York 10007
+(212) 335-0132
+
+Case 1:11-cv-05910-PKC-RER Document 78 Filed 04/18/16 Page 2 of 31 PageID #: 1126
+
+TABLE OF CONTENTS
+TABLE OF AUTHORITIES.................................................................................................................ii
+PRELIMINARY STATEMENT............................................................................................................1
+STATEMENT OF FACTS.....................................................................................................................1
+STANDARD OF REVIEW………………………………………………………………………....7
+ARGUMENT……………………………………………………………………………………….7
+I.
+
+False Arrest Should Proceed to Trial………………………………..………………...7
+A. Plaintiff was arrested without probable cause…………………………………….7
+B. All of the defendant officers were personally involved in plaintiff’s false arrest.
+……………………………………………………………………………………13
+
+II.
+
+Malicious Prosecution Should Proceed to Trial ………………………………….….13
+A. The defendant officers initiated a criminal prosecution against plaintiff ……….14
+B. Probable cause was lacking ……………………………………………………...16
+C. Defendants Freed, Seminara, Ortlieb, and Henderson acted with malice …….…18
+
+III.
+
+Right to Fair Trial Should Proceed to Trial………..………………………………...19
+
+IV.
+
+Failure to Intervene is Withdrawn ……………..……………………………………21
+
+V.
+
+Qualified Immunity Should be Denied …….…………………………......................21
+
+VI.
+
+Claims against John Doe I……………..……………………………...……………...22
+
+VII.
+
+Plaintiff’s State Law Claims…………………………………………………………22
+A. Defendant City of New York is liable via the theory of respondeat superior…...23
+B. The individual defendants are not entitled to governmental immunity.……...…..23
+C. Plaintiff has established a question of fact as to his battery claim……………….25
+D. Supplemental jurisdiction should be exercised over plaintiff’s state law claims…25
+
+CONCLUSION.....................................................................................................................................26
+
+Case 1:11-cv-05910-PKC-RER Document 78 Filed 04/18/16 Page 3 of 31 PageID #: 1127
+
+TABLE OF AUTHORITIES
+Cases
+Anderson v. City of New York, 817 F.Supp.2d 77 (E.D.N.Y. 2011) ............................................. 18
+Anderson v. Liberty Lobby, Inc., 477 U.S. 242 (1986) ................................................................... 7
+Arteaga v. State, 532 N.Y.S.2d 57 (1988) .................................................................................... 24
+Blake v. Race, 487 F. Supp. 2d 187, 207 (E.D.N.Y. 2007) ............................................................ 8
+Boyd v. City of New York, 336 F.3d 72 (2d Cir. 2003) ................................................................. 18
+Bradley v. City of New York, 04 CV 8411 (RWS) (MHD), 2007 WL 232945 (S.D.N.Y. Jan. 26,
+2007) ......................................................................................................................................... 24
+Brady v. Maryland, 373 U.S. 83 (1963) ....................................................................................... 20
+Brewton v. City of New York, 550 F. Supp. 2d 355 (E.D.N.Y. 2008)............................................. 8
+Brown v. City of New York, 08 CV 5095 (FB) (MDG), 2013 WL 1338785 (E.D.N.Y. April 1,
+2013) ................................................................................................................................... 19, 20
+Budgar v. State of New York, 414 N.Y.S.2d 463 (1979) .............................................................. 25
+Cameron v. City of New York, 598 F.3d 50 (2d Cir. 2010) .......................................................... 14
+Castro v. Cty. of Nassau, 739 F. Supp. 2d 153 (E.D.N.Y. 2010) ................................................. 25
+Clark v. City of New York, 09 CV 2533 (PKC), 2015 WL 5719612 (E.D.N.Y. Sept. 29, 2015) .. 9,
+12
+Curry v. City of Syracuse, 316 F.3d 324 (2d Cir. 2003); ........................................................ 21, 22
+Davis v. City of New York, 373 F.Supp.2d 322 (S.D.N.Y.2005) .................................................. 24
+Dowling v. City of New York, 11 CV 4954 (NGG)(RML), 2013 WL 5502867 (E.D.N.Y. Sept. 30,
+2013) ......................................................................................................................................... 19
+Espada v. Schneider, 522 F.Supp.2d 544 (S.D.N.Y. 2007) .......................................................... 14
+
+ii
+
+Case 1:11-cv-05910-PKC-RER Document 78 Filed 04/18/16 Page 4 of 31 PageID #: 1128
+
+Garnett v. City of New York, 13 CV 7083 (GHW), 2014 WL 3950904 (S.D.N.Y. Aug. 13, 2014)
+................................................................................................................................................... 19
+Golino v. City of New Haven, 950 F.2d 864 (2d Cir. 1991) ......................................................... 21
+Green v. City of New York, 465 F.3d 65 (2d. Cir. 2006) .............................................................. 22
+Jackson v. City of New York, 939 F. Supp. 2d 235 (E.D.N.Y. 2013) ........................................... 23
+Jenkins v. City of New York, 478 F.3d 76 (2d Cir. 2007) ....................................................... 21, 22
+Johnson v. Suffolk County Police Dep’t, 665 N.Y.S.2d 440 (2d Dep’t 1997) .............................. 25
+Llerando–Phipps v. City of New York, 390 F.Supp.2d 372 (S.D.N.Y. 2005)............................... 14
+Maldonado v. City of New York, 11 CV 3514, 2014 WL 787814 (S.D.N.Y. Feb. 26, 2014). 19, 20
+Manganiello v. City of New York, 612 F.3d 149 (2d Cir. 2010) ............................................. 16, 17
+Maryland v. Macon, 472 U.S. 463 (1985) ...................................................................................... 8
+McCaffrey v. City of New York, 11 CV 1636 (RJS), 2013 WL 494025 (S.D.N.Y. Feb. 7, 2013)
+............................................................................................................................................ .20, 21
+Micalizzi v. Ciamarra, 206 F. Supp. 2d 564 (S.D.N.Y. 2002) ..................................................... 25
+Mickle v. Morin, 297 F.3d 114 (2d Cir. 2002) .............................................................................. 22
+Moore v. Comesanas, 32 F.3d 670 (2d Cir. 1994) .......................................................................... 8
+Parisi v. Suffolk Cnty., 04 CV 2187, 2009 WL 4405488 (E.D.N.Y. Nov. 30, 2009) ..................... 9
+Provost v. City of Newburgh, 262 F.3d 146 (2d Cir. 2001) .......................................................... 13
+Rehberg v. Paulk, 132 S. Ct. 1497 (2012) .................................................................................... 19
+Rentas v. Ruffin, 14 CV 2475, 2016 WL 877828 (2d Cir. Mar. 8, 2016) ......................... 14, 15, 18
+Ricciuti v. New York City Transit Auth., 124 F.3d 123 (2d Cir. 1997) ............................. 14, 18, 19
+Richards v. City of New York, 97 CV 7990 (MBM), 2003 WL 21036365 (S.D.N.Y. May 7, 2003)
+............................................................................................................................................. 16, 18
+
+iii
+
+Case 1:11-cv-05910-PKC-RER Document 78 Filed 04/18/16 Page 5 of 31 PageID #: 1129
+
+Rodriguez v. City of New York, 189 A.D.2d 166 (1st Dept. 1993) ............................................... 24
+Rodriguez v. City of New York, 72 F.3d 1051 (2d Cir. 1995) ......................................................... 7
+Rosen v. City of New York, 667 F. Supp. 2d 355 (S.D.N.Y. 2009)............................................... 24
+Sanders v. City of New York, 12 CV 113 (PKC) (LB), 2015 WL 1469514 (E.D.N.Y. Jan. 7,
+2015) .................................................................................................................................. passim
+Savino v. City of New York, 331 F.3d 63 (2d Cir. 2003) .............................................................. 16
+Struthers v. City of New York, 12 CV 0242 (JG), 2013 WL 2390721 (E.D.N.Y. May 31, 2013) 19
+Tennessee v. Garner, 471 U.S. 1, 11 (1985) ................................................................................. 10
+Thomas v. Roach, 165 F.3d 137 (2d Cir. 1999) ............................................................................ 22
+Watkins v. Doe, 04 CV 0138 (PKC), 2006 WL 648022 (S.D.N.Y. Mar. 14, 2006) ..................... 22
+Weiss v. Fote, 7 N.Y.2d 579 (1960).............................................................................................. 24
+Weyant v. Okst, 101 F.3d 845 (2d Cir. 1996) ........................................................................... 8, 23
+Wong v. Yoo, 649 F. Supp. 2d 34 (E.D.N.Y. 2009) .......................................................... 13, 14, 15
+Zellner v. Summerlin, 494 F.3d 344 (2d Cir. 2007) ...................................................................... 21
+
+iv
+
+Case 1:11-cv-05910-PKC-RER Document 78 Filed 04/18/16 Page 6 of 31 PageID #: 1130
+
+PRELIMINARY STATEMENT
+On September 6, 2010, plaintiff Shane Rhooms, who was then twenty-two years old, was
+falsely accused of, arrested, and prosecuted for purportedly shooting at and attempting to murder
+three defendant NYPD officers, Sergeant Joseph Seminara, Lieutenant Robert Henderson, and
+Lieutenant Robert Ortlieb. Plaintiff was and is undisputedly factually innocent of these charges
+and was exonerated via readily available exculpatory evidence, including surveillance footage,
+which confirmed that plaintiff was present at Webster Hall, a Manhattan night club, at the time of
+the purported police shooting that occurred in Brooklyn. Plaintiff brings federal and state law
+claims for false arrest, malicious prosecution, denial of his right to fair trial, failure to intervene,
+and battery, against defendants Seminara, Henderson, Ortlieb and Detective Devon Freed, arising
+from the aforesaid events. Plaintiff has set forth evidence based on which a reasonable jury could
+find that defendants colluded in their efforts to falsely arrest and prosecute him for a crime they
+knew he did not commit, and for which there was ample exculpatory evidence proving his
+innocence at the time of his arrest. Despite the Court’s admonition at a pre-motion conference that
+this motion would likely be futile, defendants have moved for summary judgment on all claims.
+Defendants’ motion for summary judgment should be denied.
+STATEMENT OF FACTS1
+On September 5, 2010, a few hours before midnight, plaintiff travelled by public
+transportation from Brooklyn to his cousin Alhue Gayle’s home in Queens. PCS ¶ 1. From there,
+he traveled by car with his cousin and friends to Webster Hall, a nightclub, arriving there sometime
+
+1
+
+For a complete statement of the facts which remain to be tried and which support plaintiff’s claims that there are
+numerous genuine issues of material fact which preclude summary judgment in this matter, the Court is respectfully
+referred to plaintiff’s Response to Defendants’ Local Rule 56.1 Statement and to Plaintiff’s Counter Statement of
+Disputed Material Facts for Trial (hereinafter referred to as “PCS”). A summary of said genuine issues of fact is set
+forth here.
+
+Case 1:11-cv-05910-PKC-RER Document 78 Filed 04/18/16 Page 7 of 31 PageID #: 1131
+
+around 12:00 a.m. on September 6, 2010. PCS ¶ 1. Plaintiff remained at Webster Hall until
+approximately 5:00 a.m., on September 6. PCS ¶ 2. While plaintiff was at Webster Hall, at
+approximately 12:40 a.m., defendants Seminara, Henderson and Ortlieb claim they pursued a
+fleeing black, male, in dark clothes, with whom they purportedly exchanged gunfire. PCS ¶¶ 335. They further claim the male escaped into 222 Lenox Road, in Brooklyn. PCS ¶ 30.
+Although defendants Seminara, Henderson and Ortlieb claimed that they were able to see
+the purported shooter’s face and later purportedly identified plaintiff as the shooter, their claims
+are disputed insofar as the record reflects that defendants Seminara, Henderson and Ortlieb had at
+most a few seconds to observe the individual’s face before he ran, and that the area where the
+group was standing was dark and not well lit. PCS ¶¶ 7, 9, 15, 16, 21-25. Further, immediately
+after the purported shooting, the best description the defendant officers could provide in
+furtherance of the manhunt for the shooter was a male, black, wearing dark clothing. PCS ¶¶ 4042. Finally, it is without dispute that plaintiff was not the shooter insofar as, among other evidence,
+plaintiff has been exonerated via surveillance footage, which confirms that plaintiff was present at
+Webster Hall at the time of the purported shooting. See PCS ¶¶ 1-3, 106-110.
+As for the purported shooting, not only do the facts viewed in a light most favorable to
+plaintiff set forth claims from which a jury could credit plaintiff’s innocence, the officers’
+testimony that they were fired upon six times, in an enclosed alleyway with bullets hitting the walls
+around them, is in any event not supported by the record. See PCS ¶¶ 27-28, 31, 35-37. In that
+regard, although an examination of Seminara, Henderson and Ortlieb’s weapons revealed that they
+had collectively fired nineteen shots, allegedly in response to being fired upon at least six times in
+the enclosed alleyway, a thorough search of the scene immediately after the shooting on September
+6, 2010 revealed only eighteen shell casings and eighteen bullet fragments. PCS ¶ 37. While a
+
+2
+
+Case 1:11-cv-05910-PKC-RER Document 78 Filed 04/18/16 Page 8 of 31 PageID #: 1132
+
+nineteenth shell casing was purportedly discovered pursuant to a second search conducted on
+September 6, 2010, at approximately 2:45 p.m., the evidence suggests this shell casing was planted
+after the fact, insofar as the shell casing is not present in photographs taken during the first search
+for evidence, which appear to depict the same area where the nineteenth shell casing was
+purportedly recovered during the second search. PCS ¶ 38-39. Plaintiff submits that these facts
+support an inference that defendants Seminara, Henderson, and Ortlieb improperly discharged
+their weapons at a fleeing suspect and that their claims that they were fired upon first were
+fabricated to justify their weapons discharge. Furthermore, within an hour of the purported
+shooting, defendant First Grade Detective Devon Freed was assigned the task of investigating the
+incident. PCS ¶ 44. Based on the facts that follow, there is ample evidence in the record that Freed
+was aware that Seminara, Henderson, and Ortlieb’s weapons discharge was improper and that he
+colluded with them to help cover-up their misconduct through, among other acts, the coercion of
+a witness by Freed, leading to the false arrest of the plaintiff.
+As an initial matter, defendants Seminara, Henderson, and Ortlieb were also actively part
+of the investigation to find the purported shooter. PCS ¶ 43. Second, as the lead investigator,
+Freed immediately went to 222 Lenox Road to assess the shooting scene. PCS ¶ 45. Freed also
+had access to the crime scene unit documents which call into question defendants Seminara,
+Henderson and Ortlieb’s claims with respect to the circumstances of the shooting. PCS ¶ 45.
+Freed’s involvement in aiding in the cover-up of the shooting is further evidenced by his coercion
+of an individual named Trevor Perez, who is the only civilian witness who allegedly linked plaintiff
+to the purported shooting, and without whose coerced identification by Freed, Freed would have
+had no basis to prepare and conduct the photo array and lineup identification procedures involving
+
+3
+
+Case 1:11-cv-05910-PKC-RER Document 78 Filed 04/18/16 Page 9 of 31 PageID #: 1133
+
+Seminara, Henderson and Ortlieb, which ultimately led to the false arrest of and criminal
+proceedings against plaintiff. PCS ¶¶ 46-57, 61, 82.
+Perez testified under oath that after he was brought to the 67th Precinct in handcuffs, he
+was imprisoned in a room and interrogated in a loud, threatening, and aggressive manner, and
+forced into falsely implicating plaintiff in the shooting. PCS ¶¶ 48-55. Perez further testified that
+during the interrogation, he was shown a photo of Shane Rhooms, and was told that this is the
+person he was going to give up. PCS ¶ 50. In response to being shown the photo, Perez
+affirmatively told the interrogating detectives, one of whom was Freed by Freed’s own admission,
+that he knew who plaintiff was, that he had not seen plaintiff anywhere near the shooting, and that
+plaintiff was not the guy they were looking for. PCS ¶ 51. Perez was nonetheless told that he
+would only be allowed to leave if he wrote the following words: “this is the guy that I saw running
+from the cops with the gun dress in all black,” which were dictated to him and then signed the
+photograph of Shane Rhooms. PCS ¶ 53; Klein Decl. Ex. 22. In order to gain his release, after
+being held for hours, Perez complied with the detectives’ orders. PCS ¶¶ 52-54. Perez did not,
+however, actually observe any civilian shooter. PCS ¶ 56. In fact, Perez testified that he was about
+to enter a corner store nearby when he first heard shots fired and never saw any civilian firing at
+the police. PCS ¶ 56. It is further undisputed that Freed was present and personally involved in
+Perez’s detention and interrogation at the 67th Precinct. PCS ¶ 47.
+Notably, within ten minutes of Perez’s coerced identification, Freed had Detective Gregory
+Barrett prepare the photo array, which was shortly thereafter shown to Seminara only. PCS ¶¶ 60,
+62. Seminara purportedly picked plaintiff’s photo out of the array. PCS ¶ 65. However, based on
+the chain of events described above, a jury could find that Seminara did not have a sufficient
+opportunity to see the face of the individual who purportedly shot at him, could not provide a
+
+4
+
+Case 1:11-cv-05910-PKC-RER Document 78 Filed 04/18/16 Page 10 of 31 PageID #: 1134
+
+description of the purported shooter immediately after the incident, and could therefore reasonably
+infer that the photo array was fraudulently conducted and that Freed colluded with Seminara to
+ensure he picked plaintiff out of said array. PCS ¶ 65. The fraudulent photo array further led to
+Freed creating and disseminating a wanted poster with a photograph of plaintiff displayed on it,
+which was then improperly made available to defendants Seminara, Henderson and Ortlieb prior
+to their lineup identifications conducted on September 7, 2010, and which consequently tainted
+the lineups . PCS ¶¶ 66-70. The lineups were further tainted by the fact that plaintiff was the only
+individual in the lineup who, like the purported shooter, was wearing dark pants. PCS ¶ 83. It can
+thus be inferred that Seminara, Henderson and Ortlieb picked plaintiff out of the lineups based on
+seeing his photo, which arose from the coerced false identification by Perez, a fact which is
+supported by evidence that none of the defendants had a sufficient opportunity to actually see the
+purported shooter’s face during the actual incident. PCS ¶¶ 83-90.
+The defendants’ collusion in framing plaintiff is further evidenced by defendant Freed’s
+willful disregard of the ample exculpatory evidence available to him, including plaintiff’s specific
+and detailed alibi statement; corroborating cell phone evidence in the possession of the NYPD
+prior to plaintiff’s arrest that showed a series of calls were made from plaintiff’s cell phone,
+originating in Manhattan near Webster Hall, beginning at 12:25 a.m. on September 6, 2010, during
+the window of time when the shooting purportedly occurred; Alhue Gayle’s statements which
+corroborated plaintiff’s alibi; Perez’s exculpatory statements to defendant Freed that plaintiff was
+not involved in the shooting; and by his failure to investigate additional exculpatory evidence
+available to him, including plaintiff’s MetroCard and the exonerating surveillance video from
+Webster Hall. PCS ¶¶ 51, 73, 76-81.
+
+5
+
+Case 1:11-cv-05910-PKC-RER Document 78 Filed 04/18/16 Page 11 of 31 PageID #: 1135
+
+Finally, the evidence also supports the inference that Freed attempted to conceal Perez’s
+coerced identification by failing to memorialize his interview of Perez or Perez’s identification of
+plaintiff in a DD5 or complaint follow-up form, which was against proper procedure, and by his
+withholding of Perez’s signed statement, name and contact information from Assistant District
+Attorney Lew Lieberman (hereinafter “ADA Lieberman”), by falsely informing ADA Lieberman
+that Perez was a “confidential informant,” which he was not, and by withholding access to Trevor
+Perez even after ADA Lieberman asked defendant Freed on at least two occasions to produce the
+“CI” to be interviewed by Lieberman. PCS ¶ 58-60; 101.
+As a result of the foregoing fabrications and misconduct, and defendants’ Freed, Seminara,
+Henderson and Ortlieb’s conveying of false information to ADA Lieberman and the Kings County
+District Attorney’s Office, plaintiff was formally arrested and arraigned on multiple serious felony
+charges, and consequently imprisoned at Rikers Island until September 24, 2010. PCS ¶ 94, 109.
+Based on the falsified information Lieberman obtained from defendants Freed, Seminara, Ortlieb,
+and Henderson, ADA Lieberman presented his case against plaintiff to a grand jury. PCS ¶ 103.
+During the grand jury presentation, defendants Seminara and Henderson provided false testimony
+to the grand jury. PCS ¶¶ 104-105. Plaintiff was thus indicted on September 10, 2010. PCS ¶
+103.
+After plaintiff’s arrest and indictment, plaintiff’s cousin, Alhue Gayle, met with ADA
+Lieberman and defendant Freed at the Kings County District Attorney’s Office, and showed ADA
+Lieberman and Freed the video footage which confirmed that plaintiff was at Webster Hall at the
+time of the shooting. PCS ¶ 107. Around this time, plaintiff was also administered and passed a
+lie detector test. PCS ¶ 108. On September 24, 2010, sometime shortly after viewing the footage,
+ADA Lieberman had plaintiff’s case advanced and consented to plaintiff’s release. PCS ¶ 109.
+
+6
+
+Case 1:11-cv-05910-PKC-RER Document 78 Filed 04/18/16 Page 12 of 31 PageID #: 1136
+
+Despite confirmation of plaintiff’s innocence via the video and lie detector test, the felony charges
+lodged against plaintiff were not dismissed until December 21, 2010. PCS ¶ 110.
+STANDARD OF REVIEW
+Summary judgment should be granted only if the Court determines that there is no genuine
+dispute as to any material fact concerning the non-movant’s claims or defenses and the movant is
+entitled to judgment as a matter of law. Fed. R. Civ. P. 56(a). The Court must examine the facts
+in the light most favorable to the non-moving party, resolving all ambiguities and drawing all
+factual inferences in favor of the non-moving party. Rodriguez v. City of New York, 72 F.3d 1051,
+1061 (2d Cir. 1995). The burden is on the moving party to show that the evidence is such that a
+reasonable jury could not return a verdict for the non-moving party. See Anderson v. Liberty
+Lobby, Inc., 477 U.S. 242, 248 (1986).
+ARGUMENT
+POINT I
+FALSE ARREST SHOULD PROCEED TO TRIAL
+A. Plaintiff was arrested without probable cause
+Defendants argue that plaintiff’s claim for false arrest should be dismissed solely on the
+grounds that probable cause ostensibly existed to arrest plaintiff based on the false identifications
+of plaintiff by defendants Seminara, Ortlieb, and Henderson. See Defs.’ Mem. of Law, pp. 5-10.
+Defendants further argue that Seminara, Ortlieb, and Henderson’s false identifications provided a
+sufficient basis to arrest plaintiff despite the fact that plaintiff provided highly credible alibi
+evidence, and consequently that defendant Freed had no duty to investigate plaintiff’s alibi. See
+id. Defendants’ arguments fail because plaintiff has set forth evidence from which a jury could
+conclude that Seminara, Ortlieb, and Henderson intentionally and knowingly falsely identified
+plaintiff to cover-up their improper weapons discharge, or for other collateral objectives, and that
+7
+
+Case 1:11-cv-05910-PKC-RER Document 78 Filed 04/18/16 Page 13 of 31 PageID #: 1137
+
+Freed colluded with them to bring about said false identifications, and plaintiff’s arrest and
+prosecution, despite knowledge of exculpatory evidence establishing plaintiff’s innocence.
+In this case, plaintiff was and is factually innocent, and all inferences must be drawn in his
+favor. To prove a claim for false arrest, a plaintiff must show “that the defendant intentionally
+confined him without his consent and without justification.” Weyant v. Okst, 101 F.3d 845, 852
+(2d Cir. 1996). The existence of probable is a complete defense to an action for false arrest. Id.
+“[P]robable cause to arrest exists when the [arresting] officers have knowledge or reasonably
+trustworthy information of facts and circumstances that are sufficient to warrant a person of
+reasonable caution in the belief that the person to be arrested has committed or is committing a
+crime.” Id. “Whether probable cause exists ‘turns on an objective assessment of the officer’s
+actions in light of the facts and circumstances confronting him.’” Brewton v. City of New York,
+550 F. Supp. 2d 355, 363 (E.D.N.Y. 2008) (quoting Maryland v. Macon, 472 U.S. 463, 470–71
+(1985)). “The question of whether or not probable cause existed may be determinable as a matter
+of law if there is no dispute as to the pertinent events and the knowledge of the officers . . . or may
+require a trial if the facts are in dispute.” See Blake v. Race, 487 F. Supp. 2d 187, 207 (E.D.N.Y.
+2007) (citing Weyant, 101 F.3d at 852 (citations omitted)). “Where an issue of probable cause is
+‘factual in nature,’ it must be presented to a jury.” Blake, 487 F. Supp. 2d at 207 (citing Moore v.
+Comesanas, 32 F.3d 670, 673 (2d Cir.1994)).
+Although information received from a putative victim or an eyewitness is generally
+sufficient to establish probable cause, this is not the case where circumstances raise doubt as to the
+person’s veracity. See Sanders v. City of New York, 12 CV 113 (PKC) (LB), 2015 WL 1469514,
+at *8 (E.D.N.Y. Jan. 7, 2015) report and recommendation adopted, 12 CV 113 (PKC) (LB), 2015
+WL 1469506 (E.D.N.Y. Mar. 30, 2015). Consequently, “a police officer may not ‘neglect all
+
+8
+
+Case 1:11-cv-05910-PKC-RER Document 78 Filed 04/18/16 Page 14 of 31 PageID #: 1138
+
+investigative duties in relying on a victim statement; [he] can only derive probable cause to effect
+an arrest from that statement ‘absent circumstances that raise doubts as to the victim’s veracity.’”
+See Clark v. City of New York, 09 CV 2533 (PKC), 2015 WL 5719612, at *6 (E.D.N.Y. Sept. 29,
+2015) (citing Parisi v. Suffolk Cnty., 04 CV 2187, 2009 WL 4405488, at *7 (E.D.N.Y. Nov. 30,
+2009). Nor can an officer “disregard plainly exculpatory evidence.” See Sanders, 2015 WL
+1469514, at *8. Here, because there are many facts in dispute which call into question Seminara,
+Ortlieb, and Henderson’s veracity and the reliability of their identifications of plaintiff, and
+because defendant Freed personally participated in fabricating evidence to support the false arrest,
+probable cause cannot be determined as a matter of law, and thus summary judgment is
+inappropriate.
+As an initial matter, viewing the evidence in a light most favorable to plaintiff, defendants
+Seminara, Ortlieb, and Henderson are not quintessential victims as defendants attempt to argue.
+They were far more involved in the case and investigation then a “classic” civilian victims and, as
+members of the NYPD, they had access to information and relationships with the investigating
+detectives that a civilian victim would not have available to them. See PCS ¶ 43. There is also a
+distinct lack of evidence in support of defendants Seminara, Ortlieb, and Henderson’s allegations
+that they were fired upon at least six times by the individual whom they pursued based on the
+ballistic evidence recovered from the scene and from the officers’ weapons, which reveals that
+they fired their weapons nineteen times, in response to purportedly being fired upon at least six
+times. See PCS ¶¶ 27-36. In fact, only eighteen shell casings and eighteen deformed bullet
+fragments were documented by the crime scene unit (hereinafter “CSU”) officers during the early
+morning search of the location on September 6, 2010. See PCS ¶ 37. Furthermore, the nineteenth
+shell casing allegedly found during the afternoon search on September 6, 2010 appears to have not
+
+9
+
+Case 1:11-cv-05910-PKC-RER Document 78 Filed 04/18/16 Page 15 of 31 PageID #: 1139
+
+been present during the first search based on the CSU photographs produced in discovery. See
+PCS ¶¶ 38-39. These facts call into question the veracity and reliability of the officers’ accounts
+of what transpired during the purported shooting and further call into question the officers’
+truthfulness with respect to the entire investigation into plaintiff’s arrest, as well as the reliability
+of their identifications. Moreover, the evidence that defendants Seminara, Ortlieb, and Henderson
+were not fired upon provides a motive for them to lie during the investigation into the purported
+shooting insofar as it is patently improper to fire at a fleeing misdemeanant or felon who does not
+present a significant threat to the safety of the officer or third parties. See Tennessee v. Garner,
+471 U.S. 1, 11 (1985).
+The reliability of defendants Seminara, Ortlieb, and Henderson’s photo and line-up
+identifications of plaintiff are further undermined by the fact that each admit that they had at most
+five seconds to observe the face of the purported shooter, at midnight, in a poorly lit area. See
+PCS ¶¶ 5-25. Additionally, after the purported shooting, none of the defendant officers could
+provide a more detailed description of the purported shooter, other than “male black with dark
+clothing.” See PCS ¶¶ 40-42. Finally, there is ample evidence from which a jury could conclude
+that the lineup identifications themselves were tainted insofar as all three officers were exposed to
+a photo of plaintiff prior to their lineup identifications, and plaintiff was the only individual in the
+lineup, who, like the purported shooter, was wearing dark pants. See PCS ¶¶ 82-93. Based on the
+foregoing, and viewing the facts in a light most favorable to plaintiff, the lineup identifications
+were unreliable, and thus a question of fact exists as to whether the identifications established
+probable cause to arrest plaintiff. See Sanders, 2015 WL 1469514, at *12 (finding a question of
+fact as to probable cause where the reliability of a police officer’s photo array identification of the
+second robber was called into question by his prior misidentification of the first robber, evidence
+
+10
+
+Case 1:11-cv-05910-PKC-RER Document 78 Filed 04/18/16 Page 16 of 31 PageID #: 1140
+
+that the officer had at most six seconds to view the second robber, that his view was obstructed,
+and the photo array was suggestive).
+A jury could likewise conclude that Freed colluded with Seminara, Ortlieb, and Henderson
+in bringing about the false identifications and arrest of plaintiff based on the following facts. First,
+a jury could conclude Freed knew Seminara, Ortlieb, and Henderson were lying about the
+circumstances of the shooting based on the fact that Freed, a first grade detective charged with
+leading the investigating into the shooting, assessed the scene of the shooting and had access to
+the ballistic evidence, both which call into question Seminara, Ortlieb, and Henderson’s claims
+with respect being shot at. See PCS ¶ 45. Second, as to witness Trevor Perez, Freed admittedly
+participated and led the interrogation of Perez, who was the only civilian witness who purportedly
+linked plaintiff to the shooting. See PCS ¶¶ 47-57. Perez testified at his deposition that he did so
+after being coerced. See PCS ¶¶ 47-57. In particular, Perez testified that during said interrogation,
+he was coerced into falsely implicating plaintiff in the shooting and that prior to acquiescing under
+pressure, he in fact exculpated plaintiff, telling the interrogating detectives, one of whom was
+Freed based on Freed’s own testimony, that Perez knew plaintiff, that to Perez’s knowledge,
+plaintiff was not present during the purported shooting, and that Perez had not even witnessed a
+civilian shooting at the police. See id. Among many other reasons, Perez’s coercion is of particular
+significance because Freed admits that he needed Perez to link plaintiff to the shooting in order to
+have a basis to place plaintiff’s photo in the photo array, which was prepared within minutes of
+Perez’s coerced identification, and which was then showed to Seminara within a very short time
+thereafter. See PCS ¶¶ 60-62. In fact, without Perez, Freed did not have any evidence linking
+plaintiff to the shooting. See PCS ¶ 57. Thus, had Freed not coerced Perez, plaintiff would never
+have been arrested. Viewing these facts in a light most favorable to plaintiff, a jury could conclude
+
+11
+
+Case 1:11-cv-05910-PKC-RER Document 78 Filed 04/18/16 Page 17 of 31 PageID #: 1141
+
+that Freed knew that the shooting itself was questionable, and that Freed coerced Perez so that he
+could justify creating a sham photo array to show to Seminara, leading to the false arrest of plaintiff
+on September 6, 2010, and the tainted lineup identifications the next day.
+Moreover, by the time the lineup identifications were conducted on September 7, 2010,
+Freed was in possession of additional compelling exculpatory information, including plaintiff’s
+alibi statement, which had been corroborated by plaintiff’s cousin Alhue Gayle and by plaintiff’s
+cell phone records, which proved that plaintiff was in Manhattan at the time of the shooting, as
+well as access to plaintiff’s MetroCard. See PCS ¶¶ 73-81. Freed described the alibi as one of the
+most detailed he ever heard. See Klein Decl. Ex. 6, Freed Dep. 21:17-22:11. Freed also had
+knowledge that surveillance video existed which could and did exonerate plaintiff. See PCS ¶ 79.
+Finally, contrary to defendants’ claim that Freed had no duty to investigate the foregoing
+exculpatory evidence, where, as here, there is ample evidence providing a basis to question the
+veracity of the purported victims, Seminara, Ortlieb, and Henderson, and where Freed possessed
+exculpatory evidence from Perez, Gayle, and from plaintiff himself, an officer does in fact have a
+duty to investigate. See Clark, 2015 WL 5719612, at *6 (holding that “a police officer may not
+‘neglect all investigative duties in relying on a victim statement . . . [under] circumstances that
+raise doubts as to the victim’s veracity”); Sanders, 2015 WL 1469514, at *8 (“an officer may not
+disregard plainly exculpatory evidence”).
+For the above reasons, the identifications of plaintiff by Seminara, Ortlieb, and Henderson
+did not provide probable cause to arrest plaintiff because a jury could conclude that the photo array
+and lineup identifications were charades which were orchestrated by defendants Freed, Seminara,
+Ortlieb, and Henderson in an effort cover-up police misconduct, all of which were facilitated by
+
+12
+
+Case 1:11-cv-05910-PKC-RER Document 78 Filed 04/18/16 Page 18 of 31 PageID #: 1142
+
+and likewise arose from the coerced false identification of plaintiff Trevor Perez by defendant
+Freed.
+B. All of the defendant officers were personally involved in plaintiff’s false arrest
+Defendants further argue that plaintiff’s false arrest claims are dismissible for lack of
+personal involvement.
+
+See Defs.’ Mem. of Law, pp. 9-10.
+
+“[P]ersonal involvement is a
+
+prerequisite to a finding of liability under § 1983. See Wong v. Yoo, 649 F. Supp. 2d 34, 61
+(E.D.N.Y. 2009). “Personal involvement may be established by a showing of direct participation,
+meaning ‘intentional participation in the conduct constituting a violation of the victim’s rights by
+one who knew of the facts rendering it illegal.’” Id. (citing Provost v. City of Newburgh, 262 F.3d
+146, 155 (2d Cir. 2001). For the reasons stated at Point I (A) supra, a jury could clearly conclude
+that all four defendants were personally involved in the false arrest of plaintiff. In particular, a
+jury could conclude that Freed coerced Perez, prepared the sham photo array and lineups, and
+failed to investigate or otherwise ignored exculpatory evidence, all of which led plaintiff’s false
+arrest.
+
+A jury could further conclude that defendants Seminara, Ortlieb, and Henderson
+
+participated in the investigation of the purported shooting, provided fabricated evidence regarding
+the shooting, and then knowingly, not mistakenly, falsely identified plaintiff as the individual who
+purportedly fired at them, to further the arrest and prosecution of plaintiff, and to cover up their
+own misconduct.
+POINT II
+MALICIOUS PROSECUTION SHOULD PROCEED TO TRIAL
+Defendants argue that plaintiff’s malicious prosecution fails because defendant Freed
+purportedly did not initiate or continue plaintiff’s underlying prosecution, there was probable cause
+for plaintiff’s arrest, and because malice was lacking. See Defs. Mem. of Law pp. 10-16. To
+
+13
+
+Case 1:11-cv-05910-PKC-RER Document 78 Filed 04/18/16 Page 19 of 31 PageID #: 1143
+
+survive a summary judgment motion on a malicious prosecution claim, plaintiff must present facts
+sufficient to show that: “(1) the defendant[s] initiated a prosecution against plaintiff, (2) without
+probable cause to believe the proceeding [could] succeed, (3) the proceeding was begun with
+malice and, (4) the matter terminated in plaintiff’s favor.” See Ricciuti v. New York City Transit
+Auth., 124 F.3d 123, 130 (2d Cir. 1997). At summary judgment, a plaintiff may rely on his own
+testimony to establish his malicious prosecution claim. Rentas v. Ruffin, 14 CV 2475, 2016 WL
+877828, at *4 (2d Cir. Mar. 8, 2016). For the reasons that follow, plaintiff has established a
+question of fact as to each element of his malicious prosecution claim.
+A. The defendant officers initiated a criminal prosecution against plaintiff
+There is ample evidence in the record from which a jury could conclude that defendant
+Freed, Seminara, Henderson, and Ortlieb initiated a prosecution against plaintiff. “[C]ourts have
+found triable issues of fact as to the initiation element where a defendant police officer ‘brought
+formal charges and had the person arraigned, filled out complaining and corroborating affidavits,
+swore to and signed a felony complaint, or created false information and forwarded it to
+prosecutors.’” See Wong, 649 F. Supp. 2d at 65 (citing Espada v. Schneider, 522 F.Supp.2d 544,
+553 (S.D.N.Y. 2007); Ricciuti, 124 F.3d at 130; Llerando–Phipps v. City of New York, 390
+F.Supp.2d 372, 382–83 (S.D.N.Y. 2005)).
+
+Moreover, “when an ‘officer provide[s] false
+
+information to a prosecutor, what prosecutors do subsequently has no effect whatsoever on the . .
+. officer’s initial, potentially tortious behavior.’” Rentas, 2016 WL 877828, at *3 (citing Cameron
+v. City of New York, 598 F.3d 50, 63 (2d Cir. 2010).
+Here, viewing the facts in a light most favorable to plaintiff, defendants Seminara,
+Henderson and Ortlieb created false information that they were fired upon, that they had an
+opportunity to see the purported shooter’s face, and that plaintiff was the purported shooter. See
+
+14
+
+Case 1:11-cv-05910-PKC-RER Document 78 Filed 04/18/16 Page 20 of 31 PageID #: 1144
+
+PCS ¶¶ 5-42, 47-56, 65, 84-90. Defendant Freed further created false evidence that Trevor Perez
+identified plaintiff as the shooter and thereafter aided in defendants’ Seminara, Henderson and
+Ortlieb’s sham identifications of plaintiff as well. See PCS ¶¶ 5-42, 47-56, 65, 84-90. All four
+defendants further admit to forwarding said information to prosecutors. See PCS ¶¶ 96-101. Based
+on the foregoing, a reasonable fact finder could conclude that all four defendants forwarded false
+information to the Kings County District Attorney’s Office leading to the initiation and
+continuation of the criminal proceedings against plaintiff. Wong, 649 F. Supp. 2d at 65-66
+(declining to grant summary judgment on a malicious prosecution claim and holding that a
+reasonable fact-finder could determine that the defendant officer did more than report a crime and
+serve as witness where he deliberately made false statements to the police regarding the events
+leading to the plaintiff’s arrest and travelled to court at least once in relation to plaintiff’s case).
+Insofar as plaintiff has set forth facts supporting the inference that the defendant officers forwarded
+false information to the District Attorney’s Office, whatever judgments may have been exercised
+by prosecutors thereafter has no effect on the liability of the officers. See Rentas, 2016 WL
+877828, at *3.
+Furthermore, defendants’ argument that the prosecution against plaintiff was initiated by
+the identification of plaintiff by defendants Seminara, Ortlieb, and Henderson, and that Freed was
+thus not involved, likewise fails because plaintiff has presented evidence from which a jury could
+conclude that that Freed was personally involved in the scheme to pin the purported shooting on
+plaintiff by coercing Perez, when within minutes of the purported shooting the defendants could
+not describe the shooter with any specification, assisting in bringing about the tainted
+identifications by Seminara, Ortlieb, and Henderson, and by disseminating the false identifications
+to the prosecution, all of which is sufficient to establish his involvement in the malicious
+
+15
+
+Case 1:11-cv-05910-PKC-RER Document 78 Filed 04/18/16 Page 21 of 31 PageID #: 1145
+
+prosecution of plaintiff. See Ricciuti, 124 F.3d at 131 (holding that a jury could conclude that
+defendant Lopez was implicated in a conspiracy to maliciously prosecute the plaintiffs based on
+his knowingly taking part in the distribution of a confession he knew to be false and, along with
+his co-defendant, lying about the circumstances of plaintiff’s arrest).
+B. Probable cause was lacking
+Defendants further argue plaintiff’s malicious prosecution claim fails because there was
+probable cause for his arrest and that there is no evidence that probable cause dissipated during the
+pendency of the prosecution. “[T]he existence of probable cause is a complete defense to a claim
+of malicious prosecution in New York.” Sanders, 2015 WL 1469514, at *14 (citing Savino v. City
+of New York, 331 F.3d 63, 72 (2d Cir. 2003)). “Further, an ‘indictment by a grand jury creates a
+presumption of probable cause,’ that ‘may be rebutted only by evidence that the indictment was
+procured by fraud, perjury, the suppression of evidence or other police conduct undertaken in bad
+faith.’” Sanders, 2015 WL 1469514, at *14 (citing Manganiello v. City of New York, 612 F.3d
+149, 160-61 (2d Cir. 2010); see also, Savino, 331 F.3d 63, 73 (holding that “to survive a motion
+for summary judgment on [a] malicious prosecution claim, [plaintiff] must have submitted
+evidence sufficient for a reasonable jury to find that his indictment was procured as a result of
+police conduct undertaken in bad faith”); Richards v. City of New York, 97 CV 7990 (MBM), 2003
+WL 21036365, at *14 (S.D.N.Y. May 7, 2003) (holding that “evidence establishing that the police
+witnesses have not made a complete and full statement of facts either to the Grand Jury or to the
+District Attorney, that they have misrepresented or falsified evidence, that they have withheld
+evidence or otherwise acted in bad faith can overcome the presumption).” Here, for the reasons
+stated, supra, at point I (A), questions of fact exist as to whether there was to arrest plaintiff.
+Furthermore, defendants’ claim that probable cause did not dissipate during the pendency of the
+
+16
+
+Case 1:11-cv-05910-PKC-RER Document 78 Filed 04/18/16 Page 22 of 31 PageID #: 1146
+
+prosecution is clearly without merit considering that by at least September 24, 2010, the charges
+were proven to be completely groundless by via the viewing of surveillance footage that
+conclusively exonerated plaintiff, and by plaintiff passing a lie detector test. See PCS ¶¶ 106-107.
+Defendants further argue that the grand jury indictment created a presumption of probable
+cause and in a somewhat related but flawed argument set forth in defendants’ motion at Point II
+(D), that plaintiff may not rely on a claim that defendants Freed, Seminara, and Henderson
+provided false testimony to the grand jury to overcome probable cause. Defs.’ Mem. of Law, pp.
+13-16. These arguments fail because viewing the evidence in a light most favorable to plaintiff,
+plaintiff has sufficiently rebutted the presumption created by the grand jury indictment to prevail
+on his malicious prosecution claim by presenting evidence not just that defendants Seminara and
+Henderson lied in the grand jury, and that the indictment was procured by fraud, perjury, and the
+suppression of evidence, and was undertaken in bad faith by defendants Freed, Seminara,
+Henderson, and Ortlieb. See Sanders, 2015 WL 1469514, at *14; Richards, 2003 WL 21036365,
+at *14. In particular, a jury could conclude that defendants Seminara, Henderson, and Ortlieb lied
+about the circumstances of their weapons discharge and their ability to identify the purported
+shooter, that Freed coerced Perez into falsely identifying plaintiff in order to justify the knowingly
+false photo array identification by Seminara, which led to the knowingly false lineup
+identifications by Seminara, Ortlieb, and Henderson, without which purported probable cause
+would never have been established. See e.g., PCS ¶¶ 5-42, 47-56, 60-65, 84-90. See Sanders,
+2015 WL 1469514, at *14-15 (citing Manganiello, 612 F.3d at 162 (“[w]here there is some
+indication in the police records that, as to a fact crucial to the existence of probable cause, the
+arresting officers may have ‘lied in order to secure an indictment,’ and ‘a jury could reasonably
+find that the indictment was secured through bad faith or perjury,’ the presumption of probable
+
+17
+
+Case 1:11-cv-05910-PKC-RER Document 78 Filed 04/18/16 Page 23 of 31 PageID #: 1147
+
+cause created by the indictment may be overcome.”). Defendant Freed’s bad faith can also be
+inferred from his withholding of the coerced witnesses’ signed statement from ADA Lieberman,
+by his false characterization to ADA Lieberman of the witness as a “confidential informant,” and
+by his failure to produce Perez when requested to do so by ADA Lieberman. See PCS ¶¶ []. See
+Sanders, 2015 WL 1469514, at *15-16. Finally, the sworn testimony of Trevor Perez that he
+affirmatively exculpated plaintiff when he was interrogated regarding the incident in of itself
+creates a question of fact as to whether defendants had evidence in their possession which negated
+probable cause. See PCS ¶¶ []. See Richards, 2003 WL 21036365, at *19.
+C. Defendants Freed, Seminara, Ortlieb, and Henderson acted with malice
+Defendants further argue that plaintiff has not presented facts in support of his claim that
+defendants acted with malice. Because a lack of probable cause generally raises an inference of
+malice sufficient to withstand summary judgment, defendants’ argument fails in this regard. See
+e.g., Rentas, 2016 WL 877828, at *4; Boyd v. City of New York, 336 F.3d 72, 78 (2d Cir. 2003)
+(“Once we find an issue of material fact as to probable cause, the element of malice also becomes
+an issue of material fact as well.”). See also; Ricciuti, 124 F.3d at 130; Sanders, 2015 WL
+1469514, at 16 (collecting cases); Anderson v. City of New York, 817 F.Supp.2d 77, 91 (E.D.N.Y.
+2011). Here, because plaintiff has raised a question of fact regarding probable cause as argued
+extensively at Points I (A) and II (B), supra, plaintiff has consequently also raised a question of
+fact as to malice sufficient to withstand summary judgment. See Boyd, 336 F.3d at 78. Therefore,
+defendants’ motion for summary judgment on plaintiff’s malicious prosecution claim should be
+denied.
+
+18
+
+Case 1:11-cv-05910-PKC-RER Document 78 Filed 04/18/16 Page 24 of 31 PageID #: 1148
+
+POINT III
+RIGHT TO FAIR TRIAL SHOULD PROCEED TO TRIAL
+Defendants argue that plaintiff cannot maintain a denial of right to fair trial claim because
+even if it were found that defendants conveyed false information, the falsifications were
+testimonial and thus cannot form the basis of plaintiff’s claim pursuant to Rehberg v. Paulk, 132
+S. Ct. 1497, 1505-07 (2012). Defendants’ argument fails for the reasons that follow.
+“A plaintiff establishes a denial of the right to fair trial claim by showing that the defendant
+fabricated evidence that was likely to influence a jury, forwarded that information to prosecutors,
+and that the plaintiff suffered a deprivation of liberty as a result.” Garnett v. City of New York, 13
+CV 7083 (GHW), 2014 WL 3950904, *12 (S.D.N.Y. Aug. 13, 2014) (citing Ricciuti, 124 F.3d at
+129-130); see also Struthers v. City of New York, 12 CV 0242 (JG), 2013 WL 2390721, *13
+(E.D.N.Y. May 31, 2013). The existence of probable cause is not a defense. Ricciuti, 124 F.3d at
+130. Furthermore, contrary to defendants’ assertion, Rehberg “did not grant absolute immunity to
+‘all activity that a witness conducts outside of the grand jury room.’” Garnett, 2014 WL 3950904
+at *13 (citing Rehberg, 132 S. Ct. at 1507, n. 1). “Accordingly, courts in this Circuit have declined
+to grant absolute immunity to officers for allegedly falsifying evidence such as a post-arrest
+affidavit that contained allegedly false information.” Garnett, 2014 WL 3950904 at *13 (citing
+Dowling v. City of New York, 11 CV 4954 (NGG)(RML), 2013 WL 5502867, at *7 (E.D.N.Y.
+Sept. 30, 2013)). They have also held a defendant could be held liable for his false narrative of
+arrest which he provided to plaintiff’s arresting officer, who forwarded the information to
+prosecutors, and for filing false criminal court complaints. See Maldonado v. City of New York,
+11 CV 3514, 2014 WL 787814, *10 (S.D.N.Y. Feb. 26, 2014); Brown v. City of New York, 08 CV
+5095 (FB) (MDG), 2013 WL 1338785, *6 (E.D.N.Y. April 1, 2013). A right to fair trial claim can
+also be based on evidence that a police officer fabricated or suppressed evidence relating to an
+19
+
+Case 1:11-cv-05910-PKC-RER Document 78 Filed 04/18/16 Page 25 of 31 PageID #: 1149
+
+arrest. See McCaffrey v. City of New York, 11 CV 1636 (RJS), 2013 WL 494025, at *13 (S.D.N.Y.
+Feb. 7, 2013). See also, Sanders, 2015 WL 1469514, at *17.
+Here, plaintiff has demonstrated that defendant Freed coerced Trevor Perez into falsely
+identifying plaintiff, and that he used Perez’s false identification to create and justify the improper
+and tainted photo array and lineups which led to plaintiff’s arrest and prosecution. See PCS ¶¶ See
+PCS ¶¶ 47-56, 60-65, 84-90. Freed then lied to ADA Lieberman by misrepresenting that Trevor
+Perez was a “CI”, by withholding the fact that Perez had been coerced into giving a false
+identification, by withholding Perez’s coerced written statement, and by withholding access to
+Perez from ADA Lieberman, who asked Freed to produce him a number of times, all in an effort
+to conceal the fact that Perez had been coerced. See PCS ¶ 101. Here, Freed both fabricated the
+identification and withheld evidence, both of which are acts sufficient to sustain a right to fair trial
+claim. See Maldonado, 2014 WL 787814, at *10; Brown, 2013 WL 1338785, at *6; McCaffrey,
+2013 WL 494025, at *13; Sanders, 2015 WL 1469514, at *17. Plaintiff has further presented
+evidence from which a jury could conclude that defendants Seminara, Ortlieb, and Henderson’s
+identifications were not mistaken, but rather that they intentionally falsely identified plaintiff in
+said tainted lineups in an effort to pin the shooting on plaintiff and cover-up their own misconduct.
+See PCS ¶¶ 5-42, 65, 84-90. All four defendants thereafter forwarded the false fabricated evidence
+that they were shooting victims to the Kings County District Attorney’s Office, and to ADA
+Lieberman in particular, resulting in plaintiff being prosecuted for, among other serious charges,
+Attempted Murder in the First Degree. See PCS ¶¶ 96-105. Finally, defendants’ arguments with
+respect to the applicability of Brady v. Maryland, 373 U.S. 83 (1963) at Point III (B) are also
+unavailing because plaintiff has not brought a claim alleging his Brady rights were violated, but
+rather has brought a right to fair trial claim. As discussed above, a right to fair trial can be sustained
+
+20
+
+Case 1:11-cv-05910-PKC-RER Document 78 Filed 04/18/16 Page 26 of 31 PageID #: 1150
+
+based on evidence that a police officer fabricated or suppressed evidence relating to an arrest. See
+Defs.’ Mem. of Law, pp. 19-20; see McCaffrey, 2013 WL 494025, at *13. See also, Sanders, 2015
+WL 1469514, at *17.
+POINT IV
+FAILURE TO INTERVENE IS WITHDRAWN
+Plaintiff withdraws his failure to intervene claim insofar as questions of fact exist as to the
+direct involvement of each of the defendant officers in violating plaintiff’s rights.2
+POINT V
+QUALIFIED IMMUNITY SHOULD BE DENIED
+Defendants next argue that they are entitled to qualified immunity for plaintiff’s false arrest
+and malicious prosecution claims. See Defs.’ Mem. of Law, pp. 21-22. “Under federal law, a
+police officer is entitled to qualified immunity where (1) his conduct does not violate clearly
+established statutory or constitutional rights of which a reasonable person would have known, or
+(2) it was ‘objectively reasonable’ for him to believe that his actions were lawful at the time of the
+challenged act.” Jenkins v. City of New York, 478 F.3d 76, 87 (2d Cir. 2007) (internal quotation
+marks omitted); see also, Zellner v. Summerlin, 494 F.3d 344, 367 (2d Cir. 2007). The right to be
+free from arrest without probable cause is a clearly established right. See Golino v. City of New
+Haven, 950 F.2d 864, 870 (2d Cir. 1991). Summary judgment should not be granted on qualified
+immunity grounds where the material facts of a claim are in dispute and those facts bear on the
+question of whether the defendants’ conduct was objectively reasonable. See e.g., Jenkins, 478
+F.3d at 88-90; Curry v. City of Syracuse, 316 F.3d 324, 335 (2d Cir. 2003); Green v. City of New
+
+2
+
+Defendants argue that plaintiff’s failure to intervene claim fails because plaintiff cannot state a violation of an
+underlying constitutional right, or in the alternative, because plaintiff has, however, alleged that all four defendants
+were directly involved and thus a failure to intervene claim cannot lie. See Defs.’ Mem. of Law, pp. 20-21. For the
+reasons stated supra, plaintiff has established a question of fact as to violations of his constitutional right not be
+falsely arrested, not to be maliciously prosecuted, and not to be denied his right to fair trial.
+
+21
+
+Case 1:11-cv-05910-PKC-RER Document 78 Filed 04/18/16 Page 27 of 31 PageID #: 1151
+
+York, 465 F.3d 65, 83 (2d. Cir. 2006); Mickle v. Morin, 297 F.3d 114, 122 (2d Cir. 2002); Thomas
+v. Roach, 165 F.3d 137, 144 (2d Cir. 1999).
+Defendants do not appear to dispute that plaintiff’s right to be free from false arrest,
+malicious prosecution, and right to fair trial are clearly established. Rather, defendants argue that
+Seminara, Henderson, and Ortlieb are entitled to qualified immunity because they were not
+personally involved in the constitutional violation, and that Freed is entitled to qualified immunity
+because he acted reasonably in believing probable cause existed to arrest plaintiff based on
+Seminara, Henderson, and Ortlieb’s identifications.
+
+See Defs.’ Mem. of Law, pp. 21-22.
+
+Defendants’ arguments fail because, for the reasons set forth supra, plaintiff has established
+questions of fact as to both the involvement of all four defendants in his arrest and prosecution,
+and as to the existence of probable cause to arrest and prosecute plaintiff. Because plaintiff has
+set forth genuine issues of material fact as to both his false arrest, malicious prosecution, and right
+to fair trial claims, and the facts directly bear on the question of whether defendants Freed,
+Seminara, Henderson, and Ortlieb’s conduct was reasonable, summary judgment on qualified
+immunity grounds is inappropriate. See e.g., Jenkins, 478 F.3d at 88-90; Curry, 316 F.3d at 335;
+Green, 465 F.3d at 83; Mickle, 297 F.3d at 122; Thomas, 165 F.3d at 144.
+POINT VI
+CLAIMS AGAINST JOHN DOE I
+To the extent the Court determines that plaintiff’s claims against John Doe I are
+dismissible, the claims should be dismissed without prejudice. See Watkins v. Doe, 04 CV 0138
+(PKC), 2006 WL 648022, at *3 (S.D.N.Y. Mar. 14, 2006).
+POINT VII
+PLAINTIFF’S STATE LAW CLAIMS
+Defendants’ arguments for the dismissal of plaintiff’s state law claims also fail.
+
+22
+
+Case 1:11-cv-05910-PKC-RER Document 78 Filed 04/18/16 Page 28 of 31 PageID #: 1152
+
+A. Defendant City of New York is liable via the theory of respondeat superior
+Defendants first argue that plaintiff cannot maintain a claim against the City of New York
+under the theory of respondeat superior because plaintiff has failed to establish that an individual
+acting within the scope of his or her employment committed a culpable act. This argument is
+clearly without merit because plaintiff has established questions of fact as to plaintiff’s state law
+claims for false arrest and malicious prosecution against defendants Freed, Seminara, Henderson,
+and Ortlieb, as the elements of state law false arrest and malicious prosecution claims are
+substantially the same as those of Section 1983 false arrest and malicious production claims. See
+Weyant, 101 F.3d at 852; Jackson v. City of New York, 939 F. Supp. 2d 235, 250 (E.D.N.Y. 2013).
+Furthermore, “a municipality may be held liable for common law false arrest and malicious
+prosecution on a theory of respondeat superior.” See Anderson v. City of New York, 817 F. Supp.
+2d 77, 98 (E.D.N.Y. 2011) (citing Chimurenga v. City of New York, 45 F.Supp.2d 337, 344
+(S.D.N.Y.1999). Because there are disputes of material fact that preclude summary judgment on
+the Section 1983 false arrest and malicious prosecution claims as argued at Points I and II, supra,
+summary judgment on the state law false arrest and malicious prosecution claims are precluded as
+well. Therefore, plaintiff can recover against the City of New York under the common law
+doctrine of respondeat superior. Anderson, 817 F. Supp. 2d at 98.
+B. The individual defendants are not entitled to governmental immunity
+Defendants next argue that even if it is found that plaintiff’s constitutional rights were
+violated by the defendant officers, they are nonetheless entitled to governmental immunity. “New
+York good faith immunity provides that a government employee is immune from suit ‘for those
+government actions requiring expert judgment or the exercise of discretion . . . when the action
+involves the conscious exercise of a judicial or quasi-judicial nature.’” See Bradley v. City of New
+
+23
+
+Case 1:11-cv-05910-PKC-RER Document 78 Filed 04/18/16 Page 29 of 31 PageID #: 1153
+
+York, 04 CV 8411 (RWS) (MHD), 2007 WL 232945, at *12 (S.D.N.Y. Jan. 26, 2007) (quoting
+Arteaga v. State, 532 N.Y.S.2d 57, 58-59 (1988). “With respect to police officers, it has been held
+that the good faith immunity defense is a qualified immunity, to which the individual Defendants
+‘would not be [entitled if] they undertook the prosecution of plaintiff unreasonably or in bad
+faith.’” See Bradley, 2007 WL 232945, at *12 (citing Davis v. City of New York, 373 F.Supp.2d
+322, 339 (S.D.N.Y.2005). Governmental immunity does not apply to the acts of police officers
+“deviat[ing] from clearly accepted and established protocols and procedures.” Rodriguez v. City
+of New York, 189 A.D.2d 166, 178 (1st Dept. 1993) (quoting Weiss v. Fote, 7 N.Y.2d 579, 585
+(1960)) (police officer’s act of firing at suspect with crowd of people in between and hitting
+plaintiff, in violation of such protocols and procedures, did not implicate “judgmental error” rule).
+Further, “where there are disputed issues of fact regarding the reasonableness of Defendants’
+actions and whether those actions were taken in bad faith, summary judgment is inappropriate.”
+See Bradley, 2007 WL 232945, at *12; see also, Rosen v. City of New York, 667 F. Supp. 2d 355,
+362-63 (S.D.N.Y. 2009) (holding that where there are disputed facts as to a defendants’ actions in
+response to a fight the Court could not determine whether the defendant acted unreasonably or in
+bad faith, nor could the Court determine as a matter of law whether defendant is entitled to
+immunity).
+Here, as discussed extensively with respect to the plaintiff’s federal claims for false arrest,
+malicious prosecution, and denial of right to fair trial, plaintiff has established questions of fact as
+to whether defendants Freed, Seminara, Ortlieb, and Henderson acted in bad faith when they
+participated in arresting and prosecuting plaintiff. Consequently, defendants Freed, Seminara,
+Ortlieb, and Henderson are not entitled to governmental immunity. See e.g., Bradley, 2007 WL
+232945, at *12, Rodriguez, 189 A.D.2d at 178, Rosen, 667 F. Supp. at 362-63.
+
+24
+
+Case 1:11-cv-05910-PKC-RER Document 78 Filed 04/18/16 Page 30 of 31 PageID #: 1154
+
+C. Plaintiff has established a question of fact as to his battery claim
+Defendants assert that plaintiff’s battery claim should be dismissed because plaintiff has
+not pled specific allegations to support such a claim. For the reasons that follow, plaintiff’s battery
+claim against defendant City of New York should go to the jury. Under New York Law, if an
+arrest is determined to be unlawful, any use of force against a plaintiff may constitute a battery,
+regardless of whether the force would be considered reasonable during a lawful arrest. Micalizzi
+v. Ciamarra, 206 F. Supp. 2d 564, 581-82 (S.D.N.Y. 2002); Johnson v. Suffolk County Police
+Dep’t, 665 N.Y.S.2d 440, 440 (2d Dep’t 1997) (holding that a police officer committed a battery
+when he touched the plaintiff during an unlawful arrest) (citing Budgar v. State of New York, 414
+N.Y.S.2d 463, 466 (1979) (“since the arrest was unlawful, a technical assault and battery occurred
+when the claimant was handcuffed and forcibly placed in the State police car”)). Here, plaintiff
+has set forth triable issues of fact as to his false arrest, and consequently he has also established
+questions of fact as to whether he was subjected to a battery when he was handcuffed by a New
+York City police officer during his false arrest. See PCS ¶ 95. See Budgar, 414 N.Y.S.2d at 466.
+Regardless of whether plaintiff can identify the particular officer or officers who placed the
+handcuffs on plaintiff’s wrists, defendant City of New York is responsible for the officer or
+officers’ actions via respondeat superior. See Point VII (A), supra; Castro v. Cty. of Nassau, 739
+F. Supp. 2d 153, 184 (E.D.N.Y. 2010).
+D. Supplemental jurisdiction should be exercised over plaintiff’s state law claims
+Because plaintiff has established a question of fact as to all of his federal claims and related
+state law claims as set forth above, the Court should consequently exercise supplemental
+jurisdiction over plaintiff’s state law claims.
+
+25
+
+Case 1:11-cv-05910-PKC-RER Document 78 Filed 04/18/16 Page 31 of 31 PageID #: 1155
+
+CONCLUSION
+For the foregoing reasons, defendants’ motion for summary judgment should be denied
+and the matter set down for trial, together with such other relief to plaintiff as the Court deems just
+and proper.
+Dated: Brooklyn, New York
+March 17, 2016
+BRETT H. KLEIN, ESQ., PLLC
+Attorneys for the Plaintiff
+305 Broadway, Suite 600
+New York, New York 10007
+(212) 335-0132
+By:
+
+26
+
+___/s/ Brett H. Klein________________
+BRETT H. KLEIN, ESQ. (BK4744)
+LISSA GREEN-STARK (LG7510)
+
+

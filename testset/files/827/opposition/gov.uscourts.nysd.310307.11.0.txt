@@ -1,0 +1,391 @@
+Case 1:07-cv-06597-AKH Document11 Filed 08/27/2007 Page 1 of 21
+
+KLEE, TUCHIN, BOGDANOFF & STERN LLP
+1999 Avenue of the Stars, 39th Floor
+
+Los Angeles, California 90067
+
+(310) 407-4000 (telephone)
+
+(310) 407-9090 (facsimile)
+
+David M. Stern (Pro hac vice pending)
+
+Daniel J. Bussel (Pro hac vice pending)
+
+-and-
+
+VENABLE LLP
+
+The Chrysler Building
+
+405 Lexington Avenue, 56" Floor
+New York, New York 10174
+(212) 983-3850 (telephone)
+
+(212) 307-5598 (facsimile)
+Edward A. Smith (ES-2461)
+
+Attorneys for Plaintiff/Appellant
+Enron Creditors Recovery Corp. f/k/a Enron Corp.
+
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+
+ 
+
+ 
+
+ 
+
+x
+Case No. 01-16034 (AJG)
+In re:
+Chapter 11
+ENRON CREDITORS RECOVERY CORP.,
+et al, - (Jointly Administered)
+- Reorganized Debtors.
+Xx
+ENRON CREDITORS RECOVERY CORP. Adversary No.: 03-93370 (AJG)
+Plaintiff,
+V.
+INTERNATIONAL FINANCE CORP.,
+etal.,
+Defendants.
+x
+ENRON CREDITORS RECOVERY CORP. District Court
+Appellant,
+Case No. 07-06597 (AKH)
+Vv.
+INTERNATIONAL FINANCE CORP.,
+etal.,
+Appellees.
+x
+
+ 
+
+APPELLANT'S MEMORANDUM OF LAW IN OPPOSITION TO APPELLEES'
+MOTION TO DISMISS APPEAL
+
+ 
+
+ 
+Case 1:07-cv-06597-AKH Document11 Filed 08/27/2007 Page 2 of 21
+
+ 
+
+TABLE OF CONTENTS
+Page
+I. PRELIMINARY STATEMENT... cccsssssssssssussssetstianesssittieeeeecc 1
+H. STATEMENT OF FACTS o....scsssssssssinsnsintsttuenviuasattitiee 4
+HL, ARGUMENT... ccccesstsssscissreestnsintsetstinnistieneanntnsnsasiiiettie 7
+A. Absent express certification under Rule 54(b), the Judgment in
+favor of Caisse and NAB became appealable only upon entry of
+Judgment dismissing the last remaining defendant. 00.00.00. ecceccccccsscceseeseess 7
+1, The Final Judgment Rule and Rule S4(D). eee eeetsceceetereeeeeeess 7
+2. Rule 54(b) applies to Adversary Proceedings in
+Bankruptcy in like fashion as to other Federal Cases... 10
+B. Caisse and NAB mischaracterize PepsiCo as waiving the
+Certification requirement... cccccccesessessesecsesecceecescsscsceeeeeeeeeeeeeeec. 10
+C. Judge Gonzalez's determination that the June 2006 Order "shall be
+effective upon entry" cannot be construed as a Rule 54(b)
+certification of the August 2006 J UdQMENE. eee eecescceeseserseseeescseecevees 12
+Dz Judge Gonzalez's striking of Rule 54(b) language in the 546(e)
+Order does not aid the Motion. 0.0... ceccccccesssssssssesssssssseceeeteeee cee. 14
+E, Enron's decision to retain new counsel to prosecute this appeal
+when it became timely is irrelevant. .o0..c.ceecccccccccsscsesesececeseeseseeeeeeeeccecc. 15
+
+ 
+Case 1:07-cv-06597-AKH Document11 Filed 08/27/2007 Page 3 of 21
+
+ 
+
+TABLE OF AUTHORITIES
+CASES
+Cipriano v. Houma,
+395 U.S. 701, 89 S. Ct. 1897, 23 L. Ed. 2d 647 (1969)... ccessccsseseneeeceeereeeeaeteereneees 1]
+
+Citizens Accord, Inc. v. Town of Rochester,
+235 F.3d 126 (2d Cir. 2000) oo. ccececescececsseteneeseeneeenseeeeeeseneeecseneneeseeceseesevseseeasensees 2,8
+
+Curtiss-Wright Corp. v. General Electric Co.,
+446 U.S. 1, 100 S.Ct. 1460, 64 L.Ed.2d 1 (1980)... ec ceccssesseeseesessteseceseseensesressees 7
+
+Delta Air Lines, Inc. v. AI. Leasing IT, Inc. (In re Pan Am Corp.),
+159 B.R. 396 (S.D.N.Y. 1993) occccccescssesssesceseesessceeseesseaeeaesaesaeeseescsesaeeaeeeeneeaes 10, 14
+
+Dicola v. American S.S. Owners Mut. Protection & Indem. Ass'n (In re
+Prudential Lines, Inc.),
+
+59 F.3d 327 (2d Cir. 1995) occ cecccccccececeeeceescnenecsececeeeceeceeciecaseeseteeecsseaceeneeeraeeaeaees 10
+
+Dorsey v. Enron Corp. (In re Enron Corp.),
+2006 WL 1030413 (Bankr. S.D.N.Y. April 10, 2006) oo. cccceccccecetecntenectecteeseeeeesens 2
+
+Gredd v. Bear, Stearns Sec. Corp. (In re Manhattan Inv. Fund, Ltd).,
+2007 WL 534547 (Bankr. S.D.N.Y., February 15, 2007) 0... eccesceseeereeeeeneeneeeseeneenes 7
+
+HABE Leasing Corp. v. Frank,
+A8 F.3d 623 (2d Cir, 1995) .occiccccscesceeesesestesesseesensecseeaeeaeeeceneeaeseeeeaeeesseeeeeeaseeseeeeess 9
+
+Ibeto Petrochemical Indus. v. M/T Beffen,
+A475 F.3d 56 (2d Cir. 2007) oe ecccccescesescesesesseeseseeceeeaeesseesesessenteaeeecseseeeesneeesaeeeeaeeeenees 11
+
+Kahn v. Chase Manhattan Bank,
+OL F.3d 385 (2d Cir, 1996) oo ccsecseccsecseeceeeensscseenseceeuesceeceaeseaseeaeseeesenueeeeseees 11
+
+Lottie v. West American Ins. Co.,
+408 F.3d 935 (7th Cir, 2005) occ cececcscessesstecssceseccssecessesseeecsecseesnseseaeenaceececaeeeeeereceeesess 7
+
+Meehan v. Snow,
+652 F.2d 274 (2d Cir, 1981) occ ccccccsesscssesssseessssesseseeseeesaeseeeeaesetsneeseaeeeessesqeeeeeeateans 12
+
+Midland Asphalt Corp. v. United States,
+489 US. 794, 109 S. Ct. 1494, 103 L. Ed. 2d 879 (1989). eeeeceeeeeteseeeeeeereeseasens 3
+
+Official Creditors Comm. Of Indus. Ceramics, Inc. v. Indus. Ceramics Assocs.,
+252 B.R. 296 (W.D.N.Y. 2000)... ccccceccsscscessescsscsseececessaeeeseeueaceeseeeaseaeenesseeasenereeeres 10
+
+il
+
+ 
+
+ 
+Case 1:07-cv-06597-AKH Document11 Filed 08/27/2007 Page 4 of 21
+
+RMM Records & Video Corp. v. Universal Music & Video Distrib. Co. (In re
+RMM Records & Video Corp.),
+2007 WL 1630493 (Bankr. S.D.N.Y. June 7, 2007) ...ceccececscsesssesscsersssesssssesesesssesenens 3
+
+Sears, Roebuck & Co. v. Mackey,
+351 U.S. 427, 76 S.Ct. 895, 100 L.Ed. 1297 (1956)....ccececsscsseesetecsstesereeseseeeees 3,9, 13
+
+St. Paul Fire & Marine Ins. Co. v. PepsiCo, Inc.,
+884 F.2d 688 (2d Cir. 1989) occ eccccccccssessestecsscsscssccascsecerssecsssesssceseresssensceeees 10, 11
+
+Transit Mgmt. of Southeast La., Inc. v. Group Ins. Admin., Inc.,
+226 F.3d 376 (Sth Cir, 2000) ec eecececcnenseceeeseeeessecesesenseeseaeeetecseeeeeauacscaeaeaeseeeneeteess 8
+
+United States Fid. & Guar. Co. v. Frosty Bites, Inc.,
+350 F. Supp. 2d 508 (S.D.N.Y. 2004) occ cccceccceccsscsestsesscsecseneeeseescessessesesessesseeeserseseres 7
+
+FEDERAL STATUTES AND RULES
+
+Bankruptcy Code (11 U.S.C.) 0x00A7 546... cceccscssseseseesessssesessessesensesecseseeseeacesataceeeseeseecsevees 6
+Bankruptcy Code (11 U.S.C.) 0x00A7 548 cccccccsccscssscesesscecsssssssecessssssecerssaveessssecsesssssscesasunsesessnecees 4
+Bankruptcy Code (11 U.S.C.) 0x00A7 550. ccccesccssssssessesessessssesecscsecsesesseaesesscsessesssssseesseseeeaes 4
+28 U.S.C. 0x00A7 158 ooo ccccnescsccsceceececsenersesenccenenseecseneeeeasecsesesectesesaeeesacaeseeasaeneedeeteeeeeeraeeees 7
+Fed. R.Bankr.P. 7054... cccccesessesecceseseecsceecseseeeeaceesarscaeeeacaeeseeesesesassesaeecaeeteeeeerseereaeeeeaeees 1
+Fed. R.Civ.P. 12(0)(6) occ cisccccscsnessseeecececeeesesesseseeeeevaesecseacasseeesessenecaeeesacacaeeesecaenseaeaees 2,5
+Fed. R.Civ.P. 54 (D) ccc cccccccsecsecsscesessecesccssesescssseceessestcssscsscsesesesscesecssssaseaceasessecseeaees passim
+MISCELLANEOUS
+
+10 Wright, Miller & Kane
+FED. PRAC. & Proc. CIVIL 3D, 0x00A7 2654 oo.ciccecescesesseecesteesesceseeeeaccarsaceeeesaenssaesseseeeaeeaeens 13
+
+10 Wright, Miller & Kane
+FED. PRAC. & Proc. CIVIL 3D, 0x00A7 2660 oui. ccccsecsscssecseesserseseccssesscseceasessseassasesseeneeneees 1,8
+
+ili
+
+ 
+Case 1:07-cv-06597-AKH Document11 Filed 08/27/2007 Page 5 of 21
+EXHIBITS
+
+Dorsey v. Enron Corp. (In re Enron Corp.), 2006 WL 1030413 (Bankr. S.D.N.Y.
+April 10, 2006) (Unpublished Case)..........ccceccsccesesccssssssesseessesessesesssseeeseees Exhibit 1
+
+Gredd v. Bear, Stearns Sec. Corp. (In re Manhattan Inv. Fund, Ltd.), 2007 WL
+534547 (Bankr. $.D.N.Y., February 15, 2007) (Unpublished Case)............0... Exhibit 2
+
+RMM Records & Video Corp. v. Universal Music & Video Distrib. Co.
+
+(In re RMM Records & Video Corp.), 2007 WL 1630493
+(Bankr. S.D.N.Y. June 7, 2007) (Unpublished Case)... cccesseeeseesseteteeees Exhibit 3
+
+iv
+
+ 
+Case 1:07-cv-06597-AKH Document11 Filed 08/27/2007 Page 6 of 21
+
+Enron Creditors Recovery Corp., formerly known as Enron Corp. ("Enron" or
+"Appellant"), respectfully submits this Memorandum of Law in Opposition to the Motion
+to Dismiss Appeal ("Motion") filed by Caisse de Depet.et placement du Quebec
+("Caisse") and National Australia Bank (""NAB," and with Caisse, "Appellees").
+
+IL
+PRELIMINARY STATEMENT
+
+The Appellees urge this Court to dismiss as untimely Enron's appeal of the
+Bankruptcy Court's judgment dismissing Enron's claims against them. The Motion is
+premised upon Enron's "failure" to appeal from earlier orders entered in June and August
+2006, which, as a matter of law, were unappealable. Specifically, Federal Rule of Civil
+Procedure 54, applicable here pursuant to Federal Rule of Bankruptcy Procedure 7054
+("Rule 54"), and the case law construing those rules, make clear that appeals properly lie
+only from the final judgment disposing of an action -- in this case entered on June 18,
+2007 -- and do not lie from orders or judgments dismissing only some of multiple claims
+and some of multiple defendants in a single ongoing action absent an express certification
+that never occurred in this case.
+
+This is not even a close case because traditional federal policy against piecemeal
+appeals from partial judgments is rigorously enforced in the Second Circuit. That policy
+is subject to exception under Rule 54(b) "only upon an express determination that there is
+no just cause for delay." FED.R.Civ.P. 54(b) (emphasis added). No Rule 54(b)
+determination was made in this case in connection with the entry of the August 2006
+partial judgment dismissing Caisse and NAB from the adversary proceeding. That alone
+should end the matter, as the requirement of express language is of obvious import in
+clearly delineating for the parties the very limited circumstances when an immediate
+appeal of a partial judgment is necessary and when it is not. 10 Wright, Miller & Kane,
+FED. PRAC. & PROC. CIVIL 3D, 0x00A7 2660 ("Although it is somewhat unclear what form the
+
+certification under Rule 54(b) should take, both the court's direction and determination
+
+ 
+Case 1:07-cv-06597-AKH Document11 Filed 08/27/2007 Page 7 of 21
+
+must be apparent and there should no doubt as to the district court's intention to certify.
+A strong policy in favor of certainty as to the district court's intention to give its decision
+final judgment status underlies the rule's procedure.").
+
+In this case, Appellees never sought a Rule 54 determination in the Bankruptcy
+Court nor did they ever allege that there was "some danger of hardship or injustice
+through delay which would be alleviated through immediate appeal." Citizens Accord,
+Inc. v. Town of Rochester, 235 F.3d 126, 129 (2d Cir. 2000). Even now, they do not
+contend that this is "the infrequent harsh case," id, in which such conditions were
+present. Instead, they argue that this case "present[s] a fact pattern without precedent,"
+Motion, page 1, in which this Court should divine "judicial intent [to] establish that Judge
+Gonzalez intended the [2006 partial] Judgment as final." Jd, page 2. That divination
+purportedly arises from two facts: (i) the Bankruptcy Court's deletion of Rule 54(b)
+language from a proposed judgment submitted by other defendants, Motion, page 6 & n.
+5, a deletion which was unnecessary as to Appellees as such language was never part of
+any order or judgment they submitted; and (ii) the Bankruptcy Court's recitation in the
+order granting the Appellees' 12(b)(6) motions that "this order shall take effect
+immediately upon its entry." Motion, page 7. As we discuss below, these facts, if
+relevant at all, argue against the Motion.
+
+Not only is divination inappropriate in general, it is completely unnecessary to
+interpret rulings by Judge Gonzalez, as he knows how to make clear, and does make
+clear, when he believes certification is appropriate and when it is not. For example, in
+another adversary proceeding, also arising out of the Enron bankruptcy case, decided in
+April 2006, Judge Gonzalez not only denied certification but explained why he does not
+lightly certify partial judgments under Rule 54(b). Dorsey v. Enron Corp. (In re Enron
+Corp.), 2006 WL 1030413, at *5-6 (Bankr. S.D.N.Y. April 10, 2006) (denying Rule
+54(b) certification because the standards for Rule 54(b) certification are "stringent in this
+
+Circuit," and must "be reserved for those rare cases where there exists some danger of
+
+ 
+Case 1:07-cv-06597-AKH Document11 Filed 08/27/2007 Page 8 of 21
+
+hardship or injustice through delay which would be alleviated by immediate appeal.").
+By contrast, where Judge Gonzalez has certified an otherwise interlocutory ruling under
+Rule 54(b), he has done so in strict compliance with the Rule's requirements. See RMM
+Records & Video Corp. v. Universal Music & Video Distrib. Co. (In re RMM Records &
+Video Corp.), 2007 WL 1630493, at *11-13 (Bankr. S.D.N.Y. June 7, 2007).
+
+Neither Rule 54(b) language nor its rationale was present here -- and this is no
+surprise as Appellees made no attempt to obtain certification. Instead, Appellees seek to
+create a post hoc amorphous exception to the final judgment rule! that would render the
+express finding requirement of Rule 54(b) a nullity. Not only would this be unwarranted
+in this case, it would spawn confusion in the future, leading to improper and unnecessary
+protective appeals of interlocutory orders and partial judgments in derogation of the
+policies of judicial economy, clarity and finality embodied in the final judgment rule and
+Rule 54. As the Supreme Court noted in its leading decision interpreting Rule 54 in its
+current form, the history of Rule 54 itself illustrates such an amorphous exception is
+unworkable and was rejected by the drafters in amending the Rule to require an express
+determination. Sears, Roebuck & Co. v. Mackey, 351 U.S. 427, 433-34, 76 S.Ct. 895,
+100 L.Ed. 1297 (1956). Accordingly, there is no basis for Appellees' claim that Enron's
+notice of appeal, following entry of final judgment on June 18, 2007, is untimely.
+
+Appellees' speculation regarding how and why Enron determined to file this
+appeal is unsupported and irrelevant. The only relevant point is that Enron timely filed
+
+its notice of appeal. Enron's timing in perfecting its appeal here was not only
+
+ 
+
+For a description of the rule, see, e.g., Midland Asphalt Corp. v. United States, 489
+U.S. 794, 798, 109 S. Ct. 1494, 103 L. Ed. 2d 879 (1989) ("In the Judiciary Act of
+1789, ... the First Congress established the principle that only final judgments and
+decrees of the federal district courts may be reviewed on appeal.... The statute has
+changed little since then.... For purposes of this provision, a final judgment is
+normally deemed not to have occurred until there has been a decision by the District
+Court that ends the litigation on the merits and leaves nothing for the court to do but
+execute the judgment.") (internal quotes and citations omitted).
+
+ 
+Case 1:07-cv-06597-AKH Document11 Filed 08/27/2007 Page 9 of 21
+
+procedurally proper, but compelled by the applicable rules and authorities; as such, the
+Motion should be denied.
+Il.
+STATEMENT OF FACTS
+
+As the motion to dismiss before the Court revolves entirely around the procedural
+issue of the timeliness of the filing of Enron's notice of appeal, Appellant offers a highly
+abbreviated Statement of Facts that focuses on the procedural issue before the Court
+rather than the merits of the appeal and the complex securitization structure and related
+transactions that are at issue in connection with those merits.
+
+On December 2, 2001, Enron (and thereafter various affiliates) filed voluntary
+petitions for relief under chapter 11 of the Bankruptcy Code in the United States
+Bankruptcy Court for the Southern District of New York. On July 15, 2004, the
+Bankruptcy Court entered an Order confirming the Debtors' Supplemental Modified Fifth
+Amended Joint Plan of Affiliated Debtors in the underlying Chapter 11 cases. The Plan
+became effective on November 17, 2004. Shimshak Decl., Exh. 14, page 2.
+
+Prior to plan confirmation, Enron commenced this adversary proceeding by filing
+a complaint (the "Complaint"). Shimshak Decl., Exh. 1. The Complaint sought to avoid
+and recover certain transfers made to and for the benefit of Caisse and NAB, as well as
+fourteen other unaffiliated financial institutions, as fraudulent transfers pursuant to
+sections 548 and 550 of the Bankruptcy Code. Jd. 0x00A70x00A7 5-25. More specifically, Enron 0x00B0
+sought to avoid three different sets of pre-bankruptcy cash transfers to or for the benefit
+of the sixteen named defendants each of whom had held some portion of approximately
+
+$300 million in so-called CLO' notes issued in December 1999 on behalf of an Enron
+
+ 
+
+"CLO" is an acronym for "collateralized loan obligation." The Enron affiliate that
+originally owned the underlying obligations being securitized was Enron North
+America Corp. ("ENA"). Through a complex securitization structure ENA
+transferred and pooled these obligations in Enron affiliated partnerships which in turn
+assumed obligations to a trust (the CLO Trust) formed for the purpose of issuing
+
+ 
+Case 1:07-cv-06597-AKH Document11 Filed 08/27/2007 Page 10 of 21
+
+affiliate: (i) the "May 2001 Transfers" totaling approximately $99 million which involved
+the repurchase of the defendants' non-recourse CLO notes at par plus accrued interest,
+even though the value of the collateral supporting those notes was known to be
+insufficient to repay them in full, id. |0x00A7f 37-41; (ii) the "January 2001 Put Payment" of
+approximately $63 million which involved Enron's agreement to repurchase part of the
+collateral pool supporting the non-recourse CLO notes at face value, even though the
+repurchased assets were known to be in default and with a fair value far less than their
+face amount, id. J] 47-48; and (iii) the "June 2001 Put Payments" of approximately $50
+million which likewise involved Enron's agreement to repurchase part of the collateral
+pool supporting the non-recourse CLO notes at face value, even though the repurchased
+assets were known to be in default and with a fair value far less than their face amount.
+Id. {0x00A7 49-50. The Complaint alleged that these transfers took place at a time when Enron
+was insolvent or undercapitalized, that Enron did not receive reasonably equivalent value
+in exchange, and that Caisse and NAB were indirect or subsequent transferees (as
+distinguished from initial transferees) of the January 2001 Put Payments and the June
+2001 Put Payments. Id. J] 47-56.
+
+Caisse and NAB moved to dismiss the Complaint pursuant to FED.R.CIv.P.
+12(b)(6). Shimshak Decl., Exh. 8 & 9. Appellees' motions to dismiss centered around
+the legal question presented in this appeal: Whether the legal representative of a
+bankruptcy estate that has timely filed suit against a subsequent transferee to avoid and
+recover a fraudulent transfer, but that has not sued the initial transferee, states a claim
+
+upon which relief can be granted.
+
+ 
+
+notes secured by the CLO assets to various institutional investors including Caisse
+and NAB. The independent examiner appointed in the Enron Chapter 11 cases issued
+a report concluding, among other things, that Enron could avoid and recover several
+transactions or transfers pertaining to the CLO Trust. Shimshak Decl., Exh. 1, 0x00A7 4.
+
+ 
+

@@ -1,0 +1,1265 @@
+Case 3:15-cv-00577-JAG Document 77 Filed 06/16/16 Page 1 of 36 PageID# 2172
+
+UNITED STATES DISTRICT COURT
+FOR THE EASTERN DISTRICT OF VIRGINIA
+Richmond Division
+PHILIP MORRIS USA INC.,
+Plaintiff,
+v.
+AMERICAN ACCESSORIES
+INTERNATIONAL, L.L.C.,
+Defendant.
+
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+
+Civil Action No. 3:15-cv-577
+
+DEFENDANT’S OPPOSITION TO PLAINTIFF’S
+MOTION FOR PARTIAL SUMMARY JUDGMENT
+
+Case 3:15-cv-00577-JAG Document 77 Filed 06/16/16 Page 2 of 36 PageID# 2173
+
+TABLE OF CONTENTS
+TABLE OF AUTHORITIES .......................................................................................................... ii
+INTRODUCTION .......................................................................................................................... 1
+BACKGROUND ............................................................................................................................ 3
+A.
+
+PM’s Mandatory Process for Product Development. ............................................. 3
+
+B.
+
+The Development of the 3-in-1 Flashlight. ............................................................. 4
+
+C.
+
+AAI’s Swift Response to the Customer Incidents. ................................................. 5
+
+D.
+
+PM’s Voluntary Recall. .......................................................................................... 6
+
+E.
+
+The Purchase Orders. .............................................................................................. 7
+
+STATEMENT OF FACTS AS TO WHICH THERE IS A GENUINE ISSUE ............................. 7
+ARGUMENT ................................................................................................................................ 13
+I.
+
+II.
+
+PM Has Not Established That the Flashlight Was Defective as a Matter of
+Law. .................................................................................................................................. 14
+A.
+
+The Issue of Design Defect Must Be Decided by the Jury. .................................. 15
+
+B.
+
+There is a Factual Dispute Whether the Product Is Defective. ............................. 16
+
+C.
+
+PM’s Evidence of Alleged Defect Is Not Admissible. ......................................... 17
+
+Even If the Flashlight Were Defective, PM Is Not Entitled to Summary
+Judgment. .......................................................................................................................... 18
+A.
+
+AAI Did Not Breach the Warranty Clause. .......................................................... 18
+1.
+
+III.
+
+AAI Is Not Liable for Any Defects Because the Flashlight Was
+Designed According to PM’s Specifications. ........................................... 19
+a.
+
+AAI Did Not Breach the First Sentence of the Warranty
+Clause Based on an Alleged Design Defect. ................................ 20
+
+b.
+
+AAI Did Not Breach the First Sentence of the Warranty
+Clause Based on Allegedly Inadequate Instructions. .................... 22
+
+c.
+
+AAI Did Not Breach the Second Sentence of the
+Warranty Clause............................................................................ 23
+
+B.
+
+AAI Did Not Breach the Indemnity Clause. ......................................................... 24
+
+C.
+
+AAI Did Not Breach the Implied Warranty of Merchantability. .......................... 26
+
+D.
+
+PM Fails To Prove Proximate Causation as a Matter Of Law. ............................. 27
+
+PM Is Not Entitled to The Damages It Seeks. .................................................................. 28
+
+CONCLUSION ............................................................................................................................. 30
+
+Case 3:15-cv-00577-JAG Document 77 Filed 06/16/16 Page 3 of 36 PageID# 2174
+
+TABLE OF AUTHORITIES
+FEDERAL CASES
+Abbot by Abbot v. Am. Cyanamid Co., 844 F.2d 1108 (4th Cir. 1988) .........................................23
+Austin v. Clark Equip. Co., 48 F.3d 833 (4th Cir. 1995) ...............................................................19
+Burgess v. Bowen, 466 F. App’x 272 (4th Cir. 2012) ....................................................................14
+Davis v. Simon-Telelect, Inc., 48 F.3d 1215 (4th Cir. 1995) .........................................................27
+E. Gas & Fuel Assocs. v. Midwest-Raleigh, Inc., 374 F.2d 451 (4th Cir. 1967) ...........................25
+Evans v. Techs. Applications & Serv. Co., 80 F.3d 954 (4th Cir. 1996) .......................................13
+First S. Bank v. Bank of the Ozarks, 542 F. App’x 280 (4th Cir. 2013) ........................................21
+Fox Group, Inc. v. Cree, Inc., 819 F. Supp. 2d 520 (E.D. Va. 2011) ............................................14
+Gordon v. Pete’s Auto Serv. of Denbigh, Inc., 837 F. Supp. 2d 581 (E.D. Va.
+2011) ........................................................................................................................................14
+Hall v. Int’l Paper Co., No. 3:07-CV-064, 2007 WL 2965054 (E.D. Va. Oct. 9,
+2007) ........................................................................................................................................19
+In re Stokes, 198 B.R. 168 (E.D. Va. 1996)...................................................................................30
+Karnette v. Wolpoff & Abramson, L.L.P., 444 F. Supp. 2d 640 (E.D. Va. 2006)..........................24
+Level 3 Commc’ns, LLC v. Limelight Networks, Inc., 630 F. Supp. 2d 654 (E.D.
+Va. 2008)..................................................................................................................................13
+Mastrobuono v. Shearson Lehman Hutton, Inc., 514 U.S. 52 (1995) ...........................................22
+PCS Nitrogen Inc. v. Ashley II of Charleston LLC, 714 F.3d 161 (4th Cir. 2013) ........................24
+RMA Lumber, Inc. v. Pioneer Mach., LLC, No. 6:08-00023, 2009 WL 4015928
+(W.D. Va. Nov. 19, 2009)........................................................................................................22
+S. Ry. Co. v. Coca Cola Bottling Co., 145 F.2d 304 (4th Cir. 1944) .......................................22, 24
+Singleton v. Int’l Harvester Co., 685 F.2d 112 (4th Cir. 1981) .....................................................15
+Spangler v. Kranco, Inc., 481 F.2d 373 (4th Cir.1973) .................................................................19
+Sprouse v. Am. Tire Distribs., Inc., No. 3:08-CV-491, 2009 WL 1404735 (E.D.
+Va. May 15, 2009) ...................................................................................................................22
+
+- ii -
+
+Case 3:15-cv-00577-JAG Document 77 Filed 06/16/16 Page 4 of 36 PageID# 2175
+
+Todd Marine Enters, Inc. v. Carter Mach. Co., 898 F. Supp. 341 (E.D. Va. 1995) ......................14
+Vienna Metro LLC v. Pulte Home Corp, 786 F. Supp. 2d 1076 (E.D. Va. 2011) .........................27
+Wellmore Coal Co. v. Powell Constr. Co., 600 F. Supp. 1042 (W.D. Va. 1984) ..........................21
+Werner v. Upjohn Co., Inc., 628 F.2d 848 (4th Cir. 1980) ............................................................18
+Wingo v. Celotex Corp., 834 F.2d 375 (4th Cir. 1987) ..................................................................25
+Young v. J.I. Case Co., No. 3:90CV00630, 1994 WL 506403 (E.D. Va. June 3,
+1991) ..................................................................................................................................15, 26
+STATE CASES
+Featherall v. Firestone Tire & Rubber Co., 219 Va. 949 (1979) ..................................................22
+Forbes v. Rapp, 269 Va. 374 (2005) ..............................................................................................29
+Logan v. Montgomery Ward & Co., 216 Va. 425 (1975) ..............................................................27
+McClanahan v. Cal. Spray-Chem. Corp., 194 Va. 842 (1953)......................................................22
+Morgen Indus., Inc. v. Vaughan, 252 Va. 60 (1996) .....................................................................15
+Nat’l Airlines, Inc. v. Shea, 223 Va. 578 (1982) ............................................................................30
+Online Res. Corp. v. Lawlor, 285 Va. 40 (2013) ...........................................................................21
+RGR, LLC v. Settle, 288 Va. 260 (2014)........................................................................................27
+Saks Fifth Ave., Inc. v. James, Ltd., 272 Va. 177 (2006) ...............................................................30
+OTHER AUTHORITIES
+Federal Rule of Civil Procedure 56(a) ...........................................................................................13
+Federal Rule of Civil Procedure 56(c)(2) ......................................................................................17
+Federal Rule of Civil Procedure 56(f) ...........................................................................................14
+Federal Rule of Evidence 407 ..................................................................................................17, 18
+Robert Draim, Virginia Practice: Products Liability ..................................................15, 22, 23, 25
+VA Code Ann. § 8.2-316, UCC cmt. 9 ..........................................................................................26
+VA Code Ann. § 8.2-317(c) ...........................................................................................................26
+Va. Code Ann. § 8.2-314, UCC cmt. 13 ........................................................................................27
+- iii -
+
+Case 3:15-cv-00577-JAG Document 77 Filed 06/16/16 Page 5 of 36 PageID# 2176
+
+INTRODUCTION
+PM seeks to require its supplier, American Accessories International, L.L.C., to pay
+millions of dollars in costs for PM’s voluntary recall of its 3-in-1 Flashlight after it received four
+reports that the matches in the product had ignited unintentionally.1 But PM—not AAI—
+dictated the design of the Flashlight through its own specifications. AAI is thus not liable for
+any alleged design defect. Nor is AAI liable for PM’s unilateral decision to implement a
+voluntary product replacement recall. PM implemented this recall based on concerns about its
+own failure to timely report the consumer incidents to the Consumer Product Safety
+Commission. And it rejected, with no valid reason, AAI’s more effective, quicker, and less
+expensive proposal to provide consumers with instructions on how to prevent unintended
+ignitions. Each of PM’s claims fails as matter of law. At a minimum, PM is not entitled to
+summary judgment because each of the elements of its claims depends on disputed issues of
+material fact.
+As a threshold matter, all of PM’s claims are based on its contention that the Flashlight
+was defective. But whether a product is defective is a quintessential question of fact for the jury
+to decide. Here, the jury will need to wrestle with the contradiction between the central premise
+of PM’s entire case (that the Flashlight was defective) and the statements of PM’s key witness.
+According to Rick Clements, the PM buyer who dictated the product design,
+Ex. 1 (emphasis in original). In light of the conflict
+between PM’s current litigation position and the pre-litigation statements of its own witness (not
+to mention abundant evidence and expert opinion that the Flashlight is not unreasonably
+dangerous), the Court simply cannot decide this threshold, factual issue as a matter of law. This
+alone requires denial of PM’s motion.
+
+1
+
+Although PM USA is the Plaintiff, AAI dealt with other Altria entities in the project: Altria
+Client Services, Inc. and Altria Group Distribution Company. Unless otherwise indicated, we
+refer to them collectively as “PM.”
+
+Case 3:15-cv-00577-JAG Document 77 Filed 06/16/16 Page 6 of 36 PageID# 2177
+
+Moreover, even if the Flashlight were defective, PM is not entitled to summary judgment
+because AAI did not breach any contractual provisions or implied warranty. First, AAI did not
+breach the express warranties in the Purchase Orders because it manufactured the product
+according to PM’s precise specifications. Under Virginia law, AAI cannot be held liable for
+design defects in a custom product made to PM’s own specifications. PM drafted and controlled
+the specifications and required AAI to follow them. AAI should be entitled to judgment as a
+matter of law on this basis. At a minimum, PM’s assertion that AAI did not follow PM’s
+specifications is an issue of fact for the jury to decide.
+Second, PM’s claim that AAI breached the Indemnity Clause of the Purchase Order fails
+as a matter of law because that clause does not apply. It is displaced by the more-specific
+express warranties in the Purchase Orders, which set forth specific conditions regarding the
+liability of the parties based on alleged product defects and provide exclusive remedies for any
+violations. Even if the Indemnity Clause did apply, PM cannot establish breach as a matter of
+law because it depends on the disputed factual issues of which party was at fault and the extent to
+which each party’s conduct caused the harm.
+Third, PM’s implied warranty of merchantability claim fails as a matter of law because
+the express warranty conflicts with and displaces any potential implied warranty. And even if an
+implied warranty did apply, there is a fact-intensive question of whether the Flashlight is not fit
+for its ordinary purpose because it is defective, an issue that the jury must decide.
+Fourth, even if PM could establish a breach of contract or implied warranty, it cannot
+demonstrate as a matter of law that the breach proximately caused PM’s claimed losses.
+Finally, PM is not entitled to the damages that it is seeking as a matter of law. PM is
+seeking to recover both a refund of the price it paid for the Flashlight and reimbursement for the
+cost of replacement, but the contract provides for those remedies as alternative remedies and
+does not permit such a double recovery. Moreover, there is ample evidence that PM breached its
+duty to mitigate damages.
+
+-2-
+
+Case 3:15-cv-00577-JAG Document 77 Filed 06/16/16 Page 7 of 36 PageID# 2178
+
+Thus, for the reasons stated herein, and in AAI’s motion for summary judgment and
+supporting memorandum, the Court should deny PM’s motion for summary judgment and grant
+summary judgment in favor of AAI.
+BACKGROUND
+A.
+
+PM’s Mandatory Process for Product Development.
+
+AAI manufactures and delivers custom products for PM, in accordance with PM’s
+detailed specifications, for PM to distribute to its customers. Because AAI has close
+relationships with leading manufacturing factories in China, it can deliver products to PM
+efficiently and in compliance with PM’s strict specifications and quality assurance standards.
+Over the course of the last 20 years, AAI has worked with PM on hundreds of projects and has
+always received the highest marks from PM for its service, quality, and compliance with PM’s
+policies and product specifications.
+PM requires its suppliers to follow strict specifications in manufacturing a product. PM
+required AAI to agree to PM’s Marketing Incentives Quality Assurance Guidelines for Suppliers
+(“Supplier Guidelines”), which are designed to provide PM
+
+Ex. 2; Ex. 3. The Supplier Guidelines made it clear that PM, through its own
+third party Quality Assurance firm, was responsible for the product specifications, and
+specifically for product safety:
+
+Ex. 2 (emphasis added). PM hired Underwriters
+Laboratories (“UL”), an industry leader in consumer product safety, to serve as its third-party
+QA firm. Ex. 4 (Isemann Dep. 28:18-29:17; 33:2-18; 46:16-47:1). UL’s representative, Mary
+Isemann, worked full-time at PM’s facilities, and her office was in close proximity with Rick
+Clements, PM’s project leader for the 3-in-1 Flashlight. Ex. 4 (Isemann Dep. 38:9-21).
+
+-3-
+
+Case 3:15-cv-00577-JAG Document 77 Filed 06/16/16 Page 8 of 36 PageID# 2179
+
+B.
+
+The Development of the 3-in-1 Flashlight.
+
+In response to a request from PM for product ideas for its outdoor marketing theme, AAI
+proposed a product with three related functions: a flashlight, a compass, and a storage
+compartment for matches (or other items). Notably, AAI’s proposal was not for matches to be
+included with the product. Ex. 5; Ex. 6 (D. Zeanah Dep. 85:23-86:7). Rather, under AAI’s
+proposal, consumers could supply their own matches, if they so chose. PM insisted, however,
+that matches be included with the flashlight. Ex. 7 (Simers Dep. 34:1-35:13). PM also made
+multiple rounds of design modifications to the Flashlight to suit its preferences, including the
+location of the striker pad. Ex. 8 (AAI’s Answers to PM’s Interrogatory Nos. 12 & 13).
+In accordance with the Supplier Guidelines, Ms. Isemann prepared and revised the
+specifications for the 3-in-1 Flashlight. Her specifications enumerated the various types of
+testing that AAI was required to perform on the Flashlight, including testing on the matches. Ex.
+9; Ex. 4 (Isemann Dep. 158:3-16). AAI signed and approved the final specifications, indicating
+that it would provide the Flashlight in accordance with them. Ex. 9. There is no dispute that
+AAI met all of PM’s and UL’s specifications for the Flashlight.
+PM was also intricately involved in the preparation of the instruction sheet that
+accompanied the flashlight when it was sent to consumers. PM made specific changes to the
+instruction sheet, including deleting a safety warning proposed by AAI and directing AAI to
+move a warning about the flashlight battery: “I think all the warnings should go in the back . . .
+would prefer that the 1st thing a consumer sees is not a warning . . . .” Ex. 11; Ex. 10; Ex. 12
+(Clements Dep. 147:17-150:5). At no point did PM tell AAI that there should be any warning
+about the risk of unintended ignition or any instructions regarding the use of the foam barrier.
+UL did not do any safety testing on the Flashlight. Ex. 4 (Isemann Dep., 28:3-6; 90:2191:8). Although Ms. Isemann asked PM for a complete sample of the flashlight, and AAI had
+provided PM with samples of the flashlight that included matches, PM did not provide Isemann
+with samples that included matches. Ex. 4 (Isemann Dep. 145:8-21).
+
+-4-
+
+Case 3:15-cv-00577-JAG Document 77 Filed 06/16/16 Page 9 of 36 PageID# 2180
+
+C.
+
+AAI’s Swift Response to the Customer Incidents.
+
+PM distributed 3-in-1 Flashlights to its customers who specifically requested them. On
+March 4, 2014, PM received two reports from consumers of unintended ignitions of matches in
+the storage compartment. PM notified AAI of the incidents. At PM’s request, AAI immediately
+contacted the consumers to obtain details about what had occurred. AAI then conducted its own
+testing to see whether it could recreate the unintended ignition. AAI was able to recreate the
+unintended ignition under the following, limited scenario: if the match container had a certain
+number of matches; the foam barrier was not included in the compartment; and the Flashlight
+was held upside down such that the matchheads would fall to the end of the compartment where
+the striker pad was located; and the compass cap was then screwed on and off the Flashlight
+“like a pepper grinder.” Ex. 13. AAI promptly reported these results to PM in writing on
+March 9, 2014. Ex. 13.
+Notwithstanding the fact that AAI had told PM and UL that it had replicated the
+ignition—and exactly how—UL (a leading QA firm) was unable to do so in two rounds of
+testing, and PM reported the “good news” back to AAI. Ex. 14; Ex. 12 (Clements Dep. 181:11182:16). Unbeknownst to AAI, UL had experienced an unintended ignition when one of the
+flashlight samples was being prepped for testing. Ex. 15; Ex. 4 (Isemann Dep. 216:19-218:9;
+222:19-226:6). But PM did not report this incident to AAI. Moreover, PM also failed to advise
+AAI of a third reported incident, which PM received on March 14, 2014. Ex. 8 (AAI’s Answers
+to PM’s Interrogatory No. 3).
+Nonetheless, based on these two reports and AAI’s testing, AAI suggested on March 7,
+2014 (just two days after receiving notice of the incidents) sending consumers a follow-up notice
+advising them that the foam barrier should be kept in place between the matchheads and the
+striker pad. Ex. 16; Ex. 17 (E. Zeanah Dep. 107:22-111:18). Two days later, AAI again
+recommended instructing consumers that, if they had discarded their foam barrier, AAI would
+provide a replacement foam barrier at no cost to the consumer. Ex. 13; Ex. 17 (E. Zeanah Dep.
+137:5-138:4). PM, including its in-house attorney, Michael Sieja, as well as at least one outside
+
+-5-
+
+Case 3:15-cv-00577-JAG Document 77 Filed 06/16/16 Page 10 of 36 PageID# 2181
+
+counsel, agreed with this approach and participated extensively in the drafting of the notice that
+would be sent to consumers. Ex. 18 (Sieja Dep. 40:10-41:20; 45:7-51:8). Mr. Sieja
+acknowledged that during this period AAI was working collaboratively with PM, was following
+PM’s protocol and was making proposals to help the consumers. Ex. 18 (Sieja Dep. 65:8-21).
+By March 14, 2014, PM’s Brand, Compliance, and Legal departments had all approved the mass
+email plan. See Ex. 19.
+D.
+
+PM’s Voluntary Recall.
+
+Although PM agreed with the approach recommended by AAI, PM allowed several
+weeks to pass and had not sent out the notice by Friday, April 4, 2014, when PM received notice
+of a fourth reported incident. Ex. 18 (Sieja Dep. 89:2-90:1). In this incident, Mr. Lowes claimed
+that the 20 matches in the Flashlight had caused the heavy, metallic flashlight to “explode,”
+causing a deep cut and left “shrapnel” imbedded in his hand, and demanded that PM pay him
+$18,000. Ex. 20. PM decided not to investigate the Lowes incident. Ex. 21 (Crosthwaite Dep.
+79:17-80:2).
+At this point, PM consulted with Mr. Eric Rubel, an attorney at Arnold & Porter who
+specializes in Consumer Product Safety Commission issues. The CPSC’s regulations provide
+that a company can be fined up to $15.15 million if it does not notify the CPSC of a safety
+hazard within ten business days after receiving notice of the incident. PM Mem. at 8. As of
+April 4, 2014, PM had been sitting on the first two consumer reports for more than ten days.
+Then, during a 72-hour period over the weekend of Friday, April 4, to Monday, April 7, PM and
+its counsel hatched a preemptive plan to inform the CSPC of the incidents and recall the
+Flashlight. PM reported the incidents to the CPSC on April 8, 2014, and proposed a “fast-track”
+recall where consumers would return the compass cap in exchange for a premium replacement
+product. Ex. 22 (Edson Dep. 60:2-63:1). PM did not consult AAI about its proposal; AAI
+learned of PM’s plan after PM had already contacted the CPSC. Ex. 22 (Edson Dep. 52:353:24).
+
+-6-
+
+Case 3:15-cv-00577-JAG Document 77 Filed 06/16/16 Page 11 of 36 PageID# 2182
+
+E.
+
+The Purchase Orders.
+
+PM claims that the Purchase Orders for the Flashlight require AAI to pay PM at least
+$6.5 million (plus attorneys’ fees) for costs associated with its recall and this litigation. The
+Purchase Orders contain the following three provisions at issue here.
+13.
+Warranties. Supplier warrants that all Goods delivered under Order will
+(a) conform strictly to the general description, model number or specifications
+stated in this Order or provided by Supplier and in any manufacturer warranties
+that accompany the Goods, (b) be free from defects in materials, workmanship,
+and design, and (c) be of first quality and made of new materials and components.
+With respect to any Goods designed by Supplier or any of Supplier’s
+subcontractors or suppliers, Supplier assumes and acknowledges full and
+complete responsibility for the suitability, adequacy, and safety of the design of
+such Goods.
+14.
+Quality Control. Supplier must comply with Buyer's Quality Assurance
+Guidelines in effect as of the date of this Order. Buyer has the right (but not the
+obligation) to audit Supplier’s quality control through an independent quality
+assurance agent. Buyer, or it [sic] designee has the right to pre-inspect and preapprove each plant in which Goods are produced. Material testing, by an
+accredited testing company at Supplier's expense, is required on all components
+of Goods produced by Supplier for off-shore shipments. Buyer will provide the
+material testing requirements for each such component to Supplier under separate
+cover. Supplier must provide the test results to Buyer and its quality assurance
+agent before production begins.
+16. Indemnity. To the greatest extent permitted by law, Supplier agrees to
+indemnify Buyer, its affiliates, and their respective officers, employees, directors,
+and agents against all claims, losses, liabilities, damages, and expenses (including
+reasonable attorneys’ fees and disbursements) to the extent they arise from, or
+may be attributable to, any error, omission or fault of Supplier or any of its
+personnel in the performance under this Order.
+Ex. 23 (emphasis added).
+STATEMENT OF FACTS AS TO WHICH THERE IS A GENUINE ISSUE
+AAI herein responds to the “Undisputed Material Facts” (UMFs) set forth in PM’s
+Memorandum. PM Mem. at 2–13. AAI specifically denies each and every heading appearing
+within the UMFs, as well as all assertions not expressly deemed “undisputed.” Furthermore,
+AAI incorporates by reference the Undisputed Material Facts set forth in its own Motion for
+
+-7-
+
+Case 3:15-cv-00577-JAG Document 77 Filed 06/16/16 Page 12 of 36 PageID# 2183
+
+Summary Judgment. See ECF No. 44, pp. 2–8. The paragraphs below correspond to the section
+headings set forth in PM’s UMFs.
+A-1. Disputed. AAI did not “develop[] promotional product concepts.” AAI researched
+existing survival products to create a set of proposed item concepts, each of which would have
+been a “custom” item created to PM’s own specifications. See Ex. 7 (Simers Dep. 34:1-20;
+40:20-23; 42:18-21); Ex. 12 (Clements Dep. 35:13-22).
+A-2. Disputed. AAI did not design the Flashlight—this was a custom product created to
+PM’s own specifications. Ex. 12 (Clements Dep. 35:13-22); Ex. 17 (E. Zeanah Deposition 94:996:22). Diane Pinkney admitted that a custom item such as the Flashlight was one that PM either
+completely designed or modified based on a request. Ex. 24 (Pinkney Dep. 46:11-14). AAI did
+not “redesign[] the Flashlight to add a striker pad inside the match compartment” based on input
+from its Chinese manufacturer. AAI’s original proposal did not include matches, let alone a
+striker pad. Ex. 5; Ex. 6 (D. Zeanah Dep. 85:23-86:7); Ex. 7 (Simers Dep. 43:23-44:2; 55:456:3). PM dictated that matches be included in the product. Ex. 7 (Simers Dep. 34:1-35:17;
+55:1-3). When AAI advised PM that it had not previously been involved with products that
+included matches, PM responded that it had done so previously and assured AAI that it would be
+fine because PM’s legal team had approved. Ex. 25. PM also dictated the location of the striker
+pad. After PM insisted that standard safety matches (not “strike anywhere” matches) be
+included, AAI recommended that the flashlight include striker sheets in poly bags, separated
+from the matches, or that a striker pad be placed on the outside of the flashlight. Ex. 8 (AAI’s
+Answers to PM’s Interrogatory Nos. 12 & 13). But PM rejected these proposals, and instead
+required that the striker pad be affixed inside the flashlight. Id. The only place the striker pad
+could be affixed was on the underside of the compass end, which is where it was placed. Id.
+PM further controlled the design of the flashlight because the specifications were
+provided by UL on PM’s behalf. See Ex. 9. AAI further disputes that it “took credit for
+developing and designing the Flashlight.” AAI never once stated that it was responsible for the
+“design” of the Flashlight. Rather, AAI worked with PM to develop a custom product based on
+-8-
+
+Case 3:15-cv-00577-JAG Document 77 Filed 06/16/16 Page 13 of 36 PageID# 2184
+
+PM’s own specifications and directions. Ex. 12 (Clements Dep. 35:13-22); Ex. 17 (E. Zeanah
+Dep. 38:4-10; 94:9-96:22); Ex. 24 (Pinkney Dep. 46:11-14).
+A-3. Disputed. AAI was not the “creator” of the instruction sheet. The instruction sheet
+was reviewed and altered by PM. Ex. 26; Ex. 11. PM provided specific directives and retained
+ultimate control and approval. See Ex. 26; Ex. 11. PM made extensive edits and changes to the
+instruction sheet, including deleting an optional match warning proposed by AAI, and directing
+AAI to move a warning about the flashlight battery. See Ex. 26; Ex. 11.
+A-4. Disputed. PM dictated all the pre-production specifications and testing
+requirements relating to the Flashlight product. In its Supplier Guidelines, PM represented to
+AAI that PM
+
+Ex. 2; Ex. 4 (Isemann Dep. 46:16-47:1). PM’s Supplier Guidelines provided that PM and the
+QA firm would determine the specifications for the products—including any appropriate testing:
+
+Ex. 2. The specifications were mandatory:
+Id. PM hired UL, an industry
+leader in consumer product safety, as the QA firm. Ex. 4 (Isemann Dep. 28:18-29:17; 33:2-18;
+46:16-47:1). UL’s representative was Mary Isemann. Ex. 4 (Isemann Dep. 38:9-21).
+AAI also disputes that it “drafted the initial specifications.” Ms. Isemann had previously
+prepared specifications for another flashlight supplied by AAI to PM a couple of years earlier
+(the prior flashlight did not involve matches). Ex. 27 (Smith Dep. 95:22-97:14). Accordingly, at
+the request of Mr. Clements, AAI sent Ms. Isemann a first draft of Concept Specification
+Analysis (“CSA”). Ex. 27 (Smith Dep. 76:3-77:12; 82:5-21). This draft was based entirely on
+the specifications for the previous flashlight, which Ms. Isemann drafted. Ex. 27 (Smith Dep.
+-9-
+
+Case 3:15-cv-00577-JAG Document 77 Filed 06/16/16 Page 14 of 36 PageID# 2185
+
+76:3-77:12); Ex. 28. AAI’s draft did not include specifications for matches or any required
+testing for matches.2 Ms. Isemann prepared the specifications for the 3-in-1 Flashlight, adding in
+the new specifications and testing requirements that the flashlight and the matches had to meet.
+Ex. 4 (Isemann Dep. 158:3-16). The Specifications Analysis (SA) went through six revisions
+before it was finalized. Ex. 9; Ex. 4 (Isemann Dep. 156:8-158:16; 161:10-13). In those six
+revisions, Ms. Isemann, not AAI, added numerous specifications, including labeling
+requirements, performance testing requirements, and inspection checklists. Ex. 9. One of the
+performance testing requirements Ms. Isemann added in the very first revision was “testing for
+matches.” Ex. 29; Ex. 4 (Isemann Dep., 128:1-129:7). Ms. Isemann also added to the SA’s preshipment inspection checklist whether the “match-barrier sponge” was present. Ex. 29; Ex. 4
+(Isemann Dep. 132:21-134:14). Moreover, the SA is prepared under ALCS’s logo, not AAI’s,
+and is a PM/Altria document. Ex. 9; Ex. 4 (Isemann Dep. 156:8-158:2; 161:10-13).
+PM criticizes the fact that the CSA and SA characterized a potentially missing match
+barrier sponge as a major defect, rather than a critical defect. PM Mem. at 5. However, the
+characterization of a missing match barrier sponge as a major defect, rather than as a critical
+defect, was made by UL, not AAI. Ex. 4 (Isemann Dep. 138:6-20). Although PM asserts that
+AAI never told PM that the foam insert was intended to protect against unintended ignition, PM
+Mem. at 5, Ms. Isemann testified that she knew the foam insert prevented the matchheads from
+coming in contact with the striker pad. Ex. 4 (Isemann Dep. 130:12-19).
+PM also asserts that SGS, a third party testing company that AAI used to test whether the
+Flashlight met all the tests required by PM’s SA, made testing suggestions that were not shared
+with PM, nor incorporated into the specifications prepared by UL on behalf of PM. PM Mem. at
+5. This is incorrect. The two “unintended ignition” tests—(1) a heating test, and (2) a drop
+test—were required by the CSA and SA prepared by UL on behalf of PM. Ex. 9; Ex. 30.
+2
+
+When AAI sent the draft specifications on August 27, 2013, PM had already dictated that
+matches be included. The draft specs thus stated “matches,” but did not contain any particular
+specifications for the matches or testing that must be performed on the matches. Ex. 31.
+
+- 10 -
+
+Case 3:15-cv-00577-JAG Document 77 Filed 06/16/16 Page 15 of 36 PageID# 2186
+
+Although the product passed both these pre-shipment tests, Ex. 4 (Isemann Dep. 70:8-72:19),
+neither test would have uncovered the problem of intended ignition from removing the foam
+barrier and twisting the product upside down like a pepper grinder. See Ex. 13.
+A-5. Disputed. AAI does not dispute that two consumer reports were received on
+March 4, 2014, and that AAI took prompt action to help resolve the reported issues. However,
+PM is the party that decided to halt all further shipments of the Flashlight product and pursue a
+fast-track recall. Ex. 8 (AAI’s Answers to PM’s Interrogatory No. 9). Contrary to PM’s
+assertions, AAI never once “conceded” that the Flashlight product was defective. PM fails to
+provide in its UMFs any specific factual support for their assertions of concessions. Later on in
+its Memorandum, PM points to the actions that AAI undertook in the wake of the initial
+consumer complaints as proof of “concessions” of defect. See PM Mem. at 18–20. But, as
+discussed in detail below, these are not, in fact, “concessions,” and evidence of AAI’s
+subsequent remedial measures is inadmissible to prove a defect in the product’s design.
+Moreover, as Rick Clements stated:
+Ex. 1. AAI disputes that its CPSC expert, Nancy Nord, made any “concessions”
+regarding what the product instructions “should have” included. The deposition testimony PM
+cites in its UMFs does not demonstrate—and the testimony immediately following PM’s selected
+excerpts refutes—any such “concession.” See Ex. 32 (Nord Dep. 46:5-48:4).
+B. Undisputed.
+C. Disputed. AAI does not dispute that PM received the three cited incident reports, but
+AAI disputes the truth of the alleged injuries and causes contained within the reports. PM never
+investigated the claims included in the April 4, 2014 incident report. Ex. 21 (Crosthwaite Dep.
+79:17-80:2). AAI also disputes PM’s statement that AAI advised that PM should “simply send
+revised instructions.” By the time PM received this April 4, 2014 incident report, AAI had spent
+the past month attempting to get PM to email a notice to consumers to address the unintentional
+ignitions. Ex. 33; Ex. 13; Ex. 8 (AAI’s Answers to PM’s Interrogatory No. 9). AAI could not
+send out the mass email itself, as PM had all of the consumers’ email addresses and wanted to
+- 11 -
+
+Case 3:15-cv-00577-JAG Document 77 Filed 06/16/16 Page 16 of 36 PageID# 2187
+
+send the email from a PM-brand email address. Ex. 34. Mr. Sieja acknowledged that during this
+period AAI was working collaboratively with PM, was following PM’s protocol, and was
+making proposals to help the consumers. Ex. 18 (Sieja Dep. 65:8-21).
+On April 4, 2014, PM received notice of a purported incident reported by Mr. J.D.
+Lowes. Ex. 20. That day, PM asked Eric Zeanah to participate that afternoon in a conference
+call to discuss the incident. See Ex. 18 (Sieja Dep. 80:5-22). When PM asked Mr. Zeanah what
+he intended to do in response to the incident report, Mr. Zeanah responded that he thought the
+notice he had proposed a month earlier should be sent out and asked whether PM had given final
+approval to the much-discussed notice. Ex. 18 (Sieja Dep. 86:5-87:21; 94:19-96:2). PM
+responded that it was thinking about it, and would let AAI know its position. Ex. 18 (Sieja Dep.
+101:6-17).
+PM did not, however, get back to AAI. Ex. 18 (Sieja Dep. 101:18-21). Instead, just four
+days later (with two of those days being the intervening weekend), PM reported the four
+incidents to the CPSC on April 8, 2014. Ex. 22 (Edson Dep. 52:3-53:24). AAI learned of PM’s
+report only after it had been completed. Id. The report did not just advise of the four incidents,
+but also proposed that the flashlight be recalled and that consumers receive a premium
+replacement product. Ex. 22 (Edson Dep. 60:2-63:1).
+After learning of PM’s report, AAI’s counsel spoke with PM’s in-house counsel and
+expressed AAI’s position that the Flashlight did not need to be rendered useless and returned,
+because the issue could be addressed through a quicker and more effective follow-up notice
+advising consumers they needed to use the foam barrier. Ex. 22 (Edson Dep. 167:1-171:3); see
+also Ex. 35; Ex. 36; Ex. 37. PM rejected that approach. Ex. 22 (Edson Dep. 167:1-171:3). AAI
+then followed up with an email to PM, reiterating AAI’s position that a full recall of the
+flashlight was unnecessary and reserving AAI’s rights on this issue. Ex. 37; see also Ex. 35.
+AAI disputes that its proposed plan to send consumers revised instructions “would have
+faced significant challenges.” Nancy Nord, a former Commissioner of the CPSC, concluded that
+it would have been appropriate for PM to include either a revised instruction sheet that reminded
+- 12 -
+
+Case 3:15-cv-00577-JAG Document 77 Filed 06/16/16 Page 17 of 36 PageID# 2188
+
+consumers of the need to keep the foam barrier between the matchheads and the striker pad, or
+alternatively, by providing the consumers with a video explaining how to remove the striker pad
+from the underside of the compass cap, just as AAI has proposed. Ex. 38.
+AAI also disputes that PM’s recall plan “was both appropriate under the circumstances
+and reasonable in execution.” PM attempts to suggest there is no factual dispute on the issue of
+the recall because Ms. Nord purportedly testified in her deposition that she did not have an issue
+with how PM’s recall was conducted. PM Mem. at 12. This is a misstatement of Ms. Nord’s
+testimony. Ms. Nord was asked whether, if she put aside her opinion that PM should have
+pursued an instruction or repair approach, she might have any criticism of how PM conducted
+the recall. Ex. 32 (Nord Dep. 118:12-120:11). Ms. Nord testified that, if she accepted the
+premise of taking the route chosen by PM, she did not have any criticisms of how the recall was
+conducted. Id. Nevertheless, her opinion was and remained that PM could have gone forward
+with a quicker, more effective, and far less expensive route of a revised instruction sheet and/or a
+video, both of which were suggested by AAI.
+D. Disputed. AAI does not dispute that the Purchase Orders were part of the operative
+contract documents. AAI does dispute, however, that the Purchase Orders were the sole
+governing documents—the Purchase Orders explicitly incorporate by reference PM’s Supplier
+Guidelines, which (i) specified that its QA firm (here, UL) would review the product design for
+product safety, and (ii) required AAI to adhere rigorously to PM’s product specifications. Ex. 23.
+ARGUMENT
+Under Federal Rule of Civil Procedure 56(a), summary judgment should be granted only
+if “there is no genuine dispute as to any material fact and the movant is entitled to judgment as a
+matter of law.” Fed. R. Civ. P. 56 (a). “If, after reviewing the record, it appears that ‘a
+reasonable jury could return a verdict for [the non-movant], then a genuine factual dispute exists
+and summary judgment is improper.’” Level 3 Commc’ns, LLC v. Limelight Networks, Inc., 630
+F. Supp. 2d 654, 657 (E.D. Va. 2008) (alteration in original) (quoting Evans v. Techs.
+Applications & Serv. Co., 80 F.3d 954, 958-59 (4th Cir. 1996)). “In other words, the moving
+
+- 13 -
+
+Case 3:15-cv-00577-JAG Document 77 Filed 06/16/16 Page 18 of 36 PageID# 2189
+
+party’s submission must foreclose the possibility of the existence of facts from which a jury
+could make inferences favorable to the non-movant.” Todd Marine Enters, Inc. v. Carter Mach.
+Co., 898 F. Supp. 341, 343-44 (E.D. Va. 1995). Further, “[e]ven if the basic facts are not in
+dispute, the parties may nevertheless disagree as to the inferences that reasonably may be drawn
+from them, in which case summary judgment may be inappropriate . . . .” Gordon v. Pete’s Auto
+Serv. of Denbigh, Inc., 837 F. Supp. 2d 581, 584 (E.D. Va. 2011). “A district court considering a
+motion for summary judgment must view the evidence in the light most favorable to the
+nonmoving party and draw all inferences in favor of the nonmovant.” Burgess v. Bowen, 466 F.
+App’x 272, 276 (4th Cir. 2012) (citation omitted).
+Moreover, “[a]fter giving notice and a reasonable time to respond, the court may (1) grant
+summary judgment for a nonmovant; [and] (2) grant the motion on grounds not raised by a
+party.” Fed. R. Civ. P. 56(f); see also Fox Group, Inc. v. Cree, Inc., 819 F. Supp. 2d 520, 522
+(E.D. Va. 2011) (“[T]he court can enter judgment in favor of the nonmovant, as long as the court
+gives ‘notice and a reasonable time to respond’” pursuant to Rule 56(f) of the Federal Rules of
+Civil Procedure.”) (internal citations removed).
+I.
+
+PM Has Not Established That the Flashlight Was Defective as a Matter of Law.
+All of the claims on which PM has moved for summary judgment (breach of contract,
+
+breach of express warranty, and breach of implied warranty) hinge on a disputed factual issue:
+whether the Flashlight is unreasonably dangerous and thus defective. PM’s two alleged breaches
+of the Warranty Clause are both predicated on a purported design defect. PM alleges that AAI
+breached the first sentence of the Warranty Clause because the Flashlight was not “free from
+defects” in “design.” PM Mem. at 17 (emphasis added). Plaintiff also alleges that AAI breached
+the second sentence of the Warranty Clause because it failed to “assume and acknowledge full
+and complete responsibility for the suitability, adequacy, and safety of the design” of the
+Flashlight. PM Mem. at 20 (emphasis added). Likewise, PM’s alleged breach of the Indemnity
+Clause depends on the same alleged breach of the Warranty Clause and an allegation that AAI
+“delivered a product that was defective in its actual design.” PM Mem. at 23. Finally, PM
+
+- 14 -
+
+Case 3:15-cv-00577-JAG Document 77 Filed 06/16/16 Page 19 of 36 PageID# 2190
+
+alleges that the Flashlight breached the implied warranty of merchantability because it contained
+the risk that it could “explode upon use.” PM Mem. at 26.
+Virginia law is unequivocal that the issue of defect should be decided by the jury.
+Indeed, “[n]o reported Virginia case has found a product design unreasonably dangerous and
+thus defective as a matter of law.” Robert Draim, Virginia Practice: Products Liability § 3:4 n.2
+(emphasis added). The Court should deny PM’s motion on this threshold basis alone.
+A.
+
+The Issue of Design Defect Must Be Decided by the Jury.
+
+In addressing whether a product is defective in design, Virginia employs a “reasonably
+safe/unreasonably dangerous” standard. Va. Prac. Products Liability § 3:4. The Virginia
+Supreme Court has made it clear that “[t]he issue whether a product is unreasonably dangerous is
+a question of fact.” Morgen Indus., Inc. v. Vaughan, 252 Va. 60, 65-66 (1996) (citing Singleton
+v. Int’l Harvester Co., 685 F.2d 112, 115 (4th Cir. 1981)). Moreover, just because a product
+could be safer does not mean that the product is unreasonably dangerous and defective as a
+matter of law. Young v. J.I. Case Co., No. 3:90CV00630, 1994 WL 506403, at *5 (E.D. Va.
+June 3, 1991) (“Academically, it may be argued that all products are defective because they can
+be made more safe. However, it does not automatically follow that the products are deemed
+unreasonably dangerous.”).
+PM itself concedes that “in product liability cases, the question of defect is typically left
+for the jury . . . .” PM Mem. at 17. PM attempts to evade this well-settled principle of law by
+claiming that “this is not a product liability case” and is “a case sounding in contract.” PM Mem.
+at 17. Yet PM does not offer a shred of legal or logical support for why this established
+definition of defect under Virginia law would not apply here. Nor could it, because PM itself
+cites to Virginia products liability law to define this concept. See, e.g., id. (citing Va. Prac.
+Products Liability § 3:5). Thus, by PM’s own admission, the question of defect is one for the
+jury to decide and is not appropriate for summary judgment.
+
+- 15 -
+
+Case 3:15-cv-00577-JAG Document 77 Filed 06/16/16 Page 20 of 36 PageID# 2191
+
+B.
+
+There is a Factual Dispute Whether the Product Is Defective.
+
+There is a clear factual dispute whether the Flashlight is defective. PM’s own project
+manager for the Flashlight, Rick Clements, admitted after PM had received the two initial
+consumer reports and after AAI investigated and reported on those two incidents:
+Ex. 1. PM is plainly not entitled to judgement
+as a matter of law on this issue.
+AAI’s product design expert, Dr. Elizabeth Buc, also examined the Flashlight and
+concluded that the product was not defective: “The multi-party data, analyses and inspection
+reports support the conclusion that the product as manufactured and delivered to the consumer
+was safe for consumer use.” Ex. 39 at 3 (emphasis added). Dr. Buc testified that the Flashlight,
+“as manufactured,” contained an effective foam barrier between the matches and the striker pad.
+Ex. 40 (Buc Dep. 80:12-80:16). As Dr. Buc elaborated:
+[T]he foam insert in the product matchstick compartment is effective in
+preventing the contact of one or more matchsticks with the striker pad when
+inserted in the housing. The foam is not likely to exhibit set (permanent
+deformation) overtime reducing its ability to isolate the matchsticks from the
+abrasive strike pad. The utility of the foam barrier is an added safety feature to
+the device under normal conditions of use.
+Ex. 39 at 3.
+Dr. Buc’s conclusion that the product was safe for consumer use comports with the
+results of the extensive testing on the Flashlight before it was produced and delivered to
+consumers. See supra at 9-11. None of these tests revealed any unintended ignitions or other
+potential defects in the product’s design. Id.
+The tests that PM (through UL) conducted following the initial consumer incident reports
+are further proof that the Flashlight was not “unreasonably dangerous” and was safe for
+consumer use. Following the March 4, 2014 incident reports, UL conducted two separate sets of
+tests to attempt to trigger unintended ignitions. UL’s first set of tests—“vibration testing” with
+the foam barrier removed—did not result in any ignitions. Ex. 14. UL’s second set of tests— a
+“pepper grinder” style test with the foam barrier removed, which replicated the circumstances of
+- 16 -
+
+Case 3:15-cv-00577-JAG Document 77 Filed 06/16/16 Page 21 of 36 PageID# 2192
+
+the two reported consumer incidents, see Ex. 13, similarly did not result in ignitions during
+testing. Ex. 15. Thus, UL was unable to replicate an unintended ignition, even when utilizing
+the same “pepper grinder” technique described by the two consumers. If the product in fact
+contained a serious design defect and was subject to dangerous “explosions,” as PM claims, PM
+should have uncovered such defect in its product testing.
+Rather, the evidence demonstrates that the few instances of unintended ignition only
+occurred when (a) a consumer removed the foam insert, and (b) a consumer tilted and twisted the
+Flashlight product in a particular, unexpected manner. As PM’s product design expert, Richard
+Stern, recognizes: “[J]ust because a product fails doesn’t mean it’s defective. Just because a
+product is defective doesn’t mean it presents a risk of injury. Just because it presents a risk of
+injury doesn’t mean it’s an unreasonable risk of injury.” Ex. 41 (Stern Dep. 215:14-215:19).
+These isolated product failures do not establish that the Flashlight was “unreasonably dangerous”
+as a matter of law.
+C.
+
+PM’s Evidence of Alleged Defect Is Not Admissible.
+
+Further, nearly all the facts that PM cites in its Memorandum to demonstrate that the
+product was defective are inadmissible under Rule 407 as subsequent remedial measures. For
+the purpose of summary judgment, “material [that is] cited to support . . . a fact” must “be
+presented in a form that would be admissible in evidence.” Fed. R. Civ. P. 56(c)(2). Evidence
+that would be inadmissible at trial cannot support a party’s motion for summary judgment.
+PM repeatedly alleges that AAI “conceded” that the Flashlight product is defective based
+on the actions that AAI undertook in the wake of the initial consumer complaints of unintended
+ignition. See PM Mem. at 18–20. But PM’s attempt to use AAI’s subsequent conduct to prove a
+defect in the product’s design or instructions violates Rule 407 of the Federal Rules of Evidence.
+Rule 407 provides that “[w]hen measures are taken that would have made an earlier injury or
+harm less likely to occur, evidence of the subsequent measures is not admissible to prove:
+negligence; culpable conduct; a defect in a product or its design; or a need for a warning or
+instruction.” Fed. R. Evid. 407. “Rule 407 promotes an important policy of encouraging
+
+- 17 -
+
+Case 3:15-cv-00577-JAG Document 77 Filed 06/16/16 Page 22 of 36 PageID# 2193
+
+subsequent remedial measures.” Werner v. Upjohn Co., Inc., 628 F.2d 848, 856 (4th Cir. 1980).
+Particularly relevant here, Rule 407 protects “[t]he manufacturer who undertakes precautionary
+measures” from facing “risk of liability for an injury caused by the earlier non-defective version
+of the product based on evidence of his subsequent act which made the product safer but in no
+way supports an inference that the initial version of the product was defective.” Id. at 857.
+PM’s purported “admissions” of defect are textbook examples of an attempt to use
+subsequent remedial measures for the improper purpose of proving AAI’s negligence or culpable
+conduct or to prove defects in the product’s design or instructions. PM cites evidence of AAI’s
+steps taken to mitigate risk after receiving complaints, PM Mem. at 6–7, 18–19; AAI’s proposals
+for how AAI or PM might mitigate risk, id. at 7, 10, 18–19; and examples of information
+gathering and testing undertaken by AAI to investigate the veracity of the consumer complaints,
+id. at 6–7, 18. These actions by AAI are all inadmissible under Rule 407 for the purpose of
+proving the existence of a design defect. This evidence therefore cannot support PM’s motion
+for partial summary judgment. Moreover, even if these remedial measures, or alleged
+“concessions,” were deemed admissible, they are at best probative and certainly are not
+dispositive on the issue of design defect, particularly when Mr. Clements admitted that the
+product was not defective. There is a disputed factual issue of whether the product is defective.
+The Court should deny PM’s motion for summary judgment on this basis alone.
+II.
+
+Even If the Flashlight Were Defective, PM Is Not Entitled to Summary Judgment.
+Even if PM could prove as a matter of law that the product contained a design defect, PM
+
+cannot establish that it is entitled to summary judgment on its claims. First, AAI did not breach
+any warranties or contractual provisions. At the very least, PM’s allegations of breach depend
+on material issues of disputed fact. Second, there are disputed issues as to whether any alleged
+breach was the proximate cause of any damages.
+A.
+
+AAI Did Not Breach the Warranty Clause.
+
+PM’s claim that AAI breached the express terms of the Warranty Clause of the Purchase
+Order fails as a matter of law because the product was made to PM’s own design specifications.
+
+- 18 -
+
+Case 3:15-cv-00577-JAG Document 77 Filed 06/16/16 Page 23 of 36 PageID# 2194
+
+Under well-established Virginia law, a supplier cannot be liable for making a product to a
+buyer’s own specifications. The Warranty Clause reflects this established rule, and PM’s
+attempt to reinterpret the contractual language to avoid the established legal principle fails as a
+matter of law. At a minimum, this issue depends on disputed factual issues that cannot be
+decided at summary judgment.
+1.
+
+AAI Is Not Liable for Any Defects Because the Flashlight Was
+Designed According to PM’s Specifications.
+
+AAI cannot be held liable for design defects in a custom product made to PM’s own
+specifications. When a product is built or manufactured to a customer’s own specifications, the
+manufacturer is not liable for any defects in the customer’s specified design “unless those
+specifications are obviously dangerous and should not be followed.” Hall v. Int’l Paper Co., No.
+3:07-CV-064, 2007 WL 2965054, at *3 (E.D. Va. Oct. 9, 2007); see also Austin v. Clark Equip.
+Co., 48 F.3d 833, 837 (4th Cir. 1995); Spangler v. Kranco, Inc., 481 F.2d 373, 375 (4th
+Cir.1973).
+AAI has offered ample evidence showing that it developed the Flashlight according to
+design specifications dictated by PM. PM insisted that the Flashlight include matches, insisted
+that a striker pad be placed in the interior compartment of the product (rejecting AAI’s
+alternative placement recommendations), and developed and approved the product specifications
+and testing requirements. See supra at 4, 9-10. The Flashlight was a “custom” product made to
+PM’s explicit specifications. Ex. 17 (E. Zeanah Dep. 37:15-19; 38:4-10); Ex. 7 (Simers Dep.
+17:5-19:14). PM recognizes that a “custom” product—as opposed to an “off-the-shelf” product
+that is “currently available retail”—is “an item that [PM] either design[ed] completely” or
+“modif[ied] based on a request.” Ex. 24 (Pinkney Dep. 46:11-14).
+PM’s extensive control of the design process comports with AAI’s contractual
+obligations to produce a product made to PM’s own specifications. The Supplier Guidelines
+explicitly outlined this requirement:
+Ex. 2. They provide that pre-production
+
+- 19 -
+
+Case 3:15-cv-00577-JAG Document 77 Filed 06/16/16 Page 24 of 36 PageID# 2195
+
+samples were “required for every item” and were subject to approval by PM. Ex. 2. Thus,
+because AAI complied with its contractual obligations and followed PM’s specifications, AAI
+should be entitled to judgment as a matter of law. At a minimum, PM assertion that AAI did not
+develop the product according to its specifications will be an issue for the jury to decide.
+Accordingly, PM is not entitled to summary judgment on this basis.
+PM incorrectly asserts that, even if AAI developed the Flashlight in accordance with
+PM’s specifications, AAI is nevertheless liable for any defects in the product’s design. PM
+Mem. at 21-22. Not only is this completely contrary to the established Virginia law, but the
+Purchase Order between PM and AAI cannot reasonably be read to require AAI to expressly
+warrant that customer-designed products will be free from design defects.
+The first and second sentences of the Warranty Clause contain two separate and distinct
+warranties. The first sentence addresses custom products designed according to PM’s
+specifications:
+Supplier warrants that all Goods delivered under Order will (a) conform strictly to
+the general description, model number or specifications stated in this Order or
+provided by Supplier and in any manufacturer warranties that accompany the
+Goods, (b) be free from defects in materials, workmanship, and design, and (c) be
+of first quality and made of new materials and components.
+The second sentence of the warranty clause applies to products designed by AAI:
+With respect to any Goods designed by Supplier or any of Supplier's
+subcontractors or suppliers, Supplier assumes and acknowledges full and
+complete responsibility for the suitability, adequacy, and safety of the design of
+such Goods.
+Ex. 23 (emphasis added). Thus, the contractual language drafted by PM reflects the distinction
+under Virginia law between products designed by AAI and products designed according to PM’s
+specifications. PM has not shown that AAI is liable as a matter of law under either sentence.
+a.
+
+AAI Did Not Breach the First Sentence of the Warranty Clause
+Based on an Alleged Design Defect.
+
+Contrary to PM’s argument, the first sentence of the Warranty Clause cannot reasonably
+be interpreted to mean that AAI warranted that products developed according to PM’s design
+
+- 20 -
+
+Case 3:15-cv-00577-JAG Document 77 Filed 06/16/16 Page 25 of 36 PageID# 2196
+
+specifications would be “‘free from defects . . . in design,’ without limitation.” PM Mem. at 17.
+AAI was obligated to produce a product that met PM’s design specifications. Part (a) of the
+sentence clearly warrants that all items will “conform strictly to . . . specifications . . . .” See
+Ex. 23. Further, the Supplier Guidelines require that AAI adhere to PM’s specifications. See
+Ex. 2. To adopt PM’s reading of the contract would create an untenable situation for AAI—
+when presented with PM’s own design specifications, AAI would be forced to choose between
+its contractual obligations to both (i) ensure that AAI produces a product true to PM’s design
+specifications, and (ii) guarantee that those specifications would be free from defect. The law
+does not require such an inequitable and impossible result.
+PM strains to justify its interpretation of the Purchase Orders by erroneously arguing that
+the Purchase Orders alone make up the contract between PM and AAI and that the Supplier
+Guidelines do not apply. PM Mem. at 16. But the Purchase Orders explicitly incorporate by
+reference the Supplier Guidelines: “14. Quality Control. Supplier must comply with Buyer’s
+Quality Assurance Guidelines in effect as of the date of this Order.” Ex. 23. And the Supplier
+Guidelines require AAI to follow PM’s specifications. See supra at 3, 13. Thus, both the
+Purchase Orders and the Supplier Guidelines must be considered in determining the contractual
+relationship between the parties and whether there was any breach. See Wellmore Coal Co. v.
+Powell Constr. Co., 600 F. Supp. 1042, 1046 (W.D. Va. 1984) (“It is clear under Virginia law
+that when more than one document makes up a contract, those documents should be interpreted
+together, each one assisting and determining the meaning intended to be expressed by the
+others.”).
+Moreover, to the extent that the meaning of the first sentence of the Warranty Clause is
+ambiguous, its meaning is an issue for the jury to decide. See Online Res. Corp. v. Lawlor, 285
+Va. 40, 55 (2013) (“[T]o the extent that the contractual provisions are ambiguous, it is proper to
+submit the question to the jury for consideration.”). “A contract may be ambiguous because of
+indefiniteness of expression, internal inconsistency, or inclusion of words that have a double
+meaning.” First S. Bank v. Bank of the Ozarks, 542 F. App’x 280, 283 (4th Cir. 2013) (internal
+- 21 -
+
+Case 3:15-cv-00577-JAG Document 77 Filed 06/16/16 Page 26 of 36 PageID# 2197
+
+quotation marks omitted). And because it is undisputed that PM drafted the Purchase Orders,
+any ambiguities or inconsistencies must be resolved in AAI’s favor. When the language of a
+contract is ambiguous or unclear, “a court should construe ambiguous language against the
+interest of the party that drafted it.” Mastrobuono v. Shearson Lehman Hutton, Inc., 514 U.S. 52,
+62 (1995); see also S. Ry. Co. v. Coca Cola Bottling Co., 145 F.2d 304, 307 (4th Cir. 1944)
+(“When the words of a contract are ambiguous, . . . such ambiguities should be resolved against
+the party that drew the contract and selected its terminology and nomenclature.”).
+Finally, even if PM’s interpretation of the first sentence of the Warranty Clause were
+correct, there are genuine issues of material fact as to whether AAI breached the first sentence of
+the Warranty Clause because the question of whether there was any “defect” in the product is an
+issue of fact for the jury under Virginia law. See supra at 15. Thus, PM cannot establish that
+AAI breached this provision as a matter of law.
+b.
+
+AAI Did Not Breach the First Sentence of the Warranty Clause
+Based on Allegedly Inadequate Instructions.
+
+The Warranty Clause does not cover any alleged failure to warn–nowhere does it mention
+instructions or warnings of any kind. PM does not point to any contractual language regarding a
+failure to provide adequate instructions or warnings. Instead, PM attempts to create an additional
+“instructions and warnings” warranty based on the “defect . . . in design” portion of the Warranty
+Clause. PM Mem. at 17, 19-20. PM asserts that, in the products liability context, failure to warn
+is a type of design defect. Id. That is a clear misstatement of law. In Virginia, the adequacy of
+warnings or instructions is an independent question, wholly separate from any alleged defect in
+design. See, e.g., RMA Lumber, Inc. v. Pioneer Mach., LLC, No. 6:08-00023, 2009 WL
+4015928, at *9 (W.D. Va. Nov. 19, 2009); Sprouse v. Am. Tire Distribs., Inc., No. 3:08-CV-491,
+2009 WL 1404735, at *2 (E.D. Va. May 15, 2009); Featherall v. Firestone Tire & Rubber Co.,
+219 Va. 949, 961-64 (1979); McClanahan v. Cal. Spray-Chem. Corp., 194 Va. 842, 842, 853-54
+(1953); compare Va. Prac. Products Liability § 3.1 (“Chapter 3. Design Defect) with id. § 5.1
+(“Chapter 5. Defective Warnings and Instructions). PM points to no case holding that, under
+
+- 22 -
+
+Case 3:15-cv-00577-JAG Document 77 Filed 06/16/16 Page 27 of 36 PageID# 2198
+
+Virginia law, a failure to warn constitutes a defect in design. Rather, it relies solely on a portion
+of a footnote from a treatise, see PM Mem. at 17 (citing Va. Prac. Products Liability § 3:5)—but
+that footnote recognizes the two distinct concepts of design defect and the failure to warn. See
+Va. Prac. Products Liability § 3:5 n.22 (“In the balancing process there is interplay between the
+concepts of design defect and defects in warnings and instructions.”) Thus, PM’s argument that
+a failure to carry adequate warnings or instructions constitutes a “defect . . . in design” is
+contrary to both the explicit language of the contract and established products liability law.
+Even if it the Warranty Clause did cover an alleged failure to warn, there would be
+disputed issues of fact for the same reasons as the design defect allegation discussed above. PM
+dictated the content of the instructions sheet and specifically told AAI to change certain
+warnings. See supra at 4, 9. AAI cannot be held liable for failing to provide adequate
+instructions when PM ultimately controlled their content. Moreover, the question of whether a
+warning is adequate, like the question of design defect, is a question of fact for the jury to decide.
+See Abbot by Abbot v. Am. Cyanamid Co., 844 F.2d 1108, 1115 (4th Cir. 1988) (“The adequacy
+of a warning is a question of fact for the jury.”). Thus, there was no breach of warranty based on
+allegedly inadequate instructions.
+c.
+
+AAI Did Not Breach the Second Sentence of the Warranty
+Clause.
+
+The second sentence of the Warranty Clause does not apply because the Flashlight was
+not designed by AAI. Contrary to PM’s argument, AAI did not warrant the suitability,
+adequacy, and safety of all products (regardless of the source for a product’s design). Rather, by
+its express terms, the second sentence only applies “[w]ith respect to any Goods designed by
+Supplier or any of Supplier’s subcontractors or suppliers.” Ex. 23. The Flashlight is not a
+product that AAI designed, but rather a custom product designed according to PM’s own
+specifications. Thus, the second sentence of the warranty clause does not apply as a matter of
+law, and PM’s claim based on it should be dismissed.
+
+- 23 -
+
+Case 3:15-cv-00577-JAG Document 77 Filed 06/16/16 Page 28 of 36 PageID# 2199
+
+Moreover, at a minimum, whether the second sentence applies is an issue of fact for the
+jury to decide. As explained above, AAI has offered evidence showing that the Flashlight was
+not “designed by Supplier or any of Supplier’s subcontractors or suppliers.” Rather, it was
+designed by PM according to its product specifications. Because AAI’s liability is limited to
+products that AAI designs, and there exists a genuine factual dispute over whether PM or AAI
+designed the Flashlight, PM cannot demonstrate that it is entitled to judgment as a matter of law.
+B.
+
+AAI Did Not Breach the Indemnity Clause.
+
+PM’s claim that AAI breached the Indemnity Clause fails because it is displaced by the
+more-specific Warranty Clause. And even if the Indemnity Clause did apply, PM cannot
+establish breach as a matter of law because it depends on a finding as to the extent to which each
+party was at fault and caused the harm—issues of fact for the jury to decide.
+First, PM’s claim fails as a matter of law because the specific provisions of the Warranty
+Clause, and its exclusive remedies, control over the general Indemnity Clause. “When a
+particular occurrence falls within a general clause of a contract, and also within the precise terms
+of a specific provision of the same contract, a presumption arises that the specific . . . provision,
+rather than the general, is controlling.” S. Ry. Co., 145 F.2d at 307; see also PCS Nitrogen Inc. v.
+Ashley II of Charleston LLC, 714 F.3d 161, 174 (4th Cir. 2013); Karnette v. Wolpoff &
+Abramson, L.L.P., 444 F. Supp. 2d 640, 646 (E.D. Va. 2006). The Indemnity Clause contains a
+general provision allowing for the recovery of certain damages “to the extent they arise from, or
+may be attributable to, any error, omission or fault of” AAI. But the only “error, omission, or
+fault” alleged by PM is “AAI’s breaches of warranties.” PM Mem. at 23.3
+As discussed above, the Warranty Clause specifically addresses the conditions under
+which AAI can be liable for allegedly defective products. Moreover, it provides two exclusive,
+3
+
+PM argues that AAI erred “aside from the warranties,” but they are just re-packaged versions of
+the warranty claims. For example, PM alleged that the product was “defective in its actual
+design and failed to carry adequate instructions”—exactly the same allegations that it makes for
+the warranty clam. PM Mem. at 23; see also id. at 23-24 (alleging that AAI failed to test and
+failed to notify PM of the alleged defect).
+
+- 24 -
+
+Case 3:15-cv-00577-JAG Document 77 Filed 06/16/16 Page 29 of 36 PageID# 2200
+
+alternative remedies for a breach of the Warranty Clause: either (i) a refund of the price it paid
+for the original product, or (ii) reimbursement for the cost of replacement. Ex. 23. Because
+PM’s indemnification claims is based on an alleged breach of the warranties due to a product
+defect, the Warranty Clause and its specific, agreed-upon remedy for breach apply. PM cannot
+invoke the broader indemnification provision to seek additional recovery for claims
+contemplated in the Warranty Clause’s remedial scheme because that would render the exclusive
+remedies in the Warranty Clause superfluous. E. Gas & Fuel Assocs. v. Midwest-Raleigh, Inc.,
+374 F.2d 451, 454 (4th Cir. 1967) (“It is a general tenet of contract law that a construction which
+gives meaning to all words and provisions of a contract is favored.”). Thus, PM’s breach of
+contract claim based on the Indemnity Clause fails as a matter of law.
+Second, even if the Indemnity Clause applied, PM has not shown that AAI breached it as
+a matter of law. Under the Indemnity Clause, AAI is obligated to indemnify only for losses “to
+the extent they arise from, or may be attributable to” AAI’s errors, omissions or fault. Ex. 23.
+Moreover, indemnity is generally precluded if a buyer commits “independent acts of negligence”
+that contribute to its alleged losses. See Wingo v. Celotex Corp., 834 F.2d 375, 379 (4th Cir.
+1987); see also Va. Prac. Products Liability § 6:8 (“Indemnity of all kinds is also precluded . . .
+where the party seeking indemnity has been guilty of an independent act of negligence which
+also is a cause of the user’s injury.”).
+There are significant disputed issues of material fact about the extent to whether AAI
+committed any “errors, omissions, or fault” and whether they caused the losses at issue. For
+example, AAI has offered evidence that PM designed the product according to its own
+specifications, that it failed to conduct safety testing on the Flashlight, as it was contractually
+required to do, and that it declined to act upon AAI’s suggestions in the wake of the first two
+consumer complaints to send out a mass email to PM’s customers regarding the proper use of the
+foam insert. See supra at 4-6, 8-11. Because these disputed issues will need to be resolved by
+the jury, PM has not established that AAI breached the Indemnity Clause and that such breach
+caused PM’s claimed losses as a matter of law.
+- 25 -
+
+Case 3:15-cv-00577-JAG Document 77 Filed 06/16/16 Page 30 of 36 PageID# 2201
+
+C.
+
+AAI Did Not Breach the Implied Warranty of Merchantability.
+
+PM cannot establish that it is entitled to summary judgment on its implied warranty of
+merchantability claim, because (i) PM is not contractually entitled to this implied warranty, and
+(ii) PM cannot demonstrate that, as a matter of law, the product is not fit for its ordinary purpose.
+First, PM is not entitled to an implied warranty of merchantability because the express
+warranty conflicts with and displaces any potential implied warranty. An express warranty
+included in a contract may displace an inconsistent implied warranty of merchantability. See VA
+Code Ann. § 8.2-317(c). Under the Virginia Code, “in case of such an inconsistency the implied
+warranty of merchantability is displaced by the express warranty that the goods will comply with
+the specifications.” Id. § 8.2-316, UCC cmt. 9. Thus, where a buyer “gives detailed
+specifications as to the goods” to be produced, the implied warranty of merchantability will
+normally not apply. Id. As explained above, AAI made an express warranty to manufacture the
+Flashlight in accordance with PM’s detailed specifications. Finding that AAI breached an
+implied warranty, even though it manufactured the Flashlight in accordance with those
+specifications, would conflict with this express warranty. Thus, PM’s express warranty that it
+would comply with PM’s specifications displaces any claim by PM that AAI’s breached an
+implied warranty, and PM’s implied warranty of merchantability claim fails as a matter of law.
+Second, PM is not entitled to an implied warranty of merchantability because it is a
+sophisticated purchaser of products involving matches. “[W]hen a skilled purchaser knows or
+reasonably should be expected to know of the dangerous propensities or characteristics of a
+product, no implied warranty of merchantability arises.” Young v. J. I. Case Co., 1994 WL
+506403, at *6. A buyer’s sophisticated knowledge of the “dangerous propensities or
+characteristics” of a product presents, at minimum, a genuine issue of material fact. Id. PM is
+not a novice or first-time purchaser of products involving matches—in fact, when AAI expressed
+concerns because AAI had never before worked on a product that included matches, PM
+responded that everything was “fine” because PM had matches experience. See Ex. 25. Thus,
+PM is not entitled to an implied warranty of merchantability.
+
+- 26 -
+
+Case 3:15-cv-00577-JAG Document 77 Filed 06/16/16 Page 31 of 36 PageID# 2202
+
+Finally, even if PM could establish that it is entitled to an implied warranty of
+merchantability, it cannot demonstrate a warranty violation as a matter of law. The implied
+warranty of merchantability requires a product to be reasonably capable of performing its
+ordinary function, or “fit for the ordinary purposes for which those goods are used.” Davis v.
+Simon-Telelect, Inc., 48 F.3d 1215 (4th Cir. 1995). To succeed on its implied warranty claim,
+PM “must show, (1) that the goods were unreasonably dangerous either for the use to which they
+would ordinarily be put or for some other reasonably foreseeable purpose, and (2) that the
+unreasonably dangerous condition existed when the goods left [AAI]’s hands.” Logan v.
+Montgomery Ward & Co., 216 Va. 425, 428 (1975). As explained above, there is a genuine
+factual dispute over whether the Flashlight product was “unreasonably dangerous” when it left
+AAI’s hands. See supra at 16-17. Thus, PM is not entitled to summary judgment on this claim.
+D.
+
+PM Fails To Prove Proximate Causation as a Matter Of Law.
+
+Even if PM could demonstrate that AAI breached a contractual provision, PM cannot
+establish as a matter of law that such breach proximately caused PM’s claimed losses. To
+establish liability for a breach of contract or a breach of warranty, PM must prove that the breach
+itself proximately caused the losses alleged. Vienna Metro LLC v. Pulte Home Corp, 786 F.
+Supp. 2d 1076, 1086 (E.D. Va. 2011); Va. Code Ann. § 8.2-314, UCC cmt. 13. “Generally, the
+issue of proximate causation is a question of fact to be resolved by a jury.” RGR, LLC v. Settle,
+288 Va. 260, 292-93 (2014).
+There are disputed factual issues regarding causation. First, PM dictated not only the
+product specifications, but all of the testing requirements, including safety testing. It did not
+discover any alleged defect or safety issues. Thus, even if AAI breached its contractual
+obligations (it did not), there is, at a minimum, a factual issue as to whether PM’s failures to
+perform its own contractual obligations caused any defect. Second, there is significant evidence
+that had PM acted promptly when it received the first two consumer complaints and adopted the
+action plan that AAI suggested on March 7, 2014, the losses at issue would not exist—there
+would have been no need for a product recall, and therefore no recall costs. Upon receiving the
+
+- 27 -
+
+Case 3:15-cv-00577-JAG Document 77 Filed 06/16/16 Page 32 of 36 PageID# 2203
+
+first two consumer complaints, AAI promptly investigated the circumstances surrounding the
+alleged unintentional ignitions and concluded that both resulted when the consumers failed to
+replace the foam safety barrier. See Ex. 13. Within days, AAI proposed an action plan—AAI
+would draft a mass email to all PM customers who had received the product reminding
+consumers to always replace the foam safety barrier. Id. AAI was also prepared to send
+replacement foam barriers to any customers needing a replacement. By March 14, 2014, PM’s
+Brand, Compliance, and Legal departments had all signed off on the mass email plan. See
+Ex. 19. AAI could not send out the mass email on its own; PM had all of the customers’ contact
+information and insisted on sending the email from one of its own addresses. Ex. 34. PM never
+sent the email to consumers. Thus, there is a question of fact as to whether any alleged recall
+would have been necessary had PM implemented this proposal.
+Thus, PM itself willingly took on the losses it now seeks to recover—expenses that were
+not “caused” by any alleged product defect, but by PM’s own failures in testing the Flashlight
+and implementing AAI’s proposed remedial plan. Because there is a dispute over whether AAI’s
+alleged breaches caused PM’s alleged losses, or whether PM’s own actions were the cause of its
+alleged losses, PM is not entitled to summary judgment on any of its claims.
+III.
+
+PM Is Not Entitled to The Damages It Seeks.
+Even if PM could prevail on liability at the summary judgment stage, PM is not entitled
+
+as a matter of law to the damages it seeks. PM is seeking $1,403,431.48 for the purchase price
+of the Flashlight product, plus $5,120,439.21 “in [previously undisclosed] costs associated with
+the recall” of the product, plus attorneys’ fees. PM Mem. at 27. It appears that those previously
+undisclosed costs include, in part, the cost of the “replacement” gifts sent by PM to its
+customers. See PM Mem. at 10.
+First, PM’s damages claim violates the express terms of the Warranty Clause outlining
+the proper remedy for breach. When there has been a breach of an express warranty, PM is
+entitled to choose either 1) a refund of the price it paid for the original product, or
+2) reimbursement for the cost of replacement—but not both. Ex. 23. PM has not previously
+
+- 28 -
+
+Case 3:15-cv-00577-JAG Document 77 Filed 06/16/16 Page 33 of 36 PageID# 2204
+
+elected which remedy it would prefer, but now seeks a double recovery. Permitting PM to
+recover both remedies would be contrary to the explicit text of the contract.
+Second, PM is not entitled to those damages because there is a factual issue as to whether
+it breached its duty to mitigate damages. A party injured under a contract has an obligation to
+mitigate its damages. Forbes v. Rapp, 269 Va. 374, 380 (2005). The evidence shows that PM
+did not act to mitigate its losses by choosing an action plan that would be the most effective and
+the least expensive. As explained above, it failed to implement AAI’s proposed remedial plan of
+sending a mass email. There is also significant evidence that PM chose a fast track recall
+because it was concerned about the CPSC taking enforcement action because PM had not
+reported the prior customer incidents. Ex. 22 (Edson Dep. 75:18-76:24). AAI offered to work
+with PM to remove the striker pads from the remaining product inventory, which would have left
+PM with a perfectly usable 3-in-1 flashlight, compass, and matches container. Ex. 17 (E. Zeanah
+Dep. 215:22-216:21). PM also purchased premium replacement items that were more than twice
+as expensive as the Flashlight product. Ex. 21 (Crosthwaite Dep. 173:14-19; 174:17-21).
+Third, PM’s argument that AAI is “estopped” from challenging the scope of the recall
+because AAI allegedly remained “silent” is contrary to law and fact. PM Mem. at 24. AAI did
+not remain silent on the appropriate response to the unintended ignitions—rather, AAI repeatedly
+objected to PM’s recall plan. In the wake of the first two consumer complaints, AAI
+immediately proposed a mass email to alleviate the risk of future unintended ignitions. Ex. 33.
+In the four weeks between the initial consumer complaints and the Lowes complaint, AAI
+continued to advocate for a mass email to consumers. Ex. 36. AAI also proposed to PM other
+possible plans to alleviate the risk of unintended ignition, including instructing consumers how to
+remove the stick-on striker pad, Ex. 37. After PM notified AAI that it had independently
+decided to undertake a full-scale recall, AAI again voiced its concerned and proposed
+alternatives. Ex. 42; Ex. 43. AAI specifically informed PM that AAI did not think the full recall
+was necessary, that there were other, more effective options available, and that AAI reserved any
+rights to challenge PM’s independent recall decision. Ex. 35.
+- 29 -
+
+Case 3:15-cv-00577-JAG Document 77 Filed 06/16/16 Page 34 of 36 PageID# 2205
+
+Further, the two cases that PM cites to support its “estoppel” argument are completely
+inapplicable because they involve allegations of deception. Nat’l Airlines, Inc. v. Shea, 223 Va.
+578, 583 (1982) (“a person is required to speak only when common honesty or fair dealing
+demand that he do so, and in order that a party may be estopped by silence, there must be on his
+part an intent to mislead, or at least a willingness that others should be deceived.”); In re Stokes,
+198 B.R. 168, 178 (E.D. Va. 1996) (applying estoppel where a party stayed silent and allowed a
+settlement closing date to lapse, allowed the opposing party to perform under the settlement
+agreement for several months, and then tried to claim it did not have to perform because the
+settlement agreement had lapsed). PM does not allege any intent to mislead on the part of AAI.
+To the contrary, AAI was vocal and transparent in its objections to the recall process.
+Fourth, PM fails to present sufficient evidence of the damages it seeks. “A plaintiff []
+must prove two primary factors relating to damages. First, a plaintiff must show a causal
+connection between the defendant's wrongful conduct and the damages asserted. Second, a
+plaintiff must prove the amount of those damages by using a proper method and factual
+foundation for calculating damages.” Saks Fifth Ave., Inc. v. James, Ltd., 272 Va. 177, 189
+(2006) (internal citations omitted). In its Memorandum, PM fails to provide a breakdown of its
+alleged recall expenses. Thus, PM is not entitled to recover the damages it seeks.
+CONCLUSION
+For the foregoing reasons, and those stated in AAI’s motion for summary judgment, and
+supporting memorandum, AAI respectfully requests that the Court deny Plaintiff PM’s Motion
+for Partial Summary Judgment and enter judgment in favor of AAI.
+
+- 30 -
+
+Case 3:15-cv-00577-JAG Document 77 Filed 06/16/16 Page 35 of 36 PageID# 2206
+
+Dated: June 16, 2016
+
+Respectfully submitted,
+
+/s/ J. Andrew Keyes
+J. Andrew Keyes (VSB No. 37972)
+Email: akeyes@wc.com
+Richmond T. Moore (pro hac vice)
+Email: rmoore@wc.com
+Shauna M. Kramer (pro hac vice)
+Email: skramer@wc.com
+WILLIAMS & CONNOLLY LLP
+725 12th Street, N.W.
+Washington, D.C. 20005
+Tel: (202) 434-5000
+Fax: (202) 434-5029
+- AND F. Douglas Ross (VSB No. 23070)
+Email: douglas.ross@ofplaw.com
+Luke J. Archer (VSB No. 81815)
+Email: luke.archer@ofplaw.com
+ODIN, FELDMAN & PITTLEMAN, PC
+1775 Wiehle Avenue
+Suite 400
+Reston, VA 20190
+Tel: (703) 218-2100
+Attorneys for American Accessories International,
+L.L.C.
+
+- 31 -
+
+Case 3:15-cv-00577-JAG Document 77 Filed 06/16/16 Page 36 of 36 PageID# 2207
+
+CERTIFICATE OF SERVICE
+I hereby certify that on the sixteenth day of June, 2016, I will electronically file the
+foregoing with the Clerk of Court using the CM/ECF system, which will then send a notification
+of such filing (NEF) to the following:
+Anand Agneshwar
+Email: anand.agneshwar@aporter.com
+ARNOLD & PORTER LLP
+399 Park Ave
+New York, NY 10222-4690
+Tel: 212.715.1107
+Turner A. Broughton
+Email: tbroughton@williamsmullen.com
+WILLIAMS MULLEN (RICHMOND)
+200 South 10th St, 16th Floor (23219)
+P. O. Box 1320
+Richmond, VA 23218-1320
+Tel: 804.420.6588
+Fax: 804.420.6507
+
+Emily Muriel May
+Email: email.may@aporter.com
+Jocelyn Wiesner
+Email: jocelyn.wiesner@aporter.com
+Michael Erich Kientzle
+Email: michael.kientzle@aporter.com
+Paige Hester Sharpe
+Email: paige.sharpe@aporter.com
+ARNOLD & PORTER LLP
+601 Massachusetts Ave., N.W.
+Washington, D.C. 20001
+Tel: 202.942.5000
+Fax: 202.942.5999
+
+Attorneys for Plaintiff PM
+
+/s/ J. Andrew Keyes
+J. Andrew Keyes
+WILLIAMS & CONNOLLY LLP
+725 12th Street, N.W.
+Washington, D.C. 20005
+Tel: (202) 434-5000
+Fax: (202) 434-5029
+Email: akeyes@wc.com
+Attorney for American Accessories
+International, L.L.C.
+
+

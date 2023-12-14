@@ -1,0 +1,1237 @@
+Case 1:10-cv-10515-DPW Document 28
+
+Filed 07/15/10 Page 1 of 28
+
+UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF MASSACHUSETTS
+JEFFREY WIENER, derivatively on behalf of
+EATON VANCE MUNICIPALS TRUST,
+Plaintiff,
+v.
+EATON VANCE DISTRIBUTORS, INC.,
+BENJAMIN C. ESTY, ALLEN R. FREEDMAN,
+WILLIAM H. PARK, RONALD A.
+PEARLMAN, HELEN FRAME PETERS,
+HEIDI L. STEIGER, LYNN A. STOUT,
+RALPH F. VERNI, and THOMAS FAUST,
+
+Civil Action No. 10-10515-DPW
+
+Defendants,
+and
+EATON VANCE MUNICIPALS TRUST,
+Nominal Defendant.
+
+MEMORANDUM OF LAW OF THE INDEPENDENT TRUSTEE DEFENDANTS AND
+NOMINAL DEFENDANT EATON VANCE MUNICIPALS TRUST IN SUPPORT OF
+THEIR MOTION TO DISMISS PLAINTIFF’S AMENDED COMPLAINT
+GOODWIN PROCTER LLP
+Stacey B. Ardini (BBO #663161)
+53 State Street
+Boston, MA 02109
+(617) 570-1000
+Mark Holland (pro hac vice)
+Mary K. Dulka (pro hac vice)
+The New York Times Building
+620 Eighth Avenue
+New York, NY 10018
+(212) 813-8800
+Attorneys for the Independent Trustee
+Defendants and the Trust
+
+Case 1:10-cv-10515-DPW Document 28
+
+Filed 07/15/10 Page 2 of 28
+
+Table of Contents
+Page
+PRELIMINARY STATEMENT ........................................................................................................1
+STATEMENT OF PLAINTIFF’S ALLEGATIONS .........................................................................2
+A.
+
+The Parties ................................................................................................................. 2
+
+B.
+
+Plaintiff’s Allegations ................................................................................................ 4
+
+C.
+
+Plaintiff’s Pre-Lawsuit Demand and the Board’s Response...................................... 6
+1.
+
+The Board’s Consideration of the Demand Letter......................................... 7
+
+2.
+
+The Response to Plaintiff’s Demand ............................................................. 8
+a.
+
+Meaning of the Term “Special Compensation” ................................. 8
+
+b.
+
+Impact of the Financial Planning Decision....................................... 9
+
+c.
+
+Alleged Violations of Law............................................................... 10
+
+d.
+
+Relative Costs and Benefits to Taking Actions in Demand
+Letter .............................................................................................. 10
+
+ARGUMENT....................................................................................................................................11
+I. THE AMENDED COMPLAINT SHOULD BE DISMISSED FOR FAILURE TO COMPLY
+WITH FED. R. CIV. P. 23.1 AND MASSACHUSETTS LAW ................................................11
+A.
+
+B.
+
+LIBNY/4923616.1
+
+The Pleading Requirements For Derivative Actions ............................................... 11
+1.
+
+Fed. R. Civ. P. 23.1...................................................................................... 11
+
+2.
+
+Massachusetts’ Business Judgment Rule..................................................... 12
+
+The Amended Complaint Fails to Plead Particularized Facts to Rebut the
+Business Judgment Presumption.............................................................................. 14
+1.
+
+A Majority of the Board Was Independent.................................................. 14
+
+2.
+
+The Board Rejected the Demand in Good Faith and After a
+Reasonable Inquiry ...................................................................................... 14
+
+i
+
+Case 1:10-cv-10515-DPW Document 28
+
+C.
+
+Filed 07/15/10 Page 3 of 28
+
+Plaintiff’s Conclusory Allegations of Illegal Conduct Do Not Preclude
+Application of the Business Judgment Rule ............................................................ 15
+
+II. PLAINTIFF’S COMPLAINT FAILS TO STATE A CLAIM AGAINST THE
+INDEPENDENT TRUSTEES ....................................................................................................17
+A.
+
+The Amended Complaint Fails to Allege Sufficient Facts to State a Claim
+for Breach of Fiduciary Duty................................................................................... 17
+
+B.
+
+Plaintiff Fails to State a Claim for Waste of the Trust’s Assets .............................. 19
+
+CONCLUSION.................................................................................................................................20
+
+ii
+LIBNY/4923616.1
+
+Case 1:10-cv-10515-DPW Document 28
+
+Filed 07/15/10 Page 4 of 28
+
+TABLE OF AUTHORITIES
+Page(s)
+CASES
+Abramowitz v. Posner,
+672 F.2d 1025 (2d Cir. 1982)...................................................................................................12
+Ashcroft v. Iqbal,
+129 S. Ct. 1937 (2009).............................................................................................................17
+Blake v. Smith,
+2006 WL 4114305 (Mass. Super. Dec. 11, 2006) ............................................................. 19-20
+Brehm v. Eisner,
+746 A.2d 244 (Del. 2000) ........................................................................................................20
+Canadian Commercial Workers Indus. Pension Plan v. Alden,
+2006 WL 456786 (Del. Ch. Feb. 22, 2006) .............................................................................19
+In re Caremark International Inc. Derivative Litigation,
+698 A.2d 959 (Del. Ch. 1996)............................................................................................18, 19
+Daily Income Fund, Inc. v. Fox,
+464 U.S. 523 (1984).................................................................................................................11
+Desimone v. Barrows,
+924 A.2d 908 (Del. Ch. 2007)............................................................................................ 18-19
+Financial Planning Association v. SEC,
+482 F.3d 481 (D.C. Cir. 2007) ......................................................................................... passim
+Gonzalez Turul v. Rogatol Distributors, Inc.,
+951 F.2d 1 (1st Cir. 1991)........................................................................................................12
+Grimes v. Donald,
+673 A.2d 1207 (Del. 1996) ......................................................................................................12
+Halebian v. Berv,
+590 F.3d 195 (2d Cir. 2009).....................................................................................................14
+Halpert Enterprises, Inc. v. Harrison,
+2008 WL 4585466 (2d Cir. Oct. 15, 2008)........................................................................ 11-12
+Harhen v. Brown,
+431 Mass. 838 (2000) ............................................................................................12, 13, 14, 18
+
+iii
+LIBNY/4923616.1
+
+Case 1:10-cv-10515-DPW Document 28
+
+Filed 07/15/10 Page 5 of 28
+
+ING Principal Protection Funds Derivative Litig.,
+369 F. Supp. 2d 163 (D. Mass. 2005) ......................................................................................14
+Kamen v. Kemper Fin. Servs., Inc.,
+500 U.S. 90 (1991)...................................................................................................................12
+In re Kauffman Mutual Fund Actions,
+479 F.2d 257 (1st Cir. 1973)....................................................................................................16
+Landy v. D’Alessandro,
+316 F. Supp. 2d 49 (D. Mass. 2004) ........................................................................................16
+Levine v. Smith,
+591 A.2d 194 (Del. 1991) ............................................................................................ 12-13, 16
+Litt v. Wycoff,
+2003 WL 1794724 (Del. Ch. Mar. 28, 2003)...........................................................................16
+Sachs v. Sprague,
+401 F. Supp. 2d 159 (D. Mass. 2005) ................................................................................17, 18
+Smith v. Franklin/Templeton Distrib. Inc.,
+2010 WL 2348644 (N.D. Cal. June 8, 2010) .............................................................................1
+Stegall v. Ladner,
+394 F. Supp. 2d 358 (D. Mass. 2005) ......................................................................................14
+Stiegele ex rel. Viisage Tech., Inc. v. Bailey,
+2007 WL 4197496 (D. Mass. Aug. 23, 2007) ...................................................................18, 19
+In re Stratus Computer, Inc. Securities Litigation,
+1992 WL 73555 (D. Mass. Mar. 27, 1992)........................................................................ 17-18
+
+STATUTES AND OTHER AUTHORITIES
+15 U.S.C. § 80a-46(b) ......................................................................................................................6
+15 U.S.C. § 80b-2(11)......................................................................................................................5
+15 U.S.C. § 80b-2(11)(C) ..................................................................................................5, 8, 9, 15
+15 U.S.C. § 80b-2(11)(G) ................................................................................................................5
+17 C.F.R. § 270.12b-1............................................................................................................ passim
+17 C.F.R. § 275.202(a)(11)-1................................................................................................... 5-6, 9
+
+iv
+LIBNY/4923616.1
+
+Case 1:10-cv-10515-DPW Document 28
+
+Filed 07/15/10 Page 6 of 28
+
+Fed. R. Civ. P. 8(a) ..............................................................................................................2, 17, 18
+Fed. R. Civ. P. 9(b) ..........................................................................................................1, 2, 17, 18
+Fed. R. Civ. P. 12(b)(6)..............................................................................................................1, 11
+Fed. R. Civ. P. 23.1................................................................................................................ passim
+Mass. Gen. Laws ch. 156D, § 7.42 ................................................................................................13
+Mass. Gen. Laws ch. 156D, § 7.44(a)......................................................................................13, 14
+Mass. Gen. Laws ch. 156D, § 7.44(d) .....................................................................................13, 14
+Mass. Gen. Laws ch. 182 ................................................................................................... 12, 13-14
+
+v
+LIBNY/4923616.1
+
+Case 1:10-cv-10515-DPW Document 28
+
+Filed 07/15/10 Page 7 of 28
+
+Defendants Benjamin C. Esty, Allen R. Freedman, William H. Park, Ronald A. Pearlman,
+Helen Frame Peters, Heidi L. Steiger, Lynn A. Stout and Ralph F. Verni (together, the
+“Independent Trustees”) and Nominal Defendant Eaton Vance Municipals Trust (the “Trust”)
+submit this memorandum in support of their motion, pursuant to Rules 23.1, 12(b)(6) and 9(b) of
+the Federal Rules of Civil Procedure, to dismiss Plaintiff’s Amended Complaint in its entirety,
+with prejudice.1
+PRELIMINARY STATEMENT
+Plaintiff, purportedly a shareholder of the Trust, brings this action derivatively on behalf of
+the Trust against its Trustees for breach of fiduciary duty and waste. Plaintiff also has sued the
+Trust’s distributor, Eaton Vance Distributors, Inc. (“EVD”), for violations of the Investment
+Company Act of 1940 (“ICA”) and common law. Plaintiff’s allegations arise out of payments the
+Trust makes to brokers for selling and servicing its shares. These payments are made pursuant to a
+Rule 12b-1 Plan, so-called because the Plan was implemented in accordance with the Securities
+and Exchange Commission’s (“SEC”) Rule 12b-1, which was promulgated in 1980 to permit
+investment companies such as the Trust to pay for certain marketing and distributions expenses out
+of fund assets. Plaintiff argues that these payments suddenly have become unlawful because of a
+2005 decision by the United States Court of Appeals for the District of Columbia Circuit that did
+not consider the issue or even mention Rule 12b-1.
+
+1
+
+Plaintiff filed his original Complaint on March 26, 2010. Defendants filed motions to dismiss on June
+7, 2010. See Dckt Nos. 11 and 13. The very next day, the United States District Court for the
+Northern District of California dismissed a complaint brought by the same plaintiff’s counsel as here,
+involving virtually identical claims. See Smith v. Franklin/Templeton Distrib. Inc., 2010 WL 2348644
+(N.D. Cal. June 8, 2010) (“Franklin”). Defendants then jointly filed a Notice of Supplemental
+Authority Relevant to the Motions to Dismiss alerting the Court of the Franklin decision, which is
+directly on point and warrants dismissal of Plaintiff’s action here. See Dckt. No. 16. Instead of filing
+any opposition to Defendants’ motions to dismiss, Plaintiff chose to file an Amended Complaint.
+
+LIBNY/4923616.1
+
+Case 1:10-cv-10515-DPW Document 28
+
+Filed 07/15/10 Page 8 of 28
+
+Before bringing his lawsuit, Plaintiff made a demand upon the Trust’s Board that the Trust
+cease making such payments and sue the brokers who sell Trust shares to collect such past
+payments. The Board – including a majority of its Trustees who are unaffiliated with the Trust’s
+adviser or distributor and thus are considered “independent” – carefully and thoroughly considered
+Plaintiff’s allegations. The Board determined, in the exercise of its reasonable business judgment,
+that the payments are not unlawful, and that it would not be in the best interests of the Trust or its
+shareholders to take the actions Plaintiff demanded. The Board’s decision to reject Plaintiff’s
+demand is entitled to protection under the business judgment rule. Plaintiff has failed to plead
+particularized facts, as required by Rule 23.1 and Massachusetts law, explaining why this Court
+should not respect the business judgment rule and dismiss the Amended Complaint.
+Plaintiff’s claims against the Independent Trustees also should be dismissed for the
+separate and independent reason that the Amended Complaint fails to state a claim for breach of
+fiduciary duty or waste of Trust assets. Plaintiff’s conclusory allegations of conscious wrongdoing
+by the Independent Trustees in permitting the allegedly unlawful payments do not meet the
+pleading standards of Rule 8(a), let alone Rule 9(b) of the Federal Rules of Civil Procedure,
+particularly when no court or other regulatory authority has deemed such payments to be
+unlawful.2
+STATEMENT OF PLAINTIFF’S ALLEGATIONS
+A.
+
+The Parties
+
+Plaintiff alleges that he owns Class C shares of the Eaton Vance National Municipal
+Income Fund (“Income Fund”), one of the twenty-five separate “series” or mutual funds (the
+
+2
+
+The Independent Trustees also incorporate the arguments contained in EVD’s and Thomas Faust’s July
+15, 2010 Memorandum in Support of their Motion to Dismiss Plaintiff’s Amended Complaint (“EVD
+Memorandum”), to the extent that those arguments apply to the claims against the Independent
+Trustees.
+
+2
+LIBNY/4923616.1
+
+Case 1:10-cv-10515-DPW Document 28
+
+Filed 07/15/10 Page 9 of 28
+
+“Funds”) that comprise the Trust.3 The Trust is an open-end management investment company
+registered with the SEC under the ICA.4 The Income Fund’s investment objective is to provide
+current income exempt from regular federal income tax.5
+The Trust’s Board (the “Board”) consists of nine trustees, all of whom are named as
+defendants. The eight Independent Trustees have no affiliation with the Trust’s adviser, Boston
+Management and Research (“BMR”), or EVD.6 The Independent Trustees are:
+•
+
+Benjamin C. Esty, a Professor of Business Administration and Finance Unit Head at
+the Harvard University Graduate School of Business Administration;
+
+•
+
+Allen R. Freedman, a private investor and consultant, and a director of Assurant,
+Inc. (insurance provider) and Stonemor Partners (owner/operator of cemetaries);
+
+•
+
+William H. Park, Vice Chairman of Commercial Industrial Finance Corp., a
+specialty finance company;
+
+•
+
+Ronald A. Pearlman, a Professor of Law at Georgetown University Law Center;
+
+•
+
+Helen Frame Peters, a Professor of Finance at the Carroll School of Management at
+Boston College, and an Adjunct Professor of Finance at Peking University in
+Beijing, China;
+
+•
+
+Heidi L. Steiger, a Managing Partner at Topridge Associates LLC, a global wealth
+management firm;
+
+•
+
+Lynn A. Stout, a Professor of Corporate and Securities Law at the University of
+California at Los Angeles School of Law; and
+
+•
+
+Ralph F. Verni, Chairman of the Trust’s Board, a consultant and private investor.
+
+3
+
+Am. Compl. ¶ 9.
+
+4
+
+Am. Compl. ¶¶ 10.
+
+5
+
+See Income Fund’s February 1, 2009 Prospectus (“Prospectus”) at 2. EVD submitted a copy of the
+Income Fund’s Prospectus and its Statement of Additional Information (“SAI”) in connection with its
+June 7, 2010 motion to dismiss Plaintiff’s original Complaint. See Declaration of Jeffrey B. Maletta
+(“Maletta Decl.”), Exhibits A and B. See Dckt. No. 15.
+
+6
+
+See Am. Compl. ¶¶ 11-17 and Ex. 2, February 8, 2010 Letter at Ex. A. See also Maletta Decl. Ex. B,
+SAI at 11.
+
+3
+LIBNY/4923616.1
+
+Case 1:10-cv-10515-DPW Document 28
+
+Filed 07/15/10 Page 10 of 28
+
+The ninth Trustee, Thomas Faust, is CEO and President of BMR, and is classified by the Trust as
+“interested” under the ICA.7
+EVD acts as the principal underwriter for Trust shares.8 SEC Rule 12b-1, adopted in 1980,
+allows an investment company such as the Trust to use its own assets to pay for the distribution of
+its shares.9 Since 1997, the Trust has had Rule 12b-1 plans for distribution of its shares, which
+continue in effect from year to year so long as they are approved at least annually by the
+Trustees.10 Pursuant to those plans, the Trust pays EVD for distributing its shares pursuant to a
+distribution agreement with EVD, and EVD then enters into selling agreements with brokerdealers who distribute (i.e., sell) Trust shares to public investors.11
+B.
+
+Plaintiff’s Allegations
+
+The Amended Complaint focuses on the Trust’s payments to EVD pursuant to the Rule
+12b-1 Plans, and certain payments by EVD to broker-dealers. These payments are calculated
+based on daily net asset values of Trust shares.12 The Amended Complaint refers to these
+payments as “asset-based compensation.”13 According to the Amended Complaint, because the
+distribution agreements between the Trust and EVD and the selling agreements between EVD and
+the broker-dealers authorize payments of such asset-based compensation to EVD and brokerdealers, those payments are unlawful under the ICA and common law.14
+
+7
+
+Am. Compl. ¶ 18; see also Maletta Decl. Ex. B, SAI at 10.
+
+8
+
+Am. Compl. ¶ 19.
+
+9
+
+See Am. Compl. ¶ 47 (quoting 17 C.F.R. § 270.12b-1).
+
+10
+
+See Maletta Decl. Ex. B, SAI at 22.
+
+11
+
+Am. Compl. ¶ 44. A fuller description of EVD’s agreement with the Trust appears in EVD’s
+Memorandum.
+
+12
+
+Am. Compl. ¶¶ 44, 45.
+
+13
+
+Am. Compl. ¶¶ 2, 4.
+
+14
+
+Am. Compl. ¶ 4.
+
+4
+LIBNY/4923616.1
+
+Case 1:10-cv-10515-DPW Document 28
+
+Filed 07/15/10 Page 11 of 28
+
+The Amended Complaint argues that Section 202(a)(11) of the Investment Advisers Act of
+1940 (“Advisers Act”) defines an “investment adviser” as “any person who, for compensation,
+engages in the business of advising others . . . as to the value of securities or as to the advisability
+of investing in, purchasing, or selling securities.”15 A broker-dealer who falls within this
+definition must register under the Advisers Act and establish “advisory accounts” for its customers
+subject to the Advisers Act’s requirements (as opposed to regular brokerage accounts not governed
+by the Advisers Act), unless the broker qualifies under one of the Advisers Act’s exceptions.
+Congress provided such an exception in Section 202(a)(11)(C) – the “Broker-Dealer Exclusion” –
+which states that the term “investment adviser” does not include any broker or dealer whose
+provision of investment advice is “solely incidental” to the conduct of its business as a broker or
+dealer and who receives no “special compensation” for that advice.16 Plaintiff contends that,
+although the Advisers Act does not define the term “special compensation,” it means “any form of
+compensation other than transactional commissions,” including asset-based compensation such as
+Rule 12b-1 payments.17
+Plaintiff bases his theory on a recent decision by the United States Court of Appeals for the
+District of Columbia Circuit, Financial Planning Association v. SEC, 482 F.3d 481 (D.C. Cir.
+2007). Under § 80b-2(11)(G), the SEC can designate other persons to be excluded from the
+Advisers Act.18 The Amended Complaint discusses how the SEC invoked that authority to enact a
+new rule in 2005, SEC Rule 202(a)(11)-1, which provided that a broker “will not be deemed to be
+an investment adviser based solely on its receipt of special compensation” if certain disclosure and
+
+15
+
+Am. Compl. ¶ 20; see 15 U.S.C. § 80b-2(11).
+
+16
+
+Am. Compl. ¶ 27; see 15 U.S.C. § 80b-2(11)(C).
+
+17
+
+Am. Compl. ¶¶ 28, 31.
+
+18
+
+Am. Compl. ¶ 35.
+
+5
+LIBNY/4923616.1
+
+Case 1:10-cv-10515-DPW Document 28
+
+Filed 07/15/10 Page 12 of 28
+
+other conditions are met.19 The Financial Planning Association petitioned the D.C. Circuit Court
+to overturn the SEC’s new rule on the grounds that the SEC lacked authority to promulgate it. The
+court agreed and struck SEC Rule 202(a)(11)-1 as of October 1, 2007.20
+According to the Amended Complaint, the decision in Financial Planning means that
+“asset-based compensation is ‘special compensation’ under the Broker-Dealer Exclusion” and that
+“as of October 1, 2007, the statutory bar on ‘special compensation’ in connection with brokerage
+accounts has been reinstated.”21 Because the Trust and EVD made and continue to make such
+allegedly unlawful asset-based compensation payments through the 12b-1 plans, Plaintiff brings
+claims against EVD for breach of contract and to void the Trust’s distribution agreement with
+EVD under ICA Section 47(b) and state law. Plaintiff also brings claims against the Trustees for
+common law breach of fiduciary duty and waste of Trust assets for allowing these supposedly
+unlawful payments.22
+C.
+
+Plaintiff’s Pre-Lawsuit Demand and the Board’s Response
+
+Plaintiff brings his complaint derivatively on behalf of the Trust. Before filing suit, on
+September 17, 2009, Plaintiff’s counsel sent a Demand Letter to the Trust’s Board, making the
+same allegations contained in the Amended Complaint. Plaintiff demanded that the Board
+“[c]ause the Trust to cease funding or permitting payments of Asset-Based Compensation to
+broker-dealers” and “[t]ake all reasonable and necessary steps, including litigation, to restore to the
+Trust” all such past payments.23 On February 8, 2010, independent legal counsel for the
+
+19
+
+Am. Compl. ¶ 37; see 17 C.F.R. § 275.202(a)(11)-1(a)(1) and (c).
+
+20
+
+Am. Compl. ¶¶ 41-42; see Financial Planning, 482 F.3d at 488-89.
+
+21
+
+Am. Compl. ¶¶ 41, 43.
+
+22
+
+Am. Compl. ¶¶ 71-96.
+
+23
+
+See Am. Compl. Ex. 1, at 9.
+
+6
+LIBNY/4923616.1
+
+Case 1:10-cv-10515-DPW Document 28
+
+Filed 07/15/10 Page 13 of 28
+
+Independent Trustees, at the direction of the Board, sent a seven-page letter (the “Response
+Letter”) rejecting Plaintiff’s demand.24
+1.
+
+The Board’s Consideration of the Demand Letter
+
+As the Response Letter explains, the Demand Letter was presented to the Board at its
+regularly scheduled meeting on October 19, 2009.25 The Board authorized and directed its
+Compliance Reports and Regulatory Matters Committee (the “CRRMC”) to consider the demand
+and make recommendations to the Independent Trustees and the entire Board. 26 Three of the
+Independent Trustees – Ronald A. Pearlman, a Professor of Law, Lynn A. Stout, a Professor of
+Law, and Heidi L. Steiger, an asset management executive – comprise the CRRMC.27 The
+CRRMC, together with the other Independent Trustees, took legal advice from Goodwin Procter
+LLP, independent legal counsel to the Independent Trustees, and Morgan Lewis & Bockius LLP,
+special independent legal counsel to the Independent Trustees retained to provide advice
+concerning Plaintiff’s demand.28
+The CRRMC reviewed and analyzed the relevant agreements and arrangements involving
+the Trust, EVD, and broker-dealers for the sale and servicing of Trust shares. The CRRMC
+considered whether any of those payments involved violations of law. It also analyzed the costs
+and benefits associated with taking the actions requested in the Demand Letter. The CRRMC
+concluded that “the foregoing payments do not constitute violations of law and that it would not be
+
+24
+
+See Am. Compl. Ex. 2.
+
+25
+
+The Response Letter mistakenly states October 19, 2008, but obviously occurred after receipt of the
+Demand Letter. (Response Letter at 1.)
+
+26
+
+Response Letter at 1.
+
+27
+
+Id. at Ex. A; see also Maletta Decl. Ex. B, SAI at 13.
+
+28
+
+Response Letter at 2.
+
+7
+LIBNY/4923616.1
+
+Case 1:10-cv-10515-DPW Document 28
+
+Filed 07/15/10 Page 14 of 28
+
+in the best interests of the Trust or its shareholders to pursue the actions identified in the Demand
+Letter.”29
+At a February 8, 2010 Board meeting, the CRRMC presented its recommendations – as
+well as the basis for such recommendations – first to the Independent Trustees, without any
+representatives from EVD or its affiliates present, and then to the full Board.30 The full Board, as
+well as the Independent Trustees voting separately, voted to accept the CRRMC’s
+recommendation and reject Plaintiff’s demand.31 The Board also directed independent legal
+counsel for the Independent Trustees to deliver the Response Letter to Plaintiff’s Counsel
+explaining the reasons for its decision.32
+2.
+
+The Response to Plaintiff’s Demand
+
+The Response Letter explained the principal reasons for the Board’s rejection of Plaintiff’s
+demands.
+a.
+
+Meaning of the Term “Special Compensation”
+
+The Board, acting through the CRRMC, examined the various types of asset-based
+Compensation which the Trust pays to EVD under the Rule 12b-1 plans and distribution
+agreements, as well as the payments by EVD to brokers under various selling and marketing
+support agreements, and determined that none of the payments is directly attributable to or
+specifically for the provision of investment advice.33 The Board also determined that the term
+“special compensation” as used in Section 202(a)(11)(C) refers to compensation (regardless of
+
+29
+
+Id.
+
+30
+
+Id.
+
+31
+
+Id. As the Response Letter notes, Thomas Faust – the only Trustee who is not Independent – abstained
+from the full Board vote. Id. at 2 n.2.
+
+32
+
+Id. at 7.
+
+33
+
+Id. at 4-5.
+
+8
+LIBNY/4923616.1
+
+Case 1:10-cv-10515-DPW Document 28
+
+Filed 07/15/10 Page 15 of 28
+
+form) paid to a broker that is directly attributable to or specifically for the broker providing
+investment advice, and thus all asset-based compensation is not necessarily “special
+compensation.”34 The Board therefore concluded the payments at issue by the Trust and EVD are
+not “special compensation” as that term is used in Section 202(a)(11)(C), because they are not paid
+for investment advice.
+b.
+
+Impact of the Financial Planning Decision
+
+The Board concluded that Financial Planning stood for the proposition that the SEC lacked
+authority to adopt Rule 202(a)(11)-1. The Board found no evidence that the treatment of Rule
+12b-1 fees for purposes of Section 202(a)(11)(C) was an issue presented to the court in Financial
+Planning. The court “did not determine, explicitly or implicitly, that Rule 12b-1 fees or any other
+particular form of ‘asset-based’ compensation constitutes ‘special compensation’ for purposes of
+Section 202(a)(11)(C) in all instances.”35
+The Board found it “highly unreasonable” that if the court intended to address the issue, it
+would have ignored without comment more than 25 years of regulatory action regarding Rule 12b1 fees.36 The Board also found that if Plaintiff’s interpretation of Financial Planning was correct
+(i.e., that all asset-based compensation such as Rule 12b-1 payments to brokers is now prohibited
+unless they establish advisory accounts), it was “highly unreasonable” to think that the SEC and
+FINRA – the authorities charged with overseeing regulation of mutual funds and broker-dealers –
+“would have failed to take any action to put these industries on notice of such interpretation
+subsequent to Financial Planning.”37
+
+34
+
+Id. at 2.
+
+35
+
+Id. at 3.
+
+36
+
+Id.
+
+37
+
+Id.
+
+9
+LIBNY/4923616.1
+
+Case 1:10-cv-10515-DPW Document 28
+
+c.
+
+Filed 07/15/10 Page 16 of 28
+
+Alleged Violations of Law
+
+Because the Board concluded that the payments to EVD and the selling brokers do not
+constitute “special compensation” and thus did not violate the law, it found “no evidence to
+suggest that the policies and procedures of the Trust and its service providers are inadequate to
+prevent such alleged violations of law.” 38 The Board therefore concluded that payments under the
+Trust’s Rule 12b-1 plans did not constitute “waste” of the Trust’s assets.39
+d.
+
+Relative Costs and Benefits to Taking Actions in Demand Letter
+
+The Board also considered the relative costs and benefits of taking the actions demanded.
+For the reasons stated above, the Board determined that the likelihood of prevailing on such claims
+was “extremely remote.”40 The Board also concluded that, “in the absence of any court or
+regulatory pronouncement requiring different action while such claims are pending,” brokers
+would likely refuse to establish “advisory accounts” for their customers holding Trust shares, and
+instead would encourage customers to exchange their Trust shares for other mutual funds, causing
+the Trust to lose assets, which would harm the remaining shareholders.41
+* * *
+The Response Letter concluded that, for all of the reasons discussed therein, the Board
+(including all of the Independent Trustees voting separately), in the exercise of its reasonable
+business judgment, determined that the payments identified in the Demand Letter do not result in
+
+38
+
+Id. at 5.
+
+39
+
+Id. at 6.
+
+40
+
+Id. at 6.
+
+41
+
+Id. at 7.
+
+10
+LIBNY/4923616.1
+
+Case 1:10-cv-10515-DPW Document 28
+
+Filed 07/15/10 Page 17 of 28
+
+violations of law and that it would not be in the best interests of the Trust or its shareholders to
+take the actions Plaintiff demanded.42 This lawsuit followed.
+ARGUMENT
+I.
+THE AMENDED COMPLAINT SHOULD BE DISMISSED FOR FAILURE TO COMPLY
+WITH FED. R. CIV. P. 23.1 AND MASSACHUSETTS LAW
+A.
+
+The Pleading Requirements For Derivative Actions
+1.
+
+Fed. R. Civ. P. 23.1
+
+Because this is a derivative action, Plaintiff’s complaint must comply with Rule 23.1 of the
+Federal Rules of Civil Procedure. Rule 23.1 states that “[t]he complaint shall . . . allege with
+particularity the efforts, if any, made by the plaintiff to obtain the action the plaintiff desires from
+the directors . . . and the reasons for the plaintiff’s failure to obtain the action or for not making the
+effort.” Fed. R. Civ. P. 23.1 (emphasis added). The United States Supreme Court has explained
+that Rule 23.1 is grounded in “the basic principle of corporate governance that the decisions of a
+corporation – including the decision to initiate litigation – should be made by the board of
+directors.” Daily Income Fund, Inc. v. Fox, 464 U.S. 523, 530 (1984). This “‘demand
+requirement’ affords the directors an opportunity to exercise their reasonable business judgment
+and ‘waive a legal right vested in the corporation in the belief that its best interests will be
+promoted by not insisting on such right.’”43 A court should dismiss a derivative complaint on a
+Rule 12(b)(6) motion where a plaintiff fails to plead particularized facts demonstrating why the
+refusal of his demand was wrongful.44
+42
+
+Id.
+
+43
+
+Id. at 533 (citation omitted).
+
+44
+
+See, e.g., Halpert Enterprises, Inc. v. Harrison, 2008 WL 4585466, at *3 (2d Cir. Oct. 15, 2008)
+(affirming dismissal of derivative complaint where the plaintiff’s allegations with regard to the board
+committee’s investigation of the demand “did not raise a reasonable doubt as to whether the board
+
+11
+LIBNY/4923616.1
+
+Case 1:10-cv-10515-DPW Document 28
+
+2.
+
+Filed 07/15/10 Page 18 of 28
+
+Massachusetts’ Business Judgment Rule
+
+Federal courts should apply the substantive law of the company’s state of incorporation to
+determine what facts must be pleaded regarding demand. Kamen v. Kemper Fin. Servs., Inc., 500
+U.S. 90, 96-97 (1991).45 Here, the Trust is a voluntary association or trust with transferrable
+shares established under Chapter 182 of the Massachusetts General Laws, commonly referred to as
+a “Massachusetts business trust.”46 Massachusetts law therefore applies.
+A “basic principle of corporate governance” under Massachusetts law (as in many other
+states) is the business judgment rule, which recognizes that “the board of directors . . . should set
+the corporation’s business policy, including the decision whether to pursue a lawsuit.” Harhen v.
+Brown, 431 Mass. 838, 844-48 (2000). In Harhen, the Supreme Judicial Court of Massachusetts
+explained: “[t]he business judgment rule affords protection to the business decisions of directors,
+including the decision to institute litigation, because directors are presumed to act in the best
+interests of the corporation.”47 Courts have long held that unless a plaintiff alleges facts that
+“challenge the board’s good faith or the reasonableness of the board’s investigation of the
+plaintiff’s demand,” an independent board’s decision to refuse a plaintiff’s demand “is entitled to
+the protection of the business judgment rule” and the plaintiff’s complaint should be dismissed.48
+
+satisfied its duty of due care,” and thus the plaintiff “has not met the heavy burden imposed upon it”);
+Abramowitz v. Posner, 672 F.2d 1025, 1034 (2d Cir. 1982) (affirming dismissal of derivative
+complaint where the plaintiffs did not allege any facts to show that rejection of their demand was
+wrongful).
+45
+
+Accord Gonzalez Turul v. Rogatol Distributors, Inc., 951 F.2d 1, 2 (1st Cir. 1991) (applying law of
+state of incorporation).
+
+46
+
+Am. Compl. ¶ 10.
+
+47
+
+Id. at 845.
+
+48
+
+Id. at 844-45. See also Grimes v. Donald, 673 A.2d 1207, 1220 (Del. 1996) (affirming dismissal of the
+complaint for “fail[ure] to include particularized allegations which would raise a reasonable doubt that
+the Board’s decision to reject the demand was the product of a valid business judgment”); Levine v.
+Smith, 591 A.2d 194, 215 (Del. 1991) (affirming dismissal of the derivative complaint “for failure to
+plead particularized facts sufficient to create a reasonable doubt” that the Board’s rejection of the
+
+12
+LIBNY/4923616.1
+
+Case 1:10-cv-10515-DPW Document 28
+
+Filed 07/15/10 Page 19 of 28
+
+In 2004, the Massachusetts Legislature codified and strengthened the common law business
+judgment rule by enacting the Massachusetts Business Corporation Act, G.L. c. 156D (the
+“MBCA”). Massachusetts now requires that before instituting a derivative action, a shareholder
+must demand in writing that the board of directors (or comparable authority) take suitable action.
+Mass. Gen. Laws ch. 156D, § 7.42. Section 7.44(a) then provides, in relevant part:
+A derivative proceeding commenced after rejection of a demand
+shall be dismissed by the court on motion by the corporation if the
+court finds that . . . [a majority of independent directors] has
+determined in good faith after conducting a reasonable inquiry upon
+which its conclusions are based that the maintenance of the
+derivative proceeding is not in the best interests of the corporation.49
+Section 7.44(d) sets forth a procedure for the corporation to seek dismissal of a derivative
+claim. It provides that if the company establishes that a majority of the board was independent
+when it rejected the plaintiff’s demand, and that the board rejected the demand in good faith after
+reasonable inquiry, and the plaintiff does not plead particularized facts to rebut this showing, then
+the complaint must be dismissed under Section 7.44(d).50
+Chapter 156D, by its terms, applies to business corporations. Although no Massachusetts
+state court has yet decided the issue, this Court has held that those requirements also apply to
+
+demand was wrongful). As seen in Harhen, Massachusetts courts often cite and rely upon Delaware
+case law regarding the business judgment rule and refusal of demand. E.g., Harhen, 431 Mass. at 845.
+49
+
+Mass. Gen. Laws ch. 156D, § 7.44(a).
+
+50
+
+Section 7.44(d) states: “If the corporation moves to dismiss the derivative suit, it shall make a written
+filing with the court setting forth facts to show (1) whether a majority of the board of directors was
+independent at the time of the determination by the independent directors and (2) that the independent
+directors made the determination in good faith after conducting a reasonable inquiry upon which their
+conclusions are based. Unless otherwise required by subsection (a), the court shall dismiss the suit
+unless the plaintiff has alleged with particularity facts rebutting the corporation’s filing in its complaint
+or an amended complaint or in a written filing with the court.” Mass. Gen. Laws ch. 156D, § 7.44(d).
+
+13
+LIBNY/4923616.1
+
+Case 1:10-cv-10515-DPW Document 28
+
+Filed 07/15/10 Page 20 of 28
+
+business trusts organized under Mass. Gen. Laws ch. 182.51 Application of these rules requires the
+dismissal of Plaintiff’s Complaint here.52
+B.
+
+The Amended Complaint Fails to Plead Particularized Facts to Rebut the
+Business Judgment Presumption
+1.
+
+A Majority of the Board Was Independent
+
+There appears to be no dispute that the Independent Trustees – who occupy eight seats on
+the Trust’s nine-member Board – are independent. Plaintiff’s own Amended Complaint
+acknowledges that eight out of the nine Trustees are classified as “independent” within the
+meaning of the ICA.53 As Exhibit A to the Response Letter demonstrates, none of the Independent
+Trustees is or was during the relevant time period a director, officer, employee or other “interested
+person” of EVD or the Trust’s adviser, BMR. A majority of the Trust’s Board thus was
+independent at the time it considered Plaintiff’s demand and voted to reject that demand at its
+February 8, 2010 meeting.54
+2.
+
+The Board Rejected the Demand in Good Faith and After a Reasonable
+Inquiry
+
+The Response Letter also demonstrates that the Board “made the determination [to reject
+the demand] in good faith after conducting a reasonable inquiry upon which their conclusions are
+51
+
+See ING Principal Protection Funds Derivative Litig., 369 F. Supp. 2d 163, 171 (D. Mass. 2005) (a
+business trust “in practical effect is in many respects similar to a corporation,” and therefore universal
+demand requirement of ch. 156D applies to business trusts) (citation and internal quotation marks
+omitted); Stegall v. Ladner, 394 F. Supp. 2d 358, 367 (D. Mass. 2005) (same).
+
+52
+
+Very few reported decisions – none of which is analogous here – discuss application of Section 7.44(a)
+or (d). In one case, the plaintiff sent a demand letter to the board, but then filed a derivative action
+before the board finished considering the demand, and the Second Circuit recently certified a question
+to the Massachusetts Supreme Judicial Court as to whether Section 7.44 applies in that situation. See
+Halebian v. Berv, 590 F.3d 195 (2d Cir. 2009). Prior to Section 7.44’s enactment, however, courts
+routinely dismissed derivative complaints for failure to allege facts showing that an independent
+board’s refusal of a demand was not based on a reasonable, good faith exercise of their business
+judgment. E.g., Harhen, 431 Mass. at 844-48.
+
+53
+
+See Am. Compl. ¶¶ 11-18.
+
+54
+
+See Response Letter at 2; see also Maletta Decl. Ex. B, SAI at 11.
+
+14
+LIBNY/4923616.1
+
+Case 1:10-cv-10515-DPW Document 28
+
+Filed 07/15/10 Page 21 of 28
+
+based.” 55 The Independent Trustees conducted a detailed and thorough review, assisted
+throughout by highly experienced independent counsel. As discussed supra, following extensive
+analysis, the Board determined that:
+•
+
+None of the payments at issue was directly attributable to or specifically for the
+provision of investment advice and thus did not fall within the meaning of “special
+compensation;”
+
+•
+
+The court in Financial Planning did not decide that Rule 12b-1 fees or any other
+particular form of “asset-based” compensation constitutes “special compensation”
+for purposes of Section 202(a)(11)(C) in all instances;
+
+•
+
+Because the payments at issue did not involve violations of law, there was no waste
+of Trust assets from those payments, nor were the Trust’s or EVD’s policies and
+procedures inadequate; and
+
+•
+
+The probability of any recovery to the Trust was extremely remote and would
+likely result in loss of Trust assets while the claims were pending, as brokers
+moved their customers to other mutual funds rather than establish “advisory
+accounts.”
+
+The Board therefore exercised its reasonable business judgment and concluded that Plaintiff’s
+claims had no merit and that instituting legal action as demanded by Plaintiff would not be in the
+best interest of the Trust. The Response Letter thus makes the showing required by Massachusetts
+law.
+C.
+
+Plaintiff’s Conclusory Allegations of Illegal Conduct Do Not Preclude
+Application of the Business Judgment Rule
+
+The Amended Complaint does not even attempt to plead facts to rebut the showing that the
+Board was independent and acted in good faith and after reasonable inquiry in rejecting Plaintiff’s
+demand. Instead, Plaintiff attempts to circumvent the business judgment rule by alleging that “the
+Trustees’ ‘business judgment’ cannot justify ongoing violation of the securities laws.”56 Such a
+
+55
+
+Mass. Gen. Laws ch. 156D, § 7.44(d).
+
+56
+
+Am. Compl. ¶ 5.
+
+15
+LIBNY/4923616.1
+
+Case 1:10-cv-10515-DPW Document 28
+
+Filed 07/15/10 Page 22 of 28
+
+tautological allegation does not protect a complaint from dismissal under the business judgment
+rule.
+As the First Circuit has explained, a shareholder derivative action “necessarily alleges
+some illegal transaction or conduct harmful to the corporation.” In re Kauffman Mutual Fund
+Actions, 479 F.2d 257, 265 (1st Cir. 1973). Such an allegation does not take a complaint outside
+the business judgment rule. In Kauffman, the plaintiff alleged that the mutual funds’ management
+fees were excessive and noncompetitive in purported violation of the ICA and the antitrust laws.
+The First Circuit noted that if by merely making such allegation, “the directors are to be presumed
+incapable of exercising sound business judgment,” then “Rule 23.1 would become virtually
+meaningless – a stockholder would be entitled to try the case on the merits, (viz., to establish that
+the fees were excessive, or improperly arrived at, or in violation of the antitrust laws) to show that
+he had a right to bring it.”57 The “hard core” of the business judgment doctrine covers situations in
+which directors might approve a decision that, “in the end, proves to be unlawful.” Landy v.
+D’Alessandro, 316 F. Supp. 2d 49, 64 (D. Mass. 2004). Hence, in Landy, the court applied the
+business judgment rule despite the plaintiff’s allegations that the compensation plan at issue
+violated the company’s reorganization plan and Massachusetts law.58
+Here, Plaintiff’s conclusory allegation of illegal conduct likewise does not preclude
+dismissal of his complaint. Because Plaintiff has failed to plead any facts – let alone the requisite
+particularized facts under Rule 23.1 – as to why the Board’s rejection of his demand is not entitled
+
+57
+
+Id. Although Kauffman and other cases discussed infra are demand futility cases, not demand refused
+cases, the pleading standard in both contexts is whether the facts alleged create a "reasonable doubt"
+that the board's actions should be protected by the business judgment rule. See, e.g., Levine v. Smith,
+591 A.2d 194, 210-12 (Del. 1991).
+
+58
+
+See also Litt v. Wycoff, 2003 WL 1794724, at *7 (Del. Ch. Mar. 28, 2003) (rejecting the plaintiff’s
+allegations that a bank’s decision to implement an employee compensation program was not entitled to
+protection under the business judgment rule because it was illegal).
+
+16
+LIBNY/4923616.1
+
+Case 1:10-cv-10515-DPW Document 28
+
+Filed 07/15/10 Page 23 of 28
+
+to protection under the business judgment rule, Plaintiff’s Complaint should also be dismissed for
+failure to comply with Rule 23.1.
+II.
+PLAINTIFF’S AMENDED COMPLAINT FAILS TO STATE A CLAIM AGAINST THE
+INDEPENDENT TRUSTEES
+Plaintiff’s claims against the Independent Trustees should be dismissed for the separate and
+independent reason that the Amended Complaint fails to state a claim for breach of fiduciary duty
+or waste of Trust assets. As the United States Supreme Court recently stated, under Rule 8(a) of
+the Federal Rules of Civil Procedure, a complaint’s “[t]hreadbare recitals of the elements of a
+cause of action, supported by mere conclusory statements, do not suffice.” Ashcroft v. Iqbal, 129
+S. Ct. 1937, 1949 (2009). Rather, “to survive a motion to dismiss, a complaint must contain
+sufficient factual matter, accepted as true, to ‘state a claim to relief that is plausible on its face.’”59
+Plaintiff has not done so here.
+A.
+
+The Amended Complaint Fails to Allege Sufficient Facts to State a Claim for
+Breach of Fiduciary Duty
+
+Plaintiff’s breach of fiduciary duty claim alleges that all of the Trustees engaged in an
+“dereliction of duty” and demonstrated a “conscious disregard” of their responsibilities and acted
+in “bad faith” to the shareholders by permitting unlawful payments of asset-based compensation to
+broker-dealers in connection with Trust shares held in brokerage accounts.60 As this Court has
+stated, “claims alleging intentional breaches of fiduciary duties are subject to the heightened
+pleading requirements of Rule 9(b).” Sachs v. Sprague, 401 F. Supp. 2d 159, 170, n.15 (D. Mass.
+2005). Accord In re Stratus Computer, Inc. Securities Litigation, 1992 WL 73555, at *7-8 (D.
+Mass. Mar. 27, 1992) (dismissing derivative breach of fiduciary duty claims under Massachusetts
+59
+
+Id. (quoting Bell Atlantic v. Twombly, 550 U.S. 544, 570, 127 S. Ct. 1955, 1955 (2007)).
+
+17
+LIBNY/4923616.1
+
+Case 1:10-cv-10515-DPW Document 28
+
+Filed 07/15/10 Page 24 of 28
+
+law for failure to satisfy Rule 9(b)). Plaintiff’s breach of fiduciary duty claim fails under Rule
+9(b), and even under Rule 8(a).
+The Trustees’ purported failure to oversee the compliance policies and procedures of the
+Trust and its service providers which permitted the allegedly unlawful payments, as well as their
+alleged failure to “investigate the legality of the broker-dealer compensation payments,” are
+known in corporate jurisprudence as “Caremark” claims.61 As this Court has recognized,
+Caremark claims are “possibly the most difficult theory in corporation law upon which a plaintiff
+might hope to win a judgment.” Sachs, 401 F. Supp. 2d at 164 (quoting Caremark, 698 A.2d at
+967); accord Stiegele ex rel. Viisage Tech., Inc. v. Bailey, 2007 WL 4197496, at *10 (D. Mass.
+Aug. 23, 2007). Specifically,
+Where a claim of directorial liability for corporate loss is predicated upon ignorance of
+liability creating activities within the corporation, … only a sustained or systematic failure
+of the board to exercise oversight – such as an utter failure to attempt to assure a
+reasonable information and reporting system exists – will establish the lack of good faith
+that is a necessary condition to liability.
+Caremark, 698 A.2d at 971 (emphasis added).
+Imposition of liability for failure to monitor thus “require[s] a finding that the directors
+acted with the state of mind traditionally used to define the mindset of a disloyal director – bad
+faith – because their indolence was so persistent that it could not be ascribed to anything other than
+a knowing decision not to even try to make sure the corporation’s officers had developed and were
+implementing a prudent approach to ensuring law compliance.” Desimone v. Barrows, 924 A.2d
+
+60
+
+Am. Compl. ¶ 90.
+
+61
+
+Am. Compl. ¶ 90; see In re Caremark International Inc. Derivative Litigation, 698 A.2d 959 (Del. Ch.
+1996). As noted supra, Massachusetts courts frequently look to Delaware for guidance on corporate
+issues. See, e.g., Harhen, 431 Mass. at 845.
+
+18
+LIBNY/4923616.1
+
+Case 1:10-cv-10515-DPW Document 28
+
+Filed 07/15/10 Page 25 of 28
+
+908, 935 (Del. Ch. 2007).62 Where a plaintiff fails to plead sufficient facts showing such bad faith,
+he fails to state an oversight claim. Id.
+Plaintiff’s allegations in this case fall short of this standard. Plaintiff accuses the Trustees
+of a general failure to oversee compliance policies and procedures of the Trust and its service
+providers, and of a failure to investigate the legality of the payments at issue. These allegations
+hardly establish a conscious disregard of duties, or a “sustained, systemic failure” of oversight.
+Indeed, unlike most Caremark claims, where it is undisputed that something illegal or
+inappropriate occurred (e.g., accounting fraud, self-dealing transactions), here no court or
+regulatory authority has ever stated that the payments at issue are illegal. In such circumstances,
+there can hardly be a conscious, sustained failure to monitor and detect such illegality.63 Plaintiff’s
+breach of fiduciary duty claim therefore should be dismissed for failure to state a claim.
+B.
+
+Plaintiff Fails to State a Claim for Waste of the Trust’s Assets
+
+Plaintiff’s assertion that the “Trustee Defendants have caused a per se waste of valuable
+Trust assets” as a result of the allegedly unlawful asset-based compensation paid to EVD and the
+broker-dealers also lacks merit.64 To plead a claim for corporate waste under Massachusetts law, a
+plaintiff must show “that the directors’ decision was so egregious or irrational that it could not
+have been based on a valid assessment of the corporation’s best interest.” Blake, 2006 WL
+62
+
+See, e.g., Canadian Commercial Workers Indus. Pension Plan v. Alden, 2006 WL 456786, at *7-8
+(Del. Ch. Feb. 22, 2006) (dismissing Caremark claim where “[a]bsent supporting facts” as to the
+directors’ sustained and systemic failure of oversight, conscious knowledge of not doing their jobs, or
+ignoring red flags, “bald conclusions need not and will not be accepted as sufficient to survive a
+motion to dismiss”); Desimone, 924 A.2d at 940 (rejecting the “conclusory allegation that because
+illegal behavior occurred, internal controls must have been deficient, and the board must have known
+so,” in the absence of any facts to support that claim); Stiegele, 2007 WL 4197496, at *9-10 (same).
+See also Blake v. Smith, 2006 WL 4114305, at *7 (Mass. Super. Dec. 11, 2006) (dismissing breach of
+fiduciary duty for failure to state a claim where plaintiff failed to allege facts sufficient to show the
+directors acted in bad faith or engaged in intentional misconduct).
+
+63
+
+See Response Letter at 3.
+
+64
+
+Am. Compl. ¶ 95.
+
+19
+LIBNY/4923616.1
+
+Case 1:10-cv-10515-DPW Document 28
+
+Filed 07/15/10 Page 26 of 28
+
+4114305, at *10. Blake dismissed a waste claim where the allegations were “far too vague to
+support an inference that the purported misconduct was motivated by bad faith or that [the
+directors] received improper benefits.”65
+Here, the Board concluded that the past and ongoing payments were not illegal, and a
+majority of the Independent Trustees approved the Rule 12b-1 plans each year based on a
+determination that there was a reasonable likelihood that they would benefit the Trust and its
+shareholders.66 Plaintiff does not allege that the Trust failed to receive any distribution services
+from EVD or the broker-dealers in exchange for the Rule 12b-1 payments, or that those services
+were somehow inadequate, or that the payments were excessive. In fact, the Board determined
+that “significant harm” would likely result to the Trust by pursuing litigation against EVD and the
+broker-dealers.67 Because Plaintiff has failed to plead any facts to support an “egregious or
+irrational” decision that could not have been in the Trust’s best interest, his waste claim should be
+dismissed.
+CONCLUSION
+For all of the foregoing reasons, Plaintiff’s Complaint should be dismissed in its entirety,
+with prejudice.
+
+65
+
+See also Brehm v. Eisner, 746 A.2d 244, 263 (Del. 2000) (waste is confined to “unconscionable cases
+where directors irrationally squander or give away corporate assets,” and thus no waste exists if “there
+is any substantial consideration received by the corporation, and if there is a good faith judgment that
+in the circumstances the transaction is worthwhile”) (internal quotation and citation omitted).
+
+66
+
+Response Letter at 6.
+
+67
+
+Id. at 7.
+
+20
+LIBNY/4923616.1
+
+Case 1:10-cv-10515-DPW Document 28
+
+Dated: July 15, 2010
+
+Filed 07/15/10 Page 27 of 28
+
+Respectfully submitted,
+GOODWIN PROCTER LLP
+
+/s/ Stacey B. Ardini
+Stacey B. Ardini (BBO #663161)
+53 State Street
+Boston, MA 02109
+Tel: (617) 570-1000
+Fax: (617) 523-1231
+sardini@goodwinprocter.com
+
+Mark Holland (admitted pro hac vice)
+Mary K. Dulka (admitted pro hac vice)
+The New York Times Building
+620 Eighth Avenue
+New York, NY 10018
+Telephone: (212) 813-8800
+Fax: (212) 355-3333
+mholland@goodwinprocter.com
+mdulka@goodwinprocter.com
+Attorneys for the Independent Trustee Defendants and
+the Trust
+
+21
+LIBNY/4923616.1
+
+Case 1:10-cv-10515-DPW Document 28
+
+Filed 07/15/10 Page 28 of 28
+
+CERTIFICATE OF SERVICE
+I, Stacey B. Ardini, certify that this document filed through the ECF system will be sent
+electronically to the registered participants as identified on the Notice of Electronic Filing (NEF)
+and paper copies will be sent to those indicated as non registered participants on July 15, 2010.
+
+/s/ Stacey B. Ardini
+
+22
+LIBNY/4923616.1
+
+

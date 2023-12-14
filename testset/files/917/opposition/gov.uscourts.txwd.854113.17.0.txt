@@ -1,0 +1,922 @@
+Case 1:16-cv-01300-SS Document 17 Filed 12/14/16 Page 1 of 33
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE WESTERN DISTRICT OF TEXAS
+AUSTIN DIVISION
+WHOLE WOMAN’S HEALTH, ET AL.,
+Plaintiffs,
+v.
+JOHN HELLERSTEDT, M.D.,
+Defendant.
+
+§
+§
+§
+§
+CIVIL ACTION NO. 1:16-cv-01300-SS
+§
+§
+§
+
+RESPONSE TO PLAINTIFFS’ MOTION FOR A
+TEMPORARY RESTRAINING ORDER
+
+Case 1:16-cv-01300-SS Document 17 Filed 12/14/16 Page 2 of 33
+
+T A BL E
+
+OF
+
+CONTENTS
+
+Page
+Index of Authorities ....................................................................................................... ii
+Statement of Facts ......................................................................................................... 1
+I.
+
+The Regulatory Regime at Issue ............................................................................ 1
+
+II. Plaintiffs’ Lawsuit .................................................................................................. 3
+III. Anticipated Costs of Compliance ........................................................................... 4
+Argument ....................................................................................................................... 7
+I.
+
+Plaintiffs Are Not Substantially Likely to Prevail on Any of Their
+Constitutional Claims............................................................................................. 8
+A. Plaintiffs’ allegations regarding “personal liberty” fail to describe
+a constitutional violation. ................................................................................ 8
+1.
+
+The Supreme Court allows States to enact laws expressing
+respect for the life of the unborn. ............................................................ 9
+
+2.
+
+Expressing respect for unborn life is not an unconstitutional
+purpose.................................................................................................... 14
+
+3.
+
+The proposed amendments do not create an undue burden. ................ 16
+
+B. The rule amendments are not unconstitutionally vague. ............................ 19
+C. Because no death certificate is required for induced abortions,
+Plaintiffs are unlikely to prevail on their privacy claim. ............................. 21
+II. Plaintiffs Have Not Proven That the Remaining Factors Favor
+Injunctive Relief.................................................................................................... 24
+III. If the Court Concludes That Injunctive Relief Is Necessary, It Should
+Tailor That Relief to the Specific Violation and Harm Found. ........................... 25
+Conclusion .................................................................................................................... 25
+Certificate of Filing and Service.................................................................................. 27
+
+Case 1:16-cv-01300-SS Document 17 Filed 12/14/16 Page 3 of 33
+
+INDEX
+
+OF
+
+AUTHORITIES
+Page(s)
+
+Cases
+Ayotte v. Planned Parenthood of N. New Eng.,
+546 U.S. 320 (2006) ................................................................................................ 25
+Coates v. City of Cincinnati,
+402 U.S. 611 (1971) ................................................................................................ 20
+Elrod v. Burns,
+427 U.S. 347 (1976) ................................................................................................ 24
+Frisby v. Schultz,
+487 U.S. 474 (1988) ................................................................................................ 19
+Gonzales v. Carhart,
+550 U.S. 124 (2007) .................................................................... 9, 11, 12, 14, 15, 21
+Graham v. Connor,
+490 U.S. 386 (1989) ................................................................................................ 17
+Harris v. McRae,
+448 U.S. 297 (1980) ................................................................................................ 15
+Lawrence v. Texas,
+539 U.S. 558 (2003) .................................................................................................. 8
+Maryland v. King,
+133 S. Ct. 1 (2012) .................................................................................................. 24
+Mazurek v. Armstrong,
+520 U.S. 968 (1997) (per curiam) ..................................................................... 14, 15
+McCleskey v. Kemp,
+481 U.S. 279 (1987) ................................................................................................ 14
+Obergefell v. Hodges,
+135 S. Ct. 2584 (2015) .............................................................................................. 8
+PCI Transp. Inc. v. Fort Worth & W. R.R. Co.,
+418 F.3d 535 (5th Cir. 2005) .................................................................................... 8
+
+ii
+
+Case 1:16-cv-01300-SS Document 17 Filed 12/14/16 Page 4 of 33
+
+Planned Parenthood Ass’n of Kansas City v. Ashcroft,
+462 U.S. 476 (1983) ................................................................................................ 18
+Planned Parenthood of Central Mo. v. Danforth,
+428 U.S. 52 (1976) .................................................................................................. 15
+Planned Parenthood of Greater Tex. Surgical Health Servs. v. Abbott,
+734 F.3d 406 (5th Cir. 2013) .................................................................................. 24
+Planned Parenthood of Houston & Se. Tex. v. Sanchez,
+403 F.3d 324 (5th Cir. 2005) .................................................................................... 8
+Planned Parenthood of Se. Pa v. Casey,
+505 U.S. 833 (1992) .....................................................8, 9, 10, 11, 12, 13, 15, 16, 17
+PPINK v. Commissioner,
+No. 16-CV-763-TWP-DML, 2016 WL 3556914 (S. D. Ind. June 30,
+2016)........................................................................................................................ 11
+United States v. Vuitch,
+402 U.S. 62 (1971) .................................................................................................. 19
+W. Va. State Bd. of Educ. v. Barnette,
+319 U.S. 624 (1943) .................................................................................................. 8
+Whole Woman’s Health v. Hellerstedt,
+136 S. Ct. 2292 (2016) ...................................................................................... 10, 12
+Ex Parte Young,
+209 U.S. 123 (1908) ................................................................................................ 24
+Statutes and Rules
+42 U.S.C. § 1983 ............................................................................................................. 3
+Tex. Civ. Prac. & Rem. Code § 71.001(4) ...................................................................... 2
+Tex. Est. Code § 1002.002.............................................................................................. 2
+
+iii
+
+Case 1:16-cv-01300-SS Document 17 Filed 12/14/16 Page 5 of 33
+
+Tex. Gov’t Code:
+§ 312.013(a) ............................................................................................................. 25
+§ 2001.033(a)(1)(A)-(C) ........................................................................................... 14
+Tex. Health & Safety Code:
+§ 192.0022 ........................................................................................................... 4, 22
+§ 241.010 ................................................................................................................ 2-3
+§ 694.002 ................................................................................................................... 6
+ch. 711 ............................................................................................................... 20, 22
+§ 711.003 ................................................................................................................. 21
+ch. 716 ............................................................................................................... 20, 22
+§ 716.251 ................................................................................................................. 21
+§§ 716.302-.304 ...................................................................................................... 21
+Tex. Occ. Code:
+ch. 651 ........................................................................................................... 3, 20, 22
+§ 651.001 ................................................................................................................... 3
+§ 651.004 ................................................................................................................. 21
+§ 651.651(1) ............................................................................................................... 3
+Tex. Penal Code § 1.07(a)(26) ........................................................................................ 2
+Fed. R. Civ. P. 12(b) ....................................................................................................... 1
+22 Tex. Admin. Code § 205.11 ..................................................................................... 21
+25 Tex. Admin. Code:
+§ 1.132(18)................................................................................................................. 3
+§ 1.133 ............................................................................................................... 22, 23
+§ 1.133(a)(2)(F).................................................................................................... 4, 20
+§ 1.134 ................................................................................................................... 2, 5
+§ 1.136 ..................................................................................................................... 10
+§ 1.136(a)(3)(B) ....................................................................................................... 18
+§ 1.136(a)(4)(B)(i) ...................................................................................................... 2
+§ 181.7(a)....................................................................................................... 4, 22, 23
+13 Tex. Reg. 5310 (1988)................................................................................................ 2
+14 Tex. Reg. 1457 (1989)................................................................................................ 1
+41 Tex. Reg. 9709 (2016).............................................................. 2, 3, 10, 14, 21, 22, 23
+iv
+
+Case 1:16-cv-01300-SS Document 17 Filed 12/14/16 Page 6 of 33
+
+Other Authorities
+Centers for Disease Control and Prevention, Procedures for Coding
+Cause of Fetal Death Under ICD-10, available at
+https://www.cdc.gov/nchs/data/dvs/fet2a2005.pdf (last accessed Dec.
+14, 2016). ................................................................................................................. 23
+Jorgenson, Dr. Daniel J., Study on Individual County Policies and
+Indigent Burial Cost, May 10, 2010......................................................................... 6
+
+v
+
+Case 1:16-cv-01300-SS Document 17 Filed 12/14/16 Page 7 of 33
+
+Texas has chosen to dignify the life of the unborn by requiring the humane disposition of fetal tissue. It has, therefore, adopted rule amendments that require
+health-care facilities to inter fetal tissue through burial, cremation, or the spreading
+of ashes. No longer will health-care facilities be able to dispose of the remains of the
+unborn in sewers or landfills.
+The United States Supreme Court has consistently held that States may express
+their respect for the unborn as long as they do not impose a substantial obstacle to a
+woman’s right to a pre-viability abortion. The rules proposed by Texas impose no such
+obstacle. Plaintiffs will be able to comply with the amended rules at minimal or no
+cost, and their patients’ constitutional rights will not be disturbed. The Court should
+deny Plaintiffs’ request for a temporary restraining order. 1
+S T A T E ME N T
+I.
+
+OF
+
+F A CT S
+
+The Regulatory Regime at Issue
+In 1989, the Texas Department of Health (the relevant agency at the time)
+
+adopted regulations covering the treatment and disposition of special waste such as
+body fluids or microbiological or pathological waste. 14 Tex. Reg. 1457, 1457-62
+(1989). The rules applied only to entities such as hospitals, ambulatory surgical centers, abortion clinics, minor emergency centers, and other regulated health-care fa-
+
+Defendant expressly reserves the right to file additional briefing in response to
+Plaintiffs’ request for a preliminary injunction, including the right to raise any defense listed in Federal Rule of Civil Procedure 12(b).
+1
+
+1
+
+Case 1:16-cv-01300-SS Document 17 Filed 12/14/16 Page 8 of 33
+
+cilities—not individuals. 13 Tex. Reg. 5310, 5311-12 (1988) (currently at 25 Tex. Admin. Code § 1.134). The methods of disposition for fetal tissue from induced or spontaneous abortions included, as of 1994,
+(I) grinding and discharging to a sanitary sewer system;
+(II) incineration followed by deposition of the residue in a sanitary
+landfill;
+(III) steam disinfection followed by interment;
+(IV) interment;
+(V) moist heat disinfection followed by deposition in a sanitary landfill;
+(VI) chlorine disinfection/maceration followed by deposition in a sanitary
+landfill; or
+(VII) an approved alternate treatment process, provided that the process
+renders the item as unrecognizable, followed by deposition in a sanitary
+landfill.
+25 Tex. Admin. Code § 1.136(a)(4)(B)(i).
+In 2016, the Department of State Health Services (DSHS) undertook a review of
+the rules, which had remained largely unchanged since their adoption in 1989. 41
+Tex. Reg. 9709 (2016). In doing so, DSHS “considered and gave great weight to the
+Legislature’s policy objective of ensuring dignity for the unborn,” which DSHS found
+in multiple statutes. Id. (citing Tex. Penal Code § 1.079(a)(26) (defining “individual”
+to include “an unborn child at every stage of gestation”); Tex. Civ. Prac. & Rem. Code
+§ 71.001(4) defining “individual” in the wrongful death statute to include “an unborn
+child at every stage of gestation”); Tex. Estates Code § 1002.002 (permitting appointment of attorney ad litem for an unborn person in guardianship proceedings); Tex.
+
+2
+
+Case 1:16-cv-01300-SS Document 17 Filed 12/14/16 Page 9 of 33
+
+Health & Safety Code § 241.010 (requiring hospitals to release to a parent remains
+of an unborn child who dies as a result of an unintended, intrauterine death)).
+Consequently, DSHS proposed and adopted amendments to the rules governing
+the disposition of fetal tissue. Beginning December 18, the permissible methods to
+dispose of fetal tissue include:
+(I) incineration followed by interment;
+(II) steam disinfection followed by interment; or
+(III) interment.
+41 Tex. Reg. 9709, 9739 (2016). “Interment” includes, as it previously did, cremation, 2
+entombment, burial, or placement in a niche, and has been amended to also include
+the scattering of ashes. Id. at 9733-34. As a result of the amendments, fetal tissue
+can no longer be ground and discharged into a sanitary sewer system, nor can it ultimately be deposited into a sanitary landfill.
+II. Plaintiffs’ Lawsuit
+Plaintiffs are a handful of licensed health-care facilities that provide abortions or
+other gynecological services. Compl. ¶¶ 12-15. They brought suit under 42 U.S.C.
+§ 1983, alleging that the amendments are unconstitutionally vague, violate the rights
+of liberty, privacy, and equal protection, and also violate the Commerce Clause.
+
+Cremation will be defined in the rule amendments at 25 Tex. Admin. Code
+§ 1.132(18), which is a definition that differs slightly from that in Tex. Occ. Code
+§ 651.651(1). 41 Tex. Reg. 9709, 9733 (2016). Rule 1.132 includes incineration, which
+was also a permissible method of disposition under the rules prior to amendment,
+within the definition of cremation. Chapter 651 of the Occupations Code applies to
+the disposition of “a dead human body,” while the rules apply to disposition of pathological waste and fetal tissue remains. See generally Tex. Occ. Code § 651.001.
+2
+
+3
+
+Case 1:16-cv-01300-SS Document 17 Filed 12/14/16 Page 10 of 33
+
+Compl. ¶¶ 91-100. Significantly, however, Plaintiffs admit that they are aware of a
+facility in Texas that is “willing and able to provide cremation services for embryonic
+and fetal tissue from abortion clinics at a cost that is not an order of magnitude larger
+than their current special waste disposal costs.” Compl. ¶ 71. Thus, Plaintiffs appear
+to be able to comply with the amendments at minimal additional cost.
+III. Anticipated Costs of Compliance
+Plaintiffs provide some evidence regarding their anticipated costs of compliance.
+The State will, therefore, address those costs here before proceeding to its legal arguments.
+To begin, contrary to Plaintiffs’ suggestions, the rule amendments do not mandate individualized burials or cremations for induced abortions, regardless of period
+of gestation. See, e.g., TRO Ex. B (describing high costs of individual burials and cremation); Ex. F (same). Neither the prior rules, nor the rules as amended, require
+notification or consent of the patient prior to disposition, much less require a woman’s
+participation in a “funeral ritual.” The amendments do not change the general statutory and regulatory scheme that currently exists, which limits the commingling of
+human remains only in cases in which a death certificate must be issued by law. 25
+Tex. Admin. Code § 1.133(a)(2)(F). Because death certificates remain a requirement
+only for “stillbirth,” and not for induced abortions, see infra pp. 21-23, the limits on
+commingling of remains will not apply to induced abortions. Tex. Health & Safety
+Code § 192.0022; 25 Tex. Admin. Code § 181.7(a); see Resp. Ex. A ¶ 7 (declaration of
+Jennifer Sims).
+
+4
+
+Case 1:16-cv-01300-SS Document 17 Filed 12/14/16 Page 11 of 33
+
+Accordingly, after a spontaneous or induced abortion, the proposed rules permit
+a health-care facility to preserve the fetal remains in a freezer, and eventually dispose
+of the remains in a humane manner, including burial, cremation, and incineration,
+among others. Such disposal can be accomplished uniformly and in a single process
+for all fetal remains in the possession of a facility. Because the volume of fetal tissue
+resulting from abortions is quite small in mass, through minimal cooperation with
+other health-care facilities in the vicinity, the disposal can be completed for all facilities in a locality through a single process. Even if health-care facilities do not cooperate to conduct a single mass disposal for all nearby facilities, at a maximum, DSHS
+anticipates that each clinic will be required to pay for a single use of a crematorium
+each year, plus costs of interment (which includes burial, entombment, placement in
+a niche, or scattering of ashes), as explained below.
+Under the current rules, Plaintiffs, and all regulated entities, are required to
+dispose of fetal tissue using a method prescribed by DSHS. 25 Tex. Admin. Code
+§ 1.134. Plaintiffs state that they currently engage in incineration followed by deposition in a landfill. TRO 3. This method of disposition has a defined cost—which Plaintiffs have declined to specify. Incineration remains an acceptable method of disposition under the proposed amendments, but depositing the resulting ash in a landfill
+does not. Resp. Ex. A ¶ 11. The cost of depositing the ash in a landfill will be replaced
+by the cost of interment. Therefore, the cost of burial will be offset by the savings
+realized by Plaintiffs in not having to pay for deposit in a landfill. Resp. Ex. A ¶ 11.
+
+5
+
+Case 1:16-cv-01300-SS Document 17 Filed 12/14/16 Page 12 of 33
+
+And at least one non-profit group is prepared to provide for the burial of fetal tissue
+from all health-care providers across the state without charge. 3
+Although Plaintiffs have not provided sufficient information for DSHS to accurately analyze the cost differential, DSHS’ own research suggests that any increased
+cost will be minimal. During its fiscal impact analysis for the preamble to the adopted
+rules, DSHS contacted several municipal solid waste landfills that accept incinerated
+ash, such as fetal tissue. The cost provided by these landfills for such disposal was
+between $33 per ton and $50 per ton, with a minimum cost equivalent to one ton per
+delivery. See Resp Ex. A ¶ 11, attach. B. DSHS then researched governmental requirements regarding burial and identified Texas Health and Safety Code § 694.002,
+which requires the commissioners court of each county to provide for the disposition
+of the body of a deceased pauper. Some counties choose to bury as a cost effective
+method to meet the requirement of the statute in a humane manner. In a study conducted by graduate students at the University of Texas, the minimum cost paid by a
+county to bury an indigent individual is $300. 4 DSHS assumes that the weight of an
+average person is 200 lbs and that therefore, burial of up to 200 lbs of tissue or ash
+could be buried in one burial site.
+Based upon DSHS’ data, the average gestational age at time of the abortion procedure is less than eight weeks. Resp. Ex. A ¶ 11. The average weight of fetal tissue
+
+See Resp. Ex. B (Declaration of Jennifer Carr Allmon); see also https://txcatholic.org/texas-catholic-conference-bishops-developing-alternative-burial-optionsaborted-children/ (last visited on Dec. 14, 2016).
+3
+
+Jorgenson, Dr. Daniel J., Study on Individual County Policies and Indigent Burial Cost, May 10, 2010
+4
+
+6
+
+Case 1:16-cv-01300-SS Document 17 Filed 12/14/16 Page 13 of 33
+
+at eight weeks’ gestation is .04 ounces. Resp. Ex. A ¶ 11. The county with the most
+reported procedures is Harris County, which averages 19,417 reported abortions per
+year. Resp Ex. A attach. D. That number of procedures per year, multiplied by the
+average weight per procedure results in 776.68 ounces or 48.5425 lbs of fetal tissue.
+The process of incineration reduces the mass of the tissue by ninety percent. Resp.
+Ex. A ¶ 11. Therefore, the resulting ash requiring burial or internment would weigh
+4.85425 lbs. (19,417 x .04 / 16 x .10 = 4.85425).
+Again, many abortion providers already incinerate fetal remains, and they will
+remain free to do so using the same mechanisms under the proposed rules. The cumulative annual costs to all abortion providers in Harris County, therefore, amount
+to the cost of burying or interring less than five pounds of ash, rather than disposing
+of that ash at a landfill. Five pounds of ash could be easily buried together at a site
+that would be the same size and configuration as that for an average 200-pound body,
+at an annual cost as low as $300. Resp. Ex. A ¶ 12, attach. C. Offsetting a $300 annual
+cost by the approximate $50 cost of the deposition of incinerated ash into a landfill
+results in an annual cumulative cost increase to all abortion providers in Harris
+County of $250. Abortion providers could choose not to cooperate with each other, and
+therefore to individually shoulder this annualized $250 expense—but nothing in the
+proposed rules prevents clinics from cooperating to share the cost.
+A RG U ME N T
+To obtain a temporary restraining order, Plaintiffs must show (1) a substantial
+likelihood that they will prevail on the merits, (2) a substantial threat that they will
+suffer irreparable injury if injunctive relief is not granted, (3) that the threatened
+7
+
+Case 1:16-cv-01300-SS Document 17 Filed 12/14/16 Page 14 of 33
+
+injury outweighs the threatened harm to the party whom they seek to enjoin, and (4)
+that granting the relief will serve the public interest. See Planned Parenthood of Houston & Se. Tex. v. Sanchez, 403 F.3d 324, 329 (5th Cir. 2005). The Court should not
+grant injunctive relief “unless the party seeking it has clearly carried the burden of
+persuasion on all four requirements.” PCI Transp. Inc. v. Fort Worth & W. R.R. Co.,
+418 F.3d 535, 545 (5th Cir. 2005) (internal citation omitted). Plaintiffs have not met
+their burden of showing that they are entitled to the extraordinary relief they seek.
+The Court should deny their request for a temporary restraining order.
+I.
+
+Plaintiffs Are Not Substantially Likely to Prevail on Any of Their Constitutional Claims.
+In their request for a temporary restraining order, Plaintiffs assert three consti-
+
+tutional claims: “personal liberty,” vagueness, and the right to privacy. They are not
+likely to prevail on any of them for the reasons described below.
+A. Plaintiffs’ allegations regarding “personal liberty” fail to describe a
+constitutional violation.
+Plaintiffs begin by asserting that the challenged rule amendments violate an
+amorphous right of “personal liberty” that they cobble together from cases regarding
+abortion, same-sex marriage, sodomy, and saluting the American flag. TRO 5-6 (citing Planned Parenthood of Se. Pa v. Casey, 505 U.S. 833 (1992), Obergefell v. Hodges,
+135 S. Ct. 2584 (2015), Lawrence v. Texas, 539 U.S. 558 (2003), and W. Va. State Bd.
+of Educ. v. Barnette, 319 U.S. 624 (1943)). But this Court need not adopt Plaintiffs’
+novel constitutional analysis, because the Supreme Court has already identified the
+appropriate test in both Casey and Gonzales v. Carhart: “[R]egulations which do no
+
+8
+
+Case 1:16-cv-01300-SS Document 17 Filed 12/14/16 Page 15 of 33
+
+more than create a structural mechanism by which the State . . . may express profound respect for the life of the unborn are permitted, if they are not a substantial
+obstacle to the woman’s exercise of the right to choose.” Gonzales, 550 U.S. 124, 146
+(2007) (quoting Casey, 505 U.S. at 877). As explained below, the amendments to the
+rules do not place any obstacle, substantial or otherwise, in the path of a woman
+seeking an abortion in Texas. Consequently, Plaintiffs’ claims must fail.
+1.
+
+The Supreme Court allows States to enact laws expressing respect for the life of the unborn.
+
+A plurality of the Supreme Court in Casey set forth what has become the general
+test for whether a law violates the right to a pre-viability abortion. A law is unconstitutional if it imposes an undue burden on the right to a pre-viability abortion, that is
+“if its purpose or effect is to place a substantial obstacle in the path of a women”
+seeking a pre-viability abortion. 505 U.S. at 878 (plurality op.). 5 As applied to health
+regulations, the plurality explained that “[u]nnecessary health regulations that have
+the purpose or effect of presenting a substantial obstacle to a woman seeking an abortion impose an undue burden on the right.” Id. In its most recent decision on abortion,
+the Supreme Court considered Texas’ health regulations of abortion facilities, relied
+on the “unnecessary” language in Casey, and concluded that the Casey test’s application to regulations regarding women’s health required balancing the benefits pro-
+
+5
+
+All references to Casey are to the plurality opinion, unless otherwise noted.
+9
+
+Case 1:16-cv-01300-SS Document 17 Filed 12/14/16 Page 16 of 33
+
+vided by the regulation with the burdens it imposed. Whole Woman’s Health v. Hellerstedt, 136 S. Ct. 2292, 2299, 2309 (2016). Finding little benefit and significant burden, the Court determined Texas’s regulations were unconstitutional. Id. at 2318.
+But the Supreme Court has set forth a different test for regulations aimed at
+expressing the State’s respect for life—a question that was not raised in Whole
+Woman’s Health. As applied to laws regarding the State’s respect for the life of the
+unborn, the laws are constitutional unless they are a “substantial obstacle to the
+woman’s exercise of the right to choose.” Casey, 505 at 877. It is this test that the
+Court must apply to the challenged amendments which express Texas’s respect for
+the life of the unborn. 6
+Unlike health regulations, in which the necessity or benefits can be objectively
+determined and balanced, Casey’s test for regulations that express respect for unborn
+life does not balance benefits and burdens but simply asks whether the regulations
+create a substantial obstacle to a pre-viability abortion. Id. And for good reason. It
+would be impossible to create a balancing test regarding respect for life, as views on
+fetal life differ widely from person to person. Plaintiffs would need only to assert that,
+in their opinion, there is no interest in the potential life of the unborn, and any incidental burden would be determined to be unconstitutional in a balancing analysis.
+
+To be clear, DSHS regulates the disposal of fetal tissue and other substances,
+such as medical waste and bodily fluids for reasons of health and safety. 25 Tex. Admin. Code § 1.136; 41 Tex. Reg. 9709 (2016). But the determination of appropriate
+methods of disposition is not limited only to considerations of health and safety. Id.
+DSHS may consider other factors, such as cost, availability, and respect for life when
+deciding what methods are permissible.
+6
+
+10
+
+Case 1:16-cv-01300-SS Document 17 Filed 12/14/16 Page 17 of 33
+
+But the Court has never adopted such a test. Instead, the Court has held that “[t]he
+very notion that the State has a substantial interest in potential life leads to the conclusion that not all regulations must be deemed unwarranted.” Id. at 876.
+Recognizing that individuals have differing beliefs on the question of abortion,
+the Supreme Court has permitted the State to express its preference for childbirth.
+Thus, “[e]ven in the earliest stages of pregnancy, the State may enact rules and regulations designed to encourage [the patient] to know that there are philosophic and
+social arguments of great weight that can be brought to bear in favor of continuing
+the pregnancy full term.” Id. at 872. The Court has further stated that it is a “legitimate goal” of a State to “protect[] the life of the unborn by enacting legislation aimed
+at ensuring a decision that is mature and informed, even when in so doing the State
+expresses a preference for childbirth over abortion.” Id. at 883. Thus, the Court has
+upheld 24-hour waiting periods, id. at 886-87, and a partial-birth abortion ban, Gonzales, 550 U.S. at 132, even though those demonstrate a respect for life. In fact, Casey
+overruled two of the Court’s prior decisions because they were “inconsistent with
+Roe’s acknowledgement of an important interest in potential life.” 505 U.S. at 882.
+Plaintiffs wrongly attempt to minimize the State’s interest in respecting unborn
+life, citing a district court decision from Indiana which held that a State’s interest in
+potential life ends once the abortion is performed. TRO 10 (citing PPINK v. Commissioner, No. 16-CV-763-TWP-DML, 2016 WL 3556914 at *10 (S. D. Ind. June 30,
+2016)). But the district court in Indiana was simply wrong when it held that the
+State’s interest ends when there is no longer the potential for life. If that were true,
+the partial-birth abortion ban in Gonzales could not have withstood constitutional
+11
+
+Case 1:16-cv-01300-SS Document 17 Filed 12/14/16 Page 18 of 33
+
+scrutiny, as it did not prevent any abortions (and thus did not save any potential
+lives) but only changed the method through which the procedure was carried out. 550
+U.S. at 132. Even so, any laws designed to recognize the dignity of the unborn may
+encourage individuals contemplating abortion to consider the impact of the procedure
+on the fetus. Casey, 505 U.S. at 882 (“Nor can it be doubted that most women considering an abortion would deem the impact on the fetus relevant.”). Texas’s interest in
+potential life is, thus, furthered by respecting the dignity of fetal remains.
+Plaintiffs also attempt to shoehorn the challenged rule amendments into the
+health-regulation balancing test of Whole Woman’s Health. TRO 6-8. But Whole
+Woman’s Health is not a mandate that every abortion regulation be viewed through
+the lens of health and safety. If so, the 24-hour waiting period in Casey and partialbirth abortion ban in Gonzales could not have been upheld, as they were focused, not
+on health and safety, but on the respect for potential life.
+The Supreme Court has made clear that the State may be overt in expressing its
+preference for life. If a State may, without running afoul of the Constitution, inform
+a woman that it prefers childbirth to abortion and that there are “philosophic and
+social arguments of great weight” that suggest she should continue her pregnancy,
+the State can surely require health-care facilities to dispose of fetal tissue with respect, absent an undue burden.
+Because Plaintiffs cannot meet the undue-burden test, see infra pp. 14-19, they
+attempt to create a different right—“personal liberty”—that, according to Plaintiffs,
+includes the right of a woman to determine whether she wants the fetal tissue that
+
+12
+
+Case 1:16-cv-01300-SS Document 17 Filed 12/14/16 Page 19 of 33
+
+is the product of her abortion treated with dignity. 7 TRO 5-6, 11-14. But the rules
+prior to amendment, like the amendments, contain no requirement of patient notification or consent. And, more importantly, the constitutional right to an abortion does
+not include a right to be shielded from the fact that there are those who disagree with
+that choice. Casey, 505 U.S. at 877 (stating that there is no “right to be insulated from
+all others” when deciding whether to obtain an abortion). Nor does the constitutional
+right to an abortion include the right to choose how to dispose of the fetal tissue that
+is the product of that abortion. Indeed, Plaintiffs have not identified a single case
+from the Supreme Court or the Fifth Circuit in which an abortion regulation was
+struck down simply because it treated potential life with respect without imposing an
+undue burden.
+In short, then, Plaintiffs are left with a claim that they have a constitutional
+right to grind and discharge fetuses into the sewer or put the ashes of incinerated
+fetuses into a sanitary landfill. The Supreme Court’s abortion precedent has never
+gone that far, and this Court should not, either. The framework for the Court’s analysis is simple. Do the rule amendments present a substantial obstacle to a woman’s
+right to an abortion? The answer, as described below, is no.
+
+Plaintiffs’ arguments on this point are contradictory. Two owners of abortion
+facilities testified that their patients almost never ask about the disposition of the
+fetus. TRO Exs. A ¶ 16, B ¶ 12. But, according to Plaintiffs, those same patients will
+now hold very strong views about the disposition of the fetus that must be given constitutional effect. TRO 11-14. Further there is no evidence that most patients prefer
+to have their fetal tissue disposed of in a sanitary landfill, the method Plaintiffs assert
+is constitutionally required.
+7
+
+13
+
+Case 1:16-cv-01300-SS Document 17 Filed 12/14/16 Page 20 of 33
+
+2.
+
+Expressing respect for unborn life is not an unconstitutional
+purpose.
+
+Turning to Casey’s purpose-or-effect framework, Plaintiffs assert that the rule
+amendments are a pretext, and that the State’s true purpose is to prevent women
+from obtaining abortions. TRO 9-11. But constitutional analysis of a regulation’s purpose is highly deferential. E.g., McCleskey v. Kemp, 481 U.S. 279, 298-99 (1987)
+(where “there [are] legitimate reasons” for a law, courts “will not infer a discriminatory purpose”). Further, the Supreme Court has stated that it “do[es] not assume unconstitutional intent even when statutes produce harmful results, much less do[es]
+[the Court] assume it when the results are harmless.” Mazurek v. Armstrong, 520
+U.S. 968, 972 (1997) (per curiam).
+The best source for the purpose of a law is the law itself. As in Gonzales, a
+“straightforward reading of the . . . text demonstrates its purpose.” 550 U.S. at 146.
+Here, the final comments make clear that one of the main purposes of the rule amendments was to ensure the dignity of the unborn, which is a state policy reflected in
+many laws passed by the Texas Legislature. 41 Tex. Reg. 9709 (2016). 8 As explained
+above, the Supreme Court has held that the State may enact laws for the legitimate
+purpose of expressing respect for the life of the unborn.
+
+Plaintiffs’ complaints that DSHS modified its statements during the notice-andcomment period demonstrate a failure to understand Texas administrative law. TRO
+9. Before a rule may be adopted, an agency must provide (1) a summary of the comments received from interested parties; (2) a restatement of the factual basis for the
+rule; and (3) the reasons why the agency disagrees with the comments. Tex. Gov’t
+Code § 2001.033(a)(1)(A)-(C). The changes between the proposed rules and the final
+comments are not, therefore, evidence of pretext, but rather reflect DSHS’ compliance
+with Texas administrative standards.
+8
+
+14
+
+Case 1:16-cv-01300-SS Document 17 Filed 12/14/16 Page 21 of 33
+
+Plaintiffs’ only complaint then is that not everyone believes that a fetus represents potential life and, therefore, the State’s purpose is unconstitutional. TRO 10.
+But the Court has refused to strike laws that exhibit such a purpose. For example, in
+Gonzales, Congress made findings that “[i]mplicitly approving such a brutal and inhumane procedure [partial-birth abortion] by choosing not to prohibit it will further
+coarsen society to the humanity of not only newborns, but all vulnerable and innocent
+human life, making it increasingly difficult to protect such life.” 550 U.S. at 157. And
+yet, the Supreme Court found no purpose violation. Id. at 160. States are, therefore,
+free to enact laws that dignify the unborn without violating the purpose prong of the
+Casey test.
+Plaintiffs also complain that the rule amendments single out abortion for different treatment. TRO 9. Although the rule amendments do not single out abortion, as
+they apply to all fetal tissue whether from an induced abortion, miscarriage, or other
+procedure, the Supreme Court has held on multiple occasions that the State can treat
+abortion differently. See, e.g., Gonzales, 550 U.S. at 159; Casey, 505 U.S. at 852
+(“Abortion is a unique act.”); Harris v. McRae, 448 U.S. 297, 325 (1980) (“[a]bortion is
+inherently different from other medical procedures”); Planned Parenthood of Central
+Mo. v. Danforth, 428 U.S. 52, 66-67 (1976) (upholding written-consent requirement
+that applied only to abortion).
+The Supreme Court has never found an abortion regulation unconstitutional for
+having an improper purpose, absent an undue burden, and has questioned whether
+it ever could. See Mazurek, 520 U.S. at 972 (assuming without deciding that an unconstitutional purpose, without an unconstitutional effect, would be sufficient to
+15
+
+Case 1:16-cv-01300-SS Document 17 Filed 12/14/16 Page 22 of 33
+
+strike an abortion regulation). Plaintiffs’ evidence falls far short of proving that
+DSHS had an unconstitutional motive of restricting access to abortion when it
+adopted rules requiring the humane treatment of fetal tissue.
+3.
+
+The proposed amendments do not create an undue burden.
+
+Plaintiffs assert that the rule amendments create an undue burden in three
+ways: (1) requiring a “funeral ritual”; (2) harming the health and safety of women;
+and (3) denying access to abortion through increased costs. TRO 11-16.
+a.
+
+Plaintiffs identify no portion of the rule amendments that require a “funeral
+
+ritual” of any sort. The rules have included burial and cremation as options for over
+twenty-five years and have never, to Defendant’s knowledge, been used by the State
+to impose any sort of ritual on the burial or cremation process. The State has explained the process that health-care facilities may undertake to comply with these
+rules, see supra p. 5, and at no point did that process either require or prohibit any
+sort of ritual.
+Plaintiffs’ main concern appears to be that some individuals might not wish to
+give the dignity of burial or cremation to the fetal tissue that is the product of their
+abortions. TRO 11-14. But the right to a pre-viability abortion recognized by the Supreme Court has never been extended to include a right to determine what should be
+done with fetal tissue once the abortion occurs. It is only when a state regulation
+imposes an undue burden on a woman’s ability to “make th[e] decision [to obtain an
+abortion] does the power of the State reach into the heart of the liberty protected by
+the Due Process Clause.” Casey, 505 U.S. at 874; id. at 877 (“What is at stake is the
+woman’s right to make the ultimate decision.”). There is also no constitutional right
+16
+
+Case 1:16-cv-01300-SS Document 17 Filed 12/14/16 Page 23 of 33
+
+to remain unaware that many individuals, including State officials, consider the fetus
+to be life. As Casey stated, “it is an overstatement to describe it as a right to decide
+whether to have an abortion without interference from the State.” Id. at 875. Individuals may disagree with the State’s decision to treat fetal tissue with respect, but that
+decision does not impose any burden on the right to choose an abortion in the first
+place.
+Moreover, despite their dire musings on state-imposed funeral rituals, Plaintiffs
+have not alleged an Establishment Clause violation under the First Amendment. If
+the State was, in fact, imposing a religious ritual on individuals, that claim should be
+brought under the First Amendment. It should not be recreated as a substantive-dueprocess violation. See, e.g., Graham v. Connor, 490 U.S. 386, 388 (1989) (holding that
+unlawful seizure claim should be analyzed under the Fourth Amendment, not as a
+substantive-due-process violation). Further, the rules textually support no such claim
+because they refer to authorized and prohibited methods of disposition, none which
+require any religious or funeral ritual.
+b.
+
+Plaintiffs next assert that the rule amendments will harm the health and
+
+safety of their patients because Plaintiffs might prefer to forego pathology testing of
+the pregnancy tissue rather than risk liability if the pathology lab does not properly
+dispose of the tissue. TRO 14. Plaintiffs also assert that they may choose not to cooperate in the investigation of sex crimes because the forensic lab might not properly
+dispose of the tissue. TRO 14. The rule amendments did not change the responsibility
+of Plaintiffs to ensure the proper disposition of fetal tissue; the amendments simply
+
+17
+
+Case 1:16-cv-01300-SS Document 17 Filed 12/14/16 Page 24 of 33
+
+reduced the options for disposition. And the rules relating to disposition of microbiological waste, such as discarded cultures of specimens from medical, pathological and
+clinical laboratories have not changed. 25 Tex. Admin. Code § 1.136(a)(3)(B). If Plaintiffs faced potential liability before, the rule amendments have done nothing to
+change that.
+Even so, this allegation stretches Roe and Casey far beyond recognition. Plaintiffs’ complaint about the health and safety of their patients has nothing to do with
+the availability of the abortion procedure. That procedure remains available to Plaintiffs’ patients regardless of whether Plaintiffs choose to have pathology or crime labs
+examine the fetal tissue.
+c.
+
+Plaintiffs concede that they have found a facility in the State that is “willing
+
+and able to provide cremation services at a feasible cost.” TRO 15. And a non-profit
+group is willing to provide burial services to health-care facilities without cost. See
+supra n.3. There is, therefore, no need to issue a temporary restraining order to protect access to abortion, because access will not change. And as explained above, the
+costs of compliance should not increase significantly. See supra pp. 5-7. Spread over
+thousands of abortions performed during the course of a year, the increased costs,
+should Plaintiffs choose to pass it on to their patients, would amount to a dollar or
+two. In 1984, the Supreme Court found constitutional a law requiring a pathology
+report on each aborted fetus, even though it would increase the cost of abortion by
+$19.40. Planned Parenthood Ass’n of Kansas City v. Ashcroft, 462 U.S. 476, 490
+(1983). The minimal increase here is not an undue burden.
+
+18
+
+Case 1:16-cv-01300-SS Document 17 Filed 12/14/16 Page 25 of 33
+
+Absent a current constitutional violation, Plaintiffs assert that the rule amendments might, at some point in the future, interfere with access to abortion services if
+the single cremation facility becomes unable to provide services in the future. TRO
+15-16. But such a hypothetical claim is not ripe, and certainly not a reason to presently enjoin the rule amendments when compliance is possible.
+Multiple abortion providers in Texas, like Planned Parenthood, have not filed
+suit and are, presumably, able to comply with the rule amendments. Likewise, hundreds of health-care facilities in Texas, such as hospitals, ambulatory-surgical centers, and others, must also comply with these rules and have not filed suit. Plaintiffs
+should be able to comply with the rule amendments, and injunctive relief is unwarranted.
+B. The rule amendments are not unconstitutionally vague.
+The vagueness claims made by Plaintiffs stem from a misunderstanding of the
+rules regarding fetal death certificates and a failure to read the rules in context.
+Properly considered, the rules provide Plaintiffs and the public with the information
+necessary to comply.
+It is a fundamental principle of constitutional law that statutes or rules be construed to uphold their constitutionality. See, e.g., Frisby v. Schultz, 487 U.S. 474, 483
+(1988) (noting the “well-established principle that statutes will be interpreted to
+avoid constitutional difficulties”); United States v. Vuitch, 402 U.S. 62, 70 (1971)
+(“[S]tatutes should be construed whenever possible so as to uphold their constitutionality”). Statutes are not unconstitutionally vague when they establish “an imprecise
+
+19
+
+Case 1:16-cv-01300-SS Document 17 Filed 12/14/16 Page 26 of 33
+
+but comprehensible normative standard,” but only when “no standard of conduct is
+specified at all.” Coates v. City of Cincinnati, 402 U.S. 611, 614 (1971).
+1.
+
+Plaintiffs’ first complaint regarding vagueness is that the amendments do
+
+not provide clarity about whether they apply to fetal tissue that results from abortions performed at twenty weeks or more [lmp]. TRO 19-20. Plaintiffs’ confusion
+stems from their belief that a fetal death certificate is required for abortions after
+twenty weeks. TRO 19. When a fetal death certificate is required, the fetal death is
+exempted from the disposition rules. 25 Tex. Admin. Code § 1.133(a)(2)(F). But, as
+explained in the next section, a fetal death certificate is not required for induced abortions. See infra pp. 21-23. The rules will, therefore, apply to the disposition of fetal
+tissue from abortions performed after twenty weeks and are not unconstitutionally
+vague.
+2.
+
+Plaintiffs next assert that the proposed rules are unconstitutionally vague
+
+with respect to the disposition of the ashes that result from cremation or incineration.
+TRO 20-22. They reference the proposed amendment to section 1.134(a), which states
+that “[t]his subchapter does not extend or modify requirements of Texas Health and
+Safety Code, Chapters 711 and 716 or Texas Occupations Code, Chapter 651 to disposition of fetal tissue.” TRO 20. But read in context, the entirety of subsection (a)
+concerns the disclosure of confidential information. The chapters of Texas law referenced govern cemeteries, crematories, and funeral and embalming services, and each
+
+20
+
+Case 1:16-cv-01300-SS Document 17 Filed 12/14/16 Page 27 of 33
+
+has provisions for the disclosure of certain information. 9 Thus, the statement Plaintiffs quote reflects DSHS’ effort to ensure that confidential information regarding patients is not made public. See Gonzales, 550 U.S. at 153 (reaffirming that in abortion
+cases, “every reasonable construction must be resorted to, in order to save a statute
+from unconstitutionality”) (citation omitted).
+As noted by Plaintiffs, the rules specifically permit “scattering of ashes as authorized by law.” 41 Tex. Reg. 9709, 9733-34 (2016) (defining “interment”). Pursuant
+to Texas Health and Safety Code sections 716.302-.304, there are multiple options
+available for the scattering of ashes. Thus, there is no unconstitutional vagueness.
+C. Because no death certificate is required for induced abortions,
+Plaintiffs are unlikely to prevail on their privacy claim.
+Finally, Plaintiffs assert a violation of the right to privacy, believing that death
+certificates will have to be filed for every abortion that occurs after twenty weeks
+gestation. TRO 22. Contrary to Plaintiffs’ assertions, the proposed rule amendments
+do not mandate the filing or issuance of death certificates for abortions. TRO 22-26.
+Consequently, the amendments will not result in any woman in Texas being identified to her family or to the public as having had an abortion.
+
+See Tex. Health & Safety Code § 711.003 (requiring cemeteries to keep record
+of each interment, including name and age of person interred); Tex. Health & Safety
+Code § 716.251 (requiring crematories to maintain record of each cremation, including name of deceased person); Tex. Occ. Code § 651.004 (authorizing Texas Funeral
+Service Commission to regulate cemetery and crematory services); 22 Tex. Admin.
+Code § 205.11 (requiring cremation authorization form signed by person responsible
+for making arrangements as prerequisite for cremation).
+9
+
+21
+
+Case 1:16-cv-01300-SS Document 17 Filed 12/14/16 Page 28 of 33
+
+The law in Texas has long provided for death certificates in the event of stillbirth
+after twenty weeks gestation. 25 Tex. Admin. Code § 181.7(a). That law explicitly
+states, in its title, that it applies only to “Stillbirth,” which is a defined term in Texas
+law meaning “an unintended, intrauterine fetal death occurring in this state after a
+gestational age of not less than 20 completed weeks.” Tex. Health & Safety Code
+§ 192.0022 (emphasis added). Applying this statutory and regulatory scheme for decades, DSHS has always interpreted it to exclude abortions, regardless of gestational
+age, from the general requirement that fetal death certificates be issued when a fetal
+death (stillbirth) occurs.
+The proposed amendments do not change this intent or this result, and in fact
+explicitly affirm it. Section 1.134(a) of the revised rules states:
+This subchapter may not be used to require or authorize disclosure of confidential information, including personally identifiable or personally sensitive
+information, not permitted to be disclosed by state or federal privacy or confidentiality laws. This subchapter does not require the issuance of a
+birth or death certificate for the proper disposition of special waste
+from health care-related facilities. This subchapter does not extend or
+modify requirements of Texas Health and Safety Code, Chapters 711 and
+716 or Texas Occupations Code, Chapter 651 to disposition of fetal tissue.
+41 Tex. Reg. 9709, 9736 (2016) (emphasis added).
+“Special Waste” is defined within the former and new rules to expressly include
+“Pathological Waste,” which is itself defined in the new rules to mean (in relevant
+part) “products of spontaneous or induced human abortions, regardless of the period
+of gestation, except as provided by §1.133 of this title . . . including . . . tissues and
+
+22
+
+Case 1:16-cv-01300-SS Document 17 Filed 12/14/16 Page 29 of 33
+
+fetuses.” 10 Id. at 9734. Accordingly, the rule text plainly states that it does not mandate the issuance of a death certificate in the case of an abortion, regardless of the
+period of gestation.
+DSHS included this express language in the text of the rule because it has no
+intent to require the issuance of death certificates for abortions; in fact, DSHS avers
+that a death certificate with such a cause of death would be rejected by the National
+Center for Health Statistics and thus by DSHS for purposes of collecting vital event
+data. 11 Consistent with the plain text of the revised rule, DSHS intends to continue
+unaltered its longstanding practice of requiring death certificates in the event of
+“stillbirth” after twenty weeks, but not in the event of an abortion.
+When the rule is properly construed, Plaintiffs’ objection on the basis of “death
+certificates” evaporates. No woman will be stigmatized by the publicity of a death
+certificate in the event of an abortion, because there will not be any such death certificates. As a result, Plaintiffs are unlikely to prevail on their claim of privacy.
+
+The exception in § 1.133 of the Texas Administrative Code refers to 25 Tex.
+Admin. Code § 181.7(a), which applies only to “Stillbirth[s]”—the unintentional intrauterine death of a fetus weighing 350 grams or more or for which consent has been
+obtained to transfer the remains to a funeral director by a next of kin or other authorized person.
+10
+
+See, e.g., Centers for Disease Control and Prevention, Procedures for Coding
+Cause of Fetal Death Under ICD-10 at 2 (stating, “All induced terminations of pregnancy should be excluded from the fetal death file except when the fetus was known
+to be dead before the procedure and when the induction was performed for the sole
+purpose
+of
+removing
+an
+already-dead
+fetus.”),
+available
+at
+https://www.cdc.gov/nchs/data/dvs/fet2a2005.pdf (last visited on Dec. 14, 2016).
+11
+
+23
+
+Case 1:16-cv-01300-SS Document 17 Filed 12/14/16 Page 30 of 33
+
+II. Plaintiffs Have Not Proven That the Remaining Factors Favor Injunctive Relief.
+Plaintiffs expend little effort in arguing that the remaining elements of the temporary-restraining-order standard are met. TRO 26-27. They simply assert that, once
+a constitutional violation is established, any resulting harm is irreparable. TRO 26
+(citing Elrod v. Burns, 427 U.S. 347, 373 (1976)). But they have not identified any
+individual or group of individuals who will be deprived of the constitutional right to
+an abortion in Texas or have their right to privacy otherwise infringed. And Plaintiffs’
+vagueness claims do not demonstrate irreparable harm, as Plaintiffs can modify their
+actions to avoid liability by storing the fetal tissue in a freezer until the Court rules
+on the merits of their claims.
+Absent any harm, much less irreparable harm, the balance of equities favors the
+State. See Planned Parenthood of Greater Tex. Surgical Health Servs. v. Abbott, 734
+F.3d 406, 419 (5th Cir. 2013) (“When a statute is enjoined, the State necessarily suffers the irreparable harm of denying the public interest in the enforcement of its
+laws.”); see also Maryland v. King, 133 S. Ct. 1, 3 (2012) (Roberts, C.J., in chambers).
+For this reason, a federal court should never enjoin state officials from enforcing a
+state law absent a clear showing that the law is invalid. See Ex Parte Young, 209 U.S.
+123, 166 (1908) (“[N]o injunction ought to be granted unless in a case reasonably free
+from doubt.”).
+Finally, given that the Supreme Court has held that the State has a legitimate
+interest in expressing its respect for the life of the unborn, granting relief to Plaintiffs
+will not serve the public interest. Because there is no constitutional violation, the
+
+24
+
+Case 1:16-cv-01300-SS Document 17 Filed 12/14/16 Page 31 of 33
+
+State should be permitted, consistent with Supreme Court precedent, to show its respect for unborn life by providing for the humane treatment of fetal tissue.
+III. If the Court Concludes That Injunctive Relief Is Necessary, It Should
+Tailor That Relief to the Specific Violation and Harm Found.
+Should the Court determine that Plaintiffs are entitled to relief on some of their
+claims, it should sever the unconstitutional portions of the rule amendments from the
+constitutional ones rather than enjoining the amendments in their entirety. As the
+Supreme Court has stated, courts prefer “to enjoin only the unconstitutional applications of a statute while leaving other applications in force, or to sever its problematic
+portions while leaving the remainder intact.” Ayotte v. Planned Parenthood of N. New
+Eng., 546 U.S. 320, 328-29 (2006) (citation omitted); cf. Tex. Gov’t Code § 312.013(a)
+(declaring default rule of severability for statutes).
+Several of Plaintiffs’ claims could be addressed through limited injunctive relief
+that does not extend to all of the rule amendments. For example, Plaintiffs’ privacy
+claim regarding the fetal death certificate would not require the Court to enjoin every
+amendment to the rules. To the extent the Court concludes that injunctive relief is
+appropriate, it should limit that relief to the specific constitutional violation and
+harm being redressed.
+C O N CL U S I O N
+For the foregoing reasons, the Court should deny Plaintiffs’ request for a temporary restraining order.
+
+25
+
+Case 1:16-cv-01300-SS Document 17 Filed 12/14/16 Page 32 of 33
+
+Respectfully submitted.
+KEN PAXTON
+Attorney General of Texas
+JEFFREY C. MATEER
+First Assistant Attorney General
+BRANTLEY STARR
+Deputy First Assistant Attorney General
+JAMES E. DAVIS
+Deputy Attorney General for Civil Litigation
+NICHOLE BUNKER-HENDERSON
+Chief, Administrative Law Division
+/s/ John S. Langley
+JOHN S. LANGLEY
+Assistant Attorney General
+Texas Bar No. 11919250
+CRAIG M. WARNER
+Assistant Attorney General
+BETH KLUSMANN
+Assistant Solicitor General
+TODD LAWRENCE DISHER
+Special Counsel for Civil Litigation
+OFFICE OF THE ATTORNEY GENERAL
+P.O. Box 12548
+Austin, Texas 78711-2548
+Telephone: (512) 936-7935
+Facsimile: (512) 320-0167
+John.Langley@oag.texas.gov
+Attorneys for Defendant
+
+26
+
+Case 1:16-cv-01300-SS Document 17 Filed 12/14/16 Page 33 of 33
+
+CERTIFICATE
+
+OF
+
+FILING
+
+AND
+
+SERVICE
+
+I certify that on December 14, 2016, this document was served on the following
+counsel of record through the Court’s CM/ECF Document Filing System or through
+e-mail:
+Patrick J. O’Connell
+Jan Soifer
+O’Connell & Soifer LLP
+2525 Wallingwood, Bldg. 14
+Austin, Texas 78746
+poconnell@oconnellsoifer.com
+jsoifer@oconnellsoifer.com
+David Brown
+Stephanie Toti
+Molly Duane
+Center for Reproductive Rights
+199 Water St. 22nd Floor
+New York, NY 10038
+dbrown@reprorights.org
+stoti@reprorights.org
+mduane@reprorights.org
+J. Alexander Lawrence
+Morrison & Foerster LLP
+250 W. 55th Street
+New York, NY 10019
+alawrence@mofo.com
+
+/s/ John S. Langley
+JOHN S. LANGLEY
+Assistant Attorney General
+
+27
+
+

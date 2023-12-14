@@ -1,0 +1,1139 @@
+Case 1:08-cv-00193-RBW
+
+Document 5
+
+Filed 04/04/2008
+
+Page 1 of 27
+
+UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF COLUMBIA
+)
+)
+)
+)
+)
+Plaintiffs,
+)
+v.
+)
+)
+UNITED STATES DEPARTMENT OF
+)
+HOUSING AND URBAN DEVELOPMENT; and )
+ALPHONSO JACKSON, AS SECRETARY OF
+)
+THE UNITED STATES DEPARTMENT OF
+)
+HOUSING AND URBAN DEVELOPMENT,
+)
+451 7th Street SW
+)
+Washington, DC 20410
+)
+)
+Defendants.
+)
+)
+ST. MARKS PLACE HOUSING COMPANY,
+INC.; ST. MARKS PLACE ASSOCIATES;
+STELLAR CP LP; and CASTLETON GP LLC,
+
+Case No. 1:08-cv-00193 (RBW)
+
+DEFENDANTS’ MOTION TO DISMISS
+Pursuant to Federal Rules of Civil Procedure 12(b)(6), defendants hereby move the Court
+to dismiss plaintiffs’ Complaint with prejudice, for the reasons set forth in the accompanying
+Memorandum of points and authorities in support of this motion.
+Dated: April 4, 2008
+
+Respectfully submitted,
+JEFFREY S. BUCHOLTZ
+Acting Assistant Attorney General
+JEFFREY A. TAYLOR
+United States Attorney
+/s/ Kathryn L. Wyer
+MICHAEL SITCOV
+KATHRYN L. WYER
+U.S. Department of Justice, Civil Division
+20 Massachusetts Ave., NW
+Washington, D.C. 20530
+Telephone: (202) 616-8475 / Fax: (202) 616-8470
+kathryn.wyer@usdoj.gov
+Attorneys for Defendants
+
+Case 1:08-cv-00193-RBW
+
+Document 5
+
+Filed 04/04/2008
+
+Page 2 of 27
+
+UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF COLUMBIA
+
+)
+ST. MARKS PLACE HOUSING COMPANY,
+)
+INC.; ST. MARKS PLACE ASSOCIATES;
+)
+STELLAR CP LP; and CASTLETON GP LLC,
+)
+)
+Plaintiffs,
+)
+)
+v.
+)
+)
+UNITED STATES DEPARTMENT OF
+)
+HOUSING AND URBAN DEVELOPMENT; and )
+ALPHONSO JACKSON, AS SECRETARY OF
+)
+THE UNITED STATES DEPARTMENT OF
+)
+HOUSING AND URBAN DEVELOPMENT,
+)
+451 7th Street SW
+)
+Washington, DC 20410
+)
+)
+Defendants.
+)
+)
+
+Case No. 1:08-cv-00193 (RBW)
+
+MEMORANDUM IN SUPPORT OF DEFENDANTS’ MOTION TO DISMISS
+
+Case 1:08-cv-00193-RBW
+
+Document 5
+
+Filed 04/04/2008
+
+Page 3 of 27
+
+TABLE OF CONTENTS
+TABLE OF AUTHORITIES ........................................................................................................... iii
+PRELIMINARY STATEMENT............................................................................................................1
+STATUTORY AND REGULATORY FRAMEWORK .....................................................................2
+FACTUAL AND PROCEDURAL BACKGROUND .........................................................................6
+1.
+
+New York’s Mitchell-Lama program........................................................................6
+
+2.
+
+Castleton Park Apartments Development And St. Marks Mortgage ...........................7
+
+3.
+
+Events Leading Up To This Litigation .....................................................................8
+
+STANDARD OF REVIEW .............................................................................................................10
+ARGUMENT ................................................................................................................................. 11
+I.
+
+JUDICIAL REVIEW OF PLAINTIFFS’ CLAIM IS GOVERNED BY
+THE APA ...............................................................................................................11
+
+II.
+
+PLAINTIFFS FAIL TO STATE A CLAIM UNDER THE APA ...........................13
+A.
+
+The Plain Language Of The Mortgage Note Conditions The Privilege
+Of Prepayment On Secretary Approval ....................................................13
+
+B.
+
+The 1977 HUD Regulation Does Not Render The Mortgage Note
+Footnote Invalid .........................................................................................15
+
+C.
+
+The Secretary’s Interpretation Of 24 C.F.R. § 207.14(a) (1977) Is
+Entitled To Substantial Deference, And His Decision To Apply
+Section 250 Based On The Mortgage Note Footnote Was
+Reasonable .................................................................................................18
+
+CONCLUSION ................................................................................................................................ 20
+
+- ii -
+
+Case 1:08-cv-00193-RBW
+
+Document 5
+
+Filed 04/04/2008
+
+Page 4 of 27
+
+TABLE OF AUTHORITIES
+CASES
+13th Regional Corp. v. U.S. Dep’t of Interior, 654 F.2d 758 (D.C. Cir. 1980) .............................11
+Allied Chem. Corp. v. Daiflon, Inc., 449 U.S. 33, 101 S. Ct. 188 (1980) ......................................11
+Assoc. Builders & Contractors, Inc.. v. Herman, 166 F.3d 1248 (D.C. Cir. 1999) .......................12
+Atwood-Leisman v. United States, 72 Fed. Cl. 142 (2006) ............................................................. 4
+*Auer v. Robbins, 519 U.S. 452, 117 S. Ct. 905 (1997) .........................................................18, 19
+Bell Atlantic Corp. v. Twombly, 127 S. Ct. 1955 (2007) ..............................................................10
+Chancellor Manor, Ltd. v. United States, 331 F.3d 891 (Fed. Cir. 2003) .......................................5
+Chevron[, U.S.A., Inc. v. Natural Res. Defense Council, 467 U.S. 837, 104 S. Ct. 2778 (1984)...18
+*Cienega Gardens v. United States, 503 F.3d 1266 (Fed. Cir. 2007) ....................................2, 6, 20
+Columbus Park Corp. v. Dep’t of Hous. Pres. & Dev., 598 N.E.2d 702 (N.Y. 1992) ................6, 7
+EEOC v. St. Francis Xavier Parochial Sch., 117 F.3d 621 (D.C. Cir. 1997) ..................................10
+Fornaro v. James, 416 F.3d 63 (D.C. Cir. 2005) ............................................................................11
+KSLM-Columbus Apartments, Inc. v. N.Y. State Div. of Hous. & Cmty. Renewal,
+772 N.Y.S.2d 665 (N.Y. App. Div. 2004) .......................................................................6, 7
+*Long Island Care at Home, Ltd. v. Coke, 127 S. Ct. 2339 (2007) ...............................................18
+Mistick PBT v. Chao, 440 F.3d 503 (D.C. Cir. 2006) ...................................................................18
+PDK Labs Inc. v. Reno, 134 F. Supp. 2d 24 (D.D.C. 2001) ...................................................11, 12
+Rivers Unltd. v. U.S. Dep’t of Transp., 533 F. Supp.2d 1 (D.D.C. 2008) .....................................18
+Rogers v. Johnson-Norman, 466 F. Supp. 2d 162 (D.D.C. 2006) ............................................. 9, 10
+Safe Extensions, Inc. v. FAA, 509 F.3d 593 (D.C. Cir. 2007) ................................................12, 13
+
+- iii -
+
+Case 1:08-cv-00193-RBW
+
+Document 5
+
+Filed 04/04/2008
+
+Page 5 of 27
+
+Shirk v. Garrow, 505 F. Supp. 2d 169 (D.D.C. 2007) .............................................................10, 11
+Skelly Oil Co. v. Phillips Petroleum Co., 339 U.S. 667, 70 S. Ct. 876 (1950) .................................11
+Thetford Props. IV Ltd. P’ship v. HUD, 907 F.2d 445 (4th Cir. 1990) ..........................................6
+Trudeau v. FTC, 456 F.3d 178 (D.C. Cir. 2006) ...........................................................................12
+United States v. Instruments, S.A., Inc., 807 F. Supp. 811 (D.D.C. 1992) ....................................11
+United States ex rel. McLennan v. Wilbur, 283 U.S. 414, 51 S. Ct. 502 (1931) ..........................11
+*Wisconsin v. City of New York, 517 U.S. 1, 116 S. Ct. 1091 (1996) ........................................19
+Wyo. Outdoor Council v. U.S. Forest Serv., 165 F.3d 43 (D.C. Cir. 1999) ....................................18
+
+STATUTES
+Administrative Procedure Act (“APA”), 5 U.S.C. §§ 701-706 ...........................................................1
+5 U.S.C. § 704 ................................................................................................................................. 12
+National Housing Act (“NHA”), 12 U.S.C. § 1701 et seq. ..............................................................2
+NHA Section 207, 12 U.S.C. § 1713 ............................................................................................3, 7
+NHA Sections 221(d)(3), 12 U.S.C. § 1715l ....................................................................................2
+12 U.S.C. § 1715b ................................................................................................................................3
+NHA Section 223, 12 U.S.C. § 1715n ..........................................................................................3, 8
+NHA Section 236, 12 U.S.C. § 1715z-1 ......................................................................................2, 7
+12 U.S.C. § 1715z-15 ..........................................................................................................5, 13, 18
+Mandamus Act, 28 U.S.C. § 1361 ..................................................................................................11
+Declaratory Judgment Act, 28 U.S.C. § 2201 .................................................................................. 11
+Pub. L. 98-181, § 433, 97 Stat. 1221 ................................................................................................5
+
+- iv -
+
+Case 1:08-cv-00193-RBW
+
+Document 5
+
+Filed 04/04/2008
+
+Page 6 of 27
+
+Emergency Low-Income Housing Preservation Act of 1987,
+Pub. L. No. 100-242, 101 Stat. 1877 (1988) (“ELIHPA”) ...................................................5
+Low-Income Housing Preservation and Resident Homeownership Act of 1990,
+Pub. L. No. 101-625, 104 Stat. 4249 (1990) (“LIHPRHA”) ................................................5
+N.Y. Priv. Hous. Fin. Law §§ 10-37 ................................................................................................6
+N.Y. Priv. Hous. Fin. Law. § 35 ..............................................................................................7, 8-9
+
+REGULATIONS
+24 C.F.R. § 200.87 .....................................................................................................................4, 16
+24 C.F.R. Ch. II, Subch. B (§§ 201.1 et seq.) ..................................................................................3
+24 C.F.R. §§ 207.1 -.499 ..................................................................................................................3
+24 C.F.R. § 207.14 (1977) .............................................................................................. 4, 15, 17, 19
+24 C.F.R. § 207.253 (1977) ...............................................................................................................4
+24 C.F.R. § 207.499 (1977) ............................................................................................................. 4
+24 C.F.R. § 221.524 (1977) ..............................................................................................................16
+24 C.F.R. § 236.30 ...........................................................................................................................4
+
+ADMINISTRATIVE MATERIALS
+HUD, Final Rule, 36 Fed. Reg. 24537 (Dec. 22, 1971) .............................................................4, 15
+HUD, Final Rule, 51 Fed. Reg. 2358 (Mar. 4, 1986) ....................................................................17
+HUD, Final Rule, 61 Fed. Reg. 14396 (Apr. 1, 1996) ........................................................... 3, 4, 17
+HUD, Legal Op. CIM-0111 (May 1, 1995) ....................................................................................16
+
+-v-
+
+Case 1:08-cv-00193-RBW
+
+Document 5
+
+Filed 04/04/2008
+
+Page 7 of 27
+
+PRELIMINARY STATEMENT
+In this case, the owners of a New York multifamily affordable rental housing project
+bring suit under the Administrative Procedure Act (“APA”), 5 U.S.C. §§ 701-706, seeking to
+prevent the Department of Housing and Urban Development (“HUD”) and its Secretary
+(“Secretary”) (collectively, “defendants”) from enforcing mortgage prepayment requirements set
+forth in Section 250 of the National Housing Act and aimed at preserving a critical mass of
+affordable housing in a given area. Instead, the owners assert an unconditional right to prepay
+their HUD-insured mortgage, issued in 1977 by the New York State Housing Finance Authority
+(“NYSHFA”), and thus to exit from New York’s Mitchell-Lama affordable housing program.
+They base this asserted right on the contention that Section 250 does not apply to their mortgage
+at all. Generally, Section 250 restricts the Secretary’s ability to approve prepayment of
+mortgages where the Secretary’s approval is already required in order for prepayment to occur.
+Here, the Secretary determined that Section 250 does apply to the mortgage in question because a
+footnote in the Mortgage Note states that prepayment is subject to the Secretary’s approval.
+The meaning and validity of this Mortgage Note footnote are the only issues presented in
+this case. Plaintiffs argue that the footnote does not actually mean what it says in light of an
+attachment to the Mortgage Note. However, that attachment merely sets forth the specific
+monetary amounts involved in interest and principal payments and imposes a penalty for
+prepayment in some circumstances. The attachment has nothing to do with, and is not in conflict
+with, the footnote requiring the Secretary’s approval before prepayment may occur.
+Plaintiffs also assert that this Court should hold the footnote void in light of a HUD
+regulation in effect in 1977, at the time the Note was signed. This suggestion is misplaced. The
+-1-
+
+Case 1:08-cv-00193-RBW
+
+Document 5
+
+Filed 04/04/2008
+
+Page 8 of 27
+
+HUD regulation in question required mortgagors (owners/borrowers) and mortgagees (lenders) to
+include a provision in their mortgage agreements that allows the mortgagor to prepay the
+mortgage. The purpose of this “prepayment privilege” was to induce greater participation by
+property owners in affordable housing programs by offering them low-cost mortgage insurance
+while also ensuring that certain conditions were imposed on the housing development. The
+regulation does not, however, expressly mandate that prepayment be allowed without the
+Secretary’s approval. It is thus perfectly consistent with a requirement, voluntarily included by
+the owners and NYSHFA as the parties to the mortgage agreement, that the Secretary’s approval
+be obtained. Because the Mortgage Note at issue here does contain such a requirement, the
+Secretary’s determination that Section 250 applies here should be upheld.
+STATUTORY AND REGULATORY FRAMEWORK
+As part of HUD’s mission to increase access to affordable housing, the Secretary is
+charged with implementing a number of different programs established by Congress in the
+National Housing Act (“NHA”), 12 U.S.C. § 1701 et seq., that provide incentives to property
+developers to create and maintain housing accessible to low- and moderate-income families and
+individuals. A number of these programs involve three-party arrangements between a property
+owner; a lender, which provides the mortgage; and HUD, which provides mortgage insurance.
+See, e.g., Cienega Gardens v. United States, 503 F.3d 1266, 1270-71 (Fed. Cir. 2007) (describing
+such an arrangement pursuant to NHA Sections 221(d)(3) and 236, 12 U.S.C. §§ 1715l & 1715z1). The NHA grants the Secretary authority to implement its provisions by promulgating rules
+
+-2-
+
+Case 1:08-cv-00193-RBW
+
+Document 5
+
+Filed 04/04/2008
+
+Page 9 of 27
+
+and regulations. 12 U.S.C. § 1715b.1
+The relevant program here is aimed at providing multifamily rental housing. NHA
+Section 207, 12 U.S.C. § 1713, authorizes the Secretary to provide mortgage insurance as a
+means of addressing the need for affordable rental housing, particularly for families. See id. §
+1713(b) (“The insurance of mortgages under this section is intended to facilitate particularly the
+production of rental accommodations, at reasonable rents, of design and size suitable for family
+living.”). Section 223, id. § 1715n, further authorizes the Secretary, “in his discretion, to insure .
+. . a mortgage executed in connection with the . . . refinancing of an existing multifamily housing
+project.” Id. § 1715n(f). Borrowers whose mortgages are insured through these provisions must
+agree to various restrictions as to rents, charges, capital structure, rate of return, and methods of
+operation, either through a Regulatory Agreement between the borrower and HUD, id. §
+1713(b)(2), or through the operation of some other federal or state law, id. § 1713(b)(1).2
+The regulations promulgated by the Secretary relating to multifamily rental housing
+mortgage insurance are located at 24 C.F.R. §§ 207.1 -.499. The version of the regulations in
+effect in 1977, when the mortgage note at issue in this case was signed, provided that “[t]he
+mortgage shall contain a provision permitting the mortgagor to prepay the mortgage in whole or
+
+1
+
+HUD has promulgated regulations implementing each of these programs. See 24 C.F.R.
+Ch. II, Subch. B (§§ 201.1 et seq.). Before 1996, the regulations for each program were entirely
+separate and, while containing many similarities, were not identical. As explained below, the
+differences are significant here in connection with prepayment privileges. In 1996, the
+regulations were streamlined and consolidated to some extent. See generally HUD, Final Rule,
+61 Fed. Reg. 14396 (Apr. 1, 1996).
+2
+
+A mortgage for multifamily rental property that is insured pursuant to Section 223 is
+endorsed under Section 207. See id. § 1715n(f)(1) (providing authorization to insure mortgages
+for multifamily housing projects “under any section of this subchapter”).
+-3-
+
+Case 1:08-cv-00193-RBW
+
+Document 5
+
+Filed 04/04/2008
+
+Page 10 of 27
+
+in part upon any interest payment date after giving to the mortgagee 30 days’ notice in writing in
+advance of its intention to so prepay.” HUD, Final Rule, 36 Fed. Reg. 24537, 24540 (Dec. 22,
+1971) (24 C.F.R. § 207.14(a)).3 The insurance contract “shall terminate effective as of the date
+of the prepayment.” Id. at 24517 (24 C.F.R. § 207.253(a)(2)). The purpose of this “prepayment
+privilege” was to provide an additional incentive to private property owners to agree to the rent
+and use restrictions that accompany the mortgage insurance. Cf. Chancellor Manor, Ltd. v.
+United States, 331 F.3d 891, 894 (Fed. Cir. 2003) (discussing a prepayment privilege set forth in
+a different regulation, 24 C.F.R. § 236.30(a)(1))4; Atwood-Leisman v. United States, 72 Fed. Cl.
+142, 144 (2006) (recognizing that the prepayment option in mortgage contracts between property
+owners and Farmers Home Administration “served as a major inducement for recruiting property
+owners into the program” (internal quotation omitted)). The regulations in effect at that time also
+provided, as they still do, that they “may be amended . . . at any time and from time to time, in
+whole or in part, but such amendment shall not adversely affect the interests of a mortgagee or
+lender under the contract of insurance on any mortgage or loan already insured.” 36 Fed. Reg. at
+24551 (24 C.F.R. § 207.499). The interests of mortgagors or borrowers are not addressed in the
+amendment provision.
+
+3
+
+As part of the streamlining process mentioned above, this regulation was removed in
+1996, and a provision generally applicable to all HUD mortgage insurance programs was
+promulgated in its place. 61 Fed. Reg. at 14396. The new provision expressly states that the
+prepayment privilege does not restrict the authority of the Federal Housing Commissioner, to
+whom the Secretary has delegated the responsibility to administer these programs, to impose
+limitations on prepayment. 24 C.F.R. § 200.87(a).
+4
+
+Unlike the regulation at issue here, the version of 24 C.F.R. § 236.30(a)(1) in effect at
+the relevant time in Chancellor Manor expressly allowed prepayment after twenty years “without
+prior consent of HUD.”
+-4-
+
+Case 1:08-cv-00193-RBW
+
+Document 5
+
+Filed 04/04/2008
+
+Page 11 of 27
+
+In 1983, Congress added Section 250 to the NHA, limiting prepayment of mortgages on
+multifamily housing in instances where prepayment was already subject to the Secretary’s
+approval. See Pub. L. 98-181, § 433, 97 Stat. 1221 (codified as amended at 12 U.S.C. § 1715z15). Specifically, Section 250, as amended, states:
+During any period in which an owner of a multifamily rental housing project is
+required to obtain the approval of the Secretary for prepayment of the mortgage,
+the Secretary shall not accept an offer to prepay the mortgage on such project . . .
+unless–
+(1) the Secretary has determined that such project is no longer meeting a
+need for rental housing for lower income families in the area;
+(2) the Secretary (A) has determined that the tenants have been notified of
+the owner’s request for approval of a prepayment; (B) has provided the tenants
+with an opportunity to comment on the owner’s request; and (C) has taken such
+comments into consideration; and
+(3) the Secretary has ensured that there is a plan for providing relocation
+assistance for adequate, comparable housing for any lower income tenant who will
+be displaced as a result of the prepayment and withdrawal of the project from the
+program.
+12 U.S.C. § 1715z-15(a).5
+This provision was an early manifestation of Congress’ rising concern that the withdrawal
+of properties from the low- and middle-income housing market due to prepayment was causing a
+significant shortage of available affordable housing. That concern led Congress subsequently to
+enact the Emergency Low-Income Housing Preservation Act of 1987, Pub. L. No. 100-242, 101
+Stat. 1877 (1988) (“ELIHPA”), which placed a two-year moratorium on mortgage prepayments,
+and the Low-Income Housing Preservation and Resident Homeownership Act of 1990, Pub. L.
+No. 101-625, 104 Stat. 4249 (1990) (“LIHPRHA”), which required HUD approval in all cases
+before prepayment was allowed and imposed a notification requirement on owners wishing to
+5
+
+The relevant portions of this section have not been changed since its enactment in 1983.
+See Pub. L. No. 98-181, § 433, 97 Stat. 1221 (Nov. 30, 1983).
+-5-
+
+Case 1:08-cv-00193-RBW
+
+Document 5
+
+Filed 04/04/2008
+
+Page 12 of 27
+
+prepay. This uniform requirement was removed in 1996. Cf. Cienega Gardens, 503 F.3d at
+1272-74 (discussing these legislative developments). However, Section 250, which only applies
+where approval is already necessary, remains in effect.6
+FACTUAL AND PROCEDURAL BACKGROUND
+1.
+
+New York’s Mitchell-Lama program
+This case involves an affordable housing project that was developed as part of New
+
+York’s Mitchell-Lama program. Compl. ¶ 10. Article II of the New York Private Housing
+Finance Law (“PHFL”), N.Y. Priv. Hous. Fin. Law §§ 10-37, commonly referred to as the
+“Mitchell-Lama Law,” “was enacted in 1955 in order to encourage the development of low- and
+middle-income housing in blighted areas by offering State and municipal assistance to developers
+in the form of” loans, tax exemptions, and other financial incentives. KSLM-Columbus
+Apartments, Inc. v. N.Y. State Div. of Hous. & Cmty. Renewal, 772 N.Y.S.2d 665, 667 (N.Y.
+App. Div. 2004) (citing N.Y. Priv. Hous. Fin. Law §§ 11, 20-23, 28, 31, 33); see also Columbus
+Park Corp. v. Dep’t of Hous. Pres. & Dev., 598 N.E.2d 702, 703-04 (N.Y. 1992). Originally,
+limited profit housing corporations which were organized pursuant to the Mitchell-Lama Law
+and which developed and maintained an affordable rental property with financial assistance
+obtained through this program were required to maintain the property in the program for a
+6
+
+The changes regarding HUD approval requirements for prepayment led to litigation, in
+which owners formerly not required to seek HUD approval claimed that imposing the approval
+requirement by statute constituted a breach of contract or regulatory taking. See, e.g., Cienega
+Gardens, 503 F.3d at 1274; Thetford Props. IV Ltd. P’ship v. HUD, 907 F.2d 445, 446 (4th Cir.
+1990) (addressing situation where “the mortgages themselves[] expressly allowed the owners of
+the properties, without HUD’s prior consent, to prepay their mortgages at the end of 20 years”).
+However, that line of cases is not relevant to the issue presented in this case, where the
+Secretarial approval requirement is in the Mortgage Note itself, not subsequently imposed by
+statute or regulation.
+-6-
+
+Case 1:08-cv-00193-RBW
+
+Document 5
+
+Filed 04/04/2008
+
+Page 13 of 27
+
+minimum of 35 years. KSLM-Columbus Apartments, Inc., 772 N.Y.S.2d at 667 However,
+because the 35-year prohibition proved to be “a major deterrent to private developers who might
+otherwise enter the Mitchell-Lama program,” a 1960 amendment reduced the required number of
+years to 20. Id.; see N.Y. Priv. Hous. Fin. Law. § 35(2) (providing that limited profit housing
+corporations that developed their properties with loans made after May 1, 1959, may dissolve,
+and thus withdraw their property from the program, “not less than twenty years after the
+occupancy date upon the payment in full of the remaining balance of principal and interest due
+and unpaid upon the mortgage or mortgages and of any and all expenses incurred in effecting
+such voluntary dissolution”). The New York Court of Appeals has held that the terms of the
+original financing contract between a limited profit housing company and the state housing
+division may serve to extend this 20-year statutory period. Columbus Park Corp., 598 N.E.2d at
+707.
+2.
+
+Castleton Park Apartments Development And St. Marks Mortgage
+Plaintiff St. Marks Place Housing Company, Inc. (“St. Marks”) was organized pursuant to
+
+the Mitchell-Lama law. Compl. ¶ 10. In 1974, St. Marks obtained a noninsured mortgage loan
+from NYSHFA for the development of what became the Castleton Park Apartments, an
+affordable housing project located in Staten Island, New York. Compl. ¶¶ 4, 16. This loan, of
+approximately $20 million, was subsidized by HUD under Section 236 of the NHA, 12 U.S.C. §
+1715z-1. Compl. ¶¶ 16-17.
+In 1977, the St. Marks loan was refinanced, and at the same time was divided into two
+parts. Compl. ¶¶ 18-19. The first part consists of a senior mortgage loan, in an original amount
+of $17,629,100, insured by HUD under NHA Section 207, 12 U.S.C. § 1713(b), pursuant to
+-7-
+
+Case 1:08-cv-00193-RBW
+
+Document 5
+
+Filed 04/04/2008
+
+Page 14 of 27
+
+NHA Section 223(f), 12 U.S.C. § 1715n(f). Compl. ¶ 19. The terms of payment for this loan are
+set forth in a mortgage note (“Mortgage Note”). As indicated in Attachment A to the Mortgage
+Note, the loan is set to mature on November 1, 2017. Compl. ex. A attach. A. Prior to maturity,
+the mortgage note states, “[p]rivilege is reserved to pay the debt in whole or in an amount equal
+to one or more monthly payments on principal next due, on the first day of any month prior to
+maturity upon at least thirty (30) days’ prior written notice to the holder.” Compl. ¶ 20. This
+sentence is followed by two asterisks, inserting a footnote stating: “Subject to the prior approval
+of the Secretary of Housing and Urban Development.” Compl. ¶ 21. The Mortgage Note is
+signed by representatives of St. Marks and NYSHFA, and is dated October 13, 1977. Compl. ex.
+A.
+The second part of the refinanced loan consists of a noninsured subordinate mortgage
+loan in the amount of $3,360,900. Compl. ¶ 19. This loan may not be prepaid without HUD
+consent unless the senior mortgage has been paid or is no longer held or insured by HUD.
+Compl. ¶ 19 n.1.
+3.
+
+Events Leading Up To This Litigation
+In May 2006, St. Marks, together with plaintiff St. Marks Associates, a New York limited
+
+partnership that is the beneficial owner of Castleton Park Apartments, entered into an agreement
+to sell the beneficial interest in the project, together with all outstanding St. Marks stock, to
+plaintiffs Stellar CP LP and Stellar Castleton GP LLC. Compl. ¶¶ 5, 11. On June 28, 2006, St.
+Marks indicated its intent to dissolve itself as a Mitchell-Lama housing company and withdraw
+from the Mitchell-Lama program by filing a Notice of Intent to Dissolve with the New York
+State Division of Housing and Community Renewal (“NYSDHCR”). Compl. ¶ 14. Under N.Y.
+-8-
+
+Case 1:08-cv-00193-RBW
+
+Document 5
+
+Filed 04/04/2008
+
+Page 15 of 27
+
+Priv. Hous. Fin. Law. § 35(2), any such dissolution cannot take place until St. Marks’ senior and
+subordinate mortgages are paid in full.
+By letter, the most recent of which was dated November 30, 2007, St. Marks notified
+HUD of their intent to prepay the senior mortgage. Compl. ¶ 32. St. Marks also presented to
+HUD their argument, in April and again in September 2007, that, despite the footnote requiring
+the HUD Secretary’s approval as a condition of prepayment, NHA Section 250 did not apply to
+the Mortgage Note. Compl. ¶¶ 33, 35. In November 2007, St. Marks also asked Capmark
+Finance, Inc. (“Capmark”), which is currently the holder of the Mortgage Note, to submit form
+HUD-9807, Insurance Termination Request for Multifamily Mortgages. Compl. ¶ 38.
+HUD responded to St. Marks’ November 30, 2007, letter by letter dated December 20,
+2007. HUD stated that, based on the prepayment restriction in the Mortgage Note that requires
+the Secretary’s approval prior to prepayment, “prepayment of this mortgage is subject to Section
+250 of the National Housing Act.” HUD, Letter of Dec. 20, 2007 (attached to this memorandum
+as exhibit A).7 HUD further stated that its approval of prepayment for mortgages subject to
+Section 250 was dependent upon mortgagors’ compliance with Section 250 requirements. Id.
+HUD then indicated that it was denying St Marks’ November 30, 2007, request to prepay because
+St. Marks had not met the Section 250 requirements. Id. As stated in the letter, these
+requirements are (1) that St. Marks provide Castleton Park residents with a 150-day notice; (2)
+that St. Marks either provide $15,000 per unit in repairs or rehabilitation or replace two or more
+7
+
+As the December 20, 2007, letter is the HUD decision that plaintiffs seek to set aside,
+and is described by plaintiffs in their Complaint, ¶¶ 39, 41, it is “incorporated in the complaint,”
+and the Court may therefore consider the letter without converting defendants’ motion to dismiss
+under Fed. R. Civ. P. 12(b)(6) into a motion for summary judgment. Rogers v. JohnsonNorman, 466 F. Supp. 2d 162, 165 n.3 (D.D.C. 2006) (internal quotation omitted).
+-9-
+
+Case 1:08-cv-00193-RBW
+
+Document 5
+
+Filed 04/04/2008
+
+Page 16 of 27
+
+major building components, and have the funds for this purpose in escrow by the time of
+prepayment approval; and (3) that St. Marks execute a rental use agreement, to be recorded in
+first lien position on the property until the mortgage’s maturity date of November 1, 2017, which
+would include the same terms and conditions that are currently set forth in the Regulatory
+Agreement between St. Marks and HUD. Id. Following receipt of the December 20, 2007, letter
+from HUD, plaintiffs filed the instant suit on February 1, 2008.
+STANDARD OF REVIEW
+Under Fed. R. Civ. P. 12(b)(6), the court’s decision whether to dismiss for failure to state
+a claim upon which relief may be granted is based on “the legal sufficiency of the complaint.”
+Shirk v. Garrow, 505 F. Supp. 2d 169, 171 (D.D.C. 2007). While the complaint need not provide
+“detailed factual allegations, a plaintiff’s obligation to provide the ‘grounds’ of his ‘entitlement
+to relief’ requires more than labels and conclusions, and a formulaic recitation of the elements of
+a cause of action will not do.” Bell Atlantic Corp. v. Twombly, 127 S. Ct. 1955, 1964-65 (2007).
+The alleged facts must “state a claim for relief that is plausible on its face” rather than merely
+“conceivable.” Id. at 1974.
+In determining whether dismissal is warranted for failure to state a claim, a court may
+consider “‘the facts alleged in the complaint, any documents either attached to or incorporated in
+the complaint and matters of which [the court] may take judicial notice.’” Rogers, 466 F. Supp.
+2d at 165 n.3 (quoting EEOC v. St. Francis Xavier Parochial Sch., 117 F.3d 621, 624 (D.C. Cir.
+1997)). “[T]he court must treat the complaint’s factual allegations . . . as true and draw all
+reasonable inferences therefrom in the plaintiff’s favor,” but “the court need not accept as true
+inferences unsupported by facts set out in the complaint or legal conclusions cast as factual
+- 10 -
+
+Case 1:08-cv-00193-RBW
+
+Document 5
+
+Filed 04/04/2008
+
+Page 17 of 27
+
+allegations.” Shirk, 505 F. Supp. 2d at 172.
+ARGUMENT
+I.
+
+JUDICIAL REVIEW OF PLAINTIFFS’ CLAIM IS GOVERNED BY THE APA
+Plaintiffs identify three causes of action in their Complaint, which they label as
+
+“Declaratory Judgment,” “Permanent Injunction,” and “Mandamus.” Compl. ¶¶ 48, 57, 59
+(headings). However, the only cause of action that plaintiffs might bring is one under the APA.
+It is well established that the Declaratory Judgment Act, 28 U.S.C. § 2201, does not provide an
+independent cause of action. United States v. Instruments, S.A., Inc., 807 F. Supp. 811, 814
+(D.D.C. 1992) (“[T]he Declaratory Judgment Act does not create a cause of action.”) (citing
+Skelly Oil Co. v. Phillips Petroleum Co., 339 U.S. 667, 672, 70 S. Ct. 876 (1950)).
+Furthermore, plaintiffs have no claim under the Mandamus Act, 28 U.S.C. § 1361.
+“Mandamus is a ‘drastic’ remedy, ‘to be invoked only in extraordinary circumstances.’” Fornaro
+v. James, 416 F.3d 63, 69 (D.C. Cir. 2005) (quoting Allied Chem. Corp. v. Daiflon, Inc., 449
+U.S. 33, 34, 101 S. Ct. 188 (1980)). “Mandamus is available only if: (1) the plaintiff has a clear
+right to relief; (2) the defendant has a clear duty to act; and (3) there is no other adequate remedy
+available to plaintiff.” Id. (internal quotation omitted). Moreover, “the duty to be performed by
+the agency must be ‘ministerial and the obligation to act peremptory, and clearly defined. The
+law must not only authorize the demanded action, but require it; the duty must be clear and
+indisputable.’” PDK Labs Inc. v. Reno, 134 F. Supp. 2d 24, 34 (D.D.C. 2001) (quoting 13th
+Regional Corp. v. U.S. Dep’t of Interior, 654 F.2d 758, 760 (D.C. Cir. 1980) (quoting United
+States ex rel. McLennan v. Wilbur, 283 U.S. 414, 420, 51 S. Ct. 502 (1931))).
+Here, for the same reasons that will be explained below, the Secretary has no ministerial
+- 11 -
+
+Case 1:08-cv-00193-RBW
+
+Document 5
+
+Filed 04/04/2008
+
+Page 18 of 27
+
+duty to allow prepayment of the St. Marks mortgage. To the contrary, because the St. Marks
+Mortgage Note requires the Secretary’s approval as a prerequisite to prepayment, the Secretary
+acted in accord with his statutory obligation when he recognized that Section 250 applied here
+and then denied prepayment because the Section 250 requirements had not been met.
+Even if the Court were to hold that the Mortgage Note does not require the Secretary’s
+approval, plaintiffs would not have a claim under the Mandamus Act because an adequate
+remedy would then be available through the APA. Cf. PDK Labs Inc., 134 F. Supp. 2d at 34
+(recognizing “the mandamus relief sought by plaintiff” as “essentially identical to that which
+plaintiff seeks under the APA”). Plaintiffs’ three “causes of action” are therefore properly
+addressed as a single claim under the APA.
+The APA provides a “limited cause of action” for parties who claim to be adversely
+affected by agency action. Trudeau v. FTC, 456 F.3d 178, 185 (D.C. Cir. 2006). Judicial review
+under the APA is limited to “‘final agency action for which there is no other adequate remedy in
+a court.’” Id. at 183 (quoting 5 U.S.C. § 704). Under the APA’s “familiar and deferential
+standard,” a court reviews a final agency action “to determine whether [it] w[as] ‘arbitrary,
+capricious, an abuse of discretion, or otherwise not in accordance with law.’” Safe Extensions,
+Inc. v. FAA, 509 F.3d 593, 604 (D.C. Cir. 2007). When assessing whether the action is “in
+accordance with law,” a court “must give an agency’s interpretation of its own regulation
+controlling weight unless it is plainly erroneous or inconsistent with the regulation.” Assoc.
+Builders & Contractors, Inc.. v. Herman, 166 F.3d 1248, 1254 (D.C. Cir. 1999) (internal
+quotation omitted). Ultimately, the court may set aside the agency’s action “only if the agency’s
+decision is not supported by substantial evidence, or the agency has made a clear error in
+- 12 -
+
+Case 1:08-cv-00193-RBW
+
+Document 5
+
+Filed 04/04/2008
+
+Page 19 of 27
+
+judgment.” Safe Extensions, 509 F.3d at 604 (internal quotation omitted).
+II.
+
+PLAINTIFFS FAIL TO STATE A CLAIM UNDER THE APA
+Thus construed as an APA claim, plaintiffs’ challenge focuses on HUD’s December 20,
+
+2007 denial of St. Marks’ request to prepay the Section 207 mortgage. Plaintiffs do not contest
+HUD’s conclusion that St. Marks’ request must be denied because it did not meet the
+requirements of Section 250. Rather, they seek to challenge the Secretary’s decision that Section
+250 applies to the Mortgage Note in the first place. They rely for purposes of this challenge on
+the HUD regulations in effect at the time the Mortgage Note was signed and on the Note’s
+incorporation of an attachment (“Attachment A”) that set forth interest payment details. Based
+on the plain language of the Mortgage Note, however, Section 250 does apply, and plaintiffs’
+contentions to the contrary lack merit.
+A.
+
+The Plain Language Of The Mortgage Note Conditions The Privilege Of
+Prepayment On Secretary Approval
+
+The prepayment limitations set forth in NHA Section 250 apply to borrowers who are
+“required to obtain the approval of the Secretary for prepayment of the mortgage.” 12 U.S.C. §
+1715z-15(a). This statutory language is clear and unambiguous, and plaintiffs do not suggest
+otherwise. The only issue in this case is whether the terms of the Mortgage Note do indeed
+require St. Marks to obtain the Secretary’s approval in order to prepay. The plain language of the
+Mortgage Note clearly does impose this requirement. As described above, the Mortgage Note
+contains a footnote that states that any prepayment of the mortgage in accord with the terms of
+the Note is “[s]ubject to the prior approval of the Secretary” of HUD.
+Plaintiffs’ contention that Attachment A to the Mortgage Note somehow changes the
+
+- 13 -
+
+Case 1:08-cv-00193-RBW
+
+Document 5
+
+Filed 04/04/2008
+
+Page 20 of 27
+
+footnote’s meaning is meritless. The footnote indicator, two asterisks, appears immediately after
+the sentence in the Mortgage Note that discusses prepayment in general:
+Privilege is reserved to pay the debt in whole or in an amount equal to one or
+more monthly payments on principal next due, on the first day of any month prior
+to maturity upon at least thirty (30) days’ prior written notice to the holder. **
+The footnote that the two asterisks indicate then adds “Subject to the prior approval of the
+Secretary of Housing and Urban Development” to the end of that sentence.
+The Mortgage Note references Attachment A in two places, but neither of these
+references suggest that Attachment A in any way limits the condition set forth in the footnote.
+Attachment A, Paragraph 1 is incorporated by reference after the first paragraph of the Note,
+filling in the details of how the “principal and interest shall be payable in monthly installments,”
+as stated in the last sentence of the Note’s first paragraph. The Note then references Attachment
+A, Paragraph 2 after the second sentence of the Note’s third paragraph, a full sentence after the
+footnoted sentence. The second sentence of the Note’s third paragraph discusses the obligations
+of “all parties liable for payment of this debt” to pay “any adjusted premium charge required by
+the applicable Regulations,” in the event the mortgage “is paid in full prior to maturity and while
+insured under the N[HA].” Attachment A, Paragraph 2 is specifically relevant to that sentence,
+as it sets forth a further obligation of “all parties liable for payment” to pay “a penalty or charge
+equal to three percent (3%) of the amount” of any prepayment in one year that exceeds fifteen
+percent of the original principal, less an eighth of a percent for each year elapsed since the date of
+the Note.
+Even if the whole of Attachment A were deemed incorporated into the Note, it would
+have no bearing at all on the meaning of the Secretarial approval requirement in the footnote.
+- 14 -
+
+Case 1:08-cv-00193-RBW
+
+Document 5
+
+Filed 04/04/2008
+
+Page 21 of 27
+
+Attachment A provides particular numeric details regarding interest, principal, and penalty
+payments. It does not address the mortgagor’s privilege in general to prepay or the conditions, or
+lack thereof, that might be imposed on the exercise of that privilege. The footnote can therefore
+only be read to mean exactly what it says – that St. Marks must obtain the Secretary’s approval in
+order to exercise its privilege to prepay the mortgage.
+B.
+
+The 1977 HUD Regulation Does Not Render The Mortgage Note Footnote
+Invalid
+
+Plaintiffs’ only other argument, in the alternative, is that even if the footnote by its terms
+does require the Secretary’s approval (as it plainly does), that requirement is necessarily void by
+virtue of a HUD regulation in effect at the time the Mortgage Note was signed. The regulation in
+question, however, is not inconsistent with the requirement in the Note footnote that the
+Secretary’s approval be obtained. The 1977 regulation stated:
+The mortgage shall contain a provision permitting the mortgagor to prepay the
+mortgage in whole or in part upon any interest payment date after giving to the
+mortgagee 30 days’ notice in writing in advance of its intention to prepay.
+36 Fed. Reg. at 24540 (setting forth 1977 version of 24 C.F.R. § 207.14(a)). By setting forth a
+required term of the mortgage contract between a mortgagor and mortgagee, this regulation
+established the prepayment obligations between those contracting parties, imposing a thirty-day
+notice requirement on the mortgagor, but otherwise requiring the mortgagee to accept
+prepayment. However, the Secretary – who is not a party to the mortgage contract – is not
+mentioned in this regulation at all. Thus, nothing in the text of this regulation guarantees a
+mortgagor’s right to prepay without having to obtain the Secretary’s approval.
+The prepayment privilege set forth in 24 C.F.R. § 207.14(a) (1977) was thus significantly
+
+- 15 -
+
+Case 1:08-cv-00193-RBW
+
+Document 5
+
+Filed 04/04/2008
+
+Page 22 of 27
+
+different from the provision governing prepayment in the context of low cost and moderate
+income mortgage insurance, issued pursuant to NHA Section 221. That provision did not simply
+require parties to a mortgage contract to insert a particular term in the agreement but
+affirmatively stated that “[a] mortgage indebtedness may be prepaid in full” in accord with its
+requirements. 24 C.F.R. § 221.524(a) (1977). Moreover, the privilege for “[p]repayment in full”
+in that section was divided into privileges “[w]ithout prior [HUD] consent” and “[w]ith prior
+[HUD] consent.” See id. Owners that meet certain requirements that include being of “a limited
+distribution type” were expressly allowed to prepay without prior HUD consent. Id. §
+221.524(a)(1)(ii). On that basis, a 1995 HUD legal opinion concluded that an owner who fit into
+this category and whose mortgage was insured pursuant to Section 221(d)(3) was not bound by a
+prepayment prohibition in the Note because the prohibition was “in direct conflict” with 24
+C.F.R. § 221.524(a)(1)(ii). HUD, Legal Op. CIM-0111 (May 1, 1995).8 In this case, on the other
+hand, because there is no “direct conflict” between the Mortgage Note footnote and the
+regulation, the Secretary concluded that the footnote remains binding and must be given effect.
+The current version of the regulation reinforces this conclusion. As noted above, the
+current version applies to all HUD mortgage insurance programs and requires the same provision
+be inserted in the mortgage agreement between the owner and the lender, but expressly states that
+this prepayment privilege indicated in the regulation may be adjusted “as . . . established by”
+HUD in any particular case. 24 C.F.R. § 200.87. When the Secretary promulgated this
+regulation in 1996, he did so without engaging in the regular notice and comment rulemaking
+
+8
+
+HUD legal opinions are publicly available at http://www.hud.gov/offices/adm/hudclips
+
+/lops/.
+- 16 -
+
+Case 1:08-cv-00193-RBW
+
+Document 5
+
+Filed 04/04/2008
+
+Page 23 of 27
+
+procedures because, he explained, the new rule “merely removes obsolete and unnecessary
+regulatory provisions, and consolidates repetitive requirements, and does not establish or affect
+substantive policy.” 61 Fed. Reg. at 14397. The version of 24 C.F.R. § 207.14 in effect
+immediately prior to the promulgation of § 200.87 was the same, as far as is relevant to this case,
+as the 1977 version.9 Thus, the 1977 version of § 207.14 must be understood, like the current
+version of § 200.87, as allowing the prepayment privilege in a particular mortgage agreement to
+take any form that the parties agree to unless the Secretary objects.10
+The requirement in the Mortgage Note footnote that prepayment be subject to the
+Secretary’s approval may have been initiated by the Secretary, and the Secretary’s actions
+providing the insurance on the mortgage and entering into a Regulatory Agreement with St.
+Marks indicate that he had no objection to this requirement. To the extent the footnote was
+inserted independently of the Secretary, by agreement of the parties to the Mortgage Note, these
+parties – St. Marks and NYSHFA – adhered to the mutual prepayment rights and obligations set
+forth in 24 C.F.R. § 207.14(a) (1977) by including the required provision in the mortgage, but
+they also voluntarily agreed to require approval by the Secretary before prepayment could occur.
+Nothing in 24 C.F.R. § 207.14(a) (1977) restricted them from making this agreement; the
+regulation is simply silent on the matter. The regulation therefore provides no basis for deeming
+
+9
+
+The regulation was modified in 1986 to allow the inclusion of prepayment restrictions in
+mortgage agreements for bond-financed mortgages. HUD, Final Rule, 51 Fed. Reg. 2358, 2358
+(Mar. 4, 1986). For such mortgages, prepayment restrictions serve as incentives for investment.
+10
+
+In regard to other prepayment privilege provisions which were also replaced by § 200.87
+but which, unlike § 207.14, specified the particular circumstances where the Secretary’s approval
+must or must not be required, the new regulation also did not substantively change the privilege;
+the Secretary may still determine in a particular case that approval either must or must not be
+required, and may apply the same categories specified in the former regulation.
+- 17 -
+
+Case 1:08-cv-00193-RBW
+
+Document 5
+
+Filed 04/04/2008
+
+Page 24 of 27
+
+that agreed-upon requirement void.
+C.
+
+The Secretary’s Interpretation Of 24 C.F.R. § 207.14(a) (1977) Is Entitled To
+Substantial Deference, And His Decision To Apply Section 250 Based On The
+Mortgage Note Footnote Was Reasonable
+
+Even if the 1977 version of § 207.14(a) were deemed ambiguous on its face, the
+Secretary’s decision here clearly indicates that he has interpreted the provision as consistent with
+the Secretarial approval requirement in the Mortgage Note footnote, and was thus able to
+conclude that Section 250 applies to St. Marks’ proposed prepayment. The Secretary has
+considerable “power to resolve ambiguities in his own regulations.” Auer v. Robbins, 519 U.S.
+452, 463, 117 S. Ct. 905 (1997). It is well established that “an agency’s interpretation of its own
+regulations is controlling unless plainly erroneous or inconsistent with the regulations being
+interpreted.” Long Island Care at Home, Ltd. v. Coke, 127 S. Ct. 2339, 2349 (2007) (internal
+quotation omitted) (citing Auer, 519 U.S. at 461); accord Mistick PBT v. Chao, 440 F.3d 503,
+511 (D.C. Cir. 2006). The deference that must be accorded the agency in this context is
+recognized as “‘more . . . than that afforded under Chevron[, U.S.A., Inc. v. Natural Res. Defense
+Council, 467 U.S. 837, 845, 104 S. Ct. 2778 (1984)].” Rivers Unltd. v. U.S. Dep’t of Transp.,
+533 F. Supp.2d 1 (D.D.C. 2008) (no pincites available) (quoting Wyo. Outdoor Council v. U.S.
+Forest Serv., 165 F.3d 43, 52 (D.C. Cir. 1999)).
+Here, plaintiffs refer in their Complaint to opinions that the HUD Office of General
+Counsel allegedly provided to the Secretary, to the effect “that Section 250(a) of the NHA is
+inapplicable to the prepayment restriction contained in the HUD Mortgage Note.” Compl. ¶ 34;
+see also id. ¶ 36. Even assuming, for purposes of this Motion to Dismiss, that plaintiffs’
+assertions are true, Section 250(a) vests responsibility for complying with its requirements in the
+- 18 -
+
+Case 1:08-cv-00193-RBW
+
+Document 5
+
+Filed 04/04/2008
+
+Page 25 of 27
+
+Secretary. See 12 U.S.C. § 1715z-15(a) (“[T]he Secretary shall not accept an offer to prepay”
+unless “the Secretary” makes certain determinations). The final determination of whether
+Section 250 applies must therefore be made by the Secretary, not by his Office of General
+Counsel (“OGC”), and any predecisional opinion expressed by the OGC is irrelevant. Here, the
+Secretary’s decision shows that he did not ultimately adopt the opinions provided by HUD’s
+Office of General Counsel. As Congress delegated the authority to implement the NHA to the
+Secretary, his interpretation is the one that is entitled to deference, regardless of any preliminary
+views his subordinates may have held. Wisconsin v. City of New York, 517 U.S. 1, 23, 116 S.
+Ct. 1091 (1996) (explaining that “the mere fact that the Secretary's decision overruled the views
+of some of his subordinates is by itself of no moment in any judicial review of his decision”).
+Here, the Secretary’s final decision, expressed in his December 20 letter, that Section 250(a)
+applied to the Mortgage Note necessarily encompasses the conclusion that the 1977 version of 24
+C.F.R. § 207.14(a) did not make Section 250(a) inapplicable. Indeed, because plaintiffs
+submitted the same arguments they make here to the Secretary before he made his decision, there
+is “no reason to suspect that the [Secretary’s] interpretation does not reflect the agency’s fair and
+considered judgment on the matter.” Auer, 519 U.S. at 462.
+Moreover, the Secretary’s interpretation, and his decision to apply Section 250 based on
+the Mortgage Note footnote, is a reasonable one. As mentioned, § 207.14(a) differs from some
+parallel provisions in effect in other HUD programs at the time because it does not expressly
+state, one way or another, whether the Secretary’s approval must or must not be required before
+prepayment. It was reasonable for the Secretary to conclude that this regulation was therefore
+intended to allow the decision whether the Secretary’s approval would be required to be made on
+- 19 -
+
+Case 1:08-cv-00193-RBW
+
+Document 5
+
+Filed 04/04/2008
+
+Page 26 of 27
+
+a case-by-case basis, depending on the circumstances.
+As mentioned above, the function of prepayment privileges in the HUD regulatory
+scheme is to induce property owners to enter into mortgage agreements that will impose various
+requirements on them related to providing affordable housing. It can be presumed that a property
+owner that is willing to enter into such an agreement even with a clearly stated requirement that
+prepayment be subject to the Secretary’s approval was sufficiently induced by the prepayment
+privilege as it stood in the agreement. Such a presumption is in keeping with the Federal
+Circuit’s conclusion that the prepayment privilege appeared a minor benefit in comparison with
+other incentives in the NHA programs that might induce property owners to develop affordable
+housing. See Cienega Gardens, 503 F.3d at 1290 (“The substantial benefits that the owners
+received, other than the absolute prepayment right, may well have been such that the absolute
+prepayment right might not have been either the primary or ‘but for’ reason that a reasonable
+owner would have invested in the property. Indeed, it is not even clear that a reasonable owner
+would rely on any aspect of the prepayment right in making the investment, much less that a
+reasonable owner would rely on an unrestricted right to prepayment.”).
+Plaintiffs cannot claim to be unfairly prejudiced by the requirement that prepayment be
+subject to prior Secretary approval when it was in the Mortgage Note that St. Marks signed. The
+Secretary therefore had no reason not to give the Mortgage Note full effect, including the
+requirement of Secretary approval, which in turn triggers Section 250. The Secretary’s
+determination that Section 250 applies should therefore be upheld.
+CONCLUSION
+For the foregoing reasons, the claims raised in plaintiffs’ Complaint should be dismissed
+- 20 -
+
+Case 1:08-cv-00193-RBW
+
+Document 5
+
+Filed 04/04/2008
+
+Page 27 of 27
+
+in their entirety.
+
+Dated: April 4, 2008
+
+Respectfully submitted,
+JEFFREY S. BUCHOLTZ
+Acting Assistant Attorney General
+JEFFREY A. TAYLOR
+United States Attorney
+/s/ Kathryn L. Wyer
+MICHAEL SITCOV
+KATHRYN L. WYER
+U.S. Department of Justice, Civil Division
+20 Massachusetts Ave., NW
+Washington, D.C. 20530
+Telephone: (202) 616-8475 / Fax: (202) 616-8470
+kathryn.wyer@usdoj.gov
+Attorneys for Defendants
+
+- 21 -
+
+Case 1:08-cv-00193-RBW
+
+Document 5-2
+
+Filed 04/04/2008
+
+EXHIBIT A
+
+Page 1 of 3
+
+Case 1:08-cv-00193-RBW
+
+Document 5-2
+
+Filed 04/04/2008
+
+Page 2 of 3
+
+U.S. Department o(l{ousing and Urban Development
+New York Stllte OfficII
+Jacob K. Jav!ts Federal Building
+26 Federal PlllZa
+NllW York, N'ew York 1027&-006&
+http://www.huligovllocallnynl
+
+Mr. Jean-Pierre Vaganay
+Presidem
+St. Marks Housing Company, Inc,
+clo The Jack Parker Corporalion
+104-20 Queens Blvd, Suite l·C
+Forest Hills, NY 11375
+
+Subject: Project Nan1e: Castleton Park
+Project No.: 012·11024
+This is in response to 81. Marks Housing Company Inc's letter of November 30,2007,
+advising the Deparnnent of their intention to prepay the mortgages on Castleton Park Apartments.
+The fIrst mortgage is a HUD-insorcd Section 207 mortgage that is subsidized through receipt of
+Section 236 interest reduction payments. The second mortgage is a Section 236 non-insured
+mortgage. The second mortgage may not be prepaid prior to the prepayment of the first mortgage.
+The note for the first mortgage does contain a prepayment restriction that allows for the
+prepayment of the mortgage subject to prior approval from the Secretary of Housing and Urban
+Development. The Department has detennined that, based on the restrictions cited above,
+prepayment of this mortgage is subject to Section 250 of the National Housing Act. The
+Department's approval for Section 250 prepayments is guided by HUD Notice H-06-11 and further
+clarified by memorandum dated January 30, 2007. Those requirements are outlined below:
+1) A 150-day notice must be provided to the residents;
+2) The owner must provide a minirnwn oUl :5,000·per unit in repairs/rehabilitation or
+replace two or more major building components. These funds must be escrowed at the
+time of prepayment approval; and.
+3) The owner is required to execute a rental use agreement that will be recorded in firm lien
+position on the property until what would have been the maturity date of the first
+November 1,2017. The Use Agreement will include the terms and
+
+mortgage,
+
+conditions ofHUD's
+
+current Section 236 Use Agreement.
+
+Case 1:08-cv-00193-RBW
+
+Document 5-2
+
+Filed 04/04/2008
+
+Page 3 of 3
+
+Therefore, the Department has rejected your November 30, 2007 request to prepay the first
+mongage as it does not meet the Section 250 requirements. If you have questio~s regarding this
+determination, please contact me at (212) 542-7701.
+
+Teresa M. Bainton
+Djrector, New York Multifamily Hub
+
+Cc: Martin Siroka, Esq.
+Binham McCu.tchen LLP
+David Stoopler
+Legislative AssistW1t to U.S. Senator Charles E. Schumer.
+EII~ Davidson
+
+Legal Aide
+
+Case 1:08-cv-00193-RBW
+
+Document 5-3
+
+Filed 04/04/2008
+
+Page 1 of 1
+
+UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF COLUMBIA
+)
+)
+)
+)
+)
+Plaintiffs,
+)
+v.
+)
+)
+UNITED STATES DEPARTMENT OF
+)
+HOUSING AND URBAN DEVELOPMENT; and )
+ALPHONSO JACKSON, AS SECRETARY OF
+)
+THE UNITED STATES DEPARTMENT OF
+)
+HOUSING AND URBAN DEVELOPMENT,
+)
+)
+Defendants.
+)
+)
+ST. MARKS PLACE HOUSING COMPANY,
+INC.; ST. MARKS PLACE ASSOCIATES;
+STELLAR CP LP; and CASTLETON GP LLC,
+
+Case No. 1:08-cv-00193 (RBW)
+
+[Proposed] ORDER
+Upon the Court’s consideration of defendants’ motion to dismiss, the opposition thereto,
+and the entire record herein, it is, this _____ day of _____, 2008,
+ORDERED that defendants’ motion to dismiss is granted; and it is
+FURTHER ORDERED that plaintiffs’ Complaint is dismissed with prejudice.
+
+____________________________
+The Honorable Reggie B. Walton
+United States District Judge
+
+

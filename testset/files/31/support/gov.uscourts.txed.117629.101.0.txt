@@ -1,0 +1,1142 @@
+Case 4:09-cv-00350-ALM Document 101
+
+Filed 11/05/10 Page 1 of 24
+
+In the United States District Court
+For the Eastern District of Texas
+Sherman Division
+VocalSpace LLC,
+Plaintiff,
+v.
+Daniel D. Lorenso and Larkspark
+Corporation,
+Defendants.
+
+§
+§
+§
+§
+§
+§
+§
+§
+
+Civil Action: 4:09cv350
+(Jury Demand)
+Judge: Amos L. Mazzant
+
+Plaintiff’s Motion for Partial Summary Judgment on Plaintiff’s Claims
+FILED UNDER SEAL
+
+DALLAS\107957.1
+ID\BAC - 106446/0003
+
+Case 4:09-cv-00350-ALM Document 101
+
+Filed 11/05/10 Page 2 of 24
+
+Table of Contents
+I. Statement of the Issues ................................................................................................................1
+II. Statement of Undisputed Material Facts ....................................................................................1
+III. Legal Standards.........................................................................................................................4
+A.
+
+Legal Standard for Summary Judgment .................................................................4
+
+B.
+
+Legal Standard for Copyright Infringement ...........................................................5
+
+C.
+
+Legal Standard for Misappropriation of Trade Secrets...........................................6
+
+IV. Argument ..................................................................................................................................7
+A.
+
+Copyright Infringement ..........................................................................................7
+
+B.
+
+Misappropriation of Trade Secrets........................................................................13
+
+C.
+
+Lorenso Knowingly Transmitted A Program To A Protected Computer .............18
+
+D.
+
+The Transmission Caused Intentional Damage Without Authorization ...............18
+
+E.
+
+Theft Liability Act ................................................................................................18
+
+V. Summary Judgment Evidence..................................................................................................19
+VI. Request for Relief ...................................................................................................................19
+
+i
+DALLAS\107957.1
+ID\BAC - 106446/0003
+
+Case 4:09-cv-00350-ALM Document 101
+
+Filed 11/05/10 Page 3 of 24
+
+TABLE OF AUTHORITIES
+Page(s)
+CASES
+American Derringer Corp. v. Bond,
+924 S.W.2d 773 (Tex. App.—Waco 1996, no writ) ..........................................................13, 16
+Anderson v. Liberty Lobby, Inc.,
+477 U.S. 242, 106 S.Ct. 2505 (1986).........................................................................................5
+Celotex Corp. v. Catrett,
+477 U.S. 317, 106 S.Ct. 2548 (1986).........................................................................................4
+Chlorine Inst., Inc. v. California Highway Patrol,
+29 F.3d 495 (9th Cir. 1994) ........................................................................................................5
+Controversy Music v. Down Under Pub Tyler Inc.,
+488 F.Supp.2d 572 (E.D.Tex. 2007)..........................................................................................6
+Duffy v. Leading Edge Products, Inc.,
+44 F.3d 308 (5th Cir. 1995) ........................................................................................................5
+Feist Publications Inc. v. Rural Tel. Serv. Co.,
+111 S.Ct, 1296 (1991)................................................................................................................5
+Fontenot v. Upjohn Co.
+780 F.2d 1190 (5th Cir. 1986) ....................................................................................................4
+General Universal Systems Inc. v. Lee,
+379 F.3d 131 (5th Cir. 2004) ........................................................................................5, 6, 7, 12
+IBP Inc. v. Klumpe,
+101 S.W.3d 461 (Tex.App.—Amarillo 2001) .......................................................................6, 7
+In re Bass,
+113 S.W.3d 735 (Tex. 2003)......................................................................................................7
+Johnson v. Brewer & Pritchard, P.C.,
+73 S.W. 3d 193 (Tex. 2002).....................................................................................................16
+K & G Oil Tools & Serv. v. G & G Fishing Tool Serv.,
+314 S.W. 2d 782 (Tex. 1958)...................................................................................................13
+Matsushita Elec. Indus. Co. v. Zenith Radio Corp.,
+475 U.S. 574, 106 S.Ct 1348 .....................................................................................................4
+i
+DALLAS\107957.1
+ID\BAC - 106446/0003
+
+Case 4:09-cv-00350-ALM Document 101
+
+Filed 11/05/10 Page 4 of 24
+
+(Contains References to Highly Confidential Material)
+Spectrum Creations L.P. v. Carolyn Kinder Intern. LLC,
+514 F.Supp.2d 934 (W.D.Tex. 2007).........................................................................................7
+Trilogy Software Inc. v. Callidus Software, Inc.,
+143 S.W.3d 452 (Tex. App.—Austin 2004, pet. denied).........................................................13
+U.S. v. John,
+597 F.3d 263 (5th Cir. 2010) ....................................................................................................18
+
+RULES
+FED. R. CIV. P. 56(c) ........................................................................................................................4
+
+STATUTES
+17 U.S.C. §101.................................................................................................................................6
+17 U.S.C. §106.............................................................................................................................5, 7
+17 U.S.C. §301(b) ............................................................................................................................7
+18 U.S.C. § 1030(a)(5)(A) (2000) .................................................................................................18
+Decl. Laws §2.2, §4.1.1 .................................................................................................................11
+Decl. Laws ¶4 ..................................................................................................................................2
+TEX. CIV. PRAC. & REM. CODE § 134.003-134.004 (Vernon 1997).......................................18
+
+ii
+DALLAS\107957.1
+ID\BAC - 106446/0003
+
+Case 4:09-cv-00350-ALM Document 101
+
+Filed 11/05/10 Page 5 of 24
+
+(Contains References to Highly Confidential Material)
+VocalSpace LLC (“VocalSpace”) files this Motion for Partial Summary Judgment on
+Plaintiff’s Claims and shows as follows:
+I. Statement of the Issues
+VocalSpace contends, inter alia, that Defendants Daniel D. Lorenso and Larkspark
+Corporation (“Defendants”) have and are infringing its copyrighted work in VocalSpace’s
+copyrighted computer source code (the “Copyrighted Code”) through Defendants’ computer
+source code (the “Accused Code”). VocalSpace further contends that Defendants have
+misappropriated VocalSpace trade secrets. VocalSpace also contends that Defendants have
+breached a fiduciary duty, violated the Computer Fraud and Abuse Act, and violated the Texas
+Theft Liability Act. VocalSpace seeks partial summary judgment against Defendants. More
+particularly, there is sufficient summary judgment evidence to conclude, as a matter of law, that:
+(1)
+
+Defendants willfully infringed the Copyrighted Code.
+
+(2)
+
+Defendants misappropriated the trade secrets of VocalSpace.
+
+(3)
+
+Defendants breached a fiduciary duty owed to VocalSpace.
+
+(4)
+
+Defendants violated the Computer Fraud and Abuse Act.
+
+(5)
+
+Defendants violated the Texas Theft Liability Act.
+
+Therefore, VocalSpace is entitled to a summary judgment on these issues.
+II. Statement of Undisputed Material Facts
+The following material facts are not in dispute:
+(1)
+
+On or about July 14, 2009, VocalSpace filed an application for a copyright
+registration. This application included deposit material consisting of the first 25
+and last 25 pages of a concatenation of the Copyrighted Code. Exhibit B1 is a true
+and correct copy of this application and deposit material. Declaration of Randy
+Dryburgh “Decl. Dryburgh” ¶ 3, attached hereto as Exhibit B.
+
+Plaintiff’s Motion for Partial Summary Judgment on Plaintiff’s Claims
+DALLAS\107957.1
+ID\BAC - 106446/0003
+
+1
+
+Case 4:09-cv-00350-ALM Document 101
+
+Filed 11/05/10 Page 6 of 24
+
+(Contains References to Highly Confidential Material)
+(2)
+
+Thereafter, the Copyright Office issued evidence of registration of the Copyright
+Registration Certificate TXu001607950. Exhibit B2 is a true and correct copy of
+this evidence. Decl. Dryburgh ¶ 4.
+
+(3)
+
+Defendant Daniel D. Lorenso was an employee of VocalSpace (or its predecessor)
+from March of 2003 through August of 2006. Deposition of Dante Lorenso
+(“Dep. Lorenso”) 11:23-12:1, attached hereto as Exhibit D. Mr. Lorenso was an
+independent contractor of VocalSpace from January 2007 through June of 2008.
+Dep. Lorenso 36:7-14. During both of these time frames, Defendant Lorenso had
+access to proprietary VocalSpace source code. Dep. Lorenso 100:11-19, 162:23163:13; 36:7-19; Original Answer ¶110; Decl. Dryburgh ¶ 5. During the later
+time frame, this proprietary VocalSpace source code included the Copyrighted
+Code. Decl. Dryburgh ¶ 5.
+
+(4)
+
+Exhibit C1 is a true and correct copy of a printout of the file “UserDir.php” found
+on a DVD of source code produced by Defendants. Decl. Dryburgh ¶ 6.
+
+(5)
+
+Exhibit C2 is a true and correct copy of a printout of the file “UserDir.php” found
+in the Copyrighted Code. Decl. Dryburgh ¶ 7.
+
+(6)
+
+On October 4, 2010, VocalSpace served the expert report of Dr. Ben Laws on
+Defendants. Exhibit A1 is a true and correct copy of this expert report. Decl.
+Laws ¶4. Defendants’ rebuttal expert report was due on October 18, 2010, but
+Defendants chose not to serve any rebuttal expert report.
+
+(7)
+
+During Defendant Lorenso’s relationship with VocalSpace, its confidential, trade
+secret information, including it proprietary source code, was not known to any
+persons outside of the company. Decl. Dryburgh ¶ 8.
+
+Plaintiff’s Motion for Partial Summary Judgment on Plaintiff’s Claims
+DALLAS\107957.1
+ID\BAC - 106446/0003
+
+2
+
+Case 4:09-cv-00350-ALM Document 101
+
+Filed 11/05/10 Page 7 of 24
+
+(Contains References to Highly Confidential Material)
+(8)
+
+Access to the confidential, trade secret information was restricted to only those
+necessary to maintain the operations of the business, and those employees who do
+not need access to the information to maintain business operations are excluded.
+Decl. Dryburgh ¶ 9.
+
+(9)
+
+VocalSpace kept its servers containing the confidential, trade secret information
+in a locked cage in a secure facility, and access to the servers was restricted by a
+firewall. Decl. Dryburgh ¶ 10.
+
+(10)
+
+VocalSpace’s server logins were password protected, and server communications
+were encrypted. Decl. Dryburgh ¶ 11.
+
+(11)
+
+The VocalSpace office housing confidential information has a monitored alarm
+system. Decl. Dryburgh ¶ 11.
+
+(12)
+
+Lorenso had access to a substantial amount of VocalSpace’s confidential,
+proprietary, and trade secret information in his position as a lead programmer.
+Decl. Dryburgh ¶ 20. Lorenso occupied positions of extreme sensitivity within
+VocalSpace and VocalSpace reposed significant trust and confidence in Lorenso.
+Decl. Dryburgh ¶ 20.
+
+(13)
+
+VocalSpace’s confidential, proprietary, and trade secret information that Lorenso
+had access to is not generally known outside of VocalSpace, and because this
+information has great value to VocalSpace and its competitors, measures must be
+taken to insure that such information remains confidential. Decl. Dryburgh ¶ 21.
+Lorenso was treated as a fiduciary, and a great deal of trust was placed in him.
+Decl. Dryburgh ¶ 21.
+
+Plaintiff’s Motion for Partial Summary Judgment on Plaintiff’s Claims
+DALLAS\107957.1
+ID\BAC - 106446/0003
+
+3
+
+Case 4:09-cv-00350-ALM Document 101
+
+Filed 11/05/10 Page 8 of 24
+
+(Contains References to Highly Confidential Material)
+(14)
+
+VocalSpace invested over $1 Million to develop its confidential, trade secret
+information, including paying Defendant Lorenso over $600,000 to assist in
+building the working code for VocalSpace’s products. Decl. Dryburgh ¶ 13.
+
+(15)
+
+VocalSpace requires its employees to acknowledge “Conflict of Interest
+Guidelines,” which, among other things, state:
+Revealing confidential information to outsiders or misusing confidential
+information. Unauthorized divulging of information is a violation of this
+policy whether or not for personal gain and whether or not harm to the
+Company is intended.
+Decl. Dryburgh ¶ 14.
+
+(16)
+
+These guidelines were provided to Defendant Lorenso by VocalSpace’s
+predecessor-in-interest, Direct2Prospect. Decl. Dryburgh ¶ 15.
+III. Legal Standards
+
+A.
+
+Legal Standard for Summary Judgment
+
+The purpose of summary judgment is to “pierce the pleadings and to assess the proof in
+order to see whether there is a genuine need for trial”. Matsushita Elec. Indus. Co. v. Zenith
+Radio Corp., 475 U.S. 574, 587, 106 S.Ct 1348, 1356 (1986. Summary judgment procedure is
+designed to isolate and dispose of factually-unsupported claims or defenses, and so a court may
+properly grant summary judgment in any case where the pleadings, discovery products on file,
+and affidavits show that there is no genuine issue of material fact. FED. R. CIV. P. 56(c); Celotex
+Corp. v. Catrett, 477 U.S. 317, 322, 106 S.Ct. 2548, 2552 (1986).
+A plaintiff that seeks summary judgment must show that there are no genuine issues of
+material fact and establish each element of its claim as a matter of law. Fontenot v. Upjohn Co.
+780 F.2d 1190, 1194 (5th Cir. 1986). The court should grant the plaintiff’s motion only if,
+viewing the evidence in the light most favorable to the defendant, there are no genuine issues of
+Plaintiff’s Motion for Partial Summary Judgment on Plaintiff’s Claims
+DALLAS\107957.1
+ID\BAC - 106446/0003
+
+4
+
+Case 4:09-cv-00350-ALM Document 101
+
+Filed 11/05/10 Page 9 of 24
+
+(Contains References to Highly Confidential Material)
+material fact and no jury could find in favor of the defendant. Chlorine Inst., Inc. v. California
+Highway Patrol, 29 F.3d 495, 496 (9th Cir. 1994). A plaintiff may also show that there are no
+genuine issues for trial regarding a defendant’s defenses by pointing out the absence of evidence
+supporting those defenses. See Duffy v. Leading Edge Products, Inc., 44 F.3d 308, 312 (5th Cir.
+1995). Once the plaintiff meets this burden, the defendant must come forward with summary
+judgment evidence establishing the existence of a genuine issue; that evidence must be such that
+if introduced at trial it would suffice to prevent a directed verdict against the defendant. Id.
+Although this Court considers the evidence in the light most favorable to the nonmoving
+party, conclusory allegations unsupported by concrete and particular facts will not prevent an
+award of summary judgment. Id. The mere existence of some disputed fact will not defeat an
+otherwise properly-supported motion for summary judgment; the requirement is that there be no
+genuine issue of material fact. Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 248-49, 106 S.Ct.
+2505, 2510-11 (1986).
+B.
+
+Legal Standard for Copyright Infringement
+
+The Copyright Act gives the owner of a copyright a number of exclusive rights to the
+copyrighted work, including the right to reproduce the work, to prepare derivative works, to
+distribute copies of the work, and to perform the work publically. 17 U.S.C. §106. To establish a
+prima facie case of copyright infringement, a copyright owner must prove (1) ownership of a
+valid copyright, and (2) copying by the defendant of constituent elements of the work that are
+original. Feist Publications Inc. v. Rural Tel. Serv. Co., 111 S.Ct, 1296 (1991). A certificate of
+registration, if timely obtained, is prima facie evidence both that a copyright is valid and that the
+registrant owns the copyright. General Universal Systems Inc. v. Lee, 379 F.3d 131, 141 (5th Cir.
+2004). To prove actionable copying under the second prong, a plaintiff must prove that the
+defendant actually used the copyrighted material to create his own work. Id. A plaintiff may
+Plaintiff’s Motion for Partial Summary Judgment on Plaintiff’s Claims
+DALLAS\107957.1
+ID\BAC - 106446/0003
+
+5
+
+Case 4:09-cv-00350-ALM Document 101
+
+Filed 11/05/10 Page 10 of 24
+
+(Contains References to Highly Confidential Material)
+make this showing either with proof of direct evidence of copying or through circumstantial
+evidence demonstrating both (1) that the defendant had access to the copyrighted work and (2)
+that the two works are probatively similar. Id. The access element is satisfied if the defendant
+had a reasonable opportunity to view the copyrighted work, and the probative similarity element
+requires a showing that the works, when compared as a whole, are adequately similar to establish
+appropriation. Id. Infringement is willful if the Defendant had knowledge that his conduct
+represented infringement or recklessly disregarded the possibility that his conduct might
+constitute infringement. Controversy Music v. Down Under Pub Tyler Inc., 488 F.Supp.2d 572,
+578 (E.D.Tex. 2007).
+The Copyrighted Code is described on the face of the copyright registration as a
+“computer program.” Exh. B2. Under the Copyright Act, a “computer program” is defined as a
+“set of statements or instructions to be used directly or indirectly in a computer in order to bring
+about a certain result.” 17 U.S.C. §101. It is settled that computer programs are entitled to
+copyright protection. General Universal Systems Inc. v. Lee, 379 F.3d 131, 142 (5th Cir. 2004).
+This protection applies both to the literal elements of the source code as well as the non-literal
+elements, including structure, sequence, organization, user interface, screen displays, and menu
+structures. Id. at 142. Copyright protection extends only to the expression within the source code,
+not the abstract ideas, processes, facts, elements dictated by considerations of efficiency,
+elements required by factors external to the program itself, or items taken from the public
+domain. Id. at 142-143.
+C.
+
+Legal Standard for Misappropriation of Trade Secrets
+
+Trade secrets are rights in the nature of property rights which the law protects through
+both tort and contract principles. IBP Inc. v. Klumpe, 101 S.W.3d 461, 472 (Tex.App.—Amarillo
+2001). Generally, such principles provide that one who either discloses or uses another’s trade
+Plaintiff’s Motion for Partial Summary Judgment on Plaintiff’s Claims
+DALLAS\107957.1
+ID\BAC - 106446/0003
+
+6
+
+Case 4:09-cv-00350-ALM Document 101
+
+Filed 11/05/10 Page 11 of 24
+
+(Contains References to Highly Confidential Material)
+secret, without a privilege to do so, is liable for such disclosure or use if the disclosure or use
+constitutes a breach of confidence reposed in the party disclosing or using the trade secret by the
+owner of the trade secret. Id. To be actionable, the disclosure or use of the trade secret ordinarily
+must be to the competitive disadvantage of the owner of the trade secret. Id. To determine the
+existence of a trade secret, the court should consider six relevant but nonexclusive criteria: (1)
+the extent to which the information is known outside the business, (2) the extent to which it is
+known by employees and others involved in the business, (3) the extent of measures taken to
+safeguard the secrecy of the information, (4) the value of the information to him and to his
+competitors, (5) the amount of effort or money expended in developing the information, and (6)
+the ease or difficulty with which the information could be properly acquired or duplicated by
+others. In re Bass, 113 S.W.3d 735, 739-40 (Tex. 2003). A trade secret action is not preempted
+by the Copyright Act as the former requires a breach of trust or confidence not found in the cause
+of action for copyright infringement. See 17 U.S.C. §301(b) (“Nothing in this title annuls or
+limits any rights or remedies under the common law or statutes of any state with respect to ... (3)
+activities violating legal or equitable rights that are not equivalent to any of the exclusive rights
+within the general scope of copyright as specified by sec. 106.”); Spectrum Creations L.P. v.
+Carolyn Kinder Intern. LLC, 514 F.Supp.2d 934 (W.D.Tex. 2007) (trade secret cause of action
+not preempted by Copyright Act because of additional requirements of trade secret claim).
+IV. Argument
+A.
+
+Copyright Infringement
+
+While granting summary judgment of copyright infringement based on substantial
+similarity is typically viewed as something to be left to the ultimate factfinder, e.g., General
+Universal Systems, 379 F.3d 142, here, there remain no unresolved questions of any material
+fact, including the question of substantial similarity. Specifically, Defendants have admitted that
+Plaintiff’s Motion for Partial Summary Judgment on Plaintiff’s Claims
+DALLAS\107957.1
+ID\BAC - 106446/0003
+
+7
+
+Case 4:09-cv-00350-ALM Document 101
+
+Filed 11/05/10 Page 12 of 24
+
+(Contains References to Highly Confidential Material)
+the Accused Code contains elements of the Copyrighted Code, and the Defendants have admitted
+that these elements represent the creative expression of the author. Further, in the report of
+VocalSpace’s expert Dr. Ben Laws, which has been incorporated into Dr. Laws declaration (Exh.
+A1), Dr. Laws, a 45+ year veteran of software design and development, listed a plethora of
+examples where the Accused Code contained similar creative expression found in the
+Copyrighted Code.
+1.
+
+Defendants have admitted substantial similarity between the Accused
+Code and the Copyrighted Code.
+
+During his deposition (individually and as corporate representative), Mr. Lorenso was
+questioned regarding source code generally and comparisons between the Accused Code and
+Copyrighted Code in particular. Mr. Lorenso unequivocally testified that source code may
+contain creative expression that goes beyond mere idea or process. This creative expression
+includes the choice of text used in non-functional program comments:
+Q.
+A.
+Q.
+A.
+Q.
+A.
+Q.
+A.
+Q.
+A.
+Q.
+A.
+Q.
+A.
+Q.
+A.
+Q.
+A.
+…
+Q.
+
+Do you see the two slashes at the beginning of that line?
+Yes.
+Okay. That indicates a comment, right?
+Correct.
+And the rest of that line is a string of dashes, correct?
+Uh-huh.
+Now, what's the purpose of the string of dashes?
+I like them.
+Okay. So is it fair to say that's another programmer's choice thing, you like
+them, so that's why they're there?
+Yes.
+Okay. Now, so if we look at Lines 49, 59, 69, 13:42 24 89, and 127, we see lines
+beginning with the two slashes followed by a string of dashes, right?
+That is correct.
+And are they also there because you like them?
+That's true.
+Okay. And is there any other purpose?
+No.
+That's just kind of your artistic expression -Uh-huh.
+Okay. Now, does the PHP Interpreter execute comments like Line 16?
+
+Plaintiff’s Motion for Partial Summary Judgment on Plaintiff’s Claims
+DALLAS\107957.1
+ID\BAC - 106446/0003
+
+8
+
+Case 4:09-cv-00350-ALM Document 101
+
+Filed 11/05/10 Page 13 of 24
+
+(Contains References to Highly Confidential Material)
+A.
+Q.
+A.
+Q.
+A.
+Q.
+A.
+Q.
+A.
+Q.
+A.
+…
+Q.
+A.
+Q.
+A.
+
+It should not execute them, no.
+Right. Does it do any error checking to make sure that the comments are accurate,
+like the one on Line 16?
+There can be characters in the comments that would cause the PHP Interpreter to
+fail, but it doesn't necessarily scan them normally, no.
+Right. So -- so that comment could read something like try to erase the user
+subdirectory, right, and the program could still run the same?
+Yes.
+Okay. And it wouldn't make a bit of difference to the PHP Interpreter if there
+were no comments at all, right?
+It might actually be a little bit faster if there were not comments at all -All right. So it would –
+-- slightly.
+-- be faster, but it would -- but -- so would it almost in a lot of ways make the
+program run faster, but not materially affect the program, correct?
+It should not, no.
+All right. Who chooses the words of a comment?
+The author.
+Okay. So that's basically the -- another part of the artistic expression of the
+author, what to put in the comment, right?
+Okay. Yes.
+
+Dep. Lorenso 390:8-391:8, 392:15-393:14, (emphasis added).
+Similarly, Mr. Lorenso testified that this creative expression includes the choice of text
+used in an error message, Dep. Lorenso 398:7-399:22, and that this creative expression includes
+the choice of function and variable names. Id. 396:19-398:3; See also Original Answer ¶14
+(Defendants admit that computer source code is copyrightable expression).
+Later in the deposition, Mr. Lorenso was asked to compare the creative expression
+identified in the Accused Code with similar expression in the Copyrighted Code. Mr. Lorenso
+agreed that Defendants’ Code contained comments that were identical or virtually identical to
+comments found in the Copyrighted Code:
+Q.
+A.
+
+…Now, look at the comments in front of the function get user sub DIR file at
+lines -- if you look at E, at Lines 6 through 10, 6 through 10 of Exhibit E.
+Okay.
+
+Plaintiff’s Motion for Partial Summary Judgment on Plaintiff’s Claims
+DALLAS\107957.1
+ID\BAC - 106446/0003
+
+9
+
+Case 4:09-cv-00350-ALM Document 101
+
+Filed 11/05/10 Page 14 of 24
+
+(Contains References to Highly Confidential Material)
+Q.
+
+A.
+Q.
+A.
+Q.
+A.
+Q.
+A.
+Q.
+
+A.
+Q.
+A.
+
+Now, do you see those comments? In fact, what do they say? Assemble parts of
+the file name based on the user subdirectory to form the absolute path on disk
+without verification. Did I read that right?
+Okay.
+Okay. You see that. Now, let's look at the comments -- if we go over to Exhibit
+D, let's look at -- so pull Exhibit D. Tell me when you have that in front of you.
+Okay.
+Now, look at the comments in front of the function get sub DIR files at Lines 59
+through 63.
+(Witness complies.)
+Are you there?
+Uh-huh.
+And if we look at that, it says, Assemble parts of the file name based on the user's
+subdirectory to form the absolute path on disk without verification. Did I read that
+right?
+Okay.
+They're identical comments, correct?
+Yeah.
+
+Dep. Lorenso 403:8-404:9 (emphasis added).
+Mr. Lorenso went on to confirm that other comments found in the Defendants’ Code
+were also found in the Copyrighted Code. Dep. Lorenso 404:10-405:20 (comments at lines 1721); Id. 405:21-407:6 (comments at lines 28-32); Id. 407:7-408:10 (comments at lines 34, 39, 45,
+51, and 56); Id. 408:11-409:16 (comments at lines 60-63). Similarly, Mr. Lorenso was asked to
+compare the text strings in the error messages at lines 42 and 53 of the Defendants’ Code with
+the text strings in the error messages found in the Copyrighted Code; upon comparison, he
+concluded “the strings themselves are identical.” Dep. Lorenso 409:17-411:20. Similarly, Mr.
+Lorenso agreed that the Accused Code contained functions that bore names that were similar to
+function names found in the Copyrighted Code. Dep. Lorenso 402:25-403:6.
+In short, Defendants have agreed that the Accused Code contains expressive content that
+is not only substantially similar, but virtually identical to the expressive content found in the
+Copyright Code. Therefore, there is no question of material fact remaining for the jury to
+consider, and summary judgment on this issue is appropriate.
+Plaintiff’s Motion for Partial Summary Judgment on Plaintiff’s Claims
+DALLAS\107957.1
+ID\BAC - 106446/0003
+
+10
+
+Case 4:09-cv-00350-ALM Document 101
+
+Filed 11/05/10 Page 15 of 24
+
+(Contains References to Highly Confidential Material)
+2.
+
+Dr Laws found substantial similarity between the Accused Code and
+the Copyrighted Code.
+
+Dr. Ben Laws opined that certain elements of source code, including its structure and
+layout, the selection of text for user messages, and the inclusion of embedded comments,
+evidence expressive content that is unnecessary for the function of the code itself. Decl. Laws
+§2.2, §4.1.1. As noted supra, Defendants agree with Dr. Laws on this subject. Dr. Laws
+examined dozens of files from the Accused Code and compared the expressive content from
+those files with the Copyrighted Code. Id. §4.1.1. By way of example, Dr. Laws compared two
+files, both named “FLVTools.php,” found in the Accused Code and Copyrighted Code. He found
+substantially similar comments (including a doubled “the” and a misspelled “begining”),
+substantially similar instruction format, and substantially similar sequence of instructions. Id.
+§4.1.1. This substantial similarity is readily apparent to the casual observer:
+VocalSpace Code
+//---------------------------------------------------------------------/* Read the duration in seconds of an FLV file using hackery. We seek
+* the the end of the FLV file and read the last 'tag' packet. The
+* offset marked on that packet is the offset we use for the entire
+* stream.
+* I haven't found any examples of where this isn't good enough --dante
+*/
+public static function get_duration($file_name) {
+// open the file for reading or bail
+$fp = fopen($file_name, 'r');
+if (!$fp) {
+return (0);
+}
+
+Defendants’ Code
+//---------------------------------------------------------------------/**
+* Read the duration in seconds of an FLV file using hackery. We seek the
+* the end of the FLV file and read the last 'tag' packet. The offset
+* marked on that packet is the offset we use for the entire stream. I
+* haven't found any examples of where this isn't good enough --dante */
+public static function get_duration($file_name) {
+// open the file for reading or bail
+$fp = fopen($file_name, 'r');
+if (!$fp) {
+return 0;
+}
+// read the size of the last packet in the file
+// size is stored as the last four bytes at the end of the file
+$res = fseek($fp, -4, SEEK_END);
+if ($res) {
+return 0;
+}
+$offset = -abs(self :: uintRead($fp, 4) + 4);
+
+// read the size of the last packet in the file
+// size is stored as the last four bytes at the end of the file
+$res = fseek($fp, -4, SEEK_END);
+if ($res) {
+return (0);
+}
+$offset = -abs(self :: ui_read($fp, 4) + 4);
+
+// jump to the begining of the last packet in the file
+$res = fseek($fp, $offset, SEEK_END);
+
+// jump to the begining of the last packet in the file
+$res = fseek($fp, $offset, SEEK_END);
+
+// parse the last 'tag' packet of the file
+$pkt = self :: flvtag_read($fp);
+fclose($fp);
+
+// parse the last 'tag' packet of the file
+$pkt = self :: flvtag_read($fp);
+fclose($fp);
+
+}
+
+// use the time offset stamped on the last packet as the time
+// for the entire FLV stream
+$seconds = Common :: array_get($pkt, 'time') / 1000.0;
+return ($seconds);
+
+//-------------------------------------------------------------------
+
+// use the time offset stamped on the last packet as the time
+// for the entire FLV stream
+$seconds = (isset ($pkt['time']) ? $pkt['time'] : 0) / 1000.0;
+return $seconds;
+}
+//----------------------------------------------------------------------
+
+Plaintiff’s Motion for Partial Summary Judgment on Plaintiff’s Claims
+DALLAS\107957.1
+ID\BAC - 106446/0003
+
+11
+
+Case 4:09-cv-00350-ALM Document 101
+
+Filed 11/05/10 Page 16 of 24
+
+(Contains References to Highly Confidential Material)
+Dr. Laws found substantial similarity of expressive content in over 35 different files
+within the Accused Code. Decl. §4.1.2.
+In short, Dr. Laws has found multiple instances where the Accused Code contains
+expressive content that is not only substantially similar, but virtually identical to the expressive
+content found in the Copyright Code. Therefore, inasmuch as Defendants have offered no report
+by an independent third-party expert rebutting Dr. Laws’ opinions, and in light of Defendants’
+admissions regarding the expressive nature of the Accused Code and Copyrighted Code, there is
+no question of material fact remaining for the jury to consider, and summary judgment on this
+issue is appropriate.
+3.
+
+Other facts related to infringement are not in dispute.
+
+As noted supra in §0, there is no dispute regarding the remaining elements for proving
+willful copyright infringement by Defendants. First, the existence of the copyright registration is
+prima facie evidence both that VocalSpace’s copyright claim is valid and that the VocalSpace
+owns the copyright. See General Universal, 379 F.3d at 141. Second, Defendants admitted that,
+as of May 2008, Mr. Lorenso had “complete access” to the VocalSpace code. Original Answer
+¶110. Inasmuch as the files in the Copyrighted Code are dated between April 2003 to January
+2007, Decl. Dryburgh ¶ 5, Mr. Lorenso has therefore admitted to having “complete access” to
+the Copyrighted Code. Mr. Lorenso was an employee and later a contractor of VocalSpace, and
+so he knew that his actions involved the incorporation of VocalSpace code into the Accused
+Code. In fact, Mr. Lorenso identified comments found in both the Copyrighted Code and the
+Accused code as his own. Dep. Lorenso 392:7-11.
+Therefore, all elements of willful copyright infringement have been proven and there are
+no remaining unanswered questions of material fact for the jury to consider, and summary
+judgment on this issue is appropriate.
+Plaintiff’s Motion for Partial Summary Judgment on Plaintiff’s Claims
+DALLAS\107957.1
+ID\BAC - 106446/0003
+
+12
+
+Case 4:09-cv-00350-ALM Document 101
+
+Filed 11/05/10 Page 17 of 24
+
+(Contains References to Highly Confidential Material)
+B.
+
+Misappropriation of Trade Secrets
+
+The Court should grant summary judgment on Plaintiff’s misappropriation of trade
+secrets claim because there is no genuine issue of material fact regarding whether Defendants
+misappropriated Plaintiff’s trade secrets. The elements of a misappropriation of trade secrets
+claim in Texas are that (1) the plaintiff owned a trade secret; (2) the defendant used or disclosed
+the trade secret in violation of a confidential or contractual relationship with the plaintiff, after
+acquiring the trade secret by improper means, or after acquiring the trade secret with notice that
+disclosure was improper; and (3) the plaintiff suffered injury. K & G Oil Tools & Serv. v. G & G
+Fishing Tool Serv., 314 S.W. 2d 782, 787-88 (Tex. 1958); Trilogy Software Inc. v. Callidus
+Software, Inc., 143 S.W.3d 452, 463 (Tex. App.—Austin 2004, pet. denied). Further, an
+employee has a duty not to use or disclose an employer’s trade-secret information in a manner
+adverse to the employer, both during and after employment, if the employee knows or should
+realize under the circumstances that the employer wants the information to be kept secret.
+American Derringer Corp. v. Bond, 924 S.W.2d 773, 777 (Tex. App.—Waco 1996, no writ).
+Each of the elements has been sufficiently established such that the Court must find
+misappropriation of Plaintiff’s trade secrets by Defendants as a matter of law.
+1.
+
+VocalSpace owned a trade secret.
+
+VocalSpace, owned confidential, trade secret information, including both copyrighted
+and non-copyrighted proprietary source code, that was misappropriated by Defendants.
+VocalSpace’s confidential, trade secret information was not known to any persons outside of the
+company. Decl. Dryburgh ¶ 8. In fact, access to the confidential, trade secret information was
+restricted to only those necessary to maintain the operations of the business, and those employees
+who did not need access to the information to maintain business operations are excluded. Decl.
+Dryburgh ¶ 9. Further, VocalSpace went to great lengths to protect its confidential, trade secret
+Plaintiff’s Motion for Partial Summary Judgment on Plaintiff’s Claims
+DALLAS\107957.1
+ID\BAC - 106446/0003
+
+13
+
+Case 4:09-cv-00350-ALM Document 101
+
+Filed 11/05/10 Page 18 of 24
+
+(Contains References to Highly Confidential Material)
+information. Decl. Dryburgh ¶ 10. For example, it kept its servers containing the confidential,
+trade secret information in a locked cage in a secure facility. Decl. Dryburgh ¶ 10. Access to the
+servers was restricted by a firewall. Decl. Dryburgh ¶ 10. Further, server logins were password
+protected, and server communications were encrypted. Decl. Dryburgh ¶ 11. Also, the office
+housing the information had a monitored alarm system. Decl. Dryburgh ¶ 11. VocalSpace’s
+confidential, trade secret information was central to operating its business, and the information
+was and is—by far—VocalSpace’s most valuable asset. Decl. Dryburgh ¶ 12. In light of this,
+the confidential, trade secret information was also highly valuable to VocalSpace’s competitors.
+Decl. Dryburgh ¶ 12. In fact, VocalSpace invested over $1 Million to develop its confidential,
+trade secret information, including paying Defendant Lorenso over $600,000 to assist in building
+the working code for VocalSpace’s products. Decl. Dryburgh ¶ 13. As such, it would be
+extremely unlikely—for all practical purposes, impossible—for another competitor to duplicate
+or acquire the confidential, trade secret information. Decl. Dryburgh ¶ 14. VocalSpace even
+required its employees to acknowledge “Conflict of Interest Guidelines,” which, among other
+things, state:
+Revealing confidential information to outsiders or misusing confidential
+information. Unauthorized divulging of information is a violation of this
+policy whether or not for personal gain and whether or not harm to the
+Company is intended.
+Decl. Dryburgh ¶ 14. These guidelines were provided to Defendant Lorenso by VocalSpace’s
+predecessor-in-interest, Direct2Prospect. Decl. Dryburgh ¶ 15. Defendant Lorenso initialed and
+signed the guidelines on April 7, 2003. Accordingly, VocalSpace certainly maintained
+confidential, trade secret information.
+
+Plaintiff’s Motion for Partial Summary Judgment on Plaintiff’s Claims
+DALLAS\107957.1
+ID\BAC - 106446/0003
+
+14
+
+Case 4:09-cv-00350-ALM Document 101
+
+Filed 11/05/10 Page 19 of 24
+
+(Contains References to Highly Confidential Material)
+2.
+
+Defendants used and disclosed the trade secret information in
+violation of their obligations after acquiring it by improper means
+with notice that the use and disclosure was improper.
+
+Defendants used and disclosed VocalSpace’s misappropriated trade secret information in
+violation of their obligations to VocalSpace. As stated supra in III.A, Defendants have used and
+are using VocalSpace’s confidential, trade secret information. Rather than repeat the
+descriptions of those uses provided above verbatim, they are incorporated by reference as if fully
+set forth herein. Further, Defendant Lorenso has disclosed VocalSpace’s confidential, trade
+secret information on his website. Decl. Dryburgh ¶ 16. Blatantly disregarding his obligation to
+keep VocalSpace’s proprietary information in confidence, Mr. Lorenso went so far as to publish
+it on the internet for all to see. Decl. Dryburgh ¶ 17. For example, the documents attached as
+Exhibit B5, show one posting of trade secret information. Decl. Dryburgh ¶ 17. It is readily
+apparent that the posted code is substantially identical to VocalSpace’s trade secret code. Decl.
+Dryburgh ¶ 17. The changes made are utterly trivial (such as adding the LS Prefix to a few
+variable function names). Decl. Dryburgh ¶ 17. Thus, Defendants—without question—used and
+disclosed VocalSpace’s trade secret information.
+Prior to the improper use and disclosure, Defendants acquired the confidential, trade
+secret information in violation of their obligations to VocalSpace. Upon Defendant Lorenso’s
+departure from VocalSpace, he was instructed to delete all of VocalSpace’s confidential, trade
+secret information from his computers. Decl. Dryburgh ¶ 18. Further, in statements to
+Defendant Lorenso, it was made explicitly clear that VocalSpace’s code was not to be used in
+other non-VocalSpace applications. Decl. Dryburgh ¶ 18. Further, Defendant had an obligation
+not to disclose the confidential, trade secret information since he was an employee and
+VocalSpace had made it unequivocally clear that it wanted the information to be kept secret.
+
+Plaintiff’s Motion for Partial Summary Judgment on Plaintiff’s Claims
+DALLAS\107957.1
+ID\BAC - 106446/0003
+
+15
+
+Case 4:09-cv-00350-ALM Document 101
+
+Filed 11/05/10 Page 20 of 24
+
+(Contains References to Highly Confidential Material)
+See, e.g, American Derringer, 924 S.W. 2d at 777. Thus, VocalSpace has established, without
+question, that Defendants have used and disclosed its misappropriated trade secret information.
+3.
+
+VocalSpace suffered injury.
+
+VocalSpace has suffered injury as a result of Defendants’ misappropriation of its trade
+secrets. As stated above, VocalSpace invested over $1 million to create its proprietary source
+code. VocalSpace has, essentially, been deprived of the benefits of this $1 million investment
+because Defendants have misappropriated the proprietary source code and used it to create a
+competing business. Furthermore, VocalSpace has been injured because it has lost revenues due
+to competition from Defendants using its proprietary source code as also described above. Decl.
+Dryburgh ¶ 19. In addition, VocalSpace has been injured because Defendants have used the
+trade secret information to mimic VocalSpace in the marketplace. Harm may be established by
+evidence that disclosure of confidential information could enable competitors to mimic the
+marketing plans and strategies of the applicant and avoid the less successful strategies, resulting
+in a “substantial competitive injury.” Thus, the injury element has been satisfied.
+Therefore, all elements of misappropriation of trade secrets have been proven and there
+are no remaining unanswered questions of material fact for the jury to consider. Summary
+judgment on this issue is appropriate.
+4.
+
+Breach Of fiduciary duty
+
+The elements of a claim for breach of fiduciary duty are: (1) a fiduciary relationship
+exists between the plaintiff and the defendant; (2) the defendant breached its fiduciary duty to the
+plaintiff, and (3) the defendant's breach resulted in injury to the plaintiff or benefit to the
+defendant. Johnson v. Brewer & Pritchard, P.C., 73 S.W. 3d 193, 199 (Tex. 2002). Here the
+evidence has established each of these elements. Therefore, summary judgment should be
+granted against Defendants for breach of fiduciary duty.
+Plaintiff’s Motion for Partial Summary Judgment on Plaintiff’s Claims
+DALLAS\107957.1
+ID\BAC - 106446/0003
+
+16
+
+Case 4:09-cv-00350-ALM Document 101
+
+Filed 11/05/10 Page 21 of 24
+
+(Contains References to Highly Confidential Material)
+5.
+
+A fiduciary relationship existed between lorenso and vocalspace
+
+Lorenso had access to a substantial amount of VocalSpace’s confidential, proprietary,
+and trade secret information in his position as one of VocalSpace’s lead programmers. Lorenso
+occupied positions of extreme sensitivity within VocalSpace and VocalSpace reposed significant
+trust and confidence in Lorenso. VocalSpace’s confidential, proprietary, and trade secret
+information that Lorenso had access to is not generally known outside of VocalSpace, and
+because this information has great value to VocalSpace and its competitors, measures must be
+taken to insure that such information remains confidential. As such, Lorenso had a fiduciary
+relationship with VocalSpace.
+6.
+
+Lorenso breached his fiduciary duty to vocalspace
+
+As set forth above in Sections IV.A and IV.B Lorenso misappropriated VocalSpace’s
+trade secrets and used them to engage in a competing business. Rather than repeat those
+arguments verbatim, they are incorporated by reference as if fully set forth herein. As such,
+Lorenso breached his fiduciary duty to VocalSpace.
+7.
+
+VocalSpace has been injured as a result of the breach
+
+As set forth above in Sections IV.A and IV.B Lorenso injured VocalSpace by
+misappropriating its trade secrets and engaging in a competing business. Rather than repeat
+those arguments verbatim, they are incorporated by reference as if fully set forth herein. As
+such, Lorenso’s breach has resulted in injury to VocalSpace.
+Accordingly, the evidence establishes all of the elements of breach of fiduciary duty by
+Lorenso. Therefore, summary judgment in favor of VocalSpace on this claim is appropriate.
+8.
+
+Computer Fraud and Abuse Act (“CFAA”)
+
+To establish a civil violation under the CFAA, the plaintiff must establish three elements:
+1) the knowing “transmission” of a “program, information, code, or command;” 2) the
+Plaintiff’s Motion for Partial Summary Judgment on Plaintiff’s Claims
+DALLAS\107957.1
+ID\BAC - 106446/0003
+
+17
+
+Case 4:09-cv-00350-ALM Document 101
+
+Filed 11/05/10 Page 22 of 24
+
+(Contains References to Highly Confidential Material)
+transmission is “to a protected computer;” and 3) the transmission causes intentional “damage
+without authorization.” 18 U.S.C. § 1030(a)(5)(A) (2000). Furthermore, the definition of the
+term ‘exceeds authorized access' from § 1030(e)(6) implies that an employee can violate
+employer-placed limits on accessing information stored on the computer and still have
+authorization to access that computer. U.S. v. John, 597 F.3d 263, 273 (5th Cir. 2010).
+C.
+
+Lorenso knowingly transmitted a program to a protected computer
+
+Lorenso knowingly transmitted program to a protected computer by adding a rule to the
+protected VocalSpace servers that allowed him to access them from Larkspark servers. In fact,
+Lorenso practically admitted as much in his deposition. He stated:
+Q. Did you add a rule to their server that you could access the VocalSpace server from
+LarkSpark’s server?
+A. I can’t even confirm whether that's true. But it does sound like something I would
+have done.
+Dep. Lorenso at 271:5-9. Furthermore, Dryburgh found the rule and removed it himself. Decl.
+Dryburgh ¶ 22. Thus, evidence establishes that Lorenso knowingly transmitted at program to a
+protected computer.
+D.
+
+The transmission caused intentional damage without authorization
+
+Lorenso’s addition of the rule to VocalSpace’s servers was intentionally used to cause
+damage to VocalSpace without authorization. Lorenso, used the rule to copy VocalSpace’s
+protected information to Larkspark’s servers. This is established in Section I above. Further, by
+doing so he exceeded any authorization from VocalSpace. Thus, Lorenso violated the computer
+fraud and abuse act as a matter of law.
+E.
+
+Theft Liability Act
+
+Lorenso is liable under the Texas Theft Liability Act as a matter of law. Pursuant to the
+Act “a person who commits theft is liable for the damages resulting from the theft.” TEX. CIV.
+Plaintiff’s Motion for Partial Summary Judgment on Plaintiff’s Claims
+DALLAS\107957.1
+ID\BAC - 106446/0003
+
+18
+
+Case 4:09-cv-00350-ALM Document 101
+
+Filed 11/05/10 Page 23 of 24
+
+(Contains References to Highly Confidential Material)
+PRAC. & REM. CODE § 134.003-134.004 (Vernon 1997). As established above, Defendant’s
+have essentially obtained VocalSpace’s code as a result of theft. Furthermore, VocalSpace has
+been damaged as a result of the theft. Accordingly, summary judgment against Defendants on
+VocalSpace’s Theft Liability Act claim is proper.
+V. Summary Judgment Evidence
+VocalSpace submits the following summary judgment evidence, which is attached to and
+incorporated into this pleading.
+Declaration of Dr. Ben Laws ..................................................................................... Exh. A
+Expert Report of Dr. Ben Laws ................................................................... Exh. A1
+Declaration of Randy Dryburgh................................................................................. Exh. B
+Copyright Application and Deposit Material............................................... Exh. B1
+“UserDir.php” Printout…………………………………… ........................ Exh. B2
+“UserDir.php” Prinout……………………………………. ........................ Exh. B2
+Excerpts from 30(b)(6) Deposition of Dante Lorenso............................................... Exh. C
+In addition, VocalSpace asks the Court to take judicial notice of all pleadings on file in
+this matter.
+VI. Request for Relief
+VocalSpace respectfully asks this Court to set this Motion for hearing, and after
+consideration of the evidence, briefs, and arguments of counsel, to:
+a)
+
+Grant judgment in favor of VocalSpace and against Defendants on Count 1 of the
+Original Complaint (copyright infringement).
+
+b)
+
+Grant judgment in favor of VocalSpace and against Defendants on Count 3 of the
+Original Complaint (misappropriation of trade secrets).
+
+c)
+
+Grant judgment in favor of VocalSpace for Defendants’ on Count 4 of the
+Original Complaint (breach of fiduciary duty).
+
+d)
+
+Grant judgment in favor of VocalSpace for Defendants’ on Count 2 of the
+Original Complaint (Computer Fraud and Abuse Act).
+
+Plaintiff’s Motion for Partial Summary Judgment on Plaintiff’s Claims
+DALLAS\107957.1
+ID\BAC - 106446/0003
+
+19
+
+Case 4:09-cv-00350-ALM Document 101
+
+Filed 11/05/10 Page 24 of 24
+
+(Contains References to Highly Confidential Material)
+e)
+
+Grant judgment in favor of VocalSpace for Defendants’ on Count 9 of the
+Original Complaint (Texas Theft Liability Act).
+
+f)
+
+Grant VocalSpace such other relief as it may deem necessary and appropriate.
+
+Respectfully submitted,
+/s/ Brian A. Colao_____________________
+Brian A. Colao
+Texas Bar No. 00793528
+bcolao@dykema.com
+Neal Massand
+Texas Bar. No. 24039038
+nmassand@dykema.com
+Mina R. Saifi
+Texas Bar No. 24066801
+msaifi@dykema.com
+DYKEMA GOSSETT PLLC
+1717 Main Street, Suite 4000
+Dallas Texas 75201
+(214) 462-6400 - Telephone
+(214) 462-6401 – Facsimile
+ATTORNEYS FOR PLAINTIFF
+
+CERTIFICATE OF SERVICE
+The undersigned hereby certifies that all counsel of record who are deemed to have
+consented to electronic service are being served with a copy of this document via the Court’s
+CM/ECF system per Local Rule CV-5(a)(3) on November 5, 2010. Any other counsel of record
+will be served by First Class U.S. Mail on this same date.
+/s/ Brian A. Colao_________________________
+CERTIFICATE OF AUTHORIZATION TO FILE UNDER SEAL
+I certify that a Motion to Seal the foregoing document has been filed pursuant to the
+Local Rules.
+
+/s/ Brian A. Colao_________________________
+
+Plaintiff’s Motion for Partial Summary Judgment on Plaintiff’s Claims
+DALLAS\107957.1
+ID\BAC - 106446/0003
+
+20
+
+

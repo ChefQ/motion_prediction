@@ -1,0 +1,1370 @@
+Case 1:16-cv-00179-BR Document 34 Filed 09/23/16 Page 1 of 41
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE WESTERN DISTRICT OF PENNSYLVANIA
+PATRICIA R. BELTZ, JOSEPH S.
+SULLIVAN, and ANITA SULLIVAN,
+individually and on behalf of all others similarly
+situated, and derivatively on behalf of Nominal Civil Action No. 16-cv-179
+Defendant ERIE INSURANCE EXCHANGE,
+Hon. Barbara Rothstein
+Plaintiffs,
+v.
+ERIE INDEMNITY COMPANY; KAJ
+AHLMANN; JOHN T. BAILY; SAMUEL P.
+BLACK, III; J. RALPH BORNEMAN, JR.;
+TERRENCE W. CAVANAUGH; WILSON C.
+COONEY; LUANN DATESH; PATRICIA A.
+GOLDMAN; JONATHAN HIRT HAGAN;
+THOMAS B. HAGAN; C. SCOTT HARTZ;
+SAMUEL P. KATZ; GWENDOLYN KING;
+CLAUDE C. LILLY, III; MARTIN J.
+LIPPERT; GEORGE R. LUCORE; JEFFREY
+A. LUDROF; EDMUND J. MEHL; HENRY N.
+NASSAU; THOMAS W. PALMER; MARTIN
+P. SHEFFIELD; SETH E. SCHOFIELD;
+RICHARD L. STOVER; JAN R. VAN
+GORDER; ELIZABETH A. HIRT
+VORSHECK; HARRY H. WEIL; and
+ROBERT C. WILBURN,
+Defendants.
+
+MOTION OF ERIE INDEMNITY COMPANY TO DISMISS THE COMPLAINT
+Defendant Erie Indemnity Company hereby moves this Honorable Court, pursuant to
+Rule 12(b)(6) of the Federal Rules of Civil Procedure, for the entry of an Order dismissing the
+Complaint with prejudice.
+
+Case 1:16-cv-00179-BR Document 34 Filed 09/23/16 Page 2 of 41
+
+The grounds supporting this Motion are set forth in the attached Memorandum.
+Respectfully submitted,
+
+/s/ Steven B. Feirson
+Steven B. Feirson (Pa. 21357)
+Michael L. Kichline (Pa. 62293)
+DECHERT LLP
+Cira Centre
+2929 Arch Street
+Philadelphia, PA 19104-2808
+(215) 994-4000
+Counsel for Defendant Erie Indemnity
+Company
+
+2
+
+Case 1:16-cv-00179-BR Document 34 Filed 09/23/16 Page 3 of 41
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE WESTERN DISTRICT OF PENNSYLVANIA
+PATRICIA R. BELTZ, JOSEPH S. SULLIVAN,
+and ANITA SULLIVAN, individually and on
+behalf of all others similarly situated, and
+derivatively on behalf of Nominal Defendant
+ERIE INSURANCE EXCHANGE,
+
+Civil Action No. 16-cv-179
+Hon. Barbara Rothstein
+
+Plaintiffs,
+v.
+ERIE INDEMNITY COMPANY; KAJ
+AHLMANN; JOHN T. BAILY; SAMUEL P.
+BLACK, III; J. RALPH BORNEMAN, JR.;
+TERRENCE W. CAVANAUGH; WILSON C.
+COONEY; LUANN DATESH; PATRICIA A.
+GOLDMAN; JONATHAN HIRT HAGAN;
+THOMAS B. HAGAN; C. SCOTT HARTZ;
+SAMUEL P. KATZ; GWENDOLYN KING;
+CLAUDE C. LILLY, III; MARTIN J. LIPPERT;
+GEORGE R. LUCORE; JEFFREY A. LUDROF;
+EDMUND J. MEHL; HENRY N. NASSAU;
+THOMAS W. PALMER; MARTIN P.
+SHEFFIELD; SETH E. SCHOFIELD;
+RICHARD L. STOVER; JAN R. VAN
+GORDER; ELIZABETH A. HIRT VORSHECK;
+HARRY H. WEIL; and ROBERT C.
+WILBURN,
+Defendants.
+MEMORANDUM IN SUPPORT OF
+MOTION OF ERIE INDEMNITY COMPANY TO DISMISS THE COMPLAINT
+Steven B. Feirson
+Michael L. Kichline
+DECHERT LLP
+Cira Centre
+2929 Arch Street
+Philadelphia, PA 19104-2808
+(215) 994-2489
+Counsel for Defendant Erie Indemnity
+Company
+
+Case 1:16-cv-00179-BR Document 34 Filed 09/23/16 Page 4 of 41
+
+TABLE OF CONTENTS
+INTRODUCTION ......................................................................................................................... 1
+FACTUAL BACKGROUND ....................................................................................................... 5
+I.
+
+RECIPROCAL INSURANCE EXCHANGES AND THE RELATIONSHIP
+BETWEEN INDEMNITY AND EXCHANGE. ............................................................... 5
+
+II.
+
+THE SUBSCRIBER’S AGREEMENT GOVERNS THE RELATIONSHIP
+BETWEEN INDEMNITY AND THE SUBSCRIBERS CONCERNING
+INSURANCE SERVICES. ................................................................................................ 8
+
+III.
+
+INDEMNITY’S RETENTION OF THE SERVICE CHARGES HAS BEEN
+CONTINUOUSLY AND OPENLY DISCLOSED FOR APPROXIMATELY
+TWENTY YEARS........................................................................................................... 10
+Policy Applications. ............................................................................................. 11
+Policyholder Notices. ........................................................................................... 11
+Indemnity’s SEC Disclosures. ............................................................................. 12
+Disclosures To The Pennsylvania Insurance Department. .................................. 13
+
+ARGUMENT ............................................................................................................................... 14
+I.
+
+PLAINTIFFS’ ALLEGATIONS ESTABLISH THAT ALL CLAIMS ARE
+BARRED BY THE STATUTES OF LIMITATION. ..................................................... 14
+A Court May Dismiss An Action On The Basis Of A Statute Of
+Limitation When The Defense Appears On The Face Of The Complaint. ......... 14
+Plaintiffs’ Own Allegations Establish That The Statutes Of Limitation
+Have Expired. ...................................................................................................... 14
+Plaintiffs Do Not Plead Any Basis For Avoiding The Statutes Of
+Limitation. ............................................................................................................ 17
+Plaintiffs’ Inexcusable Delay Of More Than Fifteen Years Provides A
+Textbook Example Of Why Statutes Of Limitation Exist And Must Be
+Enforced. .............................................................................................................. 20
+
+II.
+
+THE SPECIFIC COUNTS DIRECTED AT INDEMNITY ARE FATALLY
+FLAWED AND SHOULD BE DISMISSED ON NUMEROUS INDEPENDENT
+GROUNDS. ..................................................................................................................... 22
+Count I For Breach Of Contract Should Be Dismissed. ...................................... 22
+Counts II And IV For Breach Of Fiduciary Duty Should Be Dismissed............. 31
+Count III For Conversion Should Be Dismissed. ................................................ 33
+
+III.
+
+PLAINTIFFS LACK STANDING TO SUE ON BEHALF OF EXCHANGE. .............. 35
+
+CONCLUSION ............................................................................................................................ 35
+
+i
+
+Case 1:16-cv-00179-BR Document 34 Filed 09/23/16 Page 5 of 41
+
+INTRODUCTION
+In this action, three of the more than two million policyholders of Erie Insurance
+Exchange (“Exchange”) seek to challenge certain decisions made by Erie Indemnity Company
+(“Indemnity”) almost twenty years ago.
+Exchange is a “reciprocal insurance exchange”—a unique creature of Pennsylvania
+statute that provides the structure through which the more than two million policyholders or
+“subscribers” exchange insurance contracts among themselves. Exchange, a regulated “insurer”
+under Pennsylvania law, does not have (and is not required to have) its own governance or
+operational structure. Accordingly, Exchange does not have any directors, officers, or
+employees. Rather, each subscriber executes a Subscriber’s Agreement appointing Indemnity, a
+publicly-traded Pennsylvania corporation, to serve as his or her “attorney-in-fact” for the purpose
+of managing the exchange of insurance obligations among the subscribers. Together, Indemnity
+and Exchange operate as members of an “insurance holding company system” known as the Erie
+Insurance Group (“Erie”).
+Since the 1970s, Indemnity has offered payment plans allowing subscribers to pay their
+premiums on an installment basis (“Special Services”) in exchange for nominal charges paid
+with each installment (“Service Charges”). Historically, through the 1970s and into the 1990s,
+the number of policyholders electing to take advantage of the Special Services was relatively
+small, the cost to Indemnity of providing these services was not substantial, and Indemnity
+remitted the Service Charges to Exchange. By 1997, however, the popularity of the Special
+Services was exploding and Indemnity was incurring significant additional costs in, among other
+things, processing millions of additional installment payments. Offering the Special Services
+program had enabled Indemnity to both meet subscriber demand and simultaneously increase the
+premium base of Erie. Hence, Indemnity, in 1997, continued the Special Services program, but
+1
+
+Case 1:16-cv-00179-BR Document 34 Filed 09/23/16 Page 6 of 41
+
+began to retain a portion of the Service Charges to defray the expense of the program.
+Thereafter, in 1999, Indemnity began to retain all of the Service Charges as an offset to the stillgrowing expense of the Special Services program.
+Since the late 1990s, Indemnity’s practice of retaining these Service Charges year-afteryear has been: (a) openly and clearly communicated and disclosed to all Erie policyholders
+pursuant to documents and disclosures approved by the Pennsylvania Insurance Department (the
+“Department”); (b) specifically agreed to by the policyholders who have paid for and received
+the benefits of these Special Services, knowing that the Service Charges were going to
+Indemnity; (c) subjected to regular oversight and review by the Department, including an official
+examination in 2000 which focused squarely on the issue of Indemnity’s then-recent decision to
+retain the Service Charges; and (d) disclosed in Indemnity’s publicly-available SEC filings. At
+no time until the initiation of this complex litigation has Indemnity’s long-standing and openly
+disclosed practice been challenged in any fashion by any of the now more than two million Erie
+policyholders—or by the Department. To the contrary, this long-established practice,
+incorporated into Indemnity’s business model for almost two decades, has been acknowledged
+and accepted by all.
+Now—almost twenty years after Indemnity made these decisions—three individual
+policyholders purport to bring class action claims on behalf of all Erie policyholders and
+derivative claims on behalf of Exchange, claiming that Indemnity never should have made those
+1990s decisions to use the Service Charge revenue to help cover the costs of the Special Services
+program. Instead, according to the Complaint, that revenue should have been remitted to
+Exchange. In their Complaint, Plaintiffs allege that these decades-old business decisions
+constituted both a breach of the Subscriber’s Agreement and a breach of fiduciary duty, as well
+
+2
+
+Case 1:16-cv-00179-BR Document 34 Filed 09/23/16 Page 7 of 41
+
+as conversion. The Complaint is facially meritless and should be dismissed for numerous
+reasons.
+First, not surprisingly, given the obvious passage of time, all of the claims asserted in the
+Complaint are barred by the applicable statutes of limitation. According to Plaintiffs’ own
+allegations, the purported “breaches”—i.e., the decisions in 1997 and 1999—occurred more than
+fifteen years before Plaintiffs commenced suit. Thus, on the face of the Complaint, the four-year
+statute of limitation governing the contract claims and the two-year statute of limitation
+governing the tort claims expired more than a decade ago. Plaintiffs do not even attempt to plead
+a basis for avoiding the bar of these statutes of limitation. Hence, on the basis of the statutes of
+limitation alone, the entire Complaint should be dismissed with prejudice.
+Second, Count I for breach of contract and the implied covenant of good faith and fair
+dealing should be dismissed for failure to allege an actionable breach of the Subscriber’s
+Agreement:
+•
+
+The Special Services and associated Service Charges are not governed by
+the Subscriber’s Agreement. The Subscriber’s Agreement, which is entered
+into by all the subscribers, governs only those group insurance services that
+Indemnity is required to provide to manage the insurance-of-risk operations
+created by the subscribers’ exchange of insurance obligations. The
+Subscriber’s Agreement does not govern the provision of individual noninsurance-related services to a subset of subscribers who separately request
+and agree to pay for these distinct services.
+
+•
+
+The Special Services and the associated Service Charges at issue are
+governed by contracts that are separate from and outside of the
+Subscriber’s Agreement. Individual subscribers who request the Special
+Services, which are not related to the provision of insurance, agree to pay for
+those services pursuant to separate contract documents and disclosures that are
+independent of the Subscriber’s Agreement. Adherence to these contracts
+cannot be a breach of the Subscriber’s Agreement.
+
+•
+
+Even if Service Charges were considered to be “premium” payments for
+insurance services and thus within the ambit of the Subscriber’s
+Agreement, Indemnity alone is empowered to decide how to use those
+
+3
+
+Case 1:16-cv-00179-BR Document 34 Filed 09/23/16 Page 8 of 41
+
+premiums. The Subscriber’s Agreement does not require any set percentage
+of premium dollars be sent to Exchange. To the contrary, the Subscriber’s
+Agreement, on its face, states that Indemnity alone has been authorized by
+each subscriber to “decide” how premium dollars will be used to “to the
+advantage of” subscribers. In this instance, consistent with the Subscriber’s
+Agreement, Indemnity has exercised that discretion to create the noninsurance-related Special Services programs for the advantage of subscribers.
+Importantly, Plaintiffs have never alleged that the subscribers were
+disadvantaged by this program.
+(See infra at 22–31.) Thus, Plaintiffs have not pled an actionable claim for breach of contract.
+Third, Count II for breach of fiduciary duty allegedly owed to the subscribers and Count
+IV for breach of fiduciary duty allegedly owed to Exchange should be dismissed for failure to
+state a claim. These fiduciary duty claims are predicated solely on the alleged breach of the
+Subscriber’s Agreement. But, under Pennsylvania law, a breach of contract does not constitute a
+breach of fiduciary duty and, even if it did, Plaintiffs have failed to plead any such breach. Nor
+do Plaintiffs plead any duty that they believe is imposed on Indemnity above and beyond the
+contractual duties in the Subscriber’s Agreement. Finally, given the subscribers’ knowing
+agreement to pay these Service Charges, Indemnity’s open and repeated disclosure to the
+subscribers and the Department, and the Department’s approval of Indemnity’s retention of the
+Service Charges as fair and reasonable, it is impossible to sustain any breach of fiduciary duty.
+Accordingly, Counts II and IV should be dismissed.
+Finally, Count III for “conversion” of the Service Charges should be dismissed for
+failure to state a claim. Plaintiffs contend that “Indemnity took the [Service Charges] from the
+accounts of the Exchange without the consent of Exchange and Plaintiffs.” (Compl. ¶ 134.)
+First, as a matter of law, there can be no tort liability for conversion where, as here, the asserted
+claims sound in contract. Second, the notion that Indemnity retained the Service Charges
+“without . . . consent” is demonstrably false—every subscriber who elected to receive the Special
+
+4
+
+Case 1:16-cv-00179-BR Document 34 Filed 09/23/16 Page 9 of 41
+
+Services did so pursuant to documents (approved by the Department) that clearly state that the
+“service charge is applied and paid to Erie Indemnity.” Beyond this, the practice has been
+widely and publicly disclosed to all policyholders and the Department for more than fifteen
+years, which plainly establishes consent. Accordingly, Count III should be dismissed.
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+Plaintiffs’ attempt to travel back in time and challenge conduct that occurred some
+twenty years ago should be rejected. All of these claims are time-barred and, in any event, are
+meritless on their face.
+FACTUAL BACKGROUND1
+I.
+
+RECIPROCAL INSURANCE EXCHANGES AND THE RELATIONSHIP
+BETWEEN INDEMNITY AND EXCHANGE.
+Exchange is a reciprocal insurance exchange organized pursuant to 40 P.S. §§ 961–71.2
+
+Reciprocal insurance is “[a] system of insurance whereby several individuals, partnerships and
+
+1
+
+The facts set forth in this Factual Background are taken from the allegations of the
+Complaint. In addition, relevant facts are contained in a Joint Statement of Undisputed
+Facts Plaintiffs entered into with Indemnity during the administrative proceeding in the
+Pennsylvania Insurance Department, which occurred pursuant to this Court’s referral of
+the first Complaint filed in this action on the grounds of primary jurisdiction. (See Ex. 2
+[Joint Statement of Undisputed Facts, Erie Ins. Exch. v. Erie Indem. Co., No. MS14-03003 (Pa. Ins. Comm’r Sept. 3, 2014)].) See generally Erie Ins. Exch. v. Stover, No. 13-37
+Erie, 2014 WL 546707 (W.D. Pa. Feb. 10, 2014). Although the Commonwealth Court of
+Pennsylvania subsequently vacated the Department’s opinion and order on nonsubstantive, jurisdictional grounds, see Erie Ins. Exch. v. Erie Indem. Co., 133 A.3d 102
+(Pa. Commw. Ct. 2016), the Joint Statement of Undisputed Facts remains binding on
+Plaintiffs and this Court may consider the stipulation in connection with this motion.
+Germinaro v. Fid. Nat. Title Ins. Co., 107 F. Supp. 3d 439, 449 (W.D. Pa. 2015) (“Courts
+in this circuit have recognized the propriety of considering public records such as court
+filings in connection with a Rule 12(b) or 12(c) motion.”); Golden v. Cook, 293 F. Supp.
+2d 546, 551 (W.D. Pa. 2003) (similar).
+
+2
+
+Pennsylvania law provides that
+[i]ndividuals, partnerships, and corporations of this Commonwealth,
+hereby designated subscribers, are hereby authorized to exchange
+5
+
+Case 1:16-cv-00179-BR Document 34 Filed 09/23/16 Page 10 of 41
+
+corporations underwrite each other’s risks against loss by fire or other hazard, through an
+attorney-in-fact, common to all, under an agreement that each underwriter acts separately and
+severally and not jointly with any other.” Neel v. Crittenden, 44 A.2d 558, 561 (Pa. 1945)
+(emphasis omitted) (quoting Brennen, Inter-Insurance—Its Legal Aspects and Business
+Possibilities, 58 Cent. L. J. 323 (1904)).3
+The “Exchange” in the statute was originally conceived as the “place” where the various
+subscribers “exchange” contracts of insurance through a designated agent—i.e., through the
+“attorney-in-fact.” See Long v. Sakleson, 195 A. 416, 418–19 (Pa. 1937) (explaining that
+although the “fiction” of a “common name” is given to reciprocal insurance exchanges, “the
+name only designates the place of exchange, or denominates [sic] a res or fund”); accord
+Underwriters’ Exch. v. Ind. State Ry. Co., 185 N.E. 504, 506 (Ind. 1933) (reciprocal insurance
+
+reciprocal or inter-insurance contracts with each other, or with
+individuals, partnerships, and corporations of other States and
+countries, providing indemnity among themselves from any loss
+which may be insured against under any provision of the insurance
+laws excepting life insurance.
+40 P.S. § 961.
+3
+
+See also Commw. v. Exch. Operators, Inc., 11 Pa. D. & C. 465, 466 (Pa. Ct. Com. Pl.
+Dauphin Cnty. 1928) (“A reciprocal is not an insurance company, but may consist of
+individuals, partnerships and corporations of this Commonwealth who are authorized to
+exchange reciprocal or inter-insurance contracts with each other or with individuals,
+partnerships and corporations of other states and countries, providing indemnity among
+themselves from any loss which may be insured against under any provisions of the
+insurance laws . . . . Such contracts may be executed by an attorney, agent or other
+representative who is, in the insurance laws of Pennsylvania, designated ‘attorney,’ duly
+authorized and acting for such subscribers.”); Couch on Ins. § 1:31 (“Interindemnity or
+reciprocal insurance is a plan by which individuals, partnerships, or corporations engaged
+in a similar line of business undertake to indemnify each other against a certain kind of
+loss by means of an exchange of insurance contracts, usually through the medium of an
+attorney in fact appointed for that purpose. This form of insurance is an obvious
+departure from the familiar methods or systems of insurance . . . .”).
+
+6
+
+Case 1:16-cv-00179-BR Document 34 Filed 09/23/16 Page 11 of 41
+
+exchanges present “the anomalous situation of an unincorporated association selecting [a]
+name . . . which is said to be meaningless except that it designates the place where subscribers
+exchange insurance by the agency of an attorney in fact”). In contrast to a traditional insurance
+company or corporation, Exchange is not a traditional business “entity” and, accordingly, has no
+employees, no officers, and no board of directors. (See, e.g., Compl. ¶ 2.) The subscribers and
+Exchange act solely through an attorney-in-fact appointed by each of the subscribers. (See, e.g.,
+id.)
+Indemnity serves as the duly-appointed attorney-in-fact for all Erie subscribers.4 (See Ex.
+1 [Subscriber’s Agreement].) Each of the more than two million subscribers appoints Indemnity
+to act as attorney-in-fact on their behalf pursuant to a Subscriber’s Agreement, an identical
+contract executed by each Erie subscriber. (See id.; see also Compl. ¶ 2.) The individual
+subscribers and Exchange are, by design, without power to conduct any form of “insurance
+business.” Rather, Indemnity, as attorney-in-fact, is appointed by the subscribers pursuant to the
+Subscriber’s Agreement to perform the specific insurance-related duties on behalf of the
+subscribers for a management fee. (See Ex. 1.) As a direct result of this statutory structure,
+Indemnity is the only representative that can act on behalf of the subscribers with respect to the
+business of the reciprocal exchange of insurance obligations.
+As explained by the Pennsylvania Supreme Court in Long v. Sakleson, in a reciprocal
+insurance exchange,
+[e]ach member who is a subscriber, by power of attorney, authorizes
+the attorney in fact to represent him individually in exchanging
+insurance with others, and to do every act that he could do in relation
+to suits or other proceedings. The subscriber contributes a premium,
+4
+
+See also 40 P.S. § 963 (providing that “[s]uch contracts [in an insurance exchange] may
+be executed by an attorney, agent, or other representative, herein designated attorney,
+duly authorized and acting for such subscribers”).
+
+7
+
+Case 1:16-cv-00179-BR Document 34 Filed 09/23/16 Page 12 of 41
+
+or membership fee, which is deposited by the attorney in fact for the
+association to meet expenses and obligations, with deduction of the
+attorney’s fee or compensation. . . . None of the subscribers deal
+directly with each other, but all exchanges are effectuated through
+the common representative, the attorney in fact. He is given broad
+power to select risks, pass upon claims, and, in general, do all things
+necessary to the conduct of the enterprise. For his service he is paid
+a fixed percentage of the contributions.
+195 A. 416, 418.
+By statute, Indemnity and Exchange are members of an “insurance holding company
+system” and, therefore, are subject to extensive regulation under the Insurance Holding
+Companies Act, 40 P.S. §§ 991.1401 et seq. (“IHCA”). In general, the IHCA regulates the
+“management of an insurer in an insurance holding company system” by establishing a
+comprehensive scheme for the Pennsylvania Insurance Department to police, review, and
+remedy potentially harmful transactions between entities within an insurance holding company
+system. See, e.g., id. § 991.1405. Specifically, the IHCA requires that all “intercompany
+transactions” between the members of an insurance holding company system be “fair and
+reasonable.” Id. § 991.1405(a)(1)(i).
+II.
+
+THE SUBSCRIBER’S AGREEMENT GOVERNS THE RELATIONSHIP
+BETWEEN INDEMNITY AND THE SUBSCRIBERS CONCERNING
+INSURANCE SERVICES.
+The Subscriber’s Agreement, on its face, makes clear the purpose and nature of the
+
+contractual relationship: that Agreement governs the subscribers’ exchange of insurance
+obligations and Indemnity’s management of the insurance obligations arising from that
+exchange.
+The Subscriber’s Agreement explicitly identifies the parties to the contract as limited to
+the subscribers and Indemnity. (See Ex. 1.) Exchange is neither designated as an independent
+entity nor as a party to the Agreement. Rather, Exchange is referred to as the place “at” which
+
+8
+
+Case 1:16-cv-00179-BR Document 34 Filed 09/23/16 Page 13 of 41
+
+the subscribers “exchange” insurance obligations with each other—i.e., the “Subscriber (‘you’ or
+‘your’) agrees with the other Subscribers at Erie Insurance Exchange (‘ERIE’) . . . and with their
+Attorney-in-Fact, the Erie Indemnity Company.” (Id.)
+The Subscriber’s Agreement governs the insurance of risk among the subscribers and the
+necessary insurance-related services provided by Indemnity to effectuate the subscribers’
+exchange of insurance policies:
+•
+
+Paragraph 1 describes the duties of the subscribers as being to “pay [their] policy
+premiums and to exchange with other ERIE Subscribers policies providing
+insurance for any insured loss as stated in those policies.” (Id.)
+
+•
+
+Paragraph 2 states that the “power of attorney [given to Indemnity] is limited to
+the purposes described in this Agreement”—i.e., to managing the reciprocal
+exchange of insurance policies among the subscribers and the payment of
+premiums for those policies. (Id.)
+
+•
+
+Paragraph 3, which deals with the compensation to which Indemnity will be
+entitled—i.e., “up to 25% of all premiums” (premiums being the payments for
+insurance)—then goes on to state that after compensation is paid from the
+“premiums” collected, the “rest of the premiums” will be used for a series of
+specified expenses dealing with the management of the reciprocal exchange of the
+subscribers’ insurance policies and such “other purposes we [i.e., Indemnity]
+decide are to the advantage of the Subscribers.” (Id.)
+
+•
+
+Paragraph 4 provides that: “You [i.e., the subscribers] agree that this Agreement,
+including [Indemnity’s] power of attorney, shall have application to all insurance
+policies for which you apply.” (Id.)
+
+Hence, by its own terms, the Subscriber’s Agreement applies only to the provision of insurance
+and insurance-related services.
+The Subscriber’s Agreement does not govern the provision of non-insurance-related
+services to some—but not all—subscribers who specifically request and agree to pay for such
+services. Specifically, the Special Services at issue here—i.e., the offering of installment
+payment plans, etc.—do not relate to the provision of insurance. They deal only, for example,
+with a sort of financing arrangement permitting subscribers to pay their premiums in installments
+
+9
+
+Case 1:16-cv-00179-BR Document 34 Filed 09/23/16 Page 14 of 41
+
+over time rather than all at once at the start of their policies. Moreover, the Service Charges paid
+for the Special Service are flat fees; and their amounts do not vary with the degree or nature of
+risk insured or the amount of premiums paid. Accordingly, Service Charges are not paid for any
+insurance-related service, but as “consideration for a benefit separate from the insurance.” In re
+Installment Fee Cases, 211 Cal. App. 4th 1395, 1407 (Cal. Ct. App. 2012); see also Nellis v.
+Farmers Ins. Co. of Az., 272 P.3d 143, 149 (N.M. Ct. App. 2011) (“[I]nstallment fees are not
+consideration for insurance and . . . such fees are not charged in connection with the procurement
+of insurance. Rather . . . the installment fees are associated with the privilege of paying a
+premium in installments and are not for the actual purchase of insurance itself.”); Cacamo v.
+Liberty Mut. Fire Ins. Co., 885 So. 2d 1248, 1256 (La. Ct. App. 2004) (because “[t]he
+installment fees paid by insureds choosing that option are not for the insurance or for the
+procurement of insurance . . . . the installment fees are not included in the definition of
+‘premium’” (emphasis omitted)).
+Whereas the Subscriber’s Agreement governs Indemnity’s provision of insurance
+services to all subscribers who pay “Premiums” to receive their insurance coverage, there are no
+words in the Subscriber’s Agreement that purport to govern Indemnity’s provision of noninsurance services on an individual basis to a subset of subscribers who individually request and
+agree to pay “Service Charges” for those Special Services.
+III.
+
+INDEMNITY’S RETENTION OF THE SERVICE CHARGES HAS BEEN
+CONTINUOUSLY AND OPENLY DISCLOSED FOR APPROXIMATELY
+TWENTY YEARS.
+Prior to 1997, Indemnity did not retain the Service Charges paid by Exchange
+
+policyholders, instead allowing the Service Charges to be retained by Exchange. However,
+beginning on September 1, 1997, Indemnity began to retain a portion of the Service Charges
+formerly retained by Exchange. (See Ex. 2 ¶ 83 [Joint Statement of Undisputed Facts, Erie Ins.
+10
+
+Case 1:16-cv-00179-BR Document 34 Filed 09/23/16 Page 15 of 41
+
+Exch. v. Erie Indem. Co., No. MS14-03-003 (Pa. Ins. Comm’r Sept. 3, 2014)].) Then, in 1999,
+Indemnity began retaining all of the Service Charge revenue associated with installment payment
+plans. (Id. ¶ 86.) Indemnity’s retention of this Service Charge revenue has been fully and
+openly disclosed.
+Policy Applications.
+Policyholders are required to select a payment plan on their application when they apply
+for insurance coverage. (Id. ¶ 201.) Even if a policyholder elects a payment plan not subject to
+Service Charges, the policyholder must select that option on the application. In 2000, policy
+applications began to include language, directly in the section used to elect a payment plan,
+stating that a “service charge is applied and paid to Erie Indemnity for the second and
+subsequent installments” on certain installment payment plans. (Id. ¶ 202 (emphasis added).)
+That language was included on all applications for personal and commercial lines of insurance
+by 2002. (See id.) All such applications are approved by the Department.5 Thus, every
+policyholder after 2002 received the disclosure that Service Charges would be paid to Indemnity.
+(See id.)
+Policyholder Notices.
+Indemnity also disclosed that it was retaining Service Charges in notices that were sent to
+policyholders in 2000. Policyholders receive Department-approved6 notices at least annually in
+
+5
+
+See 40 P.S. § 477b (making it unlawful to issue insurance “or use applications, riders, or
+endorsements, in connection therewith, until the forms of the same have been submitted
+to and approved by the Insurance Commissioner”); 31 Pa. Code § 89b.3(a) (requiring
+filing of “[p]olicies, contracts, endorsements, riders, applications and related forms” with
+Department). (See also Ex. 2 ¶ 200.)
+
+6
+
+Like insurance policy applications, these notices were required to have been filed with,
+reviewed, and approved by the Department. See 40 P.S. § 477b; 31 Pa. Code § 89b.3(a).
+
+11
+
+Case 1:16-cv-00179-BR Document 34 Filed 09/23/16 Page 16 of 41
+
+connection with policy renewals, as well as when changes are made to a policy. (See id. ¶ 207.)
+In 2000, all policyholders received a notice that clearly disclosed that “[t]he service charge
+applied and paid to Erie Indemnity Company for payment plans has increased from $2.00 to
+$3.00.” (Id. ¶¶ 209, 210 (emphasis added).) Another notice was sent in 2006 when Service
+Charges were increased again, stating unequivocally that “[t]he service charge applied and paid
+to Erie Indemnity Company” for certain payment plans would increase. (See id. ¶ 212
+(emphasis added).)
+Indemnity’s SEC Disclosures.
+Indemnity’s publicly available annual reports filed with the United States Securities and
+Exchange Commission also clearly and repeatedly disclosed Indemnity’s retention of revenue
+from Service Charges. (See id.¶ 190.) Indemnity’s SEC filings for 1997 clearly stated that
+Indemnity had begun to retain a portion of the Service Charges previously retained by Exchange:
+Beginning September 1, 1997 the Company was reimbursed by the
+Exchange for a portion of service charges collected by the
+property/casualty insurers of the Group from Policyholders as
+reimbursement for the costs incurred by the Company in providing
+extended payment terms on policies written by them.
+(Id. ¶ 85.) Indemnity’s annual report for 1999 disclosed that Indemnity “collects service charges
+from policyholders” and that “[t]hese charges are included in service agreement revenue.” (See
+id. ¶ 191.) From 1997 to the present, similar language was included in multiple places in the
+annual reports each year: both in the introduction to the annual report and in notes on either
+“Related Party Transactions” or “Significant Accounting Policies” in the attached audited
+financials. (See id. ¶¶ 192–194.)7
+
+7
+
+Beginning in 2007, contemporaneously with Indemnity’s regulatory filings seeking
+approval of what the Complaint calls “Additional Fees,” Indemnity’s annual reports
+disclosed Indemnity’s decision to introduce Additional Fees in 2008. (See Ex. 2 ¶ 196.)
+When Additional Fees were implemented in 2008, Indemnity’s annual report
+12
+
+Case 1:16-cv-00179-BR Document 34 Filed 09/23/16 Page 17 of 41
+
+Disclosures To The Pennsylvania Insurance Department.
+Exchange has also made repeated disclosures of its retention of Service Charges to the
+Department. For example, every year, Indemnity files an Annual Statement for Exchange with
+the Department. (Ex. 2 ¶ 148.) The Annual Statements, which are publicly available, provide
+detailed disclosures about the finances of Exchange, including specific entries for “Finance and
+Service Charges not Included in Premiums.” These entries, taken collectively, show that while
+Service Charges continued to be collected from Exchange policyholders after 1999, they were no
+longer being treated as income to Exchange. (Id. ¶¶ 149–53.)
+The Department also conducts statutory examinations of Exchange at least once every
+five years, focusing specifically, inter alia, on the handling and allocation of funds between
+Exchange and Indemnity. See 40 P.S. § 323.3. (See also Ex. 2 ¶¶ 159–86.) The Department’s
+examiners completed extensive reviews of Exchange for the five-year periods ending in 1995,
+2000, 2005, and 2010. (Id. ¶ 160.) The Reports of Examination for these periods plainly
+demonstrate that the Department was aware that Indemnity was retaining all of the Service
+Charges. In the Report of Examination for 1995, the Service Charges were recorded as going to
+Exchange in all five years subject to examination. (Id. ¶ 171.) The examiners performed that
+same analysis in 2000 and specifically considered Indemnity’s then-recent retention of the
+Service Charges. (Id. ¶ 174.) While the Department’s examiners reported that Exchange earned
+millions of dollars of revenue from “Finance and service charges not included in premiums” for
+1996, 1997, 1998, and 1999, the Department also specifically noted that Exchange no longer
+
+transparently disclosed that Indemnity was retaining the Additional Fees as revenue. (See
+id. ¶ 197.) Similar language has appeared in multiple places in every annual report filed
+by Indemnity since 2008. (See id. ¶¶ 198, 199.)
+
+13
+
+Case 1:16-cv-00179-BR Document 34 Filed 09/23/16 Page 18 of 41
+
+received such revenue. (Id.) Thus, the Department acknowledged and found no issue with
+Indemnity’s retention of the Service Charges. (Id. ¶¶ 182, 183.)
+ARGUMENT8
+I.
+
+PLAINTIFFS’ ALLEGATIONS ESTABLISH THAT ALL CLAIMS ARE
+BARRED BY THE STATUTES OF LIMITATION.
+A Court May Dismiss An Action On The Basis Of A Statute Of Limitation
+When The Defense Appears On The Face Of The Complaint.
+Where a plaintiff’s own allegations establish a statute of limitation defense, a complaint
+
+is subject to dismissal for failure to state a claim. See Jones v. Bock, 549 U.S. 199, 215 (2007)
+(“If the allegations . . . show that relief is barred by the applicable statute of limitations, the
+complaint is subject to dismissal for failure to state a claim.”); West Penn Allegheny Health Sys.,
+Inc. v. UPMC, 627 F.3d 85, 105 n.13 (3d Cir. 2010) (“[O]ur cases recognize that a defendant
+may raise a limitations defense in a motion to dismiss” and “to prevail . . . the plaintiff’s
+tardiness in bringing the action must be apparent from the face of the complaint.”); accord
+Robinson v. Johnson, 313 F.3d 128, 135 (3d Cir. 2002).9
+Plaintiffs’ Own Allegations Establish That The Statutes Of Limitation Have
+Expired.
+The Complaint challenges two specific actions as constituting a breach of the
+Subscriber’s Agreement: (1) the decision in 1997 by Indemnity to begin retaining a portion of
+the Service Charges; and (2) the decision in 1999 to begin retaining all of the Service Charges:
+
+8
+
+To survive a motion to dismiss under Rule 12(b)(6), a complaint must contain sufficient
+factual matter, accepted as true, to state a claim to relief that is not just possible but
+plausible on its face. Ashcroft v. Iqbal, 556 U.S. 662, 678 (2009).
+
+9
+
+This rule is followed universally across the Federal courts. See Wright & Miller, 5B Fed.
+Prac. & Proc. Civ. § 1357 (3d ed.) (citing cases).
+
+14
+
+Case 1:16-cv-00179-BR Document 34 Filed 09/23/16 Page 19 of 41
+
+(Compl. ¶¶ 72–74.)10
+The statute of limitation for breach of contract (Count I) is four years. See 42 Pa. C.S.
+§ 5525 (2013); Perelman v. Adams, 945 F. Supp. 2d 607, 614 (E.D. Pa. 2013), aff’d 545 F.
+App’x 142, 149 (3d Cir. 2013). The statute of limitation begins to run from the time of the
+breach. Romeo & Sons, Inc. v. P.C. Yezbak & Son, Inc., 652 A.2d 830, 832 (Pa. 1995).
+Plaintiffs allege in their Complaint that Indemnity breached the Subscriber Agreement in 1997
+and, again, in 1999. (Compl. ¶¶ 116–17 (“beginning in or around 1997 up through the present . .
+. Indemnity has retained substantial additional compensation . . . . [t]he taking of this additional
+compensation is a breach of the Subscriber’s Agreements”).) As a result, on the face of the
+
+10
+
+All of Plaintiffs’ allegations regarding the 2008 decision to impose the Additional Fees
+are similarly time-barred, since, as soon as Indemnity decided to impose the Additional
+Fees in March 2008, Indemnity sent to its policyholders a notice that it would begin
+collecting and retaining the Additional Fees. (See Ex. 2 ¶ 120.)
+
+15
+
+Case 1:16-cv-00179-BR Document 34 Filed 09/23/16 Page 20 of 41
+
+Complaint, the statute of limitation for the breach of contract claim has expired and Count I
+should be dismissed.
+Second, the statute of limitation for breach of fiduciary duty (Counts II and IV) is two
+years. See 42 Pa. C.S. § 5524(7); In re O.E.M./Erie, Inc., 405 B.R. 779, 784 (Bankr. W.D. Pa.
+2009); Langman v. Keystone Nazareth Bank & Trust Co., 502 F. App’x 220, 221 (3d Cir. 2012).
+The statute of limitation begins to run on a breach of fiduciary duty claim when the alleged
+fiduciary violates his duties. Weis-Buy Servs., Inc. v. Paglia, 411 F.3d 415, 422 (3d Cir. 2005);
+see also Stann v. Olander Prop. Mgmt. Co. Inc., No. 11-7865, 2015 WL 4505932, at *7 (E.D.
+Pa. Jul. 24, 2015) (“The limitations period begins to run when the alleged breach of duty
+occurs.”). According to Plaintiffs, Indemnity breached its alleged fiduciary duties in 1997 or
+1999 when it “deviated from 70 years of prior conduct” and “authorized, enabled, and/or
+otherwise permitted Indemnity to retain Service Charges and/or Additional Fees.” (Compl. ¶¶
+127, 129.) As a result, the statute of limitation on the breach of fiduciary duty claims has expired
+and Counts II and IV should be dismissed.
+Finally, the statute of limitation for conversion (Count III) is two years. See 42 Pa. C.S.
+§ 5524(3); Kingston Coal Co. v. Felton Min. Co., 690 A.2d 284, 288 (Pa. Super. Ct. 1997). The
+statute of limitation begins to run when the “the first significant event necessary to make the
+claim suable occurs.” In re River Entm’t Co., 467 B.R. 808, 815 (Bankr. W.D. Pa. 2012)
+(internal quotation marks omitted). According to Plaintiffs, the first significant event occurred in
+1997 when Indemnity first “took” the Service Charges. (Compl. ¶ 133.) And, even assuming
+Plaintiffs could stretch the first significant event to 1999, the statute of limitation for the
+conversion claim has expired and Count III should be dismissed.
+
+16
+
+Case 1:16-cv-00179-BR Document 34 Filed 09/23/16 Page 21 of 41
+
+Plaintiffs Do Not Plead Any Basis For Avoiding The Statutes Of Limitation.
+Not only do Plaintiffs attempt to bring claims that expired under the statutes—at best—
+fifteen years ago, but they also do not plead any basis for evading the statutes of limitation. Nor
+could they.
+1.
+
+Plaintiffs Do Not Plead The Discovery Rule.
+
+The discovery rule is a narrow exception to the well-established principle that “‘lack of
+knowledge, mistake or misunderstanding do not toll the running of the statute of limitations.’”
+Lang v. Continental Assurance Co., 54 F. App’x 72, 74 (3d Cir. 2002). It applies only “when a
+plaintiff, despite the exercise of due diligence, is unable to know of the existence of the injury
+and its cause.” Neff v. Unum Provident Corp., No. 14-6696, 2015 WL 5036390, at *3 (E.D. Pa.
+Aug. 19, 2015). Pennsylvania’s formulation of the discovery rule “places greater burden upon
+Pennsylvania plaintiffs vis-à-vis the discovery rule than most other jurisdictions.” Wilson v. El–
+Daief, 964 A.2d 354, 366 n.12 (Pa. 2009). Thus, a plaintiff attempting to apply the discovery
+rule bears the heavy burden of demonstrating that it applies. See Mest v. Cabot Corp., 449 F.3d
+502, 511 (3d Cir. 2006). That requires, among other things, demonstrating that that he or she
+exercised reasonable diligence in determining the existence and cause of the injury. Id.
+Here, the discovery rule cannot apply because, as set out above, Plaintiffs and other
+policyholders, the public at large, and the relevant regulator—the Department—were notified of
+Indemnity’s retention of Service Charges in numerous ways beginning in 1997–2002. (See
+supra 10–14.) Moreover, Pennsylvania courts have recognized that it is generally inappropriate
+to apply the discovery rule or any other kind of tolling to a breach of contract claim because a
+plaintiff has an obligation to monitor the defendant’s compliance with its contractual obligations.
+See Univ. Patents, Inc. v. Kligman, Nos. 89-3525, 90-0422, 1991 WL 64652, at *3 (E.D. Pa.
+Apr. 22, 1991) (“the discovery rule will rarely operate to toll the statute because the plaintiff has
+17
+
+Case 1:16-cv-00179-BR Document 34 Filed 09/23/16 Page 22 of 41
+
+an obligation to monitor the defendant’s compliance with its contractual obligations”); Levert v.
+Phila. Int’l Records, No. 04-1489, 2004 WL 2900703, at *1 (E.D. Pa. Dec. 12, 2004 (“the statute
+of limitations’ due diligence requirement imposes a heavy burden on a plaintiff seeking to toll
+the statute of limitations in a breach of contract action”).
+In this case, Plaintiffs had actual knowledge sufficient to bring a claim long before the
+statute expired. Yet, no claim was brought. The discovery rule, thus, is inapplicable.
+2.
+
+Plaintiffs Do Not Plead The Continuing Violation Doctrine.
+
+As the Third Circuit has recently explained, litigants frequently “overread” the continuing
+violation doctrine. Gould v. Borough, 615 F. App’x 112, 116 (3d Cir. 2015); Tearpock-Martini
+v. Borough of Shickshinny, 756 F.3d 232, 236 (3d Cir. 2014) (“The reach of this doctrine is
+understandably narrow.”). In order to invoke the doctrine, “a plaintiff must make an exacting
+showing.” Flood v. Nat’l Collegiate Athletic Ass’n, No. 15-890, 2015 WL 5785801, at *6 (M.D.
+Pa. Aug. 26, 2015) (emphasis added).
+That “exacting showing” must include that the alleged “continuing violation is
+occasioned by continual unlawful acts, not continual ill effects from the original violation.”
+Weis–Buy Servs., Inc., 411 F.3d at 423 (emphasis added) (internal quotation marks omitted).
+And, the fact that additional acts in furtherance of the decision in question may take place is
+insufficient to reset the statute of limitation clock, since “it is well settled that the continuing
+conduct of a defendant will not stop the ticking of the limitations.” Flood, No. 15-890, 2015 WL
+5785801, at *6.
+Courts have consistently affirmed that breaches of contract, even if they have lasting
+effects, do not constitute continuing violations. See, e.g., Yingling v. Unum Life Ins. Co. of Am.,
+959 F. Supp. 251, 259–60 (M.D. Pa. 1997) (insurance company’s failure to pay monthly
+disability benefits to an insured did not constitute a continuing breach of the insurance contract);
+18
+
+Case 1:16-cv-00179-BR Document 34 Filed 09/23/16 Page 23 of 41
+
+Casner v. AFSCME, 658 A.2d 865, 871 (Pa. Commw. Ct. 1995) (regular receipt of paycheck not
+a continuing breach of union contract; “[a]dopting th[at] rationale would effectively render the
+limitation period for any cause of action alleging loss of payment meaningless when the payment
+is received on a regular basis”); Pierre-Louis v. Commw., No. 48 MD 2010, 2012 WL 8655010,
+at *3 n.5 (Pa. Commw. Ct. Aug. 14, 2012) (monthly deductions do not constitute a continuing
+violation); Saxberg v. Pa. Dep’t of Corr. Ct. of Com. Pl. Lancaster Cnty., No. 85 MD 2011, 2015
+WL 7737000, at *4 (Pa. Commw. Ct. Dec. 1, 2015) (same; the “first deduction from his prison
+account constituted a discrete and independently actionable act, which triggered his obligation to
+assert his rights”); Steudtner v. Duane Reade, Inc., 629 F. App’x 389, 392 (3d Cir. 2015)
+(“Steudtner argues that his contract claims were timely by virtue of the ‘continuing violation’
+doctrine because Duane Reade continued refusing to promote him and pay him what he
+supposedly deserved up until his departure in 2006 (and to the present day, for that matter). But
+the mere fact that the repudiation of a contract has continuing effect does not trigger the
+continuing violation doctrine.”).
+Similarly, courts have acknowledged that breaches of fiduciary duties often have
+continuing effects; but, that does not change the fact that a claim for breach of fiduciary duty
+arises upon the first instance of breach. See, e.g., Adelman v. Neurology Consultants, 109 F.
+Supp. 2d 400, 403 (E.D. Pa. 2000) (“It is, of course, the nature of the type of violation here
+alleged that such violations . . . [have] effects that continue into the future, perhaps indefinitely.
+The fact that the damages continue to mount for as long as—but only as long as—the status quo
+is maintained, does not affect the time when the statute of limitations begins to run . . . .”
+(internal quotation marks omitted)); McChesney v. Pension Plan of Bethlehem Steel Corp., No.
+92-7457, 1994 WL 114773, at **12–13 (E.D. Pa. Mar. 29, 1994) (failure to remedy an initial
+
+19
+
+Case 1:16-cv-00179-BR Document 34 Filed 09/23/16 Page 24 of 41
+
+breach of fiduciary duty does not qualify as a continuing violation recommencing the limitation
+period).
+Here, Plaintiffs allege that the breach of contract and tort violations occurred in 1997 and
+1999 when the decisions at issue were made; and they refrain from pleading the continuing
+violation doctrine. In fact, what they allege seems to be directly at odds with that doctrine. They
+do not allege that new decisions were made, but rather that “[t]he Directors, each year since
+then” have “authorized and/or allowed” the continued “taking of all the Service Charges.”
+(Compl. ¶ 75.) This says nothing more than the Directors, by their failure to make a new
+decision undoing the decisions of 1997 and 1999, have permitted the alleged ill-effects of the
+original decisions to continue. Thus, even though Indemnity has continued to retain Service
+Charges pursuant to these long-past decisions, the continuing violation doctrine has no
+application.
+Plaintiffs’ Inexcusable Delay Of More Than Fifteen Years Provides A
+Textbook Example Of Why Statutes Of Limitation Exist And Must Be
+Enforced.
+Statutes of limitation exist—and are enforced—for good reasons. Indeed, Plaintiffs’
+egregious delay of more than fifteen years before asserting their purported claims in this case is a
+textbook example for why statutes of limitation exist and are strictly enforced. “Statutes of
+limitations are designed to insure fairness to defendants by preventing the revival of stale claims
+in which the defense is hampered by lost evidence, faded memories, and disappearing witnesses,
+and to avoid unfair surprise.” Johnson v. Ry. Express Agency, Inc., 421 U.S. 454, 473 (1975);
+see also Ins. Co. of N. Am. v. Carnahan, 284 A.2d 728, 729 (Pa. 1971); see also Nelson v. Cnty.
+of Allegheny, 860 F. Supp. 1080, 1082–83 (W.D. Pa. 1994) (“[L]imitations periods ensure that
+defendants are ‘protected against the prejudice of having to defend against stale claims, as well
+
+20
+
+Case 1:16-cv-00179-BR Document 34 Filed 09/23/16 Page 25 of 41
+
+as the notion that, at some point, claims should be laid to rest so that security and stability can be
+restored to human affairs.’” (internal citations, quotation marks, and alterations omitted)).
+Not surprisingly, Plaintiffs’ delay has caused exactly those problems in this case. For
+example, two key witnesses—Stephen A. Milne, who served as Indemnity’s CEO at the time the
+decision to retain the Service Charges was made, and Susan Hirt Hagen, who was a board
+member of Indemnity at all relevant times—have died. Cf. Alker v. Phila. Nat. Bank, 93 A.2d
+699, 704 (Pa. 1953). Moreover, many of the other key witnesses have left the company, making
+it even more difficult to locate records and documents that may be relevant to this action. And,
+memories have no doubt faded.
+Additionally, Indemnity has relied on its retention of the Service Charges as part of its
+established business for nearly twenty years. The Joint Statement of Undisputed Facts and the
+public record demonstrate more than fifteen years of open and unquestioned retention of the
+Service Charges by Indemnity before Plaintiffs filed suit. Indemnity’s retention has been
+presented to and accepted by policyholders, disclosed to the SEC in public filings, and regularly
+reviewed and accepted by the Department. (See Ex. 2 ¶¶ 148–227.) In reliance on that
+acceptance and the lack of any complaint or challenge from anyone, the retention of the Service
+Charges has become an established component of Indemnity’s business. It is far too late now to
+travel back in history.
+
+21
+
+Case 1:16-cv-00179-BR Document 34 Filed 09/23/16 Page 26 of 41
+
+II.
+
+THE SPECIFIC COUNTS DIRECTED AT INDEMNITY ARE FATALLY
+FLAWED AND SHOULD BE DISMISSED ON NUMEROUS INDEPENDENT
+GROUNDS.
+Count I For Breach Of Contract Should Be Dismissed.
+1.
+
+Plaintiffs Fail To Plead A Breach Of The Subscriber’s Agreement.
+
+Plaintiffs fail to plead a breach of the Subscriber’s Agreement11 because the Subscriber’s
+Agreement does not govern the Special Services and Service Charges at issue in the Complaint.
+Indeed, those Special Services and Service Charges are governed by contracts that are separate
+from the Subscriber’s Agreement.
+a.
+
+The Subscriber’s Agreement Governs Only Insurance Services
+And The Premiums That Are Paid For Those Services.
+
+The subscribers appoint Indemnity “as Attorney-in-Fact” to “manage and conduct the
+business and affairs of ERIE”—and “ERIE” is defined as the exchange of insurance obligations
+“with the other Subscribers at Erie Insurance Exchange.” (See Ex. 1.) Hence, the business that
+Indemnity manages under the Subscriber’s Agreement is the exchange of insurance contracts
+among subscribers indemnifying each other from covered losses. See 40 P.S. § 961; see also id.
+§ 963. Indemnity effectuates the exchange of insurance policies by, among other things, issuing
+the policies, administering the policies, collecting “premiums” (i.e., the payments made for the
+insurance) receiving notices and proofs of loss under the policies, and processing insurance
+claims. (See Ex. 1.) These group insurance services are necessary and integral to managing the
+exchange of insurance contracts for the benefit of all subscribers. The subscribers, in turn, agree
+to pay “policy premiums and to exchange with other ERIE Subscribers policies providing
+insurance for any insured loss as stated in those policies.” (Id.) They also agree that the
+
+11
+
+The Subscriber’s Agreement is the relevant contract at issue in Plaintiffs’ Complaint.
+(See Compl. ¶¶ 114–21; see also Ex. 1.)
+
+22
+
+Case 1:16-cv-00179-BR Document 34 Filed 09/23/16 Page 27 of 41
+
+Subscriber’s Agreement, “including . . . [Indemnity’s] power of attorney, shall have application
+to all insurance policies.” (Id.) Hence, from the face of the Subscriber’s Agreement it is evident
+that the Agreement deals with “insurance,” “premiums,” “policies,” and “notice and proofs of
+loss” pursuant to the issued policies, etc. (Id.) Thus, the Subscriber’s Agreement is a contract
+that deals only with services pertaining to the insurance of risk resulting from the subscribers’
+reciprocal exchange of insurance policies.
+The fact that the Subscriber’s Agreement governs only the provision-of-insurance
+services provided to all subscribers is further demonstrated by the fact that Indemnity’s
+compensation for managing those insurance services comes directly from the collective pot of
+payments made for the purchased insurance coverage—i.e., the “premiums” paid by all
+subscribers. Indemnity is entitled under the Subscriber’s Agreement to retain up “25% of all
+premiums.” (See id.) Thus, each subscriber contributes its proportionate 25% to fund
+Indemnity’s provision of insurance services to all of the subscribers.
+The plain language of the Subscriber’s Agreement thus governs only those group
+insurance services that (a) are required to manage the insurance-of-risk business for the benefit
+of all subscribers and (b) are paid for by all subscribers through their premium payments.
+b.
+
+The Subscriber’s Agreement Does Not Cover Non-Insurance
+Services Or The Service Charges That Are Paid For Those
+Services.
+
+Plaintiffs’ attempt to jam individual non-insurance services into the ambit of the
+Subscriber’s Agreement is wholly without merit. Whereas the Subscriber’s Agreement governs
+Indemnity’s provision of insurance services to all subscribers that are paid for by all subscribers
+through premiums, the Complaint challenges as a breach of the Subscriber’s Agreement
+Indemnity’s retention of the Service Charges for the provision of non-insurance services on an
+individual basis to a subset of subscribers who individually request those non-insurance services.
+23
+
+Case 1:16-cv-00179-BR Document 34 Filed 09/23/16 Page 28 of 41
+
+Hence, the breach of contract claim is predicated on a deliberately blurred distinction between
+the provision of non-insurance services paid for by “Service Charges”—which are not even
+mentioned in or contemplated by the Subscriber’s Agreement—with the provision of the
+insurance services described in Subscriber’s Agreement and paid for by “premiums.”
+However, the fundamental distinction between insurance services and premiums on the
+one hand and non-insurance services and charges on the other is clear and well-established.
+Charges are not paid as a result of any insurance-related service, but as “consideration for a
+benefit separate from the insurance.” In re Installment Fee Cases, 211 Cal. App. at 1407.
+Indeed, courts around the country have consistently recognized that, unlike premiums, the
+charges imposed when a subscriber elects to purchase non-insurance-related services (like the
+Special Services here) serve as “consideration for a benefit separate from . . . insurance.” E.g.,
+id.; see also Nellis, 272 P.3d at 149 (“[I]nstallment fees are not consideration for insurance and . .
+. such fees are not charged in connection with the procurement of insurance. Rather . . . the
+installment fees are associated with the privilege of paying a premium in installments and are not
+for the actual purchase of insurance itself.” (quoting Nakashima v. State Farm Mut. Auto. Ins.
+Co., 153 P.3d 664 (N.M. App. Ct. 2007))); Cacamo, 885 So. 2d at 1256 (because “[t]he
+installment fees paid by insureds choosing that option are not for the insurance or for the
+procurement of insurance . . . . the installment fees are not included in the definition of
+‘premium’” (emphasis omitted)).
+Furthermore, Plaintiffs have stipulated that this distinction between “premiums” and
+“charges” is recognized in insurance accounting practices. For instance, the National
+Association of Insurance Commissioners’ (“NAIC”) Accounting Practices and Procedures treat
+
+24
+
+Case 1:16-cv-00179-BR Document 34 Filed 09/23/16 Page 29 of 41
+
+insurance premiums (on the one hand) and non-insurance charges (on the other hand) as different
+animals. The Manual explains:
+The amount charged [for an installment fee] is primarily intended to
+compensate the insurer for the additional administrative costs
+associated with processing more frequent billings and has no
+relationship to the amount of insurance coverage provided, the
+period of coverage, or the lost investment income associated with
+receiving the premium over a period of time rather than in a lump
+sum.
+(Ex. 2 ¶ 158 (citing NAIC Accounting Practices and Procedures Manual, Statement of Statutory
+Accounting Principles No. 53, Property Casualty Contracts—Premiums, at 53-3n.1).) For this
+reason, Exchange’s Annual Statements, which are filed with the Department, explicitly separate
+the Service Charges—income related to the Special Services—from income derived from
+premiums. (See id. ¶¶ 145, 146.) And, the Department’s examiners apply the same distinction
+when reporting Exchange’s financial information in its Reports of Examination—Service
+Charges are treated as separate from premiums. (See id. ¶ 147.)
+c.
+
+The Insurance Department Concluded That There Was No
+Breach Here Because Service Charges Are Not Premiums And
+Therefore Are “Outside The Subscriber’s Agreement.”
+
+As discussed above, at the conclusion of the proceeding before the Department (which
+occurred at the request of this Court upon its referral of the initial complaint filed in this action,
+see supra note 1), the Insurance Commissioner ruled that Indemnity’s retention of the Service
+Charges does not breach the Subscriber’s Agreement. “Service charges are outside the
+subscriber’s agreement, and Indemnity did not breach that agreement by retaining some or all of
+the revenue from its services.” (See Ex. 3 at 78 [Declaratory Opinion and Order, Erie Ins. Exch.
+v. Erie Indem. Co., No. MS14-03-003 (Pa. Ins. Comm’r Apr. 29, 2015].)12 The Commissioner
+
+12
+
+As discussed above, upon this Court’s referral of the original Complaint in this action to
+the Department on the grounds of primary jurisdiction, see Erie Ins. Exch., No. 13-37
+25
+
+Case 1:16-cv-00179-BR Document 34 Filed 09/23/16 Page 30 of 41
+
+reached these conclusions because Service Charges are fundamentally different from
+“premiums” because they are not payments for insurance. (See id. at 21 (“Service Charges are
+not premiums which in simple terms are payments to indemnify the policyholders against risk of
+loss but rather are payments for a service financing the premium and which are unrelated to
+indemnification against loss.”); id. at 28 (“Added Service Charges are not premiums but rather
+are payments triggered by a policyholder’s actions which result in additional costs unrelated to
+the insurance coverage.”); id. at 51 (“The existence and amount of the service charges does not
+vary with either the nature or magnitude of the insured risk or the amount of premium on a given
+policy. Rather, the charge is a flat amount unrelated to the premium for the privilege of paying
+in installments.”); id. at 54 (“Similarly to the other service charges, the added service charges are
+assessed as a predetermined flat fee unrelated to the type of insurance or the amount of coverage.
+Nor does the existence and amount of these fees vary based upon the nature or magnitude of the
+insured risk or the amount of premium on a given policy. Added service charges are not
+
+Erie, 2014 WL 546707, an administrative proceeding was conducted before the
+Department, at the conclusion of which the Department found that “[t]he transactions
+between Indemnity and Exchange in which Indemnity retained or received revenue from
+installment and other service charges from Exchange subscribers complied with
+applicable insurance laws and regulations” and that “Indemnity properly retained charges
+paid by Exchange policyholders for certain installment premium payment plans,
+dishonored payments, policy cancellations and policy reinstatements.” (See Ex. 3 at 85.)
+Although vacated by the Pennsylvania Commonwealth Court on non-substantive,
+jurisdictional grounds, the Department’s Declaratory Opinion and Order remains
+persuasive authority for this Court. See Wooding v. United States, No. 05-1681, 2007
+WL 2071674, at *4 (W.D. Pa. Jul. 13, 2007) (finding a vacated opinion “nevertheless . . .
+persuasive”); accord NASD Dispute Resolution, Inc. v. Jud. Council of State of Cal., 488
+F.3d 1065, 1069 (9th Cir. 2007) (vacated district court opinion is “still . . . citable for its
+persuasive weight”); Nat’l Black Police Assn. v. Dist. of Columbia, 108 F.3d 346, 354
+(D.C. Cir. 1997) (“[S]ince the district court’s opinion will remain ‘on the books’ even if
+vacated, albeit without any preclusive effect, future courts will be able to consult its
+reasoning.”). Indeed, the Commonwealth Court’s decision is not binding on this Court
+and does not affect the credence this Court should give to the Department’s findings.
+
+26
+
+Case 1:16-cv-00179-BR Document 34 Filed 09/23/16 Page 31 of 41
+
+premiums but rather are payments triggered by a policyholder’s actions which result in
+additional costs unrelated to the insurance coverage.”).)
+2.
+
+Indemnity’s Provision Of Individual Non-Insurance Services Is
+Governed By Contracts Separate And Apart From The Subscriber’s
+Agreement.
+
+The subscribers who purchase the non-insurance services enter into separate contractual
+arrangements that govern the provision and the cost of those individual Special Services.
+Specifically, when subscribers fill out their policy applications, they are required to select a
+payment plan option. (See, e.g., Ex. 2 ¶ 201.) Some payment plans require that subscribers
+agree to pay Service Charges (a fact which is disclosed up front) and other payment plans do not.
+(See, e.g., id. ¶ 202.) If the subscriber selects a payment plan that incurs Service Charges, the
+subscriber agrees that those charges are “paid to Erie Indemnity.” (See, e.g., id. ¶¶ 202, 205.)
+Indemnity’s promise to provide the Special Services and the subscribers’ promise to pay Service
+Charges over to Indemnity in return constitute the essential terms of those individual contracts.
+The Department reviews and approves all of Exchange’s policy applications, language,
+and notices, each of which include the terms and conditions of the Special Services contracts.
+All insurance policy applications must be filed with, reviewed, and approved by the Department.
+See 40 P.S. § 477b (making it unlawful to issue insurance “or use applications, riders, or
+endorsements, in connection therewith, until the forms of the same have been submitted to and
+approved by the Insurance Commissioner”); 31 Pa. Code §89b.3(a) (requiring filing of
+“[p]olicies, contracts, endorsements, riders, applications and related forms” with Department).
+(See also Ex. 2 ¶ 200.) Since 2002, at the latest, each multi-page policy applications for new
+applicants for Erie lines of insurance specifically stated that, for certain payment plans, Service
+Charges were “applied and paid to Erie Indemnity.” (Id. ¶ 202.) Thus, through the course of its
+
+27
+
+Case 1:16-cv-00179-BR Document 34 Filed 09/23/16 Page 32 of 41
+
+normal regulatory review, the Department received the terms of, reviewed, and approved of the
+Special Services contracts and the subscribers’ payment of the Service Charges to Indemnity.
+These individually requested contracts deal with a subject separate and apart from the
+insurance-of-risk operations covered by the Subscriber’s Agreement. They represent a request—
+independent from any request for insurance—for special, non-insurance services (such as
+permitting subscribers to pay their premiums in installments). The subscribers who brought this
+case would have the Court believe that these contracts (which were all executed by people who
+also executed the Subscriber’s Agreement) mean nothing, even though each individual who
+executed these contracts did so after being advised that the Service Charges were to be paid to
+Indemnity. These contracts mean something. They mean the provision of Special Services and
+the Service Charges paid for those services are not covered by the Subscriber’s Agreement.13
+3.
+
+Even If Charges Are Viewed As Premiums And The Challenged
+Conduct Is Governed By The Subscriber’s Agreement, The
+Subscriber’s Agreement Vests Indemnity With The Authority To Use
+Premiums For Purposes “To The Advantage Of The Subscribers.”
+
+To the extent Plaintiffs seek to recast the Special Services program as services required
+by the Subscriber’s Agreement and recast the “Service Charges” as “premiums,” the Complaint
+
+13
+
+Moreover, even assuming arguendo that the Subscriber’s Agreement somehow applies to
+Indemnity’s retention of the Service Charges and provision of the Special Services, at a
+minimum, these separate, distinct contracts governing the Special Services constituted
+amendments of the Subscriber’s Agreement in all relevant respects. See Roddy Realty,
+Inc. v. Cadillac Real Estate Co., 41 Pa. D. & C. 2d 622, 627 (Pa. Ct. Com. Pl. Luzerne
+Cnty. 1966) (“A contract between the same parties containing a term inconsistent with a
+term of an earlier contract is interpreted as including an agreement to rescind the
+inconsistent term in the earlier contract.” (quoting Wathen v. Brown, 189 A.2d 900, 902
+(Pa. Super. 1963))); see also Bechtel Corp. v. Local 215, Laborers’ Int’l Union of N. Am.,
+AFL-CIO, 405 F. Supp. 370, 375 (M.D. Pa. 1975) (“When two parties or their privies
+make a new agreement that is inconsistent with terms of a previous one dealing with the
+same subject matter, the later agreement operates to rescind and to discharge by
+substitution the inconsistent parts of the earlier contract.”).
+
+28
+
+Case 1:16-cv-00179-BR Document 34 Filed 09/23/16 Page 33 of 41
+
+should still be dismissed. The Subscriber’s Agreement explicitly grants Indemnity the sole
+authority to use those premiums that are not taken as “compensation” for “purposes . . .
+[Indemnity] decide[s] are to the advantage of the Subscribers.” (See Ex. 1.) In particular, the
+Subscriber’s Agreement states that the “rest” of the premiums, after Indemnity takes its
+compensation, are to be used for, inter alia, “losses, . . . legal expenses, . . . taxes, . . . and may be
+used for dividends and other purposes we [i.e., Indemnity] decide are to the advantage of the
+Subscribers.” (Id. (emphasis added).) Here, Indemnity “decided” that the creation and
+operation of the Special Services program (and the imposition of Service Charges to defray the
+expense of that program) would be to the “advantage of the Subscribers.” The Complaint makes
+no attempt to even allege that Indemnity’s provision of the Special Services program is not to the
+advantage of the subscribers.14
+
+14
+
+Plaintiffs have also failed to plead a breach of the implied covenant of good faith and
+faith dealing. First, because Plaintiffs cannot plead a claim for breach of contract they
+necessarily cannot plead a claim for breach of any implied covenant of good faith or fair
+dealing. See Gessey, 135 F. Supp. 3d at 346; see also Hanaway v. Parkesburg Grp., LP,
+132 A.3d 461, 471 (Pa. Super. Ct. 2015) (“[A] breach of the covenant of good faith and
+fair dealing is a breach of contract action, not an independent action for breach of a duty
+of good faith. The implied covenant of good faith and fair dealing attaches to existing
+contractual obligations; it does not add new contractual duties.” (emphasis added)).
+Second, Plaintiffs do not—and cannot—plead facts demonstrating Indemnity acted in bad
+faith, since (a) Plaintiffs knowingly agreed to the pay the Service Charges to Indemnity;
+(b) the Special Services contracts were approved by the Department; (c) Indemnity’s
+retention of the Service Charges was clearly and repeatedly disclosed to all subscribers;
+(d) Indemnity’s retention was repeatedly disclosed to the Department; (e) Indemnity’s
+retention was repeatedly disclosed to the SEC; and (f) the Department regularly examined
+Indemnity and Exchange and specifically examined Indemnity’s retention of the Service
+Charges. See supra at 10–14. At all relevant times, Indemnity’s conduct has been
+performed in good faith—and Plaintiffs have stipulated to Indemnity’s honesty and
+transparency regarding its retention of Service Charges. (See Ex. 2 ¶¶ 148–227.)
+
+29
+
+Case 1:16-cv-00179-BR Document 34 Filed 09/23/16 Page 34 of 41
+
+4.
+
+Plaintiffs’ Contractual Injury Theory Is Fatally Flawed.
+
+The crux of the Complaint is that Indemnity allegedly breached the Subscriber’s
+Agreement by retaining the Service Charges and, thus, retained “compensation” in excess of the
+amount set by the Subscriber’s Agreement. In other words, Indemnity was obligated already to
+perform the Special Services in order to earn its premium-based compensation; and, thus, had no
+right to demand additional payments for providing the Special Services. Accepting this theory,
+then, what necessarily follows is (a) no Service Charges should have been imposed on
+subscribers who requested and received the benefit of those services because they were
+supposedly paying for those services through their premiums; and (b) the Service Charges
+consequently should be returned directly to those subscribers who paid them. But, Plaintiffs do
+not assert that claim, nor do they demand that the Service Charges be returned to the subscribers
+who paid them.
+Plaintiffs affirmatively allege that the Service Charges “belong” not to the subscribers
+who paid them but to Exchange. The Complaint charges that “Indemnity has unlawfully
+diverted hundreds of millions of dollars of revenue that belongs to Exchange.” (Compl. ¶ 67
+(emphasis added).) In support of this narrative, the Complaint contains several sections detailing
+that “Indemnity unlawfully [took] service charges belonging to Exchange”; that “Indemnity
+unlawfully [took] additional fees belonging to Exchange”; and “service charges and additional
+fees are substantial and belong to Exchange.” (Compl. ¶¶ 21–27 (emphasis added).) But, under
+Plaintiffs’ theory—that subscribers should not have had to pay for the Special Services—the
+Service Charges would belong to the subscribers, not Exchange.
+The damages that Plaintiffs claim are owed to Exchange cannot flow from the payment of
+Service Charges that Plaintiffs insist subscribers should not have to pay. Plaintiffs allege that
+“Indemnity has continued since 1999 to take for itself” the Service Charges “which otherwise
+30
+
+Case 1:16-cv-00179-BR Document 34 Filed 09/23/16 Page 35 of 41
+
+would have been retained by the Exchange for the ultimate benefit of all subscribers.” (Compl.
+¶ 76.) So, either (a) the subscribers should not have paid the Service Charges, and, hence, the
+subscribers are the ones who deserve the return of those monies; or (b) the subscribers should
+have paid the Service Charges for the Special Services because the Subscriber’s Agreement does
+not govern and thus does not preclude charging them for the Special Services. In neither event
+has Exchange suffered any injury.
+Counts II And IV For Breach Of Fiduciary Duty Should Be Dismissed.
+Plaintiffs allege in Count II that Indemnity breached a fiduciary duty to Plaintiffs; and, in
+Count IV, derivatively allege that Indemnity breached a fiduciary duty to Exchange. The breach
+of fiduciary duty claims fail for multiple independent reasons.
+First, the breach of fiduciary duty claims are based solely on Indemnity’s alleged breach
+of the Subscriber’s Agreement. (See, e.g., Compl. ¶ 129 (alleging that Indemnity “breached [its]
+fiduciary duties to Plaintiffs and the Class by authorizing, enabling and/or otherwise permitting
+Indemnity to retain the Service Charges and Additional Fees in addition to a percentage of
+premiums as prescribed in the Subscriber’s Agreement”).) Thus, the breach of fiduciary duty
+claims necessarily fail for the same reasons that the breach of contract claim fails. (See supra at
+22–31.) And, in any event, the breach of fiduciary duty claims’ reliance on Indemnity’s alleged
+breach of the Subscriber’s Agreement, without more, fails to state a cognizable claim. See
+Windsor Sec., Inc. v. Hartford Life Ins. Co., 986 F.2d 655, 644 (3d Cir. 1993) (“Breach of
+contract, without more, is not a tort.”); Kalumetals, Inc. v. Hitachi Magnetics Corp., 21 F. Supp.
+2d 510, 518 (W.D. Pa. 1998) (“[A] tort claim may be dismissed if it merely states the same cause
+of action that is put forth in a related contract claim.”).15
+15
+
+Hill v. Best Med. Int’l, Inc., No. 07-1709, 2011 WL 5082208, at *31 (W.D. Pa. Oct. 25,
+2011) (claim for breach of duty of loyalty barred because complaint identified only the
+31
+
+Case 1:16-cv-00179-BR Document 34 Filed 09/23/16 Page 36 of 41
+
+Second, to the extent Plaintiffs purport to rely on fiduciary duties beyond the mere
+contractual duties imposed by the Subscriber’s Agreement, they do not plead what those precise
+duties are in this context. For example, it is not clear whether Plaintiffs are contending that
+Indemnity breached a duty of care, a duty of loyalty, or a duty of disclosure. What is more, the
+Complaint contains absolutely no factual allegations to support the supposed breach of any such
+duty (other than the Complaint’s allegations regarding Indemnity purported breach of contractual
+duties). Plaintiffs plead neither the particular fiduciary duty they believe applies here, nor the
+facts that would plausibly demonstrate a breach.
+Finally, given the facts to which Plaintiffs have stipulated, it is impossible to imagine a
+plausible breach of fiduciary duty arising from Indemnity’s retention of the Service Charges,
+because (a) Plaintiffs knowingly agreed to the pay the Service Charges to Indemnity; (b) the
+Special Services contracts were approved by the Department; (c) Indemnity’s retention of the
+Service Charges was clearly and repeatedly disclosed to all subscribers; (d) Indemnity’s retention
+was repeatedly disclosed to the Department; (e) Indemnity’s retention of the Service Charges
+was repeatedly disclosed to the SEC; (f) the Department regularly examined Indemnity and
+Exchange and specifically examined Indemnity’s retention of the Service Charges; and (g) other
+
+“breach of the confidentiality provisions of the [parties’] employment agreement”); AMG
+Nat’l Trust Bank v. Ries, No. 06-4337, 2011 WL 6840586, at *5 (E.D. Pa. Dec. 29, 2011)
+(holding that claim for breach of fiduciary duty was barred because only example of
+misconduct was behavior forbidden by employment contract, the damages were
+“inextricably intertwined” with the damages alleged from the employee’s breach of
+contract, and the plaintiff “fail[ed] to identify any duty owed by [defendant] that is not
+grounded in his contractual obligations”); Belmont Holdings Corp. v. Unicare Life &
+Health Ins. Co., No. 98-2365, 1999 WL 124389, at *4 (E.D. Pa. Feb. 5, 1999)
+(“Accordingly, to the extent the relief requested in Belmont's Complaint is based on
+Unicare’s failure to act in good faith under the insurance contract, the court will dismiss
+the breach of fiduciary duty claim as redundant of Belmont’s claim for breach of
+contract.”).
+
+32
+
+Case 1:16-cv-00179-BR Document 34 Filed 09/23/16 Page 37 of 41
+
+insurers in the industry impose similar charges on similar services in similar amounts.16 See
+supra at 10–14. Moreover, the Department has specifically concluded that Indemnity’s retention
+of the charges is “fair and reasonable” and complied with all applicable insurance laws and
+regulations. See supra at 25–27 & n.12. (See also Ex. 3 at 85.)
+Count III For Conversion Should Be Dismissed.
+In Pennsylvania, “conversion constitutes ‘the deprivation of another’s right of property
+in, or use or possession of, a chattel, or other interference therewith, without the owner’s consent
+and without lawful justification.” Andrichyn v. TD Bank, N.A., 93 F. Supp. 3d 375, 389 (E.D.
+Pa. 2015); see also Schulze v. Legg Mason Wood Walker, Inc., 865 F. Supp. 277, 284 (W.D. Pa.
+1994) (“That a defendant acted without lawful justification is an element of a prima facie case of
+conversion, on which a plaintiff bears the burden of proof; it is not an affirmative defense.”).
+The conversion claim is barred by the gist of the action and economic loss doctrines.
+Under the gist of the action doctrine, where “the duty allegedly breached is one created by the
+parties in their contract, that is to say, from a specific promise to do something that a party would
+not ordinarily have been obligated to do but for the existence of the contract, then the claim, no
+matter how styled, is one for a breach of contract.” Executive Wings, Inc. v. Dolby, 131 F. Supp.
+3d 404, 415 (W.D. Pa. 2015) (citing Bruno v. Erie Ins. Co., 160 A.3d 48, 68 (Pa. 2014));
+ClubCom, Inc. v. Captive Media, Inc., No. 07-1462, 2009 WL 249446, at *9 (W.D. Pa. Jan. 31,
+2009) (“The gist of the action doctrine bars tort claims which arise solely from a contract
+between the parties.” (citing cases)). Similarly, the economic loss doctrine bars plaintiffs “from
+recovering in tort economic losses to which their entitlement flows only from a contract.”
+
+16
+
+(See Ex. 2 ¶¶ 135–37.)
+
+33
+
+Case 1:16-cv-00179-BR Document 34 Filed 09/23/16 Page 38 of 41
+
+Bohler-Uddeholm Am., Inc. v. Ellwood Group, Inc., 247 F.3d 79, 104 (3d Cir. 2001); Executive
+Wings, Inc., 131 F. Supp. 3d at 417 (same).
+Here, Plaintiffs’ claims “sound solely in contract” and are barred by both the gist of the
+action and economic loss doctrines. See Executive Wings, Inc., 131 F. Supp. 3d at 417. The
+conversion claim is entirely dependent upon Plaintiffs’ breach of contract claim. Specifically,
+the allegations that Indemnity took the Service Charges “without legal justification” cannot be
+separated from their contract claims. The alleged absence of legal justification is based on
+nothing else other than the claim that Indemnity’s retention of the Service Charges constituted
+“additional compensation” and, therefore, breached the Subscriber’s Agreement. (See
+Compl. ¶¶ 132–35.) Thus, because Plaintiffs’ claim for recovery on their conversion claim
+“arise[s] solely from a contract” and its “economic loss . . . flows only from a contract,” Count
+III is barred by both the gist of the action and economic loss doctrines. See Executive Wings,
+Inc., 131 F. Supp. 3d at 417; ClubCom, Inc, No. 07-1462, 2009 WL 249446, at *9; see also
+Freedom Med., Inc. v. Royal Bank of Canada, No. 04-5626, 2005 WL 3597709, at *9 (E.D. Pa.
+Dec. 30, 2005) (conversion claim predicated upon claim that “Plaintiff actually paid a sum of
+money and then concluded it was not required to do so under the contract” was barred by gist of
+the action doctrine).17
+
+17
+
+What is more, Plaintiffs’ claim for conversion fails since the Service Charges were paid
+willingly to Indemnity by those subscribers who elected to purchase the Special Services
+and agreed to pay Indemnity the Service Charges in return. See supra at 27–28. See
+Andrichyn v. TD Bank, N.A., 93 F. Supp. 3d 375, 389 (E.D. Pa. 2015) (“Fatal here is the
+requirement in both states that the alleged conversion be ‘unauthorized’ or ‘without the
+owner's consent.’ As we have already discussed, the Account Agreement provided TD
+with the right to assess these fees. When Plaintiffs signed the contract, they consented to
+this assessment. Accordingly, they cannot state a plausible claim for conversion.”); Al
+Makaaseb Gen. Trading Co. v. U.S. Steel Int’l, Inc., 412 F. Supp. 2d 485, 501 (W.D. Pa.
+2006) (dismissing conversion claim because defendant had “legal justification” for
+interference with plaintiff’s property right); Pioneer Comm. Funding Corp. v. Am. Fin.
+34
+
+Case 1:16-cv-00179-BR Document 34 Filed 09/23/16 Page 39 of 41
+
+III.
+
+PLAINTIFFS LACK STANDING TO SUE ON BEHALF OF EXCHANGE.
+In addition to suing for themselves, Plaintiffs also seek to sue on behalf of Exchange.
+
+Counts III and IV purport to assert claims against Indemnity derivatively on behalf of Exchange.
+Under Pennsylvania law, however, individual subscribers lacks standing to sue on behalf of a
+reciprocal insurance exchange. The derivative claims in the Complaint must therefore be
+dismissed. The motion to dismiss to be filed on behalf of the independent directors of Indemnity
+addresses this issue at greater length and, to avoid duplication, Indemnity incorporates that
+discussion and argument by reference here.18
+CONCLUSION
+For the foregoing reasons, Indemnity respectfully requests that this action be dismissed
+with prejudice. In accordance with Section 2(c) of this Court’s standing procedures, the
+undersigned hereby certify that they have met and conferred with counsel for Plaintiffs and have
+made a meaningful effort to reach an agreement regarding this Motion to Dismiss.
+
+Mortg. Corp., 855 A.2d 818, 827 (Pa. 2004) (“[A] claim of conversion cannot be
+sustained in the face of lawful justification on the part of the asserted tortfeasor.”).
+18
+
+Indemnity also incorporates by reference the discussion and arguments to be advanced by
+all other defendants to the extent they pertain to Indemnity or require dismissal of
+Plaintiffs’ claims asserted against Indemnity.
+
+35
+
+Case 1:16-cv-00179-BR Document 34 Filed 09/23/16 Page 40 of 41
+
+Dated: September 23, 2016
+
+Respectfully submitted,
+
+/s/ Steven B. Feirson
+Steven B. Feirson (Pa. 21357)
+Michael L. Kichline (Pa. 62293)
+DECHERT LLP
+Cira Centre
+2929 Arch Street
+Philadelphia, PA 19104-2808
+(215) 994-4000
+Counsel for Defendant Erie Indemnity
+Company
+
+36
+
+Case 1:16-cv-00179-BR Document 34 Filed 09/23/16 Page 41 of 41
+
+CERTIFICATE OF SERVICE
+I hereby certify that on this 23rd day of September, 2016, I caused a true and correct copy
+of the foregoing document to be served via the Court’s CM/ECF system on to all counsel of
+record.
+
+Dated: September 23, 2016
+
+/s/ Steven Feirson
+Steven B. Feirson
+steven.feirson@dechert.com
+Dechert LLP
+Cira Center
+2929 Arch Street
+Philadelphia, PA 19104
+Tel: (215) 994-4000
+Fax: (215) 994-2222
+Attorney for Defendant Erie Indemnity
+Company
+
+

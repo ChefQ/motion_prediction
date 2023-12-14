@@ -1,0 +1,806 @@
+Case 6:16-cv-01133-RWS-KNM Document 13 Filed 11/11/16 Page 1 of 22 PageID #: 89
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE EASTERN DISTRICT OF TEXAS
+TYLER DIVISION
+
+MACROPOINT, LLC,
+Plaintiff,
+v.
+RUIZ FOOD PRODUCTS, INC.,
+Defendant.
+
+)
+)
+)
+)
+)
+)
+)
+)
+)
+
+Civil Action No: 6:16-cv-1133-RWS-KNM
+
+RUIZ FOOD PRODUCTS INC.’S MOTION TO TRANSFER OR, IN THE
+ALTERNATIVE, STAY PENDING RELATED LITIGATION1
+
+1
+
+This motion is filed subject to, and without waiving, Ruiz Food Products, Inc.’s Motion to Dismiss for Insufficient
+Service of Process. [Dkt. 10].
+
+Case 6:16-cv-01133-RWS-KNM Document 13 Filed 11/11/16 Page 2 of 22 PageID #: 90
+
+TABLE OF CONTENTS
+I.
+
+INTRODUCTION .................................................................................................. 1
+
+II.
+
+FACTUAL BACKGROUND ................................................................................. 2
+A.
+
+This Case Is In Its Infancy. ..................................................................................... 2
+
+B.
+
+The Parties Have Negligible Connections to Texas. .............................................. 2
+1.
+
+MacroPoint is an Ohio company. .................................................................... 2
+
+2.
+
+Ruiz Foods is a California company. ............................................................... 3
+
+3.
+
+FourKites is an Illinois Company. ................................................................... 4
+
+C.
+
+MacroPoint First Chose Its Home Forum—Ohio—To Pursue Its Patent
+Claims Against FourKite’s Technology. ................................................................ 4
+
+D.
+
+MacroPoint Was Unsuccessful, and Its Patents Were Invalidated by the
+Ohio Court. ............................................................................................................. 5
+
+E.
+
+The FourKites-MacroPoint Dispute Regarding the ‘659 and ‘358 Patents
+is Now Also Pending in Ohio. ................................................................................ 5
+
+III.
+
+LEGAL STANDARD............................................................................................. 6
+A.
+
+Transfers under Section 1404(a). ............................................................................ 6
+
+B.
+
+Stays of Litigation and the Customer-Suit Exception............................................. 6
+
+IV.
+
+ARGUMENT .......................................................................................................... 7
+A.
+
+The Court Should Transfer This Case to the Northern District of Ohio. ................ 7
+1.
+
+MacroPoint Could Have Sued Ruiz Foods in Ohio. ........................................ 7
+
+2.
+
+The Public & Private Factors Strongly Favor Transfer. .................................. 8
+a.
+
+Judicial Economy and the Risk of Inconsistent
+Adjudication Weigh Overwhelmingly in Favor of Transfer........... 8
+
+b.
+
+Access to Sources of Proof Favors Transfer. .................................. 9
+
+c.
+
+Transfer Would Increase the Availability of Compulsory
+Process to Secure the Attendance of Witnesses. ........................... 10
+
+d.
+
+Northern District of Ohio is More Convenient for Most
+Witnesses. ..................................................................................... 11
+
+i
+
+Case 6:16-cv-01133-RWS-KNM Document 13 Filed 11/11/16 Page 3 of 22 PageID #: 91
+
+B.
+
+V.
+
+e.
+
+The Northern District of Ohio Has a Significant Local
+Interest in the Resolution of this Case. ......................................... 12
+
+f.
+
+The Remaining Factors Are Neutral. ............................................ 13
+
+Alternatively, This Case Should Be Stayed. ......................................................... 13
+1.
+
+This Is a Classic Customer-Suit Situation. .................................................... 14
+
+2.
+
+A Discretionary Stay is Also Appropriate. .................................................... 14
+
+CONCLUSION ..................................................................................................... 15
+
+ii
+
+Case 6:16-cv-01133-RWS-KNM Document 13 Filed 11/11/16 Page 4 of 22 PageID #: 92
+
+TABLE OF AUTHORITIES
+Cases
+
+Page(s)
+
+In re Acer Am. Corp.,
+626 F.3d 1252 (Fed. Cir. 2010)................................................................................................10
+ColorQuick, L.L.C. v. Vistaprint Ltd.,
+No. 6:09-CV-323, 2010 WL 5136050 (E.D. Tex. July 22, 2010) .............................................8
+ComCam Int’l, Inc. v. Mobotix Corp.,
+No. 2:13-CV-798, 2014 WL 4229711 (E.D. Tex. Aug. 26, 2014) ............................................8
+FourKites, Inc. v. MacroPoint, LLC,
+Case No. 15-cv-2703 (N.D. Ohio) ...........................................................................................15
+In re Genentech, Inc.,
+566 F.3d 1338 (Fed. Cir. 2009)......................................................................................9, 11, 13
+In re Google Inc.,
+588 Fed. App’x 988 (Fed. Cir. 2014).......................................................................................14
+In re Hoffmann-La Roche Inc.,
+587 F.3d 1333 (Fed. Cir. 2009)..........................................................................................10, 13
+Humble Oil & Ref. Co. v. Bell Marine Serv., Inc.,
+321 F.2d 53 (5th Cir. 1963) .......................................................................................................6
+Invitrogen Corp. v. Gen. Elec. Co.,
+No. 6:08-CV-112, 2009 WL 331891 (E.D. Tex. Feb. 9, 2009) .................................................8
+Katz v. Lear Siegler, Inc.,
+909 F.2d 1459 (Fed. Cir. 1990)..................................................................................................7
+Kinetic Concepts, Inc. v. Medela AG,
+No. 2:07-CV-187, 2008 WL 112120 (E.D. Tex. Jan. 9, 2008)..................................................9
+Landis v. N. Am. Co.,
+299 U.S. 248 (1936) ...................................................................................................................6
+MacroPoint, LLC v. FourKites, Inc.,
+Case No. 16-1286 (Fed. Cir.) ...................................................................................................15
+Nidec Motor Corp. v. Broad Ocean Motor LLC,
+No. 2:15-CV-443, 2016 WL 776986 (E.D. Tex. Feb. 29, 2016) .............................................11
+In re Nintendo of Am., Inc.,
+756 F.3d 1363 (Fed. Cir. 2014)............................................................................................7, 14
+
+iii
+
+Case 6:16-cv-01133-RWS-KNM Document 13 Filed 11/11/16 Page 5 of 22 PageID #: 93
+
+NovelPoint Learning LLC v. LeapFrog Enterprises, Inc.,
+6:10-CV-229, 2010 WL 5068146 (E.D. Tex. Dec. 6, 2010) ...................................................11
+Phoenix Licensing, L.L.C. v. Gen. Motors, LLC,
+No. 2:13-CV-1093, 2015 WL 1431906 (E.D. Tex. Mar. 30, 2015) ........................................10
+Promote Innovation LLC v. Leviton Mfg. Co.,
+No. 2:10-CV-235, 2011 WL 672663 (E.D. Tex. Feb. 17, 2011) .............................................13
+Software Rights Archive, LLC v. Google, Inc.,
+2:07-CV-511-CE, 2010 WL 2950351 (E.D. Tex. July 22, 2010) ..............................................8
+Soverain Software LLC v. Amazon.com, Inc.,
+356 F. Supp. 2d 660 (E.D. Tex. 2005) .......................................................................................7
+Van Dusen v. Barrack,
+376 U.S. 612 (1964) ...............................................................................................................6, 8
+In re Vicor Corp.,
+493 Fed. App’x 59 (Fed. Cir. 2012)...........................................................................................8
+In re Volkswagen AG,
+371 F.3d 201 (5th Cir. 2004) ...............................................................................................6, 12
+In re Volkswagen of America, Inc.,
+545 F.3d 304 (5th Cir. 2004) .....................................................................................................6
+Wi-LAN Inc. v. Apple, Inc.,
+Case No. 6:11-cv-453, Dkt. # 225, slip op. (E.D. Tex. Sept. 14, 2012) ....................................9
+Statutes
+28 U.S.C. § 1404(a) .....................................................................................................................6, 8
+
+iv
+
+Case 6:16-cv-01133-RWS-KNM Document 13 Filed 11/11/16 Page 6 of 22 PageID #: 94
+
+TABLE OF ABBREVIATIONS
+Abbreviation
+MacroPoint
+FourKites, Inc.
+
+Meaning
+Plaintiff MacroPoint, LLC
+Non-Party FourKites, Inc. (technology supplier)
+
+Ruiz Foods
+
+Defendant Ruiz Food Products, Inc. (technology customer)
+
+Ohio Court
+
+United States District Court for the Northern District of Ohio
+
+the ’659 patent
+
+United States Patent No. 9,429,659
+
+the ’358 patent
+
+United States Patent No. 8,275,358
+
+the patents-in-suit
+
+Collectively, the ’659 and the ’358 patent
+
+v
+
+Case 6:16-cv-01133-RWS-KNM Document 13 Filed 11/11/16 Page 7 of 22 PageID #: 95
+
+I.
+
+INTRODUCTION
+This is a case of forum shopping and gamesmanship. MacroPoint is an Ohio company.
+
+Last year, it sued non-party FourKites in the Northern District of Ohio for infringement of five
+related patents.2 MacroPoint lost. The Ohio Court found MacroPoint’s patents invalid under 35
+U.S.C. § 101 and dismissed its complaint against FourKites.3
+Now, MacroPoint has sued Ruiz Foods—a customer of FourKites—for infringement of
+two substantially related patents. The first, the ’659 patent, belongs to the same patent family and
+is substantively the same as the patents already invalidated by the Ohio Court. The second, the
+’358 patent, belongs to a different patent family, but nevertheless relates to the same subject
+matter and technology as the patents that the Ohio Court already addressed and invalidated. Both
+of these patents are also at issue in the Ohio Court in a case FourKites recently filed.
+This case belongs in the Northern District of Ohio. Ohio is MacroPoint’s home—and it
+first chose that home court to sue FourKites for alleged infringement of patents that were, to its
+undoubted disappointment, invalidated there. While understandable that it may want to try a new
+jurisdiction to address its patents a second time, the fact remains that Ohio is the location of all
+the evidence related to the conception and reduction to practice of the alleged invention of the
+patents-in-suit. In addition to MacroPoint itself, its primary legal counsel, the inventor of these
+patents, and the prosecuting attorneys all reside in Ohio. Most importantly, the Ohio Court is
+already intimately familiar with MacroPoint and the subject matter of the patents-in-suit, and the
+Ohio Court will be adjudicating the issues of validity and infringement in the suit between
+FourKites and MacroPoint related to the FourKites technology at issue. Ruiz Foods is
+
+2
+
+United States Patent Nos. 8,604,943; 9,070,295; 9,082,097; 9,082,098; and 9,087,313.
+
+3
+
+MacroPoint’s appeal of that decision is currently pending, with oral argument scheduled for December 6, 2016.
+See Case No. 16-1286 (Fed. Cir.).
+
+1
+
+Case 6:16-cv-01133-RWS-KNM Document 13 Filed 11/11/16 Page 8 of 22 PageID #: 96
+
+headquartered in California; indeed, the only connection to this district is one Ruiz Foods
+processing facility in Denison. The gravity of this case, however, is squarely in Ohio.
+Alternatively, the Court should stay this case pending resolution of the underlying
+FourKites-MacroPoint litigation. FourKites supplies the technology that MacroPoint alleges
+infringes the ’659 patent and ’358 patent. FourKites, not Ruiz Foods, has a paramount interest in
+adjudicating whether the claims of the ’659 patent and ’358 patent are valid and infringed by its
+technology. Under the customer-suit exception, this case—brought against one of FourKites’
+customers, which has a far lesser interest in the ultimate adjudication of the FourKitesMacroPoint dispute—should wait to proceed while the supplier-suit, which will likely be
+dispositive of any claims or defenses in this case, moves forward. This case also should wait for
+resolution of MacroPoint’s appeal of the Ohio Court’s prior decision because the Federal
+Circuit’s resolution of that appeal will inevitably inform the Court and the parties’ positions in
+this litigation.
+II.
+
+FACTUAL BACKGROUND
+A.
+
+This Case Is In Its Infancy.
+
+This case is in its early stages. MacroPoint filed its complaint on August 30, 2016. Dkt.
+#1. Ruiz has not answered, having instead filed a motion to dismiss on November 7, 2016, for
+insufficient service of process. Dkt. # 10. No scheduling conference has been set, no docket
+control order has been entered, and no Markman or trial dates have been assigned.
+B.
+
+The Parties Have Negligible Connections to Texas.
+1.
+
+MacroPoint is an Ohio company.
+
+MacroPoint is a limited liability company organized and existing under the laws of the
+State of Ohio, with a principal place of business at 6050 Oak Tree Boulevard, Suite 150,
+Cleveland, Ohio. Dkt. # 1 at ¶ 4. MacroPoint’s CEO, Bennett H. Adelson, resides in Highland
+
+2
+
+Case 6:16-cv-01133-RWS-KNM Document 13 Filed 11/11/16 Page 9 of 22 PageID #: 97
+
+Heights, Ohio, which is a suburb of Cleveland. Ex. A.
+Mr. Adelson is the sole named inventor of the patents-in-suit. Exs. A, B. The ’358 patent,
+entitled “Providing notice and receiving consent to obtain location information of a mobile
+device,” and the ’659 patent, entitled “Machine or group of machines for monitoring location of
+a vehicle or freight carried by a vehicle,” are both generally directed to tracking freight. Id. The
+prosecuting attorney, Luis Carrion, works out of the Cleveland, Ohio office of Renner, Otto,
+Boisselle & Sklar, LLP. Ex. C.
+2.
+
+Ruiz Foods is a California company.
+
+Ruiz Foods is a California corporation with a place of business in Dinuba, California. Ex.
+D at ¶ 3. Dinuba is home to Ruiz Foods’ headquarters and its 300,000 sq. ft. main manufacturing
+facility. Id. All of Ruiz Foods’ executives responsible for handling of transportation and logistics
+functions work out of the Dinuba, California office. Id. at ¶ 4. Ruiz Foods’ primary decisionmaking, such as whether to partner with a particular technology vendor, is conducted at its
+headquarters in California. Id. All of the documents relevant to such decision making with
+respect to the handling of transportation and logistics functions resides in California. Id.
+In addition to its main manufacturing facility in Dinuba, California, Ruiz Foods has
+additional manufacturing facilities in Tulare, California, Denison, Texas, and Florence, South
+Carolina. Id. at ¶ 3. Ruiz Foods’ Denison facility is solely a food product manufacturing facility.
+Id. at ¶ 5. Ruiz Foods does not conduct executive-level decision-making relating to
+transportation and logistics in Denison. Id. No employees or documents relevant to such decision
+making work at the Denison facility. Id.
+Ruiz Foods does not make freight tracking technology. Id. at ¶ 6. In fact, until Ruiz
+Foods began using FourKites for freight tracking services, Ruiz Foods did not use freight
+tracking technology. Id. FourKites’ freight tracking services are not located on any particular
+3
+
+Case 6:16-cv-01133-RWS-KNM Document 13 Filed 11/11/16 Page 10 of 22 PageID #: 98
+
+computer in Ruiz’s possession; rather, Ruiz Foods uses the FourKites freight tracking services
+from its headquarters in California by way of a cloud-based platform to track freight throughout
+the United States. Id.
+3.
+
+FourKites is an Illinois Company.
+
+FourKites is a Delaware corporation with a place of business in Chicago, Illinois. Ex. E.
+FourKites is an innovative provider of real-time supply chain visibility and logistics solutions.
+Ex. F. On information and belief, FourKites makes strategic business decisions about
+developing, marketing, selling, and distributing software solutions from its headquarters in
+Chicago. Id. On information and belief, FourKites’ executives and documents, including those
+related to its relationship with Ruiz Foods, are located in Chicago. Id.
+C.
+
+MacroPoint First Chose Its Home Forum—Ohio—To Pursue Its Patent
+Claims Against FourKite’s Technology.
+
+This case is a proxy-fight in a broader dispute between MacroPoint and FourKites, which
+supplies the technology that forms the basis for MacroPoint’s allegations in this case.
+FourKites makes and sells freight tracking products and services. Ex. F. In 2015,
+MacroPoint sued FourKites, in its home forum of the Northern District of Ohio, for infringing
+five of its other patents.4 See dkt. # 16, Case No. 15-cv-1002 (N.D. Ohio). FourKites moved to
+dismiss those claims on the grounds that those patents were invalid under 35 U.S.C. § 101. Dkt.
+# 16, Case No. 15-cv-1002 (N.D. Ohio). While that motion was pending, MacroPoint and
+FourKites engaged in significant discovery based on the schedule entered in that case. See Dkt. #
+15, Case No. 15-cv-1002 (N.D. Ohio). The schedule required service and response to written
+discovery, document production, service of infringement, non-infringement, and invalidity
+
+4
+
+In 2014, MacroPoint also used the Ohio Court to assert one of those patents against SaleBug.com, LLC et al. See
+Case No. 14-cv-312 (N.D. Ohio). That suit, which is now dismissed, did not concern FourKites’ freight tracking
+products and services.
+
+4
+
+Case 6:16-cv-01133-RWS-KNM Document 13 Filed 11/11/16 Page 11 of 22 PageID #: 99
+
+contentions, and the exchange of Markman disclosures. Id.
+The parties also educated the Ohio Court about the technology underlying the asserted
+patents. All told, MacroPoint and FourKites filed more than seven hundred pages worth of briefs
+and exhibits. Dkt. ## 6, 18, 21, 22, 23, 24, Case No. 15-cv-1002 (N.D. Ohio). MacroPoint’s
+filings included two expert reports, totaling more than one hundred pages, that allegedly
+explained the technology underlying the asserted patents. Dkt. ## 21-3, 24-1, Case No. 15-cv1002 (N.D. Ohio).
+D.
+
+MacroPoint Was Unsuccessful, and Its Patents Were Invalidated by the Ohio
+Court.
+
+On November 6, 2015, the Ohio Court granted FourKites’ motion to dismiss and entered
+an order finding all of the claims of the asserted patents invalid. Dkt. # 26, Case No. 15-cv-1002
+(N.D. Ohio). In a detailed, fourteen page memorandum opinion and order, the Ohio Court
+analyzed the asserted patents under both the two-step Alice standard, as well as the earlier
+machine-or-transformation test, and determined that the asserted patents were limited to
+unpatentable subject matter. Dkt. # 25, Case No. 15-cv-1002 (N.D. Ohio). MacroPoint’s appeal
+of that decision is currently pending. See Case No. 16-1286 (Fed. Cir.).
+E.
+
+The FourKites-MacroPoint Dispute Regarding the ‘659 and ‘358 Patents is
+Now Also Pending in Ohio.
+
+On November 4, 2016, FourKites sued MacroPoint in the Ohio Court. FourKites’ claims
+include requests for declaratory judgments that the ’659 patent and ’358 patent are invalid and
+not infringed. See Ex. G. Additionally, however, FourKites’ claims also include several business
+torts, including for violations of the Lanham Act, deceptive trade practices and unfair
+competition and tortious interference. Id.
+
+5
+
+Case 6:16-cv-01133-RWS-KNM Document 13 Filed 11/11/16 Page 12 of 22 PageID #: 100
+
+III.
+
+LEGAL STANDARD
+A.
+
+Transfers under Section 1404(a).
+
+Section 1404(a) provides that “[f]or the convenience of the parties and witnesses, in the
+interest of justice, a district court may transfer any civil action to any other district or division
+where it might have been brought.” 28 U.S.C. § 1404(a). The goals of § 1404(a) are to prevent
+waste of time, energy, and money, and also to protect litigants, witnesses, and the public against
+unnecessary inconvenience and expense. Van Dusen v. Barrack, 376 U.S. 612, 616 (1964). The
+party seeking transfer of venue must show good cause for the transfer. In re Volkswagen of
+America, Inc., 545 F.3d 304, 315 (5th Cir. 2004).
+A threshold question is “whether the judicial district to which transfer is sought would
+have been a district in which the claim could have been filed.” In re Volkswagen AG, 371 F.3d
+201, 203 (5th Cir. 2004). Once met, the question turns in balancing public and private factors
+relating to the convenience of parties and witnesses as well as the interest of particular venues in
+hearing the case. Humble Oil & Ref. Co. v. Bell Marine Serv., Inc., 321 F.2d 53, 56 (5th Cir.
+1963). The private factors include: (1) access to sources of proof; (2) the availability of
+compulsory process; (3) the cost of attendance for willing witnesses; and (4) all other practical
+problems. Id. The public factors include: (1) court congestion; (2) the local interest; (3) the
+familiarity with the governing law; and (4) the avoidance of unnecessary problems of conflicts of
+laws or in the application of foreign law. Id.
+B.
+
+Stays of Litigation and the Customer-Suit Exception.
+
+A district court has the inherent authority to stay proceedings. “[T]he power to stay
+proceedings is incidental to the power inherent in every court to control the disposition of the
+causes on its docket with economy of time and effort for itself, for counsel, and for litigants.”
+Landis v. N. Am. Co., 299 U.S. 248, 254 (1936). In deciding whether to stay litigation pending
+
+6
+
+Case 6:16-cv-01133-RWS-KNM Document 13 Filed 11/11/16 Page 13 of 22 PageID #: 101
+
+other proceedings, courts typically consider: (1) whether a stay will unduly prejudice or present a
+clear tactical disadvantage to the nonmoving party, (2) whether a stay will simplify the issues in
+question and trial of the case, and (3) whether discovery is complete and whether a trial date has
+been set. Soverain Software LLC v. Amazon.com, Inc., 356 F. Supp. 2d 660, 662 (E.D. Tex.
+2005).
+“When a patent owner files an infringement suit against a manufacturer’s customer and
+the manufacturer then files an action of noninfringement or patent invalidity, the suit by the
+manufacturer generally take[s] precedence.” In re Nintendo of Am., Inc., 756 F.3d 1363, 1365
+(Fed. Cir. 2014). “This ‘customer-suit’ exception to the ‘first-to-file’ rule exists to avoid, if
+possible, imposing the burdens of trial on the customer, for it is the manufacturer who is
+generally the ‘true defendant’ in the dispute.” Id. “[A] primary question is whether the issues and
+parties are such that the disposition of one case would be dispositive of the other.” Katz v. Lear
+Siegler, Inc., 909 F.2d 1459, 1463 (Fed. Cir. 1990).
+IV.
+
+ARGUMENT
+A.
+
+The Court Should Transfer This Case to the Northern District of Ohio.
+1.
+
+MacroPoint Could Have Sued Ruiz Foods in Ohio.
+
+There can be no genuine dispute that suit could have been brought in the Northern
+District of Ohio. MacroPoint alleges that Ruiz Foods infringes the patents-in-suit by “us[ing]
+machines or groups of machines to monitor location of vehicles carrying freight of Ruiz or
+location of freight or location of both vehicles and freight as part of its day-to-day business
+operations.” See, e.g., dkt. # 1 at ¶ 5. As MacroPoint alleges, Ruiz Foods “operate[s] trucks or
+other vehicles to deliver freight . . . to various distributors or retailers.” Id. Ruiz Foods’
+distributors include sixteen locations in the State of Ohio. Ex. H. Therefore, as Ruiz Foods would
+have been subject to personal jurisdiction in Ohio at least under a specific jurisdiction theory,
+
+7
+
+Case 6:16-cv-01133-RWS-KNM Document 13 Filed 11/11/16 Page 14 of 22 PageID #: 102
+
+this case could have been brought in the Northern District of Ohio. See, e.g., Software Rights
+Archive, LLC v. Google, Inc., 2:07-CV-511-CE, 2010 WL 2950351, at *2 (E.D. Tex. July 22,
+2010).
+2.
+
+The Public & Private Factors Strongly Favor Transfer.
+a.
+
+Judicial Economy and the Risk of Inconsistent Adjudication
+Weigh Overwhelmingly in Favor of Transfer.
+
+This case should be transferred to the Northern District of Ohio so that a single court,
+which is already familiar with the subject matter of the patents-in-suit, can preside over the
+parties’ related claims and defenses. The purpose of § 1404(a) “is to prevent the waste of time,
+energy and money and to protect litigants, witnesses and the public against unnecessary
+inconvenience and expense.” Van Dusen, 376 U.S. at 616. “Such concerns can be alleviated by
+transferring a case to . . . a district familiar with the patent-in-suit.” ColorQuick, L.L.C. v.
+Vistaprint Ltd., No. 6:09-CV-323, 2010 WL 5136050, at *7 (E.D. Tex. July 22, 2010); see also
+In re Vicor Corp., 493 Fed. App’x 59, 61 (Fed. Cir. 2012) (“[T]he existence of multiple lawsuits
+involving the same issues is paramount consideration when determining whether a transfer is in
+the interest of justice.”); ComCam Int’l, Inc. v. Mobotix Corp., No. 2:13-CV-798, 2014 WL
+4229711 (E.D. Tex. Aug. 26, 2014) (“Where multiple and parallel lawsuits in two different
+jurisdictions are contemplated, judicial economy weighs heavily in the Court’s transfer
+analysis.”).
+The significant overlap between this case and the FourKites-MacroPoint dispute in Ohio
+strongly favors transfer. See Invitrogen Corp. v. Gen. Elec. Co., No. 6:08-CV-112, 2009 WL
+331891, at *5 (E.D. Tex. Feb. 9, 2009). The patents-in-suit concern the same subject matter and
+technology that was previously litigated in the Ohio Court. Compare, e.g., Exs. A, B with Ex. I.
+Indeed, one of the two patents is from the same family as those invalidated patents. Ex. A.
+
+8
+
+Case 6:16-cv-01133-RWS-KNM Document 13 Filed 11/11/16 Page 15 of 22 PageID #: 103
+
+Where there has been “a prior suit based on closely related patents” and the transferee Court has
+experience with the subject matters of the parties’ dispute, judicial economy weighs in favor of
+transfer. See Kinetic Concepts, Inc. v. Medela AG, No. 2:07-CV-187, 2008 WL 112120, at *2
+(E.D. Tex. Jan. 9, 2008).
+The case for transfer is even stronger in the present circumstances. Not only are the
+patents-in-suit closely related to the invalidated patents, but the pending FourKites-MacroPoint
+dispute also concerns the patents-in-suit. Ex. G. That is, the Ohio Court will be presiding over
+the exact same questions of infringement and validity as would be considered in this case. Thus,
+not only would transfer promote judicial economy, but it would also eliminate the risk of
+inconsistent adjudication that arises when overlapping cases proceed in parallel. See, e.g., WiLAN Inc. v. Apple, Inc., Case No. 6:11-cv-453, Dkt. # 225, slip op. at 4 (E.D. Tex. Sept. 14,
+2012) (granting motion to transfer because it would “allow one judge to more efficiently resolve
+the common issues, reduce duplicative work on the part of the Court and the parties, and reduce
+the risk of inconsistent adjudications”).
+These factors weigh strongly in favor of transfer.
+b.
+
+Access to Sources of Proof Favors Transfer.
+
+The evidence and witnesses relevant to the claims and defenses in this case are more
+easily accessible in the Northern District of Ohio than in the Eastern District of Texas.
+While “the bulk of the relevant evidence usually comes from the accused infringer,” In re
+Genentech, Inc., 566 F.3d 1338, 1345 (Fed. Cir. 2009), this case is not the usual case.
+MacroPoint’s allegations are not based on anything that Ruiz Foods made, sold, or offered for
+sale. Dkt. # 1 at ¶ 22. Rather, MacroPoint claims that Ruiz Foods infringes the patents-in-suit by
+using freight tracking products and services developed by FourKites. Id. Thus, “the bulk of the
+relevant evidence” will be coming from FourKites, which is located in Chicago, and not from
+9
+
+Case 6:16-cv-01133-RWS-KNM Document 13 Filed 11/11/16 Page 16 of 22 PageID #: 104
+
+Ruiz Foods. Likewise, the witnesses who will testify as to the design and operation of the
+underlying accused technology will be FourKites witnesses, not Ruiz Foods witnesses. Ex. F.
+The remaining party witnesses—MacroPoint’s employees and the named inventor—all
+reside in Ohio, far closer to the Northern District of Ohio than to this Court. Ex. J. Third-party
+witnesses, such as the prosecuting attorney Luis Carrion, are also located in Ohio. Ex. C.
+In contrast, Ruiz Foods is aware of no relevant evidence or witnesses located in this
+district. Ex. D at ¶ 5. Although Ruiz Foods has a food manufacturing facility in Denison, its
+headquarters, including the personnel who would have been responsible for any decisions
+relevant to this case and all their related documents, are located in California. Id. at ¶ 4. Any
+difference in the relative ease of accessing these sources from the Northern District of Ohio or
+this district will be negligible and far outweighed by the far improved access to the evidence in
+FourKites’ and MacroPoint’s possession. Id.
+c.
+
+Transfer Would Increase the Availability of Compulsory
+Process to Secure the Attendance of Witnesses.
+
+This factor favors transfer because the Northern District of Ohio has absolute subpoena
+power over at least some third-party witnesses, whereas this Court has absolute subpoena power
+over none. The availability of compulsory process weighs in favor of transfer when the
+transferee district would have “absolute subpoena power,” i.e., subpoena power for both
+depositions and trial, over more third-party witnesses than the transferor district. In re HoffmannLa Roche Inc., 587 F.3d 1333, 1337 (Fed. Cir. 2009). The focus of this factor is on witnesses for
+whom compulsory process to attend trial might be necessary. See Phoenix Licensing, L.L.C. v.
+Gen. Motors, LLC, No. 2:13-CV-1093, 2015 WL 1431906, at *3 (E.D. Tex. Mar. 30, 2015).
+Ruiz Foods is not aware of any third-party witnesses over which this Court has absolute
+subpoena power. The Northern District of Ohio, however, would have absolute subpoena power
+
+10
+
+Case 6:16-cv-01133-RWS-KNM Document 13 Filed 11/11/16 Page 17 of 22 PageID #: 105
+
+over the prosecuting attorneys. See, e.g., In re Acer Am. Corp., 626 F.3d 1252, 1256 (Fed. Cir.
+2010) (citing location of prosecuting attorneys as fact favoring transfer); Nidec Motor Corp. v.
+Broad Ocean Motor LLC, No. 2:15-CV-443, 2016 WL 776986, at *3 (E.D. Tex. Feb. 29, 2016)
+(same). Thus, this factor weighs in favor of transfer because the Northern District of Ohio has
+absolute subpoena power over at least some third-party witnesses.
+d.
+
+Northern District of Ohio is More Convenient for Most
+Witnesses.
+
+The Northern District of Ohio is more convenient for the inventor, MacroPoint’s
+witnesses, and anticipated third-party witnesses. “The convenience of the witnesses is probably
+the single most important factor in a transfer analysis.” In re Genentech, Inc., 566 F.3d 1338,
+1342 (Fed. Cir. 2009). While this factor considers all parties and witnesses, the convenience to
+non-party witnesses is afforded greater weight. See NovelPoint Learning LLC v. LeapFrog
+Enterprises, Inc., 6:10-CV-229, 2010 WL 5068146, at *6 (E.D. Tex. Dec. 6, 2010).
+The FourKites-MacroPoint dispute is pending in Cleveland, Ohio. Ex. K. MacroPoint and
+the third-party prosecuting attorney Luis Carrion are also in Cleveland. Ex. C. The inventor, Mr.
+Adelson, resides in Highland Heights, Ohio—a suburb approximately ten miles from Cleveland.
+Ex. A. In contrast, it is 981 miles from Cleveland to the courthouse in Tyler, Texas. Ex. L.
+Cleveland is also more convenient for the third-party FourKites witnesses. The distance
+from Chicago to Cleveland is approximately 350 miles. Ex. M. The distance could be driven in
+as little as six hours. Id. The distance from Chicago to Tyler is approximately 900 miles. Ex. N.
+To drive that distance would take at least thirteen hours. Id. Furthermore, there are numerous
+direct flights between Chicago and Cleveland which take about an hour and fifteen minutes,
+thereby allowing witnesses to avoid overnight stays. In contrast, there are no direct flights from
+Chicago to Tyler and it would be virtually impossible for a Chicago area witness to travel to
+
+11
+
+Case 6:16-cv-01133-RWS-KNM Document 13 Filed 11/11/16 Page 18 of 22 PageID #: 106
+
+Tyler and return to Chicago on the same day. Ex. O See Volkswagen, 371 F.3d at 205 (observing
+that overnight stays increase the time that witnesses need to be away from home).
+These differences are not insignificant. Cleveland witnesses could easily attend trial
+without incurring any travel or lodging expenses, and without being away from their homes.
+FourKites witnesses could attend trial, without staying overnight in Cleveland. In contrast, these
+witnesses could not attend trial in Tyler without at least a half-day of travel each way, and at
+least a one night—more likely a two night—stay. This represents not only additional costs in
+terms of airfare and hotels, but also time away from family and from their respective businesses.
+Ruiz Foods’ witnesses will be inconvenienced regardless. Dinuba is located outside
+Fresno, California. Ex. P. Whether these witnesses travel to Tyler or Cleveland, they will incur a
+day of travel each way, and need to stay overnight at least two days. Exs. Q, R. While Tyler may
+be closer than Cleveland, practically speaking the differences in convenience are negligible, and
+far outweighed by the gains in convenience for the MacroPoint witnesses and, most importantly,
+the non-party FourKites and Ohio witnesses.
+e.
+
+The Northern District of Ohio Has a Significant Local Interest
+in the Resolution of this Case.
+
+MacroPoint is a Cleveland, Ohio company, and first chose its home forum—the Northern
+District of Ohio—to assert its patents against the FourKites technology. While it failed, and
+many of its patents have already been invalidated, it must have no doubt believed that the people
+of its home forum, and not the people of the Eastern District of Texas, were those who have a
+vested interest in the outcome of this litigation. Indeed, “[j]ury duty is a burden that ought not to
+be imposed upon the people of a community which has no relation to the litigation.”
+Volkswagen, 371 F.3d at 206. The local interest factor is strong when “the cause of action calls
+into question the work and reputation of several individuals residing in or near that district and
+
+12
+
+Case 6:16-cv-01133-RWS-KNM Document 13 Filed 11/11/16 Page 19 of 22 PageID #: 107
+
+who presumably conduct business in that community.” Hoffman-La Roche, 587 F.3d at 1336.
+The Eastern District of Texas has no localized interest in this dispute. Although Ruiz
+Foods has a food manufacturing facility in Denison, the allegedly infringing activities—
+monitoring the location of vehicles carrying freight of Ruiz or location of freight or location of
+both vehicles and freight as part of its day-to-day business operations—is done throughout the
+country and supervised from its headquarters in California. Ex. D at ¶ 4–6. Thus, the Eastern
+District of Texas has “no more or less of a meaningful connection to this case than any other
+venue.” TS Tech, 551 F.3d at 1321.
+f.
+
+The Remaining Factors Are Neutral.
+
+The speed with which a case can come to trial and be resolved may be relevant to
+transfer. In re Genentech, Inc., 566 F.3d 1338, 1347 (Fed. Cir. 2009) (discussing district court’s
+crediting of Federal Judicial Caseload Statistics). To the extent median time interval to trial is
+relevant, the 2015 Federal Judicial Caseload Statistics indicates that the median time interval to
+trial in the Eastern District of Texas is 22.1 months, which is negligibly different than the
+Northern District of Ohio’s time to trial of 22.2 months. Ex. S. Ultimately, this is the “most
+speculative” factor. Promote Innovation LLC v. Leviton Mfg. Co., No. 2:10-CV-235, 2011 WL
+672663, at *5 (E.D. Tex. Feb. 17, 2011). Finally, there should be no dispute that both the Eastern
+District of Texas and the Northern District of Ohio are equally familiar with and capable of
+applying the governing patent laws, and that there exist no unnecessary conflicts of law to be
+resolved. Therefore, each of these factors is neutral.
+B.
+
+Alternatively, This Case Should Be Stayed.
+
+To the extent the Court finds this case should not be transferred, it should be stayed
+pending the resolution of the FourKites-MacroPoint dispute under the customer-suit exception
+and resolution of MacroPoint’s appeal of the Ohio Court’s invalidity decision.
+13
+
+Case 6:16-cv-01133-RWS-KNM Document 13 Filed 11/11/16 Page 20 of 22 PageID #: 108
+
+1.
+
+This Is a Classic Customer-Suit Situation.
+
+After first suing—and losing—to the supplier of the technology at issue here, namely
+FourKites, MacroPoint came to this Court to sue a customer/user of the same technology.
+FourKites, however, has filed an action in the same court that already has addressed
+MacroPoint’s patents and its technology, the Northern District of Ohio. The suit seeks, among
+other things, declaratory judgments of non-infringement and patent invalidity for the same
+patents-in-suit. Ex. G. As the supplier of the allegedly infringing products and services,
+FourKites’ suit should “take precedence” because it is the “‘true defendant’ in the dispute.”
+Nintendo, 756 F.3d at 1365.
+The issues in this case are duplicative of, and subsumed by, the issues presented in the
+FourKites-MacroPoint dispute. In disposing of the FourKites-MacroPoint dispute, the Ohio
+Court will resolve the primary questions in this case—whether the patents-in-suit are valid and
+whether the use of FourKites’ freight tracking products and services infringe any of their claims.5
+Ex. G. In such a situation, “it is clear that there was no need to proceed with” this action because
+the one in Ohio “may suffice.” In re Google Inc., 588 Fed. App’x 988, 990 (Fed. Cir. 2014).
+“The only potential results of adjudicating these cases in parallel fashion would be . . . wasteful
+and unnecessary litigation . . . [or] conflicting decisions.” Id.
+Accordingly, to the extent that the Court decides against transfer, the Court should stay
+this customer suit pending resolution of the FourKites-MacroPoint dispute.
+2.
+
+A Discretionary Stay is Also Appropriate.
+
+Finally, at a minimum, the Court should stay these proceedings pending resolution of
+MacroPoint’s appeal of the Ohio Court’s prior decision. A stay will not cause any prejudice
+5
+
+Ruiz Foods agrees to be bound by the Ohio Court’s determination of whether the patents-in-suit are valid and
+whether the use of FourKites’ freight tracking products and services infringes any of their claims.
+
+14
+
+Case 6:16-cv-01133-RWS-KNM Document 13 Filed 11/11/16 Page 21 of 22 PageID #: 109
+
+because this case is at its inception—discovery has not even begun, let alone been completed,
+and no trial date or Markman hearing has been set. Rather than prejudice a party, a stay will
+benefit everyone, including the Court, because the Federal Circuit’s decision will inevitably
+inform the Court and the parties’ positions in this case. If the case is not stayed, and the parties
+proceed in parallel with that appeal, then work will need to be redone and resources wasted in
+light of the Federal Circuit’s reasoning. Therefore, the Court should exercise its discretion and its
+inherent authority to control its docket by entering a stay in this case pending resolution of the
+MacroPoint appeal.
+V.
+
+CONCLUSION
+WHEREFORE, Defendant Ruiz Foods Products, Inc. prays the Court enter an order
+
+granting this motion and transferring this case the United States District Court for the Northern
+District of Ohio, or in the alternative, staying this case pending resolution of FourKites, Inc. v.
+MacroPoint, LLC, Case No. 15-cv-2703 (N.D. Ohio) and resolution of MacroPoint, LLC v.
+FourKites, Inc., Case No. 16-1286 (Fed. Cir.), and for all other relief that it deems just and
+proper.
+Dated: November 11, 2016
+
+Respectfully submitted,
+/s/ E. Glenn Thames, Jr.
+E. Glenn Thames, Jr.
+Texas Bar No. 00785097
+glennthames@potterminton.com
+POTTER MINTON
+A PROFESSIONAL CORPORATION
+110 N. College Avenue, Suite 500
+Tyler, TX 75702
+Telephone: 903-597-8311
+Facsimile: 903-593-0846
+
+Gary E. Hood, Lead Counsel
+Illinois Bar No. 6281580
+ghood@polsinelli.com
+Adam S. Weiss
+Illinois Bar No. 6256842
+aweiss@polsinelli.com
+Mark Deming
+Illinois Bar No. 6299631
+mdeming@polsinelli.com
+POLSINELLI PC
+161 N. Clark Street, Suite 4200
+Chicago, IL 60601
+Telephone: 312-819-1900
+Facsimile: 312-819-1910
+
+Attorneys for Defendant
+Ruiz Food Products, Inc.
+15
+
+Case 6:16-cv-01133-RWS-KNM Document 13 Filed 11/11/16 Page 22 of 22 PageID #: 110
+
+CERTIFICATE OF SERVICE
+The undersigned hereby certifies that a true and correct copy of the above and foregoing
+document has been served on November 11, 2016 to all counsel of record who are deemed to
+have consented to electronic service via the Court’s CM/ECF system per Local Rule CV-5(a)(3).
+Any other counsel of record will be served by U.S. first class mail.
+/s/ E. Glenn Thames, Jr.
+E. Glenn Thames, Jr.
+
+CERTIFICATE OF CONFERENCE
+The undersigned hereby certifies that counsel for Ruiz Food Products, Inc. has complied
+with the meet and confer requirement in Local Rule CV-7(h). This motion is opposed. The
+personal conference required by Local Rule CV-7(h) was conducted on November 10, 2016 via
+telephone conference with the following participants: Michael C. Smith for Plaintiff and E.
+Glenn Thames, Jr. for Defendant. No agreement could be reached because the parties could not
+agree to the relief requested. Discussions have conclusively ended in an impasse, leaving an
+open issue for the court to resolve.
+
+/s/ E. Glenn Thames, Jr.
+E. Glenn Thames, Jr.
+
+

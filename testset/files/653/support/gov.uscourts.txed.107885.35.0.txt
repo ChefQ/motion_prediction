@@ -1,0 +1,610 @@
+ESN
+
+LLC v. Cisco Systems, Inc. et al
+
+Doc. 3
+
+UNITED STATES DISTRICT COURT
+EASTERN DISTRICT OF TEXAS
+TEXARKANA DIVISION
+ESN, LLC,
+Plaintiffs,
+vs.
+
+CASE NO. 5:08-CV-20-DF
+
+CISCO SYSTEMS, INC. and CISCOLINKSYS LLC,
+
+JURY TRIAL DEMANDED
+
+Defendants.
+
+DEFENDANTS’ MOTION TO STAY PENDING REEXAMINATION
+Defendants Cisco Systems, Inc. and Cisco-Linksys LLC, (collectively “Cisco”) hereby
+move to stay all proceedings in this case pending a final decision on the inter partes
+reexamination of U.S. Patent No. 7,283,519 entitled “Distributed Edge Switching System for
+Voice-Over-Packet Multiservice Network” (“the ‘519 patent”) at issue in this action. Pursuant to
+Local Rule 7(g), Cisco also hereby requests oral argument on this motion. A stay is both
+appropriate and necessary since the case is still in its early stages, ESN will not be unduly
+prejudiced by the stay, and a final PTO determination that the patent is invalid will likely result
+in dismissal of the suit.
+The ‘519 patent is the focus of an inter partes reexamination proceeding before the Patent
+Office. In its first Office Action, mailed June 13, 2008, the Patent Office found: 1) a substantial
+new questions of patentability regarding every claim of the ‘519 patent; and 2) rejected every
+claim of the ‘519 patent as invalid over the prior art cited by Cisco. Therefore, it is very likely
+that the Patent Office will invalidate some or all of the asserted claims. Even if some claims
+survive the inter partes reexamination proceeding, they are likely to have been amended to
+
+51301/2518188.2
+
+Dockets.Justia.com
+
+overcome the Patent Office’s rejections. Therefore, the inter partes reexamination proceeding
+has a high likelihood of disposing of the case entirely, resolving some issues of fact for trial, or
+altering the issues to be decided. Granting a stay of this litigation pending the resolution of the
+inter partes reexamination will preserve judicial resources, hone the issues for the Court, and
+generally encourage the efficient resolution of the case.
+Statement of Facts
+On January 31, 2008 ESN filed a complaint against Cisco alleging infringement of the
+‘519 patent and claiming a violation of ESN’s provisional patent rights under 35 U.S.C. §
+154(d). The ‘519 patent relates to communicating voice and other data over a packet-switched
+broadband network. The Court has set a claim construction hearing for June 11, 2009 and a trial
+date for April 16, 2010. Thus far, the parties have exchanged infringement and invalidity
+contentions and an initial round of discovery requests.
+
+No depositions have occurred, a
+
+protective order has only just been entered, and relatively little document production has taken
+place.
+Only one week after ESN filed its complaint in this case, Cisco requested that the Patent
+Office reexamine the ‘519 patent. On April 16, 2008, just over two months after it was filed, the
+Patent Office granted Cisco’s request for inter partes reexamination, noting that an Office Action
+on the merits would follow in due course. On June 13, 2008, the Patent Office mailed its 243page non-final Office Action to the parties in which it agreed that the thirteen prior-art references
+cited by Cisco, either alone or in combination, rendered every claim unpatentable on multiple
+grounds. (See Smith Decl. Ex. 1 at 2-12.) For example, the Patent Office rejected claim one of
+the ‘519 patent based on nine separate anticipating references. (See id.) Similarly, the Patent
+
+51301/2518188.2
+
+-2-
+
+Office found that claim sixteen was obvious based on twenty-one separate combinations of
+references. (See id.)
+The Patent Office set a shortened statutory period of August 13, 2008 as the due date for
+a response by ESN.
+
+(Id. at PTOL-2071.)
+
+Additionally, the Patent Office concluded by
+
+emphasizing that, because the reexamination was inter partes, it would “be conducted with
+special dispatch.” Id. at 5 (citing 37 CFR 1.937).
+Argument
+District Courts follow a liberal policy in granting motions to stay patent litigation
+pending reexamination results since Congress set-up the procedure to provide “an inexpensive,
+expedient means of determining patent validity” that should be deferred to by the courts. ASCII
+Corp. v. STD Entm’t USA, Inc., 844 F. Supp. 1378, 1380 (N.D. Cal. 1994). This Court has noted
+a number of specific advantages to granting a stay during the pendency of a reexamination
+request, including:
+1. All prior art presented to the Court will have been first considered by the PTO
+with its particular expertise;
+2. Many discovery problems relating to the prior art can be alleviated by the PTO
+examination;
+3. In those cases resulting in effective invalidity of the patent, the suit will likely
+be dismissed;
+4. The outcome of the reexamination may encourage a settlement without the
+further use of the Court;
+5. The record of reexamination would likely be entered at trial, thereby reducing
+the complexity and length of the litigation;
+6. Issues, defenses and evidence will be more easily limited in pre-trial
+conferences after a reexamination; and
+7. The cost will likely be reduced both for the parties and the Court.
+Datatreasury Corp. v. Wells Fargo & Co., 490 F. Supp. 2d 749, 754 (E.D. Tex. 2006) (Folsom,
+J.). Each of these benefits is applicable to this case.
+
+51301/2518188.2
+
+-3-
+
+These advantages are even greater where, as in this case, the reexamination is inter
+partes. See Tomco Equip. Co. v. Southeastern Agri-Sys., Inc., 542 F. Supp. 2d 1303 (N.D. Ga.
+2008). Because inter partes reexamination allows the requesting party to participate in the
+reexamination process, the results are binding on the requestor. 35 U.S.C. § 315(c); Procter &
+Gamble Co. v. Kraft Foods Global, Inc., No. C 07-4413, 2007 WL 2990152, at *1 (N.D. Cal.
+Oct. 11, 2007) (“[A]n inter partes reexamination can have no other effect but to streamline
+ongoing litigation” because such proceedings “impose estoppel restraints upon third-party
+requesters.”). 35 U.S.C. § 318 supports this understanding by creating a presumption that the
+case should be stayed for inter partes reexaminations, unless the Court concludes “that a stay
+would not serve the interests of justice.”
+In deciding whether to stay litigation pending reexamination, courts primarily consider
+three factors: (1) whether a stay will unduly prejudice or present clear tactical disadvantage to
+the nonmoving party, (2) whether a stay will simplify the issues in question and the trial of the
+case, and (3) whether discovery is complete and whether a trial date has been set.
+
+Spa
+
+Syspatronic, AG v. Verifone, Inc., 2:07 Civ. 416, 2008 WL 1886020, at *1 (E.D. Tex. Apr. 25,
+2008). As described below, each of these factors favors a stay in this case.
+A.
+
+There Is No Undue Prejudice or Tactical Disadvantage to ESN from a Stay.
+
+ESN has no colorable argument that it will be prejudiced by a stay. First, the PTO has a
+mandate to resolve inter partes reexamination petitions promptly. The PTO has so far proceeded
+very quickly in this instance. Second, ESN does not practice the ‘519 patent. It therefore has no
+argument that it will lose market share to Cisco. Third, ESN has not pled any claims other than
+infringement of the ‘519 patent and its provisional patent rights. Therefore, none of its rights
+
+51301/2518188.2
+
+-4-
+
+with respect to any other claims will be affected by a stay. Fourth, Cisco will be estopped from
+relying at trial on the same art that was, or could have been presented to the Patent Office.
+1.
+
+The Patent Office Has and Will Proceed Expeditiously.
+
+The reexamination of the ‘519 patent has and likely will proceed swiftly. By regulation,
+inter partes reexamination proceedings are to be “conducted with special dispatch.” 37 CFR
+1.937(a). The Manual of Patent Examining Procedures § 2686.04 further provides that where the
+patent is the subject of litigation that has been stayed, the reexamination “will be expedited to the
+extent possible” and that “[a]ction on such a proceeding will take precedence to any other action
+taken by the examiner.” If the reexamination has been pending for more than a year, the
+Director of the Office of Patent Legal Administration has the authority to shorten response
+periods, thereby hastening the reexamination. MPEP § 2686.04.
+The Patent Office has thus far promptly acted on Cisco’s reexamination request. It
+indicated that it would grant the request little more than two months after it was filed. And it
+issued its 243-page detailed order approximately two months later. In the past, courts have noted
+that the risk of prejudice to the plaintiff was minimal where the Patent Office issued its first
+rejection of the claims as much as nine months after the reexamination petition was filed. Ricoh
+Co. v. Aeroflex, Inc., 03-4669-MJJ, 2006 WL 3708069, at *2 (N.D. Cal. Dec. 14, 2006) (holding
+that there was little risk of prejudice due to delay because the PTO acted promptly by issuing its
+initial rejection of the claims “relatively quickly--approximately 9 months after initiation of the
+reinvestigation”) (emphasis added). In the present case, the Patent Office has, pursuant to its
+mandate to act on inter partes petitions with special dispatch, issued its first Detailed Action
+rejecting the claims in just over four months.
+
+51301/2518188.2
+
+-5-
+
+2.
+
+ESN Does Not Practice the ‘519 Patent.
+
+ESN is a non-practicing entity that does not actually produce any products; therefore,
+ESN will not incur market share or customer loss for the duration of the stay.
+
+See Spa
+
+Syspatronic, 2008 WL 1886020, at *2 (plaintiff would not be prejudiced by a stay during
+reexamination where it did not compete with the defendant).
+
+ESN’s professed injury is
+
+compensable by royalties that are not affected by the stay, resulting in no undue prejudice. In
+fact, in Ricoh Co. v. Aeroflex, Inc., 03-4669-MJJ, 2006 WL 3708069 (N.D. Cal. Dec. 14, 2006),
+the Court found that the defendants would be unduly prejudiced without a stay. The Court
+explained that defendants would be “forced to potentially litigate a lengthy patent trial and a
+potential appeal, and possibly be forced to pay significant damages for infringing the exact
+claims that have already been determined to be invalid by the PTO.” Id. at 3. The same risk
+exists here; Cisco (and ESN) would bear the substantial burdens of litigation even though the
+Patent Office might invalidate, or ESN might choose to modify the patent’s claims during the
+reexamination process, rendering ESN’s lawsuit against Cisco moot.
+3.
+
+There Are No Pending Claims Unrelated to the ‘519 Patent.
+
+ESN has no pending claims other than those based on the ‘519 patent. This is therefore
+not a case where the plaintiff’s rights with respect to claims unrelated to the patent in
+reexamination will be prejudiced. See Tomco Equip. Co., 542 F. Supp. 2d 1303, 1308 (N.D. Ga.
+2008) (plaintiff would not be prejudiced where “[a]ll of plaintiff’s claims surround the patentsin-suit, and therefore rest on the validity of the patent being reexamined”). That every claim in
+this case hinges on the validity of the ‘519 patent therefore minimizes any possible prejudice to
+ESN.
+
+51301/2518188.2
+
+-6-
+
+4.
+
+Cisco Will Be Estopped From Asserting the Same Prior Art at Trial.
+
+A plaintiff will not generally be prejudiced by a stay during reexamination where the
+defendant will be stopped from presenting at trial the same prior art considered by the Patent
+Office. Premier Int’l Assoc. LLC, v. Hewlett-Packard Co., -- F. Supp. 2d --, 2008 WL 2138158
+(E.D. Tex. May 19, 2008) (Folsom, J.) (holding that in the context of ex parte reexamination,
+plaintiff would not be prejudiced if defendant stipulated to being bound by the Patent Office’s
+decision). This Court has stated that a reexamination that has an estoppel effect “if anything,
+puts Plaintiff at an advantage.” Datatreasury Corp., 490 F. Supp. 2d at 754. Cisco applied for
+and was granted inter partes reexamination. Hence, the estoppel effect is even broader: the inter
+partes reexamination binds Cisco and prevents it from arguing “the invalidity of any claim
+finally determined to be valid and patentable on any ground which [Cisco] raised or could have
+raised during the inter partes reexamination proceedings.” 35 U.S.C. § 315(c); Echostar Techs.
+Corp. v. TiVo, Inc., No. 5:05-CV-81-DF, 2006 WL 2501494, at *3 (E.D. Tex. July 14, 2006) (the
+estoppel effect of inter partes reexamination provides an “even more compelling reason to grant
+a stay”). Cisco is therefore not seeking “two bites at the apple,” and ESN will not be prejudiced
+by a stay.
+B.
+
+A Stay will Simplify and May Resolve the Case.
+
+A stay of this case is especially likely to simplify the issues for trial. First, if the claims
+of the patent are ruled invalid, then there will be no need to try this case at all. Second, because
+the reexamination in question is inter partes, if the patent is deemed valid, the Court need not
+consider the prior art presented by Cisco or which Cisco might have presented to the Patent
+Office. 35 U.S.C. § 315(c). Therefore, no matter what the final result of the reexamination, the
+issues that this Court will be required to try will be greatly simplified. As a result, this Court has
+
+51301/2518188.2
+
+-7-
+
+observed “the newer inter partes procedure is more likely to result in simplification.” Anascape,
+Ltd. v. Microsoft Corp., 475 F. Supp. 2d 612, 616 (E.D. Tex. 2007).
+1.
+
+Reexamination Is Highly Likely to Resolve Pending Claims.
+
+A stay is especially appropriate in this case because the Patent Office has not merely
+found a “substantial new question of patentability” as to a portion of the patent’s claims. Instead,
+the Patent Office has affirmatively rejected each and every claims of the ‘519 patent. The patent
+reexamination process relies on the expertise of the Patent Office to narrow, amend, and even
+eliminate claims so that the courts can avoid using needless judicial resources. See Datatreasury
+Corp., 490 F. Supp. 2d at 754. “Put simply, ‘courts need not expend unnecessary judicial
+resources by attempting to resolve claims which may be amended, eliminated or lucidly
+narrowed by the patent reexamination process and the expertise of its officers.’” Alza Corp. v.
+Wyeth, No. Civ.A. 9:06-CV-156, 2006 WL 3500015, at *2 (E.D. Tex. Nov. 21, 2006). Where
+the Patent Office rejects all of the asserted claims “the likelihood that the PTO’s reexamination
+and expertise would assist the Court in determining patent validity, or potentially eliminating the
+need to try the action . . . increase[s] significantly.” Ricoh Co., 2006 WL 3708069, at *4.
+This concern is heightened in this case because inter partes reexaminations are highly
+likely to result in the cancellation of claims. A recent article in the Journal of the Patent and
+Trademark Office Society reports that ex parte reexamination is “more than seven times less
+likely to result in the cancellation of all claims than an inter partes reexamination.” J. Steven
+Baughman, Reexamining Reexaminations:
+
+A Fresh Look at the Ex Parte and Inter Partes
+
+Mechanisms for Reviewing Issued Patents, 89 J. Pat. & Trademark Off. Soc’y 349, 360 (2007).
+A similar study found that the Patent Office cancelled 76% of all patent claims subjected to inter
+partes reexamination. Roger Shang & Yar Chaikovsky, Inter Partes Reexamination of Patents:
+
+51301/2518188.2
+
+-8-
+
+An Empirical Evaluation, 15 Tex. Intell. Prop. L.J. 1, 14 (2006). In 57% of inter partes
+reexaminations, all of a given patent’s claims are invalidated. Id. at 11. The authors describe
+this rate as “staggering” when compared to the 10% all-cancellation rate for ex parte
+reexamination. Id.
+The likelihood that one or all of the claims of the ‘519 patent will be cancelled is even
+greater than these statistics suggest because the Patent Office has gone beyond merely granting
+reexamination; it has rejected each claim. To grant a petition for reexamination, the Patent
+Office need merely find a “substantial new question of patentability.”
+
+Manual of Patent
+
+Examining Procedures § 2642. The Patent Office will grant the reexamination “even if the
+examiner would not necessarily reject the claim as either anticipated or obvious” so long as this
+“substantial new question” standard is met. Id. In the case at bar, however, the Patent Office
+went further, affirmatively rejecting each claim because the prior art created a prima facie case of
+unpatentability, thereby satisfying the more stringent standard for rejection.
+The likelihood that the Patent Office will cancel one or all of the claims of the ‘519
+patent is also enhanced because of the number of references that create a prima facie case of
+unpatentability. The Patent Office has rejected each claim of the ‘519 patent based on as many
+as eleven separate grounds:
+
+51301/2518188.2
+
+Claim
+
+Grounds for Rejection
+
+1
+
+Nine anticipating references.
+
+2
+
+Six anticipating references. Obvious in light of three separate
+combinations of references.
+
+3
+
+Nine anticipating references.
+
+4
+
+Eight anticipating references.
+
+5
+
+Nine anticipating references.
+combination of references.
+
+Obvious in light of one
+
+6
+
+Three anticipating references.
+
+Obvious in light of eighteen
+
+-9-
+
+separate combinations of references.
+7
+
+Two anticipating references. Obvious in light of seven separate
+combinations of references.
+
+8
+
+Anticipated by two references. Obvious in light of seven
+separate combinations of references.
+
+9
+
+Anticipated by four references. Obvious in light of fifteen
+separate combinations of references.
+
+10
+
+Anticipated by four references. Obvious in light of fifteen
+separate combinations of references.
+
+11
+
+Anticipated by two references. Obvious in light of thirteen
+separate combinations of references.
+
+12
+
+Anticipated by four references. Obvious in light of fifteen
+separate combinations of references.
+
+13
+
+Anticipated by seven references. Obvious in light of eight
+separate combinations of references.
+
+14
+
+Anticipated by seven references. Obvious in light of eight
+separate combinations of references.
+
+15
+
+Obvious in light of twenty separate combinations of references.
+
+16
+
+Obvious in light of twenty-one separate combinations of
+references.
+
+17
+
+Anticipated by seven references. Obvious in light of seven
+separate combinations of references.
+
+18
+
+Anticipated by five references. Obvious in light of nine separate
+combinations of references.
+
+19
+
+Anticipated by five references. Obvious in light of seven
+separate combinations of references.
+
+There is therefore an especially high likelihood in this case that the Patent Office will invalidate
+one or all of the claims of the ‘519 patent. The costs to the Court and the parties of litigating,
+therefore, far exceed the minimal benefit of staying a case that is still in its initial stages.
+2.
+
+ESN Is Likely to Modify Any Claims that the Patent Office Does Not
+Cancel.
+
+Even if Patent Office does not cancel all the claims of the ‘519 patent, ESN may be
+forced to modify one or more claims to avoid prior art. In 59% of inter partes reexaminations
+
+51301/2518188.2
+
+-10-
+
+requested by a third party, the patentee modifies one or more claims. Baughman, supra at 360.
+This likelihood is even higher in this case given the number of references that ESN will be
+forced to distinguish. This high likelihood that any surviving claims will be different from and
+narrower than the current claims favors granting a stay. Soverain Software LLC v. Amazon.com,
+Inc., 356 F.Supp.2d 660, 662 (E.D. Tex. 2005). After modification, ESN may not have a
+credible basis for asserting infringement. Should this case not be stayed, there is also a high
+likelihood that any claim construction orders issued will be rendered moot by a change in claim
+language, necessitating an additional claim construction hearing. In addition, any infringement
+determination would potentially need to be revisited in light of the amendments. Tomco Eqip.
+Co., 542 F. Supp. 2d at 1310. In sum, litigating this case while the claims are subject to
+amendment is “like trying to hit a moving target, without knowing even what the target looks
+like.” NTP, Inc. v. T-Mobile USA, Inc., No. 3:07-CV-548, 2007 WL 3254796, at *2 (E.D. Va.
+Nov. 2, 2007).
+3.
+
+Regardless of the Result, the Case Will Be Simplified.
+
+Even in the unlikely event that all the claims of the ‘519 patent survive inter partes
+reexamination, a stay will simplify this case in several respects. Significantly, Cisco’s invalidity
+defense will be greatly narrowed. Unlike ex parte reexamination, inter partes reexamination has
+a res judicata effect. Because inter partes reexamination permits Cisco to participate in the
+reexamination process, it will be estopped from asserting invalidity at trial any grounds that
+could have been raised before the Patent Office.
+
+35 U.S.C. §§ 315(c).
+
+Inter partes
+
+reexamination is therefore especially likely to simplify the issues for trial. Tomco Eqip. Co., 542
+F. Supp. 2d at 1309. In the absence of a stay, this Court will be required to resolve the validity
+of this highly technical patent in parallel with the Patent Office.
+
+51301/2518188.2
+
+-11-
+
+Further, claim construction will be simplified because statements made during the
+reexamination become part of the prosecution history, providing the Court with a full
+development of the intrinsic evidence. Alza Corp., 2006 WL 3500015, at *2. ESN has a
+deadline of August 13, 2008 to file a response to the Patent Office’s recent decision. That
+response will be part of the prosecution history of the patent and aid the Court in the construction
+of the patent’s claims. The Court’s claim construction will also be assisted by the Patent
+Office’s comparison of the prior art to the patent claims. See SKF Condition Monitoring, Inc. v.
+SAT Corp., No. 07CV1116, 2008 WL 706851, at *7 (S.D. Cal. Feb. 27, 2008) (“The PTO's
+expert evaluation is likely to be of assistance not only as to the issues of validity, but its
+understanding of the claims is also likely to aid this Court in the preliminary process of claim
+construction.”).
+C.
+
+Completion of Discovery and Trial Date.
+
+This case is still in its infancy. Cisco’s motion to stay precedes any claim construction
+briefing, depositions, dispositive motions, or trial. Although ESN has served its infringement
+contentions and Cisco has served its invalidity contentions, very little has occurred in terms of
+discovery. The litigation is still in its infancy. Therefore, no significant resources have been
+expended to make a stay pending completion of reexamination improper. Cf. Anascape, 475 F.
+Supp. 2d at 616 (holding that this factor favored a stay even though interrogatories had been
+exchanged because the claim construction process had not yet begun). The trial date for the case
+is not until April 6, 2010, nearly twenty-two months away. Cf. Premier Int’l Assoc., 2008 WL
+2138158 at *6 (holding that this factor weighed in favor of a stay where the trial date was
+twenty-two months away); Alza Corp., 2006 WL 3500015, at *2 (holding that this factor favored
+a stay where trial was sixteen months away); Datatreasury Corp., 490 F. Supp. 2d at 755
+
+51301/2518188.2
+
+-12-
+
+(holding that this factor favored a stay where trial was eighteen months away). Because of the
+early stages of this case, a stay is warranted to avoid the substantial waste of both the parties’ and
+the Court’s resources if discovery, a claim construction hearing, summary judgment briefing, and
+trial went forward and the claims were subsequently declared invalid or were amended by the
+Patent Office.
+Conclusion
+For the foregoing reasons, Cisco’s motion for a stay of this action pending a final
+decision by the Patent Office on the inter partes reexamination of the ‘519 patent should be
+granted. Pursuant to Local Rule 7(g), Cisco respectfully requests oral argument on this motion.
+DATED: June 30, 2008
+
+Respectfully submitted,
+
+By /s/ Victoria Maroulis
+Victoria Maroulis
+MCKOOL SMITH P.C.
+SAM BAXTER
+Texas Bar No. 01938000
+sbaxter@mckoolsmith.com
+104 E. Houston St., Suite 300
+P.O. Box 0
+Marshall, Texas 75670
+Telephone : (903) 923-9000
+Facsimile : (903) 923-9099
+GARRET W. CHAMBERS
+Texas State Bar No. 00792160
+gchambers@mckoolsmith.com
+300 Crescent Court, Suite 1500
+Dallas, Texas 75201
+Telephone : (214) 978-4000
+Facsimile : (214) 978-4044
+
+51301/2518188.2
+
+-13-
+
+QUINN EMANUEL URQUHART OLIVER &
+HEDGES, LLP
+CHARLES K. VERHOEVEN
+LEAD COUNSEL
+Cal. Bar No. 170151
+charlesverhoeven@quinnemanuel.com
+KATHERINE H. BENNETT
+katherinebennett@quinnemanuel.com
+Cal. Bar No. 250175
+KEVIN A. SMITH
+Cal. Bar No. 250814
+kevinsmith@quinnemanuel.com
+50 California St., 22nd Floor
+San Francisco, California 94111
+Telephone: (415) 875.6600
+Facsimile: (415) 875.6700
+VICTORIA F. MAROULIS
+Cal. Bar No. 202603
+victoriamaroulis@quinnemanuel.com
+SAYURI K. SHARPER
+Cal. Bar No. 232331
+sayurisharper@quinnemanuel.com
+555 Twin Dolphin Dr., Suite 560
+Redwood Shores, California 94065
+Telephone: (650) 801-5000
+Facsimile: (650) 801-5100
+Attorneys for Defendants
+Cisco Systems, Inc. and Cisco-Linksys, LLC
+
+51301/2518188.2
+
+-14-
+
+CERTIFICATE OF CONFERENCE
+I hereby certify that counsel for Cisco conferred with counsel for Plaintiff on June 30, 2008 in an
+attempt to resolve this matter without Court intervention. Counsel for Plaintiff informed counsel for Cisco
+that it opposes this motion.
+
+Dated: June 30, 2008
+
+51301/2518188.2
+
+By: /s/ Victoria Maroulis
+Victoria Maroulis
+
+-15-
+
+CERTIFICATE OF SERVICE
+I hereby certify that on the date this proof of service is signed below, I served the foregoing:
+DEFENDANTS’ MOTION TO STAY PENDING REEXAMINATION
+by email and via the Court’s Electronic Filing System to
+George P. McAndrews
+gmcandrews@mcandrews-ip.com
+Thomas J. Wimbiscus
+twimbiscus@mcandrews-ip.com
+Peter J. McAndrews
+pmcandrews@mcandrews-ip.com
+Gerald C. Willis
+jwillis@mcandrew-ip.com
+Paul W. McAndrews
+Matthew N. Allison
+mallison@mcandrews-ip.com
+McAndrews, Held & Malloy
+500 West Madison, Suite 3400
+Chicago, IL 60661
+Telephone 312(775-8000
+Fax (312) 775-8100
+Eric M. Albritton
+ema@emafirm.com
+Albritton Law Firm
+P.O. Box 2649
+Longview, Texas 75606
+Telephone (903) 757-8449
+Fax (903) 757-2323
+T. John Ward
+jw@jwfirm.com
+Ward & Smith Law Firm
+111 West Tyler Street
+Longview, Texas 75601
+Telephone (903) 757-6400
+Fax (903) 757-2323
+Date: June 30, 2008
+
+51301/2518188.2
+
+/s/ Katherine Bennett
+Katherine Bennett
+
+-16-
+
+

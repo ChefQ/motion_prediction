@@ -1,0 +1,524 @@
+Case 2:03-cv-00294-TC Document 1097
+
+Brent O. Hatch (5715)
+bhatch@hjdlaw.com
+Mark F. James (5295)
+mjames@hjdlaw.com
+HATCH, JAMES & DODGE, PC
+10 West Broadway, Suite 400
+Salt Lake City, Utah 84101
+Telephone: (801) 363-6363
+Facsimile: (801) 363-6666
+
+Filed 11/04/11 Page 1 of 17
+
+Stuart Singer (admitted pro hac vice)
+ssinger@bsfllp.com
+BOIES SCHILLER & FLEXNER LLP
+401 East Las Olas Blvd.
+Suite 1200
+Fort Lauderdale, Florida 33301
+Telephone: (954) 356-0011
+Facsimile: (954) 356-0022
+
+David Boies (admitted pro hac vice)
+dboies@bsfllp.com
+Robert Silver (admitted pro hac vice)
+rsilver@bsfllp.com
+Edward Normand (admitted pro hac vice)
+enormand@bsfllp.com
+BOIES SCHILLER & FLEXNER LLP
+333 Main Street
+Armonk, New York 10504
+Telephone: (914) 749-8200
+Facsimile: (914) 749-8300
+Counsel for The SCO Group, Inc.
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF UTAH
+THE SCO GROUP, INC., by and through the
+Chapter 11 Trustee in Bankruptcy, Edward N.
+Cahn,
+Plaintiff/Counterclaim-Defendant,
+vs.
+
+THE SCO GROUP, INC.’S
+MEMORANDUM IN SUPPORT OF ITS
+MOTION TO REOPEN THE CASE
+Civil No.: 2:03CV0294
+Honorable Tena Campbell
+
+INTERNATIONAL BUSINESS
+MACHINES CORPORATION,
+Defendant/Counterclaim-Plaintiff.
+
+(REDACTED)
+
+Case 2:03-cv-00294-TC Document 1097
+
+Filed 11/04/11 Page 2 of 17
+
+TABLE OF CONTENTS
+BACKGROUND ............................................................................................................................. iii
+ARGUMENT.....................................................................................................................................1
+A.
+
+Scope of the Novell Final Judgment.............................................................................2
+
+B.
+
+The Project Monterey Claim.........................................................................................3
+
+C.
+
+Status of the Project Monterey Claim...........................................................................6
+
+D.
+
+The Tortious Interference Claims. ................................................................................7
+
+E.
+
+Status of the Tortious Interference Claims. ................................................................10
+
+CONCLUSION................................................................................................................................11
+
+ii
+
+Case 2:03-cv-00294-TC Document 1097
+
+Filed 11/04/11 Page 3 of 17
+
+Plaintiff/Counterclaim-Defendant, The SCO Group, Inc. (“SCO”), respectfully submits
+this Motion to Reopen the Case in order to proceed with SCO’s unfair competition claim
+concerning the Project Monterey joint venture (the “Project Monterey Claim”) and with SCO’s
+tortious interference claims alleging that IBM interfered with SCO’s market and business
+relationships (the “Tortious Inference Claims”). The Project Monterey Claim and the Tortious
+Interference Claims are unaffected by the final judgment entered in SCO v. Novell, Civil No.
+2:04CV139 (the “Novell Litigation”), which the Tenth Circuit has now affirmed. This Court
+need not await the resolution of that litigation, because it has ended.
+BACKGROUND
+In March 2010, District Judge Ted Stewart presided over a trial in the Novell Litigation
+to resolve two issues relevant to this case: (1) whether SCO owns the copyrights to versions of
+the UNIX operating system in existence when Novell sold the UNIX operating system and
+business to SCO in 1995, and (2) whether as part of the same 1995 transaction Novell retained
+rights to waive SCO’s claims against IBM that are based on IBM’s breach of its licensing
+agreements, executed in the 1980s, pursuant to which IBM licensed pre-1996 versions of UNIX.
+On March 30, 2010, the jury returned a verdict finding that Novell had not transferred to
+SCO the copyrights to the versions of UNIX that existed at the time of the sale in 1995. On June
+10, 2010, Judge Stewart issued findings of fact and conclusions of law, finding that Novell had
+the right to waive SCO’s claims against IBM that are based on IBM’s breach of its licensing
+agreements pursuant to which it licensed pre-1996 versions of UNIX.
+
+iii
+
+Case 2:03-cv-00294-TC Document 1097
+
+Filed 11/04/11 Page 4 of 17
+
+Judge Stewart issued a Final Judgment embodying the jury verdict and his findings of
+fact and conclusions of law (the “Novell Final Judgment”). On July 7, 2010, SCO appealed the
+Novell Final Judgment to the Tenth Circuit Court of Appeals.
+While SCO’s appeal of the Novell Final Judgment was pending, SCO filed a Motion for a
+Status Conference in the instant case, in order to “apprise the Court of the [Novell] Final
+Judgment” and “request a status conference for the Court to consider the appropriate time and
+manner to proceed with un-stayed claims in the instant action that are not affected by the Novell
+Litigation.” (Docket No. 1089 at 1.)
+On August 10, 2010, IBM opposed SCO’s Motion for a Status Conference on the
+grounds that “SCO’s claims depend on the outcome of SCO’s appeal in the Novell Litigation”
+and “should not be litigated in the absence of IBM’s counterclaims.” (Docket No. 1091 at 1.)
+IBM did not dispute the fact that its counterclaims in this case are stayed by the Bankruptcy
+Code, 11 U.S.C. §§ 101.
+On September 10, 2010, while SCO’s appeal of the Novell Final Judgment was pending,
+this Court denied SCO’s Motion for a Status Conference, finding that “the claims in the Novell
+litigation are inextricably intertwined with the claims in the IBM litigation.” (Docket No. 1093
+at 1.) The Court also stated: “When the Tenth Circuit Court of Appeals has issued its decision
+in the Novell litigation (No. 10-4122), either party may move the court to re-open the case. Until
+then, the matter will remain administratively closed.” (Id. at 1-2.)
+On August 30, 2011, the Tenth Circuit affirmed the Novell Final Judgment. On
+September 22, 2011, the Tenth Circuit issued the mandate for the Novell Litigation, bringing
+
+iv
+
+Case 2:03-cv-00294-TC Document 1097
+
+Filed 11/04/11 Page 5 of 17
+
+closure to that case. Consistent with the Court’s order, SCO now moves the Court to reopen this
+case.
+
+v
+
+Case 2:03-cv-00294-TC Document 1097
+
+Filed 11/04/11 Page 6 of 17
+
+ARGUMENT
+SCO respectfully moves the Court to reopen this case in order to proceed with SCO’s
+unfair competition claim concerning the Project Monterey joint venture and with SCO’s tortious
+interference claims alleging that IBM interfered with SCO’s market position and business
+relationships.
+SCO and IBM formed Project Monterey in late 1998 – three years after the 1995 Novellto-SCO transaction at issue in the Novell Litigation. IBM’s tortious interference also started
+years after that transaction.
+The Project Monterey Claim and the Tortious Interference Claims do not depend on
+SCO’s ownership of the copyrights to the versions of UNIX that existed in 1995 and are not
+subject to Novell’s right to waive SCO’s contract claims against IBM. SCO recognizes that its
+other claims in this case are foreclosed by the Novell Final Judgment.
+SCO respectfully requests that the Court rule on IBM’s Motion for Summary Judgment
+on SCO’s Unfair Competition Claim (SCO’s Sixth Cause of Action), dated September 25, 2006
+(Docket No. 782), which motion is directed at the Project Monterey Claim, and IBM’s Motion
+for Summary Judgment on SCO’s Interference Claims (SCO’s Seventh, Eighth and Ninth Causes
+of Action), dated September 25, 2006 (Docket No. 783), which motion is directed at the Tortious
+Interference Claims.
+Although SCO’s oppositions to those two summary judgment motions set forth the
+grounds for the Project Monterey Claim and the Tortious Interference Claims in detail, including
+numerous IBM internal emails chronicling IBM’s wrongful conduct, SCO is prepared to provide
+
+1
+
+Case 2:03-cv-00294-TC Document 1097
+
+Filed 11/04/11 Page 7 of 17
+
+such additional briefing or oral argument as the Court may find helpful, especially in light of the
+Novell Final Judgment.
+A.
+
+Scope of the Novell Final Judgment.
+
+The Novell Final Judgment drew a bright line with respect to the ownership of UNIX
+copyrights as between Novell and SCO, as delineated in the 1995 Asset Purchase Agreement
+between those parties. The Novell Final Judgment adopted Novell’s theory that Novell retained
+the copyrights to UNIX technologies that existed, and that Novell sold to SCO, in 1995. Novell
+never disputed that SCO owns the copyrights to the UNIX technologies SCO developed after the
+1995 sale. In fact, Novell insisted that SCO owns those copyrights. In addition, Novell did not
+dispute the fact that it sold and transferred to SCO the source code for all versions of UNIX that
+existed in 1995, including the versions whose copyrights Novell owns under the Novell Final
+Judgment.
+Similarly, the Novell Final Judgment adopted Novell’s theory that it had retained waiver
+rights over claims that are based on breach of certain agreements pursuant to which IBM and
+other licensees licensed pre-1996 versions of UNIX. Novell’s waiver rights thus pertain to
+SCO’s efforts to declare IBM in breach of such licensing agreements (executed in 1985 and
+1986).
+The Novell Final Judgment thus mooted claims in this case insofar as they were based on
+SCO’s ownership of copyrights to pre-1996 versions of UNIX or were based on IBM’s breach of
+the licensing agreements pursuant to which IBM licensed pre-1996 versions of UNIX. The
+Project Monterey Claim and the Tortious Interference Claims are not such claims.
+
+2
+
+Case 2:03-cv-00294-TC Document 1097
+
+B.
+
+Filed 11/04/11 Page 8 of 17
+
+The Project Monterey Claim.
+
+In its unfair competition claim, SCO alleges that IBM misappropriated SCO’s valuable
+UNIX technologies in connection with a joint venture between the parties known as Project
+Monterey.
+In October 1998, IBM and SCO formed Project Monterey in order to develop a UNIXbased computer operating system that would capitalize on the emergence of Intel computer
+processors (or “chips”) as a cost-effective alternative to RISC processors. At that time, Intel was
+developing its next-generation processor, a 64-bit processor known as Itanium or IA-64. IBM
+and SCO decided jointly to develop an operating system for the IA-64 platform (the “Project
+Monterey Operating System”), with the ultimate goal of transitioning their respective UNIX
+customers to the new processor on the Project Monterey Operating System. This venture was
+Project Monterey.
+In 1998, IBM had almost no presence in the market for UNIX operating systems on Intel
+chips. Instead, IBM had focused its efforts on its UNIX-based operating system named AIX 5L,
+which ran on IBM’s proprietary RISC-type processor named Power (“AIX for Power”). In
+contrast, SCO not only was the worldwide UNIX market leader in units sold, but was also, as
+IBM recognized in 1998, the “clear leader in the UNIX on Intel market” with “over 80% of the
+$3B UNIX-Intel market.” IBM recognized the critical need to have its own Intel offering.
+In order for IBM to transition its AIX for Power customers to the Project Monterey
+Operating System, the parties agreed that IBM would earn a license to use SCO’s UNIX
+technologies in AIX for Power, as these technologies would facilitate the transition. The parties
+also agreed that IBM would obtain this license only after making a generally available (“GA”)
+
+3
+
+Case 2:03-cv-00294-TC Document 1097
+
+Filed 11/04/11 Page 9 of 17
+
+release – that is, a general commercial release, as opposed to a beta release – of the Project
+Monterey Operating System. SCO agreed to provide this license to IBM, contingent on the
+commercial release of the Project Monterey Operating System, because SCO was to be
+compensated through revenue it would receive from the sales of the Project Monterey Operating
+System and related products.
+Despite its partnership with SCO, IBM subsequently decided that Linux – an upstart
+open-source operating system that was trying to compete with SCO’s existing UNIX products
+(UnixWare and OpenServer) and that would compete with the Project Monterey Operating
+System once it was completed – offered IBM a more profitable entryway into the UNIX-on-Intel
+market. While IBM secretly abandoned Project Monterey in favor of its new Linux Strategy,
+IBM decided that it could not openly withdraw from Project Monterey, for fear of raising legal
+issues and forfeiting the opportunity to obtain the right to use the UNIX technologies that SCO
+was bringing to the Project, including technologies that SCO had recently developed precisely
+for the upcoming IA-64 processors. As one IBM executive explained, “SCO has the rights to all
+the code if we cancel the project. We will need to re-negotiate the rights to ship SVr4 and UW7
+capabilities [the UNIX technologies] in the AIX base, or remove the code.”
+Accordingly, while outwardly pretending to remain committed to Project Monterey, IBM
+in fact was surreptitiously working behind the scenes to undermine the joint venture to the
+benefit of its competing products, Linux and AIX for Power. IBM’s pattern of deception
+unfairly deprived SCO of the opportunity to find other partners, upgrade its UNIX products to
+compete with Linux, and avoid wasting resources on a specious and unproductive “joint”
+venture.
+
+4
+
+Case 2:03-cv-00294-TC Document 1097
+
+Filed 11/04/11 Page 10 of 17
+
+In addition, IBM directly misappropriated the UNIX technologies that SCO contributed
+to Project Monterey, by making a sham GA release of the Project Monterey Operating System.
+IBM’s fictional GA release of the Project Monterey Operating System was of a non-functional
+product that lacked even a compiler – a feature indisputably essential to the operation of an
+operating system. IBM’s own witnesses in this case admitted that an operating system without a
+compiler cannot legitimately even be called an operating system. Among other IBM efforts to
+cover up the sham and justify its misappropriation, IBM concocted a price for the “released”
+Project Monterey product, and even went so far as to send SCO a single check of $256 for the
+revenues from the purportedly commercial release of the Project Monterey Operating System.
+IBM’s own internal communications chronicle the deception that IBM perpetrated upon
+SCO and the public in order to obtain and profit from the UNIX technologies that SCO had
+contributed to Project Monterey. For example:
+•
+
+A few weeks before the release, an IBM executive noted that IBM needed “to GA”
+the sham release in order “to gain rights to SCO code we want for our based AIX
+product delivery.” She added: “I know the fine lines we are walking here.”
+
+•
+
+In response to information that IBM was going to release the Project Monterey
+Operating System without a compiler, an IBM executive noted that “the compiler
+MUST be available in some form or the whole thing just doesn’t make sense (ie SCO
+won’t buy it).”
+
+•
+
+A few weeks after the sham release, IBM warned its employees that the “net internal
+position” at IBM was that the Project Monterey Operating System “is dead,” while
+the “external position” was that the Project Monterey Operating System “remains
+available for evaluation use as may be appropriate.”
+
+•
+
+A few months after the purported GA release, IBM admitted that the release was a
+sham, noting that “Monterey has not gone GA and never will.”
+
+At oral argument on IBM’s pending motion for summary judgment, counsel for SCO
+walked Judge Kimball through these and other IBM documents revealing the depth and extent of
+5
+
+Case 2:03-cv-00294-TC Document 1097
+
+Filed 11/04/11 Page 11 of 17
+
+IBM’s deception. (Argument Tr. (Ex. A) at 28:18-34:3.) Immediately following SCO’s
+argument, Judge Kimball asked IBM counsel: “What do you say about these documents here?”
+IBM counsel first responded: “If I may be clear about the documents, Your Honor, if I may
+approach – I could not see them, frankly, from over there.” (Id. at 46:8-46:14.) After peering at
+the blow-ups of the documents in the courtroom, IBM counsel responded: “Your Honor, what I
+say about the documents is the following,” and then proceeded to discuss only “the nature of the
+license IBM obtained pursuant to the JDA,” without addressing any of the obvious admissions
+made in the documents. (Id. at 46:15-47:23.)
+It remains undisputed, moreover, that IBM incorporated the misappropriated UNIX
+technologies into its AIX for Power operating system in competition with SCO starting in May
+2001, and that IBM continued to sell AIX for Power with these valuable technologies at least
+through the time Judge Kimball heard the foregoing oral argument, in March 2007. As IBM
+executives admitted, the Project Monterey Operating System was never released as a generally
+available or commercial product – and never would be.
+C.
+
+Status of the Project Monterey Claim.
+
+The Project Monterey Claim does not depend on SCO’s ownership of the copyrights to
+the versions of UNIX that existed in 1995 and is not subject to Novell’s rights to waive SCO’s
+contract claims against IBM.
+SCO submitted uncontroverted proof that IBM incorporated into AIX for Power valuable
+UNIX technologies that SCO developed after 1995 and whose copyrights indisputably belong to
+SCO – technologies that were critical for IBM to remain competitive. In his expert report, under
+
+6
+
+Case 2:03-cv-00294-TC Document 1097
+
+Filed 11/04/11 Page 12 of 17
+
+the heading “Source Code IBM Copied from UNIX System V into AIX for Power,” SCO expert
+Marc Rochkind concluded:
+Many lines of code were copied from SCO’s Gemini64 UNIX
+System V into AIX, as diagrammed in [Tab-210] through [Tab218]. These diagrams show over 440,000 lines of code that match
+exactly. In addition, many AIX files in those diagrams retain their
+SCO copyright notice. This evidence supports my opinion that
+there is absolute proof that a substantial amount of code was
+copied into AIX from Gemini64.
+Gemini64 was a technology that SCO developed after 1995, precisely for the Intel 64-bit
+processors that did not even exist until after that year.
+In addition, IBM misappropriated UNIX source code into its AIX for Power operating
+system. While Novell owns the copyrights to the UNIX source code that existed in 1995, SCO
+indisputably owns the UNIX source code itself, even after the Novell Final Judgment.
+The Project Monterey Claim therefore is ripe for adjudication.
+D.
+
+The Tortious Interference Claims.
+
+The Tortious Interference Claims allege that IBM interfered with SCO’s position as the
+leader in the UNIX-on-Intel market by wrongfully disclosing confidential UNIX technologies to
+Linux, in order to transform Linux from an upstart operating system for hobbyists to a
+commercial-grade alternative to SCO’s UnixWare and OpenServer operating systems – thereby
+interfering with SCO’s existing customers and prospective business opportunities. These Claims
+also allege that IBM pressured and encouraged SCO partners and customers to terminate or
+reduce their relationships with SCO, when SCO pursued remedies for the misappropriation of
+confidential UNIX technologies into Linux.
+
+7
+
+Case 2:03-cv-00294-TC Document 1097
+
+Filed 11/04/11 Page 13 of 17
+
+In the 1980s, pursuant to its standard UNIX licensing agreements, AT&T granted IBM
+licenses to two pre-1996 versions of UNIX. It was undisputed in the Novell Litigation that
+AT&T sold all its UNIX licensing agreements, including the IBM agreements, to Novell, which
+in turn sold them to SCO in the 1995 transaction at issue in the Novell Litigation. SCO is thus
+the successor-in-interest to AT&T with respect to its UNIX licensing agreements with IBM.
+Those agreements required IBM to treat the licensed source code and other UNIX
+technologies, including the methods and concepts and know-how embodied in the source code,
+as strictly confidential. Those licensing agreements also required IBM to apply those same
+confidentiality restrictions to any derivative (such as AIX) that IBM developed based on the
+licensed UNIX source code. IBM’s own internal documents dating back to the 1980s, as well as
+the testimony of its former licensing executives, reveal that IBM acknowledged and originally
+adhered to those strict restrictions.
+In the late 1990s, however, notwithstanding its long history of developing and protecting
+proprietary software, IBM decided to embrace Linux and the open-source movement. In making
+this strategic shift, IBM recognized that SCO was the undisputed leader of the UNIX-on-Intel
+market and that Linux was far from being a commercial product that could compete with SCO’s
+UnixWare and OpenServer operating systems. Instead of making the huge investments that
+would be required legitimately to transform Linux into a commercial product, IBM made
+deliberated decisions to contribute valuable confidential UNIX technologies to Linux, including
+technologies that even today are essential to UnixWare and OpenServer.
+Starting approximately in 2000, notwithstanding its obligations to SCO under the AT&T
+UNIX licensing agreements, IBM made substantial disclosures of technologies it was required to
+
+8
+
+Case 2:03-cv-00294-TC Document 1097
+
+Filed 11/04/11 Page 14 of 17
+
+keep confidential under those agreements. In addition, IBM misappropriated into Linux
+confidential UnixWare technologies that SCO contributed to Project Monterey (and that IBM
+also misappropriated into AIX for Power, as explained above). Because technologies that IBM
+disclosed to Linux lay at the heart of SCO’s UnixWare and OpenServer products, IBM knew that
+its disclosures to Linux would divert SCO’s existing and prospective UnixWare and OpenServer
+customers to Linux, decimate SCO’s leadership position in the UNIX-on-Intel market, and
+threaten the survival of SCO’s UNIX business.
+Indeed, thanks in large part to IBM’s improper disclosures and contributions to Linux,
+Linux became an operating system that could be used – at a much lower price – for the same
+commercial functions as UnixWare and OpenServer. Following those disclosures and
+contributions, as corporations transitioned their computer systems from UnixWare and
+OpenServer to Linux, SCO’s revenues plummeted 74 percent.
+In 2003, after the effects of its improper conduct became evident, IBM further isolated
+SCO in the market by pressuring and encouraging other companies to cease or reduce their
+business relationships with SCO. It was only at this point – nearly four years into IBM’s
+wrongful efforts to improve Linux at the expense of SCO – that IBM even became aware of
+Novell’s rights to waive SCO’s contract claims against IBM. After SCO asserted that it would
+take action to protect its business, IBM asked Novell to exercise those rights and Novell agreed.
+Shortly thereafter Novell announced that it would be purchasing one of the world’s leading
+Linux companies with a $50 million investment by IBM. Novell completed the purchase, with
+that investment, in January 2004.
+
+9
+
+Case 2:03-cv-00294-TC Document 1097
+
+E.
+
+Filed 11/04/11 Page 15 of 17
+
+Status of the Tortious Interference Claims.
+
+The Tortious Interference Claims do not depend on SCO’s ownership of the copyrights to
+the versions of UNIX that existed in 1995 and are not subject to Novell’s rights to waive SCO’s
+contract claims for IBM’s breach of its licensing agreements for UNIX.
+To the extent that SCO’s Tortious Interference Claims are based on IBM’s disclosure of
+pre-1996 UNIX technologies whose copyrights Novell owns under the Novell Final Judgment,
+SCO does not need ownership of those copyrights in order to bring tort claims based on IBM’s
+obligation to SCO to keep those technologies confidential. In addition, the Tortious Interference
+Claims are based on IBM’s disclosure of technologies whose copyrights Novell does not own,
+including derivatives of the UNIX source code that IBM licensed through the AT&T licensing
+agreements and UnixWare technologies that SCO developed after 1995 and contributed to
+Project Monterey.
+Similarly, to the extent that SCO’s Tortious Interference Claims are based on IBM’s
+disclosure of technologies subject to the confidentiality restrictions in the AT&T licensing
+agreements, Novell’s waiver rights under the Novell Final Judgment affect only the contract
+claims that SCO brought against IBM – not SCO’s tort claims based on those improper
+disclosures. The fact that Novell waived those contract claims years after the disclosures started
+does not diminish the impropriety of the disclosures or the damage they caused to SCO. Indeed,
+insofar as IBM requires the waiver to avoid liability for breach of contract, Novell’s waiver only
+highlights the wrongfulness of IBM’s conduct. In addition, the Tortious Interference Claims are
+also based on IBM’s disclosure of confidential UnixWare technologies that SCO developed after
+1995 and that are unrelated to IBM’s AT&T licensing agreements for UNIX.
+
+10
+
+Case 2:03-cv-00294-TC Document 1097
+
+Filed 11/04/11 Page 16 of 17
+
+CONCLUSION
+For the reasons set forth above, SCO respectfully asks the Court to reopen the case in
+order to proceed with the Project Monterey Claim and the Tortious Interference Claims. Should
+the Court grant this request, SCO stands ready to provide such additional briefing and argument,
+and to participate in a status or scheduling conference, as the Court may consider helpful.
+
+DATED this 4th day of November, 2011.
+By: /s/ Brent O. Hatch
+HATCH, JAMES & DODGE, P.C.
+Brent O. Hatch
+Mark F. James
+BOIES, SCHILLER & FLEXNER LLP
+David Boies
+Robert Silver
+Stuart H. Singer
+Edward Normand
+Counsel for The SCO Group, Inc.
+
+11
+
+Case 2:03-cv-00294-TC Document 1097
+
+Filed 11/04/11 Page 17 of 17
+
+CERTIFICATE OF SERVICE
+I, Brent O. Hatch, hereby certify that on this 4th day of November, 2011, a true and
+correct copy of the foregoing SCO’s Memorandum in Support of Its Motion to Reopen the
+Case was filed with the Court and served via electronic mail to the following recipients:
+
+David Marriott, Esq.
+Cravath, Swaine & Moore LLP
+Worldwide Plaza
+825 Eighth Avenue
+New York, New York 10019
+Amy F. Sorenson
+Snell & Wilmer LLP
+1200 Gateway Tower West
+15 West South Temple
+Salt Lake City, Utah 84101-1004
+
+Counsel for Defendant and Counterclaim-Plaintiff International Business
+Machines Corporation.
+By: /s/ Brent O. Hatch
+Brent O. Hatch
+HATCH, JAMES & DODGE, P.C.
+10 West Broadway, Suite 400
+Salt Lake City, Utah 84101
+Telephone: (801) 363-6363
+Facsimile: (801) 363-6666
+
+12
+
+

@@ -1,0 +1,1192 @@
+Apple Inc. v. Psystar Corporation
+
+Doc. 25
+
+1 ROBERT J. YORIO (SBN 93178)
+yorio@carrferrell.com
+2 COLBY B. SPRINGER (SBN 214868)
+cspringer@carrferrell.com
+3 CHRISTINE S. WATSON (SBN 218006)
+cwatson@carrferrell.com
+4 CHRISTOPHER P. GREWE (SBN 245938)
+cgrewe@carrferrell.com
+5 CARR & FERRELL LLP
+2200 Geng Road
+6 Palo Alto, California 94303
+Telephone: (650) 812-3400
+7 Facsimile: (650) 812-3444
+8 Attorneys for Defendant/Counterclaimant
+PSYSTAR CORPORATION
+9
+10
+
+UNITED STATES DISTRICT COURT
+
+11
+
+NORTHERN DISTRICT OF CALIFORNIA
+
+12
+
+SAN FRANCISCO DIVISION
+
+13
+
+APPLE INC., a California corporation,
+
+14
+15
+16
+17
+
+CASE NO. CV-08-03251-WHA
+
+Plaintiff,
+v.
+PSYSTAR CORPORATION,
+
+PSYSTAR CORPORATION’S
+OPPOSITION TO APPLE
+INC.’S MOTION TO DISMISS
+PSYSTAR CORPORATION’S
+COUNTERCLAIMS
+
+Defendant.
+
+18
+19 AND RELATED COUNTERCLAIMS.
+
+Date:
+Time:
+Courtroom:
+Judge:
+
+November 6, 2008
+8:00 a.m.
+9, 19th Floor
+Hon. William Alsup
+
+20
+21
+22
+23
+24
+25
+26
+27
+28
+{00342996v1}
+
+Psystar’s Opposition to Apple’s Motion to Dismiss
+(Case No. CV-08-03251-WHA)
+Dockets.Justia.com
+
+TABLE OF CONTENTS
+
+1
+2 I.
+3
+
+II.
+
+INTRODUCTION..............................................................................................................1
+ARGUMENT .....................................................................................................................2
+
+4
+A.
+
+Apple Misconstrues and Misapplies the Legal Standard for a Motion
+to Dismiss. ..............................................................................................................2
+
+B.
+
+Apple’s Motion to Dismiss Based on Psystar’s Single-Product
+Market Definition is Fundamentally Flawed. ........................................................3
+
+5
+6
+7
+
+1.
+
+8
+9
+10
+
+Ninth Circuit Law Expressly States that an Antitrust Claimant
+May Restrict the Relevant Market to a Single Brand of the
+Product at Issue. .........................................................................................3
+a.
+
+Denial of Apple’s motion to dismiss on the legal
+principle that single-product markets are permitted
+under Ninth Circuit law should come as no surprise to
+Apple. .............................................................................................4
+
+b.
+
+Psystar’s pleading of single-product markets is
+sufficient not only as a matter of law but also as a
+matter of fact. .................................................................................4
+
+11
+12
+13
+14
+15
+
+2.
+
+Psystar’s Counterclaims Satisfy the Pleading Requirements
+under Ninth Circuit Law. ...........................................................................6
+
+3.
+
+Apple Overstates the Alleged “Plethora of Legal Authority”
+in Support of its Motion to Dismiss. ..........................................................8
+
+4.
+
+Defining the Relevant Market for Antitrust Claims is an Issue
+of Fact for the Jury. ....................................................................................9
+
+16
+17
+18
+19
+20
+
+C.
+
+Apple’s Incorrectly Asserts that Psystar’s Counterclaims “Force
+Apple to Help Its Competitors.”...........................................................................11
+
+D.
+
+All of Psystar’s Counterclaims Are Sufficiently Plead........................................13
+
+21
+22
+23
+24
+25
+26
+27 III.
+
+1.
+
+Psystar’s State and Common Law Counterclaims Are
+Sufficiently Plead. ....................................................................................13
+
+2.
+
+Assuming Arguendo that Apple’s Arguments Have Any
+Merit, Psystar’s Fourth, Fifth and Sixth Counterclaims Are
+Sufficiently Plead Notwithstanding Psystar’s Market
+Definitions. ...............................................................................................13
+
+CONCLUSION ................................................................................................................15
+
+28
+{00342996v1}
+
+-iPsystar’s Opposition to Apple’s Motion to Dismiss
+(Case No. CV-08-03251-WHA)
+
+TABLE OF AUTHORITIES
+
+1
+2 CASES
+
+3 A.I. Root Co. v. Computer Dynamics, Inc.,
+615 F.Supp. 727, 1985-2 Trade Cases P 66,674 (N.D.Ohio May 31, 1985) (NO.
+4
+C84-1348)................................................................................................................................8
+5 A.I. Root Co. v. Computer/Dynamics, Inc.,
+806 F.2d 673 (6th Cir. 1986)...................................................................................................8
+6
+Aydin Corp. v. Loral Corp.,
+718 F.2d 897 (9th Cir. 1983).................................................................................................14
+7
+8
+
+Aydin Corp. v. Loral Corp.,
+981 WL 2178, 1982-1 Trade ¶ 64,685 (N.D.Cal. Oct 08, 1981) .........................................14
+
+9 Bell Atlantic Corp. v. Twombly,
+127 S. Ct. 1955 (2007) ............................................................................................................2
+10
+Brown Shoe Co. v. U.S.,
+11
+370 U.S. 294 (1962) ................................................................................................................9
+12 Cel-Tech Comms., Inc. v. Los Angeles Cellular Tel. Co.,
+20 Cal.4th 163 (1999)......................................................................................................13, 14
+13
+Digidyne Corp. v. Data General Corp.,
+734 F.2d 1336 (9th Cir. 1984)...........................................................................................3, 12
+14
+15 Digital Equipment Corp. v. Uniq Digital Technologies, Inc.,
+1993 WL 338985, 1993-2 Trade Cases P 70,378 (N.D.Ill. Sep 01, 1993) (NO. 88
+C 0644) ....................................................................................................................................8
+16
+17 Digital Equipment Corp. v. Uniq Digital Technologies, Inc.,
+73 F.3d 756 (7th Cir. 1986).....................................................................................................8
+18 Dimidowich v. Bell & Howell,
+19
+
+803 F.2d 1473 (9th Cir.1986)................................................................................................13
+
+20
+
+Disenos Artisticos E Industriales, S.A. v. Work,
+714 F.Supp. 46 (E.D.N.Y. 1989).............................................................................................9
+
+21 Eastman Kodak Co. v. Image Technical Services, Inc.,
+504 U.S. 451 (1992) ................................................................................................................6
+22
+Edwards v. Arthur Anderson LLP,
+23
+44 Cal.4th 937 (2008)............................................................................................................14
+24 Forsyth v. Humana, Inc.,
+114 F.3d 1467 (9th Cir. 1997)...........................................................................................9, 10
+25
+Fortner Enterprises v. U.S. Steel Corp.,
+394 U.S. 495 (1969) ..............................................................................................................12
+26
+Golan v. Pingel Enter., Inc.
+27
+310 F.3d 1360 (Fed. Cir. 2002) .............................................................................................15
+28
+{00342996v1}
+
+-iiPsystar’s Opposition to Apple’s Motion to Dismiss
+(Case No. CV-08-03251-WHA)
+
+1 Green Country Foods Market, Inc. v. Bottling Group, LLC,
+371 F.3d 1275 (10th Cir. 2004)...............................................................................................9
+2
+Imax Corp. v. Cinema Tech., Inc.,
+3
+152 F.3d 1161 9th Cir. 1998) ................................................................................................15
+4 In re Apple & AT&TM Antitrust Litigation,
+No. 144 Civ. 07-05152, slip op. (9th Cir. October 1, 2008) ...........................................4, 6, 7
+5
+In re Wang Laboratories, Inc.,
+1996 WL 87050 (D. Mass. 1996)............................................................................................9
+6
+7
+
+Karl Storz Endoscopy-Am., Inc. v. Surgical Techs., Inc.,
+285 F.3d 848 (9th Cir. 2002).................................................................................................15
+
+8 Les Shockley Racing, Inc. v. National Hot Rod Ass’n,
+884 F.2d 504 (9th Cir. 1989)...................................................................................................2
+9
+Little Caesars Enterprises, Inc. v. Smith,
+10
+34 F.Supp.2d 459 (E.D. Mich. 1998) ......................................................................................8
+11 Lucent Technologies, Inc. v. Gateway, Inc.,
+2007 WL 2900484 (S.D. Cal. 2007) .......................................................................................9
+12
+Newcal Industries, Inc. v. Ikon Office Solution,
+518 F.3d 1038 (9th Cir. 2008)........................................................................................passim
+13
+14 Newman v. Universal Pictures,
+486 U.S. 1059 (1988) ..............................................................................................................2
+15 Newman v. Universal Pictures,
+16
+
+813 F.2d 1519 (9th Cir. 1987).................................................................................................2
+
+17
+
+Ojala v. Bohlin,
+178 Cal. App.2d 292 (1960)..................................................................................................14
+
+18 Robertson v. Dean Witter Reynolds, Co.,
+749 F.2d 530 (9th Cir. 1984)...............................................................................................2, 3
+19
+Ron Tonkin Gran Turismo, Inc. v. Fiat Distributors, Inc.,
+20
+637 F.2d 1376 (9th Cir. 1981).................................................................................................9
+21 Slattery v. Apple Computer, Inc.,
+2005 WL 2204981 (9th Cir. 2005)..........................................................................................4
+22
+Theme Promotions, Inc. v. News America Marketing FSI,
+539 F.3d 1046, 1053 (9th Cir. 2008).......................................................................................9
+23
+U.S. v. LSL Biotechnologies,
+24
+379 F.3d 672 (9th Cir. 2004)...................................................................................................2
+25 U.S. v. Microsoft Corp.,
+253 F.3d 34 (C.A.D.C. 2001) ..................................................................................................5
+26
+U.S. v. Microsoft Corp.,
+27
+87 F.Supp.2d 30 (D.D.C. 2000) ..............................................................................................5
+28
+{00342996v1}
+
+-iiiPsystar’s Opposition to Apple’s Motion to Dismiss
+(Case No. CV-08-03251-WHA)
+
+1 United States v. Oracle Corp.,
+331 F.Supp. 2d 1098 (N.D. Cal 2004)...................................................................................10
+2
+Verizon Communs. v. Law Offices of Curtis V. Trinko, LLP,
+3
+540 U.S. 398 (2004) ..............................................................................................................11
+4 Walker Process Equipment, Inc. v. Food Machinery & Chemical Corp.,
+382 U.S. 172 (1965) ................................................................................................................2
+5
+6
+7
+
+STATUTES
+15 U.S.C. § 2 ...............................................................................................................................12
+
+8
+
+CAL. BUS. & PROF. CODE § 17200...............................................................................................14
+
+9 CAL. BUS. & PROF. CODE § 16700...............................................................................................11
+10
+11
+
+RULES
+
+12 FED. R. CIV. P. 12(b)(6).................................................................................................................2
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+{00342996v1}
+
+-ivPsystar’s Opposition to Apple’s Motion to Dismiss
+(Case No. CV-08-03251-WHA)
+
+1
+I.
+
+INTRODUCTION
+
+2
+3
+
+Apple Computer Inc. (“Apple”)’s primary argument in support of its motion to dismiss is
+
+4 that the relevant markets in Pystar’s counterclaims are ‘implausible’ because single-product
+5 relevant markets cannot be plead as a matter of law. Apple is simply wrong. The Ninth Circuit
+6 Court of Appeals clearly established in Newcal Industries, Inc. v. Ikon Office Solution the following
+7 legal principle:
+8
+
+10
+
+“[T]he law permits an antitrust claimant to restrict the relevant market to a single
+brand of the product at issue.”
+Newcal Industries, Inc. v. Ikon Office Solution,
+518 F.3d 1038, 1048 (9th Cir. 2008)
+
+11
+
+Apple is nothing if tenacious, having previously asserted this very same argument in
+
+9
+
+12 attempts to dismiss antitrust claims related to Apple’s iPod, iTunes Music Store, and iPhone
+13 pending in the Northern District of California. The result should likewise be the same – the motion
+14 should be dismissed. The sentiment echoed by Apple in those cases, as it is here, is that the
+15 antitrust claimants are trying to “force” and “require Apple to help its competitors compete against
+16 it.” This fundamental subversion of the real issues – the adequacy of Psystar’s pleading regarding
+17 Apple’s misuse of its Mac OS copyrights and illegal tying of its separately sold OS to its Apple18 Labeled Computer Hardware Systems – is ill-founded. Psystar requests that the Court adhere to the
+19 precedent of the Ninth Circuit – as did the Court in the aforementioned actions – and deny Apple’s
+20 motion to dismiss.
+21
+22
+23
+24
+25
+26
+27
+28
+{00342996v1}
+
+-1Psystar’s Opposition to Apple’s Motion to Dismiss
+(Case No. CV-08-03251-WHA)
+
+1
+2
+
+II.
+
+ARGUMENT
+
+3
+A.
+
+Apple Misconstrues and Misapplies the Legal Standard for a Motion to Dismiss.
+
+4
+5
+
+A complaint may be dismissed for failure to state a claim upon which relief may be granted.
+
+6 FED. R. CIV. P. 12(b)(6). A claim may be dismissed as a matter of law for: “(1) lack of a
+7 recognizable legal theory or (2) insufficient facts under a cognizable legal theory.” Robertson v.
+8 Dean Witter Reynolds, Co., 749 F.2d 530, 534 (9th Cir. 1984). The legal theories at issue are not in
+9 question. Apple instead asserts that Psystar’s detailed factual arguments are mere “conclusory
+10 allegations” upon which the Court may dismiss Psystar’s counterclaims. Apple is incorrect.
+11
+
+Psystar’s detailed factual arguments go above and beyond what is required under Rule
+
+12 12(b)(6) of the Federal Rules of Procedure. To survive a Rule 12(b)(6) motion, Psystar “need only
+13 allege sufficient facts from which the court can discern the elements of an injury resulting from an
+14 act forbidden by antitrust laws.” Newman v. Universal Pictures, 813 F.2d 1519, 1522 (9th Cir.
+15 1987), cert. denied, 486 U.S. 1059 (1988); U.S. v. LSL Biotechnologies, 379 F.3d 672, 683 (9th Cir.
+16 2004). The Court is required to accept the facts pleaded as true and to construe them in light most
+17 favorable to Psystar. See, e.g., Walker Process Equipment, Inc. v. Food Machinery & Chemical
+18 Corp., 382 U.S. 172, 174-75 (1965); Les Shockley Racing, Inc. v. National Hot Rod Ass’n, 884 F.2d
+19 504, 507 (9th Cir. 1989) (“[non-moving parties] are entitled to have all of their allegations of
+20 material fact accepted as true and construed in a favorable light”).
+21
+
+With regard the general rules of pleading, Apple incorrectly applies Bell Atlantic Corp.v.
+
+22 Twombly to the allegations in Psystar counterclaims. Unlike the claims in Twombly, Psystar’s
+23 counterclaims do not simply state “labels and conclusions, and a formulaic recitation of the
+24 elements of a cause of action.” Bell Atlantic Corp. v. Twombly, 127 S. Ct. 1955, 1964-65 (2007)
+25 (affirming dismissal of Sherman Act § 1 claim of conspiracy in restraint of trade). Psystar’s well26 pled complaint sets forth very specific factual allegations. See Counterclaim, ¶¶ 17-77). Apple
+27 even identifies and points to factual allegations supporting Psystar’s claims in its brief. See Apple
+28 Brief, 1:16-28 (citing Counterclaim, ¶¶ 15, 22, 31-35), 2:12-21 (citing Counterclaim, ¶¶ 18, 27, 57),
+{00342996v1}
+
+-2Psystar’s Opposition to Apple’s Motion to Dismiss
+(Case No. CV-08-03251-WHA)
+
+1 2:22-26 (citing Counterclaim, ¶¶ 18,-20) (regarding the absence of effective substitutes for the Mac
+2 OS), 8:23-12:26 (citing Counterclaim, ¶¶ 15, 18-19, 21-23, 28, 34-39, 43).
+3
+4
+
+Apple’s Motion to Dismiss Based on Psystar’s Single-Product
+Market Definition is Fundamentally Flawed.
+
+5
+
+1.
+
+6
+7
+
+B.
+
+Ninth Circuit Law Expressly States that an Antitrust Claimant May
+Restrict the Relevant Market to a Single Brand of the Product at Issue.
+
+In its counterclaim allegations, Psystar identifies two relevant product markets: (1) the Mac
+
+8 OS and (2) Mac OS Capable Computer Hardware Systems. Counterclaim, ¶¶ 17-29. Psystar further
+9 specifically identifies Apple-Labeled Computer Hardware Systems as an artificially created and
+10 illegally maintained submarket of the Mac OS Capable Computer Hardware Systems market. Id. ¶¶
+11 27-28. “Apple is the only member and wields monopoly power” in Apple-Labeled Computer
+12 Hardware Systems submarket. Id. Apple’s motion to dismiss is based on the argument that a
+13 single-product market is legally implausible. Apple is simply incorrect.
+14
+
+The Ninth Circuit Court of Appeals established in the most plain, unambiguous, and
+
+15 straightforward terms that “the law permits an antitrust claimant to restrict the relevant market to a
+16 single brand of the product at issue.” Newcal Industries, Inc. v. Ikon Office Solution, 518 F.3d 1038,
+17 1048 (9th Cir. 2008); see also Digidyne Corp. v. Data General Corp., 734 F.2d 1336, 1339 (9th
+18 Cir. 1984) (affirming the district courts analysis of a “‘single product’ claim”).
+19
+
+In Newcal, the Ninth Circuit criticized the district court’s 12(b)(6) dismissal of an antitrust
+
+20 claimant’s claims for exclusive dealing, tying, restraint of trade, and attempted monopolization
+21 when all of the movant’s arguments hinged on factual deficiencies rather than legal deficiencies.
+22 See Newcal Industries, 518 F.3d at 1051-52. Such is the case here as Apple does not contend that
+23 Psystar’s counterclaims lack recognizable legal theories or insufficient facts under those theories.
+24 See Robertson, 749 F.2d at 534 (dismissing a claim is only proper for: “(1) lack of a recognizable
+25 legal theory or (2) insufficient facts under a cognizable legal theory”).
+26
+
+Apple simply – and incorrectly – concludes that Psystar’s factual allegations are wrong. See
+
+27 Apple Brief, 8:18-12:26. Apple’s conclusions do not support Apple’s motion to dismiss. Apple’s
+28
+{00342996v1}
+
+-3Psystar’s Opposition to Apple’s Motion to Dismiss
+(Case No. CV-08-03251-WHA)
+
+1 arguments do nothing but reinforce the existence of factual disagreement regarding the relevant
+2 markets, which necessitates the denial of Apple’s motion to dismiss. See infra Section III(B)(3).
+3
+a.
+
+4
+5
+
+Denial of Apple’s motion to dismiss on the legal principle that
+single-product markets are permitted under Ninth Circuit law
+should come as no surprise to Apple.
+
+United States District Court Judge Ware recently applied the single-product market
+
+6
+
+7 principle in his denial of Apple’s motion to dismiss the antitrust claims in the putative class action
+8 involving Apple’s iPhone. Judge Ware stated that: “there can be a legally cognizable aftermarket
+9 in a single brand’s products, even if that market is created by a contractual relationship.” In re
+10 Apple & AT&TM Antitrust Litigation, No. 144 Civ. 07-05152, slip op. at 13:1-2, 14:10-12 (9th Cir.
+1
+11 October 1, 2008) (Order Granting in Part and Denying in Part Apple’s Motion to Dismiss).
+
+Judge Ware reached a similar decision three years earlier when he denied Apple’s motion to
+
+12
+
+13 dismiss antitrust claims in a class action involving Apple’s iPod and iTunes Music Store. In that
+14 action, Judge Ware stated that: [a]lthough the alleged relevant markets are narrowly defined by
+15 Plaintiff, this Court accepts these allegations as true for the purpose of this motion. . . . [A]s plead,
+16 Plaintiff alleges all of the elements of a tying claim to survive a motion to dismiss under Rule
+17 12(b)(6).” Slattery v. Apple Computer, Inc., 2005 WL 2204981 at *4 (9th Cir. 2005) (Order
+2
+18 Granting in Part and Denying in Part Apple’s Motion to Dismiss).
+
+19
+20
+
+b.
+
+21
+22
+
+Psystar’s pleading of single-product markets is sufficient
+not only as a matter of law but also as a matter of fact.
+
+Notwithstanding (1) that “[t]he definition of the relevant market is a question of fact for the
+
+23 jury” (see infra Section II(B)(3)) and (2) that a single-product market is sufficient as a matter of
+24 law, Psystar’s definition of the Mac OS as a relevant market is factually plausible. Apple
+25
+26
+
+1
+
+27
+2
+
+28
+{00342996v1}
+
+Order attached as Exhibit “A” to Declaration of Christopher Grewe in support of Opposition to
+Motion to Dismiss (“Grewe Decl.”).
+Order attached as Exhibit “B” to Declaration of Christopher Grewe in support of Opposition to
+Motion to Dismiss (“Grewe Decl.”).
+-4Psystar’s Opposition to Apple’s Motion to Dismiss
+(Case No. CV-08-03251-WHA)
+
+1 conclusorily submits to the Court that the Mac OS is a “competitive substitute” for the Windows
+2 OS and Linux and, thus, cannot plausibly be defined as the relevant market. Apple Brief, 8:183 10:2. Apple’s contention is wrong on its face for at least two reasons.
+4
+
+First, the factual allegations in Psystar’s counterclaims, including reference to Apple’s
+
+5 advertising campaigns, refute Apple’s contention. See Counterclaim, ¶¶ 19-20, 25, 27-28, 30-46,
+6 55-56, 68; see also Exhibit A of Apple’s Request for Judicial Notice. Second, factual findings of
+7 other district courts regarding the Windows OS in comparison other to operating systems refuted
+8 Apple’s unsupported contention.
+9
+
+For example, in U.S. v. Microsoft Corp., the United States District Court for the District of
+
+10 Columbia made the evidentiary finding that the Mac OS, contrary to Apple’s conclusion in support
+11 of its motion, was not a suitable substitute to the Windows OS, stating:
+12
+13
+14
+
+The Court has already found, based on the evidence in this record, that there
+are currently no products – and that there are not likely to be any in the near
+future – that a significant percentage of computer users worldwide could
+substitute for Intel-compatible PC operating systems without incurring
+substantial costs.
+
+15
+16 U.S. v. Microsoft Corp., 87 F.Supp.2d 30, 36 (D.D.C. 2000), aff’d in relevant part, U.S. v.
+17 Microsoft Corp., 253 F.3d 34 (C.A.D.C. 2001) (emphasis added).
+18
+
+On appeal, Microsoft challenged this market definition on the specific basis that the Mac
+
+19 OS should be included therein. The Court of Appeals emphasized the district court’s finding,
+20 stating:
+21
+22
+23
+24
+
+The District Court found that consumers would not switch from Windows to
+Mac OS in response to a substantial price increase because of the costs of
+acquiring the new hardware needed to run Mac OS (an Apple computer and
+peripherals) and compatible software applications, as well as because of the
+effort involved in learning the new system and transferring files to its format.
+Findings of Fact ¶ 20.
+
+25 U.S. v. Microsoft Corp., 253 F.3d 34, 52 (C.A.D.C. 2001) (emphasis added). The Court of Appeals
+26 criticized Microsoft’s conclusory argument on appeal stating that “Microsoft neither points to
+27 evidence contradicting the District Court's findings nor alleges that supporting record evidence is
+28 insufficient.” Id. The Court of Appeals affirmed the lower court’s findings and stated “we have no
+{00342996v1}
+
+-5Psystar’s Opposition to Apple’s Motion to Dismiss
+(Case No. CV-08-03251-WHA)
+
+1 basis for upsetting the court's decision to exclude Mac OS from the relevant market.” Id.3 These
+2 findings of fact suggest that Psystar’s allegations regarding the Mac OS as a relevant market are, at
+3 the very least, plausible.
+4
+5
+
+2.
+
+6
+
+Psystar’s Counterclaims Satisfy the Pleading
+Requirements under Ninth Circuit Law.
+
+As noted in In re Apple & AT&TM Antitrust Litigation, the Ninth Circuit considers several
+
+7
+
+8 factors when evaluating a claimant’s market allegations in a motion to dismiss under Federal Rule
+9 12(b)(6). See In re Apple & AT&TM Antitrust Litigation, slip op. at 12:19-13:2 (citing Newcal, 513
+10 F.3d at 1045). First, “the ‘relevant market must be a product market,’ the boundaries of which are
+11 defined by products and producers.” In re Apple & AT&TM Antitrust Litigation, slip op. at 12:1912 13:2. Second, “the market encompasses the product at issue, in addition to all reasonably
+13 interchangeable economic substitutes.” Id. Third, an antitrust claimant “may allege a submarket,
+14 which must be ‘economically distinct from the general product market.” Id. All of these factors
+15 are encompassed in Psystar’ counterclaims.
+In In re Apple AT&TM Antitrust Litigation, the Ninth Circuit found in light of these factors
+
+16
+
+17 that the antitrust claimants sufficiently alleged market power and monopolization in the iPhone
+18 voice and data services aftermarket and the iPhone applications aftermarket. Relying on Newcal
+19 Industries and Eastman Kodak, the Ninth Circuit held that the plaintiffs pleading was sufficient
+20 where it “alleged an aftermarket for iPhone voice and data services ‘that would not exist without’
+21 the primary market for iPhones, and is thus ‘wholly derivative from and dependant on the primary
+22 market.’” See In re Apple & AT&TM Antitrust Litigation, slip op. at 14:13:-15:26 (citing Newcal,
+23 513 F.3d at 1045; Eastman Kodak Co. v. Image Technical Services, Inc. 504 U.S. 451 (1992)). The
+24 Ninth Circuit similarly held that the antitrust claimants successfully alleged an iPhone applications
+25
+26
+3
+
+27
+28
+{00342996v1}
+
+Psystar acknowledges that subsequent iterations to the Mac OS have been released since these
+findings of fact and affirmation thereof, including the capability of running the Mac OS on Intel
+processors. Such changes, alone, cannot establish that the factual findings of a district court
+after a full bench trial and affirmed on appeal are now completely implausible.
+-6Psystar’s Opposition to Apple’s Motion to Dismiss
+(Case No. CV-08-03251-WHA)
+
+1 aftermarket, stating that “an aftermarket for iPhone applications that ‘would not exist without’ the
+2 primary market for iPhones, and is thus ‘wholly derivative from and dependant on the primary
+3 market’” was sufficient to state a claim under Section 2 of the Sherman Act. See In re Apple &
+4 AT&TM Antitrust Litigation, slip op. at 16:1-28 (citing Newcal, 513 F.3d at 1049).
+5
+
+Psystar identifies two relevant product markets: (1) the Mac OS and (2) Mac OS Capable
+
+6 Computer Hardware Systems in its counterclaim allegations. Counterclaim, ¶¶ 17-29. Psystar
+7 further specifically identifies Apple-Labeled Computer Hardware Systems as an artificially created
+8 and illegally maintained submarket of the Mac OS Capable Computer Hardware Systems market,
+9 and of which “Apple is the only member and wields monopoly power.” Id. ¶ ¶ 27-28. Apple
+10 illicitly creates and maintains this submarket through its Mac OS End User License Agreement
+11 (EULA). Id. ¶ ¶ 27-28. The Apple-Labeled Computer Hardware Systems submarket is one that
+12 “would not exist” without the primary market for the Mac OS and is thus “wholly derivative from
+13 and dependent” on that market. The present markets are both factually and legally analogous to the
+14 markets and submarkets in In re Apple AT&TM Antitrust Litigation, wherein the court found the
+15 claimants’ antitrust allegations sufficient to overcome Apple’s motion to dismiss.
+16
+
+Moreover, the Apple-Labeled Computer Hardware Systems submarket exists as a direct
+
+17 result of Apple’s Mac OS EULA. The Court in In re Apple & AT&TM Antitrust Litigation
+18 expressly noted that claimants’ antitrust claims were “also adequate to the extent the alleged
+19 aftermarket is predicated on an initial contractual relationship between [Apple] and [purchasers of
+20 the tying product].” See In re Apple & AT&TM Antitrust Litigation, slip op. at 151-6 (citing
+21 Newcal, 513 F.3d at 1049). The situation in the In re Apple & AT&TM Antitrust Litigation is
+22 analogous here as the Apple-Labeled Computer Hardware Systems submarket is expressly
+23 predicated on contractual relationship (i.e., Apple’s EULA) between Apple and Mac OS purchases.
+24 Apple specifically points to Psystar’s counterclaim allegations asserting the same. See Apple Brief,
+25 2:19-21 (citing Counterclaim, ¶¶ 57, 61). On this additional basis, Psystar’s market allegations are
+26 sufficiently plead to deny Apple’s motion to dismiss under the applicable law of the Ninth Circuit.
+27
+28
+{00342996v1}
+
+-7Psystar’s Opposition to Apple’s Motion to Dismiss
+(Case No. CV-08-03251-WHA)
+
+1
+
+3.
+
+Apple Overstates the Alleged “Plethora of Legal Authority”
+in Support of its Motion to Dismiss.
+
+2
+3
+
+Apple also incorrectly overstates its legal conclusion that the “plethora of legal authority . . .
+
+4 makes clear that an antitrust plaintiff cannot legitimately plead a single brand market.” Apple Brief,
+5 8:18-19. As noted supra in Section II(B)(1), Apple’s conclusion is simply incorrect. Ninth Circuit
+6 law expressly permits an antitrust claimant to restrict the relevant market to a single brand of the
+7 product at issue. Newcal Industries, 518 F.3d at 1048.
+8
+
+Moreover, the cases cited by Apple do not support Apple’s motion to dismiss. In fact, the
+
+9 majority of the cases cited by Apple in support of its single-product argument were not even
+10 decided at the Rule 12(b)(6) pleadings stage on a motion to dismiss. These cases reinforce the point
+11 that market definitions require a factual determination that cannot properly be made on a motion to
+12 dismiss:4
+13
+
+•
+
+Little Caesars Enterprises, Inc. v. Smith, 34 F.Supp.2d 459 (E.D. Mich. 1998), a
+district court case from outside this jurisdiction, cited in Apple’s Brief at 7:21-24,
+was decided on summary judgment only after a very fact specific analysis of the
+relevant facts from discovery and testimony from economic experts was completed.
+Id. at 490-513.
+
+•
+
+A.I. Root Co. v. Computer/Dynamics, Inc., 806 F.2d 673 (6th Cir. 1986), a circuit
+court decision from outside this jurisdiction, cited in Apple’s Brief at 7:10-13, had
+been decided on summary judgment only after discovery relating to the market
+definition, including depositions, had been taken.5
+
+•
+
+Digital Equipment Corp. v. Uniq Digital Technologies, Inc., 73 F.3d 756 (7th Cir.
+1986), a circuit court decision from outside this jurisdiction, cited in Apple’s Brief
+at 7:9-10, had been decided on summary judgment after analysis of the facts and
+consideration of expert opinion regarding the relevant market.6
+
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+4
+
+25
+26
+27
+28
+{00342996v1}
+
+5
+
+6
+
+A detailed discussion regarding the factual determination of market definitions after the
+pleading stage is provided infra in Section II(B)(3).
+See A.I. Root Co. v. Computer Dynamics, Inc., 615 F.Supp. 727, 1985-2 Trade Cases P 66,674
+(N.D.Ohio May 31, 1985) (NO. C84-1348) (district court’s summary judgment ruling).
+See Digital Equipment Corp. v. Uniq Digital Technologies, Inc., 1993 WL 338985, 1993-2
+Trade Cases P 70,378 (N.D.Ill. Sep 01, 1993) (NO. 88 C 0644) (district court’s summary
+judgment ruling).
+-8Psystar’s Opposition to Apple’s Motion to Dismiss
+(Case No. CV-08-03251-WHA)
+
+1
+
+•
+
+In re Wang Laboratories, Inc., 1996 WL 87050 (D. Mass. 1996), a district court
+case from outside this jurisdiction,, cited in Apple’s Brief at 7:13-14, related to a
+district court’s decision regarding its factual findings on the relevant market
+definition after full trial on the merits.
+
+•
+
+Disenos Artisticos E Industriales, S.A. v. Work, 714 F.Supp. 46 (E.D.N.Y. 1989), a
+district court case from outside this jurisdiction, cited in Apple’s Brief at 7:27-8:1,
+was decided on summary judgment after a review of the evidentiary record.
+
+•
+
+Lucent Technologies, Inc. v. Gateway, Inc., 2007 WL 2900484 (S.D. Cal. 2007), a
+district court case from outside this jurisdiction, cited in Apple’s Brief at 6:26-7:2,
+was decided on summary judgment after a review of the evidentiary record.
+
+•
+
+Ron Tonkin Gran Turismo, Inc. v. Fiat Distributors, Inc., 637 F.2d 1376 (9th Cir.
+1981), cited in Apple’s Brief at 6:24-26, had been decided on summary judgment
+after a review of the evidentiary record.
+
+•
+
+Brown Shoe Co. v. U.S., 370 U.S. 294 (1962), cited in Apple’s Brief at 6:17-19, had
+been decided after a full trial on the merits.
+
+•
+
+Green Country Foods Market, Inc. v. Bottling Group, LLC, 371 F.3d 1275 (10th Cir.
+2004), cited in Apple’s Brief at 7:14-17, had been decided at summary judgment
+only after it had found a lack of evidence to establish the market definition at issue.
+See id. at 1284-85.
+
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+
+That none of these cases was decided at the pleadings stage is not surprising given that
+
+17 plaintiff’s definition of the relevant market is a post-pleadings factual determination. Forsyth, 114
+18 F.3d at 1475.
+19
+20
+21
+22
+
+4.
+
+Defining the Relevant Market for Antitrust Claims
+is an Issue of Fact for the Jury.
+
+Apple’s motion to dismiss should be further denied because “[t]he definition of the relevant
+
+23 market is a question of fact for the jury.” Theme Promotions, Inc. v. News America Marketing FSI,
+24 539 F.3d 1046, 1053 (9th Cir. 2008) (citing Forsyth v. Humana, Inc., 114 F.3d 1467, 1475 (9th Cir.
+25 1997)). Defining the relevant market is a question of fact for the jury, in part, because
+26 “[d]etermining the relevant market can involve a complicated economic analysis, including
+27 concepts like cross-elasticity of demand, and ‘small but signatory nontransitory increase in price’
+28
+{00342996v1}
+
+-9Psystar’s Opposition to Apple’s Motion to Dismiss
+(Case No. CV-08-03251-WHA)
+
+1 (‘SSNIP’) analysis.” Id. (citing United States v. Oracle Corp., 331 F.Supp. 2d 1098 (N.D. Cal
+2 2004) (Walker, C.J.)).
+3
+
+Apple does not address this issue in its brief. Apple was, however, highly – albeit
+
+4 improperly – critical of Psystar’s factual allegations in characterizing them as “so vague [they] are
+5 meaningless” and must therefore be “ignored.” See Apple Brief, 11:16-12:24 (citing a Western
+6 District of Tennessee case for this assertion). For example, Apple improperly criticizes Psystar’s
+7 factual allegation “that a percentage change in price of one product, namely the Mac OS, will not
+8 result in a change in quantity that consumers will demand of another product as evidence by the
+9 price differentiations . . . as otherwise set forth above.” Apple Brief, 11:13-16 (citing Psystar’s
+10 Counterclaim, ¶ 43).
+11
+
+This factual allegation is anything but ambiguous. First, Psystar’s factual allegations set
+
+12 forth specific prices, values and products. See Counterclaim, ¶¶ 36-37, 44-45. Second, the Ninth
+13 Circuit Court of Appeals expressly stated in almost identical language that that such a factual
+14 allegation is an important fact question to be determined by the jury:
+15
+16
+17
+18
+
+“Cross-elasticity of demand measures the percentage change in quantity that
+consumers will demand of one product in response to a percentage change in
+the price of another.” Theme Promotions, 539 F.3d at 1054 (citing Forsyth,
+114 F.3d at 1483).
+In short, Psystar has not posited meaningless or vague allegations in its counterclaims.
+
+19 Apple’s requests that the Court (1) ignore the federal pleading requirements (see supra Section
+20 II(A)) (2) determine questions of fact for the jury in a pre-answer motion, and (3) disregard and
+21 ignore without reason the very specific factual allegations in Psystar’s well-pled complaint are all
+22 improper requests.
+23
+24
+25
+26
+27
+28
+{00342996v1}
+
+-10Psystar’s Opposition to Apple’s Motion to Dismiss
+(Case No. CV-08-03251-WHA)
+
+1 C.
+2
+3
+
+Apple’s Incorrectly Asserts that Psystar’s Counterclaims
+“Force Apple to Help Its Competitors.”
+Apple’s last gasp argument in support of its motion to dismiss is that Psystar’s
+
+4 counterclaims seek to force Apple to share a piece of its Mac OS pie with its competitors. Apple’s
+5 argument is a fundamental subversion of the true issues relevant to Psystar’s counterclaims.
+6 Psystar’s counterclaims are not premised on “forcing Apple to license its software to competitors.”
+7 Psystar seeks to prevent Apple from intentionally restraining competition. See CAL. BUS. & PROF.
+8 CODE § 16700. Apple’s contrived attempt to shoehorn this case into the law of Verizon Communs.
+9 v. Law Offices of Curtis V. Trinko, LLP, 540 U.S. 398, 401-03 (2004), is therefore meritless.
+10
+
+The issue in Trinko was whether Verizon, a telecommunications carrier subject to regulation
+
+11 by the Telecommunications Act of 1996 (the “Telco Act”), could be held liable for unlawful
+12 monopolization if the alleged antitrust violation was for Verizon’s failure to adhere to the statutory
+13 requirements imposed by Section 251 of the Telco Act. Verizon Communs. v. Law Offices of Curtis
+14 V. Trinko, LLP, 540 U.S. 398, 401-03 (2004). Section 251 of the Telco Act required Verizon to
+15 allow competing local exchange carriers to connect to certain components of Verizon’s network. Id.
+16 The antitrust claimants’ claims were based on FFC findings that Verizon failed to adhered to the
+17 Section 251 requirements, and the claimants asserted that Verizon’s failure to meet its obligations
+18 under the Telco Act stifled competition and, thus, created antitrust liability. Id. at 404. In other
+19 words, the alleged antitrust liability was based on Verizon’s failure to adhere to Section 251 of the
+20 Telco Act. The Supreme Court rejected the claim, noting that while Verizon’s action may have
+21 been a breach of the Telco Act, it did violate any antitrust law as such laws do not require a firm to
+22 assist competitors. Id. at 407-10.
+23
+
+The issue here is not whether Apple is being forced to help it competitors. Psystar’s
+
+24 counterclaims assert, inter alia, Apple’s misuse of its Mac OS copyrights and illegal tying of its
+25 separately sold Mac OS to Apple-Labeled Computer Hardware Systems. Both acts constitute an
+26 illegal restraint of trade directly in conflict with the likes of the Cartwright Act. See CAL. BUS. &
+27 PROF. CODE § 16700.
+28
+{00342996v1}
+
+Specifically, Psystar’s counterclaims focus, in part, on Apple’s illegal tying arrangement
+-11Psystar’s Opposition to Apple’s Motion to Dismiss
+(Case No. CV-08-03251-WHA)
+
+1 consistent with prerequisites of per se illegal tying. See Counterclaim, ¶¶ 78-92. Those
+2 prerequisites are: “(1) separate products, the purchase of one (tying product) being conditioned on
+3 the purchases of the other (tied product); (2) sufficient economic power with respect to the tying
+4 product to restrain competition in the tied product; and (3) an effect upon a substantial amount of
+5 commerce in the tied product.” Digidyne, 734 F.2d at 1338 (citing Fortner Enterprises v. U.S. Steel
+6 Corp., 394 U.S. 495, 499 (1969)). In that regard, Psystar complains of Apple’s illegal tying of its
+7 Mac OS to only Apple-Labeled Computer Hardware Systems – not that Apple is refusing to help its
+8 competitors.
+9
+
+Apple’s contention that such allegations are “implausible” likewise has no merit. The Ninth
+
+10 Circuit has previously held that a computer software and hardware manufacture can be held liable
+11 for violations of Section 1 of the Sherman Act and Section 3 of the Clayton Act for per se illegal
+12 tying of the manufacturer’s OS to the manufacturer’s CPUs of its computer systems. See Digidyne,
+13 734 F.2d 1336 (reversing district court’s grant of manufacturer’s motion for judgment n.o.v. or for
+14 a new trial following a jury verdict of per se tying). In Digidyne, the “tying product” was the OS
+15 and the “tied product” was the CPU of the computer systems. Id. Here, the “tying product” is the
+16 Mac OS and the “tied product” is Apple-Labeled Computer Hardware Systems. Not only are
+17 Psystar’s allegations plausible, they are grounded in factual allegations similar to the factual
+18 findings previously held to constitute per se illegal tying.
+19
+
+Further, Apple’s illegal enforcement of the Mac OS EULA violates Section 2 of the
+
+20 Sherman Act. 15 U.S.C. § 2. Apple’s EULA contractually requires the end user to install, use, and
+21 run the Mac OS exclusively on Apple-Labeled Computer Hardware Systems. Counterclaim, ¶ 97.
+22 This contractual requirement between Apple and the end user is to the exclusion of all other
+23 computer hardware systems manufacturers in the marketplace including Mac OS Capable
+24 Computer Hardware System manufacturers. Counterclaim, ¶ 98. Apple’s anticompetitive conduct
+25 unlawfully maintains Apple’s market and monopoly power in the artificially created Apple-Labeled
+26 Computer Hardware Systems submarket by controlling prices and wholly eliminating competition
+27 in the Mac OS Capable Computer Hardware Systems market. See 15 U.S.C. § 2; Counterclaim, ¶
+28 99. It is this anticompetitive conduct for which Psystar complains – not a plea for Apple to ‘help’
+{00342996v1}
+
+-12Psystar’s Opposition to Apple’s Motion to Dismiss
+(Case No. CV-08-03251-WHA)
+
+1 its competitors.
+2
+3 D.
+
+All of Psystar’s Counterclaims Are Sufficiently Plead.
+
+4
+1.
+
+Psystar’s State and Common Law Counterclaims Are Sufficiently Plead.
+
+5
+6
+
+Because Apple’s motion to dismiss Psystar’s federal antitrust claims must be denied,
+
+7 Apple’s motion to dismiss Psystar’s state law claims for Apple’s violation of the California
+8 Cartwright Act (fourth counterclaim) and Apple’s violation of the unfair competition law (fifth and
+9 sixth counterclaims) should similarly be denied. See Dimidowich v. Bell & Howell, 803 F.2d 1473,
+10 1478 (9th Cir. 1986) (noting that if a plaintiff is capable of maintaining a Sherman Act claim, the
+11 plaintiff is capable of maintaining a similar Cartwright Act claim); Cel-Tech Comms., Inc. v. Los
+12 Angeles Cellular Tel. Co., 20 Cal.4th 163, 187, 83 Cal.Rptr.2d 548, 973 P.2d 527 (1999) (noting
+13 that if a plaintiff is capable of maintaining a Sherman Act claim, the plaintiff is capable of
+14 maintaining a similar California unfair competition law).
+15
+16
+17
+18
+
+2.
+
+Assuming Arguendo that Apple’s Arguments Have Any Merit,
+Psystar’s Fourth, Fifth and Sixth Counterclaims Are Sufficiently
+Plead Notwithstanding Psystar’s Market Definitions.
+
+Assuming arguendo that Apple’s arguments had any merit, Apple’s primary contention
+
+19 (i.e., that the counterclaims are insufficiently plead as a result of the implausibility of a single20 product market) does not render Psystar’s fourth, fifth and sixth counterclaims for violations of the
+21 California Cartwright Act and California unfair competition laws insufficiently plead as a matter of
+22 law. Psystar’s fourth counterclaim is for Apple’s violations of the California Cartwright Act under
+23 California Business and Professions Code § 16700 et seq. Psystar’s fifth counterclaim is for
+24 Apple’s violations of California unfair competition law under California Business and Professions
+25 Code § 17200 et seq. Psystar’s sixth counterclaim is for Apple’s violations of common law unfair
+26 competition law. Theses counterclaims do not require the pleading of a market definition and
+27 would not fail in the absence of a sufficient market definition.
+28
+{00342996v1}
+
+-13Psystar’s Opposition to Apple’s Motion to Dismiss
+(Case No. CV-08-03251-WHA)
+
+1
+
+For example, the fourth, fifth and sixth counterclaim allege, in part, that Apple’s general
+
+2 suppression of competition and the misuse of its intellectual property including its copyrights
+3 expressly forms part of its claims for relief. See Counterclaim, ¶¶ 114-126. With regard to
+4 Psystar’s fourth counterclaim (Cartwright claim), it is acknowledged (as noted supra Section
+5 II(D)(1)) that if a plaintiff is capable of maintaining a Sherman Act claim, the plaintiff is capable of
+6 maintaining a similar Cartwright Act claim; however, the laws are distinct. See Dimidowich v. Bell
+7 & Howell, 803 F.2d 1473, 1478 (9th Cir.1986) (“‘[s]imilar’ does not mean identical. California
+8 courts have never said that federal authority is binding on them . . . to the extent the California
+9 courts' interpretation of the Cartwright Act is different from federal interpretations of the Sherman
+10 Act, we must respect those differences, and follow the California courts' interpretation”).
+11
+
+A claim for unfair competition under California Business & Professions Code section 17200
+
+12 is also far broader than a federal antitrust claim and thus Apple's conduct may constitute a violation
+13 of section 17200 even if not rising for some technical reason to an antitrust violation. See Cel-Tech
+14 Comms., Inc. v. Los Angeles Cellular Tel. Co., 20 Cal.4th 163, 187, 83 Cal.Rptr.2d 548, 973 P.2d
+15 527 (1999). Section 17200 defines “unfair competition” as “any unlawful, unfair or fraudulent
+16 business act or practice.” CAL. BUS. & PROF. CODE § 17200. The California Supreme Court has
+17 consistently recognized the sweeping nature of section 17200, stating: “[w]hen a plaintiff who
+18 claims to have suffered injury from a direct competitor's ‘unfair’ act or practice invokes section
+19 17200, the word ‘unfair’ in that section means conduct that threatens an incipient violation of an
+20 antitrust law.” Cel-Tech, 20 Cal.4th at 187, 83 Cal.Rptr.2d 548, 973 P.2d 527.
+21
+
+The same applies for common law unfair competition. Despite Apple’s claim the Psystar
+
+22 does not understand the law (see Apple Brief, 16:14-24 (asserting unfair competition applies only
+23 to trademarks)), common law unfair competition encompasses Psystar’s claims in spite of the
+24 sufficiency, or alleged lack thereof, Psystar’s market definitions. See e.g., Aydin Corp. v. Loral
+25 Corp., 981 WL 2178, 1982-1 Trade ¶ 64,685, at 72,687 (N.D.Cal. Oct 08, 1981), aff’d in relevant
+26 part, 718 F.2d 897, 905 (9th Cir. 1983), 1 (addressing antitrust claims and related common law
+27 unfair competition claims); Edwards v. Arthur Anderson LLP, 44 Cal.4th 937, – Cal.Rptr.3d –, –
+28 P.3d – (2008) (addressing contracts that restrict competition). “There is no complete list of the
+{00342996v1}
+
+-14Psystar’s Opposition to Apple’s Motion to Dismiss
+(Case No. CV-08-03251-WHA)
+
+1 activities which constitute unfair competition.” Ojala v. Bohlin, 178 Cal.App.2d 292, 301, 2
+2 Cal.Rptr. 919, 924 (1960). For example, claims of unfair competition can also be based on acts and
+3 practices contravening intellectual rights. See e.g., Golan v. Pingel Enter., Inc. 310 F.3d 1360, 1374
+4 (Fed. Cir. 2002) (assertion of rights under unenforceable patent); Karl Storz Endoscopy-Am., Inc. v.
+5 Surgical Techs., Inc., 285 F.3d 848, 852-53 (9th Cir. 2002) (consumer confusion based on
+6 company’s preservations of manufacture’s mark, instead of using mark, on product at issue); Imax
+7 Corp. v. Cinema Tech., Inc., 152 F.3d 1161, 1169-1170 (9th Cir. 1998) (misappropriation of trade
+8 secrets).
+9
+
+Psystar asserts, in part, factual allegations in its well-pled complaint regarding Apple’s
+
+10 anticompetitive conduct and copyright misuse. Counterclaim, ¶¶ 46-77. Apple’s overstated
+11 conclusions regarding the inability of Psystar’s counterclaims to survive a motion to dismiss based
+12 entirely on the insufficiency of Psystar’s market definitions is ill-founded. For this reason, Apple’s
+13 motion to dismiss the fourth, fifth and sixth counterclaims must be denied, notwithstanding any
+14 finding as to the sufficiency, or lack thereof, Psystar’s market definitions.
+15
+III.
+
+CONCLUSION
+
+16
+17
+
+For the foregoing reasons, Psystar respectfully requests that the Court deny Apple’s motion
+
+18 to dismiss in its entirety.
+19
+20 Dated: October 16, 2008
+
+CARR & FERRELL LLP
+
+21
+22
+23
+24
+25
+
+By: /s/ Christopher P. Grewe
+ROBERT J. YORIO
+COLBY B. SPRINGER
+CHRISTINE S. WATSON
+CHRISTOPHER P. GREWE
+Attorneys for Defendant/Counterclaimant
+PSYSTAR CORPORATION
+
+26
+27
+28
+{00342996v1}
+
+-15Psystar’s Opposition to Apple’s Motion to Dismiss
+(Case No. CV-08-03251-WHA)
+
+

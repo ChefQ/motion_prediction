@@ -1,0 +1,846 @@
+Case: 3:09-cv-00764-wmc Document #: 57 Filed: 07/09/10 Page 1 of 27
+
+UNITED STATES DISTRICT COURT
+WESTERN DISTRICT OF WISCONSIN
+
+WISCONSIN RIGHT TO LIFE
+POLITICAL ACTION COMMITTEE et
+al.,
+Plaintiffs,
+Civil Action No. 3:09-cv-00764
+v.
+MICHAEL BRENNAN et al.,
+Defendants.
+
+BRIEF IN SUPPORT OF
+MOTION FOR SUMMARY JUDGMENT
+
+Michael D. Dean
+First Freedoms Foundation, Inc.
+20975 Swenson Drive, Suite 125
+Waukesha, WI 53186
+Ph: 262/798-8046
+Fax: 262/798-8045
+Local Counsel for Plaintiffs
+
+James Bopp Jr., Ind. #2838-84
+Anita Y. Woudenberg, Ind. #25162-64
+Sarah E. Troupis, Wis. #1061515
+BOPP , COLESON & BOSTROM
+1 South Sixth Street
+Terre Haute, IN 47807-3510
+Ph: 812/232-2434
+Fax: 812/234-3685
+Lead Counsel for Plaintiffs
+
+Case: 3:09-cv-00764-wmc Document #: 57 Filed: 07/09/10 Page 2 of 27
+
+Table of Contents
+I.
+
+Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+
+II.
+
+Argument . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+A.
+
+Standards for Granting Summary Judgment. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+
+B.
+
+The Current State of Public Financing of Judicial Campaigns. . . . . . . . . . . . . . . . 2
+
+C.
+
+1.
+
+Day, Daggett, and Davis: The Foundational Cases on Public Financing
+of Judicial Campaigns. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+
+2.
+
+The Current State of Rescue Funds in Judicial Campaigns. . . . . . . . . . . . 4
+
+Plaintiffs Are Entitled to Summary Judgment Because There Is No Genuine
+Issue as to Any Material Fact. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+1.
+
+The Rescue Funds and Independent Expenditure Provisions of the
+IJB Burden First Amendment Rights. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+
+2.
+
+The Rescue Funds and Independent Expenditure Provisions of the
+IJB Must Satisfy Strict Scrutiny. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+
+3.
+
+Neither the Rescue Funds Provision Nor the Independent
+Expenditure Provision of the IJB Is Narrowly Tailored to Serve a
+Compelling Government Interest. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+
+4.
+
+a.
+
+The Rescue Funds Provision of the IJB Is Not Narrowly
+Tailored to Serve a Compelling Government Interest. . . . . . . . . 12
+
+b.
+
+The Independent Expenditure Provision of the IJB Is Not
+Narrowly Tailored to Serve a Compelling Government
+Interest. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+
+The Independent Expenditure Provision of the IJB Is Vague and
+Overbroad. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+a.
+
+The Independent Expenditure Provision of the IJB Is
+Vague. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+
+b.
+
+The Independent Expenditure Provision of the IJB Is
+Overbroad. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+
+-i-
+
+Case: 3:09-cv-00764-wmc Document #: 57 Filed: 07/09/10 Page 3 of 27
+
+D.
+
+Plaintiffs Mitchell and Prosperity PAC Are Likely to Succeed on the Merits
+of Their Contribution Limit Challenge. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+1. The Contribution Limits Fail Intermediate Scrutiny. . . . . . . . . . . . . . . . . . . 18
+2.
+
+III.
+
+The Contribution Limits Are Unconstitutional Under Randall. . . . . . . . 19
+a.
+
+The Contribution Limits Disproportionately Burden
+Challengers. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+
+b.
+
+The Contribution Limits of The IJB Are Not Adjusted For
+Inflation. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+
+c.
+
+The Contribution Limits Lack A Special Justification. . . . . . . . . 21
+
+Conclusion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+
+-ii-
+
+Case: 3:09-cv-00764-wmc Document #: 57 Filed: 07/09/10 Page 4 of 27
+
+Table of Authorities
+Cases
+Anderson v. Liberty Lobby, Inc., 477 U.S. 242 (1986) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+Anderson v. Milwaukee County, 433 F.3d 975 (7th Cir. 2006) . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+Broadrick v. Oklahoma, 413 U.S. 601 (1973) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+Buckley v. Valeo, 424 U.S. 1 (1976) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . passim
+California Prolife Council PAC v. Scully, 989 F. Supp. 1282 (E.D. Cal. 1998) . . . . . . . . . . . . . 19
+Citizens for Responsible Government State Political Action Committee,
+236 F.3d 1174 (10th Cir. 2000) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Citizens for Responsible Gov’t v. Davidson, 236 F.3d 1174 (10th Cir. 2000) . . . . . . . . . . . . . . 16
+Citizens United v. FEC, 130 S. Ct. 876 (2010) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19, 22
+Commodity Trends Serv. v. Commodity Futures Trading Comm’n,
+149 F.3d 679 (7th Cir. 1998) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+Daggett v. Commission on Governmental Ethics and Election Practices,
+205 F.3d 445 (1st Cir. 2000) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+Day v. Holohan, 34 F.3d 1356 (8th Cir. 1994) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3, 7-14
+Davis v. FEC, 128 S. Ct. 2759 (2008) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2, 3-5, 7-14, 22
+FEC v. National Conservative Political Action Committee, 470 U.S. 480 (1985) . . . . . . . . . . . 12
+FEC v. National Right to Work Comm., 459 U.S. 197 (1982) . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+Ford v. Wilson, 90 F.3d 245 (7th Cir. 1996) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+Green Party of Connecticut v. Garfield, 648 F. Supp. 2d 298 (D. Conn. 2009) . . . . . . . . . 4-5, 14
+McComish v. Bennett, No. 09A-1163, 2010 WL 2265319 (June 8, 2010) . . . . . . . . . . . . . . . . . . 6
+McComish v. Bennett, No. 10-14165, 2010 WL 2595288 (9th Cir. May 21, 2010) . . . . . . . . . . . 6
+McComish v. Brewer, No. CV-08-1550, 2010 WL 2292213 (D. Ariz. Jan. 20, 2010) . . . . . . . 5-6
+
+-iii-
+
+Case: 3:09-cv-00764-wmc Document #: 57 Filed: 07/09/10 Page 5 of 27
+
+McConnell v. FEC, 540 U.S. 93 (2003) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+Nixon v. Shrink Mo. Gov't. PAC, 528 U.S. 377 (2000) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18, 19
+Randall v. Sorrell, 548 U.S. 230 (2006) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1, 18-22
+Stromberg v. People of the State of California, 283 U.S. 359 (1931) . . . . . . . . . . . . . . . . . . 6, n.2
+
+Constitutions, Statutes, and Rules
+U.S. Const. amend. I. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Wis. Stat. § 11.26(1)(am) and (2)(an) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+Wis. Stat. § 11.513 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15, 17
+Fed. R. Civ. P. 56(c) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+
+Other Authorities
+Press Release, Institute for Justice, U.S. Supreme Court Prevents Arizona From Penalizing
+Free Speech During 2010 Election, June 8, 2010. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+
+-iv-
+
+Case: 3:09-cv-00764-wmc Document #: 57 Filed: 07/09/10 Page 6 of 27
+
+I. Introduction
+Plaintiffs Wisconsin Right to Life PAC (“WRTL”), George Mitchell (“Mitchell”), and
+Wisconsin Center for Economic Prosperity PAC (“Prosperity PAC”) (collectively “Plaintiffs”) seek
+summary judgment on all counts of their Amended Verified Complaint. Defendants against whom
+summary judgment is now sought are the members of the Government Accountability Board
+(“GAB”), Dawn Marie Sass (“Sass”), and
+
+John T. Chisholm (“Chisholm”) (collectively
+
+“Defendants”) who are responsible for implementing and enforcing the “Impartial Justice Bill”
+(“IJB” or “the Bill”).
+On May 1, 2010, the IJB went into effect in Wisconsin. The IJB coerces participation in a
+public financing scheme for Wisconsin Supreme Court elections, through, among other things,
+providing “rescue funds” to candidates who are participating in the public financing scheme as soon
+as any opponent or opponents of the participating candidate reach or exceed a threshold spending
+amount—even if that threshold was reached not by the nonparticipating opponent, but by groups
+making independent expenditures on behalf of the nonparticipating candidate or against the
+participating candidate.
+Further, the IJB implements contribution limits on Wisconsin Supreme court races that are
+unconstitutionally low and do not serve an anticorruption interest. These limits do not reflect the
+requirements the U.S. Supreme Court established for contribution limits over thirty years ago in
+Buckley v. Valeo, 424 U.S. 1 (1976), and has since affirmed and further explained in Randall v.
+Sorrell, 548 U.S. 230 (2006).
+Plaintiffs now seek summary judgment on all counts of their Amended Verified Complaint.
+
+-1-
+
+Case: 3:09-cv-00764-wmc Document #: 57 Filed: 07/09/10 Page 7 of 27
+
+II. Argument
+A. Standards for Granting Summary Judgment.
+Summary judgment is appropriate where “the pleadings, the discovery and disclosure
+materials on file, and any affidavits show that there is no genuine issue as to any material fact
+and that the movant is entitled to judgment as a matter of law.” Fed. R. Civ. P. 56(c). This does
+not mean that there cannot be some dispute as to the facts: “By its very terms, this standard
+provides that the mere existence of some alleged factual dispute between the parties will not
+defeat an otherwise properly supported motion for summary judgment; the requirement is that
+there be no genuine issue of material fact.” Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 24748 (1986). Further, “[f]actual disputes that are irrelevant or unnecessary will not be counted.”
+Id. at 248. A verified complaint is sufficient for an affidavit in support of summary judgment.
+Ford v. Wilson, 90 F.3d 245, 247 (7th Cir. 1996).
+Here, there is no genuine issue as to any material fact that might affect the outcome of
+this dispute under the applicable law, and as fully developed below, Plaintiffs are entitled to
+summary judgment on all of their claims.
+B. The Current State of Public Financing of Judicial Campaigns.
+1. Day, Daggett, and Davis: The Foundational Cases on Public Financing of Judicial
+Campaigns.
+Until recently, courts were divided over whether First Amendment rights are burdened by
+rescue funds provisions like those implemented in Wisconsin by the IJB. However, the Supreme
+Court’s recent decision in Davis v. FEC, 128 S.Ct. 2759 (2008), clarifies that a campaign
+financing scheme like that of the IJB is unconstitutional. To see how the Supreme Court
+ultimately reached this determination, it is important to see what led to the Court’s decision.
+
+-2-
+
+Case: 3:09-cv-00764-wmc Document #: 57 Filed: 07/09/10 Page 8 of 27
+
+In Day v. Holohan, 34 F.3d 1356 (8th Cir. 1994), the Eighth Circuit struck down
+Minnesota’s rescue funds provision on the grounds that making independent expenditures and
+contributions in support of a candidate that resulted in an equal contribution to that candidate’s
+opponent improperly penalized First Amendment rights. The Day court reasoned that
+independent groups would be chilled from expending money opposing a candidate if they knew
+that doing so would result in a government funded contribution to that candidate’s campaign. Id.
+at 1356 (“[t]he knowledge that a candidate who one does not want to be elected will . . . receive
+a public subsidy equal to . . . the amount of the independent expenditure, as a direct result of that
+independent expenditure, chills the free exercise of that protected speech”). According to the
+reasoning of the Day court, the rescue funds provision turned independent expenditures over the
+trigger amount into de facto contributions to an opponent’s campaign. The provision was
+therefore an impermissible restriction on First Amendment rights.
+In contrast, in Daggett v. Commission on Governmental Ethics and Election Practices,
+205 F.3d 445 (1st Cir. 2000), the First Circuit upheld the rescue funds provision of the Maine
+Clean Election Act against a First Amendment challenge. The Daggett court rejected Day’s
+analysis, arguing that the provision for rescue funds did not burden First Amendment rights. Id.
+at 464. The Daggett decision was premised on the supposition that the rescue funds provision
+simply made it possible for certified candidates to reply to campaign speech. Id. at 465 (“We
+cannot adopt the logic of Day, which equates responsive speech with an impairment to the initial
+speaker”).
+However, in 2008, the Supreme Court settled much of the split between the circuits on
+the issue of rescue funds with its decision in Davis. The Davis case involved the so-called
+“Millionaire’s Amendment” to the Bipartisan Campaign Reform Act (“BRCA”). Under the
+-3-
+
+Case: 3:09-cv-00764-wmc Document #: 57 Filed: 07/09/10 Page 9 of 27
+
+Millionaire’s Amendment of the BCRA, “when a candidate spends more than $350,000 in
+personal funds and creates what the statute apparently regards as a financial imbalance, that
+candidate’s opponent may qualify to receive both larger individual contributions than would
+otherwise be allowed and unlimited coordinated party expenditures.” Davis, 128 S. Ct. at 2770.
+The Court found that the Millionaire’s Amendment “scheme impermissibly burdens [the] First
+Amendment right to spend [one’s] own money for campaign speech.” Id. at 2771. The Court
+reasoned that
+[w]hile BCRA does not impose a cap on a candidate’s expenditure of personal funds,
+it imposes an unprecedented penalty on any candidate who robustly exercises that
+First Amendment right. [The Millionaire’s Amendment] requires a candidate to
+choose between the First Amendment right to engage in unfettered political speech
+and subjection to discriminatory fundraising limitations.
+Id. Nor was the Millionaire’s Amendment constitutional because a candidate had made the
+choice not to participate in the public fund scheme: “The resulting drag on First Amendment
+rights is not constitutional simply because it attaches as a consequence of a statutorily imposed
+choice.” Id. at 2772.
+2.
+
+The Current State of Rescue Funds in Judicial Campaigns.
+
+Since the decision in Davis and today, at least two cases have arisen that apply the
+reasoning of Davis to rescue funds schemes. In one case, a court found that a rescue funds
+scheme was unconstitutional in light of the Davis decision; litigation in the other case is
+currently in the petition stage at the U.S. Supreme Court.
+In Green Party of Connecticut v. Garfield, 648 F. Supp. 2d 298 (D. Conn. 2009), the
+court dealt with Connecticut’s campaign finance scheme, which included a rescue funds
+provision. Connecticut’s scheme provided rescue funds for individuals participating in public
+funding when non-participating candidates reached an expenditure threshold. Relying on Davis,
+-4-
+
+Case: 3:09-cv-00764-wmc Document #: 57 Filed: 07/09/10 Page 10 of 27
+
+the court explained its decision that these rescue funds provisions were unconstitutional:
+Although it is true that the campaign finance provision at issue in Davis was a
+discriminatory, asymmetrical contribution limit for candidates in the same race, and
+not a matching funds provision in a public financing scheme, the holding was
+founded on the same principle advanced by the plaintiffs in this case: that it is a
+substantial burden on the exercise of First Amendment rights to force a candidate to
+choose between engaging in his or her right to make personal campaign
+expenditures, which then confers a benefit on an opponent, or adhering to a selfimposed limit on campaign expenditures. Although the benefit to CEP-participating
+candidates is not the same—rather than having contribution limits increased as in
+Davis, the CEP releases additional public funding grants—the effect is the same.
+The non-participating opponent making excess expenditures or the non-candidate
+making independent expenditures must choose whether to forgo his or her additional
+spending on speech or see his or her opponent receive an additional infusion of
+public funding.
+Green Party of Conn. v. Garfield, 648 F. Supp. 2d at 372. The court emphasized the troubling
+First Amendment implications of Connecticut’s rescue funds provisions for a non-participating
+candidate:
+Like the Millionaires’ Amendment, there are no expenditure limits on the nonparticipating candidate or non-candidate’s ability to expend funds. But also, like the
+Millionaires’ Amendment, ‘it imposes an unprecedented penalty on any candidate
+who robustly exercises that First Amendment right [to self-finance his or her
+campaign]’ because it requires the non-participating candidate and/or the noncandidate to choose between engaging in ‘unfettered political speech’ or self-limiting
+one’s expenditures.
+Id.
+Shortly after the Green Party decision, the Arizona District Court considered a similar
+case and found that Davis applied to a rescue funds scheme and that such rescue funds scheme
+was therefore unconstitutional. In McComish v. Brewer, No. CV-08-1550, 2010 WL 2292213
+(D. Ariz. Jan. 20, 2010), the Court analyzed the rescue funds case before it under Davis:
+“Plaintiffs face a choice very similar to that faced in Davis: either ‘abide by a limit on personal
+expenditures’ or face potentially serious negative consequences. . . . Here, the negative
+
+-5-
+
+Case: 3:09-cv-00764-wmc Document #: 57 Filed: 07/09/10 Page 11 of 27
+
+consequence is having one’s opponent receive additional funds.” Id. at *8. The Arizona court
+then quoted the Green Party case, and concluded that “If lifting a candidate's opponent's
+fundraising limitations constitutes a ‘substantial burden,’ awarding funds to a candidate's
+opponent must constitute a ‘substantial burden’ as well. ” Id. at *8. The Arizona court then
+found that the rescue funds scheme in Arizona failed strict scrutiny, and entered summary
+judgment for the plaintiffs in that case, and enjoined enforcement of Arizona’s rescue funds
+provisions. Id. at *13. On May 21, 2010, the U.S. Court of Appeals for the Ninth Circuit
+reversed the District Court’s decision. McComish v. Bennett, No. 10-14165, 2010 WL 2595288
+(9th Cir. May 21, 2010). However, shortly thereafter, on June 8, 2010, the Supreme Court
+vacated the stay issued by the Ninth Circuit, pending timely filing and disposition of a petition
+for a writ of certiorari. McComish v. Bennett, No. 09A-1163, 2010 WL 2265319 (June 8, 2010).
+Attorneys for plaintiffs in the McComish case have indicated they will soon be filing a petition
+for a writ of certiorari. Press Release, Institute for Justice, U.S. Supreme Court Prevents Arizona
+From Penalizing Free Speech During 2010 Election, June 8, 2010.1
+C. Plaintiffs Are Entitled to Summary Judgment Because There Is No Genuine Issue as to
+Any Material Fact.
+The First Amendment to the United States Constitution states, “Congress shall make no
+law . . . abridging the freedom of speech.” U.S. Const. amend. I.2 The freedoms of speech and
+
+1
+
+If nothing else, this Court should stay implementation of the IJB until after the Supreme
+Court’s decision on this petition for a writ of certiorari. The IJB, which was originally not going to
+go into effect until December 1, 2010, has now been in effect for two months, and, as far as
+Plaintiffs are aware, none of the rescue funds provisions at issue in this case have been used by any
+candidates for Wisconsin Supreme Court.
+2
+
+The First Amendment is applicable to the states through the Fourteenth Amendment.
+Stromberg v. People of the State of California, 283 U.S. 359, 368 (1931).
+-6-
+
+Case: 3:09-cv-00764-wmc Document #: 57 Filed: 07/09/10 Page 12 of 27
+
+association protected by the First Amendment have their “fullest and most urgent application
+precisely to the conduct of campaigns for political office.” Buckley, 424 U.S. at 15 (citation
+omitted).
+Under the First Amendment to the U.S. Constitution, and as enunciated in Buckley,
+Davis, and their progeny, a state public financing scheme for campaigns violates the right to free
+political speech where it goes beyond mere promotion of the voluntary use of public funding and
+improperly injects the state into the political process by attempting to equalize the relative
+financial resources of candidates—thereby coercing involuntary participation in public campaign
+financing by punishing and burdening those entities like WRTL, who intend to make
+independent expenditures over $1,000 supporting a nonparticipating candidate or opposing a
+participating candidate. Day v. Holahan, 34 F.3d 1356 (8th Cir. 1994); see also Davis, 128 S.Ct.
+at 2774 (“[T]he unprecedented step of imposing different contribution and coordinated party
+expenditure limits on candidates vying for the same seat is antithetical to the First Amendment”).
+To determine the constitutionality of both the rescue fund and independent expenditure
+provisions, this Court must determine three things: first, whether the provisions burden First
+Amendment rights; second, if the provisions do burden First Amendment rights, the proper level
+of scrutiny to apply; and third, whether the provisions meet the applicable level of scrutiny.
+Here, the IJB burdens First Amendment rights, and strict scrutiny should apply to both the rescue
+funds and independent expenditure provisions of the Bill. Under strict scrutiny, the statute must
+be narrowly tailored to serve a compelling government interest. Neither the rescue funds nor the
+independent expenditure schemes in the IJB meet this standard.
+
+-7-
+
+Case: 3:09-cv-00764-wmc Document #: 57 Filed: 07/09/10 Page 13 of 27
+
+1. The Rescue Funds and Independent Expenditure Provisions of the IJB Burden First
+Amendment Rights.
+The Court has long held that financial limitations on campaigns, such as the rescue funds
+provision and the independent expenditure provision of the IJB, are burdens on First Amendment
+rights. See Buckley, 424 U.S. at 46 (“independent advocacy . . . does not presently appear to
+pose dangers of real or apparent corruption comparable to those identified with large campaign
+contributions”); Davis, 128 S. Ct. at 2770 ([T]he [Supreme] Court has recognized that such
+limits [on discrete and aggregate individual contributions and on coordinated party expenditure]
+implicate First Amendment interests…” and citing various Supreme Court cases). The rescue
+funds provision of the IJB impermissibly burdens Plaintiff’s First Amendment rights by chilling
+and penalizing their speech, resulting in self-censorship at the cost of their First Amendment
+rights, and eclipsing their freedom of association. And the reporting requirement of the IJB
+burdens First Amendment rights by coercing participation in the public funding program and
+penalizing nonparticipation and equalizing the financial resources of the candidates.
+Under the Constitution, and as articulated in Buckley, a state public financing scheme
+violates the right to free speech where it goes beyond mere promotion of voluntary use of public
+funding and improperly injects the state into the political process by attempting to equalize the
+relative financial resources of the candidates. 424 U.S. 1 (1976). The rescue fund provides a
+direct, dollar-for-dollar public subsidy to participating candidates whenever an independent
+expenditure is made that either opposes that participating candidate or supports a
+nonparticipating candidate. Therefore, an individual or group intending to contribute to a
+participating candidates’ defeat becomes directly responsible for adding to his or her campaign.
+Day, 34 F.3d at 1360. Consequently, the political speech of the individual or group who made
+
+-8-
+
+Case: 3:09-cv-00764-wmc Document #: 57 Filed: 07/09/10 Page 14 of 27
+
+the independent expenditure “against” her is penalized by forcing the individual or group to
+choose between the right to engage in unfettered political speech and subjection to
+discriminatory fundraising. Id.; Davis, 128 S. Ct. at 2764.
+In discussing limitations on usage of personal funds, the Davis Court noted that any
+limitations that have the effect of enabling an opponent to raise more money and use that money
+to counteract and diminish the effectiveness of a candidate's own speech imposes a substantial
+burden on the exercise of First Amendment rights. Id. at 2772. See also Buckley, 424 U.S. at
+48-49 (“[T]he concept that government may restrict the speech of some elements of our society
+in order to enhance the relative voice of others is wholly foreign to the First Amendment.”); Day,
+34 F.3d at 1360 (“The knowledge that a candidate who one does not want to be elected will have
+her spending limits increased…as a direct result of that independent expenditure, chills free
+exercise of that protected speech.”).
+WRTL has stated that it will not make its expenditures to support a nonparticipating
+candidate or oppose a participating candidate as a result of its contribution triggering funds to an
+opponent. (Finding of Fact ¶ 29.) Although not direct censorship, this leads to a practice of
+“self-censorship” by those who would normally give freely their time and money to campaigns
+and, consequently, results in indirect restrictions by the government on independent
+expenditures. Furthermore, by giving a matching fund to an opponent, whom Plaintiffs’ are
+advocating against, the rescue funds provision is essentially muting the voice of the Plaintiff by
+neutralizing the financial benefit they intended to give. If they know their expenditure will
+merely trigger a matching donation to the opponent, there is no incentive to give, and therefore
+no incentive to publicly associate, with either candidate.
+
+-9-
+
+Case: 3:09-cv-00764-wmc Document #: 57 Filed: 07/09/10 Page 15 of 27
+
+Additionally, by making a contribution or expenditure supporting a candidate, an
+individual is necessarily associating with that candidate. Therefore, the rescue fund also
+implicates “protected associational freedoms” by encroaching on the ability of “like-minded
+persons to pool their resources in furtherance of common political goals.” Buckley, 424 U.S. at
+22 (per curiam).
+
+By chilling WRTL’s expenditures, the rescue funds provision abridges its
+
+right to associate. This chilling effect on political speech is a severe burden on WRTL’s First
+Amendment freedom of speech. See Day, 34 F.3d at 1360.
+The IJB’s reporting requirements also substantially burden WRTL’s’ First Amendment
+rights. The reporting requirement is a tool to help the state implement the rescue funds
+provision, which has a penalizing effect on nonparticipating candidates. If an individual
+participates, she will not be subject to the burdensome reporting requirements. This benefits not
+only the candidate, but his or her supporters as well, as they will not have to face ramifications of
+having their personal information disseminated. But if a candidate chooses not to participate, the
+reporting requirement has a negative effect on both that candidate and her supporter’s freedom of
+association. As stated in Davis, “[c]ompelled disclosure, in itself, can seriously infringe on
+privacy of association and belief guaranteed by the First Amendment.” Davis, 128 S. Ct. at 2765
+(quoting Buckley, 424 U.S. at 64). Disclosures in any form are a burden on speech.
+The additional reporting required under the rescue funds provision renders that burden
+particularly substantial. The Tenth Circuit has held that a 24-hour notice requirement after
+“obligating funds” for an expenditure was “patently unreasonable” and “severely burden[ed]
+First Amendment rights.” Citizens for Responsible Government State Political Action
+Committee, 236 F.3d 1174, 1197 (10th Cir. 2000). Likewise here, a 24- hour requirement for all
+obligations and expenditures during the final six weeks of an election cycle is patently
+-10-
+
+Case: 3:09-cv-00764-wmc Document #: 57 Filed: 07/09/10 Page 16 of 27
+
+unreasonable and burdensome. Individuals and groups are required to expend their time and
+resources filing out reports that risk disclosing any political strategy they may have and that
+subject them to sanctions if they fail to properly do so. The effect is a severe chill of speech and
+association during the most important weeks of the electoral process—those immediately
+preceding an election. The independent expenditures provision, like that of the rescue funds,
+imposes substantial burdens on speech.
+2. The Rescue Funds and Independent Expenditure Provisions of the IJB Must Satisfy
+Strict Scrutiny.
+Having made a determination on whether the rescue funds and independent expenditure
+provisions of the IJB burden First Amendment rights, the Court must next determine what level
+of scrutiny must be applied to those provisions, so that a proper analysis of their constitutionality
+may be made.
+Both rescue funds and independent expenditure provisions, such as those of the Impartial
+Justice Bill, impose a substantial burden upon the core freedoms protected by the First
+Amendment. Davis, 128 S. Ct. at 2774-75. Such provisions “cannot stand unless they are
+‘closely drawn’ to serve a ‘sufficiently important interest,’ . . . .” Id. at 2770. Put in more
+traditional terms, this test is the exacting scrutiny/strict scrutiny initially outlined in Buckley,
+which requires that the independent expenditure provisions must be narrowly tailored and
+“justified by a compelling state interest.” Id. at 2772; see also Buckley, 424 U.S. 1, 64 (1976).
+
+-11-
+
+Case: 3:09-cv-00764-wmc Document #: 57 Filed: 07/09/10 Page 17 of 27
+
+3. Neither the Rescue Funds Provision Nor the Independent Expenditure Provision of
+the IJB Is Narrowly Tailored to Serve a Compelling Government Interest.
+a. The Rescue Funds Provision of the IJB Is Not Narrowly Tailored to Serve a
+Compelling Government Interest.
+Since Buckley, there has been only one legitimate compelling state interest for restricting
+campaign finance: the interest in preventing corruption or the appearance of corruption. See FEC
+v. National Conservative Political Action Committee, 470 U.S. 480, 496-97 (1985) (“The
+corruption-related interest cited by the Buckley Court remains “the only legitimate and
+compelling government interest [] thus far identified for restricting campaign finances”); see also
+Davis, 128 S. Ct. at 2771 (reaffirming Buckley’s argument that an expenditure cap cannot be
+justified on grounds of equalizing the relative financial resources of candidates competing for
+government office). Thus, the only compelling government interest that the State can use to
+justify infringing First Amendment rights through the IJB is if the provisions of the Bill deal
+with corruption or the appearance of corruption.
+The State must therefore advance an argument as to why the rescue funds provisions of
+the IJB advance the government’s interest in preventing corruption or the appearance of
+corruption. However, the State can advance no such argument; indeed, to do so would be
+foolish, as neither Plaintiffs nor the State is aware of any allegations of corruption or the
+appearance of corruption in races for the State Supreme Court since the original implementation
+of Wisconsin’s campaign financing scheme.3 (Finding of Fact ¶¶ 18-19.)
+3
+
+One purpose for the IJB is to equalize campaigns. (Finding of Fact ¶¶ 16-17.) However,
+the Supreme Court has been unequivocal in its statements that such attempts to equalize the amounts
+of money spent by candidates are not compelling government interests in the realm of campaign
+finance. Davis, 128 S.Ct. at 2773 (“Our prior decisions provide no support for the proposition that
+[asymmetrical limits are] a legitimate government objective”); id. (“The argument that a candidate’s
+speech may be restricted in order to ‘level electoral opportunities’ has ominous implications . . . .”);
+Buckley, 424 U.S. at 48-49 (“[T]he concept that government may restrict the speech of some
+-12-
+
+Case: 3:09-cv-00764-wmc Document #: 57 Filed: 07/09/10 Page 18 of 27
+
+Even if such a corruption interest existed in Wisconsin, the rescue funds provisions of the
+IJB would not address this corruption. While a public funding scheme in general might serve a
+corruption interest, see Buckley, 424 U.S. at 57, the rescue funds provision of the Bill merely
+provides funds for candidates participating in such public funding. Moreover, any corruption
+interest addressed would be resolved only as to those participating in the rescue fund scheme:
+candidates not participating in the public funding scheme are not subject to the rescue funds
+provision and consequently any corruption concerns regarding them are woefully overlooked.
+This renders the rescue funds provision underinclusive.
+WRTL faces imminent injury to their First Amendment rights to free political speech and
+free association as a direct result of this statutory scheme. The state’s payment of rescue
+funds—which, unlike an independent expenditure, is directly controlled by the participating
+candidate—neutralizes the voice of the group when it makes an independent expenditure. The
+knowledge that making an independent expenditure that opposes a government-funded candidate
+will directly result in that candidate receiving a dollar-for-dollar matching public subsidy (with
+no effect on that candidate’s spending limit) creates a chilling effect on WRTL’s free exercise of
+protected speech, and imposes a climate of self-censorship on speech that is inimical to our
+American heritage of unfettered political discourse. In so doing, the statute also encroaches upon
+the ability of like-minded persons to pool their resources in furtherance of common political
+goals in violation of WRTL’s right to freedom of association. See Day, 34 F.3d at 1360.
+This chill on the First Amendment exists long before the trigger threshold is reached,
+elements of our society in order to enhance the relative voice of others is wholly foreign to the First
+Amendment”).
+Similarly, the Supreme Court has indicated that the State’s interest in effectuating the trigger
+provision is not a sufficiently compelling interest to justify restriction of First Amendment rights.
+Davis v. FEC, 128 S. Ct. at 2775.
+-13-
+
+Case: 3:09-cv-00764-wmc Document #: 57 Filed: 07/09/10 Page 19 of 27
+
+because of the aggregation of funds brought about through the independent expenditure
+provisions of the IJB. The Court in Green Party of Connecticut v. Garfield recognized this exact
+problem: “Because the independent expenditure provision contemplates aggregating the
+campaign expenditures of all non-participating candidates with any independent expenditure by
+a non-candidate individual or advocacy group, there is no minimum amount of money that a
+non-participating minor party candidate must expend in order to trigger matching funds for
+participating candidates.” 648 F. Supp. 2d at 368.
+A further problem with this scheme is quickly illustrated by examining the potential
+effect of having three individuals participating in a judicial race. Candidate A and Candidate B
+are not participating in the public financing scheme; Candidate C is participating. Even if
+neither Candidate A nor Candidate B intend to spend enough to pass the rescue fund threshold,
+and even if those wishing to make independent expenditures related to Candidate A and
+Candidate B are attentive to keeping each individual candidate from crossing the threshold, their
+combined expenditures may well cause the threshold to be crossed, and have Candidate C
+receive rescue funds. One can even see how this situation would allow the publicly financed
+candidate to spend more than the non-participating candidates, particularly if the threshold is
+crossed late in the campaign and the non-participating candidates do not realize that their
+aggregated spending has surpassed the threshold amount. The same is true in the instance of a
+non-candidate organization, such as WRTL, whose concern about triggering funds to a
+candidate’s opponent causes them to not make their own expenditures, even though such
+expenditures are presumptively not corrupting. See Davis, 128 S. Ct. at 2771 (quoting Buckley,
+424 U.S. at 52-53). Such an effect does little to minimize corruption or its appearance while
+significantly burdening those who desire to make their own expenditures during the campaign.
+-14-
+
+Case: 3:09-cv-00764-wmc Document #: 57 Filed: 07/09/10 Page 20 of 27
+
+b. The Independent Expenditure Provision of the IJB Is Not Narrowly Tailored
+to Serve a Compelling Government Interest.4
+As set forth above, since Buckley, there has been only one legitimate compelling state
+interest for restricting campaign finances: the interest in preventing corruption or the appearance
+of corruption. See supra Part III.3.a. As with rescue funds, the only compelling government
+interest that the State can have for the independent expenditure provisions included in the IJB is
+that such provisions be narrowly tailored to address corruption or its appearance. Id.
+Wis. Stat. § 11.513 requires a person who makes an independent expenditure of $1000 or
+more “with respect to” a candidate to file notice of the expenditure to the State. (Finding of Fact
+¶ 21.) That report must be filed on the fifteenth or last day of the month following the
+expenditure.5 (Id.) If the expenditure is made within six weeks of the election, it must be
+reported within 24 hours of being made. (Id.) These reports are required for each separate
+expenditure of $1000 or more, and apply not just to actual expenditures, but any “obligated”
+expenditure, which is an expenditure that has not yet been made and may never actually be
+made. (Id.)
+4
+
+If this Court determines that the rescue funds provision of the IJB is unconstitutional, it
+need not reach the question of whether the independent expenditure reporting requirements are also
+unconstitutional. The independent expenditure reporting requirements are only necessary to
+effectuate the rescue funds scheme; thus, if the rescue funds scheme is unconstitutional, the
+independent expenditure provision is likewise unconstitutional.
+5
+
+In effect, those who make independent expenditures must be extremely careful to note the
+day that the expenditure was made. Although an expender may have approximately two weeks to
+report an expenditure if the expenditure is made on the first or sixteenth of the month, if the
+expender makes that same expense on the fourteenth or thirtieth, the expenditure must be reported
+within 24 hours.
+Such a quick turnaround for reporting is constitutionally problematic, as a quick turnaround
+does nothing to prevent corruption or the appearance thereof; it merely speeds up the time for
+reporting. Indeed, one could see how this could increase problems involving the appearance of
+corruption. If groups must report quickly and, in their haste to report, make mistakes, those mistakes
+could be viewed as corruption when, in reality, no corruption has occurred.
+-15-
+
+Case: 3:09-cv-00764-wmc Document #: 57 Filed: 07/09/10 Page 21 of 27
+
+The independent expenditure provisions of the IJB do nothing to stop corruption or the
+appearance of corruption. Nor does it deter who donates to elections, a fact fundamental to an
+anticorruption interest—it is groups or types of groups making significant donations to a
+campaign that trigger corruption concerns. Instead, the provisions merely provide that those who
+make independent expenditures must make multiple reports within certain time periods.6 Without
+the prerequisite compelling interest, the independent expenditure provisions fails strict scrutiny.
+Even with a compelling interest, the independent expenditure provisions’ 24-hour
+reporting requirement is “patently unreasonable” and is not narrowly tailored. See Citizens for
+Responsible Gov’t v. Davidson, 236 F.3d 1174, 1197 (10th Cir. 2000). Increasing the number or
+timing of reports during the final six weeks of a campaign for only one type of campaign in no
+way combats corruption beyond what Wisconsin’s reporting requirements already do. More
+thorough reporting requirements, such as those requiring better reporting of independent
+expenditures—not merely more reports or reports that occur more often—would serve corruption
+more clearly. These reporting requirements are not tailored to combat corruption.
+4. The Independent Expenditure Provision of the IJB Is Vague and Overbroad.
+a. The Independent Expenditure Provision of the IJB Is Vague.
+A law is void for vagueness “if it fails to give fair warning of what is prohibited, if it fails
+to provide explicit standards for the persons responsible for enforcement and thus creates a risk
+of discriminatory enforcement, and if its lack of clarity chills lawful behavior.” Anderson v.
+Milwaukee County, 433 F.3d 975, 978 (7th Cir. 2006). Laws regulating First Amendment
+freedoms are closely examined to ensure they are precisely drafted. Buckley, 424 U.S. at 40-41.
+6
+
+Indeed, a provision that might be narrowly tailored to meet the compelling government
+interest in preventing corruption or the appearance thereof would address the “who” aspect of
+donations, by requiring better identification of those who are making independent expenditures.
+-16-
+
+Case: 3:09-cv-00764-wmc Document #: 57 Filed: 07/09/10 Page 22 of 27
+
+The reporting requirement of Wis. Stat. § 11.513(1) requires nonprofit entities like
+WRTL to not only report actual expenditures but to report the possibility of such expenditures,
+or “obligations,” without clearly articulating what constitutes such an obligation. (Finding of
+Fact ¶ 21.) What rises to the level of an obligation for purposes of determining when to report
+and what is sanctionable effectuates either excessive, unnecessary reporting that risks disclosing
+political strategy, or a chill from making the expenditure at all. Because of such vagueness, the
+reporting requirement unconstitutionally burdens the rights of free speech and free association
+guaranteed by the First Amendment.
+b. The Independent Expenditure Provision of the IJB Is Overbroad.
+An overbroad law is facially invalid if the impermissible applications of the law are
+substantial when compared to the law’s legitimate application. Commodity Trends Serv. v.
+Commodity Futures Trading Comm’n, 149 F.3d 679, 688 n. 4 (7th Cir. 1998) (quoting Broadrick
+v. Oklahoma, 413 U.S. 601, 615 (1973)). As such, the overbreadth doctrine prevents a law from
+having a deterrent effect on protected speech. Id.
+The reporting requirement of Wis. Stat. § 11.513(1) requires nonprofit entities like
+WRTL to not only report actual expenditures but to report the possibility of such an expenditure,
+even if the expenditure never actually takes place. (Finding of Fact ¶ 21.) From its language, an
+“obligation” may be an expenditure that is obligated, but never actually expended. However,
+because it must be reported upon its obligation, the “obligated” expense may trigger rescue
+funds, even if it is never an actual expenditure.
+This requirement is also problematic in that it requires multiple reports of the same
+expenditure. For example, a person is required to report an expenditure when it is “obligated.”
+(Id.) They must also file a report when that expenditure is actually made. (Id.) Moreover, from
+-17-
+
+Case: 3:09-cv-00764-wmc Document #: 57 Filed: 07/09/10 Page 23 of 27
+
+the language of the statute, it appears that during the last six weeks of an election cycle,
+every $1,000 must be separately reported; i.e., a group may spend $5,000 on a mailing, but
+instead of reporting this once, it would have to be reported five separate times. (Id.)
+By requiring these disclosures, the reporting requirement is overbroad, unconstitutionally
+burdening the rights of free speech and free association in violation of the First Amendment.
+D. Plaintiffs Mitchell and Prosperity PAC Are Likely to Succeed on the Merits of Their
+Contribution Limit Challenge.
+1. The Contribution Limits Fail Intermediate Scrutiny.
+Wis. Stat. § 11.26(1)(am) and (2)(an) establish a $1,000 limit on all contributions to
+individuals running for a position on the Wisconsin Supreme Court. (Finding of Fact ¶¶ 22 &
+23.) The U.S. Supreme Court has previously stated that such contribution limits are subject to
+intermediate scrutiny; in other words, statutes that implement contribution limits must be
+“closely drawn” to a “sufficiently important interest,” or else they abridge First Amendment
+freedoms. Randall, 548 U.S. at 247; McConnell v. FEC, 540 U.S. 93, 231 (2003); Buckley 424
+U.S. at 25.
+Of the interests that have been proposed to the Court as justifying contribution limits, the
+only interest the Court has found sufficiently important is the interest in preventing corruption
+and the appearance of corruption associated with large contributions. McConnell, 540 U.S. at
+138 (“large financial contributions” can lead to corruption and its appearance); Nixon v. Shrink
+Mo. Gov't. PAC, 528 U.S. 377, 393 (2000) (“Shrink PAC”); FEC v. National Right to Work
+Comm., 459 U.S. 197, 198-199, and n. 1 (1982); Buckley, 424 U.S. at 26–27. To establish this
+corruption interest, the contributions must be large enough to give rise to a legitimate suspicion
+of corruption, and there must be a bona fide “suspicion that [the] large contributions are
+
+-18-
+
+Case: 3:09-cv-00764-wmc Document #: 57 Filed: 07/09/10 Page 24 of 27
+
+corrupt.” Shrink PAC, 528 U.S. at 390-91. The only anti-corruption interest the United States
+Supreme Court has recognized is the interest in preventing quid-pro-quo corruption. Citizens
+United v. FEC, 130 S. Ct. 876, 901 (2010).
+Any interest in preventing quid-pro-quo corruption is severely undermined by the
+variable limits imposed by the State. Contribution for all other statewide offices are $10,000.
+(Finding of Fact ¶¶ 22 & 23.) Contribution levels for other, non-statewide races are set higher
+than the contribution limits, with other judicial races set at $3,000 for court of appeals positions
+in districts with a county population exceeding 500,000; $2,500 for all other court of appeals
+positions; $3,000 for circuit courts in circuits with populations greater than 300,000; and $1,000
+for all other circuit court positions. (Id.) The same individuals and organizations are subject to
+variable limits, depending on to whom they wish to contribute. That a contribution to a
+Wisconsin Supreme Court justice is more corrupting than those to a court of appeals or circuit
+judge candidate—who hear significantly more cases—defies logic. And without any corruption
+interest to justify it, the contribution limits fail. See California Prolife Council PAC v. Scully,
+989 F. Supp. 1282, 1296 (E.D. Cal. 1998), aff'd, 164 F.3d 1189 (9th Cir. 1999) (“the adoption of
+the variable limits reflects a conclusion on the part of the voters that the [higher] limit suffices to
+address the issue of corruption even if it is not the lowest amount which would do so. That
+conclusion requires a finding that the lower limit is not closely drawn.”). Indeed, that the
+contribution limits are so much lower than other statewide, and to a lesser degree, judicial races
+suggests that promoting the rescue fund scheme, rather than preventing quid-pro-quo corruption,
+is the true motivation for the lower limits. The contribution limits fail intermediate scrutiny.
+
+-19-
+
+Case: 3:09-cv-00764-wmc Document #: 57 Filed: 07/09/10 Page 25 of 27
+
+2. The Contribution Limits Are Unconstitutional Under Randall.
+Although it upheld them in Buckley, the Supreme Court has acknowledged that contribution
+limits can be too low and can consequently “harm the electoral process.” Randall, 548 U.S. at
+248. To determine whether such a risk exists, the Court has looked at five key factors: 1)
+whether the contribution limits will significantly restrict the amount of funding available for
+challengers to run competitive campaigns, id. at 253-256; 2) whether a political party and its
+affiliates must abide by the same contribution limits that apply to individual contributors,
+resulting in harm of the right to associate, id. at 256-259; 3) whether it excludes the expenses
+that volunteers incur in the course of campaign activities, id. at 259-260; 4) whether the limits
+are adjusted for inflation, id. at 261; and 5) whether there is any special justification for the
+contribution limits, id. at 261. If some of these risk factors exist or “there is a strong indication
+in a particular case . . . that such risks exist,” courts must review the record carefully, focusing
+on whether the statute is proportionate, that is, whether the restrictions placed on First
+Amendment rights are in proportion to the harm such restrictions are averting. Id. at 249. The
+unjustifiably lower contribution ceiling, see supra Part III.D.1, combined with the Randall
+factors, make the contribution limits unconstitutional.
+a. The Contribution Limits Disproportionately Burden Challengers.
+Public funding schemes inherently benefit incumbents. With significant resources already
+amassed—both financial and human—an incumbent can easily satisfy the preliminary
+requirements to qualify for public funding. Incumbents are also less likely to be burdened by the
+contribution limits, either because as a public funding participant, they need no contributions, or
+because they are already well-positioned. In contrast, challengers must build their campaigns
+from the ground up. Low contribution limits imposed on challengers who choose not to
+-20-
+
+Case: 3:09-cv-00764-wmc Document #: 57 Filed: 07/09/10 Page 26 of 27
+
+participate or who are unable to qualify for participation only magnify the incumbent advantage
+public funding affords and impose a disproportionately greater burden on nonparticipating
+challengers.
+b. The Contribution Limits of The IJB Are Not Adjusted For Inflation.
+In Randall, the Supreme Court indicated that low contribution limits that fail to provide
+for adjustments reflecting inflation signaled constitutional trouble:
+A failure to index limits means that limits which are already suspiciously low will
+almost inevitably become too low over time. It means that future legislation will be
+necessary to stop that almost inevitable decline, and it thereby imposes the burden of
+preventing the decline upon incumbent legislators who may not diligently police the
+need for changes in limit levels to assure the adequate financing of electoral
+challenges.
+548 U.S. at 261 (internal citations omitted). By failing to adjust for inflation, the contribution
+limits will restrict increasingly more speech and associational rights than its crafters deemed
+necessary to prevent corruption. This failure imposes the type of direct harm to the election
+process the Randall court was concerned with and exacerbates the contribution limits’
+unconstitutional nature.
+c.
+
+The Contribution Limits Lack A Special Justification.
+
+The State might be able to overcome an unconstitutionally low contribution limit by
+demonstrating a “special” justification beyond that which is normally required to sustain
+contribution limits. Randall, 548 U.S. at 261. The contribution limits already fail to serve any
+quid-pro-quo corruption interest. Plaintiffs know of no other “special” justification that might
+rectify the contribution limits’ deficiencies.
+Indeed, it appears that the only purpose for the lowered contribution limit for races for
+Supreme Court Justice is to coerce participation in Wisconsin’s rescue fund scheme and penalize
+
+-21-
+
+Case: 3:09-cv-00764-wmc Document #: 57 Filed: 07/09/10 Page 27 of 27
+
+those who do not.7 Such a purpose is not a constitutionally recognized justification. See Citizens,
+130 U.S. at 909 (holding that the only constitutionally cognizable interest in restricting political
+speech is the anti-corruption interest); Davis, 128 S. Ct. at 2773 (declining to recognize any
+interest in equalizing the financial resources of candidates). No special justification for the
+contribution limits exists.
+III. Conclusion
+For the foregoing reasons this Court should grant summary judgment in favor of
+Plaintiffs on all counts in their Amended Verified Complaint. Plaintiffs believe that oral
+argument would be helpful to the Court in determining whether summary judgment is
+appropriate and therefore request oral argument.
+
+Dated: July 9, 2010
+Respectfully submitted,
+
+James Bopp Jr., Ind. #2838-84
+Anita Y. Woudenberg, Ind. #25162-64
+Sarah E. Troupis, Wis. #1061515
+BOPP , COLESON & BOSTROM
+1 South Sixth Street
+Terre Haute, IN 47807-3510
+Ph: 812/232-2434
+Fax: 812/234-3685
+Lead Counsel for Plaintiffs
+
+s/ Michael D. Dean
+Michael D. Dean
+First Freedoms Foundation, Inc.
+20975 Swenson Drive, Suite 125
+Waukesha, WI 53186
+Ph: 262/798-8046
+Fax: 262/798-8045
+Local Counsel for Plaintiffs
+
+7
+
+The rescue funds scheme applies only to races for Supreme Court Justice, though there is
+no evidence that such races are or appear to be more corrupt than any other races—judicial or
+otherwise—in Wisconsin.
+-22-
+
+

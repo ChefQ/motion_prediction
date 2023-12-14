@@ -1,0 +1,824 @@
+Case 2:12-cv-06870-KSH-CLW Document 89 Filed 04/06/15 Page 1 of 36 PageID: 3139
+
+DORSEY & WHITNEY LLP
+Bruce R. Ewing (BE-0724)
+Jonathan Montcalm (pro hac vice)
+51 West 52nd Street
+New York, New York 10019
+(212) 415-9200
+Attorneys for Defendant
+The Institute of Electrical
+and Electronics Engineers, Incorporated
+UNITED STATES DISTRICT COURT
+DISTRICT OF NEW JERSEY
+-------------------------------------------------RAJESH KUMAR,
+Plaintiff,
+– v. –
+
+X
+:
+:
+:
+:
+THE INSTITUTE OF ELECTRICAL
+:
+AND ELECTRONICS ENGINEERS,
+:
+INC.,
+:
+:
+Defendant.
+:
+:
+-------------------------------------------------- X
+
+Case No. 2:12-cv-06870-KSHCLW
+DEFENDANT’S RESPONSE
+TO PLAINTIFF’S
+LOCAL CIVIL RULE 56.1
+STATEMENT OF MATERIAL
+FACTS NOT IN DISPUTE
+Motion Date: April 20, 2015
+
+Defendant The Institute of Electrical and Electronics Engineers,
+Incorporated (“IEEE”), as and for its Response to Plaintiff’s Local Civil Rule 56.1
+Statement of Material Facts Not in Dispute submitted in connection with his
+motion for summary judgment under Fed. R. Civ. P. 56, to which IEEE’s
+Statement of Additional Material Facts Not in Dispute is appended, hereby asserts
+as follows:
+
+Case 2:12-cv-06870-KSH-CLW Document 89 Filed 04/06/15 Page 2 of 36 PageID: 3140
+
+DEFENDANT’S RESPONSE TO
+PLAINTIFF’S MATERIAL, UNDISPUTED FACTS
+Plaintiff Kumar is a computer scientist whose work has focused
+on medical robotics, computer-assisted surgery and other human-machine
+interactions. Declaration of Dr. Rajesh Kumar (“Kumar Decl.”) ¶ 3 & Ex. B.
+1.
+
+Defendant’s Response: Admitted.
+Dr. Kumar has worked in academia and private industry,
+including in a senior position at Intuitive Surgical, Inc., where he developed the
+prototype that led to the da Vinci Si robotic surgery platform. Kumar Decl. ¶ 3 &
+Ex. B.
+2.
+
+Defendant’s Response: Admitted.
+Dr. Kumar has published over 100 patents and applications,
+books, chapters, articles and peer-reviewed conference papers. Kumar Decl. ¶ 3 &
+Ex. B pp. 2-12.
+3.
+
+Defendant’s Response: Admitted.
+Dr. Kumar has served as a conference organizer and article
+reviewer for Defendant IEEE. Kumar Decl. Ex. B at 1-2.
+4.
+
+Defendant’s Response: Admitted in part and denied in part. IEEE admits that
+Plaintiff Rajesh Kumar (“Kumar”) has reviewed articles for IEEE but denies that
+Kumar has served as a conference organizer for IEEE. Kumar Dec., Exh. B at 1-2.
+IEEE editors continued to solicit Dr. Kumar’s expertise for peer
+review even after this lawsuit was filed. Kumar Decl. Ex. C.
+5.
+
+Defendant’s Response: Admitted.
+
+2
+
+Case 2:12-cv-06870-KSH-CLW Document 89 Filed 04/06/15 Page 3 of 36 PageID: 3141
+
+Dr. Kumar began his Ph.D. research as a graduate student in
+computer science at Johns Hopkins University (“JHU”) in 1996. There, he
+researched and developed new software architectures for computer-assisted
+surgery, focusing on systems in which humans and robots perform surgical and
+other tasks cooperatively. He worked primarily with JHU’s “steady hand robot,” a
+modular test bed that he helped develop and for which he wrote all of the robot
+control application programming interface software needed during his graduate
+student tenure. The steady hand robot allows a user to manipulate a tool jointly
+with the machine, in a manner that reduces human tremor and enables extreme
+precision. Kumar Decl. ¶ 5.
+6.
+
+Defendant’s Response: Admitted in part and denied in part. IEEE admits the
+allegations contained in the first, second and fourth sentences in this Paragraph.
+With respect to the third sentence contained in this paragraph, Kumar was among
+many scientists and researchers who worked on the “steady hand” robot, which
+was conceived independently of him. See the Moving Declaration of Russell
+Taylor (“Taylor Dec.”) [Dkt. 73], ¶¶ 2-3, Exhs. A and B. The implication that
+Kumar was somehow a creator or primary author of the steady hand robot is
+therefore denied.
+Dr. Kumar’s Ph.D. dissertation (“Thesis”), published in 2001, is
+entitled “An Augmented Steady Hand System for Precise Micromanipulation.”
+The Thesis is based on his five-plus years of research at JHU. Kumar Decl. ¶¶ 2,
+6, Ex. A.
+7.
+
+Defendant’s Response: Admitted.
+Dr. Kumar led and was personally responsible for the work
+described in the Thesis, which was funded in part with National Science
+Foundation grants. Kumar Decl. ¶ 6.
+8.
+
+3
+
+Case 2:12-cv-06870-KSH-CLW Document 89 Filed 04/06/15 Page 4 of 36 PageID: 3142
+
+Defendant’s Response: Admitted in part and denied in part. IEEE admits that the
+Thesis describes some work for which Kumar was personally responsible that was
+funded in part with National Science Foundation grants. However, as the Thesis
+makes clear, other work it describes was performed by other scientists, on whose
+research Kumar built. See, e.g., Kumar Dec., Exh. A at RK-IEEE000268-75;
+Opposition Declaration of Bruce R. Ewing (“Ewing Opp. Dec.”), Exh. A (Taylor
+Tr.) at 190-91, 195.
+The Thesis is Dr. Kumar’s original solution to a complex
+computing problem: how to generate simple, modular programming instructions
+(“primitives”) that can be combined and transparently implemented to control the
+steady hand robot in order to execute complex, microscopic tasks in coordination
+with a human operator. The Thesis explains how to use “task modeling” to
+improve control of the steady hand robot, thereby enhancing its potential future use
+in microsurgery and other tasks requiring both extreme precision and human
+decision-making. Kumar Decl. ¶ 7 & Ex. A.
+9.
+
+Defendant’s Response: Admitted in part and denied in part. IEEE admits that the
+Thesis as a whole contains original material contributed by Kumar, but denies that
+the concept of using “task modeling” to operate a robot, or to program a robot by
+using modular programming instructions known as primitives, are such original
+contributions. See Ewing Opp. Dec., Exh. A (Taylor Tr.) at 39-41, 190-91, 195;
+see also Defendant’s Local Civil Rule 56.1 Statement of Material Facts Not in
+Dispute (“IEEE 56.1 Statement”) [Dkt. 74], ¶¶ 19-23, 34-42.
+
+4
+
+Case 2:12-cv-06870-KSH-CLW Document 89 Filed 04/06/15 Page 5 of 36 PageID: 3143
+
+Dr. Kumar’s Thesis used visualizations, called “task graphs,” to
+both visualize the complex tasks and to help implement the corresponding
+computer code that instructs the robot to perform complex motions – some humaninitiated, some machine-initiated. The task graphs decompose complex tasks into a
+series of more basic modules, each signifying a particular set of coding
+instructions. Kumar Decl. ¶ 7 & Ex. A at 38; Expert Declaration of J. Kenneth
+Salisbury Jr. (“Salisbury Decl.”) ¶ 15.
+10.
+
+Defendant’s Response: Admitted.
+The Thesis provides several example scenarios for
+implementing and testing Dr. Kumar’s task graph programming. One such
+experiment is based on “retinal vein cannulation” (“RVC”), a microsurgical
+technique that involves insertion of a micropipette (a minuscule tube) into a blood
+vessel in the retina in order to inject medicine. Kumar Decl. ¶ 8 & Ex. A at 51-77.
+11.
+
+Defendant’s Response: Admitted.
+Dr. Kumar had practical reasons for choosing RVC as an
+experimental example. Porcine eyes were readily available for research purposes,
+and a small business had donated the necessary needles, thus providing a nonclinical setting in which Dr. Kumar could perform the numerous trials needed to
+test the feasibility and effectiveness of his code. Kumar Decl. ¶ 8 & Ex. A at 6975, 81.
+12.
+
+Defendant’s Response: Admitted in part and denied in part. IEEE denies the
+allegations contained in this paragraph to the extent Kumar contends that his use of
+the retinal vein cannulation surgical procedure as an example in his Thesis was due
+to practical considerations. In fact, the scientists at Johns Hopkins University
+(“JHU”) who developed the steady hand robot made the retinal vein cannulation
+procedure a focus of their research, making it a natural area of study for Kumar
+and others at JHU. Taylor Dec., ¶¶ 2-3, Exh. A at IEEE_001560-61, Exh. B at
+5
+
+Case 2:12-cv-06870-KSH-CLW Document 89 Filed 04/06/15 Page 6 of 36 PageID: 3144
+
+pages C-12-C-13; Ewing Opp. Dec., Exh. A (Taylor Tr.) at 96-97; Exh. B (Hager
+Tr.) at 25-27, 78-82, 195-200.
+As part of his Thesis work, Dr. Kumar used the robot to pierce
+the porcine vessels with a micropipette, both with and without his task-level
+augmentation code. The experiments confirmed the feasibility of Dr. Kumar’s task
+graph program in a realistic surgical workspace. Kumar Decl. Ex. A at 72, 75.
+13.
+
+Defendant’s Response: Admitted in part and denied in part. IEEE admits the
+allegations contained in the first sentence of this paragraph. IEEE denies the
+allegations contained in the second sentence of this paragraph, as the experiments
+described in the Thesis were not performed on human eyes, and the Thesis makes
+clear that further research would be needed. Kumar Dec., Exh. A at RKIEEE000331-34.
+RVC has never been clinically performed on humans with
+steady-hand robotic assistance. Kumar Decl. ¶ 9; Declaration of Eric M. Stahl
+(“Stahl Decl.”) Ex. N, 64:2-65:15.
+14.
+
+Defendant’s Response: Admitted.
+The Thesis is not about RVC, but simply uses RVC as an
+illustration of one of the experiments Dr. Kumar devised to test his code. Kumar
+Decl. ¶ 9.
+15.
+
+Defendant’s Response: Admitted.
+Thesis Figure 5.13 consists of a task graph representation of Dr.
+Kumar’s RVC experiment. Kumar Decl. ¶ 10 & Ex. A at 70-72, Fig. 5.13.
+16.
+
+Defendant’s Response: Admitted.
+6
+
+Case 2:12-cv-06870-KSH-CLW Document 89 Filed 04/06/15 Page 7 of 36 PageID: 3145
+
+Thesis Figure 5.13 does not describe the steps necessary to
+actually perform RVC; rather, it decomposes the surgical process into individual,
+programmable tasks, at a level of abstraction that Dr. Kumar determined to be
+appropriate for performing his experiment. Kumar Decl. ¶ 10; Salisbury Decl.
+¶¶ 16-21.
+17.
+
+Defendant’s Response: Admitted in part and denied in part. IEEE denies that
+Figure 5.13 describes anything. Rather, the Figure lists visually the steps involved
+when the retinal vein cannulation surgical procedure is performed by the steady
+hand robot, which was an active area of research at JHU at the time the Thesis was
+drafted. Taylor Dec., ¶¶ 2-3, Exh. A at IEEE_001560-61, Exh. B at on pages C12-C-13; Ewing Opp. Dec., Exh. B (Hager Tr.) at 42-45, 209-16. In addition, the
+“level of abstraction” reflected in Figure 5.13 is not attributable to any creative
+selections made by Kumar, but is an artifact of the manner in which the retinal vein
+cannulation procedure is performed with the aid of the steady hand robot. See the
+Moving Declaration of Bruce R. Ewing (“Ewing Mov. Dec.”) [Dkt. 73], Exh. U
+(Kumar Tr.) at 55-57, Exh. V (Taylor Tr.) at 87-88, Exh. W (Hager Tr.) at 66-67;
+see the Moving Declaration of Thomas R. Friberg (“Friberg Dec.”) [Dkt. 73], Exh.
+A at pp. 2-3.
+Each state (e.g., “MoveToPort,” “Orient,” “Insert,”) and each
+transition (e.g., “button1”) in Thesis Figure 5.13 signifies substantial code that Dr.
+Kumar created for this RVC experiment. Kumar Decl. ¶ 11.
+18.
+
+Defendant’s Response: Admitted.
+
+7
+
+Case 2:12-cv-06870-KSH-CLW Document 89 Filed 04/06/15 Page 8 of 36 PageID: 3146
+
+A task graph depicting RVC as an actual surgical procedure
+(rather than a technological demonstration) would not describe “orient” and insert”
+as separate steps. Kumar Decl. ¶ 10.
+19.
+
+Defendant’s Response: Admitted in part and denied in part. IEEE denies the
+allegations contained in this paragraph to the extent it concerns a task graph
+depicting the retinal vein cannulation procedure as performed by the steady hand
+robot. Any task graph showing the steps the steady hand robot would go through
+in performing the retinal vein cannulation procedure would include “Orient” and
+“Insert” steps. Ewing Mov. Dec., Exh. U (Kumar Tr.) at 55-57, Exh. V (Taylor
+Tr.) at 87-88; Exh. W (Hager Tr.) at 66-67; Friberg Dec., Exh. A at pp. 2-3.
+A task graph depicting RVC as an actual surgical procedure
+(rather than a technological demonstration) would have included additional tasks
+and additional detail, such as a task for delivering medication into the retinal vessel
+or a “tracking” task, neither of which are depicted in Thesis Figure 5.13. Kumar
+Decl. ¶ 11 & Ex. A at 70, 76-77; Stahl Decl. Ex. B 118:10-119:12; Ex. N 74:4-13.
+20.
+
+Defendant’s Response: Admitted in part and denied in part. IEEE admits that,
+when retinal vein cannulation is performed as an actual surgical procedure,
+medication would typically be delivered through the cannula. IEEE denies that,
+when retinal vein cannulation is performed as an actual surgical procedure without
+the steady hand robot, a “tracking” task must be employed, as the Thesis discusses
+that concept only as a possibility when the procedure is performed with the aid of
+the steady hand robot. Kumar Dec., Exh. A at RK-IEEE000335.
+
+8
+
+Case 2:12-cv-06870-KSH-CLW Document 89 Filed 04/06/15 Page 9 of 36 PageID: 3147
+
+Thesis Figure 5.13 is original to Dr. Kumar. He created it to
+reflect his Thesis RVC experiment as it was coded., and he conceived the
+individual steps shown therein, their sequence, and their text descriptions. While
+the task graph reflects Dr. Kumar’s general understanding of RVC (based on
+clinical ophthalmology videos depicting the procedure), it is not based on any preexisting work. Kumar Decl. ¶ 11 & Ex. A at 70-71; Salisbury Decl. ¶ 14-19.
+21.
+
+Defendant’s Response: Denied. Figure 5.13 of the Thesis shows the steps
+necessary to perform retinal vein cannulation with the aid of the steady hand robot
+that are dictated by the nature of the procedure, in the sequence in which they must
+be performed when performed by that robot. Ewing Mov. Dec., Exh. U (Kumar
+Tr.) at 55-57, Exh. V (Taylor Tr.) at 87-88, Exh. W (Hager Tr.) at 66-67, 209-16;
+Friberg Dec., Exh. A at pp. 2-3; see the accompanying Declaration of Blake
+Hannaford, Ph.D. (“Hannaford Dec.”), ¶¶ 11-19; see also IEEE 56.1 Statement,
+¶¶ 20-39.
+The Thesis satisfied JHU Computer Science Department’s
+Ph.D. requirements, which require a doctoral dissertation to be a “large, careful,
+and substantive piece [of] original work.” Stahl Decl. Ex. R at 8 (emphasis
+added); id. Ex. P 23:5-16; 36:9-19; Ex. Q 20:13-27:19.
+22.
+
+Defendant’s Response: Admitted. The JHU Ph.D. requirements specify that the
+Thesis as a whole must be original, not all of its constituent elements. Ewing Opp.
+Dec., Exh. A (Taylor Tr.) at 190-91.
+The Thesis’ original work includes its use of task graphs to
+instruct the robot to perform complex micromanipulation tasks. Stahl Decl. Ex. Q
+65:7-66:13, 84:7-21; Ex. P 34:20-35:20; Kumar Decl. Ex. A at 19-20, 36;
+Salisbury Decl. ¶ 23.
+23.
+
+9
+
+Case 2:12-cv-06870-KSH-CLW Document 89 Filed 04/06/15 Page 10 of 36 PageID: 3148
+
+Defendant’s Response: Denied. The use of task graphs to identify the steps
+performed by a robot undertaking a complex procedure like retinal vein
+cannulation pre-dates the Thesis. See Hannaford Dec., ¶¶ 11-19, Exhs. B-E; IEEE
+56.1 Statement, ¶¶ 34-42.
+The Thesis was registered with the U.S. Copyright Office in
+2001, the same year it was published. Kumar Decl. Ex. D.
+24.
+
+Defendant’s Response: Admitted.
+Dr. Kumar is the registered author and sole copyright claimant
+of the Thesis. Kumar Decl. Ex. D.
+25.
+
+Defendant’s Response: Admitted.
+
+¶ 14.
+
+26.
+
+Dr. Kumar left JHU for private industry in 2001. Kumar Decl.
+
+Defendant’s Response: Admitted.
+In late 2002, Dr. Greg Hager of JHU’s Computer Science
+department (one of the faculty readers who approved the Thesis) invited Danica
+Kragic to visit JHU as a post-doctoral researcher to work on human-machine
+micromanipulation. Stahl Decl. Ex. B 30:12-33:22; Ex. C.
+27.
+
+Defendant’s Response: Admitted.
+During her visit, Dr. Kragic and Dr. Hager submitted the
+accused article in this case, “Task Modeling and Specification for Modular
+Sensory Based Human-Machine Cooperative Systems,” which IEEE published in
+2003 (the “IEEE Article”). Stahl Decl. Ex. A (Article); Ex. T 22:24-23:10.
+28.
+
+Defendant’s Response: Admitted.
+10
+
+Case 2:12-cv-06870-KSH-CLW Document 89 Filed 04/06/15 Page 11 of 36 PageID: 3149
+
+Case 2:12-cv-06870-KSH-CLW Document 89 Filed 04/06/15 Page 12 of 36 PageID: 3150
+
+Case 2:12-cv-06870-KSH-CLW Document 89 Filed 04/06/15 Page 13 of 36 PageID: 3151
+
+Case 2:12-cv-06870-KSH-CLW Document 89 Filed 04/06/15 Page 14 of 36 PageID: 3152
+
+and control the steady hand robot in “human-machine cooperative systems,” which
+is a concept described in those words only in the Article. Compare Stahl Dec.,
+Exh. A with Kumar Dec., Exh. A.
+The IEEE Article describes the same strategy as is described in
+the Thesis for programming higher level tasks using graphically depicted coding
+primitives. Stahl Decl. Ex. A (IEEE Article) § 2. Kumar Decl. Ex. A.
+37.
+
+Defendant’s Response: IEEE is not clear what is meant by the term “strategy” as
+used in this Paragraph. If “strategy” is meant to refer to the representation of task
+sequences in the form of a task graph including states and transitions, then IEEE
+admits the allegations contained in this Paragraph but asserts that such a “strategy”
+is not original to Kumar. Hannaford Dec., ¶¶ 11-19, Exhs. B-E. However, if
+“strategy” is meant to refer to the series of steps that are undertaken when the
+retinal vein cannulation procedure is performed with the aid of the steady hand
+robot, then IEEE denies the allegations contained in this Paragraph, as the
+“strategies” depicted in the Article and the Thesis differ in this regard. See
+Hannaford Dec., ¶¶ 20-29; IEEE Additional Facts, ¶ 3, infra.
+Like the Thesis, the IEEE Article illustrates this strategy and
+coding using RVC as an example, and contains a task graph containing the same
+(non-clinical) task decomposition of RVC as is seen in the Thesis. Stahl Decl. Ex.
+A. § III, VIII; Figure 1; Kumar Decl. Ex. A.
+38.
+
+Defendant’s Response: Denied. See Ewing Opp. Dec., Exh. B (Hager Tr.) at
+229-30; Hannaford Dec., ¶¶ 20-29; IEEE Additional Facts, ¶ 3, infra.
+14
+
+Case 2:12-cv-06870-KSH-CLW Document 89 Filed 04/06/15 Page 15 of 36 PageID: 3153
+
+The authors of the IEEE Article had no particular reason to
+choose RVC as an illustration. The IEEE Article contains no RVC-related
+experiment, no trials and no results. Stahl Decl. Ex. A.
+39.
+
+Defendant’s Response: Denied. Retinal vein cannulation was a subject of active,
+ongoing research involving the steady hand robot at the time the Article was
+written. See Response to Paragraph 12, supra; IEEE 56.1 Statement, ¶¶ 22-24.
+The IEEE Article contains an expression of the RVC task graph
+. It is effectively the same as that
+described in Dr. Kumar’s Thesis, simply translated into a different computer
+; id. Ex. A, Section VIII; Kumar
+language (XML). Stahl Decl.
+Decl. ¶ 16; Salisbury Decl. ¶¶ 32, 33.
+40.
+
+Defendant’s Response: Admitted in part and denied in part.
+The second
+sentence of this Paragraph is denied. See Ewing Opp. Dec., Exh. B (Hager Tr.) at
+229-30; Hannaford Dec., ¶¶ 20-29; Stahl Dec.,
+
+; Exh.
+
+X at RK-IEEE000861; IEEE Additional Facts, ¶ 3, infra.
+XML is a “markup language,” like HTML. It enables a user to
+program by “stating what the results should be,” in contrast to Dr. Kumar’s
+language, which contains the actual step-by-step instructions or “recipe” to achieve
+the results. Stahl Decl. Ex. N 114:19-117:3.
+41.
+
+Defendant’s Response: Admitted.
+Dr. Kragic claims she prepared the IEEE Article’s RVC task
+graph using the same software program (Xfig) that Dr. Kumar used to draw Thesis
+.
+Fig. 5.13. Kumar Decl. ¶ 21; Stahl Decl. ¶ 9 & Ex. H p. 2; id.
+42.
+
+Defendant’s Response: Admitted.
+15
+
+Case 2:12-cv-06870-KSH-CLW Document 89 Filed 04/06/15 Page 16 of 36 PageID: 3154
+
+A side-by-side comparison of the coding in Dr. Kragic’s Xfig
+source file for Article Fig. 1 and that in the Xfig source file for Dr. Kumar’s figure
+5.13 shows that Kumar’s work was the original source for the IEEE Article’s task
+graph. Each element of Dr. Kragic’s task graph was created in the same sequence
+and same manner of construction as Dr. Kumar’s original, with the same document
+settings, formatting and stylistic elements (except that the IEEE Article version
+rotates the orientation from “portrait” to “landscape”). Kumar Decl. ¶¶ 21-27 &
+Exs. I-K.
+43.
+
+Defendant’s Response: Denied. See Hannaford Dec., ¶¶ 30-35, Exh. F.
+Each of the two task graphs at issue involved entering into Xfig
+hundreds of individual elements – i.e., shapes, text and formatting. They would
+not have appeared in the same order, with the same formatting and construction
+choices, unless the figures came from the same source. Kumar Decl. ¶¶ 21-27;
+Exs. I –K.
+44.
+
+Defendant’s Response: Denied. See Hannaford Dec., ¶¶ 30-35, Exh. F.
+Dr. Kumar’s Xfig source file was stored on a shared JHU
+network drive, and would have been accessible to anyone with administrative
+access to that shared network. Kumar Decl. ¶ 22.
+45.
+
+Defendant’s Response: Admitted.
+, and there
+is no evidence that either Kragic or Hager had administrative access to the network
+on which they were stored.
+The IEEE Article offers no insight into task-level programming
+of cooperative human-robot systems that is not also contained in the Thesis.
+Salisbury Decl. ¶ 31.
+46.
+
+Defendant’s Response: Denied. See Ewing Opp. Dec., Exh. A (Taylor Tr.) at
+112-13, 115-17; Hannaford Dec., ¶¶ 20-29.
+16
+
+Case 2:12-cv-06870-KSH-CLW Document 89 Filed 04/06/15 Page 17 of 36 PageID: 3155
+
+Case 2:12-cv-06870-KSH-CLW Document 89 Filed 04/06/15 Page 18 of 36 PageID: 3156
+
+Case 2:12-cv-06870-KSH-CLW Document 89 Filed 04/06/15 Page 19 of 36 PageID: 3157
+
+Case 2:12-cv-06870-KSH-CLW Document 89 Filed 04/06/15 Page 20 of 36 PageID: 3158
+
+discussion in Paragraph 55 herein on that basis. See Wolfe v. United Artists Corp.,
+583 F. Supp. 52, 55-56 (E.D. Pa. 1983) (copyright infringement claims are limited
+to violations of the bundle of rights identified in 17 U.S.C. §§ 106, 501, in which a
+failure to credit or misattribution are not mentioned); Tangorre v. Mako’s, Inc., No.
+01 Civ. 4430 (BSJ)(DF), 2003 WL 470577, at *8 (S.D.N.Y. Jan. 6, 2003).
+IEEE agreed to correct the transposed citations in December
+2012, after this litigation began, and more than nine months after Dr. Kumar
+brought the error to IEEE’s attention. Stahl Decl. Ex. AA; Ex. Y 29:10-16; 31:1833:10; Kumar Decl. ¶ 17.
+56.
+
+Defendant’s Response: Admitted. The correction was added in December 2012,
+after the initial review of Kumar’s plagiarism complaint and his subsequent appeal
+were completed in December 2012. See the accompanying Opposition Declaration
+of Anthony Vengraitis (“Vengraitis Dec.”), ¶¶ 6-7.
+Before drafting the IEEE Article, Dr. Kragic reviewed an
+unpublished manuscript that Dr. Hager had provided her, containing an early
+version of Dr. Kumar’s RVC task graph. Stahl Decl.
+; id. Ex. E, Figure 8; id. Ex. F; Kumar
+Decl. ¶ 13.
+57.
+
+Defendant’s Response: Admitted. The unpublished manuscript lists Hager as a
+co-author, with Kumar. Stahl Dec., Exh. E; see also Response to Paragraph 32,
+supra.
+
+20
+
+Case 2:12-cv-06870-KSH-CLW Document 89 Filed 04/06/15 Page 21 of 36 PageID: 3159
+
+Case 2:12-cv-06870-KSH-CLW Document 89 Filed 04/06/15 Page 22 of 36 PageID: 3160
+
+Case 2:12-cv-06870-KSH-CLW Document 89 Filed 04/06/15 Page 23 of 36 PageID: 3161
+
+Case 2:12-cv-06870-KSH-CLW Document 89 Filed 04/06/15 Page 24 of 36 PageID: 3162
+
+Defendant’s Response: Admitted to the extent that Hager used the words
+“apparent” and “troublesome” to describe the resemblance between the two
+Figures, but Hager also stated that Figure 1 of the Article was “clearly different”
+from Figure 5.13 of the Thesis and that any similarities were superficial. Ewing
+Opp. Dec., Exh. B (Hager Tr.) at 120-22.
+IEEE’s expert witness attempted to locate another example of a
+task graph depiction of RVC, and failed to find a single one. The only such task
+graph is the one Dr. Kumar created and the IEEE Article copied. Stahl Decl. Ex. N
+53:3-17; 93:1-14; id. Ex. Q 91.
+67.
+
+Defendant’s Response: Admitted in part and denied in part. IEEE admits the
+allegations contained in the first sentence of this Paragraph, but this fact is hardly
+surprising, since there is no evidence any other robotics laboratory was working or
+has ever worked on retinal vein cannulation. Ewing Opp. Dec., Exh. B (Hager Tr.)
+at 66-67; Ewing Mov. Dec., Exh. U (Kumar Tr.) at 49. IEEE denies the second
+sentence of this Paragraph. See IEEE's Responses to Paragraphs 12, 17, supra, and
+IEEE Additional Facts, ¶ 3, infra; see also IEEE 56.1 Response, ¶¶ 25-42.
+Kragic and Hager later used the same task graph (IEEE Article
+Figure 1) in works they co-authored with other collaborators. The publishers of
+these later works have all issued statements or errata noting Kumar should have
+been acknowledged in connection with the task graph. Kumar Decl. ¶ 18 & Ex. E,
+F.
+68.
+
+Defendant’s Response: Admitted in part and denied in part. IEEE admits the
+allegations contained in the first sentence of this Paragraph and that other
+24
+
+Case 2:12-cv-06870-KSH-CLW Document 89 Filed 04/06/15 Page 25 of 36 PageID: 3163
+
+publishers have issued statements or errata with respect to these other articles, but
+denies that “Kumar should have been acknowledged in connection with the task
+graph.” Further, agreements Kumar reached with other publishers in settlement of
+actual or contemplated litigation are inadmissible under Fed. R. Evid. 402, 403 and
+408, and IEEE objects to the Court’s consideration of all evidence concerning such
+settlements on this motion. See McHann v. Firestone Tire and Rubber Co., 713
+F.2d 161, 166 (5th Cir. 1983) (“. . . nor can plaintiff show the defendant’s liability
+or extent of liability, by proof of defendant’s settlement with a third person”);
+Trout v. Milton S. Hershey Medical Center, 572 F.Supp.2d 591, 596-600 (M.D. Pa.
+2008).
+Section IV of the IEEE Article (“Basic Primitives”) contains
+routines and primitives taken entirely from the Thesis. The framework, task
+elements and terminology that the Article uses to express these instructions are all
+lifted from the Thesis. Kumar Decl. Ex. A chapters 4, 5 and pp. 96-97; Stahl Decl.
+Ex. A § IV; Salisbury Decl. ¶ 32.
+69.
+
+Defendant’s Response: Denied. See Ewing Opp. Dec., Exh. B (Hager Tr.) at
+227-29; Hannaford Dec., ¶¶ 20-29; see also IEEE Additional Facts, ¶ 3, infra,
+Response to Paragraphs 12, 17, supra.
+The article copies, practically verbatim, the Thesis’ description
+of the steady hand robot hardware. Kumar Decl. Ex. A at 22-23; Stahl Decl. Ex. A
+§ III (last full paragraph).
+70.
+
+Defendant’s Response: Denied. While one sentence in the Article describing
+certain attributes of the hardware of the steady hand robot is similar to a sentence
+25
+
+Case 2:12-cv-06870-KSH-CLW Document 89 Filed 04/06/15 Page 26 of 36 PageID: 3164
+
+in the Thesis describing the same attributes, which is hardly surprising given the
+subject matter, the remainder of the hardware descriptions are notably different.
+Compare Kumar Dec., Exh. A at RK-IEEE000281-82 with Stahl Dec., Exh. A at
+IEEE_000507-08. Further, the same degree of similarity is found when the same
+passage in the Article co-authored by Hager, Stahl Dec., Exh. A at IEEE_00050708, is compared with the unpublished manuscript co-authored by Hager that he
+gave to Kragic before her arrival at JHU. Stahl Dec., Exh. E at 4, Section III(A) at
+paragraph 2.
+The two works describe their objectives in similar terms: the
+Thesis’ goal is to “augment human actions in medicine” where “precision,
+efficiency, and consistency” are required; the IEEE Article’s goal is “augmenting
+surgical manipulation tasks” which are “repetitive, sequential and consist of simple
+steps.” Stahl Decl. Ex. A (Abstract); Kumar Decl. Ex. A at 9.
+71.
+
+Defendant’s Response: Denied. The expression in the two cited excerpts is
+obviously different, beyond the concept of augmenting surgical procedures through
+the aid of robots, a concept that is neither protectable nor original to Kumar.
+Taylor Dec., ¶¶ 2-3, Exh. A at IEEE_001538, 1542-43 (1997 CISST ERC grant
+proposal with sections devoted to “Surgical Augmentation Systems”), Exh. B at
+cover page (Title of 1998 JHU grant proposal listed as “Cooperative Steady-Hand
+Augmentation of Human Skill in Micromanipulation Task”).
+The Thesis and IEEE Article use the same expressive content to
+describe the robot’s software architecture: “A modular architecture was designed
+72.
+
+26
+
+Case 2:12-cv-06870-KSH-CLW Document 89 Filed 04/06/15 Page 27 of 36 PageID: 3165
+
+for controlling the steady hand robot. This architecture is suitable for several other
+surgical robot applications[.]” Kumar Decl. Ex. A. at 20. “The system has to be
+modular – complex tasks should be defined using a set of basic control primitives.
+This allows the surgeon to model a variety of tasks using the existing architecture.”
+Stahl Decl. Ex. A, § I.
+Defendant’s Response: Denied, beyond the common reference to a “modular”
+software architecture, which is a common term widely used in the field of robotics.
+Ewing Opp. Dec., Exh. B (Hager Tr.) at 75-76; see also IEEE 56.1 Statement,
+¶¶ 37-39.
+The two works use nearly identical terms to describe the
+software controls used to manipulate the robot. The Article discusses the robot “as
+a purely kinematic Cartesian device,” with specific inputs for controlling the tool
+tip position and velocity. Stahl Decl. Ex. A § IV.A. The Thesis likewise explains
+that “for moving to a specified frame, Cartesian control simply involves
+performing inverse kinematics on the given frame and moving with obtained joint
+parameters.” Kumar Decl. Ex. A at 29; id. at 25-27 (discussing kinematic
+parameters).
+73.
+
+Defendant’s Response: Denied, beyond the common references to the steady
+hand robot as having “Cartesian” controls and “kinematic” properties, which are
+common concepts in robotics and terms that are necessary to use when describing
+attributes of the steady hand robot. Ewing Opp. Dec., Exh. B (Hager Tr.) at 38-40;
+Salisbury Dec., ¶ 8 (describing an article Salisbury published in 1980 called
+“Active Stiffness Control of a Manipulator in Cartesian Coordinates”); see also
+IEEE 56.1 Statement, ¶¶ 43-46.
+
+27
+
+Case 2:12-cv-06870-KSH-CLW Document 89 Filed 04/06/15 Page 28 of 36 PageID: 3166
+
+Dr. Kumar was not aware of the IEEE Article’s publication in
+2003. It was published without his knowledge or permission. Kumar Decl. ¶ 15.
+74.
+
+Defendant’s Response: Admitted. No such permission was required.
+Dr. Kumar returned to JHU in 2007 as an assistant research
+professor, working on research unrelated to his Thesis topics. He discovered the
+IEEE Article in 2010, while preparing a grant application to the National Science
+Foundation for JHU. He had no prior knowledge of its existence. Kumar Decl.
+¶15.
+75.
+
+Defendant’s Response: Denied. At a minimum, on two occasions in 2009,
+Kumar was listed as a co-principal investigator on grant applications submitted to
+the National Science Foundation by Hager in which the Article was one of the
+cited references. Ewing Opp. Dec., Exh. E at IEEE_001380, 1402 (Ref. 60), Exh.
+F at IEEE_001428, 1454 (Ref. 71).
+Dr. Kumar recognized immediately that the IEEE Article was
+based on his Thesis. Kumar Decl. ¶16.
+76.
+
+Defendant’s Response: Denied. As set forth in IEEE’s Response to Paragraph
+75, supra, Kumar had to be aware of the Article no later than 2009, but he did not
+complain to IEEE until January 2012, as set forth in IEEE’s Response to Paragraph
+80, infra. As set forth in IEEE’s Responses to Paragraphs 35-40, 43-44, 46, supra,
+and in Paragraph 3 of IEEE’s Additional Facts, infra, the Article was not based on
+Kumar’s Thesis.
+
+28
+
+Case 2:12-cv-06870-KSH-CLW Document 89 Filed 04/06/15 Page 29 of 36 PageID: 3167
+
+Because the IEEE Article was co-authored by a JHU colleague
+(Dr. Hager, by then chair of the Computer Science Department), he attempted first
+to have his concerns resolved internally. Kumar Decl. ¶ 16.
+77.
+
+Defendant’s Response: Admitted. However, Kumar’s “concerns” with JHU
+encompassed a number of other issues beyond the Article co-authored by Hager.
+Ewing Opp. Dec., Exh. G. IEEE objects to the Court’s consideration on this
+motion or at trial of Kumar’s disputes with JHU, its review of his complaints that
+JHU characterized as “research or professional misconduct,” and the outcome of
+his subsequent lawsuit against JHU as being irrelevant to any of the matters this
+Court must decide in this copyright infringement dispute. See Fed. R. Evid. 402.
+A JHU dean conducted a summary inquiry into Dr. Kumar’s
+allegations, construing them as a claim of research misconduct. While JHU found
+no violations of the university’s research misconduct policies, the inquiry did not
+consider the issue of copyright infringement. Stahl Decl. Ex. CC at RKIEEE000904; id. Ex. BB 77:11-21.
+78.
+
+Defendant’s Response: Admitted. See IEEE’s objection incorporated into its
+Response to Paragraph 77, supra.
+JHU later wrongfully retaliated against Dr. Kumar’s
+employment for his pursuit of the complaint. Kumar Decl. ¶ 19 & Ex. G.
+79.
+
+Defendant’s Response: IEEE admits that a jury in Baltimore found JHU liable in
+the amount of $10,000 for retaliating against Kumar for filing a complaint of
+research misconduct that encompassed issues other than the Article co-authored by
+
+29
+
+Case 2:12-cv-06870-KSH-CLW Document 89 Filed 04/06/15 Page 30 of 36 PageID: 3168
+
+Hager. Kumar Dec., Exh. G; Ewing Opp. Dec., Exh. G. See IEEE’s objection
+incorporated into its Response to Paragraph 77, supra.
+Dr. Kumar also alerted IEEE of his concerns with the IEEE
+Article. Stahl Decl. Ex. T 62:14-24.
+80.
+
+Defendant’s Response: Admitted. As stated in the deposition excerpt cited in
+this Paragraph, Kumar transmitted a plagiarism complaint to IEEE in January
+2012.
+IEEE admits its initial investigation of Dr. Kumar’s complaint
+violated IEEE’s own written policies, because it assigned the investigation to a
+single IEEE officer rather than a required independent, “ad hoc” committee of
+experts. That officer had clear conflicts of interest:
+, and he had advised a grad student who had preceded Dr. Kragic at
+JHU and had co-authored articles with Dr. Hager. Stahl Decl. Ex. T 52:18-53:13;
+74:18-75:21;
+; Kumar Decl. ¶ 20 & Ex. H.
+81.
+
+Defendant’s Response: Admitted in part and denied in part. IEEE admits that,
+initially, the investigation of Kumar’s plagiarism complaint was assigned to Dr.
+Alessandro DeLuca, the then-Vice President of Publications at the IEEE Robotics
+and Automation Society (not IEEE itself). Ewing Opp. Dec., Exh. H (Vengraitis
+Tr.) at 51-54. Consistent with IEEE policy, DeLuca should have appointed an
+independent, ad hoc committee to review Kumar’s plagiarism complaint that
+would report to him, id. at 52, but he failed to do so and instead summarily
+dismissed the complaint. Vengraitis Opp. Dec., ¶ 4; Ewing Opp. Dec., Exh. H
+(Vengraitis Tr.) at 73-74. When Kumar complained about this dismissal, DeLuca
+30
+
+Case 2:12-cv-06870-KSH-CLW Document 89 Filed 04/06/15 Page 31 of 36 PageID: 3169
+
+Case 2:12-cv-06870-KSH-CLW Document 89 Filed 04/06/15 Page 32 of 36 PageID: 3170
+
+Case 2:12-cv-06870-KSH-CLW Document 89 Filed 04/06/15 Page 33 of 36 PageID: 3171
+
+Case 2:12-cv-06870-KSH-CLW Document 89 Filed 04/06/15 Page 34 of 36 PageID: 3172
+
+for summary judgment. The entire contents of the IEEE 56.1 Statement [Dkt. 74]
+are hereby incorporated by reference, and the following additional material
+undisputed facts are offered for the Court’s consideration.
+1.
+
+; Ewing Dec., Exh. C.
+2.
+
+Prior to 2001, when the Thesis was published, Hager had served as an
+
+Assistant and Associate Research Professor at Yale University and a full Professor
+at JHU, beginning in 1999. He had also published, alone or with co-authors, 14
+journal articles, 4 book chapters, 8 invited articles, and 47 peer-reviewed
+conference papers before that time, among many other professional
+accomplishments. Ewing Opp. Dec., Exh. I.
+3.
+
+While Figure 5.13 of the Thesis and Figure 1 of the Article share
+
+similarities attributable to the fact that they concern the same research, performed
+on the same robot, in the same lab, there are material differences between them,
+namely:
+
+34
+
+Case 2:12-cv-06870-KSH-CLW Document 89 Filed 04/06/15 Page 35 of 36 PageID: 3173
+
+A.
+
+Figure 5.13 depicts transitions from the “Insert” and “Contact” states
+
+to the “Retract” state, whereas Figure 1 of the Article depicts transitions to an
+“Error” state from all other states.
+B.
+
+“Start” is depicted as a state in Figure 1 of the Article but as a
+
+transition in Figure 5.13 of the Thesis.
+C.
+
+“Contact” is a state and a transition in Figure 5.13 of the Thesis, but
+
+only a state in Figure 1 of the Article.
+D.
+
+In Figure 5.13 of the Thesis, a button must be pressed to puncture the
+
+vein, whereas in Figure 1 of the Article, no button is pressed to reach the
+“Puncture” state. Ewing Opp. Dec., Exh. A (Taylor Tr.) at 116-17, 122-25; Exh. B
+(Hager Tr.) at 45-61, 83-85, 156-57;
+
+; Hannaford
+; Exh. X at RK-IEEE000861.
+
+Dec., ¶¶ 20-29; Stahl Dec.,
+
+See also Responses to Paragraphs 35-40, 43-44, 46, supra.
+4.
+
+The Thesis generally is concerned with very specific applications and
+
+is more detailed than the Article, which focuses on more general principles and
+their application in XML language. Ewing Dec., Exh. B (Hager Tr.) at 69-73, 22122.
+
+35
+
+Case 2:12-cv-06870-KSH-CLW Document 89 Filed 04/06/15 Page 36 of 36 PageID: 3174
+
+Dated: April 6, 2015
+
+Respectfully Submitted,
+DORSEY & WHITNEY LLP
+S/
+Bruce R. Ewing
+Jonathan Montcalm (pro hac vice)
+51 West 52nd Street
+New York, NY 10019
+(212) 415-9200
+Attorneys for Defendant
+The Institute of Electrical and
+Electronics Engineers, Incorporated
+
+36
+
+

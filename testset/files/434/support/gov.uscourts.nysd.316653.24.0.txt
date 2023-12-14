@@ -1,0 +1,2204 @@
+Case 1:07-cv-10329-RJS
+
+Document 24
+
+Filed 06/10/2008
+
+Page 1 of 43
+
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+----------------------------------------------------------------x
+CITY OF LIVONIA EMPLOYEES’
+:
+RETIREMENT SYSTEM, On Behalf of Itself
+:
+and All Others Similarly Situated,
+:
+:
+Plaintiffs,
+: Civil Action No. 07 CV 10329 (RJS)
+:
+vs.
+:
+:
+WYETH, ROBERT ESSNER, JOSEPH
+:
+MAHADY, KENNETH MARTIN,
+:
+BERNARD POUSSOT, ROBERT RUFFOLO,
+:
+JR. and GINGER CONSTANTINE,
+:
+:
+Defendants.
+:
+----------------------------------------------------------------x
+MEMORANDUM OF LAW IN SUPPORT OF ALL DEFENDANTS’
+MOTION TO DISMISS THE CONSOLIDATED CLASS ACTION COMPLAINT
+
+SIMPSON THACHER & BARTLETT LLP
+425 Lexington Avenue
+New York, New York 10017
+Telephone: (212) 455-2000
+Facsimile: (212) 455-2502
+Attorneys for Defendants
+
+Case 1:07-cv-10329-RJS
+
+Document 24
+
+Filed 06/10/2008
+
+Page 2 of 43
+
+TABLE OF CONTENTS
+PRELIMINARY STATEMENT .....................................................................................................1
+STATEMENT OF FACTS..............................................................................................................5
+A.
+
+The Development of Pristiq.....................................................................................5
+
+B.
+
+The Statements at Issue ...........................................................................................7
+
+C.
+
+Defendants’ Stock Sales ..........................................................................................8
+
+ARGUMENT ................................................................................................................................10
+I.
+
+A HEIGHTENED PLEADING STANDARD APPLIES .................................................10
+
+II.
+
+THE COMPLAINT SHOULD BE DISMISSED BECAUSE PLAINTIFFS
+HAVE NOT ALLEGED ANY ACTIONABLE STATEMENTS OR
+OMISSIONS......................................................................................................................12
+
+III.
+
+A.
+
+Defendants’ Forward-Looking Statements Are Protected From Liability Under
+the PSLRA and the “Bespeaks Caution” Doctrine................................................12
+
+B.
+
+Any Alleged Omissions Were Disclosed During the Class Period and Are
+Immaterial as a Matter of Law ..............................................................................18
+
+PLAINTIFFS HAVE NOT ADEQUATELY ALLEGED SCIENTER ............................21
+A.
+
+Defendants’ Alleged Scheme to Defraud Is Implausible and Less Compelling
+Than a Nonculpable Explanation for Defendants’ Conduct.................................22
+
+B.
+
+Plaintiffs Fail to Allege That Defendants’ Stock Sales Were Sufficiently
+“Suspicious” or “Unusual” to Give Rise to a Strong Inference of Scienter ..........26
+
+C.
+
+1.
+
+Plaintiffs Do Not Allege That Dr. Constantine Sold Company Stock ......28
+
+2.
+
+Messrs. Essner’s, Mahady’s, and Poussot’s and Dr. Ruffolo’s Stock Sales
+Were Not Suspicious or Unusual...............................................................28
+
+3.
+
+Mr. Martin’s Stock Sales Were Not Suspicious or Unusual .....................31
+
+Plaintiffs Have Not Alleged Conscious Misbehavior or Recklessness .................32
+
+IV.
+
+PLAINTIFFS HAVE NOT ALLEGED LOSS CAUSATION .........................................33
+
+V.
+
+PLAINTIFFS FAIL TO STATE A CLAIM UNDER SECTION 20(a) ...........................35
+
+CONCLUSION .............................................................................................................................36
+
+i
+
+Case 1:07-cv-10329-RJS
+
+Document 24
+
+Filed 06/10/2008
+
+Page 3 of 43
+
+TABLE OF AUTHORITIES
+Cases
+Acito v. IMCERA Group, 47 F.3d 47 (2d Cir. 1995).....................................................................30
+ATSI Commc’ns, Inc. v. Shaar Fund, Ltd., 493 F.3d 87 (2d Cir. 2007).................................passim
+Bell Atlantic v. Twombly, 127 S. Ct. 1955 (2007).........................................................................11
+City of Brockton Retirement Sys. v. Shaw Group Inc., 540 F. Supp. 2d 464
+(S.D.N.Y. 2008)...........................................................................................................22, 29
+Dura Pharms. v. Broudo, 544 U.S. 336 (2005).......................................................................33, 34
+Edison Fund v. Cogent Inv. Strategies Fund, Ltd., No. 06 Civ. 40450,
+2008 WL 857631 (S.D.N.Y. Mar. 31, 2008).....................................................................36
+Fellman v. Electro Optical Sys. Corp., No. 98 Civ. 6403, 2000 WL
+489713 (S.D.N.Y. Apr. 25, 2000) .....................................................................................13
+Gavish v. Revlon, Inc., No. 00 Civ. 7291, 2004 WL 2210269 (S.D.N.Y.
+Sept. 30, 2004)...................................................................................................................17
+Hampshire Equity Partners II, L.P. v. Teradyne, Inc., No. 04 Civ. 3318,
+2005 WL 736217 (S.D.N.Y. Mar. 30, 2005).....................................................................22
+In re Astea Int'l Inc. Sec. Litig., No. 06 Civ. 1467, 2007 U.S. Dist. LEXIS
+58238 (E.D. Pa. Aug. 8, 2007) ..........................................................................................30
+In re AstraZeneca Sec. Litig., No. 05 Civ. 2688, 2008 U.S. Dist. LEXIS
+43680 (S.D.N.Y. June 3, 2008) ...............................................................................1, 26, 33
+In re Bayer AG Sec. Litig., 03 Civ. 1546, 2004 WL 2190357 (S.D.N.Y.
+Sept. 30, 2004)...................................................................................................................25
+In re Bayou Hedge Fund Litig., 534 F. Supp. 2d 405 (S.D.N.Y. 2007)........................................21
+In re Blockbuster Inc. Secs. Litig., No. 3 Civ. 0398-M, 2004 WL 884308
+(N.D. Tex. Apr. 26, 2004) .................................................................................................30
+In re Bristol-Myers Squibb Sec. Litig., 312 F. Supp. 2d 549 (S.D.N.Y.
+2004)...........................................................................................................................passim
+In re Burlington Coat Factory Sec. Litig., 114 F.3d 1410 (3d Cir. 1997).....................................20
+In re Connetics Corp. Sec. Litig., No. 07-02940, 2008 WL 269467 (N.D.
+Cal. Jan. 29, 2008).............................................................................................................13
+
+ii
+
+Case 1:07-cv-10329-RJS
+
+Document 24
+
+Filed 06/10/2008
+
+Page 4 of 43
+
+In re Dura Pharms., Inc. Sec. Litig., No. 99 Civ. 0151-L, 2000 WL
+33176043 (S.D. Cal. July 11, 2000) ............................................................................30, 31
+In re Dynex Capital, Inc. Sec. Litig., No. 05 Civ. 1897, 2006 WL 314524
+(S.D.N.Y. Feb. 10. 2006)...................................................................................................20
+In re Eastman Kodak Co. Sec. Litig., No. 05 Civ. 6326, 2006 WL 3149361
+(W.D.N.Y. Nov. 1, 2006) ..................................................................................................33
+In re Elan Corp. Sec. Litig., 543 F. Supp. 2d 187 (S.D.N.Y. 2008)............................................5, 6
+In re eSpeed, Inc. Sec. Litig., 457 F. Supp. 2d 266 (S.D.N.Y. 2006) ............................................31
+In re FBR Inc. Sec. Litig., 544 F. Supp. 2d 346 (S.D.N.Y. 2008) .................................................11
+In re Geopharma, Inc. Sec. Litig., 411 F. Supp. 2d 434 (S.D.N.Y. Jan. 27,
+2006)..................................................................................................................................22
+In re Health Mgmt. Sys. Sec. Litig., No. 97 Civ. 1865, 1998 WL 283286
+(S.D.N.Y. June 1, 1998) ....................................................................................................31
+In re Initial Pub. Offering Sec. Litig., 383 F. Supp. 2d 566 (S.D.N.Y.
+2005)..................................................................................................................................20
+In re Initial Pub. Offering Sec. Litig., 544 F. Supp. 2d 277 (S.D.N.Y.
+2008)..................................................................................................................................31
+In re KeySpan Corp. Sec. Litig., 383 F. Supp. 2d 358 (E.D.N.Y. 2003)...........................27, 28, 31
+In re LaBranche Sec. Litig., 405 F. Supp. 2d 333 (S.D.N.Y. 2005)..............................................32
+In re NYSE Specialists Sec. Litig., 503 F.3d 89 (2d Cir. 2007) .....................................................11
+In re Omnicom Group, Inc. Sec. Litig., No. 02 Civ. 4483, 2008 WL
+243788 (S.D.N.Y. Jan. 29, 2008) ......................................................................................35
+In re Pfizer, Inc. Sec. Litig., No. 06 Civ. 14199, 2008 WL 540120
+(S.D.N.Y. Feb. 28, 2008).......................................................................................18, 24, 25
+In re Progress Energy, Inc. Sec. Litig., 371 F. Supp. 2d 548 (S.D.N.Y.
+2005)..................................................................................................................................18
+In re QLT Inc. Sec. Litig., 312 F. Supp. 2d 526 (S.D.N.Y. 2004) ...........................................13, 15
+In re Rhodia S.A. Sec. Litig., 531 F. Supp. 2d 527 (S.D.N.Y. 2007) ................................33, 34, 35
+In re Scholastic Corp. Sec. Litig., 252 F.3d 63 (2d Cir. 2001)......................................................27
+In re Silicon Graphics Sec. Litig., 183 F.3d 970 (9th Cir. 1999) ..................................................30
+
+iii
+
+Case 1:07-cv-10329-RJS
+
+Document 24
+
+Filed 06/10/2008
+
+Page 5 of 43
+
+In re Syntex Corp. Sec. Litig., 95 F.3d 922 (9th Cir. 1996)...........................................................17
+In re Take-Two Interactive Sec. Litig., No. 06 Civ. 803, 2008 WL 1757823
+(S.D.N.Y. Apr. 16, 2008) ................................................................................11, 12, 22, 23
+In re Tyco Int’l Ltd., 185 F. Supp. 2d 102 (D.N.H. 2002).............................................................29
+In re Vantive Corp. Sec. Litig., 283 F.3d 1079 (9th Cir. 2002).....................................................31
+In re Veeco Instruments, Inc. Sec. Litig., 235 F.R.D. 220 (S.D.N.Y. 2006) .................................17
+In re Viropharma, Inc. Sec. Litig., No 02 Civ. 1627, 2003 WL 1824914
+(E.D. Pa. Apr. 7, 2003) ................................................................................................13, 16
+In re Winstar Communs., 01 Civ. 3014, 2006 WL 473885 (S.D.N.Y. Feb.
+27, 2006)............................................................................................................................34
+In re Worldcom, Inc. Sec. Litig., 02 Civ. 3288, 2005 WL 2319118
+(S.D.N.Y. Sept. 21, 205) ...................................................................................................35
+In re Zyprexa Prods. Liab. Litig., No. 07 Civ. 1310, 2008 WL 1923126
+(E.D.N.Y. Apr. 30, 2008) ..............................................................................................8, 20
+Jones v. N.Y. State Div. of Military & Naval Affairs, 166 F.3d 45 (2d Cir.
+1998)..................................................................................................................................37
+Kalin v. Xanboo, Inc., 526 F. Supp. 2d 392 (S.D.N.Y. 2007) .......................................................36
+Kalnit v. Eichler, 264 F.3d 131 (2d Cir. 2001)........................................................................22, 32
+Kemp v. Universal Am. Fin. Corp., No. 05 Civ. 9883, 2007 WL 86942
+(S.D.N.Y. Jan. 10, 2007) .............................................................................................12, 15
+Lapin v. Goldman Sachs Group, Inc., 506 F. Supp. 2d 221..........................................................36
+Noble Asset Mgmt. v. Allos Therapeutics, Inc., No. 04 Civ. 1030, 2005
+WL 4161977 (D. Colo. Oct. 20, 2005)........................................................................13, 14
+Ressler v. Liz Claiborne, 75 F. Supp. 2d 43 (E.D.N.Y. 1999) ................................................28, 29
+Rombach v. Chang, 355 F.3d 164 (2d Cir. 2004)..........................................................................15
+Rothman v. Gregor, 220 F.3d 81 (2d Cir. 2000) ...........................................................................32
+Salinger v. Projtectavision, Inc., 972 F. Supp. 222 (S.D.N.Y. 1997) ...........................................36
+Shields v. Citytrust Bancorp, Inc., 25 F.3d 1124 (2d Cir. 1994)...................................................24
+Starr v. Georgeson S'holder, Inc., 412 F.3d 103 (2d Cir. 2005) ...................................................18
+
+iv
+
+Case 1:07-cv-10329-RJS
+
+Document 24
+
+Filed 06/10/2008
+
+Page 6 of 43
+
+Tellabs, Inc. v. Makor Issues & Rights, Ltd., 127 S. Ct. 2499 (2007)...............................11, 12, 21
+United States v. Bonanno Organized Crime Family of La Cosa Nostra,
+879 F.2d 20 (2d Cir. 1989) ................................................................................................11
+United States v. Cusimano, 123 F.3d 83 (2d Cir. 1997)................................................................20
+Federal Statutes and Rules
+15 U.S.C. § 78t(a) (2008) ..............................................................................................................36
+15 U.S.C. § 78u-4(b)(2) (2008) ...............................................................................................11, 21
+15 U.S.C. § 78u-5(c) (2008) ....................................................................................................12, 15
+15 U.S.C. § 78u-5(i)(1) (2008) ......................................................................................................13
+21 C.F.R. §§ 314.105, 314.110, 314.120 (2008) .............................................................................5
+Fed. R. Civ. P. 9(b)........................................................................................................................11
+
+v
+
+Case 1:07-cv-10329-RJS
+
+Document 24
+
+Filed 06/10/2008
+
+Page 7 of 43
+
+Pursuant to Federal Rules of Civil Procedure 9(b) and 12(b)(6) and the Private
+Securities Litigation Reform Act of 1995, 15 U.S.C. § 78u-4, et seq (“PSLRA”), Defendants
+Wyeth, Robert Essner, Bernard Poussot, Joseph Mahady, Kenneth Martin, Robert Ruffolo, Jr.,
+M.D., and Ginger Constantine, M.D. move to dismiss Plaintiffs’ Consolidated Complaint for
+Violations of the Federal Securities Laws in its entirety and with prejudice.
+PRELIMINARY STATEMENT
+This case is the most recent example of plaintiffs trying to manufacture a federal
+securities fraud claim out of statements about a new drug made by a pharmaceutical company
+during the federal regulatory approval process. As recently as last week, the Honorable Thomas
+P. Griesa, in granting a motion to dismiss, stated that courts will dismiss fraud claims where
+plaintiffs seek to exploit the vagaries of the regulatory process:
+The cases recognize that, particularly in the testing and development stage, the
+possible beneficial effects of a drug may be accompanied by adverse side effects,
+and there may be uncertainty as to how the risk-benefit balance ultimately turns
+out, and how it will be viewed by regulators. But if the management of the
+company releases positive reports about the drug to the public along the way
+which the management honestly believes to be true, and where there is no reckless
+disregard for truth, then that is not securities fraud, even though at a later point
+some event occurs which prevents the marketing of the drug or makes it necessary
+to take the drug off the market.
+In re AstraZeneca Sec. Litig., No. 05 Civ. 2688, 2008 U.S. Dist. LEXIS 43680, at *42-43
+(S.D.N.Y. June 3, 2008). Here, Defendants' statements amount to nothing more than optimism
+and forward-looking statements about a new drug going through the federal approval process.
+The statements were not guarantees. They were not falsely made. And they are not actionable.
+This case concerns the drug Pristiq, which Wyeth is developing for two uses: the
+treatment of vasomotor symptoms (“VMS”) or “hot flushes” in menopausal women, and the
+treatment of major depressive disorder (“MDD”) in adults. In January 2007, Wyeth received an
+“approvable” letter from the Food and Drug Administration (“FDA”) for Pristiq’s MDD
+1
+
+Case 1:07-cv-10329-RJS
+
+Document 24
+
+Filed 06/10/2008
+
+Page 8 of 43
+
+indication. A year later, in February 2008, the FDA approved Pristiq for the treatment of MDD,
+and the drug has been available for that use in pharmacies since May 2008.
+In July 2007, Wyeth received an approvable letter for Pristiq’s VMS indication.
+Because of potential side effects observed in one of Wyeth’s clinical trials, the letter required
+Wyeth to conduct an additional study before the FDA would approve Pristiq for the treatment of
+VMS. As a result, Pristiq is not expected to be eligible for FDA approval for VMS until
+sometime in 2010. Wyeth immediately announced receipt of the VMS approvable letter, and
+Wyeth’s stock price fell.
+Rewriting history, Plaintiffs now claim that Defendants made fraudulent
+statements about the chances of receiving FDA approval for the VMS indication and concealed
+data about the adverse events from one of four clinical studies submitted to the FDA (“Study
+315”). But this is no more than an accusation that Defendants committed fraud based on
+hindsight, which courts routinely reject as a basis for alleging securities claims, especially in
+pharmaceutical cases involving new drug applications. Defendants believed at the time, and
+continue to believe, that Pristiq is a safe and effective treatment for VMS. While Defendants
+were obviously aware of (and disclosed) the results of Study 315 during the application process,
+they simply had no control over the way in which the FDA would respond to this data.
+Indeed, Defendants repeatedly warned investors in their SEC filings and public
+statements that they could not control or guarantee regulatory actions and that the FDA may
+disagree with the Company about drug approval. Wyeth’s 2005 Form 10-K warns that “[t]he
+development and commercialization of novel drugs requires significant expenditures with a low
+probability of success.” Chepiga Aff. Ex. 1. Wyeth also told its shareholders:
+Notably, clinical trial data are subject to differing interpretations and, even when
+we view data as sufficient to support the safety and/or effectiveness of a product
+
+2
+
+Case 1:07-cv-10329-RJS
+
+Document 24
+
+Filed 06/10/2008
+
+Page 9 of 43
+
+candidate or a new indication for an existing product, regulatory authorities may
+not share our views and may require additional data or may deny approval
+altogether.
+Id. Moreover, even Plaintiffs admit that the regulatory environment for new drug approval was
+tightening and difficult to predict. The Complaint alleges that it was “well known” that Wyeth
+was “operating in a climate where markedly fewer drugs had been approved in the past five years
+as compared to the five years prior, and far more drugs were being rejected in the later stages of
+development than ever before.” Compl. ¶ 10. Given this environment, Defendants cannot be
+faulted for not knowing what action the FDA would take, much less be accused of fraud.
+As a legal matter, the Complaint fails to allege securities fraud under Sections
+10(b) and 20(a) of the Securities and Exchange Act of 1934 (“Exchange Act”) and SEC Rule
+10b-5 for four independent reasons. First, Defendants’ statements were forward-looking and
+thus protected from liability. The statements regarding Pristiq’s future were accompanied by
+cautionary language, constituted expressions of corporate optimism, and were not made with any
+knowledge that the statements were false or misleading. As such, they are entitled to immunity
+under both the PSLRA and the common law “bespeaks caution” doctrine. In addition, the safety
+data that Defendants allegedly hid was fully disclosed to the FDA, doctors, market watchers, and
+analysts. Indeed, during the Class Period an industry analyst expressly reported on Pristiq’s
+adverse event data and their potential impact on the drug’s approvability in an investor report
+entitled “WYE: How Will the ‘New’ FDA Handle Pristiq?” This information had no effect on
+the Company’s stock price. Accordingly, this alleged omission cannot form the basis of a valid
+claim.
+Second, Plaintiffs’ scienter case is completely implausible. The Complaint asserts
+that Defendants acted in order to temporarily inflate Wyeth’s stock price and maintain the
+
+3
+
+Case 1:07-cv-10329-RJS
+
+Document 24
+
+Filed 06/10/2008
+
+Page 10 of 43
+
+illusion that Pristiq was a blockbuster drug that would replace medicines losing patent protection.
+But it does not make any sense that Defendants would seek to address long-term
+revenue/pipeline concerns with the investment community by fraudulently touting a drug that it
+knew the FDA would act negatively on in the very near-term. Moreover, it is well established
+that general corporate motives to keep up a company’s share price are inadequate as a matter of
+law to support a securities fraud claim. Plaintiffs also try to distort the facts regarding
+Defendants’ stock sales to paint a picture of insider trading. The real figures indicate that neither
+the timing nor volume of Defendants’ stock sales was suspicious or unusual. Moreover, the
+publicly-known facts about Defendants’ stock holdings directly undermine Plaintiffs’ “motive”
+allegations. The individual Defendants hold significant portions of their share holdings in longterm trusts (that they cannot access until retirement) and were awarded significant stock grants
+late in the Class Period that they could only exercise at the then existing price of $56/share.
+Given both of these facts, it would have been detrimental to Defendants’ personal interests to
+temporarily inflate Wyeth’s share price and set the Company up for an inevitable fall in July
+2007. Under Tellabs’ teaching, the Complaint fails because the alleged fraud scheme here does
+not make any sense.
+Third, the Complaint does not allege loss causation. The alleged omissions
+regarding the Study 315 data could not have moved the market down in July, because they were
+actually disclosed to the market in May. That information had no material effect on the
+Company’s stock price then and was fully absorbed into the market as of May 2007. The
+announcement that caused the Company’s stock price to fall was Wyeth’s July 24, 2007 press
+release indicating that the FDA issued an approvable letter, as opposed to an approval letter, for
+VMS. Defendants cannot be held responsible on fraud grounds for this loss: for months the
+
+4
+
+Case 1:07-cv-10329-RJS
+
+Document 24
+
+Filed 06/10/2008
+
+Page 11 of 43
+
+Company’s disclosures had alerted the public that the FDA would be making a decision and that
+the Company could not control the outcome.
+Fourth, the Complaint fails to plead essential elements of a claim under Section
+20(a) for “control person” liability. Because the Complaint fails to assert a viable claim under
+Section 10(b) and Rule 10b-5, and does not give rise to any inference that Defendants culpably
+participated in the fraud, the Section 20(a) claim also fails.
+STATEMENT OF FACTS
+A.
+
+The Development of Pristiq
+In December 2005, Wyeth submitted a New Drug Application (“NDA”) to the
+
+FDA for approval for Pristiq for the treatment of MDD. Chepiga Aff. Ex. 2. On January 22,
+2007, the Company received an “approvable” letter from the FDA.1 Id. Ex. 3. The Company
+complied with the requirements laid out in the approvable letter, and in February 2008, received
+an FDA approval letter, approving Pristiq for the treatment of MDD in adults. Id. Ex. 4. In May
+2008, Pristiq became fully available at pharmacies in the United States for the treatment of
+MDD.2
+While the MDD application was progressing, Wyeth also sought approval from
+the FDA for a VMS indication for Pristiq. As part of its drug testing, Wyeth conducted several
+clinical trials, including four Phase III studies.3 Compl. ¶¶ 5, 6; see also Chepiga Aff. Exs. 5-8.
+
+1
+
+The FDA, upon completing review of an NDA, will issue one of three letters: an approval letter, an
+approvable letter, or a not approvable letter. See 21 C.F.R. §§ 314.105, 314.110, 314.120 (2008). The FDA will
+issue an “approvable letter” when it wants “to indicate to the applicant that the application . . . is basically
+approvable providing certain issues are resolved.” Id. § 314.110(a).
+2
+See http://phx.corporate-ir.net/phoenix.zhtml?c=78193&p=irolnewsArticle&ID=1146178&highlight=MDD.
+3
+For a drug manufacturer to receive approval from the FDA to market a new drug, the company must first
+conduct three phases of clinical trials “designed to assess the safety and efficacy” of the product. In re Elan Corp.
+Sec. Litig., 543 F. Supp. 2d 187, 195-96 (S.D.N.Y. 2008). “During Phase I, the drug is administered to a small
+number of healthy participants in order to determine the proper dosage of the drug, to characterize its metabolism
+and excretion, and to identify acute side effects. Phase II trials include patients who suffer from the medical
+condition the drug is designed to treat; these trials are used to gather safety data and preliminary efficacy data. If the
+
+5
+
+Case 1:07-cv-10329-RJS
+
+Document 24
+
+Filed 06/10/2008
+
+Page 12 of 43
+
+In one of these four, Study 315, five women out of 689 (or 0.73%) suffered adverse
+cardiovascular events. Compl. ¶ 25. The Complaint correctly admits that Wyeth reported these
+events to the FDA promptly. Id. ¶ 27. Wyeth subsequently conducted three additional Phase III
+trials for VMS: Studies 319, 321, and 337. Chepiga Aff. Exs. 6-8.
+On June 26, 2006, the Company submitted its NDA for Pristiq for the treatment of
+VMS, Chepiga Aff. Ex. 9, which contained all the safety data from Study 315, Compl. ¶ 25.
+Throughout the Class Period Wyeth regularly reported about Pristiq’s status. Id. ¶¶ 24-27.
+Wyeth was hopeful about its chances of receiving approval, but also repeatedly cautioned the
+market that it had no control over the FDA’s regulatory decision. For example, its 2006 Form
+10-K, filed with the SEC in February 2007, stated:
+We have multiple product candidates in development and devote considerable
+resources to research and development activities, including clinical trials. These
+activities involve a high degree of risk and take many years. . . . Our product
+candidates in late-stage development include . . . PRISTIQ (for the treatment of
+vasomotor symptoms). . . . Our product development efforts with respect to any
+product candidate may fail or be delayed, and we may be unable to commercialize
+it or be delayed in commercializing it, for multiple reasons.
+Chepiga Aff. Ex. 1.
+On July 23, 2007, Wyeth received an approvable letter from the FDA for VMS
+(as it had for MDD, albeit for different reasons). Id. Ex. 10. The letter was not a rejection or
+denial of approval. In most instances an approvable letter serves “as a mechanism for resolving
+outstanding issues on drugs that are about to be approved and marketed.” 21 C.F.R. §
+314.110(a) (emphasis added). The letter stated that before the FDA could approve Pristiq for
+VMS, the Company would need to conduct an additional study to generate data about potential
+
+results of Phase II trials suggest that the drug is safe and effective, Phase III trials investigate the effects of the drug
+in a much larger patient population.” Id. at 196.
+
+6
+
+Case 1:07-cv-10329-RJS
+
+Document 24
+
+Filed 06/10/2008
+
+Page 13 of 43
+
+side effects. Id.; Compl. ¶ 42. The Company issued a press release disclosing the approvable
+letter on July 24. Its stock price subsequently fell.4 Compl. ¶¶ 42, 47.
+B.
+
+The Statements at Issue
+The Complaint selectively isolates various forward-looking statements made in
+
+press releases, industry conferences, SEC filings, and conference calls between June 26, 2006
+and July 24, 2007 (the “Class Period”) as false and misleading. See Compl. ¶¶ 62-106. These
+statements pertain to the hoped-for FDA approval of Pristiq and its revenue-generating potential,
+if approved. The Complaint alleges that at the time these statements were made, Defendants
+were in possession of, but failed to disclose, the results of Study 315 and the exclusion criteria
+for Studies 319 and 321.5 Compl. ¶¶ 31, 39, 67, 78, 84, 90, 95, 105.
+Each of the press releases, SEC filings, conference presentations, and conference
+calls referenced in the Complaint heavily cautioned and made clear to investors that Defendants’
+statements about Pristiq were subject to risks and uncertainties that could cause actual results to
+differ. In other words, Wyeth was not (and given the nature of the regulatory process, could not
+be) promising any particular result or outcome. The following is example cautionary language
+from a Wyeth press release:
+The statements in this press release that are not historical facts are forwardlooking statements based on current expectations of future events and are subject
+to risks and uncertainties that could cause actual results to differ materially from
+those expressed or implied by such statements. In particular, the statements in
+this press release regarding clinical data and/or the regulatory status of our
+4
+
+The Complaint alleges that Wyeth has not started the new study called for by the FDA approvable letter
+and suggests that Defendants never believed in the approvability of Pristiq for VMS. Compl. ¶ 120. Plaintiffs are
+wrong. As indicated in Wyeth’s SEC filings, the new study is on track, and Wyeth continues to plan for Pristiq’s
+ultimate approval for the VMS indication. See Chepiga Aff. Ex. 3 (“We have been in discussions with the FDA
+regarding the approvable letter and the requested clinical trial. The trial currently under consideration would take 18
+months or more to complete, and we expect that the study will begin in mid-2008, pending final FDA concurrence
+on the study protocol.”).
+5
+The Complaint alleges that Defendants manipulated and hid the exclusion criteria for Studies 319 and 321,
+but these exclusion criteria were reviewed and approved by the FDA, were established before the conclusion of
+Study 315, and were publicly disclosed well before the Class Period. See Chepiga Aff. Exs. 6, 7.
+
+7
+
+Case 1:07-cv-10329-RJS
+
+Document 24
+
+Filed 06/10/2008
+
+Page 14 of 43
+
+pipeline products are based on a preliminary analysis of the data and our
+expectations as to how that data will impact the regulatory approval process,
+which is subject to risks and uncertainties related to both the timing and
+success of regulatory approval.
+See Chepiga Aff. Ex. 1 (emphasis added). A chart of additional cautionary language found in
+press releases, conference calls, SEC filings, and conference presentations is attached hereto as
+Appendix A.
+The Complaint also includes the erroneous allegation that Defendants did not
+disclose the Study 315 adverse event data or the exclusion criteria for Studies 319 and 321
+during the Class Period. Compl. ¶¶ 31, 39, 67, 78, 84, 90, 95, 105. Because this allegation is
+contradicted by documents that the Court may appropriately consider on a motion to dismiss, the
+Court does not have to accept it as true. For example, prior to the Class Period, the exclusion
+criteria for Studies 319 and 321 were posted on an online clinical trials database maintained by
+the United States National Institute of Health.6 See Chepiga Aff. Exs. 6, 7. Wyeth also reported
+on the efficacy and safety data for Study 315 at the 55th Annual Clinical Meeting of the
+American College of Obstetricians and Gynecologists (“ACOG”) in May 2007, and this
+information was reported by a research analyst with the Prudential Equity Group (“Prudential”).7
+See id. Exs. 11, 12. The Prudential analyst identified Study 315 safety data as a known risk, but
+not a risk that, in his view, was likely to interfere with FDA approval. Significantly, the
+disclosure of this information had no effect on Wyeth’s stock price. See id. Ex. 13.
+C.
+
+Defendants’ Stock Sales
+The Complaint names six individual defendants:
+
+6
+
+The exclusion criteria for Study 319 were posted on November 18, 2005. Chepiga Aff. Ex. 6. The
+exclusion criteria for Study 321 were posted on September 16, 2005. Id. Ex. 7.
+7
+The Court may consider the Prudential analyst report in deciding Defendants’ Motion to Dismiss. “Judicial
+notice can be taken of prior complaints and legal proceedings, press releases[,] news articles[,] and published analyst
+reports in determining what the market knew.” In re Zyprexa Prods. Liab. Litig., No. 07 Civ. 1310, 2008 WL
+1923126, at *4 (E.D.N.Y. Apr. 30, 2008).
+
+8
+
+Case 1:07-cv-10329-RJS
+
+Name
+Robert Essner
+Joseph Mahady
+Kenneth Martin
+Bernard Poussot
+
+Robert Ruffolo, Jr., M.D.
+Ginger Constantine, M.D.
+
+Document 24
+
+Filed 06/10/2008
+
+Page 15 of 43
+
+Position(s) Held
+Chief Executive Officer
+Chairman of the Board
+Senior Vice President
+President, Global Business, Wyeth Pharmaceuticals
+Chief Financial Officer
+Vice Chairman
+President
+Chief Operating Officer
+Vice Chairman
+Senior Vice President
+President, Wyeth Research
+Vice President of Women’s Health
+
+The Complaint alleges that the first five named defendants (“Selling Defendants”)
+sold personal shares of Company stock during the Class Period. See Compl. ¶ 122. The
+Complaint does not allege that Dr. Constantine did so.
+The majority of the Selling Defendants’ stock sales were made in October 2006,
+over three months after the Company submitted the Pristiq NDA to the FDA and over nine
+months before receipt of the FDA’s approvable letter. See Compl. ¶¶ 125-129. These sales also
+followed the Company’s third quarter earnings call on Thursday, October 19, 2006, and were
+clustered during Tuesday through Friday of the following week (October 24 through October 27,
+2006)—days when the Wyeth trading window for insiders was temporarily opened and insiders
+were permitted to sell stock. See id.; Chepiga Aff. Ex. 14. None of the Selling Defendants had
+sold stock in the five months preceding the third quarter earnings call.8
+Mr. Martin also sold Company stock in April, May, and June 2007, immediately
+following his April 27, 2007 announcement that he was resigning from the Company. Compl. ¶
+127; Chepiga Aff. Ex. 15. Pursuant to the terms of the Company’s stock incentive plan, Mr.
+
+8
+
+See Forms 4 filed with the SEC on behalf of Officers and Directors of Wyeth, pursuant to Section 16(a) of
+the Exchange Act, available at http://www.sec.gov/cgi-bin/browseedgar?action=getcompany&CIK=0000005187&type=&dateb=&owner=only&start=0&count=100 (“SEC
+Website”).
+
+9
+
+Case 1:07-cv-10329-RJS
+
+Document 24
+
+Filed 06/10/2008
+
+Page 16 of 43
+
+Martin would have lost any stock options that he did not exercise before he left. Chepiga Aff.
+Ex. 16. Dr. Ruffolo also made additional stock sales in May 2007, over two months before the
+FDA issued the approvable letter. Compl. ¶ 129.
+Messrs. Essner, Mahady, and Poussot and Dr. Ruffolo sold less than 5%, 29%,
+25%, and 45% of their holdings, respectively.9 Mr. Martin, who was leaving the Company, sold
+99% of his shares during the Class Period.10 See SEC Website. These Defendants hold a
+significant number of shares in Wyeth’s Restricted Stock Trust. At the end of the Class Period,
+Messrs. Essner, Mahady, Poussot, and Martin and Dr. Ruffolo owned 939,539 shares, 192,009
+shares, 249,068 shares, 253,458 shares, and 211,397 shares, respectively, in the Restricted Stock
+Trust. See id. Pursuant to restrictions set forth in the Company’s stock incentive plans,
+Defendants cannot access these shares until retirement. See id. On April 26, 2007, Messrs.
+Essner, Mahady, and Poussot and Dr. Ruffolo received substantial stock option grants (370,000
+options, 108,000 options, 200,000 options, and 110,000 options, respectively) and substantial
+grants of performance share unit awards (192,000 unit awards, 49,940 unit awards, 112,500 unit
+awards, and 51,250 unit awards, respectively). Id. Ex. 16.
+ARGUMENT
+I.
+
+A HEIGHTENED PLEADING STANDARD APPLIES
+On a motion to dismiss under Federal Rule of Civil Procedure 12(b)(6), a court
+
+must accept as true all of the factual allegations in the complaint. ATSI Commc’ns, Inc. v. Shaar
+Fund, Ltd., 493 F.3d 87, 98 (2d Cir. 2007). The court need not, however, “accord ‘[l]egal
+
+9
+
+Although the Complaint alleges that Messrs. Essner, Mahady, and Poussot and Dr. Ruffolo sold 70%, 97%,
+89%, and 90% of their Company stock holdings, respectively, Compl. ¶¶ 125-129, these numbers fail to take into
+account Defendants’ vested stock options. When these options are properly considered, the percentages shrink to
+the numbers referenced above. See SEC Website. If unvested and restricted shares are factored in, the numbers
+shrink even further to less than 4%, 19%, 16%, and 27%, respectively. See id.
+10
+When unvested and restricted shares are factored in, this percentage drops to less than 72%. See SEC
+Website.
+
+10
+
+Case 1:07-cv-10329-RJS
+
+Document 24
+
+Filed 06/10/2008
+
+Page 17 of 43
+
+conclusions, deductions, or opinions couched as factual allegations a . . . presumption of
+truthfulness.’” In re NYSE Specialists Sec. Litig., 503 F.3d 89, 95 (2d Cir. 2007) (quoting United
+States v. Bonanno Organized Crime Family of La Cosa Nostra, 879 F.2d 20, 27 (2d Cir. 1989)).
+As the Supreme Court recently explained, “a plaintiff’s obligation to provide the ‘grounds’ of his
+‘entitle[ment] to relief’ requires more than labels and conclusions, and a formulaic recitation of
+the elements of a cause of action will not do.” Bell Atlantic v. Twombly, 127 S. Ct. 1955, 196465 (2007). “[T]he touchstone for adequate pleading is plausibility. . . . Thus, materials properly
+before the court must provide grounds for more than mere speculation or suspicion that a
+plaintiff is entitled to the requested relief.” In re Take-Two Interactive Sec. Litig., No. 06 Civ.
+803, 2008 WL 1757823, at *6 (S.D.N.Y. Apr. 16, 2008); see also ATSI, 493 F.3d at 98.
+Securities fraud claims are subject not only to these universal pleading
+requirements, but also to the heightened pleading standards imposed by Federal Rule of Civil
+Procedure 9(b) and the PSLRA. Rule 9(b) dictates that the “[i]n alleging fraud . . . a party must
+state with particularity the circumstances constituting fraud.” Fed. R. Civ. P. 9(b). Pursuant to
+the PSLRA, in an action for money damages requiring proof of scienter, the complaint must
+“state with particularity facts giving rise to a strong inference that the defendant acted with the
+required state of mind.” 15 U.S.C. § 78u-4(b)(2) (2008). “The Supreme Court has . . . instructed
+that a complaint should survive a motion to dismiss ‘only if a reasonable person would deem the
+inference of scienter cogent and at least as compelling as any opposing inference one could draw
+from the facts alleged.’” In re FBR Inc. Sec. Litig., 544 F. Supp. 2d 346, 352 (S.D.N.Y. 2008)
+(quoting Tellabs, Inc. v. Makor Issues & Rights, Ltd., 127 S. Ct. 2499, 2510 (2007)).
+In deciding a motion to dismiss, a court may consider the complaint, “statements
+or documents incorporated into the complaint by reference, legally required public disclosure
+
+11
+
+Case 1:07-cv-10329-RJS
+
+Document 24
+
+Filed 06/10/2008
+
+Page 18 of 43
+
+documents filed with the SEC, and documents possessed by or known to plaintiff and upon
+which it relied in bringing suit.” ATSI, 493 F.3d at 98. The court may also consider “matters
+subject to judicial notice.” Take-Two, 2008 WL 1757823, at *6 (citing Tellabs, 127 S. Ct. at
+2509).
+II.
+
+THE COMPLAINT SHOULD BE DISMISSED BECAUSE PLAINTIFFS HAVE
+NOT ALLEGED ANY ACTIONABLE STATEMENTS OR OMISSIONS
+To state a Section 10(b) and Rule 10b-5 claim, a plaintiff must allege that the
+
+defendant “(1) made misstatements or omissions of material fact, (2) with scienter, (3) in
+connection with the purchase or sale of securities, (4) upon which plaintiff relied, and (5) that
+plaintiff’s reliance was a proximate cause of its injury.” ATSI, 493 F.3d at 105. Plaintiffs fail to
+state a claim because Defendants’ alleged statements and omissions are not actionable.
+Defendants’ statements are protected from liability under both the PSLRA’s statutory safe harbor
+provision and the common law “bespeaks caution” doctrine. Defendants’ alleged omissions
+were disclosed to the market and are immaterial as a matter of law.
+A.
+
+Defendants’ Forward-Looking Statements Are Protected From
+Liability Under the PSLRA and the “Bespeaks Caution” Doctrine
+Pursuant to the PSLRA, forward-looking statements that prove to be incorrect are
+
+not actionable if they fall into any one of three “safe harbor” categories outlined in the statute:
+The first protects forward-looking statements when they are identified as forwardlooking and “accompanied by meaningful cautionary statements identifying
+important factors that could cause actual results to differ materially from those in
+the forward-looking statement.” . . . The second statutory safe harbor protects
+forward-looking statements when they are immaterial. . . . The third safe harbor
+protects forward-looking statements unless the plaintiff can prove that the
+statement “was made with actual knowledge by that person that the statement was
+false or misleading.”
+Kemp v. Universal Am. Fin. Corp., No. 05 Civ. 9883, 2007 WL 86942, at *11 (S.D.N.Y. Jan. 10,
+2007) (quoting 15 U.S.C. § 78u-5(c)). “[The] safe harbor [provision] is complemented by the
+
+12
+
+Case 1:07-cv-10329-RJS
+
+Document 24
+
+Filed 06/10/2008
+
+Page 19 of 43
+
+judicially-created ‘bespeaks caution’ doctrine, under which ‘alleged misrepresentations are
+immaterial as a matter of law [if] it cannot be said that any reasonable investor could consider
+them important in light of adequate cautionary language.’” Id. (quoting In re QLT Inc. Sec.
+Litig., 312 F. Supp. 2d 526, 532 (S.D.N.Y. 2004)). Courts routinely find that statements issued
+by drug manufacturers about the likelihood of FDA approval of a new drug—like the ones
+alleged here—are non-actionable forward-looking statements. See, e.g., Noble Asset Mgmt. v.
+Allos Therapeutics, Inc., No. 04 Civ. 1030, 2005 WL 4161977 (D. Colo. Oct. 20, 2005); In re
+Bristol-Myers Squibb Sec. Litig., 312 F. Supp. 2d 549, 557-59 (S.D.N.Y. 2004); In re
+Viropharma, Inc. Sec. Litig., No 02 Civ. 1627, 2003 WL 1824914 (E.D. Pa. Apr. 7, 2003); In re
+Connetics Corp. Sec. Litig., No. 07-02940, 2008 WL 269467 (N.D. Cal. Jan. 29, 2008).
+Defendants’ statements are protected from liability under all three categories of the PSLRA’s
+safe-harbor provision and the “bespeaks caution” doctrine.
+The PSLRA’s definition of “forward-looking statement” is broad. It includes
+“plans and objectives of management for future operations, including plans or objectives relating
+to . . . products or services;” “projection of revenues;” “statement[s] of future economic
+performance;” and “assumptions underlying or relating to” any forward-looking statement. 15
+U.S.C. § 78u-5(i)(1) (2008); see also Fellman v. Electro Optical Sys. Corp., No. 98 Civ. 6403,
+2000 WL 489713, at *4-5 (S.D.N.Y. Apr. 25, 2000) (statements that a company “estimates a
+long-term potential market size” and “is poised to become” a leader and that its “revenues and
+earnings should build very rapidly” are “clearly” forward-looking). A copy of the pertinent
+section of the PSLRA is attached hereto as Appendix B. Defendants’ statements, which pertain
+to the hoped-for FDA approval of Pristiq, its future uses, and its revenue-generating potential,
+
+13
+
+Case 1:07-cv-10329-RJS
+
+Document 24
+
+Filed 06/10/2008
+
+Page 20 of 43
+
+fall squarely within this expansive definition of “forward-looking.” Examples of Wyeth’s
+forward-looking statements include:
+“[W]e predict that Pristiq has the potential to exceed $2 billion in peak sales.” (Compl.
+¶ 74)
+“FDA action . . . is anticipated in April 2007. Pristiq is expected to provide significant
+relief of hot flushes.” (Compl. ¶ 77)
+“If approved, Pristiq will be the first non-hormonal treatment indicated for relief of
+VMS.” (Compl. ¶ 77)
+“[Pristiq is] positioned also to be the first non-hormonal treatment approved for
+vasomotor symptoms.” (Compl. ¶ 87)
+See also Noble, 2005 WL 4161977, at *9 (“Projections about the likelihood of FDA approval are
+forward-looking statements. . . and as such fall under the PSLRA’s safe harbor rule.”).
+The first part of the PSLRA’s safe harbor rule protects forward-looking
+statements that are accompanied by cautionary language “identifying important factors that could
+cause actual results to differ materially from those in the forward-looking statement.” 15 U.S.C.
+§ 78u-5(c)(A)(i) (2008). The United States District Court for the District of Colorado held that a
+pharmaceutical company cannot be held liable for projections about FDA approval of a
+new drug where the company warns investors that it is not making any guarantees:
+The Company's cautionary statements addressed the possibilities that test data
+could be subject to varying interpretations, that the Company might not be able to
+demonstrate efficacy, that a second Phase 3 trial might be necessary, and that
+FDA approval might be delayed or not obtained at all. These statements are
+sufficient to inform a reasonable investor about the uncertainties surrounding
+FDA approval. Investors who purchased [Company] stock during the Class
+Period had notice that a risk of investing was that the FDA might not approve [the
+drug] in the near term or ever.
+Noble, 2005 WL 4161977, at *9 (citation omitted).
+Here, each of Defendants’ statements was accompanied by a substantial warning.
+Cautionary language was written in each press release, SEC filing, and conference presentation
+and read aloud at each conference call. For example:
+
+14
+
+Case 1:07-cv-10329-RJS
+
+Document 24
+
+Filed 06/10/2008
+
+Page 21 of 43
+
+The statements in this press release that are not historical facts are forwardlooking statements based on current expectations of future events and are subject
+to risks and uncertainties that could cause actual results to differ materially from
+those expressed or implied by such statements. In particular, the statements in
+this press release regarding clinical data and/or the regulatory status of our
+pipeline products are based on a preliminary analysis of the data and our
+expectations as to how that data will impact the regulatory approval process,
+which is subject to risks and uncertainties related to both the timing and
+success of regulatory approval.
+Chepiga Aff. Ex. 1 (emphasis added). Defendants also stated:
+Our product development efforts . . . may fail or be delayed . . . for multiple
+reasons, including . . . [i]nsufficient clinical trial data to support the safety and/or
+effectiveness of the product candidate [and] our failure to obtain, or our
+experiencing delays in obtaining, the required regulatory approvals for the
+product candidate.
+Id. This language warned investors that various events could prevent or delay FDA approval of
+Pristiq for VMS. As a result, Defendants’ statements are protected from liability under the first
+category of the PSLRA’s safe harbor provision.
+Defendants’ statements are also protected under the second safe harbor category.
+Irrespective of any cautionary language, the PSLRA protects forward-looking statements that are
+“immaterial.” See 15 U.S.C. § 78u-5(c)(1)(A)(ii) (2008). It is well-settled in the Second Circuit
+that “[m]ere puffery or generalized expressions of optimism are immaterial as a matter of law.”
+Kemp, 2007 WL 86942, at *11; see also Rombach v. Chang, 355 F.3d 164, 174 (2d Cir. 2004)
+(“[E]xpressions of puffery and corporate optimism do not give rise to securities violations. Up to
+a point, companies must be permitted to operate with a hopeful outlook.”) (citation omitted);
+QLT, 312 F. Supp. 2d at 532. “Likewise, statements of opinion are insufficient to form the basis
+of a misrepresentation or omission complaint under § 10(b).” Bristol-Myers, 312 F. Supp. 2d at
+557.
+Courts have specifically held that statements regarding the approval prospects and
+projected success of a new drug constitute non-actionable puffery, opinion, and corporate
+15
+
+Case 1:07-cv-10329-RJS
+
+Document 24
+
+Filed 06/10/2008
+
+Page 22 of 43
+
+optimism. In Bristol-Myers, officers of a major drug manufacturer issued several positive
+statements about the likely FDA approval of a new drug. 312 F. Supp. 2d at 557-59. Among the
+statements issued by the company were that the drug had “real blockbuster potential” and
+“represent[ed] one of the most exciting advances in cancer medicine.” Id. One company
+executive said: “I don’t think it’s likely at all that this drug won’t get approved.” Id. Ultimately
+the FDA failed to review the company’s drug application because the company’s data were
+insufficient. Id. at 554. In rejecting investors’ claim for securities fraud, the court stated:
+[The] statement regarding FDA approval cannot be considered a guarantee of
+FDA approval or otherwise false or misleading. It predicts the action the
+Company would take in the event the [application] was not approved and it
+expresses personal optimism about regulatory events not under the Company's
+control. Any reasonable investor reading these statements, or any of the other
+statements regarding [the drug] complained of by Plaintiffs would recognize that
+the Defendants could not and did not guarantee that [the drug] would be approved
+by the FDA, either in the near term or at all.
+Id. at 558; see also Viropharma, 2003 WL 1824914, at *6 (“The . . . report that merely stated the
+company’s belief that [the drug] was on a strong track to approval is . . . immaterial because
+investors should not rely on a company’s predictions about future actions of independent
+government agencies.”) (citation omitted) (emphasis added).
+Defendants’ statements are of the same sort. Indeed, they are far less bullish than
+statements that have been found non-actionable in the cases cited above:
+•
+
+“[W]e think we have a package that could warrant approvability.” (Compl. ¶ 65)
+
+•
+
+“[W]e think [Pristiq] has very, very significant upside potential.” (Compl. ¶ 94)
+
+•
+
+“We expect these products will contribute to the growth of Wyeth for years to come.”
+(Compl. ¶ 97)
+
+These and other statements like them fall within the second category of the PSLRA’s safe harbor
+rule and are not actionable under the securities laws.
+
+16
+
+Case 1:07-cv-10329-RJS
+
+Document 24
+
+Filed 06/10/2008
+
+Page 23 of 43
+
+Defendants’ statements are also protected under the third category of the
+PSLRA’s safe harbor provision. Forward-looking statements are non-actionable where
+“plaintiffs fail to prove that they were made with knowledge that the statements were false or
+misleading.” In re Veeco Instruments, Inc. Sec. Litig., 235 F.R.D. 220, 235 (S.D.N.Y. 2006).
+Statements about whether the FDA will approve a new drug (an outcome over which
+pharmaceutical companies have no control) fall within these parameters. As one court
+explained:
+[The company] was forecasting a future event. Any alleged deficiencies in the
+testing procedures do not indicate that [the company’s] prediction of an FDA
+approval date was false when made. Instead, the company could have known of
+problems in the testing procedures, planned to remedy those deficiencies, and still
+thought it would achieve FDA approval by the estimated date. Clearly,
+Defendants' prediction of a date for a regulatory decision over which they did not
+have control, made that far in advance, for a drug that was still in the testing
+stages, could not carry a guarantee of accuracy or reliability.
+In re Syntex Corp. Sec. Litig., 95 F.3d 922, 930 (9th Cir. 1996). Plaintiffs cannot point to
+anything indicating that Defendants knew at the time of their statements that the FDA would not
+approve the drug in July 2007. The allegations in the Complaint demand the opposite
+conclusion. If Defendants believed that the Study 315 safety data would preclude FDA approval
+of the drug, they would not have continued to invest time and money in Studies 319 and 321. As
+such, Defendants’ statements are not actionable under Section 10(b) and Rule 10b-5.
+Finally, Defendants’ statements are protected from liability under the judiciallycreated “bespeaks caution” doctrine, which preceded, but was not supplanted by, the PSLRA.
+See Gavish v. Revlon, Inc., No. 00 Civ. 7291, 2004 WL 2210269, at *21 (S.D.N.Y. Sept. 30,
+2004). Pursuant to the “bespeaks caution” doctrine, “alleged misrepresentations [that] are
+accompanied by meaningful cautionary statements are considered immaterial as a matter of law.”
+Veeco, 235 F.R.D., at 235. As discussed previously, each of Defendants’ statements was
+
+17
+
+Case 1:07-cv-10329-RJS
+
+Document 24
+
+Filed 06/10/2008
+
+Page 24 of 43
+
+accompanied by substantial cautionary language. See Appendix A. This language specifically
+warned investors that FDA approval of Pristiq for VMS was subject to risks and uncertainties.
+For all of the above-stated reasons, Defendants’ statements are not actionable under the securities
+laws.
+B.
+
+Any Alleged Omissions Were Disclosed During the Class Period
+and Are Immaterial as a Matter of Law
+A plaintiff who bases a securities fraud claim on an omission must establish that
+
+the alleged omission (1) was not disclosed and (2) is material. Here, Plaintiffs fail to do either.
+Where an alleged omission was disclosed to the market, an investor cannot
+maintain a claim for securities fraud. See In re Pfizer, Inc. Sec. Litig., No. 06 Civ. 14199, 2008
+WL 540120, at *6 (S.D.N.Y. Feb. 28, 2008); see also In re Progress Energy, Inc. Sec. Litig., 371
+F. Supp. 2d 548, 552-53 (S.D.N.Y. 2005) (“[I]t is indisputable that there can be no omission
+where the allegedly omitted facts are disclosed. . . . [T]he securities laws do not require
+disclosure of information that is publicly known.”) (citations omitted). “[T]he relevant question
+is not whether the market ‘truly knew’ any specific piece of information, but [only] whether the
+information was ‘reasonably available.’ Starr v. Georgeson S'holder, Inc., 412 F.3d 103, 110 (2d
+Cir. 2005).
+The Complaint repeatedly alleges that Defendants omitted four pieces of
+information: (a) that use of Pristiq in Study 315 was associated with hepatic and cardiovascular
+side effects; (b) that 27 women in the treatment group of Study 315 allegedly suffered severe
+adverse events (“SAEs”) during the therapy or post-therapy periods; (c) that the incidence of
+hypertension in the treatment group of Study 315 increased as the dose of Pristiq increased; and
+(d) that Defendants excluded from two later studies (Studies 319 and 321) women with a history
+
+18
+
+Case 1:07-cv-10329-RJS
+
+Document 24
+
+Filed 06/10/2008
+
+Page 25 of 43
+
+of heart attack, chest pains, elevated blood pressure and blood clots.11 Compl. ¶¶ 67, 78, 84, 90,
+95, 105. Contrary to Plaintiffs’ allegations, this information was disclosed to the market. Wyeth
+openly reported information about its exclusion criteria for Studies 319 and 321 on the wellknown clinical trials website in 2005—a year-and-a-half before the Class Period even started—
+and reported detailed efficacy and safety information from Study 315 at the 55th Annual Clinical
+Meeting of the American College of Obstetricians and Gynecologists. See Chepiga Aff. Exs. 6,
+7, 11. The Study 315 data were subsequently discussed in an analyst report issued by Prudential
+released on May 21, 2007.12 Chepiga Aff. Ex. 12. That report is particularly telling. It
+discussed both the adverse event data of Study 315 and the differing eligibility criteria for Study
+319 and Study 321. The analyst focused shareholders on the uncertainties associated with
+Pristiq’s approval, wondering “whether a seemingly cautious FDA could cause a wrinkle in the
+pending regulatory outcome.” Id. The report conjectured on possible outcomes:
+The worst-case scenario would be a rejection of Pristiq for VMS, or substantial
+additional delays, but the odds of this appear low. A more realistic worst case
+scenario, in our view, is that Pristiq’s labeling has safety warnings that impact its
+commercial potential, or that in the absence of a label change
+prescribers/payors/patients at least view the product with less enthusiasm. . . .
+Id. The analyst, with full knowledge of Study 315, ultimately concluded that FDA approval was
+likely.13 Id.
+
+11
+
+Defendants note that Plaintiffs’ recitation of these alleged “omissions” is itself flawed, and the Court need
+not accept Plaintiffs’ characterizations as true. First, Study 315 had only five patients with cardiovascular events.
+Chepiga Aff. Ex. 12. Second, the 27 SAEs alleged by Plaintiffs include other events. Third, the FDA did not cite to
+hypertension as a basis for issuing an approvable letter instead of an approval letter, so this issue is immaterial.
+Chepiga Aff. Ex. 10. Fourth, as already mentioned, the exclusion criteria for Studies 319 and 321 were not created
+as a “reaction” to Study 315’s outcomes. See Chepiga Aff. Exs. 6, 7. Rather, Studies 319 and 321 were designed as
+part of Wyeth’s overall clinical plan for Pristiq testing; their exclusion criteria were reviewed and approved by the
+FDA; and the studies began before the results of Study 315 were known.
+12
+The lead author of the report is Tim Anderson, M.D. Dr. Anderson covers the pharmaceutical industry
+regularly, including Schering-Plough, Eli Lilly, Forest Laboratories, Merck &Co., Bristol-Myers Squibb, Pfizer,
+Inc., GlaxoSmithKline plc, AstraZeneca, and Novartis AG. Chepiga Aff. Ex. 12.
+13
+Dr. Anderson’s report for Prudential shows that an analyst provided with the information that Plaintiffs
+allege was not disclosed reached the same conclusions as the Company—namely, that the Study 315 data would not
+
+19
+
+Case 1:07-cv-10329-RJS
+
+Document 24
+
+Filed 06/10/2008
+
+Page 26 of 43
+
+The market’s lack of reaction to the May 21, 2007 analyst report indicates that the
+alleged omissions are immaterial. It is widely recognized that when a company’s stock price,
+operating in an efficient market, is unaffected by the disclosure of information, the omitted facts
+are immaterial as a matter of law.14 See In re Burlington Coat Factory Sec. Litig., 114 F.3d
+1410, 1425 (3d Cir. 1997) (“In the context of an ‘efficient’ market, the concept of materiality
+translates into information that alters the price of the firm's stock.”). Here, the Complaint admits
+that “throughout the Class Period, Wyeth traded in an efficient market on the New York Stock
+Exchange.” Compl. ¶ 51. In addition, following the release of the May 21, 2007 analyst report,
+in which the allegedly withheld safety data were disclosed, Wyeth’s stock price stayed
+essentially the same, as shown in the chart below. (Note that May 19 and 20, 2007 was a
+weekend.)
+Date
+May 17, 2007
+May 18, 2007
+May 21, 2007
+May 22, 2007
+May 23, 2007
+May 24, 2007
+
+Wyeth Stock Price
+$56.08
+$56.38
+$58.41
+$58.42
+$58.29
+$58.17
+
+adversely affect FDA approval. Chepiga Aff. Ex. 12. Plaintiffs’ argument that everyone should have reached the
+opposite conclusion underscores that their complaint attempts to assert a fraud based on hindsight.
+14
+Information disseminated in an analyst report is considered “public.” See In re Dynex Capital, Inc. Sec.
+Litig., No. 05 Civ. 1897, 2006 WL 314524, at *6 (S.D.N.Y. Feb. 10. 2006) (“[T]he analyst reports demonstrate that
+there was information available to the public.”); Zyprexa, 2008 WL 1923126, at *39 (E.D.N.Y. Apr. 30, 2008)
+(“Based on extensive available medical research, media coverage, court filings, regulatory decisions and securities
+analyst reports, an investor of ordinary intelligence should have been aware of [various facts about the drug].”)
+(emphasis added); United States v. Cusimano, 123 F.3d 83, 89 n.6 (2d Cir. 1997) (“[I]nformation is nonpublic if it is
+not available to the public through such sources as press releases, Securities and Exchange Commission filings,
+trade publications, analysts' reports, newspapers, magazines, rumors, word of mouth or other sources.”) (emphasis
+added). Information in analysts’ reports is deemed to be absorbed into the market. See In re Initial Pub. Offering
+Sec. Litig., 383 F. Supp. 2d 566, 579 (S.D.N.Y. 2005) (“The efficient market hypothesis holds that public
+information about a security is immediately incorporated into share prices.”) (emphasis added).
+
+20
+
+Case 1:07-cv-10329-RJS
+
+Document 24
+
+Filed 06/10/2008
+
+Page 27 of 43
+
+Chepiga Aff. Ex. 13. As a matter of law, the alleged “omissions” are thus immaterial and not
+actionable under the securities laws.15
+III.
+
+PLAINTIFFS HAVE NOT ADEQUATELY ALLEGED SCIENTER
+Plaintiffs’ Section 10(b) and Rule 10b-5 claim is also subject to dismissal because
+
+Plaintiffs fail to plead that Defendants acted with scienter. The law dictates that “the complaint
+shall, with respect to each act or omission alleged . . . state with particularity facts giving rise to
+a strong inference that the defendant acted with . . . intent to deceive, manipulate, or defraud.’”
+ATSI, 493 F.3d at 99 (quoting 15 U.S.C. § 78u-4(b)(2)) (emphasis added). A plaintiff “may
+satisfy this requirement by alleging facts (1) showing that the defendants had both motive and
+opportunity to commit the fraud or (2) constituting strong circumstantial evidence of conscious
+misbehavior or recklessness.” Id.
+An inference of scienter is strong only if it is “cogent and at least as compelling
+as any opposing inference one could draw from the facts alleged.” Tellabs, 127 S. Ct. at 2510
+(emphasis added); see also In re Bayou Hedge Fund Litig., 534 F. Supp. 2d 405, 415 (S.D.N.Y.
+2007). This inquiry is “inherently comparative;” in determining whether the pleaded facts give
+rise to a strong inference of scienter, the court must take into account “plausible nonculpable
+explanations for the defendant’s conduct.” Id. An inference that is merely “plausible” or
+“reasonable” is insufficient and will not survive a motion to dismiss:
+
+15
+
+The May 21, 2007 analyst report thus underscores three important points: (a) the allegedly hidden
+information was in fact disclosed; (b) the market fully understood the risks and uncertainties associated with the
+
+21
+
+Case 1:07-cv-10329-RJS
+
+Case
+ATSI Communications,
+Inc. v. Shaar Fund, Ltd.,
+493 F.3d 87, 104 (2d Cir.
+2007)
+In re Take-Two
+Interactive Sec. Litig.,
+No. 06 Civ. 803, 2008
+WL 1757823, at *24
+(S.D.N.Y. Apr. 16, 2008)
+City of Brockton
+Retirement Sys. v. Shaw
+Group Inc., 540 F. Supp.
+2d 464, 475 (S.D.N.Y.
+2008)
+
+Document 24
+
+Filed 06/10/2008
+
+Page 28 of 43
+
+Holding
+Granted defendants’ motion to dismiss because there was “a
+‘plausible nonculpable explanation’ for the defendants’
+actions . . . more likely than any inference that the
+defendants intended to manipulate the market . . .”
+Dismissed plaintiffs’ securities fraud claim, because
+“against [plaintiffs’] tenuous showing of [defendant’s]
+scienter, the Court must weigh nonculpable explanations for
+[defendant’s] conduct,” and plaintiffs’ “allegations
+undermine any sinister reading of [that] conduct.”
+Dismissed plaintiffs’ complaint for failure to raise an
+inference of scienter “as compelling as the competing
+inference” that defendants did not know their statements
+were false.
+
+As discussed below, Plaintiffs fail to plead facts giving rise to a plausible inference of scienter.
+A.
+
+Defendants’ Alleged Scheme to Defraud Is Implausible and
+Less Compelling Than a Nonculpable Explanation for
+Defendants’ Conduct
+Although it is possible for a plaintiff to plead scienter by alleging facts showing a
+
+defendant’s motive and opportunity to commit fraud, an alleged motive is insufficient unless it
+meets certain criteria. First, the motive must be coherent; “allegations of irrational motive
+cannot support a fraud claim.” Hampshire Equity Partners II, L.P. v. Teradyne, Inc., No. 04 Civ.
+3318, 2005 WL 736217, at *3 (S.D.N.Y. Mar. 30, 2005); see also In re Geopharma, Inc. Sec.
+Litig., 411 F. Supp. 2d 434, 446 (S.D.N.Y. Jan. 27, 2006) (“[T]he tenuous plausibility of the
+alleged scheme substantially weakens the overall strength of plaintiffs’ scienter allegations.”).
+Second, “motives that are generally possessed by most corporate directors and officers do not
+suffice; instead, plaintiffs must assert a concrete and personal benefit to the individual defendants
+resulting from the fraud.” Geopharma, 411 F. Supp. 2d at 441 (citing Kalnit v. Eichler, 264 F.3d
+131, 139 (2d Cir. 2001)). Third, pursuant to Tellabs, even where a plaintiff alleges a plausible,
+personal motive, a claim must be dismissed where the alleged motive is less compelling than
+
+FDA approval process; and (c) the Study 315 safety data had no effect on the Company’s stock price.
+
+22
+
+Case 1:07-cv-10329-RJS
+
+Document 24
+
+Filed 06/10/2008
+
+Page 29 of 43
+
+competing nonculpable explanations for defendants’ behavior. See. e.g., Take-Two, 2008 WL
+1757823, at *22-24. Here, Defendants’ alleged motive fails on all three fronts: it is inconsistent,
+ordinary, and less compelling than a nonculpable explanation for Defendants’ behavior.
+Incoherent Theory
+Defendants’ alleged liability is based on the assumption that Defendants knew
+that the Study 315 safety data would prevent or delay FDA approval of Pristiq and intentionally
+withheld this information from investors in order to temporarily increase Wyeth’s stock price
+until the FDA announced its decision. This scheme is nonsensical. According to the Complaint,
+Defendants chose to conceal information because “[h]ad defendants fully disclosed this
+information . . . it would have cast serious doubts on the chances of FDA approval . . . and
+damaged the Pristiq franchise.” Compl. ¶ 22. However, if Defendants knew that the FDA would
+not approve Pristiq, the damage to Wyeth’s franchise would not be prevented, only delayed. The
+Complaint itself alleges that Defendants disclosed the Study 315 data to the FDA. See id. ¶¶ 2527. And it would have been illogical for Defendants to continue to invest large amounts of time
+and money in Studies 319 and 321 if they knew that the FDA would not approve Pristiq for
+VMS. Moreover, Defendants knew that details of Pristiq’s safety profile would become public
+when the FDA issued its decision; it makes no sense for Defendants to temporarily hide this
+information and thereby risk the exact liability for failing to disclose it that Plaintiffs are trying to
+assert here.
+Indeed, Defendants would have been acting against their own economic selfinterest to intentionally submit an NDA to the FDA that they knew would not receive approval.
+Defendants hold large amounts of stock in a Restricted Stock Trust (which they cannot access
+until retirement), and thus have strong incentive to maximize long-term rather than short-term
+
+23
+
+Case 1:07-cv-10329-RJS
+
+Document 24
+
+Filed 06/10/2008
+
+Page 30 of 43
+
+Company stock price. See SEC Website. Defendants were also granted a substantial number of
+stock options on April 26, 2007. Chepiga Aff. Ex. 16. These options could only be exercised at
+the then-existing price of $56/share. Intentionally inflating the stock price prior to a grant of
+options runs counter to the Individual Defendants’ self-interest. Defendants needed the share
+price to rise after the options grant in order for their options to have any value. Concocting a
+scheme to inflate the share price before an options grant in April 2007, knowing that it would fall
+in July 2007, would only work to Defendants’ detriment. Defendants’ alleged motive is thus
+incoherent and fails to raise a strong inference of scienter. See Shields v. Citytrust Bancorp, Inc.,
+25 F.3d 1124, 1130 (2d Cir. 1994) (finding plaintiff’s alleged motive insufficient to survive a
+motion to dismiss because “[i]t is hard to see what benefits accrue from a short respite from an
+inevitable day of reckoning”).
+Ordinary Corporate Motive
+Second, the Complaint alleges the sort of universal corporate motive that courts
+routinely find insufficient to support a fraud claim. It is well-settled that:
+[A]lthough maintaining the appearance of corporate profitability . . . will involve
+benefit to the corporation, allegations that defendants were motivated by those
+desires in connection with making allegedly false statements are not sufficient to
+support an inference of scienter. . . . [E]very publicly-held corporation desires
+its stock to be priced highly by the market and to hold that allegations to that
+effect were sufficient motive would be to render the motive requirement
+meaningless.
+Bristol-Meyers, 312 F. Supp. 2d at 560 (citation omitted) (emphasis added). Courts have
+specifically employed this principle to dismiss claims for securities fraud in cases involving new
+drug trials. In Pfizer, a major drug manufacturer halted clinical trials of a developmental drug
+after issuing positive statements about the drug’s safety and efficacy. 2008 WL 540120, at *2.
+Plaintiffs attempted to plead motive for fraud by alleging that Pfizer wanted to “assure the
+financial community of the existence of a new blockbuster drug.” Id. at *8. The Court held that
+24
+
+Case 1:07-cv-10329-RJS
+
+Document 24
+
+Filed 06/10/2008
+
+Page 31 of 43
+
+this alleged motive was insufficient to raise an inference of scienter: “This is not a unique
+motive. Rather, it is a way of saying, in a manner tailored to a pharmaceutical company,
+something that is true for all profit enterprises—each has an incentive to portray the likelihood
+that it will continue to prosper.” Id.
+Likewise, in Bristol-Myers, plaintiff tried to allege motive based on the
+company’s desire to “maintain a façade of future potential” for its drug pipeline and to “address
+potential concerns about patent expirations.” 312 F. Supp. 2d at 560-61. The court held that
+these motives were “nothing more than ordinary and prudent corporate desires” and thus
+insufficient to establish scienter under Section 10(b). Id.; see also In re Bayer AG Sec. Litig., 03
+Civ. 1546, 2004 WL 2190357, at *14 (S.D.N.Y. Sept. 30, 2004).
+Plaintiffs’ Complaint is replete with the same clichés that investors have pleaded
+in numerous securities cases against drug manufacturers—clichés that courts repeatedly find
+insufficient to plead scienter:
+Motives Courts Find Insufficient
+“[A]ssure the financial community of the
+existence of a new blockbuster drug”
+(Pfizer)
+“‘[M]aintain a façade of future potential’ for
+the Company’s drug pipeline” (BristolMyers)
+“Address potential concerns about patent
+expirations” (Bristol-Myers)
+“[M]ake it appear that the future of the
+Company was more promising” (BristolMyers)
+
+Allegations Here
+Bring a “blockbuster” drug to market in
+time to offset declining revenues (Compl.
+¶ 21)
+“[P]romote Wyeth’s drug pipeline”
+(Compl. ¶ 16)
+Face “loss of income from drugs set to go
+off-patent” (Compl. ¶ 11)
+“[S]ustain growth and profitability”
+(Compl. ¶ 9)
+
+Plaintiffs’ allegations are merely alternative ways of saying that the Company wanted to
+maintain the appearance of profitability. As such, they do not give rise to an inference of
+scienter, much less a strong one.
+
+25
+
+Case 1:07-cv-10329-RJS
+
+Document 24
+
+Filed 06/10/2008
+
+Page 32 of 43
+
+Unconvincing Motive Inference
+Finally, Defendants’ alleged “scheme” falls far short of passing muster under
+Tellabs. As discussed above, Tellabs requires a court to take into account plausible, nonculpable
+explanations for a defendant’s conduct. Where the inference of scienter is less compelling than
+an inference of innocent conduct, a plaintiff’s Section 10(b) claim will fail as a matter of law.
+Here, the allegations in the Complaint overwhelmingly suggest that Defendants, rather than
+hiding material information as part of an elaborate scheme to inflate Wyeth’s stock price, were
+simply hopeful about the chances of FDA approval of Pristiq for VMS. Importantly, the
+Company received an FDA approvable letter for MDD during the Class Period and was therefore
+confident that the drug was on track for MDD approval, which it received in February 2008.
+Compl. ¶¶ 18, 86; Chepiga Aff. Ex. 3. See AstraZeneca, 2008 U.S. Dist. LEXIS 43680, at *47
+(“The approval of [the drug] in Europe for some uses, made it not unreasonable for defendants to
+believe in their product.”). Moreover, as discussed above, it would be a very strange case of
+concealment and fraud where Defendants fully disclosed the Study 315 safety data to the FDA,
+to doctors, to market watchers and to analysts. See Compl. ¶ 25; Chepiga Aff. Ex. 11. Even if
+the Court were to find that the Complaint gives rise to a reasonable inference of fraud (which it
+does not), this inference is patently less compelling than the inference that Defendants were
+hopeful but mistaken that Pristiq would be approved for VMS (as it was for MDD) and did not
+know that the FDA would view the safety data from Study 315 as necessitating an additional preapproval clinical trial.
+B.
+
+Plaintiffs Fail to Allege That Defendants’ Stock Sales Were Sufficiently
+“Suspicious” or “Unusual” to Give Rise to a Strong Inference of Scienter
+Plaintiffs also allege that Defendants’ scienter is evidenced by a “series of
+
+coordinated sales during the class period,” in which “defendants Essner, Mahady, Martin,
+
+26
+
+Case 1:07-cv-10329-RJS
+
+Document 24
+
+Filed 06/10/2008
+
+Page 33 of 43
+
+Poussot and Ruffolo dumped more than 1.55 million shares of their Wyeth stock for insider
+trading proceeds of $83.82 million.” Compl. ¶ 40. The Complaint’s reference to Defendants’
+stock sale “proceeds” is misleading. Although Defendants were paid $83.82 million in exchange
+for selling their shares, Defendants initially purchased these shares for $65.98 million. See SEC
+Website. Thus the net proceeds on Defendants’ Class Period stock sales were $17.84 million.
+Id. More importantly, “executive stock sales, standing alone, are insufficient to support a strong
+inference of fraudulent intent.” Bristol-Myers, 312 F. Supp. 2d at 561. “For insider sales to raise
+an inference of improper motive, they must be ‘suspicious or unusual.’” In re KeySpan Corp.
+Sec. Litig., 383 F. Supp. 2d 358, 381-82 (E.D.N.Y. 2003). To determine whether particular stock
+sales are “suspicious or unusual,” courts examine a number of factors, including the number of
+insiders selling at the time; the amount and percentage of stockholdings sold and the profit from
+the sales; the timing of the sales; and any pattern of prior sales. See In re Scholastic Corp. Sec.
+Litig., 252 F.3d 63, 74-75 (2d Cir. 2001). When these factors are considered, it is clear that the
+Complaint does not give rise to a strong inference of scienter.
+Although the Complaint alleges that Messrs. Essner, Mahady, Martin, and
+Poussot and Dr. Ruffolo sold stock during the Class Period, it neglects to mention that eleven of
+the Company’s twelve directors who were required to file public records of their stock holdings
+did not sell any stock during that same period of time. See SEC Website. This fact detracts from
+any possible inference of scienter. See Keyspan, 383 F. Supp. 2d at 383-84 (citations omitted)
+(“Additional factors weigh against an inference of scienter. . . . [E]ight other . . . officers who
+were required to file public records of their stock holdings—and who are not named as
+defendants—did not sell any stock.”).
+
+27
+
+Case 1:07-cv-10329-RJS
+
+Document 24
+
+Filed 06/10/2008
+
+Page 34 of 43
+
+More importantly, the circumstances of the individual Defendants’ stock sales do
+not suggest a “fraud.” The timing of a stock sale is considered suspicious or unusual only when
+it is “calculated to maximize personal benefit from inside information.” Ressler v. Liz
+Claiborne, 75 F. Supp. 2d 43, 60 (E.D.N.Y. 1999). Also, “[l]arge dollar amounts alone typically
+do not suffice to establish motive.” Id. Rather, courts are instructed to consider the percentage
+of stockholdings sold. Keyspan, 383 F. Supp. 2d at 382. As discussed below, by these
+standards, none of the individual Defendant’s stock sales was suspicious or unusual.
+1.
+
+Plaintiffs Do Not Allege That Dr. Constantine Sold
+Company Stock
+
+Plaintiffs do not allege that Dr. Constantine sold any Company stock during the
+Class Period. As a result, the Complaint’s allegations regarding insider sales do not give rise to a
+strong inference that Dr. Constantine acted with scienter.
+2.
+
+Messrs. Essner’s, Mahady’s, and Poussot’s and Dr. Ruffolo’s Stock
+Sales Were Not Suspicious or Unusual
+
+The Complaint alleges that four other Defendants sold stock in October 2006 and
+that Dr. Ruffolo also sold company stock in May 2007. Compl. ¶¶ 125-28. Neither the timing
+nor amount of these sales is indicative of fraudulent intent.
+First, with regard to timing, Messrs. Essner, Mahady, and Poussot and Dr. Ruffolo
+sold their shares: (1) after Defendants had allegedly been issuing false and misleading
+statements for over three months; and (2) nine months before the Company issued a press
+release announcing receipt of the FDA approvable letter.16 See Compl. ¶ 62; Chepiga Aff. Ex.
+10. Courts find timing such as this insufficient, as a matter of law, to create a strong inference of
+scienter. See Keyspan, 383 F. Supp. at 385 (no inference of fraud where “nothing explains why
+
+16
+
+Dr. Ruffolo’s May 2007 stock sales were likewise made several months before the Company received the
+FDA approvable letter. See Chepiga Aff. Ex. 10.
+
+28
+
+Case 1:07-cv-10329-RJS
+
+Document 24
+
+Filed 06/10/2008
+
+Page 35 of 43
+
+these sales took place after a year of allegedly fraudulent statements . . . and seven months before
+any negative public disclosures); Ressler, 75 F. Supp. 2d at 60 (“[T]he stock sales at issue took
+place, for the most part, over six months prior to the release of the negative disclosure by
+[defendant.] Such timing does not suggest that the defendants meant to realize profits
+immediately prior to an expected and dramatic fall in the stock’s price.”); City of Brockton
+Retirement System v. Shaw Group Inc., 540 F. Supp. 2d 464, 475-76 (S.D.N.Y. 2008) (finding
+that a “10-plus week gap” between defendants’ sales and the company’s disclosure of negative
+information was “not strongly suspicious”).
+Defendants’ stock sales were also clustered during the week immediately
+following the Company’s Third Quarter Earnings Call and the end of a blackout period
+prohibiting insiders from selling company stock. It is well-known that public companies such as
+Wyeth impose restrictions on the ability of their officers to trade company stock. See In re Tyco
+Int’l Ltd., 185 F. Supp. 2d 102, 112 n.6 (D.N.H. 2002). These restrictions include the use of
+“blackout periods,” during which trading is prohibited. These blackout periods necessarily
+bunch together insider stock sales into short periods of time. In addition, because “most publicly
+traded companies have adopted policies which prevent insiders from trading except during
+narrow windows that are open for only brief periods following the release of accounting
+information,” courts have found that “evidence of insider trading following the release of
+accounting information is of limited value.” Id. Here, the vast majority of Defendants’ stock
+sales were made just after Wyeth’s Third Quarter Earnings Call on October 19, 2006 and the end
+of a Company blackout period on October 20, 2006. See Compl. ¶ 80; Chepiga Aff. Ex. 14. As
+such, they were neither suspicious nor unusual. Indeed, that is when any sales were required to
+be done.
+
+29
+
+Case 1:07-cv-10329-RJS
+
+Document 24
+
+Filed 06/10/2008
+
+Page 36 of 43
+
+The volume of Messrs. Essner's, Mahady's, and Poussot's and Dr. Ruffolo’s stock
+sales is also unsuspicious. Although Plaintiffs allege that these Defendants sold 70%, 97%, 89%,
+and 90% of their Company stock holdings, respectively, Compl. ¶¶ 125-26, 128-29, these
+numbers are wrong. They improperly fail to take into account vested stock options. See In re
+Silicon Graphics Sec. Litig., 183 F.3d 970, 986-87 (9th Cir. 1999) (“[W]e see no reason to
+distinguish vested stock options from shares because vested stock options can be converted
+easily to shares and sold immediately. Actual stock shares plus exercisable stock options
+represent the owner's trading potential more accurately than the stock shares alone.”); In re Dura
+Pharms., Inc. Sec. Litig., No. 99 Civ. 0151-L, 2000 WL 33176043, at *10 (S.D. Cal. July 11,
+2000) (“The Court also finds significant the evidence indicating that the Defendants did not
+exercise thousands of vested options and/or did not sell shares obtained through the exercising of
+the options.”); In re Blockbuster Inc. Secs. Litig., No. 3 Civ. 0398-M, 2004 WL 884308, at *18
+(N.D. Tex. Apr. 26, 2004) (“This percentage calculation takes into account vested stock options
+that were not exercised.”); Acito v. IMCERA Group, 47 F.3d 47, 54 (2d Cir. 1995) (“The
+additional 30,000 shares that Kennedy sold in January represented less than 11% of his holdings;
+after the sale, Kennedy owned approximately 259,000 shares and/or options of IMCERA
+stock.”). When vested stock options are factored in (as they must be), these Defendants’ stock
+sales drop to less than 5%, 29%, 25%, and 45%, respectively.17 See SEC Website.
+If unvested options and restricted shares are considered, the percentages fall even
+further to less than 4%, 19%, 16%, and 27%, respectively. See SEC Website; In re Astea Int'l
+Inc. Sec. Litig., No. 06 Civ. 1467, 2007 U.S. Dist. LEXIS 58238, at *42-43 (E.D. Pa. Aug. 8,
+2007) ("[T]he fact that [the defendant] retained a majority of his holdings, if this court were to
+
+17
+
+These percentages take into account all vested options, including in-the-money and out-of-the-money
+options, held by Defendants on the last day of the Class Period.
+
+30
+
+Case 1:07-cv-10329-RJS
+
+Document 24
+
+Filed 06/10/2008
+
+Page 37 of 43
+
+consider vested and unvested options, weakens any inference of motive to commit fraud.")
+(emphasis added).
+These numbers are too low to raise an inference of scienter. See, e.g., In re Initial
+Pub. Offering Sec. Litig., 544 F. Supp. 2d 277, 294 (S.D.N.Y. 2008) (insider sales that represent
+less than 10% of the individual’s total holdings are “insufficiently ‘unusual’ to permit an
+inference of scienter”); In re eSpeed, Inc. Sec. Litig., 457 F. Supp. 2d 266, 291 (S.D.N.Y. 2006)
+(holding that sales of 10.9% and 17.4% of holdings were not unusual); Keyspan, 383 F. Supp. 2d
+at 382-83 (sale of less than 20% of available holdings not suspicious); In re Vantive Corp. Sec.
+Litig., 283 F.3d 1079, 1092 (9th Cir. 2002) (sales of 38% of defendants’ aggregate holdings not
+suspicious); In re Dura, 2000 WL 33176043, at *10 (sales of between 34-61% of holdings not
+sufficient to raise strong inference of fraud).
+3.
+
+Mr. Martin’s Stock Sales Were Not Suspicious or Unusual
+
+The Complaint alleges that Mr. Martin sold 99% of his shares during the Class
+Period—in October 2006 as well as in April, May, and June 2007. Compl. ¶ 127. However, if
+unvested options and restricted shares are factored in, the percentage falls to less than 72%. See
+SEC Website. More importantly, both the timing and volume of Mr. Martin’s sales are easily
+explained by his announcement on April 27, 2007 that he was leaving the Company. See id. Ex.
+15. Pursuant to the Company’s stock incentive plan, “any stock options not exercised prior to
+termination would have been forfeited.” Id. Ex. 16. Mr. Martin was thus required to exercise his
+remaining options in the spring of 2007 or else lose them. Given these circumstances, the
+Complaint’s factual allegations do not give rise to an inference that Mr. Martin acted with
+scienter. See In re Health Mgmt. Sys. Sec. Litig., No. 97 Civ. 1865, 1998 WL 283286, at *6 n.3
+(S.D.N.Y. June 1, 1998) (defendant’s sales deemed unsuspicious because “[w]hile [they] were
+quite high during the Class Period, this was most likely on account of the fact that he resigned as
+31
+
+Case 1:07-cv-10329-RJS
+
+Document 24
+
+Filed 06/10/2008
+
+Page 38 of 43
+
+[a director] . . . and was divesting himself of his shares”); In re LaBranche Sec. Litig., 405 F.
+Supp. 2d 333, 355-56 (S.D.N.Y. 2005) (“In light of the fact that [defendant] retired from [the
+corporation] . . . a divestiture of this size . . . is hardly suspicious.”).
+C.
+
+Plaintiffs Have Not Alleged Conscious Misbehavior or Recklessness
+Plaintiffs also fail to allege facts “constituting strong circumstantial evidence of
+
+conscious misbehavior or recklessness.” Kalnit, 264 F.3d at 138-39. The Second Circuit has
+established a high bar for meeting this standard; defendants’ conduct must be “highly
+unreasonable” and “represent[] an extreme departure from the standards of ordinary care . . . to
+the extent that the danger was either known to the defendant or so obvious that the defendant
+must have been aware of it.” Rothman v. Gregor, 220 F.3d 81, 90 (2d Cir. 2000). Moreover,
+where, as here, a plaintiff fails to establish motive, the “strength of the circumstantial allegations
+must be correspondingly greater. . . . Plaintiffs must specifically alleg[e] defendants’ knowledge
+of the facts or access to information contradicting their public statements.” Bristol-Myers, 312 F.
+Supp. 2d at 562 (citation omitted).
+The Complaint fails to satisfy this stringent standard. Defendants’ alleged
+misrepresentations pertain to the anticipated FDA approval of Pristiq for VMS and its potential
+revenue stream. Yet issuing positive statements about the projected success of a pipeline drug is,
+by its very nature, neither “highly unreasonable” nor “an extreme departure from the standards of
+ordinary care.” As the court explained in Bristol-Myers, even where a drug company has some
+indication that a drug might not be approved, this fact is insufficient to allege scienter: “Given
+the uncertainty inherent in any application for FDA approval, Defendants’ alleged ‘inkling,’
+which is a ‘hint,’ ‘suggestion’ or ‘slight indication’ [that the FDA might not approve the drug], is
+reasonable and entirely consistent with Defendants’ public statements. . . . It does not constitute
+strong circumstantial evidence of conscious misbehavior or recklessness.” 312 F. Supp. 2d at
+32
+
+Case 1:07-cv-10329-RJS
+
+Document 24
+
+Filed 06/10/2008
+
+Page 39 of 43
+
+562; see also AstraZeneca, 2008 U.S. Dist. LEXIS 43680, at *46 (granting defendants’ motion to
+dismiss because “[n]othing appears in the complaint showing that there was a consensus of
+management that the risks of [the drug] made [it] unlikely to be approved”); Shields, 25 F.3d at
+1129 (2d Cir. 1994) (“[M]isguided optimism is not a cause of action, and does not support an
+inference of fraud. We have rejected the legitimacy of ‘alleging fraud by hindsight.’”); In re
+Eastman Kodak Co. Sec. Litig., No. 05 Civ. 6326, 2006 WL 3149361, at *4 (W.D.N.Y. Nov. 1,
+2006) (“An even more stringent scienter requirement applies to forward-looking statements . . .
+where plaintiffs must plead facts to support the strong inference that the speaker had actual
+knowledge that the statement was false or misleading when made.”).
+As discussed previously, Plaintiffs have not alleged that Defendants knew during
+the Class Period that the FDA would not issue an approval letter for Pristiq in July 2007. See
+supra Section II.A. As such, the Complaint fails to give rise to an inference of conscious
+misbehavior or recklessness.
+IV.
+
+PLAINTIFFS HAVE NOT ALLEGED LOSS CAUSATION
+The Court should also dismiss the Section 10(b) and Rule 10b-5 claim because
+
+Plaintiffs fail to plead loss causation. As the Supreme Court stated in Dura Pharmaceuticals,
+Inc. v. Broudo, a decline in stock price may reflect any number of factors, including “changed
+economic circumstances, changed investor expectations, new industry-specific or firm-specific
+facts, conditions, or other events.” 544 U.S. 336, 342-43 (2005). “Establishing loss causation is
+critical [to the success of a securities fraud claim] because Section 10(b) is not meant to ‘provide
+investors with broad insurance against market losses, but to protect them against those economic
+losses that misrepresentations actually cause.’” In re Rhodia S.A. Sec. Litig., 531 F. Supp. 2d
+527, 544 (S.D.N.Y. 2007) (quoting Dura, 544 U.S. at 345). Thus to survive a motion to dismiss,
+
+33
+
+Case 1:07-cv-10329-RJS
+
+Document 24
+
+Filed 06/10/2008
+
+Page 40 of 43
+
+a complaint must allege “a causal connection between the material misrepresentation and the
+[alleged] loss.” Dura, 544 U.S. at 342.
+“One of the ways a plaintiff can plead loss causation is to allege that the market
+reacted negatively to a corrective disclosure regarding the falsity of the defendants'
+representations.” In re Winstar Communs., 01 Civ. 3014, 2006 WL 473885, at *13 (S.D.N.Y.
+Feb. 27, 2006) (citations omitted). This requires a “showing that plaintiff suffered an economic
+loss fairly attributable to the public airing of the alleged fraud, i.e., a significant stock price
+decline immediately following the announcement that reveals the fraud to the public.” Id.; see
+also Winstar, 2006 WL 473885, at *14 (“To establish loss causation by pleading a corrective
+disclosure, a plaintiff must allege that when truthful word revealing the falsity of defendant's
+representation reached the public, the market reacted negatively causing plaintiff to suffer an
+injury.”).
+Here, Plaintiffs allege that Defendants violated the securities laws by failing to
+disclose adverse safety data associated with Study 315. See supra Section II.B. As discussed
+previously, Defendants in fact disclosed this information at the May 2007 ACOG annual
+meeting, and the information was later discussed in an analyst report dated May 21, 2007. Id.
+Importantly, following the release of the May 21, 2007 analyst report, Wyeth’s stock price
+stayed essentially the same. Id. Because the disclosure of the alleged omissions about Study 315
+did not cause a drop in Wyeth’s stock price, these omissions cannot be said to have “caused”
+Plaintiffs’ loss. See Rhodia, 531 F. Supp. 2d at 545 (plaintiffs adequately plead loss causation
+only where they allege that “the value of their securities dropped immediately following
+defendants’ announcement.”) (emphasis added).
+
+34
+
+Case 1:07-cv-10329-RJS
+
+Document 24
+
+Filed 06/10/2008
+
+Page 41 of 43
+
+Moreover, the lack of market reaction in May 2007 to the safety data makes clear
+that the price drop that occurred on July 24, 2007 was due solely to disclosure of the FDA’s
+decision on the Pristiq NDA. The Company’s July 24, 2007 press release disclosed information
+that the Company had just learned the day before: that the FDA issued an approvable letter for
+the use of Pristiq to treat VMS and that the FDA required the Company to conduct additional
+clinical research. Chepiga Aff. Ex. 10. The law clearly states that “the loss causation
+requirement is satisfied only if the public disclosure causing injury addressed the specific fact
+allegedly concealed.” Rhodia, 531 F. Supp. 2d at 545; see also In re Worldcom, Inc. Sec. Litig.,
+02 Civ. 3288, 2005 WL 2319118, at *23 (S.D.N.Y. Sept. 21, 205) (“Unless [the plaintiff] can
+establish that his losses were attributable to some form of revelation to the market of the
+wrongfully concealed information, they are not recoverable in a private securities action.”).
+Although the July 24, 2007 press release discussed the Study 315 safety data to which the
+FDA was reacting, this information was not new. It had been disclosed previously. For a
+plaintiff to establish loss causation by alleging that the market reacted negatively to a corrective
+disclosure, “the disclosed fact must be new to the market.” In re Omnicom Group, Inc. Sec.
+Litig., No. 02 Civ. 4483, 2008 WL 243788, at *5 (S.D.N.Y. Jan. 29, 2008). “A
+recharacterization of previously disclosed facts cannot qualify as a corrective disclosure.” Id.
+Because the safety data from Study 315 were disclosed to the market in May 2007, over two
+months before the press release was issued, they was not “new to the market” at the time they
+were subsequently referenced in a press release. For all of the above-stated reasons, Plaintiffs
+have failed to allege loss causation.
+V.
+
+PLAINTIFFS FAIL TO STATE A CLAIM UNDER SECTION 20(a)
+Plaintiffs also attempt to state a claim against all Defendants under Section 20(a)
+
+of the Exchange Act, which imposes joint and several liability on every person who “controls
+35
+
+Case 1:07-cv-10329-RJS
+
+Document 24
+
+Filed 06/10/2008
+
+Page 42 of 43
+
+any person liable under any provision of this chapter or of any rule or regulation thereunder.” 15
+U.S.C. § 78t(a) (2008). “To establish a prima facie case of control person liability, a plaintiff
+must show (1) a primary violation by the controlled person, (2) control of the primary violator by
+the defendant, and (3) that the defendant was, in some meaningful sense, a culpable participant in
+the controlled person's fraud.” ATSI, 493 F.3d at 108. Here, the Complaint fails to allege both a
+primary violation of the securities laws and culpable participation by the Defendants.
+It is well-settled that “[i]n the absence of a primary violation, a plaintiff cannot
+state a claim for controlling person liability under § 20(a) of the Securities Exchange Act.”
+Salinger v. Projtectavision, Inc., 972 F. Supp. 222, 235 (S.D.N.Y. 1997); see also ATSI, 493 F.3d
+at 108 (dismissing Section 20(a) claim for failure to allege a primary violation). Because
+Plaintiffs fail to state a claim under Section 10(b), see supra Parts II-IV, and do not plead any
+other violations of the Exchange Act, Plaintiffs fail to state a claim under Section 20(a).
+Moreover, a plaintiff must plead culpable participation “with the same
+particularity as scienter under Section 10(b). Namely, in order to withstand a motion to dismiss,
+a [S]ection 20(a) claim must allege, at a minimum, particularized facts of the controlling
+person’s conscious misbehavior or recklessness.” Lapin v. Goldman Sachs Group, Inc., 506 F.
+Supp. 2d 221, 246; see also Edison Fund v. Cogent Inv. Strategies Fund, Ltd., No. 06 Civ.
+40450, 2008 WL 857631, at *16 (S.D.N.Y. Mar. 31, 2008); Kalin v. Xanboo, Inc., 526 F. Supp.
+2d 392, 406 (S.D.N.Y. 2007). As discussed above, Plaintiffs fail to plead with particularity facts
+giving rise to an inference that any of the Defendants acted with conscious intent or recklessness.
+See supra Part III. Their Section 20(a) claim thus fails.
+CONCLUSION
+For the foregoing reasons, Defendants respectfully request that the Court dismiss
+the Complaint in its entirety and with prejudice. Plaintiffs have already amended their complaint
+36
+
+Case 1:07-cv-10329-RJS
+
+Document 24
+
+Filed 06/10/2008
+
+Page 43 of 43
+
+once and no efforts at repleading will cure Plaintiffs’ legally invalid claims. Because Plaintiffs’
+case rests on a non-actionable premise, the Complaint should be dismissed without further leave
+to amend. See Jones v. N.Y. State Div. of Military & Naval Affairs, 166 F.3d 45, 50 (2d Cir.
+1998) (“[A] district court may properly deny leave when amendment would be futile.”).
+
+Dated: New York, New York
+June 10, 2008
+SIMPSON THACHER & BARTLETT LLP
+
+By:
+
+_/s/ Michael J. Chepiga
+Michael J. Chepiga (mchepiga@stblaw.com)
+Lynn K. Neuner (lneuner@stblaw.com)
+Alexandra Greif (agreif@stblaw.com)
+425 Lexington Avenue
+New York, New York 10017
+Telephone: (212) 455-2000
+Facsimile: (212) 455-2502
+Attorneys for Defendants
+
+37
+
+Case 1:07-cv-10329-RJS
+
+Document 24-2
+
+Filed 06/10/2008
+
+Page 1 of 16
+
+Appendix A
+
+Case 1:07-cv-10329-RJS
+
+Document 24-2
+
+Filed 06/10/2008
+
+Page 2 of 16
+
+CAUTIONARY
+Cautionary Language
+
+The development of novel phamiaeeuticals, va
+complex process, and
+product candidates c
+
+0
+
+Failure o f t
+
+and biotechnology products i
+be delayed in commer
+
+Case 1:07-cv-10329-RJS
+
+Document 24-2
+
+Filed 06/10/2008
+
+Page 3 of 16
+2
+
+The development and comme
+
+lization of novel drt
+
+nificant expenditures wi
+
+probability of success.
+
+candidates. Evcii wh
+
+2006 (filed
+February 26, 2007)
+
+Risks Assockired w
+
+ugy products involves a len
+
+Case 1:07-cv-10329-RJS
+
+Document 24-2
+
+Filed 06/10/2008
+
+Page 4 of 16
+3
+
+respect to any prod
+
+idate may fail or be del
+
+e subiect to differi
+
+didates and/or tic
+date or new indic
+
+ss near-term
+
+Case 1:07-cv-10329-RJS
+
+Document 24-2
+
+Filed 06/10/2008
+
+Page 5 of 16
+4
+
+___
+
+Date
+
+- -
+
+I____
+
+--]-Tautinnary Language
+I
+
+7: 2
+November 6.2006
+
+This I:
+
+'may,'' "will
+forward-looking
+,-
+
+e
+e
+
+e
+
+e
+e
+
+e
+0
+
+4
+
+e
+
+e
+e
+
+n of the manihcturing is
+
+Case 1:07-cv-10329-RJS
+
+m
+
+Document 24-2
+
+Filed 06/10/2008
+
+Page 6 of 16
+
+Case 1:07-cv-10329-RJS
+
+Document 24-2
+
+Filed 06/10/2008
+
+Page 7 of 16
+
+6
+
+ion or regulation affecting product approval. pricing, rei
+nlainment ;
+
+Each forward-looking state
+actual results to differ
+uncertainties iiiclude ri
+
+K for additional
+
+ese risk factors.
+
+ks and unccrtai
+
+Case 1:07-cv-10329-RJS
+
+Document 24-2
+
+Filed 06/10/2008
+
+Page 8 of 16
+7
+
+uncertainties.
+May '3.2007
+
+This Quarterly Report on Forin 10enerally can be idenlificd by the
+iinate,.' "foi-eca
+
+udes forward-looking statein
+
+,
+
+'These forward-looking
+
+d otlier .\wordsof sixnil
+
+perations, financial condition and cap
+of supply constraints;
+
+ur expectations. beliefs,
+storical facts. including
+grov,.tli in our busiiiessj
+Future charses related to ixli
+
+Anticipated developments
+
+d e w loptnent act isities
+
+nts
+
+Case 1:07-cv-10329-RJS
+
+Document 24-2
+
+Filed 06/10/2008
+
+Page 9 of 16
+8
+
+ct liability: patent
+
+Costs 1
+and of1
+
+I
+
+pension plans, expected coiitributions
+
+other commitments;
+
+The financial stat
+
+pact of changes in generally accepted accountin
+
+Our and out' colfabor
+for patent protection with r
+
+t our irttellectual prop
+
+o various products;
+ing E FFEXOR XK and the timing
+
+tnatlufacture of
+
+al?pricing, reimbur
+
+Case 1:07-cv-10329-RJS
+
+Document 24-2
+
+Filed 06/10/2008
+
+Page 10 of 16
+9
+
+Impact o f c
+
+ions. i
+
+g interest rate aid esch
+
+011% performance
+
+from ou
+
+uation.
+
+Case 1:07-cv-10329-RJS
+
+Document 24-2
+
+Filed 06/10/2008
+
+Page 11 of 16
+10
+
+CONFERENCE CALLS
+'CautionaG. Language
+--
+
+July 12.2006
+
+_
+_
+I
+"
+
+-
+
+July 20,2006
+
+October 19: 2006
+
+is has bee11 rime fully disclos
+on form IO-Q and the annua
+Jcvliiary 30. 2007
+
+Now as a reminder. cert
+
+.
+
+that are made today th
+
+-looking atid it1
+rng information. '1'1
+rding quarterly reports on For
+July 19, 2007
+
+d
+
+s morning and in our periodic
+
+Case 1:07-cv-10329-RJS
+
+Document 24-2
+
+Filed 06/10/2008
+
+Page 12 of 16
+
+If
+
+Date
+October 5.2006
+
+s and unccrtainti
+arly the discussion
+
+nts that involvc risk
+
+I
+
+Case 1:07-cv-10329-RJS
+
+Document 24-2
+
+Filed 06/10/2008
+
+Page 13 of 16
+12
+
+_I
+
+"-
+
+April 19: 2007
+
+ies that could cause a
+materially from those
+regarding cliriical data a
+of the data and our expe
+
+e of our busine
+
+Case 1:07-cv-10329-RJS
+
+Document 24-2
+
+Filed 06/10/2008
+
+Page 14 of 16
+13
+
+uncertainties i nc 1u
+
+ons including interest and curre
+
+report on Form 10-K. illled
+lar, can vary due to issues 1
+
+ory approval of. new pr
+a result of new
+
+May 3 1,2007
+
+ks and uncertainti
+ith the inherent
+
+11
+
+could cause actual results
+
+Case 1:07-cv-10329-RJS
+
+Document 24-2
+
+Filed 06/10/2008
+
+Page 15 of 16
+14
+
+PRESS RELEASES
+
+"
+-
+
+Date
+
+Cautionary Language
+
+Jutie 26, 2006
+January 23.2007
+
+e Commission, in
+fonvard-looking sta
+
+October 5,2006
+
+om time to tiin
+
+as a result of new
+
+Case 1:07-cv-10329-RJS
+
+I
+
+Document 24-2
+
+Filed 06/10/2008
+
+Page 16 of 16
+
+_____-
+
+May 9>2007
+
+provaf. Other risks and
+
+ties associated
+
+developments or ot
+
+Case 1:07-cv-10329-RJS
+
+Document 24-3
+
+Filed 06/10/2008
+
+Page 1 of 1
+
+APPENDIX B
+15 U.S.C. § 78u-5
+(i) Definitions. For purposes of this section, the following definitions shall apply:
+(1) Forward-looking statement. The term “forward-looking statement” means—
+(A) a statement containing a projection of revenues, income (including income
+loss), earnings (including earnings loss) per share, capital expenditures,
+dividends, capital structure, or other financial items;
+(B) a statement of the plans and objectives of management for future operations,
+including plans or objectives relating to the products or services of the
+issuer;
+(C) a statement of future economic performance, including any such statement
+contained in a discussion and analysis of financial condition by the
+management or in the results of operations included pursuant to the rules and
+regulations of the Commission;
+(D) any statement of the assumptions underlying or relating to any statement
+described in subparagraph (A), (B), or (C);
+(E) any report issued by an outside reviewer retained by an issuer, to the extent
+that the report assesses a forward-looking statement made by the issuer; or
+(F) a statement containing a projection or estimate of such other items as may be
+specified by rule or regulation of the Commission.
+
+

@@ -1,0 +1,869 @@
+Case 2:05-cv-00494-TJW Document 222 Filed 03/26/07 Page 1 of 21 PageID #: 8725
+
+UNITED STATES DISTRICT COURT
+EASTERN DISTRICT OF TEXAS
+MARSHALL DIVISION
+Technology Properties Limited and Patriot
+Scientific Corporation,
+
+§
+§
+§
+Plaintiffs,
+§
+§
+v.
+§
+§
+Matsushita Electrical Industrial Co., Ltd.,
+§
+Panasonic Corporation of North America, JVC §
+Americas Corporation, NEC Electronics
+§
+America, Inc., Toshiba Corporation, Toshiba
+§
+America, Inc., Toshiba America Electronic
+§
+Components, Inc., Toshiba America
+§
+Information Systems, Inc. and Toshiba America §
+Consumer Products, LLC,
+§
+§
+Defendants.
+§
+§
+§
+§
+§
+§
+§
+§
+§
+§
+§
+
+Case No.
+
+2:05-CV-00494
+
+PLAINTIFFS' MOTION FOR LEAVE TO SERVE AMENDED PRELIMINARY
+INFRINGEMENT CONTENTIONS
+
+Case 2:05-cv-00494-TJW Document 222 Filed 03/26/07 Page 2 of 21 PageID #: 8726
+
+TABLE OF CONTENTS
+Page
+I.
+
+INTRODUCTION ...........................................................................................................................1
+
+II.
+
+FACTUAL BACKGROUND..........................................................................................................3
+A.
+
+III.
+
+Events Leading Up To The November 7, 2006 Order.........................................................3
+1.
+
+TPL's Early June 27-28 Disclosure of Accused Chip
+Families and Chips Representing Those Families ...................................................3
+
+2.
+
+TPL's Formal July 17 Preliminary Infringement
+Contentions ..............................................................................................................4
+
+3.
+
+TPL's Proposed First Corrected PICs, July 27 Version ...........................................5
+
+4.
+
+The Parties Meet and Confer on July 28..................................................................5
+
+5.
+
+TPL's August 14 Version of Proposed First Corrected
+PICs..........................................................................................................................6
+
+6.
+
+TPL's August 14 Motion To Correct Preliminary
+Infringement Contentions ........................................................................................6
+
+7.
+
+Defendants' Oppositions and TPL's Reply...............................................................7
+
+8.
+
+The Court's November 7 Order Denying TPL's Motion
+Without Prejudice. ...................................................................................................7
+
+B.
+
+TPL Prepares Claim Charts for All Accused Family Members ..........................................8
+
+C.
+
+On December 22, TPL Provided Defendants with A Proposed
+Motion For Leave to File Amended Preliminary Infringement
+Contentions, Followed Shortly by the Claim Charts ...........................................................8
+
+D.
+
+The Parties Meet and Confer on January 9..........................................................................8
+
+E.
+
+TPL Prepares and Provides Information Requested By
+Defendants. ..........................................................................................................................9
+
+F.
+
+NEC Agrees To Proceed on the Basis of Representative Parts,
+and Proposes Terms of a Proposed "Stipulation to Be Entered by
+the Parties". ..........................................................................................................................9
+
+GOOD CAUSE EXISTS TO PERMIT PLAINTIFFS TO CORRECT
+THEIR PRELIMINARY INFRINGEMENT CONTENTIONS ...................................................10
+A.
+
+The Applicable Law...........................................................................................................10
+
+B.
+
+Why TPL Did Not Provide Claim Charts For All Accused Chips
+Prior To The Original Deadline .........................................................................................11
+
+C.
+
+The Importance Of The Thing That Would Be Excluded .................................................12
+
+PLAINTIFFS' MOTION FOR LEAVE TO SERVE AMENDED PRELIMINARY INFRINGEMENT CONTENTIONS
+CASE NO.2:05CV494
+
+- ii -
+
+Case 2:05-cv-00494-TJW Document 222 Filed 03/26/07 Page 3 of 21 PageID #: 8727
+
+TABLE OF CONTENTS (con’t)
+Page
+
+IV.
+
+D.
+
+There Is No Prejudice To Defendants In Allowing The Amended
+Preliminary Infringement Contentions ..............................................................................12
+
+E.
+
+Only MEI Flatly Opposes the Proposed Amended PICs ...................................................15
+
+CONCLUSION..............................................................................................................................15
+
+PLAINTIFFS' MOTION FOR LEAVE TO SERVE AMENDED PRELIMINARY INFRINGEMENT CONTENTIONS
+CASE NO.2:05CV494
+
+- iii -
+
+Case 2:05-cv-00494-TJW Document 222 Filed 03/26/07 Page 4 of 21 PageID #: 8728
+
+TABLE OF AUTHORITIES
+Page
+Cases
+ALT, MD. v. Medtronic, Inc.,
+2006 WL 278868 (E.D.Tex. February 1, 2006) ................................................................................ 10
+Orion IP, LLC v. Staples, Inc.,
+407 F.Supp.2d 815 (E.D.Tex. 2006) ................................................................................................. 13
+Renesas Tech. Corp. v. Nanya Tech. Corp.,
+No. C03-05709JFHRL, 2004 WL 2600466 (N.D. Cal., Nov. 10, 2004) ......................................... 10
+
+PLAINTIFFS' MOTION FOR LEAVE TO SERVE AMENDED PRELIMINARY INFRINGEMENT CONTENTIONS
+CASE NO.2:05CV494
+
+- iv -
+
+Case 2:05-cv-00494-TJW Document 222 Filed 03/26/07 Page 5 of 21 PageID #: 8729
+
+I.
+
+INTRODUCTION
+Plaintiffs Technology Properties Limited ("TPL") and Patriot Scientific Corp. ("Patriot")
+
+seek leave to serve their proposed First Amended Disclosure Of Asserted Claims And
+Preliminary Infringement Contentions ("Amended PICs") attached hereto as Exh.1.1 This
+motion ("Motion To Amend PICs") is in response to the Court's November 7, 2006 Order
+("November 7 Order") [doc. # 162] which, although it denied TPL's previously-filed Motion to
+Correct Preliminary Infringement Contentions ("Motion To Correct PICs") [doc. 96-1 filed
+8/14/2006], which sought to rely on claim charts for representative chips rather than provide a
+claim chart for each of the huge number of accused chips, denied that motion "without prejudice
+to filing amended preliminary infringement contentions that include infringement contentions for
+each accused product as required under the local rules." In accordance with that Order,
+Plaintiffs' proposed Amended PICs provide contentions, including claim charts, for each of
+Defendants' products that plaintiffs accuse of infringement.
+TPL2 provided Defendants with the proposed amended PICs and a draft of the present
+motion on December 22, 2006, and sent CD-ROMs containing the claim charts on December 26,
+requesting that Defendants consent to the proposed amended PICs, or meet and confer. Cook ¶
+22.3 Defendants said that they could not evaluate Plaintiffs' request without reviewing the
+extensive claim charts, and that they could not do so over the holidays, so Plaintiffs agreed to
+defer filing the motion and attend the requested meet and confer on January 8, eventually
+
+1
+
+Exhibits attached hereto are referenced as "Exh. 1," "Exh. 2," etc.
+
+2
+
+Since September 12, 2006 when Patriot joined TPL as party co-plaintiff, TPL has been, as
+regards the present motion, acting on behalf of both Plaintiffs.
+
+3
+
+References to the Declaration of Roger L. Cook in Support of Plaintiffs' motion, filed herewith,
+
+Continued on the next page
+
+PLAINTIFFS' MOTION FOR LEAVE TO SERVE AMENDED PRELIMINARY INFRINGEMENT CONTENTIONS
+CASE NO.2:05CV494
+
+-1-
+
+Case 2:05-cv-00494-TJW Document 222 Filed 03/26/07 Page 6 of 21 PageID #: 8730
+
+rescheduled to January 9. Cook ¶ 23.
+At the meet and confer, Defendants said Plaintiffs' motion asserted that the chips for
+which claim charts were provided in December were the same chips that had been identified by
+"family" in June and July, and that Defendants could not evaluate this assertion without being
+told the "family" to which each of the December claim chart chips belong. Cook ¶ 24.
+To meet this objection, TPL prepared and on February 9 sent Defendants a lengthy
+spreadsheet listing each of the December claim chart chips by part number, and identifying the
+family to which each of those chips belongs, together with a letter which said, "[TPL believes]
+the present spreadsheet has all of the information you and your clients need to make a decision
+whether or not to oppose the motion [and so[ please let us know your decision by [] Feb. 13."
+Cook ¶ 25; Exhs. 11, 12. Also, to reduce the parties' burden in discovery and at trial, and as
+added incentive to consent to the proposed motion, TPL asked Defendants to reconsider that
+portion of TPL's original "representative parts" proposal that would limit discovery and trial to
+the proposed representative chips. Cook ¶ 26; Exh. 11.
+On February 18, after requesting additional time, NEC4 wrote that was interested in the
+representative chip proposal, and said:
+Assuming that we have reached closure on the product list and
+representative products, NEC Electronics would like to confirm the
+terms of the stipulation to be entered by the parties. NEC
+Electronics believes that the parties should include the following
+agreed terms in the stipulation: [setting forth specific terms].
+
+Continued from the previous page
+
+are designated "Cook ¶__."
+4
+
+On February 6, 2007, all NEC Defendants other than NEC Electronics settled and were
+dismissed. Doc. # 208.
+
+PLAINTIFFS' MOTION FOR LEAVE TO SERVE AMENDED PRELIMINARY INFRINGEMENT CONTENTIONS
+CASE NO.2:05CV494
+
+-2-
+
+Case 2:05-cv-00494-TJW Document 222 Filed 03/26/07 Page 7 of 21 PageID #: 8731
+
+Exh. 13. After TPL provided its response to these terms, the parties held a further meet and
+confer on March 13, where they discussed problems with and objections to a representative parts
+stipulation. Cook ¶ 28.
+TPL has worked with NEC and Toshiba to overcome their objections, and believes that
+stipulations with NEC and Toshiba will be reached before they need respond to this motion.
+Cook ¶ 28, Exhs. 14-16.
+However, MEI announced it will not enter into a representative parts stipulation, and will
+oppose the present motion to amend PICs, thereby necessitating the filing of this motion now
+rather than waiting to conclude stipulations with NEC and Toshiba.5 Cook ¶ 29.
+II.
+
+FACTUAL BACKGROUND
+A.
+
+Events Leading Up To The November 7, 2006 Order
+1.
+
+TPL's Early June 27-28 Disclosure of Accused Chip Families and
+Chips Representing Those Families
+
+On June 27, 2006, three weeks prior to the deadline for serving PICs, TPL responded to
+the Defendants' requests for early information concerning TPL's infringement contentions and
+said that it was accusing certain broad chip categories of infringing the patents-in-suit. See Cook
+e-mail 6/27/06 attaching a 27 page table entitled "Preliminary List of Texas Defendants' Accused
+Chips, June 27, 2006." ("June 27 Preliminary List").6 Exhs. 2 and 3, respectively. In the June
+
+5
+
+Defendant ARM, who intervened because some defendants sought indemnification for ARM's
+sale to them of several different "cores" implicated in Plaintiff's assertions of infringement
+against the '584 patent, initially said that the "representative chips" discussion does not pertain to
+ARM because it does not sell chips. Cook ¶ 30. Plaintiffs had taken this to mean that ARM was
+agnostic as to the present motion; however, discussions in the past few days between ARM and
+TPL counsel have identified mutual benefits to a representative parts stipulation between them,
+and constructive discussions are under way, which TPL believes will lead to a stipulation with
+ARM. Id.
+6
+
+Because TPL was providing this information voluntarily, in advance of the scheduled date for
+preliminary infringement contentions, TPL specified the following conditions on its disclosure:
+
+Continued on the next page
+
+PLAINTIFFS' MOTION FOR LEAVE TO SERVE AMENDED PRELIMINARY INFRINGEMENT CONTENTIONS
+CASE NO.2:05CV494
+
+-3-
+
+Case 2:05-cv-00494-TJW Document 222 Filed 03/26/07 Page 8 of 21 PageID #: 8732
+
+27 letter, TPL said that "Greater detail, in the form of part numbers of representative chips, will
+be provided in the near future." Exh. 2, p. 2 (emphasis added).
+On June 28, 2006, as promised, TPL sent a further letter, stating, "This replaces the list of
+chips provided to you yesterday, and provides important additional information, i.e.
+representative part numbers ("Product," col. 2) for the family to which TPL believes these parts
+belong ("Chip Family," col. 5)." Exh. 4. Attached to the June 28 letter, TPL provided its
+"Preliminary Master List [of] Chips Accused of Infringement [as of] June 28, 2006 ("June 28
+Preliminary Master List") (emphasis added) which, in a column captioned "Product" identified
+chips by part number, e.g. "Microcontroller TMP87CH48CU," making it clear that these were
+the representative chips mentioned in the June 27 and June 28 letters, and, in a column entitled
+"Chip Family," identified by a specific family identifier (e.g. TLCS-870) the chip family to
+which each representative chip belonged. Exh. 5.
+2.
+
+TPL's Formal July 17 Preliminary Infringement Contentions
+
+On July 17, 2006, pursuant to P.R. 3-1, TPL served Technology Properties, Ltd., Inc.'s
+Disclosure of Asserted Claims and Preliminary Infringement Contentions ("Original PICs") on
+each of the Defendants. Exh. 6. Consistent with the June 28 letter, the Original PICs included a
+
+Continued from the previous page
+
+These lists are being provided to you in confidence, subject to the proposed and
+anticipated protective order, as an accommodation and convenience to assist you in
+preparing for discovery, in advance of the deadline for TPL to provide its infringement
+contentions, without prejudice to subsequent modification, such as by adding additional
+products, or by deleting products. [] These lists are also provided to you with the further
+understanding that they may not be used in this litigation as evidence that any particular
+products are or are not covered by the patents, or any of them. Any person who finds
+these conditions unacceptable should promptly double delete his or her lists, and not
+retain or share copies until we can reach a mutually agreeable understanding.
+Exh. 2, p. 1.
+
+PLAINTIFFS' MOTION FOR LEAVE TO SERVE AMENDED PRELIMINARY INFRINGEMENT CONTENTIONS
+CASE NO.2:05CV494
+
+-4-
+
+Case 2:05-cv-00494-TJW Document 222 Filed 03/26/07 Page 9 of 21 PageID #: 8733
+
+list of accused representative NEC, Toshiba and MEI chips identified by part numbers, slightly
+modified from the list of representative chips contained in the June 28 letter, and claim charts
+showing how the representative chips infringed the claims of the patents in suit. Exh. 6.
+Shortly after serving the Original PICs, TPL realized the list of representative chips in the
+text did not accurately list the chips for which claim charts were provided; and also that, unlike
+TPL's accusations in the June 28 letter, inadvertently failed to expressly accuse the chip families
+for which the accused representative chips were representative. Cook ¶ 7.
+3.
+
+TPL's Proposed First Corrected PICs, July 27 Version
+
+On July 27, 2006, TPL sent Defendants a letter [Exh. 7] to which was attached proposed
+Corrected Disclosure Of Asserted Claims And Preliminary Infringement Contentions ("First
+Corrected PICs, July 27 version") [Exh. 8], notifying Defendants of the error, which it proposed
+to correct with the proposed First Corrected PICs, July 27 Version [d.], and requesting that the
+Defendants consent to these corrections or meet and confer by telephone the following day.
+Exh. 7.
+4.
+
+The Parties Meet and Confer on July 28
+
+The Defendants would not consent and, instead, all attended a July 28 meet and confer in
+which they raised two categories of objections. First, they objected to the prejudice they might
+suffer if TPL were permitted to correct its Original PICs. In response, TPL made several
+proposals to eliminate any potential prejudice, and offered to consider any counterproposals.
+Cook ¶ 9. For example, in response to the Defendants' objection that they would have less time
+to produce documents for the chip families than to produce documents for the representative
+chips listed in the Original PICs, TPL pointed out that the deadline for substantial compliance
+with Defendants' document production obligations was not until October 3, 2006. Cook ¶ 10.
+TPL offered, however, to stipulate to any reasonable necessary extension of that deadline with
+
+PLAINTIFFS' MOTION FOR LEAVE TO SERVE AMENDED PRELIMINARY INFRINGEMENT CONTENTIONS
+CASE NO.2:05CV494
+
+-5-
+
+Case 2:05-cv-00494-TJW Document 222 Filed 03/26/07 Page 10 of 21 PageID #: 8734
+
+regard to documents for the chip families. Id. The Defendants did not accept any of TPL's
+prejudice-mitigating proposals, and made no counterproposals. Cook ¶ 11.
+Some of the Defendants also objected that the identification of chip families was not
+precise enough; and all objected that TPL had provided claim charts for only representative
+chips, rather than for each chip. Cook ¶ 12. TPL understood that the first objection could be
+overcome by a more precise identification of chip families, but that Defendants would persist in
+their objection to providing claim charts for only representative chips. Id. Consequently, TPL
+began preparing its contested motion. Id.
+5.
+
+TPL's August 14 Version of Proposed First Corrected PICs
+
+To prepare its motion, TPL modified the First Proposed Corrected PICs, July 27 Version
+to eliminate the Defendants' objections as to lack of precision, by preparing exhibits consisting of
+the Defendants' own Web pages which listed the part numbers of all chips in each of the accused
+chip families. Cook ¶ 13; Exh. 9 ("First Proposed Corrected PICs, August 14 Version").
+6.
+
+TPL's August 14 Motion To Correct Preliminary Infringement
+Contentions
+
+Upon completion of its First Proposed Corrected PICs, August 14 Version [id.], TPL
+filed a motion for leave to serve same. Cook ¶ 14; Doc. # 96, filed 8/14/2006. The "First
+Corrected PICs, August 14 Version" now included (1) a revised list of representative accused
+chips, conforming to the chips for which claim charts had been provided; (2) an explicit
+accusation of infringement of the chip families to which the representative chips belong; and (3)
+a more precise identification of the family members, by providing copies of the Defendants' Web
+pages identifying those family members. Id.
+To show that TPL's omission in the text of the Original PICs was unintentional, and did
+not prejudice the Defendants, TPL pointed to the June 27 and 28 Letters [Exhs. 2 and 4] which
+provided a comparable list of representative chips, and made clear that TPL was accusing the
+
+PLAINTIFFS' MOTION FOR LEAVE TO SERVE AMENDED PRELIMINARY INFRINGEMENT CONTENTIONS
+CASE NO.2:05CV494
+
+-6-
+
+Case 2:05-cv-00494-TJW Document 222 Filed 03/26/07 Page 11 of 21 PageID #: 8735
+
+representative chips as well as the chip families to which they belonged. Doc. # 96, p. 5; see also
+doc. # 122, p. 4.
+TPL also explained that focusing on representative chips would be the most reasonable
+and efficient way to deal with the large number of infringing products, especially since the chips
+in any given family differed from one another only by features (such as package type and the
+like) wholly irrelevant to infringement. Id.
+7.
+
+Defendants' Oppositions and TPL's Reply
+
+Although each made slightly different arguments, all Defendants asserted that TPL
+should not be allowed to amend its PICs to assert infringement of entire chip families based on
+claim charts for only representative chips.
+In its reply brief [Doc. # 122, filed 9/7/2006 ("Reply Brief")], TPL defended its use of
+representative chips as a benefit to all parties because discovery could be limited to the
+representative chips rather than to all chips accused of infringement. Id. at pp. 3, 4. TPL also
+reasonably proposed that if a Defendant were to decide that any family subgroup materially
+differed from an alleged representative chip, the Defendant could so state, identify all chips
+within that subgroup, and provide discovery as to a representative chip within the subgroup. Id.
+at p. 14.
+In addition, TPL noted that MEI's opposition recognized the propriety of, including case
+authority for, using representative chips. Id. at p. 3.
+8.
+
+The Court's November 7 Order Denying TPL's Motion Without
+Prejudice.
+
+By order dated November 7, 2006, this Court denied TPL's Motion To Correct PICs
+
+PLAINTIFFS' MOTION FOR LEAVE TO SERVE AMENDED PRELIMINARY INFRINGEMENT CONTENTIONS
+CASE NO.2:05CV494
+
+-7-
+
+Case 2:05-cv-00494-TJW Document 222 Filed 03/26/07 Page 12 of 21 PageID #: 8736
+
+"without prejudice to filing7 amended [PICs] that include infringement contentions for each
+accused product as required under the local rules." Doc. # 162, p. 2.
+B.
+
+TPL Prepares Claim Charts for All Accused Family Members
+
+Upon receipt of the November 7 Order, TPL immediately began preparation of claim
+charts for all accused chips -- a large task due to the number of accused chips. Cook ¶ 21.
+C.
+
+On December 22, TPL Provided Defendants with A Proposed Motion For
+Leave to File Amended Preliminary Infringement Contentions, Followed
+Shortly by the Claim Charts
+
+Because TPL understood the November 7 Order as implicit leave for TPL to serve
+amended PICs listing all accused family member chips, TPL provided Defendants with a draft of
+the proposed amended PICs and a draft of the present motion [Exh. 10] on December 22,
+requesting that Defendants consent to the proposed amended PICs. Cook, ¶ 22. TPL Fed-Exed
+CD-ROMs containing the claim charts to Defendants on December 26. Id. These are the
+identical claim charts for which leave to serve is presently sought.
+Defendants did not agree that the November 7 Order provided implicit consent for TPL to
+serve amended PICs and claim charts, and said they could not evaluate Plaintiffs' request without
+reviewing the extensive claim charts. Cook ¶ 23. Moreover, since they said they could not do so
+over the holidays, they requested and Plaintiffs agreed to postpone filing the present motion and
+attend a meet and confer on January 8, eventually rescheduled to January 9. Id.
+D.
+
+The Parties Meet and Confer on January 9.
+
+In the meet and confer, Defendants said the motion argued that there would be no
+prejudice because Defendants had been informed that family members were accused of
+
+7
+
+Since the local rules require preliminary infringement contentions to be served, but not filed,
+TPL understands the order to refer to service of amended to infringement contentions.
+
+PLAINTIFFS' MOTION FOR LEAVE TO SERVE AMENDED PRELIMINARY INFRINGEMENT CONTENTIONS
+CASE NO.2:05CV494
+
+-8-
+
+Case 2:05-cv-00494-TJW Document 222 Filed 03/26/07 Page 13 of 21 PageID #: 8737
+
+infringement as early as June 2006, but that the December 26 claim charts appeared to accuse
+chips falling outside of the June families. Cook ¶ 24. Although TPL explained that it did not
+intend the December 26 claim charts to expand beyond the previously accused families,
+Defendants asked TPL to demonstrate correspondence between the previously identified families
+and the chips accused of infringement (via claim charts) in December. Id.
+E.
+
+TPL Prepares and Provides Information Requested By Defendants.
+
+On February 9, 2007, as requested, TPL sent Defendants a spreadsheet providing the
+requested correlation between the presently accused chips and the previously accused families,
+stating that TPL believed it had provided all of the information that the Defendants needed to
+make decisions as to whether or not to oppose the proposed motion to amend PICs, suggesting
+that the parties reconsider using representative chips for discovery and trial, and requesting
+Defendants to provide their decision by February 13, 2007. Exhs. 11, 12; Cook ¶¶ 25, 26.
+F.
+
+NEC Agrees To Proceed on the Basis of Representative Parts, and Proposes
+Terms of a Proposed "Stipulation to Be Entered by the Parties".
+
+On February 18, NEC wrote that was interested in the representative chip proposal, and
+said, "Assuming that we have reached closure on the product list and representative products,
+NEC Electronics would like to confirm the terms of the stipulation to be entered by the parties.
+NEC Electronics believes that the parties should include the following agreed terms in the
+stipulation: [setting forth specific terms]." Exh. 13; Cook ¶ 27. After TPL responded to these
+terms [Exh. 14], the parties held a meet and confer on March 13, in which they discussed their
+various positions and any objections to the proposed representative part stipulation. Cook ¶ 27.
+TPL has worked to overcome the objections of NEC and Toshiba [Id.; Exhs. 15, 16] and believes
+that stipulations will be reached with these parties well in advance of the time for them to
+respond to the present motion. Cook ¶ 27.
+
+PLAINTIFFS' MOTION FOR LEAVE TO SERVE AMENDED PRELIMINARY INFRINGEMENT CONTENTIONS
+CASE NO.2:05CV494
+
+-9-
+
+Case 2:05-cv-00494-TJW Document 222 Filed 03/26/07 Page 14 of 21 PageID #: 8738
+
+However, MEI now flatly refuses to consent to the present motion, and refuses to
+consider a representative parts stipulation. Cook, ¶ 29.
+III.
+
+GOOD CAUSE EXISTS TO PERMIT PLAINTIFFS TO CORRECT THEIR
+PRELIMINARY INFRINGEMENT CONTENTIONS
+A.
+
+The Applicable Law.
+
+Patent Rule 3-1 requires a party claiming patent infringement to serve a disclosure of
+asserted claims and infringement contentions ("preliminary infringement contentions"8). Patent
+Rule 3-1(c) provides that these contentions shall include, inter alia, "each accused apparatus,
+product, device, process, method, act, or other instrumentality ('Accused Instrumentality') of
+each opposing party of which the party is aware …" as well as "[a] chart identifying specifically
+where each element of each asserted claim is found within each Accused Instrumentality … ."
+As MEI has recognized, however, the Northern District of California, which uses the same
+Patent Local Rules as the Eastern District of Texas, allows a party asserting patent infringement
+to serve a single claim chart for a family of products when the single claim chart is representative
+of all products within the family. See Renesas Tech. Corp. v. Nanya Tech. Corp., No. C0305709JFHRL, 2004 WL 2600466 (N.D. Cal., Nov. 10, 2004).
+In ALT, MD. v. Medtronic, Inc., 2006 WL 278868 (E.D.Tex. February 1, 2006), Judge
+Davis stated the standard for deciding a motion to supplement pursuant to Patent Rule 3-7:
+Federal Rule of Civil Procedure 16(b) requires a showing of good
+cause to modify dates set forth in the Court's scheduling order.
+Fed.R.Civ.P. 16(b) (providing, in part, "a schedule [scheduling
+order] shall not be modified except upon a showing of good cause
+
+8
+
+Recent amendments to the Patent Rules drop the word "preliminary;" however, since the
+present motion pertains to events and filings dating back prior to the amendment, TPL has
+continued to refer to "PICs" and "preliminary infringement contentions" to avoid confusion.
+
+PLAINTIFFS' MOTION FOR LEAVE TO SERVE AMENDED PRELIMINARY INFRINGEMENT CONTENTIONS
+CASE NO.2:05CV494
+
+- 10 -
+
+Case 2:05-cv-00494-TJW Document 222 Filed 03/26/07 Page 15 of 21 PageID #: 8739
+
+and by leave of the district court…."). Patent Rules are considered
+part of the Court's scheduling order; therefore, a party seeking
+relief must obtain the Court's leave on a good cause showing to
+modify the Patent Rule's deadlines. Patent Rule 3-7 incorporates
+Rule 16(b)'s cause standard by stating amendment or modification
+of the Preliminary or Final Infringement Contentions or the
+Preliminary or Final Invalidity Contentions … may be made only
+by order of the Court, which shall be entered only upon a showing
+of good cause. The good cause standard requires the party seeking
+relief to show that the deadlines cannot reasonably be met despite
+the diligence of the party needing the extension. A trial court has
+broad discretion in allowing scheduling order modifications. The
+Court should consider four factors when determining whether to
+allow a scheduling order modification: (1) the explanation for the
+failure to meet the deadline; (2) the importance of the thing that
+would be excluded; (3) potential prejudice in allowing the thing
+that would be excluded; and (4) the availability of a continuance
+to cure such prejudice.
+Id. at *2 (emphasis added, internal quotations and citations omitted.)
+As shown below, TPL has demonstrated the requisite good cause for amending its PICs.
+B.
+
+Why TPL Did Not Provide Claim Charts For All Accused Chips Prior To
+The Original Deadline
+
+TPL filed its Original PICs without including claim charts for every accused product
+because, in view of the large number of accused products, it reasonably believed all parties
+would benefit by using claim charts for representative products rather than for all accused
+products, and that providing claim charts for all accused products would merely add bulk without
+adding useful information. Accordingly, TPL believed that using claim charts for representative
+parts was a rational and practical way to streamline an otherwise complicated case. Moreover,
+TPL's counsel had advantageously employed representative parts in other semiconductor patent
+infringement litigation; and there is sound case authority for this approach in the Northern
+District of California, which employs essentially the same local rules as this district. Indeed,
+MEI acknowledged the reasonableness of TPL's approach, citing Northern District of California
+
+PLAINTIFFS' MOTION FOR LEAVE TO SERVE AMENDED PRELIMINARY INFRINGEMENT CONTENTIONS
+CASE NO.2:05CV494
+
+- 11 -
+
+Case 2:05-cv-00494-TJW Document 222 Filed 03/26/07 Page 16 of 21 PageID #: 8740
+
+case authority [doc. # 108, p. 5], arguing only that in this particular case TPL had not
+demonstrated that it was appropriate to use representative parts. Cook ¶ 16.
+Presumably in view of TPL's good faith belief that using representative parts was in
+reasonable compliance with the Patent Local Rules, this Court denied TPL 's original request
+without prejudice to serving amended PICs in compliance with the Local Rules. Accordingly,
+Plaintiffs are now requesting explicit leave to serve the claim charts and amended PICs, each of
+which were provided to Defendants in December.
+C.
+
+The Importance Of The Thing That Would Be Excluded
+
+If the family member chips were excluded, this litigation would not resolve the entire
+dispute between the parties. Further proceedings, such as additional patent infringement lawsuits
+or contempt proceedings, would be necessary to fully adjudicate plaintiffs' infringement claims.
+It would be wasteful of judicial and party resources if plaintiffs were required to assert
+infringement by the remaining members of a chip family in a second lawsuit involving identical
+parties in which the identical patents and identical claims would be asserted.
+Moreover, Defendants assert that these claims, if not included in any judgment resulting
+from the present lawsuit, would be barred from assertion in later proceedings by res judicata.
+While plaintiffs disagree with this assessment, if Defendants are correct, this would reduce the
+value of plaintiffs' claim by orders of magnitude, further evidencing the importance of the claims
+which would be excluded if the proposed amendment were denied.
+D.
+
+There Is No Prejudice To Defendants In Allowing The Amended Preliminary
+Infringement Contentions
+
+Trial is scheduled for November 3, 2007, more than seven months away. As a result,
+permitting plaintiffs to correct its PICs will not necessitate a continuance of the trial.
+Defendants have known that TPL was broadly accusing the presently accused chips,
+
+PLAINTIFFS' MOTION FOR LEAVE TO SERVE AMENDED PRELIMINARY INFRINGEMENT CONTENTIONS
+CASE NO.2:05CV494
+
+- 12 -
+
+Case 2:05-cv-00494-TJW Document 222 Filed 03/26/07 Page 17 of 21 PageID #: 8741
+
+albeit identified by families rather than part numbers, since June 28, 2006. Moreover, lest
+Defendants were then confused as to which part numbers are within the designated families, TPL
+has since provided copies of web pages listing the specific part numbers in August, and lists of
+specific part numbers in December.
+Rather than suffer prejudice, Defendants have benefited by the delay, to plaintiffs'
+prejudice. For example, because Defendants have known since June 28, 2006 that TPL is
+accusing entire families of chips, rather than just a few representative chips, they have been able
+to use this information in preparing their invalidity contentions, and in submitting requests for reexamination of the patents-in-suit to the United States Patent and Trademark Office.9
+As another example, in January, the parties exchanged proposed Markman
+interpretations, and earlier this month Plaintiffs filed their opening Markman brief. As a result of
+the Defendants' refusal to provide discovery with regard to the family member chips, Defendants
+had the benefit of detailed knowledge concerning the accused family members in preparing their
+proposed claim interpretations; whereas Plaintiffs were deprived of this detailed information in
+preparing their proposed claim interpretations.
+If, after receiving TPL’s Original PICs, Defendants were unsure as to whether TPL was
+accusing the families of chips of infringement, Defendants should have contacted TPL for
+clarification. Instead, however, Defendants allowed time to pass. Thus, Defendants cannot now
+claim that TPL’s delay in submitting complete PICs somehow prejudiced them. In Orion IP,
+LLC v. Staples, Inc., 407 F.Supp.2d 815 (E.D.Tex. 2006), Judge Davis refused to allow a
+
+9
+
+NEC submitted requests for re-examination of all three patents in suit on September 21, 2006.
+Toshiba submitted requests for re-examination of two out of three of the patents in suit on
+October 19, 2006.
+
+PLAINTIFFS' MOTION FOR LEAVE TO SERVE AMENDED PRELIMINARY INFRINGEMENT CONTENTIONS
+CASE NO.2:05CV494
+
+- 13 -
+
+Case 2:05-cv-00494-TJW Document 222 Filed 03/26/07 Page 18 of 21 PageID #: 8742
+
+Defendant to claim prejudice when it failed to clarify a purported ambiguity in plaintiff’s PICs
+and plaintiff’s discovery requests indicated the scope of the accused products (in Orion, a
+website) was broader than that which was specifically identified in the PIC.
+While the Patent Rules place a [sic] heavy burden on plaintiffs to
+communicate their case to defendants so that both parties may
+adequately prepare for claim construction and trial, defendants also
+have a responsibility to make sure they fully understand the nature
+of plaintiffs’ allegations. A defendant cannot lay behind the log
+until late in the case and then claim it lacks notice as to the scope
+of the case or infringement contentions. Orion’s PICs were
+sufficient to put Toyota on notice that Orion intended to accuse
+more than just the website’s “Model Selector” feature. Toyota
+knew, or should have known, this and could have easily sought
+clarification either informally or by motion. It did neither, and
+now seeks to use its alleged lack of clarification to its advantage at
+this stage of the proceeding. To the extent Toyota was confused as
+to the extent of the website PICs, most of the responsibility is
+Toyota’s. Toyota admits it had discovery disputes with Orion as a
+result of the parties’ different understandings of the scope of
+Orion’s PICs, yet Toyota did not seek clarification of Orion’s
+PICs. The Patent Rules intend to strike a balance of providing fair
+notice to defendants without requiring unrealistic, overly factual
+contentions from plaintiffs, but the burden of notice the Patent
+Rules place on plaintiffs is intended to be a shield for defendants,
+not a sword.
+Id. at 817-18 (emphasis added.)
+In keeping with the policy expressed by Judge Davis, Defendants may not use the Patent
+Rules as a sword. By virtue of TPL's June 27 and June 28, 2006 letters, Defendants knew or
+should have known that TPL was accusing the families of chips of infringement and were
+explicitly told that the original PICs were intended to so assert a mere 10 days after the service of
+the Original PICs. The prejudice to Plaintiffs if not permitted to correct the PICs as requested far
+outweighs any prejudice to the Defendants as a result of the corrections.
+In addition, Defendants' primary concern in opposing TPL's Motion To Correct PICs was
+that claim charts for representative chips were not in fact representative of claim charts for their
+
+PLAINTIFFS' MOTION FOR LEAVE TO SERVE AMENDED PRELIMINARY INFRINGEMENT CONTENTIONS
+CASE NO.2:05CV494
+
+- 14 -
+
+Case 2:05-cv-00494-TJW Document 222 Filed 03/26/07 Page 19 of 21 PageID #: 8743
+
+corresponding chip families for purposes of infringement. By providing claim charts for all of
+the accused products, this concerned is obviated.
+Moreover, the proposed amendment will clarify any confusion that may presently exist as
+to which products are being accused of infringing which claims of the patents-in-suit.
+Thus, the present Motion To Amend PICs will actually eliminate, rather than cause,
+prejudice to the Defendants.
+E.
+
+Only MEI Flatly Opposes the Proposed Amended PICs
+
+After initially acknowledging the appropriateness of using representative parts [doc. #
+108, p. 5 ("Of course, it would be acceptable to provide a single chart for a series of products
+when there is a fair basis to believe that the separate products are the same for purposes of
+infringement."); TPL Reply, doc. # 122, p. 3], and seeming to participate in the representative
+parts discussions,10 MEI now flatly refuses a negotiated resolution of the present motion.
+IV.
+
+CONCLUSION
+TPL requests explicit leave to serve the proposed amended PICs and claim charts
+
+provided to Defendants in December, as permitted by this Court's November 7 Order.
+DATED: March 26, 2007
+
+Respectfully submitted,
+By: /s/ Roger L. Cook
+S. Calvin Capshaw, State Bar No. 03783900
+BROWN McCARROLL, LLP
+ccapshaw@mailbmc.com
+1127 Judson Road, Suite 220
+P.O. Box 3999
+Longview, Texas 75601-5157
+Telephone: (903) 236-9800
+Facsimile: (903) 236-8787
+
+10
+
+MEI never raised unique objections and did not announce that it intended to oppose that
+approach until prior to the March 13 meet and confer telephone conference. Cook, ¶ 29.
+
+PLAINTIFFS' MOTION FOR LEAVE TO SERVE AMENDED PRELIMINARY INFRINGEMENT CONTENTIONS
+CASE NO.2:05CV494
+
+- 15 -
+
+Case 2:05-cv-00494-TJW Document 222 Filed 03/26/07 Page 20 of 21 PageID #: 8744
+
+JONES AND JONES INC., P.C.
+Franklin Jones, Jr. (State Bar No. 00000055)
+201 West Houston Street, P.O. Drawer 1249
+Marshall, TX 75671-1249
+Telephone: (903) 938-4395
+Facsimile: (903) 938-3360
+maizieh@millerfirm.com
+IRELAND CARROLL AND KELLEY, P.C.
+Otis W. Carroll, State Bar No. 03895700
+nancy@icklaw.com
+6101 South Broadway, Suite 500
+P.O. Box 7879
+Tyler, Texas 75711
+Telephone: (903) 561-1600
+Facsimile: (903) 561-1071
+TOWNSEND and TOWNSEND and CREW LLP
+Roger L. Cook, CA State Bar No. 55208
+rlcook@townsend.com
+Eric P. Jacobs, CA State Bar No. 88413
+epjacobs@townsend.com
+Byron W. Cooper, CA State Bar No. 166578
+bwcooper@townsend.com
+Iris S. Mitrakos, CA State Bar No. 190162
+ismitrakos@townsend.com
+Two Embarcadero Center, 8th Floor
+San Francisco, California 94111
+Telephone: (415) 576-0200
+Facsimile: (415) 576-0300
+Attorneys for Plaintiff
+TECHNOLOGY PROPERTIES LIMITED, INC.
+61013658 v1
+
+PLAINTIFFS' MOTION FOR LEAVE TO SERVE AMENDED PRELIMINARY INFRINGEMENT CONTENTIONS
+CASE NO.2:05CV494
+
+- 16 -
+
+Case 2:05-cv-00494-TJW Document 222 Filed 03/26/07 Page 21 of 21 PageID #: 8745
+
+CERTIFICATE OF SERVICE
+I hereby certify that counsel of record who are deemed to have consented to electronic
+service are being served this 26th day of March, 2007, with a copy of this document via the
+Court’s CM/ECF system per Local Rule CV-5(a)(3). Any other counsel of record will be served
+by electronic mail, facsimile transmission and/or first class mail on this same date.
+
+/s/ Roger L. Cook
+Roger L. Cook
+
+______
+
+CERTIFICATE OF CONFERENCE
+As set forth above, counsel for Plaintiff has communicated with counsel for Defendants
+in an attempt to reach an agreement regarding the submission of a corrected PIC. However, as
+yet, no agreement has been reached. Therefore, this motion is presently opposed.
+
+/s/ Roger L. Cook
+Roger L. Cook
+
+______
+
+61013658 v1
+
+PLAINTIFFS' MOTION FOR LEAVE TO SERVE AMENDED PRELIMINARY INFRINGEMENT CONTENTIONS
+CASE NO.2:05CV494
+
+-1-
+
+

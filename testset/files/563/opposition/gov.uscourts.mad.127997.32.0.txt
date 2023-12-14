@@ -1,0 +1,1042 @@
+Case 1:10-cv-10515-DPW Document 32
+
+Filed 08/20/10 Page 1 of 28
+
+UNITED STATES DISTRICT COURT
+DISTRICT OF MASSACHUSETTS
+JEFFREY WIENER, derivatively on behalf of
+EATON VANCE MUNICIPALS TRUST,
+Plaintiff,
+
+Civil Action No. 10-10515-DPW
+
+v.
+EATON VANCE DISTRIBUTORS, INC.,
+BENJAMIN C. ESTY, ALLEN R. FREEDMAN,
+WILLIAM H. PARK, RONALD A.
+PEARLMAN, HELEN FRAME PETERS,
+HEIDI L. STEIGER, LYNN A. STOUT,
+RALPH F. VERNI, and THOMAS FAUST,
+Defendants,
+and
+EATON VANCE MUNICIPALS TRUST,
+Nominal Defendant.
+
+PLAINTIFF’S OPPOSITION TO THE MOTION TO DISMISS
+THE AMENDED COMPLAINT BY DEFENDANTS
+EATON VANCE DISTRIBUTORS, INC. AND THOMAS E. FAUST JR.
+
+Case 1:10-cv-10515-DPW Document 32
+
+Filed 08/20/10 Page 2 of 28
+
+TABLE OF CONTENTS
+Page
+PRELIMINARY STATEMENT .....................................................................................................1
+FACTS ALLEGED IN THIS CASE ...............................................................................................4
+A.
+
+Historical Context........................................................................................5
+
+B.
+
+The Rise and Fall of SEC Rule 202(a)(11)-1, Allowing Broker-Dealers
+to Receive Asset-Based Compensation .......................................................5
+
+C.
+
+The Payments at Issue .................................................................................7
+
+D.
+
+Recent Development: The SEC Proposes to Rescind Rule 12b-1.............8
+
+LEGAL STANDARD .....................................................................................................................8
+ARGUMENT...................................................................................................................................9
+I.
+
+THE PAYMENTS AT ISSUE ARE UNLAWFUL ................................................9
+A.
+
+All Broker-Dealers Fall Within the Broad Definition of Investment
+Adviser.........................................................................................................9
+
+B.
+
+The Broker-Dealer Exclusion Is Inapplicable If Asset-Based
+Compensation Is Received ........................................................................10
+
+II.
+
+UNLAWFUL PAYMENTS ARE AN IMPROPER USE OF TRUST
+ASSETS.................................................................................................................14
+
+III.
+
+DEFENDANTS’ DUTIES UNDER THE ICA TRUMP THEIR
+CONTRACTUAL ARRANGEMENTS TO MAKE UNLAWFUL
+PAYMENTS..........................................................................................................16
+
+IV.
+
+A.
+
+Section 47(b) Permits Actions for Rescission and Restitution..................16
+
+B.
+
+The State Law Contract-Voiding Count Is Not Preempted .......................19
+
+THE COURT SHOULD EXERCISE EITHER FEDERAL QUESTION OR
+SUPPLEMENTAL JURISDICTION OVER THE STATE LAW
+CLAIMS ................................................................................................................20
+
+CONCLUSION..............................................................................................................................20
+
+i
+
+Case 1:10-cv-10515-DPW Document 32
+
+Filed 08/20/10 Page 3 of 28
+
+TABLE OF AUTHORITIES
+Page(s)
+CASES
+Ashcroft v. Iqbal,
+129 S. Ct. 1937 (2009)...............................................................................................................9
+Berckeley Inv. Group Ltd. v. Colkitt,
+455 F.3d 195 (3d Cir. 2006) ....................................................................................................17
+In re: Charles Schwab Corp. Securities Litigation,
+257 F.R.D. 534 (N.D. Cal. 2009).............................................................................................19
+Couldock & Bohan, Inc. v. Societe Generale Securities Corp.,
+93 F. Supp. 2d 220 (D. Conn. 2000)........................................................................................17
+Everett v. Bozic,
+No. 05-296, 2006 U.S. Dist. LEXIS 55824 (S.D.N.Y. Aug. 2, 2006).....................................18
+Financial Planning Ass’n v. SEC,
+482 F.3d 481 (D.C. Cir. 2007).........................................................................................1, 6, 14
+Fogel v. Chestnutt,
+533 F.2d 731 (2d Cir. 1975) ....................................................................................................15
+Franklin Nat’l Bank v. L.B. Meadows & Co.,
+318 F. Supp. 1339 (E.D.N.Y. 1970) ........................................................................................17
+Freeman v. Marine Midland Bank-New York,
+No. 71-42, 1979 U.S. Dist. LEXIS 12177 (E.D.N.Y. May 24, 1979).....................................17
+Frishman v. Maginn,
+912 N.E.2d 468 (Mass. App. 2009) .........................................................................................19
+Gargano v. Liberty Int’l Underwriters, Inc.,
+572 F.3d 45 (1st Cir. 2009)........................................................................................................9
+GFL Advantage Fund, Ltd v. Colkitt,
+272 F.3d 189 (3d Cir. 2001) ....................................................................................................17
+Green v. Fund Asset Management, L.P.,
+245 F.3d 214 (3d Cir. 2001) ....................................................................................................19
+Hayes v. Ellrich,
+No. 06-3815, 2009 Mass. Super. LEXIS 188 (Sup. Ct. Suffolk July 13, 2009)......................19
+Kaiser Steel Corp. v. Mullins,
+455 U.S. 72 (1982)...................................................................................................................19
+
+ii
+
+Case 1:10-cv-10515-DPW Document 32
+
+Filed 08/20/10 Page 4 of 28
+
+Kassover v. UBS AG,
+619 F. Supp. 2d 28 (S.D.N.Y. 2008) .......................................................................................13
+Kaufman v. Merrill Lynch, Pierce, Fenner & Smith, Inc.,
+464 F. Supp. 528 (D. Md. 1978)..............................................................................................13
+Kelly v. Kosuga,
+358 U.S. 516 (1959).................................................................................................................19
+Luzerne County Retirement Board v. Makowski,
+627 F. Supp. 2d 506 (M.D. Pa. 2007)......................................................................................13
+Margaret Hall Foundation, Inc. v. Atl. Fin. Mgmt., Inc.,
+572 F. Supp. 1475 (D. Mass. 1983).........................................................................................17
+Olmsted v. Pruco Life Ins. Co.,
+283 F.3d 429 (2d Cir. 2002) ....................................................................................................17
+Paul Arpin Van Lines, Inc. v. Universal Transportation Services, Inc.,
+988 F.2d 288 (1st Cir. 1993)....................................................................................................19
+Regional Properties, Inc. v. Financial & Real Estate Consulting Co.,
+678 F.2d 552 (5th Cir. 1982) ...................................................................................................18
+Rhoades v. Powell,
+644 F. Supp. 645 (E.D. Cal. 1986) ..........................................................................................17
+Rhode Island Fishermen’s Alliance, Inc. v. Rhode Island Dept. of Environmental Management,
+585 F.3d 42 (1st Cir. 2009)......................................................................................................20
+Roberts v. Smith Barney Harris Upham & Co.,
+653 F. Supp. 406 (D. Mass. 1986)...........................................................................................17
+SEC v. Treadway,
+430 F. Supp. 2d 293 (S.D.N.Y. 2006) .....................................................................................15
+Smith v. Franklin/Templeton Distributors,
+No. 09-4775, 2010 U.S. Dist. LEXIS 56516 (N.D. Cal. June 8, 2010).....................................3
+Stegall v. Ladner,
+394 F. Supp. 2d 358 (D. Mass. 2005)......................................................................................18
+Thomas v. Metropolitan Life Ins. Co.,
+No. 07-121, 2009 U.S. Dist. LEXIS 78014 (W.D. Okla. Aug. 31, 2009) ...............................13
+Transamerica Mortgage Advisors, Inc. v. Lewis,
+444 U.S. 11 (1979).............................................................................................................16, 17
+United States v. First City Nat’l Bank,
+386 U.S. 361 (1967).................................................................................................................10
+
+iii
+
+Case 1:10-cv-10515-DPW Document 32
+
+Filed 08/20/10 Page 5 of 28
+
+Yameen v. Eaton Vance Distributors, Inc.,
+394 F. Supp. 2d 350 (D. Mass. 2005)......................................................................................12
+STATUTES
+15 U.S.C. § 78cc(b) .......................................................................................................................17
+15 U.S.C. § 80a-2(a)(35) ...............................................................................................................12
+15 U.S.C. § 80a-46(b)....................................................................................................................16
+15 U.S.C. § 80b-2(11)................................................................................................................9, 10
+15 U.S.C. § 80b-15 ........................................................................................................................16
+15 U.S.C. § 80b-1 ............................................................................................................................1
+15 U.S.C. § 80a-1 ............................................................................................................................1
+17 C.F.R. § 270.6c-10(a)(i) .............................................................................................................8
+17 C.F.R. § 270.12b-1(a)(2) ............................................................................................................7
+17 C.F.R. § 270.38a-1....................................................................................................................15
+17 C.F.R. § 275.202(a)(11)-1 ..........................................................................................................6
+OTHER AUTHORITIES
+2005 Final Rule Release
+70 Fed. Reg. 20424 (April 19, 2005).................................................................................10, 11
+Arthur B. Laby, Reforming the Regulation of Broker-Dealers and Investment Advisers
+65 Bus. Law. 395 (Feb. 2010) .................................................................................................14
+Final Rule, Promulgating Release No. IC-26299,
+2003 SEC LEXIS 2980 (Dec. 17, 2003)..................................................................................15
+In re O’Brien Partners, Inc., Sec. Act Release No. 7594, IA-1772,
+1998 SEC LEXIS 2318 (Oct. 27, 1998) ..................................................................................10
+In re: Quest Capital Strategies, Inc.,
+1999 SEC LEXIS 727 (Apr. 12, 1999)....................................................................................12
+S. Rep. No. 76-1775, 76th Cong., 3d Sess. 22 (1940)...................................................................11
+SEC Rel. Nos. 34-42099, IA-1845,
+1999 SEC LEXIS 2356 (Nov. 4, 1999) .....................................................................................6
+SEC Rel. No. IA-1092,
+1987 SEC LEXIS 3487 (October 8, 1987) ..............................................................................10
+iv
+
+Case 1:10-cv-10515-DPW Document 32
+
+Filed 08/20/10 Page 6 of 28
+
+SEC Rel. No. IA-2340,
+2005 SEC LEXIS 25 (Jan. 6, 2005).........................................................................................11
+SEC Rel. No. IA-2652,
+2007 SEC LEXIS 2229 (Sept. 24, 2007).................................................................................11
+SEC Rel. No. IC-1643
+53 Fed. Reg. 23258 (June 21, 1988)........................................................................................12
+SEC Rel. No. IC-26372,
+2004 SEC LEXIS 474 (Feb. 27, 2004) ....................................................................................13
+
+v
+
+Case 1:10-cv-10515-DPW Document 32
+
+Filed 08/20/10 Page 7 of 28
+
+Plaintiff Jeffrey Wiener, suing derivatively on behalf of Eaton Vance Municipals Trust
+(“Trust”), respectfully submits this opposition to the motion to dismiss the Amended Complaint filed
+by defendants Eaton Vance Distributors, Inc. and Thomas E. Faust Jr. (“Motion”). Plaintiff
+incorporates by reference the arguments made in his opposition brief to the motion to dismiss filed by
+the Independent Trustee Defendants and the nominal defendant.
+PRELIMINARY STATEMENT
+This is a derivative action on behalf of the Trust, a Massachusetts business trust registered with
+the SEC as a series-type open-end management investment company (mutual fund) under the
+Investment Company Act of 1940 (“ICA”), 15 U.S.C. § 80a-1 et seq. The action seeks to void certain
+contractual obligations by which Trust assets are being used to pay asset-based compensation to
+broker-dealer firms holding Trust shares in brokerage accounts.
+Defendants apparently acknowledge that if a broker-dealer firm arranges to deduct and receive
+compensation from a customer in the form of an ongoing fee at the rate of 1% per year of the value of
+the assets held in the customer’s brokerage account, that receipt of asset-based compensation would be
+a violation of the Investment Advisers Act of 1940 (“Advisers Act”), 15 U.S.C. § 80b-1 et seq., and the
+compensation payments would be unlawful. Motion at 9 (citing Financial Planning Ass’n v. SEC, 482
+F.3d 481 (D.C. Cir. 2007). However, if the same broker-dealer firm arranges to receive the same
+compensation, but the amounts are Rule 12b-1 fees being deducted by the mutual fund, then that assetbased compensation arrangement is lawful, according to defendants.
+Defendants do not contest that, in both arrangements, the broker-dealer is performing identical
+services (a package of brokerage services and investment advice) for the customer account. Nor do
+defendants contest that the compensation payments are identical (ongoing payments, for the entire
+duration of the customer’s investment, accrued at a set percentage of the value of assets held in the
+account). Although the two arrangements involve different service firms processing the payments,
+
+Case 1:10-cv-10515-DPW Document 32
+
+Filed 08/20/10 Page 8 of 28
+
+defendants do not contest that the result is identical: the investor pays at the rate of 1% per year and the
+broker-dealer receives that money.
+According to defendants, the only types of fees governed by the Advisers Act are fees “for
+investment advice,” Motion at 7, and Rule 12b-1 payments are “expressly for sales transactions and
+shareholder account services.” Motion at 7-8. Defendants assert that Rule 12b-1 payments are
+“functionally ‘transactional commissions’” of the type allowed in connection with brokerage accounts.
+Motion at 8-9. In sum, defendants state: “Nothing in the federal securities laws states that an investor
+cannot elect to spread a commission payment over a number of years … rather than paying the whole,
+potentially higher commission, up front.” Motion at 9.
+Defendants’ argument misstates key facts and fundamentally misconstrues the Advisers Act.
+As alleged in the Amended Complaint, the fees at issue here are of unlimited duration, with no
+connection to a transactional sales load, and are passed directly to the broker-dealers. See Amended
+Complaint (AC) ¶ 45. Defendants are also factually wrong in asserting that Rule 12b-1 payments to
+brokers-dealers are not “for investment advice.” Motion at 7. As explained in the Amended
+Complaint, any economic benefit is considered to be compensation for investment advice under the
+Advisers Act if it is received in connection with an account to which investment advice is provided,
+but even if the label, or purpose, or subjective intent of the payment were relevant, the fact is: “The
+primary use of 12b-1 fees is to compensate financial intermediaries for advice and other services
+to their clients.” AC ¶ 53 (quoting a letter from the mutual fund industry’s leading trade group, the
+Investment Company Institute, to the SEC, dated July 19, 2007, at 4).
+Similarly, the trade group for independent directors/trustees of mutual funds, the Independent
+Directors Council (IDC), has given the SEC the results of a study that: “Today, the overwhelmingly
+predominant use (98%) of 12b-1 fees is for professional advice (initial and ongoing) and
+shareholder servicing. Only a small fraction (2%) of 12b-1 fees are used by funds for promotion,
+
+2
+
+Case 1:10-cv-10515-DPW Document 32
+
+Filed 08/20/10 Page 9 of 28
+
+advertising and other miscellaneous expenses.” 1 The IDC proposed in a comment letter to the SEC
+that Rule 12b-1 fees be given a proper label with “descriptive terminology” -- i.e., calling it, in their
+words, a “third-party advice” fee. Id. at 6; see also AC ¶ 54 (ICI Report of the Working Group on
+Rule 12b-1, dated May 2007, recommended to the SEC that “12b-1 fees should be listed in the
+prospectus fee table using tailored, straightforward, descriptive terms such as `third-party
+investment advice’[.]”).2
+Defendants bolster their factual assertion with the decision in Smith v. Franklin/Templeton
+Distributors, No. 09-4775, 2010 U.S. Dist. LEXIS 56516 at *21 (N.D. Cal. June 8, 2010), which itself
+rested on the court’s assertion that Rule 12b-1 fees are not used “for services to customers.” Motion at
+9. The Franklin/Templeton court adopted that factual assertion on a motion to dismiss, without any
+factual record, and used it to conclude erroneously that the Advisers Act does not apply to asset-based
+compensation payments. The Franklin/Templeton court invited amendment of the complaint and will
+be able to revisit the matter – which hopefully will include consideration, if that court is still resolving
+disputed facts at the pleadings stage, of the contrary evidence: Franklin Templeton’s own web site
+prominently states that mutual funds with Rule 12b-1 fees are designed for investors that “prefer to
+‘pay as they go’ for professional investment advice.”3).
+In any event, the applicability of the Advisers Act is not based on ascertaining the subjective
+intent of parties to compensate for investment advice. Virtually all professionals who give investment
+advice do so as part of a package of services (portfolio manager, brokerage, custodial and/or
+1
+
+See IDC letter to SEC dated July 19, 2007, at 2 n. 3 (citing an ICI study). See
+www.sec.gov/comments/4-538/4538-277.pdf.
+2
+Defense counsel for the Trustees here, Goodwin Procter LLP, has also said that 12b-1 fees
+compensate for investment advice. In a newspaper interview just a few days after the firm submitted
+its brief in this case arguing the opposite, a Goodwin Procter partner was quoted as saying that brokerdealers “give advice on asset-allocation and performance,” and if Rule 12b-1 were to be rescinded by
+the SEC, “[l]imiting the amounts of money available to compensate those advisers could have the
+unintended consequence of limiting the advice available to investors.” See Declaration of Janine
+Pollack (Pollack Decl.), Ex. 1, submitted herewith.
+3
+See www.franklintempleton.com/retail/pages/generic_content/education/fund_basic/about/
+share_cl_options.jsf.
+3
+
+Case 1:10-cv-10515-DPW Document 32
+
+Filed 08/20/10 Page 10 of 28
+
+recordkeeping services, etc.) and their compensation arrangements (commissions, management fees,
+etc.) rarely label their fees as specifically for investment advice. Under a proper, step-by-step statutory
+analysis, the Advisers Act applies based on objective factors, i.e., in this case, the receipt of ongoing
+asset-based compensation in connection with a customer account to which investment advice is
+included in the package of services provided to that account.
+Defendants’ remaining arguments are also without merit. Nothing in SEC Rule 12b-1 either
+can or does override the concurrently applicable requirements of the Securities Exchange Act
+(Exchange Act) and the Advisers Act. The core purpose of the Investment Company Act (ICA) is to
+prevent Trust assets from being used improperly, and the ICA’s contract-voiding provision, § 47(b),
+ensures as a matter of federal law that a regulated party’s duties under the ICA will prevail over any
+contrary contractual obligations. Definitive U.S. Supreme Court authority squarely rejects defendants’
+specious argument that the violations underlying the contract-voiding request must themselves be
+subject to private rights of action. In sum, the Amended Complaint adequately alleges claims for
+contract-voiding under § 47(b), contract-voiding under state law, and breach of contract, and the
+motion to dismiss should be denied.
+FACTS ALLEGED IN THIS CASE
+For 70 years, the Advisers Act has been consistently interpreted and applied to ensure that
+customers who pay for an ongoing relationship receive the Advisers Act benefits of non-conflicted
+advice, full disclosure by the adviser of any third-party compensation arrangements, and protections by
+virtue of fiduciary-level duties imposed on the adviser -- far different from the mere transactional
+“salesman” duties of commission-based brokers. AC ¶ 25. The Advisers Act supplements Exchange
+Act regulation of certain customer accounts at broker-dealers, including accounts in which there is
+receipt of any form of compensation other than transactional commissions. AC ¶¶ 20-34.
+
+4
+
+Case 1:10-cv-10515-DPW Document 32
+A.
+
+Filed 08/20/10 Page 11 of 28
+
+Historical Context
+
+Beginning in the 1990s, mutual fund companies, including Eaton Vance, created share classes
+that reduced or eliminated transactional sales loads in favor of ongoing payments of asset-based
+compensation directly to broker-dealers. AC ¶ 38. Prior to the 1990s, many mutual fund companies
+were using a different arrangement, whereby Rule 12b-1 fees of limited duration were used by the
+mutual fund company to recoup the advance of a sales commission to the broker-dealer at the time of
+the sale. Eaton Vance began that practice in 1985.4 However, beginning in 1993, Eaton Vance began
+a new arrangement of paying asset-based compensation directly to the broker-dealers. In the Eaton
+Vance Form 10-K filed at the time, that new share class was referred to as “level-load shares” and the
+10-K stated that “[t]he introduction of level-load shares is consistent with the efforts of many
+broker/dealers to rely less on transaction fees and more on continuing fees for servicing assets.”5
+In the 1990s, broker-dealers wanted to encourage asset-based compensation arrangements in
+which their compensation would grow over time with the bull market, yet also wanted to avoid
+complying with the Advisers Act. AC ¶ 36. Encouraged by the SEC (which thought this was good
+policy to discourage churning), asset-based compensation arrangements became commonplace,
+notwithstanding that the Advisers Act does not allow broker-dealers to receive asset-based
+compensation without registering under the Advisers Act and holding the customer’s assets in an
+account subject to the Advisers Act. AC ¶¶ 20-34.
+B.
+
+The Rise and Fall of SEC Rule 202(a)(11)-1, Allowing Broker-Dealers to Receive
+Asset-Based Compensation
+
+Expressly acknowledging the statutory ban on asset-based compensation, the SEC issued a
+proposed regulation and a no-action position that had the effect of suspending the statutory ban and
+allowing broker-dealers to receive any form of compensation in connection with customer accounts
+
+4
+
+See Pollack Decl., Ex. 2 (excerpt from Form 10-K filed by Eaton Vance Corp., parent to defendant
+Eaton Vance Distributors, for fiscal year ending 10/31/1994 filed 1/18/1995).
+5
+Id.
+5
+
+Case 1:10-cv-10515-DPW Document 32
+
+Filed 08/20/10 Page 12 of 28
+
+without triggering the requirements of the Advisers Act. AC ¶ 36.6 This action occurred in 1999, but
+the industry interpreted the no-action position to be retroactive, as the SEC also acknowledged that
+asset-based compensation arrangements had already flourished. Id. The SEC’s new regulation relied
+on the SEC’s statutory authority in the Advisers Act to designate by order or regulation other persons
+not within the “intent” of the Advisers Act’s coverage to be excluded from the Advisers Act. AC ¶ 35.
+The mutual fund industry cheered this development. For instance, a client bulletin issued at the
+time by WilmerHale (then known as Wilmer, Cutler & Pickering) explained that the new regulation
+provided “a clean solution” to finding a firm legal basis for the asset-based broker-dealer compensation
+arrangements introduced by the mutual fund industry under Rule 12b-1 in the 1990s. AC ¶ 39.7
+A final rule was promulgated in 2005, see SEC Rule 202(a)(11)-1, 17 C.F.R. § 275.202(a)(11)1, and was immediately challenged in the Court of Appeals for the D.C. Circuit by a trade group of
+registered investment advisers. AC ¶¶ 37, 40-41. On March 30, 2007, the D.C. Circuit vacated the
+SEC regulation in its entirety, ruling that the SEC lacked the authority to contradict the Advisers Act
+which, according to the court’s analysis, prohibits broker-dealers from receiving any form of
+compensation other than transactional commissions. See Financial Planning Ass’n, 482 F.3d at 488
+(“By seeking to exempt broker-dealers beyond those who receive only brokerage commissions for
+investment advice, the SEC has promulgated a final rule that is in direct conflict with both the
+statutory text and the Committee Reports.”). AC ¶ 41. At the SEC’s request, the court stayed its
+mandate for six months, until October 1, 2007. AC ¶ 42. The decision in Financial Planning Ass’n
+essentially reinstated the statutory ban on asset-based compensation. AC ¶ 43.
+
+6
+
+The no-action position states that “the Division of Investment Management will not recommend,
+based on the form of compensation received, that the Commission take any action against a brokerdealer for failure to treat any account over which the broker-dealer does not exercise investment
+discretion as subject to the [Advisers] Act.” See Certain Broker-Dealers Deemed Not To Be
+Investment Advisers, Release Nos. 34-42099, IA-1845, 1999 SEC LEXIS 2356 at 5 (Nov. 4, 1999)
+(1999 Rule Proposal).
+7
+See Pollack Decl., Ex. 3.
+6
+
+Case 1:10-cv-10515-DPW Document 32
+
+Filed 08/20/10 Page 13 of 28
+
+Defendants may not have previously considered Advisers Act compliance issues with their
+broker-dealer compensation arrangements, because they could reasonably rely on the SEC’s purported
+authority to encourage these arrangements. However, after Financial Planning Ass’n, that reliance is
+no longer reasonable. AC ¶ 43. The compliance procedures for the Trust and Eaton Vance
+Distributors are deficient because, while they are checking to make sure that the broker-dealers are
+properly registered under the Exchange Act, they are not also checking that there has been a
+registration under the Advisers Act and that Trust shares are held in a customer account subject to both
+the Exchange Act and the Advisers Act (i.e. an “advisory account,” rather than a “brokerage account”),
+prior to making payments of asset-based compensation. AC ¶¶ 56-64.
+C.
+
+The Payments at Issue
+
+Plaintiff Jeffrey Wiener owns Class C shares of the Eaton Vance National Municipal Income
+Fund, a series of the Trust, and is therefore a shareholder in the Trust, and has been continuously since
+May 17, 2007. AC ¶ 9. Plaintiff’s shares are held in a brokerage account at Robert W. Baird & Co.
+Incorporated, which provides traditional brokerage services, of which investment advice is an auxiliary
+component. AC ¶¶ 9, 21.
+The Trust has elected to act as the distributor of its own shares, see SEC Rule 12b-1, 17 C.F.R.
+§ 270.12b-1(a)(2), and is financing distribution-related activities out of Trust assets, as allowed by
+SEC Rule 12b-1, see AC ¶ 44, including the broker-dealer payments at issue here, which are accrued
+daily and paid monthly, calculated based on daily net asset values of the respective Trust shares held in
+each customer account, and continue for as long as the customer owns Trust shares. AC ¶ 45.8
+
+8
+
+Eaton Vance Distributors also makes payments labeled as “marketing support” and/or “administrative
+services” to broker-dealers based on daily net asset values of shares held in customer accounts, and
+therefore the “total payments to a broker-dealer servicing a Trust shareholder will be in excess of the
+rate of 1% per year[.]” AC ¶ 44.
+7
+
+Case 1:10-cv-10515-DPW Document 32
+D.
+
+Filed 08/20/10 Page 14 of 28
+
+Recent Development: The SEC Proposes to Rescind Rule 12b-1
+
+On July 21, 2010, the SEC released for public comment a proposal to rescind Rule 12b-1 in its
+entirety.9 Under the proposal, Rule 12b-1 will be replaced by new rules that allow the use of fund
+assets to pay “transaction-based compensation” 10 to broker-dealers. The amount of any “deferred
+sales load” charged to fund investors can be no higher than the amount of the “reference load,” as
+defined in the new rules. The “reference load” is “a specified percentage of the net asset value of the
+offering price at the time of purchase[,]”11 including any breakpoint discounts that the investor is
+entitled to receive.12
+The Release refers to the pendency of this litigation, and also discloses that, beginning in 2007,
+numerous prominent experts have urged the SEC to address the Advisers Act violation that occurs
+when Rule 12b-1 fees are paid to broker-dealers, in light of Financial Planning Ass’n.13 In the
+Release, the SEC requests public comment on these issues and on whether its proposed new rules will
+“appropriately address” the Advisers Act issue “by requiring a nexus between the sale of a share of a
+mutual fund and the amount of ongoing sales charges an intermediary’s customer pays through the
+fund.”14
+LEGAL STANDARD
+“While legal conclusions can provide the framework of a complaint, they must be supported by
+factual allegations. When there are well-pleaded factual allegations, a court should assume their
+veracity and then determine whether they plausibly give rise to an entitlement to relief.” Ashcroft v.
+9
+
+See SEC Release Nos 33-9128, 34-62544, IC-29367 (July 21, 2010) (the “Release”), available at
+http://www.sec.gov/rules/proposed/2010/33-9128.pdf .
+10
+Id. at 47 n.168.
+11
+Id. at 258; Proposed Rule 17 C.F.R. § 270.6c-10(a)(i).
+12
+For instance, under the proposal, if an investor would have had to pay a 2% upfront sales load based
+on the sales load breakpoint discount schedule in effect for the fund family, then, as an alternative, the
+investor could be charged a deferred sales charge that cannot exceed 2% for one year, or 1% for two
+years, or 0.50% for four years, for example.
+13
+Id. at 125 n.372.
+14
+Id. at 125.
+8
+
+Case 1:10-cv-10515-DPW Document 32
+
+Filed 08/20/10 Page 15 of 28
+
+Iqbal, 129 S. Ct. 1937, 1950 (2009). A court “accept[s] as true all well-pleaded facts in the complaint
+and draw[s] all reasonable inferences in favor of the plaintiffs.” Gargano v. Liberty Int’l
+Underwriters, Inc., 572 F.3d 45, 48 (1st Cir. 2009).
+ARGUMENT
+The legal issues raised by defendants’ motion are: (i) whether the asset-based compensation
+payments to broker-dealers violate the Advisers Act; (ii) if so, whether the Trust’s use of Trust assets
+for such unlawful payments is proper; (iii) whether the ICA prohibits improper use of Trust assets; and
+(iv) whether § 47(b) of the ICA enables the Trust in this lawsuit to void its contractual undertakings to
+make payments that conflict with its duty to comply with the ICA.
+I.
+
+THE PAYMENTS AT ISSUE ARE UNLAWFUL
+Defendants’ insistence that the Advisers Act is “irrelevant” to Rule 12b-1 payments, see
+
+Motion at 9, is not a valid substitute for a step-by-step statutory analysis, which begins with the broad
+initial definition of “investment adviser.”
+A.
+
+All Broker-Dealers Fall Within the Broad
+Definition of Investment Adviser
+
+The definition of “investment adviser” is “any person who, for compensation, engages in the
+business of advising others. . . as to the value of securities or as to the advisability of investing in,
+purchasing, or selling securities[.]” 15 U.S.C. § 80b-2(11). Plaintiff alleges that all broker-dealers
+are “investment advisers” because they are in the business of providing investment advice as an
+auxiliary component of traditional brokerage services. AC ¶ 21 (all broker-dealer firms make
+securities recommendations, conduct suitability reviews, and otherwise provide investment advice to
+their customers).
+Plaintiff also alleges that all of the broker-dealers selling or servicing Trust shares received
+“compensation” in connection with accounts holding Trust shares. See AC ¶ 44-45. The
+compensation element is satisfied by any economic benefit received in connection with a customer
+account to which investment advice is included in the package of services provided, including any
+9
+
+Case 1:10-cv-10515-DPW Document 32
+
+Filed 08/20/10 Page 16 of 28
+
+third-party payments. See SEC Release No. IA-1092, 1987 SEC LEXIS 3487, at *14-15 (October 8,
+1987).15 Accordingly, the label on the fee, the purpose of the fee, the intent of the fee, the form of the
+fee, and the source of the fee are all legally irrelevant. If investment advice is part of the package of
+services provided to an account, then any compensation received in connection with that account is
+considered to be compensation for investment advice.16 The only issue remaining is whether a
+statutory exclusion applies.
+B.
+
+The Broker-Dealer Exclusion Is Inapplicable
+If Asset-Based Compensation Is Received
+
+Although it is not plaintiff’s burden to plead and prove the non-applicability of every possible
+statutory exclusion,17 plaintiff alleges that the statutory Broker-Dealer Exclusion to the definition of
+“investment adviser” is inapplicable to broker-dealers receiving the asset-based compensation
+payments at issue. See AC ¶¶ 20-34. The Broker-Dealer Exclusion excludes certain broker-dealers
+from being deemed to be investment advisers, i.e., “any broker or dealer whose performance of
+such services [advice] is solely incidental to the conduct of his business as a broker or dealer and
+who receives no special compensation therefor.” 15 U.S.C. § 80b-2(11)(C).18
+
+15
+
+See also College Resource Network, 1993 SEC No-Act. LEXIS 630 at *4 (Apr. 9, 1993) (third-party
+payments are “compensation”); In re O’Brien Partners, Inc., Sec. Act Release No. 7594, IA-1772,
+1998 SEC LEXIS 2318 at *21, *25 (Oct. 27, 1998) (there is no requirement that compensation be paid
+directly by the person receiving the investment advice).
+16
+Similarly, a registered investment adviser that executes securities transactions must become a dual
+registrant (i.e., register as a broker-dealer), irrespective of whether the investment adviser is receiving
+no compensation specifically for the transactions. See PRA Sec. Advisors, L.P., 1993 SEC No-Act.
+LEXIS 387 (Mar. 3, 1993) (investment adviser receiving only asset-based compensation must
+nevertheless register as a broker-dealer if executing securities transactions).
+17
+The general rule is that the party claiming the benefits of a statutory exclusion has the burden of
+proving its applicability. See United States v. First City Nat’l Bank, 386 U.S. 361, 366 (1967).
+Accordingly, in this case, it is defendants’ burden to prove that the Broker-Dealer Exclusion applies, if
+defendants rely on it.
+18
+A 1946 SEC opinion letter states that “the broker-dealer exception ‘amounts to a recognition that
+brokers and dealers commonly give a certain amount of advice to their customers in the course of their
+regular business and that it would be inappropriate to bring them within the scope of the [Advisers
+Act] merely because of this aspect of their business.’”See 2005 Final Rule Release, 70 Fed. Reg. at
+20424, 20425 (April 19, 2005), quoting Opinion of the General Counsel Relating To Section
+202(a)(11)(C) of the Investment Advisers Act of 1940, Investment Advisers Act Release No. 2 (Oct. 28,
+1940), 11 Fed. Reg. 10996 (Sept. 27, 1946).
+10
+
+Case 1:10-cv-10515-DPW Document 32
+
+Filed 08/20/10 Page 17 of 28
+
+Failure to satisfy either the “solely incidental” or “no special compensation” prongs renders the
+Broker-Dealer Exclusion inapplicable. These terms are not defined in the statute, but for 70 years, the
+SEC and the courts have given those terms consistent meanings, based on what Congress intended by
+that language in 1940.
+The term “solely incidental” means “the advisory services rendered to an account are in
+connection with and reasonably related to the brokerage services provided to that account. This
+understanding is consistent with the legislative history of the Advisers Act, which indicates Congress’
+intent to exclude broker-dealers providing advice as part of traditional brokerage services.” See SEC
+Release No. IA-2340, 2005 SEC LEXIS 25 at *70 (Jan. 6, 2005).
+The term “no special compensation” means the broker-dealer may not receive any form of
+compensation other than transactional commissions. See S. Rep. No. 76-1775, 76th Cong., 3d Sess. 22
+(1940) (§ 202(a)(11)(C) of the Advisers Act applies to broker-dealers “insofar as their advice is merely
+incidental to brokerage transactions for which they receive only brokerage commissions”)
+(emphasis added).19
+A broker-dealer firm may, if it wishes, comply with the Advisers Act by registering as an
+investment adviser (the firm is then commonly referred to as a “dual registrant”). After enactment of
+the Advisers Act in 1940, many broker-dealers became dual registrants, and a large percentage are dual
+registrants today. The Advisers Act’s applicability has always been determined on an account-byaccount basis. See SEC Release No. IA-2652, 2007 SEC LEXIS 2229 at *7 (Sept. 24, 2007) (proposal
+to codify a long-standing SEC interpretation that a broker-dealer “is an investment adviser solely
+with respect to those accounts for which it provides services or receives compensation that
+subject the broker-dealer to the Advisers Act.”). Accordingly, either providing certain services
+
+19
+
+The “no special compensation” prong of the Broker-Dealer Exclusion has been referred to as a
+“bright-line” test. See 2005 Final Rule Release, 70 Fed. Reg. at 20431 n.76. Special compensation
+means the receipt of any non-transactional compensation. Id. at n.75 (“At the time the Advisers Act
+was enacted, Congress understood ‘special compensation’ to mean compensation other than
+commissions.”) (emphasis in original).
+11
+
+Case 1:10-cv-10515-DPW Document 32
+
+Filed 08/20/10 Page 18 of 28
+
+(such as a discretionary account), or receiving any compensation other than transactional commissions,
+will disqualify an account for the Broker-Dealer Exclusion.20
+The payments at issue here are not transactional “commissions,” as Congress understood that
+word in 1940,21 because they are not one-time payments calculated as a percentage of a transaction
+price. See 15 U.S.C. § 80a-2(a)(35) (definition of sales load in the ICA). Defendants rely on the
+terminology of NASD Rule 2830, which refers to Rule 12b-1 fees as an “asset based sales charge,” to
+suggest that the SEC and NASD (now FINRA) treat the charges as the means to finance a sales load
+“over a period of several years.” Motion at 9, quoting Yameen v. Eaton Vance Distributors, Inc., 394
+F. Supp. 2d 350, 354 (D. Mass. 2005). Defendants’ reliance on this Court’s opinion in the Yameen
+excessive fees case is misleading because the purported facts in that case – i.e. that Eaton Vance
+Distributors advanced a one-time sales commission to the broker-dealer at the time of the sale, and
+then recouped that advance through Rule 12b-1 fees that terminated for each shareholder when the
+commission was recovered, see id. at 352-53 – are not the facts here.
+Moreover, the “asset-based sales charge” terminology in NASD Rule 2830 originated when
+Rule 12b-1 was used to recoup transactional commissions advanced to broker-dealers, and pre-dates
+the innovation of asset-based compensation arrangements (at issue in this case) that have unlimited
+durations, with no nexus to a transactional charge, and that are paid directly to broker-dealers.22 In
+20
+
+The SEC has consistently found any non-transactional compensation to be “special compensation.”
+See Hugh Johnson & Co., 1976 SEC No-Act. LEXIS 420 (Feb. 22, 1976) (account fee of 0.25% per
+year); In re: Quest Capital Strategies, Inc., 1999 SEC LEXIS 727 at *42 (Apr. 12, 1999) (retention of
+interest rate spread); Calton & Assocs, Inc., 1988 SEC No-Act. LEXIS 1348 (Oct. 11, 1988) (2.5% per
+year of net asset value for market timing service); CFS Securities Corp., 1987 SEC No-Act. LEXIS
+1663 (Feb. 27, 1987) (fee of $39 for customer to attend a seminar is “special compensation” that
+disqualifies broker-dealer from invoking the broker-dealer exclusion to the Advisers Act).
+
+21
+
+The third edition of Black’s Law Dictionary published in 1933 defines “commission” as
+“recompense or reward of an agent, factor, broker, or bailee, when the same is calculated as a
+percentage on the amount of his transactions or on the profit to the principal.” Pollack Decl., Ex. 4.
+22
+The SEC explained, in its original 1988 release of a proposed rule to limit 12b-1 fees (the pre-cursor
+to what became NASD Rule 2830), that the “asset-based sales load” terminology was not intended to
+imply that 12b-1 fees were a sales load. See SEC Release No. IC-16431, 53 Fed. Reg. 23258 (June 21,
+1988) (use of term “asset-based sales load” does not bring 12b-1 payments within the term “sales load”
+as defined in the ICA, but rather is solely “directed at the investor confusion that has arisen regarding
+payments for distribution under the rule”).
+12
+
+Case 1:10-cv-10515-DPW Document 32
+
+Filed 08/20/10 Page 19 of 28
+
+addition, defendants’ argument ignores the fact that the payments at issue here are disconnected from a
+sale -- the shareholders can direct the ongoing payments to any broker-dealer, irrespective of which
+broker-dealer made the sale. See Pollack Decl., Ex. 5 (change of dealer form).
+Nothing in NASD Rule 2830 imposes any shareholder-level limit on the duration of 12b-1 fees.
+There is a fund-level cap (which as a practical matter is never reached if the fund is open for business),
+but there is no limit to the duration or cumulative amount shareholders will pay (as defense counsel
+admit in an article posted to their web site shortly after submitting their brief to this Court). See
+Pollack Decl., Ex. 6 (article from K&L Gates web site dated July 30, 2010).
+As the SEC has stated: “Mutual fund fees are of two types, transactional (e.g., sales loads,
+redemption fees) and ongoing (e.g., asset-based charges such as management fees and 12b-1
+fees).” SEC Release No IC-26372, 2004 SEC LEXIS 474 at *10 (Feb. 27, 2004). The Rule 12b-1
+payments at issue here are plainly of the “ongoing” type, and are not “transactional.”
+The authorities defendants rely on support plaintiff because each involves a holding that the
+broker-dealer received only commissions (transactional payments calculated on the price of a purchase
+or sale of securities). See Thomas v. Metropolitan Life Ins. Co., No. 07-121, 2009 U.S. Dist. LEXIS
+78014 (W.D. Okla. Aug. 31, 2009) at *16, *27 (commission calculated on purchase price of variable
+life insurance, holding that there was no “charge to the customer beyond a traditional commission”);
+Kassover v. UBS AG, 619 F. Supp. 2d 28, 34 (S.D.N.Y. 2008) (plaintiffs were retail customers who
+paid transactional commissions to purchase auction rate securities, income received by a separate
+underwriting department at UBS was not in connection with retail customer account); Luzerne County
+Retirement Board v. Makowski, 627 F. Supp. 2d 506, 573 n.71 (M.D. Pa. 2007) (“Plaintiff itself
+characterizes all of the compensation received by [broker-dealer] as commissions on investments” and
+court proceeded on that basis); Kaufman v. Merrill Lynch, Pierce, Fenner & Smith, Inc., 464 F. Supp.
+528, 538 (D. Md. 1978) (broker-dealer received only transactional commissions and therefore satisfied
+the “no special compensation” prong).
+13
+
+Case 1:10-cv-10515-DPW Document 32
+
+Filed 08/20/10 Page 20 of 28
+
+Defendants’ argument that their asset-based payments should be deemed to be (“functionally”)
+transactional commissions tacitly concedes that the law is clear that broker-dealers may not receive
+asset-based compensation. See Financial Planning Ass’n, 482 F.3d. at 488 (“By seeking to exempt
+broker-dealers beyond those who receive only brokerage commissions for investment advice, the
+SEC has promulgated a final rule that is in direct conflict with both the statutory text and the
+Committee Reports.”) (emphasis added). In Financial Planning Ass’n, the court majority, the
+dissenting judge, and the SEC were all in agreement that asset-based compensation is “special
+compensation” and is the subject of the statutory bar. Id. at 488, 494 (“a broker-dealer who receives
+any kind of compensation other than commissions does not come within the [Broker-Dealer
+Exclusion], even if he, too, provides advice solely as an incident to his business as a broker-dealer.”).23
+Moreover, Congress subsequently declined to amend the Broker-Dealer Exclusion to remove the ban
+on “special compensation,” despite an aggressive lobbying campaign.24
+Accordingly, there is no colorable basis, in the wake of those developments, for defendants to
+argue here that broker-dealers may receive non-transactional compensation in connection with
+brokerage accounts.
+II.
+
+UNLAWFUL PAYMENTS ARE AN IMPROPER USE OF TRUST ASSETS
+The Amended Complaint alleges that the core purpose of the ICA is to prevent the improper
+
+use of Trust assets. See AC ¶¶ 59-65. Defendants do not dispute that the Trust, the Trustees, and
+Eaton Vance Distributors are directly regulated parties under the ICA, subject to § 36(a), which sets
+forth a statutory fiduciary duty to act in the best interests of the Trust and its shareholders.25
+
+23
+
+See also Arthur B. Laby, Reforming the Regulation of Broker-Dealers and Investment Advisers,” 65
+Bus. Law. 395, 417 (Feb. 2010) (“As a technical matter, the receipt of asset-based compensation has
+made the broker-dealer exclusion inapplicable to brokers receiving such compensation. After the
+Financial Planning Ass’n decision, asset-based fees must be considered ‘special compensation,’ which
+vitiates application of the exclusion.”).
+24
+Burke, “The Hot Seat,” Registered Representative at 44 (Sept. 2007) (Pollack Decl., Ex. 7).
+25
+Although the provision speaks only of the SEC’s authority to file civil actions for breach of fiduciary
+duty, it implicitly codifies the duty, because the SEC could not enforce a duty that does not exist. See
+14
+
+Case 1:10-cv-10515-DPW Document 32
+
+Filed 08/20/10 Page 21 of 28
+
+Defendants argue is that there are no private rights of action for damages under the ICA, but that fact is
+irrelevant, because the regulated parties have a statutory obligation to comply with the ICA,
+irrespective of its remedy for enforcement or breach.
+Defendants also argue that § 36(a) is not a substantive provision that can be violated, but
+defendants’ authority only holds that the SEC must, as stated in the statute, enforce the provision in
+federal district court rather than in an administrative proceeding. Failure to comply with § 36(a) is a
+violation of the statute. See, e.g., SEC v. Treadway, 430 F. Supp. 2d 293, 340-46 (S.D.N.Y. 2006)
+(analysis denying defendants’ motions for summary judgment in connection with claims for violations
+of § 36(a)); In re Steadman Security Corp., 1983 SEC No-Act. LEXIS 2238 (Apr. 18, 1983) (improper
+use of mutual fund assets will result in violation by trustees of § 36(a)).
+The oversight role of the Trustees includes compliance with SEC Rule 38a-1, promulgated
+under the ICA,26 which reinforces the § 36(a) fiduciary duty by requiring the Trustees to adopt written
+compliance programs for the Trust, and to review and approve the compliance programs of the service
+providers, including Eaton Vance Distributors. The compliance programs must be designed to
+prevent, detect and correct violations of the federal securities laws by service providers. 17 C.F.R.
+§ 270.38a-1. “Federal securities laws” is specifically defined to include the Advisers Act. All of
+defendants’ arguments about Rule 38a-1 ignore or misstate this basic structure, and ignore that the
+purpose of these requirements is to stop Trust assets from being used in violation of the federal
+securities laws.27
+
+Fogel v. Chestnutt, 533 F.2d 731, 745 (2d Cir. 1975) (“the Act implicitly established a federal standard
+of fiduciary duty”).
+26
+See Final Rule, Promulgating Release No. IC-26299, 2003 SEC LEXIS 2980, at *6 (Dec. 17, 2003)
+(“Rule 38a-1 Promulgating Release”) (stating that SEC Rule 38a-1 was adopted following a series of
+scandals that rocked the mutual fund industry in 2003 in which service providers to some mutual funds
+were discovered to be entering into improper and illegal arrangements involving fund assets in breach
+of their obligations under § 36(a)).
+27
+The promulgating release for Rule 38a-1 clarifies that “[s]erious compliance issues must, of course,
+always be brought [by the Chief Compliance Officer] to the board’s attention promptly, and cannot be
+delayed until an annual report.” 2003 SEC LEXIS 2980 at *51 n.84.
+15
+
+Case 1:10-cv-10515-DPW Document 32
+
+Filed 08/20/10 Page 22 of 28
+
+In addition, the customers -- who are being deprived of accounts subject to the investor
+protections of the Advisers Act to which they are entitled by law -- are the same persons who are the
+shareholders of the Trust to whom the Trustees and Eaton Vance Distributors owe a fiduciary duty of
+care. Accordingly, the Trustees and Eaton Vance Distributors have a duty under the ICA not to use
+Trust assets to make payments in violation of the Advisers Act, and defendants have offered no basis
+to conclude otherwise.
+III.
+
+DEFENDANTS’ DUTIES UNDER THE ICA TRUMP THEIR
+CONTRACTUAL ARRANGEMENTS TO MAKE UNLAWFUL PAYMENTS
+A.
+
+Section 47(b) Permits Actions for Rescission and Restitution
+
+Section 47(b) of the ICA (“Validity of Contracts”), 15 U.S.C. § 80a-46(b), plainly states that
+“either party” may void a contract “whose performance involves” a violation of “any provision” of the
+ICA or any rule, regulation or order thereunder. The statute refers to “a court” as the tribunal that
+voids an offending contract. Accordingly, contractual obligations that conflict with a regulated party’s
+duties under the ICA are voidable by a court. Section 47(b) has nearly identical counterparts in the
+other securities laws.28
+Defendants seek to change the plain language of these contract voiding statutes. They contend
+that voiding a contract “whose performance involves” a violation of the ICA, or a rule, etc.,
+thereunder, requires that the underlying violation itself be prosecuted in a private right of action. See
+Motion at 10-11. Defendants fail to mention that their argument was considered and rejected in a
+controlling Supreme Court decision that is directly on point. Transamerica Mortgage Advisors, Inc. v.
+Lewis, 444 U.S. 11, 18 (1979). The Supreme Court held that the contract voiding provision of the
+Advisers Act allows for an independent right of action for rescission and restitution, irrespective of the
+fact that there are no private rights of action for damages under any provision of the Advisers Act or
+any rule, regulation or order thereunder.
+28
+
+See § 29(b) of the Exchange Act, 15 U.S.C. § 78cc(b), and § 215(b) of the Advisers Act, 15 U.S.C.
+§ 80b-15.
+16
+
+Case 1:10-cv-10515-DPW Document 32
+
+Filed 08/20/10 Page 23 of 28
+
+For the present analysis, there is no basis for distinguishing between contract voiding under the
+Advisers Act (Transamerica) and the ICA (this case). The contract voiding provisions of the federal
+securities laws have always been construed in pari materia, and Transamerica has been consistently
+followed. There are seven decades of authorities directly contrary to defendants’ argument,29 and an
+SEC amicus brief on § 47(b), all on point.30
+Defendants’ arguments would render the enactment of § 47(b) a statutory nullity, because the
+ICA did not contain any private rights of action for damages in 1940. Moreover, defendants’
+arguments ignore that Congress demonstrated, in the counterpart section of the Exchange Act
+(§ 29(b)), that it knew how to exclude certain predicate provisions. See 15 U.S.C. § 78cc(b) (excluding
+predicate provision, and providing for a special statute of limitations period for another predicate
+provision, none of which have any private right of action to enforce them). Moreover, in § 29(b),
+Congress states that “no contract shall be deemed to be void by reason of this subsection in any action
+maintained in reliance upon this subsection [filed after the statute of limitations period],” which, in its
+own plain words, shows that Congress intended to create a private right of action for contract voiding
+under these contract voiding statutes.
+
+29
+
+See, e.g., GFL Advantage Fund, Ltd v. Colkitt, 272 F.3d 189, 206 n.6 (3d Cir. 2001) (contract
+voiding provision does not require maintenance of private suit under the predicate statute violated)
+Berckeley Inv. Group Ltd. v. Colkitt, 455 F.3d 195, 208 (3d Cir. 2006) (same); Rhoades v. Powell, 644
+F. Supp. 645, 661-64 (E.D. Cal. 1986) (extensive analysis of the contract voiding statute in the
+Exchange Act); Roberts v. Smith Barney Harris Upham & Co., 653 F. Supp. 406, 414 (D. Mass. 1986)
+(“section 29(b) creates substantive rights to void a contract that are independent of the rights created by
+section 15(c)(1)”); Couldock & Bohan, Inc. v. Societe Generale Securities Corp., 93 F. Supp. 2d 220,
+231 (D. Conn. 2000) (numerous violations of Exchange Act provisions supporting contract voiding);
+Margaret Hall Foundation, Inc. v. Atl. Fin. Mgmt., Inc., 572 F. Supp. 1475, 1485 (D. Mass. 1983) (fact
+that predicate statute has no private right of action for damages is irrelevant to contract voiding action
+for rescission and restitution); Franklin Nat’l Bank v. L.B. Meadows & Co., 318 F. Supp. 1339, 1341
+(E.D.N.Y. 1970) (listing § 47(b) among “[o]nly few sections of the various Securities Acts [that]
+provide explicitly for private actions”); Freeman v. Marine Midland Bank-New York, No. 71-42, 1979
+U.S. Dist. LEXIS 12177, at *5-6 (E.D.N.Y. May 24, 1979) (whether there is a private right of action
+for damages under the predicate statute is irrelevant).
+30
+See Brief of the SEC, Amicus Curiae, Submitted at the Court’s Request (Dec. 5, 2001) at Section II,
+filed in Olmsted v. Pruco Life Ins. Co., 283 F.3d 429 (2d Cir. 2002), available at
+www.sec.gov/litigation/briefs/olmsted.htm (§ 47(b) of the ICA provides distinct cause of action
+irrespective of whether predicate statute in the ICA alleged to be violated contains any express or
+implied private right of action for damages).
+17
+
+Case 1:10-cv-10515-DPW Document 32
+
+Filed 08/20/10 Page 24 of 28
+
+The purpose of the contract voiding provisions is to ensure that private contractual obligations
+do not trump the statutory and regulatory obligations of regulated parties. The contract voiding
+statutes promote compliance with the law. The provision is limited to rescission and restitution, and
+does not allow for recovery of damages. This is yet another reason why the gloss that defendants seek
+to add to the statute is contrary to the entire statutory scheme.
+Defendants cite Stegall v. Ladner, 394 F. Supp. 2d 358, 378 (D. Mass. 2005), where this Court
+dismissed a § 47(b) claim, but under the circumstance where a plaintiff that was not suing derivatively,
+and thus had no standing under § 47(b), frivolously sought to invoke it as a remedy. The plaintiff’s
+§ 47(b) claim was appropriately dismissed, as was every other identical case filed by that same law
+firm.31 The dicta cited by defendants does not purport to state the law and essentially reflected the
+plaintiff’s voluntary dismissal, with no occasion to review the Supreme Court’s decision in
+Transamerica.
+Next, defendants argue that, contrary to the plain language of § 47(b), contract performance
+that involves a violation of the ICA cannot support a claim for contract voiding, but the law is well
+established otherwise. See Regional Properties, Inc. v. Financial & Real Estate Consulting Co., 678
+F.2d 552, 560 (5th Cir. 1982) (a compensation agreement with a broker-dealer was lawful on its face,
+but the broker-dealer was not registered, and therefore the agreement could not be performed without
+violating the securities laws). As the court in Regional Properties observed in rejecting the
+defendant’s argument: “A statute that voided only contracts by which persons have agreed in express
+terms to violate the Act would be so narrow as to be a waste of the congressional time spent in its
+enactment.” Id.
+Finally, defendants argue that § 38(c) of the ICA, which precludes liability arising out of good
+faith reliance on a regulation subsequently invalidated, is a “complete defense” because they complied
+31
+
+See Everett v. Bozic, No. 05-296, 2006 U.S. Dist. LEXIS 55824, at *3 (S.D.N.Y. Aug. 2, 2006)
+(another of “more than 40 virtually identical actions filed by Plaintiffs’ counsel” and dismissing the
+§ 47(b) count for failure to plead as a derivative action).
+18
+
+Case 1:10-cv-10515-DPW Document 32
+
+Filed 08/20/10 Page 25 of 28
+
+with Rule 12b-1. Motion at 13. However, Rule 12b-1 has not been invalidated, and Rule 12b-1 is not
+going to be invalidated by this lawsuit. Defendants never make any showing that there is any conflict
+between Rule 12b-1 and the Advisers Act, or as to why they cannot easily comply with both.
+Defendants’ compliance procedures recognize that Rule 12b-1 payments must comport with the
+Exchange Act (requiring broker-dealers to register before receiving compensation). The Advisers Act
+is no less important of a law.
+B.
+
+The State Law Contract-Voiding Count Is Not Preempted
+
+Defendants argue that the Second Count for contract voiding under Massachusetts common law
+is subject to both field preemption and conflict preemption, see Motion at 13-16, but they are wrong on
+both. See Green v. Fund Asset Management, L.P., 245 F.3d 214, 222-30 (3d Cir. 2001) (no conflict
+preemption between state law claims and the ICA); In re: Charles Schwab Corp. Securities Litigation,
+257 F.R.D. 534, 552-54 (N.D. Cal. 2009) (state law claims arising from violations of the ICA are not
+preempted); see also Hayes v. Ellrich, No. 06-3815, 2009 Mass. Super. LEXIS 188 at *9-*12 (Sup. Ct.
+Suffolk July 13, 2009) (Advisers Act does not preempt state law claims).
+Defendants’ reliance on Kelly v. Kosuga, 358 U.S. 516 (1959) (antitrust law), is misplaced. See
+Kaiser Steel Corp. v. Mullins, 455 U.S. 72, 81-82 (1982) (distinguishing Kosuga; “the illegality
+defense should be entertained in those circumstances where its rejection would be to enforce conduct
+that the antitrust laws forbid”); see also Paul Arpin Van Lines, Inc. v. Universal Transportation
+Services, Inc., 988 F.2d 288, 290-91 (1st Cir. 1993) (invalidating contract with broker not properly
+licensed by the Interstate Commerce Commission). A recent Massachusetts case contains an extensive
+analysis of a claim for contract voiding under Massachusetts law arising from violations of the
+accredited-investor federal securities regulations (Regulation D) under the Securities Act of 1933, see
+Frishman v. Maginn, 912 N.E.2d 468, 476-80 (Mass. App. 2009), and rejects the same arguments
+defendants make here.
+
+19
+
+Case 1:10-cv-10515-DPW Document 32
+IV.
+
+Filed 08/20/10 Page 26 of 28
+
+THE COURT SHOULD EXERCISE EITHER FEDERAL QUESTION OR
+SUPPLEMENTAL JURISDICTION OVER THE STATE LAW CLAIMS
+Each of the state law claims (Counts II-V) is before this Court on the basis of “arising-under”
+
+federal question jurisdiction. AC ¶ 6; see Rhode Island Fishermen’s Alliance, Inc. v. Rhode Island
+Dept. of Environmental Management, 585 F.3d 42, 48 (1st Cir. 2009) (federal question jurisdiction
+includes state law claims where “plaintiff’s right to relief necessarily depends on resolution of a
+substantial question of federal law”). Alternatively, the Court may exercise supplemental jurisdiction if
+Count I (contract voiding under § 47(b)) is sustained. AC ¶ 6.
+Defendants’ challenge to the adequacy of the state law claims for breach of contract and, as
+against the affiliated trustee, for breach of fiduciary duty and waste, rests on the supposed legality of
+the payments at issue under federal law. Motion at 16-17. As discussed above, plaintiff has
+adequately alleged, on behalf of the Trust, that the payments are unlawful, that the Distribution
+Agreement, which is the contractual source of the obligation to make the payments, is voidable, and
+that Eaton Vance Distributors is participating in the violations of the ICA and Advisers Act in the sale
+and service of Trust shares, in contravention of a contractual warranty to conform to the requirements
+of the law, causing harm to the Trust and its shareholders, who are entitled as a matter of law to
+advisory accounts. Defendants’ arguments to the contrary are without merit.
+CONCLUSION
+For the foregoing reasons, the Court should deny the motion to dismiss in its entirety.
+
+DATED: August 20, 2010
+
+MILBERG LLP
+
+/s/ Janine L. Pollack
+Michael C. Spencer
+mspencer@milberg.com
+Janine L. Pollack
+jpollack@milberg.com
+One Pennsylvania Plaza
+New York NY 10119
+Telephone: (212) 594-5300
+Facsimile: (212) 868-1229
+20
+
+Case 1:10-cv-10515-DPW Document 32
+
+Filed 08/20/10 Page 27 of 28
+
+Glen DeValerio
+gdevalerio@bermandevalerio.com
+BERMAN DEVALERIO
+One Liberty Square
+Boston, MA 02109
+Tel: (617) 542-8300
+Fax: (617) 542-1194
+Lee A. Weiss
+lweiss@bwgfirm.com
+BROWNE WOODS GEORGE LLP
+1 Liberty Plaza, Suite 2329
+New York, NY 10006
+Tel: (212) 354-4901
+Fax: (212) 354-4904
+Ronald A. Uitz
+ron877@yahoo.com
+UITZ & ASSOCIATES
+1629 K Street, N.W. Suite 300
+Washington, D.C. 20006
+Telephone: (202) 296-5280
+Facsimile: (202) 521-0619
+Richard J. Lantinberg, Esq.
+RLantinberg@whmlegal.com
+WILNER HARTLEY & METCALF, P.A.
+444 E. Duval Street
+Jacksonville, FL 32202
+Telephone: (904) 446-9817
+Facsimile: (904) 446-9825
+Attorneys for Plaintiff
+
+21
+
+Case 1:10-cv-10515-DPW Document 32
+
+Filed 08/20/10 Page 28 of 28
+
+CERTIFICATE OF SERVICE
+I hereby certify that on August 20, 2010 I electronically filed the foregoing with the Clerk of
+Court using the CM/ECF system which will send notification of such filing to the following email
+addresses:
+Ryan M. Tosi
+ryan.tosi@klgates.com
+Charles L. Eisen (admitted pro hac vice)
+charles.eisen @klgates.com (admitted pro hac vice)
+Jeffrey B. Maletta
+Jeffrey.maletta@klgates.com
+
+/s/ Janine L. Pollack
+Janine L. Pollack
+
+22
+
+

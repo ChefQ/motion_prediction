@@ -1,0 +1,1425 @@
+Case 1:17-cv-00943-AJT-TCB Document 39 Filed 01/02/18 Page 1 of 47 PageID# 324
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE EASTERN DISTRICT OF VIRGINIA
+Alexandria Division
+MYNOR ABDIEL TUN-COS, et al.
+Plaintiffs,
+v.
+B. PERROTTE, et al.,
+Defendants.
+
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+
+Civil Action No. 1:17-cv-943
+
+MEMORANDUM IN SUPPORT OF THE DEFENDANTS’
+MOTION TO DISMISS THE FIRST AMENDED COMPLAINT
+CHAD A. READLER
+Acting Assistant Attorney General
+Civil Division
+DANA J. BOENTE
+United States Attorney
+Eastern District of Virginia
+C. SALVATORE D’ALESSIO, Jr.
+Acting Director, Torts Branch
+MARY HAMPTON MASON
+Senior Trial Counsel
+DENNIS C. BARGHAAN, Jr.
+Deputy Civil Chief
+2100 Jamieson Avenue
+Alexandria, Virginia 22314
+PAUL E. WERNER
+Trial Attorney
+Civil Division, Torts Branch
+P.O. Box 7146 Ben Franklin Station
+Washington, D.C. 20044
+
+i
+
+Case 1:17-cv-00943-AJT-TCB Document 39 Filed 01/02/18 Page 2 of 47 PageID# 325
+
+TABLE OF CONTENTS
+TABLE OF AUTHORITIES ......................................................................................................... iv
+INTRODUCTION .......................................................................................................................... 1
+PROCEDURAL HISTORY AND BACKGROUND ................................................................... 1
+A. The Original Complaint and Motion to Dismiss. .................................................................. 1
+B. The First Amended Complaint, which raises claims regarding seven separate
+plaintiffs, a separate incident, and not an identical group of defendants. ............................. 3
+STANDARD OF REVIEW ............................................................................................................ 5
+ARGUMENT .................................................................................................................................. 5
+I. The INA Removes This Court’s Jurisdiction Over Plaintiffs’ Claims. ..................................... 6
+A. Congress, through the INA, aimed to streamline the removal process and to
+prevent piecemeal litigation. .................................................................................................. 6
+B. In 8 U.S.C. § 1252(b)(9), Congress streamlined the removal process, precluding
+the review sought in this lawsuit............................................................................................. 7
+C. Section 1252(b)(9) bars Plaintiffs’ claims, some of which have already been raised
+in removal proceedings. .......................................................................................................... 9
+II. This Court Should Not Imply a Non-Statutory Remedy for Any of the Plaintiffs’
+Constitutional Claims............................................................................................................... 11
+A. Implying a damages remedy under the Constitution is disfavored. ..................................... 12
+i.
+
+The “ancien regime” and Abbasi. .................................................................................... 12
+
+ii. The standard for implying a damages remedy. ................................................................ 14
+B. Plaintiffs ask this Court to extend Bivens into a new context. ............................................. 16
+C. The INA is a comprehensive statutory scheme that precludes Plaintiffs’ claims. ............... 17
+D. Other special factors counsel hesitation in this context. ...................................................... 19
+i.
+
+The Constitution commits immigration matters to the political branches....................... 20
+
+ii. Congress’s action in the field has been frequent and intense, yet Congress
+has never provided a damages remedy. ......................................................................... 211
+iii. Plaintiffs challenge Executive Branch policy and priorities. ........................................ 222
+iv. The system-wide costs of inferring a damages remedy counsel hesitation. .................... 23
+v.
+
+Additional practical effects of allowing Plaintiffs’ suit to proceed counsel against
+implying a remedy. .......................................................................................................... 25
+
+ii
+
+Case 1:17-cv-00943-AJT-TCB Document 39 Filed 01/02/18 Page 3 of 47 PageID# 326
+
+III. Defendants Are Entitled to Qualified Immunity. ................................................................... 27
+A. The Original Plaintiffs fail to allege that Defendants committed a clearly
+established Fourth Amendment violation during the February 17 incident. ....................... 29
+B. The newly added Plaintiffs have failed to allege which Defendants, and how each
+Defendant, personally participated in the alleged events of February 8, 2017. .................... 32
+C. All Plaintiffs have failed adequately to plead a violation of the Fifth Amendment. ............ 34
+CONCLUSION ............................................................................................................................. 37
+
+iii
+
+Case 1:17-cv-00943-AJT-TCB Document 39 Filed 01/02/18 Page 4 of 47 PageID# 327
+
+TABLE OF AUTHORITIES
+Cases
+Adams v. Bain,
+697 F.2d 1213 (4th Cir.1982) ...................................................................................................... 5
+Aguilar v. ICE,
+510 F.3d 1 (1st Cir. 2007).............................................................................................. 7, 8, 9, 11
+Aguilar v. ICE,
+811 F. Supp. 2d 803 (S.D.N.Y. 2011) ................................................................................. 35, 36
+Ali v. Rumsfeld,
+649 F.3d 762 (D.C. Cir. 2011)................................................................................................... 37
+Alvarez v. U.S. ICE,
+818 F.3d 1194 (11th Cir. 2016) ........................................................................................... 17, 18
+Alvarez v. U.S. ICE,
+137 S. Ct. 2321 (2017)............................................................................................................... 18
+Anderson v. Creighton,
+483 U.S. 635 (1987) ............................................................................................................ 27, 28
+Arar v. Ashcroft,
+585 F.3d 559 (2d Cir. 2009) ................................................................................................ 18, 20
+Arias v. U.S. ICE Div. of the Dep’t of Homeland Sec.,
+No. 07-cv-1959, 2008 WL 1827604 (D. Minn. Apr. 23, 2008) .................................................. 9
+Ashcroft v. al-Kidd,
+563 U.S 731 (2011) ................................................................................................................... 28
+Ashcroft v. Iqbal,
+556 U.S. 662 (2009) ........................................................................................................... passim
+Behrens v. Pelletier,
+516 U.S. 299 (1996) .................................................................................................................. 26
+Bell Atl. Corp. v. Twombly,
+550 U.S. 544 (2007) ............................................................................................................ 27, 28
+Bivens v. Six Unknown Named Agents of Fed. Bureau of Narcotics,
+403 U.S. 388 (1971) ........................................................................................................ 2, 12, 14
+Bonhometre v. Gonzales,
+414 F.3d 442 (3d Cir. 2005) ........................................................................................................ 8
+Bryson v. Gonzales,
+534 F.3d 1282 (10th Cir. 2008) ................................................................................................. 33
+Bush v. Lucas,
+462 U.S. 367 (1983) ...................................................................................................... 13, 14, 15
+
+iv
+
+Case 1:17-cv-00943-AJT-TCB Document 39 Filed 01/02/18 Page 5 of 47 PageID# 328
+
+Butler v. Bank of Am., N.A.,
+690 F.3d 959 (8th Cir. 2012) ..................................................................................................... 33
+Carlson v. Green,
+446 U.S. 14 (1980) .............................................................................................................. 12, 14
+Chehazeh v. Att’y Gen.,
+666 F.3d 118 (3d Cir. 2012) ........................................................................................................ 8
+Cloaninger ex rel. Estate of Cloaninger v. McDevitt,
+555 F.3d 324 (4th Cir. 2009) ..................................................................................................... 26
+Corr. Servs. Corp. v. Malesko,
+534 U.S. 61 (2001) .............................................................................................................. 13, 22
+Dakura v. Holder,
+772 F. App’x 994 (4th Cir. 2014) .............................................................................................. 11
+Davis v. Passman,
+442 U.S. 228 (1979) ............................................................................................................ 12, 14
+Davis v. United States,
+No. 1:07-cr-254, 2011 WL 13192740 (E.D. Va. Dec. 15, 2011) .............................................. 30
+De La Paz v. Coy,
+786 F.3d 367 (5th Cir. 2015) ......................................................................................... 18, 21, 31
+De La Paz v. Coy,
+137 S. Ct. 2289 (2017)............................................................................................................... 18
+Durham v. Horner,
+690 F.3d 183 (4th Cir. 2012) ..................................................................................................... 28
+Evans v. Chalmers,
+703 F.3d 636 (4th Cir. 2012) ..................................................................................................... 29
+FDIC v. Meyer,
+510 U.S. 471 (1994) .................................................................................................................. 13
+Fiallo v. Bell,
+430 U.S. 787 (1977) .................................................................................................................. 20
+Galvan v. Press,
+347 U.S. 522 (1954) .................................................................................................................. 20
+Gibraltar, P.R., Inc. v. Otoki Grp., Inc.,
+104 F.3d 616 (4th Cir. 1997) ..................................................................................................... 37
+Harlow v. Fitzgerald,
+457 U.S. 800 (1982) .................................................................................................................. 27
+Hope v. Pelzer,
+536 U.S. 730 (2002) .................................................................................................................. 28
+Hunter v. Bryant,
+502 U.S. 224 (1991) .................................................................................................................. 27
+v
+
+Case 1:17-cv-00943-AJT-TCB Document 39 Filed 01/02/18 Page 6 of 47 PageID# 329
+
+I.N.S. v. Lopez-Mendoza,
+468 U.S. 1032 (1984) .................................................................................................... 23, 24, 25
+J.E. F.M. v. Lynch,
+837 F.3d 1026 (9th Cir. 2016) ................................................................................................. 7, 8
+Lebron v. Rumsfeld,
+670 F.3d 540 (4th Cir. 2012) ............................................................................................... 19, 20
+Madu v. U.S. Att’y Gen.,
+470 F.3d 1362 (11th Cir. 2006) ................................................................................................... 8
+Maldonado v. Holder,
+763 F.3d 155 (2d Cir. 2014) ...................................................................................................... 23
+Malik v. Gonzales,
+213 F. App’x 173 (4th Cir. 2007) ................................................................................................ 9
+Marcantonio v. Dudzinski,
+155 F. Supp. 3d 619 (W.D. Va. 2015) ................................................................................. 29, 33
+Minneci v. Pollard,
+565 U.S. 118 (2012) .................................................................................................................. 13
+Mirmehdi v. United States,
+689 F.3d 975 (9th Cir. 2012) ......................................................................................... 18, 20, 21
+Mitchell v. Forsyth,
+472 U.S. 511 (1985) ............................................................................................................ 26, 27
+Ornelas v. United States,
+517 U.S. 690 (1996) .................................................................................................................. 30
+Rajah v. Mukasey,
+544 F.3d 427 (2d Cir. 2008) ................................................................................................ 24, 25
+Raub v. Bowen,
+960 F. Supp. 2d 602 (E.D. Va. 2013) .................................................................................. 33, 34
+Raub v. Campbell,
+785 F.3d 876 (4th Cir. 2015) ..................................................................................................... 28
+Reid v. Georgia,
+448 U.S. 438 (1980) .................................................................................................................. 30
+Reno v. Am.-Arab Anti-Discrim. Comm.,
+525 U.S. 471 (1999) .............................................................................................................. 7, 34
+Robbins v. Oklahoma,
+519 F.3d 1242 (10th Cir. 2008) ................................................................................................. 29
+Safar v. Tingle,
+859 F.3d 241 (4th Cir. 2017) ..................................................................................................... 28
+Schweiker v. Chilicky,
+487 U.S. 412 (1988) ............................................................................................................ 15, 21
+vi
+
+Case 1:17-cv-00943-AJT-TCB Document 39 Filed 01/02/18 Page 7 of 47 PageID# 330
+
+Taft v. Vines,
+70 F.3d 304 (4th Cir. 1995), reh’g granted, opinion adopted in relevant part en banc,
+83 F.3d 681 (4th Cir. 1996)) ...................................................................................................... 31
+U.S. ex rel. Osheroff v. Humana Inc.,
+776 F.3d 805 (11th Cir. 2015) ................................................................................................... 18
+U.S. ex rel. Vuyyuru v. Jadhav,
+555 F.3d 337 (4th Cir. 2009) ................................................................................................. 5, 10
+United States v. Alcaraz-Arellano,
+441 F.3d 1252 (10th Cir. 2006) ................................................................................................. 24
+United States v. Armstrong,
+517 U.S. 456 (1996) ............................................................................................................ 34, 35
+United States v. Braddock,
+410 F. App’x 587 (4th Cir. 2011) .............................................................................................. 35
+United States v. Brignoni-Ponce,
+422 U.S. 873 (1975) .................................................................................................................. 31
+United States v. Jones,
+678 F.3d 293 (4th Cir. 2012) ..................................................................................................... 30
+United States v. King,
+119 F.3d 290 (4th Cir. 1997) ..................................................................................................... 30
+United States v. Nicolas-Juan,
+426 F. App’x 154 (4th Cir. 2011) .............................................................................................. 35
+United States v. Stanley,
+483 U.S. 669 (1987) ............................................................................................................ 15, 18
+Walters v. McMahon,
+684 F.3d 435 (4th Cir. 2012) ............................................................................................... 27, 28
+Wilkie v. Robbins,
+551 U.S. 537 (2007) ...................................................................................................... 13, 15, 24
+Yanez-Marquez v. Lynch,
+789 F.3d 434 (4th Cir. 2015) ................................................................................................. 9, 25
+Ziglar v. Abbasi,
+137 S. Ct. 1843 (2017)........................................................................................................ passim
+Statutes
+U.S. Const. art. I, § 8, cl. 4............................................................................................................ 20
+U.S. Const. amend. IV .................................................................................................................... 2
+Immigration and Nationality Act, 8 U.S.C. § 1101 et seq. .................................................... passim
+vii
+
+Case 1:17-cv-00943-AJT-TCB Document 39 Filed 01/02/18 Page 8 of 47 PageID# 331
+
+8 U.S.C. § 1252(a) .......................................................................................................................... 7
+8 U.S.C. § 1252(b)(9) ................................................................................................................. 6, 7
+8 U.S.C. § 1254a ........................................................................................................................... 19
+28 U.S.C. § 2201 ........................................................................................................................... 37
+Illegal Immigration Reform and Immigrant Responsibility Act of 1996,
+Pub. L. 104-208, 110 Stat. 3546 (1996) ...................................................................................... 6
+REAL ID Act of 2005, Pub. L. No. 109-13, 119 Stat. 302 (2005) ............................................. 3, 5
+Rules
+Federal Rules of Civil Procedure 12(b)(1).................................................................................. 2, 5
+Federal Rules of Civil Procedure 12(b)(6).................................................................................... 18
+Other Authorities
+H.R. Conf. Rep. 109-72 (2005)....................................................................................................... 7
+28 C.F.R. § 50.15 ......................................................................................................................... 26
+
+viii
+
+Case 1:17-cv-00943-AJT-TCB Document 39 Filed 01/02/18 Page 9 of 47 PageID# 332
+
+INTRODUCTION
+This case is about two routine immigration enforcement operations that Plaintiffs are
+attempting to leverage to alter what they perceive to be certain aspects of the United States’
+current immigration enforcement policy. Their attempt comes through a personal liability lawsuit
+raising Fourth and Fifth Amendment claims directly against the line-level United States
+Immigration and Customs Enforcement (ICE) officers Plaintiffs claim conducted the operations.
+Put simply, this individual-capacity lawsuit is not an appropriate avenue to remedy the
+constitutional challenges levied. Congress has removed this Court’s jurisdiction over lawsuits
+such as this one, which, in addition to attempting to alter Executive Branch policy, threaten both
+to slow down the immigration removal process Congress has established, and to offer aliens in
+such proceedings two separate tracks to challenge immigration officials’ actions rather than the
+single channel of review provided by statute. Congress clearly does not want either outcome.
+Moreover, the Supreme Court recently emphasized that personal-liability lawsuits are not the
+appropriate method for challenging Executive Branch policy. Additionally, numerous other
+special factors counsel hesitation in the immigration-enforcement context. Regardless,
+Defendants are entitled to qualified immunity because Plaintiffs have not properly alleged that
+any of the Defendants personally participated in the violation of a clearly established
+constitutional right. In short, this Court should dismiss their suit.
+PROCEDURAL HISTORY AND BACKGROUND 1
+A. The Original Complaint and Motion to Dismiss.
+Plaintiffs Mynor Tun-Cos and José Saput (the “original Plaintiffs”) filed a complaint in
+
+For the limited purposes of this motion to dismiss, the Court may assume the veracity only of
+well-pled factual allegations in the complaint. See Ashcroft v. Iqbal, 556 U.S. 662, 679 (2009).
+1
+
+1
+
+Case 1:17-cv-00943-AJT-TCB Document 39 Filed 01/02/18 Page 10 of 47 PageID# 333
+
+which they alleged that at approximately 6:25 a.m. on February 17, 2017, they, along with one
+other unnamed individual, left their apartment in Fairmont Oaks, an apartment complex in
+Annandale, VA, that has been the site of numerous immigration enforcement operations over the
+last decade. See Dkt. #1, Compl., ¶¶ 18, 20. The apartment Plaintiffs left had been occupied by
+two brothers—the Houx-Hernández brothers—who “were in trouble with the police” and for
+whom ICE was searching. Id. ¶ 28. Plaintiffs and a fourth unnamed individual entered their
+vehicle, which was parked in the complex’s parking lot, and began to pull out of their parking
+space. Id. ¶¶ 20-21. An SUV then prevented Plaintiffs’ vehicle from leaving the parking area,
+and ICE officials, who got out of the SUV, asked Plaintiffs and the other occupants for
+identification. Id. ¶ 21-22, 25. Plaintiffs provided some form of identification, but one of the
+other occupants could not. Id. ¶ 25.
+Plaintiffs and Defendants then returned to Plaintiffs’ apartment, where Defendants
+showed Plaintiff Tun-Cos a photograph of the Houx-Hernández brothers and asked him if he
+knew them. Id. ¶ 28. Tun-Cos admitted they had lived in his apartment in the past, but stated
+they did not currently live there. Id. Defendants then arrested Plaintiffs, transported them to an
+ICE facility, and released them towards the end of the day. Id. ¶¶ 30, 32. Plaintiffs alleged that
+the Defendants targeted them solely because of their “apparent race, ethnicity, or perceived
+national origin.” Id. ¶ 38.
+Based on these allegations, Plaintiffs brought two claims against Defendants under
+Bivens v. Six Unknown Named Agents of Federal Bureau of Narcotics, 403 U.S. 388 (1971): one
+for alleged violation of their Fourth Amendment rights during the initial encounter and the later
+questioning; and one for alleged violation of their Fifth Amendment equal protection rights. Id.
+¶¶ 33-43.
+2
+
+Case 1:17-cv-00943-AJT-TCB Document 39 Filed 01/02/18 Page 11 of 47 PageID# 334
+
+Defendants filed a motion to dismiss the original Plaintiffs’ complaint under Federal
+Rules of Civil Procedure 12(b)(1) and 12(b)(6), Dkt. #19, raising three independent threshold
+defenses. First, under the Immigration and Nationality Act (INA), as amended by the REAL ID
+Act of 2005, Pub. L. No. 109-13, 119 Stat. 302 (2005), 8 U.S.C. §§ 1101 et seq., this Court lacks
+jurisdiction over those claims because the INA channels constitutional challenges such as those
+of the original Plaintiffs (who are in removal proceedings) through the immigration courts and
+the courts of appeals. See Dkt. #20 at 3-8. Second, under Supreme Court and Fourth Circuit
+precedent, this Court should not imply a damages remedy for the original Plaintiffs in this new
+context because numerous special factors counsel hesitation. See id. at 8-23 (citing, e.g., Ziglar v.
+Abbasi, 137 S. Ct. 1843 (2017)). Third, Defendants are entitled to qualified immunity because
+the original Plaintiffs failed to plead facts demonstrating the violation of a clearly established
+constitutional right. See id. at 23-30.
+B. The First Amended Complaint, which raises claims regarding seven separate
+plaintiffs, a separate incident, and not an identical group of defendants.
+The original Plaintiffs then amended their complaint. See Dkt. #25, First Am. Compl.
+(FAC). The FAC included the following newly added Plaintiffs: Luis Velasquez Perdomo, Pedro
+Velasquez Perdomo, Germán Velasquez Perdomo, Eder Aguilar Aritas, Eduardo Montano
+Fernández, Nelson Callejas Peña, and José Cárcamo (the “newly added Plaintiffs”), none of
+whom raise allegations regarding the events of February 17, 2017. Instead, the allegations of the
+newly added Plaintiffs wholly involve an alleged ICE operation on February 8, 2017, in
+Arlington, Virginia, at the house of one José Carcámo. See id. ¶¶ 10, 19-24.
+The newly added Plaintiffs allege that “four Defendants”—without specifying which
+four—approached Germán Perdomo, one of the newly added Plaintiffs, at approximately 5:40
+
+3
+
+Case 1:17-cv-00943-AJT-TCB Document 39 Filed 01/02/18 Page 12 of 47 PageID# 335
+
+a.m. on the morning of February 8, 2017, in front of a house in Arlington, and asked whether he
+knew of one “Santo Del Cid,” and showed him a photocopy of a photograph of Del Cid. Id. ¶ 21.
+After inquiring about the inhabitants of the house and gaining entrance, unspecified
+“Defendants” searched rooms throughout the house while looking for Del Cid. Id. at ¶¶ 25-45.
+According to the FAC, at times during this search, certain unspecified “Defendants” had various
+interactions with some of the newly added Plaintiffs or other inhabitants of the house. Id. ¶¶ 29,
+32, 36, 46, 47. With the exception of Germán Perdomo, all the newly added Plaintiffs were
+found inside of the house. Id. All the newly added Plaintiffs except for Cárcamo were arrested by
+the “Defendants,” transported to an ICE facility in Virginia, and were released later that day. Id.
+at ¶¶ 49-51. The FAC alleges that numerous other female inhabitants encountered in the house
+were not questioned or arrested. Id. ¶¶ 32, 36, 39, 42.
+The FAC does not contain any factually substantive changes to the allegations in the
+original complaint regarding the February 17, 2017, ICE operation. Rather, it solely removes
+references to the “Trump Administration’s” purported immigration enforcement policy, compare
+Dkt. #1, Compl. ¶¶ 5, 15, with Dkt. #25, FAC, ¶¶ 1-5, and adds general allegations regarding the
+ethnic composition of Annandale. See Dkt. #25, Am. Compl., ¶ 71. Both the original Plaintiffs
+and the newly added Plaintiffs bring two claims under Bivens: one for purported violation of
+their Fourth Amendment rights, and one for purported violation of their equal protection rights
+under the Fifth Amendment. See FAC at 17-20. Under a modified scheduling order, Defendants’
+motion to dismiss the FAC is currently due two weeks after representation was authorized for
+Defendants on the newly added claims. See Dkt. #27. 2
+
+On December 17, 2017, the Department of Justice authorized representation for the Defendants
+with respect to the newly added Plaintiffs’ allegations regarding the incident on February 8.
+2
+
+4
+
+Case 1:17-cv-00943-AJT-TCB Document 39 Filed 01/02/18 Page 13 of 47 PageID# 336
+
+Defendants now move to dismiss all of the Plaintiffs’ claims in the FAC under largely the
+same grounds raised in their motion to dismiss the original complaint. Namely, the INA removes
+this Court’s jurisdiction over those claims as to all Plaintiffs except for Cárcamo (who was not
+arrested and is not in removal proceedings); under Supreme Court, Fourth Circuit, and other
+circuit court precedent, multiple special factors counsel hesitation in this context as to all the
+Plaintiffs’ claims; and Defendants are entitled to qualified immunity on all the claims.
+STANDARD OF REVIEW
+Defendants raise arguments under Federal Rules of Civil Procedure 12(b)(1) and
+12(b)(6). When a defendant “challenges the existence of subject matter jurisdiction in fact, the
+plaintiff bears the burden of proving the truth of such facts by a preponderance of the evidence.”
+U.S. ex rel. Vuyyuru v. Jadhav, 555 F.3d 337, 347 (4th Cir. 2009) (citing Adams v. Bain, 697
+F.2d 1213, 1219 (4th Cir.1982)). “Unless ‘the jurisdictional facts are intertwined with the facts
+central to the merits of the dispute,’ the district court may then go beyond the allegations of the
+complaint and resolve the jurisdictional facts in dispute by considering evidence outside the
+pleadings . . . .” Vuyyuru, 555 F.3d at 348 (quoting Adams, 697 F.2d at 1219).
+When considering a motion to dismiss under Rule 12(b)(6), the court ignores non-factual
+content, such as “labels and conclusions,” or a “formulaic recitation of the elements of a cause of
+action.” Iqbal, 556 U.S. at 678 (internal citations and quotations omitted). The court then
+assumes the truth of well-pled factual allegations and determines whether those factual
+allegations plausibly state a claim upon which relief may be granted.
+ARGUMENT
+This Court should dismiss Plaintiffs’ claims for three independent reasons. First, the INA
+removes this Court’s jurisdiction over those claims (with the exception of Cárcamo’s) and
+5
+
+Case 1:17-cv-00943-AJT-TCB Document 39 Filed 01/02/18 Page 14 of 47 PageID# 337
+
+channels review through the immigration courts and the federal courts of appeals. Second, this
+Court should not imply the non-statutory remedy Plaintiffs seek where, as here, multiple special
+factors counsel hesitation in this new context. Third, Defendants are entitled to qualified
+immunity because Plaintiffs have failed adequately to allege any Defendant personally
+participated in the violation of any clearly established constitutional right.
+I.
+
+The INA Removes This Court’s Jurisdiction Over Plaintiffs’ Claims. 3
+Under § 242(b)(9) of the INA, 8 U.S.C. § 1252(b)(9), this Court lacks jurisdiction to
+
+consider Plaintiffs’ claims, which must instead be raised either in immigration court or before the
+Fourth Circuit in a petition for review. Congress, through the INA, intended to streamline the
+removal process and to prevent the sort of piecemeal litigation and parallel proceedings in which
+the Plaintiffs—two of whom have already raised their constitutional claims both in this suit and
+in their removal proceedings—are currently engaged. It enacted a specific provision to channel
+claims such as Plaintiffs’ to the federal courts of appeals. Thus, this Court lacks jurisdiction here.
+A. Congress, through the INA, aimed to streamline the removal process and to
+prevent piecemeal litigation.
+Congress has added and amended several sections of the INA over the past decades to
+streamline the removal process and to ensure that piecemeal litigation, which often arose in
+removal proceedings before those amendments, came to an end. For example, in 1996, Congress
+passed the Illegal Immigration Reform and Immigrant Responsibility Act of 1996, Pub. L. 104208, 110 Stat. 3546 (1996), which contained provisions reiterating that only courts of appeals,
+not district courts, could review final orders of removal, and that review of a final order of
+removal was the only method by which to review any issue raised in a removal proceeding. See
+This argument is not raised as to Plaintiff Cárcamo, who was not arrested or placed in removal
+proceedings.
+3
+
+6
+
+Case 1:17-cv-00943-AJT-TCB Document 39 Filed 01/02/18 Page 15 of 47 PageID# 338
+
+H.R. Conf. Rep. 109-72, 173 (2005). Such provisions “were intended to preclude all district
+court review of any issue raised in a removal proceeding.” Id. Congress again amended the INA
+in 2005 through the REAL ID Act, and again aimed to end the “piecemeal review, uncertainty,
+lack of uniformity, and . . . waste of resources both for the judicial branch and Government
+lawyers” that persisted through judicial review in both district courts and courts of appeals. Id. at
+174. See also Aguilar v. ICE, 510 F.3d 1, 9 (1st Cir. 2007) (quoting H.R. Conf. Rep. 109-72).
+B. In 8 U.S.C. § 1252(b)(9), Congress streamlined the removal process, precluding
+the review sought in this lawsuit.
+In 8 U.S.C. § 1252(b)(9), Congress provided that “[j]udicial review of all questions of
+law and fact, including interpretation and application of constitutional and statutory provisions,
+arising from any action taken or proceeding brought to remove an alien from the United States . .
+. shall be available only in judicial review of a final order . . . .” Section 1252(b)(9) is an
+“unmistakable ‘zipper’ clause.” Reno v. Am.-Arab Anti-Discrim. Comm., 525 U.S. 471, 483
+(1999) (“AADC”). Congress’s purpose in enacting this clause “is evident.” Aguilar, 510 F.3d at
+9. It is meant “to consolidate and channel review of all legal and factual questions that arise from
+the removal of an alien into the administrative process.” Id.
+Under that process, the sole avenue of judicial review is through the courts of appeals. As
+§ 1252(a)(5) adds, “a petition for review filed with an appropriate court of appeals . . . shall be
+the sole and exclusive means for judicial review of an order of removal . . . .” Combined with
+§ 1252(a)(5), the zipper clause of § 1252(b)(9) means that “any issue—whether legal or
+factual—arising from any removal-related activity can be reviewed only” through a petition for
+review before a court of appeals. J.E. F.M. v. Lynch, 837 F.3d 1026, 1031 (9th Cir. 2016). These
+provisions “effectively limit all aliens to one bite of the apple with regard to challenging an order
+
+7
+
+Case 1:17-cv-00943-AJT-TCB Document 39 Filed 01/02/18 Page 16 of 47 PageID# 339
+
+of removal.” Bonhometre v. Gonzales, 414 F.3d 442, 446 (3d Cir. 2005). See also Aguilar, 510
+F.3d at 9 (“In enacting section 1252(b)(9), Congress plainly intended to put an end to the
+scattershot and piecemeal nature of the review process that previously had held sway in regard to
+removal proceedings.” (citing H.R. Rep. No. 109-72)).
+Section 1252(b)(9)’s “expanse is breathtaking.” Aguilar, 510 F.3d at 9. As the First and
+Ninth Circuits have held, it applies to all claims that arise from either an action or proceeding
+brought in connection with the removal of an alien, except for claims that are “independent of, or
+wholly collateral to, the removal process.” Id. at 11. See also J.E. F.M., 837 F.3d at 1032.
+Although the precise contours of which claims are “independent” or “wholly collateral” is
+unsettled, the case law makes clear that claims that commonly arise in the context of removal
+proceedings fall within the ambit of § 1252(b)(9). See Aguilar, 510 F.3d at 13 (“The frequency
+with which right-to-counsel claims arise in removal proceedings refutes any notion that such
+claims are sufficiently separate from removal proceedings to be considered either ‘independent’
+or ‘collateral.’”); J.E. F.M., 837 F.3d at 1033 (applying § 1252(b)(9) to right-of-counsel claims
+because they “are routinely raised in petitions for review filed with a federal court of appeals”). 4
+Along those lines, aliens cannot “escape the vise-like grip of section 1252(b)(9)” by
+simply refusing to bring claims in immigration court and in petitions for review when those
+claims could have been brought. Aguilar, 510 F.3d at 9. Applying the statute otherwise would
+herald “an obvious loss of efficiency and bifurcation of review mechanisms,” which “are among
+the principal evils that Congress sought to avoid through the passage of section 1252(b)(9).” Id.
+
+The Fourth Circuit has not addressed the scope of § 1252(b)(9). Two other circuits have
+interpreted § 1252(b)(9) more narrowly as applying only to review of a removal order. See
+Chehazeh v. Att’y Gen., 666 F.3d 118, 131-33 (3d Cir. 2012); Madu v. U.S. Att’y Gen., 470 F.3d
+1362, 1367 (11th Cir. 2006).
+4
+
+8
+
+Case 1:17-cv-00943-AJT-TCB Document 39 Filed 01/02/18 Page 17 of 47 PageID# 340
+
+at 10. Nor does it matter that certain actions that are challenged occurred before removal
+proceedings began. As the Aguilar court explained, applying the statute only to claims that arise
+from ongoing removal proceedings “would put an undue premium on which party rushed to the
+courthouse first.” Id. “More importantly,” the First Circuit continued, “such a reading would
+render the word ‘action’ superfluous and effectively excise it from the statute.” Id.
+C. Section 1252(b)(9) bars Plaintiffs’ claims, some of which have already been
+raised in removal proceedings.
+As the above explanation of § 1252(b)(9) makes clear, that provision applies to Plaintiffs’
+claims under the Fourth and Fifth Amendments. Two reasons support this conclusion. First,
+Plaintiffs’ claims for alleged violations of the Fourth Amendment and their equal protection
+rights are commonplace in removal proceedings. See, e.g., Yanez-Marquez v. Lynch, 789 F.3d
+434, 445-51 (4th Cir. 2015) (discussing the standard for suppression of evidence in immigration
+removal proceedings for Fourth Amendment violations); Malik v. Gonzales, 213 F. App’x 173,
+174 (4th Cir. 2007) (considering equal protection claims in context of removal proceedings).
+Therefore, those claims are not “independent” or “wholly collateral” from removal proceedings.
+Indeed, a district court applied § 1252(b)(9) to bar claims markedly similar to those brought by
+Plaintiffs. See Arias v. U.S. ICE Div. of the Dep’t of Homeland Sec., No. 07-cv-1959, 2008 WL
+1827604 (D. Minn. Apr. 23, 2008). In Arias, aliens arrested during ICE operations brought
+constitutional tort claims against ICE officials for, among other things, purported Fourth
+Amendment and Fifth Amendment equal protection violations. The court dismissed the claims,
+holding that § 1252(b)(9) stripped it of jurisdiction. See id. at *5-6.
+Second, the two original Plaintiffs have already raised the exact same Fourth
+Amendment claim—and effectively has also raised the same Fifth Amendment claim—in the
+
+9
+
+Case 1:17-cv-00943-AJT-TCB Document 39 Filed 01/02/18 Page 18 of 47 PageID# 341
+
+removal proceedings the Government has instituted against them. See Ex. 1, Tun-Cos Mot. to
+Suppress Evid. & Term. Procs., at 7-12; Ex. 2, Saput Mot. to Suppress Evid. & Term. Procs., at
+7-12. 5 Those motions are currently pending before the immigration court. Accordingly, an
+immigration judge is already considering their Fourth Amendment, and, by dint of their
+allegations, their Fifth Amendment claims.
+This is precisely the sort of situation that Congress wanted to avoid through enacting
+§ 1252(b)(9). By pursuing these parallel proceedings, the original Plaintiffs obtain for themselves
+“two bites” of the proverbial apple—one before the immigration judge (and potentially later
+before the Fourth Circuit in a petition for review), and another before this Court. Moreover, by
+asking two separate bodies to adjudicate the same alleged facts, Plaintiffs consume scarce
+judicial and Executive Branch resources and create the very “piecemeal review, uncertainty, and
+lack of uniformity” that Congress sought to obviate through its amendments to the INA.
+Moreover, it is not a stretch to imagine that two forums might reach different conclusions on
+nearly identical legal issues based on the exact same factual underpinning. Both proceedings
+could then be appealed to the same (or, depending on where suit was filed, potentially a
+different) court of appeals. Nor is it a stretch, given such a possible outcome, that one body
+would opt to stay its proceedings to allow the other to consider the issues Plaintiffs raise first.
+Such an outcome either would be the antithesis of the streamlined process for removal
+proceedings that Congress sought to construct through the jurisdiction-stripping provisions of the
+INA, including § 1252(b)(9), or would effectively deprive the Defendants of defenses to which
+they are entitled, as will be explained below. See infra Part II.D.v.
+
+Courts may consider facts beyond the complaint to determine their jurisdiction. See Vuyyuru,
+555 F.3d at 347 (citation omitted).
+
+5
+
+10
+
+Case 1:17-cv-00943-AJT-TCB Document 39 Filed 01/02/18 Page 19 of 47 PageID# 342
+
+And of the newly added Plaintiffs, six are also in removal proceedings, see Ex. 3, Notices
+to Appear, and can therefore raise their constitutional claims before the immigration court in
+those proceedings, just as the original Plaintiffs have. 6 Indeed, as detailed above, these newly
+added Plaintiffs do not have the option of choosing one forum over the other to raise their
+constitutional challenges. See Aguilar, 510 F.3d at 9-10. Rather, raising their constitutional
+claims in their removal proceedings is how Congress intended for them to proceed.
+Because Plaintiffs’ claims are commonplace in removal proceedings—and two Plaintiffs’
+claims in fact have been raised there—§ 1252(b)(9) removes this Court’s jurisdiction over those
+claims. Therefore, this Court must dismiss the claims of the eight Plaintiffs in removal
+proceedings for lack of subject matter jurisdiction and allow the immigration court to address
+Plaintiffs’ constitutional contentions.
+II.
+
+This Court Should Not Imply a Non-Statutory Remedy for Any of the Plaintiffs’
+Constitutional Claims.
+Even without the jurisdictional bar of § 1252(b)(9), this Court should dismiss all the
+
+Plaintiffs’ claims because under both recent Supreme Court precedent and Fourth Circuit
+precedent, they raise numerous special factors counselling hesitation which preclude any Bivens
+remedy. Plaintiffs ask this Court to infer a damages remedy in a new context the Supreme Court
+has never recognized, immigration enforcement operations carried out in search of specific aliens
+during which other aliens are encountered and detained. Congress has already established—and
+frequently modified over the years—a comprehensive statutory scheme in this new context, a
+fact three other circuits have noted, and this established process and significant and ongoing
+
+A Notice to Appear initiates removal proceedings against an alien. See Dakura v. Holder, 772
+F. App’x 994, 995 (4th Cir. 2014).
+
+6
+
+11
+
+Case 1:17-cv-00943-AJT-TCB Document 39 Filed 01/02/18 Page 20 of 47 PageID# 343
+
+congressional attention to the immigration arena preclude supplementing the legislative scheme
+Congress has crafted. Moreover, implying a damages remedy in the immigration context, which
+is constitutionally committed to the political branches, raises a multitude of concerns regarding
+the administrability of such a remedy and its practical implications, concerns the Fourth Circuit
+has already recognized in another context in which it refused to imply a damages remedy.
+A. Implying a damages remedy under the Constitution is disfavored.
+i.
+
+The “ancien regime” and Abbasi.
+
+Plaintiffs ask this Court to create a damages remedy for them under Bivens, an action that
+“is now a ‘disfavored’ judicial activity.” Ziglar v. Abbasi, 137 S. Ct. 1843, 1857 (2017). In
+Abbasi, the Supreme Court explained that Bivens, which was decided over forty-five years ago,
+arose in a different legal “interpretive framework” under which courts “assumed it to be a proper
+judicial function to provide such remedies as are necessary to make effective a statute’s
+purpose.” Id. at 1855 (internal quotations and citations omitted). Under this “ancien regime,” id.,
+the Bivens Court “held that courts must adjust their remedies so as to grant the necessary relief
+when federally protected rights have been invaded.” Id. (internal quotations and citations
+omitted). Bivens itself provided a damages remedy under the Fourth Amendment for a United
+States citizen arrested without a warrant in his home in Brooklyn on drug charges. See Bivens,
+403 U.S. at 389. In the decade after Bivens, and still under the then-prevailing legal framework,
+the Court expanded Bivens into only two new contexts: “a claim against a Congressman for
+firing his female secretary; and a claim against prison officials for failure to treat an inmate’s
+asthma.” Abbasi, 137 S. Ct. at 1860 (reciting facts in Davis v. Passman, 442 U.S. 228 (1979),
+and Carlson v. Green, 446 U.S. 14 (1980)).
+But in the more than three decades since Carlson, the legal landscape has shifted away
+12
+
+Case 1:17-cv-00943-AJT-TCB Document 39 Filed 01/02/18 Page 21 of 47 PageID# 344
+
+from implied causes of action, and the Court has “consistently refused to extend Bivens to any
+new context or new category of defendants.” Abbasi, 137 S. Ct. at 1857 (citing and quoting Corr.
+Servs. Corp. v. Malesko, 534 U.S. 61, 68 (2001)). Indeed, in the nine cases that came before the
+Court in that time period—ten including Abbasi—the Court held that a Bivens remedy was not
+available. See, e.g., Abbasi, 137 S. Ct. at 1863 (rejecting claims by post-September 11 detainees
+against Executive Branch officials); Minneci v. Pollard, 565 U.S. 118, 120 (2012) (rejecting
+claims by federal prisoner against guards at private prison); Wilkie v. Robbins, 551 U.S. 537,
+547-48 (2007) (rejecting claims against Bureau of Land Management officials for allegedly
+pushing “too hard” in the execution of their duties); Malesko, 534 U.S. at 63 (rejecting claim
+against private prison operator); FDIC v. Meyer, 510 U.S. 471, 473-74 (1994) (rejecting claim
+against federal agency). The Court itself has gone so far as to note that “in light of the changes to
+the Court’s general approach to recognizing implied damages remedies, it is possible that the
+analysis in the Court’s three Bivens cases might have been different if they were decided today.”
+Abbasi, 137 S. Ct. at 1856. Although the Court has not abrogated Bivens, it has emphasized—
+repeatedly—that “expanding the Bivens remedy is now a ‘disfavored’ judicial activity.” Id. at
+1857 (quoting Iqbal, 556 U.S. at 675).
+Accordingly, the Court explained that when a party “seeks to assert an implied cause of
+action under the Constitution . . . separation-of-powers principles are or should be central to the
+analysis.” Abbasi, 137 S. Ct. at 1857. “The question is ‘who should decide’ whether to provide
+for a damages remedy, Congress or the courts?” Id. (quoting Bush v. Lucas, 462 U.S. 367, 380
+(1983)). And because “[i]t is not necessarily a judicial function to establish whole categories of
+cases in which federal officers must defend against personal liability claims in the complex
+sphere of litigation, with all of its burdens on some and benefits to others,” Abbasi, 137 S. Ct. at
+13
+
+Case 1:17-cv-00943-AJT-TCB Document 39 Filed 01/02/18 Page 22 of 47 PageID# 345
+
+1858, the Court offered this answer: “most often it will be Congress.” Id. at 1857. That is
+because when an issue “involves a host of considerations that must be weighed and appraised, it
+should be committed to those who write the laws rather than those who interpret them.” Id.
+(quoting Bush, 462 U.S. at 380) (internal quotations omitted).
+ii.
+
+The standard for implying a damages remedy.
+
+Abbasi also clarified the standard for evaluating whether to imply a damages remedy
+under Bivens. First, a court must determine whether recognizing a remedy would extend Bivens
+into a new context. The Court narrowly defined “new context” as an instance where “the case is
+different in a meaningful way from previous Bivens cases decided by [the Supreme] Court.” Id.
+at 1859. In other words, if the case is different “in a meaningful way” from either Fourth
+Amendment claims against federal law enforcement officers for a domestic search and seizure of
+a United States citizen on suspected drug offenses, see Bivens, 403 U.S. at 389; Fifth
+Amendment claims for the firing of a female congressional secretary based on her gender, see
+Davis, 442 U.S. at 230; or Eighth Amendment claims against prison officials for failing to treat
+an inmate’s asthma, causing him death, see Carlson, 446 U.S. at 19, then the context is new.
+The Court then offered a non-exhaustive list of examples that could “prove instructive” in
+determining whether differences are meaningful. Abbasi, 137 S. Ct. at 1860. That list included,
+among others, the following three examples: (1) “the statutory or other legal mandate under
+which the officer was operating”; (2) “the risk of disruptive intrusion by the Judiciary into the
+functioning of other branches”; and (3) “the presence of potential special factors that previous
+Bivens cases did not consider.” Id. Each of these examples alone could render the context new.
+Id. Moreover, seemingly minor differences, if meaningful, can present a new context. As the
+Court in Abbasi noted, “even a modest extension is still an extension.” Id. at 1864.
+14
+
+Case 1:17-cv-00943-AJT-TCB Document 39 Filed 01/02/18 Page 23 of 47 PageID# 346
+
+If a plaintiff seeks to extend Bivens into a new context, then the court must address
+whether special factors counsel hesitation. See id. at 1860. To answer this question, the Supreme
+Court has engaged in a two-step inquiry identified in Wilkie. The court first asks whether
+Congress has instituted “any alternative, existing process for protecting” a plaintiff’s interests,
+551 U.S. at 537, or any “meaningful safeguards or remedies” for the plaintiff. Schweiker v.
+Chilicky, 487 U.S. 412, 425 (1988). Such actions by Congress imply that it “expected the
+Judiciary to stay its Bivens hand” and not infer a new damages remedy. Wilkie, 551 U.S. at 554;
+see, e.g., Abbasi, 137 S. Ct. at 1863 (“And when alternative methods of relief are available, a
+Bivens remedy usually is not.”); Chilicky, 487 U.S. at 429; Bush, 462 U.S. at 390. That
+Congress’s scheme may not provide the precise remedy a plaintiff seeks, such as damages, does
+not alter this analysis. See United States v. Stanley, 483 U.S. 669, 683 (1987) (“[I]t is irrelevant
+to a ‘special factors’ analysis whether the laws currently on the books afford [defendants] an
+‘adequate’ federal remedy for his injuries.”).
+Second, even if no alternative process exists, the court considers whether there are any
+additional “special factors counselling hesitation.” Wilkie, 551 U.S. at 550. Although the Court
+“has not defined” that phrase, the “necessary inference . . . is that the inquiry must concentrate on
+whether the Judiciary is well suited, absent congressional action or instruction, to consider and
+weigh the costs and benefits of allowing a damages action to proceed.” Abbasi, 137 S. Ct. at
+1857-58. The threshold for being a special factor is quite low. Indeed, “to be a ‘special factor
+counselling hesitation,’ a factor must cause a court to hesitate before answering that question in
+the affirmative.” Id. The Abbasi Court did not provide an exhaustive list of special factors
+counselling hesitation, but it did provide several examples, including a lawsuit in which a
+plaintiff effectively challenges a broad government policy. See Abbasi, 137 S. Ct. at 1860 (“[I]t
+15
+
+Case 1:17-cv-00943-AJT-TCB Document 39 Filed 01/02/18 Page 24 of 47 PageID# 347
+
+must be noted that a Bivens action is not a proper vehicle for altering an entity’s policy.”
+(internal citation and quotation omitted)).
+B. Plaintiffs ask this Court to extend Bivens into a new context.
+Here, Plaintiffs undoubtedly ask this Court to extend Bivens into a new context.
+Plaintiffs’ claims fall within the three examples of meaningful differences identified by the
+Supreme Court, and they clearly seek to extend Bivens into a context the Supreme Court has
+never considered. First, the Defendants in this case were operating under a different “statutory or
+other legal mandate,” Abbasi, 137 S. Ct. at 1860, than the officials in Bivens, Davis, or Carlson.
+Specifically, all Defendants are ICE officials who were conducting immigration enforcement
+operations under the statutory mandate of the INA. They are tasked with identifying, locating,
+and removing aliens unlawfully present in this country, irrespective of whichever administration
+they serve. In contrast, the traditional law enforcement officials in Bivens, the federal workplace
+supervisor in Davis, and the prison officials in Carlson all operated under entirely different legal
+frameworks. Indeed, the Supreme Court has never permitted a claim to proceed in the context of
+immigration enforcement.
+Second, Plaintiffs’ claims risk the “disruptive intrusion by the Judiciary into the
+functioning of other branches,” Abbasi, 137 S. Ct. at 1860, in a way that was not present in
+Bivens or its progeny. As already detailed in Part I, Plaintiffs’ claims risk disrupting the
+streamlined removal process Congress has enacted and thereby potentially obtaining two
+separate rulings from two adjudicatory bodies on the same issue, or staying those proceedings so
+as to avoid such a possibility, and thereby delaying the removal process. Such an outcome
+stymies both the Legislative Branch’s deliberate design of a streamlined process and the
+Executive Branch’s immigration policy. It also undermines the primacy of those branches in this
+16
+
+Case 1:17-cv-00943-AJT-TCB Document 39 Filed 01/02/18 Page 25 of 47 PageID# 348
+
+area. No such risks were present in Bivens or its progeny.
+Third, this case presents “potential special factors that previous Bivens cases did not
+consider.” Abbasi, 137 S. Ct. at 1860. In addition to the concerns of delay in immigration
+proceedings already mentioned, and as explained more fully below, see infra Part II.D.v., those
+claims have the potential of exposing personal-liability defendants to cross-examination in
+evidentiary hearings in those proceedings without personal representation, thereby effectively
+abrogating any qualified immunity defenses those defendants may have. Moreover, if the
+Government were to move to stay such proceedings until the resolution of any Bivens claims—a
+process that can take years—that would substantially increase the incentive for an alien to file
+just such a suit in the hopes of delaying his or her removal, thereby encouraging litigation against
+line-level ICE officers. This is turn risks chilling immigration enforcement. No comparable
+considerations arose in the contexts in which the Supreme Court implied a damages remedy.
+Any one of the above differences alone would be “meaningful” enough to establish this
+as a new context. See Abbasi, 137 S. Ct. at 1860. Together, they undoubtedly do. All the more so
+given that “the new-context inquiry is easily satisfied.” Id. at 1865. Because Plaintiffs’ claims
+arise in a new context, this Court must determine whether any special factors are present.
+C. The INA is a comprehensive statutory scheme that precludes Plaintiffs’ claims. 7
+As at least three circuits—the Fifth, Ninth, and Eleventh—have all held, the INA is a
+comprehensive scheme that precludes a court from implying a damages remedy in the
+immigration enforcement context. See Alvarez v. U.S. ICE, 818 F.3d 1194, 1208-10 (11th Cir.
+2016); De La Paz v. Coy, 786 F.3d 367, 375-78 (5th Cir. 2015); Mirmehdi v. United States, 689
+
+This section does not apply to the claims of Plaintiff Cárcamo, who is not in removal
+proceedings.
+7
+
+17
+
+Case 1:17-cv-00943-AJT-TCB Document 39 Filed 01/02/18 Page 26 of 47 PageID# 349
+
+F.3d 975, 982-83 (9th Cir. 2012). Cf. Arar v. Ashcroft, 585 F.3d 559, 573 (2d Cir. 2009) (noting
+that given “the complexity of the remedial scheme Congress has created (and frequently
+amended), we would ordinarily draw a strong inference that Congress intended the judiciary to
+stay its hand and refrain from creating a Bivens action in this context” but not deciding that
+question in light of the case’s unique circumstances and other special factors present). In two of
+those cases—Alvarez and De La Paz—the Supreme Court denied certiorari a week after deciding
+Abbasi. See Alvarez, 137 S. Ct. 2321 (2017); De La Paz, 137 S. Ct. 2289 (2017).
+The Fifth Circuit’s decision in De La Paz explains why refusing to imply a remedy in the
+immigration context makes sense. There, the court first walked through the numerous safeguards
+the INA provides to individuals in removal proceedings, noting that the INA provides aliens with
+notice of proceedings, an adversarial removal hearing, the right to counsel at the hearing, the
+right to present and examine evidence, an appeals process to both the Board of Immigration
+Appeals and a federal court of appeals, and standards under which law enforcement personnel
+must operate and conduct themselves. See De La Paz, 786 F.3d at 375-76 (citing various
+provisions of the INA); see also Alvarez, 818 F.3d at 1208 (similarly explaining the various
+procedural safeguards the INA provides aliens). These provisions provide ample safeguards to
+the rights Plaintiffs claim were violated. In fact, under the above scheme, the original Plaintiffs
+have already sought redress for the alleged violation of those very rights. See Exs. 1, 2. 8 That the
+INA does not provide the specific remedy that Plaintiffs seek—money damages—does not mean
+this Court should imply one. See Stanley, 483 U.S. at 683 (“[I]t is irrelevant to a ‘special factors’
+analysis whether the laws currently on the books afford [defendants] an ‘adequate’ federal
+
+“Courts may take judicial notice of publicly filed documents” in considering a Rule 12(b)(6)
+motion. U.S. ex rel. Osheroff v. Humana Inc., 776 F.3d 805, 811 n.4 (11th Cir. 2015).
+8
+
+18
+
+Case 1:17-cv-00943-AJT-TCB Document 39 Filed 01/02/18 Page 27 of 47 PageID# 350
+
+remedy for his injuries.”). See also infra, Part II.D.ii. In sum, the INA is an elaborate, carefully
+constructed remedial scheme that provides adequate protections and safeguards to aliens. Under
+the first step of the two-step inquiry laid out by the Supreme Court, and under substantial circuit
+court precedent, this Court should dismiss the claims of the eight Plaintiffs in removal
+proceedings.
+D. Other special factors counsel hesitation in this context. 9
+The above conclusion is all the more sound when one considers the separation-of-powers
+concerns and the “problems of administrability” implicated by inferring a damages remedy here.
+Lebron v. Rumsfeld, 670 F.3d 540, 553 (4th Cir. 2012). The Fourth Circuit has recognized that
+such concerns and problems are highly relevant when determining whether to imply a remedy
+under Bivens. In Lebron, the court dismissed on special factors grounds the Bivens claims of a
+United States citizen detained domestically as a suspected terrorist, noting those claims involved
+an area which the Constitution committed to Congress and the Executive, and that numerous
+administrability concerns and undesirable practical effects would flow from inferring a remedy
+for the plaintiff. See id. at 548-49, 553-54 (discussing the constitutional commitment of national
+security and military affairs to the political branches, and the practical effects a damages remedy
+would have on national security policymaking, ongoing intelligence operations, and the
+command structure of the military). Although the context of Plaintiffs’ claims is not the same as
+This section, and to varying degrees all of the following sections except for section D.v., apply
+to Plaintiff Cárcamo’s claims as well. Although Cárcamo was not arrested or placed in removal
+proceedings because he has Temporary Protected Status, see Ex. 4, Hrg. Rpt., at 2, his status and
+ability to remain in the United States are governed by provisions of the INA. See 8 U.S.C.
+§ 1254a. Indeed, § 1254a(c)(3) includes annual requirements and other conditions for Cárcamo
+to retain his status, thereby placing him under the jurisdiction of the INA. Given this, the INA’s
+comprehensive nature, and, as described below, the INA’s silence regarding damages remedies
+for aliens alleging constitutional harms who are subject to its ambit, the special factors
+arguments detailed in these sections apply to Cárcamo’s claims.
+9
+
+19
+
+Case 1:17-cv-00943-AJT-TCB Document 39 Filed 01/02/18 Page 28 of 47 PageID# 351
+
+that in Lebron, the overarching concerns regarding the separation of powers and administrability
+mentioned above—which the Fourth Circuit discussed at length—are clearly present.
+i.
+
+The Constitution commits immigration matters to the political branches.
+
+First and foremost, Plaintiffs’ claims raise separation-of-powers concerns. Congress has
+plenary control over immigration matters. See U.S. Const. art. I, § 8, cl. 4 (“The Congress shall
+have Power . . . To establish an uniform Rule of Naturalization . . . .”); see also Fiallo v. Bell,
+430 U.S. 787, 792 (1977) (“[O]ver no conceivable subject is the legislative power of Congress
+more complete than it is over the admission of aliens.” (internal citations and quotation marks
+omitted)); Galvan v. Press, 347 U.S. 522, 531 (1954) (the principle that “the formulation of these
+policies [concerning the entry of aliens and their right to remain here] is entrusted exclusively to
+Congress has become about as firmly imbedded in the legislative and judicial tissues of our body
+politic as any aspect of our government”). And as explained, supra, Congress has repeatedly
+exercised its immigration authority, and has specifically identified the forum in which challenges
+of this nature are to be raised, a forum that does not include federal district court.
+Moreover, “immigration issues ‘have the natural tendency to affect diplomacy, foreign
+policy, and the security of the nation.’” Mirmehdi, 689 F.3d at 982 (quoting Arar, 585 F.3d at
+574). Those matters, in turn, are constitutionally committed to Congress and the Executive. See
+Lebron, 670 F.3d at 548-49. As the Fourth Circuit in Lebron recognized, 670 F.3d at 548, and as
+the Supreme Court in Abbasi confirmed, “separation-of-powers principles are or should be
+central to the analysis” of whether to recognize a damages remedy. Abbasi, 137 S. Ct. at 1857.
+Here, this factor squarely counsels against creating a Bivens remedy.
+
+20
+
+Case 1:17-cv-00943-AJT-TCB Document 39 Filed 01/02/18 Page 29 of 47 PageID# 352
+
+ii.
+
+Congress’s action in the field has been frequent and intense, yet Congress
+has never provided a damages remedy.
+
+Congress has exercised its plenary control over immigration by enacting and repeatedly
+modifying the INA. Yet it has never created a damages remedy for an alien within that scheme.
+This does not mean courts should supplement Congress’s judgment. Quite the opposite. Given
+Congress’s “repeated and careful attention to immigration matters,” De La Paz, 786 F.3d at 377,
+its omission of that remedy from the INA cannot be said to have “been inadvertent.” Id. (quoting
+Schweiker, 487 U.S. at 423). Indeed, since enacting the INA in 1952, Congress has amended it at
+least six times. De La Paz, 786 F.3d at 377 (listing statutes). Despite those repeated amendments,
+Congress has never provided a damages remedy.
+This “institutional silence speaks volumes.” Id. It also “counsels strongly against judicial
+usurpation of the legislative function.” Id. See also Abbasi, 137 S. Ct. at 1862 (noting that where
+policies “attract the attention of Congress,” yet “Congress fails to provide a damages remedy,”
+then “it is much more difficult to believe that ‘congressional inaction’ was ‘inadvertant’” (citing
+Schweiker, 487 U.S. at 423)); Mirmehdi, 689 F.3d at 982 (“Congress’s failure to include
+monetary relief can hardly be said to be inadvertent, given that despite multiple changes to the
+structure of appellate review in the Immigration and Nationality Act, Congress never created
+such a remedy.” (citation omitted)). Thus, not only do claims in this arena “have the natural
+tendency” to affect other areas constitutionally committed to the political branches, but
+Congress, despite its frequent attention to immigration in general and the INA in particular, has
+never provided a damages remedy. Under these circumstances, this Court should not supplant the
+legislative function. It should dismiss Plaintiffs’ complaint.
+
+21
+
+Case 1:17-cv-00943-AJT-TCB Document 39 Filed 01/02/18 Page 30 of 47 PageID# 353
+
+iii.
+
+Plaintiffs challenge Executive Branch policy and priorities.
+
+Furthermore, Plaintiffs implicitly call for a different immigration enforcement system
+than the one purportedly in place, and thereby challenge federal policy in the immigration arena.
+Although the original Plaintiffs amended their complaint to remove all references to the “Trump
+Administration’s” alleged policy of “collateral rests” and other statements by high-level
+administration officials as a cause for their arrests, compare Dkt. #1, Compl. ¶¶ 5, 15, with Dkt.
+#25, FAC, ¶¶ 1-5, they cannot escape the fact that they included those references in setting the
+context of the original complaint—which, in terms of substantive factual allegations, remains
+unchanged as to the February 17 incident—and have now added seven separate Plaintiffs from a
+separate incident in which unlawful aliens who were not the specified target of an operation were
+arrested, and argue that the two sets of claims are related. Plaintiffs’ opposition to Defendants’
+motion, denied without prejudice, under Rules 20 and 21 also demonstrates that Plaintiffs’ actual
+target is the perceived immigration enforcement policies and practices of ICE in Virginia and
+nationwide. See Dkt. #33 at 7-8. This reveals that, at bottom, Plaintiffs in fact challenge the
+purported Executive Branch policy of conducting “collateral arrests,” that is, the arrest of
+unlawfully present aliens who are located during a search for a specific target. Thus, in effect,
+Plaintiffs bring this personal-liability lawsuit against five line-level agents based on purported
+immigration policies adopted by the Executive Branch.
+But as the Abbasi Court emphasized, “a Bivens action is not ‘a proper vehicle for altering
+an entity’s policy.’” 137 S. Ct. at 1860 (quoting Malesko, 534 U.S. at 72). Moreover, as the
+Court explained, even if a complaint “is confined to the conduct of a particular Executive Officer
+in a discrete instance,” the claims nonetheless may “call into question the formulation and
+implementation of a general policy.” Id. That is the clear aim of this lawsuit. As the Court
+22
+
+Case 1:17-cv-00943-AJT-TCB Document 39 Filed 01/02/18 Page 31 of 47 PageID# 354
+
+concluded, “[w]ere this inquiry to be allowed in a private suit for damages, the Bivens action
+would assume dimensions far greater than those present in Bivens itself, or in either of its two
+follow-on cases.” Id. at 1861. This is yet another special factor counselling against implying a
+remedy here.
+Furthermore, Plaintiffs’ FAC, which raises claims based on the arrest of unlawful aliens
+who were not the target of the alleged ICE operations, implicitly calls for this Court to endorse
+an immigration enforcement regime under which ICE officials apprehend only the specific,
+already known targets of any operations. Such a regime would “render egregious (and therefore
+forbidden) ICE raids on sweatshops, forced brothels, and other settings in which illegal aliens are
+exploited and threatened—and much worse.” Maldonado v. Holder, 763 F.3d 155, 162 (2d Cir.
+2014). As the Second Court aptly concluded, “[n]o system of immigration enforcement can run
+under these constraints.” Id. at 163.
+iv.
+
+The system-wide costs of inferring a damages remedy counsel hesitation.
+
+Beyond the separation-of-powers concerns discussed above, multiple “problems of
+administrability” would flow from creating a damages remedy in this context. At the outset, and
+as detailed above, inferring a remedy in this context would slow down the streamlined removal
+process that Congress has established. The Supreme Court has long recognized the costs of
+disrupting removal proceedings with various constitutional challenges. See I.N.S. v. LopezMendoza, 468 U.S. 1032, 1048 (1984) (“The INS currently operates a deliberately simple
+deportation hearing system, streamlined to permit the quick resolution of very large numbers of
+deportation actions, and it is against this backdrop that the costs of the exclusionary rule must be
+assessed.”). As the Lopez-Mendoza Court explained in holding that, generally, the exclusionary
+rule does not apply in civil removal proceedings, “[t]he prospect of even occasional invocation
+23
+
+Case 1:17-cv-00943-AJT-TCB Document 39 Filed 01/02/18 Page 32 of 47 PageID# 355
+
+of the exclusionary rule might significantly change and complicate the character of these
+proceedings.” Id. Allowing Plaintiffs’ claims to proceed under Bivens, essentially turning routine
+immigration matters into individual-capacity suits for money damages, raises similar concerns.
+Additionally, in the context of immigration enforcement operations, claims similar to
+Plaintiffs’ could readily be asserted by other aliens facing removal proceedings. Moreover, such
+claims—particularly to the extent they turn on ICE officials’ motives—are relatively easy to
+plead and can be difficult to disprove. See, e.g., United States v. Alcaraz-Arellano, 441 F.3d
+1252, 1264 (10th Cir. 2006) (“[C]harges of racial discrimination . . . may be easy to make and
+difficult to disprove.” (citation omitted)). Given that every single one of the approximately
+61,000 removals performed last year involved a person from a foreign country, see Fiscal Year
+2017 ICE Enforcement and Removal Operations Report, available at https://www.ice.gov/
+removal-statistics/2017 (last visited Dec. 28, 2017), with at least the potential for equal
+protection claims, this could open the floodgates of litigation against ICE officials enforcing
+immigration laws. Cf. Wilkie, 551 U.S. at 561 (dismissing claims on special factors grounds in
+part because “a Bivens action to redress retaliation against those who resist Government
+impositions on their property rights would invite claims in every sphere of legitimate
+governmental action affecting property interests”).
+The outcome of this would be a marked increase in the number of personal-liability
+lawsuits filed against line-level ICE officials based on the circumstances surrounding arrests, the
+adequate defense of which “would impose an intolerable administrative burden on the
+immigration enforcement system.” Rajah v. Mukasey, 544 F.3d 427, 447 (2d Cir. 2008)
+(discussing Lopez-Mendoza). As the Second Circuit noted, “officers may arrest several aliens per
+day” and therefore “cannot be expected to compile elaborate, contemporaneous, written reports
+24
+
+Case 1:17-cv-00943-AJT-TCB Document 39 Filed 01/02/18 Page 33 of 47 PageID# 356
+
+detailing the circumstances of every arrest.” Id. See also Lopez-Mendoza, 468 U.S. at 1049-50
+(“The demand for a precise account of exactly what happened in each particular arrest would
+plainly preclude mass arrests, even when the [agency] is confronted, as it often is, with massed
+numbers of ascertainably illegal aliens, and even when the arrests can be and are conducted in
+full compliance with all Fourth Amendment requirements.”). Yet to defend the sort of lawsuit
+Plaintiffs bring here—should it proceed beyond the pleadings stage—may require precisely that
+sort of detail, short of a trial by jury solely to evaluate the credibility of an alien who, for
+example, claims he did not give voluntary consent against the testimony of ICE officials who
+claim he did. Balancing such concerns, and the related decision of whether to permit this class of
+cases for money damages, belong to Congress, not the courts. See Abbasi, 137 S. Ct. at 1858.
+v.
+
+Additional practical effects of allowing Plaintiffs’ suit to proceed counsel
+against implying a remedy.
+
+Lastly, at least one concrete, practical effect of allowing suits such as Plaintiffs’ to
+proceed strongly counsels against implying a damages remedy. Such suits may force the
+Government to decide between on the one hand pursuing immigration removal proceedings
+against unlawfully present aliens, or on the other, forcing line-level ICE officials who face
+potential personal liability to effectively forego their entitlement to a qualified immunity defense
+by subjecting them to cross-examination in an evidentiary hearing.
+That is precisely the quandary the Government (and the Defendants) face in this very
+case. As mentioned above, the original Plaintiffs have already raised constitutional claims nearly
+identical to those here in their removal proceedings in motions to suppress evidence. Under
+Fourth Circuit precedent, if an alien pleads an “egregious” Fourth Amendment violation, he or
+she can obtain an evidentiary hearing. See Yanez-Marquez, 789 F.3d at 450-51. Should Plaintiffs
+
+25
+
+Case 1:17-cv-00943-AJT-TCB Document 39 Filed 01/02/18 Page 34 of 47 PageID# 357
+
+establish a prima facie case through their motions, Defendants would potentially face an
+evidentiary hearing at which they could be cross-examined by Plaintiffs’ counsel—who also
+represents them in their removal proceedings, see Exs. 1, 2—about the very events underlying
+Plaintiffs’ claims. And Defendants would face that cross-examination without their personal
+attorney, bound to protect their individual interests, see 28 C.F.R. § 50.15, to defend them.
+Beyond the inherent injustice in such a scenario, it would enable Plaintiffs to circumvent
+Defendants’ qualified immunity defense, which the Supreme Court has long held is meant to
+protect federal officials from the burdens of litigation, including discovery, in the absence of a
+clearly established constitutional violation. See, e.g., Behrens v. Pelletier, 516 U.S. 299, 308
+(1996) (“Harlow and Mitchell make clear that the [qualified immunity] defense is meant to give
+government officials a right, not merely to avoid ‘standing trial,’ but also to avoid the burdens of
+‘such pretrial matters as discovery’ . . . .”); Mitchell v. Forsyth, 472 U.S. 511, 526 (1985)
+(“Unless the plaintiff’s allegations state a claim of a violation of clearly established law, the
+defendant is entitled to qualified immunity before the commencement of discovery.”); see also
+Cloaninger ex rel. Estate of Cloaninger v. McDevitt, 555 F.3d 324, 330 (4th Cir. 2009) (quoting
+Mitchell, 472 U.S. at 526). Not only would this give Plaintiffs two bites of the apple in their
+removal proceedings, it would give them two bites of the apple in their discovery into
+Defendants: one during immigration removal proceedings, and one during civil discovery. That
+simply cannot be right. And it certainly is not what Bivens was meant for.
+In short, Plaintiffs’ claims raise numerous separation-of-powers and system-wide
+administrability concerns, among other special factors. They also raise the prospect of Plaintiffs
+using this lawsuit as both a shield, potentially delaying their immigration removal proceedings,
+and as a sword, obtaining premature discovery against Defendants in this case. This Court should
+26
+
+Case 1:17-cv-00943-AJT-TCB Document 39 Filed 01/02/18 Page 35 of 47 PageID# 358
+
+not permit that, and should instead dismiss Plaintiffs’ claims.
+III.
+
+Defendants Are Entitled to Qualified Immunity.
+Dismissal of Plaintiffs’ Bivens claims is also warranted on the independent ground that
+
+Defendants are entitled to qualified immunity. The courts have long noted that individualcapacity actions like this one “entail substantial social costs, including the risk that fear of
+personal monetary liability and harassing litigation will unduly inhibit officials in the discharge
+of their duties.” Anderson v. Creighton, 483 U.S. 635, 638 (1987) (citation omitted). To address
+those concerns, the Supreme Court established the defense of qualified immunity. See Harlow v.
+Fitzgerald, 457 U.S. 800 (1982). Qualified immunity shields officials performing discretionary
+functions from liability for civil damages “insofar as their conduct does not violate clearly
+established statutory or constitutional rights of which a reasonable person would have known.”
+Id. at 818. The Supreme Court has emphasized that in order to ensure that qualified immunity
+shields officials from the fear of civil damages as well as the harassment of litigation, Anderson,
+483 U.S. at 638, qualified immunity contains an “entitlement not to stand trial or face the other
+burdens of litigation.” Mitchell, 472 U.S. at 526 (citation omitted). It is “an immunity from suit
+rather than a mere defense to liability.” Id. Accordingly, the Court has “repeatedly . . . stressed
+the importance of resolving immunity questions at the earliest possible stage in litigation.”
+Hunter v. Bryant, 502 U.S. 224, 227 (1991) (per curiam) (citations omitted).
+Three components of qualified immunity come into play in this case: first, for Plaintiffs’
+constitutional claims to survive, they must allege facts “plausibly suggesting (not merely
+consistent with)” violation of a clearly established right. Bell Atl. Corp. v. Twombly, 550 U.S.
+544, 557 (2007). In evaluating the allegations, the Court must ignore “legal conclusions” stated
+in the complaint. Walters v. McMahon, 684 F.3d 435, 439 (4th Cir. 2012). After eliminating such
+27
+
+Case 1:17-cv-00943-AJT-TCB Document 39 Filed 01/02/18 Page 36 of 47 PageID# 359
+
+unsupported legal conclusions, the Court should ask whether Plaintiffs have proffered sufficient
+“factual allegations” against each Defendant to “advance the plaintiff’s claim ‘across the line
+from conceivable to plausible.’” Id. (quoting Twombly, 550 U.S. at 570). “A claim has facial
+plausibility when the plaintiff pleads factual content that allows the court to draw the reasonable
+inference that the defendant is liable for the misconduct alleged.” Iqbal, 556 U.S. at 678 (citation
+omitted). Although the “plausibility standard is not akin to a ‘probability requirement,’” id., an
+inference of misconduct may be rendered implausible when the allegations of misconduct are
+more likely explained by lawful behavior than by unlawful behavior. See id. at 679-80.
+Second, qualified immunity is a “fair notice” requirement, Hope v. Pelzer, 536 U.S. 730,
+739 (2002), which is intended to protect government officials from suit unless they are “plainly
+incompetent or . . . knowingly violate the law.” Ashcroft v. al-Kidd, 563 U.S 731, 743 (2011)
+(quotation omitted); see also Raub v. Campbell, 785 F.3d 876, 881 (4th Cir. 2015) (granting
+qualified immunity in the § 1983 context). Qualified immunity “gives ample room for mistaken
+judgments” and “protects public officials from bad guesses in gray areas.” Durham v. Horner,
+690 F.3d 183, 190 (4th Cir. 2012) (internal quotations and citations omitted). For a right to be
+clearly established, it must be adequately developed by existing law so as to provide an official
+with sufficient guidance: “The contours of the right must be sufficiently clear that a reasonable
+official would understand that what he is doing violates that right.” Anderson, 483 U.S. at 640.
+The illegality of the officer’s actions must, in the light of pre-existing law, be “beyond debate.”
+al-Kidd, 563 U.S. at 741. The Supreme Court has “repeatedly” implored lower courts “not to
+define clearly established law at a high level of generality.” Id. at 742 (citations omitted). See
+also Safar v. Tingle, 859 F.3d 241, 246 (4th Cir. 2017) (“[I]t is a longstanding principle that
+clearly established law should not be defined at a high level of generality.” (internal quotation
+28
+
+Case 1:17-cv-00943-AJT-TCB Document 39 Filed 01/02/18 Page 37 of 47 PageID# 360
+
+and citation omitted)).
+And third, qualified immunity applies unless a plaintiff alleges that a defendant
+personally participated in a clearly established constitutional violation. See Iqbal, 556 U.S. at
+672-75 (finding appellate jurisdiction for denial of claim to qualified immunity that was based on
+failure to plead allegations of personal participation in alleged constitutional violations). As the
+Supreme Court explained in Iqbal, to state a claim under Bivens, “a plaintiff must plead that each
+Government-official defendant, through the official’s own individual actions, has violated the
+Constitution.” Iqbal, 556 U.S. at 676. Government officials cannot be held liable for the
+misconduct of other government officials. See id. Accordingly, where plaintiffs sue a number of
+Government officials in their individual capacities, “it is particularly important in such
+circumstances that the complaint make clear exactly who is alleged to have done what to whom.”
+Robbins v. Oklahoma, 519 F.3d 1242, 1250 (10th Cir. 2008). See Evans v. Chalmers, 703 F.3d
+636, 661 (4th Cir. 2012) (citing and quoting Iqbal and Robbins in concurring with dismissal of
+claims against government officials for whom no specific allegations were raised) (Wilkinson, J.,
+concurring); Marcantonio v. Dudzinski, 155 F. Supp. 3d 619, 626 (W.D. Va. 2015) (“In the
+Fourth Circuit and elsewhere, courts have interpreted Twombly and Iqbal to mean that generic or
+general allegations about the conduct of ‘defendants,’ without more, fail to state a claim.”
+(citations omitted)). This Court should grant qualified immunity to Defendants because Plaintiffs
+have failed plausibly to allege that each Defendant personally participated in a violation of a
+clearly established constitutional right.
+A. The Original Plaintiffs fail to allege that Defendants committed a clearly
+established Fourth Amendment violation during the February 17 incident.
+The Fourth Amendment prohibits “unreasonable searches and seizures.” U.S. Const.
+
+29
+
+Case 1:17-cv-00943-AJT-TCB Document 39 Filed 01/02/18 Page 38 of 47 PageID# 361
+
+amend. IV. Law enforcement officers are permitted to conduct an investigatory stop if they have
+a “reasonable and articulable suspicion that the person seized is engaged in criminal activity.”
+See United States v. King, 119 F.3d 290, 294 (4th Cir. 1997) (quoting Reid v. Georgia, 448 U.S.
+438, 400 (1980)). “A reasonable, articulable suspicion is a particularized and objective basis for
+suspecting the person stopped.” King, 119 F.3d at 294 (quoting Ornelas v. United States, 517
+U.S. 690, 696 (1996)). Assuming that the original Plaintiffs’ factual allegations are correct for
+the purposes of this dispositive motion only, Defendants concede that the original Plaintiffs have
+pled that an investigatory stop occurred when the original Plaintiffs’ vehicle was blocked by an
+SUV in the early morning hours of February 17. See FAC ¶ 56; United States v. Jones, 678 F.3d
+293, 300-01 (4th Cir. 2012).
+But it certainly was not clearly established that the stop was unreasonable or that
+Defendants had no “particularized and objective basis for suspecting” the occupants of the
+vehicle and stopping it. According to Plaintiffs’ own complaint, Defendants were searching for
+adult male suspects who had lived in the apartment complex at which the stop occurred. See
+FAC ¶ 63. Not only that, the suspects had lived in the very apartment the original Plaintiffs left
+as they went to their vehicle early that morning. Id. Moreover, the stop occurred at 6:25 a.m., id.
+¶ 55, roughly thirty minutes before sunrise, in the heart of winter. 10
+Under such circumstances, Defendants had a “particularized and objective basis” to stop
+the original Plaintiffs’ vehicle to ascertain whether any of the four adult male occupants in fact
+Courts may take judicial notice of such undisputed facts as the time of sunrise on a certain
+date. See Davis v. United States, No. 1:07-cr-254, 2011 WL 13192740, at *3 (E.D. Va. Dec. 15,
+2011). According to The Old Farmer’s Almanac, on February 17, 2017, sunrise in Annandale,
+Virginia, was at 6:55 a.m. See https://www.almanac.com/astronomy/rise/VA/Annandale/201702-17. Plaintiffs’ assertion that the time of the alleged seizure was “a mere five minutes before
+the start of civil twilight,” FAC at 13 n.2, simply reinforces the fact that the seizure occurred well
+before sunrise in the depth of the winter.
+10
+
+30
+
+Case 1:17-cv-00943-AJT-TCB Document 39 Filed 01/02/18 Page 39 of 47 PageID# 362
+
+were the adult male suspects Defendants sought. See Taft v. Vines, 70 F.3d 304, 312 (4th Cir.
+1995) (officers had reasonable suspicion to stop vehicle that left mobile home park where
+suspected murderer resided), reh’g granted, opinion adopted in relevant part en banc, 83 F.3d
+681, 683-84 (4th Cir. 1996) (per curiam). At bare minimum, it was not clearly established they
+had no lawful basis for stopping the vehicle. That none of the occupants turned out to be the
+suspects is irrelevant. Id. (“[T]he mistaken seizure of an individual is not pertinent to a proper
+qualified immunity analysis.”).
+Once the Defendants had a basis for stopping the vehicle on suspicion of containing
+criminal aliens, they were entitled to ask the occupants for their identification and their
+immigration status. See United States v. Brignoni-Ponce, 422 U.S. 873, 881 (1975) (“[W]hen an
+officer’s observations lead him reasonably to suspect that a particular vehicle may contain aliens
+who are illegally in the country, he may stop the car briefly and investigate the circumstances
+that provoke suspicion.”). As the Court added in Brignoni-Ponce, “[t]he officer may question the
+driver and passengers about their citizenship and immigration status . . . .” Id. That one of the
+vehicle occupants could not produce identification, FAC ¶ 60, would not serve to allay any
+suspicion Defendants had. Moreover, the original Plaintiffs make no mention of what sort of
+identification they produced—or of their actual citizenship or status to be in the United States,
+for that matter. See generally FAC. Such “evasive pleading,” De La Paz, 786 F.3d at 370 n.2,
+cannot skirt the fact that the original Plaintiffs themselves, in their own motions to suppress filed
+in their removal proceedings, do not contest that they indeed are aliens who do not have legal
+status to remain in the United States. See generally Exs. 1, 2. Once this fact was established, be it
+at the vehicle when officers first asked for identification, or in the apartment they returned to
+after an occupant failed to produce any, all possible Fourth Amendment concerns disappeared.
+31
+
+Case 1:17-cv-00943-AJT-TCB Document 39 Filed 01/02/18 Page 40 of 47 PageID# 363
+
+In sum, the original Plaintiffs have failed to allege that Defendants violated a clearly
+established Fourth Amendment right. This Court should therefore dismiss the original Plaintiffs’
+Fourth Amendment claim because Defendants are entitled to qualified immunity.
+B. The newly added Plaintiffs have failed to allege which Defendants, and how each
+Defendant, personally participated in the alleged events of February 8, 2017.
+The newly added Plaintiffs’ Fourth Amendment claim fails to state a claim because their
+allegations do not specify which of the five Defendants was involved in the February 8, 2017
+alleged incident, and also do not explain who is alleged to have done what to whom. Although
+the FAC contains specific factual allegations of certain discrete acts occurring early on February
+8, including encounters with individuals, statements to inhabitants of the house in Arlington, and
+other discrete acts, the FAC does not say which of the five Defendants were at all allegedly
+involved in these acts. See FAC ¶ 20. Nor does it specifically identify any individual Defendant
+as having allegedly committed any act on February 8. Instead, the FAC refers variously to “four
+Defendants,” FAC ¶ 20; “three Defendants,” id. ¶ 28; “two Defendants,” id. ¶ 29; “[o]ne,” “a,” or
+“the” “Defendant,” id. ¶¶ 23, 29, 32, 36-42, 46-48; or just “Defendants,” id. ¶¶ 21-22, 25-28, 31,
+34-36, 43-46. Indeed, there is not a single specific allegation in the FAC naming a specific
+Defendant. See generally, FAC.
+But such allegations against a vague set of “Defendants” in an individual-capacity suit
+against five individuals are insufficient to state a Bivens claim under basic pleading standards.
+Marcantonio v. Dudzinski, a common-law tort action, illustrates this point. In Marcantonio, a
+first-year student on the University of Virginia’s swim team sued five more senior swimmers for
+allegedly hazing him, listing a series of factually detailed, explicit, discrete acts the defendants
+purportedly committed. See Marcantonio, 155 F. Supp. 3d at 623-25 (summarizing allegations).
+
+32
+
+Case 1:17-cv-00943-AJT-TCB Document 39 Filed 01/02/18 Page 41 of 47 PageID# 364
+
+Yet the court found that allegations against “defendants” that failed to specify which of the five
+defendants committed the alleged act were insufficient, even though the facts alleged were
+themselves detailed. See id. at 626 (dismissing all claims against defendant for whom no specific
+allegations were raised against him by name); see also Butler v. Bank of Am., N.A., 690 F.3d 959,
+961 (8th Cir. 2012) (dismissing claims against law firm where no allegations specified its
+involvement in fraud but complaint contained general allegations against “defendants”); Bryson
+v. Gonzales, 534 F.3d 1282, 1290 (10th Cir. 2008) (noting that generic claims against
+“defendants” did not assist in determining which factual allegations were pled against police
+chief defendant); Raub v. Bowen, 960 F. Supp. 2d 602, 616 (E.D. Va. 2013) (dismissing false
+imprisonment claim against unspecified defendants were claims brought against “one or more
+Defendants—including but not limited to” two other specified defendants).
+Here, like in Marcantino, the newly added Plaintiffs bring tort claims against five
+Defendants and plead discrete factual events, yet fail to specify which of the “Defendants” is
+alleged to have done what to whom. As with the plaintiff in Marcantino who failed to state
+claims against a defendant who was not specifically alleged to have committed the underlying
+tortious acts, the newly added Plaintiffs fail to state a claim against Defendants.
+This applies all the more so to the newly added Plaintiffs’ allegations, which paint a
+vague, confusing, and often contradictory picture of how many “Defendants” were allegedly
+involved in many of the discrete acts pled. For example, the newly added Plaintiffs assert that
+“four Defendants” participated in the February 8 operation, FAC ¶ 20. Yet after alleging that
+“three Defendants” remained in the basement of the house, id. ¶ 28, Plaintiffs claim that “two
+Defendants” then went upstairs to the second floor, raising to five the number of “Defendants”
+purportedly involved. Id. ¶¶ 29-30. But when those “two Defendants” returned to the first floor
+33
+
+Case 1:17-cv-00943-AJT-TCB Document 39 Filed 01/02/18 Page 42 of 47 PageID# 365
+
+(not the basement), “several armed Defendants” already awaited them, id. ¶ 40, while
+“Defendants” still remained in the basement. Id. ¶ 44. That puts the total number of
+“Defendants” participating in the incident at seven—if not more. In a constitutional tort
+complaint against five ICE officers in their individual capacities, “such vagaries,” Raub, 960 F.
+Supp. 2d at 616, will not do. This Court should therefore dismiss the newly added Plaintiffs’
+Fourth and Fifth Amendment claims against Defendants.
+C. All Plaintiffs have failed adequately to plead a violation of the Fifth Amendment.
+Relatedly, this Court should dismiss Plaintiffs’ equal protection claim because they have
+failed to allege a plausible violation of their Fifth Amendment rights, not to mention a clearly
+established violation. In effect, their equal protection claim is a selective prosecution claim in
+that they assert the Government has selected to enforce immigration laws against them based on
+their race and ethnicity, while not doing so to unlawfully present aliens of other races and
+ethnicities. “As a general matter . . . an alien unlawfully in this country has no constitutional
+right to assert selective enforcement as a defense against his deportation.” AADC, 525 U.S. at
+488. Thus, it is not clearly impermissible for the United States to take into account an alien’s
+national origin in removal proceedings. Although in the criminal context, a decision to prosecute
+aliens of a certain race and ethnicity in a discriminatory manner or based on a discriminatory
+animus would likely be unlawful, see United States v. Armstrong, 517 U.S. 456, 464 (1996),
+even in that context, to state such a claim in criminal proceedings, a plaintiff “must establish that
+(1) similarly situated individuals of a different race were not prosecuted; and (2) that the decision
+to prosecute was invidious or in bad faith.” United States v. Braddock, 410 F. App’x 587, 589
+(4th Cir. 2011) (per curiam) (internal quotation marks and citations omitted). See also United
+States v. Nicolas-Juan, 426 F. App’x 154, 155 (4th Cir. 2011) (per curiam) (dismissing equal
+34
+
+Case 1:17-cv-00943-AJT-TCB Document 39 Filed 01/02/18 Page 43 of 47 PageID# 366
+
+protection claim because criminal alien was “not similarly situated with non-criminal aliens”).
+Plaintiffs—who face immigration removal proceedings, which are civil, and not criminal
+proceedings—fail plausibly to allege either of the criteria they would need to plead even if
+prosecuted. First, they have not alleged that Defendants failed to question or detain other
+similarly situated aliens of a different race or ethnicity. Their assertions that “[t]he
+neighborhoods where ICE targeted Plaintiffs have a higher concentration of people with Latino
+ethnicity than other neighborhoods in the vicinity,” FAC ¶ 71, is irrelevant because the correct
+inquiry focuses on how similarly situated aliens are treated, not on the specific ethnic
+composition of one locale. See Armstrong, 517 U.S. at 464. And Plaintiffs simply have not
+alleged that similarly situated unlawful aliens located in Alexandria or Annandale who are not of
+Latino ethnicity have been treated differently than Plaintiffs. See generally, FAC. Nor have they
+alleged that other locales with a lower concentration of people with Latino ethnicity have seen a
+significantly lower frequency of ICE operations to locate unlawful aliens.
+Even if Plaintiffs had adequately alleged that they were treated differently than similarly
+situated unlawful aliens, their allegations of discriminatory intent are wholly conclusory. Their
+claim that Defendants detained them “solely based on” their “apparent race, ethnicity, or
+perceived national origin,” FAC ¶¶ 72, 81, is just the sort of “formulaic recitation of the elements
+of a cause of action” that this Court must ignore. Iqbal, 556 U.S. at 662. See Aguilar v. ICE, 811
+F. Supp. 2d 803, 820 (S.D.N.Y. 2011) (dismissing equal protection claim where plaintiffs alleged
+that officials “intended to violate constitutional rights”). 11
+The newly added Plaintiffs’ allegation that a “Defendant” asked whether “other ‘Spanish
+families’” lived nearby, aside from applying only to the alleged February 8 operation, does not
+state a claim because it fails to specify who allegedly made that comment. See supra Part III.B.
+In any event, in the context of looking for the individual they sought, such a statement would not
+state the violation of a clearly established constitutional right.
+11
+
+35
+
+Case 1:17-cv-00943-AJT-TCB Document 39 Filed 01/02/18 Page 44 of 47 PageID# 367
+
+Moreover, even based on the few facts actually pled, their claims simply are implausible.
+The original Plaintiffs’ bare assertion that Defendants detained and questioned them “solely
+based on their apparent race, ethnicity, or perceived national origin,” FAC ¶ 81, is belied by a
+more plausible explanation. Namely, Defendants detained and questioned Plaintiffs because in
+the early morning hours, they left the apartment where suspected criminal aliens Defendants
+were searching for had lived. Id. ¶ 63. And, as it turned out, Plaintiffs were undocumented aliens
+and could not establish lawful presence.
+Similarly, the newly added Plaintiffs’ claims that Defendants detained and questioned
+them “solely based on” their “apparent race, ethnicity, or perceived national origin,” FAC ¶ 72,
+is implausible when considering that at least one individual of that same “apparent race,
+ethnicity, or perceived national origin,” id., was not arrested—namely, Cárcamo. Moreover,
+although the FAC makes no mention of the ethnicity of the various female individuals
+encountered during the February 8 operation, it is noteworthy that none of those women were
+detained or questioned. Instead, adult males (like the individual that Defendants sought) who
+were unable to establish their lawful presence in the United States, were questioned and detained.
+As between the “obvious alternative explanation” for the detention and questioning of all the
+Plaintiffs and “the purposeful, invidious discrimination” Plaintiffs asks this Court to infer,
+“discrimination is not a plausible conclusion.” Iqbal, 556 U.S. at 682. Undertaking the task of
+removing unlawfully present aliens, the very job Defendants were hired to do, certainly does not
+violate any clearly established right. 12
+
+Because Plaintiffs’ Bivens claims fail, their claim for declaratory relief must be dismissed as
+well. The Declaratory Judgment Act, 28 U.S.C. § 2201 (DJA), does not provide a cause of
+action. “It is a well-established rule that the Declaratory Judgment Act is not an independent
+source of federal jurisdiction.” Ali v. Rumsfeld, 649 F.3d 762, 778 (D.C. Cir. 2011) (internal
+12
+
+36
+
+Case 1:17-cv-00943-AJT-TCB Document 39 Filed 01/02/18 Page 45 of 47 PageID# 368
+
+CONCLUSION
+Plaintiffs’ suit attempts to stymie their immigration removal proceedings and to alter the
+perceived immigration enforcement policies of the Executive Branch. Congress and the Supreme
+Court have both weighed in against such attempts in the context of an individual damages claim.
+For these reasons and those stated above, this Court should dismiss Plaintiffs’ First Amended
+Complaint.
+
+citations, quotations, and alterations omitted). “Rather, the availability of declaratory relief
+presupposes the existence of a judicially remediable right.” Id.; see also Gibraltar, P.R., Inc. v.
+Otoki Grp., Inc., 104 F.3d 616, 619 (4th Cir. 1997) (“[T]he DJA does not provide a source of
+jurisdiction which is independent of substantive federal law.”).
+37
+
+Case 1:17-cv-00943-AJT-TCB Document 39 Filed 01/02/18 Page 46 of 47 PageID# 369
+
+DATED this 2nd day of January, 2018.
+Respectfully submitted,
+CHAD A. READLER
+Acting Assistant Attorney General
+Civil Division
+DANA J. BOENTE
+United States Attorney
+Eastern District of Virginia
+C. SALVATORE D’ALESSIO, Jr.
+Acting Director, Torts Branch
+MARY HAMPTON MASON
+Senior Trial Counsel
+/s/
+DENNIS C. BARGHAAN, JR.
+Deputy Chief, Civil Division
+Assistant U.S. Attorney
+2100 Jamieson Avenue
+Alexandria, Virginia 22314
+Telephone: (703) 299-3891
+Fax: (703) 299-3983
+E-Mail: dennis.barghaan@usdoj.gov
+Paul E. Werner
+Trial Attorney
+Civil Division, Torts Branch
+P.O. Box 7146 Ben Franklin Station
+Washington, D.C. 20044
+Telephone: (202) 616-4152
+Fax: (202) 616-4134
+E-Mail: paul.werner@usdoj.gov
+Attorneys for the Defendants
+
+38
+
+Case 1:17-cv-00943-AJT-TCB Document 39 Filed 01/02/18 Page 47 of 47 PageID# 370
+
+CERTIFICATE OF SERVICE
+I hereby certify that on January 2, 2018, I electronically filed the foregoing with the Clerk
+of Court using the CM/ECF system, which will send notification of this filing to:
+Simon Y. Sandoval-Moshenberg
+VA Bar No. 77110
+Nicholas Marritz
+VA Bar No. 89795
+Legal Justice Aid Center
+6066 Leesburg Pike, Suite 520
+Falls Church, VA 22041
+Telephone: (703) 720-5605
+E-Mail: simon@justice4all.org; nicholas@justice4all.org
+Daniel E. Johnson
+VA Bar No. 88696
+Mark H. Lynch (pro hac vice)
+Jose E. Arvelo (pro hac vice)
+Brandon H. Johnson (pro hac vice)
+Daniel T. Grant (pro hac vice)
+Covington & Burling LLP
+One CityCenter
+850 Tenth Street, NW
+Washington, DC 20001
+Telephone: (202) 662-5224
+E-Mail: dejohnson@cov.com
+
+/s/
+DENNIS C. BARGHAAN, JR.
+Deputy Chief, Civil Division
+Assistant U.S. Attorney
+2100 Jamieson Avenue
+Alexandria, Virginia 22314
+Telephone: (703) 299-3891
+Fax: (703) 299-3983
+E-Mail: dennis.barghaan@usdoj.gov
+
+39
+
+

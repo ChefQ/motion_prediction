@@ -1,0 +1,1892 @@
+Case 1:07-cv-00579-RMU
+
+Document 52
+
+Filed 04/26/2007
+
+Page 1 of 49
+
+UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF COLUMBIA
+____________________________________
+MYLAN LABORATORIES, INC., et al., )
+)
+Plaintiffs,
+)
+)
+v.
+)
+Civil Action No. 07-0579 (RMU)
+)
+MICHAEL O. LEAVITT, Secretary,
+)
+Health and Human Services, et. al.,
+)
+)
+Defendants,
+)
+)
+and
+)
+)
+TEVA PHARMACEUTICALS USA,
+)
+INC.,
+)
+)
+APOTEX INC., and
+)
+)
+MUTUAL PHARMACEUTICAL
+)
+CO., INC.,
+)
+)
+Intervenors.
+)
+____________________________________)
+GOVERNMENT DEFENDANTS’ COMBINED MEMORANDUM IN OPPOSITION TO
+MOTIONS FOR INJUNCTIVE RELIEF FILED BY TEVA, APOTEX, AND MYLAN
+INTRODUCTION
+Intervenors and cross-claim plaintiffs Apotex Inc. (“Apotex”) and Teva Pharmaceuticals
+USA, Inc. (“Teva”) contend that their abbreviated new drug applications (“ANDAs”) for
+amlodipine besylate tablets (“amlodipine”) are entitled to immediate approval. Pfizer Inc.
+(“Pfizer”) holds the new drug application (“NDA”) for amlodipine, which it markets under the
+name Norvasc. The last of the patents that Pfizer asserted prevented competition from generic
+versions of Norvasc, Patent No. 4,879,303 (“‘303 patent”), expired on March 25, 2007. Apotex
+and Teva contend that their respective ANDAs became eligible for final approval at that time.
+
+Case 1:07-cv-00579-RMU
+
+Document 52
+
+Filed 04/26/2007
+
+Page 2 of 49
+
+The only currently approved amlodipine ANDA was submitted by Mylan Laboratories, Inc. and
+Mylan Pharmaceuticals, Inc. (“Mylan”). Both Mylan and Pfizer are currently marketing generic
+versions of amlodipine. Mylan contends that no other ANDA can be approved at least until
+September 19, 2007. Apotex also seeks an order requiring FDA to convert Mylan’s ANDA from
+final approval to tentative approval status in order to require Mylan to withdraw its product from
+the market.
+Because of the complexity of the legal issues involved in the approval decisions regarding
+the amlodipine ANDAs, the United States Food and Drug Administration (“FDA”) issued a
+request for comments on several issues, and established a docket for posting the comments on its
+website. See Docket 2007P-0123,
+http://www.fda.gov/ohrms/dockets/dockets/07n0123/07n0123.htm. These issues included: the
+effect of the opinion issued by the Federal Circuit on March 22, 2007, that the three claims in the
+‘303 patent Pfizer asserted that Apotex infringed were invalid as obvious (Pfizer, Inc. v. Apotex,
+Inc., No. 2006-1261, 2007 U.S. App. LEXIS 6623 (Mar. 22, 2007) (hereinafter “Apotex
+Opinion”)); whether ANDA approval was blocked by Pfizer’s “pediatric exclusivity,” an award
+of six months of exclusivity beyond the expiration date of a patent for new drug manufacturers
+who complete pediatric studies pursuant to a request from FDA; and whether ANDA approval
+was blocked by “180-day marketing exclusivity,” an incentive for the first applicant for the
+generic version of a new drug to challenge the innovator’s patent for that drug (here, the first
+applicant is Mylan).
+On April 18, 2007, after considering comments submitted by interested parties, FDA
+issued an administrative decision that concluded as follows:
+
+-2-
+
+Case 1:07-cv-00579-RMU
+
+Document 52
+
+Filed 04/26/2007
+
+Page 3 of 49
+
+1. For purposes of pediatric exclusivity, the Apotex Opinion will not be effective until
+issuance of the mandate; thus all pending ANDAs are currently blocked by Pfizer’s pediatric
+exclusivity.
+2. Apotex will cease to be subject to Pfizer’s exclusivity if the mandate issues before
+September 25, 2007.
+3. If the mandate issues before the expiration of pediatric exclusivity on September 25,
+2007, ANDAs other than Apotex’s may not be eligible for immediate approval, but FDA cannot
+resolve the issue on the record before the Agency.
+4. Mylan’s eligibility for 180-day exclusivity does not extend beyond the expiration of
+the patent.
+FDA Letter Decision (Apr. 18, 2007) (submitted to the Court on April 18, 2007, and also
+available at http://www.fda.gov/ohrms/dockets/dockets/07n0123/07n-0123-let0002-vol1.pdf)
+(hereinafter “FDA Decision”). As a result of this decision, neither Apotex’s nor Teva’s ANDA
+is eligible for immediate approval. However, FDA determined that Apotex’s ANDA would be
+eligible if and when the mandate effectuating the Apotex opinion issues. FDA has not
+determined whether Teva’s ANDA would be eligible for approval at that time.
+Apotex and Teva now seek injunctive and declaratory relief that would overturn FDA’s
+administrative decision and declare their respective ANDAs eligible for immediate approval.
+Specifically, Apotex is challenging FDA’s decision on issue 1, but does not object to FDA’s
+decisions on issues 2, 3, and 4. Teva is challenging FDA’s decisions on issues 1 and 3, but does
+not object to FDA’s decisions on issues 2 and 4. Apotex also challenges an issue that was not
+enumerated in FDA’s decisional letter but simply mentioned in a footnote. See FDA Decision at
+5-6 n.4. This issue relates to whether Mylan’s ANDA should have lost its final approval status
+based on a district court injunction in Mylan’s patent litigation with Pfizer, even though the
+Federal Circuit stayed the district court injunction. FDA decided that, because of the stay, Mylan
+did not lose its final, effective approval.
+-3-
+
+Case 1:07-cv-00579-RMU
+
+Document 52
+
+Filed 04/26/2007
+
+Page 4 of 49
+
+In the telephone conference with the Court’s clerk last week in which the briefing
+schedule for these motions for injunction was established, Mylan did not indicate that it would be
+filing its own motion for preliminary injunction this week. However, on April 23 Mylan also
+filed a motion for preliminary injunction in which it objects to the FDA decisions on issues 2 and
+4 (hereinafter “Mylan Mem.”). On April 24, Mylan submitted a supplemental memorandum in
+support of an “amended” application for a preliminary injunction that includes additional
+arguments and also objects to the FDA Decision on issue 3 (hereinafter “Mylan Supp. Mem.”).
+The relief Mylan seeks is to enjoin approval of other ANDAs while the Court considers the
+pediatric exclusivity and 180-day exclusivity issues. There is some obvious overlap, however,
+between Mylan’s requested relief and arguments and those of Teva and Apotex, and FDA will
+address Mylan’s arguments in this memorandum to the extent possible. Also, Mylan’s
+arguments are thoroughly addressed in the FDA decision, and FDA hereby refers to and
+incorporates that decision in rebuttal to Mylan’s arguments to the extent its arguments are not
+addressed in this memorandum.
+The issues in this case involve interpreting the Federal Food, Drug and Cosmetic Act
+(“FDCA”), the statute that Congress charged FDA with implementing, and balancing competing,
+complex statutory provisions and policy questions within the agency’s expertise. FDA’s detailed
+explanation demonstrates that it gave careful consideration to the relevant factors in reaching its
+conclusion. Accordingly, the Court should defer to FDA’s conclusions on these issues and deny
+the requested preliminary injunctions.
+
+-4-
+
+Case 1:07-cv-00579-RMU
+
+Document 52
+
+Filed 04/26/2007
+
+Page 5 of 49
+
+STATUTORY FRAMEWORK
+I.
+
+New Drug Applications (“NDAs”)
+FDA approves applications to market drugs under the FDCA, 21 U.S.C. § 355.1 Under
+
+this provision, pharmaceutical companies seeking to market “pioneer” or “innovator” drugs must
+first obtain FDA approval by filing an NDA containing extensive scientific data demonstrating
+the safety and effectiveness of the drug. 21 U.S.C. § 355(a), (b). An NDA applicant must also
+submit information on any patent that claims the drug or a method of using the drug and for
+which a claim of patent infringement could reasonably be asserted against an unauthorized party.
+21 U.S.C. § 355(b)(1), (c)(2). FDA publishes the patent information it receives in “Approved
+Drug Products With Therapeutic Equivalence Evaluations” (the “Orange Book”). Id.; see also
+21 U.S.C. § 355(j)(7); 21 C.F.R. § 314.53(e).
+II.
+
+Abbreviated New Drug Applications (“ANDAs”)
+The Drug Price Competition and Patent Term Restoration Act of 1984 (known as the
+
+“Hatch-Waxman Amendments”), codified at 21 U.S.C. §§ 355, 360cc, and 35 U.S.C. §§ 156,
+271, 282, permits the submission of ANDAs for approval of generic versions of approved drug
+products. 21 U.S.C. § 355(j). The ANDA process shortens the time and effort needed for
+
+1
+
+In December 2003, Congress amended certain provisions of 21 U.S.C. § 355. See The Access
+to Affordable Pharmaceuticals provisions of the Medicare Prescription Drug, Improvement, and
+Modernization Act of 2003, Pub. L. No. 108-173, 117 Stat. 2066 (Dec. 8, 2003) (the “MMA”).
+These amendments do not apply to many of the issues in this case because of the effective dates
+of the amendments and the operative dates of the underlying facts. Accordingly, unless
+otherwise noted, this memorandum refers to the pre-December 2003 version of the statute.
+Indeed, the analysis provided in the FDA Decision was expressly limited to the pre-MMA
+statute. FDA Decision at 1. Teva asserts that the pediatric exclusivity is governed by the
+MMA’s application approval provisions. See Brief of Teva Pharmaceuticals USA, Inc. In
+Support of its Cross-Claim and Application for Declaratory and Injunctive Relief (“Teva Mem.”)
+at 7 n.1. However, the relevant pediatric exclusivity provisions predated the MMA.
+-5-
+
+Case 1:07-cv-00579-RMU
+
+Document 52
+
+Filed 04/26/2007
+
+Page 6 of 49
+
+approval by, among other things, allowing the applicant to demonstrate its product’s
+bioequivalence to a drug already approved under an NDA (the “listed” drug) rather than having
+to reproduce the safety and effectiveness data for that drug. Eli Lilly and Co. v. Medtronic, Inc.,
+496 U.S. 661, 676 (1990). If an ANDA applicant establishes that its proposed drug product has
+the same active ingredient, strength, dosage form, route of administration, labeling, and
+conditions of use as a listed drug, and that it is bioequivalent to that drug, the applicant can rely
+on FDA’s previous finding that the listed drug is safe and effective. See id.2 The FDCA sets
+forth in detail additional information that an ANDA must contain, and lists the numerous
+deficiencies that may prevent or delay approval of an ANDA. See 21 U.S.C. §§ 355(j)(2),
+355(j)(4).
+A.
+
+Patent Certifications
+
+The timing of approval of ANDAs depends in part on patent protections for the pioneer
+drug. An ANDA must contain one of four specified certifications for each patent that “claims the
+listed drug” or “a use for such listed drug for which the applicant is seeking approval.” 21
+U.S.C. § 355(j)(2)(A)(vii). The certification must state one of the following:
+(I) that the required patent information relating
+to such patent has not been filed;
+(II) that such patent has expired;
+(III) that such patent will expire on a particular date; or
+(IV) that such patent is invalid or will not be infringed
+by the drug for which approval is being sought.
+
+2
+
+Two drugs are considered bioequivalent if, in general, the rate and extent of absorption of the
+proposed drug is not significantly different from the rate and extent of absorption of the listed
+drug. 21 U.S.C. § 355(j)(8)(B).
+-6-
+
+Case 1:07-cv-00579-RMU
+
+Document 52
+
+Filed 04/26/2007
+
+Page 7 of 49
+
+See id. If a certification is made under paragraph I or II indicating that patent information
+pertaining to the drug or its use has not been filed with FDA or the patent has expired, then the
+patent, by itself, will not delay approval of the ANDA. 21 U.S.C. § 355(j)(5)(B)(i). A
+certification under paragraph III indicates that the ANDA applicant does not intend to market the
+drug until after the applicable patent has expired, and FDA will not approve the ANDA until
+after the patent has expired. 21 U.S.C. § 355(j)(5)(B)(ii).
+If an applicant wishes to challenge a patent’s validity, or to claim that the patent would
+not be infringed by the product proposed in the ANDA, the applicant must submit a paragraph IV
+certification to FDA. The applicant must also provide notice of the paragraph IV certification to
+the NDA holder and the patent owner and describe the factual and legal basis for the applicant’s
+opinion that the patent is invalid or not infringed. 21 U.S.C. § 355(j)(2)(B). The filing of a
+paragraph IV certification is an act of infringement. 35 U.S.C. § 271(e)(2)(A). This enables the
+NDA holder and patent owner to sue the ANDA applicant.
+If the patent owner or NDA holder brings a patent infringement suit against the ANDA
+applicant within 45 days after receiving notice of the paragraph IV certification, the suit triggers
+an automatic stay of FDA approval for 30 months from the date the patent owner or NDA holder
+received notice of the certification (“30-month stay”). 21 U.S.C. § 355(j)(5)(B)(iii). The 30month stay can be modified or lifted if the patent court reaches a decision before 30 months
+expires or otherwise orders a longer or shorter stay period. Id. The statute provides that if the
+district court decides in favor of the patent holder and the court of appeals reverses, approval
+shall be made effective on “the date on which the court of appeals decides that the patent is
+
+-7-
+
+Case 1:07-cv-00579-RMU
+
+Document 52
+
+Filed 04/26/2007
+
+Page 8 of 49
+
+invalid or not infringed.” 21 U.S.C. § 355(j)(5)(B)(iii)(II)(aa)(AA).3 At the end of 30 months (or
+such shorter or longer period as the court orders), FDA will approve the ANDA in spite of the
+unexpired patent and ongoing litigation if the ANDA is otherwise ready for approval.
+If the patent owner or NDA holder does not bring suit within 45 days after it has received
+notice of the paragraph IV certification, the unexpired patent will not, by itself, bar FDA’s
+approval of the ANDA, even if patent litigation is subsequently commenced and is ongoing at the
+time the requirements for approval are met. In that circumstance, FDA may approve the ANDA
+provided there are no other barriers to approval and the other conditions of approval are met. 21
+U.S.C. § 355(j)(5)(B)(iii); 21 C.F.R. § 314.107(f)(2).
+FDA requires ANDA applicants to amend their patent certifications to reflect any
+material changes in circumstances such as the expiration of a patent or the withdrawal of a patent
+challenge. See 21 C.F.R. § 314.94(a)(12)(viii)(C)(1). The regulation provides that “an applicant
+shall amend a submitted certification if, at any time before the effective date of the approval of
+the application, the applicant learns that the submitted certification is no longer accurate.” Id.;
+see also 21 U.S.C. § 355(j)(4)(K) (barring approval of application containing an untrue statement
+of material fact). FDA has determined (and courts have upheld) that, upon patent expiration, an
+ANDA applicant must change (and can be deemed to have changed) a paragraph III or IV
+certification to a paragraph II certification to accurately conform the certification to the changed
+circumstance. Dr. Reddy’s Laboratories, Inc. v. Thompson, 302 F. Supp. 2d 340 (D.N.J. 2003);
+
+3
+
+This provision was revised with the MMA. Under the effective dates of the various provisions,
+the new version (quoted above) would be applicable to the amlodipine ANDAs (when the
+circumstances provided for its application).
+-8-
+
+Case 1:07-cv-00579-RMU
+
+Document 52
+
+Filed 04/26/2007
+
+Page 9 of 49
+
+Ranbaxy Labs., Ltd. v. FDA, 307 F. Supp. 2d 15, 19 (D.D.C. 2004), aff’d, 2004 U.S. App. LEXIS
+8311 (D.C. Cir. April 26, 2004) (hereinafter “Ranbaxy”). See also FDA Decision at 10.
+B.
+
+180-Day Period Of Market Exclusivity
+
+The FDCA provides an incentive and reward to generic drug manufacturers who expose
+themselves to the risk of patent litigation. Under the Hatch-Waxman Amendments, an ANDA
+applicant that is “first” to challenge a particular patent may enjoy a 180-day “exclusivity” period.
+21 U.S.C. § 355(j)(5)(B)(iv). See Teva Pharmaceutical Industries Ltd. v. Crawford, 410 F.3d 51,
+52 (D.C. Cir. 2005); Mova Pharm. Corp. v. Shalala, 140 F.3d 1060, 1064 (D.C. Cir. 1998). The
+(pre-MMA) statutory provision governing 180-day exclusivity provides:
+If the application contains a certification described in subclause (IV) of paragraph
+(2)(A)(vii) and is for a drug for which a previous application has been submitted
+under this subsection [containing] such a certification, the application shall be
+made effective not earlier than one hundred and eighty days after(I) the date the Secretary receives notice from the applicant under the
+previous application of the first commercial marketing of the drug under
+the previous application, or
+(II) the date of a decision of a court in an action described in clause (iii)
+holding the patent which is the subject of the certification to be invalid or
+not infringed,
+whichever is earlier.
+21 U.S.C. § 355(j)(5)(B)(iv). See also 21 C.F.R. §§ 314.107(c)(1) & (2).
+Although this “exclusivity” provision is commonly characterized as granting 180-day
+exclusivity to the first applicant to submit an ANDA containing a paragraph IV certification, the
+statute does not provide for that result directly. Instead, this end is accomplished by delaying the
+approval of subsequently filed ANDAs containing a paragraph IV certification until 180 days
+after the exclusivity period for the first (“previous”) applicant has begun. During that time, the
+
+-9-
+
+Case 1:07-cv-00579-RMU
+
+Document 52
+
+Filed 04/26/2007
+
+Page 10 of 49
+
+first applicant can market its product, and approvals of other ANDAs that contain paragraph IV
+certifications to the same patent are held in abeyance.
+III.
+
+Pediatric Exclusivity
+A.
+
+Origin and Purpose of Pediatric Exclusivity
+
+The pediatric exclusivity statute, enacted in 1997 as part of the Food and Drug
+Administration Modernization Act (FDAMA) and renewed in 2002 in the Best Pharmaceuticals
+for Children Act (BPCA), provides an economic incentive for drug manufacturers to invest the
+resources necessary to conduct and submit pediatric studies of drugs. At the time of its initial
+enactment, “less than 20 percent of the prescription medications on the United States market
+[were] approved for use in the pediatric population and labeled for pediatric use,” often forcing
+physicians to prescribe drugs that were developed for and tested on adults for use in children.
+S. Rep. No. 105-43, at 51 (1997). Children may not metabolize drugs the same way adults do,
+and drugs may have different side effects and higher levels of toxicity for children than for adults
+– hence, the need for clinical drug trials involving children. Id.
+Despite that need, drug manufacturers have had little incentive to conduct such studies for
+several reasons. Drugs approved for use in children do not ordinarily generate significant
+revenue. Further, pediatric studies “pose ethical and moral issues” not present in adult studies,
+raise “substantial product liability and medical malpractice issues,” have difficulty attracting
+subjects, and present special problems of “drug administration and patient compliance.” Id.
+Although FDA had taken some regulatory steps to encourage pediatric labeling of drugs,
+Congress determined that drug manufacturers needed a greater economic incentive to conduct
+pediatric studies. It therefore enacted 21 U.S.C § 355a, granting pediatric exclusivity – an
+additional six months of marketing exclusivity beyond the term of applicable patents and other
+-10-
+
+Case 1:07-cv-00579-RMU
+
+Document 52
+
+Filed 04/26/2007
+
+Page 11 of 49
+
+marketing exclusivities – to drug manufacturers that conduct such pediatric studies at FDA’s
+request. S. Rep. No. 105-43, at 52.
+Under the pediatric exclusivity provision, when FDA determines that the use of an
+already approved and marketed drug may produce health benefits in the pediatric population, it
+may ask the drug’s manufacturer to conduct pediatric studies within a specified time frame. If
+the studies are completed and the results are reported to FDA in accordance with certain
+requirements, the statute imposes an additional six-month delay in the approval of any ANDA for
+a generic version of the same drug. 21 U.S.C. § 355a(c)(2).4
+The goals of pediatric exclusivity – obtaining pediatric labeling and usage information –
+can be in conflict with the Hatch-Waxman Amendments’ goal of approving generic versions of
+brand name drugs at the earliest possible time. Indeed, Congress recognized that awarding
+pediatric exclusivity meant that some less expensive versions of generic products would reach
+the market six months later than otherwise. S. Rep. No. 105-43, at 52, 73. See also H.R. Rep.
+No. 107-277, at 28-29 (2001); S. Rep. No. 107-79, at 11 (2001).
+B.
+
+Mechanics of Pediatric Exclusivity
+
+The statutory provisions governing the attachment of pediatric exclusivity take account of
+the different patent certifications that an applicant may make as part of its ANDA submission.
+The statute provides:
+
+4
+
+The pediatric exclusivity provision also delays the approval of applications submitted under 21
+U.S.C. § 355(b)(2), in addition to ANDAs. No applicants submitting such applications have
+intervened in this case, although one such applicant for a combination drug containing
+amlodipine besylate submitted a comment to Docket 2007P-0123. Comment of Daiichi Sankyo,
+Inc. (http://www.fda.gov/ohrms/dockets/dockets/07n0123/07n-0123-c000002-01-vol1.pdf).
+-11-
+
+Case 1:07-cv-00579-RMU
+
+Document 52
+
+Filed 04/26/2007
+
+Page 12 of 49
+
+(c) MARKET EXCLUSIVITY FOR ALREADY -MARKETED DRUGS.
+If the Secretary determines that information relating to the use of an approved drug in
+the pediatric population may produce health benefits in that population and makes a
+written request to the holder of an approved [NDA] for pediatric studies (which shall
+include a timeframe for completing such studies), the holder agrees to the request, the
+studies are completed within any such timeframe, and the reports thereof are submitted in
+accordance with subsection (d)(2) of this section or accepted in accordance with
+subsection (d)(3) of this section–
+*
+
+*
+
+*
+
+(2)(A) if the drug is the subject of–
+(i) a listed patent for which a [paragraph II] certification has been
+submitted . . . and for which pediatric studies were submitted prior to the
+expiration of the patent (including any patent extensions); or
+(ii) a listed patent for which a [paragraph III] certification has been
+submitted . . .,
+the period during which an [ANDA] may not be approved under . . . [21 U.S.C.
+§] 355(j)(5)(B) shall be extended by a period of six months after the date the
+patent expires (including any patent extensions); or
+(B) if the drug is the subject of a listed patent for which a [paragraph IV]
+certification has been submitted . . . , and in the patent infringement litigation
+resulting from the certification the court determines that the patent is valid and
+would be infringed, the period during which an [ANDA] may not be approved
+under . . . [21 U.S.C. §] 355(j)(5)(B) shall be extended by a period of six months
+after the date the patent expires (including any patent extensions).
+21 U.S.C. § 355a(c).
+Thus, by the terms of these provisions, pediatric exclusivity applies when there is a listed
+patent to which unapproved ANDA have submitted patent certifications. If an ANDA contains a
+paragraph II (the patent has expired) or paragraph III (the patent will expire on a specified date)
+certification, and pediatric studies qualifying for exclusivity have been submitted prior to the
+expiration of the patent, pediatric exclusivity will delay approval of the ANDA for six months
+after the date the patent expires. 21 U.S.C. § 355a(c)(2)(A). If the ANDA contains a paragraph
+IV certification (patent is invalid or will not be infringed), and the patent court determines that
+-12-
+
+Case 1:07-cv-00579-RMU
+
+Document 52
+
+Filed 04/26/2007
+
+Page 13 of 49
+
+the patent is valid and infringed, “the period during which an [ANDA] may not be approved
+under . . . [21 U.S.C. §] 355(j)(5)(B) shall be extended by a period of six months after the date
+the patent expires (including any patent extensions).” 21 U.S.C. § 355a(c)(2)(B).
+FACTUAL BACKGROUND AND ADMINISTRATIVE PROCEEDINGS
+The underlying material facts of this case are undisputed.
+I.
+
+Pfizer’s NDA for Norvasc
+On July 31, 1992, FDA approved Pfizer’s NDA for amlodipine besylate tablets, a long-
+
+acting calcium channel blocker, which Pfizer began marketing later that year under the brand
+name Norvasc. Pfizer held two patents with respect to Norvasc: patent 4,572,909 (‘909 patent),
+which expired on July 31, 2006, and the ‘303 patent, which expired on March 25, 2007.
+FDA requested that Pfizer conduct pediatric studies on Norvasc and Pfizer did so in
+accordance with FDA's written request; consequently, FDA granted Pfizer pediatric exclusivity
+for Norvasc on November 27, 2001. Pediatric exclusivity, by delaying approval of ANDAs for
+six months after the expiration date for a patent, had the potential to block approvals of ANDAs
+until January 31, 2007, with respect to the ‘909 patent, and until September 25, 2007, with
+respect to the ‘303 patent. On or about March 23, 2007, Pfizer launched its own generic version
+of Norvasc. Pfizer Press Release (Mar. 23, 2007) (available at
+http://www.pfizer.com/pfizer/are/news_releases/index.jsp).
+II.
+
+Mylan’s ANDA for Amlodipine Besylate
+In May 2002, Mylan filed an ANDA for amlodipine, and was the first to file a paragraph
+
+IV certification to the ‘303 patent. See Comment of Mylan Pharmaceuticals, Inc.
+(http://www.fda.gov/ohrms/dockets/dockets/07n0123/07n-0123-emc0006-02.pdf) (“Mylan
+Comment”) at 1; Am. Compl. ¶11. Pfizer sued Mylan for patent infringement. Pfizer, Inc. v.
+-13-
+
+Case 1:07-cv-00579-RMU
+
+Document 52
+
+Filed 04/26/2007
+
+Page 14 of 49
+
+Mylan Labs., Inc., No. 02-cv-1628 (W.D. Pa.); see Am. Compl. ¶12. However, because Pfizer
+did not file its lawsuit within 45 days of receiving notice of Mylan’s paragraph IV certification,
+the filing of the lawsuit did not result in the 30-month stay of approval pursuant to 21 U.S.C.
+§ 355(j)(5)(B)(iii).
+In October 2005, FDA approved Mylan’s ANDA. Mylan Comment at 1; Am. Compl.
+¶13. However, Mylan did not begin to market its product at that time.
+In February 2007, the district court in the patent litigation between Mylan and Pfizer
+entered judgment for Pfizer that Mylan had infringed the ‘303 patent. Pfizer, Inc. v. Mylan
+Labs., Inc., No. 02-cv-1628, 2007 U.S. Dist. LEXIS 14417 (W.D. Pa. Feb. 27, 2007). On March
+16, 2007, the district court amended the judgment and enjoined the approval of Mylan’s ANDA
+until the ‘303 patent expired. Id., 2007 U.S. Dist. LEXIS 18699 (Mar. 16, 2007). Mylan
+appealed that judgment and sought a stay of the district court’s injunction. On March 23, 2007,
+the Federal Circuit granted the stay. Pfizer Inc. v. Mylan Labs., Inc., No. 2007-1194 (Mar. 23,
+2007). Mylan began marketing its product on March 23, 2007. Mylan Comment at 1; Am.
+Compl. ¶ 21.
+III.
+
+Apotex’s ANDA for Amlodipine Besylate
+Apotex (formerly Torpharm, Inc.) filed an ANDA for amlodipine besylate tablets, which
+
+contained a paragraph IV certification to the ‘303 patent. On July 20, 2003, Pfizer sued Apotex
+for patent infringement. In January 2006, the district court held the patent was valid and
+infringed. Pfizer, Inc. v. Apotex, Inc, No. 03C 5289, 2006 U.S. Dist. LEXIS 95778 (N.D. Ill.
+January 24, 2006). The Federal Circuit reversed in the opinion noted above, finding that
+Apotex’s amlodipine besylate tablets did not infringe claims 1-3 of the ‘303 patent because those
+claims were invalid for obviousness. See Apotex opinion. The Federal Circuit did not address
+-14-
+
+Case 1:07-cv-00579-RMU
+
+Document 52
+
+Filed 04/26/2007
+
+Page 15 of 49
+
+the validity of the remaining claims of the patent, presumably because those were not claims on
+which Pfizer had sued Apotex. On April 5, 2007, Pfizer filed a motion in the Federal Circuit,
+seeking a rehearing and/or rehearing en banc of the Apotex opinion. This motion stayed issuance
+of the mandate pending its resolution under Rule 41(d)(1) of the Federal Rules of Appellate
+Procedure (“FRAP”). During a conference call with the Court’s chambers in the instant case on
+April 19, 2007, counsel for Apotex reported that the Federal Circuit had directed Apotex to
+respond by May 1, 2007, to Pfizer’s motion.
+IV.
+
+Teva’s ANDA for Amlodipine Besylate Tablets
+Teva filed an ANDA for amlodipine besylate tablets on September 9, 2003. See
+
+Comment of Teva Pharmaceuticals USA, Inc.
+(http://www.fda.gov/ohrms/dockets/dockets/07n0123/07n-0123-emc0007-02.pdf) (“Teva
+Comment”) at 4. That ANDA contained paragraph III certifications to both of Pfizer’s patents.
+Id. Following Apotex’s victory in the Federal Circuit on March 22, 2007, on March 23, 2007,
+Teva changed its paragraph III certification to a paragraph IV certification for the ‘303 patent. Id.
+Teva reported that it notified Pfizer of its paragraph IV certification, but Pfizer did not file suit
+before the patent expired two days later. Id. On March 28, 2007, following the expiration of the
+‘303 patent, Teva changed its certification to paragraph II. Id.5
+
+5
+
+Several other generic drug manufacturers filed ANDAs for the same drug product as reflected
+in the comments to the FDA docket. The only other company that has intervened in this lawsuit
+thus far is Mutual Pharmaceuticals, Inc. (“Mutual”). Mutual submitted its ANDA for amlodipine
+besylate tablets in December 2005. Mutual’s Motion to Intervene (Apr. 2, 2007) at 3. Mutual
+submitted a paragraph III certification to the ‘303 patent. Id.
+-15-
+
+Case 1:07-cv-00579-RMU
+
+V.
+
+Document 52
+
+Filed 04/26/2007
+
+Page 16 of 49
+
+FDA’s Administrative Determination
+In the weeks before the ‘303 patent expired, decisions were issued in patent litigation
+
+between various parties that had the potential to affect FDA’s amlodipine beslylate ANDA
+approval decisions. First, because Mylan’s ANDA had been approved in October 2005, and
+because the pediatric exclusivity statute delays approval only of unapproved ANDAs, Mylan was
+not barred by pediatric exclusivity from marketing its product after its ANDA approval.
+However, when Mylan lost its patent litigation in the district court, that court enjoined the
+approval of Mylan’s ANDA until the ‘303 patent expired pursuant to 35 U.S.C. § 271(e)(4)(A).6
+FDA had previously determined on similar facts that, based on the district court ruling in the
+patent case enjoining the approval of an already approved ANDA, the ANDA should then be
+converted to “tentatively approved” instead of “approved,” and pediatric exclusivity would attach
+upon patent expiration. See Mylan Labs., Inc. v. Thompson, 332 F. Supp. 2d 106 (D.D.C. 2004),
+aff’d, 389 F.3d 1272 (D.C. Cir. 2004) (hereinafter “Mylan (fentanyl)”). However, before FDA
+had taken an action to change the approval status of Mylan’s amlodipine besylate ANDA to
+conform to the district court's order, the Federal Circuit stayed the district court injunction in the
+patent litigation. After that stay, FDA believed it had no basis to convert the approval status of
+Mylan’s ANDA from approved to tentatively approved. On March 23, the same day the stay was
+entered, Mylan began marketing its product.
+
+6
+
+Under section 271(e)(4)(A), when an NDA holder or patent owner sues the ANDA applicant
+and wins – that is, the court hearing the patent infringement litigation finds the patent valid and
+infringed -- the Patent Code provides that “the court shall order the effective date of any approval
+of the drug . . . involved in the infringement to be a date which is not earlier than the date of the
+expiration of .the patent which has been infringed.”
+-16-
+
+Case 1:07-cv-00579-RMU
+
+Document 52
+
+Filed 04/26/2007
+
+Page 17 of 49
+
+Second, before March 22, 2007, FDA (and presumably all of the interested parties as
+well) understood that Pfizer’s pediatric exclusivity blocked the approval of all ANDAs other than
+Mylan’s. The issuance of the Apotex opinion raised the question whether Apotex would still be
+subject to pediatric exclusivity and, if not, whether the Apotex opinion also cleared the path for
+some or all of the remaining ANDA applicants to obtain final, effective approval. These
+determinations involved legal questions of first impression for the agency, as reflected by the
+wide divergence in the legal theories and arguments presented to FDA in the comments.
+In making its decision, FDA strove to give effect to the literal words of the relevant
+statutory provisions in the context of the overall statutory scheme, to the policies behind the
+provisions in question, and to applicable precedent. FDA decided that pediatric exclusivity does
+not bar the approval of an ANDA when that applicant has prevailed in patent litigation against
+the innovator. However, FDA also concluded that a court of appeals “determines” validity and
+infringement when it issues the mandate, not when it issues the panel opinion. Here, the issuance
+of the panel opinion on March 22 was not sufficient to remove pediatric exclusivity as a barrier
+to approval of the ANDAs. Therefore, pediatric exclusivity continues to bar the approval of
+ANDAs other than Mylan’s. If and when the mandate issues effectuating the panel opinion that
+claims 1-3 of the patent are invalid, Apotex’s ANDA would not be barred by pediatric
+exclusivity and could be immediately approved if otherwise eligible.
+FDA next considered whether the other ANDAs would share the same benefit from the
+issuance of the mandate effectuating the Apotex opinion. Although the other applicants did not
+prevail in patent litigation against Pfizer, the commenters offered two theories as to why pediatric
+exclusivity would no longer bar approval of some or all of the remaining ANDAs. First, some
+maintained that, once the patent is declared invalid, it should be presumed delisted from the
+-17-
+
+Case 1:07-cv-00579-RMU
+
+Document 52
+
+Filed 04/26/2007
+
+Page 18 of 49
+
+Orange Book. That would mean that no ANDA applicants would be required to maintain their
+certifications to that patent, and pediatric exclusivity, by its literal terms, would not bar any
+approvals. Second, Teva asserted that, once a patent is found invalid in litigation against one
+ANDA applicant, the patent owner is collaterally estopped from asserting infringement claims
+based on that patent against additional defendants. As a result, all applicants who submitted
+paragraph IV certifications should be considered victorious in their individual patent litigation
+against Pfizer. This would mean that ANDAs containing paragraph IV certifications at the time
+of patent expiration would be eligible for approval, while those containing paragraph III
+certifications would be blocked until the expiration of pediatric exclusivity.
+FDA concluded, however, that it could not make the determination of the approvability of
+the remaining ANDAs based on the record before it. Some commenters had asserted that,
+because the Apotex opinion invalidated only part of the ‘303 patent, the remaining ANDAs
+would still be subject to other claims of the patent. In contrast, one commenter asserted that,
+under patent law, once the first three claims of the patent were found invalid, the remaining
+claims applicable to the amlodipine besylate tablets were invalid as well. Many commenters did
+not address the issue. FDA explained it is well established that FDA does not resolve patent
+listing questions, and instead relies on the innovator to correctly list patents, and the courts to
+resolve patent disputes. Accordingly, FDA had neither the information or the expertise to
+resolve the question of the approvability of the remaining ANDAs, including Teva’s. FDA
+stated: “in the absence of further judicial or other action clarifying the status of the patent, FDA
+will assume the ‘303 patent remains validly listed.” FDA Decision at 10.
+FDA further concluded that Mylan’s 180-day marketing exclusivity expired at the time
+the ‘303 patent expired. This decision was based on the agency’s long-held and consistent
+-18-
+
+Case 1:07-cv-00579-RMU
+
+Document 52
+
+Filed 04/26/2007
+
+Page 19 of 49
+
+understanding of the language of the statute. FDA explained in detail why it was unpersuaded by
+Mylan’s arguments to the contrary.
+ARGUMENT
+Apotex, Teva, and Mylan have failed to establish the requirements for a preliminary
+injunction. On the merits, the parties interested in the outcome of the amlodipine ANDA
+approval issues presented to FDA numerous and diverse arguments as to how this complex
+statutory scheme should be applied to these facts. On April 18, 2007, FDA issued a detailed
+administrative decision that includes its interpretation of the ambiguous pediatric exclusivity
+provisions in light of the language of the statute, statutory context and scheme, policies, and
+precedent, and the application of the plain language of the 180-day exclusivity provision. FDA
+had also determined, a few weeks earlier, that it would not change the approval status of Mylan’s
+ANDA based on the clear application of applicable law and precedent to the facts here. Because
+FDA has considered all of the relevant factors and reached reasonable conclusions, this Court
+should defer to its decisions.
+In addition, no party can establish irreparable harm. There are currently two generic
+versions of amlodipine besylate tablets on the market, in addition to the brand name product.
+The issues in this case relate to the timing of the entry of other generic versions to the market,
+which in turn will presumably affect the size of each company’s market share. Although the
+sales for this product are considerable, no movant has alleged that the existence of its company
+depends on a favorable resolution of its motion. Also, the public interest favors denial of the
+requested injunctions.
+Accordingly, the Court should deny the motions for preliminary injunctions.
+
+-19-
+
+Case 1:07-cv-00579-RMU
+
+I.
+
+Document 52
+
+Filed 04/26/2007
+
+Page 20 of 49
+
+STANDARD OF REVIEW
+To obtain preliminary injunctive relief, the movants must each demonstrate that: (1) it
+
+has a substantial likelihood of success on the merits; (2) it will suffer irreparable injury in the
+absence of preliminary relief; (3) other interested parties will not be substantially injured if the
+requested relief is granted; and (4) granting such relief would serve the public interest. E.g.,
+Mova, 140 F.3d at 1066. The Court must balance the four factors in deciding whether to grant
+the injunctive relief. Id. (citing CityFed Fin. Corp. v. Office of Thrift Supervision, 58 F.3d 738,
+747 (D.C. Cir. 1995)).
+A preliminary injunction is “an extraordinary remedy” and is not to be granted lightly.
+Bristol-Myers Squibb Co. v. Shalala, 923 F. Supp. 212, 215 (D.D.C. 1996) (citing WMATC v.
+Holiday Tours, Inc., 559 F.2d 841, 843 (D.C. Cir. 1977)). Moreover, the ultimate relief that
+Apotex and Teva seek – orders compelling FDA to approve their respective ANDAs – is a
+“mandatory injunction” that must be reviewed “with even greater circumspection.” Mylan
+Pharm., Inc. v. Shalala, 81 F. Supp. 2d 30, 36 (D.D.C. 2000). Because the movants have failed
+to meet the stringent standards for such extraordinary relief, their motions for preliminary
+injunctions should be denied.
+II.
+
+THE MOVANTS HAVE NO LIKELIHOOD OF SUCCESS ON THE MERITS
+A.
+
+FDA’s Administrative Determinations Are Entitled to Deference
+
+FDA’s actions in this case are subject to review by the Court under the Administrative
+Procedure Act (“APA”), and may be disturbed only if “arbitrary, capricious, an abuse of
+discretion, or otherwise not in accordance with law.” 5 U.S.C. § 706(2)(A). This standard is
+highly deferential to the agency. See Citizens to Preserve Overton Park, Inc. v. Volpe, 401 U.S.
+402, 416 (1971). Indeed, “[t]here is a presumption in favor of the validity of the administrative
+-20-
+
+Case 1:07-cv-00579-RMU
+
+Document 52
+
+Filed 04/26/2007
+
+Page 21 of 49
+
+action.” Bristol-Myers Squibb Co., 923 F. Supp. at 216; see also Watson Pharms. v. Henney,
+194 F. Supp. 2d 442, 445 (D. Md. 2001). The reviewing court must consider whether the
+agency’s decision was based upon a consideration of the relevant factors and whether there has
+been a clear error of judgment. Overton Park, 401 U.S. at 416. However, “under this narrow
+scope of review, ‘the court is not empowered to substitute its judgment for that of the agency.’”
+Bristol-Myers, 923 F. Supp. at 216 (quoting Overton Park, 401 U.S. at 416).
+When the Court is reviewing an agency’s construction of statutory provisions, it is
+governed by the two-step analysis of Chevron, U.S.A., Inc. v. Natural Res. Def. Council, Inc.,
+467 U.S. 837 (1984). First, the Court must inquire “whether Congress has directly spoken to the
+precise question at issue;” if Congress’s intent is clear, the Court “must give effect to [such]
+unambiguously expressed intent.” Id. at 842-43. Formulated another way, the Court must
+initially decide “whether the statute unambiguously forbids the Agency’s interpretation.”
+Barnhart v. Walton, 535 U.S. 212, 218 (2002). Second, if Congress has not “directly” addressed
+“the precise question at issue,” the Court may not “impose its own construction on the statute.”
+Chevron, 467 U.S. at 843. Rather, it must determine if the agency’s interpretation is based on “a
+permissible construction of the statute.” Id.
+Chevron deference applies when, as here, “Congress delegated authority to the agency
+generally to make rules carrying the force of law.” Gonzales v. Oregon, 126 S. Ct. 904 (2006)
+(quoting United States v. Mead Corp., 533 U.S. 218, 226-27 (2001)). “Delegation of such
+authority may be shown in a variety of ways.” Mead Corp., 533 U.S. at 227. With the FDCA,
+Congress has authorized and directed FDA to decide what drugs may lawfully enter the
+marketplace, and when and how they may enter. See, e.g., 21 U.S.C. §§ 355(c), 355(d), 355(e),
+355(f), 355(j), 355a. Further, the Supreme Court has explained that Chevron deference is
+-21-
+
+Case 1:07-cv-00579-RMU
+
+Document 52
+
+Filed 04/26/2007
+
+Page 22 of 49
+
+appropriate when “the interstitial nature of the legal question, the related expertise of the Agency,
+the importance of the question to administration of the statute, the complexity of that
+administration, and the careful consideration the Agency has given the question over a long
+period of time all indicate that Chevron provides the appropriate legal lens through which to
+view the legality of the Agency interpretation here at issue.” Barnhart, 535 U.S. at 222. Thus,
+deference is appropriate in the drug approval context because of “the complexity of the statutory
+regime” and “FDA’s expertise.” Mylan v. Thompson, 389 F.3d at 1280.
+Accordingly, the D.C. Circuit has repeatedly given Chevron deference to FDA’s
+interpretation of the FDCA, as well as the agency’s own implementing regulations. See, e.g.,
+Novartis Pharmaceuticals Corp. v. Leavitt, 435 F.3d 344, 349 (D.C. Cir. 2006) (“We have held
+on a number of occasions that FDA interpretations of the FDCA receive deference, as do its
+interpretations of its own regulations unless plainly erroneous or inconsistent with the
+regulations.”); Mylan v. Thompson, 389 F.3d at 1281; Purepac Pharm. Co. v. Thompson, 354
+F.3d 877, 883 (D.C. Cir. 2004); Serono Labs., Inc. v. Shalala, 158 F.3d 1313, 1319, 1320 (D.C.
+Cir. 1998) (citing Auer v. Robbins, 519 U.S. 452, 461 (1997)).7 Furthermore, Chevron deference
+extends to administrative determinations that are not embodied in rulemaking or formal
+adjudication, including, as in this case, a decision letter setting forth the agency’s statutory
+constructions of provisions of the FDCA. See Mylan (fentanyl), 389 F.3d at 1279-80; Apotex,
+Inc. v. FDA, No. 06-5060, 2007 U.S. App. LEXIS 4270 (D.C. Cir. Feb. 23, 2007) (“the district
+
+7
+
+See also Apotex, Inc. v. Thompson, 347 F.3d 1335, 1352 (Fed. Cir. 2003) (“Deference is due to
+an administrative agency’s regulations particularly when the subject matter of the regulatory
+authority is a ‘highly detailed’ regulatory program to which the agency has brought its
+‘specialized expertise,’ . . . a characterization that aptly describes the FDA’s role in the context of
+the regulatory scheme created pursuant to the Hatch-Waxman Act.”) (quoting Mead, 533 U.S. at
+235).
+-22-
+
+Case 1:07-cv-00579-RMU
+
+Document 52
+
+Filed 04/26/2007
+
+Page 23 of 49
+
+judge’s opinion, which grants Chevron deference to the FDA’s statutory interpretation of 21
+U.S.C. § 355(j)(5)(B)(iv) embodied in FDA approval letters (i.e., informal adjudications), is
+supported by the Supreme Court’s post-Mead decision in Barnhart, 535 U.S. [at 222], as well as
+our own decision in Mylan [(fentanyl), 389 F.3d at 1279-80]”).
+B.
+
+FDA Properly Concluded that, for Purposes of Pediatric Exclusivity, the
+Court of Appeals “Determines” Patent Invalidity When It Issues the
+Mandate
+
+The first step in determining whether the unapproved ANDAs are barred by pediatric
+exclusivity required FDA to construe the provision of the pediatric exclusivity statute that related
+to applicants that file paragraph IV certifications to the listed patent. That section provides that
+when the ANDA applicant, such as Apotex, submits a paragraph IV certification,
+if . . . in the patent infringement litigation resulting from the certification the
+court determines that the patent is valid and would be infringed, the period during
+which an application may not be approved . . . shall be extended by a period of six
+months after the date the patent expires . . . .
+See 21 U.S.C. § 355a(c)(2)(B). FDA concluded in its letter that Congress also intended the
+converse of the literal language of this provision: that pediatric exclusivity does not apply when
+the ANDA applicant prevails in its patent challenge – i.e., when the court determines that the
+patent is invalid or would not be infringed, and that construction has been acknowledged as
+appropriate by a court. See FDA Decision at 6; Mylan (fentanyl), 332 F. Supp. 2d at 124 (“As
+the FDA has correctly noted in its papers, § 355a(c)(2)(B) would apply ‘where an ANDA
+applicant submits a paragraph IV certification, and prevails in the patent litigation.’”) (dicta,
+citing Federal Defendants’ Memorandum in Opposition to Plaintiffs’ Motion for Preliminary
+Injunction and Summary Judgment and In Support of Cross Motion for Summary Judgment at 38
+(July 8, 2004)).
+
+-23-
+
+Case 1:07-cv-00579-RMU
+
+Document 52
+
+Filed 04/26/2007
+
+Page 24 of 49
+
+In applying that provision to these facts, the parties disagree over whether the phrase “the
+court determines” means the court’s issuance of the panel opinion or issuance of the mandate.
+FDA concluded that the plain language does not compel either interpretation. Congress could
+have been more precise, as it has been in other statutory provisions, in indicating exactly which
+event was operative. Compare, e.g., 26 U.S.C. § 7481(a) (finality is determined “upon mandate”
+issued by Court of Appeals or Supreme Court) with 21 U.S.C. § 355(j)(5)(B)(iii)(I)(aa)-(bb)
+(approval “shall be made effective on the date on which the court enters judgment reflecting the
+decision; or the date of a settlement order or consent decree signed and entered by the court
+stating that the patent that is the subject of the certification is invalid or not infringed.”). The
+word “determine” by itself is subject to several different meanings. See FDA Decision at 6.
+Nevertheless, in context, FDA concluded that the better reading was that the court
+“determines” the validity of the patent when the mandate issues. As FDA explained in its
+decision, in terms of the statutory scheme, when the district court decides a patent issue, FDA
+applies that decision, unless it is stayed, in determining issues related to ANDA approval. Id. at
+6. The district court decision continues to control the rights of the parties until the appellate
+court mandate issues. Thus, the vital date under this scheme is when the rights of the parties
+become fixed by the decision of the court of appeals, that is, the date the mandate issues. This
+understanding of the phrase “the court determines” is further supported by the more prevalent
+dictionary definitions of “determine.” See id. at 6.
+In addition, the 1998 advisory committee notes to FRAP 41(c) state that “[a] court of
+appeals judgment or order is not final until issuance of the mandate; at that time the parties’
+obligations become fixed.” These notes have been cited with approval by courts, Mercer v. Duke
+Univ., 401 F.3d 199, 212 n.7 (4th Cir. 2005); Stewart Park & Reserve Coalition Inc. v. Slater,
+-24-
+
+Case 1:07-cv-00579-RMU
+
+Document 52
+
+Filed 04/26/2007
+
+Page 25 of 49
+
+374 F. Supp. 2d 243, 248 n.5 (N.D.N.Y. 2005); United States v. Swan, 327 F. Supp. 2d 1068,
+1071-72 (D. Neb. 2004). See also Flagship Marine Services, Inc. v. Belcher Towing Co., 23
+F.3d 341, 342-43 (11th Cir. 1994) (“Until the mandate issues, an appellate judgment is not final;
+the decision reached in the opinion may be revised by the panel, or reconsidered by the en banc
+court, or certiorari may be granted by the Supreme Court.”); Bryant v. Ford Motor Co., 886 F.2d
+1526, 1530-31 (9th Cir. 1989) (“where the mandate has not issued the availability of appeal has
+not yet been exhausted”); Mary Ann Pensiero, Inc. v. Lingle, 847 F.2d 90, 97 (3d Cir. 1988).
+Furthermore, as a matter of policy, FDA believes that the parties to paragraph IV litigation are
+best served by a rule that, consistent with the statutory language, errs on the side of greater
+finality. Such a rule reduces the possibility that an appellate court opinion will be relied on and
+then overturned (through an adverse opinion after rehearing or rehearing en banc) in very short
+order.
+1.
+
+Apotex and Teva Incorrectly Assert that FDA’s Interpretation is
+Contrary to the Plain Meaning of the Statute
+
+Apotex and Teva assert that the phrase “the court determines” is unambiguous and means
+the issuance of the panel opinion or the entry of the judgment on the docket. Apotex’s
+Memorandum of Points and Authorities in Support of its Motion for Preliminary Injunction
+(“Apotex Mem.”) at 4-5; Teva Mem. at 22-25. Teva argues that lawyers frequently refer to
+opinions as making determinations. Therefore, Teva asserts, the ordinary usage of the word
+“determine” is most consistent with a court of appeals opinion being legally effective when
+issued. Teva Mem. at 22-23. There are at least two logical flaws in Teva’s argument. First,
+because a court’s reasoning is contained in its opinion, most ordinary references to the substance
+of a court decision will be to that opinion. But most such references will be outside the context
+
+-25-
+
+Case 1:07-cv-00579-RMU
+
+Document 52
+
+Filed 04/26/2007
+
+Page 26 of 49
+
+of the timing of the effectiveness of the opinion on the rights of the parties. There is no need in
+other contexts for layman, lawyers, and judges to qualify their word choice with precision to as to
+the legal effectiveness question here. These routine references cannot be presumed to
+demonstrate that the speakers understand that, in using the word “determine,” they are asserting
+that an opinion is legally effective when issued. Second, Teva’s proposed ordinary meaning does
+not foreclose the existence of other ordinary meanings. Although Teva accuses FDA of “handpicking” definitions, FDA’s decisional letter set forth the first four definitions it found in the
+Webster’s Third New International Dictionary (2002). Of these definitions, one supports Teva’s
+definition and other three support FDA’s ultimate conclusion. FDA Decision at 6. Accordingly,
+FDA correctly found that the words of the statute are ambiguous.
+Apotex does not argue that the language by itself is subject to only one meaning. Instead,
+it argues essentially that “determine” is synonymous with the entry of the judgment on the
+docket, which under Rule 36 of the Federal Rules of Appellate Procedure (“FRAP”) immediately
+follows the issuance of the opinion. Apotex Mem. at 5-6. However, FDA concluded in its
+administrative decision that the language of the rules themselves does not compel the conclusion
+that Apotex advocates. FRAP 36 states that a judgment is entered when it is noted on the docket,
+while FRAP 41(c) states that the mandate is effective when issued. Neither rule spells out the
+intended legal effect of either event. Moreover, as noted above, the advisory committee notes to
+Rule 41(c) provide a clear indication of what the drafters intended these rules to mean, and that
+authority undermines the meaning that Apotex ascribes to the rules. FDA Decision at 6-7.8
+
+8
+
+The advisory committee notes to FRAP 41(d), which Apotex quotes in part as support for it
+argument, Apotex Mem. at 8, when read in context further support FDA’s understanding that the
+rights of the parties are not fixed until the mandate issues.
+-26-
+
+Case 1:07-cv-00579-RMU
+
+Document 52
+
+Filed 04/26/2007
+
+Page 27 of 49
+
+Apotex further argues that because Supreme Court rules provide that the time for
+challenging an appellate decision runs from the date the judgment is entered, the judgment is
+final. Id. Apotex’s argument puts form over substance, however. The procedural mechanisms
+are far less significant than the event that determines when the obligations of the parties become
+fixed, that is, the issuance of the mandate. Indeed, the Supreme Court case that Apotex cites to
+support its argument actually supports FDA’s analysis. See Hibbs v. Winn, 542 U.S. 88, 98
+(2004) (“‘while [a] petition for rehearing is pending,’ or while the court is considering, on its
+own initiative, whether rehearing should be ordered, ‘there is no “judgment” to be reviewed,’”
+quoting in part Missouri v. Jenkins, 495 U.S. 33, 46 (1990)).
+Teva and Apotex argue that Congress could have simply used the word “mandate” in the
+statute or otherwise indicated it intended finality. Apotex at 9; Teva at 24-25. That argument
+begs the question, however, because Congress equally could have been more precise if it wanted
+the issuance of the appellate court opinion to be the operative date. See FDA Decision at 7
+(“Compare, e.g., 26 U.S.C. § 7481(a) (finality is determined “upon mandate” issued by Court of
+Appeals or Supreme Court), with 21 U.S.C. § 355(j)(5)(B)(iii)(I)(aa)-(bb) (approval “shall be
+made effective on the date on which the court enters judgment reflecting the decision; or the date
+of a settlement order or consent decree signed and entered by the court stating that the patent that
+is the subject of the certification is invalid or not infringed.”). Apotex and Teva also both make
+arguments based on other provisions of FDCA, the language of those statutes, and FDA’s
+interpretive history. Apotex Mem. at 7-8; Teva Mem. at 24-25. None of those instances
+however, involved either the language (“the court determines”) or the context (pediatric
+exclusivity) presented by this matter.
+
+-27-
+
+Case 1:07-cv-00579-RMU
+
+Document 52
+
+Filed 04/26/2007
+
+Page 28 of 49
+
+In sum, none of Apotex’s or Teva’s arguments establish that Congressional intent is
+evident from the plain meaning of the phrase “the court determined” as used in section
+355a(c)(2)(B).
+2.
+
+FDA Reasonably Balanced the Competing Policy Considerations in
+Making Its Determination
+
+Apotex and Teva further assert that FDA’s decision is inconsistent with the policies
+behind the statutory provisions in question. Apotex 9-10; Teva at 28-30. Apotex contends that
+FDA’s interpretation is contrary to the central purpose of the Hatch-Waxman Amendments of
+getting generic drugs to consumers as soon as possible. Apotex at 10. Teva likewise asserts that
+the “paramount congressional objective” is approving generic drugs quickly. Teva at 29. But
+these arguments fail to take into account the competing objective of the pediatric exclusivity
+provision – to reward manufacturers for conducting pediatric studies.
+Congress enacted the pediatric exclusivity provisions after the Hatch-Waxman
+Amendments. In doing so, Congress was well aware that this step would mean that some less
+expensive generic products will reach the market six months later than without pediatric
+exclusivity. S. Rep. No. 105-43 at 52, 73. See also H.R. Rep. No. 107-277, at 28-29 (2001);
+S. Rep. No. 107-79, at 11 (2001). Congress balanced the competing interests at stake and made a
+deliberate policy choice: by creating a period of pediatric exclusivity, it gave precedence to the
+goal of obtaining pediatric labeling and usage information for drugs over the Hatch-Waxman
+Amendments’ goal of approving generic versions of brand name drugs at the earliest possible
+time. Moreover, because of the progress made in encouraging research on the use of drugs in the
+pediatric population since the enactment of the pediatric exclusivity provision, see Department of
+Health & Human Servs., The Pediatric Exclusivity Provision: January 2001 Status Report to
+
+-28-
+
+Case 1:07-cv-00579-RMU
+
+Document 52
+
+Filed 04/26/2007
+
+Page 29 of 49
+
+Congress ii (2001),9 Congress has reauthorized and extended the program. Best Pharmaceuticals
+for Children Act, Pub. L. No. 107-109, 115 Stat. 1408 (2002); See also Pediatric Research Equity
+Act of 2003, Pub. L. No. 108-155, 117 Stat. 1936 (permitting FDA to require pediatric studies
+under certain circumstances). See S. Rep. No. 107-79, at 2, 4; S. Rep. No. 108-84, at 2 (2003).
+FDA also stated that it believed that “the parties to paragraph IV litigation are best served
+by a rule that, consistent with the statutory language, errs on the side of greater finality.” FDA
+Decision at 7. This rule “reduces the possibility that an appellate court opinion will be relied on
+and then overturned (through an adverse opinion after rehearing or rehearing in banc) in very
+short order.” Id. Teva and Apotex both argue that FDA’s decision subverts congressional policy
+by putting the finality of the Federal Circuit opinion in the control of the patent holder, whose
+interests may lie in delaying the conclusion of the litigation. Apotex Mem. at 9-10; Teva Mem.
+at 29-30. Ultimately, however, control over the timing of the issuance of the mandate remains
+with the court: for example, the court may lift the stay of the mandate or shorten time for its
+issuance. See FRAP 41(b) & 41(d)(1). In addition, the mandate is not automatically stayed
+pending the filing of a petition for writ of certiorari, but such a stay must be sought by motion.
+FRAP 41(d)(2). Significantly, both Teva and Apotex note the rarity of en banc review and
+certiorari. Teva Mem. at 27-28 & n.5; Apotex Mem. at 10 & n.2. Thus, the extreme delays
+posited by Teva and Apotex do not seem realistic. In these circumstances, FDA’s decision to
+seek “greater finality” is a reasonable one.
+
+9
+
+Available at http://www.fda.gov/cder/pediatric/reportcong01.pdf
+-29-
+
+Case 1:07-cv-00579-RMU
+
+C.
+
+Document 52
+
+Filed 04/26/2007
+
+Page 30 of 49
+
+FDA Properly Concluded That Pediatric Exclusivity is Not Limited to
+Situations Where the NDA Holder Prevails in Patent Litigation Before the
+Patent Expires
+
+Teva, in its main argument before this Court, ignores applicable precedent and asserts that
+the plain language of the statute leads to a conclusion that has already been rejected by FDA, this
+Court, and the D.C. Circuit. Specifically, Teva asserts that pediatric exclusivity cannot apply to
+any applicant that files a paragraph IV certification when the NDA holder does not prevail in the
+patent litigation before patent expiration: “The statute’s plain text puts the onus on the brand
+manufacturer to win its lawsuit in order to earn pediatric exclusivity.” Teva Mem. at 16. FDA
+has rejected this position, and FDA’s position was affirmed in the Ranbaxy litigation.
+In Ranbaxy, Ranbaxy filed ANDAs to manufacture generic fluconazole and submitted
+paragraph IV certifications. It was sued by the patent holder, Pfizer; however, the patent
+litigation was not resolved before expiration of the patent. Meanwhile, FDA had requested
+pediatric studies from Pfizer, Pfizer complied, and FDA decided it was entitled to such
+exclusivity. Ranbaxy argued (just as Teva argues here), that Pfizer was not entitled to pediatric
+exclusivity under 355a(c)(2)(B) “unless Pfizer obtained a ruling that the ‘216 patent was valid
+and would be infringed.” 307 F. Supp. 2d at 18; see also id. at 19 (“Under [355a(c)(2)(B)],
+Ranbaxy argues, the only circumstance in which the pediatric exclusivity protections delay an
+ANDA holder’s entry into the market is when the court in the underlying patent infringement
+litigation has determined that the patent was valid and would be infringed. Here, there was no
+such determination . . . ”). This Court flatly rejected this argument, and upheld FDA’s decision
+that Ranbaxy’s paragraph IV certification became a paragraph II certification upon expiration of
+
+-30-
+
+Case 1:07-cv-00579-RMU
+
+Document 52
+
+Filed 04/26/2007
+
+Page 31 of 49
+
+the patent because the patent litigation was not resolved when the patent expired. Id. at 20-21.
+As noted above, the D.C. Circuit affirmed.
+As explained in the administrative decision in this case, in determining the application of
+pediatric exclusivity in such circumstances, FDA relies on the broader certification scheme under
+Hatch-Waxman. FDA Decision at 8. “It has been FDA’s longstanding view, that, when a patent
+expires before pending patent litigation is resolved, ANDA applicants who have not received
+final effective approval are required under Hatch-Waxman, to change their paragraph III and
+paragraph IV certifications to paragraph II certifications. Because, upon patent expiry, all ANDA
+applicants are presumed to have paragraph II certifications, the paragraph II provision of the
+pediatric exclusivity statute, 21 U.S.C. § 355a(c)(2)(A)(i), would control.” That means that,
+when the patent expires before the paragraph IV infringement litigation is resolved, paragraph IV
+certifications switch to paragraph II certifications, subsection 355a(c)(2)(A)(i) controls, and
+pediatric exclusivity applies. This approach, as noted above, has been affirmed in this Circuit.
+That decision conclusively rejects Teva’s interpretation that section 355a(c)(2)(B) bars the
+application of pediatric exclusivity in all circumstances unless the innovator prevails in patent
+litigation.
+Teva argues that FDA has taken inconsistent positions in the past. Teva Mem. at 21.
+Teva argues: “Because the plain text of the statute explicitly requires the brand manufacturer to
+prevail in post-paragraph IV litigation in order to obtain eligibility for pediatric exclusivity, FDA
+routinely grants [paragraph IV ANDA] applicants final approval where the brand manufacturer
+does not initiate suit at all.” Id. All of the instances cited by Teva, however, involved approval
+of an ANDA before the last patent expired and before pediatric exclusivity attached to prevent
+approval (and there was no patent litigation or 30-month stay that precluded approval). Contrary
+-31-
+
+Case 1:07-cv-00579-RMU
+
+Document 52
+
+Filed 04/26/2007
+
+Page 32 of 49
+
+to Teva’s assertion, the ANDAs were not approved because the statute “requires the brand
+manufacturer to prevail” in patent litigation. FDA has consistently held that if an ANDA is
+eligible for final effective approval before the patent expires – as in the instant case with Mylan’s
+amlodipine ANDA – it may be approved even if the innovator has been granted pediatric
+exclusivity because pediatric exclusivity only blocks approval of ANDAs that remain
+unapproved at the time of patent expiration. The examples Teva cites involved such
+circumstances and do not conflict with the analysis in the FDA decision.
+The Ranbaxy precedent, however, did not fully resolve the question presented here; i.e.,
+when the Federal Circuit issued a panel decision concluding that three claims of the patent were
+invalid but the mandate has not yet issued. In its decision, FDA explained:
+The statute provides that, where the ANDA applicant submits paragraph IV
+certification, “if . . . in the patent litigation resulting from the certification the
+court determines that the patent is valid and would be infringed, the period during
+which an application may not be approved . . . shall be extended by a period of six
+months after the date the patent expires . . . .” See 21 U.S.C. § 355a(c)(2)(B).
+Based on this language, FDA determines that the converse must also be true - if in
+paragraph IV litigation a court determines that a patent is invalid or not infringed,
+pediatric exclusivity will not bar approval of that applicant’s ANDA. This is the
+implicit meaning and logical interpretation of subsection 355a(c)(2)(B). . . .
+FDA Decision at 8. Thus, FDA concluded that, when the ‘303 patent expired on March 25,
+2007, all of the certifications to that patent contained in the unapproved ANDAs were required to
+change (or deemed to have changed) to paragraph II certifications and became subject to Pfizer’s
+pediatric exclusivity at that time. Id. at 9. That conclusion follows from the analysis applied and
+upheld in the Ranbaxy case discussed above.
+However, because the language of subsection 355a(c)(2)(B) “manifests a clear
+Congressional intent that pediatric exclusivity not block the approval of an ANDA where the
+ANDA applicant has prevailed in the paragraph IV patent litigation,” that provision “creates an
+-32-
+
+Case 1:07-cv-00579-RMU
+
+Document 52
+
+Filed 04/26/2007
+
+Page 33 of 49
+
+exception to the application of the Hatch-Waxman certification provisions.” Id. Therefore, FDA
+concluded that, if and when the mandate effectuating the panel’s March 22 decision issues in the
+Apotex case, Apotex’s ANDA will not be blocked by Pfizer’s pediatric exclusivity because it will
+have prevailed in the patent infringement litigation. Id. at 8-9. The reasoning for this exception
+renders irrelevant Mylan’s argument that Apotex should automatically be converted to a
+paragraph II because of past FDA policy and the rulings in Ranbaxy and Mylan (fentanyl).
+Mylan Mem. at 5-11; Mylan Supp. Mem. at 5-6. This FDA conclusion is not a departure from
+past practice, but the interpretation and application of law to a new situation not previously
+presented to FDA, i.e., a situation in which the patent expires after a paragraph IV ANDA
+receives a favorable panel decision from the Federal Circuit in patent litigation but before the
+mandate issues. See FDA decision at 1 (noting some of the issues involved in this matter “of
+first impression for the agency.”). The prior cases cited by the parties do not address this issue.
+FDA’s reasoning, as discussed above, reflects an appropriate interpretation of the statute and the
+“clear Congressional intent that pediatric exclusivity not block the approval of an ANDA where
+the ANDA applicant has prevailed. . . .” FDA Decision at 9. This conclusion is reasonable and
+compels rejection of Mylan’s assertions.
+D.
+
+FDA Properly Concluded That It Cannot Determine the Approvabilty of the
+Remaining ANDAs at this Time
+
+FDA properly concluded that it could not determine, on the record then before the
+agency, whether the issuance of mandate would lift the pediatric exclusivity barrier to approval
+of the other ANDAs, including Teva’s ANDA, because of conflicting information as to whether
+all of the claims of the ‘303 patent would be invalid, after issuance of the mandate, with respect
+to the other ANDAs. Patents are required to be listed in FDA’s Orange Book if they claim the
+
+-33-
+
+Case 1:07-cv-00579-RMU
+
+Document 52
+
+Filed 04/26/2007
+
+Page 34 of 49
+
+approved drug substance, approved drug product, or an approved method of use. 21 U.S.C.
+§ 355(b)(1); 21 C.F.R. § 314.53. If one or more of the remaining claims of the patent claims the
+approved drug substance, approved drug product, or approved method of use, the patent can
+remain properly listed until the expiration of pediatric exclusivity. In such a case, the patent
+should remain in the Orange Book and the remaining unapproved ANDAs are potentially subject
+to Pfizer’s pediatric exclusivity.
+Here, the Apotex opinion invalidated three claims of the patent. The commenters
+provided conflicting information as to whether the remaining claims of the ‘303 patent would
+provide a valid basis to list the patent if claims 1-3 are invalid. Several commenters maintained
+that the other claims presumptively remained valid because they had not been declared invalid.
+One commenter asserted that, as a matter of patent law, the remaining claims were invalid as
+well.
+FDA has long maintained that its has neither the expertise nor the resources to resolve
+patent issues and does not make independent determinations of the merits or applicability of
+patent claims. 59 Fed. Reg. 50338, 50342-43, 50345, 50349, 50352 (1994). FDA’s ministerial
+role in the listing process has been upheld. Apotex, Inc. v. Thompson, 347 F.3d at 1348-49;
+aaiPharma, Inc. v. Thompson, 296 F.3d 227, 243 (4th Cir. 2002), cert. denied, 538 U.S. 923
+(2003); Alphapharm Pty Ltd. v. Thompson, 330 F. Supp 2d 1, 7-8 (D.D.C. 2004). Thus, FDA
+properly concluded that it lacked both relevant information and expertise to resolve this issue.
+However, FDA did not foreclose the possibility that other information may come to light that
+would allow FDA to conclude that the patent is invalid: FDA stated that “in the absence of
+further judicial or other action clarifying the status of the patent, FDA will assume the ‘303
+patent remains validly listed.” FDA Decision at 10 (emphasis added).
+-34-
+
+Case 1:07-cv-00579-RMU
+
+Document 52
+
+Filed 04/26/2007
+
+Page 35 of 49
+
+FDA also indicated in its administrative decision its view as to what effect a finding of
+complete patent invalidity would have on the remaining ANDAs. As FDA noted in its letter and
+above, the commenters offered different views on this question. Some maintained that, once the
+patent is declared invalid, it should be presumed delisted from the Orange Book, and pediatric
+exclusivity would cease to block the approval of any ANDA. In its administrative decision,
+FDA generally endorsed this approach:
+If the remaining claims do not provide a basis on which to list the patent (i.e., do
+not claim the approved drug substance, drug product, or an approved method of
+use), the patent would no longer be eligible for listing in the Orange Book. In
+such a case, the patent must be withdrawn by Pfizer and any pediatric exclusivity
+that attached to the patent will no longer serve as a barrier to ANDA approval.
+FDA Decision at 9.
+In contrast, Teva asserted (and continues to assert) that, once a patent is found invalid in
+litigation against one party, the patent owner is collaterally estopped from asserting infringement
+claims based on that patent against additional defendants. See Teva Mem. at 19-20 (citing
+Blonder-Tongue Labs., Inc. v. University of Ill. Found., 402 U.S. 313, 350 (1971)). Teva argues
+that, applying collateral estoppel, all applicants who submitted paragraph IV certifications should
+be considered victorious in their individual patent litigation against Pfizer. As a result, ANDAs
+containing paragraph IV certifications at the time of patent expiration would be eligible for
+approval, while those containing paragraph III certifications would be blocked. See Teva
+Comments at 11-13. Thus, the difference in the result of the two approaches is that the first
+would make all ANDAs eligible for approval while Teva’s approach would allow only those
+ANDAs that contained paragraph IV certifications at the time of patent expiration to be
+approved.
+
+-35-
+
+Case 1:07-cv-00579-RMU
+
+Document 52
+
+Filed 04/26/2007
+
+Page 36 of 49
+
+There are several reasons why Teva’s theory should be rejected. First, the application of
+the doctrine of collateral estoppel requires, among other things, that the issue be identical with
+that presented in the prior adjudication. Blonder-Tongue Labs., 402 U.S. at 323. That
+requirement is in question here, because it is possible that more than the three claims found to be
+invalid in the Apotex opinion may apply to other ANDAs. Given the possibility of the nonidentity of issues from one patent litigation to another, and FDA’s lack of expertise on patent
+law, that is not a decision for FDA to make. Teva has failed to articulate a mechanism for
+presuming all paragraph IV litigants victorious in their patent litigations.
+Second, even if Teva’s approach were legally sound, it does not invalidate the patent
+delisting approach suggested by the other commenters and endorsed by FDA. Teva has failed to
+explain – once the entire patent is found to be invalid as to any ANDA – how it can continue to
+remain listed and bar the approval of any ANDA, including those that contained paragraph III
+certification at the time the patent expired. Accordingly, even if Teva were correct that Pfizer is
+collaterally estopped from asserting infringement against Teva, that would not prevent the
+approval of an ANDA application that had contained a paragraph III certification at the time of
+patent expiration once the patent is delisted.
+Third, Teva’s interpretation would permit gamesmanship on the part of ANDA applicants
+that would undermine the purposes of the statutory provisions in question. In the Ranbaxy case
+discussed above, Ranbaxy argued that Pfizer was not entitled to pediatric exclusivity because
+Ranbaxy had a paragraph IV certification and Pfizer had not won its patent infringement case
+before patent expiration. FDA rejected this argument, and noted the type of shenanigans that
+Ranbaxy’s position would allow:
+
+-36-
+
+Case 1:07-cv-00579-RMU
+
+Document 52
+
+Filed 04/26/2007
+
+Page 37 of 49
+
+Ranbaxy’s interpretation opens the door to the potential evisceration of pediatric
+exclusivity. Ranbaxy’s interpretation would provide a perverse incentive for
+generic applicant[] companies to change their paragraph III certifications to
+paragraph IV certifications shortly before patent expiry, and to otherwise delay
+filing paragraph IV certifications until the latest possible time. This tactic would
+permit ANDA applicants to circumvent pediatric exclusivity in almost every case
+by filing a paragraph IV certification with insufficient time to conclude the
+litigation. It would reward ANDA applicants who have done little more than
+challenge a listed patent that was otherwise due to expire shortly, at the expense of
+NDA holders who have incurred the expense and risk of performing the pediatric
+studies that the statute was designed to elicit, and at the expense of other ANDA
+applicants who filed their paragraph IV certifications with enough time to litigate
+their patent challenges to conclusion.
+Ranbaxy (fluconazole) letter, Jan. 28, 2004, at 6, Attachment A hereto.
+That is also the case here. Teva switched its paragraph III certification to a paragraph IV
+certification on March 23, 2007, with two days remaining on the patent – after the Federal Circuit
+had ruled against the validity of the patent – and now seeks to be rewarded for having
+“challenged” the patent. This conduct curtails Pfizer’s opportunity to defend its pediatric
+exclusivity. Moreover, Teva’s theory would reward it for simply filing a changed certification
+knowing it would face no risk or expense of defending patent litigation. That is not the kind of
+incentive that Congress intended. There is no reason Teva should have an advantage here over
+the other ANDA applicants who maintained paragraph III certifications during the pre-patent
+expiration pendency of their ANDAs simply because it switched to a paragraph IV certification
+two days before the patent expired.
+E.
+
+Mylan’s ANDA Approval Remains Effective
+
+Apotex argues that Mylan is not properly on the market because it lost its patent litigation
+in district court and that district court decision “converted Mylan’s final approval to a tentative
+approval by operation of law.” Apotex Mem. at 14. In support of this position, Apotex cites the
+Mylan (fentanyl) case. In Mylan (fentanyl), as in the instant case, Mylan received final approval
+-37-
+
+Case 1:07-cv-00579-RMU
+
+Document 52
+
+Filed 04/26/2007
+
+Page 38 of 49
+
+of its ANDA prior to expiration of the relevant patent. Subsequently, however, a district court
+ruled against Mylan in its patent litigation, and ordered the effective date of Mylan’s fentanyl
+approval be deferred until expiration of the patent. 389 F.3d at 1277. FDA concluded that this
+decision required FDA to convert Mylan’s final approval into a tentative approval and that, upon
+expiration of the patent, Mylan’s paragraph IV certification would have to be changed to a
+paragraph II (indicating that the patent had expired). Id. at 1277-78. Meanwhile, FDA had
+approved pediatric exclusivity for the innovator company, ALZA, and concluded that Mylan’s
+ANDA was subject to ALZA’s pediatric exclusivity because it had a paragraph II certification
+upon expiration of the patent. Id. at 1277-78. These decisions were upheld by this Court and by
+the D.C. Circuit. See id. at 1281-84.
+The distinction between Mylan (fentanyl) and the instant case is that here, before FDA
+acted on the injunction issued by the district court in the amlodipine patent litigation, Mylan
+received a stay of the district court’s decision from the Federal Circuit. Pfizer Inc. v. Mylan
+Labs., Inc., No. 2007-1194 (Mar. 23, 2007). After that stay, FDA had no basis to convert the
+approval status of Mylan’s ANDA from approved to tentatively approved. As noted, FDA does
+not make independent assessments of patent validity; the basis for changing the approval status
+of the Mylan ANDA in Mylan (fentanyl) was the (unstayed) district court injunction.
+In fact, this issue was the basis for the other amlodipine lawsuit filed by Mylan in this
+Court on March 23, 2007. Mylan Laboratories, Inc. v. Leavitt, et al., Civ. No. 07-0571 (RMU).
+Initially, FDA had informed Mylan that its final approval for amlodipine would be converted to a
+tentative approval based on the Pennsylvania district court injunction, and Mylan sought to
+enjoin FDA from this action. When the Federal Circuit stayed the district court injunction, FDA
+informed Mylan and this Court’s clerk on March 23 that FDA would not change Mylan’s final
+-38-
+
+Case 1:07-cv-00579-RMU
+
+Document 52
+
+Filed 04/26/2007
+
+Page 39 of 49
+
+approval to a tentative approval unless there was a supervening order of a court. Because no
+supervening order issued, the lawsuit became moot.
+Although Apotex argues that Mylan’s final approval was converted to a tentative
+approval “by operation of law” and without any FDA action, Apotex Mem. at 14, FDA has never
+taken that position. Indeed, Apotex also seems to recognize that some action by FDA is
+required: “In [Mylan (fentanyl)], FDA converted Mylan’s final approval to a tentative approval
+following Mylan’s loss in patent litigation.” Apotex Mem. at 15 (emphasis added). Similarly, in
+Mylan (fentanyl) the D.C. Circuit noted that some action was required by FDA to convert a final
+approval to a tentative approval: “Mylan contends that FDA lacked authority to revoke Mylan’s
+final ANDA approval . . . .,” “the provision does not prohibit FDA from withdrawing approval . .
+. .” 389 F.3d at 1281 (emphasis added).10 Even if such a conversion were appropriate under
+“operation of law,” however, the issuance of the Federal Circuit stay on March 23 rendering
+ineffective the district court injunction would have, “by operation of law,” undone any prior
+conversion. For these reasons, Apotex’s argument that Mylan’s ANDA does not have approval
+status is incorrect.
+
+10
+
+The legislative history of the Hatch-Waxman Amendments also suggests that FDA is required
+to act to convert a full approval to a tentative approval to conform to the court’s order. See H.R.
+Rep. No. 98-857, pt. 1, at 46 (1984) (“If the infringing party has not begun commercial marketing
+of the drug, injunctive relief may be granted to prevent any commercial activity with the drug and
+the FDA would be mandated to make the effective date of any approved ANDA not earlier than
+the expiration date of the infringed patent.”) (emphasis added).
+-39-
+
+Case 1:07-cv-00579-RMU
+
+F.
+
+Document 52
+
+Filed 04/26/2007
+
+Page 40 of 49
+
+Mylan’s Eligibility for 180-day Exclusivity Does Not Extend Beyond the
+Expiration of the Patent 11
+
+Mylan asserts that regardless of the applicability of pediatric exclusivity, it has 180 days
+of exclusivity which expires on September 19, 2007. Mylan Mem. at 11-14; Mylan Supp. Mem.
+at 1-3. In its memorandum in support of its preliminary injunction, Mylan specifically argues
+that this exclusivity blocks the approval of Apotex’s ANDA. FDA reached a contrary conclusion
+in its administrative decision issued on April 18, and most of those who commented to FDA
+agreed with FDA’s conclusion. FDA Decision at 10-13.
+By the terms of the statute, when a listed patent expires, a paragraph IV certification is no
+longer accurate. The statute and FDA’s regulations require ANDA applicants to change from a
+paragraph IV certification to a paragraph II certification stating “that such patent has expired.”
+21 U.S.C. § 355(j)(2)(A)(vii)(II),(IV); 21 C.F.R. § 314.94(a)(12)(viii)(C) (“an applicant shall
+amend a submitted certification if, at any time before the effective date of the approval of the
+application, the applicant learns that the submitted certification is no longer accurate”). FDA has
+determined, and courts have upheld, that in cases where an applicant neglects to amend its
+certification to a paragraph II certification after a patent expires, FDA may treat it as having done
+so. Dr. Reddy’s Laboratories, 302 F. Supp. 2d 340; Ranbaxy.
+Although the 180-day “exclusivity” provision, 21 U.S.C. § 355(j)(5)(B)(iv), is commonly
+characterized as granting 180-day exclusivity to the first applicant to submit an ANDA
+containing a paragraph IV certification, the language of the statute does not provide for that result
+
+11
+
+Apotex and Teva do not challenge FDA’s decision on 180-day exclusivity. The government
+includes this issue here in case the Court determines to address all of the pending issues at once.
+-40-
+
+Case 1:07-cv-00579-RMU
+
+Document 52
+
+Filed 04/26/2007
+
+Page 41 of 49
+
+directly. Instead, this end is accomplished by delaying the approval of subsequently filed
+ANDAs containing a paragraph IV certification until 180 days after the exclusivity period for the
+first (“previous”) applicant has begun. If the first applicant’s ANDA no longer contains a valid
+paragraph IV certification when it is ready for approval, the first applicant is not eligible for
+exclusivity. Similarly, when subsequent applications do not contain paragraph IV certifications,
+their approval is not delayed under this statutory provision. Thus, once the patent expires and all
+of the subsequent ANDA applicants are required to change their paragraph IV certifications to
+paragraph II certifications, the first paragraph IV certification no longer blocks anything under
+the express terms of the statute. FDA has consistently taken this position and it has been upheld.
+See 59 Fed. Reg. 50338, 50348 (Oct. 3, 1994) (stating “a patent is deemed to be relevant [for
+exclusivity purposes] until the end of the term of the patent or applicable 180-day period,
+whichever occurs first”); Ranbaxy Labs., Ltd. v. Leavitt, 469 F.3d 120, 126 (D.C. Cir. 2006)
+(“[T]he first generic applicant may no longer retain exclusivity when the patent has expired.”).
+This conclusion is also consistent with the statutory scheme. Applications with paragraph
+II certifications (i.e., certifying that the patent has expired) are generally eligible for immediate
+effective approval; the patent ceases to be a barrier to that approval upon its expiration.
+21 U.S.C. § 355(j)(5)(B)(i) (when an applicant files a paragraph II certification, approval of the
+applicant’s ANDA “may be made effective immediately”); 21 C.F.R. § 314.94(a)(12)(viii).
+Further, the fact that the express language of the exclusivity provision, 21 U.S.C
+§ 355(j)(5)(B)(iv), blocks only paragraph IV certifications and not paragraph III certifications
+makes sense only if exclusivity expires with the patent because ANDAs with paragraph III
+certifications cannot be approved before patent expiration.
+If Mylan were correct about exclusivity lasting after patent expiration, 180-day
+-41-
+
+Case 1:07-cv-00579-RMU
+
+Document 52
+
+Filed 04/26/2007
+
+Page 42 of 49
+
+exclusivity would block ANDAs containing paragraph IV certifications but not those containing
+paragraph III certifications. This would have the perverse effect of punishing applicants who
+took the risk of challenging a patent with a paragraph IV certification in order to remove a barrier
+to approval and to reward those applicants who sat back and waited for the patent to expire. This
+result is clearly inconsistent with the intent and logic of Hatch-Waxman. Thus, the fact that
+section 355(j)(5)(B)(iv) by its terms blocks only ANDAs containing paragraph IV certifications –
+the only ANDAs that can be approved before the expiration of an applicable patent – indicates
+Congress did not intend exclusivity to extend beyond patent expiration.
+This plain language reading of the statute effectuates the statutory goals. The 180-day
+exclusivity provision was drafted to give ANDA applicants an incentive to be first to challenge a
+listed patent and remove that patent as a barrier to approval. Once a listed patent expires and is
+no longer a barrier to ANDA approval, there is no longer a need to provide an incentive to
+challenge it in court. Thus, an expired patent does not serve as the basis for a 180-day
+exclusivity award, and 180-day exclusivity does not extend beyond the life of the patent.
+Mylan argues that 21 U.S.C. § 355a(k) compels the conclusion that 180-day exclusivity
+extends beyond the date the patent expires. See Mylan Supp. Mem. at 3. That section provides:
+If a 180-day exclusivity period . . . overlaps with a 6-month [pediatric exclusivity]
+period . . . , so that the applicant for approval of a drug under section [355(j)]
+entitled to the 180-day period under that section loses a portion of the 180-day
+period to which the applicant is entitled for the drug, the 180-day period shall be
+extended from –
+(1) the date on which the 180-day period would have expired by the number of days of
+the overlap, if the 180-day period would, but for application of this subsection, expire
+after the 6-month exclusivity period; or
+(2) the date on which the 6-month exclusivity period expires, by the number of days of
+the overlap if the 180-day period would, but for application of this subsection, expire
+during the six-month exclusivity period.
+
+-42-
+
+Case 1:07-cv-00579-RMU
+
+Document 52
+
+Filed 04/26/2007
+
+Page 43 of 49
+
+On its face, this section is inapplicable here because Mylan is approved and is not subject to
+Pfizer’s pediatric exclusivity and there is thus no 180-day exclusivity to restore.
+Instead, Mylan argues that by providing, in circumstances not applicable here, that 180day exclusivity will follow pediatric exclusivity, Congress must have been assuming that 180-day
+exclusivity survives patent expiration. See Mylan Supp. Mem. at 3. If Mylan were correct, then
+section 355a(k) would conflict with FDA’s longstanding understanding of the Hatch-Waxman
+statutory provisions governing 180-day exclusivity, as discussed above, which FDA believes to
+be compelled by the plain language of the statute. Thus, Mylan is essentially arguing that section
+355a(k) repealed part of the Hatch-Waxman 180-day exclusivity provisions.
+For one federal statute to repeal another:
+[T]he intention of the legislature to repeal must be clear and manifest. . . . In
+practical terms, this “cardinal rule” means that in the absence of some affirmative
+showing of an intention to repeal, the only permissible justification for a repeal by
+implication is when the earlier and later statutes are irreconcilable.
+Tennessee Valley Auth. v. Hill, 437 U.S. 153, 189-90 (1978) (citations omitted). The
+“irreconcilable conflict” required is a conflict
+in the sense that there is a positive repugnancy between [the two statutes] or that
+they cannot mutually coexist. It is not enough to show that the two statutes
+produce differing results when applied to the same factual situation, for that no
+more than states the problem.
+Radzanower v. Touche Ross & Co., 426 U.S. 148, 155 (1976). Here, there is no evidence that
+Congress ever affirmatively indicated it intended to repeal or change the operation of the 180-day
+exclusivity provision in enacting section 355a(k).
+Nor can Mylan show that the 180-day provisions in Hatch-Waxman and section 355a(k)
+are irreconcilable because it is possible to construe them in a way that they can mutually coexist.
+By its terms, section 355a(k) only addresses the curtailment of exclusivity to which the applicant
+-43-
+
+Case 1:07-cv-00579-RMU
+
+Document 52
+
+Filed 04/26/2007
+
+Page 44 of 49
+
+is otherwise “entitled.” As explained above, under Hatch-Waxman, the applicant is not entitled
+to exclusivity after the patent expires. That means, in reconciling the statutes, that the
+application of section 355a(k) is limited to the situation where there is more than one patent and
+the two exclusivity periods are each attached to different patents. Thus, one patent may expire,
+and pediatric exclusivity would start to run as to that patent, but the ANDA applicant could still
+be eligible for 180-day exclusivity on a later patent that had not yet expired. If that 180-day
+exclusivity period were triggered by a court decision on the later patent, it would be running at
+the same time the ANDA was blocked from approval by the pediatric exclusivity on the earlier
+patent.
+Indeed, the legislative history demonstrates that Congress intended to address this narrow
+situation by adding 21 U.S.C. § 355a(k) to restore the exclusivity to which the ANDA applicant
+was entitled but which otherwise would have been lost because the pediatric exclusivity on
+another patent blocked final effective approval:
+The amendment gives the filer of an [ANDA] who challenges a patent no more
+and no less time to market his drug exclusively before subsequent [ANDAs] for
+the drug may be approved then it would have received but for the intervening
+period of pediatric exclusivity.
+For example, the committee understands that there may be instances in which 2 patents
+on a drug are challenged in an [ANDA], and that, in subsequent litigation, a court holds
+the first patent to expire to be valid and infringed, and the second patent to expire to be
+invalid. If the section [355(b)(1), 21 U.S.C.] drug is granted a period of pediatric
+exclusivity with respect to the first patent, and if the court decision, which triggers the
+beginning of ANDA exclusivity, falls 60 days before that period of pediatric exclusivity
+begins (that is, 60 days before the first patent will expire), the ANDA exclusivity will
+overlap with the pediatric exclusivity for 120 days. In the absence of the pediatric
+exclusivity, the holder of the [ANDA] would enjoy at most 120 days to market its drug
+before a subsequent [ANDA] for the drug could be approved. But for the amendment,
+because of pediatric exclusivity, the holder of the [ANDA] would enjoy no ANDA
+exclusivity, because the first 120 days of the pediatric exclusivity period would run over
+the last 120 days of its ANDA exclusivity period.
+
+-44-
+
+Case 1:07-cv-00579-RMU
+
+Document 52
+
+Filed 04/26/2007
+
+Page 45 of 49
+
+S. Rep. No. 107-79, at 6-7 (2001); see also id. at 14 (“[Section 9 of BPCA] specifies that, when
+the pediatric exclusivity period for a drug overlaps with a period of ANDA exclusivity for the
+drug, the period of ANDA exclusivity is extended by an amount necessary to ensure that the
+holder of ANDA exclusivity enjoys the same possibility of exclusive commercial marketing that
+the holder would have enjoyed in the absence of pediatric exclusivity, no more and no less.”).
+This language confirms both that Congress intended only the limited application of section
+355a(k) and that this section can be construed consistently with the Hatch-Waxman exclusivity
+provisions. Thus, “[b]ecause the statutes are not irreconcilable and there is no convincing
+evidence that the later act was intended as a substitute, . . . a repeal by implication did not occur.”
+United States v. Williams, 216 F.3d 1099, 1102 (D.C. Cir. 2000).
+III.
+
+MOVANTS HAVE NOT SHOWN THEY WILL SUFFER IRREPARABLE
+INJURY ABSENT THE REQUESTED PRELIMINARY INJUNCTION
+Not only do the movants’ claims for preliminary injunctive relief lack substantive merit,
+
+they have also failed to demonstrate that they will suffer irreparable harm absent such relief or
+that the balance of hardships tips in its favor. “The sine qua non of granting any preliminary
+injunctive relief is a clear and convincing showing of irreparable injury to the plaintiff.”
+Experience Works, Inc. v. Chao, 267 F. Supp. 2d 93, 96 (D.D.C. 2003). Because the likelihood
+of success is extremely slim, the parties “would have to make a very substantial showing of
+severe irreparable injury” to prevail on its motion. National Pharm. Alliance v. Henney, 47 F.
+Supp. 2d 37, 41 (D.D.C. 1999). Irreparable injury is a “very high standard.” See Varicon Int’l v.
+Office of Personnel Mgmt., 934 F. Supp. 440, 447 (D.D.C. 1996); Bristol-Myers, 923 F. Supp at
+220. The injury alleged must be certain, great, actual, and imminent, Wisconsin Gas Co. v.
+FERC, 758 F.2d 669, 674 (D.C. Cir. 1985), and it must be “more than simply irretrievable; it
+
+-45-
+
+Case 1:07-cv-00579-RMU
+
+Document 52
+
+Filed 04/26/2007
+
+Page 46 of 49
+
+must also be serious in terms of its effect on the plaintiff.” Mylan v. Thompson, 139 F. Supp. 2d
+1, 27 (D.D.C. 2001) (quoting Gulf Oil Corp. v. Dep’t. of Energy, 514 F. Supp. 1019, 1026
+(D.D.C. 1981)).
+Mere economic loss in and of itself does not constitute irreparable harm. Wisconsin Gas,
+758 F.2d at 674; Mylan Pharm., 81 F. Supp. 2d at 42; Bristol-Myers, 923 F. Supp. at 220. “Mere
+injuries, however substantial in terms of money, time and energy necessarily expended” are
+inadequate. Wisconsin Gas, 758 F.2d at 674 (quoting Virginia Petroleum Jobbers Ass’n v. FPC,
+259 F.2d 921, 925 (D.C. Cir. 1958)). Even irrecoverable economic loss does not rise to the level
+of irreparable harm unless the financial injury is so great as to “cause extreme hardship to the
+business, or even threaten destruction of the business.” Gulf Oil, 514 F. Supp. at 1025; see also
+Apotex, Inc. v. FDA, 2006 U.S. Dist. LEXIS 20894 (D.D.C. Apr. 19, 2006) (to show irreparable
+harm from economic loss, “a plaintiff must establish that the economic harm is so severe at to
+cause extreme hardship to the business or threaten its very existence.”) (citation omitted);
+Experience Works, Inc., 267 F. Supp. 2d at 96 ($21.1 million reduction in funding is serious
+financial blow, but one frequently faced by other similar entities, and not an economic loss that
+threatens survival of the business); Sociedad Anonima Vina Santa Rita v. Dep’t of Treasury, 193
+F. Supp. 2d 6, 14 (D.D.C. 2001) (“financial harm alone cannot constitute irreparable injury
+unless it threatens the very existence of the movant’s business”).
+Apotex estimates that a favorable decision in this case (and an April launch date) could
+net it $50-80 million in sales above what it would earn with a September launch date. Apotex
+Mem. at 12. Teva similarly contends that “tens of millions” are at stake. Teva Mem. at 30.
+Neither company contends that the existence of its company is at stake. Mylan does not attempt
+to quantify its alleged harm, but alleges that if other ANDAs are approved it “would lose a
+-46-
+
+Case 1:07-cv-00579-RMU
+
+Document 52
+
+Filed 04/26/2007
+
+Page 47 of 49
+
+portion of the amlodipine market. . . . Mylan has forecasted that its revenues would reach several
+million dollars per day.” Declaration of Brian S. Roman ¶6 (Mar. 23, 2007). Obviously because
+Mylan is already on the market it would suffer, at most, an incremental impact on its sales. This
+Court has previously noted that the “D.C. Circuit is hesitant to award injunctive relief based
+purely on lost opportunities and market share,” and that “‘Mylan is the nation’s largest generic
+drug manufacturer, with annual sales of approximately three-quarters of a billion dollars.’”
+Mylan Pharmaceuticals, 139 F. Supp. 2d at 27-28 (quoting in part Mylan, 81 F. Supp. 2d at 43).
+In addition, assertions such as Mylan’s that are not supported “with specific citations to the
+record . . . do not rise above the level of mere speculation.” Id. at 28.
+Mylan’s revenue for 2006 exceeded $1.25 billion. See
+http://media.corporate-ir.net/media_files/irol/66/66563/2006IAR/pdf/mylan_ar06_fin.pdf. The
+worldwide sales of the Apotex Group of companies exceed $900 million (Canadian) per year.
+See http://www.apotex.com/CorporateInformation/. It has been estimated that Teva (USA)’s
+sales in 2006 were in the neighborhood of $130 million. See
+http://www.hoovers.com/teva-pharmaceuticals-usa/--ID__111935--/free-co-factsheet.xhtml.
+Moreover, Teva (USA) is the wholly owned subsidiary of Teva Pharmaceutical Industries Ltd.,
+which considers itself “among the largest generic pharmaceutical companies in the world” and
+had $8.4 billion in total sales in 2006. See http://www.tevapharm.com/about/.
+It is apparent from these figures that, while there is a lot of money to be made from the
+sale of amlodipine, the absence of immediate relief from this Court will not destroy the business
+of any company. Accordingly, the parties have failed to show irreparable harm.
+
+-47-
+
+Case 1:07-cv-00579-RMU
+
+IV.
+
+Document 52
+
+Filed 04/26/2007
+
+Page 48 of 49
+
+THE BALANCE OF HARMS AND THE PUBLIC INTEREST WEIGH
+AGAINST THE MOVANTS’ REQUESTS FOR INJUNCTIVE RELIEF
+The movants have also failed to show that the harm they will purportedly suffer in the
+
+absence of injunctive relief outweighs the potential harm to other affected parties or that the entry
+of such relief would further the public interest. Serono Labs, 158 F.3d at 1326; Mylan, 81 F.
+Supp.2d at 44-45. Although FDA has no commercial stake in the outcome of this litigation,
+FDA is the government agency charged with implementing the statutory scheme governing the
+approval of generic drugs and with encouraging appropriate pediatric studies. As such, FDA’s
+interest coincides with that of the public.
+American consumers benefit from FDA ensuring that pediatric exclusivity is granted and
+generic drugs are approved in accordance with the statutory scheme that Congress enacted and
+that the rewards and incentives contained in the statute are properly allocated in the manner
+Congress intended. See Biovail Corp. v. FDA, No. 06-1487, 2007 U.S. Dist. LEXIS 20238 at
+*29 (D.D.C. Mar. 22, 2007) (“The pubic will suffer harm if the FDA does not follow proper
+procedures in approving generic drugs.”). The relief sought by the movants would upset
+Congress’ careful balancing of incentives and rewards and disrupt the agency’s longstanding
+administration of the pediatric exclusivity and ANDA approval provisions of the Act. Teva
+asserts that “the public has been deprived of full access to safe and affordable generic amlodipine
+drug products for nearly one month.” Teva Mem. at 33. There is no factual basis for this
+hyperbole: beginning on March 23, 2007, two generic versions of Norvasc entered the market.
+Moreover, any financial harm the movants would suffer in the absence of injunctive relief
+would be at offset by the financial impact on the other interested parties should the requested
+
+-48-
+
+Case 1:07-cv-00579-RMU
+
+Document 52
+
+Filed 04/26/2007
+
+Page 49 of 49
+
+relief be granted. In addition, Pfizer could lose the full benefit of the pediatric exclusivity it
+earned by conducting expensive and important pediatric studies of its product. Moreover, the
+dispute before the Court is simply about how the profit from the sales for this drug product are
+divided among the parties, so that any gain for Apotex, Teva, or Mylan is a loss for another party
+and vice versa.
+CONCLUSION
+For the foregoing reasons, Apotex’s, Teva’s, and Mylan’s motions for preliminary
+injunction should be denied.
+Of Counsel:
+
+Respectfully submitted,
+
+DANIEL MERON
+General Counsel
+
+PETER D. KEISLER
+Assistant Attorney General
+
+SHELDON T. BRADSHAW
+Associate General Counsel
+Food and Drug Division
+
+C. FREDERICK BECKNER III
+Deputy Assistant Attorney General
+
+ERIC M. BLUMBERG
+Deputy Chief Counsel, Litigation
+KAREN E. SCHIFTER
+Associate Chief Counsel, Litigation
+U.S. Dept. of Health & Human Services
+Office of the General Counsel
+5600 Fishers Lane
+Rockville, MD 20857
+301-827-1152
+
+EUGENE M. THIROLF
+Director
+
+/s/
+DRAKE CUTINI
+Attorney
+Office of Consumer Litigation
+U.S. Department of Justice
+PO. Box 386
+Washington, D.C. 20044
+Tel: 202-307-0044
+Fax: 202-514-8742
+drake.cutini@usdoj.gov
+
+-49-
+
+Case 1:07-cv-00579-RMU
+
+Document 52-2
+
+Filed 04/26/2007
+
+ATTACHMENT A
+
+Page 1 of 9
+
+Case 1:07-cv-00579-RMU
+
+Document 52-2
+
+Filed 04/26/2007
+
+Page 2 of 9
+
+Case 1:07-cv-00579-RMU
+
+Document 52-2
+
+Filed 04/26/2007
+
+Page 3 of 9
+
+Case 1:07-cv-00579-RMU
+
+Document 52-2
+
+Filed 04/26/2007
+
+Page 4 of 9
+
+Case 1:07-cv-00579-RMU
+
+Document 52-2
+
+Filed 04/26/2007
+
+Page 5 of 9
+
+Case 1:07-cv-00579-RMU
+
+Document 52-2
+
+Filed 04/26/2007
+
+Page 6 of 9
+
+Case 1:07-cv-00579-RMU
+
+Document 52-2
+
+Filed 04/26/2007
+
+Page 7 of 9
+
+Case 1:07-cv-00579-RMU
+
+Document 52-2
+
+Filed 04/26/2007
+
+Page 8 of 9
+
+Case 1:07-cv-00579-RMU
+
+Document 52-2
+
+Filed 04/26/2007
+
+Page 9 of 9
+
+

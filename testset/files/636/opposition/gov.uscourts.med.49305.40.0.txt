@@ -1,0 +1,644 @@
+Case 2:15-cr-00198-GZS Document 40 Filed 06/20/16 Page 1 of 19
+
+PageID #: 106
+
+UNITED STATES DISTRICT COURT
+DISTRICT OF MAINE
+UNITED STATES OF AMERICA
+v.
+SAL MANSY
+TV TOYZ
+
+)
+)
+)
+)
+)
+)
+
+Crim. No. 15-cr-198-GZS
+
+GOVERNMENT=S OBJECTION TO DEFENSE
+MOTION TO SUPPRESS EVIDENCE OBTAINED FROM SEARCH OF YAHOO.COM
+EMAIL ACCOUNT AND INCORPORATED MEMORANDUM
+NOW COMES the United States of America, by and through its attorneys Thomas E.
+Delahanty II, United States Attorney for the District of Maine, and Michael J. Conley, Assistant
+United States Attorney, and respectfully objects to defendants’ Motion to Suppress (Docket Item
+# 34).
+
+The defendants have been charged with one count of operation of an unlicensed money
+
+service business, and aiding and abetting such conduct, in violation of 18 U.S.C. §§ 1960 and 2.
+The defendants have moved to suppress the contents of a Yahoo! email account alleging that (1)
+the search warrant upon which the search was based was overbroad and lacked particularity; and
+(2) the procedure employed to conduct the search (agents conducting the search of the email
+account as opposed to Yahoo! employees) was improper.1 For the reasons stated below, the
+Government respectfully requests that the defendants’ motion be denied without a hearing.
+FACTUAL BACKGROUND
+On May 6, 2015, Department of Homeland Security Special Agent David Fife sought and
+Defendants also argued that the affidavit submitted in support of the requested search warrant
+lacked probable cause. On June 16, 2016, defense counsel provided written notice to the
+government that they do not intend to seek suppression of the warrant on the basis that probable
+cause was lacking. Accordingly, the government has not addressed the issue of probable cause
+in this filing.
+
+1
+
+1
+
+Case 2:15-cr-00198-GZS Document 40 Filed 06/20/16 Page 2 of 19
+
+PageID #: 107
+
+obtained a federal search warrant (Mag. No. 2:15-mj-91-JHR) to review the Yahoo! email
+account salmansy@yahoo.com.
+
+Prior to submitting his application and affidavit with the court,
+
+SA Fife reviewed the contents of the application with an Assistant U.S. Attorney.
+
+In his
+
+affidavit filed in support of the requested warrant, SA Fife expressed his belief that probable
+cause existed to support the requested search. This belief was predicated upon, among other
+things, the following: (1) his undercover purchases of Bitcoin from the defendant; (2) his
+electronic communications with the defendant; and (3) the defendant’s electronic
+communications with ‘Coinbase’ regarding the defendant’s requirement to register with the
+Department of Treasury’s Financial Crimes Enforcement Network (FinCEN) as a money service
+business.
+On May 6, 2015, U.S. Magistrate Judge John H. Rich III expressed his concurrence that
+probable cause existed by issuing a search warrant authorizing the search of the Yahoo! email
+account salmansy@yahoo.com.
+Attachment B.
+
+There were two attachments to the warrant: Attachment A and
+
+These attachments consisted of the following:
+
+ATTACHMENT A
+Property to Be Searched
+This warrant applies to information associated with salmansy@yahoo.com that is
+stored at premises controlled by Yahoo!, a company that accepts service of legal
+process at Sunnyvale, California.
+ATTACHMENT B
+Particular Things to be Seized
+I.
+Information to be disclosed by Yahoo! (the “Provider”)
+To the extent that the information described in Attachment A is within the
+possession, custody, or control of the Provider, including any e-mails, records,
+files, logs, or information that has been deleted but is still available to the
+Provider, the Provider is required to disclose the following information to the
+government for the account or identifier listed in Attachment A:
+a.
+The contents of all e-mails associated with the account, including stored or
+preserved copies of e-mails sent to and from the account, draft e-mails, the source
+2
+
+Case 2:15-cr-00198-GZS Document 40 Filed 06/20/16 Page 3 of 19
+
+PageID #: 108
+
+and destination addresses associated with each e-mail, the date and time at which
+each e-mail was sent, and the size and length of each e-mail;
+b.
+All records or other information regarding the identification of the
+account, to include full name, physical address, telephone numbers and other
+identifiers, records of session times and durations, the date on which the account
+was created, the length of service, the IP address used to register the account, login IP addresses associated with session times and dates, account status, alternative
+e-mail addresses provided during registration, methods of connecting, log files,
+and means and source of payment (including any credit or bank account number);
+c.
+The types of service utilized;
+d.
+All records or other information stored at any time by an individual using
+the account, including address books, contact and buddy lists, calendar data,
+pictures, and files;
+e.
+All records pertaining to communications between the Provider and any
+person regarding the account, including contacts with support services and
+records of actions taken.
+II.
+Information to be seized
+All information described above in Section I that constitutes fruits,
+evidence or instrumentalities of violations of 18 U.S.C. § 1960 involving
+salmansy@yahoo.com, including the following:
+a.
+Information pertaining to the operation, ownership, and control of an
+unlicensed money service business, as defined in 18 U.S.C. § 1960.
+b.
+Information relating to the identities and locations of any persons who
+created or used the account; or who communicated with the account, if the
+communications pertained to the operation of an unlicensed money service
+business, as defined in 18 U.S.C. § 1960.
+Mag. No. 2:15-mj-91-JHR.
+DISCUSSION
+A.
+
+Fourth Amendment
+
+The Fourth Amendment provides that "no Warrants shall issue, but upon probable cause,
+supported by Oath or affirmation, and particularly describing the place to be searched, and the
+persons or things to be seized." U.S. CONST. amend. IV; see also Fed. R. Crim. P. 41.
+According to the Supreme Court, a search warrant complies with the Fourth Amendment when it
+includes three elements: it must be issued by a neutral magistrate; it must be based on a showing
+of “probable cause to believe that ‘the evidence sought will aid in a particular apprehension or
+3
+
+Case 2:15-cr-00198-GZS Document 40 Filed 06/20/16 Page 4 of 19
+
+PageID #: 109
+
+conviction’ for a particular offense”; and it must satisfy the particularity requirement. Dalia v.
+United States, 441 U.S. 238, 255 (1979). The scope of the particularity clause is limited to “two
+matters . . . the place to be searched and the persons or things to be seized.” United States v.
+Grubbs, 547 U.S. 90, 97 (2006) (internal quotation marks omitted). In particular, “[n]othing in
+the language of the Constitution or in this Court’s decisions interpreting that language suggests
+that . . . search warrants also must include a specification of the precise manner in which they are
+to be executed.” Id. at 98 (quoting Dalia, 441 U.S. at 255).
+"The manifest purpose of [the] particularity requirement [is] to prevent general searches."
+Maryland v. Garrison, 480 U.S. 79, 84, 107 S. Ct. 1013, 94 L. Ed. 2d 72 (1987). "Particularity
+prohibits the government from conducting general, exploratory rummaging of a person's
+belongings." United States v. Sigillito, 759 F.3d 913, 923 (8th Cir. 2014) (quotations omitted).
+"The fact that [a]warrant call[s] for seizure of a broad array of items does not, in and of itself,
+prove that the warrant fails to meet this requirement of particularity." United States v. Sugar, 606
+F. Supp. 1134, 1151 (S.D.N.Y. 1985). "The warrant must enable the searcher to reasonably
+ascertain and identify the things which are authorized to be seized." United States v. Cook, 657
+F.2d 730, 733 (5th Cir. 1981) (citations omitted). "The degree of specificity required will depend
+on the circumstances of the case and on the type of items involved." United States v. Summage,
+481 F.3d 1075, 1079 (8th Cir. 2007). "The particularity requirement is one of practical accuracy
+rather than of hypertechnicality." Sigillito, 759 F.3d at 923.
+B.
+
+The Search Warrant was not Overbroad
+
+The search warrant at issue here identifies with particularity the place to be searched and
+the items to be seized. As noted above, Attachment A describes a single email account, the
+4
+
+Case 2:15-cr-00198-GZS Document 40 Filed 06/20/16 Page 5 of 19
+
+PageID #: 110
+
+specific company that is in possession of the information contained within the email account, and
+where that company is located. Attachment B identifies with unyielding specificity precisely
+which items are to be seized from the email account. For example, since the supporting
+affidavit readily establishes that this particular email account has been used to facilitate criminal
+activity, determining both who created the account and who uses the account is critical to
+furthering the investigation. With this in mind, Attachment B outlines an intent to seize, among
+other things, the following:
+-
+
+The contents of all e-mails associated with the account . . . the source and destination
+addresses associated with each e-mail, the date and time at which each e-mail was
+sent, and the size and length of each e-mail;
+
+-
+
+all records or other information regarding the identification of the account, to include
+full name, physical address, telephone numbers and other identifiers;
+
+-
+
+the date on which the account was created;
+
+-
+
+the IP address used to register the account, log-in IP addresses associated with session
+times and dates, account status, alternative e-mail addresses provided during
+registration, methods of connecting, log files, and means and source of payment
+(including any credit or bank account number);
+
+-
+
+all records or other information stored . . . by an individual using the account,
+including address books, contact and buddy lists, calendar data, pictures, and files;
+
+-
+
+all records pertaining to communications between the Provider and any person
+regarding the account, including contacts with support services and records of actions
+taken; and
+
+-
+
+records or other information regarding the identification of the account.
+
+All of this information sought to be obtained is directly relevant to identifying the user of the
+account in question and can hardly be described in any reasonable way as lacking in specificity.
+In addition to identifying the user of the account, agents also sought evidence of the
+crime itself. Specifically, agents sought (1) “information pertaining to the operation, ownership,
+5
+
+Case 2:15-cr-00198-GZS Document 40 Filed 06/20/16 Page 6 of 19
+
+PageID #: 111
+
+and control of an unlicensed money service business;” and (2) “communications [pertaining] to
+the operation of an unlicensed money service business.” While it may be arguable that the
+phrase ‘unlicensed money service business’ does not rival a laser beam in terms of precision,
+such a level of precision is not necessitated by the Fourth Amendment – particularly in a case of
+this nature. Spinelli v. United States, 382 F.2d 871, 886 (8th Cir. 1967) ("When the
+circumstances of the crime make an exact description of the fruits and instrumentalities a virtual
+impossibility, the searching officer can only be expected to describe the generic class of items he
+is seeking."), rev'd on other grounds, 393 U.S. 410, 89 S. Ct. 584, 21 L. Ed. 2d 637 (1969).
+Bottom line - a law enforcement agent conducting a search under this warrant would know
+exactly where to look and exactly what to look for.
+C.
+
+The Two-Step Procedure for Executing the Warrant is Reasonable
+
+In addition to attacking the warrant itself, defendants take issue with the procedures
+employed to facilitate execution of the warrant because the United States seized emails in the
+account that fall outside the scope of the warrant. Specifically, defendants argue that:
+A search of an entire email account that may have been active for years will cover
+many thousands of documents, images, other materials and perhaps the most
+personal details of an individual’s life. Under these circumstances, the
+particularity requirement is heightened and we must demand that the government
+be even more specific and focused in its search.
+Oddly specificity is probably easier in the electronic context since the service
+provider could easily filter digital information. A more limited quantity of
+information might easily be provided to the government based on specific search
+terms or date limiters or addresses and domain names related to the investigation.
+None of that happened here.
+See Defense Motion to Suppress at 3.
+As an initial matter, under Supreme Court precedent, it is reasonable for officers
+6
+
+Case 2:15-cr-00198-GZS Document 40 Filed 06/20/16 Page 7 of 19
+
+PageID #: 112
+
+executing a warrant to examine emails that fall within the scope of Attachment A to determine
+which ones fall within the scope of Attachment B. In general, when officers execute a warrant,
+“[a] container that may conceal the object of a search authorized by a warrant may be opened
+immediately; the individual’s interest in privacy must give way to the magistrate’s official
+determination of probable cause.” United States v. Ross, 456 U.S. 798, 823 (1982). See also
+LaFave, Search and Seizure, § 4.10(a), at 932 (5th ed. 2012) (“A search made under authority of
+a search warrant may extend to the entire area covered by the warrant’s description.”).
+Officers cannot determine whether a document falls within the scope of the warrant
+without reviewing it; thus, they must examine it to determine whether it falls within the scope of
+the warrant.
+
+The Supreme Court recognized and approved this process in Andresen v.
+
+Maryland, 427 U.S. 463, 482 n.11 (1976), where it stated that “[i]n searches for papers, it is
+certain that some innocuous documents will be examined, at least cursorily, in order to determine
+whether they are, in fact, among those papers authorized to be seized.” Similarly, the D.C.
+Circuit has approved a “brief perusal” of each document to determine whether it falls within the
+scope of the warrant; it directed that “the perusal must cease at the point at which the warrant’s
+inapplicability to each document is clear.” United States v. Heldt, 668 F.2d 1238, 1267 (D.C.
+Cir. 1982). Here, the United States executed a warrant in the manner authorized by Andresen
+and Heldt: it examined emails within the scope of Attachment A to determine whether they
+constitute evidence or instrumentalities within the scope of Attachment B.
+The United States did not adopt novel or unprecedented procedures here. To the
+contrary, this two-step approach to warrants for electronic evidence was explicitly adopted by the
+2009 amendments to Federal Rule of Criminal Procedure 41. See Fed. R. Crim. P. 41, Advisory
+7
+
+Case 2:15-cr-00198-GZS Document 40 Filed 06/20/16 Page 8 of 19
+
+PageID #: 113
+
+Committee’s Notes (2009 amend.). These amendments were promulgated by the Supreme Court.
+See 28 U.S.C. § 2072. Rule 41 now provides that a warrant “may authorize the seizure of
+electronic storage media or the seizure or copying of electronically stored information. Unless
+otherwise specified, the warrant authorizes a later review of the media or information consistent
+with the warrant. The time for executing the warrant in Rule 41(e)(2)(A) and (f)(1)(A) refers to
+the seizure or on-site copying of the media or information, and not to any later off-site copying
+or review.” Fed. R. Crim. P. 41(e)(2)(B)
+Fed. R. Crim. P. 41, Advisory Committee’s Notes (2009 amend.) recognize that
+electronic storage media “commonly contain such large amounts of information that it is often
+impractical for law enforcement to review all of the information during execution of the warrant
+at the search location.” Id. The Notes “acknowledge[] the need for a two-step process: officers
+may seize or copy the entire storage medium and review it later to determine what electronically
+stored information falls within the scope of the warrant.” Id. Thus, in promulgating the Rule,
+the Supreme Court recognized that the two-step procedure would be used routinely for searches
+of electronic evidence.
+In addition, courts have widely approved the two-step procedure for executing warrants
+for electronic evidence, both before and after the 2009 amendment to Rule 41. As the Sixth
+Circuit explained, “[t]he federal courts are in agreement that a warrant authorizing the seizure of
+a defendant's home computer equipment and digital media for a subsequent off-site electronic
+search is not unreasonable or overbroad, as long as the probable-cause showing in the warrant
+application and affidavit demonstrate a ‘sufficient chance of finding some needles in the
+computer haystack.’” United States v. Evers, 669 F.3d 645, 652 (6th Cir. 2012). Every court of
+8
+
+Case 2:15-cr-00198-GZS Document 40 Filed 06/20/16 Page 9 of 19
+
+PageID #: 114
+
+appeals to consider the issue has endorsed the two-step process for warrants for electronic
+evidence. See, e.g., United States v. Stabile, 633 F.3d 219, 233-34 (3d Cir. 2011) (rejecting
+argument that computers should have been searched on-site and stating that “practical realities of
+computer investigations preclude on-site searches”); United States v. Grimmett, 439 F.3d 1263,
+1268–70 (10th Cir. 2006) (holding that a warrant for the search of “any and all” computer
+hardware and software for child pornography authorized both the seizure and subsequent search
+of the defendant's computer files); Guest v. Leis, 255 F.3d 325, 335 (6th Cir. 2001) (“Because of
+the technical difficulties of conducting a computer search in a suspect's home, the seizure of the
+computers, including their content, was reasonable in these cases to allow police to locate the
+offending files.”); United States v. Hay, 231 F.3d 630, 637-38 (9th Cir. 2000) (holding that
+officers were justified in removing computers for off-site search “because of the time, expertise,
+and controlled environment required for a proper analysis”); United States v. Upham, 168 F.3d
+532, 535 (1st Cir. 1999) (“As a practical matter, the seizure and subsequent off-premises search
+of the computer and all available disks was about the narrowest definable search and seizure
+reasonably likely to obtain the images [of the child pornography sought].”).2
+Similarly, the Eighth Circuit upheld as reasonable the execution of a two-step warrant
+under 18 U.S.C. § 2703 for email stored with a web-based email provider in United States v.
+Bach, 310 F.3d 1063, 1067-68 (8th Cir. 2002). In Bach, an investigator “obtained a state search
+warrant to retrieve from Yahoo! e-mails between the defendant and possible victims of criminal
+Appellate courts have also approved off-site sorting in cases involving paper documents, rather
+than electronic evidence. See, e.g., United States v. Santarelli, 778 F.2d 609, 616 (11th Cir. 1985)
+(upholding off-site examination of documents from defendant’s desk and four-drawer filing
+cabinet); United States v Hargus, 128 F.3d 1358, 1363 (10th Cir. 1997) (upholding seizure of an
+entire file cabinet because seizure was motivated by the impracticability of on-site sorting).
+2
+
+9
+
+Case 2:15-cr-00198-GZS Document 40 Filed 06/20/16 Page 10 of 19
+
+PageID #: 115
+
+sexual conduct, as well as the Internet Protocol addresses connected to his account.” Id. at 1065.
+However, Yahoo! employees did not attempt to find this particular information:
+Yahoo! technicians retrieved all of the information from Bach's account at
+dlbch15@yahoo.com and AM's Yahoo! e-mail account. According to Yahoo!,
+when executing warrants, technicians do not selectively choose or review the
+contents of the named account. The information retrieved from Bach and AM's
+accounts was either loaded onto a zip disc or printed and sent to [a law enforcement
+officer]. E-mails recovered from Bach's account detail him exchanging pictures
+with other boys and meeting with them.
+Id. The court upheld this search as reasonable under the Fourth Amendment. Id. at 1067-68.
+The two-step procedure for email warrants has also been upheld by district courts –
+including this one. United States v. Taylor, 764 F. Supp.2d 230, 237 (D. Me. 2011); United
+States v. Bowen, 689 F. Supp.2d 675, 682 (S.D.N.Y. 2010). The defense suggestion that Yahoo!
+should be required to conduct the search for law enforcement is unprecedented, contrary to
+Fourth Amendment principles and should be rejected. As noted further below, such a procedure
+is also unworkable, impractical and unreasonable.
+D.
+
+Requiring Yahoo! to Execute the Warrant is Unreasonable
+
+Defendants’ proposed manner of warrant execution, under which employees of a private
+company must review information in an email account to determine the information that falls
+within the scope of the warrant, is unreasonable. As an initial matter, defendants cite no authority
+for imposing this requirement, and there is none. As this very court has noted, “The Fourth
+Amendment does not require the government to delegate a prescreening function to the internet
+service provider or to ascertain which e-mails are relevant before copies are obtained from the
+internet service provider for subsequent searching.” United States v. Taylor, 764 F. Supp.2d
+230, 237 (D. Me. 2011). See also United States v. Bowen, 689 F. Supp.2d 675, 682 (S.D.N.Y.
+10
+
+Case 2:15-cr-00198-GZS Document 40 Filed 06/20/16 Page 11 of 19
+
+PageID #: 116
+
+2010) (similar). In the context of a physical warrant, it would be improper for a magistrate judge
+to require a landlord, rather than government agents, to execute a warrant to search an apartment
+for documents. Defendants’ suggestion that Yahoo! should execute a warrant for email stored on
+its servers is similarly erroneous.
+As a practical matter, defendants’ approach is unworkable. Executing a search warrant is
+not a ministerial procedure that can be delegated to untrained, non-governmental personnel. To
+effectively execute a warrant, a person must be equipped to separate responsive from nonresponsive information. To properly interpret the significance of a document that may relate to a
+criminal offense, executing agents benefit from detailed knowledge about the particular crime
+under investigation, its participants, and their practices. Messages that might appear innocuous to
+someone without knowledge of the case could actually be crucial evidence (whether inculpatory
+or exculpatory) of the crimes at issue. In addition, sharing information about the crime under
+investigation with a private party inappropriately risks the security and integrity of the
+investigation. Agents executing email warrants frequently must know grand jury information and
+information concerning the identity of confidential informants. The United States cannot hire,
+supervise, or fire service provider employees; thus, the government should not be forced to trust
+them with the sensitive facts of criminal investigations.
+Second, even if this information could be disclosed to employees of service providers, it
+would be unreasonably burdensome for the United States to have to educate provider personnel
+about the details of an investigation each time it seeks to execute an email warrant. The process
+would be time-consuming, expensive, and would unreasonably delay the execution of warrants.
+Furthermore, even with some instruction, service provider employees would still be unlikely to
+11
+
+Case 2:15-cr-00198-GZS Document 40 Filed 06/20/16 Page 12 of 19
+
+PageID #: 117
+
+know the case as well as government investigators, so some responsive information would likely
+not be recognized. In short, requiring service provider employees to execute email warrants
+“would be less effective than allowing government agents to determine the relevance of
+particular emails.” United States v. Deppish,
+
+F. Supp.2d
+
+, 2014 WL 349735, at *6 (D. Kan.
+
+Jan. 31, 2014).
+Third, even if service provider employees could be educated about the facts of an
+investigation, they would still likely be less skilled in executing a warrant than trained federal
+agents. Agents with experience and knowledge of the criminal offenses under investigation are
+more likely than service provider employees to know whether information constitutes evidence
+of crime. And agents are more likely than service provider employees to care whether they
+succeed in finding relevant evidence. Defendants’ suggested requirement would force the
+government, in executing warrants, to rely on service provider employees with uncertain levels
+of experience, interest, capability, understanding, diligence, integrity, and bias. That requirement
+has no basis in the Fourth Amendment and should be rejected.
+Fourth, speed is often critical to the execution of a warrant, and the defendants’ procedure
+would likely slow execution of email warrants to a snail’s pace. Currently, even without the
+additional burden that defendants’ suggestion would impose, many email providers struggle to
+complete within two weeks the ministerial task of producing the contents of a specified email
+account. Requiring providers to perform the more difficult task of searching for the particular
+items to be seized under a warrant would likely overwhelm them and lead to significant delays in
+warrant execution. In drafting the provision of 18 U.S.C. § 2703 for extra- district jurisdiction to
+issue email warrants, Congress emphasized the need for speed in executing such warrants:
+12
+
+Case 2:15-cr-00198-GZS Document 40 Filed 06/20/16 Page 13 of 19
+
+PageID #: 118
+
+An investigator, for example, located in Boston who is investigating a suspected
+terrorist in that city, might have to seek a suspect's electronic e-mail from an
+Internet service provider (ISP) account located in California. The investigator
+would then need to coordinate with agents, prosecutors and judges in the district
+in California where the ISP is located to obtain a warrant to search. These time
+delays could be devastating to an investigation, especially where additional
+criminal or terrorist acts are planned.
+H.R. Rep. 107-326(I), 107th Cong., 1st Sess., at 57 (2001). Congress’s goal of timely warrant
+execution thus would be undermined by the defendants’ requirement that service providers
+execute email warrants.
+Fifth, requiring service provider employees to execute email warrants will not protect
+account owners. To find responsive information, someone is going to have to see what is stored
+in the specified email account. There is no reason to suspect that service provider employees are
+more likely than government agents to safeguard from improper disclosure information learned
+during execution of a warrant. In fact, the opposite is true: service provider employees are not
+sworn to uphold the Constitution, trained in their duties and responsibilities in executing
+warrants, or likely to be held accountable if execution is performed unreasonably. In addition, if
+Yahoo! employees were to review the email within attachment A to determine whether it falls
+within Attachment B, they would be acting as government agents for Fourth Amendment
+purposes, because they will be acting at the direction of law enforcement. See e.g., Coolidge v.
+New Hampshire, 403 U.S. 443, 487 (1971) (stating that a civilian is a state actor for Fourth
+Amendment purposes when she “act[s] as an ‘instrument’ or agent of the state”); United States v.
+Sparks, 265 F.3d 825, 830 (9th Cir. 2001) (stating that it was undisputed that a civilian acted “as
+an agent of the state” when he assisted law enforcement with a search), overruled on other
+grounds, United States v. Grisel, 488 F.3d 844 (9th Cir. 2007) (en banc). Thus, even under
+13
+
+Case 2:15-cr-00198-GZS Document 40 Filed 06/20/16 Page 14 of 19
+
+PageID #: 119
+
+defendants’ approach, persons acting as agents of the government will review all the email
+within Attachment A. Rather than protecting against the issuance of a general warrant,
+defendants’ approach merely ensures that the agents executing the warrant are civilians rather
+than professional investigators.
+Sixth, although it might be possible for providers to develop the capacity to perform
+keyword searches on behalf of the government, keyword searches are an inadequate substitute
+for a message-by-message review during execution of the warrant. Keyword searches may hit on
+some responsive documents, but they miss large quantities of relevant evidence. Criminals may
+(intentionally or unintentionally) use different terminology than the keywords. They may
+misspell words. They may communicate through images or attachments not readily susceptible
+to keyword searches. Other incriminating email messages may be comprised entirely of words
+that on their own are clearly innocuous, such as “I did that thing you asked.”
+For these reasons, federal courts have rejected arguments that searches of electronic
+evidence may be limited to keyword searches. See, e.g., United States v. Crespo-Rios, 645 F.3d
+37, 43-44 (1st Cir. 2011) (holding that “government agents cannot simply search certain folders
+or types of files for keywords” because they could miss relevant evidence); United States v.
+Adjani, 452 F.3d 1140 (9th Cir. 2006) (holding that restricting computer search to specific search
+terms “would likely have failed to cast a sufficiently wide net to capture the evidence sought”);
+United States v. Vilar, 2007 WL 1075041, at *38 (S.D.N.Y. Apr. 4, 2007) (“[I]t seems
+manifestly obvious that any requirement that a computer search be confined by a key-word
+search protocol would inevitably immunize criminals.”); United States v. Graziano, 558 F. Supp.
+2d 304, 315 (E.D.N.Y. 2008) (“[R]estrict[ing] the computer search in every case to certain
+14
+
+Case 2:15-cr-00198-GZS Document 40 Filed 06/20/16 Page 15 of 19
+
+PageID #: 120
+
+methodologies or terms would give criminals the ability to evade law enforcement scrutiny
+simply by utilizing coded terms in their files or documents.”). Under Andresen and Heldt, the
+government is entitled to make a brief perusal of each email to determine whether it falls within
+the scope of the warrant; it is not required to limit itself to a process that is an inadequate
+substitute.
+Finally, to insist that the service provider, rather than law enforcement agents, execute the
+warrant, is to essentially require the government to rely on subpoena-like process to obtain
+evidence from a third-party email service provider. The Supreme Court rejected such a
+requirement in Zurcher v. Stanford Daily, 436 U.S. 547, 560-63 (1978). In that case, the district
+court had held that a subpoena rather than a warrant must be used to obtain information from a
+third-party not suspected of a crime. The Supreme Court disagreed, stating that “we are
+unpersuaded that the District Court's new rule denying search warrants against third parties and
+insisting on subpoenas would substantially further privacy interests without seriously
+undermining law enforcement efforts.” Id. at 560.
+E.
+
+Good Faith Reliance
+
+Assuming, arguendo, that the search warrant in this case was deemed to be overbroad, the
+agents nevertheless acted in good faith in seizing the evidence pursuant to the warrant. In
+United States v. Leon, 468 U.S. 897 (1984), the Supreme Court held that the exclusionary rule
+"cannot be expected, and should not be applied, to deter objectively reasonable law enforcement
+activity." Id. at 919. That is particularly true, the Court noted, "when an officer acting with
+objective good faith has obtained a search warrant from a judge or a magistrate and acted within
+its scope." Id. at 920. The Court reasoned that, in such circumstances, the deterrent value of
+15
+
+Case 2:15-cr-00198-GZS Document 40 Filed 06/20/16 Page 16 of 19
+
+PageID #: 121
+
+the exclusionary rule is vitiated by the fact that an officer cannot be expected to question the
+magistrate's probable-cause determination or his judgment that the form of the search warrant is
+technically sufficient. Id. at 921.
+The Supreme Court applied the same exception in the companion case of Massachusetts
+v. Sheppard, 468 U.S. 981 (1984) to a search warrant that insufficiently described the items to be
+seized. In Sheppard, the trial judge suppressed evidence seized during the execution of a search
+warrant that incorrectly identified the items to be seized as evidence of a narcotics transaction,
+rather than a murder. Relying on Leon, the Supreme Court reversed, emphasizing that the
+officers had demonstrated their good faith by submitting an affidavit to a judge and thereafter
+relying on the judge's determination that the warrant was sufficiently particularized. Sheppard,
+468 U.S. at 989-91. See also Illinois v. Krull, 480 U.S. 340, 359-61 (1987) (applying Leon to a
+state law, later held invalid, that authorized a warrantless search, even though the statute could
+have been more narrowly drawn).
+The same considerations that prompted the Supreme Court to apply the good faith
+exception in Leon, Sheppard, and Krull are also present here. SA Fife, armed with information
+obtained during the course of his investigation, drafted an affidavit in support of an application
+for a search warrant authorizing the search of the Yahoo! email account. Prior to submitting the
+application, affidavit and draft search warrant to a judicial officer, SA Fife sought the input of an
+Assistant U.S. Attorney.
+As the First Circuit has noted in United States v. Owens, 167 F.3d 739 (1999), there are
+circumstances, where the existence of good faith will not cure the defect:
+There are four exclusions to the Leon good-faith exception: (1) when the
+magistrate . . . was misled by information in an affidavit that the affiant knew was
+16
+
+Case 2:15-cr-00198-GZS Document 40 Filed 06/20/16 Page 17 of 19
+
+PageID #: 122
+
+false or would have known was false except for his reckless disregard for the
+truth; (2) where the issuing magistrate wholly abandoned his [detached and
+neutral] judicial role; (3) where the affidavit is so lacking in indicia of probable
+cause as to render official belief in its existence entirely unreasonable; and (4)
+where a warrant is so facially deficient B i.e. in failing to particularize the place to
+be searched or the things to be seized B that the executing officers cannot
+reasonably presume it to be valid.
+Id. at 745 (quotations and citation omitted). None of these exceptions, however, applies here.
+Judge Rich reasonably found probable cause to believe the stated items would be found in the
+Yahoo! e-mail account and issued a warrant that the officers reasonably relied upon and executed
+properly and within its scope. There is no evidence that the issuing judge abandoned his
+detached and neutral role. See id. There is no evidence to suggest that any of the officers were
+dishonest or reckless in applying for, relying upon and executing the warrant. See id. Finally,
+there is no evidence that any officer attempted to obtain the warrant though deceit or omission.
+See id. Accordingly, as in United States v. Robinson, 359 F.3d 66, 70 (1st Cir. 2004), and
+United States Capozzi, 347 F.3d 327, 334 (1st Cir. 2003), the Court should find the good faith
+exception applies and that suppression of the evidence in this case would do nothing to further
+the exclusionary rule=s objective of deterring police misconduct. See also United States v. Diaz,
+841 F.2d 1, 6 (1st Cir. 1988) (applying Leon good faith exception in context of a search
+conducted in reliance on a warrant later found to be ovebroad).
+
+17
+
+Case 2:15-cr-00198-GZS Document 40 Filed 06/20/16 Page 18 of 19
+
+PageID #: 123
+
+CONCLUSION
+For the foregoing reasons, the Government respectfully requests that the defendants’
+motion to suppress be denied.
+Dated at Portland, Maine, this 20th day of June 2016.
+Respectfully submitted,
+Thomas E. Delahanty II
+United States Attorney
+/s/Michael J. Conley
+Assistant United States Attorney
+United States Attorney=s Office
+100 Middle Street, PO Box 9718
+Portland, Maine 04101
+michael.conley@usdoj.gov
+
+18
+
+Case 2:15-cr-00198-GZS Document 40 Filed 06/20/16 Page 19 of 19
+
+PageID #: 124
+
+UNITED STATES DISTRICT COURT
+DISTRICT OF MAINE
+CERTIFICATE OF SERVICE
+I hereby certify that on June 20, 2016 I electronically filed Government=s Objection to
+Defendant=s Motion to Suppress Evidence and Incorporated Memorandum with the Clerk of
+Court using the CM/ECF system which will send notification of such filing to the following:
+Luke Rioux
+Farris Frank Haddad
+Shawn P. Smith
+Thomas E. Delahanty II
+United States Attorney
+
+/s/Michael J. Conley
+Assistant United States Attorney
+United States Attorney=s Office
+100 Middle Street, PO Box 9718
+Portland, Maine 04101
+(207) 780-3257
+michael.conley@usdoj.gov
+
+19
+
+

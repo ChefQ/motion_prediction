@@ -1,0 +1,298 @@
+Case 1:04-cv-00831-SLR Document54 ~~ Filed 07/20/2005 Page 1 of 25
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF DELAWARE
+
+ 
+
+IN RE VERITAS SOFTWARE CORP.
+SECURITIES LITIGATION
+
+Case No: 04-CV-831 (SLR)
+Consolidated Action
+
+ 
+
+ 
+
+OPENING BRIEF IN SUPPORT OF DEFENDANTS' MOTION TO DISMISS
+THE CONSOLIDATED AMENDED CLASS ACTION COMPLAINT
+
+OF COUNSEL: Peter J. Walsh, Jr. (DSB ID No. 2437)
+Nina F. Locker, Esquire POTTER ANDERSON & CORROON LLP
+Peri Nielsen, Esquire Hercules Plaza, 6th Floor
+
+WILSON SONSINI GOODRICH & ROSATI, PC 1313 North Market Street
+
+650 Page Mill Road Wilmington, Delaware 19801
+
+Palo Alto, California 94304-1050 Tel: (302) 984-6000
+
+Tel: (650) 493-9300 Email: pwalsh@potteranderson.com
+
+ 
+
+Attorneys for Defendants VERITAS
+Software Corporation, Edwin J. Gillis,
+Gary L. Bloom and John Brigden
+
+Dated July 20, 2005
+
+690685v3/28298
+Case 1:04-cv-00831-SLR Document54 ~~ Filed 07/20/2005 Page 2 of 25
+
+ 
+
+TABLE OF CONTENTS
+Page
+NATURE AND STAGE OF PROCEEDINGS 0... ceceeceeceeeesseesscnssesenseeeseseesseeserensesens 1
+SUMMARY OF ARGUMENT 1.0... cecccecceseeserereeereceeseeeesecsecnesseseseeseseseeseesneeseassasanenes 2
+SUMMARY OF ALLEGATIONS .......ccceecseesesreneeeeceseseessessssvssseesesesssesesessseseeeaeenes 6
+VERITAS... .cecccscccsccssccssecceesccssecseeceeeeseceeceecenecnseceesaeenaeeeeesesserseseesessesseesnesenesegs 6
+The Second Quarter Guidance ..........cecceeceeeceesseeesceseneeesserseseesesnenenseesssesseenaeee 6
+The July 6, 2004 Press Release......ceeceeccescecesseseeceseeesessecssecseseessesseseseseneseaeees 7
+The Original Complaints.......0..0.cccsceseeseseeeseeeneeeeesseeeseeseusssesesesseeeeessceeneesenaee 9
+The Consolidated Amended Class Action Complaint ..0........ccccsereeseeeeneeneees 9
+ARGUMENT ......cccccccsccssseseeseceseeseccseceeecececeeesaeeeseceaeseeeeeeesecesesaesseseeesaeeneeseseseesseeeeaseanenese 10
+I. APPLICABLE LEGAL STANDARDS 1.00... ceccecccecseseeseeseeeeeeceeeeeenseseeneeaetaneseees 10
+Ul. PLAINTIFFS FAIL TO ALLEGE AN ACTIONABLE STATEMENT
+REGARDING THEIR FORECAST ALLEGATIONS ...... cee ceceeeeeeeseeeeeneeees 10
+Ill. PLAINTIFFS FAIL TO PLEAD ADEQUATELY A CLAIM BASED ON
+VERITAS' GUIDANCE FOR THE SECOND QUARTER 2004... eee 12
+A. Plaintiffs Fail To Plead Facts Demonstrating That VERITAS'
+Guidance For Q2 2004 Was False When Made...........:::esceessseeeeseeeeeeseee 16
+B. Plaintiffs Fail To Plead Adequately That Defendants "Actually
+Knew" The Q2 2004 Guidance Was False When Made..............:c:cee 22
+IV. PLAINTIFFS FAIL TO PLEAD ADEQUATELY LOSS CAUSATION
+WITH RESPECT TO THEIR ACCOUNTING CLAIMS |... eee eeeeeeeee 24
+V. PLAINTIFFS FAIL TO PLEAD ADEQUATELY A CLAIM BASED ON
+ALLEGED IMPROPER REVENUE RECOGNITION ...... cc ecesceeeeereterereeeeeeees 27
+VI. PLAINTIFFS FAIL TO PLEAD ADEQUATELY FACTS RAISING A
+STRONG INFERENCE OF FRAUDULENT INTENT ON THE PART
+OF ANY OF THE DEFENDANTS............:ccecceeceeseeenesenecseeseeeeeceeeeatennersneraneenenens 31
+CONCLUSION... ..ecceccecccsceseeseeseesseseeseesecesecseesecseeaeesessecnessecasesesasenesaeeecerscersesseeneseaseneeas 36
+Case 1:04-cv-00831-SLR Document54 ~~ Filed 07/20/2005 Page 3of 25
+
+TABLE OF AUTHORITIES
+
+ 
+
+Page(s)
+CASES
+Inre AFC Enters. Inc. Sec. Litig., 348 F. Supp. 2d 1363 (N.D. Ga. 2004) oo. eee 23
+In re Advanta Corp. Sec. Litig., 180 F.3d 525 (3d Cir. 1999) oo... eeeceeeeeeeteeeeees passim
+In re Advanta Corp. Sec. Litig., No. 97-CV-4343, 1998 WL 387595
+
+(E.D. Pa. July 9, 1998), aff'd, 180 F.3d 525 (3d Cir. 1999) oes eeeeeeeees 17, 23
+In re Alpharma Inc. Sec. Litig., 372 F.3d 137 (3d Cir. 2004)... ee eeeeeseeeeneeeeetee passim
+In re AMDOCS Ltd. Sec. Litig., 390 F.3d 542 (8th Cir. 2004) oo. eceeseecenecneereeeeeenees 21
+Inre Best Buy Co., Inc. Sec. Litig., No. 03-6193, 2005 U.S. Dist. LEXIS
+
+6427 (D. Minn. April 12, 2005) oo... cece eeccsceeeeeeeeeeeeeeceeeseaeesseessueessaeesseeseaseneeesages 14
+In re Burlington Coat Factory Sec. Litig., 114 F.3d 1410 Gd Cir. 1997) o.oo 7
+California Public Employees' Retirement System v. Chubb Corp.,
+
+394 F.3d 126 (3d Cir. 2004)... ce ceeceeeeceececeeeeeneeceneeseeersneesneeenaeessaeeeneeennees passim
+Chalverus v. Pegasystems, Inc., 59 F. Supp. 2d 226 (D. Mass. 1999) occ ceeeeeseeeees 28
+In re Champion Enterprises, Inc. Sec. Litig., 144 F. Supp. 2d 848
+
+(E.D. Mich. 2001), aff'd, 346 F.3d 660 (6th Cir. 2003) ..... eee eeeeseeeereeeeeeeees 13, 14
+D.E. & J. Ltd. Partnership v. Conaway, Nos. 03-2334, 03-2417,
+
+2005 WL 1386448 (6th Cir. June 10, 2005) 0... eee eeceeceeeseenceteceeeeaeceaeeneeeeeeeneees 26
+Dura Pharmaceuticals, Inc. v. Broudo v., 125 S. Ct. 1627 (2005)... eeeceeeeeeeeeee 24, 25, 26
+Freed y. Universal Health Services, Inc., No 04-1233, 2005 WL 1030195
+
+(E.D. Pa. May 3, 2005) ....ccecccccccecscceseceneceneeenseeeeaeeesceseaeeeaeeeaceseaeeneneesaeeseneesaes 19, 29
+Inre FVC.COM Sec. Litig., 136 F. Supp. 2d 1031 (N.D. Cal. 2000), aff'd,
+
+2002 WL 465161 (9th Cir. 2002) oo. eccccceseesesseesceeeeeeeseeaeereseeeseseeeseseeeaeensenees 33
+GSC Partners CDO Fund v. Washington, 368 F.3d 228 (3d Cir. 2004) occ eceeeeseeteeees 35
+Gavish y. Revlon, Inc., No. 00 Civ. 7291, 2004 WL 2210269
+
+(S.D.N.Y. Sept. 30, 2004) oo... ceccccccccseceeecseeceseeceecesececeaeeneeeteseeceeenaeseneeens 12, 29, 30
+Harris v. IVAX Corp., 182 F.3d 799 (11th Cir, 1999) occ cccccesececssescnessesesssssesenasenes 14
+
+li
+Case 1:04-cv-00831-SLR Document54 ~~ Filed 07/20/2005 Page 4of 25
+
+Inre Initial Public Offering Sec. Litig., Nos. MDL 1554, 21 MC 92, 2005
+
+WL 1529659 (S.D.N-Y. Jun. 28, 2005) occ eee csceeseesesecnecseesesensenseteeeneenesteeaees 27
+In re K-Tel International, Inc. Sec. Litig., 300 F.3d 881 (8th Cir. 2002) 00... ceeceeseeeeee 28
+Kalnit v. Eichler, 264 F.3d 131 (2d Cir. 2001) oo... cece ce cecceeesesnseneceeeneensesseeeeteteeeeneenes 36
+Karacand v. Edwards, 53 F. Supp. 2d 1236 (D. Utah 1999) oo... cc ccesereeteeeeeeeeeees 13, 22
+In re Keyspan Corp. Sec. Litig., 01 CV 5852, 2003 U.S. Dist. LEXIS
+
+20964 (E.D.N.Y. Nov. 21, 2003)... eccecceseeeececesesseseeensssessseeasessssesseeeeaesneeneey 23
+Lipton v. PathoGenesis Corp., 284 F.3d 1027 (9th Cir. 2002)... cceccceseeeeteeteeseneeteeees 34
+In re Loewen Group Inc. Sec. Litig., No. 98-6740, 2003 WL 22436233
+
+(E.D. Pa. July 16, 2003)... eeeecceceeseeeeceeeneeeeesseeeseseseseeeseceeessseeseseseecnsesesnesneseeeeees 27
+In re Midway Games, Inc. Sec. Litig., 332 F. Supp. 2d 1152 (N.D. III.
+
+ZOO) once ccccccccccccssceseeeeseeeseeseraeeeeceteneecesseeaessessetssesseseesessensaesessessseseseseseesenens 14, 29
+Inre NAHC, Inc. Sec. Litig., 306 F.3d 1314 (3d Cir. 2002) ce ecceccccceseseeeseeeeeeeeesneeneesaee 7
+In re Nice Sys., Ltd. Sec. Litig., 135 F. Supp. 2d 551 (D.N.J. 2001) wee ee eeeeeeeees 16, 35
+Novak yv. Kasaks, 216 F.3d 300 (2d Cir. 2000)... eecceeceeeeseeecsseeeesseeesseeecessnesseeeeeesenersaes 17
+Inre NUI Sec. Litig., 314 F. Supp. 2d 388 (D.N.J. 2004) woo. eeeeeseeeeeneeeeeneees 26, 35
+In re Parmalat Sec. Litig., No. 04 MD 1653, 2005 U.S. Dist. LEXIS
+
+12553 (S.D.N.Y. Jun. 28, 2005) oo. eee eeeseeeecneeeeeeseeseesesseeaeseeensessesesssaseneaeesesneenees 27
+In re Party City Sec. Litig., 147 F. Supp. 2d 282 (D.N.J. 2001)... ccccceseeeeeeeee 17, 21, 34
+Ronconi v. Larkin, 253 F.3d 423 (9th Cir. 2001)... eeecceeesscesseeeeseeeeeseeesseseeesenersseressees 23
+In re SCB Computer Technology, Inc. Sec. Litig., 149 F. Supp. 2d 334
+
+(W.D. Tenn. 2001) ooo. ec eececeeeeecesreeeecneeeeeeeseeeeessseseeesesneeeneseeesssneeseasnessessesneesesneses 28
+SEC vy. Healthsouth Corp., 261 F. Supp. 2d 1298 (N.D. Ala. 2003)... ee eee 34
+Semerenko v. Cendant Corp., 223 F.3d 165 (3d Cir. 2000) .....eeeesceseeseeceseeseeneeens 24, 26
+In re Splash Tech. Holdings, Inc. Sec. Litig., No. C 99-00109, 2000 U.S.
+
+Dist. LEXIS 15369 (N.D. Cal. Sept. 29, 2000) oo... cece eee ceceee cette ceeteeeeeeneees 12
+In re Vantive Corp. Sec. Litig., 283 F.3d 1079 (9th Cir. 2002) oo. cceecseeeesereereeteeee 23
+Wietschner v. Monterey Pasta Co., 294 F. Supp. 2d 1102 (N.D. Cal. 2003)... 34
+Wilson v. Bernstock, 195 F. Supp. 2d 619 (D.N.J. 2002) oo. eeeeececenee cesses eeeeeseseseneeeens 11
+
+Winer Family Trust v. Queen, No. 03-4318, 2005 U.S. Dist. LEXIS 652
+(E.D. Pa. Jan. 13, 2005) cece cecceseesesseesesseeseensesecseessesseessonssesesscseasaussensesneeseeseeneees 22
+
+iil
+Case 1:04-cv-00831-SLR Document54 ~~ Filed 07/20/2005 Page 5of 25
+
+STATUTES
+15 U.S.C. 0x00A7 78t-4(b)(1)(B) .esseescssssssssssssssesesssssssssssssssessssessccsssssnunssecseeceecessnnnnteeseeeeenennen 11
+15 U.S.C. 0x00A7 78u-4(b)(2) cecsecssssccsssssssssessssssssvsssssessssseessssessssiessssssssiesseccessssnseeesessassnenees 11,31
+15 U.S.C. 0x00A7 78u-4(b)(3)(A) .ccsseeesscsssseescssssssessssssssvesssssseesesssieesssssseesssessnisssessinseseesseeeseesee 11
+15 U.S.C. 0x00A7 78U-5(C) ccssscssssessscessssssvsssssssssssessssssssuserssetssssuisesecssssnssesesasssnsceceesssnsuaneeeeeeesne 12
+15 U.S.C. 0x00A7 78u-5(CML)(A)(i) vesssssesessssssssssseessssssssseessesssssnisssscssssssesseccsssssusseeeeesssuneeseceenen 14
+15 U.S.C. 0x00A7 78u-5(C)1)(B)(i) ceeeescsssseescsssssssessssssevecsssssseeesssssvseessssssessesssuveceessssecceesssesseeen 22
+15 U.S.C. 0x00A7 78u-5(C)(2)(B)(i) cesseesssssssssssssesssesssssssevssesssssssevesessssnessesscessssuseeesecssssnneeseceessaee 14
+15 U.S.C. 0x00A7 78U-5(euro) secccsseesscssseescessssescesssuseesssssuvessesssusvesssssussrasanessesssinessessssseescesssneeseessenes 13
+15 U.S.C. 0x00A7 78U-S(i)secccscssssssssssssssssesssssssssssvssessssssseresessssssisesesssssuneseessssnssseceanssnseceseeeesssenes 2
+15 U.S.C. 0x00A7 T8u-S(i)(1) cecssceseessssssssevsssessssssevssssssssesuvessssssssuevessesssnisssesssssneseseeessssnaseceesessee 13
+
+RULES
+17 CE.R. 0x00A7241,10b5-1(C)(L\(C) veseecesssscsssssssvssssssssssssveessssssseessssssssnesssssesssstienececssssneeeeseee 28
+Fed. R. Civ. P. 9(b) vcssssesssssssssesssssssssusevsssssssssenevssesesssnseresessssnesssesssssnensseeesssneestecesansvee 1, 10
+Fed. R. Civ. P. 12(b)(6)..ccccsscsssssssssssssssssssssssesevesssssssssssssecsssseevessssssssssesseesssnvesseeeesassuveeseses 1
+MISCELLANEOUS
+
+S. Rep. No. 104-98, 1995 U.S.C.C.A.N. 679 (1995) voscccssssssstesssssssssnseseseecsssinsseseccansssnnees 25
+
+iv
+Case 1:04-cv-00831-SLR Document54 ~~ Filed 07/20/2005 Page 6 of 25
+
+NATURE AND STAGE OF PROCEEDINGS
+
+Plaintiff Paul Kuck filed this purported securities class action complaint against
+VERITAS Software Corporation ("VERITAS"), Gary L. Bloom and Edwin J. Gillis on
+July 7, 2004, one day after VERITAS announced that it expected to fall short of its
+previously issued revenue forecast for the quarter ended June 30, 2004.
+
+Several related lawsuits were filed shortly thereafter, and, on March 3, 2005, this
+Court consolidated these lawsuits and appointed Tay Siew Choon and Mark Leonov as
+Co-Lead Plaintiffs. On May 27, 2005, plaintiffs filed the Consolidated Amended Class
+Action Complaint ("CAC") against VERITAS, Mr. Bloom, Mr. Gillis and John Brigden
+(collectively, "defendants"). In addition to the original forecast allegations, plaintiffs'
+CAC extends the putative class period back a whole year to claim that each of
+VERITAS' financial statements filed between April 23, 2003 and April 21, 2004 was
+false because defendants had recognized revenue improperly on sales transactions.
+
+Defendants hereby move to dismiss the CAC for failure to satisfy the heightened
+pleading requirements imposed by the Private Securities Litigation Reform Act of 1995
+(the "Reform Act") and Fed. R. Civ. P. 9(b) and for failure to state a claim pursuant to
+
+Fed. R. Civ. P. 12(b)(6).
+Case 1:04-cv-00831-SLR Document54 ~~ Filed 07/20/2005 Page 7 of 25
+
+SUMMARY OF ARGUMENT
+
+1. With respect to plaintiffs' forecast allegations, both the Reform Act and
+the "bespeaks caution" doctrine shield defendants from liability for forward-looking
+statements accompanied by meaningful cautionary language. VERITAS' forecasts for
+the June 2004 quarter were forward-looking because they were "a projection of
+revenues." 15 U.S.C. 0x00A7 78u-5(i). VERITAS accompanied these forecasts with warnings
+that its quarterly revenue and earnings could be affected by "the possibility that our
+customers may cancel, defer or limit purchases as a result of reduced information
+technology budgets or weak and uncertain economic and industry conditions." This
+cautionary language amply warned investors of the precise risks that ultimately
+materialized in the June 2004 quarter, namely weakness in enterprise software sales.
+Thus, defendants are shielded from liability for issuing these forecasts.
+
+2. Plaintiffs also have failed to adequately allege that VERITAS' forecasts
+were false when made. Plaintiffs premise their allegations almost entirely on post-class
+period statements made in a July 27, 2004 securities analyst conference call in which Mr.
+Bloom explained the factors he believed contributed to the quarterly shortfall. Plaintiffs
+allege, without basis, that defendants were aware of these factors and knew they rendered
+the forecasts false at the time they were issued. Plaintiffs' contentions are nothing more
+than fraud-by-hindsight pleading, a tactic the Third Circuit has repeatedly rejected as a
+basis on which to claim securities fraud. Plaintiffs also rely on the vague accounts of a
+few alleged former employees to substantiate their forecast allegations, but none of their
+accounts is linked to the reasons for the revenue shortfall. Not only do these individuals
+
+fail to support plaintiffs' theory of fraud, but also none of them is alleged to have held a
+Case 1:04-cv-00831-SLR Document54 ~~ Filed 07/20/2005 Page 8 of 25
+
+position which would allow him or her to obtain information relating to VERITAS'
+revenue projections.
+
+3. Instead of facts demonstrating "actual knowledge" on the part of
+defendants - the scienter standard applicable to forward-looking statements - plaintiffs
+impermissibly allege scienter by virtue of defendants' positions and purported access to
+information. Numerous courts, including those in the Third Circuit, have rejected this
+generalized allegation as a basis on which to plead securities fraud. Further, given that
+none of the individual defendants sold any stock during the three-month period between
+the day guidance for the quarter ended June 2004 was first disseminated and the day the
+quarterly shortfall was announced, no motive has been or could be pleaded.
+
+4. With respect to the allegations regarding revenue recognition, plaintiffs
+fail to plead the required element of loss causation. The Supreme Court recently
+confirmed what this Circuit has already recognized: to state a securities claim under
+Section 10(b), plaintiffs must allege a proximate, causal connection between the
+purported misrepresentation and the subsequent decline in the price of a stock. Plaintiffs
+contend that VERITAS' financial statements were false because they contained revenue
+from contracts which were either unsigned or lacked essential terms. Plaintiffs, however,
+allegedly incurred their losses as a result of the July 6, 2004 announcement of the
+quarterly shortfall. This announcement did not address revenue recognition, let alone the
+accuracy of VERITAS' prior financial statements. Plaintiffs' losses, therefore, could not
+have been caused by any alleged improper revenue recognition as a matter of law.
+Plaintiffs' failure to plead loss causation disposes of their accounting allegations in their
+
+entirety.
+Case 1:04-cv-00831-SLR Document54 ~~ Filed 07/20/2005 Page Qof 25
+
+5. Plaintiffs' revenue recognition allegations also fail to satisfy the Reform
+Act's heightened pleading requirements or Rule 9(b). Plaintiffs fail to plead any specific
+dates, names, transactions or even the amount by which revenue was allegedly
+overstated. Plaintiffs rely principally on the account of an alleged former employee in
+the legal department who left VERITAS in 2003. This individual claims that Mr.
+Brigden, the General Counsel, approved contracts that had not been signed or which
+lacked essential terms, knowing they would be recognized as revenue. Plaintiffs fail to
+allege this individual's job title, the nature of his or her responsibilities, or any basis from
+which to infer that he or she would have reliable information relating to the consequences
+of Mr. Brigden's review or the timing of revenue recognition. Moreover, plaintiffs
+cannot satisfy the pleading requirements with this individual's account since he or she
+fails to allege the name of a single contract whereby revenue was recognized absent a
+required signature or material term.
+
+6. Plaintiffs also fail to allege facts raising a strong inference that defendants
+acted with deliberate recklessness in recognizing revenue. Plaintiffs fail to allege a basis
+on which this individual could have knowledge of what Mr. Brigden knew when he
+supposedly approved these unspecified contracts. Rather, plaintiffs attempt to satisfy
+their statutory obligation to allege scienter with particularity by pointing to stock sales
+executed in 2003 and early 2004 by the other defendants. Mr. Brigden, however, did not
+sell any VERITAS stock. This alone negates any inference of fraudulent intent. In
+addition, plaintiffs fail to allege that Messrs. Bloom's and Gillis's sales were unusual or
+suspicious in timing or amount. Indeed, Mr. Bloom sold only 1.71% of his total
+
+stockholdings (including stock options exercisable within 60 days), and Mr. Gillis sold
+Case 1:04-cv-00831-SLR Document54 ~~ Filed 07/20/2005 Page 10 of 25
+
+34% of his total stockholdings. VERITAS publicly disclosed, however, that both
+individuals had entered into pre-designed 10b5-1 stock trading plans, the existence of
+which negates an inference of fraudulent intent as a matter of law.
+
+In light of the foregoing, discussed in greater detail below, defendants respectfully
+
+request that the CAC be dismissed.
+

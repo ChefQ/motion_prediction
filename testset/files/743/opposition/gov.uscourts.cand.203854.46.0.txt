@@ -1,0 +1,1880 @@
+Goodard v. Google, Inc.
+
+1
+2
+3
+4
+5
+6
+7
+8
+
+Doc. 4
+
+KAREN G. JOHNSON-MCKEWAN (SBN 121570)
+kjohnson-mckewan@orrick.com
+NANCY E. HARRIS (SBN 197042)
+nharris@orrick.com
+NIKKA N. RAPKIN (SBN 244207)
+nrapkin@orrick.com
+ORRICK, HERRINGTON & SUTCLIFFE LLP
+The Orrick Building
+405 Howard Street
+San Francisco, CA 94105-2669
+Telephone:
+415-773-5700
+Facsimile:
+415-773-5759
+Attorneys for Defendant
+GOOGLE INC.
+
+9
+
+UNITED STATES DISTRICT COURT
+
+10
+
+NORTHERN DISTRICT OF CALIFORNIA
+
+11
+
+SAN JOSE DIVISION
+
+12
+13
+14
+
+JENNA GODDARD, on her own behalf and
+on behalf of all others similarly situated,
+Plaintiff,
+
+15
+16
+17
+18
+
+Case No. C 08-02738 (JF)
+GOOGLE INC.’S REPLY IN SUPPORT
+OF ITS MOTION TO DISMISS
+Date: December 5, 2008
+Time: 9:00 a.m.
+
+v.
+GOOGLE, INC., a Delaware corporation,
+Defendant.
+
+Judge: The Honorable Jeremy Fogel
+Date Action Filed: May 30, 2008
+No Trial Date Set
+
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+DEFENDANT GOOGLE’S REPLY IN SUPPORT OF ITS MOTION TO DISMISS
+Case No. C 08-02738
+
+Dockets.Justia.com
+
+1
+
+TABLE OF CONTENTS
+
+2
+3
+4
+
+Page
+I.
+II.
+
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+
+III.
+
+INTRODUCTION...........................................................................................................1
+ARGUMENT ..................................................................................................................2
+A.
+Each of Plaintiff’s Claims Is An Attempt to Hold Google Liable for the
+Publication of Content Provided by Another ........................................................2
+1.
+Section 230 Bars Plaintiff’s Section 17200 Claim.....................................3
+2.
+Section 230 Bars Plaintiff’s Negligence and Contract Claims ...................5
+a.
+Plaintiff’s Claims Seek Impermissibly To Hold Google
+Liable for Failure to Remove Advertisements On Its
+Website.........................................................................................5
+b.
+Plaintiff Does Not Support Her Argument that Google Can
+Be Liable for Failure to Remove Non-Compliant
+Advertisements .............................................................................7
+3.
+Plaintiff’s Aiding and Abetting Claim is Barred by the CDA ....................8
+4.
+Google’s Content Policy Falls Within the Scope of Section
+230(c)(2)(A) .............................................................................................9
+B.
+Whether or Not Section 230 Applies, Plaintiff Does Not State Viable
+Claims .................................................................................................................9
+1.
+Plaintiff Fails to State a Claim Under Section 17200.................................9
+a.
+Plaintiff Fails To State A Claim for Violation of the
+Computer Fraud And Abuse Act .................................................10
+b.
+Plaintiff Fails to State a Claim That Google Knowingly
+Accepted Criminally Derived Funds ...........................................11
+2.
+Plaintiff Fails to State a Claim for Breach of Contract.............................12
+3.
+Plaintiff’s Negligence Claim is Barred by California Law.......................13
+4.
+Plaintiff States No Claim for Aiding and Abetting ..................................14
+CONCLUSION .............................................................................................................15
+
+21
+22
+23
+24
+25
+26
+27
+28
+-iDEFENDANT GOOGLE’S REPLY IN SUPPORT OF ITS MOTION TO DISMISS
+Case No. C 08-02738
+
+1
+
+TABLE OF AUTHORITIES
+
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+Page
+FEDERAL CASES
+American Family Mut. Ins. Co. v. Rickman,
+554 F. Supp. 2d 766 (N.D. Ohio 2008) ................................................................................10
+Balistreri v. Pacifica Police Dep’t.,
+901 F.2d 696 (9th Cir. 1988) ...............................................................................................11
+Batzel v. Smith,
+333 F.3d 1018 (9th Cir. 2003) ...............................................................................................7
+Carafano v. Metrosplash.com, Inc.,
+339 F.3d 1119 (9th Cir. 2003) ...............................................................................................9
+Doe v. MySpace,
+528 F.3d 413 (5th Cir. 2008) ......................................................................................... 2, 3, 4
+Doe v. SexSearch.com,
+502 F. Supp. 2d 719 (N.D. Ohio 2007) .................................................................................8
+In re Doubleclick Privacy Litig.,
+154 F. Supp. 2d 497 (S.D.N.Y. 2001) ..................................................................................10
+Fair Housing Council v. Roommates.com LLC,
+521 F.3d 1157 (9th Cir. 2008) ....................................................................................... 6, 7, 8
+FTC v. Accusearch,
+No. 06-CV-105-D, 2007 WL 4356786 (D. Wyo. Sept. 28, 2007)...........................................5
+Green v. Am. Online,
+318 F.3d 465 (3d Cir. 2003) .................................................................................... 2, 3, 6, 12
+Henry v. Lehman Commercial Paper, Inc.,
+471 F.3d 977 (9th Cir. 2006) ...............................................................................................14
+Highfields Capital Mgmt., L.P. v. Doe,
+385 F. Supp. 2d 969 (N.D. Cal. 2005)..................................................................................12
+Mazur v. eBay, Inc., No. C 07-3967,
+2008 WL 618988 (N.D. Cal. Mar. 4, 2008) ............................................................... 7, 11, 13
+PatentWizard, Inc. v. Kinko’s Inc.,
+163 F. Supp. 2d 1069 (D.S.D. 2001)......................................................................................8
+Rutgard v. United States,
+116 F.3d 1270 (9th Cir. 1996) .............................................................................................11
+Shamrock Foods Co. v. Gast,
+535 F. Supp. 2d 962 (D. Ariz. 2008).............................................................................. 10, 11
+- ii DEFENDANT GOOGLE’S REPLY IN SUPPORT OF ITS MOTION TO DISMISS
+Case No. C 08-02738
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+TABLE OF AUTHORITIES
+(continued)
+Page
+United States v. Stein,
+37 F.3d 1407 (9th Cir. 1994) ...............................................................................................11
+United States v. Yagman,
+502 F. Supp. 2d 1084 (C.D. Cal. 2007)................................................................................11
+STATE CASES
+Branick v. Downey Savings & Loan,
+39 Cal. 4th 235 (Cal. 2006)....................................................................................................5
+Casey v. U.S. Bank Nat’l Ass’n.,
+127 Cal. App. 4th 1138 (Cal. App. 2005).............................................................................14
+FNS Mortgage Service Corp. v. Pacific Gen. Group, Inc.,
+24 Cal. App. 4th 1564 (1994) ........................................................................................ 13, 14
+Gentry v. eBay, Inc.,
+99 Cal. App. 4th 816 (2002) .......................................................................................... 2, 3, 4
+Hanberry v. Hearst Corp.,
+276 Cal. App. 2d 680 (1969) ......................................................................................... 13, 14
+Mukthar v. Latin American Security Service,
+139 Cal. App. 4th 284 (Cal. App. 2006) ..............................................................................14
+Paz v. State of California,
+22 Cal. 4th 550 (2000)................................................................................................... 13, 14
+Souza v. Westlands Water Dist.,
+135 Cal. App. 4th 879 (Cal. App. 2006) ..............................................................................12
+FEDERAL STATUTES
+18 U.S.C. § 1957(a) .......................................................................................................... 5, 9, 11
+47 U.S.C. § 230.................................................................................................................. passim
+STATE STATUTES
+Cal. Bus. Code § 17200...................................................................................................... passim
+Cal. Civ. Code § 1739.7 ..............................................................................................................4
+
+26
+
+OTHER
+
+27
+
+Fed. R. Civ. P. ......................................................................................................................1, 11
+
+28
+- iii DEFENDANT GOOGLE’S REPLY IN SUPPORT OF ITS MOTION TO DISMISS
+Case No. C 08-02738
+
+1
+
+I.
+
+INTRODUCTION
+Plaintiff Jenna Goddard’s (“Plaintiff”) Opposition to Google Inc.’s Motion to Dismiss
+
+2
+3
+
+(“Opp.”) rests on a wholesale mischaracterization of her own Complaint. Recognizing that her
+
+4
+
+claims cannot proceed under Section 230 of the Communications Decency Act (“Section 230”),
+
+5
+
+47 U.S.C. § 230 – the Complaint, after all, would hold Google liable for content published by
+
+6
+
+others – Plaintiff asks the Court to ignore the allegations she has actually made, and accept her
+
+7
+
+recharacterization of those allegations instead. The Complaint, for example, defines the putative
+
+8
+
+class as “[a]ll persons or entities who suffered damages as a result of clicking on a Google
+
+9
+
+AdWords advertisement for mobile subscription services which linked to a Fraudulent Mobile
+
+10
+
+Subscription Services website.” ¶40.1 The Opposition, on the other hand, argues Plaintiff’s
+
+11
+
+claims “arise from content created by Google (such as its Content Policy) and Google’s conduct
+
+12
+
+(such as its acceptance of tainted funds) which was (and remains) unrelated to content created by
+
+13
+
+the mobile content providers.” Opp. at 3. It is the Complaint, however, that controls here.
+
+14
+
+Moreover, what Plaintiff wishes she had alleged works no better, because Section 230 also
+
+15
+
+forecloses liability for Google’s alleged failure to invoke an advertising and content policy to
+
+16
+
+prevent the appearance of ads on Google webpages that led Plaintiff to click on purportedly
+
+17
+
+fraudulent websites. No matter how Plaintiff packages her claims, it is perfectly clear that the
+
+18
+
+alleged cause of her harm was fraudulent MSSPs. (“Absent Google’s provision of AdWords
+
+19
+
+services to the Fraudulent Mobile Subscription Services, the Class members would never have
+
+20
+
+been damaged by the Fraudulent Mobile Subscription Services.” ¶58.) Plaintiff’s attempt in her
+
+21
+
+Opposition to evade application of Section 230 by treating Google’s Content Policy as the
+
+22
+
+published material that caused her damage goes nowhere, because the Complaint explicitly
+
+23
+
+alleges otherwise and Section 230 still immunizes Google.
+Moreover, even without the immunity afforded Google under Section 230, Plaintiff’s
+
+24
+25
+
+Complaint would have to be dismissed under Federal Rule of Civil Procedure 12(b)(6) for failing
+
+26
+
+to state valid claims.
+
+27
+28
+
+1
+
+Citations to “¶__” are references to the relevant paragraph of the Complaint.
+1
+DEFENDANT GOOGLE’S REPLY IN SUPPORT OF ITS MOTION TO DISMISS
+Case No. C 08-02738
+
+1
+
+II.
+
+2
+
+A.
+
+3
+4
+5
+6
+7
+8
+
+11
+12
+13
+14
+
+content created by the mobile content providers.”2 Opp. at 3. This argument – plainly a device to
+avoid application of Section 230 – flies in the face of the plain language of the complaint, and a
+host of appellate decisions that reject virtually indistinguishable efforts to evade Section 230.
+See, e.g., Doe v. MySpace, 528 F.3d 413 (5th Cir. 2008); Green v. Am. Online, 318 F.3d 465 (3d
+Cir. 2003); Gentry v. eBay, Inc., 99 Cal. App. 4th 816 (2002).
+Holding a defendant “responsible for content originating from other parties, [] would be
+treating it as the publisher . . . contrary to Congress’s expressed intent under section 230(c)(1).”
+Gentry, 99 Cal. App. 4th at 831. This, however, is precisely what Plaintiff seeks to do. The sole
+basis for each of Plaintiff’s four claims is that she “suffered damages as a result of clicking on a
+Google AdWords advertisement for mobile subscription services which linked to a Fraudulent
+Mobile Subscription Services website.” ¶ 40.
+
+15
+16
+17
+18
+19
+20
+21
+22
+23
+
+Though the Complaint focuses primarily on the workings of the mobile content service
+industry (in which Google is not a participant), the gravamen of the Complaint is that Plaintiff
+was injured after entering her cell phone number on one or more allegedly fraudulent MSSP
+websites she viewed after clicking on a Google AdWords advertisement. ¶ 37. Google’s only
+connection to the events allegedly causing Plaintiff’s damages is that it accepted ads for
+publication on its website. As Plaintiff alleges repeatedly, “[a]bsent Google’s provision of
+AdWords services to the Fraudulent Mobile Subscription Services, the Class members would
+never have been damaged by the Fraudulent Mobile Subscription Services.” ¶¶ 58, 64, 70
+(emphasis added).
+
+24
+25
+26
+
+Each of Plaintiff’s Claims Is An Attempt to Hold Google Liable for the
+Publication of Content Provided by Another.
+
+Plaintiff argues that Section 230 does not apply because her claims are “unrelated to
+
+9
+10
+
+ARGUMENT
+
+Despite arguments to the contrary now, the Complaint is explicit: had Google declined to
+publish the allegedly fraudulent MSSP advertisements on its website, Plaintiff would not have
+been injured. Whether Plaintiff characterizes her claim as (1) negligence or breach of contract
+
+27
+2
+
+28
+
+Plaintiff concedes that Google is an interactive computer service (Opp. at 4) and apparently
+agrees that Google is not responsible for the ads that allegedly caused her injury. Opp. at 4.
+2
+DEFENDANT GOOGLE’S REPLY IN SUPPORT OF ITS MOTION TO DISMISS
+Case No. C 08-02738
+
+1
+
+(for failure to remove ads not in compliance with Google’s Content Policy and Advertising
+
+2
+
+Terms), (2) acceptance of unlawful funds (for advertising services that caused Plaintiff’s injury),
+
+3
+
+or (3) aiding and abetting the allegedly fraudulent MSSPs (by allowing them to advertise), each
+
+4
+
+of Plaintiff’s claims depends on the allegedly fraudulent MSSP ad appearing on Google’s
+
+5
+
+website. By pursuing Google for the alleged damage ensuing from these ads, Plaintiff would hold
+
+6
+
+Google liable for their publication. See MySpace, 528 F.3d at 420 (“No matter how artfully
+
+7
+
+Plaintiffs seek to plead their claims, the Court views Plaintiffs’ claims as directed toward
+
+8
+
+MySpace in its publishing, editorial, and/or screening capacities.”).
+
+9
+
+1.
+
+Section 230 Bars Plaintiff’s Section 17200 Claim.
+
+10
+
+Plaintiff argues that her claim for violation of California Business & Professions Code
+
+11
+
+Section 17200 (“Section 17200”) “is independent of the fraudulent mobile content providers’
+
+12
+
+AdWords” and therefore does not seek to treat Google as a publisher for purposes of Section 230.
+
+13
+
+Opp. at 8. The actual allegations of the Complaint do not support this characterization. Plaintiff
+
+14
+
+alleges she was damaged by clicking on an MSSP’s advertisement that Google published:
+
+15
+
+“[a]bsent Google’s provision of AdWords services to the Fraudulent Mobile Subscription
+
+16
+
+Services, the Class members would never have been damaged by the Fraudulent Mobile
+
+17
+
+Subscription Services.”3 ¶ 58.
+
+18
+
+Courts have consistently resisted plaintiffs’ arguments that their claims “do not attempt to
+
+19
+
+treat [the defendant] as a ‘publisher’ of information.” MySpace, 528 F.3d at 419. The
+
+20
+
+longstanding and well-accepted rule is that holding computer services liable for third party
+
+21
+
+content appearing on their websites would impermissibly treat the service as “the publisher or
+
+22
+
+speaker” of that information under Section 230. Id., at 418; Green, 318 F.3d 465; Gentry, 99 Cal.
+
+23
+
+App. 4th 816. Plaintiff’s efforts to circumvent Section 230 are indistinguishable from those
+
+24
+
+arguments the Fifth Circuit and California Court of Appeal rejected in the MySpace and eBay
+
+25
+
+cases. Both cases involve plaintiffs’ arguments that their causes of action premise liability on
+
+26
+3
+
+27
+28
+
+Plaintiff further alleges that “Absent Google’s knowing violation of 18 U.S.C. § 1957(a), it
+would never have provided AdWords services to the Fraudulent Mobile Subscription Services,
+and Class members would never have provided their personal information to the Fraudulent
+Mobile Subscription Services (enabling them to place the unauthorized charges).” ¶ 58.
+3
+DEFENDANT GOOGLE’S REPLY IN SUPPORT OF ITS MOTION TO DISMISS
+Case No. C 08-02738
+
+1
+
+something other than publication of information, and both found the chain of events underlying
+
+2
+
+the claims arose from the publication of third party content on the defendants’ websites,
+
+3
+
+mandating dismissal.
+
+4
+
+The plaintiffs in Gentry, 99 Cal. App. 4th 816, focused on California’s autographed sports
+
+5
+
+memorabilia statute, Cal. Civ. Code § 1739.7, to argue that eBay should be liable for failure to
+
+6
+
+furnish certificates of authenticity for sale of autographed merchandise through its website.
+
+7
+
+Plaintiffs argued their claims sought only “to enforce eBay’s independent duty under the statute
+
+8
+
+to furnish a warranty as the ‘ “provider” of descriptions,’ not as a publisher.” Id. at 831.
+
+9
+
+Recognizing the foundational allegation was that plaintiffs had been injured by purchasing
+
+10
+
+fraudulent merchandise through eBay, the Court held that “enforcement of appellants’ Civil Code
+
+11
+
+§ 1739.7 cause of action is inconsistent with Section 230 because it would ‘stand[] as an obstacle
+
+12
+
+to the accomplishment and execution of the full purposes and objectives of Congress.’” Id. at
+
+13
+
+833.
+
+14
+
+The Fifth Circuit employed similar reasoning to dismiss claims against the social
+
+15
+
+networking site, MySpace. MySpace, 528 F.3d 413. Plaintiffs sued MySpace for failing to
+
+16
+
+implement safety measures after minor Julie Doe was assaulted by another MySpace user she met
+
+17
+
+and traded information with through the website. Id. at 419. To evade application of Section
+
+18
+
+230, plaintiffs contended their claims were “predicated solely on MySpace’s failure to implement
+
+19
+
+basic safety measures” and therefore did “not attempt to treat [MySpace] as a ‘publisher’ of
+
+20
+
+information.” The Fifth Circuit disagreed, finding the claims, no matter how packaged,
+
+21
+
+ultimately sought to hold MySpace liable for events resulting from the availability of information
+
+22
+
+on its website. The Court found plaintiffs’ “allegations are merely another way of claiming that
+
+23
+
+MySpace was liable for publishing the communications.” Id. at 419. “If MySpace had not
+
+24
+
+published communications between Julie Doe and [her attacker], including personal contact
+
+25
+
+information, Plaintiffs assert they never would have met and the sexual assault never would have
+
+26
+
+occurred.” Id.
+
+27
+28
+
+The rule of MySpace and Gentry is clear: if a claim’s success would render a website
+liable for publication of third party content, Section 230 applies and the claims must be
+4
+DEFENDANT GOOGLE’S REPLY IN SUPPORT OF ITS MOTION TO DISMISS
+Case No. C 08-02738
+
+1
+
+dismissed.4 It matters not whether a plaintiff characterizes her claims as failure to provide a
+
+2
+
+certificate of authenticity, failure to provide technological safety mechanisms, or unfair
+
+3
+
+competition based on failure to reject an advertisement; if the claim would hold the computer
+
+4
+
+service liable for an injury resulting from third party information available on its website, it is
+
+5
+
+barred.5 Plaintiff’s Section 17200 claim must be dismissed under Section 230.6
+
+6
+
+2.
+
+7
+
+Section 230 Bars Plaintiff’s Negligence and Contract Claims.
+a.
+
+8
+9
+
+Plaintiff’s Claims Seek Impermissibly To Hold Google Liable
+for Failure to Remove Advertisements On Its Website.
+
+Plaintiff agrees that MSSPs, and not Google, drafted the AdWords advertisements that
+
+10
+
+allegedly caused her injury. Instead, she argues her negligence and contract claims do not depend
+
+11
+
+on these ads, but instead “hinge on information Google created – such as the terms of Google’s
+
+12
+
+4
+
+13
+14
+15
+16
+17
+18
+
+Plaintiff relies on FTC v. Accusearch, No. 06-CV-105-D, 2007 WL 4356786 (D. Wyo. Sept. 28,
+2007), an unpublished decision from the District of Wyoming, for the principle that Plaintiff’s
+Section 17200 claim is independent of the publication of advertisements on Google’s website.
+Accusearch addressed the FTC’s claims that defendants had engaged in unlawful sale of private
+information. Among other allegations, the FTC claimed defendants “advertised the availability of
+phone records, solicited orders, purchased the records from third-party sources for a fee, and then
+resold them to the end-consumers.” Id. at *5. Though the court did not apply Section 230 to the
+FTC’s claims, its decision was not that a Section 17200 claim falls outside the immunity of
+Section 230, but rather that the FTC’s claims were not premised on publication of third party
+information. Id. (“Defendants’ argument might be more persuasive if the FTC sought to hold
+liable an internet service provider who . . . merely delivered an email containing ill-gotten
+consumer phone records.”).
+5
+
+19
+20
+21
+22
+
+Plaintiff’s argument that “Google’s liability on Goddard’s UCL claim is independent of the
+fraudulent mobile content providers’ AdWords” (Opp. at 8), is empty rhetoric. Google’s liability,
+as alleged in the Complaint, is entirely dependent on the content of the MSSP advertisements.
+Indeed, Plaintiff’s standing to bring suit under Section 17200 is contingent on the injury she
+allegedly experienced as a result of clicking on the AdWords advertisement. Branick v. Downey
+Savings & Loan, 39 Cal. 4th 235, 241 (Cal. 2006) (standing under Section 17200 requires “injury
+in fact”).
+6
+
+23
+24
+25
+26
+27
+28
+
+Plaintiff argues her Section 17200 claim constitutes an “enforcement” of the federal money
+laundering statute, 18 U.S.C. § 1957(a) and thus falls outside of Section 230. This argument is
+little more than an unsupported argument for an exception to Section 230 for state law claims
+(such as unfair competition claims) predicated on federal statutes. Because of the desire “to
+ensure vigorous enforcement of Federal criminal laws to deter . . . obscenity, stalking, and
+harassment,” § 230(b)(5), Section 230 provides a narrow exception for enforcement of Federal
+criminal statutes such as “chapter 71 (relating to obscenity) or 110 (relating to sexual exploitation
+of children).” § 230(e)(1). Congress’s express policy in Section 230 establishes conclusively that
+it did not intend to expand the range of exceptions beyond those specifically enumerated, and
+plaintiff cites no authority to the contrary. Indeed, given the breadth of state unlawful
+competition statutes such as Section 17200, such an exception would very nearly swallow the
+rule.
+5
+DEFENDANT GOOGLE’S REPLY IN SUPPORT OF ITS MOTION TO DISMISS
+Case No. C 08-02738
+
+1
+
+Content Policy.” Opp. at 2. Not only does this argument directly conflict with Plaintiff’s
+
+2
+
+allegations that “[a]bsent Google’s provision of AdWords services to the Fraudulent Mobile
+
+3
+
+Subscription Services, the Class members would never have been damaged by the Fraudulent
+
+4
+
+Mobile Subscription Services” (¶¶ 64, 70), it is legally unsupported.
+
+5
+
+The heart of Plaintiff’s negligence and breach of contract claims is that Google failed to
+
+6
+
+enforce its Content Policy by neglecting to remove MSSP ads leading to websites that did not
+
+7
+
+comply with Google’s Content Policy and Advertising Terms. ¶¶ 63, 69. Plaintiff’s argument is
+
+8
+
+far from clear, but whether Google’s Content Policy and Advertising Terms are “information
+
+9
+
+provided by another information content provider” is beside the point; the issue is whether the
+
+10
+
+advertisements were provided by another content provider, and this Plaintiff does not dispute.
+
+11
+
+See e.g., Fair Housing Council v. Roommates.com LLC, 521 F.3d 1157, 1174 (9th Cir. 2008)
+
+12
+
+(finding website not liable for portions of the site provided by third parties, though defendant was
+
+13
+
+responsible for other content on its site). While it may be that the Complaint alleges that
+
+14
+
+Google’s Content Policy and Advertising Terms is the source of its purported duty, that policy
+
+15
+
+did not cause Plaintiff’s alleged harm. Rather, it is Google’s publication of, or failure to remove,
+
+16
+
+the MSSP advertisements that Plaintiff alleges as the cause of her injury.
+
+17
+
+Plaintiff’s contract and negligence claims are indistinguishable from those in Green, 318
+
+18
+
+F.3d at 468. Green alleged that “AOL negligently failed to live up to its contractual obligations”
+
+19
+
+in its user agreement by declining to remove AOL users who harassed him and transmitted a virus
+
+20
+
+to his computer through AOL chat rooms. Id. at 468. Although it did not address the question of
+
+21
+
+who drafted the AOL user agreement, the Third Circuit dismissed the claims on the grounds that
+
+22
+
+plaintiff’s claims simply sought to hold “AOL liable for its alleged negligent failure to properly
+
+23
+
+police its network for content transmitted by its users . . . [and] would ‘treat’ AOL ‘as the
+
+24
+
+publisher or speaker’ of that content.” Id. at 471. Just as AOL could not be liable under Section
+
+25
+
+230 for breach of contract claims arising from third party information provided through its service
+
+26
+
+(regardless of the drafter of the contract itself), Google is immune from Plaintiff’s claims that it
+
+27
+
+failed to remove noncompliant advertisements, regardless whether Google drafted its Content
+
+28
+
+Policy and Advertising Terms.
+6
+DEFENDANT GOOGLE’S REPLY IN SUPPORT OF ITS MOTION TO DISMISS
+Case No. C 08-02738
+
+1
+
+b.
+
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+
+Plaintiff relies on a short but confusing litany of cases that are either supportive of
+Google’s arguments or taken entirely out of context. In particular, Plaintiff cites to Batzel v.
+Smith, 333 F.3d 1018 (9th Cir. 2003) and Fair Housing Council, 521 F.3d 1157. Each of these
+cases supports Google’s claim to Section 230 immunity. The issue in Batzel and Fair Housing
+was whether a service’s assistance in drafting the allegedly injurious content on its website
+removes the content from the purview of “information provided by another information content
+provider” for Section 230 purposes. See Batzel, 333 F.3d at 1022 (basic editorial and word
+changes insufficient to make the internet service liable for its content); Fair Housing, 521 F.3d at
+1175 (Section 230 did not immunize website because the unlawful content resulted from a
+detailed questionnaire the website required users to complete). Neither case suggests, as Plaintiff
+argues, that an internet service provider could be liable for third party content, such as the MSSP
+advertisements at issue here. Nor do these cases support Plaintiff’s otherwise unsupported
+premise that “[t]here is no CDA immunity for claims such as these that arise from Google’s own
+terms of service.” Opp. at 5. Rather, both Fair Housing and Batzel establish that internet
+services, such as Google, cannot be liable under Section 230 for those parts of their websites
+provided by third parties, even if the service was responsible for creating other parts of the site.
+See Fair Housing, 521 F.3d at 1174 (holding website not liable for comments in the “Additional
+Comments” section of site because it did not develop those sections).
+
+20
+21
+22
+23
+24
+25
+
+Plaintiff Does Not Support Her Argument that Google Can Be
+Liable for Failure to Remove Non-Compliant Advertisements.
+
+Mazur v. eBay, Inc., No. C 07-3967, 2008 WL 618988 (N.D. Cal. Mar. 4, 2008), an
+unpublished decision on which Plaintiff relies heavily, also supports Google’s claim to immunity
+under Section 230. Despite Plaintiff’s suggestions otherwise, Mazur did not involve a website’s
+terms and conditions of use, but an FAQ-type webpage eBay provided directly to its users
+promising that eBay’s live auction service was safe.7 Id. at *8. The court held Section 230
+nevertheless applied to “plaintiff’s assertion that eBay knew of the seller’s illegal conduct and
+
+26
+7
+
+27
+28
+
+The eBay publication stated “Bidding on eBay Live Auctions is very safe. All live auctions are
+run by reputable international auction houses, which are carefully screened by eBay before being
+authorized to sell to you.” Id. at *8.
+7
+DEFENDANT GOOGLE’S REPLY IN SUPPORT OF ITS MOTION TO DISMISS
+Case No. C 08-02738
+
+1
+
+failed to prevent it.” Id. at *9. Similarly, “eBay’s assertion that the auction houses were screened
+
+2
+
+is not actionable because “lawsuits seeking to hold a service provider liable for its exercise of a
+
+3
+
+publisher’s traditional editorial functions – such as deciding whether to publish . . . – are barred.”
+
+4
+
+Id. at *9 (citations omitted). The court concluded that while eBay could not be liable under
+
+5
+
+Section 230 for its “assurances of accuracy or promise to remove unauthorized auctioneers,” it
+
+6
+
+could be liable for misrepresentations since “eBay promised that Live Auctions were safe” and
+
+7
+
+this did not involve the “publisher’s editorial function.” Id. at *12.
+
+8
+9
+
+Plaintiff here, however, is not alleging fraud, but contending Google breached its Content
+Policy by failing to remove the MSSP ads that did not comply with its Content Policy and
+
+10
+
+Advertising Terms. Thus, Plaintiff would do exactly what the court said Mazur could not: hold a
+
+11
+
+service liable for an alleged “promise to remove” noncompliant members. This is precisely the
+
+12
+
+sort of claim Congress disallowed with Section 230.8
+
+13
+
+3.
+
+14
+
+Plaintiff’s Aiding and Abetting Claim is Barred by the CDA.
+
+Plaintiff relies on a single out-of-context quote from Fair Housing, 521 F.3d at 1175 – a
+
+15
+
+case that nowhere mentions aiding and abetting – to argue that claims for aiding and abetting
+
+16
+
+“fall[] outside the scope of the CDA.” Opp. at 11. Plaintiff does not argue that her aiding and
+
+17
+
+abetting claim would not hold Google liable for publication of MSSP ads; instead she argues that
+
+18
+
+aiding and abetting is somehow outside of Section 230. There is no support for this argument.
+
+19
+
+Section 230(e)(3) provides expressly, plainly, and without exception for aiding and abetting
+
+20
+
+claims, that “[n]o cause of action may be brought and no liability may be imposed under any
+
+21
+
+State or local law that is inconsistent with this section.” § 230(e)(3). See PatentWizard, Inc. v.
+
+22
+
+Kinko’s Inc., 163 F. Supp. 2d 1069 (D.S.D. 2001) (dismissing aiding and abetting claim pursuant
+
+23
+
+to Section 230). Plaintiff’s proposed exception to Section 230 would swallow the rule, since all
+
+24
+25
+26
+27
+28
+
+8
+
+Although the facts alleged and the language of the Content Policy and Advertising Terms make
+it plain that Google makes no representation as to the safety of its advertisers’ websites, Google
+would be immune for such representations, in any event, as long as they were based only on “a
+regurgitation of its users’ representations.” Id. at *11 (distinguishing Doe v. SexSearch.com, 502
+F. Supp. 2d 719 (N.D. Ohio 2007)). Because the signing of the Content Policy and Advertising
+Terms was a representation by Google’s AdWords customers, Google could not be liable for any
+alleged assurance derived from that representation.
+8
+DEFENDANT GOOGLE’S REPLY IN SUPPORT OF ITS MOTION TO DISMISS
+Case No. C 08-02738
+
+1
+
+publication of unlawful content would, under Plaintiff’s definition, amount to aiding and abetting
+
+2
+
+the alleged unlawfulness.
+
+3
+4
+
+4.
+
+Google’s Content Policy Falls Within the Scope of Section 230(c)(2)(A).
+
+In asserting that liability can be predicated on Google’s Content Policy, Plaintiff once
+
+5
+
+again, and without legal authority, argues this Court should ignore the plain language of Section
+
+6
+
+230(c), which provides that no interactive computer service “shall be held liable on account of . . .
+
+7
+
+any action voluntarily taken in good faith to restrict access or availability of material.” §
+
+8
+
+230(c)(2). Opp. at 6. Congress’s purpose in enacting Section 230 was to encourage efforts to
+
+9
+
+restrict objectionable material, and to ensure that such efforts do not create additional liability
+
+10
+
+risks. Carafano v. Metrosplash.com, Inc., 339 F.3d 1119, 1122 (9th Cir. 2003). Google’s
+
+11
+
+Content Policy and Advertising Terms is just such an effort to limit certain kinds of ads and thus
+
+12
+
+cannot create liability for Google’s alleged failure to enforce its terms. Although Plaintiff argues
+
+13
+
+that Google’s issuance of the Content Policy and Advertising Terms was not an “action” taken to
+
+14
+
+“restrict availability” of noncompliant MSSP ads, Plaintiff alleges in her Complaint that these
+
+15
+
+documents expressly discourage ads that do not meet certain specifications. ¶ 22. Thus, by
+
+16
+
+Plaintiff’s other allegations, Google’s Content Policy and Advertising Terms are at least in part an
+
+17
+
+effort to restrict objectionable material, and Plaintiff’s contract and negligence claims must be
+
+18
+
+dismissed as an attempt to hold Google liable for these policies.
+
+19
+20
+21
+
+B.
+
+Whether or Not Section 230 Applies, Plaintiff Does Not State Viable Claims.
+1.
+
+Plaintiff Fails to State a Claim Under Section 17200.
+
+Plaintiff’s Opposition does not resolve the deficiencies in her claim that Google engaged
+
+22
+
+in unfair competition through a predicate violation of the federal money laundering statute, 18
+
+23
+
+U.S.C. § 1957(a). In particular, she has not alleged (and cannot) that Google’s acceptance of
+
+24
+
+payment for the allegedly fraudulent MSSP advertisements violated the federal money laundering
+
+25
+
+statute, because the MSSPs did not derive those funds from a “specified unlawful activity” and
+
+26
+
+because, even if they had, Google could not possibly have had the requisite knowledge that the
+
+27
+
+funds were unlawfully obtained as a matter of law.
+
+28
+9
+DEFENDANT GOOGLE’S REPLY IN SUPPORT OF ITS MOTION TO DISMISS
+Case No. C 08-02738
+
+1
+
+a.
+
+2
+
+Plaintiff Fails To State A Claim for Violation of the Computer
+Fraud and Abuse Act.
+
+The Computer Fraud and Abuse Act (“CFAA”) is an anti-hacking statute that does not
+
+3
+4
+
+contemplate Plaintiff’s attenuated claim regarding the MSSPs alleged transmission of mobile
+
+5
+
+content to cell phones. See e.g., Shamrock Foods Co. v. Gast, 535 F. Supp. 2d 962, 965-66
+
+6
+
+(D. Ariz. 2008); In re Doubleclick Privacy Litig., 154 F. Supp. 2d 497, 526 (S.D.N.Y. 2001). To
+
+7
+
+state a claim that the allegedly fraudulent MSSPs violated the CFAA, Plaintiff must allege facts
+
+8
+
+establishing that the MSSPs “accesse[d] a protected computer without authorization” and
+
+9
+
+furthered a fraud or caused damage by way of that access. Shamrock Foods Co., 535 F. Supp. 2d
+
+10
+
+at 965-66. Plaintiff cannot do so here.
+Plaintiff is unable to establish that the allegedly fraudulent MSSPs accessed her cell phone
+
+11
+12
+
+at all. Although Plaintiff argues that “mobile content providers accessed her . . . cellular phone[]
+
+13
+
+by sending her unauthorized mobile content” (Opp. at 12), merely sending such information
+
+14
+
+cannot constitute “access” for purposes of the CFAA without the absurd result that any
+
+15
+
+transmission of mobile content, text messages, emails and so forth would constitute access to a
+
+16
+
+cell phone or computer for purposes of the CFAA. Moreover, Plaintiff’s Opposition indicates
+
+17
+
+that it is not the MSSPs that accessed Plaintiff’s cell phone, but either (1) the aggregators who
+
+18
+
+serve as middlemen actually responsible for transmission of the mobile content, or (2) the mobile
+
+19
+
+content itself.9 Regardless of who, if anyone, accessed Plaintiff’s cell phone, it very clearly is
+
+20
+
+not the MSSPs, and the MSSPs therefore could not have violated the CFAA.
+Plaintiff’s opposition also fails to resolve the deficiencies in her claim that the MSSPs
+
+21
+22
+
+caused damage “by means of” accessing her cell phone as required under the CFAA. American
+
+23
+
+Family Mut. Ins. Co. v. Rickman, 554 F. Supp. 2d 766, 770-71 (N.D. Ohio 2008). Although
+
+24
+
+Plaintiff argues that the CFAA should be treated as mail fraud, such that the access need only be
+
+25
+
+“incident” to the scheme (Opp. at 15), this does not square with the legislative history or courts’
+
+26
+9
+
+27
+28
+
+“The design of the infrastructure for mobile content also requires mobile content providers’
+transmissions to aggregators (the middlemen between mobile content providers and cellular
+carriers) to include both the mobile content which accesses consumers’ cellular phones and the
+instructions necessary to charge consumers for the mobile content.” Opp. at 15 (emphasis added).
+10
+DEFENDANT GOOGLE’S REPLY IN SUPPORT OF ITS MOTION TO DISMISS
+Case No. C 08-02738
+
+1
+
+interpretation of the CFAA. Unlike mail fraud, the CFAA was designed precisely to target a
+
+2
+
+specific offense – computer hacking – and “the legislative history supports a narrow view of the
+
+3
+
+CFAA.” Shamrock Foods Co., 535 F. Supp. 2d at 965. Because the MSSPs did not violate the
+
+4
+
+CFAA, Plaintiff has failed to allege that Google accepted funds derived from a specific unlawful
+
+5
+
+activity and Plaintiff’s Section 17200 claim must be dismissed.
+
+6
+7
+8
+9
+
+b.
+
+Plaintiff Fails to State a Claim That Google Knowingly
+Accepted Criminally Derived Funds.
+
+Even were it true that the MSSPs’ alleged conduct violates the CFAA, Plaintiff cannot
+state a claim that Google “knowingly engage[d] . . . in a monetary transaction in criminally
+
+10
+
+derived property of a value greater than $10,000” for purposes of § 1957(a). See, e.g., Mazur,
+
+11
+
+2008 WL 618988 at *3 (“A motion to dismiss should be granted if plaintiff fails to proffer
+
+12
+
+‘enough facts to state a claim to relief that is plausible on its face.’”) (citations omitted). As
+
+13
+
+Plaintiff concedes, Google’s liability depends on its knowing that the MSSPs’ payments were
+
+14
+
+themselves criminally derived. Opp. at 16; see also United States v. Yagman, 502 F. Supp. 2d
+
+15
+
+1084 (C.D. Cal. 2007); United States v. Stein, 37 F.3d 1407, 1410 (9th Cir. 1994). The threshold
+
+16
+
+for funds to be “criminally derived” is high: the funds must be traceable directly to an underlying
+
+17
+
+crime and cannot have been commingled with lawfully obtained funds. Rutgard v. United States,
+
+18
+
+116 F.3d 1270, 1292-3 (9th Cir. 1996) (noting that Congress enacted Section 1957 as a tool in the
+
+19
+
+war against drugs and warning against an expansive application).
+
+20
+
+Plaintiff argues Google had the requisite knowledge because “Google knew that fraud was
+
+21
+
+endemic in the mobile content industry.” Opp. at 17. Even if that were true, however, it is not
+
+22
+
+sufficient to establish that Google had any knowledge or belief that the payments it received from
+
+23
+
+its MSSP advertisers were “criminally derived.” Although all facts should be interpreted in the
+
+24
+
+light most favorable to Plaintiff, dismissal under Fed. R. Civ. P. 12(b)(6) “can be based on the
+
+25
+
+lack of a cognizable legal theory or the absence of sufficient facts alleged under a cognizable
+
+26
+
+legal theory.” Balistreri v. Pacifica Police Dep’t., 901 F.2d 696, 699 (9th Cir. 1988). Dismissal is
+
+27
+
+appropriate where, as here, the “plaintiff fails to proffer ‘enough facts to state a claim to relief that
+
+28
+
+is plausible on its face.’” Mazur, 2008 WL 618988 at * 3. In this instance, Plaintiff cannot allege
+11
+DEFENDANT GOOGLE’S REPLY IN SUPPORT OF ITS MOTION TO DISMISS
+Case No. C 08-02738
+
+1
+
+any remotely plausible set of facts that would establish that Google could possibly have known
+
+2
+
+that all of the monies it received from its MSSP customers were criminally derived.
+
+3
+
+2.
+
+4
+
+Plaintiff Fails to State a Claim for Breach of Contract.
+
+Plaintiff’s claim to be an intended beneficiary of Google’s Content Policy is inconsistent
+
+5
+
+with the allegations of the Complaint, the Opposition, and abundant case law establishing that the
+
+6
+
+incidental beneficiaries of user agreements are not intended beneficiaries for contract purposes.10
+
+7
+
+See, e.g., Green, 318 F.3d at 472 (AOL user agreement); Highfields Capital Mgmt., L.P. v. Doe,
+
+8
+
+385 F. Supp. 2d 969, 980 (N.D. Cal. 2005) (Yahoo! service agreement). It is not enough to
+
+9
+
+benefit from an agreement; under California law, there must be an actual expression of intent by
+
+10
+
+an agreement’s promisee to benefit the third party. Souza v. Westlands Water Dist., 135 Cal.
+
+11
+
+App. 4th 879, 893 (Cal. App. 2006).
+
+12
+
+Google cannot be liable for a promise it did not make. Souza, 135 Cal. App. 4th 879 (Cal.
+
+13
+
+App. 2006). Because Plaintiff cannot point to anything in the Content Policy and Advertising
+
+14
+
+Terms constituting a promise by Google that it would ensure users that its advertisers were in
+
+15
+
+compliance with the terms, Plaintiff takes the untenable position that Google is liable as a
+
+16
+
+promisor of the entire Content Policy and Advertising Terms because Google is a promisor of
+
+17
+
+certain provisions of the agreement. Opp. at 20. Not only is this argument incompatible with
+
+18
+
+basic contract principles, it runs directly counter to Souza, 135 Cal. App. 4th 879, in which the
+
+19
+
+court found, in an analogous service agreement, that the water district was not a promisor of the
+
+20
+
+terms imposing certain requirements on the water district’s customers. Id. at 893. As promisee,
+
+21
+
+Google cannot be liable for the MSSPs alleged promise to provide certain information on their
+
+22
+
+landing pages. See id. Plaintiff does not ever discuss Souza, let alone distinguish it.
+
+23
+24
+25
+10
+
+26
+27
+28
+
+The Complaint alleges Google created its Content Policy to benefit itself (i.e., to “create the
+appearance that its search engine is protecting users’ interests” and “hopes to lull governmental
+agencies into falsely believing that Google is acting responsibly”) ¶¶ 31-32. The Opposition
+asserts “Google’s motivation behind [sic] Content Policy was to create the appearance to the
+public and to regulators that it is acting to prevent [ ] fraud.” Opp. at 7.
+12
+DEFENDANT GOOGLE’S REPLY IN SUPPORT OF ITS MOTION TO DISMISS
+Case No. C 08-02738
+
+1
+
+3.
+
+Plaintiff’s Negligence Claim is Barred by California Law.
+
+Although the existence of a duty is the sine qua non of any negligence claim, Plaintiff
+
+2
+3
+
+provides no authority for the proposition that Google owed Plaintiff any duty. Instead, Plaintiff
+
+4
+
+relies on Mazur v. eBay, Inc., 2008 WL 618988, an affirmative misrepresentation case that sheds
+
+5
+
+no light on Plaintiff’s negligence claim here,11 and a series of cases that hold an entity can be
+
+6
+
+liable for assuming a duty where the entity provides a “seal of approval” and the plaintiff is then
+
+7
+
+injured after actually relying on that endorsement. See, e.g., Hanberry v. Hearst Corp., 276 Cal.
+
+8
+
+App. 2d 680, 684 (1969); FNS Mortgage Service Corp. v. Pacific Gen. Group, Inc., 24 Cal. App.
+
+9
+
+4th 1564, 1567-68 (1994).
+
+10
+
+Plaintiff bypasses her failure to allege a duty, arguing her claim is for negligent
+
+11
+
+undertaking for Google’s “failure to enforce the terms of the Content Policy.” This theory runs
+
+12
+
+contrary to California law. As a threshold matter, Plaintiff has not alleged that Google undertook
+
+13
+
+to remove non-compliant MSSP websites or that it endorsed any MSSP website. Moreover, the
+
+14
+
+California Supreme Court in Paz v. State of California, 22 Cal. 4th 550, 560 (2000), establishes
+
+15
+
+that Google cannot be liable for its allegedly negligent failure to enforce its Content Policy unless
+
+16
+
+either (1) the Content Policy actually increased Plaintiff’s risk of injury; or (2) Plaintiff relied on
+
+17
+
+the Content Policy to her detriment. Id. at 560. Plaintiff has alleged neither.
+Perhaps recognizing that her attempt to distinguish Paz is unavailing, Plaintiff relegates
+
+18
+19
+
+her discussion to a footnote. Plaintiff argues that “Paz only means that the duty imposed by a
+
+20
+
+defendant’s undertaking does not include instantaneously eliminating any preexisting risks of
+
+21
+
+harm the moment the undertaking begins.” Opp. at 22-3 n.15. Paz holds no such thing. The Paz
+
+22
+
+plaintiff alleged liability for defendants’ failure to provide operational traffic signals despite
+
+23
+
+earlier promises. Paz, 22 Cal. 4th at 555. The Court nevertheless found, because defendants’
+
+24
+25
+11
+
+26
+27
+28
+
+Plaintiff argues that the Mazur court allowed a claim for negligence “on virtually the same set
+of facts alleged by Goddard.” Opp. at 21. Not so. Rather, the claims in Mazur alleged eBay
+made affirmative statements to the plaintiff that its live auctions were “safe,” Mazur, 2008 WL
+618988, *10. Plaintiff here has made no such claim and does not allege that Google ever made
+direct promises to her regarding the safety of MSSPs.
+13
+DEFENDANT GOOGLE’S REPLY IN SUPPORT OF ITS MOTION TO DISMISS
+Case No. C 08-02738
+
+1
+
+conduct had not “increased the risk of physical harm to plaintiff beyond that which allegedly
+
+2
+
+[already] existed,” defendants were not liable under a negligent undertaking theory.12 Id. at 559.
+
+3
+
+Plaintiff also relies on a series of inapposite cases that hold that an advertiser or similar
+
+4
+
+service may be liable where customers rely on its direct representations that its advertisers are
+
+5
+
+safe. See Hanberry, 276 Cal. App. 2d at 684 (Good Housekeeping’s “seal of approval”); FNS
+
+6
+
+Mortgage Service Corp., 24 Cal. App. 4th at 1567-68 (local building code official’s reliance on
+
+7
+
+defendant’s certification that plumbing products met uniform standards criteria). Plaintiff,
+
+8
+
+however, does not allege either that Google made any direct representation, or that she relied on
+
+9
+
+anything in making her decision to use Google’s search engine or to enter her telephone numbers
+
+10
+
+on MSSP websites. Because Plaintiff failed to allege that (1) the Content Policy actually
+
+11
+
+increased her risk of injury (which it obviously did not); or (2) that she relied on the Content
+
+12
+
+Policy to her detriment, she has not stated a claim for negligence. See Paz, 22 Cal. 4th at 560.
+
+13
+
+4.
+
+Plaintiff States No Claim for Aiding and Abetting.
+
+14
+
+Plaintiff provides no authority to support her assertion that providing advertising services
+
+15
+
+is sufficient to constitute “substantial assistance” for purposes of pleading an aiding and abetting
+
+16
+
+claim. Indeed, the cases upon which she relies underscore that the threshold for “substantial
+
+17
+
+assistance” is considerably higher than the mere provision of advertising services. See Henry v.
+
+18
+
+Lehman Commercial Paper, Inc., 471 F.3d 977, 995 (9th Cir. 2006) (affirming jury verdict of
+
+19
+
+aiding and abetting because defendant satisfied “all of First Alliance’s financing needs,” “kept
+
+20
+
+First Alliance in business, knowing that its financial difficulties stemmed directly and indirectly
+
+21
+
+from litigation over its dubious lending practices,” and admitted that it provided “significant
+
+22
+
+assistance to First Alliance’s business”); Casey v. U.S. Bank Nat’l Ass’n., 127 Cal. App. 4th 1138,
+
+23
+
+1142 (Cal. App. 2005) (noting bank could be liable for aiding and abetting money laundering by
+
+24
+
+allowing opening of accounts with invalid tax identification numbers, removal of hundreds of
+
+25
+26
+12
+
+27
+28
+
+Plaintiff’s reliance on Mukthar v. Latin American Security Service, 139 Cal. App. 4th 284 (Cal.
+App. 2006), is similarly misplaced. Mukthar holds that a security service may be negligent where
+it agrees to provide a security guard and then fails to do so. Plaintiff cannot point to any
+indication that Google promised to remove or take any action in response to noncompliant ads.
+14
+DEFENDANT GOOGLE’S REPLY IN SUPPORT OF ITS MOTION TO DISMISS
+Case No. C 08-02738
+
+1
+
+thousands of dollars of cash in unmarked duffel bags, payment of obviously forged negotiable
+
+2
+
+instruments, etc.).
+
+3
+
+Nor is Plaintiff’s allegation that Google’s AdWords services is “an essential part of the
+
+4
+
+[alleged] scheme, because [the mobile content providers] could not collect unwitting users’
+
+5
+
+cellular phone numbers without Google driving Internet traffic towards their landing pages,”
+
+6
+
+sufficient to plead an aiding and abetting claim. Opp. at 24 (emphasis in original). Plaintiff’s
+
+7
+
+reasoning would lead to unbounded liability for aiding and abetting claims, and there is no
+
+8
+
+support for such an expansive reading of the law.
+
+9
+
+III.
+
+10
+
+CONCLUSION
+For the reasons set forth here and in Google’s opening brief, Google respectfully requests
+
+11
+
+that the Court grant the Motion to Dismiss without leave to amend.
+
+12
+
+Dated: November 21, 2008
+
+13
+14
+
+KAREN G. JOHNSON-MCKEWAN
+NANCY E. HARRIS
+NIKKA N. RAPKIN
+Orrick, Herrington & Sutcliffe LLP
+
+15
+/s/ Karen G. Johnson-McKewan
+Karen G. Johnson-McKewan
+Attorneys for Defendant
+GOOGLE INC.
+
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+15
+
+DEFENDANT GOOGLE’S REPLY IN SUPPORT OF ITS MOTION TO DISMISS
+Case No. C 08-02738
+
+

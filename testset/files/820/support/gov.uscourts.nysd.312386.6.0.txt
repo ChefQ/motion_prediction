@@ -1,0 +1,1156 @@
+Case 1:07-cv-07783-AKH
+
+Document 6
+
+Filed 09/28/2007
+
+Page 1 of 28
+
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+x
+:
+NAVIGATOR CAPITAL PARTNERS, L.P., on behalf of :
+itself and all others similarly situated,
+:
+Plaintiff,
+- against BEAR STEARNS ASSET MANAGEMENT, BEAR,
+STEARNS SECURITIES CORP., THE BEAR
+STEARNS COMPANIES INC., BEAR, STEARNS &
+CO. INC., RALPH CIOFFI, RAYMOND
+MCGARRIGAL AND MATTHEW TANNIN,
+Defendants,
+- and BEAR STEARNS HIGH-GRADE STRUCTURED
+CREDIT STRATEGIES, L.P.,
+
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+
+07 Civ. 07783 (AKH) (DFE)
+
+Oral Argument Requested
+
+:
+:
+
+Nominal Defendant.
+
+:
+x
+
+MEMORANDUM OF LAW IN SUPPORT OF
+PLAINTIFF’S MOTION TO REMAND
+
+ENTWISTLE & CAPPUCCI LLP
+280 Park Avenue, 26th Floor West
+New York, NY 10017
+(212) 894-7200
+SADIS & GOLDBERG LLP
+551 Fifth Avenue, 21st Floor
+New York, New York 10176
+(212) 947-3793
+Attorneys for Plaintiff
+
+Case 1:07-cv-07783-AKH
+
+Document 6
+
+Filed 09/28/2007
+
+Page 2 of 28
+
+TABLE OF CONTENTS
+PRELIMINARY STATEMENT .....................................................................................................1
+STATEMENT OF FACTS ..............................................................................................................3
+A.
+
+The Partnership’s Investments.................................................................................4
+1.
+
+Master-Feeder Structure...............................................................................4
+
+2.
+
+The Structured Finance Securities At Issue .................................................5
+
+B.
+
+Defendants’ Response To The Collapse Of The Sub-Prime Mortgage
+Market ......................................................................................................................6
+
+C.
+
+The Management Defendants’ Breaches Of Fiduciary Duties ................................7
+
+ARGUMENT...................................................................................................................................9
+I.
+
+REMAND OF THIS CASE IS REQUIRED .......................................................................9
+A.
+
+Legal Standards Governing Remand Motions.........................................................9
+
+B.
+
+SLUSA Is Inapplicable ............................................................................................9
+
+C.
+
+II.
+
+1.
+
+No “Covered Security” Is At Issue ............................................................10
+
+2.
+
+No Misrepresentation Or Omission Is Alleged “In Connection
+With” The Purchase Or Sale Of Any Covered Security ............................14
+
+3.
+
+The Derivative Claims Are Not Preempted By SLUSA Because
+They Do Not Sound In Fraud.....................................................................16
+
+4.
+
+Defendants’ Removal Finds No Support In The Policies
+Underlying SLUSA....................................................................................16
+
+CAFA Is Inapplicable ............................................................................................17
+1.
+
+The Section 1332(d)(9)(C) Exception To CAFA Jurisdiction
+Applies .......................................................................................................17
+
+2.
+
+The Section 1332(d)(3) And (d)(4) Exceptions To CAFA
+Jurisdiction Potentially Apply....................................................................21
+
+PLAINTIFF SHOULD BE AWARDED COSTS AND ATTORNEYS’ FEES
+RESULTING FROM DEFENDANTS’ IMPROPER REMOVAL...................................22
+
+CONCLUSION..............................................................................................................................23
+
+i
+
+Case 1:07-cv-07783-AKH
+
+Document 6
+
+Filed 09/28/2007
+
+Page 3 of 28
+
+TABLE OF AUTHORITIES
+Cases
+Blockbuster, Inc. v. Galeno,
+472 F.3d 53 (2d Cir. 2006) ............................................................................................. 9, 17, 19
+Boxer v. Husky Oil Co.,
+429 A.2d 995 (Del Ch. 1981) ................................................................................................... 20
+Carmona v. Bryant,
+No. CV-06-78-S-BLW, 2006 WL 1043987 (D. Idaho Apr. 19, 2006) .............................. 18, 20
+Circle Indus. USA v. Parke Constr. Group, Inc.,
+183 F.3d 105 (2d Cir. 1999) ..................................................................................................... 22
+Davis v. Chase Bank, U.S.A., N.A,
+453 F. Supp. 2d 1205 (C.D. Cal. 2006) .................................................................................... 18
+Estate of Pew v. Cardarelli,
+No. 5:05-CV-1317, 2006 WL 3524488 (N.D.N.Y. Dec. 6, 2006) ..................................... 18, 20
+French v. First Union Sec, Inc.,
+209 F. Supp. 2d 818 (M.D. Tenn. 2002)................................................................................... 15
+Gavin v. AT&T Corp.,
+464 F.3d 634 (7th Cir. 2006) .............................................................................................. 15, 16
+Genton v. Vestin Realty Mortgage II, Inc.,
+No. 06-CV-2517-BEN (WMC), 2007 WL 951838 (S.D. Cal. Mar. 9, 2007) .......................... 18
+Indiana Electric Workers Pension Trust Fund v. Millard,
+No. 07 Civ. 172 (JGK), 2007 WL 2141697 (S.D.N.Y. July 25, 2007) .............................. 14, 15
+Indiana State Dist. Council of Laborers and Hod Carriers Pension Fund v. Renal Care
+Group, Inc.,
+No. Civ. 3:05-0451, 2005 WL 2000658 (M.D. Tenn. Aug. 8, 2005)....................................... 19
+Kenneth Rothschild Trust v. Morgan Stanley Dean Witter,
+199 F. Supp. 2d 993 (C.D. Cal. 2002) ...................................................................................... 12
+LaSala v. Bank of Cyprus Pub. Co.,
+2007 WL 2331049 (S.D.N.Y. Aug. 15, 2007).......................................................................... 16
+LaSala v. UBS, AG,
+06 Civ. 1736 (CSH), 2007 WL 2331054 (S.D.N.Y. Aug. 15, 2007).................................. 14, 16
+Merrill Lynch, Pierce, Fenner & Smith, Inc. v. Dabit,
+126 S. Ct. 1503 (2006).............................................................................................................. 16
+Morgan Guar. Trust Co. v. Republic of Palau,
+971 F.2d 917 (2d Cir. 1992) ..................................................................................................... 22
+Phillips v. Reckson Assocs. Realty Corp.,
+No. 06-CV-5971, 2006 U.S. Dist. LEXIS 83288 (E.D.N.Y. Nov. 15, 2006)............................. 9
+
+ii
+
+Case 1:07-cv-07783-AKH
+
+Document 6
+
+Filed 09/28/2007
+
+Page 4 of 28
+
+Ring v. AXA Financial, Inc.,
+483 F.3d 95 (2d Cir. 2007) ........................................................................................... 10, 13, 16
+Serrano v. 180 Connect, Inc.,
+478 F.3d 1018 (9th Cir. 2007) .................................................................................................. 17
+Spielman v. Merrill Lynch, Pierce, Fenner & Smith, Inc.,
+332 F.3d 116 (2d Cir. 2003) ..................................................................................................... 10
+Strigliabotti v. Franklin Res., Inc.,
+398 F. Supp. 2d 1094 (N.D. Ca. 2005) ..................................................................................... 15
+Williams v. Texas Commerce Trust Co. of New York,
+No. 05-1070-CV-W-GAF, 2006 WL 1696681 (W.D. Mo. June 15, 2006) ............................. 19
+Statutes
+15 U.S.C. § 77p(b) ........................................................................................................................ 10
+15 U.S.C. § 77p(c) .......................................................................................................................... 3
+15 U.S.C. § 77p(f)(3) .................................................................................................................... 10
+15 U.S.C. § 77r(b)......................................................................................................................... 10
+15 U.S.C. § 77r(b)(1) .................................................................................................................... 10
+15 U.S.C. § 77r(b)(2) .................................................................................................................... 11
+15 U.S.C. § 78bb(f)(1) .................................................................................................................. 10
+15 U.S.C. § 78bb(f)(1)(A)............................................................................................................. 10
+15 U.S.C. § 78bb(f)(2) ................................................................................................................ 3, 9
+15 U.S.C. § 78bb(f)(3)(A)............................................................................................................. 15
+15 U.S.C. § 78bb(f)(3)(D)............................................................................................................. 10
+28 U.S.C. § 1332............................................................................................................................. 3
+28 U.S.C. § 1332(d)(2) ................................................................................................................. 22
+28 U.S.C. § 1332(d)(3) ........................................................................................................... 21, 22
+28 U.S.C. § 1332(d)(4) ........................................................................................................... 21, 22
+28 U.S.C. § 1332(d)(4)(A)............................................................................................................ 17
+28 U.S.C. § 1332(d)(4)(B) ............................................................................................................ 17
+28 U.S.C. § 1332(d)(5) ................................................................................................................. 22
+28 U.S.C. § 1332(d)(7) ................................................................................................................. 21
+28 U.S.C. § 1332(d)(9)(C) ..................................................................................................... passim
+28 U.S.C. § 1441............................................................................................................................. 3
+28 U.S.C. § 1453............................................................................................................................. 3
+
+iii
+
+Case 1:07-cv-07783-AKH
+
+Document 6
+
+Filed 09/28/2007
+
+Page 5 of 28
+
+28 U.S.C. 1447(c) ......................................................................................................................... 22
+6 Del. Code Ann. § 15-404 ........................................................................................................... 20
+6 Del. Code Ann. § 15-405 ........................................................................................................... 20
+Other Authorities
+S. Rep. 105-182 (1998)................................................................................................................. 13
+
+iv
+
+Case 1:07-cv-07783-AKH
+
+Document 6
+
+Filed 09/28/2007
+
+Page 6 of 28
+
+Plaintiff Navigator Capital Partners, L.P. respectfully submits this memorandum of law in
+support of its Motion to Remand this action to the Supreme Court of the State of New York.
+PRELIMINARY STATEMENT
+In a contrived effort to avoid defending Plaintiff’s fiduciary duty claims on the merits,
+Defendants strain to shoehorn the facts alleged in the Complaint1 into two wholly inapplicable
+statutory bases for removal: SLUSA and CAFA. Neither the law nor the facts alleged in the
+Complaint support Defendants’ ludicrous attempt to characterize Plaintiff’s claims under
+Delaware law as federal securities law claims. Plaintiff respectfully submits that remand to New
+York State Supreme Court is required to enable Plaintiff to pursue its claims without further
+unwarranted delay. An award of attorneys’ fees and costs incurred as a result of Defendants’
+improper removal is also appropriate here.
+Plaintiff and the other limited partners (the “Class”) that held Partnership Interests at any
+time during the period from August 1, 2006 through July 18, 2007 (the “Class Period”) lost
+hundreds of millions of dollars when Bear Stearns High-Grade Structured Credit Strategies, L.P.
+(the “Partnership” or the “Fund”) imploded this summer. The Partnership and the value of Class
+members’ Partnership Interests evaporated because the Management Defendants failed to
+properly manage the Partnership and its investments during the recent decline in the sub-prime
+mortgage market. This case arises out of the Management Defendants’ breach of the fiduciary
+duties they owed to Plaintiff, other limited partners, and to the Partnership itself. Accordingly,
+the Complaint alleges prototypical Delaware state law breach of fiduciary duty claims, and does
+not present any federal question or other basis for federal jurisdiction. The complexity of the
+
+1
+
+Capitalized terms used in this Preliminary Statement but not defined herein have the meanings attributed to such
+terms in the Statement of Facts below and/or in the Complaint.
+
+Case 1:07-cv-07783-AKH
+
+Document 6
+
+Filed 09/28/2007
+
+Page 7 of 28
+
+underlying facts and circumstances does not alter the fact that Plaintiff’s claims are classic
+breach of fiduciary duty claims that belong in state court.
+Defendants first attempt to avoid defending Plaintiff’s breach of fiduciary duty claims by
+pretending that the Complaint concerns “covered securities” and is therefore removable under
+SLUSA. As a threshold matter, it is beyond dispute that: (a) the Partnership Interests that
+Plaintiff and other Class members held in the Partnership are not covered securities; and (b) the
+shares of the Cayman-based Master Fund through which the Partnership invested substantially
+all of its assets are not “covered securities.” In fact, the Complaint does not allege any
+misrepresentations or omissions of material facts in connection with the purchase or sale of any
+“covered security.” Rather, the mismanagement and lack of candor at issue in the Complaint
+concern sub-prime mortgage-backed securities and related instruments, such as collateralized
+debt obligations (“CDOs”) and credit default swaps, all of which are also indisputably not
+“covered securities” under any reading of SLUSA.
+Because there is no “covered security” to ground their argument for removal under
+SLUSA, Defendants are confined to focusing upon a small number of relatively low-dollar
+amount positions in publicly traded equity securities held by the Master Fund. Defendants
+contend that the mere presence of these minuscule investments warrants removal of this action.
+As explained below in Point I.B., these “equity securities” are entirely tangential to the claims at
+issue, de minimis in amount and provide no basis for removal under SLUSA. It is therefore
+unremarkable that Defendants cite no authority supporting removal based upon the reed thin
+relationship that Defendants contend “equity securities” bear to Plaintiff’s claims.
+The Court can dispose of Defendants’ fallback argument for removal under CAFA with
+equal ease. CAFA specifically exempts from its reach fiduciary duty claims such as those
+
+2
+
+Case 1:07-cv-07783-AKH
+
+Document 6
+
+Filed 09/28/2007
+
+Page 8 of 28
+
+asserted here. As set forth in Point I.C., Defendants’ restrictive reading of CAFA’s “fiduciary
+duties” exception is contrary to the plain language of the statute and has been directly rejected by
+courts in this District and elsewhere.
+New York State Supreme Court is the appropriate forum to resolve this state law
+controversy. Plaintiff respectfully requests that the Court grant this Remand Motion and award
+Plaintiff its costs and attorneys’ fees.
+STATEMENT OF FACTS
+Plaintiff Navigator Capital Partners, L.P. (“Plaintiff”) filed its Class Action and Verified
+Derivative Complaint (“Complaint”) on August 6, 2007 in the Supreme Court of the State of
+New York, County of New York (Index No. 07-602663).2 On August 31, 2007, Defendants
+Bear Stearns Asset Management Inc. (“BSAM”), Ralph Cioffi, Raymond McGarrigal, Matthew
+Tannin (collectively, the “Management Defendants”), Bear, Stearns Securities Corp. (“BSSC”),
+The Bear Stearns Companies Inc. (“BSC”) and Bear, Stearns & Co., Inc. (“BS&Co”)
+(collectively, together with the Management Defendants, the “Defendants”) filed a Notice of
+Removal (“Def. Notice”) in this Court removing the action in reliance upon the Securities
+Litigation Uniform Standards Act of 1998 (“SLUSA”), 15 U.S.C. §§ 77p(c) & 78bb(f)(2), and
+the Class Action Fairness Act (“CAFA”), 28 U.S.C. §§ 1332, 1441 & 1453.
+Plaintiff is a Limited Partner of the Partnership, which was organized under the laws of
+Delaware on August 26, 2003. ¶¶ 14, 28, 56.3 BSAM is the General Partner and Investment
+Manager of the Partnership and the Master Fund (defined below) through which the Partnership
+invested. ¶ 15. As of December 31, 2006, BSAM was the third largest manager of collateralized
+2
+
+A copy of the Complaint is attached as Exhibit 1 to the Declaration of Andrew J. Entwistle, dated September 28,
+2007 and submitted herewith (“Entwistle Declaration” or “Entwistle Decl.”).
+
+3
+
+References to “¶__” and “¶¶__” are to paragraphs of the Complaint (unless otherwise specified).
+
+3
+
+Case 1:07-cv-07783-AKH
+
+Document 6
+
+Filed 09/28/2007
+
+Page 9 of 28
+
+debt obligations (“CDOs”) that included sub-prime mortgages. ¶ 44. Defendants Cioffi,
+McGarrigal and Tannin are officers of BSAM and, together with BSAM, managed the
+Partnership at all relevant times. ¶¶ 15, 19-22. BSC is the parent of BSAM, BSSC and BS&Co.,
+and is the second largest underwriter of mortgage bonds in the United States. ¶ 17. BSSC acted
+as Prime Broker and Custodian to the Master Fund. ¶ 16. BS&Co. is a broker-dealer subsidiary
+of BSC and BSSC. ¶ 18.
+Defendants offered to sell Partnership Interests to prospective investors through a
+Confidential Private Placement Memorandum (“PPM”), dated August 31, 2004. ¶ 28.
+Defendants offered additional Partnership Interests pursuant to a second Confidential Private
+Placement Memorandum, dated August 2006 (“August 2006 PPM”). ¶ 29. Plaintiff invested
+more than $700,000 in the Partnership, and was admitted as a Limited Partner as of September
+2004. ¶ 56.
+A.
+
+The Partnership’s Investments
+1.
+
+Master-Feeder Structure
+
+The Partnership invested substantially all of its assets through the Bear Stearns HighGrade Structured Credit Strategies Master Fund Ltd. (the “Master Fund”), a Cayman Islands
+entity. ¶ 34. The Master Fund was organized as part of a “master-feeder” structure through
+which separate funds made investments. ¶¶ 34-35. Under the “master-feeder” structure,
+“feeder” funds, including the Partnership, conducted most or all of their investment and trading
+activities indirectly through investments in the Master Fund. Id.
+During the relevant period, the Partnership had beneficial ownership of a percentage of
+the Master Fund’s assets. As of December 31, 2006, the Partnership’s beneficial ownership of
+the Master Fund’s net assets amounted to 28.58%. ¶ 37. The Master Fund’s assets consisted
+predominantly of CDOs and other mortgage-backed structured finance securities.
+4
+
+Case 1:07-cv-07783-AKH
+
+2.
+
+Document 6
+
+Filed 09/28/2007
+
+Page 10 of 28
+
+The Structured Finance Securities At Issue
+
+The objective of the Partnership was to seek high current income and capital
+appreciation, “primarily through leveraged investments in investment-grade structured finance
+securities with an emphasis on triple-A and double-A rated structured finance securities.” ¶¶ 4,
+39 (emphasis added). Defendants stated to investors in August 2005 that the Partnership
+“generally takes positions in the high end of the capital structure which is hedged through the
+use of credit default swaps”. ¶ 49 (quoting Defendants’ August 2005 response to the Alternative
+Investment Management Association’s Illustrative Questionnaire (the “Response”); Entwistle
+Decl. Ex. 2, at 14 (emphasis added)). Defendants further stated in the Response that “[t]he Fund
+generally invests, on a leveraged basis, in investment-grade structured finance securities rated
+AA or higher. In addition, various derivatives, primarily credit-default swaps, but also options,
+swaps, swaptions, futures and forward contracts, equity securities and currencies, may be used
+for hedging purposes.” ¶ 51 (emphasis added).
+Through the Master Fund, the Management Defendants invested Partnership funds in,
+among other things, mortgage-backed CDOs. ¶ 40. CDOs are bundled bonds or loans that are
+typically “split” or “slice[d”] into several parts (or tranches). Id. The CDO parts are then sold
+individually to investors as separate securities. Id. In this case, the Management Defendants
+invested the Partnership’s money in CDOs that were backed by sub-prime mortgages, which are
+riskier than traditional, credit-worthy mortgages given the borrowers’ poor credit or heavy debt
+loads. ¶ 41. The market value of these investments depended upon the flow of principal and
+interest paid by sub-prime borrowers whose mortgages served as the underlying collateral for the
+mortgage-backed securities. Id. The Defendants were directly involved in the formation of
+many of the CDOs that the Management Defendants purchased on the Partnership’s behalf. ¶
+42. Given this involvement, and BSAM’s position as the third largest manager of CDOs backed
+5
+
+Case 1:07-cv-07783-AKH
+
+Document 6
+
+Filed 09/28/2007
+
+Page 11 of 28
+
+by sub-prime mortgages, the Defendants were keenly aware of the risks inherent in the CDOs in
+which they invested the Partnership’s money. ¶¶ 42, 44, 45.
+B.
+
+Defendants’ Response To The Collapse Of The Sub-Prime Mortgage Market
+
+Beginning at least as early as August 1, 2006, borrowers increasingly fell behind on their
+mortgage payments. ¶ 46. Among sub-prime loans, delinquencies of more than 90 days,
+foreclosures and seized properties rose to their highest levels in at least the preceding six years.
+Id. These events led to a decrease in the value of CDOs backed by such loans, including those in
+which the Partnership was invested. Id. Even as the sub-prime market was collapsing, the
+Management Defendants continued to invest the Partnership’s money in risky sub-prime
+mortgage-backed securities while at the same time failing to implement hedging and other
+strategies to minimize risk effectively. ¶¶ 43, 47. BSC, however, took steps in January 2007 to
+reduce its own exposure to the worsening sub-prime mortgage-backed securities market. ¶ 48.
+Despite the lack of an effective strategy to minimize the credit risk in the Partnership’s
+mortgage-backed investments, the Management Defendants assured investors in a report for
+month end February 2007 that notwithstanding the volatility in credit markets associated with
+sub-prime mortgages:
+The Fund was well positioned for this spread widening because of
+the hedges put in place over the second half of 2006. These
+hedges were concentrated in the triple-B and single-A tranches
+of the ABX indices.4
+For the month of March 2007, BSAM reported that the Fund had lost an estimated
+3.71%, commenting that:
+4
+
+Paragraph 58 of the Complaint inadvertently quoted the Preliminary Performance Profile of a different failed Bear
+Stearns fund (the Bear Stearns High Grade Structured Strategies Enhanced Leverage Fund) for the period ended
+February 28, 2007, and provided the estimated return for that fund. The correct quote is stated above, and a copy of
+the February 28, 2007 Preliminary Performance Profile for the Partnership is attached as Exhibit 2 to the Entwistle
+Declaration and states that the Fund had lost an estimated 1.32% for the month.
+
+6
+
+Case 1:07-cv-07783-AKH
+
+Document 6
+
+Filed 09/28/2007
+
+Page 12 of 28
+
+Performance suffered in March for two reasons: first, continued
+weakness in CDOs with exposure to sub-prime collateral caused
+additional mark downs in our long asset exposure; second, our
+short positions rose in price as many investors who were short the
+sub-prime credit default index covered their positions . . . .
+¶ 59 (emphasis added).
+For the month of April 2007, BSAM reported (on June 8, 2007) that the Partnership lost,
+on an unaudited basis, 5.09%, and that this brought the year to date return as of April 30, 2007,
+to negative 6.24%. ¶ 60.
+On July 18, 2007, Defendants announced to Plaintiff and to other Class Members that
+there was “very little value left for the investors in the High-Grade Fund as of June 30, 2007”
+and that “[i]n light of these returns, we will seek an orderly wind-down of the Fund[] over time.”
+¶¶ 10, 63. As of March 31, 2007, the Fund had $925 million of investor capital and gross long
+positions of $9.682 billion. ¶ 61. As the New York Times concluded, the events leading to the
+collapse of the Partnership was “a crisis that Bear, with its long expertise in bonds, structured
+products and in particular mortgage-backed securities, should have seen coming.” ¶ 12
+(emphasis added).
+C.
+
+The Management Defendants’ Breaches Of Fiduciary Duties
+
+As managers and General Partner of the Partnership, the Management Defendants owed
+fiduciary duties to Plaintiff and to the other Limited Partners, as well as to the Partnership itself.
+¶¶ 2, 12, 87. Under Delaware law, the Management Defendants’ fiduciary duties included the
+highest obligations of due care, good faith, candor, loyalty and fair dealing. ¶¶ 70, 89. Indeed,
+the August 2006 PPM acknowledged that “[t]he General Partner [i.e., BSAM] has fiduciary
+
+7
+
+Case 1:07-cv-07783-AKH
+
+Document 6
+
+Filed 09/28/2007
+
+Page 13 of 28
+
+responsibilities with respect to the Partnership and will make investment decisions in a manner
+consistent with those responsibilities.” ¶ 69 (quoting August 2006 PPM, at 30).5
+The Management Defendants breached their fiduciary duties to the Partnership “by
+neglecting to manage the Fund in a manner that would minimize risk and control losses in
+connection with sub-prime mortgage-backed securities.” ¶ 2 (emphasis added). See also, e.g.,
+¶¶ 54, 75-84. Based upon the Management Defendants’ mismanagement of the Partnership and
+their failure to adequately assess, monitor and hedge the risks associated with its investments
+backed by sub-prime mortgages, Count III of the Complaint asserts a derivative claim against the
+Management Defendants for their breach of fiduciary duties to the Partnership.
+The Management Defendants also breached their fiduciary duties to Plaintiff and to the
+other Limited Partners by systematically and continuously failing to disclose to Class Members
+that the Management Defendants: (a) were not sufficiently monitoring and adequately assessing
+the credit risk inherent in the Partnership’s investments; (b) were not determining the frequency
+and severity of defaults of the underlying assets of each of the structured finance securities
+invested in by the Partnership; (c) were not developing and implementing credit enhancement
+mechanisms which would cause cash flow to be diverted away from the Partnership’s riskier
+investments under certain market conditions; and (d) were not otherwise adequately engaging in
+hedging techniques to minimize risk. ¶¶ 55, 68-74. Based upon the Management Defendants’
+failure to adequately disclose these facts, Count I of the Complaint asserts a Class claim against
+them for their breach of fiduciary duties to Plaintiff and the Class.
+Defendants BSC, BSSC and BS&Co. knowingly participated in, and had actual
+knowledge of, the Management Defendants’ breaches of fiduciary duties. Accordingly, the
+5
+
+A copy of the August 2006 PPM is attached as Exhibit B to Defendants’ Notice of Removal.
+
+8
+
+Case 1:07-cv-07783-AKH
+
+Document 6
+
+Filed 09/28/2007
+
+Page 14 of 28
+
+Complaint brings a derivative claim against them for aiding and abetting breach of fiduciary duty
+(Count IV), and a Class claim against them for aiding and abetting breach of fiduciary duty
+(Count II).
+All claims are brought under Delaware law.
+ARGUMENT
+I.
+
+REMAND OF THIS CASE IS REQUIRED
+A.
+
+Legal Standards Governing Remand Motions
+
+Defendants bear the burden of proving that this case has been properly removed, as it is
+well settled that “when a party challenges the removal of an action from state court, the burden
+falls on the removing party to establish its right to a federal forum by competent proof.” Phillips
+v. Reckson Assocs. Realty Corp., No. 06-CV-5971, 2006 U.S. Dist. LEXIS 83288, *5-6
+(E.D.N.Y. Nov. 15, 2006) (citations and quotations omitted). See also Blockbuster, Inc. v.
+Galeno, 472 F.3d 53, 58 (2d Cir. 2006) (party removing under CAFA bears burden of proof).
+Further, “out of respect for the independence of state courts, and in order to control the federal
+docket, federal courts construe the removal statute [28 U.S.C. 1447] narrowly, resolving any
+doubts against removability.” Phillips, 2006 U.S. Dist. LEXIS 83288, at *6 (citations and
+quotations omitted; emphasis added) (rejecting SLUSA removal).
+B.
+
+SLUSA Is Inapplicable
+
+Defendants try to miscast Plaintiff’s Complaint in an attempt to bring this case within the
+scope of SLUSA. SLUSA does not justify Defendants’ improper removal of this case because
+the Complaint’s allegations are plainly beyond the intended scope, purpose and language of
+SLUSA. 15 U.S.C. §§ 77p(c), 78bb(f).
+In order to be removed under SLUSA, Defendants must establish that Plaintiff’s claims:
+(1) constitute a “covered class action” (2) filed in state court (3) based on state law (4) alleging a
+
+9
+
+Case 1:07-cv-07783-AKH
+
+Document 6
+
+Filed 09/28/2007
+
+Page 15 of 28
+
+misrepresentation or omission of material fact (5) “in connection with” the purchase or sale (6)
+of a “covered security.” See, e.g., Ring v. AXA Financial, Inc., 483 F.3d 95, 98 (2d Cir. 2007).
+“[A] lawsuit that does not satisfy all the SLUSA criteria must be remanded to state court.” Id.
+(citing 15 U.S.C. §§ 78bb(f)(1) and (f)(3)(D)).
+Plaintiff does not dispute that the Complaint’s claims satisfy the first, second and third of
+these elements (nor, with respect to the Class Claims, the fourth element). Defendants, however,
+cannot establish the remaining essential elements for SLUSA removal: that the claims allege
+misrepresentations or omissions of material facts in connection with the purchase or sale of a
+covered security.
+1.
+
+No “Covered Security” Is At Issue
+
+As the Second Circuit has observed, “SLUSA only converts into federal claims those
+state claims that fall within its clear preemptive scope, thereby confining federal question
+jurisdiction under this statutory regime to a subset of securities fraud cases.” Spielman v. Merrill
+Lynch, Pierce, Fenner & Smith, Inc., 332 F.3d 116, 124 (2d Cir. 2003). In particular, Congress
+“expressly confin[ed] SLUSA preemption and removal to lawsuits in which the plaintiff alleges
+a state law violation stemming from (for purposes of this suit) ‘a misrepresentation or omission
+of a material fact in connection with the purchase or sale of a covered security.’” Id. (quoting
+15 U.S.C. § 78bb(f)(1)(A)) (emphasis added).6
+“SLUSA defines ‘covered securities’ by reference to paragraphs (1) and (2) of 15 U.S.C.
+§ 77r(b). The cited paragraphs define ‘covered securities’ [as] securities listed on one of the
+national securities exchanges as well as securities issued by investment companies registered
+with the SEC.” Ring, 483 F.3d at 99 (citing 15 U.S.C. § 77p(f)(3) and 15 U.S.C. § 77r(b)(1) &
+6
+
+See also 15 U.S.C. § 77p(b) (Securities Act of 1933) (same).
+
+10
+
+Case 1:07-cv-07783-AKH
+
+Document 6
+
+Filed 09/28/2007
+
+Page 16 of 28
+
+(2)). Citing no case law whatsoever, Defendants baldly assert that this action “clearly pertains to
+‘a covered security.’” (Def. Notice ¶ 18.) Not so.
+Defendants cannot dispute that the Partnership Interests that Plaintiff and other Class
+members held in the Partnership are not “covered securities” under SLUSA. Nor is there any
+dispute that shares of the Cayman-based Master Fund – through which the Partnership “invested
+substantially all [of its] assets” (Def. Notice ¶ 4 (quoting Compl. ¶ 34)) – are not “covered
+securities.” Further, it is undisputed that the investments at the heart of this case – collateralized
+debt obligations (CDOs) and other structured finance securities backed by sub-prime mortgages
+– are not covered securities.
+Accordingly, the only conceivable “covered securities” to which Defendants can point
+are a handful of relatively small equity positions taken by the Master Fund, none of which are at
+issue in this case. Indeed, Defendants’ entire argument rests on the purported fact that a de
+minimis portion of the “Fund’s assets were invested through the Master Fund in multiple
+positions consisting of millions of dollars in equity securities listed on national exchanges.”
+(Def. Notice ¶ 18.)7 As the Complaint makes plain, these small equity positions are irrelevant
+and entirely tangential to the claims in this case – claims which are based on the Management
+Defendants’ inadequate monitoring and hedging activities in connection with the Partnership’s
+highly leveraged exposure to the sub-prime mortgage market. Apart from the fact that the equity
+positions held by the Master Fund were insignificant in comparison to the Master Fund’s overall
+
+7
+
+Notably, the dollar amounts of these equity positions taken by the Master Fund – which, according to Defendants,
+ranged from $430,375 to $16,407,702 – all pale in comparison to the $925 million of total investor capital controlled
+by the Fund as of March 31, 2007 (Def. Notice at ¶ 7 (citing Compl. ¶ 7).) They are even more minimal when one
+takes into account that the Partnership had a beneficial interest in less than a third (28.58% as of December 31, 2006
+(¶ 37)) of the Master Fund’s total net assets. Their insignificance is even clearer when compared to the $9.682
+billion in gross long positions the Partnership had through March 31, 2007. ¶ 61 (emphasis added).
+
+11
+
+Case 1:07-cv-07783-AKH
+
+Document 6
+
+Filed 09/28/2007
+
+Page 17 of 28
+
+assets (which predominantly consisted of mortgage-backed instruments), these equities are
+simply not implicated in Plaintiff’s breach of fiduciary duty claims.
+Defendants rely upon the statement in the August 2006 PPM that the Fund “may invest in
+. . . equity securities” and that “equity securities” appears on a laundry list of instruments that
+could be used for “hedging purposes.” (Def. Notice ¶ 18; emphasis added (selectively excerpting
+¶ 51)). Yet, there is no allegation that Defendants actually used any “equity positions” to hedge
+any of the Partnership’s investments (much less investments with sub-prime exposure), and
+Defendants do not contend that they did so. Indeed, to the extent that Defendants purportedly
+hedged at all, “[t]hese hedges were concentrated in the triple-B and single-A tranches of the
+ABX indices” (Feb. 28, 2007 Performance Profile; Entwistle Decl., Ex. 3) and/or were “through
+the use of credit default swaps” (¶ 49). See also, e.g., ¶ 59 (quoting March 31, 2007
+Performance Profile; Entwistle Decl., Ex. 4 (“our short positions rose in price as many investors
+who were short the sub-prime credit default index covered their positions”) (emphasis added)).
+Defendants cite no case law suggesting that the tangential and far-removed presence of a
+“covered security” implicates SLUSA. Rather, Defendants incorrectly presume this to be the
+law and selectively quote Kenneth Rothschild Trust v. Morgan Stanley Dean Witter, 199 F. Supp.
+2d 993, 1000 n.21 (C.D. Cal. 2002), for the dubious proposition that “[w]hen a claim concerns a
+transaction that involves both covered and non-covered securities as alleged, the entire claim is
+subject to removal under SLUSA.” (Def. Notice ¶ 19.) In distinct contrast to Plaintiff’s claims,
+the covered securities in Kenneth Rothschild were at the heart of the claims there, as Morgan
+Stanley “allegedly made misrepresentations concerning [] a money market mutual fund” (a
+covered security). Id. at 999. Thus, that Court held plaintiff’s claims to be removable under
+SLUSA, finding that “[t]he fact that plaintiff’s claims may tangentially relate to non-securities,
+
+12
+
+Case 1:07-cv-07783-AKH
+
+Document 6
+
+Filed 09/28/2007
+
+Page 18 of 28
+
+i.e., the certificates of deposit – does not alter this result.” Id. at 1000 n.21. This case, however,
+presents the opposite situation: Plaintiff’s claims undeniably rest on non-covered securities (e.g.,
+structured finance securities backed by sub-prime mortgages) and have, at best, only the most
+attenuated relationship to “covered securities.”
+The Second Circuit’s recent decision in Ring v. AXA Financial, Inc., 483 F.3d 95 (2d Cir.
+2007) is instructive and supports remand here. There, the Court was presented with the question
+of “whether a Children’s Term Rider (“CTR”) that is not by itself a ‘covered security’ becomes a
+‘covered security’ and thus subject to SLUSA removal and dismissal because it is attached to a
+variable life insurance policy falling within the definition of a ‘covered security.’” Id. at 96.
+Holding that “we should not preempt and dismiss a suit that alleges fraud occurred in connection
+only with a promise in a contract that does not relate to a ‘covered security’ even where another
+promise in the same contract does concern a ‘covered security,’” the Second Circuit ordered the
+case remanded to New York County Supreme Court. Id. at 101-02.
+Moreover, SLUSA’s legislative history confirms that the Act was never intended to reach
+claims where, as here, the litigation centers on non-covered securities, and there is only an
+extremely tangential and tenuous relation to covered securities. In particular, the Senate Report,
+in discussing SLUSA’s “purpose and scope,” explains that a motivating factor was:
+the dangers of maintaining differing federal and state standards of
+liability for nationally-traded securities [and that d]isparate, and
+shifting, state litigation procedures may expose issuers to the
+potential for significant liability that cannot easily be evaluated in
+advance, or assessed when a statement is made.
+S. Rep. 105-182, at 3 (1998) (emphasis added). Such concerns are plainly not implicated by this
+case. No issuer of the nationally traded securities to which Defendants point is being sued, or is
+at any risk of liability from this case. Rather, this case involves breaches of fiduciary duties, and
+
+13
+
+Case 1:07-cv-07783-AKH
+
+Document 6
+
+Filed 09/28/2007
+
+Page 19 of 28
+
+knowing participation in those breaches, in connection with structured finance securities backed
+by sub-prime mortgages – which are indisputably not “covered securities.”
+2.
+
+No Misrepresentation Or Omission Is Alleged “In Connection With”
+The Purchase Or Sale Of Any Covered Security
+
+Defendants erroneously contend that “the Complaint’s alleged misrepresentations or
+omissions of material fact are made ‘in connection with the purchase or sale of a covered
+security,’” (Def. Notice at ¶ 16 (quoting 15 U.S.C. § 78bb(f)(1))) because – they incorrectly state
+– “[t]he Complaint [purportedly] alleges that the failures to disclose were made in connection
+with the trading of equity securities in the Master Fund”. (Def. Notice at ¶ 16 (citing ¶¶ 34, 47,
+49-53, 55).) Defendants, however, should not be permitted the luxury of attacking phantom
+allegations found nowhere in the Complaint.
+In fact, no misrepresentations or omissions are alleged in connection with any of the
+Master Fund’s purchases or sales of equity securities. Moreover, Defendants’ misconduct is too
+far removed from any of those transactions to be said to “coincide” with them. See Indiana
+Electric Workers Pension Trust Fund v. Millard, No. 07 Civ. 172 (JGK), 2007 WL 2141697, at
+*6 (S.D.N.Y. July 25, 2007) (“An alleged fraud is ‘in connection with’ a purchase or sale of
+securities under SLUSA if the fraud ‘coincides’ with or is ‘more than tangentially related’ to the
+transaction.”) (citations omitted).
+Here, the only “purchase or sale of securities under SLUSA” to which Defendants point
+is the Master Fund’s handful of purchases of equity securities. However, “[w]here the alleged
+conduct giving rise to the claim is too far removed from a [covered] securities transaction, the ‘in
+connection with’ requirement is not met.” LaSala v. UBS, AG, 06 Civ. 1736 (CSH), 2007 WL
+2331054, at *24, 27 (S.D.N.Y. Aug. 15, 2007) (“[B]ecause the conduct . . . in which the Bank is
+implicated here is too far removed from a securities transaction to be said to have ‘coincided’
+
+14
+
+Case 1:07-cv-07783-AKH
+
+Document 6
+
+Filed 09/28/2007
+
+Page 20 of 28
+
+with it, Count 1 of the complaint [aiding and abetting breach of fiduciary duty] is not preempted
+by SLUSA.”). See also, e.g., Strigliabotti v. Franklin Res., Inc., 398 F. Supp. 2d 1094, 1100
+(N.D. Ca. 2005) (“The fraud in question . . . must have more than some tangential relation to the
+securities transaction.”) (citations omitted); French v. First Union Sec, Inc., 209 F. Supp. 2d 818,
+824 (M.D. Tenn. 2002) (“[I]n order for a breach to be ‘in connection with’ securities sales, the
+breach of the fiduciary duty must do more than simply implicate securities. Rather, there must
+be a showing of a nexus between the fraud and a securities transaction.”) (citations omitted);
+Gavin v. AT&T Corp., 464 F.3d 634, 639 (7th Cir. 2006) (“Of course there is a literal sense in
+which anything that happens that would not have happened but for some prior event is connected
+to that event. In that sense the fraud of which the plaintiff complains is connected to the merger,
+without which there would not have been such a fraud against the plaintiff and her class. But in
+the same sense the fraud is connected to the Big Bang, without which there would never have
+been a MediaOne or even an AT&T.”).
+The failures to disclose at issue simply have nothing to do with the handful of equity
+positions taken by the Master Fund. Rather, the disclosure failures all go to the Management
+Defendants’ mismanagement of the Partnership and their failure to adequately assess, monitor
+and hedge the risks associated with non-covered instruments such as CDOs exposed to the subprime mortgage market. See, e.g., ¶¶ 2-4, 12, 39-49. Accordingly, Plaintiff’s claims are not “in
+connection with” the purchase or sale of any covered security.8
+
+8
+
+Even if the Court were somehow to find that the Partnership Interests are “covered securities” and specifically
+“equity securities” (though they plainly are neither), and that all the other substantive requirements for SLUSA
+removal have been met (though, as explained herein, they have not), remand would still be required because
+Plaintiff’s claims would then satisfy the conditions of SLUSA’s savings clause known as the “‘Delaware carve-out,’
+which rescues certain ‘covered class actions’ based on the law of the issuer’s state of incorporation from SLUSA’s
+preemptive sweep.” Ind. Elec. Workers Pension Trust Fund, 2007 WL 2141697, at *3 (citing 15 U.S.C. §
+78bb(f)(3)(A)).
+
+15
+
+Case 1:07-cv-07783-AKH
+
+3.
+
+Document 6
+
+Filed 09/28/2007
+
+Page 21 of 28
+
+The Derivative Claims Are Not Preempted By SLUSA Because They
+Do Not Sound In Fraud
+
+The “requirements that must be satisfied for SLUSA preemption to apply are, under the
+law of this Circuit, applied to each claim in the Complaint rather than to the whole action.”
+LaSala v. UBS, AG, No. 06 Civ. 1736, 2007 WL 2331054, at *25 (S.D.N.Y. Aug. 15, 2007). As
+discussed above, SLUSA does not bar any of Plaintiff’s claims. In addition to the reasons set
+forth above, Counts III and IV of the Complaint are not subject to SLUSA because these
+derivative claims do not sound in fraud. Id.
+Indeed, the derivative claims are not based at all on any misrepresentations or omissions;
+rather, they are based on the Management Defendants’ “grossly negligent and/or bad faith failure
+to adequately assess, monitor and hedge the credit risks of investments held by the Fund and the
+Master Fund, and otherwise failing to manage the Fund with the requisite amount of due care.”
+¶ 90; see also ¶¶ 98-99. “Because none of these claims sounds in fraud or contains fraudulent
+conduct as a necessary component of the claim, none of them falls within SLUSA’s reach.”
+LaSala v. Bank of Cyprus Pub. Co., 2007 WL 2331049, at *26 (S.D.N.Y. Aug. 15, 2007).
+4.
+
+Defendants’ Removal Finds No Support In The Policies Underlying
+SLUSA
+
+Congress enacted SLUSA with the goal of providing “uniform national rules for class
+action litigation involving our national capital markets” by making federal courts the exclusive
+venue for class actions alleging a misrepresentation or omission of a material fact in connection
+with the purchase or sale of a covered security: “The purpose of SLUSA was to prevent
+plaintiffs from making an end run around the restrictions on suits for federal securities fraud suits
+introduced by the [PSLRA] by filing the suits in state courts under state law.” Gavin, 464 F.3d
+at 640 (citing Merrill Lynch, Pierce, Fenner & Smith, Inc. v. Dabit, 126 S. Ct. 1503, 1510-11
+(2006)). See also, e.g., Ring, 483 F.3d at 97.
+16
+
+Case 1:07-cv-07783-AKH
+
+Document 6
+
+Filed 09/28/2007
+
+Page 22 of 28
+
+This is not a securities fraud case, nor one that Plaintiff should have brought under the
+federal securities acts. Resolution of this case does not depend upon whether Defendants
+violated any securities law. Rather, this is a Delaware law breach of fiduciary duties case,
+brought by a limited partner on behalf of a Delaware limited partnership and other limited
+partners asserting claims against the general partner for breaching its fiduciary obligations in
+managing the Partnership and failing to communicate fully and candidly with Plaintiff and other
+limited partners.
+Defendants’ removal arguments are unavailing in light of the plain language of SLUSA
+and the policy bases pursuant to which SLUSA was enacted.
+C.
+
+CAFA Is Inapplicable
+
+This case is not properly removable under CAFA. A plain reading of the Complaint
+establishes that Plaintiff’s claims fall within the “fiduciary duties” exception to CAFA
+jurisdiction, 28 U.S.C. § 1332(d)(9)(C). Accordingly, remand is required.
+1.
+
+The Section 1332(d)(9)(C) Exception To CAFA Jurisdiction Applies
+
+Even assuming the threshold requirements of CAFA are satisfied, this case falls within
+the “fiduciary duties” exception to CAFA removal.9 CAFA provides an express exception to
+federal subject matter jurisdiction over any class action that “solely involves” a claim
+that relates to the rights, duties (including fiduciary duties), and
+obligations relating to or created by or pursuant to any security
+(as defined under section 2(a)(1) of the Securities Act of 1933
+
+9
+
+Defendants cite Serrano v. 180 Connect, Inc., 478 F.3d 1018 (9th Cir. 2007) for the proposition that Plaintiff has
+the burden to prove the application of any express statutory exception to jurisdiction under CAFA. (Def. Notice
+¶ 25.) Defendants’ reading of Serrano is too broad, as that court held only that the party objecting to removal had
+the burden of proving the applicability of the §§ 1332(d)(4)(A) & (B) exceptions to CAFA removal. While this may
+be the law in the Ninth Circuit, as of the date of this filing, the Second Circuit has not decided which party bears the
+burden of proof on the statutory exceptions to CAFA. See Blockbuster, Inc. v. Galeno, 472 F.3d 53, 58 (2d Cir.
+2006). Plaintiff does not concede that it has the burden of proof on this exception.
+
+17
+
+Case 1:07-cv-07783-AKH
+
+Document 6
+
+Filed 09/28/2007
+
+Page 23 of 28
+
+[“Securities Act”]) (15 U.S.C. 77b(a)(1)) and the regulations
+issued thereunder.
+28 U.S.C. § 1332(d)(9)(C) (emphasis added). Defendants do not (and cannot) dispute that the
+Partnership Interests at issue here constitute “securities” under the Securities Act.10
+The only claims asserted in the Complaint are for breach of fiduciary duty and aiding and
+abetting breach of fiduciary duty under Delaware law. See ¶¶ 68-102. These claims all relate to
+and are made pursuant to Plaintiff’s ownership of its Partnership Interests. Accordingly, all
+claims in the Complaint plainly “relat[e] to” fiduciary duties owed to Plaintiff by virtue of its
+ownership interest in the Partnership as required under section 1332(d)(9)(C).11
+Breach of fiduciary duty claims like those presented here are precisely what section
+1332(d)(9)(C) was designed to exempt from removal under CAFA. See, e.g., In re Textainer
+P’ship Sec. Litig., No. C 05-0969 (MMC), 2005 WL 1791559, at *6-7 (N.D. Cal. July 27, 2005)
+(remanding under section 1332(d)(9)(C) plaintiff’s class action breach of fiduciary duty claim
+based on ownership of limited partnership interests); Carmona v. Bryant, No. CV-06-78-S-BLW,
+2006 WL 1043987, at *3 (D. Idaho Apr. 19, 2006) (remanding shareholder’s Delaware breach of
+fiduciary duty claim on grounds that “plain language of [section 1332(d)(9)(C)] covers” such a
+case); Genton v. Vestin Realty Mortgage II, Inc., No. 06-CV-2517-BEN (WMC), 2007 WL
+951838, *2 (S.D. Cal. Mar. 9, 2007) (“The plain language of the statute, by adding ‘including
+fiduciary duties’ in parentheses . . . shows a clear intent to cover fiduciary duty claims in addition
+10
+
+See Def. Notice ¶¶ 36-37; see also, e.g., Estate of Pew v. Cardarelli, No. 5:05-CV-1317, 2006 WL 3524488, at
+*5 n.3 (N.D.N.Y. Dec. 6, 2006). Of course, the definition of a “security” under CAFA has no bearing upon whether
+a claim involves a “covered security” under SLUSA.
+11
+
+The Complaint here is plainly distinguishable from the complaint considered by the court in Davis v. Chase Bank,
+U.S.A., N.A, 453 F. Supp. 2d 1205 (C.D. Cal. 2006) cited by Defendants. In Davis, the court found that section
+1332(d)(9)(C) did not apply because the credit card agreements at issue were not securities, and the complaint
+asserted claims for breaches of certain California consumer protection statutes. Id. at 1209. Plaintiff here brings
+only state law breach and aiding and abetting breach of fiduciary duty claims arising from the Partnership Interests,
+which are the very claims explicitly exempted from CAFA under section 1332(d)(9)(C).
+
+18
+
+Case 1:07-cv-07783-AKH
+
+Document 6
+
+Filed 09/28/2007
+
+Page 24 of 28
+
+to other claims.”); Williams v. Texas Commerce Trust Co. of New York, No. 05-1070-CV-WGAF, 2006 WL 1696681, at *5 (W.D. Mo. June 15, 2006) (finding debenture holders’ breach of
+fiduciary duty and related state law claims against indenture trustee subject to section
+1332(d)(9)(C) exception to CAFA removal); Indiana State Dist. Council of Laborers and Hod
+Carriers Pension Fund v. Renal Care Group, Inc., No. Civ. 3:05-0451, 2005 WL 2000658, at *2
+(M.D. Tenn. Aug. 8, 2005) (finding breach of fiduciary duty and related claims under Delaware
+law were exempt from CAFA removal under section 1332(d)(9)(C)). The same result is required
+here.
+Defendants erroneously read the section 1332(d)(9)(C) exception as being limited to
+“disputes regarding the terms of a security,” or the “formative documents” establishing those
+terms. (Def. Notice ¶¶ 36-37.)12 No such limitation is found in the express language of the
+statutory provision, nor can one be drawn from the legislative history.13 The plain language of
+section 1332(d)(9)(C) specifically encompasses claims based on fiduciary duties which “relate
+to,” are “created by,” or are made “pursuant to” a security under the Securities Act. Under any
+common sense reading, such broad language includes fiduciary duties not only created by the
+terms of a particular security and the documents under which it was issued, but also fiduciary
+
+12
+
+In addition to being contrary to CAFA’s plain language, Defendants’ proposed interpretation would lead to a
+perverse circumstance in which it would be appropriate for a state court to determine whether a security creates a
+fiduciary duty but that only a federal court could decide whether such duties were properly discharged.
+
+13
+
+Defendants erroneously suggest that the Senate Committee Report on CAFA limits the application of section
+1332(d)(9)(C) to only those cases concerning the meaning or scope of a particular security’s terms. (Def. Notice
+¶ 36). This argument is inapt since, as discussed herein, the plain language of the statute and the cases interpreting it
+contradict the cited committee report language. In such circumstances, the committee report cannot override the
+express language of the statute. See, e.g., Blockbuster, 472 F.3d at 57 (rejecting Senate Committee Report language
+shifting burden of proof for CAFA jurisdiction to plaintiff given absence of such language in statute itself).
+
+19
+
+Case 1:07-cv-07783-AKH
+
+Document 6
+
+Filed 09/28/2007
+
+Page 25 of 28
+
+duties which arise pursuant to ownership of the security, or that otherwise relate to such
+security.14
+Even the case cited by Defendants on this point, Estate of Pew v. Cardarelli, No. 5:05CV-1317, 2006 WL 3524488 (N.D.N.Y. Dec. 6, 2006), directly rejected the same formalistic
+argument Defendants make here. The Defendants in Pew asserted that the section 1332(d)(9)(C)
+exception should apply only “‘to those claims that relate to the rights arising out of the security
+itself or the rights that a corporation’s . . . organizational documents confer[] on a holder of the
+corporation’s securities.’” Id. at *5. In rejecting this “restrictive reading” of the statute, the
+court held that
+[i]n referring to rights, duties and obligations ‘relating to’ a
+security, as well as those ‘created by or pursuant to’ a security,
+section 1332(d)(9)(C) covers not only rights, duties and obligations
+conferred by the terms of the security itself, such as voting rights,
+but also those rights, duties and obligations that are connected with
+the security.
+Id. The court’s reasoning in Pew applies with equal force to Plaintiff’s claims here. See also
+Carmona, 2006 WL 1043987, at *2 (finding terms “relating to” and “pursuant to any security” in
+1332(d)(9)(C) serve to “broaden subsection (C)’s applicability beyond those cases where the
+duty is ‘created by’ the [terms of the] security”).
+Both a plain reading of section 1332(d)(9)(C) and the cases interpreting it compel
+remand.
+
+14
+
+In any event, Defendants’ suggestion that fiduciary duties are created only by the terms of a security or its
+formative documents ignores well-settled law to the contrary. See Boxer v. Husky Oil Co., 429 A.2d 995 (Del Ch.
+1981) (general partner owes fiduciary duty to limited partners under common law and provisions of Delaware
+Uniform Partnership Act and Uniform Limited Partnership Act); see also 6 Del. Code Ann. § 15-404 (defining
+general partner’s fiduciary duties to partnership and other partners), § 15-405 (providing for derivative claim against
+partnership or partner to enforce fiduciary duties).
+
+20
+
+Case 1:07-cv-07783-AKH
+
+2.
+
+Document 6
+
+Filed 09/28/2007
+
+Page 26 of 28
+
+The Section 1332(d)(3) And (d)(4) Exceptions To CAFA Jurisdiction
+Potentially Apply
+
+The exceptions to CAFA jurisdiction found in 28 U.S.C. § 1332(d)(3) (the “interests of
+justice” exception), and § 1332(d)(4) (the “local controversy”/”home-state controversy”
+exceptions) potentially apply here.15 Both statutory exceptions to CAFA jurisdiction require a
+determination of the proposed class members’ citizenship. See 28 U.S.C. § 1332(d)(3) (granting
+court discretion to decline CAFA jurisdiction when more than one-third but less than two-thirds
+of proposed plaintiff class members are citizens of forum State), § 1332(d)(4) (requiring court to
+decline CAFA jurisdiction where more than two-thirds of plaintiff class members are citizens of
+forum State). For purposes of these CAFA exceptions, the statute states that “[c]itizenship of the
+members of the proposed plaintiff classes shall be determined as of the date of filing of the
+complaint.” 28 U.S.C. § 1332(d)(7) (emphasis added).
+The Declaration of Rajan Govidan offered by Defendants contains a “sampling” of the
+States of residence of all investors who held Partnership interests as of August 1, 2006,
+December 31, 2006, and April 30, 2007. (Def. Notice, Ex. D.) This “sampling” indicates that
+approximately 26 percent of the proposed Class were New York residents at some point during
+the Class Period. Although this substantial percentage falls just short of the one-third threshold
+needed to invoke the § 1332(d)(3) discretionary exception, Defendants have not provided the
+citizenship statistics of the proposed Class members as of August 6, 2007, the date when the
+Complaint was filed. Moreover, by merely sampling the citizenship of Partnership investors as
+of certain dates, the Govidan Declaration fails to accurately account for the citizenship of
+
+15
+
+As noted in footnote 9 above, as of the date of this filing, the Second Circuit has not decided which party bears
+the burden on proof on the statutory exceptions to CAFA. By raising the argument above, Plaintiff does not concede
+that it has the burden of proving these exceptions, but is merely responding to Defendants’ contention that these
+exceptions do not apply. (Def. Notice ¶ 27.)
+
+21
+
+Case 1:07-cv-07783-AKH
+
+Document 6
+
+Filed 09/28/2007
+
+Page 27 of 28
+
+investors who may have redeemed their Interests before the Partnership collapsed. Such Class
+members would not necessarily be reflected on the “sampling” dates chosen by Mr. Govidan, but
+would still be members of the proposed Class.
+The “sampling” of information that Defendants have elected to provide does not rule out
+application of these express exceptions to CAFA jurisdiction. Accordingly, while Plaintiff
+contends that section 1332(d)(9)(C) requires remand (see supra C.1), should the Court determine
+that CAFA removal is warranted, Plaintiff reserves the right to seek leave to take limited
+jurisdictional discovery to determine the applicability of sections 1332(d)(3) and (d)(4).16
+II.
+
+PLAINTIFF SHOULD BE AWARDED COSTS AND ATTORNEYS’ FEES
+RESULTING FROM DEFENDANTS’ IMPROPER REMOVAL
+This Court has the discretion to award costs and attorney fees incurred from improper
+
+removal. See Morgan Guar. Trust Co. v. Republic of Palau, 971 F.2d 917, 924 (2d Cir. 1992)
+(28 U.S.C. 1447(c) “affords a great deal of discretion and flexibility to the district courts in
+fashioning awards of costs and fees”). Such expenses and fees may be awarded absent a finding
+of bad faith. Id. at 923.
+An award of fees and expenses is appropriate here. Defendants’ improper removal has
+subjected Plaintiff to unnecessary expense, forcing it to appear in federal court, as well as
+research and prepare a motion to remand, merely to get this action returned to the court where it
+originally filed the Complaint. See Circle Indus. USA v. Parke Constr. Group, Inc., 183 F.3d
+105 (2d Cir. 1999) (providing for attorneys’ fees when granting a motion to remand serves the
+purpose of deterring improper removal).
+
+16
+
+Given that Defendants bear the burden of proving that all the prerequisites for CAFA jurisdiction have been
+satisfied, but have not offered any evidence as to the size of the proposed Class – despite their ready ability to do so,
+see Govidan Declaration ¶ 1 – Plaintiff also reserves the right to seek leave to take limited jurisdictional discovery
+on this issue as well. See 28 U.S.C. §§ 1332(d)(2) & (d)(5).
+
+22
+
+Case 1:07-cv-07783-AKH
+
+Document 6
+
+Filed 09/28/2007
+
+Page 28 of 28
+
+CONCLUSION
+For the reasons set forth herein, this case should be remanded to New York State
+Supreme Court and Plaintiff should be awarded its costs and attorneys’ fees resulting from
+Defendants’ improper removal of this action.
+Dated: September 28, 2007
+Respectfully Submitted,
+
+By: /s/ Andrew J. Entwistle
+Andrew J. Entwistle
+Vincent R. Cappucci
+Stephen D. Oestreich
+Robert N. Cappucci
+Jonathan H. Beemer
+Michael H. Rosner
+ENTWISTLE & CAPPUCCI LLP
+280 Park Avenue, 26th Floor West
+New York, New York 10017
+(212) 894-7200
+Douglas R. Hirsch
+SADIS & GOLDBERG LLP
+551 Fifth Avenue, 21st Floor
+New York, New York 10176
+(212) 947-3793
+Attorneys for Plaintiff
+NAVIGATOR CAPITAL PARTNERS, L.P.
+
+23
+
+

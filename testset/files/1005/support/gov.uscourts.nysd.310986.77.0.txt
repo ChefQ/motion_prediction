@@ -1,0 +1,1094 @@
+Case 1:04-cv-02496-CM
+
+Document 77
+
+Filed 10/18/2005
+
+Page 1 of 28
+
+James David Jacobs (JJ-7351)
+Frank M. Gasparo (FG-2958)
+Todd S. Sharinn (TS-0581)
+Robert Busby
+BAKER & McKENZIE LLP
+805 Third Avenue
+New York, New York 10022
+(212) 751-5700
+Attorneys for Defendant Oberthur Card Systems, S.A.
+
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+LEIGHTON TECHNOLOGIES LLC,
+
+Plaintiff and Counterclaim Defendant,
+v.
+OBERTHUR CARD SYSTEMS, S.A.,
+Defendant and Counterclaim Plaintiff.
+
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+
+04 Civ. 02496 (CM)(LMS)
+
+OBERTHUR CARD SYSTEMS, S.A.
+MEMORANDUM IN SUPPORT OF MOTION FOR SUMMARY
+JUDGMENT OF PATENT INVALIDITY
+
+Case 1:04-cv-02496-CM
+
+Document 77
+Filed 10/18/2005
+TABLE OF CONTENTS
+
+Page 2 of 28
+
+Page
+I.
+
+FACTS ............................................................................................................................... 2
+A.
+
+B.
+
+C.
+II.
+
+III.
+
+IV.
+
+The Relevant Prosecution History of the Four Patents.......................................... 2
+1.
+
+The ‘207 Patent .......................................................................................... 2
+
+2.
+
+The ‘099 Patent .......................................................................................... 3
+
+3.
+
+The ‘155 Patent .......................................................................................... 4
+
+4.
+
+The ‘367 Patent .......................................................................................... 4
+
+The Prior Art .......................................................................................................... 7
+1.
+
+Prior Art Of Record and Keith Leighton’s Testimony .............................. 7
+
+2.
+
+The Oakwood Brochures ........................................................................... 9
+
+Level of Skill in the Art ....................................................................................... 10
+
+SUMMARY JUDGMENT IS AN APPROPRIATE MEANS FOR
+DETERMINING WHETHER A PATENT CLAIM IS VALID ..................................... 10
+A.
+
+The Presumption of Validity is Merely Procedural ............................................. 11
+
+B.
+
+Anticipation and Obviousness ............................................................................. 12
+1.
+
+Anticipation (35 U.S.C. § 102) ................................................................ 12
+
+2.
+
+Obviousness (35 U.S.C. § 103)................................................................ 13
+
+THE PRIOR ART INVALIDATES THE ASSERTED CLAIMS .................................. 16
+A.
+
+All the Asserted Claims of the ‘207, ‘155 and ‘099 Patents are Invalid ............. 16
+
+B.
+
+Claim 20 of the ‘367 Patent is Invalid ................................................................. 18
+
+C.
+
+All the Asserted Claims of the ‘367 Patent Are Invalid ..................................... 23
+
+CONCLUSION................................................................................................................ 24
+
+-i-
+
+Case 1:04-cv-02496-CM
+
+Document 77
+Filed 10/18/2005
+TABLE OF AUTHORITIES
+
+Page 3 of 28
+
+CASES
+ACS Hospital Systems, Inc. v. Montefiore Hospital, 732 F.2d 1572, 1577 (Fed.
+Cir. 1984) ............................................................................................................................... 15
+Advanced Display Sys., Inc. v. Kent State Univ., 212 F.3d 1272, 1282 (Fed. Cir.
+2000) ...................................................................................................................................... 13
+Advanced Display Sys., Inc., 212 F.3d at 1284............................................................................ 14
+Applied Medical Resources Corp. v. United States Surgical Corp., 147 F.3d 1374
+1378 (Fed. Cir. 1998)............................................................................................................. 11
+Ashland Oil, Inc. v. Delta Resins & Refractories, Inc., 776 F.2d 281, 297 n. 24
+(Fed. Cir. 1985)...................................................................................................................... 15
+Avia Group Int’l, Inc. v. L.A. Gear Cal., Inc., 853 F.2d 1557, 1561 (Fed. Cir.
+1988) ...................................................................................................................................... 11
+Brown & Williamson Tobacco Corp. v. Philip Morris, Inc., 229 F.3d 1120 (Fed.
+Cir. 2000) ............................................................................................................................... 15
+Buildtex Inc. v. Kason Indus., Inc., 849 F.2d 1461, 1464 (Fed. Cir. 1988) ................................. 11
+Celotex Corp. v. Catrett, 477 U.S. 317, 327 (1986) .................................................................... 10
+Constant v. Advanced Micro-Devices, Inc., 848 F.2d 1560, 1569 (Fed. Cir. 1988).................... 11
+Continental Can Co. v. Monsanto, Inc., 948 F.2d 1264, 1268 (Fed. Cir. 1991) ......................... 13
+Fromson v. Advance Offset Plate, Inc., 755 F.2d 1549, 1555 (Fed. Cir. 1985) .......................... 11
+General Elec. v. Nintendo Co., 179 F.3d 1350, 1353 (Fed. Cir. 1999) ....................................... 11
+Graham v. John Deere¸ 383 U.S. 1 (1966).................................................................................. 14
+In re Gorman, 933 F.2d 982, 986-87 (Fed. Cir. 1991) ................................................................ 16
+In re Graves, 69 F.3d 1147, 1152 (Fed. Cir. 1995), cert. denied, 517 U.S. 1124
+(1996)..................................................................................................................................... 13
+In re Oetiker, 977 F.2d 1443, 1447 (Fed. Cir. 1992)................................................................... 16
+In re Rinehart, 531 F.2d 1048, 1054 (CCPA 1976) .................................................................... 15
+In re Sernaker, 702 F.2d 989, 994 (Fed. Cir. 1983) .................................................................... 15
+In re Young, 927 F.2d 588, 591 (Fed. Cir. 1991)......................................................................... 16
+Johnston v. IVAC Corp., 885 F.2d 1574, 1576-77 (Fed. Cir. 1989)............................................ 10
+Lindemann Maschinenfabrik v. American Hoist & Derrick Co., 730 F.2d 1452,
+1458 (Fed. Cir. 1984)............................................................................................................. 12
+Markman v. Westview Instrs., Inc., 52 F.3d 967, 970-71, 976 (Fed. Cir. 1995) (en
+banc), aff’d, 517 U.S. 370 (1996) .......................................................................................... 11
+Minton v. Nat’l Ass’n Sec. Dealers, Inc., 226 F.Supp.2d 845 (E.D. Tex. 2002) ......................... 14
+Newell Cos., Inc. v. Kenney Mfg. Co., 864 F.2d 757, 763 (Fed. Cir. 1988) ................................ 14
+Pro-Mold and Tool Co., Inc. v. Great Lakes Plastics, Inc., 75 F.3d 1568, 1573
+(Fed. Cir. 1996)...................................................................................................................... 15
+i
+
+Case 1:04-cv-02496-CM
+
+Document 77
+Filed 10/18/2005
+TABLE OF AUTHORITIES
+
+Page 4 of 28
+
+Rockwell Int’l Court v. United States, 147 F.3d 1358, 1362 (Fed. Cir. 1998) ............................ 11
+Ryko Manufacturing Co. v. Nu-Star, 18 U.S.P.Q. 2D 1047, 1990 U.S. Dist.
+LEXIS 18735 at 5 (D.MN 1990), aff’d, 950 F.2d 714 (Fed. Cir. 1991)................................ 16
+Sandt Technology, Ltd. V. Resco Metal and Plastics Corp., 264 F.3d 1344, 1355
+(Fed. Cir. 2001)...................................................................................................................... 16
+Sandt Technology, Ltd. V. Resco Metal and Plastics Corp., 264 F.3d 1344, 1355
+(Fed. Cir. 2001), citing unreported decision of J.McMahon ................................................. 17
+Standard Havens Prods. v. Gencor Indus., 953 F.2d 1360, 1369 (Fed. Cir. 1992)..................... 13
+Tellmac Cellular Corp. v. Topp Telecom, Inc., 247 F.3d 1316, 1327 (Fed. Cir.
+2001) ...................................................................................................................................... 11
+
+STATUTES
+35 U.S.C. § 102............................................................................................................................ 12
+35 U.S.C. § 103(a) ....................................................................................................................... 14
+35 U.S.C. § 282............................................................................................................................ 11
+
+ii
+
+Case 1:04-cv-02496-CM
+
+Document 77
+
+Filed 10/18/2005
+
+Page 5 of 28
+
+Pursuant to the Court’s Scheduling Order, dated July 16, 2004, as modified on September
+8, 2004, Defendant Oberthur Card Systems, S.A. (“Oberthur”) hereby submits its brief in support
+of its Motion for Summary Judgment of Patent Invalidity.
+INTRODUCTION
+Leighton Technologies LLC (“Leighton”)1 alleges that Oberthur infringes 53 claims
+(“Asserted Claims”) in four United States Letters Patents, namely -- U.S. Pat. Nos. 5,817,207
+(“the ‘207 patent”) (Sharinn Ex. 1); 6,214,155 (“the ‘155 patent”) (Sharinn Ex. 3); 6,036,099
+(“the ‘099 patent”) (Sharinn Ex. 2); and 6,514,367 (“the ‘367 patent”) (Sharinn Ex. 4)
+(collectively the “Patents”). The Asserted Claims are strikingly similar from Patent to Patent.
+During the prosecution of the ‘207, ‘155 and ‘099 patents Leighton argued, as this Court
+summarized in its Markman decision (Sharinn Ex. 5 at 13), that those patents “improved on the
+[prior art] by eliminating the need to specifically protect the electronic element during
+lamination” through adding to the claims the limitations of “the absence of a non-electronic
+carrier” and “directly”. It was on the basis of this alleged inventiveness that these three patents
+issued.
+The ‘367 patent was prosecuted last. As in the three earlier patents all of the ‘367
+patent’s claims recited an unprotected electronic element. However, during the prosecution of
+the ‘367 patent, the Examiner identified a theretofore uncited prior art Japanese patent that
+expressly taught laminating an unprotected chip and antenna. No longer could Leighton rely on
+the unprotected electronic element for patentability. Leighton therefore amended the claims in
+the ‘367 patent application to recite that the pressure during cooling was at least 10% greater
+
+1
+
+“Leighton” is also used to refer to Keith Leighton, the inventor and an assignor to Leighton
+Technologies LLC of the Patents.
+
+1
+
+Case 1:04-cv-02496-CM
+
+Document 77
+
+Filed 10/18/2005
+
+Page 6 of 28
+
+than the pressure during heating and argued that the prior art did not teach that limitation. The
+Examiner accepted this argument and allowed the ‘367 patent.
+Leighton’s amendment and argument was an admission that, absent the 10% limitation,
+there was no inventiveness to excluding protection for his electronic element and that at least the
+independent claims of the ‘207, ’099, and ‘155 patents, whose allowance was based upon that
+feature, are invalid in light of the Japanese prior art.
+A separate and independent ground exists for invalidating all the claims in the ‘367
+patent. Prior art about which the Examiner was unaware teaches the greater than 10% limitation
+that Leighton added to achieve patentability of the ‘367 patent. Together with the other prior art
+this newly discovered prior art invalidates all the Asserted Claims, including the claims of the
+‘367 patent.
+Because there are no issues of material fact, each of the Asserted Claims is invalid,
+pursuant to 35 U.S.C. §102 or §103, in view of prior art that the United States Patent and
+Trademark Office (“USPTO”) did not consider during prosecution of the respective claims.
+Thus, summary judgment that the Asserted Claims are invalid is appropriate as a matter of law.
+
+I.
+A.
+
+FACTS
+
+The Relevant Prosecution History of the Four Patents
+1. The ‘207 Patent
+On October 7, 1996, Leighton filed the “utility” application that matured into the subject
+
+‘207 patent. Because that application relied on the previously filed ‘685 provisional application,
+its earliest effective filing date is October 17, 1995 for material disclosed in both applications.
+In the first Patent Office action, the Examiner rejected all the claims then pending as
+obvious in view of U.S. Patent No. 4,450,024 (“the ‘024 prior art patent”). In his response,
+Leighton narrowed all his claims to recite an unprotected “electronic element in the absence of a
+
+2
+
+Case 1:04-cv-02496-CM
+
+Document 77
+
+Filed 10/18/2005
+
+Page 7 of 28
+
+non-electronic carrier” positioned “directly” between “first and second plastic core sheets”. In
+its Markman decision, the Court held that by this language and the arguments made to the
+Examiner “Leighton relinquished any interpretation of ‘non-electronic carrier’ that includes any
+protection for the electronic element”. Sharinn Ex. 5, at 27.
+2. The ‘099 Patent
+Leighton filed the application that matured into the ‘099 patent (Exhibit 2) on August 18,
+1997, approximately 10 months after filing the application that matured into the ‘207 patent.
+The ‘099 patent application is a continuation-in-part of the ‘207 patent application.
+Whereas the ‘207 patent is directed to a hot lamination process for the manufacture of a
+contactless card, the ‘099 patent purports to relate to a so-called dual function card, which is a
+combination contact/contactless card. Despite the fact that the patents relate to different types of
+cards, the specifications of the ‘207 and the ‘099 patents share virtually the same disclosure.
+Moreover, except for the additional milling step after lamination necessary to form a dual
+interface card, the claims in the ‘099 patent and the ‘207 patent are virtually identical.
+Given that similarity the prosecution of the ‘099 patent not surprisingly bears a strong
+resemblance to that of the ‘207 patent. Repeating his amendments and arguments in the ‘207
+patent application, Leighton amended all his claims in the ‘099 patent to require that the
+“electronic element” have no protection. The Examiner thereupon allowed the claims.
+
+3
+
+Case 1:04-cv-02496-CM
+
+Document 77
+
+Filed 10/18/2005
+
+Page 8 of 28
+
+3. The ‘155 Patent
+Approximately two years after filing the application that matured into the ‘207 patent and
+approximately one year after filing the application that matured into the ‘099 patent, on
+September 22, 1998, Leighton filed the ‘155 patent application. Like the ‘207 patent, the ‘155
+patent relates to contactless cards. The ‘155 patent differs from the ‘207 patent in that its claims
+do not recite a printing (or coating) step.
+The prosecution of the ‘155 patent application followed the prosecution of the ‘207
+patent application. As might be expected due to Leighton’s success in the ‘207 patent
+application distinguishing over the prior art, Leighton sua sponte amended the claims after the
+‘155 patent application was filed to recite “in the absence of a non-electronic carrier” and
+“directly”. Because of this sua sponte amendment, the Examiner subsequently allowed the
+pending claims on June 5, 2000.
+4. The ‘367 Patent
+Leighton filed the application that matured into the ‘367 patent on August 5, 1999. By
+that time, Leighton had the benefit of his experience in the prosecution of the ‘207 and ‘099
+patents. As a result, all the originally filed claims in the ‘367 patent contained the limitations
+“non-electronic carrier” and “directly” that Leighton had been required to add to the previous
+applications to achieve their allowance.
+The ‘367 patent is a continuation of the ‘099 patent and therefore, except with respect to
+matters not here relevant, the specifications are identical. It is also a continuation-in-part of the
+‘207 patent. Its claims differ from those in its parent, the ‘099 patent, principally in the absence
+of a printing (or coating) step.
+The Examiner for the ‘367 patent discovered prior art that had not been found during the
+prosecution of Leighton’s three previous Patents: Japanese Patent 6-176214 (“JP ‘214”).
+
+4
+
+Case 1:04-cv-02496-CM
+
+Document 77
+
+Filed 10/18/2005
+
+Page 9 of 28
+
+Sharinn Ex. 6 and Ex. 24. According to the Examiner, JP ‘214 taught laminating an unprotected
+chip and antenna:
+Japanese Patent ‘214 taught a process for forming a smart card
+which included the steps of laminating with heat and pressure an
+assembly which included an IC chip 11 and a thin coil 12 (an
+antenna). The IC chip 11 and antenna 12 were disposed
+unsupported between plastic films 14. On either side of plastic
+films 14 were additional plastic films 15. The assembly was
+disposed in a press and heat and pressure were applied in
+order to laminate the layers together to form a smart card.
+(Sharinn Ex. 7, OCS_C_045486) (emphasis added).
+Examination of JP ‘214
+confirms the Examiner’s
+conclusion that JP ‘214 teaches the
+absence of non-electronic carrier,
+i.e., it directly places an electronic
+element between plastic core
+sheets without any protection, as
+shown in Figs. 2 and 3 of JP ‘214,
+which are reproduced at the right.
+JP ‘214 expressly states that the IC module “houses components such as an IC memory (not
+shown in the drawings) and a rectification circuit (not shown in the drawings) ….” Sharinn Ex.
+6 and Ex. 24, ¶6. The thin IC module has a thickness of about 0.3 mm. Id. JP ‘214 also
+explains that there are two PVC resin plastic films 14, show in Fig. 3, that serve as “first and
+second plastic core sheets”. Sharinn Ex. 6 and Ex. 24, ¶7; Figs. 2 and 3. JP ‘214 explains that
+the thin IC module is positioned directly between PVC resin plastic films: “[the PVC resin
+plastic films are] interposed so that they sandwich the thin IC module and thin
+transmission/receiving coil [12] ….” Sharinn Ex. 6 and Ex. 24, ¶7.
+
+5
+
+Case 1:04-cv-02496-CM
+
+Document 77
+
+Filed 10/18/2005
+
+Page 10 of 28
+
+Moreover, the IC module is encapsulated using heat and pressure to form the thin noncontact IC card:
+‘[H]eating and compression are applied from both surfaces with
+hot plates 20 and 20, thereby fixing and integrating the elements.’
+Sharinn Ex. 6 and Ex. 24, ¶¶7-9.
+Since JP ‘214 teaches encapsulating the thin IC module directly between plastic core
+sheets in the absence of a non-electronic carrier, no longer could Leighton argue that laminating
+an unprotected “electronic element” added patentability. Leighton had to come up with a new
+strategy for patentability.
+As filed, the independent claims of the ‘367 patent only required “cooling said core while
+applying a second pressure to said core”. Those claims said nothing about the relationship of the
+pressure used during heating and that used during cooling. To distinguish over the prior art,
+Leighton amended the ‘367 claims to add a limitation to all the ‘367 claims that required the
+pressure during the cooling to be “at least 10% greater” than the pressure during the heating.
+Leighton then argued to the USPTO that his inventive contribution to the prior art was cooling
+the core with at least 10 % greater pressure than the pressure used during heating. He
+represented that the prior art only taught maintaining the same pressure during cooling as was
+used during heating:
+One skilled in the art would not be able to conclude that the (prior
+art) teaches increasing the pressure during the cooling process. …
+There is no teaching or suggestion in [the prior art] to increase the
+pressure during cooling to at least 10% greater than the
+pressure applied during the heating.”
+Sharinn Ex. at 7, OCS_C_045499 (emphasis in original).
+Relying upon Leighton’s statement that none of the prior art of record taught or suggested
+the greater than 10% limitation, the Examiner allowed the claims stating:
+
+6
+
+Case 1:04-cv-02496-CM
+
+Document 77
+
+Filed 10/18/2005
+
+Page 11 of 28
+
+None of the prior art of record taught or suggested that one skilled in the
+art at the time the invention was made to apply a second pressure upon the
+assembly during cooling wherein the second pressure was at least 10%
+greater than the first pressure applied during assembly and heating.
+Sharinn Ex. 7 at OCS_C_045509 (emphasis added).
+Thus, all the ‘367 patent claims, unlike the independent claims in the three preceding
+Patents (the ‘207, ‘155 and ‘099 patents), recite the “at least 10% greater” pressure limitation.
+B.
+
+The Prior Art
+1. Prior Art Of Record and Keith Leighton’s Testimony
+By adding the greater than 10% limitation to the claims of the ‘367 patent application in
+
+response to the Examiner’s rejection that JP ‘214 taught laminating an unprotected electronic
+element, Leighton effectively conceded that JP ‘214, together with the other prior art of record,
+taught the lamination process as claimed in the ‘207, ‘099, and ‘155 patents.
+
+Oberthur
+
+accepts Leighton’s concession and will not prolong this brief to discuss the prior art of record in
+the Patent Office in which both the Examiner and Leighton found each element of Leighton’s
+alleged inventive lamination process except for the greater than 10% limitation. We leave to the
+detailed claim charts in Appendix A our explanation that the prior art taught all the elements and
+suggested the combination of those elements in the Asserted Claims.
+Contrary to Leighton’s representations to the USPTO, supra at 6, laminating plastic
+cards, including those with embedded elements, at a pressure during cooling that was at least
+10% greater than the pressure during heating, was common practice long before the filing date of
+the earliest of the Patents. Smith ¶¶8-12. Indeed, Mr. Keith Leighton testified at his recent
+deposition that he had laminated plastic cards in the 1980’s, or even earlier, with a pressure
+during cooling that was 10% or more higher than the pressure during heating. For example, Mr.
+Leighton testified:
+
+7
+
+Case 1:04-cv-02496-CM
+
+Document 77
+
+Filed 10/18/2005
+
+Page 12 of 28
+
+Q I appreciate all of that, Mr. Leighton, but, unfortunately, I need
+an answer to this question, and I am going to ask it again, so bear
+with me, and let’s try once more. And, I’m going to try to read
+back exactly what I asked, and maybe make it a little bit more
+literate.
+Is it fair to say, Mr. Leighton, that before 1990 you made a plastic
+laminated card in which the pressure during the cooling was at
+least ten percent greater than the pressure during the heating.
+MR. GUTKIN:
+Vague and ambiguous, Asked and answered.
+Calls for speculation.
+THE WITNESS: Well, in order to move, I – I’m going to say yes
+to that question, but it does not pertain to making a radio frequency
+card.
+Sharinn Ex. 8. Indeed, the reason for increased pressure during cooling was to insure a smooth
+surface on the laminated card, regardless of whether there was an embedded element present. In
+other testimony Mr. Leighton conceded that he had used a higher pressure long before he filed
+the applications for the Patents to insure that his laminated cards had a smooth surface:
+Q:
+It’s a slightly different question. I’m just trying to
+understand, Mr. Leighton, what [your former employer during
+1970-1981] did, and – and I’ve gotten a number of different
+answers, and I’m just trying to pin down what the correct one is.
+A: You keep asking if I ever increased pressure.
+Q:
+
+Yes.
+
+A: Yes, I’ve – I have increased pressure to facilitate the product
+that I was making.
+Q: And the reason why you increased the pressure was to make a
+smooth surface; is that correct?
+A: A smooth surface, and to prevent warping of the product.
+Q: And you increased the pressure to, I think you said before, to
+insure there wouldn’t be voids?
+A:
+
+Correct.
+
+Sharinn Ex. 9.
+However, to simplify this motion and avoid the potential for the Court having to consider
+what we believe will be bogus issues of material fact we do not rely on Mr. Leighton’s
+8
+
+Case 1:04-cv-02496-CM
+
+Document 77
+
+Filed 10/18/2005
+
+Page 13 of 28
+
+admissions or a wealth of other available prior art. Rather, we rely on a “single” reference, the
+1987 Oakwood Brochures, to show that Mr. Leighton’s purported invention was known for a
+long time. Indeed, the Oakwood brochures, in addition to teaching the greater than 10%
+limitation, teach all the elements of claim 20 of the ‘367 patent and claims 1, 6-7, and 14-16 of
+the ‘155 patent.
+2. The Oakwood Brochures
+Oakwood Design (“Oakwood”) and its founding Director Richard Smith engineered a
+series of lamination machines in 1984 known as the “Series 6 Laminators”. See Smith ¶10. In
+addition to manufacturing and selling the Series 6 laminators, Oakwood used the Series 6
+machine to laminate contactless security access cards as early as 1984. See Smith ¶21. From the
+mid-1980’s through the late 1990’s Oakwood, at its location near London, England
+manufactured presses to laminate plastic cards.
+As is customary for machine manufacturers Oakwood published various manuals and
+sales brochures detailing its products. Among these were two brochures that were meant to be
+read together; these two publications are a 1987 Oakwood sales brochure entitled “Lamination
+Presses for Bank Card & Printed Circuit Board Production (“1987 Oakwood Sales Brochure”)
+(Smith Ex. B) and a 1987 Oakwood Series 6 Laminators Sales Brochure (“1987 Oakwood Series
+6 Brochure”) (Smith Ex. D) (collectively referred to as the “1987 Oakwood Brochures”). The
+1987 Oakwood Brochures were published at the latest in early 1988 and thereafter were widely
+disseminated to the public.
+The 1987 Oakwood Brochures not only promote Oakwood’s line of laminators, but also
+describe typical lamination cycles and products that the laminators can make. Also discussing
+lamination cycles and the structure of laminated cards is an instruction manual (Smith Ex. A)
+that accompanied the sale of the Series 6 laminators, one of Oakwood’s products. The
+
+9
+
+Case 1:04-cv-02496-CM
+
+Document 77
+
+Filed 10/18/2005
+
+Page 14 of 28
+
+instruction manual attached to Mr. Smith’s declaration was published in 1991, approximately 4
+years before the effective filing date of the earliest of the Patents.
+Rather than delve into the substance of these prior art publications here and duplicate text
+that can be found elsewhere, we refer to the Smith and Mosteller declarations, which authenticate
+and discuss these prior art publications, and our brief below, infra at 18. The 1987 Oakwood
+Brochures teach, among other things, using a pressure during cooling that is at least 10% greater
+than the pressure during heating. In fact, these brochures teach every element of claim 20 of the
+‘367 patent and claims 1, 6-7, and 14-16 of the ‘155 patent.
+C.
+
+Level of Skill in the Art
+For our present purposes, as demonstrated by the attached Declaration of Barry
+
+Mosteller, persons who had ordinary skill in developing laminated plastic cards, including
+determining card structure and lamination cycle parameters, had a college degree, preferably one
+in material science, chemistry or mechanical engineering, and two years of practical experience
+or alternatively had four years of practical experience in laminated plastic card development.
+Mosteller ¶7.
+
+II.
+
+SUMMARY JUDGMENT IS AN APPROPRIATE MEANS FOR
+DETERMINING WHETHER A PATENT CLAIM IS VALID
+Summary judgment is appropriate when there is no genuine issue of material fact and the
+
+moving party is entitled to judgment as a matter of law. Johnston v. IVAC Corp., 885 F.2d 1574,
+1576-77 (Fed. Cir. 1989). The Supreme Court has emphasized the importance of summary
+judgment as a tool by which District Courts can dispose of non-triable issues:
+Summary judgment procedure is properly regarded not as a
+disfavored procedural shortcut, but rather as an integral part of the
+Federal Rules as a whole, which are designed ‘to secure the just,
+speedy and inexpensive determination of every action.’
+Celotex Corp. v. Catrett, 477 U.S. 317, 327 (1986).
+
+10
+
+Case 1:04-cv-02496-CM
+
+Document 77
+
+Filed 10/18/2005
+
+Page 15 of 28
+
+There is no dispute whether this Court is empowered to invalidate any or all of the
+Patents’ claims by summary judgment. It is well accepted that the validity of a patent claim, like
+any other issue, may be determined by summary judgment. Avia Group Int’l, Inc. v. L.A. Gear
+Cal., Inc., 853 F.2d 1557, 1561 (Fed. Cir. 1988). Specifically, the Federal Circuit has
+consistently upheld district courts’ summarily invalidating patent claims, pursuant to, inter alia,
+35 U.S.C. § 102 as anticipated by the prior art. See, e.g., Tellmac Cellular Corp. v. Topp
+Telecom, Inc., 247 F.3d 1316, 1327 (Fed. Cir. 2001); General Elec. v. Nintendo Co., 179 F.3d
+1350, 1353 (Fed. Cir. 1999); Constant v. Advanced Micro-Devices, Inc., 848 F.2d 1560, 1569
+(Fed. Cir. 1988).
+A.
+
+The Presumption of Validity is Merely Procedural
+The first step in an invalidity analysis is the determination of the meaning and scope of
+
+the patent claims asserted. See Rockwell Int’l Court v. United States, 147 F.3d 1358, 1362 (Fed.
+Cir. 1998); Markman v. Westview Instrs., Inc., 52 F.3d 967, 970-71, 976 (Fed. Cir. 1995) (en
+banc), aff’d, 517 U.S. 370 (1996). This Court, through its Markman decision, has completed the
+first step of the subject analysis.
+In general, patents are presumed to be valid under 35 U.S.C. § 282. However, this
+statutory presumption is procedural rather than substantive. Fromson v. Advance Offset Plate,
+Inc., 755 F.2d 1549, 1555 (Fed. Cir. 1985). More precisely, this presumption merely places the
+burden of persuasion initially on the party asserting invalidity.
+A party, like Oberthur, seeking to prove invalidity must do so by clear and convincing
+evidence (see Applied Medical Resources Corp. v. United States Surgical Corp., 147 F.3d 1374
+1378 (Fed. Cir. 1998)), which need not be airtight, as the law only requires persuasion, not
+perfection. Buildtex Inc. v. Kason Indus., Inc., 849 F.2d 1461, 1464 (Fed. Cir. 1988). Thus, the
+
+11
+
+Case 1:04-cv-02496-CM
+
+Document 77
+
+Filed 10/18/2005
+
+Page 16 of 28
+
+USPTO’s decision that certain subject matter is patentable “is never binding on a court”.
+Fromson, 755 F.2d at 1555.
+B.
+
+Anticipation and Obviousness
+1. Anticipation (35 U.S.C. § 102)
+The patent statute codifies “anticipation” in 35 U.S.C. § 102 . In pertinent part 35 U.S.C.
+
+§§ 102 provides:
+A person shall be entitled to a patent unless
+*****
+(a) the invention was … patented or described in a
+printed publication in this or a foreign country, before the
+invention thereof by the applicant for patent, or
+(b) the invention was patented or described in a printed
+publication in this or a foreign country … more than one year
+prior to the date of the application for patent in the United States,
+or
+******
+(e) the invention was described in … a patent granted on
+an application for patent by another filed in the United States
+before the invention by the applicant for patent . . . .
+(Emphasis added). All of the prior art asserted by Oberthur in this brief qualifies as prior art
+under one of these three sections of the patent statute.
+Anticipation requires that a single prior art reference teach all of the limitations of a
+claim. Three steps are used to determine if a patent is anticipated and therefore invalid.
+Lindemann Maschinenfabrik v. American Hoist & Derrick Co., 730 F.2d 1452, 1458 (Fed. Cir.
+1984).
+First, the court must identify the limitations of a relevant claim. Second, it must properly
+construe the limitations of the relevant claim in light of the specification and the prosecution
+history of the patent. Id. And third, the court must determine, for purposes of finding invalidity
+
+12
+
+Case 1:04-cv-02496-CM
+
+Document 77
+
+Filed 10/18/2005
+
+Page 17 of 28
+
+pursuant 35 U.S.C. §102 , whether each of the properly construed claim limitations are either
+expressly or inherently found in a single prior art reference.
+Notwithstanding, courts are cautioned that, while anticipation requires that a single prior
+art reference teach all of the limitations of a claim, there need not be word-for-word identity
+between the prior art reference and the claim limitations. Standard Havens Prods. v. Gencor
+Indus., 953 F.2d 1360, 1369 (Fed. Cir. 1992). In fact, a prior art reference need not expressly
+disclose all of the limitations of the claim, so long as those limitations are inherently disclosed--a
+question of pure law. Id. Anticipation by inherency requires that one of ordinary skill in the
+relevant art would have recognized that the missing descriptive matter is necessarily present in
+the thing described in the reference. Continental Can Co. v. Monsanto, Inc., 948 F.2d 1264,
+1268 (Fed. Cir. 1991).
+Material that is not explicitly or inherently contained in a single prior art document may
+still be considered for purposes of anticipation if that material is incorporated by reference into
+the document. Advanced Display Sys., Inc. v. Kent State Univ., 212 F.3d 1272, 1282 (Fed. Cir.
+2000). Furthermore, “A reference anticipates a claim if it discloses the claimed invention ‘such
+that a skilled artisan could take its teachings in combination with his own knowledge of the
+particular art and be in possession of the invention ....’ In re Graves, 69 F.3d 1147, 1152 (Fed.
+Cir. 1995), cert. denied, 517 U.S. 1124 (1996), quoting In re Grice, 301 F. 2d 929, 936, 133
+U.S.P.Q. 365, 372 (CCPA 1962) (emphasis in original).
+2. Obviousness (35 U.S.C. § 103)
+Non-obviousness is another fundamental requirement of patentability. Much like the test
+for novelty, the test for obviousness looks to the prior art to determine whether an invention is
+patentable. The test for obviousness, however, is not limited to a single prior art reference.
+
+13
+
+Case 1:04-cv-02496-CM
+
+Document 77
+
+Filed 10/18/2005
+
+Page 18 of 28
+
+Instead, multiple prior art references can be combined to teach the limitations of a claim, thereby
+rendering the claim invalid.
+The Patent Act defines a claim as being obvious “if the difference between the subject
+matter sought to be patented and the prior art are such that the subject matter as a whole would
+have been obvious at the time the invention was made to a person having ordinary skill in the art
+to which the subject matter pertains.” 35 U.S.C. § 103(a).
+35 U.S.C. § 103(a) sets forth the statutory obviousness criteria, and provides in relevant
+part:
+A patent may not be obtained though the invention is not
+identically disclosed or described as set forth in section 102 of this
+title, if the differences between the subject matter sought to be
+patented and the prior art are such that the subject matter as a
+whole would have been obvious at the time the invention was
+made to a person having ordinary skill in the art to which the
+subject matter pertains.
+The Supreme Court outlined three factual predicates that a court must consider in an
+obviousness analysis. Graham v. John Deere¸ 383 U.S. 1 (1966). First, the scope and content of
+the prior art must be determined. Graham, 383 U.S. at 17. Second, the differences between the
+prior art and the asserted claims must be determined. Id. Third, the level of ordinary skill in the
+pertinent art must be determined. Id. Although each of these predicates is a question of fact, the
+ultimate finding of obviousness is a question of law. Advanced Display Sys., Inc., 212 F.3d at
+1284. Accordingly, a dispute about the legal conclusion of obviousness will not preclude
+granting summary judgment if there is no genuine dispute regarding the underlying factual
+predicates. Newell Cos., Inc. v. Kenney Mfg. Co., 864 F.2d 757, 763 (Fed. Cir. 1988).
+When considering factual predicates of obviousness, there is a danger of applying
+“hindsight” to find a claim to be obvious. See Minton v. Nat’l Ass’n Sec. Dealers, Inc., 226
+F.Supp.2d 845 (E.D. Tex. 2002) (“Because a court has the benefit of seeing the elements already
+
+14
+
+Case 1:04-cv-02496-CM
+
+Document 77
+
+Filed 10/18/2005
+
+Page 19 of 28
+
+combined in the patent claims when determining whether it would have been obvious to combine
+the elements from the prior art references, an inherent temptation exists to ‘Monday-morning
+quarterback’”). To avoid the improper use of hindsight, courts require a showing of some
+motivation to combine the relevant prior art references to teach all of the limitations of the claimat-issue. See, e.g., Brown & Williamson Tobacco Corp. v. Philip Morris, Inc., 229 F.3d 1120
+(Fed. Cir. 2000). Thus, before a conclusion of obviousness is to be made based on combining
+prior art references, a reason, suggestion, or motivation to lead an inventor to combine those
+references must be established. See ACS Hospital Systems, Inc. v. Montefiore Hospital, 732 F.2d
+1572, 1577 (Fed. Cir. 1984); see also Pro-Mold and Tool Co., Inc. v. Great Lakes Plastics, Inc.,
+75 F.3d 1568, 1573 (Fed. Cir. 1996).
+The suggestion may come expressly from the references themselves. See, e.g., In re
+Sernaker, 702 F.2d 989, 994 (Fed. Cir. 1983). It may come from knowledge of those skilled in
+the art that certain references, or disclosures in the references, are known to be of special interest
+or importance in the particular field. Cf. Ashland Oil, Inc. v. Delta Resins & Refractories, Inc.,
+776 F.2d 281, 297 n. 24 (Fed. Cir. 1985) (stating that the knowledge of one skilled in the art may
+provide the “teaching, suggestion, or inference” to combine references). Furthermore, the
+suggestion also may come from the nature of a problem to be solved, leading inventors to look to
+references relating to possible solutions to that problem. See, e.g., In re Rinehart, 531 F.2d 1048,
+1054 (CCPA 1976) (considering the problem to be solved in a determination of obviousness).
+The state of the art must be considered. In making an obviousness determination, the
+teachings of the references, their relatedness to the field of the applicant’s endeavor, and the
+knowledge of persons of ordinary skill in the field of the invention, are all relevant
+
+15
+
+Case 1:04-cv-02496-CM
+
+Document 77
+
+Filed 10/18/2005
+
+Page 20 of 28
+
+considerations. See In re Oetiker, 977 F.2d 1443, 1447 (Fed. Cir. 1992); In re Gorman, 933 F.2d
+982, 986-87 (Fed. Cir. 1991); In re Young, 927 F.2d 588, 591 (Fed. Cir. 1991).
+Although obviousness is a factual issue and requires evaluation from the point of view of
+the person of ordinary skill in the art, the court need not have expert testimony to render a
+summary judgment of invalidity. “When the district court has before it all of the relevant prior
+art, and its subject matter is easily discernible from the drawings and written descriptions, expert
+testimony regarding the scope and content of the prior art is not necessary.” Ryko Manufacturing
+Co. v. Nu-Star, 18 U.S.P.Q. 2D 1047, 1990 U.S. Dist. LEXIS 18735 at 5 (D.MN 1990), aff’d,
+950 F.2d 714 (Fed. Cir. 1991); see, Sandt Technology, Ltd. V. Resco Metal and Plastics Corp.,
+264 F.3d 1344, 1355 (Fed. Cir. 2001).
+
+III.
+A.
+
+THE PRIOR ART INVALIDATES THE ASSERTED CLAIMS
+All the Asserted Claims of the ‘207, ‘155 and ‘099 Patents are Invalid
+Leighton never claimed to have invented milling a card (recited in claim 1 of the ‘099
+
+and ‘367 patents), applying an overlaminate film (recited in claim 1 of the ‘207 patent and ’155
+patent) or printing (recited in claims 1 and 16 of the ‘207 patent and claim 1 of the ‘099 patent).
+Rather, as described above in the prosecution history, Leighton’s first claim of novelty over the
+prior art was that his process for hot laminating plastic cards eliminated “the need to specifically
+protect the electronic element during lamination”. The Court in its Markman decision
+summarized Leighton’s invention as follows:
+Thus, as noted above, the essence of the Patents is the lack of any
+‘non-electronic carrier.’
+Sharinn Ex. 5 at 25.
+Unfortunately for Leighton, during prosecution of the ‘367 patent, an Examiner other
+than the one who had reviewed Leighton’s previous three patents found JP ‘214. That patent
+expressly teaches laminating an unprotected chip and antenna. Leighton recognized that the
+
+16
+
+Case 1:04-cv-02496-CM
+
+Document 77
+
+Filed 10/18/2005
+
+Page 21 of 28
+
+“non-electronic” carrier limitation no longer provided the defining characteristic over the prior
+art. Accordingly, while prosecuting the ‘367 patent application Leighton adopted a new
+strategy—the “greater than 10%” limitation.
+Notably, none of the independent claims in Leighton’s three preceding patents, the ‘207
+patent, the ‘155 patent and the ‘099 patent, include the “at least 10% greater” pressure limitation.
+In adding this greater than 10% limitation to all the claims in the ‘367 patent, Leighton conceded
+the lack of novelty of all independent claims in the other three Patents. That is, those claims’
+only novelty laid in the “absence of a non-electronic carrier”, a feature that Leighton admitted
+the newly cited JP ‘214 taught and that his claims were rendered unpatentable under 35 U.S.C. §
+103 in view of the prior art.
+For sake of brevity Oberthur does not provide a detailed narrative proving the invalidity
+of all the Asserted Claims in the ‘207, ‘099 and ‘155 patents. However, the claim charts in
+Appendix A apply the relevant prior art against those claims, element by element. Except for the
+1987 Oakwood Brochures, which are used for teaching greater pressure during cooling with
+respect to those dependant claims that recite that limitation, and except for the elements (e.g.,
+printing, matte plates), which the Examiner felt were so clearly within the knowledge of those
+skilled in the art that he did not cite any art, the prior art upon which the claim chart relies is that
+which the Examiners of the respective Patents used. These features (printing, milling, etc.),
+which are outside the claimed novelty of Leighton’s alleged invention, “had no effect on the
+‘novelty and concept of the invention:’” the hot lamination cycle. Sandt Technology, Ltd. V.
+Resco Metal and Plastics Corp., 264 F.3d 1344, 1355 (Fed. Cir. 2001), citing unreported
+decision of J. McMahon.
+
+17
+
+Case 1:04-cv-02496-CM
+
+B.
+
+Document 77
+
+Filed 10/18/2005
+
+Page 22 of 28
+
+Claim 20 of the ‘367 Patent is Invalid
+Every limitation in claim 20 of the ‘367 patent is unequivocally taught in two interrelated
+
+and widely distributed 1987 Oakwood Brochures. The 1987 Oakwood Sales Brochure
+incorporates by reference the contents of the 1987 Oakwood Series 6 Brochure. These
+documents, taken together, teach, among other things, using a pressure during cooling that is at
+least 10% greater than the pressure during heating. Indeed, these brochures teach every element
+of claim 20 of the ‘367 patent. Thus, claim 20 is invalid as being anticipated under 35 U.S.C.
+§102(b).
+The 1987 Oakwood Series 6 Brochure describes
+the Oakwood Series 6 laminator and illustrates an
+exploded view of a card set for machine reading
+applications that can be manufactured using that
+laminator. Smith ¶24; Mosteller ¶9. The card set
+illustration is duplicated on the right with added labels
+for purposes of this motion. The card set as shown
+comprises 5 plastic layers: a top transparent plastic layer;
+a first opaque plastic layer having a cutout; a second
+opaque plastic layer upon which an actual photograph sits; a third opaque plastic layer having an
+inserted plastic substrate carrying inductive codings (coils); and a bottom opaque plastic layer.
+Smith ¶¶24-25; Mosteller ¶¶9-14.
+In order to create a flat surface across the card the first opaque plastic layer has a
+thickness approximately the same as the thickness of the photograph and together effectively
+form one layer when the card set is compressed. Smith ¶25; Mosteller ¶15. Similarly, in order
+to minimize voids that the soft plastic must fill during the lamination process the third opaque
+
+18
+
+Case 1:04-cv-02496-CM
+
+Document 77
+
+Filed 10/18/2005
+
+Page 23 of 28
+
+plastic layer surrounding the substrate has a thickness somewhere between the thickness of the
+substrate and the substrate plus the thickness of the coils. Smith ¶25; Mosteller ¶15.
+Accordingly, the top of the coils extend slightly above the top level of the third opaque plastic
+layer surrounding the substrate. Smith ¶25; Mosteller ¶15. In sum, when assembled and
+laminated the card is substantially flat across its surface. Smith ¶26; Mosteller ¶15.
+The 1987 Oakwood Series 6 Brochure teaches that the second to last layer includes, as
+illustrated, inductive coils. Smith Ex. D at 4; Mosteller ¶16. It further teaches that these coils
+become part of an electrical circuit that permits the coils to be machine readable:
+By inserting specialist coding . . . into the core structure the
+[Oakwood card] becomes a new tool . . . for many machine
+reading applications . . . includ[ing] varying types of inductive
+codings.
+Mosteller ¶16 (emphasis added).
+Moreover, that brochure even teaches that microchips can be laminated into the core:
+“Oakwood technicians are skilled in the use of PVC . . . and have packaged the most
+sophisticated micro chips within the core structure of a card.” Mosteller ¶13 (emphasis
+added). Thus, a review of this brochure compels a finding that it discloses that “electronic
+element[s]”, inductive coils or microchips, among others, can be embedded into the “core” of a
+laminated plastic card.
+As illustrated in the 1987 Oakwood Series 6 Brochure, the inductive coils, or microchips,
+(“electronic element[s]”) are between the second opaque plastic layer and the plastic substrate
+(“first and second plastic core sheets”, i.e., “sheets of plastic between which the electronic
+element is placed”). Accordingly, as required by claim 20 of the ‘367 patent, the card’s
+
+19
+
+Case 1:04-cv-02496-CM
+
+Document 77
+
+Filed 10/18/2005
+
+Page 24 of 28
+
+inductive coils are in immediate physical contact with (“directly”2 between) and enclosed by
+(“encapsulated by” 3) the second opaque plastic layer and plastic substrate when the card layers
+shown in the illustration come together. As can also be seen the inductive codings are not
+protected by any device from damage during lamination and therefore are “in the absence of a
+non-electronic carrier”.4 Furthermore, a “core” is thereby formed by the second opaque plastic
+layer, the inductive coils and the plastic substrate.
+With reference to claim 20’s remaining elements, the 1987 Oakwood Series 6 Brochure
+teaches that the card set, including the “core”, is laminated by the Series 6 laminator using a heat
+and pressure cycle. More precisely:
+The card sets to be laminated are inserted . . . into the machine on the
+laminating tray. . . . [h]eat and pressure are applied for the initial heating
+cycle and varied as required during the hold and cooling period.
+Smith Ex. D at 3.
+As mentioned, in addition to publishing Oakwood’s Series 6 Brochure Oakwood
+published a 1987 Oakwood Sales Brochure. The 1987 Oakwood Sales Brochure specifically
+references the 1987 Oakwood Series 6 Brochure: “an additional brochure is available for the
+series 6 range”. Smith Ex. B at 8. It thus incorporates by reference the content of the 1987
+Series 6 Brochure and ties the two brochures together as one.
+2
+
+The Court in its Markman decision defined “directly” to mean “in immediate physical contact”.
+Sharinn Ex. 5 at 27.
+3
+
+The Court in its Markman decision defined the term “encapsulated by” to mean “enclosed by”.
+Sharinn Ex. 5 at 29.
+4
+
+The Court in its Markman decision defined “non-electronic carrier” to mean “A device that
+holds an electronic element to protect it from physical damage during lamination, where the
+device is not part of a circuit that utilizes a semiconductor device.” Sharinn Ex. 5 at 25.
+
+20
+
+Case 1:04-cv-02496-CM
+
+Document 77
+
+Filed 10/18/2005
+
+Page 25 of 28
+
+Page 6 of the 1987 Oakwood Sales
+Brochure depicts the details of a typical
+lamination cycle of the Series 6 laminator
+for both plastic (PVC) laminated cards and
+printed circuit boards (PCB). Smith ¶19.
+The parts of that Oakwood diagram
+relevant to plastic laminated cards are
+reproduced in the right margin. The
+legend on the diagram teaches that the pressure and temperature diagram illustrates a “Typical
+Lamination Cycle[]” for PVC. Smith Ex. B at 6. The pressure and temperature curves for PVC
+are colored in the diagram for purposes of explaining how the respective curves describe and
+illustrate the heating and pressure cycle recited in claim 20 of the ‘367 patent.
+The diagram illustrates a heating cycle and a subsequent cooling cycle. Smith Ex. B at 6.
+During the heating cycle of the card set, including the second opaque plastic layer, the inductive
+coils and the substrate carrying the inductive coils (collectively the “core”), the card set is heated
+for a “first period of time” (red line). See Sharinn Ex. 4, claim 20(c)(i). The diagram also
+illustrates applying a “first pressure” for a “second period of time” (green line). See Sharinn Ex.
+4, Claim 20(c)(ii). By applying this “first pressure” for a “second period of time” during the
+heating of the “core”, the 1987 Oakwood Sales Brochure shows that the inductive coils
+(“electronic element”) are enclosed (“encapsulated") by the “core” when the second opaque
+plastic layer and the plastic substrate shown beneath the inductive coils (“first and second plastic
+core sheets”) are softened by the application of the heat and pressure. See Sharinn Ex. 4, Claim
+20(c)(ii).
+
+21
+
+Case 1:04-cv-02496-CM
+
+Document 77
+
+Filed 10/18/2005
+
+Page 26 of 28
+
+During the cooling stage, the “core” is cooled (blue line) while applying a “second
+pressure” (yellow line). See Sharinn Ex. 4, Claim 20(c)(iii). Claim 20 recites that the “second
+pressure” is “at least 10% greater than the first pressure”. Id. The diagram in the 1987 Oakwood
+Sales Brochure clearly illustrates the application of a much greater pressure during the cooling
+than during the heating. Indeed, the diagram illustrates a pressure during the cooling (yellow
+line) that is approximately twice as great as the pressure during the heating (green line). Smith
+¶19.
+Neither the Patent Examiner responsible for the ‘367 patent nor the Patent Examiners on
+the three earlier Patents were aware of either of the Oakwood Brochures. Since each and every
+limitation of claim 20 is described and illustrated in the 1987 Oakwood Brochures, claim 20 of
+the ‘367 patent must be found invalid as anticipated under 35 U.S.C. §102(b). Indeed, for the
+same reasons explained above, the 1987 Oakwood Brochures teach each and every element of
+claims 1, 6-7, and 14-16 of the ‘155 patent.
+Even if the Court determines that it must view the two 1987 Oakwood Brochures as
+separate references, their combination is obvious pursuant to 35 U.S.C. §103. Not only is there
+the reference in the 1987 Oakwood Sales Brochure to the 1987 Oakwood Series 6 Brochure, but
+also the legend of the pressure/temperature diagram in the 1987 Oakwood Sales Brochure, which
+states “Typical Lamination Cycle[] … P.V.C. … Cycle Curves”, would motivate a person of
+ordinary skill in the art to use the illustrated cycle to laminate PVC cards, including the PVC
+card set illustrated in the 1987 Oakwood Series 6 Brochure. Accordingly claim 20 of the ‘367
+patent is invalid as obvious in view of the prior art under 35 U.S.C. §103. Of course, this
+reasoning applies equally to claims 1, 6-7, and 14-16 of the ‘155 patent.
+
+22
+
+Case 1:04-cv-02496-CM
+
+C.
+
+Document 77
+
+Filed 10/18/2005
+
+Page 27 of 28
+
+All the Asserted Claims of the ‘367 Patent Are Invalid
+Until Leighton added the greater than 10% limitation the Examiner of the ‘367 patent
+
+application rejected all the claims of that application and did not permit that application to issue
+as a patent. Since the claims prior to the addition of the greater than 10% limitation were not
+patentable and since the greater than 10% limitation did not add patentability for the reasons
+shown in the immediately preceding point, all the Asserted Claims of the ‘367 patent are invalid
+in view of the prior art under either 35 U.S.C. § 102 or 35 U.S.C. § 103. We demonstrate this
+claim by claim, element by element, in the claim charts of Appendix A.
+To the extent that any further motivation need be shown to justify combining the
+lamination cycle disclosed in the 1987 Oakwood Sales Brochure with the other prior art, among
+other places it is found in the legend of the pressure/temperature diagram. That legend states
+“Typical Lamination Cycle[] … P.V.C. … Cycle Curves” and would motivate a person of
+ordinary skill in the art to use the illustrated cycle to laminate plastic (PVC) cards.
+
+23
+
+Case 1:04-cv-02496-CM
+
+IV.
+
+Document 77
+
+Filed 10/18/2005
+
+Page 28 of 28
+
+CONCLUSION
+
+Oberthur respectfully requests that the Court find that each of the Asserted Claims are
+invalid pursuant to 35 U.S.C. § 102 or § 103 in view of the prior art.
+Dated:
+
+New York, New York
+October 18, 2005
+BAKER & McKENZIE LLP
+______/S/__________________
+By: James David Jacobs (JJ-7351)
+Attorneys for Oberthur Card Systems, S.A.
+805 Third Avenue
+New York, New York 10022
+(212) 751-5700
+
+Of Counsel:
+Frank M. Gasparo
+Robert Busby
+Todd S. Sharinn
+
+24
+
+

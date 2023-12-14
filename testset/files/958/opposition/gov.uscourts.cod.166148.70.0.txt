@@ -1,0 +1,116 @@
+Case 1:16-cv-02495-MSK-MJW Document 70 Filed 10/20/17 USDC Colorado Page 1 of 4
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF COLORADO
+Civil Action No. 1:16-cv-02495-MSK-MJW
+NATIONWIDE TELECOM INCORPORATED,
+Plaintiff,
+v.
+DOLLAR PHONE CORP.
+Defendant.
+
+RESPONSE IN OPPOSITION TO MOTION FOR RECONSIDERATION
+
+Plaintiff Nationwide Telecom Incorporated (“Nationwide”), through its undersigned
+counsel, opposes Defendant’s Motion for Reconsideration (ECF no. 66) (“Motion”) and states as
+follows:1
+1. On September 18, 2017, the Court issued its Order denying Defendant Dollar Phone
+Corp.’s (“Dollar Phone”) Motion to Dismiss and Alternative Motion to Transfer the Case
+(“Order,” ECF no. 65).
+2. Among other things, the Court found it had specific jurisdiction. (Order at 7-8.)
+3. The Court found that Dollar Phone purposely directed traffic to Nationwide’s IP
+addresses, which the Court concluded were controlled by equipment such as a wholesale switch
+
+1
+
+Plaintiff has submitted an Unopposed Motion for Leave to File Late Response In Opposition to
+Motion for Reconsideration, respectfully seeking leave to submit this response one day late (ECF
+no. 69).
+
+Case 1:16-cv-02495-MSK-MJW Document 70 Filed 10/20/17 USDC Colorado Page 2 of 4
+
+that the Court presumed was located in Colorado. (Id. at 7.)
+4. Dollar Phone now asks the Court to reconsider its Order because, it claims, Nationwide’s
+physical wholesale switch is located in Los Angeles, California.2
+5. Defendant’s argument as to the physical location of the switches is overly simplistic and
+fails to explain away the other connections between its actions and the forum state.
+6. While it is true that part of Nationwide’s telecommunications operations are located in
+Los Angeles, including part of its wholesale switch infrastructure, its core physical operations
+are located in Denver, Colorado. See generally Affidavit of Omid Shekarchian, attached hereto.
+7. Plaintiff’s business is unquestionably tied to Colorado. See id. ¶¶ 3-6, 8, 13.
+8. Nationwide stores its physical components in multiple locations, including Los Angeles,
+in order to create redundancy in its telecommunication system. Id. ¶¶ 8-9, 12-13.
+9. There is no significance to the physical location of the IP address of the switch. Today,
+all you need is an IP address to send a call to a switch, which can be located anywhere in the
+country and connected to anywhere in the country. Id. ¶ 12, 14.
+10. Moreover, even if the Court were to agree with Defendant that the wholesale switch
+components were located in Los Angeles, Defendant does not explain why that should change
+the ultimate result of the Court’s determination on the Motion to Dismiss, given that other
+relevant IP addresses were registered in Colorado. 3 See Shekarchian Aff. ¶¶ 18, 21.
+
+2
+
+The Motion to Reconsider and accompanying affidavit does not challenge the Court’s holding
+that the contact was purposeful, that injuries were felt in Colorado, or that jurisdiction in
+Colorado would not offend notions of fair play and substantial justice. (ECF no. 65 at 7-8.)
+3
+
+Defendant’s argument that the switches are located in California does not square with its
+argument that New York should have jurisdiction—or at least venue—over the case. See
+generally Motion to Dismiss and Alternative Motion to Transfer the Case (ECF no. 20).
+
+Case 1:16-cv-02495-MSK-MJW Document 70 Filed 10/20/17 USDC Colorado Page 3 of 4
+
+11. IP addresses are Internet addresses that do not demonstrate physical location or
+jurisdiction; however, an IP address has a registered owner with a physical address. Id. ¶¶ 19-20.
+12. The trunk IPs addresses that were the final point terminating the long distance calls at
+issue in this case are all registered to CenturyLink in Denver, Colorado.4 Id. ¶ 18, 21.
+13. Defendant, through conducting a traceroute, would be able to identify the end point IP
+address as being located in Denver, CO. Id. ¶¶ 15-17; Shrader v. Biddinger, 633 F.3d 1235,
+1245 (10th Cir. 2011) (distinguishing case where defendant had no indication that plaintiff’s
+business was tied to a particular forum state and case where forum state was unquestionably the
+center of plaintiff’s business activities).
+14. In short, Defendant has offered no compelling reason for the Court to revisit its finding
+that Colorado has specific jurisdiction over Defendant. For the reasons the Court stated in its
+original order, the Court has specific jurisdiction over Dollar Phone.
+WHEREFORE, Nationwide respectfully requests that the Court deny Dollar Phone’s
+Motion and grant such other and further relief is it deems just and proper in the premises.
+Dated this October 20, 2017.
+
+Respectfully submitted,
+s/Michael J. Davis
+Michael J. Davis (Colo. Bar #44287)
+DLG Law Group LLC
+4100 E. Mississippi Ave., Suite 420
+Denver, CO 80246
+Main (303) 758-5100
+Fax (330) 758-5055
+mdavis@dlglaw.net
+
+4
+
+The Amended Complaint alleges that Dollar Phone, without authorization, obtained access to
+Plaintiff’s T1 Trunk Line through improperly obtained IP addresses, which directed traffic to
+CenturyLink’s IP addresses and caused CenturyLink to bill Plaintiff over $65,000.00 dollars in
+telecommunication services that Plaintiff did not use. (ECF no. 17.)
+
+Case 1:16-cv-02495-MSK-MJW Document 70 Filed 10/20/17 USDC Colorado Page 4 of 4
+
+CERTIFICATE OF SERVICE
+The undersigned hereby certifies that on this 20th day of October, 2017, a true and correct copy
+of the foregoing RESPONSE IN OPPOSITION TO MOTION FOR RECONSIDERATION was
+served via ICCES on the following:
+Edward N. Gerwitz
+Bronstein, Gewirtz & Grossman LLC
+60 East 42nd Street, Suite 4000
+New York, NY 10165
+ATTORNEY FOR DOLLAR PHONE CORP.
+Lee M. Kutner
+Kutner Brinen, PC
+1660 Lincoln Street, Suite 1850
+Denver, CO 80264
+ATTORNEY FOR DOLLAR PHONE CORP.
+s/Michael J. Davis
+Michael J. Davis
+
+

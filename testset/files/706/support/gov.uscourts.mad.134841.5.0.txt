@@ -1,0 +1,750 @@
+Case 4:11-cv-10361-FDS Document 5
+
+Filed 05/16/11 Page 1 of 20
+
+UNITED STATES DISTRICT COURT
+DISTRICT OF MASSACHUSETTS
+
+BRETTA KARP on behalf of herself
+individually and all others similarly situated,
+Plaintiff,
+
+Civil Action No. 4:11-cv-10361-FDS
+
+v.
+CIGNA HEALTHCARE, INC.,
+Defendant.
+CONNECTICUT GENERAL LIFE INSURANCE COMPANY’S MEMORANDUM OF
+LAW IN SUPPORT OF MOTION TO DISMISS AND COMPEL ARBITRATION
+
+Case 4:11-cv-10361-FDS Document 5
+
+Filed 05/16/11 Page 2 of 20
+
+TABLE OF CONTENTS
+Page
+I.
+
+INTRODUCTION ........................................................................................................... 1
+
+II.
+
+FACTUAL BACKGROUND........................................................................................... 2
+
+III.
+
+A.
+
+The Parties’ Pleadings .......................................................................................... 2
+
+B.
+
+The Employee Handbook and Dispute Resolution Program Pleading.................... 2
+
+ARGUMENT................................................................................................................... 6
+A.
+
+B.
+IV.
+
+The FAA Mandates Enforcement of Plaintiff’s Agreement to Arbitrate ................ 6
+1.
+
+Plaintiff Entered Into a Valid Agreement with CGLIC .............................. 7
+
+2.
+
+CGLIC Is Entitled to Invoke the Arbitration Agreement, and
+Plaintiff Is Bound Thereby ........................................................................ 8
+
+3.
+
+The Complaint Is Within the Scope of the Arbitration Agreement ............. 9
+
+This Matter Cannot Proceed as a Class Action...................................................... 9
+
+CONCLUSION.............................................................................................................. 14
+
+-i-
+
+Case 4:11-cv-10361-FDS Document 5 Filed 05/16/11 Page 3 of 20
+TABLE OF AUTHORITIES
+Page
+CASES
+AT&T Mobility LLC v. Concepcion,
+--- S. Ct. --, 2011 WL 1561956 (U.S. Apr. 27, 2011).................................................... passim
+Anderson v. Comcast Corp.,
+500 F.3d 66 (1st Cir. 2007) ................................................................................................. 10
+Banus v. Citigroup Global Markets, Inc.,
+No. 09 Civ. 7128, 2010 U.S. Dist. LEXIS 40072 (S.D.N.Y. Apr. 23, 2010) ........................ 13
+Bercovitch v. Baldwin Sch., Inc.,
+133 F.3d 141 (1st Cir. 1998) ................................................................................................. 6
+Boateng v. Gen'l Dynamics Corp.,
+473 F. Supp. 2d 241 (D. Mass. 2007) ............................................................................ 7, 8, 9
+Bonnano v. Quizno's Franchise Co., LLC,
+No. 06-cv-02358, 2009 U.S. Dist. LEXIS 37702 (D. Colo. Apr. 20, 2009).......................... 13
+Campbell v. Gen'l Dynamics Corp.,
+407 F.3d 546 (1st Cir. 2005) ................................................................................................. 7
+Circuit City Stores, Inc. v. Adams,
+532 U.S. 105 (2001).............................................................................................................. 1
+Deluca v. Bear Stearns & Co.,
+175 F. Supp. 2d 102 (D. Mass. 2001) .................................................................................... 8
+Discover Bank v. Superior Court,
+113 P.3d 1100 (Cal. 2005) .................................................................................................. 12
+Ellerbee v. Gamestop, Inc.,
+604 F. Supp. 2d 349 (D. Mass. 2009) ................................................................................ 7, 9
+Feeney v. Dell, Inc.,
+454 Mass. 192 (2009) ................................................................................................... 11, 13
+Gonzalez v. GE Grp. Admin'rs, Inc.,
+321 F. Supp. 2d 165 (D. Mass. 2004) ................................................................................ 8, 9
+Green v. SuperShuttle International, Inc.,
+Civil No. 09-2129, 2010 U.S. Dist. LEXIS 95235 (D. Minn. Sept. 13, 2010) ...................... 11
+Jock v. Sterling Jewelers, Inc.,
+725 F. Supp. 2d 444 (S.D.N.Y. 2010).................................................................................. 11
+
+ii
+
+Case 4:11-cv-10361-FDS Document 5 Filed 05/16/11 Page 4 of 20
+TABLE OF AUTHORITIES
+(continued)
+Page
+Kristian v. Comcast Corp.,
+446 F.3d 25 (1st Cir. 2006) ................................................................................10, 11, 12, 13
+Moses H. Cone Mem'l Hospital v. Mercury Construction Corp.,
+460 U.S. 1 (1983).................................................................................................................. 9
+Pomposi v. Gamestop, Inc.,
+No. 3:09-cv-340, 2010 WL 147196 (D. Conn. Jan. 11, 2010)........................................ 11, 13
+Powershare, Inc. v. Syntel, Inc.,
+597 F.3d 10 (1st Cir. 2010) ................................................................................................... 6
+Reid v. Supershuttle International, Inc.,
+No. 08-CV-4854, 2010 U.S. Dist. LEXIS 26831 (E.D.N.Y. Mar. 22, 2010) ........................ 13
+Skirchak v. Dynamics Research Corp.,
+508 F.3d 49 (5th Cir. 2007)................................................................................................. 10
+Soto-Alvarez v. Apartment Investment & Management Co.,
+561 F. Supp. 2d 228 (D.P.R. 2008) ....................................................................................... 8
+Soto v. State Chemical Sales Co. International, Inc.,
+719 F. Supp. 2d 189 (D.P.R. 2010) ....................................................................................... 8
+Stolt-Nielsen S.A. v. AnimalFeeds International Corp.,
+130 S. Ct. 1758 (2010) ........................................................................................................ 10
+Vilches v. The Travelers Co., Inc.,
+No. 10-2888, 2011 WL 453304 (3d Cir. Feb. 9, 2011) ........................................................ 11
+Warfield v. Beth Israel Deaconness Medical Ctr.,
+454 Mass. 390 (2009) ....................................................................................................... 1, 2
+STATUTES
+9 U.S.C. § 1, et seq ..................................................................................................................... 6
+9 U.S.C. § 4 ............................................................................................................................. 1
+15 U.S.C. § 7001(a) .................................................................................................................... 8
+42 U.S.C. § 1981a..................................................................................................................... 13
+RULES
+Fed. R. Civ. P. 12(b)(1) ........................................................................................................ 1, 14
+
+iii
+
+Case 4:11-cv-10361-FDS Document 5
+
+Filed 05/16/11 Page 5 of 20
+
+Defendant Connecticut General Life Insurance Company1 (“CGLIC” or “the Company”),
+by its undersigned counsel, hereby submits this memorandum of law in support of its Motion to
+Compel Arbitration pursuant to 9 U.S.C. § 4, and dismiss this action pursuant to Fed. R. Civ. P.
+12(b)(1).
+I.
+
+INTRODUCTION
+Plaintiff Bretta Karp (“Plaintiff”) brings this purported class action under Title VII of the
+
+Civil Rights Act and M.G.L. c. 151B, the Massachusetts anti-discrimination law. Plaintiff
+alleges that CGLIC subjected her and an unspecified number of current and former female
+employees to gender discrimination. Plaintiff’s Class Action Complaint (“Complaint”) ¶¶ 3, 20.
+In 1998, and then again in 2005, Plaintiff executed an arbitration agreement with CGLIC
+in which she explicitly agreed to submit employment claims to final, binding arbitration,
+including specifically claims arising under Title VII and its state-law analogues (i.e., M.G.L. c.
+151B). The Company’s arbitration policy and its arbitration rules and procedures also include a
+class or collective action waiver and, therefore, require Plaintiff to proceed to arbitration on an
+individual basis only. Despite agreeing to binding arbitration, including a class action waiver, as
+a term and condition of her employment, Plaintiff filed the instant action and purports to bring a
+putative class action in breach of her agreement.
+The Federal Arbitration Act (“FAA”) and Supreme Court precedent mandate that
+arbitration agreements be enforced according to their terms, AT&T Mobility LLC v.
+Concepcion, --- S. Ct. ---, No. 09-0893, 2011 WL 1561956, at *4 (U.S. Apr. 27, 2011), and
+claims under both Title VII and c. 151B are arbitrable. See, e.g., Circuit City Stores, Inc. v.
+Adams, 532 U.S. 105, 122-23 (2001); Warfield v. Beth Israel Deaconness Med. Ctr., 454 Mass.
+
+1
+
+Plaintiff’s employer, CGLIC, is incorrectly identified as “Cigna Healthcare, Inc.” in the Complaint.
+
+1
+
+Case 4:11-cv-10361-FDS Document 5
+
+Filed 05/16/11 Page 6 of 20
+
+390, 395 (2009). Accordingly, CGLIC respectfully requests that the Court compel arbitration of
+Plaintiff’s individual claims because Plaintiff and the Company entered into a binding arbitration
+agreement and Plaintiff’s claims fall within the scope of that agreement. Furthermore, because
+Plaintiff’s arbitration agreement explicitly precludes her from bringing class, collective or
+representative actions, she is required to arbitrate her claims individually, and not on a class
+basis.
+II.
+
+FACTUAL BACKGROUND
+A.
+
+The Parties’ Pleadings
+
+In June 1997, CGLIC hired Plaintiff as a Director of Contracting.
+
+Declaration of
+
+Marjorie Stein (“Stein Decl.”) ¶ 18. Plaintiff has held management positions throughout her
+tenure at CGLIC, and currently oversees three “direct reports” and has five other employees who
+indirectly report to her.2
+
+Compl. ¶¶ 56-59, 63-64.
+
+Her job duties include analyzing and
+
+negotiating contracts that govern the rates and terms of CGLIC’s payments to its network
+providers. Id. ¶ 63. Plaintiff also has a Masters of Business Administration degree. Id. ¶ 57.
+Her current annual salary is $153,169.14. Stein Decl. ¶ 25. In March 2011, Plaintiff received a
+bonus payment in the amount of $43,743. Id.
+CGLIC is a subsidiary entity that is ultimately owned by CIGNA Corporation. Stein
+Decl. ¶¶ 4-5.
+
+Plaintiff has never been employed by CIGNA Healthcare, Inc., the named
+
+defendant. Id. ¶¶ 4-5, 18.
+B.
+
+The Employee Handbook and Dispute Resolution Program Pleading
+
+In February 1998, the Company provided Plaintiff with copies of its employment
+policies, including a copy of its Employment Dispute Arbitration Policy then in effect. Id. ¶ 19.
+Plaintiff acknowledged receipt of such on February 17, 1998. Id., Exh. F.
+2
+
+CIGNA assumes the truth of the allegations in the Complaint for purposes of this motion only.
+
+2
+
+Case 4:11-cv-10361-FDS Document 5
+
+Filed 05/16/11 Page 7 of 20
+
+Thereafter, in November 2005, CIGNA distributed an updated Employee Handbook (the
+“Employee Handbook”) to the employees of CIGNA Corporation affiliated entities, including
+CGLIC. Id. ¶¶ 6-7. The Employee Handbook describes the Company’s Employment Dispute
+Resolution Program (“EDRP”).
+
+The EDRP consists of two processes—an internal dispute
+
+resolution component through which employees can raise concerns about a broad range of
+workplace issues, and an external component that requires employees to arbitrate specified
+employment-related disputes that arise between the employee and the Company. Id. ¶¶ 8-10.
+The Employee Handbook makes clear that, by accepting employment, compensation
+and/or benefits from a CIGNA Company (including CGLIC), an individual agrees to arbitrate
+“serious employment-related disagreements” between himself or herself and the Company, as a
+term and condition of employment. Id. ¶ 10, Exh. A at 25-26. The Employee Handbook also
+identifies the types of disputes that the arbitration policy covers, including, but not limited to,
+employment discrimination claims under Title VII and corollary state statutes, and directs
+employees to the Company’s Employment Dispute Arbitration Policy (the “Arbitration Policy”)
+and Employment Dispute Arbitration Rules and Procedures (the “Rules and Procedures”). Id.
+C.
+
+The Arbitration Policy and Rules and Procedures
+
+Pursuant to the Arbitration Policy, “arbitration by a neutral third-party is the required and
+final means for the resolution of any employment related legal claim not resolved by the CIGNA
+Companies’ internal dispute resolution process.” Stein Decl., Exh. B at 1. This agreement to
+arbitrate is a “term and condition of the employment relationship between an employee and the
+Company.” Id.
+The Arbitration Policy explicitly applies to “claims, demands, disputes, controversies or
+actions under Title VII of the Civil Rights Act of 1964 . . . and any other federal, state or local
+
+3
+
+Case 4:11-cv-10361-FDS Document 5
+
+Filed 05/16/11 Page 8 of 20
+
+statute, regulation, ordinance, or common law doctrine, regarding employment discrimination,
+retaliation, . . . [or] conditions of employment.” Id. at 2. Both the Arbitration Policy and the
+Rules and Procedures clearly and explicitly prohibit class or collective actions:
+No class-wide arbitrations are allowed under the CIGNA Companies’
+Employment Dispute Arbitration Policy or the Rules and Procedures. The
+arbitrator has no jurisdiction to certify any group of current or former employees,
+or applicants for employment, as a class in any arbitration proceeding.
+***
+Each party seeking resolution of its, his or her claims pursuant to an agreement to
+arbitrate under these Rules and Procedures must proceed individually. There shall
+be no class or representative actions permitted. An Arbitrator shall have no
+authority to hear claims of or award damages to any person or entity who has not
+initiated arbitration and selected an arbitrator in accordance with these Rules and
+Procedures. Also, an arbitrator shall not have authority to consolidate claims or
+consider individual claims collectively on the ground that such actions promote
+efficiency or that the individual damages may be too small to proceed
+economically, except when there is an express agreement between the Company
+and the employees in writing, or on the stenographic record of the particular
+arbitration proceeding for which the agreement to proceed collectively is made.
+See Stein Decl., Exh. B at 3 (Arbitration Policy); Exh. C at 2 (Rules and Procedures).
+Finally, the Rules and Procedures provide for a series of processes that permit employees,
+including Plaintiff, to pursue their individual claims in arbitration and obtain the same individual
+relief they could obtain in a court of law, including, inter alia:
+•
+
+Applying the same statute(s) of limitations applicable to claims brought in court;
+
+•
+
+company payment of arbitration costs (except for a modest filing fee and expenses
+for depositions taken by the employee);
+
+•
+
+the opportunity to be represented by counsel;
+
+•
+
+requiring that the arbitrator be a neutral party, and be knowledgeable and
+experienced in employment law and the resolution of employment disputes;
+
+•
+
+the opportunity to select an arbitrator under the American Arbitration
+Association’s (“AAA”) struck panel method;
+
+4
+
+Case 4:11-cv-10361-FDS Document 5
+
+Filed 05/16/11 Page 9 of 20
+
+•
+
+requiring the arbitrator to follow applicable statutory and case law;
+
+•
+
+requiring the arbitrator to apply the same burdens of proof applicable under
+federal, state, or local law;
+
+•
+
+empowering the arbitrator to award all equitable and legal remedies that would be
+available in court under applicable law, including an award of attorney fees to a
+prevailing plaintiff, as provided by law;
+
+•
+
+the opportunity for discovery, including depositions and the exchange of
+documents and exhibits;
+
+•
+
+requiring a written decision setting forth the arbitrator’s reasoning; and
+
+•
+
+the opportunity for judicial review and confirmation in accordance with the FAA.
+
+See id. ¶ 16, Exh. C.
+D.
+
+Plaintiff Accepted and Agreed to CGLIC’s Arbitration Policy
+
+At the time the Company updated the Employee Handbook in November 2005, it
+circulated to all employees a web page that contained a hyperlink to an Affirmation Form. Stein
+Decl. ¶ 20. All employees (including Plaintiff) were required, as a term and condition of
+employment, to complete the Affirmation Form and assent to the terms set forth in the Employee
+Handbook by typing their full name in a blank box and clicking a button denoted “Yes.” Id. ¶
+21. Once an employee clicked on the “Yes” button, the full name, time, and date of the
+employee’s act was electronically memorialized. Id.
+The Company’s electronic records reflect that Plaintiff executed the Affirmation Form on
+November 22, 2005 at 8:22:19 a.m. Id. ¶ 22. By electronically executing the Affirmation Form,
+Plaintiff acknowledged, in pertinent part:
+I acknowledge that I have received or reviewed the updated (November 2005)
+CIGNA Employee Handbook, which outlines the policies that are available and
+applicable to all of the CIGNA companies’ employees.
+***
+
+5
+
+Case 4:11-cv-10361-FDS Document 5
+
+Filed 05/16/11 Page 10 of 20
+
+I agree any dispute between CIGNA and me arising out of or relating to my
+candidacy for employment, employment, or termination of employment with
+CIGNA (with the exception of workers compensation claims ERISA claims and
+administrative agency charges) shall be resolved under CIGNA’s Employment
+Dispute Arbitration Program which includes final mandatory binding arbitration.
+***
+I understand that any such Arbitration will be conducted pursuant to the CIGNA
+Employee Dispute Arbitration Rules and Procedures in effect at the time such
+arbitration is commenced.
+Id. ¶ 23, Exh. G.
+III.
+
+ARGUMENT
+Notwithstanding Plaintiff’s express agreement to arbitrate her individual employment
+
+claims on a non-class basis, including specifically claims under Title VII and state statutes
+governing employment discrimination (such as c. 151B), she filed the instant putative class
+action on March 4, 2011. Through this motion, CGLIC seeks to enforce its contractual rights
+and compel Plaintiff to arbitrate her individual claims on a non-class basis and dismiss the
+proceedings in this Court.
+A.
+
+The FAA Mandates Enforcement of Plaintiff’s Agreement to Arbitrate
+
+The FAA was enacted “in response to widespread judicial hostility to arbitration
+agreements.” AT&T Mobility, 2011 WL 1561956, at *4. It requires courts to enforce arbitration
+agreements, reflecting the federal policy strongly favoring arbitration as a method of alternative
+dispute resolution. 9 U.S.C. § 1, et seq.; see AT&T Mobility, 2011 WL 1561956, at *8 (“[T]he
+‘principal purpose’ of the FAA is to ‘ensure[e] that private arbitration agreements are enforced
+according to their terms.’”); Powershare, Inc. v. Syntel, Inc., 597 F.3d 10, 15 (1st Cir. 2010)
+(“federal law undeniably includes a policy favoring arbitration”); Bercovitch v. Baldwin Sch.,
+Inc., 133 F.3d 141, 148 (1st Cir. 1998) (“questions of arbitrability must be addressed with a
+healthy regard for the federal policy favoring arbitration”).
+
+6
+
+Case 4:11-cv-10361-FDS Document 5
+
+Filed 05/16/11 Page 11 of 20
+
+“In line with these principles, courts must place arbitration agreements on equal footing
+with other contracts and enforce them according to their terms.” AT&T Mobility, 2011 WL
+1561956, at *5 (citations omitted). The First Circuit applies a four-part test to determine whether
+to enforce an arbitration agreement. The party seeking arbitration must prove that (1) a valid
+agreement to arbitrate exists; (2) the party is entitled to invoke the arbitration clause; (3) the nonmoving party is bound by the arbitration clause; and (4) the claim asserted comes within the
+clause’s scope. Campbell v. Gen’l Dynamics Corp., 407 F.3d 546, 552 (1st Cir. 2005). Each of
+these requirements is satisfied in this case.
+1.
+
+Plaintiff Entered Into a Valid Agreement with CGLIC
+
+For the “validity” inquiry, courts generally “apply ordinary state-law principles that
+govern the formation of contracts.” Boateng v. Gen’l Dynamics Corp., 473 F. Supp. 2d 241,
+247-248 (D. Mass. 2007). “The essential question is whether Plaintiff accepted the arbitration
+agreement,” and whether she “entered into a valid, enforceable agreement to arbitrate [her]
+claims.” Ellerbee v. Gamestop, Inc., 604 F. Supp. 2d 349, 354 (D. Mass. 2009).
+In this context, an employer has the “relatively light burden” of showing that it provided
+“some minimal level of notice sufficient to apprise [plaintiff] that continued employment would
+effect a waiver of the right to pursue the claim in a judicial forum.” Campbell, 407 F.3d at 555;
+Ellerbee, 604 F. Supp. 2d at 354 (“Plaintiff’s continued employment constitutes adequate
+consideration for the [arbitration] contract.”).
+There is undoubtedly a valid agreement here. As early as February 1998, Plaintiff
+acknowledged receipt of, and agreed to be bound by, CGLIC’s arbitration policy then in effect.
+Stein Decl. ¶ 19. In November 2005, Plaintiff was provided a copy of the updated Employee
+Handbook. Id. ¶¶ 7, 20-22. Both the Employee Handbook and the Arbitration Policy referenced
+therein state in no uncertain terms that, by accepting employment, compensation or benefits from
+
+7
+
+Case 4:11-cv-10361-FDS Document 5
+
+Filed 05/16/11 Page 12 of 20
+
+the Company, an employee agrees to arbitrate employment-related disputes, including
+employment discrimination claims arising under Title VII and state law corollary statutes. Id. ¶¶
+10, 13; Exh. A at 25-26, Exh. B at 1-2. At the same time that Plaintiff received the updated
+Employee Handbook, she reviewed and executed an electronic Affirmation Form. Id. ¶ 22. By
+clicking “Yes” on this Affirmation Form, Plaintiff expressly agreed that any disputes arising out
+of her employment would be resolved in final, mandatory binding arbitration governed by the
+Rules and Procedures in effect at the time arbitration commences. Id. ¶ 23, Exh. G. The
+Arbitration Policy and the Rules and Procedures also expressly prohibit class or representative
+actions. Id. ¶¶ 13, 15; Exhs. B and C.
+Against this factual backdrop, there can be no legitimate dispute that Plaintiff—an
+experienced manager and MBA recipient whose job involves analyzing and negotiating
+contracts—entered into a binding agreement with CGLIC to submit her individual claims like
+those presented in the Complaint to arbitration. See Boateng, 473 F. Supp. 2d at 248-49 (valid
+arbitration agreement existed where plaintiff's execution of agreement was a condition of her
+employment and defendant demonstrated that plaintiff received agreement and executed
+acknowledgement form); Gonzalez v. GE Grp. Admin’rs, Inc., 321 F. Supp. 2d 165, 169 (D.
+Mass. 2004) (arbitration agreement was valid where plaintiff was notified of agreement and
+signed acknowledgement form indicating he understood its terms); Deluca v. Bear Stearns &
+Co., 175 F. Supp. 2d 102, 115-16 (D. Mass. 2001) (arbitration agreement was valid where
+plaintiff was a sophisticated businesswoman with a college degree and was given an opportunity
+to consider the terms of the agreement); see also 15 U.S.C. § 7001(a) (electronic execution of an
+agreement is valid).
+
+8
+
+Case 4:11-cv-10361-FDS Document 5
+
+2.
+
+Filed 05/16/11 Page 13 of 20
+
+CGLIC Is Entitled to Invoke the Arbitration Agreement, and Plaintiff
+Is Bound Thereby
+
+While there is little case law discussing the second or third Campbell requirements, they
+are certainly met here. The Employee Handbook and the Arbitration Policy expressly apply to
+CGLIC, meaning CGLIC may invoke those provisions. See Soto v. State Chem. Sales Co. Int’l,
+Inc., 719 F. Supp. 2d 189, 194 (D.P.R. 2010) (finding that employer was entitled to invoke
+arbitration agreement because it was a party to agreement); Soto-Alvarez v. Apartment Inv. &
+Mgmt. Co., 561 F. Supp. 2d 228, 231 (D.P.R. 2008) (same).
+
+Likewise, because Plaintiff
+
+electronically executed the Affirmation Form, she is bound by it. Id. Accordingly, these two
+Campbell requirements are satisfied.
+3.
+
+The Complaint Is Within the Scope of the Arbitration Agreement
+
+Finally, the allegations in the Complaint unquestionably fall within the scope of the
+parties’ arbitration agreement. As set forth in the Employee Handbook and Arbitration Policy,
+Plaintiff agreed to arbitrate “serious employment-related disagreements and problems,” defined
+to include, in pertinent part, “claims, demands, disputes, controversies or actions under Title VII
+of the Civil Rights Act of 1964 . . . and any other federal, state or local statute, regulation,
+ordinance, or common law doctrine, regarding employment discrimination, retaliation, ... [or]
+conditions of employment.” Stein Decl. ¶¶ 10, 13; Exh. A at 25-26, Exh. B at 1-2.
+In the Complaint, Plaintiff asserts claims under Title VII and M.G.L. c. 151B, a “state . .
+. statute . . . regarding employment discrimination,” and thus the claims asserted are squarely
+within the scope of the Arbitration Policy. See Ellerbee, 604 F. Supp. 2d at 352-53 (arbitration
+agreement that defined “Covered Claims” to include discrimination claims applied to action
+under c. 151B); Gonzalez, 321 F. Supp. 2d at 170-71 (Title VII and c. 151B within the scope of
+an arbitration agreement that specifically identified employment discrimination claims as
+
+9
+
+Case 4:11-cv-10361-FDS Document 5
+
+Filed 05/16/11 Page 14 of 20
+
+arbitrable); see also Boateng, 473 F. Supp. 2d at 247 (“any doubts concerning the scope of
+arbitrable issues should be resolved in favor of arbitration”) (quoting Moses H. Cone Mem'l
+Hosp. v. Mercury Constr. Corp., 460 U.S. 1, 24-25 (1983)).
+Because the claims in the Complaint fall within the scope of a valid arbitration
+agreement, CGLIC respectfully requests that the Court compel Plaintiff to arbitrate her
+individual claims.
+B.
+
+This Matter Cannot Proceed as a Class Action
+
+The Supreme Court recently held that when an arbitration agreement is governed by the
+FAA (as is the one at issue here), class wide arbitration is forbidden unless it is explicitly
+permitted under the agreement. Stolt-Nielsen S.A. v. AnimalFeeds Int’l Corp., 130 S.Ct. 1758,
+1776 (2010). Here, the Arbitration Policy and the Rules and Procedures not only fail to permit
+class arbitration, but both expressly and unequivocally prohibit this case from proceeding as a
+class action. As set forth in the Arbitration Policy:
+No class-wide arbitrations are allowed under the CIGNA Companies’
+Employment Dispute Arbitration Policy or the Rules and Procedures. The
+arbitrator has no jurisdiction to certify any group of current or former employees,
+or applicants for employment as a class in any arbitration proceeding.
+Stein Decl. ¶ 13, Exh. B at 1-2 (Arbitration Policy) (emphasis added).
+Similarly, the Rules and Procedures state the following, in pertinent part:
+Each party seeking resolution of its, his or her claims pursuant to an agreement to
+arbitrate under these Rules and Procedures must proceed individually. There shall
+be no class or representative actions permitted. An Arbitrator shall have no
+authority to hear claims of or award damages to any person or entity who has not
+initiated arbitration and selected an arbitrator in accordance with these Rules and
+Procedures. Also, an arbitrator shall not have authority to consolidate claims or
+consider individual claims collectively on the ground that such actions promote
+efficiency or that the individual damages may be too small to proceed
+economically, except when there is an express agreement between the Company
+and the employees in writing, or on the stenographic record of the particular
+arbitration proceeding for which the agreement to proceed collectively is made.
+
+10
+
+Case 4:11-cv-10361-FDS Document 5
+
+Filed 05/16/11 Page 15 of 20
+
+Id. ¶ 15, Exh. C (Rules and Procedures); see also Exh. D.
+This plain language controls and precludes Plaintiff from pursuing her claims on a class
+basis.3 As the Supreme Court made clear in AT&T Mobility, “[t]he overarching purpose of the
+FAA . . . is to ensure the enforcement of arbitration agreements according to their terms so as to
+facilitate streamlined proceedings.” 2011 WL 1561956, at *8. In contrast to arbitration on an
+individual basis, “[a]rbitration is poorly suited to the higher stakes of class litigation.” Id. at *12.
+Here, the Arbitration Policy and Rules and Procedures recognize this reality. By their express
+terms, they both prohibit the type of class claims Plaintiff purports to assert in the Complaint.
+Because fidelity to the terms of an arbitration agreement is the paramount concern of the FAA,
+this case cannot proceed as a class action. Id. at *8; see also Vilches v. The Travelers Co., Inc.,
+No. 10-2888, 2011 WL 453304, at *4-6 (3d Cir. Feb. 9, 2011) (finding collective action waiver
+of FLSA claims in arbitration policy enforceable); Jock v. Sterling Jewelers, Inc., 725 F. Supp.
+2d 444, 449-50 (S.D.N.Y. 2010) (arbitration in an employment discrimination case could not
+proceed as a class action where agreement was silent as to class arbitration and there was no
+evidence that parties intended to arbitrate class claims); Green v. SuperShuttle Int’l, Inc., Civil
+No. 09-2129, 2010 U.S. Dist. LEXIS 95235, at *7-9 (D. Minn. Sept. 13, 2010) (enforcing class
+arbitration waiver in FLSA case where plain language of arbitration agreement precluded class
+claims); Pomposi v. Gamestop, Inc., No. 3:09-cv-340, 2010 WL 147196, at *4, *6-8 (D. Conn.
+Jan. 11, 2010) (same).
+3
+
+Whether the arbitration agreement forbids class arbitration must be decided by this Court, not the arbitrator.
+When there is no ambiguity as to the class prohibition in the arbitration agreement, the question of whether
+that clause “may be enforced under the FAA is for the court.” Skirchak v. Dynamics Research Corp., 508
+F.3d 49, 56 (5th Cir. 2007); compare Kristian v. Comcast Corp., 446 F.3d 25, 53-54 (decision was for the
+court “because of the clarity of the prohibition against class arbitration”) with Anderson v. Comcast Corp.,
+500 F.3d 66, 72 (1st Cir. 2007) (ambiguity as to the term “unless your state’s laws provide otherwise” in
+class arbitration clause was for arbitrator to resolve). The class bar here is clear, and brooks no
+uncertainties or exceptions: “No class-wide arbitrations are allowed.” The issue is therefore ripe for
+decision now, in this Court.
+
+11
+
+Case 4:11-cv-10361-FDS Document 5
+
+Filed 05/16/11 Page 16 of 20
+
+Plaintiff may attempt to circumvent the plain language of the Arbitration Policy and the
+Rules and Procedures by relying upon two decisions in the consumer class action context that
+pre-date the Supreme Court’s recent decision in AT&T Mobility—Kristian v. Comcast Corp.,
+446 F.3d 25 (1st Cir. 2006) and Feeney v. Dell, Inc., 454 Mass. 192 (2009). AT&T Mobility,
+however, abrogates both decisions, thus rendering their holdings inapplicable here. Moreover,
+even if AT&T Mobility had not been decided, Kristian and Feeney are inapposite because the
+policy rationale behind those cases does not exist in the employment context.
+In AT&T Mobility, the respondents were consumers who alleged that AT&T violated
+California consumer protection statutes by charging sales tax on mobile phones that had been
+advertised as free. The respondents’ contract with AT&T—like Plaintiff’s agreement to arbitrate
+in this case—provided for arbitration of all disputes between the parties, but did not permit
+classwide arbitration. AT&T Mobility, 2011 WL 1561956, at *2. The agreement between the
+parties also authorized AT&T to make unilateral amendments to the contract, which it did on
+several occasions. Id. Relying on the California Supreme Court’s decision in Discover Bank v.
+Superior Court, 113 P.3d 1100 (Cal. 2005), the District Court found the arbitration provision was
+unconscionable because AT&T had not shown that individual arbitration adequately substituted
+for the deterrent effects of class actions.4 The Ninth Circuit affirmed the District Court’s denial
+of AT&T’s motion to compel arbitration.
+In reversing the Ninth Circuit, the Supreme Court noted that “[r]equiring the availability
+of classwide arbitration interferes with fundamental attributes of arbitration and thus creates a
+scheme inconsistent with the FAA.” Id. Relying in large part on the fundamental principle that
+4
+
+In Discover Bank, the California Supreme Court held that class action waivers in consumer arbitration
+agreements are unconscionable in cases that involved adhesion contracts, nominal amounts of damages,
+and allegations of consumer fraud because such waivers, in violation of California law, effectively permit a
+defendant to exculpate itself against its own fraud. Discover Bank, 113 P.3d at 1110.
+
+12
+
+Case 4:11-cv-10361-FDS Document 5
+
+Filed 05/16/11 Page 17 of 20
+
+the FAA requires courts to enforce arbitration agreements according to their terms, the Supreme
+Court held that the FAA preempted the ruling in Discover Bank that California unconscionability
+law is a generally applicable defense to contract formation.
+The Supreme Court’s decision in AT&T Mobility makes it clear that it is impermissible
+to create categorical judicial and legal exceptions that trump parties’ contractual agreements to
+arbitrate. See 2011 WL 1561956, at *5 (arbitration agreements cannot be invalidated “by
+defenses that apply only to arbitration or that derive their meaning from the fact that an
+agreement to arbitrate is at issue”). This is precisely what the courts in Kristian and Feeney did
+when they relied on a “vindication of statutory rights” theory to strike down class arbitration
+waivers.5 The courts in Kristian and Feeney determined that, in light of the realities of antitrust
+and consumer class litigation (i.e., cases where there is a gross disparity between litigation costs
+and monetary recovery for individuals), a class arbitration waiver would effectively prohibit
+plaintiffs from bringing such claims. Kristian, 446 F.3d at 58-60; Feeney, 454 Mass. at 205.
+Unwilling to accept this outcome, the courts declined to enforce class arbitration bars on the
+basis that they effectively prevented the plaintiffs from vindicating their right to pursue antitrust
+claims, Kristian, 446 F.3d at 64, and violated the public policy of Massachusetts favoring class
+actions, Feeney, 454 Mass. at 205.
+
+Because Kristian and Feeney run contrary to AT&T
+
+Mobility, the holdings in those cases are inapplicable here.
+Moreover, the policy concerns underlying the courts’ decisions in Kristian and Feeney
+are absent in the employment discrimination context. Here, Plaintiff asserts claims under Title
+VII and M.G.L. c. 151B. Under both statutes, a claimant can obtain broad and substantial relief:
+
+5
+
+In ruling that the class arbitration bar was unenforceable, the First Circuit in Kristian stated that its holding
+was consistent with those of other courts, including the California Supreme Court’s decision in Discover
+Bank that the Supreme Court overturned in AT&T Mobility. Kristian, 446 F.3d at 59-60.
+
+13
+
+Case 4:11-cv-10361-FDS Document 5
+
+Filed 05/16/11 Page 18 of 20
+
+back pay, front pay, compensatory damages, punitive damages, statutory interest, and attorneys’
+fees and costs. While emotional distress, as well as compensatory and punitive damages under
+Title VII are limited to $300,000, potential front and back pay awards under that law are not
+limited. See 42 U.S.C. § 1981a. Moreover, damage awards under M.G.L. c. 151B are totally
+uncapped, even for emotional distress or punitive damages. See M.G.L. c. 151B, § 9. Thus, in
+sharp contrast to Kristian and Feeney, the recovery Plaintiff (or any similarly situated individual)
+might obtain under these laws is substantial, and a class action bar will have no recognizable
+effect on the vindication of Plaintiff’s rights.6
+
+6
+
+That an individual employment discrimination claimant (like Plaintiff) may obtain a large verdict is not just
+a matter of surmise; it is an empirical fact. A survey of 57 jury verdicts awarded since 2000 from this
+District Court and Massachusetts state courts show that the average verdict for an employment
+discrimination case is $848,253. See Defendant’s Request for Judicial Notice, submitted concurrently, at ¶
+1; Declaration of Sarah Green, Esq. (“Green Decl.”) at ¶¶ 3-10. This starkly contrasts with Kristian and
+Feeney, where the claimants could expect no more than a few hundred to a few thousand dollars; an
+amount so low that no single person or attorney would realistically bring a claim. See 446 F.3d at 58; 454
+Mass. at 204. Since “a plaintiff with a colorable $300,000 [or $800,000] claim [plus attorney fees on top of
+that] will undoubtedly find at least one lawyer willing to prosecute his case on a contingency basis” (Reid
+v. Supershuttle Int’l, Inc., No. 08-CV-4854 , 2010 U.S. Dist. LEXIS 26831, *9 (E.D.N.Y. Mar. 22, 2010)),
+an individual claimant can clearly vindicate her rights under the discrimination laws. See id.; Banus v.
+Citigroup Global Markets, Inc., No. 09 Civ. 7128, 2010 U.S. Dist. LEXIS 40072, *31 n.61 (S.D.N.Y. Apr.
+23, 2010) ($45,675 sufficiently large for claimant to vindicate her rights); Pomposi, 2010 U.S. Dist. LEXIS
+1819, at *18-23 ($11,000 amount in controversy); Bonnano v. Quizno’s Franchise Co., LLC, No. 06-cv02358, 2009 U.S. Dist. LEXIS 37702, *50-51 (D. Colo. Apr. 20, 2009) ($60,000 to $75,000 sufficient). In
+addition, private class actions are rarely part of the enforcement of c. 151B or Title VII. In 2009 alone,
+15,231 employment discrimination cases were filed nationally. See Request for Judicial Notice ¶ 2; Green
+Decl. ¶ 11. In this District, 1,746 employment discrimination cases were filed between 2000 and 2010.
+See Request for Judicial Notice ¶ 3; Green Decl. ¶¶ 12-15, Exh. A. Of these 1,746 cases, only 9 were
+brought as class actions – just 0.51 percent. See Request for Judicial Notice ¶ 5; Green Decl. ¶¶ 20-23.
+Further, of these, only 2 were actually certified. See id. This once more contrasts with Kristian and
+Feeney, which arose in the consumer rights milieu, where (given the small stakes) those pre-AT&T
+Mobility courts concluded that class actions are necessary. Statistics are illustrative here as well: of the
+1,073 class / collective actions filed in this District from 2000 to 2010, only 9 of these (less than 0.84%)
+were employment discrimination matters. See Request for Judicial Notice ¶¶ 4-5; Green Decl. ¶¶ 16-23,
+Exh. B.
+
+14
+
+Case 4:11-cv-10361-FDS Document 5
+
+IV.
+
+Filed 05/16/11 Page 19 of 20
+
+CONCLUSION
+For the foregoing reasons, CGLIC respectfully requests that the Court enforce the plain
+
+language of the Arbitration Policy, order that Plaintiff submit her Complaint to individual
+arbitration on a non-class basis and dismiss this action pursuant to Fed. R. Civ. P. 12(b)(1).
+Respectfully submitted,
+CONNECTICUT GENERAL LIFE
+INSURANCE COMPANY,
+By its attorneys,
+
+Dated: May 16, 2011
+
+/s/ David C. Casey
+David C. Casey (BBO No. 077260)
+Stephen T. Melnick (BBO No. 667323)
+LITTLER MENDELSON, P.C.
+One International Place, Suite 2700
+Boston, MA 02110
+Tel: 617.378.6000
+Fax: 617.737.0052
+dcasey@littler.com
+smelnick@littler.com
+
+15
+
+Case 4:11-cv-10361-FDS Document 5
+
+Filed 05/16/11 Page 20 of 20
+
+CERTIFICATE OF SERVICE
+I hereby certify that on this 16th day of May, 2011 the foregoing document was filed
+electronically through the ECF system, is available for viewing and downloading from the ECF
+system, will be sent electronically to the registered participants as identified on the Notice of
+Electronic Filing and paper copies will be sent to those indicated as non-registered participants.
+
+/s/ David C. Casey
+David C. Casey
+
+

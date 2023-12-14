@@ -1,0 +1,728 @@
+Case 1:09-cv-10215-NG Document 38
+
+Filed 10/25/10 Page 1 of 20
+
+UNITED STATES DISTRICT COURT
+DISTRICT OF MASSACHUSETTS
+
+NOROTOS, INC.,
+Plaintiff,
+
+Case No. 1:09-CV-10215-NG
+Hon. Nancy Gertner
+
+vs.
+OPS-CORE, INC.,
+Defendant.
+AND RELATED COUNTERCLAIM.
+
+OPPOSITION TO DEFENDANT'S MOTION FOR SUMMARY JUDGMENT AND
+SANCTIONS
+
+Infringement in this case turns on claim interpretation. When the claims are properly
+interpreted, Ops-Core's motion for summary judgment should be denied and Norotos's
+co-pending motion for summary judgment that Ops-Core has infringed at least claim 22 of the
+'810 Patent should be granted.
+
+Case 1:09-cv-10215-NG Document 38
+
+Filed 10/25/10 Page 2 of 20
+
+TABLE OF CONTENTS
+Page
+I.
+
+INTRODUCTION ............................................................................................................... 1
+
+II.
+
+STATEMENT OF FACTS .................................................................................................. 2
+
+III.
+
+SUMMARY OF ARGUMENT ........................................................................................... 5
+
+IV.
+
+ARGUMENT....................................................................................................................... 6
+A.
+
+V.
+
+The Claim Terms at Issue are Properly Interpreted to Cover an Assembly
+of the Recited Elements ........................................................................................... 6
+1.
+
+"Shroud plate" .............................................................................................. 7
+
+2.
+
+"Insert" ......................................................................................................... 9
+
+3.
+
+"Smooth with rounded edges and corners at the periphery"...................... 11
+
+B.
+
+Once Properly Interpreted, the Disputed Claim Language Literally Reads
+on the VAS Shroud as Used in its Intended Assembly.......................................... 12
+
+C.
+
+At the Very Least, the VAS Shroud as Used in its Intended Assembly
+Infringes Under the Doctrine of Equivalents ......................................................... 13
+
+D.
+
+Ops-Core and Others Are Direct Infringers........................................................... 14
+
+E.
+
+Ops-Core Contributes to and Induces Infringement .............................................. 14
+
+F.
+
+Sanctions on Norotos are Not Appropriate............................................................ 15
+
+CONCLUSION.................................................................................................................. 16
+
+-i-
+
+Case 1:09-cv-10215-NG Document 38
+
+Filed 10/25/10 Page 3 of 20
+
+TABLE OF AUTHORITIES
+Page(s)
+CASES
+Bicon, Inc. v. Straumann Co.,
+356 F. Supp. 2d 6 (D. Mass. 2005) ..................................................................................15
+Corning Glass Works v. Sumitomo Electric U.S.A., Inc.,
+868 F.2d 1251 (Fed. Cir. 1989)........................................................................................13
+E.I Du Pont de Nemoours & Co. v. Phillips Petroleum Co.,
+849 F.2d 1430 (Fed. Cir 1988)...........................................................................................6
+MGM Studios, Inc. v. Grokster, Ltd.,
+545 U.S. 913 (2005).........................................................................................................15
+Newriver, Inc. v. Newkirk Products,
+674 F. Supp. 2d 320 (D. Mass. 2009) ..............................................................................14
+Ricoh Co., Ltd. v. Quanta Computer, Inc.,
+550 F.3d 1325 (Fed. Cir. 2008)........................................................................................15
+Sanitary Refrigerator Co. v. Winters,
+280 U.S. 30 (1929)...........................................................................................................13
+Snuba International, Inc. v. Dolphin World, Inc.,
+2000 U.S. App. LEXIS 16946 (Fed. Cir. 2000) ..............................................................14
+Tate Access Floors v. Interface Architectural Resources,
+279 F.3d 1357 (Fed. Cir. 2002)........................................................................................12
+Texas Digital System, Inc. v. Telegenix, Inc.,
+308 F.3d 1193 (Fed. Cir. 2002)..........................................................................................5
+Vitronics Corp. v. Conceptronic, Inc.,
+90 F.3d 1576 (Fed. Cir. 1996)............................................................................................6
+
+-ii-
+
+Case 1:09-cv-10215-NG Document 38
+
+Filed 10/25/10 Page 4 of 20
+
+STATUTES
+35 U.S.C. §102(b) ................................................................................................................7, 9, 11
+35 U.S.C. § 271(a) .......................................................................................................................14
+F.R.C.P. 11(b)(2) .........................................................................................................................15
+F.R.C.P. 11(c)(2)..........................................................................................................................15
+
+-iii-
+
+Case 1:09-cv-10215-NG Document 38
+
+I.
+
+Filed 10/25/10 Page 5 of 20
+
+INTRODUCTION
+Any patent infringement analysis must start with claim interpretation. Ops-Core asserts
+
+that the language in the asserted claims "[a] shroud plate for headgear comprising a shell, an
+insert, a lock and a release mechanism" requires that the four elements, and in particular the lock
+and the release mechanism "be located on the shroud plate itself, not on an attached device." See
+Ops-Core Memorandum1 at page 12. However, Ops-Core offers no explanation or support for
+this particular claim interpretation. Moreover, Ops-Core fails to tell the Court that it asserted the
+exact opposite interpretation of this same claim language in its successful effort to have the
+patents-in-suit reexamined.
+In its requests for reexamination, Ops-Core asserted:
+In the case of the '810 patent the latch and release button are on the
+female element, whereas they are on the male element in the US
+HMA OPERATOR'S MANUAL. Such placement of the latch and
+the release does not militate against anticipation since once the
+male and female portions are engaged, the latch and release
+effectively become part of the claimed shroud plate, i.e., they form
+an assembly which includes all of the elements of claim 1.
+Request for Reexamination at page 7 (Declaration of Daly2, Ex. F).
+The U.S. Patent and Trademark Office ("PTO") accepted this interpretation, as did
+Norotos. The US HMA OPERATOR'S MANUAL was distinguished on other grounds.
+Ops-Core presently attempts to adopt one claim interpretation to avoid infringement after
+asserting the opposite claim interpretation in its effort to invalidate the patents-in-suit. Ops-Core
+cannot have it both ways. Claim language is interpreted as a matter of law and that interpretation
+1
+
+Ops-Core's Memorandum in Support of Defendant Ops-Core, Inc.'s Motion for Summary
+Judgment and for Sanctions ("Ops-Core Memorandum").
+2
+Factual support for this opposition brief is found in a number of declarations filed in this matter
+in support of Norotos's motion for summary judgment, such as Declaration of Thomas J. Daly in
+Support of Plaintiff Norotos, Inc.'s Motion for Summary Adjudication of Infringement of United
+States Patent 6,751,810. These declarations are cited herein as "Declaration of _____________."
+-1-
+
+Case 1:09-cv-10215-NG Document 38
+
+Filed 10/25/10 Page 6 of 20
+
+must be consistent in determining both infringement and validity. Norotos has consistently
+asserted that the claim language at issue is broad enough to cover an assembly of attached
+elements and does not require a unitary structure. Such an interpretation is consistent with the
+claim language itself, the specification of the patents, and the way the PTO interpreted the claims
+during reexamination.
+The correct claim interpretation compels a determination that Ops-Core infringes at least
+claim 22 of the '810 Patent. Thus, Ops-Core's motion should be denied and that of Norotos be
+granted.
+II.
+
+STATEMENT OF FACTS
+Ops-Core's statement of the facts in this case is not so much inaccurate as it is
+
+incomplete.
+Ops-Core stresses that it asserted a claim interpretation requiring a unitary structure for
+the shroud plate in its letters to Norotos at the beginning of this dispute.
+
+See Ops-Core
+
+Memorandum at pgs. 5-6. Ops-Core asserts the same claim interpretation in its present motion.
+Id. at page 12. However, Ops-Core fails to inform the Court that it took the exact opposite
+position on interpretation of the same claim language in its request for reexamination filed with
+the PTO. It told the PTO that engagement of the portions of a shroud plate and a lock plate
+effectively makes elements of the lock plate part of the shroud plate such that they form an
+assembly that would be covered by the language at issue herein. See Request for Reexamination
+at page 7 (Declaration of Daly, Ex. F).
+Moreover, Ops-Core fails to tell the Court that the PTO adopted the claim interpretation
+it asserted, see Order Granting Reexamination at pgs. 4-5 (Declaration of Daly, Ex. G), and that
+Norotos did not contest this interpretation but, rather, was able to establish patentability of the
+Norotos inventions by distinguishing the prior art cited by Ops-Core on other grounds, see
+Notice of Intent to Issue Reexamination Certificate at page 2 (Declaration of Daly, Ex. M).
+Thus, Norotos has asserted a consistent interpretation for this claim language throughout.
+Compare November 20, 2008 Letter to Mr. Rogers of Ops-Core (Declaration of Daly, Ex. C)
+-2-
+
+Case 1:09-cv-10215-NG Document 38
+
+Filed 10/25/10 Page 7 of 20
+
+with Plaintiff's Disclosure of Asserted Claims and Preliminary Infringement Contentions at page
+1. Norotos has always insisted that this claim language is broad enough to cover assembled
+elements as well as a unitary structure. Id. The PTO agreed with the Norotos interpretation
+(Declaration of Daly, Ex. G) as did Ops-Core when it suited its purpose in the context of its
+request for reexamination. (Declaration of Daly, Ex. F)
+Ops-Core also asserts that it has not made or sold the mounts with which its VAS
+Shrouds are intended to be used. See Ops-Core Memorandum at page 5. However, although
+Ops-Core attaches to its motion many of the letters exchanged between Ops-Core and Norotos
+regarding the present dispute, it does not include the first letter its Vice President, Mr. Rogers,
+sent to Norotos. In that letter, dated November 1, 2008, Mr. Rogers states: "We are currently in
+the process of launching two new helmet models which all utilize these VAS Shroud mount
+products. . . ." Declaration of Soto at ¶ 5, Ex. A at page 1. He later adds: "[W]e purchased (at
+list price) several of your AKAZ mounts and provided them to operators in theater with our
+helmets." Id., Ex. A. pg. 3. Thus, Ops-Core has admitted that it has distributed to several of its
+customers the assembly accused of infringement.
+Moreover, Ops-Core's brief in support of its motion suggests that the VAS Shroud exists
+in a vacuum and that Ops-Core has little or nothing to do with how the VAS Shroud is used. See
+Ops-Core Memorandum at pgs. 4-5. Nothing could be further from the truth. As Mr. Rogers of
+Ops-Core states in a letter that Ops-Core did include with its motion, "Norotos, Inc. stands to
+receive a substantial amount of new sales and revenue from thousands of helmets and shrouds
+we are selling that only work with your mount products." Declaration of Rogers, Ex. C;
+Declaration of Soto, Ex. C. Thus, Ops-Core has admitted that its VAS Shroud products have no
+substantial use other than in the assembly accused of infringement.
+Further, with regard to use of the VAS Shroud, Ops-Core has used its VAS Shroud
+product in the assembly accused of infringement at trade shows and in pictures shown in its press
+releases, on its website, on its packaging and in its catalogs. See Declaration of Prendergast at ¶¶
+9 and 10, Exs. C, D, E and F. Ops-Core's press releases, website, packaging and catalogs all
+-3-
+
+Case 1:09-cv-10215-NG Document 38
+
+Filed 10/25/10 Page 8 of 20
+
+promote and show use of the VAS Shroud with a mount, an accused infringing assembly. Id.
+The packaging that Ops-Core uses with its VAS Shroud products explicitly instructs purchasers
+how to use the product in an assembly accused of infringement. See Declaration of Chavez at ¶
+5, Ex. D.
+In particular, Ops-Core's brief at page 7 includes an illustration that Ops-Core obliquely
+describes as one "attached to Norotos's Infringement Contentions." What Ops-Core fails to note
+is that the illustration comes from Ops-Core's own packaging for the VAS Shroud product. See
+Declaration of Chavez, Ex. D.
+Norotos has asserted that its patent claims cover the VAS Shroud product when it is used
+with a mount. Ops-Core has itself used this very assembly. See Declaration of Prendergast, Exs.
+E and F. It admits that it has distributed this combination to customers. See Declaration of Soto,
+Ex. A. Ops-Core admits and is well aware that the VAS Shroud has no other substantial use
+besides use in this assembly. See Declaration of Soto, Ex. C. Ops-Core encourages and instructs
+its customers on how to use the VAS Shroud in this assembly. See, e.g., Declaration of Chavez
+at ¶ 5, Ex. D.
+
+Ops-Core Press Release
+(Declaration of
+Prendergast, Ex. C)
+
+Ops-Core Trade Show
+Demo (Declaration of
+Prendergast, Ex. F)
+
+Ops-Core Press Release
+(Declaration of
+Prendergast, Ex. C)
+
+Ops-Core Packaging
+(Declaration of Chavez,
+Ex. D)
+-4-
+
+Ops-Core Catalog
+(Declaration of
+Prendergast, Ex. D)
+
+Ops-Core Packaging
+(Declaration of Chavez,
+Ex. D)
+
+Case 1:09-cv-10215-NG Document 38
+
+III.
+
+Filed 10/25/10 Page 9 of 20
+
+SUMMARY OF ARGUMENT
+The claim language "[a] shroud plate for headgear comprising a shell, an insert, a lock
+
+and a release mechanism" in the claims at issue in this case should be interpreted as covering an
+assembly of the four elements attached together and does not require that they be in a unitary
+structure. Such an interpretation is consistent with the claim language itself, the specification of
+the patents, and the way the PTO interpreted the claims during reexamination. The Federal
+Circuit has stated that claim terms should be given the full range of their ordinary meaning as
+understood by persons skilled in the relevant art. See Texas Digital Sys., Inc. v. Telegenix, Inc.,
+308 F.3d 1193, 1202 (Fed. Cir. 2002) (citation omitted).
+
+The prior art cited during the
+
+reexamination and the PTO's adoption of a claim interpretation that covered a shell and an insert
+in a helmet mounting bracket that received a mount containing a lock and a release mechanism
+shows that persons of ordinary skill in the art would understand that these claimed elements
+could be assembled in separate parts. This is entirely logical because the lock and release
+mechanism only serve a useful purpose when combined with the shell and the insert. In such a
+combination, they releasably hold a mount in place. When separated from the shell and the
+insert, they serve no purpose.
+Properly interpreted, the claims at issue are infringed by the VAS Shroud used for its
+intended purpose with a mount lock plate incorporating a lock and release mechanism attached
+thereto. In this assembly, the shroud plate, i.e., the interface between the headgear and the
+mount, does comprise a shell, an insert, a lock and a release mechanism. Thus, this assembly
+literally infringes the claims at issue in this case.
+Even if the noted claim language is determined to be directed at a device incorporating
+each of the four recited elements, moving two of the four elements to a part that is intended to be
+received by the part containing the other two elements should be considered an equivalent. It is
+an insubstantial difference. The four elements still function in the same way to achieve the same
+result. The lock and release mechanism only have a useful function when joined with the other
+two elements.
+-5-
+
+Case 1:09-cv-10215-NG Document 38
+
+Filed 10/25/10 Page 10 of 20
+
+Ops-Core is itself a direct infringer of the claims at issue. It uses the infringing assembly
+at trade shows and in numerous other contexts to promote the sale of its VAS Shroud product.
+Moreover, it admits that it has supplied the infringing assembly to several customers. OpsCore's promotional materials shows the use of the infringing assembly by others. This is proof
+of direct infringement.
+Ops-Core has also admitted that the VAS Shroud product that it makes and sells has no
+substantial use other than in the infringing assembly. Ops-Core is therefore a contributory
+infringer. Moreover, Ops-Core encourages and instructs its customers to use the VAS Shroud in
+an infringing assembly on its website, in its catalog, and on the packaging for the VAS Shroud.
+Consequently, Ops-Core is inducing infringement.
+The claim interpretation asserted by Norotos is the same as that asserted by Ops-Core in
+requesting reexamination and is the same as that adopted by the PTO in the reexaminations. In
+view thereof, asserting such a claim interpretation in this action cannot be sanctionable,
+especially when it is the correct claim interpretation. Nothing in such conduct would make this
+an exceptional case. Nothing in such conduct could implicate Rule 11. Further, Ops-Core has
+failed to comply with the procedural requirements necessary to pursue sanctions under Rule 11.
+IV.
+
+ARGUMENT
+A.
+
+The Claim Terms at Issue are Properly Interpreted to Cover an Assembly of
+the Recited Elements
+
+"It is well-settled that, in interpreting an asserted claim, the court should look first to the
+intrinsic evidence of record, i.e., the patent itself, including the claims, the specification and, if in
+evidence, the prosecution history." Vitronics Corp. v. Conceptronic, Inc., 90 F.3d 1576, 1582
+(Fed. Cir. 1996). In the present case, the patent itself and the prosecution history, including
+reexamination proceedings, support the meaning and scope of the identified claim terms asserted
+by Norotos. See E.I Du Pont de Nemoours & Co. v. Phillips Petroleum Co., 849 F.2d 1430,
+1439 (Fed. Cir 1988) (indicating that statements made during the reexamination proceeding of a
+patent are relevant prosecution history when interpreting claims).
+-6-
+
+Case 1:09-cv-10215-NG Document 38
+
+1.
+
+Filed 10/25/10 Page 11 of 20
+
+"Shroud plate"
+
+Claim 22 recites "[a] shroud plate for headgear comprising a shell, an insert a lock and a
+release mechanism." Based upon this language itself, the specification and the prosecution
+history, "shroud plate" should be interpreted to encompass either a structure that is integrated as
+a single piece ("monolithic piece") or as a structure that is assembled together from two or more
+separable pieces ("assembled piece").
+The claim language merely recites the four elements that make up a "shroud plate."
+Nothing about the language compels a reading that excludes these elements being assembled
+from separate parts to form the "shroud plate."
+The specification indicates that the invention of the '810 Patent relates to "a shroud plate
+which may act as an interface between a helmet and the helmet mount for a night vision device."
+'810 Patent at col. 1, lines 7-9, emphasis added, (Declaration of Daly, Ex. A). Additionally, the
+specification provides that "the shroud plate of the present invention allows a helmet mount for a
+night vision device to be easily attached and removed from a helmet." '810 Patent at col. 1, lines
+61-63 (Id.) Neither the claim nor the specification preclude the shroud plate from being either a
+monolithic piece or an assembled piece.
+Further, during reexamination proceedings, Ops-Core3 indicated that "claims 1, 2, 8, and
+11-13 of the '810 patent are considered to be unpatentable under 35 U.S.C. §102(b) because they
+are anticipated by the printed publication entitled 'Operator's Manual Night Vision Goggles
+AN/PVS-7B (NSN 5855-01-228-0937) (EIC: IPS) and AN/PVS-7D (NSN 5855-01-422-5413)
+(EIC: N/A)' and published by the United States Departments of the Army, the Navy and the Air
+Force and Headquarters, Marine Corps on December 1, 1997 ["US HMA Operator's Manual"]."
+Request for Reexamination for U.S. Pat. No. 6,751,810, submitted June 10, 2009 ("Request for
+Reexamination" at page 2 (Declaration of Daly, Ex. F)). At the time that Ops-Core filed its
+
+3
+
+Ops-Core acknowledged that it filed for an ex parte reexamination of the '810 patent. See OpsCore's Memorandum in Support of Defendant Ops-Core's Motion for Summary Judgment and
+for Sanctions, at page 6. Such reexamination proceedings are a part of the prosecution history of
+the '810 Patent and are relevant to claim interpretation.
+-7-
+
+Case 1:09-cv-10215-NG Document 38
+
+Filed 10/25/10 Page 12 of 20
+
+Request for Reexamination, claim 1 contained the same language cited above with respect to the
+shroud plate.4
+To support its position, Ops-Core included Figures 2-22 and 2-23 of the US HMA
+Operator's Manual, both of which are provided below for convenience.
+
+As can be seen in the figures reproduced above, the helmet mount assembly includes a
+"helmet mounting bracket" and a "mount" separable from the helmet mounting bracket, wherein
+the mount can be coupled to the helmet mounting bracket to form an assembled piece. In its
+Request for Reexamination, Ops-Core argued that claim 1 is anticipated by the US HMA
+Operator's Manual because the US HMA Operator's Manual discloses "[a] mount 36 [including]
+a lock (latch) 38 and release mechanism (button) 40. See Figs. 2-22 and 2-23." Request for
+Reexamination at page 3, claim chart, (Declaration of Daly, Ex. F).
+Ops-Core further noted that "[a] removable element, such as Night Vision Goggles,
+includes a male portion which matches a female portion mounted on the helmet. . . . In the case
+of the '810 patent the latch and release button are on the female element, whereas they are on the
+male element in the US HMA OPERATOR'S MANUAL. Such placement of the latch and the
+release does not militate against anticipation since once the male and female portions are
+engaged, the latch and release effectively become part of the claimed shroud plate, i.e., they form
+4
+
+In an Amendment filed on November 18, 2009, Norotos added, among others, claim 22.
+Except as noted otherwise herein, the language of claim 22 under interpretation is identical to the
+language of claim 1 and should be interpreted identically for both claims.
+-8-
+
+Case 1:09-cv-10215-NG Document 38
+
+Filed 10/25/10 Page 13 of 20
+
+an assembly which includes all of the elements of claim 1." Request for Reexamination at page
+7, emphasis added, (Id.).
+In an Office action in Ex Parte Reexamination dated September 18, 2009, the Examiner
+agreed with Ops-Core's position and rejected claims 1, 2 and 11-15 under 35 U.S.C. §102(b) as
+being anticipated by the US HMA Operator's Manual. September 18, 2009 Office action in Ex
+Parte Reexamination at page 2 (Declaration of Daly, Ex. H). In rejecting the claims, the
+Examiner indicated that the US HMA Operator's Manual discloses a shroud plate for head gear
+comprising "a lock (see 'latch' in fig. 2-23), and a release mechanism (see 'release button' in fig.
+2-22)." Id. As noted above, both the "latch" and the "release button" in the cited reference are
+on the "mount" which is separate and separable from the "helmet mounting bracket."
+Accordingly, even though the latch and the release button are not on the same member as the
+shell and the insert, the Examiner agreed with Ops-Core that the latch and the release button
+effectively become part of the claimed shroud plate because they form an assembly that includes
+all of the elements of claim 1.
+Norotos was ultimately able to overcome the anticipation rejection of claim 1, but did so
+without amending the language cited above and without otherwise limiting the shroud plate to be
+only a monolithic piece. Accordingly, "shroud plate" should be interpreted to encompass both an
+assembled piece and a monolithic piece.
+2.
+
+"Insert"
+
+Claim 22 recites "[a] shroud plate for headgear comprising a shell [and] an insert . . .
+wherein the insert is adapted to receive a lock plate." Claim 22 indicates the function of the
+insert, but it does not limit the structure of the insert. Accordingly, "insert" should be interpreted
+to encompass a portion of the shroud plate that "is adapted to receive a lock plate, "even if that
+portion is made from the same material as and is integral with the shell. This interpretation is
+also supported by the specification and the prosecution history.
+The specification provides that:
+[t]he insert 16 is designed as a bay for a lock plate or adapter plate
+-9-
+
+Case 1:09-cv-10215-NG Document 38
+
+Filed 10/25/10 Page 14 of 20
+
+17 . . . and functions as the interface between a helmet mount and a
+helmet 12. The shroud plate 10 may comprise an insert 16 that is
+integral with a shell 13 essentially making the plate one piece. The
+shroud plate 10 may comprise two integrally related pieces, the
+shell 13 and the insert 16, to optimize weight and durability. . . .
+However, it is also possible that the shroud plate 10 may be one
+piece made from one material, for example all nylon or all
+aluminum.
+'810 Patent at col. 3, lines 17-29, emphasis added, (Declaration of Daly, Ex. A).
+Clearly, the specification describes an "insert" as either (1) a structure that is a different
+material from the shell or (2) a structure that is the same material as and integral with the shell.
+As noted above, claim 22 does not specify a material from which the insert is made nor whether
+the insert is integral with or made separately from the shell. Accordingly, "insert" as claimed in
+claim 22 should be interpreted as encompassing both structures.
+The prosecution history also supports the interpretation of "insert" which Norotos
+proposes. In advocating its position regarding anticipation of the claimed phrase "the insert is
+adapted to receive a lock plate" during reexamination, Ops-Core indicated that "[t]he US HMA
+OPERATOR'S MANUAL Mounting Bracket 30 includes a recessed area formed by keepers 34
+and 35 which are sized and shaped to receive lock plate 48 of mount 36. See Figs. 2-22 and 223." Request for Reexamination at page 4, claim chart, (Declaration of Daly, Ex. F). Further,
+Ops-Core stated that "[t]he [U.S.] HMA [Operator's Manual] includes a Bracket which integrates
+the shell and insert, and a Mount for the Night Vision Goggles which includes a lock and release
+mechanism. The Helmet Mounting Bracket has a recessed area defined by Keepers sized and
+shaped to receive the Mount" and "[i]n the US Helmet Mounting Assembly, the shell and insert
+are integrated as one piece made from one material and are collectively referred to as the Helmet
+Mounting Bracket." Request for Reexamination at pages 5-6, emphasis added, (Id.).
+As noted above, the Examiner agreed with Ops-Core's position and rejected claims 1, 2
+-10-
+
+Case 1:09-cv-10215-NG Document 38
+
+Filed 10/25/10 Page 15 of 20
+
+and 11-15 under 35 U.S.C. §102(b) as being anticipated by the US HMA Operator's Manual.
+September 18, 2009 Office action in Ex Parte Reexamination at page 2 (Declaration of Daly, Ex.
+H). More specifically, the Examiner indicated that the US HMA Operator's Manual discloses a
+shroud plate for head gear comprising "an insert (see a square portion "keeper" in figs. 2-22 and
+2-23) . . . the insert [being] adapted to receive a lock plate." September 18, 2009 Office action in
+Ex Parte Reexamination at page 2 (Id.).
+Again, Norotos was able to overcome the anticipation rejection, but did so without
+amending the language above or otherwise limiting the insert to being a different material from
+the shell. Accordingly, Ops-Core's position during reexamination and the Examiner's subsequent
+agreement with Ops-Core's position further supports interpreting "insert" as being broad enough
+to cover a lock plate receiving portion that is integral with and made from the same material as
+the shell of the shroud plate.
+3.
+
+"Smooth with rounded edges and corners at the periphery"
+
+Claim 22 recites "wherein the external surface [of the shell] is smooth with rounded
+edges and corners at the periphery, such that the shell has no projections on which a shroud line
+may catch."
+The specification provides that "previous helmet attachment mechanisms have comprised
+sharp edges and/or hooked shaped portions which may interfere with or even seriously injure a
+user. For instance, a hook portion may catch the shroud line of an opening parachute, cutting the
+line or violently jerking the user's head and neck." '810 Patent at col. 1, lines 39-44 (Declaration
+of Daly, Ex. A). The specification further provides that "the top surface of the shell 13 may be
+smooth with rounded edges and corners. Fitting the shell 13 to the shape of the helmet 12 and
+having a smooth surface with rounded edges and corners on the shell 13 ensures that there are no
+unnecessary edges on which another object, such as a shroud line of a parachute or a dangling
+tree branch in heavy foliage, may catch." '810 Patent at col. 3, lines 2-8 (Id.).
+In response to an Office action in Ex Parte Reexamination, dated March 8, 2010, Norotos
+added claim 22 which, as noted above, is substantially similar to claim 1, but added the
+-11-
+
+Case 1:09-cv-10215-NG Document 38
+
+Filed 10/25/10 Page 16 of 20
+
+following relevant language (added language is underlined): "wherein the external surface [of the
+shell] is smooth with rounded edges and corners at the periphery, such that the shell has no
+projections on which a shroud line may catch." See Declaration of Daly, Ex. L.
+In a Notice of Intent to Issue Ex Parte Reexamination Certificate dated May 5, 2010, the
+Examiner agreed that claim 22 was allowable over the US HMA Operator's Manual because "the
+US HMA [Operator's Manual] fails to disclose an external surface of the shell [being] smooth
+with rounded edges and corners at the periphery, such that the shell has no projections on which
+a shroud line may catch because the shroud plate of US HMA [Operator's Manual] has
+projections, such as the 'keepers' projecting from a side edge of the shroud plate." Notice of
+Intent to Issue Ex Parte Reexamination Certificate at page 2 (Declaration of Daly, Ex. M).
+Accordingly, "smooth with rounded edges and corners at the periphery" should be
+interpreted in accordance with the ordinary meaning of the claim language, i.e., that the external
+surface of the shell has no projections on which a shroud line may catch.
+B.
+
+Once Properly Interpreted, the Disputed Claim Language Literally Reads on
+the VAS Shroud as Used in its Intended Assembly
+
+The VAS Shroud product made and sold by Ops-Core has a shell with an internal portion
+that is adapted to receive a lock plate. Thus, it does have an "insert." Ops-Core attaches mounts
+to its VAS Shroud product to demonstrate the resulting assembly at trade shows and to promote
+its VAS Shroud product on its website, in its catalog and on its packaging. The compatible
+mount has a lock plate that is received into the "insert" of the VAS Shroud. The lock plate also
+includes a lock and a release mechanism. Thus, the assembly used by Ops-Core and by others as
+shown in Ops-Core's promotional materials has the four elements recited in the contested claim
+language used in an interface between a headgear and a mount, i.e., in a "shroud plate."
+Accordingly, Ops-Core and others use an assembly that literally infringes. See Tate Access
+Floors v. Interface Architectural Res., 279 F.3d 1357, 1366 (Fed. Cir. 2002).
+
+-12-
+
+Case 1:09-cv-10215-NG Document 38
+
+C.
+
+Filed 10/25/10 Page 17 of 20
+
+At the Very Least, the VAS Shroud as Used in its Intended Assembly
+Infringes Under the Doctrine of Equivalents
+
+Norotos believes that the claims at issue should be interpreted to literally cover "shroud
+plates" that are both unitary and assemblies. However, should the claims be interpreted as being
+directed to "shroud plates" where the elements are incorporated into a single device, the claim
+language and the patent specifications do not intentionally exclude the possibility of an assembly
+of the recited elements.
+
+That is, there is nothing in the claim language or the patent
+
+specifications that could be read as disclaiming an assembly of the recited elements.
+Accordingly, this claim language can be considered under the doctrine of equivalents.
+The claims expressly recognize that the "insert is adapted to receive a lock plate."
+Moreover, the claims also expressly recognize that the "lock" element "is adapted to secure the
+lock plate to the insert," and that the "release mechanism" element "allows for removal of the
+lock plate from the insert." Accordingly, the claim language clearly anticipates engagement
+between the insert and the lock plate.
+Whether the "lock" and "release mechanism" elements are located with the "insert" or
+located with the "lock plate" makes no difference in the engagement. The lock and release
+mechanism will still operate to secure the lock plate to the insert and to allow it to be removed.
+Merely moving these elements from one half of the engagement to the other half is an
+insubstantial difference, and should not result in an avoidance of infringement. See Sanitary
+Refrigerator Co. v. Winters, 280 U.S. 30, 41-42 (1929) ("A close copy which seeks to use the
+substance of the invention, and, although showing some change in form and position, uses
+substantially the same devices, performing precisely the same offices with no change in
+principle, constitutes an infringement.") See also, Corning Glass Works v. Sumitomo Electric
+U.S.A., Inc., 868 F.2d 1251, 1259 (Fed. Cir. 1989) ("An equivalent must be found for every
+limitation of the claim somewhere in an accused device, but not necessarily in a corresponding
+component. . ..). Thus, if Ops-Core does not literally infringe, it should be found to infringe
+under the doctrine of equivalents.
+-13-
+
+Case 1:09-cv-10215-NG Document 38
+
+D.
+
+Filed 10/25/10 Page 18 of 20
+
+Ops-Core and Others Are Direct Infringers
+
+Ops-Core asserts that it does not make or sell mounts and, therefore, does not make or
+sell the infringing assembly. However, making and selling an infringing product are not the only
+acts that can constitute infringement. Use of an infringing product is also an act of direct
+infringement. 35 U.S.C. § 271(a). Extensive evidence is present in this case that Ops-Core itself
+and others, as shown in Ops-Core's promotional materials, use the infringing assembly. OpsCore has used it at trade shows and has used it and shown its use by others in numerous
+promotional materials. See Newriver, Inc. v. Newkirk Prods., 674 F. Supp. 2d 320, 328 (D.
+Mass. 2009) (citing, Snuba Int'l, Inc. v. Dolphin World, Inc., 2000 U.S. App. LEXIS 16946, 1516 (Fed. Cir. 2000) (unpublished) (circumstantial evidence from defendant's own promotional
+materials sufficient to prove direct infringement)).
+
+Thus, Ops-Core and others are direct
+
+infringers.
+E.
+
+Ops-Core Contributes to and Induces Infringement
+
+Ops-Core asserts that Norotos has not proven that the VAS Shroud has no substantial
+non-infringing use. Yet, the Vice President of Ops-Core, Mr. Rogers, has stated that the VAS
+Shroud will "only work" with the Norotos mount products, which would be an infringing
+assembly. Declaration of Soto, Ex. C.
+Moreover, in the press release introducing the VAS Shroud product, Ops-Core stated:
+"The standard . . . Mount Arm . . . clicks into the VAS just like does the other issue mounts. Its
+inserted and anchored underneath the top of the bracket and pushed down to snap into place
+while pressing the adapter's release trigger." Declaration of Prendergast, Ex. C. No other end
+use for the VAS Shroud is described. Similarly, on the packaging for the VAS Shroud product,
+the use of the product is described, including: "STEP 3: ATTACH NVD ADAPTOR Insert and
+anchor the top of the NVD adaptor underneath the top of the bracket as shown. While pressing
+the adapter's release trigger, push down to snap and lock the adapter in place." Declaration of
+Chavez at ¶ 5, Ex. D. No other end use for the VAS Shroud is described on its packaging. Thus,
+the evidence is overwhelming that the VAS Shroud has no substantial use other than in an
+-14-
+
+Case 1:09-cv-10215-NG Document 38
+
+Filed 10/25/10 Page 19 of 20
+
+infringing assembly. Accordingly, Ops-Core contributes to infringement. See, Ricoh Co., Ltd. v.
+Quanta Computer, Inc., 550 F.3d 1325, 1338 (Fed. Cir. 2008).
+As described above, Ops-Core instructs its customers for the VAS Shroud product to use
+that product in an infringing assembly. It also encourages customers to adopt an infringing
+assembly. In the press release introducing the VAS Shroud product, Ops-Core states: "If you
+have a [night vision device], and use the Standard U.S. Army Mount Arm (#A3256368), do
+yourself a favour and ditch your old hook and strap helmet mount or single-hole MICH mount.
+The Ops-Core VAS Shroud is a must have upgrade . . ." Declaration of Prendergast, Ex. C.
+Thus, Ops-Core is encouraging use of the VAS Shroud in an infringing assembly. Ops-Core is
+inducing infringement. See Ricoh at 1341 (citing MGM Studios, Inc. v. Grokster, Ltd., 545 U.S.
+913 (2005)).
+F.
+
+Sanctions on Norotos are Not Appropriate
+
+Norotos has asserted a particular claim interpretation in this matter in good faith. For the
+reasons set forth at length above, Norotos believes that it is the correct claim interpretation. It is
+the same claim interpretation asserted by Ops-Core in the requests for reexamination, and it is
+the same claim interpretation adopted by the PTO. Assertion of such a claim interpretation, and
+assertion of the infringement that results therefrom, is not frivolous and cannot possibly give rise
+to sanctions. See, e.g., Bicon, Inc. v. Straumann Co., 356 F. Supp. 2d 6, 8 (D. Mass. 2005).
+Such conduct cannot make this an exceptional case. Id. Norotos' legal contentions as to claim
+interpretation are warranted by existing law and, therefore, cannot give rise to sanctions under
+Rule 11. F.R.C.P. 11(b)(2).
+Moreover, Ops-Core has not complied with the procedural safeguards set forth in Rule 11
+to be entitled to sanctions. Ops-Core has not made a separate motion for sanctions. See F.R.C.P.
+11(c)(2). Also, Ops-Core did not serve the motion and then allow at least 21 days for withdrawal
+of the challenged paper before filing the motion with the Court. Id. Thus, even if Norotos had
+engaged in any conduct that might warrant sanctions, Ops-Core did not proceed properly to seek
+any sanctions under Rule 11.
+-15-
+
+Case 1:09-cv-10215-NG Document 38
+
+V.
+
+Filed 10/25/10 Page 20 of 20
+
+CONCLUSION
+For the reasons set forth above, Ops-Core's motion for summary judgment and sanctions
+
+should be denied in its entirety. Instead, Norotos's cross motion for summary judgment that OpsCore has infringed at least claim 22 of the '810 patent should be granted.
+DATED: October 25, 2010
+
+Respectfully submitted,
+By /s/ Edward R. Schwartz
+Edward R. Schwartz, BBO #448050
+CHRISTIE, PARKER & HALE, LLP
+350 West Colorado Blvd., Suite 500
+Pasadena, California 91105
+Telephone: (626) 795-9900;
+Facsimile:
+(626) 577-8800
+E-mail:
+ers@cph.com
+Attorneys for Plaintiff And Counterdefendant,
+NOROTOS, INC.
+
+CERTIFICATE OF SERVICE
+I hereby certify that this document filed through the ECF system will be sent electronically to the
+registered participants as identified on the Notice of Electronic Filing (NEF) and paper copies
+will be sent to those indicated as non-registered participants on October 25, 2010.
+/s/ Edward R. Schwartz
+Edward R. Schwartz
+SES PAS924960.1-*-10/25/10 11:38 AM
+
+-16-
+
+

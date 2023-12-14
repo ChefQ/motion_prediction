@@ -1,0 +1,532 @@
+Case 1:11-cv-10802-WGY Document 21
+
+Filed 07/01/11 Page 1 of 15
+
+UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF MASSACHUSETTS
+
+LIBERTY MEDIA HOLDINGS, LLC,
+Plaintiff,
+vs.
+SWARM SHARING HASH FILE
+AE340D0560129AFEE8D78CE07F2394C7B
+5BC9C05; AND DOES 1 through 38,
+
+Civil Action No. 11-cv-10802-WGY
+
+Defendants.
+
+OPPOSITION TO MOTION TO QUASH (D.N. 13)
+No one, not even the John Doe who filed the present motion to quash, disputes that the
+plaintiff, Liberty Media Holdings, Inc. (“Liberty Media”) is entitled to vindicate its copyright
+against the anonymous infringers who pirate its work over the BitTorrent file trading protocol.
+“Not to act would be to allow those who would take what is not theirs to remain hidden behind
+their ISPs and to diminish and even destroy the intrinsic value of the Plaintiffs’ legal interest.”
+Arista Records LLC v. Does 1–27, 584 F.Supp.2d 240, 252 (D. ME 2008). The joinder of 38
+Massachusetts defendants — who each stand accused of copying and distributing the same exact
+infringing file — is a procedurally proper way for Liberty Media to vindicate its rights.
+Moreover, focused joinder of the Massachusetts defendants from a single swarm is a pragmatic
+solution that overcomes the practical challenges of enforcement in a way that benefits everyone,
+even the putative defendants. Thus, Liberty Media respectfully requests that the Court deny the
+pending Motion to Quash (D.N. 13) and allow this case to move forward.
+
+Case 1:11-cv-10802-WGY Document 21
+
+Filed 07/01/11 Page 2 of 15
+
+BACKGROUND
+Liberty Media is the copyright owner for a number of adult films that are frequently
+pirated over the internet by use of the BitTorret peer-to-peer (“BitTorrent”) protocol. Indeed, the
+piracy of its copyrighted works is so widespread that Liberty Media had little choice but to
+launch a nationwide campaign of enforcement. The objective of this campaign is to prosecute
+current infringers in an effort to deter illegal trafficking in its films via BitTorrent and other peerto-peer networks. It is imperative that internet infringers understand that Liberty Media not only
+has a legal recourse, but that it will not hesitate to assert its rights.
+The John Doe defendants in the present lawsuit were all selected based on two criteria:
+(1) they were each caught distributing over BitTorrent the so-called AE3 Hash, which is the
+unique alphanumeric identifier assigned to one particular illicit copy of Plaintiff’s copyrighted
+motion picture, and (2) they all have Internet Protocol (“IP”) addresses that are traceable with
+publicly available information to Massachusetts. See Dinkela Decl., ¶¶ 20, 26.1 This suit
+operates in parallel with 11-CV-10801-WGY, which is a suit against another BitTorrent swarm
+formed around a second illicit copy (the A3E Hash) of the same motion picture.
+The Court granted Liberty Media’s Motion for Early Discovery on May 11, 2011, so it
+could subpoena the putative defendants’ Internet Service Providers (“ISPs”) in order to obtain
+the subscriber information to identify the John Does. Under the Court’s order, subscribers have
+21 days from the date that notice was sent by the ISP to object to the subpoena before their
+information is disclosed. In a demonstration of its good faith, Liberty Media has instructed
+
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	   	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+1
+
+Declaration of Malte Dinkela, May 9, 2011 (D.N. 8) (“Dinkela Decl.”).
+2
+
+	  
+
+Case 1:11-cv-10802-WGY Document 21
+
+Filed 07/01/11 Page 3 of 15
+
+Comcast, Charter, and Verizon to withhold subscriber information until the present motion to
+Quash is resolved.2
+A.
+
+Infringement Over BitTorrent is a Collective Enterprise
+The BitTorrent protocol, which all the putative defendants used to infringe Liberty
+
+Media’s copyright, has made it exceptionally easy for individuals to simultaneously download
+and then redistribute large electronic files, such a movies, over the internet.
+
+BitTorrent
+
+accomplishes this by cleverly overcoming a major limitation of bandwidth by organizing all
+users who have or want a particular file into a “swarm,” or collective distribution network. See
+Dinkela Decl., ¶¶ 13–15.
+Bandwidth, which is generally measured in megabits per second (“Mbit/s”), is the speed
+at which files can be transferred over the internet. Most internet users have more bandwidth
+devoted to downloads than they do to uploads. For example, one common Comcast plan allows
+for downloads of up to 20 Mbit/s, but restricts uploads to 4 Mbit/s. See Ex. A, Comcast BLAST
+Internet Service.
+This lower upload bandwidth is a problem for traditional peer-to-peer networks, such as
+Napster or Kazaa, because these services operated by, in effect, brokering a connection between
+one uploader with a file and one downloader who wanted that file. The problem with this 1-to-1
+connection, however, is that the file can only transfer as fast as the host can upload it. Since our
+hypothetical Comcast subscriber’s upload is limited to 4 Mbit/s, the downloader has 16 Mbit/s of
+bandwidth that goes to waste. Moreover, if the uploader logs off or loses its connection before
+the transfer is complete, the downloader must start from scratch by identifying a new host who
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	   	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+2
+	   RCN, which was the first ISP to notify its subscribers, had already complied with the
+
+subpoena when the present motion to quash was filed. Neither RCN subscriber objected to the
+Subpoena.
+	  
+
+3
+	  
+
+Case 1:11-cv-10802-WGY Document 21
+
+Filed 07/01/11 Page 4 of 15
+
+has the file. See Ex. B, How Stuff Works.com, How BitTorrent Works; Ex. C, BitTorrent
+Explained.
+To use an analogy, if traditional peer-to-peer is like a giant swap meet for trading books,
+then each uploader would have a stall with a copy machine in it. When a downloader selects a
+book from one of these stalls, he has to wait around while the uploader copies all the pages. And
+if the uploader closes shop before the copy is complete, then the downloader is out of luck.
+BitTorrent overcomes this limitation by forcing all available uploaders to work
+collaboratively. When a file is first made available on BitTorrent, it is assigned a unique
+alphanumeric identifier or “hash code” and it is broken up into a number of bite sized pieces.
+When a new downloader requests the file, every available uploader who has a copy of that file
+starts sending him different pieces, which the downloader can reassemble into the complete
+work. Thus, by working together, a swarm of 20 users, each transferring 1 Mbit/s, can maximize
+the 20 Mbit/s download speed of our hypothetical Comcast subscriber. And, it doesn’t matter if
+a particular host drops out because there are other hosts with an identical copy of the file who are
+able to complete the transfer. See Ex. Dinkela Decl. ¶¶ 9–17; see also Exs. B, C.
+Moreover, BitTorrent further maximizes the available bandwidth by immediately
+converting downloaders into uploaders. As soon as a downloader receives a single piece of the
+file, he becomes an uploader, transferring that piece to any other collaborator who needs it.
+Indeed, BitTorrent actively enforces tit-for-tat by punishing “leechers,” or users who do not
+contribute uploads. See Dinkela Decl., ¶ 16; Ex. B, p5 (BitTorrent “uses a principal called titfor-tat. This means that in order to receive files, you have to give them.”).
+Thus, if a traditional peer-to-peer networks is like an individual stall at a marketplace,
+then BitTorrent is like a room full of copy machines. When a downloader requests a book,
+
+4
+	  
+
+Case 1:11-cv-10802-WGY Document 21
+
+Filed 07/01/11 Page 5 of 15
+
+everyone with the book, or even just part of it, starts sending him pages. So the downloader gets
+10 pages from this user, 2 pages from that use, and 5 pages from this other user, and so on, until
+he has collected all the pages he needs. All the room asks is that the downloader set up his own
+copy machine to help shoulder the burden by redistributing the pages he has.
+In summary, BitTorrent technology thus has three key implications that favor joining
+members of the swarm in a single action:
+(1)
+
+BitTorrent is deeply collaborative, as not only do many uploaders contribute to
+each download, all users rely upon and directly benefit from the collaboration
+with increased speeds and reliability.
+
+(2)
+
+Downloaders are quickly converted to uploaders, so each user is a member of the
+chain of distribution.
+
+(3)
+
+Since a swarm, at its heart, is organized around a particular file that has been
+assigned a unique hash code, everyone who is caught with that hash code is part
+of the swarm and part of the chain of distribution for that file. Moreover, hash
+codes are, in effect, like fingerprints or genetic markers, which show that the file
+has been obtained illicitly and not independently created through innocent means.
+ARGUMENTS
+
+I.
+
+The Court Should Not Consider Completely Anonymous Motions to Quash
+As a preliminary matter, the Court should strike or not consider the present motion to
+
+quash because the complete and total anonymity of the John Doe filer violates both the letter and
+spirit of the rules regarding standing and Federal Rule of Civil Procedure 11. Filing a document
+signed “John Doe” is not sufficient to confer standing to participate in this action. See Doe v.
+Merten, 219 F.R.D. 387, 394 (E.D. VA 2004) (denying request to proceed anonymously in part
+
+5
+	  
+
+Case 1:11-cv-10802-WGY Document 21
+
+Filed 07/01/11 Page 6 of 15
+
+because “standing to litigate these issues clearly does depend on their identity”) citing Lujan v.
+Defenders of Wildlife, 504 U.S. 555, 601-61 (1992). Central to Doe’s standing is whether he has
+a “personal stake” in the controversy’s outcome. See e.g., Stoianoff v. Montana, 695 F.2d 1214,
+1223 (9th Cir. 1983); see also Lujan, 504 U.S. at 601-61. In this case, Doe has not identified
+himself as a particular defendant or provided a sworn statement that he is a particular subscriber
+affected by Liberty Media’s subpoena. As such, Doe lacks standing for this Court to entertain
+his Motion.
+Similarly, Rule 11 requires that any paper be struck unless it is “signed by . . . a party
+personally if the party is unrepresented . . .” and “must state the signer’s address, e-mail address,
+and telephone number.” Fed. R. Civ. P. 11(a). While there may be cause for relaxing these
+requirements given the present circumstances, there must be some way for the Court to hold the
+filer accountable for his actions and representations.
+II.
+
+JOINDER OF DOES 1–38 IS PROPER AND PRACTICAL
+The Joinder of Does 1–38 to the present action is not only procedurally proper, it is the
+
+only practical and feasible method for Liberty Media to vindicate it copyright and the only
+efficient means for the Court to administer justice. Thus, the Court should allow this case to
+proceed against all Defendants jointly.
+Pursuant to Federal Rule of Civil Procedure 20(a)(2), “Persons . . . may be joined in one
+action as defendants if:
+(A)
+
+any right to relief is asserted against them jointly, severally, or in the alternative
+with respect to or arising out of the same transaction, occurrence, or series of
+transactions or occurrences; and
+
+(B)
+
+any question of law or fact common to all defendants will arise in the action.
+
+6
+	  
+
+Case 1:11-cv-10802-WGY Document 21
+
+Fed. R. Civ. P. 20(a)(2) (emphasis added).
+
+Filed 07/01/11 Page 7 of 15
+
+“The requirements for permissive joinder are
+
+liberally construed in the interest of convenience and judicial economy in a manner that will
+secure the just, speedy, and inexpensive determination of the action. Thus, the impulse is toward
+entertaining the broadest possible scope of action consistent with fairness to the parties; [and]
+joinder of claims, parties, and remedies is strongly encouraged.” See Voltage Pictures, LLC v.
+Does, _ F.Supp.2d _, 2011 WL 1807438, *5 (D.D.C. 2011) (internal citations omitted) (holding
+that 5,000 John Doe BitTorrent users were properly joined).
+A number of prior courts who have evaluated the joinder issue in the context of John
+Does file trading suits, and particularly in the context of BitTorrent, have concluded that joinder
+was not only proper, it was the best and most efficient way to administer such lawsuits.
+See Id at *5 (allegations of infringement over BitTorrent satisfied Rule 20 joinder); London Sire
+Records, Inc. v. Doe 1, 542 F.Supp.2d 153, 162 (D. Mass 2008) (Gertner, J.) (Consolidating
+multiple John Doe suits because consolidation “ensures administrative efficiency for the Court,
+the plaintiffs, and the ISP, and allows the defendants to see the defenses, if any that other John
+Does have raised”); Call of the Wild Movie, LLC v. Does 1–1,062, _ F.Supp.2d _, 2011 WL
+996786, *3 (D.D.C. 2011) (collecting authorities allowing permissive joinder); Arista Records
+LLC v. Does 1–27, 584 F.Supp.2d 240, 251 (D. Me. 2008) (severance is premature before
+defendants are named in the complaint and provide individualized reasons for severance); West
+Coast Productions, Inc. v. Does 1–5829, _ F.Supp.2d _, 2011 WL 2292239, *5 (D.D.C. 2011)
+(joinder of 5,829 alleged BitTorrent infringers proper).
+A.
+
+By Engaging in a BitTorrent Swarm to Distribute the AE3 Hash, Does 1–38
+Satisfy the Transaction or Occurrence Test
+
+The Transaction or Occurrence test is satisfied because each of the 38 Doe Defendants
+are logically tied together by the fact that they collectively distributed the infringing AE3 Hash
+7
+	  
+
+Case 1:11-cv-10802-WGY Document 21
+
+Filed 07/01/11 Page 8 of 15
+
+over BitTorrent. At its heart, the Transaction or Occurrence test looks to see whether the joined
+parties are “logically related,” which “is a flexible test and courts seek the broadest possible
+scope of the action.” See Voltage Pictures, LLC, 2011 WL 1807438, *5. The BitTorrent
+protocol ties each of the putative defendants closely together in a series of transactions that
+amount to a collective act of mass infringement. Unlike traditional peer-to-peer networks, which
+broker a 1-to-1 connection between an uploader and a downloader, a BitTorrent swarm is a
+collective enterprise where each downloader is also an uploader, and where a group of uploaders
+collaborate to speed the completion of each download of the file. Thus, contrary to John Doe’s
+assertion, the putative defendants do not engage in isolated acts of infringement, but rather
+collectively partake in mass infringement of not just the same work, but the same exact file,
+namely the AE3 Hash. See Id. (denying severance based on plaintiff’s allegations that “each
+putative defendant is a possible source for the plaintiff’s motion picture, and may be responsible
+for distributing this copyrighted work to the other putative defendants, who are also using the
+same file-trading protocol to copy and distribute the same copyrighted work”).
+Indeed, in the AE3 Hash, the present lawsuit has a clear center of gravity. Each John Doe
+defendant identified in the complaint was caught distributing not just Plaintiff’s work, but this
+specific infringing file. Thus, much like a fingerprint or a genetic marker, the AE3 Hash can tie
+each putative defendant to this BitTorrent swarm and to the infringing chain of distribution.
+It is further worth noting that Liberty Media has alleged that the Doe defendants are
+liable for Contributory Infringement for their respective contributions to each other’s
+infringement of copyright. This count goes directly to the interaction between the putative
+defendants, and, as such, all the contributors are subject to joinder in this suit.
+
+8
+	  
+
+Case 1:11-cv-10802-WGY Document 21
+
+Filed 07/01/11 Page 9 of 15
+
+Moreover, the present case is distinguishable from the Lightspeed3 line of cases (which
+are relied upon by John Doe) because each of the putative defendants are alleged to have been
+part of the chain of distribution for the AE3 Hash. See Voltage Pictures, LLC, 2011 WL
+1807438, *5 (distinguishing Lightspeed because “in contrast to the instant claim of infringement
+of a single copyrighted work . . . [Lightspeed alleged] infringement of multiple works, a factor
+that may undermine the requisite showing of concerted activity”). Moreover, the Lightspeed
+decision has been criticized because it does not account for the collaborative nature of BitTorrent
+distribution. See Id. (noting that the Lightspeed court failed to “discuss the precise nature of the
+BitTorrent technology, which enables users to contribute to each other’s infringing activity of the
+same work as part of a swarm”).
+Indeed, the present situation is closely analogous to the long line of cases which hold that
+members of a distribution chain are all permissibly joined to a copyright infringement lawsuit.
+See e.g., Costello Pub Co. v. Rotelle, 670 F.2d 1035, 1043 (D.C. Cir. 1981) (“Courts have long
+held in patent, trademark, literary property, and copyright infringement cases, any member of the
+distribution chain can be sued as an alleged joint tortfeasor. Since joint tortfeasors are jointly
+and severally liable, the victim of . . . infringement may sue as many or as few of the alleged
+wrongdoers as he chooses.”). Indeed, if Doe 1 shipped an infringing DVD to Doe 2, who in turn
+shipped it to Doe 3, there would be no question that all three Does could be properly joined in
+suit. The fact that the putative defendants in this case used BitTorrent technology to accomplish
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	   	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+3
+
+Lightspeed v. Does 1–1000, 10-c-5604, D.N. 53 (N.D. IL 2011). The Lightspeed
+decision appears to be driven not by an understanding of the collaborative nature of BitTorrent,
+but by the court’s concerns regarding the administrative burden of dealing with 1,000
+defendants, most of whom were not located in the court’s jurisdiction. See Id. (“given the
+number of potential defendants . . . this court could be faced with hundreds of factually unique
+motions to dismiss, quash or server from potential defendants located all over the country”).
+Liberty Media’s case suffers from neither defect, as it is limited to Massachusetts IP addresses,
+and 38 defendants is a manageable number.
+9
+	  
+
+Case 1:11-cv-10802-WGY Document 21
+
+Filed 07/01/11 Page 10 of 15
+
+the same distribution faster and more efficiently is no reason to depart from this settled legal
+principal. If anything, the technical ease with which the Does pilfered Liberty Media’s work is
+added reason to strengthen Liberty Media’s right to round up this ring of infringers in a judicially
+efficient process.
+B.
+
+Does 1–38 Are Tied Together by Common Questions of Law and Fact
+
+The second prong of Rule 20(a)(2) is satisfied because there are a number of common
+questions of law and fact that will be applicable to each of the defendants. In particular, the
+common questions include, but by no means are limited to:
+(1) identifying the John Doe defendants;
+(2) the validity of Liberty Media’s copyright;
+(3) numerous factual questions regarding how the BitTorrent protocol functions; and
+(4) establishing that the AE3 Hash is an infringing copy of Liberty Media’s work.
+See Call of the Wild Movie, LLC, 2011 WL 996786 at *5 (identifying common issues of the
+validity of the copyright and factual issues regarding the BitTorrent protocol and plaintiffs
+investigative method).
+Moreover, the bald possibility that defendants may raise separate affirmative defenses is
+no reason to forego the efficiency of a consolidated proceeding for the common issues. See Id.
+(“different factual and substantive legal defenses [do not] defeat, at this stage of the proceeding,
+the commonality in facts and legal claims that support joinder under Rule 20(a)(2)(B).”).
+C.
+
+Joinder Is a Pragmatic Procedural Solution that Will Not Prejudice
+Defendants
+
+Not only is joinder of Does 1–38 procedurally proper, it is the only procedural solution
+that makes pragmatic sense for the Court, the Plaintiff, the ISPs, and even the Defendants. See
+London-Sire Records, LLC, 542 F.Supp.2d at 161 (noting that consolidation “allows the
+10
+	  
+
+Case 1:11-cv-10802-WGY Document 21
+
+Filed 07/01/11 Page 11 of 15
+
+defendants to see the defense, if any, that other John Does have raised”); Call of the Wild Movie,
+LLC, 2011 WL 996786 at *6 (“The putative defendants are not prejudiced but likely benefited by
+joinder, and severance would debilitate the plaintiff’s efforts to protect their copyrighted
+materials and seek redress from the putative defendants who have allegedly engaged in
+infringing activity.”).	  	  	  
+Consider, for example, what would happen if severance is granted. For Liberty Media to
+vindicate its rights, it would have to file 38 near identical complaints and 38 near identical
+motions for early discovery. The Court would then have to review and rule on the 38 motions.
+Then the ISPs would have to respond to 38 near identical subpoenas, and so on. Such a
+inefficient procedure would do nothing but waste the Court’s time and resources, increase the
+Plaintiff’s administrative costs, multiply the burden on the third-party ISPs, and bury a
+determination on the merits under mounds of wasteful procedure.
+Joinder, on the other hand, “ensures administrative efficiency for the Court, the plaintiffs,
+and the ISP, and allows the defendants to see the defenses, if any, that other John Does have
+raised.” See London-Sire Records, Inc., 542 F.Supp.2d at 161 (justifying the consolidation of
+unrelated John Doe actions through discovery). Furthermore, 38 defendants is a manageable
+number from the Court from an administrative prospective.
+Indeed, the only ones not benefitted by joinder are the infringers who are hoping to find a
+procedural loophole through which to escape from answering on the merits for their copyright
+infringement. It is worth noting that the anonymous pro se filer of the present motion never
+protests his or her innocence, as one might expect of someone who was actually wrongfully
+accused. Making the case so procedurally unwieldy that infringers escape a judgment, however,
+is not in the interests of justice, fairness, and a speedy determination of the case on the merits.
+
+11
+	  
+
+Case 1:11-cv-10802-WGY Document 21
+
+Filed 07/01/11 Page 12 of 15
+
+See Call of the Wild Movie, LLC, 2011 WL 996786 at *6–7 (denying severance because
+alternative would cause plaintiff to “face significant obstacles in their efforts to protect their
+copyrights from illegal file-sharers and this would only needlessly delay their case . . . This
+would certainly not be in the interests of convenience and judicial economy, or secure a just,
+speedy, and inexpensive determination of the action.”).
+III.
+
+It is Premature to Consider Arguments on the Merits Before Defendants Are
+Named
+Liberty Media notes that many of the John Doe filer’s arguments go toward challenging
+
+the plaintiff’s copyright claim on the merits. It is well settled, however, that it is premature to
+consider arguments on the merits, let alone affirmative defenses, before any of the defendants are
+named in the case.4 See Achte/Neunte Boll Kino Beteiligungs GmbH & Co. v. Does 1–4,577, 736
+F.Supp.2d, 212, 215 (D.C. Cir. 2010) (“[T]he merits of this case are not relevant to the issue of
+whether the subpoena is valid and enforceable. In other words, they may have valid defenses to
+this suit, but such defenses are not at issue at this stage of the proceedings.”); Voltage Pictures,
+LLC, 2011 WL 1807438, *2 (“A general denial of liability, however, is not a basis for quashing
+the plaintiff’s subpoenas and preventing the plaintiff from obtaining the putative defendants’
+identifying information. That would deny the plaintiff access to the information critical to
+bringing these individual properly into the lawsuit to address the merits of both the plaintiff’s
+claim and their defenses.”); London-Sire Records, Inc. v. Doe 1, 542 F.Supp.2d at 176 (plaintiffs
+“are not required to win their case in order to serve the defendants with process.”).
+
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	   	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
+4
+
+The purported defendant’s concern about the availability of proof is one that the judicial
+system is well equipped to solve. Liberty Media’s burden is not Cartesian certainty, but rather a
+preponderance of the evidence as determined by the trier of fact. In the end, the jury will decide
+whether or not it believes the defendant’s denials, given the evidence Plaintiff has martialed, and
+is able to martial, through the discovery process.
+12
+	  
+
+Case 1:11-cv-10802-WGY Document 21
+
+Filed 07/01/11 Page 13 of 15
+
+Moreover, the John Doe defendants are not entitled to litigate this case on the merits
+anonymously. See Doe v. Frank, 951 F.2d 320, 324 (11th Cir. 1992) (“A plaintiff should be
+permitted to proceed anonymously only in those exceptional cases involving matters of a highly
+sensitive and personal nature, real danger of physical harm . . . . The risk that a plaintiff may
+suffer some embarrassment is not enough.”); West Coast Productions, Inc., 2011 WL 2292239 at
+*2 (denying requests proceed anonymously in a BitTorrent suit). Liberty Media is sensitive to
+the fact that allegations of infringing gay pornography may be embarrassing to some defendants,
+but embarrassment alone is not a reason to overcome the public’s interest in open and transparent
+litigation.
+
+And if any defendant suffers from a particularly precarious circumstance, the
+
+appropriate recourse is not to flatly prevent Liberty Media for asserting a valid claim.
+Liberty Media has met its threshold showing that its claims for copyright infringement
+are “no mere fishing trip” by submitting evidence of its prima facie claim for copyright
+infringement. “The plaintiff need not actually prove their case at this stage; they need only
+present evidence adequate to allow a reasonable fact-finder to find that each element of their
+claim is supported.”
+
+See London-Sire Records, LLC, 542 F.Supp.2d at 176 (declining to
+
+consider the “precise nature of the evidence gathered by the investigator”). Liberty Media’s
+investigator has testified in his sworn declaration that “[a]s of January 31, 2011, Excubitor
+identified at least thirty eight (38) unique IP addresses traceable to the Commonwealth of
+Massachusetts that were engaged in the unauthorized downloading and distribution of the AE3
+Hash.” Dinkela Decl., ¶ 26. This testimony, combined with the other statements of the Dinkela
+Declaration, satisfy Liberty Media’s burden for this preliminary stage of the case. If they are
+named in suit, the defendants will have ample opportunity to challenge the investigator’s
+findings on the merits, “[b]ut these are substantive defenses for a later stage.” Id.
+
+13
+	  
+
+Case 1:11-cv-10802-WGY Document 21
+
+IV.
+
+Filed 07/01/11 Page 14 of 15
+
+Liberty Media’s Actions and Motives Are Just and Proper
+Liberty Media is the owner of the valid and enforceable copyright of a work that is being
+
+wildly infringed over the BitTorrent protocol by anonymous internet users. As keenly articulated
+by Judge Woodcock, there is no impropriety is seeking appropriate redress for this harm:
+[T]he Court begins with the premise that the plaintiffs have a statutorily protected
+interest in their copyrighted materials and that the Doe Defendants, at least by
+allegation, have deliberately infringed that interest without consent or payment.
+Under the law, the Plaintiffs are entitled to protect their copyrighted material and
+it is difficult to discern how else in this unique circumstance the Plaintiffs could
+act. Not to act would be to allow those who would take what is not theirs to
+remain hidden behind their ISPs and to diminish and even destroy the intrinsic
+value of the Plaintiffs’ legal interest.
+See Arista Records LLC v. Does 1–27, 584 F.Supp.2d 240, 252 (D. ME 2008) (dismissing
+concerns regarding the potential abuse of the judicial process). Given that Liberty Media’s
+ultimate objective is deterrence, it will happily take these cases to trial if need be. But it is not
+obligated to, nor is it going to, foist wasteful litigation on individuals who wish to admit their
+guilt and make right the harm they’ve cause.
+V.
+
+CONCLUSION
+For the foregoing reasons, Liberty Media respectfully requests that the Court deny the
+
+present Motion to Quash (D.N. 13).
+
+14
+	  
+
+Case 1:11-cv-10802-WGY Document 21
+
+Dated: July 1, 2011
+
+Filed 07/01/11 Page 15 of 15
+
+Respectfully submitted,
+LIBERTY MEDIA HOLDINGS, LLC
+By its attorneys,
+/s/ Aaron Silverstein
+Aaron Silverstein, Esq.
+(BBO #660716)
+SAUNDERS & SILVERSTEIN LLP
+14 Cedar Street, Suite 224
+Amesbury, MA 01913
+P: 978-463-9100
+F: 978-463-9109
+E: asilverstein@massiplaw.com
+
+CERTIFICATE OF SERVICE
+I hereby certify that on the above date, the foregoing document, filed through the ECF system,
+will be sent electronically to the registered participants as identified on the Notice of Electronic
+Filing, and paper copies will be served via first-class mail to those indicated as non-registered
+participants. A copy has also been served on Doe 2, via first-class mail at the return address that
+he supplied.
+/s/ Aaron Silverstein
+Aaron Silverstein
+
+15
+	  
+
+

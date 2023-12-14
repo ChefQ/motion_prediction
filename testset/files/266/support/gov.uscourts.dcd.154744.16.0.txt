@@ -1,0 +1,2001 @@
+Case 1:12-cv-00958-ABJ Document 16 Filed 09/30/13 Page 1 of 52
+
+UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF COLUMBIA
+_______________________________________
+)
+FEDERAL ELECTION COMMISSION,
+)
+)
+Civ. No. 12-958 (ABJ)
+Plaintiff,
+)
+)
+v.
+)
+)
+MOTION FOR
+CRAIG FOR U.S. SENATE, et al.,
+)
+SUMMARY JUDGMENT
+)
+Defendants.
+)
+_______________________________________)
+PLAINTIFF FEDERAL ELECTION COMMISSION’S
+MOTION FOR SUMMARY JUDGMENT
+Plaintiff Federal Election Commission respectfully moves this Court for an order
+granting summary judgment to the Commission pursuant to Rule 56 of the Federal Rules of Civil
+Procedure and Local Rule 7(h). In support of its motion, the Commission is filing a
+Memorandum in Support of Its Motion for Summary Judgment, Plaintiff’s Statement of Material
+Facts as to Which There Is No Genuine Issue, and a Proposed Order.
+
+Respectfully submitted,
+Lisa J. Stevenson (D.C. Bar No. 457628)
+Deputy General Counsel – Law
+Kevin Deeley
+Acting Associate General Counsel
+Harry J. Summers
+Assistant General Counsel
+Robert W. Bonham III
+Senior Attorney
+
+Case 1:12-cv-00958-ABJ Document 16 Filed 09/30/13 Page 2 of 52
+
+/s/ Kevin P. Hancock
+Kevin P. Hancock
+Attorney
+
+September 30, 2013
+
+COUNSEL FOR PLAINTIFF
+FEDERAL ELECTION COMMISSION
+999 E Street, N.W.
+Washington, D.C. 20463
+(202) 694-1650
+Fax: (202) 219-0260
+
+2
+
+Case 1:12-cv-00958-ABJ Document 16 Filed 09/30/13 Page 3 of 52
+
+UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF COLUMBIA
+_______________________________________
+)
+FEDERAL ELECTION COMMISSION,
+)
+)
+Civ. No. 12-958 (ABJ)
+Plaintiff,
+)
+)
+v.
+)
+)
+MEMORANDUM IN SUPPORT OF
+CRAIG FOR U.S. SENATE, et al.,
+)
+SUMMARY JUDGMENT
+)
+Defendants.
+)
+_______________________________________)
+PLAINTIFF FEDERAL ELECTION COMMISSION’S MEMORANDUM
+IN SUPPORT OF ITS MOTION FOR SUMMARY JUDGMENT
+
+Lisa J. Stevenson (D.C. Bar No. 457628)
+Deputy General Counsel – Law
+Kevin Deeley
+Acting Associate General Counsel
+Harry J. Summers
+Assistant General Counsel
+Robert W. Bonham III
+Senior Attorney
+Kevin P. Hancock
+Attorney
+
+September 30, 2013
+
+COUNSEL FOR PLAINTIFF
+FEDERAL ELECTION COMMISSION
+999 E Street, N.W.
+Washington, D.C. 20463
+(202) 694-1650
+Fax: (202) 219-0260
+
+Case 1:12-cv-00958-ABJ Document 16 Filed 09/30/13 Page 4 of 52
+
+TABLE OF CONTENTS
+Page
+BACKGROUND .......................................................................................................................2
+I.
+
+The Parties .....................................................................................................................2
+
+II.
+
+Craig’s Arrest, Guilty Plea, and Legal Proceedings in Minnesota ...............................2
+
+III.
+
+The Senate Ethics Committee Proceedings ...................................................................3
+
+IV.
+
+FEC Administrative Proceedings ...................................................................................4
+
+V.
+
+Proceedings Before This Court ......................................................................................5
+
+ARGUMENT .............................................................................................................................6
+I.
+
+II.
+
+DEFENDANTS SPENT MORE THAN $216,000 IN VIOLATION OF FECA’S
+BAN ON CONVERTING CAMPAIGN FUNDS TO PERSONAL USE ....................6
+A.
+
+Defendants Converted Campaign Funds to Craig’s Personal Use.....................7
+
+B.
+
+No FEC Advisory Opinion Forecloses Sanctions Against Defendants
+for Their Violations............................................................................................9
+1.
+
+The Kolbe Advisory Opinion Is Materially Distinguishable from
+Defendants’ Conversion of Campaign Funds to Personal Use ..............9
+
+2.
+
+The Other Advisory Opinions Defendants Have Cited Are Also
+Materially Distinguishable from Defendants’ Activities .....................11
+
+3.
+
+Defendants Did Not Rely in Good Faith on Kolbe or Any Other
+FEC Advisory Opinion ........................................................................12
+
+DEFENDANTS SHOULD DISGORGE THE CONVERTED FUNDS AND
+PAY A SIGNIFICANT CIVIL PENALTY FOR THEIR VIOLATION OF
+A CRITICAL PART OF THE NATION’S CAMPAIGN FINANCE
+INFRASTRUCTURE ..................................................................................................14
+A.
+
+Disgorgement Would Prevent Craig from Being Unjustly Enriched by
+His Conversion of Campaign Funds to Personal Use ......................................14
+
+B.
+
+A Substantial Civil Penalty Would Punish Defendants’ Violation, Deter
+Future Violations, Promote Public Confidence in Government and the
+Campaign Finance System, and Serve Other Important Interests ...................18
+i
+
+Case 1:12-cv-00958-ABJ Document 16 Filed 09/30/13 Page 5 of 52
+
+C.
+
+1.
+
+The Need to Deter Future Personal Use Violations at a Time
+When Billions of Dollars Are Contributed to Federal Candidates ......18
+
+2.
+
+Injury to Contributors to the Craig Committee ....................................21
+
+3.
+
+Defendants’ Violations Undermined the Public’s Confidence in
+Government and the Campaign Finance System .................................21
+
+4.
+
+Craig Profited from Defendants’ Violation .........................................23
+
+5.
+
+The Need to Punish Defendants’ Serious Violations of Campaign
+Finance Law .........................................................................................24
+
+6.
+
+The Importance of Vindicating the Authority of the Commission
+and Encouraging Pre-Litigation Settlement .........................................24
+
+7.
+
+Defendants’ Purported Good Faith Does Not Warrant Penalties
+Below $70,000 .....................................................................................25
+
+8.
+
+Defendants Cannot Show That Craig Would Be Unable to
+Disgorge the Converted Funds and Pay an Appropriate
+Civil Penalty.........................................................................................28
+
+This Court Should Declare that Defendants Violated the Act and Issue a
+Permanent Injunction .......................................................................................30
+
+CONCLUSION ........................................................................................................................30
+
+ii
+
+Case 1:12-cv-00958-ABJ Document 16 Filed 09/30/13 Page 6 of 52
+
+Defendant Larry Craig spent more than $216,000 that contributors gave to his U.S.
+Senate campaign committee on personal legal expenses he incurred in an effort to withdraw his
+guilty plea to a misdemeanor count of disturbing the peace in Minnesota. In denying defendants’
+motion to dismiss, this Court correctly held that Craig’s alleged spending “falls squarely” within
+the Federal Election Campaign Act’s prohibition on converting campaign funds to personal use.
+FEC v. Craig for U.S. Senate, --- F. Supp. 2d ---, 2013 WL 1248271, at *1 (D.D.C. Mar. 28,
+2013). This Court also found that no advisory opinion of the Federal Election Commission
+would excuse defendants’ misuse of campaign funds. Id. at *7-12. Defendants have now
+admitted the factual allegations of the Complaint and “the remaining issues are defendants’
+liability as a matter of law and the factual and legal determinations that enable the Court to
+determine the appropriate remedy.” (Joint Local Rule 16.3 Report ¶ 1(2) (Docket No. 13).)
+The Commission now moves for summary judgment. The Court should hold that
+defendants’ misuse of funds violated 2 U.S.C. § 439a(b) and impose appropriate civil remedies.
+Craig should be required to disgorge the funds he converted to prevent him from being unjustly
+enriched by his wrongdoing. Defendants should also be required to pay a substantial civil
+penalty to punish this violation and deter others. The violation allowed Craig to profit, while
+injuring contributors to his committee, who were exercising their First Amendment right to
+support Craig’s candidacy, not his wallet. Personal use violations also injure the public by
+increasing the risk of corruption and the appearance of corruption among federal leaders, while
+undermining the public’s confidence in government and the campaign finance system, which
+deters participation in the political process. Finally, the Court should issue a declaration and a
+permanent injunction to prevent similar future threats to the nation’s political system.
+
+1
+
+Case 1:12-cv-00958-ABJ Document 16 Filed 09/30/13 Page 7 of 52
+
+BACKGROUND
+I.
+
+The Parties
+Plaintiff Federal Election Commission (“Commission” or “FEC”) is an independent
+
+agency of the United States government with exclusive jurisdiction over the administration,
+interpretation, and civil enforcement of the Federal Election Campaign Act (“FECA”), 2 U.S.C.
+§§ 431-57. See 2 U.S.C. §§ 437c(b)(1), 437d(a), 437g. The Commission is authorized to
+investigate possible violations of FECA, id. § 437g(a)(1)-(2), and to initiate civil actions in the
+United States district courts to obtain judicial enforcement of FECA, id. §§ 437d(e), 437g(a)(6).
+Defendant Larry Craig was a United States Senator from Idaho from January 1991 to
+January 2009. (FEC’s Statement of Material Facts as to Which It Contends There Is No Genuine
+Issue (“FEC Facts”) ¶ 4.) In 2007, Craig was a candidate for the United States Senate in the
+2008 election, and he authorized defendant Craig for U.S. Senate (“Craig Committee”) to be his
+principal campaign committee under 2 U.S.C. § 431(5)-(6). (FEC Facts ¶ 5.) Accordingly, the
+Craig Committee was authorized to receive campaign contributions and make expenditures on
+Craig’s behalf. Id.; see 2 U.S.C. § 432(e)(1)-(2). Craig is a defendant in this matter in his
+personal capacity and in his official capacity as treasurer of the Craig Committee. (FEC Facts
+¶ 6.)1
+II.
+
+Craig’s Arrest, Guilty Plea, and Legal Proceedings in Minnesota
+On June 11, 2007, then-Senator Craig was arrested while using a restroom at the
+
+Minneapolis-St. Paul International Airport, where he was awaiting a scheduled flight to
+Washington, D.C. (FEC Facts ¶ 7.) Craig was charged under Minnesota law with disturbing the
+peace-disorderly conduct and interference with privacy. (Id. ¶ 8.) About two months later, on
+1
+
+On May 1, 2013, this Court entered a minute order granting defendants’ consent motion
+to substitute Craig for Kaye O’Riordan as treasurer of the Craig Committee.
+2
+
+Case 1:12-cv-00958-ABJ Document 16 Filed 09/30/13 Page 8 of 52
+
+August 8, 2007, Craig pleaded guilty to a misdemeanor count of disorderly conduct in Minnesota
+state district court. (Id. ¶ 9.)
+Craig subsequently retained the Washington, D.C. law firm of Sutherland, Asbill &
+Brennan (“Sutherland”) and the Minnesota law firm of Kelly & Jacobson (“Kelly”) in an effort
+to withdraw his guilty plea. (FEC Facts ¶ 10.) On September 10, 2007, Craig filed a motion to
+withdraw the guilty plea, which was denied on October 4, 2007. (Id. ¶ 13.) Craig appealed the
+ruling to the Minnesota Court of Appeals, which rejected the appeal on December 9, 2008. (Id.)
+From October 29, 2007 through October 5, 2008, the Craig Committee paid at least $139,952 to
+Sutherland and $77,032 to Kelly, for a total of at least $216,984, in connection with Craig’s
+failed efforts to withdraw his guilty plea. (Id. ¶ 23.)
+III.
+
+The Senate Ethics Committee Proceedings
+The United States Senate Select Committee on Ethics (“Senate Ethics Committee”)
+
+conducted an inquiry into Craig’s conduct in connection with his arrest, guilty plea, and
+subsequent conduct. (FEC Facts ¶ 25.) The Brand Law Group in Washington, D.C. — which
+represents defendants in this matter — also represented Craig before the Senate Ethics
+Committee. (Id. ¶ 26.) In a September 5, 2007, letter to the Senate Ethics Committee, Craig’s
+counsel argued that the Senate Ethics Committee should not exercise jurisdiction over the matter
+because Craig’s arrest and guilty plea was for “purely personal conduct unrelated to the
+performance of official Senate duties.” (Id. (emphasis added).)
+On February 13, 2008, the Senate Ethics Committee issued a “Public Letter of
+Admonition” unanimously concluding that, among other matters, Craig had not complied with
+Senate Rule 38.2, which requires Senate Ethics Committee approval of any payments for legal
+expenses paid with funds of a principal campaign committee. (FEC Facts ¶ 27.) Specifically,
+
+3
+
+Case 1:12-cv-00958-ABJ Document 16 Filed 09/30/13 Page 9 of 52
+
+the Ethics Committee wrote:
+[T]he Senate Ethics Manual states that “Members, officers or employees
+may pay legal expenses incurred in connection with their official duties
+with funds of a Senator’s principal campaign committee, but only if such
+payment is approved by the Committee.” . . . It appears that you have
+used over $213,000 in campaign funds to pay legal (and, apparently,
+“public relations”) fees in connection with your appeal of your criminal
+conviction and in connection with the preliminary inquiry before the
+Committee in this matter. It appears that some portion of these expenses
+may not be deemed to have been incurred in connection with your official
+duties, either by the Committee or by the Federal Election Commission
+(which has concurrent jurisdiction with the Committee on the issue of
+conversion of a Senator’s campaign funds to personal use).
+(Id. (emphasis omitted; second emphasis added).)
+IV.
+
+FEC Administrative Proceedings
+On November 10, 2008, the Commission received an administrative complaint alleging
+
+that Craig had violated 2 U.S.C. § 439a(b), the provision of FECA that bars the conversion of
+campaign funds to personal use, by spending campaign funds to pay legal fees and expenses
+incurred in connection with his arrest and conviction. (FEC Facts ¶ 28.) By letter dated
+November 18, 2008, the Commission notified defendants that the administrative complaint had
+been filed and provided defendants with a copy. Craig responded to the Commission
+on December 2, 2008. FEC Facts ¶ 29; see 2 U.S.C. § 437g(a)(1). In that response, Craig
+claimed that he did not violate FECA and that he acted in good faith on the basis of a letter from
+his counsel, dated October 4, 2007, which Craig attached. (FEC Facts ¶ 29; see also id. ¶ 17.)
+After reviewing the then-available information, on May 19, 2009, the Commission voted
+5-0 (with one Commissioner recused) to find “reason to believe” that defendants had violated
+2 U.S.C. § 439a(b). FEC Facts ¶ 30; see 2 U.S.C. § 437g(a)(1)-(2).
+Following an investigation, briefing by the Commission’s General Counsel and
+defendants, and a hearing, on February 7, 2012, the Commission voted 5-0 to find probable
+4
+
+Case 1:12-cv-00958-ABJ Document 16 Filed 09/30/13 Page 10 of 52
+
+cause to believe that defendants had violated 2 U.S.C. § 439a(b). FEC Facts ¶ 31; see 2 U.S.C.
+§ 437g(a)(4)(A).
+As FECA requires, the Commission then endeavored to correct the violations through
+informal methods of conference, conciliation, and persuasion for a period of not less than
+30 days. FEC Facts ¶ 32; see 2 U.S.C. § 437g(a)(4)(A). Unable to secure acceptable
+conciliation agreements, and having met each of the jurisdictional prerequisites to bringing suit,
+on May 3, 2012, the Commission voted 5-0 to authorize this litigation against defendants. FEC
+Facts ¶ 32; see 2 U.S.C. § 437g(a)(6).
+V.
+
+Proceedings Before This Court
+The Commission filed this action on June 11, 2012, pursuant to its authority under
+
+2 U.S.C. §§ 437d(a)(6), 437g(a)(6)(A). (FEC Facts ¶ 33.) Defendants moved to dismiss the
+Complaint under Federal Rule of Civil Procedure 12(b)(6) on August 8, 2012. (See Defs.’ Mot.
+to Dismiss (Docket No. 3).) After holding a hearing, the Court denied defendants’ motion on
+March 28, 2013. (See Order (Docket No. 10).) The Court concluded that if the factual
+allegations in the Complaint were assumed to be true, the Craig Committee’s “campaign funds
+were converted to Senator Craig’s personal use,” and therefore the Commission had stated a
+valid claim that defendants violated 2 U.S.C. § 439a(b). Craig for U.S. Senate, 2013 WL
+1248271, at *1; see also Mem. Op. at 2 (Docket No. 11).
+On April 11, 2013, defendants filed an Answer in which they admitted the factual
+allegations of the Commission’s Complaint. (Answer (Docket No. 12).). On April 19, 2013, the
+parties filed a joint report pursuant to Local Civil Rule 16.3. (Joint Local Rule 16.3 Report
+(Docket No. 13).) In that joint report, the parties stated that “Defendants do not dispute any of
+the relevant facts regarding the violations alleged in this case,” and “it appears at present that the
+
+5
+
+Case 1:12-cv-00958-ABJ Document 16 Filed 09/30/13 Page 11 of 52
+
+remaining issues are defendants’ liability as a matter of law and the factual and legal
+determinations that enable the Court to determine the appropriate remedy.” (Id. ¶ 1(2) (Docket
+No. 13).)
+The Court issued a scheduling order on April 26, 2013, directing the parties to complete
+discovery by August 30, 2013, and setting a dispositive motion briefing schedule. (Scheduling
+Order at 1 (Docket No. 14).) The Commission now moves this Court for an order granting
+summary judgment against defendants. See Fed. R. Civ. P. 56(a) (summary judgment is
+appropriate if there is “no genuine dispute as to any material fact and the movant is entitled to
+judgment as a matter of law”). If the Court concludes that defendants violated 2 U.S.C.
+§ 439a(b), the Commission also requests that the Court order appropriate civil remedies against
+defendants pursuant to 2 U.S.C. § 437g(a)(6)(B).
+ARGUMENT
+I.
+
+DEFENDANTS SPENT MORE THAN $216,000 IN VIOLATION OF FECA’S
+BAN ON CONVERTING CAMPAIGN FUNDS TO PERSONAL USE
+Senator Craig and his campaign committee spent more than $216,000 in funds from
+
+campaign contributors on then-Senator Craig’s personal legal expenses stemming from his
+attempt to withdraw a guilty plea he entered following arrest in Minnesota for disturbing the
+peace. In denying defendants’ motion to dismiss, this Court held that defendants’ alleged
+spending “falls squarely” within FECA’s prohibition on converting campaign funds to personal
+use. Craig for U.S. Senate, 2013 WL 1248271, at *6. Since defendants have now admitted the
+factual allegations of the Complaint, the Court should hold that defendants violated section
+439a(b), which is a key part of FECA’s framework designed to prevent self-dealing by federal
+office holders as well as promote confidence in government and the campaign finance system.
+The defendants’ violation of FECA is not excused by any FEC advisory opinion. As this Court
+6
+
+Case 1:12-cv-00958-ABJ Document 16 Filed 09/30/13 Page 12 of 52
+
+has held, the advisory opinions defendants have cited are all materially distinguishable. Nor did
+defendants rely in good faith on any of the opinions, as would be required for the opinions to
+protect defendants. This Court should therefore grant summary judgment to the Commission.
+A.
+
+Defendants Converted Campaign Funds to Craig’s Personal Use
+
+FECA permits the use of campaign funds for six purposes. See 2 U.S.C. § 439a(a)(1)-(6).
+They include “ordinary and necessary expenses incurred in connection with duties of [an]
+individual as a holder of Federal office,” id. § 439a(a)(2), and any “lawful purpose unless
+prohibited by” section 439a(b), id. § 439a(a)(6). However, section 439a(b) bars any person from
+converting campaign funds to personal use. 2 U.S.C. § 439a(b)(1). That occurs where campaign
+funds are “used to fulfill any commitment, obligation, or expense of a person that would exist
+irrespective of the . . . individual’s duties as a holder of Federal office.” Id. § 439a(b)(2). The
+Commission has explained that under this prohibition, campaign funds may be used for expenses
+“caused by . . . the activities of an officeholder,” but may not be used for expenses that “would
+exist . . . even if the officeholder were not in office.” Expenditures; Reports by Political
+Committees, Personal Use of Campaign Funds, 60 Fed. Reg. 7862, 7863-64 (Feb. 9, 1995).
+While some expenses, such as a home mortgage, are always deemed personal use, 2
+U.S.C. § 439a(b)(2)(A), the Commission examines other expenses, such as legal expenses, on a
+case-by-case basis, 11 C.F.R. § 113.1(g)(1)(ii)(A). In no case, however, are legal expenses
+officeholder-related “merely because the underlying legal proceedings have some impact on . . .
+the officeholder’s status,” as would be the case with charges for driving under the influence of
+alcohol. 60 Fed. Reg. 7862, 7868. Campaign funds therefore may not be used for such personal
+legal expenses. Id.
+
+7
+
+Case 1:12-cv-00958-ABJ Document 16 Filed 09/30/13 Page 13 of 52
+
+On March 28, 2013, this Court held that the now-admitted allegations of the FEC’s
+Complaint stated a valid claim that defendants violated section 439a(b). Craig for U.S. Senate,
+2013 WL 1248271, at *1. The Court explained that Craig’s Minnesota legal expenses were
+personal and were not incurred in connection with his officeholder duties. Id. at *5-6. Craig
+incurred his legal expenses as a result of being arrested for and pleading guilty to disturbing the
+peace under Minnesota law. Id. at *5. “Neither the charge nor the underlying conduct had
+anything to do with [Craig’s] performance of his official duties,” the Court explained. Id.
+Indeed, Craig admitted this fact to the Senate Ethics Committee, where he contended that his
+conduct was “purely personal” and “unrelated to the performance of official Senate duties.” Id.
+at *6 (internal quotation marks omitted).
+Craig has asserted that his legal expenses were not personal because he was arrested in
+the midst of official travel from his home state of Idaho to Washington, D.C. Craig for U.S.
+Senate, 2013 WL 1248271, at *5. But, as this Court pointed out, his legal expenses “were
+neither incurred at the time of the travel nor necessitated by the travel.” Id. Craig’s legal
+expenses were incurred months later — after Craig pled guilty, reconsidered that decision, and
+then hired attorneys to help him try to undo it — making any purported link with Craig’s travel
+“even more attenuated.” Id.
+Because Craig’s duties did not cause his legal expenses, this Court explained that it was
+irrelevant whether Craig’s decision to withdraw his plea was motivated by concern for political
+or reputational status. Craig for U.S. Senate, 2013 WL 1248271, at *6. In this respect, the Court
+concluded, Craig’s expenses “are analogous to the legal expenses for other personal
+transgressions such as driving while intoxicated that the Commission has determined will be
+treated as personal.” Id.
+
+8
+
+Case 1:12-cv-00958-ABJ Document 16 Filed 09/30/13 Page 14 of 52
+
+Accordingly, this Court should hold that defendants violated 2 U.S.C. § 439a(b).
+B.
+
+No FEC Advisory Opinion Forecloses Sanctions Against Defendants for
+Their Violations
+
+In their motion to dismiss, defendants claimed that even if they were deemed to have
+violated section 439a(b), they would nonetheless be immune from liability because they relied on
+FEC advisory opinions that allegedly authorized spending materially similar to their own. This
+Court rejected that argument, and it should do so again if defendants reassert it.
+FECA shields certain persons from “any sanction” under FECA for “good faith reliance”
+upon an FEC advisory opinion. 2 U.S.C. § 437f(c). To qualify for this immunity, however, a
+person must (1) “rel[y] upon any provision or finding of an advisory opinion”; (2) be “involved
+in any specific transaction or activity which is indistinguishable in all its material aspects from
+the transaction or activity with respect to which such advisory opinion [was] rendered”; and (3)
+“act[] in good faith in accordance with the provisions and findings of such advisory opinion.” Id.
+§ 437f(c)(1)(B), (2).
+1.
+
+The Kolbe Advisory Opinion Is Materially Distinguishable from
+Defendants’ Conversion of Campaign Funds to Personal Use
+
+In this litigation defendants have relied primarily on FEC Advisory Opinion (“AO”)
+2006-35 (Kolbe), but as this Court has already concluded, that reliance is misplaced. See Craig
+for U.S. Senate, 2013 WL 1248271, at *7-11. Then-United States Representative Jim Kolbe had
+asked the FEC whether he could use campaign funds for legal expenses associated with a
+preliminary inquiry by the Justice Department. FEC AO 2006-35 (Kolbe), 2007 WL 419188, at
+*1 (Jan. 26, 2007).2 The preliminary inquiry concerned, in part, information Kolbe knew
+regarding another member of Congress’s interaction with pages working at the House of
+2
+
+FEC AO 2006-35 (Kolbe) can also be found at http://saos.nictusa.com/aodocs/2006-
+
+35.pdf.
+9
+
+Case 1:12-cv-00958-ABJ Document 16 Filed 09/30/13 Page 15 of 52
+
+Representatives. Id. at *2. To the extent Kolbe learned this information because Kolbe was an
+officeholder, the FEC approved the request. Id.
+The preliminary inquiry also concerned a “rafting trip to the Grand Canyon” that Kolbe
+took in 1996. FEC AO 2006-35 (Kolbe), 2007 WL 419188, at *3. Because that trip was “an
+official Congressional visit,” the Commission concluded that Kolbe’s legal expenses “in
+responding to the inquiry into his trip” at that preliminary stage were permissible, officeholderrelated expenses under section 439a(a)(2) and not personal use under section 439a(b). Id. at *3.
+The Commission, however, added an important caveat. It pointed out that the Justice
+Department had not yet made the “details of the preliminary inquiry” public, and that it was
+“possible that the scope of the inquiry could involve allegations not related to Representative
+Kolbe’s duties as a Federal officeholder.” FEC AO 2006-35 (Kolbe), 2007 WL 419188, at *3.
+The opinion warned that Kolbe would not be permitted to use campaign funds for the inquiry to
+the extent it involved “other allegations, if any, that do not concern” Kolbe’s officeholder duties.
+Id.
+Nevertheless, defendants claimed that the Kolbe opinion approved the use of campaign
+funds for an inquiry into any personal misconduct Kolbe may have engaged in during the official
+trip. Craig for U.S. Senate, 2013 WL 1248271, at *8. But as this Court observed, “the opinion
+doesn’t say that at all.” Id. Instead, the test the Commission articulated is “whether the
+particular subject of the legal inquiry that calls for the payment of legal fees ‘relates to’ or
+‘concerns’ the Member’s campaign activities or duties as a federal office holder.” Id. (citing
+FEC AO 2006-35 (Kolbe), 2007 WL 419188, at *2).
+Defendants also claimed that the Kolbe opinion immunized their violation of section
+439a(b) because of the Commission’s alleged awareness of certain underlying facts in the Kolbe
+
+10
+
+Case 1:12-cv-00958-ABJ Document 16 Filed 09/30/13 Page 16 of 52
+
+situation. Craig for U.S. Senate, 2013 WL 1248271, at *9. Pointing to communications between
+Kolbe’s representatives and FEC staff, defendants argued that the Commission “knew” when it
+approved the Kolbe opinion that the Department of Justice was investigating allegations that
+Kolbe engaged in personal misconduct with pages who accompanied him on the Grand Canyon
+trip. Id. This Court, however, found defendants’ attempt to rely upon such pre-decisional
+communications unavailing. Id. at *9-11. As the Court explained, the communications between
+Kolbe and the FEC show, “[a]t most,” that the FEC knew that there was an inquiry into the
+rafting trip, that the inquiry was in its early stages and its details were confidential, and “that
+prosecutors had not designated Kolbe as a ‘target.’” Id. at *11. Kolbe’s interactions with pages
+on the trip could have been “[o]ne possible — and unconfirmed — subject of the inquiry,” the
+Court noted, but the inquiry also “could have been [about] Kolbe’s receipt of information about
+another Congressman.” Id.
+Accordingly, the Kolbe advisory opinion does not immunize defendants’ conversion of
+campaign funds to Craig’s personal use in violation of section 439a(b).
+2.
+
+The Other Advisory Opinions Defendants Have Cited Are Also
+Materially Distinguishable from Defendants’ Activities
+
+No other FEC advisory opinion immunizes defendants’ violation of the personal use ban.
+In their motion to dismiss, defendants argued that they relied upon three advisory opinions in
+addition to Kolbe. Craig for U.S. Senate, 2013 WL 1248271, at *11-12. As this Court
+concluded, however, each of those opinions is materially distinguishable. In FEC AO 1997-27
+(Boehner), 1998 WL 108616 (Feb. 23, 1998)3 and FEC AO 2000-40 (McDermott), 2001 WL
+
+3
+
+FEC AO 1997-27 (Boehner) can also be found at http://saos.nictusa.com/aodocs/1997-
+
+27.pdf.
+11
+
+Case 1:12-cv-00958-ABJ Document 16 Filed 09/30/13 Page 17 of 52
+
+136013 (Feb. 7, 2001),4 the Commission approved the use of campaign funds to pay for legal
+fees where “the activities underlying the lawsuit arose out of [Boehner’s and McDermott’s]
+performance of their official duties” as members of Congress. Craig for U.S. Senate, 2013 WL
+1248271, at *12.
+In FEC AO 2005-11 (Cunningham), 2005 WL 2470825 (Sept. 26, 2005),5 the
+Commission similarly approved the use of campaign funds for legal fees to respond to an
+investigation into whether a member of Congress received benefits from a federal defense
+contractor because of his position on a Congressional committee. Craig for U.S. Senate, 2013
+WL 1248271, at *12. In contrast, nothing about Craig’s official duties caused the legal expenses
+he incurred in trying to withdraw his guilty plea. Id.
+3.
+
+Defendants Did Not Rely in Good Faith on Kolbe or Any Other FEC
+Advisory Opinion
+
+Kolbe and the other distinguishable advisory opinions that defendants have cited offer
+them no protection from prosecution for an additional reason: Defendants did not rely in good
+faith upon those opinions. Section 437f(c) offers “protection for good faith reliance” on an
+advisory opinion. A person invoking that protection must have “relie[d] upon any provision or
+finding of an advisory opinion” and have “act[ed] in good faith in accordance” with those
+provisions and findings. 2 U.S.C. § 437f(c)(2).
+After the Commission notified Craig of the administrative complaint in this matter, Craig
+maintained that he had made a “good faith effort to ascertain the legality of using campaign
+funds for these expenses” based on the advice from counsel he received in a letter dated October
+4
+
+FEC AO 2000-40 (McDermott) can also be found at http://saos.nictusa.com/
+aodocs/2000-40.pdf.
+
+5
+
+FEC AO 2005-11 (Cunningham) can also be found at http://saos.nictusa.com/
+aodocs/2005-11.pdf.
+12
+
+Case 1:12-cv-00958-ABJ Document 16 Filed 09/30/13 Page 18 of 52
+
+4, 2007. (FEC Facts ¶ 17; see also id. ¶ 29.) That advice, however, did not rest upon the Kolbe,
+McDermott, Boehner, or Cunningham advisory opinions. The October 4, 2007 letter does not
+even mention the McDermott, Boehner, or Cunningham advisory opinions. (Id. ¶ 19.) The letter
+did advise Craig that the Kolbe opinion allowed him to legally spend campaign funds for
+representation before the Senate Ethics Committee. (Id. ¶ 18.) But in its next paragraph, the
+letter stated that counsel had “found no directly applicable FEC opinions” on the separate issue
+of whether Craig could legally spend campaign funds on his Minnesota legal expenses. (Id.)
+And despite being aware of the Kolbe opinion, counsel further advised that the “FEC has
+apparently never addressed legal expenses stemming from official travel.” (Id.) Instead, the
+letter relied upon two provisions of the Constitution to incorrectly advise that Craig’s Minnesota
+legal expenses were not personal use under section 439a(b). (Id. ¶ 20.) Thus, the letter reflects a
+view that the Kolbe opinion and the other opinions had no bearing on whether Craig could spend
+campaign funds on his Minnesota legal fees.
+Defendants therefore did not in fact rely upon or act in good faith in accordance with the
+Commission advisory opinions upon which they rely here. Thus, defendants cannot invoke those
+opinions as a safe harbor under 2 U.S.C. § 437f(c)(2).
+*
+
+*
+
+*
+
+To pay for then-Senator Craig’s personal legal expenses, defendants used more than
+$216,000 that donors contributed to Craig’s campaign committee. That act violated 2 U.S.C.
+§ 439a(b), and no FEC advisory opinion excuses that violation. The Court should therefore grant
+summary judgment for the Commission.
+
+13
+
+Case 1:12-cv-00958-ABJ Document 16 Filed 09/30/13 Page 19 of 52
+
+II.
+
+DEFENDANTS SHOULD DISGORGE THE CONVERTED FUNDS AND PAY A
+SIGNIFICANT CIVIL PENALTY FOR THEIR VIOLATION OF A CRITICAL
+PART OF THE NATION’S CAMPAIGN FINANCE INFRASTRUCTURE
+If this Court concludes that defendants are liable for violating FECA’s personal use ban,
+
+the Commission respectfully requests that the Court impose appropriate remedies against
+defendants. Section 439a is important because it promotes ethical federal leadership as well as
+public faith in government and the campaign finance system in particular.
+FECA authorizes this Court to grant a “permanent or temporary injunction, restraining
+order, or other order, including a civil penalty which does not exceed the greater of [$7,500] or
+an amount equal to any contribution or expenditure involved” in the violation. 2 U.S.C.
+§ 437g(a)(6)(B); see 11 C.F.R. § 111.24(a)(1).6 The Commission requests that this Court (1)
+order Craig to disgorge the $216,984 he converted to his personal use and refund that amount to
+the Craig Committee; (2) order Craig to pay a $70,000 civil penalty; (3) order the Craig
+Committee to pay a $70,000 civil penalty; and (4) declare that defendants violated section
+439a(b) and permanently enjoin them from violating that provision again. As discussed below,
+these proposed remedies promote important interests, including preventing unjust enrichment,
+deterrence, and punishment for injury to contributors.
+A.
+
+Disgorgement Would Prevent Craig from Being Unjustly Enriched by His
+Conversion of Campaign Funds to Personal Use
+
+This Court should order Craig to disgorge the $216,984 he converted to his personal use.
+See 2 U.S.C. § 437g(a)(6)(B) (authorizing “other orders” to remedy FECA violations). The
+primary purpose of disgorgement is “‘to make sure that wrongdoers will not profit from their
+wrongdoing.’” SEC v. Whittemore, 691 F. Supp. 2d 198, 204 (D.D.C. 2010) (quoting SEC v.
+
+6
+
+The first part of section 437g(a)(6)(B)’s civil penalty amount was adjusted for inflation
+from $5,000 to $7,500. See 11 C.F.R. § 111.24(a)(1).
+14
+
+Case 1:12-cv-00958-ABJ Document 16 Filed 09/30/13 Page 20 of 52
+
+Tome, 833 F.2d 1086, 1096 (2d Cir. 1987)); see also SEC v. Bilzerian, 29 F.3d 689, 697 (D.C.
+Cir. 1994) (explaining that disgorgement “deprive[s] the wrongdoer of his ill-gotten gain”
+(internal quotation marks omitted)). It achieves this goal by “remedying the effects of past
+conduct to restore the status quo,” and it is “measured by the amount of prior unlawful gains.”
+United States v. Philip Morris USA, Inc., 396 F.3d 1190, 1198 (D.C. Cir. 2005).
+Officeholders who convert campaign funds to their personal use, as Craig did, unjustly
+benefit since otherwise they would have had to use their personal funds or forego their purchases
+altogether. Disgorgement eliminates that unjust benefit. See FEC v. Furgatch, 869 F.2d 1256,
+1258 n.1 (9th Cir. 1989) (suggesting that where a defendant derives a “tangible benefit” from a
+FECA violation, a court may consider “the desire to eliminate the benefit derived from the
+violation” in ordering remedies under section 437g(a)(6)(B) (internal quotation marks omitted)).
+For that reason, the Commission regularly requires respondents in the administrative
+enforcement process to disgorge converted funds when conciliating personal use violations. See,
+e.g., Conciliation Agreement, Matter Under Review (“MUR”) 5787 (Kalyn Free for Congress)
+¶ VI.2 (requiring respondent who violated section 439a(b) to refund full amount of personally
+used funds);7 Conciliation Agreement, MUR 5895 (Meeks for Congress) ¶ VI.4 (same);8
+Conciliation Agreement, MUR 5962 (Istook for Congress) ¶ XII (same);9 Conciliation
+Agreement, MUR 5372 (Campbell for Senate) ¶ VII (noting that respondents who violated
+section 439a(b) had already refunded amount converted).10
+
+7
+
+See http://eqs.nictusa.com/eqsdocsMUR/28044212013.pdf.
+
+8
+
+See http://eqs.nictusa.com/eqsdocsMUR/000EC959.pdf.
+
+9
+
+See http://eqs.nictusa.com/eqsdocsMUR/28044212385.pdf.
+
+10
+
+See http://eqs.nictusa.com/eqsdocsMUR/000006E2.pdf.
+15
+
+Case 1:12-cv-00958-ABJ Document 16 Filed 09/30/13 Page 21 of 52
+
+Similarly, courts addressing criminal violations resulting from the personal use of
+campaign funds have ordered — in addition to imprisonment — restitution, forfeiture, and other
+financial penalties designed to remove any benefit the defendant may have received from the
+violation. See, e.g., Judgment, United States v. Jackson, No. 13-cr-0058 (D.D.C. Aug. 19, 2013)
+(Docket No. 56) (ordering former Congressman to forfeit any property derived from stolen
+campaign funds, to pay a money judgment of $750,000, and to serve 30 months in prison for
+conspiring to commit false statement, mail fraud, and wire fraud); Judgments, United States v.
+Taff, 400 F. Supp. 2d 1270 (D. Kan. 2005) (No. 2:05-cr-20086, Docket Nos. 51, 52) (federal
+candidate sentenced to 15 months in prison for section 439a violation and wire fraud, codefendant sentenced to five months in prison and $50,000 fine for wire fraud, where converted
+campaign funds already returned to committee prior to sentencing); United States v. Henningsen,
+387 F.3d 585, 588 (7th Cir. 2004) (explaining that the defendant was ordered to pay $7,370 in
+restitution and sentenced to 33 months in prison for personal use of campaign funds in violation
+of mail fraud statute); United States v. Pawlinski, 374 F.3d 536, 537 (7th Cir. 2004) (explaining
+that the defendant was ordered to pay restitution of $39,324.03 and serve eight months in prison
+for converting campaign funds to personal use in violation of mail fraud statute).11
+Courts in this Circuit have also ordered disgorgement in other contexts where, as here, a
+party wrongly profited from his or her violation of the law. See, e.g., Bilzerian, 29 F.3d at 697
+(affirming order that defendant disgorge more than $33 million derived from committing
+securities fraud); Whittemore, 691 F. Supp. 2d at 209-10 (ordering defendants to disgorge more
+than $1 million obtained via securities fraud); SEC v. Levine, 517 F. Supp. 2d 121, 128, 141
+11
+
+The Department of Justice prosecutes criminal cases involving the stealing of campaign
+funds either as “FECA crimes under 2 U.S.C. § 439a, or as mail or honest services frauds under
+18 U.S.C. § 1341 and 1346.” Department of Justice, Federal Prosecution of Election Offenses at
+195 (7th ed. 2007), http://www.justice.gov/criminal/pin/docs/electbook-0507.pdf.
+16
+
+Case 1:12-cv-00958-ABJ Document 16 Filed 09/30/13 Page 22 of 52
+
+(D.D.C. 2007) (explaining that the “court possesses power to order the defendants to disgorge
+fully the ill-gotten gains of their fraudulent activities,” and ordering defendants to disgorge more
+than $217,000 in “unlawful profits”).
+Craig admits that he used at least $216,984 in campaign funds from the Craig Committee
+to pay the Sutherland and Kelly law firms for services related to withdrawal of his guilty plea.
+(FEC Facts ¶ 23.) But for this violation of FECA, Craig would have had to pay for his legal
+representation himself. Instead, Craig in effect obtained hundreds of thousands of dollars in free
+legal services. This Court should order Craig to disgorge $216,984 to prevent him from profiting
+from his wrongdoing and to restore the status quo, and order it refunded to the Craig
+Committee.12
+
+12
+
+Alternatively, the Court could order that the converted funds be disgorged to the United
+States Treasury, and there are substantial reasons for doing so given the Craig Committee’s
+complicity in the violations and Craig’s control over Craig Committee funds. In this case,
+however, the Commission recommends that Craig instead be ordered to refund the converted
+funds to the Craig Committee. The Craig Committee has now spent virtually all its funds and
+raising funds at this time is unlikely. FEC data shows that the Craig Committee had only
+$614.74 in cash on hand as of July 15, 2013. See 2013 July 15 Quarterly Report for Craig for
+U.S. Senate (July 15, 2013) at 2, http://images.nictusa.com/pdf/071/13020350071/
+13020350071.pdf. A refund to the Craig Committee would thus enable it to pay a significant
+civil penalty in this case, which is warranted given its use of funds in violation of section
+439a(b), as explained below. See infra pp. 18-29. If anything less than the full authorized civil
+penalty were ordered, the remaining portion of the funds refunded by Craig would be in the
+Craig Committee’s control, which comes closer to restoring the status quo. Though the personal
+use violations at issue here raise questions regarding whether the funds would be used in a
+manner supported by the Craig Committee’s contributors, restoring the funds to the Craig
+Committee at least allows for the possibility that its contributors could seek a refund from the
+Craig Committee or demand that the Craig Committee contribute the funds to further candidates
+and issues consistent with former-Senator Craig’s policy positions while in office. Of course, the
+Craig Committee’s use of the funds would remain subject to 2 U.S.C. § 439a.
+17
+
+Case 1:12-cv-00958-ABJ Document 16 Filed 09/30/13 Page 23 of 52
+
+B.
+
+A Substantial Civil Penalty Would Punish Defendants’ Violation, Deter
+Future Violations, Promote Public Confidence in Government and the
+Campaign Finance System, and Serve Other Important Interests
+
+In addition to disgorgement, FECA authorizes this Court to impose a civil penalty in an
+amount equal to the $216,984 in expenditures involved in each defendant’s violation (Craig and
+the Craig Committee), for a total potential penalty of $433,968. See 2 U.S.C. § 437g(a)(6)(B).
+The Commission, however, requests that the Court assess a $70,000 civil penalty against Craig
+and a $70,000 civil penalty against the Craig Committee. When coupled with disgorgement,
+civil penalties in these amounts would effectively punish defendants’ violation while deterring
+future violations. These civil penalties would also reflect the serious nature of defendants’
+violation — the theft of campaign funds for personal gain not only injures the contributors of
+those funds, but also undermines the public’s confidence in government and the campaign
+finance system. Furthermore, the requested civil penalties would vindicate the authority of the
+FEC, in part by creating an incentive for parties to settle during the statutorily mandated
+conciliation process and conserve court resources. Finally, defendants cannot show that they
+attempted to comply with the law in good faith or that Craig is unable to pay a substantial civil
+penalty.
+1.
+
+The Need to Deter Future Personal Use Violations at a Time When
+Billions of Dollars Are Contributed to Federal Candidates
+
+Civil penalties deter defendants and others from engaging in similar illegal activities. See
+United States v. ITT Continental Baking Co., 420 U.S. 223, 231-32 (1975); SEC v. One or More
+Unknown Traders in the Common Stock of Certain Issuers, 825 F. Supp. 2d 26, 33 (D.D.C.
+2010); see also SEC v. Kenton Capital, Ltd., 69 F. Supp. 2d 1, 17 (D.D.C. 1998) (“[S]ubstantial
+monetary penalties, in addition to the disgorgement of profits, [are] necessary for the deterrence
+of securities law violations that otherwise may provide great financial returns to the violator.”
+18
+
+Case 1:12-cv-00958-ABJ Document 16 Filed 09/30/13 Page 24 of 52
+
+(internal quotation marks omitted)). To be an effective deterrent, a civil penalty must be large
+enough so that potential violators will not regard it as “nothing more than an acceptable cost of
+violation.” ITT Continental Baking Co., 420 U.S. at 231; see, e.g., Sands, Taylor & Wood v. The
+Quaker Oats Co., 34 F.3d 1340, 1351 (7th Cir. 1994) (“There is no incentive to engage in . . .
+licensing negotiations when the consequence of getting caught for trade piracy is simply to pay
+what should have been paid earlier.”); United States v. St. Michael’s Credit Union, 880 F.2d 579,
+588 (1st Cir. 1989) (“To have any real deterrent effect, the potential fine must be large enough to
+have some real economic impact on potential violators.” (internal quotation marks omitted)).
+In this case, given the large amount of campaign funds that defendants converted to
+Craig’s personal use, it is critical that the civil penalty be substantial enough to create a real
+financial disincentive to violating section 439a(b). A civil penalty that is too low would fail to
+deter others from violating the personal use ban in the future. Would-be violators could
+reasonably determine that the chance that they may have to pay a minor civil penalty (if caught)
+is an acceptable risk to take for the immediate benefit of personally using a relatively large
+amount of campaign funds. See Friends of the Earth, Inc. v. Laidlaw Envtl. Servs. (TOC), Inc.,
+528 U.S. 167, 186 (2000) (“[I]t is reasonable for Congress to conclude that an actual award of
+civil penalties does in fact bring with it a significant quantum of deterrence over and above what
+is achieved by the mere prospect of such penalties.”). A small civil penalty for a violation of 2
+U.S.C. § 439a(b) would amount to little more than a license fee or low-interest loan for the
+personal use of campaign funds.
+The need for deterrence of personal use violations is particularly great given the vast
+amounts of money that are contributed to campaign committees. In the 2012 election cycle
+alone, presidential and congressional candidates received more than $2.65 billion. Press Release,
+
+19
+
+Case 1:12-cv-00958-ABJ Document 16 Filed 09/30/13 Page 25 of 52
+
+FEC, FEC Summarizes 21-Month Campaign Activity of the 2012 Election Cycle (Jan. 30,
+2013).13 At the conclusion of that election cycle, more than $423.8 million of those funds
+remained unspent. See id. The amount of money received by campaign committees almost
+invariably increases from election cycle to election cycle, and therefore there will always be
+significant opportunity and temptation for those in control of those funds to abuse the generosity
+of campaign contributors. In fact, in 2007, the Department of Justice reported that it had seen a
+“dramatic rise” in the number of cases in which candidates and others “steal money that has been
+contributed to a candidate . . . for the purpose of electing the candidate.” Department of Justice,
+Federal Prosecution of Election Offenses, 194-95 (7th ed. May 2007).14 And in 2012, the FEC
+recommended that Congress expand FECA’s personal use ban to apply to all political
+committees to stem the “growing problem” of the personal use of money contributed for political
+purposes. FEC, Legislative Recommendations of the Federal Election Commission 2012 at 7
+(May 10, 2012).15
+Finally, this Court should impose a civil penalty with real deterrent impact because its
+ruling would constitute particularly important authority for future violations of FECA’s personal
+use ban. The vast majority of FECA violations are resolved during the statutorily mandated
+conciliation process under 2 U.S.C. § 437g(a)(4)(A). As a result, as far as we are aware, a ruling
+by this Court imposing remedies for a civil violation of 2 U.S.C. § 439a(b) would be the first of
+its kind and thus an important indication of the sanctions would-be violators are likely to face in
+court.
+
+13
+
+See http://www.fec.gov/press/press2013/20130130_2012-Q3Summary.shtml.
+
+14
+
+See http://www.justice.gov/criminal/pin/docs/electbook-0507.pdf.
+
+15
+
+See http://www.fec.gov/law/legrec2012.pdf.
+20
+
+Case 1:12-cv-00958-ABJ Document 16 Filed 09/30/13 Page 26 of 52
+
+2.
+
+Injury to Contributors to the Craig Committee
+
+Defendants’ conversion of campaign funds injured contributors to the Craig Committee
+to the same extent that it benefited Craig. The Court should consider that injury in determining
+the civil penalty. The more than $216,000 that defendants converted from the Craig Committee
+is equal to more than two-thirds of the total amount of contributions the Craig Committee
+received in 2007 and 2008 ($318,180). (FEC Facts ¶ 24.) The Craig Committee received those
+contributions from at least 107 individuals and 108 political committees. (Id.) The injury to
+these contributors is not unlike injury from fraud: Their contributions were made for a legitimate
+purpose, but the recipient used the funds for a different and illegitimate purpose.
+The act of making a contribution is protected by the First Amendment. See Buckley v.
+Valeo, 424 U.S. 1, 20-23 (1976). As the Supreme Court has explained, “[m]aking a contribution,
+like joining a political party, serves to affiliate a person with a candidate.” Id. at 22. It also
+“serves as a general expression of support for the candidate and his views.” Id. at 21. But
+defendants took advantage of the Craig Committee contributors’ acts of affiliation with and
+support for Craig — the candidate — and his political views. Defendants injured their
+contributors when their funds were not used to advance those political views and the Court
+should take that into account and assess a substantial civil penalty.
+3.
+
+Defendants’ Violations Undermined the Public’s Confidence in
+Government and the Campaign Finance System
+
+“[T]here is always harm to the public when FECA is violated.” FEC v. Am. Fed’n of
+State, Cnty. and Mun. Emps.— P.E.O.P.L.E. Qualified, No. 88-3208, 1991 WL 241892, at *2
+(D.D.C. Oct. 31, 1991). Congress enacted FECA to “‘promote fair practices in the conduct of
+election campaigns for Federal political offices.’” McCutcheon v. FEC, 893 F. Supp. 2d 133,
+134-35 (D.D.C. 2012) (three-judge court) (quoting Pub. L. No. 92-225, preamble, 86 Stat. 3, 3
+21
+
+Case 1:12-cv-00958-ABJ Document 16 Filed 09/30/13 Page 27 of 52
+
+(1972)), prob. juris. noted, 133 S. Ct. 1242 (2013). And the ban on personal use of campaign
+funds is a key part of FECA’s statutory scheme. It serves at least two important interests that are
+undermined by defendants’ violation.
+First, the personal use ban helps prevent corruption and the appearance of corruption,
+potential dangers which undermine confidence in government. Even when the funds given are
+used for proper purposes, large contributions that are “‘given to secure a political quid pro quo
+from current and potential office holders’” undermine the “‘integrity of our system of
+representative democracy.’” EMILY’s List v. FEC, 581 F.3d 1, 6 (D.C. Cir. 2009) (quoting
+Buckley, 424 U.S. at 26-27). That system is threatened even further when federal candidates use
+contributions to subsidize their own personal expenses, such as discretionary legal endeavors
+unrelated to their campaigns for office. At the very least, it appears corrupt to the public when
+candidates use contributions for their personal projects. And as the Supreme Court has
+explained, “the avoidance of the appearance” of corruption is “critical” to prevent the public’s
+“confidence in the system of representative Government” from being “eroded to a disastrous
+extent.” Buckley, 424 U.S. at 27 (internal quotation marks omitted).
+Second, the personal use ban promotes confidence in the system of financing federal
+election campaigns. As explained above, supra p. 21, citizens contribute money to political
+campaigns believing that they are assisting a candidate’s bid for election and expressing general
+support for the candidate and his or her views. When contributions are used instead for the
+personal gain of the very people the public has entrusted with the levers of our government — in
+this case, a United States Senator — the general public will view the collection of campaign
+funds with greater skepticism. Indeed, the United States Senate itself has stated that the personal
+use of campaign funds is “contrary to accepted morals . . . [and] the public trust expected of a
+
+22
+
+Case 1:12-cv-00958-ABJ Document 16 Filed 09/30/13 Page 28 of 52
+
+Senator.” U.S. Senate Select Committee on Ethics, Senate Ethics Manual at 155 (2003 ed.)
+(internal quotation marks omitted).16 As a result of this breach of trust, citizens will be deterred
+from participating in the political system and from exercising the First Amendment-protected
+expression and affiliation that occurs when making a contribution to a candidate. A substantial
+civil penalty should be imposed for this “injury to the public.” See FEC v. Comm. of 100
+Democrats, 844 F. Supp. 1, 7 (D.D.C 1993); Furgatch, 869 F.2d at 1258 (same).
+4.
+
+Craig Profited from Defendants’ Violation
+
+In determining an appropriate civil penalty under 2 U.S.C. § 437g(a)(6)(B), the Court
+should also consider that Craig profited greatly from his FECA violation. See Furgatch, 869
+F.2d at 1258, n.1. He converted more than $216,000 to purchase top-tier legal representation in
+a discretionary effort to withdraw a guilty plea for disturbing the peace. The attorneys he hired
+at Sutherland charged up to $650 per hour, while the Kelly firm charged $550 per hour. (FEC
+Facts ¶¶ 10-12.) And because Craig was able to use campaign funds for these legal expenses, his
+own funds remained available for other personal purchases and expenses.
+In Furgatch, the Ninth Circuit affirmed an order that a defendant who violated FECA pay
+a civil penalty under section 437g(a)(6)(B) that was essentially 100 percent of the amount of
+involved in the violation ($25,000 penalty for $25,008 in expenditures), despite the fact that the
+defendant derived no financial benefit from violating FECA’s reporting requirements. 869 F.2d
+at 1258 n.1, 1264. The court noted, however, that where a defendant does profit, courts should
+also consider “the desire to eliminate the benefit derived from the violation” as an additional
+factor in the section 437g(a)(6)(B) civil penalty calculus. Id. (internal quotation marks omitted).
+
+16
+
+See http://www.ethics.senate.gov/public/index.cfm?a=Files.Serve&File_id=f2eb14e31123-48eb-9334-8c4717102a6e.
+23
+
+Case 1:12-cv-00958-ABJ Document 16 Filed 09/30/13 Page 29 of 52
+
+5.
+
+The Need to Punish Defendants’ Serious Violations of Campaign
+Finance Law
+
+Civil penalties are intended, in part, “to punish, and label defendants wrongdoers.”
+Gabelli v. SEC, --- U.S. ---, 133 S. Ct. 1216, 1223 (2013); see also Tull v. United States, 481
+U.S. 412, 422 (1987) (explaining that penalties are “intended to punish culpable individuals,” not
+to “restore the status quo”); see, e.g., Levine, 517 F. Supp. 2d at 141-42 (imposing a $200,000
+civil penalty in addition to a $217,368.59 disgorgement order for securities fraud). Thus, a court
+may impose civil penalties that are designed to “require retribution for wrongful conduct” based
+on factors such as the seriousness of the violation and a lack of good-faith efforts to comply with
+the law. Tull, 481 U.S. at 423.
+Defendants’ violation of the FECA personal use ban warrants a substantial civil penalty.
+As discussed in more detail above, Craig made a profit of more than $216,000 by personally
+using funds that donors thought they were giving to the Craig Committee to be used for proper
+political purposes. See supra p. 23. This improper use of campaign funds harmed Craig’s
+contributors and the public, undermining faith in government and the political process. See
+supra pp. 21-23. Defendants’ violation should therefore be punished in a significant way.
+Imposition of a civil penalty in addition to ordering the disgorgement of funds is the only remedy
+that serves the interest in punishment.
+6.
+
+The Importance of Vindicating the Authority of the Commission and
+Encouraging Pre-Litigation Settlement
+
+In determining the civil penalty under section 437g(a)(6)(B), this Court should also
+consider “the necessity of vindicating the authority of the responsible agency.” Comm. of 100
+Democrats, 844 F. Supp. at 7; see also Furgatch, 869 F.2d at 1258 (same). Congress has
+enacted and amended FECA to promote the integrity of the federal electoral process, see
+
+24
+
+Case 1:12-cv-00958-ABJ Document 16 Filed 09/30/13 Page 30 of 52
+
+generally McConnell v. FEC, 540 U.S. 93, 117-32 (2003), and it is critical to respond to
+defendants’ violation with a meaningful civil penalty to reinforce the importance of FECA and
+the agency that enforces it.
+In addition, if FECA penalties imposed after litigation are not generally higher than those
+arrived at through the statutory procedure of voluntary conciliation, the Commission’s ability to
+administer and enforce the statute through the conciliation process — which is the “preferred
+method of dispute resolution under FECA,” FEC v. NRA, 553 F. Supp. 1331, 1338 (D.D.C.
+1983) — will be undermined. A perverse incentive could be created for parties to forego
+meaningful efforts at conciliation in favor of litigation to delay liability and achieve a lesser civil
+penalty. Cf. Comm. of 100 Democrats, 844 F. Supp. at 7 (“Individuals must be deterred from
+using the [FECA] conciliation process as a ruse and from using the courts as a mechanism for
+delay.”). Such an outcome would increase the workload of courts, which benefit from FECA’s
+policy of encouraging pre-litigation settlement. Substantial civil penalties for defendants’
+violations are therefore further warranted for this reason, and civil penalties totaling $140,000
+would constitute an amount that would encourage future violators to enter into conciliation
+agreements with the Commission.
+7.
+
+Defendants’ Purported Good Faith Does Not Warrant Penalties
+Below $70,000
+
+Defendants’ discovery responses indicate that they contend that any civil penalty should
+be mitigated because they allegedly acted “with a good faith belief that they were in compliance
+with federal law and regulations.” (Defs.’ Resp. to Pl.’s First Request for Admission and First
+Set of Interrogatories at 8, FEC Exh. 6.) Defendants did produce a contemporaneous letter from
+counsel during the FEC’s enforcement process (see FEC Facts ¶¶ 17, 29), but the Commission is
+not seeking the maximum civil penalty here. Defendants cannot make a showing of good faith
+25
+
+Case 1:12-cv-00958-ABJ Document 16 Filed 09/30/13 Page 31 of 52
+
+sufficient to lessen their penalty further than the amounts sought here, which are already reduced
+more than two-thirds below the maximum.
+First, defendants failed to request an advisory opinion from the Commission on whether
+their spending would comply with FECA. (FEC Facts ¶ 16.) As discussed above, supra p. 1213, Craig argued to the Commission that he had made a good faith effort to determine the
+legality of his spending based on an October 4, 2007 letter he received from counsel. (Id. ¶¶ 17,
+29.) But Craig’s decision to rely on the equivocal opinion of his counsel does not establish good
+faith here given that he could have obtained a definitive FEC advisory opinion. Cf. United States
+v. Reader’s Digest Ass’n, Inc., 662 F.2d 955, 968 (3d Cir. 1981) (finding in the circumstances of
+a particular administrative proceeding that the failure to seek an agency advisory opinion was
+evidence of bad faith). Had defendants requested an advisory opinion, the Commission would
+have been required to issue one in 60 days. See 2 U.S.C. § 437f(a)(1); see also FEC Facts ¶ 15.
+Craig’s choice not to do so is particularly noteworthy given that his counsel’s advice letter
+informed him that they had “found no directly applicable FEC opinions” regarding his proposed
+use of campaign funds for his Minnesota legal fees. (FEC Facts ¶ 18.) That Craig nevertheless
+spent more than $216,000 in campaign funds “does not prove good faith in view of [his] failure
+to utilize the appropriate administrative mechanism for obtaining [FEC] advice.” Reader’s
+Digest Ass’n, Inc., 662 F.2d at 968.
+Second, when defendants converted these campaign funds, they were aware of the FEC’s
+Kolbe advisory opinion, which indicates that spending such as Craig’s would be considered
+personal use. (FEC Facts ¶ 22.) Indeed, the October 4, 2007 advice letter cites the Kolbe
+opinion, although the letter then incorrectly states that on the topic of “legal expenses stemming
+from official travel,” there are “no directly applicable FEC opinions.” (Id. ¶ 18.) To the
+
+26
+
+Case 1:12-cv-00958-ABJ Document 16 Filed 09/30/13 Page 32 of 52
+
+contrary, as explained above, the Kolbe opinion explained that an officeholder could “not use
+campaign funds to pay for . . . legal expenses” relating to an inquiry into his official travel if that
+inquiry “involve[d] allegations not related to [his] duties as a Federal officeholder.” FEC AO
+2006-35 (Kolbe), 2007 WL 419188, at *3. Instead of heeding the Kolbe opinion, defendants
+converted campaign funds, relying upon provisions of the Constitution that have nothing to do
+with the use of campaign funds. (FEC Facts ¶ 20.)17 Defendants’ “ostrich-like, head-in-the-sand
+behavior” does not constitute an entirely convincing good-faith attempt to comply with the law.
+Metso Minerals, Inc. v. Powerscreen Int’l Distrib. Ltd., 833 F. Supp. 2d 333, 338 (E.D.N.Y.
+2011).
+Third, defendants’ shifting rationales for why they assert their actions complied with
+FECA also weaken their claim of good faith. The October 4, 2007 advice letter indicates that, at
+the time of the expenditures at issue here, defendants thought that spending was permissible due
+to the Constitution and that there were “no directly applicable FEC opinions.” (FEC Facts ¶ 18.)
+Before this Court, however, defendants have conceded that the Constitution’s application is
+“irrelevant” (Defs.’ Reply to Commission’s Mem. in Opp’n to Defs.’ Mot. to Dismiss at 3
+(Docket No. 7)) and instead argued primarily that “no principled distinction can be drawn
+between the Kolbe matter and this case” (Mem. in Supp’t of Defs.’ Mot to Dismiss at 8 (Docket
+No. 3-1)). Defendants’ changing arguments suggest post-hoc rationalizations, not good faith.
+
+17
+
+The October 4, 2007 advice letter claims that under the Constitution’s Qualifications
+Clause and Speech or Debate Clause, Craig’s travel was “a necessary incident of his status as a
+U.S. Senator” (Letter from Stanley M. Brand and Andrew D. Herman, Brand Law Group to the
+Honorable Larry E. Craig, United States Senate at 2 (Oct. 4, 2007), FEC Exh. 5 (emphasis
+added)) — an incorrect assertion that defendants appear to have abandoned before this Court.
+Compare Mem. in Supp’t of Defs.’ Mot. to Dismiss at 5 (arguing that Craig’s “trip itself was
+constitutionally required”) (Docket No. 3-1) with Defs.’ Reply to Commission’s Mem. in Opp’n
+to Defs.’ Mot. to Dismiss at 3 (stating that the “actual application” of the Constitution “to this
+matter is irrelevant”) (Docket No. 7).
+27
+
+Case 1:12-cv-00958-ABJ Document 16 Filed 09/30/13 Page 33 of 52
+
+Finally, defendants should receive no further reduction in penalties for purported good
+faith because the potential remedies defendants face under section 437g(a)(6)(B) already reflect
+credit for their state of mind.18 If held liable, defendants face total potential civil penalties based
+on amounts equal to their expenditures — $433,968. See 2 U.S.C. § 437g(a)(6)(B). Had
+defendants knowingly and willfully violated the personal use ban, however, they would have
+been subject to a potential civil penalty twice as large — that is, $867,936. See 2 U.S.C.
+§ 437g(a)(6)(C) (authorizing a civil penalty of “the greater of $10,000 or an amount equal to 200
+percent of any . . . expenditure involved”). The potential civil penalty in this case therefore
+already reflects a reduction for defendants’ state of mind, and the Commission requests only less
+than one third of each defendant’s potential liability. The Court therefore should not further
+reduce the civil penalty further based on alleged good faith.
+8.
+
+Defendants Cannot Show That Craig Would Be Unable to Disgorge
+the Converted Funds and Pay an Appropriate Civil Penalty
+
+Defendants’ discovery responses suggest that they will also argue that it would be
+difficult for Craig to disgorge the funds he converted to his personal use and to pay a civil
+penalty. FEC Facts ¶ 34; see also Comm. of 100 Democrats, 844 F. Supp. at 7 (citing
+“defendant’s ability to pay” as a civil penalty factor). The financial documentation Craig
+provided in discovery, however, indicates otherwise.19
+Craig is the co-owner of a Washington, D.C.-based political consulting firm. (FEC Facts
+¶ 35.g.) His net worth is more than $685,000 (id. ¶ 41), and he owns at least $629,000 in assets
+18
+
+In Furgatch, 869 F.2d at 1259 n.2, 1264, the Ninth Circuit did indicate that courts may
+consider a defendant’s intent in assessing a penalty within the range permitted for FECA
+violations that are not knowing and willful, although the court went on to uphold a civil penalty
+of essentially 100 percent of the amount in violation.
+19
+
+The Craig Committee has now spent virtually all of its funds, so it would be unable to
+pay a substantial civil penalty without disgorged funds from Craig, unless the Committee were
+able to raise funds. See supra p. 17 n.11.
+28
+
+Case 1:12-cv-00958-ABJ Document 16 Filed 09/30/13 Page 34 of 52
+
+that are either liquid or could be easily liquidated (id. ¶¶ 35.a, 35.c.i-v).20 Craig has more than
+$450,000 in one retirement account. (Id. ¶ 35.c.i.) The strong state of Craig’s personal finances
+undermines any claim that his disgorgement or civil penalty should be mitigated.
+In addition, any difficulty Craig may have in paying for his violation would be caused at
+least in part by how he chose to spend the proceeds of his lawbreaking. Craig used the campaign
+funds he converted to buy services, the value of which cannot be recouped, as opposed to
+property that could have been liquidated. Cf. Consent Order of Forfeiture at 2-3, United States v.
+Jackson, No. 13-cr-0058 (D.D.C. Aug. 19, 2013) (Docket No. 56-1) (ordering former
+Congressman to forfeit specific items of personal property he purchased with campaign funds).
+And Craig’s use of campaign funds in 2007 and 2008 ensured that more than $216,000 of his
+own funds remained available for additional personal spending. In 2010, Craig purchased a
+5,000-square-foot house sitting on two acres of land, and he later obtained a $180,000 home
+equity line of credit to remodel that house. (FEC Facts ¶ 35.b.) Also in 2010, he purchased a
+second boat for more than $8,000 to add to the 42-foot yacht he bought for $100,000 in 2003.
+(Id. ¶ 35.d.i-ii.) And Craig did so even though months before, in May 2009, the FEC had found
+reason to believe that he violated the personal use ban, putting him on notice that he could face
+significant financial liability in this case. (FEC Facts ¶ 30.) Craig should not be rewarded for
+any illiquidity or alleged difficulty in paying for his violation that he brought upon himself.
+*
+
+*
+
+*
+
+In summary, this Court should order Craig and the Craig Committee to each pay a civil
+penalty of $70,000.
+
+20
+
+The information Craig provided in discovery indicates his and his spouse’s financial
+status as of August 13, 2013. (See FEC Facts ¶ 35 & n.2.)
+29
+
+Case 1:12-cv-00958-ABJ Document 16 Filed 09/30/13 Page 35 of 52
+
+C.
+
+This Court Should Declare that Defendants Violated the Act and Issue a
+Permanent Injunction
+
+If the Court concludes that defendants violated 2 U.S.C. § 439a(b) by converting
+campaign funds to personal use, the Court should issue a declaration to that effect and
+permanently enjoin defendants from committing any future violations of section 439a(b). See 2
+U.S.C. § 437g(a)(6)(B). Although Craig is no longer a federal officeholder, he has not stated
+that he will not run for federal office again, and he is still active as a political consultant in
+Washington, D.C. (FEC Facts ¶ 35.g.) An injunction would only preclude defendants from
+repeating the unlawful conduct involved in this case, see Reader’s Digest Ass’n, 662 F.2d at 96970, and therefore it would not interfere with any lawful future activities of defendants.
+
+CONCLUSION
+For the foregoing reasons, the Court should (1) hold that defendants violated 2 U.S.C.
+§ 439a(b) and grant summary judgment in favor of the Commission; and (2) order appropriate
+remedies as the Commission has proposed under 2 U.S.C. § 437g(a)(6)(B).
+
+Respectfully submitted,
+Lisa J. Stevenson (D.C. Bar No. 457628)
+Deputy General Counsel – Law
+Kevin Deeley
+Acting Associate General Counsel
+Harry J. Summers
+Assistant General Counsel
+Robert W. Bonham III
+Senior Attorney
+
+30
+
+Case 1:12-cv-00958-ABJ Document 16 Filed 09/30/13 Page 36 of 52
+
+/s/ Kevin P. Hancock
+Kevin P. Hancock
+Attorney
+
+September 30, 2013
+
+COUNSEL FOR PLAINTIFF
+FEDERAL ELECTION COMMISSION
+999 E Street, N.W.
+Washington, D.C. 20463
+(202) 694-1650
+Fax: (202) 219-0260
+
+31
+
+Case 1:12-cv-00958-ABJ Document 16 Filed 09/30/13 Page 37 of 52
+
+UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF COLUMBIA
+_______________________________________
+)
+FEDERAL ELECTION COMMISSION,
+)
+)
+Civ. No. 12-958 (ABJ)
+Plaintiff,
+)
+)
+v.
+)
+)
+LCvR 7(h)(1) STATEMENT OF
+CRAIG FOR U.S. SENATE, et al.,
+)
+MATERIAL FACTS
+)
+Defendants.
+)
+_______________________________________)
+PLAINTIFF FEDERAL ELECTION COMMISSION’S STATEMENT OF MATERIAL
+FACTS AS TO WHICH IT CONTENDS THERE IS NO GENUINE ISSUE
+
+Lisa J. Stevenson (D.C. Bar No. 457628)
+Deputy General Counsel – Law
+Kevin Deeley
+Acting Associate General Counsel
+Harry J. Summers
+Assistant General Counsel
+Robert W. Bonham III
+Senior Attorney
+Kevin P. Hancock
+Attorney
+
+September 30, 2013
+
+COUNSEL FOR PLAINTIFF
+FEDERAL ELECTION COMMISSION
+999 E Street, N.W.
+Washington, D.C. 20463
+(202) 694-1650
+Fax: (202) 219-0260
+
+Case 1:12-cv-00958-ABJ Document 16 Filed 09/30/13 Page 38 of 52
+
+TABLE OF CONTENTS
+I.
+
+BACKGROUND ...........................................................................................................1
+
+II.
+
+CRAIG WAS ARRESTED IN MINNESOTA FOR DISTURBING THE
+PEACE AND HE PLEADED GUILTY TO THAT CHARGE TWO
+MONTHS LATER .........................................................................................................2
+
+III.
+
+CRAIG SPENT MORE THAN $216,000 IN CAMPAIGN FUNDS ON LEGAL
+EXPENSES IN AN ATTEMPT TO WITHDRAW HIS GUILTY PLEA ....................2
+A.
+
+Craig Retained Attorneys in Washington, D.C. and Minnesota in an
+Effort to Withdraw His Guilty Plea ...................................................................2
+
+B.
+
+Craig Decided to Use Campaign Funds for His Minnesota Legal Fees on
+the Basis of a Letter from Counsel, Without Requesting an FEC
+Advisory Opinion and While Aware of the Kolbe Advisory Opinion ..............3
+
+C.
+
+The Campaign Funds That Craig Spent on His Minnesota Legal Expenses
+Came from His Primary Campaign Committee, Craig for U.S. Senate ............5
+
+IV.
+
+CRAIG ADMITTED TO THE SENATE ETHICS COMMITTEE THAT HIS
+ARREST WAS FOR PURELY PERSONAL CONDUCT UNRELATED TO
+HIS OFFICEHOLDER DUTIES ...................................................................................6
+
+V.
+
+THE COMMISSION FOUND PROBABLE CAUSE TO BELIEVE THAT
+DEFENDANTS VIOLATED FECA’S BAN ON PERSONAL USE OF
+CAMPAIGN FUNDS ....................................................................................................7
+
+VI.
+
+CRAIG CANNOT DEMONSTRATE THAT HE IS UNABLE TO
+DISGORGE THE CONVERTED FUNDS OR PAY A CIVIL PENALTY .................9
+
+i
+
+Case 1:12-cv-00958-ABJ Document 16 Filed 09/30/13 Page 39 of 52
+
+I.
+
+BACKGROUND
+1.
+
+The Federal Election Campaign Act (“FECA”), 2 U.S.C. §§ 431-57, bars federal
+
+candidates and officeholders from converting campaign funds to personal use. 2 U.S.C.
+§ 439a(b).
+2.
+
+Plaintiff Federal Election Commission (“Commission” or “FEC”) is an
+
+independent agency of the United States government with exclusive jurisdiction over the
+administration, interpretation, and civil enforcement of FECA. (FEC’s Complaint for Civil
+Penalty, Declaratory, Injunctive, and Other Appropriate Relief (“Compl.”) ¶ 6 (Docket No. 1);
+Answer ¶ 5 (Docket No. 12).)
+3.
+
+The Commission is authorized to investigate possible violations of FECA, id. §
+
+437g(a)(1)-(2), and to initiate civil actions in the United States district courts to obtain judicial
+enforcement of FECA, id. §§ 437d(e), 437g(a)(6). (Compl. ¶ 5 (Docket No. 1); Answer ¶ 5
+(Docket No. 12).)
+4.
+
+Defendant Larry Craig was a United States Senator from Idaho from January
+
+1991 to January 2009. (Compl. ¶ 6 (Docket No. 1); Answer ¶ 6 (Docket No. 12).)
+5.
+
+In 2007, Craig was a candidate for the United States Senate in the 2008 election,
+
+and he authorized defendant Craig for U.S. Senate (“Craig Committee”) as his principal
+campaign committee under 2 U.S.C. § 431(5)-(6). (Compl. ¶¶ 6-7 (Docket No. 1); Answer ¶¶ 67 (Docket No. 12).) Accordingly, the Craig Committee was authorized to receive campaign
+contributions and make expenditures on Craig’s behalf. (Compl. ¶ 7 (Docket No. 1); Answer ¶ 7
+(Docket No. 12).)
+6.
+
+Craig is a defendant in this matter in his personal capacity and in his official
+
+capacity as treasurer of the Craig Committee. (See Minute Order dated May 1, 2013.)
+
+1
+
+Case 1:12-cv-00958-ABJ Document 16 Filed 09/30/13 Page 40 of 52
+
+II.
+
+CRAIG WAS ARRESTED IN MINNESOTA FOR DISTURBING THE PEACE
+AND HE PLEADED GUILTY TO THAT CHARGE TWO MONTHS LATER
+7.
+
+On June 11, 2007, Craig was arrested while using a restroom at the Minneapolis-
+
+St. Paul International Airport, where he was awaiting a scheduled flight to Washington, D.C.
+(Compl. ¶ 12 (Docket No. 1); Answer ¶ 12 (Docket No. 12); Mem. in Supp’t of Defs’ Mot. to
+Dismiss at 3 (Docket No. 3-1).)
+8.
+
+Craig was charged under Minnesota law with disturbing the peace-disorderly
+
+conduct and interference with privacy. (Compl. ¶ 12 (Docket No. 1); Answer ¶ 12 (Docket No.
+12).)
+9.
+
+About two months after being charged, Craig pleaded guilty to a misdemeanor
+
+count of disorderly conduct on August 8, 2007. (Compl. ¶ 12 (Docket No. 1); Answer ¶ 12
+(Docket No. 12).)
+III.
+
+CRAIG SPENT MORE THAN $216,000 IN CAMPAIGN FUNDS ON LEGAL
+EXPENSES IN AN ATTEMPT TO WITHDRAW HIS GUILTY PLEA
+A.
+
+Craig Retained Attorneys in Washington, D.C. and Minnesota in an Effort to
+Withdraw His Guilty Plea
+
+10.
+
+Craig subsequently retained the Washington, D.C. law firm of Sutherland, Asbill
+
+& Brennan (“Sutherland”) and the Minnesota law firm of Kelly & Jacobson (“Kelly”) in an
+effort to withdraw his guilty plea. (Compl ¶ 13 (Docket No. 1); Answer ¶ 13 (Docket No. 12).)
+11.
+
+Attorneys at Sutherland charged Craig as much as $650 per hour for work on
+
+Craig’s effort to withdraw his guilty plea. (See, e.g., Invoice dated Oct. 26, 2007 from
+Sutherland, Asbill & Brennan LLP to Larry Craig, FEC Exhibit (“Exh.”) 1.)
+12.
+
+Attorneys at the Kelly firm charged Craig as much as $550 per hour for work on
+
+Craig’s effort to withdraw his guilty plea. (See, e.g., Invoice dated Sept. 27, 2007 from Kelly &
+Jacobson to Larry E. Craig, FEC Exh. 2.)
+2
+
+Case 1:12-cv-00958-ABJ Document 16 Filed 09/30/13 Page 41 of 52
+
+13.
+
+On September 10, 2007, Craig filed a motion to withdraw his guilty plea in
+
+Minnesota state district court, which was denied on October 4, 2007. (Compl. ¶ 14 (Docket No.
+1); Answer ¶ 14 (Docket No. 12).) Craig appealed the ruling to the Minnesota Court of Appeals,
+which rejected the appeal on December 9, 2008. (Compl. ¶ 14 (Docket No. 1); Answer ¶ 14
+(Docket No. 12).)
+14.
+
+Craig’s first expenditure in connection with his effort to withdraw his guilty plea
+
+occurred on October 29, 2007, over four months after Craig’s trip and over two-and-a-half
+months after his guilty plea. (See Invoice dated Oct. 26, 2007 from Sutherland, Asbill &
+Brennan LLP to Larry Craig, FEC Exh. 1; 2007 Year-End Report for Craig for U.S. Senate (Jan.
+31, 2008) at Schedule B, p. 7, FEC Exh. 3;1 Compl. ¶¶ 19-20 (Docket No. 1); Answer ¶¶ 19-20
+(Docket No. 12).)
+B.
+
+Craig Decided to Use Campaign Funds for His Minnesota Legal Fees on the
+Basis of a Letter from Counsel, Without Requesting an FEC Advisory
+Opinion and While Aware of the Kolbe Advisory Opinion
+
+15.
+
+FECA allows a person to submit a “written request concerning the application” of
+
+FECA or any Commission regulation “with respect to a specific transaction or activity by the
+person.” 2 U.S.C. § 437f(a)(1). In response, the Commission “shall render a written opinion
+relating to such transaction or activity to the person” within 60 days. Id.
+16.
+
+None of the defendants sought an advisory opinion from the Commission
+
+regarding whether Craig could legally spend campaign funds on his legal expenses arising from
+his effort to withdraw his guilty plea. See FEC, Advisory Opinion Search Page,
+http://saos.nictusa.com/saos/searchao (search for “Craig” in the “Requestor or AO Name” field
+reveals no advisory opinions requested by or issued to defendants).
+1
+
+This report can be found on Commission’s website at http://images.nictusa.com/pdf/
+008/28020050008/28020050008.pdf.
+3
+
+Case 1:12-cv-00958-ABJ Document 16 Filed 09/30/13 Page 42 of 52
+
+17.
+
+In a letter to the Commission dated December 2, 2008, Craig stated that he “did
+
+make a good faith effort to ascertain the legality of using campaign funds for” his Minnesota
+legal expenses on the basis of an October 4, 2007 letter from his counsel at the Brand Law Group
+(Letter from Larry E. Craig, United States Senator to Thomasenia P. Duncan, General Counsel,
+FEC (Dec. 2, 2008), FEC Exh. 4), who are also his counsel in this litigation. Craig provided the
+October 4, 2007 letter to the Commission. (See Letter from Stanley M. Brand and Andrew D.
+Herman, Brand Law Group to the Honorable Larry E. Craig, United States Senate (Oct. 4, 2007),
+FEC Exh. 5.)
+18.
+
+The October 4, 2007 letter advises Craig that he could legally use campaign funds
+
+to pay for his representation before the Senate Ethics Committee, based, in part, on the Kolbe
+advisory opinion. (Letter from Stanley M. Brand and Andrew D. Herman, Brand Law Group to
+The Honorable Larry E. Craig, United States Senate (Oct. 4, 2007) at 1 (citing “FEC Advisory
+Opinion (“AO”) 2006-35”), FEC Exh. 5.) The October 4, 2007 letter’s next paragraph states:
+“Second, although we conclude that all expenses incurred for your legal representation in
+Minnesota state court are also fully payable with campaign funds, we have found no directly
+applicable FEC opinions.” (Id.) The October 4, 2007 letter also states that the “FEC has
+apparently never addressed legal expenses stemming from official travel.” (Id. at 2.)
+19.
+
+The October 4, 2007 letter does not mention or rely upon FEC Advisory Opinions
+
+1997-27 (Boehner), 2000-40 (McDermott), or 2005-11 (Cunningham). (See generally Letter
+from Stanley M. Brand and Andrew D. Herman, Brand Law Group to the Honorable Larry E.
+Craig, United States Senate (Oct. 4, 2007), FEC Exh. 5.)
+20.
+
+To support its conclusion that Craig could use campaign funds to pay for his legal
+
+representation in Minnesota state court, the October 4, 2007 letter relies upon two provisions of
+
+4
+
+Case 1:12-cv-00958-ABJ Document 16 Filed 09/30/13 Page 43 of 52
+
+the United States Constitution: Clause two of Article I, section three, and clause one of Article I,
+section six. (Letter from Stanley M. Brand and Andrew D. Herman, Brand Law Group to The
+Honorable Larry E. Craig, United States Senate (Oct. 4, 2007) at 2, FEC Exh. 5.)
+21.
+
+In support of their motion to dismiss, defendants stated to this Court that the
+
+“actual application” of the Constitution “to this matter is irrelevant.” (Defs.’ Reply to
+Commission’s Mem. In Opp’n to Defs.’ Mot. to Dismiss at 3 (Docket No. 7).) Defendants also
+argued to this Court that “no principled distinction can be drawn between the Kolbe matter and
+this case.” (Mem. in Supp’t of Defs’ Mot. to Dismiss at 8 (Docket No. 3-1).)
+22.
+
+Defendants were aware of the FEC’s Kolbe advisory opinion when they spent
+
+campaign funds on Craig’s Minnesota legal expenses. (Defs.’ Resp. to Pl.’s First Request for
+Admission and First Set of Interrogatories at 11, FEC Exh. 6.)
+C.
+
+The Campaign Funds That Craig Spent on His Minnesota Legal Expenses
+Came from His Primary Campaign Committee, Craig for U.S. Senate
+
+23.
+
+From October 29, 2007 through October 5, 2008, the Craig Committee paid at
+
+least $139,952 in campaign funds to Sutherland and $77,032 in campaign funds to Kelly in
+connection with Craig’s failed efforts to withdraw his guilty plea. (Compl. ¶¶ 19-20 (Docket No.
+1); Answer ¶¶ 19-20 (Docket No. 12).) Thus, defendants spent a total of at least $216,984 in
+campaign funds from the Craig Committee on Craig’s effort to withdraw his guilty plea.
+24.
+
+The Craig Committee reported receiving $318,180 in total contributions in 2007
+
+and 2008. See FEC, Candidate and Committee Viewer,
+http://www.fec.gov/finance/disclosure/candcmte_info.shtml (search for “C00115667” in the
+“Partial Name, Partial ID or Complete Image Number” field reveals disclosure information for
+Craig for U.S. Senate, including two-year summary information from 2000 to present). Those
+contributions were made to the Craig Committee by at least 107 individuals and 108 political
+5
+
+Case 1:12-cv-00958-ABJ Document 16 Filed 09/30/13 Page 44 of 52
+
+committees. (Id.)
+IV.
+
+CRAIG ADMITTED TO THE SENATE ETHICS COMMITTEE THAT HIS
+ARREST WAS FOR PURELY PERSONAL CONDUCT UNRELATED TO HIS
+OFFICEHOLDER DUTIES
+25.
+
+The United States Senate Select Committee on Ethics (“Senate Ethics
+
+Committee”) conducted an inquiry into Craig’s conduct in connection with his arrest, conviction,
+and subsequent conduct. (Compl. ¶ 16 (Docket No. 1); Answer ¶ 16 (Docket No. 12).)
+26.
+
+The Brand Law Group in Washington, D.C. — which represents defendants in
+
+this matter — also represented Craig before the Senate Ethics Committee. (Compl. ¶ 21 (Docket
+No. 1); Answer ¶ 21 (Docket No. 12).) In a September 5, 2007, letter to the Senate Ethics
+Committee, Craig’s counsel argued that the Senate Ethics Committee should not exercise
+jurisdiction over the matter because Craig’s arrest and conviction was for “‘purely personal
+conduct unrelated to the performance of official Senate duties.’” (Compl. ¶ 22 (Docket No. 1)
+(quoting Letter from Stanley M. Brand and Andrew D. Herman, Brand Law Group to the
+Honorable Barbara Boxer, Chairwoman, Senate Select Committee on Ethics (Sept. 5, 2007),
+FEC Exh. 7); Answer ¶ 22 (Docket No. 12).)
+27.
+
+On February 13, 2008, the Senate Ethics Committee issued a “Public Letter of
+
+Admonition” unanimously concluding that, among other matters, Craig had not complied with
+Senate Rule 38.2, which requires Senate Ethics Committee approval of any payments for legal
+expenses paid with funds of a principal campaign committee. (Compl. ¶ 23 (Docket No. 1);
+Answer ¶ 23 (Docket No. 12).) Specifically, the Ethics Committee wrote:
+[T]he Senate Ethics Manual states that “Members, officers or employees
+may pay legal expenses incurred in connection with their official duties
+with funds of a Senator’s principal campaign committee, but only if such
+payment is approved by the Committee.” . . . It appears that you have used
+over $213,000 in campaign funds to pay legal (and, apparently, “public
+relations”) fees in connection with your appeal of your criminal conviction
+6
+
+Case 1:12-cv-00958-ABJ Document 16 Filed 09/30/13 Page 45 of 52
+
+and in connection with the preliminary inquiry before the Committee in
+this matter. It appears that some portion of these expenses may not be
+deemed to have been incurred in connection with your official duties,
+either by the Committee or by the Federal Election Commission (which
+has concurrent jurisdiction with the Committee on the issue of conversion
+of a Senator’s campaign funds to personal use).
+(Compl. ¶ 23 (Docket No. 1) (quoting Public Letter of Admonition, United States Senate
+(Feb. 13, 2008) (Select Committee on Ethics), http://www.ethics.senate.gov/downloads/
+pdffiles/craig.pdf) (emphasis omitted; second emphasis added); Answer ¶ 23 (Docket No. 12).)
+V.
+
+THE COMMISSION FOUND PROBABLE CAUSE TO BELIEVE THAT
+DEFENDANTS VIOLATED FECA’S BAN ON PERSONAL USE
+28.
+
+On November 10, 2008, the Commission received an administrative complaint
+
+alleging that Craig had violated FECA by spending campaign funds to pay legal fees and
+expenses incurred in connection with his arrest and conviction. (Compl. ¶ 24 (Docket No. 1);
+Answer ¶ 24 (Docket No. 12).) The complaint was designated by the Commission as Matter
+Under Review (“MUR”) 6128 for administrative purposes. (Compl. ¶ 24 (Docket No. 1);
+Answer ¶ 24 (Docket No. 12).)
+29.
+
+By letter dated November 18, 2008, the Commission notified defendants that the
+
+administrative complaint had been filed and provided defendants with a copy. Craig responded
+to the Commission on December 2, 2008. (Compl. ¶ 25 (Docket No. 1); Answer ¶ 25 (Docket
+No. 12).) In that response, Craig claimed that he did not violate FECA, and that he acted in good
+faith on the basis of a letter from his counsel, dated October 4, 2007, which Craig attached.
+(Letter from Larry E. Craig, United States Senator to Thomasenia P. Duncan, General Counsel,
+FEC (Dec. 2, 2008), FEC Exh. 4; Letter from Stanley M. Brand and Andrew D. Herman, Brand
+Law Group to the Honorable Larry E. Craig, United States Senate (Oct. 4, 2007), FEC Exh. 5.)
+30.
+
+After reviewing the then-available information, on May 19, 2009, the
+
+Commission voted 5-0 (with one Commissioner recused) to find “reason to believe” that
+7
+
+Case 1:12-cv-00958-ABJ Document 16 Filed 09/30/13 Page 46 of 52
+
+defendants had violated 2 U.S.C. § 439a(b). (Compl. ¶ 26 (Docket No. 1); Answer ¶ 26 (Docket
+No. 12).) The Commission notified defendants of its reason-to-believe determination by letter
+dated June 30, 2009. (Compl. ¶ 27 (Docket No. 1); Answer ¶ 27 (Docket No. 12).) Defendants
+responded by letter dated August 10, 2009. (Compl. ¶ 24 (Docket No. 1); Answer ¶ 24 (Docket
+No. 12).)
+31.
+
+Following an investigation, the Commission’s General Counsel notified
+
+defendants by letter dated April 8, 2011, that the General Counsel was prepared to recommend
+that the Commission find “probable cause” to believe that defendants violated 2 U.S.C.
+§ 439a(b). (Compl. ¶ 28 (Docket No. 1); Answer ¶ 28 (Docket No. 12).) The General Counsel
+also provided defendants with a brief stating the position of the General Counsel on the legal and
+factual issues of the case. (Compl. ¶ 28 (Docket No. 1); Answer ¶ 28 (Docket No. 12).)
+The defendants filed a response with the Commission dated April 25, 2011 (Compl. ¶ 24 (Docket
+No. 1); Answer ¶ 24 (Docket No. 12)), and counsel for defendants appeared at a probable cause
+hearing before the Commission on May 25, 2011 (see FEC’s Mem. in Opp’n to Defs.’ Mot. to
+Dismiss, Exh. B (Docket No. 5-2)). After reviewing the information available, on February 7,
+2012, the Commission voted 5-0 to find probable cause to believe that defendants had violated
+2 U.S.C. § 439a(b). (Compl. ¶ 29 (Docket No. 1); Answer ¶ 29 (Docket No. 12).)
+32.
+
+The Commission notified all of the defendants of its February 7 findings by letter
+
+dated February 22, 2012, and, as FECA requires, for a period of not less than 30 days,
+endeavored to correct the violations through informal methods of conference, conciliation, and
+persuasion. (Compl. ¶ 30 (Docket No. 1); Answer ¶ 30 (Docket No. 12).) Unable to secure
+acceptable conciliation agreements with the defendants, on May 3, 2012, the Commission voted
+5-0 to authorize filing this suit against defendants. (Compl. ¶ 30 (Docket No. 1); Answer ¶ 30
+
+8
+
+Case 1:12-cv-00958-ABJ Document 16 Filed 09/30/13 Page 47 of 52
+
+(Docket No. 12).)
+33.
+
+The Commission filed this action on June 11, 2012, pursuant to its authority under
+
+2 U.S.C. §§ 437d(a)(6), 437g(a)(6)(A). (See Compl. (Docket No. 1).)
+VI.
+
+CRAIG CANNOT DEMONSTRATE THAT HE IS UNABLE TO DISGORGE
+THE CONVERTED FUNDS OR PAY A CIVIL PENALTY
+34.
+
+Defendants intend to argue that it would be difficult or impossible for Craig to
+
+disgorge the funds he converted to his personal use and to pay a civil penalty, if the Court were
+to determine that defendants violated 2 U.S.C. § 439a(b). (Defs.’ Resp. to Pl.’s First Request for
+Admission and First Set of Interrogatories at 5-7, FEC Exh. 6.)
+35.
+
+As of August 13, 2013, Craig and his spouse owned at least $1,370,529.08 in total
+
+assets.2 Those assets consisted of:
+a.
+
+$36,764.00 in cash and deposit accounts (Financial Disclosure Statement
+of Larry E. Craig (Aug. 13, 2013) (“Fin. Discl. Stmt.”) at 6, Schedule
+(“Sched.”) 1, FEC Exh. 8);
+
+b.
+
+$600,000.00 in the value of a 5,000-square-foot home sitting on two acres
+of land that Craig bought in October 2010 (id. at 7, Sched. 3);
+
+c.
+
+at least $573,361.37 in cash surrender value of various deferred income
+arrangements, including:
+i.
+
+$454,848.37 in cash surrender value of Craig’s Thrift Savings Plan
+account (Thrift Savings Plan Account Balance for Larry Craig
+(July 15, 2013), FEC Exh. 9);
+
+ii.
+
+$118,513.00 in cash surrender value of Craig’s spouse’s Individual
+
+2
+
+All facts in Section VI reflect Craig and his spouse’s reported financial state as of August
+13, 2013, the date on which defendants provided the Commission with an amended financial
+disclosure statement.
+9
+
+Case 1:12-cv-00958-ABJ Document 16 Filed 09/30/13 Page 48 of 52
+
+Retirement Account (Fin. Discl. Stmt. at 8, Sched. 4, FEC Exh. 8);
+iii.
+
+an undisclosed amount in cash surrender value of Craig’s federal
+retirement annuity (id.);
+
+iv.
+
+an undisclosed amount in cash surrender value of the Craigs’
+retirement plans from the Public Employee Retirement System of
+Idaho (id.); and
+
+v.
+
+an undisclosed amount in cash surrender value of Craig’s spouse’s
+retirement account from the United Dairy Industry Association (id.
+at 9, Sched. 4);
+
+d.
+
+at least $55,000.00 in vehicles, as valued by Craig (id. at 4), including:
+i.
+
+a 42-foot yacht Craig purchased for $100,000 in 2003 (id. at 11,
+Sched. 6; Coast Guard Vessel Documentation for “Suz II,” FEC
+Exh. 10);3 and
+
+ii.
+
+a second boat, which Craig purchased on April 9, 2010 for
+$8,348.78 (Fin. Discl. Stmt. at 12, Sched. 6, FEC Exh. 8);
+
+e.
+
+$86,400.00 in personal property (id. at 13, Sched. 8);
+
+f.
+
+$19,003.71 in cash surrender value of Craig’s spouse’s life insurance
+policy (id. at 14, Sched. 10); and
+
+g.
+
+an undisclosed amount for the value of two limited liability companies —
+New West Strategies, LLC and Craig and Associates, LLC — for which
+Craig is either the sole or partial owner (id. at 13, Sched. 7). New West
+
+3
+
+The information in FEC Exhibit 10 was obtained from a search of the United States Coast
+Guard’s vessel documentation database, which can be found at http://www.st.nmfs.noaa.gov/
+st1/CoastGuard/VesselByName.html.
+10
+
+Case 1:12-cv-00958-ABJ Document 16 Filed 09/30/13 Page 49 of 52
+
+Strategies, LLC is a political consulting firm located in Washington, D.C.
+that “provides strategic advocacy, advice and guidance to companies,
+trade associations and other clients on a broad range of federal and state
+legislative and regulatory issues.” (See New West Strategies,
+http://newweststrategiesllc.com.)
+36.
+
+Craig had $230,000.00 in available credit. That credit consisted of:
+a.
+
+$50,000.00 in revolving credit from two Visa credit cards issued by Zions
+Bank (Fin. Discl. Stmt at 15, Sched. 11, FEC Exh. 8); and
+
+b.
+
+$180,000.00 from a home equity line of credit issued by Zions Bank
+($98,387.54 of which Craig used to remodel his home) (id. at 16, Sched.
+11.B; see also Zions Bank Home Equity Credit Line Account Statement
+(June 14, 2013), FEC Exh. 11).
+
+37.
+
+Craig had $684,701.23 in total liabilities. Those liabilities consisted of:
+a.
+
+$409,553.59 for a real estate mortgage (Fin. Discl. Stmt at 7, Sched. 3,
+FEC Exh. 8);
+
+b.
+
+$98,387.54 for a home equity loan (id. at 16, Sched. 11.B);
+
+c.
+
+$20,000.00 for state and federal income taxes (with an additional $30,000$45,000 coming due on January 15, 2014) (id. at 18, Sched. 17);
+
+d.
+
+approximately $4,000.00 for credit card purchases (id. at 15, Sched. 11);
+
+e.
+
+$14,317.00 for other debts and accounts payable (id. at 19, Sched. 18);
+
+f.
+
+$80,753.10 for vehicle leases and boat purchases (id. at 11-12, Sched. 6);
+
+g.
+
+$53,690.00 for medical and legal expenses (id. at 20, Sched. 20); and
+
+h.
+
+$4,000.00 for other unspecified liabilities (id. at 4).
+
+11
+
+Case 1:12-cv-00958-ABJ Document 16 Filed 09/30/13 Page 50 of 52
+
+38.
+
+Craig had $230,000.00 in contingent liabilities, resulting from an undisclosed
+
+lease or contract for which Craig is the endorser or co-maker. (Fin. Discl. Stmt. at 3, FEC Exh.
+8.)
+39.
+
+Craig had $16,407.81 in monthly income. The sources of that monthly income
+
+were:
+a.
+
+$6,000.00 in salary from New West Strategies, LLC (Fin. Discl. Stmt. at
+20, Sched. 21, FEC Exh. 8);
+
+b.
+
+$25.00 in interest, dividends, and/or business income (id. at 21, Sched.
+21);
+
+c.
+
+$4,529.02 in federal retirement annuity payments to Craig (id. at 8, Sched.
+4; 20, Sched. 21);
+
+d.
+
+$2,416.67 in Thrift Savings Plan payments to Craig (id. at 8, Sched. 4; 21,
+Sched. 21);
+
+e.
+
+$117.71 in payments from the Public Employee Retirement System of
+Idaho to Craig (id. at 8, Sched. 4; 21, Sched. 21);
+
+f.
+
+$523.86 in payments from the Public Employee Retirement System of
+Idaho to Craig’s spouse (id.);
+
+g.
+
+$1,329.00 in Social Security payments to Craig’s spouse (id. at 9, Sched.
+4; 21, Sched. 21); and
+
+h.
+
+$1,466.55 in retirement payments from the United Dairy Industry
+Association to Craig’s spouse (id. at 21, Sched. 21).
+
+40.
+
+Craig had $14,451.00 in monthly expenses. Those expenses included:
+a.
+
+$4,100 for house mortgage, home equity loan, boat, and slip rental for boat
+
+12
+
+Case 1:12-cv-00958-ABJ Document 16 Filed 09/30/13 Page 51 of 52
+
+(Fin. Discl. Stmt. at 22, Sched. 22, FEC Exh. 8);
+b.
+
+$150.00 to Capital Educator’s Credit Union for a loan to buy Craig’s
+second boat, a 2008 Paddle King Pontoon Outboard 2000 (id.);
+
+c.
+
+$750.00 in automobile and transportation expenses (id.); including:
+i.
+
+$395.39 for a lease for 2012 Toyota RAV4 (id. at 11, Sched. 6);
+and
+
+ii.
+
+$224.31 for a lease for 2012 Scion IQ (id. at 11, Sched. 6);
+
+d.
+
+$426.00 in utility payments (id. at 22, Sched. 22);
+
+e.
+
+$4,000.00 in credit card payments (id.);
+
+f.
+
+$225.00 in telephone and internet expenses (id.);
+
+g.
+
+$400.00 in insurance premiums for cars, home, personal property, and
+liability (id.), including:
+i.
+
+$118.00 for Craig’s spouse’s life insurance policy premium (id. at
+14, Sched. 10);
+
+h.
+
+$2,000.00 in medical and legal expenses (id. at 22, Sched. 22), including:
+i.
+
+$1,730.00 to Brand Law Group, David Rice, MD, and Skip Pierce,
+DDS (id. at 20, Sched. 20);
+
+j.
+
+$250.00 in charitable contributions (id. at 22, Sched. 22); and
+
+k.
+
+$2,150.00 in other expenses, including taxes (id. at 22, Sched. 22).
+
+13
+
+Case 1:12-cv-00958-ABJ Document 16 Filed 09/30/13 Page 52 of 52
+
+41.
+
+Craig’s net worth is $685,827.85 given his $1,370,529.08 in total assets (supra
+¶ 36) and $684,701.23 in non-contingent liabilities (supra ¶ 38).
+
+Respectfully submitted,
+Lisa J. Stevenson (D.C. Bar No. 457628)
+Deputy General Counsel – Law
+Kevin Deeley
+Acting Associate General Counsel
+Harry J. Summers
+Assistant General Counsel
+Robert W. Bonham III
+Senior Attorney
+/s/ Kevin P. Hancock
+Kevin P. Hancock
+Attorney
+
+September 30, 2013
+
+COUNSEL FOR PLAINTIFF
+FEDERAL ELECTION COMMISSION
+999 E Street, N.W.
+Washington, D.C. 20463
+(202) 694-1650
+Fax: (202) 219-0260
+
+14
+
+

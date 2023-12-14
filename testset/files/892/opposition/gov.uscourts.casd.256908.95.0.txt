@@ -1,0 +1,2932 @@
+Case 3:07-cv-02000-H-CAB
+
+1
+2
+3
+4
+5
+6
+
+Document 95
+
+Filed 12/03/2007
+
+Page 1 of 25
+
+David A. Hahn (SBN 125784)
+HAHN & ADEMA
+501 West Broadway, Suite 1600
+San Diego, California 92101-3595
+Telephone: (619) 235-2100
+Facsimile: (619) 235-2101
+Attorney for Plaintiff Multimedia Patent Trust
+Additional counsel listed on the last page.
+
+7
+8
+
+UNITED STATES DISTRICT COURT
+
+9
+
+SOUTHERN DISTRICT OF CALIFORNIA
+
+10
+11
+
+LUCENT TECHNOLOGIES INC. and
+MULTIMEDIA PATENT TRUST,
+Plaintiffs,
+
+12
+13
+14
+15
+
+v.
+GATEWAY, INC., GATEWAY COUNTRY
+STORES LLC, GATEWAY COMPANIES, INC.,
+GATEWAY MANUFACTURING LLC and
+COWABUNGA ENTERPRISES, INC.,
+
+16
+17
+18
+
+Defendants,
+and
+MICROSOFT CORPORATION,
+Intervener.
+
+19
+20
+
+MICROSOFT CORPORATION,
+
+21
+22
+23
+24
+25
+26
+27
+28
+
+Plaintiff,
+v.
+LUCENT TECHNOLOGIES INC.,
+Defendant.
+
+Case No. 07-CV-2000-H (CAB)
+consisting of matters severed from
+consolidated cases:
+Case No. 02-CV-2060 B (CAB)
+Case No. 03-CV-0699 B (CAB)
+Case No. 03-CV-1108 B (CAB)
+MULTIMEDIA PATENT
+TRUST’S OPPOSITION TO
+DEFENDANTS’ MOTION FOR
+STAY OR, IN THE
+ALTERNATIVE, FOR
+SEVERANCE OF THE HASKELL
+AND NETRAVALI PATENTS
+FOR CONSOLIDATION WITH
+CASE NO. 07-CV-0747
+Hearing Date:
+Hearing Time:
+Location:
+
+January 7, 2008
+10:30 a.m.
+Courtroom 13
+
+Honorable Marilyn L. Huff
+
+Case 3:07-cv-02000-H-CAB
+
+Document 95
+
+Filed 12/03/2007
+
+Page 2 of 25
+
+1
+2
+3
+4
+5
+6
+7
+
+LUCENT TECHNOLOGIES INC. and
+MULTIMEDIA PATENT TRUST,
+Plaintiffs,
+v.
+DELL INC.,
+Defendant.
+
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+MULTIMEDIA PATENT TRUST’S OPPOSITION TO DEFENDANTS’
+MOTION FOR STAY OR, IN THE ALTERNATIVE, FOR SEVERANCE
+OF THE HASKELL AND NETRAVALI PATENTS FOR CONSOLIDATION
+WITH CASE NO. 07-CV-0747
+
+Case No. 07-CV-2000 H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 95
+
+Filed 12/03/2007
+
+Page 3 of 25
+
+1
+
+TABLE OF CONTENTS
+
+2
+
+TABLE OF CONTENTS....................................................................................................................... i
+
+3
+
+TABLE OF AUTHORITIES ................................................................................................................ ii
+
+4
+
+I.
+
+INTRODUCTION .....................................................................................................................1
+
+5
+
+II.
+
+BACKGROUND .......................................................................................................................2
+
+6
+7
+8
+9
+10
+
+III.
+
+A.
+
+Procedural History .........................................................................................................2
+
+B.
+
+Delaware Action ............................................................................................................4
+
+C.
+
+MPT Action ...................................................................................................................4
+
+ARGUMENT.............................................................................................................................5
+A.
+
+11
+12
+
+This Court Should Not Stay Trial On The Video Coding Patents.................................5
+1.
+
+Colorado River Articulates The Proper Legal Standard For Granting A
+Stay Of Federal Litigation Pending The Resolution Of A Related State
+Court Action.......................................................................................................6
+
+2.
+
+The Colorado River Factors Weigh Strongly Against Granting
+Defendants’ Request For A Stay........................................................................7
+
+3.
+
+A Stay Is Not Warranted Even Under The Weaker Standard
+Defendants Propose ...........................................................................................9
+
+13
+14
+15
+16
+17
+
+a.
+
+Judicial Economy Does Not Support Defendants’ Request For
+A Stay.....................................................................................................9
+
+b.
+
+A Stay Would Prejudice MPT While Defendants Will Face No
+Hardship Or Inequity If The Video Coding Patent Trial Goes
+Forward ................................................................................................13
+
+18
+19
+20
+21
+
+B.
+
+22
+
+This Court Should Not Sever And Reconsolidate The Video Coding Patents ............15
+1.
+
+The Patent Groups For Which Consolidation Is Sought Do Not Present
+Common Issues For Trial ................................................................................15
+
+2.
+
+Consolidation Will Only Serve To Inappropriately Delay Resolution
+Of MPT’s Case ................................................................................................17
+
+23
+24
+25
+
+IV.
+
+CONCLUSION........................................................................................................................20
+
+26
+27
+28
+
+MULTIMEDIA PATENT TRUST’S OPPOSITION TO DEFENDANTS’
+MOTION FOR STAY OR, IN THE ALTERNATIVE, FOR SEVERANCE
+OF THE HASKELL AND NETRAVALI PATENTS FOR CONSOLIDATION
+WITH CASE NO. 07-CV-0747
+
+i
+
+Case No. 07-CV-2000 H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+1
+
+Document 95
+
+Filed 12/03/2007
+
+Page 4 of 25
+
+TABLE OF AUTHORITIES
+
+2
+
+CASES
+
+3
+
+Aerotel, Ltd. v. Verizon Commc’ns Inc.,
+234 F.R.D. 64 (S.D.N.Y. 2005) .............................................................................................. 20
+
+4
+5
+
+American Telephone & Telegraph Co. v. Milgo Electronic Corp.,
+416 F. Supp. 951 (S.D.N.Y 1976)........................................................................................... 15
+
+6
+
+Antoninetti v. Chipotle Mexican Grill, Inc.,
+No. 05CV1660-J (WMc), 2007 WL 2669531, at *2 (S.D. Cal. Sept. 7, 2007)................ 17, 19
+
+7
+8
+9
+10
+
+Bechtel Corp. v. Local 215, Laborers’ Int'l Union of North America,
+544 F.2d 1207 (3d Cir. 1976).................................................................................................. 15
+Burford v. Sun Oil Co.,
+319 U.S. 315 (1943).................................................................................................................. 8
+
+11
+
+Cherokee Nation of Okla. v. United States,
+124 F.3d 1413 (Fed. Cir. 1997)............................................................................................... 15
+
+12
+
+Clark v. Lacy,
+376 F.3d 682 (7th Cir. 2004) ................................................................................................ 6, 9
+
+13
+14
+
+Colorado River Water Conservation District v. United States,
+424 U.S. 800 (1976).......................................................................................... 5, 7, 8, 9, 15, 16
+
+15
+
+Farahmand v. Rumsfeld,
+No. CIV. A. 02-1236, 2002 WL 31630709, (E.D. Pa. 2002) ................................................. 19
+
+16
+17
+
+Fed. Ins. Co. v. Scarsella Bros., Inc.,
+931 F.2d 599 (9th Cir. 1991) ............................................................................................ 11, 14
+
+18
+
+FURminator Inc. v. Ontel Prods., Inc.,
+No. 4:06-CV-1294 CAS, 2006 WL 3827522 (E.D. Mo. 2006).............................................. 18
+
+19
+20
+
+In re Consolidated Parlodel Litig.,
+182 F.R.D. 441 (D. N.J. 1998)................................................................................................ 19
+
+21
+
+Kerotest Mfg. Co. v. C-O-Two Fire Equip. Co.,
+342 U.S. 180 (1952).................................................................................................................. 7
+
+22
+23
+
+KPS & Assocs., Inc. v. Designs by FMC, Inc.,
+318 F.3d 1 (1st Cir. 2003)......................................................................................................... 7
+
+24
+
+Landis v. North American Co.,
+299 U.S. 248 (1936)............................................................................................ 6, 9, 11, 15, 16
+
+25
+26
+27
+28
+
+Leviton Mfg. Co. v. Nicor, Inc.,
+No. CIV 04-0424, 2007 WL 505784, (D.N.M. Jan. 8, 2007)..................................... 18, 19, 20
+Moses H. Cone Mem’l Hosp. v. Mercury Constr. Corp.,
+460 U.S. 1 (1983)................................................................................................................ 7, 11
+MULTIMEDIA PATENT TRUST’S OPPOSITION TO DEFENDANTS’
+Case No. 07-CV-2000 H (CAB)
+ii
+MOTION FOR STAY OR, IN THE ALTERNATIVE, FOR SEVERANCE
+OF THE HASKELL AND NETRAVALI PATENTS FOR CONSOLIDATION
+WITH CASE NO. 07-CV-0747
+
+Case 3:07-cv-02000-H-CAB
+
+1
+2
+
+Document 95
+
+Filed 12/03/2007
+
+Page 5 of 25
+
+North County Comms. Corp. v. Cal. Catalog & Tech.,
+No. 06CV1542-LAB, 2007 WL 4200203, (S.D. Cal. Nov. 26, 2007) ................................... 12
+
+3
+
+Parklane Hosiery Co. v. Shore,
+439 U.S. 322 (1979)................................................................................................................ 13
+
+4
+
+Railroad Comm’n of Tex. v. Pullman Co.,
+312 U.S. 496 (1941).................................................................................................................. 8
+
+5
+6
+
+Robi v. Five Platters, Inc.,
+838 F.2d 318 (9th Cir. 1988) .................................................................................................. 13
+
+7
+
+Ryan v. Johnson,
+115 F.3d 193 (3d Cir. 1997)...................................................................................................... 8
+
+8
+9
+10
+11
+
+Sensitron, Inv. v. Wallace,
+504 F. Supp. 2d 1180 (D. Utah 2007)..................................................................................... 19
+Universal Gypsum of Geor., Inc. v. American Cyanamid Co.,
+390 F. Supp. 824 (S.D.N.Y. 1975).......................................................................................... 15
+
+12
+
+Younger v. Harris,
+401 U.S. 37 (1971).................................................................................................................... 8
+
+13
+
+RULES
+
+14
+
+Fed. R. Civ. P. 12(b)(1)......................................................................................................................... 5
+
+15
+
+Fed. R. Civ. P. 26(a)(3)......................................................................................................................... 3
+
+16
+
+Fed. R. Civ. P. 42(a) ........................................................................................................................... 15
+
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+MULTIMEDIA PATENT TRUST’S OPPOSITION TO DEFENDANTS’
+MOTION FOR STAY OR, IN THE ALTERNATIVE, FOR SEVERANCE
+OF THE HASKELL AND NETRAVALI PATENTS FOR CONSOLIDATION
+WITH CASE NO. 07-CV-0747
+
+iii
+
+Case No. 07-CV-2000 H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+1
+
+I.
+
+Document 95
+
+Filed 12/03/2007
+
+Page 6 of 25
+
+INTRODUCTION
+
+2
+
+The first case in this consolidated action was filed in 2002. Trial is now scheduled to occur
+
+3
+
+in less than three months. Gateway, Microsoft, and Dell (“Defendants”) have requested that this
+
+4
+
+Court stay this action based on a complaint that MPEG LA, LLC—a licensing organization of which
+
+5
+
+Defendants are licensees—filed in October 2007, just a few weeks ago, in the Delaware Court of
+
+6
+
+Chancery (the “Delaware Action”). In the alternative, Defendants request that this Court sever
+
+7
+
+Multimedia Patent Trust’s (“MPT”) claims regarding the Haskell and Netravali patents and
+
+8
+
+consolidate them with another case MPT recently filed in this Court (the “MPT Action”).
+
+9
+
+Defendants’ requests have no merit and should be denied.
+
+10
+
+Defendants argue that this Court should stay the upcoming trial on the Haskell and Netravali
+
+11
+
+patents because the license claims MPEG LA has asserted in Delaware are “potentially dispositive”
+
+12
+
+in this case. But in fact this Court has already disposed of these issues by granting summary
+
+13
+
+judgment denying Defendants’ affirmative defense of license and rejecting the same arguments
+
+14
+
+MPEG LA makes—namely, that Alcatel’s membership in a patent pool licensed MPEG LA and its
+
+15
+
+sublicensees, including Defendants, to use the Haskell and Netravali patents. A second attempt by
+
+16
+
+Defendants to assert this license defense (in the guise of a standing defense)—in the MPT Action—
+
+17
+
+also failed, and a third attempt, on motion for reconsideration of the summary judgment ruling in this
+
+18
+
+case, is pending. This motion is Defendants’ fourth attempt to present this license defense, and this
+
+19
+
+Court should continue to reject it.
+
+20
+
+This Court should deny Defendants’ request for a stay because, under Supreme Court case
+
+21
+
+law, the circumstances in this case are not “exceptional” and thus do not warrant staying the federal
+
+22
+
+trial on the Haskell and Netravali patents pending the Delaware Action’s outcome. Not only do
+
+23
+
+Defendants cite an incorrect legal standard, the justifications they offer fail even on their own terms.
+
+24
+
+Given this Court’s summary judgment rulings—which disposed, for purposes of this case, of almost
+
+25
+
+all of the issues MPEG LA raises in Delaware—delay does not foster judicial economy. Instead, a
+
+26
+
+delay of this federal patent case so close to trial would significantly prejudice MPT, as would having
+
+27
+
+to re-litigate issues in Delaware that are already settled in this case. Meanwhile, Defendants can
+
+28
+
+MULTIMEDIA PATENT TRUST’S OPPOSITION TO DEFENDANTS’
+MOTION FOR STAY OR, IN THE ALTERNATIVE, FOR SEVERANCE
+OF THE HASKELL AND NETRAVALI PATENTS FOR CONSOLIDATION
+WITH CASE NO. 07-CV-0747
+
+1
+
+Case No. 07-CV-2000 H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 95
+
+Filed 12/03/2007
+
+Page 7 of 25
+
+1
+
+point to no facts showing that going to trial on the Haskell and Netravali patents would prejudice
+
+2
+
+them in any way, apart from their being disappointed in this Court’s rulings on their license defense.
+
+3
+
+For all of these reasons, Defendants’ request for a stay must fail.
+
+4
+
+Nor should this Court grant Defendants’ alternative request to sever the Haskell and
+
+5
+
+Netravali patents from this case and consolidate them with the MPT Action. Defendants cannot
+
+6
+
+meet the threshold requirement for consolidation because the Haskell and Netravali patents do not
+
+7
+
+raise common questions of fact or law with the patents asserted in the MPT Action. No patent in
+
+8
+
+either group claims priority to a patent in the other group, and no common prior art was cited during
+
+9
+
+prosecution of either group. These patents have different specifications and different claims, and
+
+10
+
+they will require different claim constructions and infringement analyses.
+
+11
+
+Defendants’ additional bases for consolidation also lack merit. Damages awarded in the two
+
+12
+
+cases will not be duplicative because the 0.5% royalty rate sought in the present case relates only to
+
+13
+
+essential patents. There has been no showing that the patents in the MPT Action are essential to the
+
+14
+
+standard and, in any event, any alleged duplication could be remedied through simple deductions.
+
+15
+
+The fact that certain inventors will need to appear at multiple trials also cannot be relied upon by
+
+16
+
+Defendants because these are MPT’s witnesses.
+
+17
+
+If Defendants’ request to consolidate was intended to promote judicial efficiency, it would
+
+18
+
+have been made six months ago when the MPT Action was first filed. Rather, Defendants seek only
+
+19
+
+to delay the trial of this action in an attempt to use the Delaware Action to revisit licensing defenses
+
+20
+
+that this Court already rejected. Accordingly, the Court should deny Defendants’ request.
+
+21
+
+II.
+
+BACKGROUND
+
+22
+
+A.
+
+23
+
+This case is set for trial on February 20, 2008, less than three months from today. This
+
+24
+
+Court’s summary judgment order issued on October 1, 2007 and dramatically narrowed the pending
+
+25
+
+issues regarding Lucent’s creation of MPT. (See generally Case No. 02-CV-2060 D.I. 2109, Oct. 1,
+
+26
+
+2007 Order Granting In Part And Denying In Part Parties’ Motions For Summary Judgment (the
+
+27
+
+“Oct. 1, 2007 Order”).) Final expert depositions have been completed, and final pretrial disclosures
+
+28
+
+Procedural History
+
+MULTIMEDIA PATENT TRUST’S OPPOSITION TO DEFENDANTS’
+MOTION FOR STAY OR, IN THE ALTERNATIVE, FOR SEVERANCE
+OF THE HASKELL AND NETRAVALI PATENTS FOR CONSOLIDATION
+WITH CASE NO. 07-CV-0747
+
+2
+
+Case No. 07-CV-2000 H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 95
+
+Filed 12/03/2007
+
+Page 8 of 25
+
+1
+
+pursuant to Fed. R. Civ. P. 26(a)(3) are due by January 28, 2008. (See Case No. 02-CV-2060 D.I.
+
+2
+
+1876, June 7, 2007 Scheduling Order For Groups 1, 4, 5 And 6 Patents (the “Pretrial Scheduling
+
+3
+
+Order”).) Defendants nonetheless now move for a stay or, in the alternative, to sever the Haskell and
+
+4
+
+Netravali patents and consolidate them with the MPT Action. (See Case No. 07-CV-2000 D.I. 58,
+
+5
+
+Nov. 21, 2007 Motion For Stay Or, In The Alternative, Severance Of The Haskell And Netravali
+
+6
+
+Patents For Consolidation With Case No. 07-CV-0747 (“Mot. For Stay”).)
+
+7
+
+Lucent filed the first complaint in this consolidated action, against Gateway, in 2002. In
+
+8
+
+November 2006, Lucent formed MPT as a Delaware Statutory Trust and transferred to it two of the
+
+9
+
+patents-in-suit: U.S. Patent No. 4,958,226 (the “Haskell patent”) and U.S. Patent No. 4,383,272 (the
+
+10
+
+“Netravali patent”) (collectively, the “Video Coding Patents”). MPT was substituted for Lucent as
+
+11
+
+plaintiff for the Video Coding Patents in January 2007.1 The Video Coding Patents both are
+
+12
+
+essential to the operation of the MPEG-2 standard. (See Farkas Decl. Ex. 30.)
+
+13
+
+On October 1, 2007, this Court granted summary judgment to Lucent and MPT on many of
+
+14
+
+Defendants’ affirmative defenses and counterclaims, including Defendants’ Sherman Act claims,
+
+15
+
+patent misuse defense, and unclean hands defense. (See Oct. 1, 2007 Order 12-15, 22-27.) This
+
+16
+
+Court also granted Lucent and MPT’s motion for summary judgment on Defendants’ purported
+
+17
+
+license defense, concluding that none of the three bases Defendants offered—ineffective transfer,
+
+18
+
+affiliate status, and alter ego—could support a finding that Defendants were licensed, by virtue of
+
+19
+
+their participation in the MPEG LA patent pool, to use the Video Coding Patents. (See Oct. 1, 2007
+
+20
+
+Order 12.) This Court held that Lucent’s transfer of the Video Coding Patents to MPT was effective,
+
+21
+
+and rejected Defendants’ contention that MPT is an “Affiliate” of Alcatel pursuant to the MPEG LA
+
+22
+
+Agreement Among Licensors. (See id. at 4-11.) Defendants’ attempt to pierce MPT’s corporate veil
+
+23
+
+similarly failed because Defendants could point to no evidence suggesting that MPT is controlled by
+
+24
+Lucent and MPT’s briefing in support of their motions for summary judgment on trustrelated issues describes in depth MPT’s formation, the transfer of the Video Coding Patents, and
+Lucent’s subsequent merger with Alcatel. (See Case No. 02-CV-2060 D.I. 1981, Aug. 17, 2007
+Memorandum Of Points And Authorities In Support Of Multimedia Patent Trust’s And Lucent’s
+Motions For Summary Judgment On Trust-Related Defenses And Counterclaims 1-6.)
+1
+
+25
+26
+27
+28
+
+MULTIMEDIA PATENT TRUST’S OPPOSITION TO DEFENDANTS’
+MOTION FOR STAY OR, IN THE ALTERNATIVE, FOR SEVERANCE
+OF THE HASKELL AND NETRAVALI PATENTS FOR CONSOLIDATION
+WITH CASE NO. 07-CV-0747
+
+3
+
+Case No. 07-CV-2000 H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+(See id. at 11-12.)
+
+Document 95
+
+Filed 12/03/2007
+
+Page 9 of 25
+
+1
+
+Lucent.
+
+In sum, this Court rejected every one of Defendants’ proffered
+
+2
+
+arguments that they are licensed under the agreement between Alcatel and MPEG LA to practice the
+
+3
+
+Video Coding Patents. (See id. at 4-12.)
+
+4
+
+Dell subsequently filed a motion for reconsideration of this Court’s judgment. (See Case No.
+
+5
+
+07-CV-2000 D.I. 29, Oct. 31, 2007 Dell Inc.’s Notice Of Motion And Motion For Reconsideration
+
+6
+
+Of The Court’s October 1, 2007 Order.)
+
+7
+
+evidence, intervening change in the law, or “clear error” by this Court, is scheduled for hearing on
+
+8
+
+December 7, 2007. (See Case No. 07-CV-2000 D.I. 56, Nov. 21, 2007 Plaintiffs’ Opposition To
+
+9
+
+Dell’s Motion For Reconsideration Of The Court’s October 1, 2007 Order.)
+
+That motion, which addresses no newly discovered
+
+10
+
+B.
+
+Delaware Action
+
+11
+
+Nearly a month after this Court had ruled on the summary judgment in Lucent and MPT’s
+
+12
+
+favor, on October 26, 2007, MPEG LA filed a complaint in the Delaware Court of Chancery,
+
+13
+
+asserting claims against Alcatel, Lucent, and MPT. (See Farkas Decl. Ex. 18, MPEG LA Compl.
+
+14
+
+§ 1.) MPEG LA alleges that Alcatel breached its obligations to MPEG LA by agreeing with Lucent
+
+15
+
+to form MPT and to transfer the Video Coding Patents to the trust. (See id. §§ 16-33.) MPEG LA
+
+16
+
+also asserts related clams against Lucent and MPT, including for tortious interference with contract
+
+17
+
+and tortious interference with prospective economic advantage. (See id. §§ 83-100.) Defendants
+
+18
+
+seek to use that action to take yet another bite at the very same apple.
+
+19
+
+The docket currently reveals no further activity in the Delaware Action after the complaint.
+
+20
+
+(See Ex. 1, Docket for Case No. CA3317-VCL in Delaware Court of Chancery.) Alcatel, Lucent,
+
+21
+
+and MPT have not yet filed an answer, the Delaware court has not issued a scheduling order, and
+
+22
+
+discovery has not commenced. No probable timeline for resolving MPEG LA’s claims therefore is
+
+23
+
+known.
+
+24
+
+C.
+
+25
+
+On April 24, 2007, MPT filed a complaint in the United States District Court for the
+
+26
+
+Southern District of California against Microsoft, Gateway, and Dell. (See D.I. 1 in case no. 07-CV-
+
+27
+
+0747 H (CAB), (the "MPT Compl.").) The complaint alleges that Defendants are infringing three
+
+28
+
+MPT Action
+
+MULTIMEDIA PATENT TRUST’S OPPOSITION TO DEFENDANTS’
+MOTION FOR STAY OR, IN THE ALTERNATIVE, FOR SEVERANCE
+OF THE HASKELL AND NETRAVALI PATENTS FOR CONSOLIDATION
+WITH CASE NO. 07-CV-0747
+
+4
+
+Case No. 07-CV-2000 H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 95
+
+Filed 12/03/2007
+
+Page 10 of 25
+
+1
+
+patents: U.S. Patent No. 5,136,377 (the “Johnston ’377 Patent”); U.S. Patent No. 5,500,678 (the
+
+2
+
+“Puri ’678 Patent”); and U.S. Patent No. 5,563,593 (the “Puri ’593 Patent”) (collectively, the “MPT
+
+3
+
+Patents”). (See id. §§ 18-42.) In the MPT Action, Dell asserted a license defense, and filed a motion
+
+4
+
+to dismiss for lack of subject matter jurisdiction based on the same arguments that it raised in
+
+5
+
+support of its license defense in this action. Those arguments failed there, too. (See Case No. 07-
+
+6
+
+CV-0747 D.I. 149, Oct. 9, 2007 Order Denying Defendants’ Motion To Dismiss Pursuant To Fed. R.
+
+7
+
+Civ. P. 12(b)(1) at 3.)
+
+8
+
+The MPT Action only recently began. The parties have until at least February 6, 2009 to
+
+9
+
+complete fact and expert discovery. (See Case No. 07-CV-0747 D.I. 152, Nov. 1, 2007 Case
+
+10
+
+Management Conference Order Regulating Discovery And Other Pretrial Proceedings § 16 (the
+
+11
+
+“MPT Case Management Conference Order”).) The final pretrial conference is set for March 30,
+
+12
+
+2009. (See id. § 24.) No trial date has been set, and given the scheduling orders currently in place,
+
+13
+
+no trial will occur, at a minimum, for almost a year and a half.
+
+14
+
+Contrary to Defendants’ assertions, there has been no showing that the three patents at issue
+
+15
+
+in the MPT Action are essential to practice the MPEG-2 standard. License negotiating documents
+
+16
+
+produced by Lucent demonstrate that the Johnston ’377 Patent is optional with respect to the MPEG-
+
+17
+
+2 standard. (See Farkas Decl. Ex. 30.) Moreover, MPT is asserting all three MPT patents on
+
+18
+
+encoding products in the MPT Action, rather than the decoding technologies at issue in this case.
+
+19
+
+III.
+
+ARGUMENT
+
+20
+
+A.
+
+21
+
+Defendants ask this Court to stay trial on the Video Coding Patents, currently scheduled for
+
+22
+
+February 20, 2008, pending the outcome of the Delaware Action that MPEG LA recently filed on
+
+23
+
+October 26, 2007. In Colorado River Water Conservation District v. United States, 424 U.S. 800
+
+24
+
+(1976), and its progeny, the Supreme Court defined when a federal court should halt a proceeding in
+
+25
+
+favor of a pending, related state court action. While Defendants cite a previous Supreme Court case,
+
+26
+
+Landis v. N. Am. Co., 299 U.S. 248 (1936), for the proposition that courts have the inherent power to
+
+27
+
+stay their proceedings, Defendants completely ignore the subsequent Colorado River line of cases,
+
+28
+
+This Court Should Not Stay Trial On The Video Coding Patents
+
+MULTIMEDIA PATENT TRUST’S OPPOSITION TO DEFENDANTS’
+MOTION FOR STAY OR, IN THE ALTERNATIVE, FOR SEVERANCE
+OF THE HASKELL AND NETRAVALI PATENTS FOR CONSOLIDATION
+WITH CASE NO. 07-CV-0747
+
+5
+
+Case No. 07-CV-2000 H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 95
+
+Filed 12/03/2007
+
+Page 11 of 25
+
+1
+
+which addresses under what circumstances a federal court should exercise this power, when the
+
+2
+
+stay—as here—is requested in deference to a state court proceeding.2 Applying the Colorado River
+
+3
+
+doctrine, the present circumstances weigh strongly against granting Defendants’ motion to stay this
+
+4
+
+federal patent litigation. Indeed, Defendants do not even meet the lesser standard that they attempt
+
+5
+
+to assert based on Landis. This Court therefore should deny Defendants’ request.
+1.
+
+7
+
+Colorado River Articulates The Proper Legal Standard For Granting A
+Stay Of Federal Litigation Pending The Resolution Of A Related State
+Court Action
+
+8
+
+In Colorado River, the Supreme Court considered the question now before this Court—
+
+9
+
+namely, under what circumstances a federal court should delay or decline hearing a case because a
+
+10
+
+related state litigation is pending. The Supreme Court recognized that the “‘conservation of judicial
+
+11
+
+resources’” may justify delaying or declining jurisdiction in light of a parallel state proceeding,3 but
+
+12
+
+it concluded that where no issue of federal-state comity exists, only “exceptional” circumstances
+
+13
+
+justify a stay or dismissal.4 See Colorado River, 424 U.S. at 817-18 (quoting Kerotest Mfg. Co. v.
+
+14
+
+C-O-Two Fire Equip. Co., 342 U.S. 180, 183 (1952)). “[T]he pendency of an action in the state
+
+15
+
+court is no bar to proceedings concerning the same matter in the Federal court having jurisdiction,”
+
+16
+
+and indeed, federal courts have a “virtually unflagging obligation . . . to exercise the jurisdiction
+
+17
+
+given them.” Id. at 817 (internal quotation marks and citation omitted) (emphasis added).
+
+6
+
+18
+19
+20
+21
+22
+23
+24
+
+Unlike Defendants’ present motion, Landis involved a request to stay a district court action
+in light of another pending district court case. See 299 U.S. at 249-50. However, a different—
+and higher—standard applies to requests to stay or dismiss a federal court action based on a copending state case, as articulated in Colorado River and discussed herein. This distinction is
+particularly significant where, as here, the subject matter of the longer pending case is uniquely
+federal patent litigation.
+2
+
+A “parallel” proceeding is one where “substantially the same parties are contemporaneously
+litigating substantially the same issues in another forum.” Clark v. Lacy, 376 F.3d 682, 686 (7th
+Cir. 2004) (internal citations and quotations omitted) (noting that “[p]arties with ‘nearly
+identical’ interests are considered ‘substantially the same’ for Colorado River purposes”).
+
+3
+
+While Colorado River specifically discusses the appropriateness of dismissing a federal suit
+due to a parallel state proceeding, the Supreme Court subsequently extended its analysis to a stay
+of proceedings, as well. See Moses H. Cone Mem’l Hosp. v. Mercury Constr. Corp., 460 U.S. 1,
+27-28 (1983) (rejecting any distinction between stay and dismissal in the Colorado River context
+on grounds that “a stay is as much a refusal to exercise federal jurisdiction as a dismissal”).
+
+4
+
+25
+26
+27
+28
+
+MULTIMEDIA PATENT TRUST’S OPPOSITION TO DEFENDANTS’
+MOTION FOR STAY OR, IN THE ALTERNATIVE, FOR SEVERANCE
+OF THE HASKELL AND NETRAVALI PATENTS FOR CONSOLIDATION
+WITH CASE NO. 07-CV-0747
+
+6
+
+Case No. 07-CV-2000 H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 95
+
+Filed 12/03/2007
+
+Page 12 of 25
+
+1
+
+The Supreme Court articulated a set of nonexclusive factors to consider when determining
+
+2
+
+whether the circumstances are “exceptional” and thus justify a dismissal or stay. These include: (1)
+
+3
+
+whether the state court has asserted jurisdiction over property; (2) “the inconvenience of the federal
+
+4
+
+forum”; (3) “the desirability of avoiding piecemeal litigation”; and (4) “the order in which
+
+5
+
+jurisdiction was obtained by the concurrent forums.”5
+
+6
+
+necessarily determinative,” and “[o]nly the clearest of justifications will warrant dismissal.” Id.; see
+
+7
+
+also Moses H. Cone Mem’l Hosp. v. Mercury Constr. Corp., 460 U.S. 1, 16 (1983) (appropriate
+
+8
+
+analysis does not involve a “mechanical checklist,” but a “careful balancing of the important factors
+
+9
+
+as they apply in a given case, with the balance heavily weighted in favor of the exercise of
+
+10
+
+jurisdiction”) (emphasis added).
+
+11
+
+2.
+
+12
+
+See id. at 818-19. “No one factor is
+
+The Colorado River Factors Weigh Strongly Against Granting
+Defendants’ Request For A Stay
+
+13
+
+There is no federal-state comity concern in this case, so the Colorado River analysis applies.6
+
+14
+
+Applied to this case, the Supreme Court’s balancing factors weigh heavily against Defendants’
+
+15
+
+request to stay trial on the Video Coding Patents. First, the Delaware Court of Chancery has not
+
+16
+
+assumed jurisdiction over any property, so that factor does not favor a stay. Second, Defendants
+
+17
+
+cannot argue that the federal forum is less convenient to the parties than the state forum. Defendants
+
+18
+
+Subsequent courts have considered additional factors, including whether state or federal law
+controls, the adequacy of the state forum to protect the parties’ interests, the vexatious or
+contrived nature of the federal claim, and respect for the principles underlying removal
+jurisdiction. See, e.g., KPS & Assocs., Inc. v. Designs by FMC, Inc., 318 F.3d 1, 10 (1st Cir.
+2003) (discussing factors).
+
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+5
+
+The Supreme Court recognizes only three situations where the issue of federal-state comity
+justifies a federal court declining to exercise jurisdiction in favor of state court litigation: (1)
+cases presenting a federal constitutional issue that might be mooted or presented in a different
+posture following a state court determination of state law, as in R.R. Comm’n of Tex. v. Pullman
+Co., 312 U.S. 496 (1941); (2) cases presenting difficult questions of state law where a federal
+decision might disrupt a state’s attempts to establish or maintain a coherent policy on a matter of
+substantial public concern, as in Burford v. Sun Oil Co., 319 U.S. 315 (1943); and (3) cases
+where federal jurisdiction has been invoked for the purpose of restraining state criminal
+proceedings, as in Younger v. Harris, 401 U.S. 37 (1971). See Colorado River, 424 U.S. at 81417 (discussing these cases). Defendants cannot and do not argue that any such federal-state
+comity concerns apply in this case.
+6
+
+MULTIMEDIA PATENT TRUST’S OPPOSITION TO DEFENDANTS’
+MOTION FOR STAY OR, IN THE ALTERNATIVE, FOR SEVERANCE
+OF THE HASKELL AND NETRAVALI PATENTS FOR CONSOLIDATION
+WITH CASE NO. 07-CV-0747
+
+7
+
+Case No. 07-CV-2000 H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 95
+
+Filed 12/03/2007
+
+Page 13 of 25
+
+1
+
+are not even parties to the Delaware Action, and the federal forum is much more convenient to MPT,
+
+2
+
+given that this case is now almost on the verge of trial while the Delaware Action only recently
+
+3
+
+began. Moreover, MPT’s patent infringement claims can only be heard in the federal forum. Third,
+
+4
+
+the desire to avoid “piecemeal litigation” only favors a stay “when there is evidence of a strong
+
+5
+
+federal [congressional] policy that all claims should be tried in the state courts.” Ryan v. Johnson,
+
+6
+
+115 F.3d 193, 197-98 (3d Cir. 1997). “The presence of garden-variety state law issues has not . . .
+
+7
+
+been considered sufficient evidence of a congressional policy.” Id. at 198. Thus, the mere fact that
+
+8
+
+both cases happen to concern Lucent’s, MPT’s, and Alcatel’s alleged obligations to MPEG LA and
+
+9
+
+its sublicensees under the patent pool arrangement does not make the present litigation “piecemeal.”
+
+10
+
+This is especially true given that patent litigation is uniquely federal in nature and the present
+
+11
+
+litigation involves infringement claims that cannot be resolved in state court. This factor therefore
+
+12
+
+weighs against a stay. Fourth, this action was filed five years before MPEG LA filed the Delaware
+
+13
+
+Action, so the order in which the courts assumed jurisdiction weighs heavily against a stay. The fact
+
+14
+
+that the present case is scheduled for trial on February 20, 2008 while the Delaware case is still in
+
+15
+
+the pleading stage similarly disfavors Defendants’ request. See Clark v. Lacy, 376 F.3d 682, 685
+
+16
+
+(7th Cir. 2004) (“relative progress of [the] state and federal proceedings” is a factor).
+
+17
+
+Considered individually or collectively, the Colorado River factors thus weigh strongly
+
+18
+
+against granting Defendants’ motion.7
+
+This Court should allow MPT’s federal patent claims
+
+19
+
+regarding the Video Coding Patents to proceed to trial on-schedule.
+
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+The additional factors considered by subsequent courts applying the Colorado River doctrine
+also favor denying Defendants’ motion. For example, the presence of some state-law issues in
+the present action, which is first and foremost a federal patent case, does not favor a stay. See
+KPS, 318 F.3d at 11 (“[T]he presence of state law issues weighs in favor of dismissal in only rare
+circumstances—namely, when a case presents complex questions of state law that would best be
+resolved by a state court.”) (internal quotes and citations omitted). Moreover, especially in light
+of MPT’s successes on summary judgment, Defendants cannot contend that MPT’s federal
+patent infringement claims are “vexatious or contrived.” Id. at 10.
+
+7
+
+MULTIMEDIA PATENT TRUST’S OPPOSITION TO DEFENDANTS’
+MOTION FOR STAY OR, IN THE ALTERNATIVE, FOR SEVERANCE
+OF THE HASKELL AND NETRAVALI PATENTS FOR CONSOLIDATION
+WITH CASE NO. 07-CV-0747
+
+8
+
+Case No. 07-CV-2000 H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+1
+2
+
+3.
+
+Document 95
+
+Filed 12/03/2007
+
+Page 14 of 25
+
+A Stay Is Not Warranted Even Under The Weaker Standard Defendants
+Propose
+
+3
+
+Even the Landis decision on which Defendants principally rely does not support a stay.
+
+4
+
+Defendants argue that this Court should grant a stay to “promote the efficient administration of
+
+5
+
+justice” by allowing the Delaware court to rule on supposedly “case-dispositive” issues before trial
+
+6
+
+on the Video Coding Patents. (Mot. For Stay at 14.) But the Supreme Court in Landis emphasized
+
+7
+
+that a party seeking a stay on grounds of judicial economy faces a “heav[y]” burden. See 299 U.S. at
+
+8
+
+254-56. Indeed, the party seeking a stay “must make out a clear case of hardship or inequity in
+
+9
+
+being required to go forward, if there is even a fair possibility that the stay for which he prays will
+
+10
+
+work damage to some one else.” Id. at 255 (emphasis added). Defendants fail to meet this standard.
+
+11
+
+Given the current posture of this case, the stay Defendants propose would not promote judicial
+
+12
+
+economy, because the vast majority of issues pending in Delaware that Defendants cite as “case-
+
+13
+
+dispositive” were already decided by this Court—in MPT’s favor—on summary judgment.
+
+14
+
+Moreover, although a stay would prejudice MPT, Defendants have made no corresponding showing
+
+15
+
+that they would face any hardship or inequity from going forward.
+
+16
+17
+
+a.
+
+Judicial Economy Does Not Support Defendants’ Request For A
+Stay
+
+18
+
+Defendants argue that judicial economy justifies a stay of trial on the Video Coding Patents
+
+19
+
+because this Court would benefit from having the Delaware Court of Chancery evaluate the validity
+
+20
+
+of Lucent’s assignment of the patents to MPT before having a trial on MPT’s infringement claims.
+
+21
+
+But a stay based on a case filed five years after this one would not save this Court—or the parties—
+
+22
+
+any time or resources, especially since this Court has already disposed of the relevant issues with
+
+23
+
+respect to Defendants on summary judgment.
+
+24
+
+This Court already has ruled in MPT’s favor on every issue underlying the claims that
+
+25
+
+MPEG LA brought against Lucent and MPT in the Delaware Action, except one. In its complaint,
+
+26
+
+MPEG LA alleges that: (1) MPEG LA is entitled to a declaratory judgment stating that Alcatel
+
+27
+
+controls MPT and thus MPEG LA has a license to the Video Coding Patents (see MPEG LA Compl.
+
+28
+
+MULTIMEDIA PATENT TRUST’S OPPOSITION TO DEFENDANTS’
+MOTION FOR STAY OR, IN THE ALTERNATIVE, FOR SEVERANCE
+OF THE HASKELL AND NETRAVALI PATENTS FOR CONSOLIDATION
+WITH CASE NO. 07-CV-0747
+
+9
+
+Case No. 07-CV-2000 H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 95
+
+Filed 12/03/2007
+
+Page 15 of 25
+
+1
+
+§§ 68-70 (Fifth Cause of Action)); (2) the transaction creating MPT was a “sham” because MPT
+
+2
+
+“was created for an improper and wrongful purpose and is under the domination and control of
+
+3
+
+Alcatel and Lucent” (see id. §§ 71-75 (Sixth Cause of Action)); (3) Lucent was unjustly enriched via
+
+4
+
+an “improper scheme, carried out through the artifice of the Trust, to secrete [sic] Lucent’s essential
+
+5
+
+MPEG-2 patents” (see id. §§ 76-82 (Seventh Cause of Action)); (4) Lucent tortiously interfered with
+
+6
+
+Alcatel’s contractual obligations under the MPEG LA license agreement (see id. §§ 83-91 (Eighth
+
+7
+
+Cause of Action)); and (5) Lucent tortiously interfered with MPEG LA’s prospective economic
+
+8
+
+advantage regarding Alcatel’s participation in the license pool (see id. §§ 92-100 (Ninth Cause of
+
+9
+
+Action)). This Court already ruled on summary judgment, however, that MPT is not under the
+
+10
+
+“control” of Lucent or Alcatel, nor is MPT merely their “alter ego,” thus obviating the issues
+
+11
+
+underlying the first three claims discussed above. (Oct. 1, 2007 Order 10-12.) This Court also ruled
+
+12
+
+that the transfer of the Video Coding Patents to MPT—the supposed “improper” reason for which
+
+13
+
+the trust was created—was legally effective, further obviating the second and third claims. (Id. at 4-
+
+14
+
+12.) Moreover, this Court granted summary judgment dismissing a claim against Lucent of tortious
+
+15
+
+interference regarding the MPEG LA license pool that was substantially similar to the fourth claim
+
+16
+
+listed above. (Id. at 20-21.) Thus, for purposes of the present case, this Court already has disposed
+
+17
+
+of the factual issues underlying all but one of the claims pending against MPT and Lucent in
+
+18
+
+Delaware.8 This Court's summary judgment rulings are the law of this case, see, e.g., Fed. Ins. Co.
+
+19
+
+v. Scarsella Bros., Inc., 931 F.2d 599, 601 (9th Cir. 1991), so the Delaware court’s eventual
+
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+This Court declined to grant summary judgment dismissing Defendants’ claim against
+Lucent of tortious interference with a prospective economic advantage. (See Oct. 1, 2007 SJ
+Order at 21-22.) To the extent this claim involves underlying issues that are similar to the
+prospective-advantage claim against Lucent in the Delaware Action, however, this Court will
+resolve the prospective-advantage claim in this case long before the Delaware Action goes to
+trial. And the existence of a single related claim does not favor granting Defendants’ stay on
+judicial economy grounds, in light of the other countervailing factors discussed below. See
+Landis, 299 U.S. at 254-56 (discussing movant’s “heav[y]” burden); Moses H. Cone, 460 U.S. at
+16 (appropriate analysis requires balancing of factors, “heavily weighted in favor of the exercise
+of jurisdiction”).
+
+8
+
+MULTIMEDIA PATENT TRUST’S OPPOSITION TO DEFENDANTS’
+MOTION FOR STAY OR, IN THE ALTERNATIVE, FOR SEVERANCE
+OF THE HASKELL AND NETRAVALI PATENTS FOR CONSOLIDATION
+WITH CASE NO. 07-CV-0747
+
+10
+
+Case No. 07-CV-2000 H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 95
+
+Filed 12/03/2007
+
+Page 16 of 25
+
+1
+
+decisions will have little, if any, value to this Court with regard to conserving resources, because this
+
+2
+
+Court already has resolved these issues as applied to Defendants.9
+
+3
+
+Indeed, realizing that this Court’s summary judgment order already settled these matters with
+
+4
+
+respect to the parties in this case, Defendants take pains to try to distinguish the Delaware Action by
+
+5
+
+noting that MPEG LA, a non-party to this case, also brought claims against Alcatel, another non-
+
+6
+
+party. Defendants argue that MPEG LA’s claims “are not the same as Defendants’ license defense
+
+7
+
+and are not foreclosed by the Court’s grant of summary judgment” because MPEG LA “has asserted,
+
+8
+
+contractual breach claims against Alcatel” while “Defendants’ claims were asserted only against
+
+9
+
+Lucent and MPT.” (Mot. For Stay 8; see also MPEG LA Compl. §§ 34-67 (alleging contract-based
+
+10
+
+causes of action against Alcatel).) But even if MPEG LA’s claims against Alcatel were relevant to
+
+11
+
+the issues in this case, this Court already has addressed the scope of Alcatel’s obligations to MPEG
+
+12
+
+LA—and thus Defendants—for purposes of this matter. This Court concluded at summary judgment
+
+13
+
+that because Lucent successfully transferred the Video Coding Patents to MPT before the Alcatel-
+
+14
+
+Lucent merger, “Alcatel has no rights to license or sublicense the patents. Since Alcatel lacks these
+
+15
+
+rights, it cannot provide them (and thus is not required to provide them) to MPEG LA under the
+
+16
+
+Agreement Among Licensors.” (Oct. 1, 2007 Order 9 (emphasis added).) Thus, for purposes of this
+
+17
+
+action, the matter of the scope of Alcatel’s obligations to the MPEG LA patent pool have been
+
+18
+
+resolved, and Defendants cannot use these alleged obligations as the basis for a defense. Staying
+
+19
+
+trial on the Video Coding Patents pending a resolution in the Delaware Action on the issue of
+
+20
+
+Alcatel’s obligations would provide little, if any, benefit to this Court.
+
+21
+
+Ultimately, Defendants’ judicial economy argument fails because this Court already has
+
+22
+
+decided virtually all of the purportedly case-dispositive issues on which Defendants argue it should
+
+23
+24
+25
+26
+27
+28
+
+The law of the case doctrine states that a court should refrain from reconsidering issues
+already decided in the same case, unless (1) the decision is clearly erroneous and its enforcement
+would work a manifest injustice, (2) intervening controlling authority makes reconsideration
+appropriate, or (3) substantially different evidence was adduced at a subsequent trial. See North
+County Comms. Corp. v. Cal. Catalog & Tech., No. 06CV1542-LAB, 2007 WL 4200203, at *5
+(S.D. Cal. Nov. 26, 2007).
+9
+
+MULTIMEDIA PATENT TRUST’S OPPOSITION TO DEFENDANTS’
+MOTION FOR STAY OR, IN THE ALTERNATIVE, FOR SEVERANCE
+OF THE HASKELL AND NETRAVALI PATENTS FOR CONSOLIDATION
+WITH CASE NO. 07-CV-0747
+
+11
+
+Case No. 07-CV-2000 H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 95
+
+Filed 12/03/2007
+
+Page 17 of 25
+
+1
+
+wait for guidance from the Delaware court.10 Moreover, even if Defendants could conceivably take
+
+2
+
+advantage of the Delaware court’s decision on some issue still pending before this Court,
+
+3
+
+Defendants’ effort to delay trial for this purpose still hinders judicial economy. The Supreme Court
+
+4
+
+has recognized that litigants can frustrate the efficient administration of justice by “adopt[ing] a
+
+5
+
+‘wait and see’ attitude” in the hope of reaping some preclusive benefit from a separate party’s action
+
+6
+
+against their adversary, just as Defendants are trying to do here. See Parklane Hosiery Co. v. Shore,
+
+7
+
+439 U.S. 322, 329-30 (1979). Although the Supreme Court’s discussion specifically addressed the
+
+8
+
+scenario of a potential plaintiff who decides not to join an action in the hope of asserting offensive
+
+9
+
+collateral estoppel in a future litigation, the Court’s reasoning equally applies to Defendants’
+
+10
+
+position with regard to MPEG LA’s claims in the Delaware Action. See id.; see also Robi v. Five
+
+11
+
+Platters, Inc., 838 F.2d 318, 329 (9th Cir. 1988) (noting the “potential for . . . abuse” when a litigant
+
+12
+
+“wait[s] on the sidelines” in hopes of asserting preclusion based on a separate litigation). After five
+
+13
+
+years of litigation, Defendants seek to call a timeout in this case in the hope of using the eventual
+
+14
+
+outcome of the recently filed Delaware Action to their advantage. (See Mot. For Stay 14, 19.) In
+
+15
+
+light of this Court’s October 2007 summary judgment order, and with less than three months to go
+
+16
+
+until trial, this Court should reject Defendants’ tactics and allow MPT’s Video Coding Patent claims
+
+17
+
+to proceed.
+
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+Further, as explained in MPT’s briefing in opposition to Defendants’ trust-related summary
+judgment motions, even if Defendants had become licensed to the Video Coding Patents under
+their agreements with MPEG LA when Lucent and Alcatel merged, their infringement liability in
+this action would not be extinguished. (See Case No. 02-CV-2060 D.I. 2016, Aug. 31, 2007
+MPT’s Opposition to Defendants’ Motions For Summary Judgment On Trust-Related Defenses
+And Counterclaims 22-23.) Defendants’ MPEG LA licenses are limited to MPEG-2
+implementations, whereas MPT’s infringement allegations extend to other video compression
+technologies, such as WMV-9/VC-1. (See id.) Further, Defendants’ MPEG LA licenses would
+not retroactively insulate them from infringement liability for the period before the merger. (See
+id.) Thus, contrary to Defendants’ assertion that “[s]hould MPEG LA prevail in the Delaware
+Court of Chancery, the relief granted will likely obviate any need for trial of the Haskell and
+Netravali patents by this Court,” even if the Delaware court’s rulings were binding in this case,
+an adverse outcome in the Delaware Action still would not dispose of the Video Coding Patent
+claims. (Mot. For Stay at 14.)
+10
+
+MULTIMEDIA PATENT TRUST’S OPPOSITION TO DEFENDANTS’
+MOTION FOR STAY OR, IN THE ALTERNATIVE, FOR SEVERANCE
+OF THE HASKELL AND NETRAVALI PATENTS FOR CONSOLIDATION
+WITH CASE NO. 07-CV-0747
+
+12
+
+Case No. 07-CV-2000 H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Filed 12/03/2007
+
+Page 18 of 25
+
+2
+
+A Stay Would Prejudice MPT While Defendants Will Face No
+Hardship Or Inequity If The Video Coding Patent Trial Goes
+Forward
+
+3
+
+The prejudice that the requested stay would pose to MPT substantially outweighs any remote
+
+4
+
+judicial economy to be gained. This case essentially is ready for trial, with discovery complete and
+
+5
+
+the issues already narrowed by summary judgment. Yet, incredibly, Defendants would now have
+
+6
+
+this Court postpone trial and make MPT wait an indefinite period of time for the Delaware tribunal
+
+7
+
+to decide issues that MPT has already fully litigated to get to this point, just because Defendants are
+
+8
+
+dissatisfied with this Court’s ruling on summary judgment. Indeed, counting summary judgment in
+
+9
+
+this case, Defendants’ pending motion for reconsideration, and Dell’s motion to dismiss in the MPT
+
+10
+
+Action, the present motion is Defendants’ fourth attempt to litigate the issues surrounding their
+
+11
+
+alleged license defense. Unable to prevail on any of their attempts so far, Defendants have now
+
+12
+
+taken the desperate step of seeking to stay this action to have the same matters re-litigated via proxy
+
+13
+
+in Delaware. Defendants simply do not like this Court’s rulings, and thus want this Court to set
+
+14
+
+them aside in favor of the Delaware court’s outcome, obviating the law of this case. See, e.g., Fed.
+
+15
+
+Ins. Co. v. Scarsella Bros., Inc., 931 F.2d 599, 601 (9th Cir. 1991) (treating grant of summary
+
+16
+
+judgment as law of the case sufficient to foreclose further litigation of the same issue in that action).
+
+17
+
+MPT obviously would be prejudiced not only by the indefinite delay in the Video Coding Patent
+
+18
+
+trial, which is scheduled to begin in less than three months, but by having the door potentially
+
+19
+
+reopened on issues MPT has already won in this case.
+
+1
+
+b.
+
+Document 95
+
+20
+
+Nonetheless, Defendants make the fallacious argument that “affording the Delaware court an
+
+21
+
+opportunity to rule on these case-dispositive issues” will not prejudice MPT because “Lucent,
+
+22
+
+Alcatel, and MPT will have a full and fair opportunity to litigate the scope of Alcatel’s licensing
+
+23
+
+obligations in [the Delaware] action.” (Mot. For Stay 13-14.) This argument misses the point. As
+
+24
+
+discussed above, this Court already has determined “the scope of Alcatel’s licensing obligations” as
+
+25
+
+they pertain to the claims and defenses in this case. Further, whether MPT has “a full and fair
+
+26
+
+opportunity to litigate” the issues in the Delaware Action is not the relevant standard for determining
+
+27
+28
+
+MULTIMEDIA PATENT TRUST’S OPPOSITION TO DEFENDANTS’
+MOTION FOR STAY OR, IN THE ALTERNATIVE, FOR SEVERANCE
+OF THE HASKELL AND NETRAVALI PATENTS FOR CONSOLIDATION
+WITH CASE NO. 07-CV-0747
+
+13
+
+Case No. 07-CV-2000 H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 95
+
+Filed 12/03/2007
+
+Page 19 of 25
+
+1
+
+whether to grant a stay.11 Even under the standard Defendants themselves offer, the issue is whether
+
+2
+
+the potential damage to MPT from a stay is outweighed by “a clear case of hardship or inequity [to
+
+3
+
+Defendants] in being required to go forward.” Landis, 299 U.S at 255. Delaying MPT’s right to
+
+4
+
+pursue its federal patent claims—on the verge of trial—when Defendants already have raised and
+
+5
+
+had their day in court on the very issues they claim need resolution in Delaware would only
+
+6
+
+prejudice MPT and would constitute the very opposite of judicial economy.
+
+7
+
+Defendants also completely fail to establish any “hardship or inequity”—let alone “a clear
+
+8
+
+case” of it—that they would face from being required to go forward. Their argument ultimately
+
+9
+
+purports to balance the “efficient administration of justice” against the burden on MPT (see Mot. For
+
+10
+
+Stay 14), but to justify a stay, even under Landis, Defendants themselves must face significant
+
+11
+
+prejudice from going to trial. At most, Defendants’ only “hardship” here is that they are unhappy
+
+12
+
+with this Court’s summary judgment ruling and they hope to use a contrary judgment by the
+
+13
+
+Delaware court to avoid it. Given that the proposed stay prejudices MPT, does not promote judicial
+
+14
+
+economy, and does not redress any actual hardship or inequity faced by Defendants, Defendants
+
+15
+
+have failed to meet their burden to show that this Court should stay the upcoming trial on the Video
+
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+The case Defendants cite for that proposition, Universal Gypsum of Georgia, Inc. v.
+American Cyanamid Co., 390 F. Supp. 824 (S.D.N.Y. 1975), was decided before the Supreme
+Court’s decision in Colorado River and long before Moses H. Cone, where the Supreme Court
+emphasized that “the balance [should be] heavily weighted in favor of the exercise of
+jurisdiction.” 460 U.S. at 16. Moreover, Universal Gypsum based its decision in part on the fact
+that the court had “not . . . invested any substantial judicial energy with regard to the merits of
+this [federal] litigation and both the state and federal actions stand in identical procedural
+positions.” 390 F. Supp. at 828. That is not the case here, where the present action is essentially
+ready for trial while the Delaware Action only recently was filed. Indeed, all of the cases that
+Defendants cite in addition to Landis to support their arguments are inapposite for similar
+reasons. American Telephone & Telegraph Co. v. Milgo Electronic Corp., 416 F. Supp. 951
+(S.D.N.Y 1976), is distinguishable from the present case because the party opposing the stay
+brought both parallel actions itself. Moreover, the action to be stayed was much further from
+being resolved than the other proceeding, which is the opposite of the case here. See id. at 953.
+Similarly, in Bechtel Corp. v. Local 215, Laborers’ Int'l Union of N. Am., 544 F.2d 1207 (3d Cir.
+1976), neither of the parallel actions had progressed beyond the pleading stage. See id. at 1210.
+Finally, Cherokee Nation of Okla. v. United States, 124 F.3d 1413 (Fed. Cir. 1997), involved title
+to land, and the Federal Circuit relied on Colorado River to vacate the district court’s stay
+because no parallel state proceeding was even yet pending. 124 F.3d at 1414-16.
+11
+
+MULTIMEDIA PATENT TRUST’S OPPOSITION TO DEFENDANTS’
+MOTION FOR STAY OR, IN THE ALTERNATIVE, FOR SEVERANCE
+OF THE HASKELL AND NETRAVALI PATENTS FOR CONSOLIDATION
+WITH CASE NO. 07-CV-0747
+
+14
+
+Case No. 07-CV-2000 H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 95
+
+Filed 12/03/2007
+
+Page 20 of 25
+
+1
+
+Coding Patents. Even if the Colorado River analysis did not control, this Court should deny
+
+2
+
+Defendants’ request.
+
+3
+
+B.
+
+4
+
+As an alternative to staying this trial, Defendants request that this Court sever the Haskell and
+
+5
+
+Netravali patents from the present case and consolidate these patents with another litigation recently
+
+6
+
+filed by MPT concerning patents relating to other video compression technologies (the MPT
+
+7
+
+Patents). (See Mot. For Stay 15-20.) But in view of the different technologies covered by each of
+
+8
+
+these patent groups, Defendants fail to demonstrate the overlapping factual or legal issues required
+
+9
+
+for consolidation. Moreover, Defendants’ stated purpose of delaying this litigation also weighs
+
+10
+
+strongly against severance and consolidation. Finally, if Defendants truly intended severance and
+
+11
+
+consolidation to promote judicial efficiency, they should have made their request six months ago
+
+12
+
+when the MPT Patents were first asserted. Their current request merely seeks a strategic advantage
+
+13
+
+by delaying this case.
+
+14
+
+This Court Should Not Sever And Reconsolidate The Video Coding Patents
+
+1.
+
+15
+
+The Patent Groups For Which Consolidation Is Sought Do Not Present
+Common Issues For Trial
+
+16
+
+Defendants’ request for severance and consolidation should be denied because the sine qua
+
+17
+
+non for consolidation is missing—the two litigations raise separate issues for trial. “The presence
+
+18
+
+of a common question of law or fact is a threshold requirement for consolidation.” Antoninetti v.
+
+19
+
+Chipotle Mexican Grill, Inc., No. 05CV1660-J (WMc), 2007 WL 2669531, *2 (S.D. Cal. Sept. 7,
+
+20
+
+2007); see also Fed. R. Civ. P. 42(a) (“When actions involving a common question of law or fact are
+
+21
+
+pending before the court, it may order a joint hearing or trial . . . .”). But the patent groups that
+
+22
+
+Defendants seek to consolidate lack the necessary common questions.
+
+23
+24
+
+The distinctions between the two patent groups at issue appear in the patents themselves:
+•
+
+The Video Coding Patents relate to mechanisms for improving video compression
+
+25
+
+using motion compensation and interframe interpolation. Generally speaking, the
+
+26
+
+Netravali patent discloses a method for performing interframe interpolation of
+
+27
+
+pixel information that accounts for the displacement of objects in the video
+
+28
+
+MULTIMEDIA PATENT TRUST’S OPPOSITION TO DEFENDANTS’
+MOTION FOR STAY OR, IN THE ALTERNATIVE, FOR SEVERANCE
+OF THE HASKELL AND NETRAVALI PATENTS FOR CONSOLIDATION
+WITH CASE NO. 07-CV-0747
+
+15
+
+Case No. 07-CV-2000 H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 95
+
+Filed 12/03/2007
+
+Page 21 of 25
+
+1
+
+sequence.
+
+2
+
+decoding video with specified structures that perform block-based motion-
+
+3
+
+compensated prediction and block-based motion-compensated interpolation using
+
+4
+
+prediction and interpolation error signals, respectively.
+
+5
+
+•
+
+Generally speaking, the Haskell patent discloses an apparatus for
+
+The MPT Patents relate to the process of transforming two-dimensional video
+
+6
+
+images into a linear data string. The two Puri patents disclose a zigzag pattern for
+
+7
+
+scanning images into a data string and a scheme for determining the appropriate
+
+8
+
+length of data codes, respectively. The Johnston patent discloses a process for
+
+9
+
+mapping video images into a discrete set of data values.
+
+10
+
+(See D.I. 1, Case No. 02-CV-2060; MPT Compl.) No patent in either group claims priority from a
+
+11
+
+patent in the other group, and no prior art cited during prosecution of any patent in one group was
+
+12
+
+cited during prosecution of any patent in the other group.
+
+13
+
+inappropriate because the issues raised in determining validity and infringement will be different
+
+14
+
+with respect to each patent group. See Fed. R. Civ. P. 42(a); Antoninetti, 2007 WL 2669531, at *2;
+
+15
+
+Leviton Mfg. Co. v. Nicor, Inc., No. CIV 04-0424, 2007 WL 505784, at *4-5 (D.N.M. Jan. 8, 2007)
+
+16
+
+(denying consolidation where different patents were involved because “separate claim constructions,
+
+17
+
+separate proofs of infringement . . . , and separate and distinct determinations of validity [were]
+
+18
+
+required”); FURminator Inc. v. Ontel Prods., Inc., No. 4:06-CV-1294 CAS, 2006 WL 3827522, at
+
+19
+
+*2 (E.D. Mo. 2006) (denying consolidation for dearth of common questions of law and fact because,
+
+20
+
+among other things, one action “involve[d] a different patent with different claim language”).
+
+(See id.)
+
+Thus, consolidation is
+
+21
+
+In Leviton Mfg. Co., the District of New Mexico refused to consolidate a patent with its
+
+22
+
+continuation for lack of common questions of fact or law, despite the fact that the patents in question
+
+23
+
+had much more in common than the two patent groups involved here. See 2007 WL 505784, at *4-
+
+24
+
+5. The court held that “[a]lthough the specifications of the two patents may be the same, the
+
+25
+
+principal legal and factual questions in the two cases are dependent upon the respective claims of the
+
+26
+
+patents.” Id. at *4. The two patent groups in this case lack even this minimal similarity—the
+
+27
+
+specifications are different, the claims are different, the claim constructions will be different, and the
+
+28
+
+MULTIMEDIA PATENT TRUST’S OPPOSITION TO DEFENDANTS’
+MOTION FOR STAY OR, IN THE ALTERNATIVE, FOR SEVERANCE
+OF THE HASKELL AND NETRAVALI PATENTS FOR CONSOLIDATION
+WITH CASE NO. 07-CV-0747
+
+16
+
+Case No. 07-CV-2000 H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 95
+
+Filed 12/03/2007
+
+Page 22 of 25
+
+1
+
+infringement analyses will be different. The Haskell and Netravali patents concern video decoding
+
+2
+
+while the MPT Patents relate primarily to video encoding. Defendants have not shown any specific,
+
+3
+
+substantial questions of law or fact common to the two patent groups, so consolidation must be
+
+4
+
+denied.
+
+5
+
+Since Defendants cannot identify any specific questions of law or fact common to the two
+
+6
+
+patent groups, they assert generally that these patents cover the same technology because they each
+
+7
+
+relate to video compression under the MPEG-2 standard. (See Mot. For Stay 11-12, 17-18.) But the
+
+8
+
+MPEG-2 standard (and products implementing it) encompass many different technologies, which are
+
+9
+
+covered by hundreds of different patents. (See Ex. 2, MPEG LA Patent List (listing essential patents
+
+10
+
+licensed through MPEG LA).) Moreover, while the Video Coding Patents are essential to video
+
+11
+
+decoding under the MPEG-2 standard, the MPT Patents relate primarily to techniques for encoding
+
+12
+
+compressed video.12 MPT is only asserting the MPT Patents against video encoders in contrast to
+
+13
+
+video decoders in this action.
+
+14
+
+technologies—including the two patent groups at issue here—relate generally to video compression
+
+15
+
+provides no basis for consolidation. See Leviton, 2007 WL 505784, at *4-5; see also In re Consol.
+
+16
+
+Parlodel Litig., 182 F.R.D. 441, 444 (D.N.J. 1998) (“Even where cases involve some common issues
+
+17
+
+of law or fact, consolidation may be inappropriate where individual issues predominate.”).13
+2.
+
+18
+19
+
+22
+23
+24
+25
+26
+27
+28
+
+Consolidation Will Only Serve To Inappropriately Delay Resolution Of
+MPT’s Case
+
+Consolidation is also inappropriate because it will prejudice MPT by significantly delaying
+
+20
+21
+
+The mere fact that these numerous different patents and
+
+Defendants are incorrect that MPT accused decoding technology in Dell’s Dazzle Video
+Creator Platinum. (See Mot. For Stay 7.) This product includes a video encoder, which is the
+accused component. (See Ex. 3, explaining that the Dazzle product “uses a hardware encoding
+chip for real-time video encoding into high-quality MPEG-1, MPEG-2, MPEG-4 and DivX
+formats”).)
+12
+
+Defendants’ argument that the jury will be confused if all five patents at issue in this case are
+tried concurrently should be addressed through a request for bifurcation under Rule 42(b), not
+through consolidation. (See Mot. For Stay 19.) In seeking bifurcation, the “burden is on the
+defendant to convince the court that a separate trial is proper in light of the general principle that
+a single trial tends to lessen the delay, expense and inconvenience to all parties.” Sensitron, Inc.
+v. Wallace, 504 F. Supp. 2d 1180, 1186 (D. Utah 2007).
+13
+
+MULTIMEDIA PATENT TRUST’S OPPOSITION TO DEFENDANTS’
+MOTION FOR STAY OR, IN THE ALTERNATIVE, FOR SEVERANCE
+OF THE HASKELL AND NETRAVALI PATENTS FOR CONSOLIDATION
+WITH CASE NO. 07-CV-0747
+
+17
+
+Case No. 07-CV-2000 H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 95
+
+Filed 12/03/2007
+
+Page 23 of 25
+
+1
+
+resolution of the litigation regarding the Video Coding Patents. “Where a case that is ready for or
+
+2
+
+close to trial would be held up pending completion of pretrial proceedings in another case, courts
+
+3
+
+have consistently denied consolidation.” Antoninetti, 2007 WL 2669531, at *2; see also Farahmand
+
+4
+
+v. Rumsfeld, No. CIV. A. 02-1236, 2002 WL 31630709, at *2 (E.D. Pa. 2002) (“[A] court may deny
+
+5
+
+consolidation when one case is further into the discovery process.”). Trial is imminent in this case,
+
+6
+
+and consolidation would significantly delay it. Therefore, Defendants’ request for consolidation
+
+7
+
+should be denied.
+
+8
+
+Litigation involving the Video Coding Patents began in 2002 and has already proceeded
+
+9
+
+through the close of discovery and dispositive motions. (See D.I. 1 in case no. 02-CV-2060 B
+
+10
+
+(CAB).) Trial is scheduled to begin in less than three months, on February 20, 2008. (See D.I. 3,
+
+11
+
+Pretrial Scheduling Order.) In contrast, the MPT Patents were not asserted until April 24, 2007.
+
+12
+
+(See MPT Compl.) Discovery remains ongoing for these patents, the final pretrial conference is set
+
+13
+
+for March 30, 2009, and no trial date has been set. (See D.I. 52 in case no. 07-CV-0747.) These
+
+14
+
+cases are at very different procedural stages, and to consolidate them therefore would delay
+
+15
+
+resolution of MPT’s claims in this action by more than a year.
+
+16
+
+consolidation on such a basis. See, e.g., Leviton, 2007 WL 505784, at *5 (refusing to consolidate a
+
+17
+
+patent with its continuation where discovery had closed and a Markman ruling had issued in one
+
+18
+
+case, but not the other); Aerotel, Ltd. v. Verizon Commc’ns Inc., 234 F.R.D. 64, 67 (S.D.N.Y. 2005)
+
+19
+
+(denying consolidation where the patent cases to be consolidated were at different stages in
+
+20
+
+discovery). This delay alone is sufficient reason to deny consolidation.
+
+Several courts have denied
+
+21
+
+Defendants do not deny that consolidation will significantly delay resolution of this case. To
+
+22
+
+the contrary, they acknowledge that it will “[f]irst and foremost” serve to postpone resolution of
+
+23
+
+MPT’s case while MPEG LA’s claims proceed in the Delaware Court of Chancery. (Mot. For Stay
+
+24
+
+2 (emphasis added).) As explained above, this Court already has decided most of the issues
+
+25
+
+Defendants believe the Delaware Action will resolve. Moreover, even if the Delaware Action does
+
+26
+
+address some relevant issue not yet resolved by this Court, it would be improper to delay the
+
+27
+
+imminent resolution of MPT’s Video Coding Patent claims in favoring of allowing Defendants to
+
+28
+
+MULTIMEDIA PATENT TRUST’S OPPOSITION TO DEFENDANTS’
+MOTION FOR STAY OR, IN THE ALTERNATIVE, FOR SEVERANCE
+OF THE HASKELL AND NETRAVALI PATENTS FOR CONSOLIDATION
+WITH CASE NO. 07-CV-0747
+
+18
+
+Case No. 07-CV-2000 H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 95
+
+Filed 12/03/2007
+
+Page 24 of 25
+
+1
+
+“wait on the sidelines” and seek some potential preclusive benefit from the Delaware Action. Robi,
+
+2
+
+838 F.2d at 329.
+
+3
+
+Further, Defendants’ fears that MPT will be awarded duplicative recovery are not justified,
+
+4
+
+and consolidation is unnecessary on this ground. (See Mot. For Stay 18.) Recovery of infringement
+
+5
+
+damages in both actions would not be duplicative. The 0.5% royalty sought as damages in this case
+
+6
+
+covers only patents that are essential to the MPEG-2 standard, such as the Haskell and Netravali
+
+7
+
+patents. (See, e.g., Farkas Decl. Ex. 33 at 18, March 31, 2006 Smith Expert Report (explaining that
+
+8
+
+“Lucent’s ‘MPEG essential’ video coding patents would be licensed at 0.5% of the selling price of
+
+9
+
+complete products employing the patents”) (emphasis added).) There has been no showing that this
+
+10
+
+royalty should encompass the MPT Patents which relate primarily to non-essential encoding
+
+11
+
+technologies, which have not been demonstrated to be essential. But if Defendants wish to argue
+
+12
+
+that some overlap in damages does exist, they can simply seek a reduction in damages if and when
+
+13
+
+the MPT Action reaches trial. Consolidation is unnecessary.
+
+14
+
+Finally, the timing of Defendants’ request for severance and consolidation calls into question
+
+15
+
+their motives for the request and serves as a further reason to deny it. If Defendants truly believed
+
+16
+
+that combining allegedly similar technologies would promote judicial efficiency, they would have
+
+17
+
+requested consolidation six months ago, when MPT first asserted the MPT Patents.
+
+18
+
+Defendants acquiesced in six months of allegedly duplicative litigation and brought the present
+
+19
+
+motion only after this Court rejected their licensing defenses at summary judgment. Consolidation is
+
+20
+
+not being sought for judicial efficiency. By their own argument, Defendants merely attempt to delay
+
+21
+
+this litigation to try to use the Delaware Action to revisit licensing defenses this Court has already
+
+Instead,
+
+22
+23
+24
+25
+26
+27
+28
+
+MULTIMEDIA PATENT TRUST’S OPPOSITION TO DEFENDANTS’
+MOTION FOR STAY OR, IN THE ALTERNATIVE, FOR SEVERANCE
+OF THE HASKELL AND NETRAVALI PATENTS FOR CONSOLIDATION
+WITH CASE NO. 07-CV-0747
+
+19
+
+Case No. 07-CV-2000 H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 95
+
+1
+
+rejected.14 Defendants’ attempt should be denied.
+
+2
+
+IV.
+
+Page 25 of 25
+
+CONCLUSION
+
+3
+4
+
+Filed 12/03/2007
+
+For all of the foregoing reasons, Defendants’ motion to stay or, in the alternative, to
+sever the Haskell and Netravali Patents for consolidation with the MPT Action should be denied.
+
+5
+6
+
+DATED: December 3, 2007
+
+7
+8
+9
+
+By:
+s/David A. Hahn
+David A. Hahn (SBN 125784)
+HAHN & ADEMA
+501 West Broadway, Suite 1600
+San Diego, California 92101-3595
+Telephone: (619) 235-2100
+Facsimile: (619) 235-2101
+
+10
+John M. Desmarais (admitted pro hac vice)
+Robert A. Appleby (admitted pro hac vice)
+KIRKLAND & ELLIS LLP
+153 East 53rd Street
+New York, New York 10022
+Telephone: (212) 446-4800
+Facsimile: (212) 446-4900
+
+11
+12
+13
+14
+15
+16
+
+Attorneys for Plaintiff Multimedia Patent Trust
+
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+Contrary to Defendants’ assertions, the re-examination of the Video Coding Patents does not
+justify delaying this litigation. (Mot. For Stay 20 n.14.) Given that the PTO grants the vast
+majority of requests for re-examination, the existence of these proceedings says little about the
+patents’ ultimate validity. (See Ex. 4, Tbl. 13A.) As recognized by the very case Defendants
+cite, notwithstanding any “liberal policy,” entry of a stay still depends upon consideration of (1)
+the stage of the litigation, (2) prejudice to the parties, and (3) likelihood that issues for trial will
+be simplified by a stay. See Sorensen v. Black and Decker Corp., No. 06-CV-1572, 2007 WL
+2696590, at *3 (S.D. Cal. Sept. 10, 2007). Here, unlike in Sorenson, discovery is complete and
+the case is ready for trial, Lucent and MPT will suffer disruption of their trial preparation and
+delay in resolution of their case. A stay therefore is unwarranted.
+14
+
+MULTIMEDIA PATENT TRUST’S OPPOSITION TO DEFENDANTS’
+MOTION FOR STAY OR, IN THE ALTERNATIVE, FOR SEVERANCE
+OF THE HASKELL AND NETRAVALI PATENTS FOR CONSOLIDATION
+WITH CASE NO. 07-CV-0747
+
+20
+
+Case No. 07-CV-2000 H (CAB)
+
+

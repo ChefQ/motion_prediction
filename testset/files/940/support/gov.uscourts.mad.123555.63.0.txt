@@ -1,0 +1,2184 @@
+Case 1:09-cv-11267-GAO Document 63
+
+Filed 06/02/10 Page 1 of 60
+
+UNITED STATES DISTRICT COURT
+DISTRICT OF MASSACHUSETTS
+
+)
+)
+)
+)
+IN RE GENZYME CORP. SECURITIES ) Case No. 1:09-cv-11267-GAO
+LITIGATION
+)
+)
+)
+)
+)
+)
+)
+MEMORANDUM OF LAW IN SUPPORT OF DEFENDANT GENZYME
+CORPORATION’S MOTION TO DISMISS
+CONSOLIDATED CLASS ACTION COMPLAINT
+
+John D. Donovan, Jr. (BBO# 130950)
+Robert G. Jones (BBO# 630767)
+Alison E.H. McLaughlin (BBO# 663060)
+ROPES & GRAY LLP
+One International Place
+Boston, Massachusetts 02110
+(617) 951-7000 (Tel)
+(617) 951-7050 (Fax)
+john.donovan@ropesgray.com
+robert.jones@ropesgray.com
+alison.mclaughlin@ropesgray.com
+Counsel for Defendant Genzyme Corporation
+June 2, 2010
+
+Case 1:09-cv-11267-GAO Document 63
+
+Filed 06/02/10 Page 2 of 60
+
+TABLE OF CONTENTS
+Page
+PRELIMINARY STATEMENT ..................................................................................................1
+FACTUAL BACKGROUND.......................................................................................................7
+ARGUMENT..............................................................................................................................14
+I.
+
+THE COMPLAINT SHOULD BE DISMISSED BECAUSE IT FAILS TO
+SATISFY THE RIGOROUS PLEADING STANDARDS FOR SCIENTER..................14
+
+II.
+
+THE COMPLAINT SHOULD BE DISMISSED BECAUSE THE
+INFORMATION ALLEGED TO HAVE BEEN “CONCEALED” BY
+GENZYME IS IMMATERIAL AS A MATTER OF LAW AND GENZYME
+HAD NO DUTY TO DISCLOSE IT ................................................................................19
+
+III.
+
+A.
+
+Genzyme Did Not Have A Duty to Disclose Its Receipt of Form 483
+“Inspectional Observations” from the FDA ............................................................20
+
+B.
+
+Genzyme Did Not Have A Duty to Disclose Purported “NonCompliance” With cGMPs ......................................................................................23
+
+C.
+
+Genzyme Did Not Have A Duty to Disclose Purported Manufacturing
+Difficulties ...............................................................................................................23
+
+THE COMPLAINT SHOULD BE DISMISSED BECAUSE THE
+STATEMENTS CITED IN THE COMPLAINT ARE NOT ACTIONABLE .................25
+A.
+
+The Complaint Fails to Allege Any Actionable Misstatement or
+Omission Regarding Genzyme’s Anticipation of FDA Approval of the
+Lumizyme BLA .......................................................................................................25
+1.
+
+Plaintiffs Cannot Have Reasonably Relied on Statements
+Concerning the Possible Timing of FDA’s Approval of
+Lumizyme ......................................................................................................26
+
+2.
+
+Plaintiffs’ Allegations Fall Short of the Requirements For
+Pleading Scienter............................................................................................27
+
+3.
+
+The PSLRA Safe Harbor and the Common Law Bespeaks
+Caution Doctrine Preclude Liability ..............................................................35
+
+B.
+
+Statements Regarding FDA Re-Inspection Are Not Actionable .............................38
+
+C.
+
+The Complaint Fails to Allege Any Actionable Misstatement or
+Omission Regarding the Contamination Events Experienced in 2008 at
+Genzyme’s Geel and Allston Facilities ...................................................................38
+
+D.
+
+The Complaint’s Allegations Relating to Defendants’ General
+Statements of Optimism Are Non-Actionable Puffery............................................42
+
+i
+
+Case 1:09-cv-11267-GAO Document 63
+
+Filed 06/02/10 Page 3 of 60
+
+E.
+
+The Complaint Fails to Allege Any Actionable Misstatement or
+Omission Regarding Earnings Guidance or Revenue Expectations........................43
+
+F.
+
+The Complaint Fails to Allege Any Actionable Misstatement or
+Omission Regarding Cerezyme or Fabrazyme ........................................................47
+
+G.
+
+The Complaint Fails to Allege Any Actionable Misstatement or
+Omission Regarding Genzyme’s Decisions on the Marketing of
+Lumizyme (2000L)..................................................................................................49
+
+CONCLUSION...........................................................................................................................52
+
+ii
+
+Case 1:09-cv-11267-GAO Document 63
+
+Filed 06/02/10 Page 4 of 60
+
+TABLE OF AUTHORITIES
+Page(s)
+CASES
+ACA Fin. Guar. Corp. v. Advest, Inc.,
+512 F.3d 46 (1st Cir. 2008)......................................................................................................41
+Acito v. IMCERA Group, Inc.,
+47 F.3d 47 (2d. Cir. 1995) .......................................................................................................21
+Akerman v. Bankworcester Corp.,
+751 F. Supp. 11 (D. Mass. 1990) .............................................................................................24
+Aldridge v. A.T. Cross Corp.,
+284 F.3d 72 (1st Cir. 2002)........................................................................................................4
+Anderson v. Abbott Labs.,
+140 F. Supp. 2d 894 (N.D. Ill. 2001) .......................................................................................22
+Baron v. Smith,
+380 F.3d 49 (1st Cir. 2004)......................................................................................................37
+Bell Atl. Corp. v. Twombly,
+550 U.S. 544 (2007).........................................................................................................2, 7, 14
+Dura Pharms., Inc. v. Broudo,
+544 U.S. 336 (2005).................................................................................................................50
+Fitzer v. Sec. Dynamics Techs.,
+119 F. Supp. 2d. 12 (D. Mass. 2000) .......................................................................................36
+Fort Worth Employers’ Retirement Fund v. Biovail Corp.,
+615 F. Supp. 2d 218 (S.D.N.Y. 2009)......................................................................................30
+Gaines v. Guidant Corp.,
+No. 03-CV-892, 2004 WL 2538374 (S.D. Ind. Nov. 8, 2004) ................................................17
+Garvey v. Arkoosh,
+354 F. Supp. 2d 73 (D. Mass. 2005) ........................................................................................27
+Higginbotham v. Baxter Int’l, Inc.,
+495 F.3d 753 (7th Cir. 2007) ...................................................................................................39
+Horizon Asset Mgmt., Inc. v. H&R Block, Inc.,
+580 F.3d 755 (8th Cir. 2009) ...................................................................................................17
+
+iii
+
+Case 1:09-cv-11267-GAO Document 63
+
+Filed 06/02/10 Page 5 of 60
+
+In re Alcatel Sec. Litig.,
+382 F. Supp. 2d 513 (S.D.N.Y. 2005)........................................................................................5
+In re Alkermes Sec. Litig.,
+No. 03-CV-12091, 2005 WL 2848341 (D. Mass. Oct. 6, 2005) .............................................50
+In re Amylin Pharms., Inc. Sec. Litig.,
+No. 01-CV-1455, 2003 WL 21500525 (S.D. Cal. May 3, 2003).............................................37
+In re AstraZeneca Sec. Litig.,
+559 F. Supp. 2d 453 (S.D.N.Y. 2008)................................................................................31, 34
+In re Boston Scientific Corp. Sec. Litig.,
+490 F. Supp. 2d 142 (D. Mass. 2007) ..........................................................................14, 21, 22
+In re Boston Tech., Inc. Sec. Litig.,
+8 F. Supp. 2d 43 (D. Mass. 1998) ............................................................................................43
+In re Brightpoint, Inc. Sec. Litig.,
+No. IP-99-0870, 2001 WL 395752 (S.D. Ind. Mar. 29, 2001) ................................................17
+In re Bristol-Myers Squibb Sec. Litig.,
+312 F. Supp. 2d 549 (S.D.N.Y. 2004)......................................................................................37
+In re Chipcom Corp. Sec. Litig.,
+No. 95-11114, 1996 U.S. Dist. LEXIS 22257 (D. Mass. Apr. 29, 1996) ................................43
+In re Citigroup, Inc. Sec. Litig.,
+330 F. Supp. 2d 367 (S.D.N.Y. 2004)......................................................................................24
+In re Credit Suisse First Boston Corp.,
+431 F.3d 36 (1st Cir. 2005)........................................................................................................5
+In re Discovery Labs. Sec. Litig.,
+No. 06-1820, 2007 WL 789432 (E.D. Pa. Mar. 15, 2007) ......................................................33
+In re The First Marblehead Corp. Sec. Litig.,
+639 F. Supp. 2d 145 (D. Mass. 2009) .............................................................................. passim
+In re Ford Motor Co. Sec. Litig.,
+184 F. Supp. 2d 626 (E.D. Mich. 2001)...................................................................................24
+In re Ibis Tech. Sec. Litig.,
+422 F. Supp. 2d 294 (D. Mass. 2006) ......................................................................................45
+In re Medimmune, Inc. Sec. Litig.,
+873 F. Supp. 953 (D. Md. 1995) ..............................................................................................36
+
+iv
+
+Case 1:09-cv-11267-GAO Document 63
+
+Filed 06/02/10 Page 6 of 60
+
+In re N. Telecom Ltd. Sec. Litig.,
+116 F. Supp. 2d 446 (S.D.N.Y. 2000)......................................................................................24
+In re Parametric Tech. Corp. Sec. Litig.,
+300 F. Supp. 2d 206 (D. Mass. 2001) ......................................................................................43
+In re PDI Sec. Litig.,
+No. 02-211, 2006 WL 3350461 (D.N.J. Nov. 16, 2006) .........................................................43
+In re PLC Sys. Inc. Sec. Litig.,
+41 F. Supp. 2d 106 (D. Mass. 1999) ........................................................................................37
+In re Polaroid Corp. Sec. Litig.,
+134 F. Supp. 2d 176 (D. Mass. 2001) ......................................................................................50
+In re Praecis Pharms., Inc., Sec. Litig.,
+No. 04-CV-12581, 2007 WL 951695 (D. Mass. Mar. 28, 2007)..................................... passim
+In re Smith & Wesson Holding Corp. Sec. Litig.,
+604 F. Supp. 2d 332 (D. Mass. 2009) ......................................................................................45
+In re Stone & Webster, Inc., Sec. Litig.,
+414 F.3d 187 (1st Cir. 2005)..............................................................................................35, 47
+In re Syntex Corp. Sec. Litig.,
+855 F. Supp. 1086 (N.D. Cal. 1994) ........................................................................................43
+In re Transkaryotic Therapies, Inc. Sec. Litig.,
+319 F. Supp. 2d 152 (D. Mass. 2004) ......................................................................................37
+In re Union Carbide Class Action Sec. Litig.,
+648 F. Supp. 1322 (S.D.N.Y. 1984).........................................................................................24
+Iron Workers Local No. 25 Pension Fund v. Oshkosh Corp.,
+08-CV-797, 2010 WL 1287058 (E.D. Wis. Mar. 30, 2010) ....................................................17
+Isham v. Perini Corp.,
+665 F. Supp. 2d 28 (D. Mass. 2009) ........................................................................................41
+Johnson v. Pozen Inc.,
+No. 07-CV-599, 2009 WL 426235 (M.D.N.C. Feb. 19, 2009)................................................31
+Kenney v. State St. Corp.,
+No. 09-CV-10750, 2010 WL 938333 (D. Mass. Mar. 15, 2010).............................................43
+Minneapolis Firefighters’ Relief Ass’n v. MEMC Elec. Materials, Inc.,
+No. 4:08-CV-1411, 2010 WL 889864 (E.D. Mo. Mar. 8, 2010).............................................23
+
+v
+
+Case 1:09-cv-11267-GAO Document 63
+
+Filed 06/02/10 Page 7 of 60
+
+New Jersey Carpenters Pension & Annuity Funds v. Biogen IDEC, Inc.,
+537 F.3d 35 (1st Cir. 2008).............................................................................................. passim
+Orton v. Parametric Tech. Corp.,
+344 F. Supp. 2d 290 (D. Mass. 2004) ......................................................................................43
+Pub. Pension Fund Group v. KV Pharm.,
+No. 4:08-CV-1859, 2010 WL 681443 (E.D. Mo. Feb. 22, 2010).................................... passim
+Rodriguez-Ortiz v. Margo Caribe, Inc.,
+490 F.3d 92 (1st Cir. 2007)................................................................................................27, 28
+Santa Fe Indus. v. Green,
+430 U.S. 462 (1977).............................................................................................................7, 24
+Shaw v. Digital Equip. Corp.,
+82 F.3d 1194 (1st Cir. 1996)....................................................................................................43
+Tellabs, Inc. v. Makor Issues & Rights, Ltd.,
+551 U.S. 308 (2007)......................................................................................................... passim
+Vernet v. Serrano-Torres,
+566 F.3d 254 (1st Cir. 2009)................................................................................................2, 14
+STATUTES
+15 U.S.C. § 78u-4(b)(1) (2010) .................................................................................................3, 41
+15 U.S.C. § 78u-4(b)(2) (2010) .......................................................................................................3
+15 U.S.C. § 78u-5 (2010)...............................................................................................................35
+15 U.S.C. § 78u-5(i)(1) (2010) ......................................................................................................35
+15 U.S.C. § 78u-5(i)(1)(A) (2010).................................................................................................45
+15 U.S.C. § 78u-5(i)(1)(B) (2010) .................................................................................................36
+15 U.S.C. § 78u-5(c)(1) (2010)......................................................................................................36
+FDA Amendments Act of 2007, Pub. L. 110-85, § 101(c), Sept. 27. 2007...................................26
+OTHER AUTHORITIES
+21 C.F.R. §20.101(a) (2009)..........................................................................................................18
+21 C.F.R. §20.103(a) (2009)..........................................................................................................18
+21 C.F.R. § 20.103(b) (2009).........................................................................................................18
+
+vi
+
+Case 1:09-cv-11267-GAO Document 63
+
+Filed 06/02/10 Page 8 of 60
+
+21 C.F.R. § 314.100(a), (c) (2009) ................................................................................................26
+FDA Guidance for Review Staff and Industry: Good Review Management Principles and
+Practices for PDUFA Products (April 2005), at http://www.fda.gov/dowloads/Drugs/
+GuidanceComplianceRegulatoryInformation/Guidance/UCM079748.pdf .............................30
+Henry Grabowski et al., Do Faster Food and Drug Administration Drug Reviews
+Adversely Affect Patient Safety? An Analysis of the 1992 Prescription Drug User Fee
+Act, 51 J.L. & Econ. 377, 380-81 (2008).................................................................................26
+James L. Zelenay, Jr., The Prescription Drug User Fee Act: Is a Faster Food and Drug
+Administration Always a Better Food and Drug Administration?, 60 Food & Drug
+L.J. 261 (2005).........................................................................................................................26
+Letter from Michael O. Leavitt, Secretary of Health and Human Services, to the
+Honorable John D. Dingell, Chairman, House Committee on Energy and Commerce,
+Section A: PDUFA IV Reauthorization Performance Goals and Procedures: Fiscal
+Years 2008 through 2012 (Sept. 27, 2007), available at http://www.fda.gov/
+ForIndustry/UserFees/ PrescriptionDrugUserFee/ucm119243.htm ........................................26
+
+vii
+
+Case 1:09-cv-11267-GAO Document 63
+
+Filed 06/02/10 Page 9 of 60
+
+PRELIMINARY STATEMENT
+In September 2008, a rare virus — “Vesivirus 2117” — contaminated a bioreactor
+engaged in a pre-manufacturing “process validation” run at Genzyme Corporation’s
+(“Genzyme”) new facility in Geel, Belgium. The same unusual virus subsequently contaminated
+two bioreactors at Genzyme’s Allston, Massachusetts manufacturing facility. In the wake of
+these events, in June of 2009, Genzyme suspended production in Allston of two key products —
+Cerezyme and Fabrazyme — in order to sanitize the facility. Inventories of those products were
+not sufficient to meet patient demand, and the shortages adversely affected Genzyme’s revenues.
+The Company’s stock price fell.
+Separately, the Food and Drug Administration (“FDA”) has over the years conducted
+multiple inspections of Genzyme’s Allston Facility. The FDA made “observations” to Genzyme
+about certain production issues in 2008, escalated its commentary into a “warning” in 2009,
+issued additional “observations” in late 2009, and ultimately executed a consent decree with
+Genzyme in 2010. These regulatory matters had no effect on actual bulk production of Genzyme
+products in bioreactors, instead primarily relating to certain “fill and finish” operations at the
+Allston plant. But the FDA conditioned its approval of a new product to be manufactured at
+Allston — called Lumizyme — on Genzyme’s satisfactory resolution of the “fill-finish” issues
+the FDA had raised. At the same time, Genzyme continued to produce the product for
+commercial sale as it always had in smaller scale facilities, under the name Myozyme.
+Both of these circumstances unquestionably presented challenges to Genzyme. But the
+plaintiffs seize upon these separate events, and mash them together to claim that Genzyme was
+engaged in “rampant” violations of current Good Manufacturing Practices (“cGMPs”), and
+suffered from “woefully deficient” compliance policies, making “contamination outbreaks,”
+“adulteration of its products” and “serious adverse FDA action” “likely if not inevitable.” And
+
+1
+
+Case 1:09-cv-11267-GAO Document 63
+
+Filed 06/02/10 Page 10 of 60
+
+they claim that virtually every statement Genzyme made for two years — even just announcing
+quarterly results — was “false and misleading” because the Company did not simultaneously
+confess to the plaintiffs’ charge, disclose every communication back-and-forth with the FDA, or
+predict both regulatory action and unprecedented contamination events. The plaintiffs press the
+conclusion that because adverse events unfolded, Genzyme purposefully knew, but concealed,
+that they would actually eventuate. According to the plaintiffs, Genzyme “intentionally” omitted
+to predict “inevitable” regulatory action and both the fact and consequences of contamination in
+order to deceive investors and pump up the stock price.
+But that charge depends on the coupling of regulatory “fill-finish” observations with the
+extraordinary event of viral contamination, and exaggerating the result into an allegation of
+“rampant” breaches of manufacturing standards. The Complaint then takes that essential claim
+about ostensible “mismanagement” of manufacturing processes and impermissibly wraps it in
+“disclosure” clothing, all the while ignoring what Genzyme actually said publicly throughout the
+ostensible class period, in order to shoehorn a factually implausible theory into the federal
+securities laws. And finally, the plaintiffs simply presume a guilty conscience. Without
+attributing any conceivable motive to deceive to any Genzyme officer, they charge that because
+the Company “knew” what the plaintiffs claim, it deliberately kept investors in the dark.
+Plaintiffs’ claim is accordingly nothing more than opportunism masquerading as
+securities “fraud.” The federal securities laws require more. Any complaint must include
+“enough to raise a right to relief above the speculative level,” Bell Atl. Corp. v. Twombly, 550
+U.S. 544, 555 (2007), such that the complaint establishes “‘a plausible entitlement to relief,’”
+Vernet v. Serrano-Torres, 566 F.3d 254, 258 (1st Cir. 2009) (quoting Twombly, 550 U.S. at 559).
+But a securities complaint must also “specify each statement alleged to have been misleading
+
+2
+
+Case 1:09-cv-11267-GAO Document 63
+
+Filed 06/02/10 Page 11 of 60
+
+[and] the reason or reasons why the statement is misleading,” 15 U.S.C. § 78u-4(b)(1) (2010),
+and “state with particularity facts giving rise to a strong inference that the defendant acted with
+the required state of mind,” 15 U.S.C. § 78u-4(b)(2) (2010), such that the inference of intentional
+or reckless deception is “cogent and at least as compelling as any opposing inference one could
+draw from the facts alleged,” Tellabs, Inc. v. Makor Issues & Rights, Ltd., 551 U.S. 308, 324
+(2007). Those requirements are not met here. The extensive two-year fraud posited in the
+Complaint is all speculation and no plausibility.
+At bottom, the plaintiffs lift a series of facts disclosed to investors during (or even after)
+the class period and allege that the information should have been disclosed earlier. For example,
+although Genzyme announced in Spring 2009 that two bioreactor failures in late 2008 were
+caused by viral contamination, the plaintiffs allege that Genzyme had a duty to disclose the fact
+of a viral contamination sooner. But the pleading does not say what information Genzyme
+possessed any earlier that would have even allowed it to make a disclosure; and they simply
+ignore Genzyme’s statement that it took six months of investigation to isolate the viral cause.
+Similarly, although Genzyme announced in November 2008 that the FDA extended the date by
+which the agency expected to approve a large-scale production process application, the plaintiffs
+simply allege the disclosure should have been made earlier. But when? And what did Genzyme
+know that would have allowed it to predict the regulator’s delay? The entire structure of the
+Complaint follows this same pattern: disclosures the Company did make during the class period
+are used to allege — without more — that Genzyme had a duty to disclose the information at an
+earlier time.
+Quite apart from its failure to supply the building blocks of information that would permit
+“earlier” disclosure, the pleading provides no basis upon which to draw an inference that the
+
+3
+
+Case 1:09-cv-11267-GAO Document 63
+
+Filed 06/02/10 Page 12 of 60
+
+failure to do so was intentionally or recklessly deceptive. Again, what Genzyme did disclose
+corroborates the point: It strains credulity to assert that Genzyme would conceal from the public
+information that the Company actually disclosed. For example, Genzyme:1
+
+
+Announced to the public each time the FDA moved an anticipated approval date for its
+products, including Lumizyme.
+
+
+
+Announced to the public when it received a Warning Letter discussing the FDA’s
+observations concerning certain aspects of the Company’s operations in Allston,
+Massachusetts.
+
+
+
+Announced to the public immediately upon deciding to shut down the Allston plant for
+decontamination activities following the identification of a viral contamination of a
+bioreactor producing the product Cerezyme in late May 2009.
+
+
+
+Informed its regulators and the public when supplies of Myozyme and other products
+became tight or unavailable.
+The steady stream of disclosures and updates by Genzyme during the period — either
+
+omitted from the pleadings or downplayed by the plaintiffs for obvious reasons — overwhelms
+the inference of purposeful deception the plaintiffs simply manufacture. And there is nothing
+else. The complaint offers no reason behind its charge of “concealment.” It doesn’t hint at a
+motive or begin to say “why” Genzyme would risk failing to alert investors to material risks.
+The pleading simply chalks up its claim of omitted disclosure to “fraud” without a basis, much
+less particularized facts.
+The Complaint also mocks the requirement set by Fed. R. Civ. P. 9(b) and the PSLRA
+that each purportedly misleading statement be specified, along with the alleged reason why the
+statement is misleading. See Aldridge v. A.T. Cross Corp., 284 F.3d 72, 78 (1st Cir. 2002).
+1
+
+The general rule that documents outside of the pleadings are not considered on a motion to dismiss does not apply
+to certain categories of documents including, inter alia, “documents central to the plaintiff’s claim” and “documents
+sufficiently referred to in the complaint.” In re Praecis Pharms., Inc., Sec. Litig., No. 04-CV-12581, 2007 WL
+951695, at *5 n. 8 (D. Mass. Mar. 28, 2007) (granting motion to dismiss Section 10(b) claim and citing Watterson v.
+Page, 987 F.2d 1, 3 (1st Cir. 1993)). Because the voluminous Complaint references and relies upon, specifically or
+generally, a large number of documents ranging from FDA correspondence to Genzyme’s public disclosures, the
+defendants have addressed these documents as necessary herein and have attached copies for the Court’s
+convenience to the Declaration of Alison McLaughlin (“McL. Decl.”), filed concurrently herewith.
+
+4
+
+Case 1:09-cv-11267-GAO Document 63
+
+Filed 06/02/10 Page 13 of 60
+
+While the Complaint’s length is striking, the puzzle-like structure of its section purporting to
+identify the alleged misleading statements and omissions, ¶¶ 216 to 320, is its most defining
+feature. Across 104 paragraphs, the plaintiffs purport to identify the countless statements they
+claim were “false or misleading.” But the format of the pleading makes a game out of the task of
+identifying which statements are alleged to be false, and precisely how they are alleged to be
+false. Several statements are identified in a series, see, e.g., Compl. ¶¶ 216-219 or ¶¶ 237-240,
+without any specific reason why each statement is purportedly false or misleading, and only then
+is that group of statements — which may not be related to one another at all — followed by a
+paragraph stating that all of the statements in previous paragraphs were false and misleading for
+any one of several reasons offered as a group. See, e.g., Compl. ¶ 220 or ¶ 241. It is left to the
+Court and the defendants to guess at which reason aligns with any statement.2
+This chaotic approach to pleading itself justifies dismissal. See In re Alcatel Sec. Litig.,
+382 F. Supp. 2d 513, 534 (S.D.N.Y. 2005). Given the time plaintiffs had to prepare the
+Complaint, its confusing structure can only have been a tactical choice intended to give the
+appearance of a broad scheme to defraud where a genuine basis for the claim is lacking. But
+whatever the goal, the approach taken by the plaintiffs massively complicates the Court’s task of
+evaluating the allegations on a statement-by-statement basis. See In re Credit Suisse First
+Boston Corp., 431 F.3d 36, 49 (1st Cir. 2005).
+Nonetheless, the allegations are susceptible of some attempt at organization. Close
+examination of the Complaint reveals that almost 50% of the alleged misstatements specified
+address Genzyme’s expectations for the timing of the FDA’s decision on approval of Lumizyme,
+which was the name given to Myozyme in 2000L formulation. The remaining statements also
+2
+
+To assist the Court in solving the puzzle, the defendants have collected all of the purported misstatements in single
+chart, associating each statement with the list of conclusory reasons which allegedly render each statement
+misleading. This chart is provided as Attachment 1 hereto.
+
+5
+
+Case 1:09-cv-11267-GAO Document 63
+
+Filed 06/02/10 Page 14 of 60
+
+can be grouped into distinct categories, such as (i) general statements of optimism, or puffery;
+(ii) revenue guidance and financial results; and (iii) non-actionable forward-looking statements.
+For the purposes of establishing the legal insufficiency of the Complaint for purposes of Rule
+12(b)(6), the defendants have organized their arguments around these and other categories.
+Once organized, the claims are susceptible to straightforward legal analysis. For
+example, the central thrust of the Complaint is the plaintiffs’ insistence that Genzyme was
+required to disclose “observations” made by FDA in connection with its inspection of the
+Company’s Allston plant in October 2008 (and provided to Genzyme in writing on FDA Form
+483). Indeed, all of the manufacturing conditions cited by the plaintiffs and alleged to have been
+omitted from disclosures to investors are lifted from observations contained in the Form 483
+received by Genzyme in October 2008. But the cases clearly state that Form 483 observations
+by the FDA are not material and do not require disclosure. See Section II. A., infra. The
+plaintiffs also point to the Form 483 observations and claim that Genzyme was required to
+disclose that it was in “violation of cGMPs.” But the cases also clearly state that such violations
+are established only at the time of an FDA enforcement action — not by the receipt of a Form
+483 alone. See Sections II. A, B., infra. The plaintiffs cite nearly all of Genzyme’s earnings and
+revenue guidance statements during the two-year period. But the Complaint nowhere explains
+how such reports were wrong, or whether the supposedly “correct” numbers would have been
+materially different — allegations which are required in order for claims challenging reported
+results or guidance to be actionable. See Section III. E., infra. The vast bulk of the alleged
+misstatements are non-actionable puffery or forward-looking statements. See Sections III. D.
+and III. E., infra. Taken together, the assorted claims and alleged misstatements and omissions
+simply are not actionable under Section 10(b) of the Exchange Act (or Rule 10b-5 there under).
+
+6
+
+Case 1:09-cv-11267-GAO Document 63
+
+Filed 06/02/10 Page 15 of 60
+
+This case underscores the wisdom of the heightened standards imposed on securities
+fraud claims by both Congress and the courts. Genzyme has faced countless challenges over the
+past two years. In doing so, it has worked with regulators, stakeholders, patients and investors to
+provide timely and appropriate disclosures to the public as events warranted. Even today, that
+work continues.3 But companies are not subject to liability under the federal securities laws
+merely because they experience operational set-backs and declines in their stock price; after-thefact assertions of “poor management” do not give rise to actionable claims under Section 10(b).
+Santa Fe Indus. v. Green, 430 U.S. 462, 479 (1977). If public companies facing such challenges
+can be routinely subject to expensive and time-consuming litigation and discovery on the basis of
+claims which merely speculate concerning its motives and insinuate that disclosures were
+incomplete or untimely, the Supreme Court’s decisions in Twombly and Tellabs, and other
+standards applicable to such claims, have little practical effect. To be sure, the Complaint is
+lengthy and artful, but it lacks any legal merit. It fails to state a plausible claim upon which
+relief may be granted. This Court should dismiss it with prejudice.
+FACTUAL BACKGROUND
+Genzyme is one of the world’s leading biotechnology companies. Genzyme focuses on
+the development of products to treat patients suffering from rare inherited disorders and other
+serious conditions. The company’s Genetic Disease Segment has developed and manufactures
+products that treat lysosomal storage diseases — a group of metabolic disorders caused by a
+body’s lack of certain enzymes — including Cerezyme® (for the treatment of Gaucher disease),
+
+3
+
+While the Court need not consider these facts on this motion, on May 24, 2010, Genzyme announced that it had
+finalized the terms of a consent decree with the FDA (and agreed to a civil fine) in an effort to address
+manufacturing concerns raised by the agency, and on May 25, 2010, Genzyme announced that it had obtained FDA
+regulatory approval for the sale of Lumizyme manufactured at the 4000L scale to patients in the United States.
+
+7
+
+Case 1:09-cv-11267-GAO Document 63
+
+Filed 06/02/10 Page 16 of 60
+
+Fabrazyme® (for the treatment of Fabry disease), and Myozyme® (for the treatment of Pompe
+disease). Compl. ¶¶ 36-39.
+These products are classified as “biologics” because they are created from biological
+rather than chemical sources. Compl. ¶ 35. Their manufacture involves the use of bioreactors in
+which the material that will be incorporated into the finished pharmaceutical product is “grown”
+before moving through the rest of the manufacturing process. Id. Genzyme operates a number
+of facilities worldwide that play some role in its biologics manufacturing, including at Allston
+Landing, Massachusetts (the “Allston Facility”) and Geel, Belgium (the “Geel Facility”).
+Myozyme and Lumizyme. Genzyme has produced Myozyme since 2006 at two of its
+facilities: one in Framingham, Massachusetts in 160-liter (“160L”) bioreactors, which had been
+approved for patients in the United States, and another at its Allston Facility in 2000-liter
+(“2000L”) bioreactors, which had been approved for use only outside the United States. Compl.
+¶¶ 14, 48. Demand for Myozyme motivated the Company to pursue the use of larger bioreactors
+to increase production volume. Genzyme accordingly began to pursue production of Myozyme
+at the 4000L scale at the Geel Facility and FDA approval of 2000L Myozyme produced at the
+Allston Facility. Compl. ¶¶ 48-51. Because the Geel Facility was a completely new
+manufacturing site, the process for beginning and obtaining regulatory approval for production
+of Myozyme at the 4000L scale required completion of a lengthy “start up” phase. Genzyme
+began this process in mid-2008 and obtained approval of the European Medicines Agency
+(“EMEA”) to produce and sell Myozyme at the 4000L scale on February 26, 2009 — months
+earlier than the Company had originally projected. Compl. ¶ 51.
+Genzyme also undertook to secure approval from the FDA to sell Myozyme made at
+Allston at the 2000L scale. See Compl. ¶ 48. After the FDA determined that Myozyme
+
+8
+
+Case 1:09-cv-11267-GAO Document 63
+
+Filed 06/02/10 Page 17 of 60
+
+produced at this 2000L scale should be addressed under a separate Biologics License Application
+(“BLA”), rather than merely an amendment to its prior approval decision for Myozyme produced
+at the 160L scale, Genzyme gave the 2000L scale product a separate name — Lumizyme — for
+purposes of differentiation. Compl. ¶¶ 48, 49. In connection with the Lumizyme BLA, the FDA
+provided Genzyme with a PDUFA4 date of November 29, 2008, and began its own inspection
+process for the BLA, including a review of the manufacturing processes at the Allston Facility
+that were to be involved in producing Lumizyme. Compl. ¶ 93.
+The October 2008 Form 483. Between mid-September and mid-October 2008, just a
+few months after the EMEA certified that the Allston Facility was in compliance with cGMPs,
+the FDA conducted an inspection of the Allston Facility. On October 10, 2008, the FDA issued
+a Form 483 to Genzyme, identifying certain “observations” from the inspection process relating
+to Genzyme’s manufacturing operations (the “Form 483”). See McL. Decl. Ex. A. The Form
+483 contains standard language advising as follows:
+THIS DOCUMENT LISTS . . . INSPECTIONAL
+OBSERVATIONS AND DO[ES] NOT REPRESENT A FINAL
+AGENCY DETERMINATION REGARDING YOUR
+COMPLIANCE.
+See id. (capitalization in original). The bulk of the FDA’s observations were related to the “fill
+and finish” manufacturing processes that are “downstream” of the bioreactors where Genzyme
+later experienced two viral contamination events. See id. Nothing in the Form 483 addressed
+deficiencies at Allston in detecting or preventing viral contaminations. See id.
+Upon receipt of the FDA’s observations in the Form 483, Genzyme began to address the
+observations and communicated regularly — and publicly — with the FDA. See Compl. ¶¶ 101,
+
+4
+
+PDUFA refers to the Prescription Drug User Fee Act of 1992, which requires the FDA to set goals for the amount
+of time it will take to review an application. Compl. ¶ 93. Thus, a “PDUFA date” is the date by which the FDA has
+informed the applicant that the agency will endeavor to reach a decision on the BLA.
+
+9
+
+Case 1:09-cv-11267-GAO Document 63
+
+Filed 06/02/10 Page 18 of 60
+
+278. Genzyme sent the FDA a voluntary written response to the Form 483 on October 31, 2008,
+detailing the Company’s efforts to address each of the inspection observations and its progress in
+resolving them. See McL. Decl. Ex. B; Compl. ¶ 100.
+Extension of Lumizyme PDUFA Date. In late October 2008, Genzyme appeared before
+an FDA Advisory Committee to discuss the results from Lumizyme clinical studies. In an
+important step towards obtaining FDA approval, the Advisory Committee voted 16-1 in support
+of the conclusion that Genzyme’s studies established the clinical effectiveness of the therapy.
+McL. Decl. Ex. C. In November, Genzyme submitted, at the FDA’s request, its Risk Evaluation
+and Mitigation Strategy (“REMS”). McL. Decl. Ex. D. On November 17, 2008, Genzyme
+issued a press release announcing that the FDA had extended the Lumizyme BLA PDUFA date
+by 90 days, to February 28, 2009. See id.; Compl. ¶ 106. The FDA had informed Genzyme that
+the extension was necessary to allow the FDA to review the REMS and to give Genzyme time to
+design a post-approval clinical verification study. See McL. Decl. Ex. D. Genzyme also
+informed investors that the Company did not expect the PDUFA extension to affect its
+previously issued earnings guidance. See id.
+The February 2009 Warning Letter And Complete Response Letter. The FDA issued a
+warning letter (the “Warning Letter”) regarding the Allston Facility on February 27, 2009, citing
+some of the same observations identified in the Form 483. See McL. Decl. Ex. E; Compl. ¶¶
+112-13. Again, the Warning Letter did not make any reference to the detection or prevention of
+viral contamination. See McL. Decl. Exs. A, E.
+Also, on February 27, 2009, the FDA sent Genzyme a Complete Response Letter,
+indicating that approval of the Lumizyme BLA would be withheld until discussions regarding
+REMS and the post-approval clinical verification study, the two issues that had given rise to the
+
+10
+
+Case 1:09-cv-11267-GAO Document 63
+
+Filed 06/02/10 Page 19 of 60
+
+PDUFA date extension in November 2008 (see above) were resolved, and until the Company
+resolved the issues raised in the Warning Letter. See McL. Decl. Ex. F. Genzyme promptly
+disclosed these letters on the first business day after receipt. See Compl. ¶¶ 274-75.
+Continuing Efforts Re: Lumizyme Approval. Following its receipt of the Warning
+Letter and the Complete Response Letter, Genzyme remained in regular communication with the
+FDA regarding the Company’s progress, as it repeatedly disclosed to investors. See, e.g.,
+Compl. ¶¶ 278, 294, 297. The FDA conducted additional inspections of the Allston Facility in
+May 2009 and again in October to November 2009, issuing additional inspection observations on
+November 13, 2009. See Compl. ¶¶ 163, 183.
+2008 Geel And Allston Bioreactor Run Failures. In 2008, the Geel Facility was in the
+“start up” phase of producing Myozyme at the 4000L scale. At that time, Myozyme produced at
+the Geel Facility was not approved for sale in any market. See Compl. ¶ 51. Bioreactors at that
+site were in the “process validation” stage, during which bioreactor process validation runs (“PV
+runs”) are completed to confirm reliability and consistency of operation. In late September 2008,
+one of the PV runs experienced an unexpected decline in cell productivity. See Compl. ¶ 95.
+Rapid cell death during bioreactor runs is not uncommon in the manufacture of biologics, and
+may be caused by bacteria, equipment failure, viruses or other causes. Genzyme immediately
+initiated an investigation to determine the cause of the event. While that investigation was
+ongoing, the Geel Facility resumed PV runs and successfully completed the process validation
+stage of the regulatory approval process. After September 2008, no other incident of rapid cell
+death was observed at the Geel Facility and Genzyme received EMEA approval for 4000L
+Myozyme in late February 2009. Compl. ¶¶ 51, 111. This approval came several months earlier
+
+11
+
+Case 1:09-cv-11267-GAO Document 63
+
+Filed 06/02/10 Page 20 of 60
+
+than Genzyme expected, having advised the market earlier that month that such approval was
+anticipated for April 2009. See McL. Decl. Ex. G.
+In November 2008, Genzyme observed a decline in cell productivity in a bioreactor in
+Allston used in the production of Myozyme at the 2000L scale for commercial sale in Europe,
+where it had already been approved. Compl. ¶¶ 96, 256. Genzyme promptly initiated an
+investigation, decontaminated the suite that houses the bioreactor, and quickly returned it to
+service. Even in the months prior to the November 2008 event, Genzyme had cautioned the
+market that Myozyme supplies would be constrained during early 2009.5 On January 13, 2009,
+the Company announced that it had been working with a Myozyme stakeholder group (including
+physicians and patient groups) on a Supply Management Plan to assist in managing the
+availability of the therapy to patients during a period of tight supply. McL. Decl. Ex. J. On
+January 16, 2009, the EMEA issued a press release addressing the Myozyme supply shortage and
+Genzyme’s Supply Management Plan, specifically noting that “problems with the manufacture
+of the medicine at some sites” as well as demand outpacing supply had contributed to the
+shortages. McL. Decl. Ex. K. The EMEA press release also noted that Genzyme was
+investigating the cause of the production problems at the sites. Id. Genzyme conducted its
+investigation into the cause of these two events over a period of six months, and on June 16,
+2009, announced it had determined that both the Geel and Allston events had been caused by a
+rare virus.6
+5
+
+See, e.g., Compl. ¶¶ 238 (Tr. of Earnings Conf. Call, July 23, 2008), 258 (Form 10-Q for 3Q 2008, Oct. 22, 2008);
+McL. Decl. Ex. H (Press Release and Form 8-K, Feb. 13, 2008) (“This [first quarter EPS] estimate also reflects the
+U.S. introduction of Myozyme® (alglucosidase alfa), which has been constrained by limited product supply, as the
+FDA has yet to approve the larger scale manufacturing process for this product. This supply constraint will have an
+estimated impact of $0.03 per diluted share during the first quarter.”); McL. Decl. Ex. I at 41 (Form 10-Q for 2Q
+2008, Aug. 11, 2008) (“Product supply of Myozyme in 2009 is expected to be particularly tight until production at
+the 4000L scale at this facility is approved.”).
+6
+
+See McL. Decl. Ex. L (Press Release, June 16, 2009) (“Genzyme has now confirmed that this virus was the cause
+of declines in cell productivity at its Allston and Geel facilities in two previous instances in 2008, which were
+
+12
+
+Case 1:09-cv-11267-GAO Document 63
+
+Filed 06/02/10 Page 21 of 60
+
+2009 Allston Bioreactor Run Failure. In late May 2009, Genzyme also experienced a
+decline in cell productivity in a second Allston bioreactor, this one manufacturing Cerezyme.
+Compl. ¶ 139. Based on the results of the investigation it was then completing for the 2008 Geel
+and Allston events, the Company was able to confirm quickly that the cause had been a virus,
+and on June 16, 2009, immediately disclosed the occurrence of the three events and the
+Company’s conclusion that all three were attributable to a rare virus, Vesivirus 2117. See
+Compl. ¶¶ 139, 304. Genzyme also promptly took the precautionary action of shutting down the
+Allston Facility for six-to-eight weeks and decontaminating the plant. Compl. ¶ 140. Genzyme
+also disclosed that, unlike the first two bioreactor events, the shut down of the entire Allston
+Facility for decontamination would have a material impact on the Company’s earnings. See
+Compl. ¶¶ 140, 304.
+FDA’s Fall 2009 Re-inspection at Allston. In July 2009, the FDA informed Genzyme
+that it would re-inspect the Allston Facility in the Fall. McL. Decl. Ex. N; Compl. ¶¶ 162, 163.
+Following that re-inspection, on November 13, the last day of the class period, the FDA issued
+Genzyme a second Form 483, McL. Decl. Ex. O, as well as a Complete Response Letter, which
+again withheld Lumizyme approval, McL. Decl. Ex. P. Genzyme disclosed receipt of the Form
+483 and Complete Response Letter the next business day. McL. Decl. Ex. Q (Press Release,
+Nov. 16, 2009). Also on November 13, Genzyme issued a press release disclosing the presence
+of foreign particles in a small number of vials of drugs manufactured at the Allston Facility.
+McL. Decl. Ex. R.
+
+subsequently fully addressed.”); Ex. M (Tr. of Analysts’ Conf. Call, June 24, 2009) (“[I]t was only as a result of a
+six month long investigation that we were able to create the specific PCR [test], which allows us to isolate and
+identify this virus.”).
+
+13
+
+Case 1:09-cv-11267-GAO Document 63
+
+Filed 06/02/10 Page 22 of 60
+
+ARGUMENT
+Plaintiffs looking to establish liability for violations of Section 10(b) of the Exchange Act
+and Rule 10b-5 must satisfy the following elements: (1) a false statement or omission of a
+material fact; (2) made with scienter; (3) in connection with the purchase or sale of a security; (4)
+upon which the plaintiff reasonably relied; (5) an economic loss; and (6) that the loss was caused
+by the misrepresentation or omission. In re Boston Scientific Corp. Sec. Litig., 490 F. Supp. 2d
+142, 153 (D. Mass. 2007) (citing Dura Pharms., Inc. v. Broudo, 544 U.S. 336, 341 (2005)).
+Moreover, the PSLRA and controlling decisions of the Supreme Court and First Circuit impose
+“heightened” pleading standards on securities plaintiffs. To avoid dismissal under Fed. R. Civ.
+P. 12(b)(6) and 9(b), a plaintiff must allege “with particularity” the circumstances amounting to
+fraud, including particularized facts supporting a “cogent and compelling” inference that the
+defendants intentionally or recklessly acted to deceive investors. The fundamental pleading
+principle that factual allegations must be “enough to raise a right to relief above the speculative
+level,” Twombly, 550 U.S. at 555, such that the complaint establishes “‘a plausible entitlement to
+relief,’” Vernet, 566 F.3d at 258 (quoting Twombly, 550 U.S. at 559), are elevated in the
+securities context. The “who, what, where, and when” of a claim of misrepresentations or
+omissions must be accompanied by “why” the circumstances can be chalked up to fraud.
+I.
+
+THE COMPLAINT SHOULD BE DISMISSED BECAUSE IT FAILS TO
+SATISFY THE RIGOROUS PLEADING STANDARDS FOR SCIENTER
+In Section III, below, we address the Complaint’s allegations on a statement-by-statement
+
+or category-by-category basis, including why each individual statement does not support an
+inference of reckless or intentional decision. But taken as a whole, the Complaint’s flaws merit
+dismissal on its face. The first fatal flaw is its failure adequately to plead scienter. The
+Complaint falls short of satisfying the Tellabs standard of supplying a “cogent and compelling”
+
+14
+
+Case 1:09-cv-11267-GAO Document 63
+
+Filed 06/02/10 Page 23 of 60
+
+inference that the defendants acted with the requisite state of mind to defraud investors. “A
+[securities class action] complaint will survive [dismissal at the pleading stage] . . . only if a
+reasonable person would deem the inference of scienter cogent and at least as compelling as any
+opposing inference one could draw from the facts alleged.” Tellabs, 551 U.S. at 324.
+To conjure up an inference that the defendants acted with scienter, the plaintiffs simply
+juxtapose their version of events with the bald assertion that the defendants “knew” those “facts”
+and “intentionally” failed to disclose them. According to the plaintiffs, the Company “was not
+complying with cGMPs”; the Allston Facility was “severely overburdened” and created a
+“serious risk” that the Company would be unable to supply the market; the Company had
+“woefully deficient compliance practices”; and the “depth and pervasiveness” of the “woefully
+deficient compliance practices” made the contamination of its products “inevitable.” See, e.g.,
+Compl. ¶ 220(A)-(E). The pleading simply claims these “facts” as gospel and baldly attributes
+their “non-disclosure” to an “intentional[ ] fail[ure] to inform the market . . . of material
+information.” Id. at ¶ 323.
+But why? Even if one accepts the plaintiffs’ allegations, the Complaint doesn’t begin to
+hint at a motive for any officer of Genzyme to conceal anything from investors. The pleading
+doesn’t describe a benefit that accrued to anyone, or even suggest that the Company was
+somehow better off by leaving investors in the dark. The document does not point to earnings
+that were manipulated, stock-based compensation that was obtained or kept, opportunities that
+were generated or losses that were avoided as a result of any nondisclosure. The only thing the
+Complaint alleges is that “facts” existed, the defendants “knew” them, and they were not
+disclosed. But that allegation of “fraud” is tautological: the plaintiffs say that because “facts”
+weren’t disclosed they were “intentionally” concealed. According to the plaintiffs, any omission
+
+15
+
+Case 1:09-cv-11267-GAO Document 63
+
+Filed 06/02/10 Page 24 of 60
+
+to publicize “facts” the defendants “knew” must have been purposefully concealed — even
+though the pleading does not point to a single shred of evidence to make the connection.
+But that is just faulty logic. The gap in the pleading that omits to connect the dots
+between ostensible “knowledge” of “facts” and “intentional” deception of investors robs the
+Complaint of any inference of reckless or deliberate nondisclosure. And where no inference of
+either rash or premeditated behavior arises, surely a “cogent and compelling” inference does not
+exist.
+Logic aside, the limited pieces of real information the plaintiffs claim was “concealed” —
+receipt of the 2008 Form 483, bioreactor failures, delays in approval dates set by the FDA —
+were disclosed by Genzyme (or otherwise was made public) during the putative class period.
+Contrary to the impression the plaintiffs’ generalized allegations strive to create, Genzyme’s
+actions and pronouncements paint a picture of steady disclosure as events warranted — a picture
+that stands in direct contrast to the story served up in the Complaint. So, for example:
+
+
+The Form 483 reflecting observations made by the FDA in mid-October 2008 was
+disclosed to investors on March 2, 2009, when Genzyme announced that it had received a
+Warning Letter from the FDA addressing some of those observations.
+
+
+
+On November 17, 2008, the Company disclosed that it received, just days before, a notice
+from the FDA stating that the PDUFA date for its Lumizyme BLA would be delayed
+until the end of February 2009.
+
+
+
+On January 13, 2009, the Company disclosed that due to shortages in the supply of
+Myozyme, it had been working with stakeholder groups (physicians and patients) on a
+plan to manage supplies of the treatment.
+
+
+
+On January 16, 2009, the EMEA issued a press release noting that Genzyme had
+experienced manufacturing problems that had contributed to Myozyme supply shortages,
+and that Genzyme was investigating the cause of those events.
+
+
+
+On June 16, 2009, the Company disclosed that a manufacturing run in one of the 2000L
+bioreactors in use at its Allston plant had been found, just days before, to have been
+contaminated by a virus.
+The fact that much of the information that Genzyme supposedly “concealed” was in fact
+
+made public throughout the course of the putative class period eviscerates any inference that the
+
+16
+
+Case 1:09-cv-11267-GAO Document 63
+
+Filed 06/02/10 Page 25 of 60
+
+defendants deliberately sought to keep that information from the public for more than two-years.7
+Instead, it raises a contrary, non-fraudulent inference which, in the language of Tellabs, is plainly
+more “compelling” than any inference the plaintiffs could hope to raise. Courts frequently find
+that patterns of repeated disclosure during a putative class period undermine the inference of
+fraudulent intent urged by securities class action plaintiffs. See Horizon Asset Mgmt., Inc. v.
+H&R Block, Inc., 580 F.3d 755, 763-64 (8th Cir. 2009) (citing company’s disclosures and
+finding that “[t]hese statements do not support an inference that [defendant’s officers] intended
+to deceive the public or acted with severe recklessness. Rather, they portray managers who
+disclosed known accounting problems and warned that work on their internal controls was
+continuing.”); Iron Workers Local No. 25 Pension Fund v. Oshkosh Corp., 08-CV-797, 2010
+WL 1287058, at *21 (E.D. Wis. Mar. 30, 2010) (“[A]ny inference of an intent to deceive is
+further undermined by the disclosures the company actually made.”).8
+In addition to the stream of public disclosures during the putative class period, Genzyme
+also engaged in consistent communications with its primary regulators at the FDA and EMEA.
+The plaintiffs themselves allege that their claims are based in part on Genzyme’s correspondence
+with the FDA, which the plaintiffs purportedly obtained via requests made pursuant to the
+Freedom of Information Act (“FOIA”). See Compl. ¶¶ 2, 60, 64. Genzyme routinely
+communicated with regulators regarding the manufacturing problems it had experienced at Geel
+and Allston, McL. Decl. Ex. K (EMEA Press Release, Jan. 16, 2009); the shortage of Myozyme
+and Genzyme’s plans for “safeguarding Myozyme supply for infants and children,” McL. Decl.
+7
+
+In order to minimize the obvious importance of these disclosures, the plaintiffs grudgingly acknowledge, as they
+must, that the defendants “made partial disclosures of the existence of some of these serious problems during the
+latter part of the Class Period . . . .” Compl. ¶ 89.
+8
+
+See also In re The First Marblehead Corp. Sec. Litig., 639 F. Supp. 2d 145, 163 (D. Mass. 2009) (holding that
+defendant’s series of disclosures, in part, negated strong inference of scienter); Gaines v. Guidant Corp., No. 03CV-892, 2004 WL 2538374, at *13-14 (S.D. Ind. Nov. 8, 2004) (same); In re Brightpoint, Inc. Sec. Litig., No. IP99-0870, 2001 WL 395752, at *17 (S.D. Ind. Mar. 29, 2001) (same).
+
+17
+
+Case 1:09-cv-11267-GAO Document 63
+
+Filed 06/02/10 Page 26 of 60
+
+Ex. J (Press Release, Jan. 13, 2009); and Genzyme’s progress on addressing the FDA’s Form
+483 observations. McL. Decl. Ex. S (Press Release, Mar. 2, 2009, noting that Genzyme
+submitted responses on Oct. 31, 2008 and Feb. 23, 2009). The Company’s regulatory
+disclosures also confirm that Genzyme — far from covering up information relating to the
+various issues raised in the Complaint — was pushing information out. This, too, undermines
+any inference that the defendants sought to “hide” information with fraudulent intent. After all,
+once in the hands of regulators, the information was available as appropriate under FOIA to
+requesting members of the public; it was not confidential information held by Genzyme alone.9
+It is hard to believe that Genzyme would at once disclose information to regulators, and
+yet nonetheless set out on a deliberate plan to conceal the same information from the public.
+And, in fact, Genzyme’s disclosures to regulators did lead to public disclosure of relevant
+information by those regulators. For example, the Complaint insists that the public was unaware
+of problems with two separate bioreactor runs at the Geel and Allston facilities in 2008. But the
+EMEA did disclose information in a press release based on information provided by Genzyme
+concerning bioreactor run failures in Allston and Geel. See McL. Decl. Ex. K (citing
+manufacturing problems at Genzyme facilities as contributing causes to potential Myozyme
+supply shortages and noting Genzyme’s investigation).
+Just as Genzyme’s pattern of public disclosures negates any inference of scienter, the
+regulatory disclosures throughout the putative class period also undermine an inference of
+9
+
+FDA regulations provide for the public disclosure of Form 483s via FOIA request. See 21 C.F.R. §20.101(a)
+(2009) (“All Food and Drug Administration records relating to administrative enforcement action disclosed to any
+member of the public, including the person who is the subject of such action, are available for public disclosure at
+the time such disclosure is first made. Such records include correspondence with companies following factory
+inspection, recall or detention requests, notice of refusal of admission of an imported product, regulatory letters,
+information letters, Forms FD-483 and FD-2275 furnished to companies after factory inspection, and similar
+records.”) (emphasis added); see also 21 C.F.R. §20.103(a) (2009) (“All correspondence to and from members of
+the public . . . is available for public disclosure.”); 21 C.F.R. § 20.103(b) (2009) (“Any such correspondence is
+available for public disclosure at the time that it is sent or received by the Food and Drug Administration . . . .”).
+
+18
+
+Case 1:09-cv-11267-GAO Document 63
+
+Filed 06/02/10 Page 27 of 60
+
+scienter-based fraud. The Complaint purports to describe a two-year cover-up of facts by
+Genzyme, but nowhere explains why — if the Company intended to keep these matters secret —
+it made the disclosures it did make, when it did. It is not enough for the plaintiffs to allege that
+the defendants “must” have known and “must” have intended to conceal. Instead, they must
+raise a “cogent and compelling” or “strong” inference that the defendants acted with the requisite
+scienter to engage in a two-year fraud. Under Tellabs, the allegations fail entirely to raise a
+strong or compelling inference that Genzyme acted with scienter to conceal the information
+described in the Complaint; moreover, the steady pace of affirmative disclosure by Genzyme —
+both to the public and to regulators — raises a competing counter-inference that Genzyme sought
+to comply with its obligations at all times. This, alone, justifies dismissal of the Complaint.
+II.
+
+THE COMPLAINT SHOULD BE DISMISSED BECAUSE THE INFORMATION
+ALLEGED TO HAVE BEEN “CONCEALED” BY GENZYME IS IMMATERIAL
+AS A MATTER OF LAW AND GENZYME HAD NO DUTY TO DISCLOSE IT
+A second ground for dismissal stems from the lack of a duty to make the disclosures the
+
+plaintiffs insist Genzyme should have made. While the Complaint pegs various categories of
+“omitted” information to particular statements during the class period — arguing that all of the
+statements were rendered false or misleading because of the omissions — at bottom the
+plaintiffs’ basic claim is that the defendants failed to make disclosures concerning alleged
+conditions relating to Genzyme’s manufacturing operations. Most centrally, the plaintiffs
+complain that the Company did not disclose its receipt of the October 2008 Form 483 (or the
+contents of that Form 483) until March 2009; the Company did not disclose its alleged failure to
+comply with cGMPs; and the Company did not disclose that two bioreactor runs failed in 2008.
+The reason the plaintiffs seek to pin these alleged “omissions” to affirmative statements is
+obvious: under the case law, these alleged “facts” are not material and there is no duty to disclose
+them otherwise.
+
+19
+
+Case 1:09-cv-11267-GAO Document 63
+
+A.
+
+Filed 06/02/10 Page 28 of 60
+
+Genzyme Did Not Have A Duty to Disclose Its Receipt of Form 483
+“Inspectional Observations” from the FDA
+
+Genzyme received from the FDA a Form 483 in October 2008 containing a number of
+observations made by FDA inspectors regarding the Allston Facility. The Company did not
+disclose either the receipt of the form or the specific observations it contained until March 2,
+2009, when the Company disclosed that it had received a Warning Letter from the FDA as a
+follow-up to some of the prior observations. The fact that Genzyme did not disclose the Form
+483 observations between October 2008 and March 2009 is perhaps the most frequently repeated
+allegation in the Complaint.10 But courts have squarely rejected the claim that companies are
+required to disclose their receipt of Form 483 observations from the FDA.
+Form 483s prominently feature prefatory language stating that they contain only
+“inspectional observations” that “do not represent a final FDA determination regarding [the
+company’s] compliance.” Courts have cited this language, along with similar language in the
+agency’s published guidelines in holding non-actionable the non-disclosure of Form 483s. See
+Pub. Pension Fund Group v. KV Pharm., No. 4:08-CV-1859, 2010 WL 681443, at *10 (E.D.
+Mo. Feb. 22, 2010) (noting that “the FDA explicitly states on its website that a Form 483 does
+not represent the FDA’s final determination of a company’s compliance”).11 Just like the
+plaintiffs here, the KV Pharm. plaintiffs contended that the defendant company had a duty to
+disclose numerous Form 483s because the forms purportedly confirmed the company’s noncompliance with cGMPs. Compare id. at *10, with Compl. ¶ 259(A)-(B). The district court
+disagreed and dismissed the claims, holding that “the Form 483s issued to KV only contained
+
+10
+
+See Compl. ¶¶ 11, 12, 100, 103, 105-107, 109, 114, 116, 120, 250, 252, 255, 258, 259, 269.
+
+11
+
+Notably, the plaintiffs in the KV Pharm. case pointed to a series of specific, affirmative statements by the
+defendant company that “[w]e are currently in material compliance with cGMP.” Id. at *1-4, 10. No such
+affirmative statement is at issue here.
+
+20
+
+Case 1:09-cv-11267-GAO Document 63
+
+Filed 06/02/10 Page 29 of 60
+
+observations — not ‘a list of cGMP violations’ as alleged by lead plaintiffs.” KV Pharm., 2010
+WL 681443 at *10.
+The Second Circuit also affirmed the dismissal of a Section 10(b) claim premised on the
+defendant’s failure to disclose the receipt of FDA inspection observations. See Acito v. IMCERA
+Group, Inc., 47 F.3d 47 (2d. Cir. 1995). Although the Acito plaintiffs alleged that the results of
+the FDA’s inspections of the defendant’s facilities “constituted material information and should
+have been disclosed to the investing public,” both the trial and appellate courts disagreed, citing
+the interim nature of the FDA’s observations and noting that “[i]t would be unduly burdensome
+and impractical to publicly disseminate the results of every inspection of every plant.” Id. at 5253.
+The Acito court also rejected very nearly the same allegation as one the plaintiffs offer
+here: that the receipt of the Form 483 made it inevitable that the FDA would not approve the
+Company’s pending application relating to a new product. Instead, the Second Circuit held that
+an interim FDA inspection report does not support an inference that “it was a foregone
+conclusion” at the time of the report that approval of the subject drug would be denied. Id. at 53.
+The same reasoning is fatal to the plaintiffs’ parallel claim that Genzyme somehow knew that its
+Lumizyme BLA would not be approved once it had received Form 483 observations.
+Several courts, including courts in this District, have gone a step further, holding that a
+company’s failure to disclose an FDA warning letter — a letter that conveys “the Agency’s
+position on a matter” and typically follows the receipt of a Form 483 when issues are not
+resolved to the FDA’s satisfaction — also is not actionable under Section 10(b), because even a
+warning letter is merely “informal and advisory.” See Boston Scientific, 490 F. Supp. 2d at 16061 & n.113, rev’d on other grounds, Miss. Pub. Employees Retirement Sys. v. Boston Scientific
+
+21
+
+Case 1:09-cv-11267-GAO Document 63
+
+Filed 06/02/10 Page 30 of 60
+
+Corp., 523 F.3d 75, 86 (1st Cir. 2008).12 In Boston Scientific, the plaintiff cited FDA “warning
+letters [that] outlined significant deficiencies or regulatory problems that inspectors discovered at
+BSC plants,” and alleged that Boston Scientific’s failure to disclose the letters was materially
+misleading to investors. Id. at 161. The district court disagreed, granting the motion to dismiss
+in light of the “court’s view that the FDA letters were not material and that [the company] had no
+affirmative duty to disclose them.” Id. at 161 & n.113; Anderson v. Abbott Labs., 140 F. Supp.
+2d 894, 902 (N.D. Ill. 2001) (granting motion to dismiss and observing that “[t]here is nothing
+magical about the warning letter. Although the language sounds ominous, it really is rather
+boilerplate.”), aff’d sub nom. Gallagher v. Abbott Labs., 269 F.3d 806 (7th Cir. 2001). Here, the
+plaintiffs’ allegations concern the non-disclosure (for a period of months) of an “observational”
+Form 483; it is clear that such information is not material as a matter of law, and that Genzyme
+had no duty to disclose it.
+Addressing nearly identical claims relating to Form 483 disclosure, the KV Pharm. court
+identified a second reason why non-disclosure of a Form 483 is not actionable — because any
+Form 483 is contained in FDA files and is publicly available via FOIA request. In dismissing an
+allegation that the defendant corporation misled investors by failing to disclose the receipt of
+eight Form 483s, the KV Pharm. court cited (among the reasons) the fact that the Form 483s
+were publicly available and noted that “‘the securities laws require disclosure of information that
+is not otherwise in the public domain.’” Id. at *14 (quoting Sailors v. N. States Power Co., 4
+F.3d 610, 613 (8th Cir. 1993)) (emphasis in original). Thus, for the additional reason that the
+Form 483s were “readily accessible to the public by submitting a request to the FDA” pursuant
+
+12
+
+The Boston Scientific court cited the FDA’s Regulatory Procedures Manual on Warning Letters: “A Warning
+Letter is informal and advisory. It communicates the Agency’s position on a matter, but it does not commit FDA to
+taking enforcement action.” http://www.fda.gov/downloads/ICECI/ComplianceManuals/RegulatoryProcedures
+Manual/UCM074330.pdf. See 490 F. Supp. 2d at 161 n.113.
+
+22
+
+Case 1:09-cv-11267-GAO Document 63
+
+Filed 06/02/10 Page 31 of 60
+
+to FOIA, the court held that “[defendants] were under no duty to disclose these documents.” KV
+Pharm., 2010 WL 681443 at *14. The same logic applies here.
+B.
+
+Genzyme Did Not Have A Duty to Disclose Purported “Non-Compliance”
+With cGMPs
+
+Plaintiffs insist that Genzyme was required — even prior to its receipt of the FDA Form
+483 observations — to disclose that it “was not complying with cGMP at the Allston plant.” But
+the only particularized allegation supporting the alleged deficiencies set forth in the Complaint
+arises from the Form 483 observations made in October 2008. As noted above, courts have
+rejected claims that inspectional observations by the FDA by themselves establish violations of
+cGMP standards. See Section II. A., supra.
+C.
+
+Genzyme Did Not Have A Duty to Disclose Purported Manufacturing
+Difficulties
+
+A third central thrust of the plaintiffs’ claims is that Genzyme was required to disclose
+manufacturing difficulties or alleged “compliance failures” at the Allston Facility.13 These range
+from the failure of two bioreactor runs in 2008 to a litany of “deficiencies” (lifted from FDA
+observations made in the 2008 Form 483), such as “failure to properly maintain equipment,”
+“overloaded facility,” “unsterile airflow system,” and “lack of adequate training and record
+keeping.” See Compl. ¶ 6.14 But courts have refused to impose a duty on companies to disclose
+operational or manufacturing setbacks. See Minneapolis Firefighters’ Relief Ass’n v. MEMC
+Elec. Materials, Inc., No. 4:08-CV-1411, 2010 WL 889864, at *5-6 (E.D. Mo. Mar. 8, 2010) (no
+duty to disclose manufacturing disruptions at two facilities); In re Ford Motor Co. Sec. Litig.,
+13
+
+See, e.g., Compl. ¶¶ 250, 251, 259(A)-(B), 269, 287(A), 310(A).
+
+14
+
+Plaintiffs’ five “confidential witnesses” add little if anything to what the Complaint has already lifted from the
+Form 483. See Compl. ¶¶ 63 (2007 contamination at Allston); 66 (chromatography columns); 78, 102 (hiring
+practices); 82 (Framingham facility); 82 (Framingham testing of raw materials). None of the alleged deficiencies
+they report amounts to anything Genzyme was required to disclose. Furthermore, one confidential witnesses left
+Genzyme in 2004 (¶ 66) and another in 2007 (¶ 63), before the class period even began, and two others left
+Genzyme in 2008 and are not alleged to have worked at Allston (¶ 82).
+
+23
+
+Case 1:09-cv-11267-GAO Document 63
+
+Filed 06/02/10 Page 32 of 60
+
+184 F. Supp. 2d 626, 633 (E.D. Mich. 2001) (no duty to disclose tire problems with Ford
+Explorer, even though they later gave rise to a recall); In re N. Telecom Ltd. Sec. Litig., 116 F.
+Supp. 2d 446, 459 (S.D.N.Y. 2000) (no obligation to disclose software product or customer
+problems); In re Union Carbide Class Action Sec. Litig., 648 F. Supp. 1322, 1327 (S.D.N.Y.
+1984) (no duty to disclose risks and defects at chemical plant, despite the fact that they later
+resulted in industrial accident). Instead, courts have recognized that requiring the disclosure of
+each manufacturing difficulty or condition “would constitute an overly expansive reading of the
+federal securities laws, and might encourage corporations to disclose trivial information not
+necessary for informed decision making.” Union Carbide, 648 F. Supp. at 1328.
+Plaintiffs’ contention that the difficulties confronted by the Company were the result of
+undisclosed “woefully inadequate compliance practices” or a list of “extraordinary, serious and
+undisclosed problems that plagued Genzyme and its flagship Allston Facility” smack of an effort
+to manufacture claims after-the-fact from allegations of poor management — allegations courts
+have long held are not actionable under the federal securities laws. See, e.g., Santa Fe Indus.,
+430 U.S. at 479 (“We thus adhere to the position that ‘Congress by § 10(b) did not seek to
+regulate transactions which constitute no more than internal corporate mismanagement.’”)
+(quoting Superintendent of Ins. v. Bankers Life & Cas. Co., 404 U.S. 6, 12 (1971)).15 The result
+should be no different here.
+
+15
+
+Courts have relied on Santa Fe in dismissing federal securities laws claims which “sound[] more in [allegations
+of] possible corporate mismanagement, viewed retrospectively, than in fraud.” Union Carbide, 648 F. Supp. at
+1328; see also First Marblehead, 639 F. Supp. 2d at 160-61 (relying on Santa Fe in dismissing allegations of
+inadequate internal controls and mismanagement); Akerman v. Bankworcester Corp., 751 F. Supp. 11, 12-13 (D.
+Mass. 1990) (relying on Santa Fe to dismiss claims regarding bank’s practices which were directed “more to
+mismanagement than to misrepresentation”); In re Citigroup, Inc. Sec. Litig., 330 F. Supp. 2d 367, 375 (S.D.N.Y.
+2004) (citing Santa Fe in finding that claims amounting to “nothing more than a charge that Citigroup’s business
+was mismanaged. Such allegations of mismanagement, even where a plaintiff claims that it would not have invested
+in an entity had it known of the management issues, are insufficient to support a securities fraud claim under section
+10(b).”).
+
+24
+
+Case 1:09-cv-11267-GAO Document 63
+
+III.
+
+Filed 06/02/10 Page 33 of 60
+
+THE COMPLAINT SHOULD BE DISMISSED BECAUSE THE STATEMENTS
+CITED IN THE COMPLAINT ARE NOT ACTIONABLE
+As demonstrated above, the alleged information the plaintiffs insist Genzyme
+
+“concealed” during the class period is not information Genzyme had a duty to disclose. This fact
+alone justifies dismissal of the Complaint. To avoid this result, the plaintiffs hope to establish
+that Genzyme had a duty to disclose allegedly “concealed” information because of affirmative
+statements the Company did make during the class period, statements the plaintiffs allege were
+rendered “false and misleading” because of the “concealed” information.
+A.
+
+The Complaint Fails to Allege Any Actionable Misstatement or Omission
+Regarding Genzyme’s Anticipation of FDA Approval of the Lumizyme BLA
+
+About half of the statements alleged to be “false or misleading” consist of substantially
+similar public statements by Genzyme or its officers regarding the Company’s expectations of
+approval of the Lumizyme BLA, and the timing for that approval.16 The plaintiffs assert that the
+identified statements were false or misleading because of a variety of alleged “facts” —
+including that the Allston Facility was not in compliance with cGMPs and that unspecified
+“stress” on that plant meant that Genzyme would ultimately not be able to satisfy FDA
+requirements for Lumizyme approval. See Compl. ¶¶ 220, 227, 242-43. These claims fail to
+state an actionable claim under Section 10(b) of the Exchange Act for several independent
+reasons, each of which justifies dismissal. First, the plaintiffs themselves acknowledge in the
+Complaint that “there is no assurance that the FDA will make a determination by any given
+target PDUFA date, and certainly no assurance that the FDA will actually approve (rather than
+reject) the new product application by that date.” Compl. ¶ 93. Second, the statements fail to
+
+16
+
+See Compl. ¶¶ 216, 217, 230, 235, 237, 239, 240, 246, 250, 255, 258, 264, 266, 269, 270, 275, 276, 277, 280, 290,
+294, 295, 297, 298, 302, 305, 306, 308, 312, 316, 318, 319.
+
+25
+
+Case 1:09-cv-11267-GAO Document 63
+
+Filed 06/02/10 Page 34 of 60
+
+satisfy the exacting standards for pleading scienter. Third, the statements are forward-looking
+and shielded by the PSLRA’s “safe harbor” and the common law “bespeaks caution” doctrine.
+1.
+
+Plaintiffs Cannot Have Reasonably Relied on Statements Concerning the
+Possible Timing of FDA’s Approval of Lumizyme
+
+Plaintiffs complain that Genzyme made repeated statements concerning the expected
+timing of FDA approval of the Lumizyme application. During the putative class period, when
+the Company described the anticipated timing of FDA action on Lumizyme, it relied upon the
+so-called PDUFA date — the target date of six months from the date of filing, by which the
+agency is expected to act on a drug application. The plaintiffs contend that Genzyme’s
+statements regarding the FDA’s timing on Lumizyme were false throughout the putative class
+period, because the FDA failed to approve the Lumizyme BLA on the Company’s expected
+schedule.
+But the plaintiffs cannot establish the necessary element of “reasonable reliance” in
+connection with this central aspect of their claim. The FDA’s setting of a PDUFA date is not a
+guarantee that the agency will act on or before that date; rather, it expresses a goal or target,
+nothing more, and can be extended.17 This is widely understood.18 Indeed the plaintiffs
+themselves expressly acknowledge that “there is no assurance that the FDA will make a
+determination by any given target PDUFA date, and certainly no assurance that the FDA will
+actually approve (rather than reject) the new product application by that date.” Compl. ¶ 93.
+17
+
+See FDA Amendments Act of 2007, Pub. L. 110-85, § 101(c), Sept. 27. 2007; Letter from Michael O. Leavitt,
+Secretary of Health and Human Services, to the Honorable John D. Dingell, Chairman, House Committee on Energy
+and Commerce, Section A: PDUFA IV Reauthorization Performance Goals and Procedures: Fiscal Years 2008
+through 2012 (Sept. 27, 2007), available at
+http://www.fda.gov/ForIndustry/UserFees/PrescriptionDrugUserFee/ucm119243.htm.; 21 C.F.R. § 314.100(a), (c)
+(2009); Henry Grabowski et al., Do Faster Food and Drug Administration Drug Reviews Adversely Affect Patient
+Safety? An Analysis of the 1992 Prescription Drug User Fee Act, 51 J.L. & Econ. 377, 380-81 (2008).
+
+18
+
+See generally James L. Zelenay, Jr., The Prescription Drug User Fee Act: Is a Faster Food and Drug
+Administration Always a Better Food and Drug Administration?, 60 Food & Drug L.J. 261 (2005) (discussing drug
+application review goals as FDA response to public and pharmaceutical industry pressure for more efficient drug
+approval processes).
+
+26
+
+Case 1:09-cv-11267-GAO Document 63
+
+Filed 06/02/10 Page 35 of 60
+
+In this way, the plaintiffs’ own allegations admit that investors knew there could be “no
+assurance” of FDA action, or the timeframe for it, and thus confirm that they could not have
+reasonably relied on any anticipatory statement by Genzyme on that subject. See Garvey v.
+Arkoosh, 354 F. Supp. 2d 73, 82 n.12 (D. Mass. 2005) (dismissing fraud-on-the-market claims
+where information available to the market prevented reasonable reliance on allegedly misleading
+statements); see also Rodriguez-Ortiz v. Margo Caribe, Inc., 490 F.3d 92, 96 (1st Cir. 2007)
+(citing reasonable reliance as an essential element of a Section 10(b) claim). Because the
+Complaint itself concedes that the PDUFA date supplied by the FDA cannot be relied upon as a
+guarantee of agency action by a certain date, there can be no reasonable reliance in connection
+with Genzyme’s statements relating to the timing of FDA approval of the Lumizyme BLA.
+2.
+
+Plaintiffs’ Allegations Fall Short of the Requirements For Pleading
+Scienter
+
+As argued above, see supra Section I, the Complaint fails to supply a strong inference of
+scienter, because the pattern of public and regulatory disclosures by Genzyme during the period
+fatally undermines any inference of fraudulent intent, let alone one that is sufficiently “cogent
+and compelling” to meet the Tellabs test. This is especially true of the many class period
+statements attributed to the defendants concerning anticipated Lumizyme approval and its timing
+— statements which comprise the great bulk of the purported “misstatements.” In this Section,
+we address the Complaint’s failure to allege scienter specifically with regard to these statements.
+“The PSLRA requires that the plaintiffs’ complaint, ‘with respect to each act or omission
+. . . , state with particularity facts giving rise to a strong inference that the defendant acted with
+the required state of mind.’” N.J. Carpenters Pension & Annuity Funds v. Biogen IDEC, Inc.,
+537 F.3d 35, 44 (1st Cir. 2008) (quoting 15 U.S.C. § 78u-4(b)(2)) (affirming dismissal of
+securities fraud claim where plaintiffs failed adequately to allege scienter). The required state of
+
+27
+
+Case 1:09-cv-11267-GAO Document 63
+
+Filed 06/02/10 Page 36 of 60
+
+mind for a securities fraud claim is “‘a mental state embracing intent to deceive, manipulate, or
+defraud.’” Id. (quoting Ernst & Ernst v. Hochfelder, 425 U.S. 185, 193 n.12 (1976)). As noted,
+the Supreme Court has held that the PSLRA’s “strong inference” of scienter requires something
+“more than merely plausible or reasonable — it must be cogent and at least as compelling as any
+opposing inference of non-fraudulent intent.” Tellabs, 551 U.S. at 314.
+Pre-Form 483 Statements. The Complaint cites a number of statements concerning FDA
+approval of Lumizyme made during the period from October 24, 2007 — the start of the putative
+class period — to October 10, 2008, the date Genzyme received the Form 483. The Complaint
+asserts that statements of anticipation as to Lumizyme approval during this period were false
+because the defendants purportedly “knew” that approval would not be granted due to the
+Allston Facility “not complying with cGMP,” “woefully deficient compliance practices,” and
+other “stress” placed on the plant. See Compl. ¶ 220. But nowhere does the Complaint allege
+with particularity how the defendants purportedly knew this information during the relevant
+period; there is only the bald assertion that they did. As a result, there simply is no basis upon
+which to draw an inference of scienter in connection with these statements, let alone the “strong
+inference” required by the PSLRA and Tellabs. See Rodriguez-Ortiz, 490 F.3d at 96 (“[A]s to
+scienter, not any inference will do: the ultimate inference of scienter must be a strong one.”).19
+Lacking specific facts, the plaintiffs instead resort to conclusory allegations of conditions
+that purportedly render the statements false: supposed “woefully deficient compliance
+practices,” “rampant [cGMP] violations,” and “serious deficiencies at the Allston plant.” Compl.
+¶¶ 57, 220, 251. But these generalized accusations — devoid of any particularized factual
+support — simply do not suffice to support a “strong inference” that the defendants knew at any
+19
+
+Moreover, because statements relating to expected Lumizyme approval are forward-looking, as explained in more
+detail below, the PSLRA requires the plaintiffs to plead facts giving rise to a strong inference of actual knowledge,
+not merely constructive knowledge. See Praecis, 2007 WL 951695 at *5. This the Complaint fails entirely to do.
+
+28
+
+Case 1:09-cv-11267-GAO Document 63
+
+Filed 06/02/10 Page 37 of 60
+
+relevant time that the Allston Facility was “violating” cGMPs or that there would be a delay to
+the Lumizyme BLA approval process.20 See KV Pharm., 2010 WL 681443 at *10 (granting
+motion to dismiss Section 10(b) claim where plaintiffs pled no specific facts to show the
+defendant’s cGMP non-compliance).
+Statements between Receipt of Form 483 and Complete Response Letter. Plaintiffs also
+allege that after the Company received the FDA’s Form 483 observations in October 2008, its
+statements on Lumizyme timing and approval continued to be misleading, because the Form 483
+allegedly informed Genzyme that Lumizyme approval would be delayed beyond the November
+2008 PDUFA date and/or that the BLA would not be approved at all. See, e.g., Compl. ¶¶ 250,
+252, 255, 259, 264. Again, plaintiffs allege nothing more by way of particularized fact. The
+Complaint merely leaps to the conclusion that as a result of the October Form 483, Genzyme
+“knew” that the Lumizyme BLA PDUFA date would be extended from November 2008 to
+February 2009 — a “fact” the plaintiffs insist was required to be disclosed. Compl. ¶¶ 335, 336.
+This conclusion-alleged-as-fact is absurd. The Form 483 contains no information
+whatever regarding a change in the PDUFA date. See McL. Decl. Ex. A. As the plaintiffs
+acknowledge, Genzyme did announce on November 17, 2008 — just days after receiving
+notification from the FDA — that the PDUFA date had been extended. Compl. ¶ 261. And the
+plaintiffs fail to state any basis upon which Genzyme “knew”, prior to receiving the FDA’s
+notification, that the PDUFA date would be extended. The PSLRA requires more than
+conclusory assertions that a defendant “knew” a fact at an earlier time; it requires particularized
+allegations showing who knew information and when to support the claim that information was
+actually withheld with scienter. N.J. Carpenters, 537 F.3d at 44 (“‘Securities actions raise
+20
+
+Plaintiffs also make no attempt at all to allege any facts giving rise to a strong inference of scienter that the
+defendants had actual knowledge at this time that unspecified “stress” on the Allston Facility would later have an
+impact on the Lumizyme BLA.
+
+29
+
+Case 1:09-cv-11267-GAO Document 63
+
+Filed 06/02/10 Page 38 of 60
+
+questions of what corporate managers knew and when they knew it.’” (quoting Boston Scientific,
+523 F.3d at 86) (emphasis in original). The Complaint here fails entirely on that basis.
+Indeed, the plaintiffs simply assume that Genzyme was in a position to know that the
+cGMP observations and other issues cited in the Form 483 could have any impact on the timing
+of Lumizyme approval. In fact, the Form 483 observations were not directed at issues related to
+bioreactors, bioreactor size, or even the contamination risks that eventuated. They instead dealt
+primarily with “fill and finish” issues that were “downstream” from the bioreactor processes.
+The plaintiffs misleadingly take observations related to one small aspect of the overall
+manufacturing process, and escalate them into conclusions about other unrelated aspects of the
+manufacturing process. That is not logical pleading; it is deceptive pleading instead.
+In fact, the defendants had every reason to expect that FDA approval of the Lumizyme
+BLA would be forthcoming. In late October, Genzyme secured a key vote in support of the
+clinical effectiveness of Lumizyme from the FDA Advisory Committee. See McL. Decl. Ex. C.
+Further, FDA guidance states that FDA staff is responsible for communicating to applicants “any
+significant changes in the review timeline” which might be occasioned by “problems identified
+during facilities inspections.”21 The Complaint fails to allege that the FDA communicated with
+Genzyme about any purported impact that issuance of the Form 483 would have on the timing of
+the Lumizyme application review. With no guidance from the FDA that the PDUFA date would
+be impacted by the inspection process or the Form 483 observations, Genzyme reasonably
+believed that the PDUFA date was not impacted by those factors. See Fort Worth Employers’
+Retirement Fund v. Biovail Corp., 615 F. Supp. 2d 218, 228 (S.D.N.Y. 2009) (“There is not a
+single allegation in the Amended Complaint that the FDA ever explicitly warned defendants that
+21
+
+FDA Guidance for Review Staff and Industry: Good Review Management Principles and Practices for PDUFA
+Products (April 2005), at
+http://www.fda.gov/dowloads/Drugs/GuidanceComplianceRegulatoryInformation/Guidance/UCM079748.pdf.
+
+30
+
+Case 1:09-cv-11267-GAO Document 63
+
+Filed 06/02/10 Page 39 of 60
+
+they were proceeding with an insufficiently supported application.”); see also Johnson v. Pozen
+Inc., No. 07-CV-599, 2009 WL 426235, at *22-23 (M.D.N.C. Feb. 19, 2009) (relying on FDA
+guidance to find it more plausible that defendants believed that its drug application would be
+approved despite negative tests results).
+Moreover, as the plaintiffs themselves explicitly acknowledge, the FDA’s European
+regulatory counterpart — the EMEA — had already approved Myozyme at the 2000L scale, and
+had inspected the Allston Facility in 2008 (and certified the plant for cGMP compliance in July
+2008). See Compl. ¶ 48 (“Genzyme was able to obtain quick approval from European authorities
+to sell Lumizyme [manufactured at the Allston Facility] in Europe.”). This fact alone
+demonstrates that it was reasonable for the defendants to believe in the prospects for Lumizyme
+approval.22 See In re AstraZeneca Sec. Litig., 559 F. Supp. 2d 453, 471 (S.D.N.Y. 2008)
+(scienter pleading insufficient as to ultimate FDA rejection of drug application because “it [was]
+not unreasonable for defendants to believe in their product” in light of its approval in Europe).
+Having plainly failed to plead any specific factual basis upon which the defendants can
+be shown to have acted with scienter, the plaintiffs here opt for a puzzle-pleading structure that
+diverts attention from the lack of specific allegations of knowledge. This pattern — alleged
+misstatements matched only with conclusory omitted “facts” unsupported by specific allegations
+of particularized information known to the defendants at the time the statements were made —
+recurs throughout the Complaint. So, for example, the plaintiffs contend that the defendants
+knew after receiving the October 2008 Form 483 that Lumizyme approval would be delayed or
+would not occur because of a myriad of supposed “barriers” to approval, including cGMP noncompliance and the risk that such “violations” would lead to contamination at Genzyme’s
+22
+
+In fact, as Genzyme publicly disclosed, it had received approval for Myozyme manufactured at the 2000L scale in
+approximately 40 countries. McL. Decl. Ex. T at 3 (Tr. of Conf. Call, Apr. 21, 2008).
+
+31
+
+Case 1:09-cv-11267-GAO Document 63
+
+Filed 06/02/10 Page 40 of 60
+
+facilities. See Compl. ¶ 259. But this is all supposition. As shown above, the receipt of a Form
+483 simply does not establish cGMP non-compliance. See Section II. A., supra.
+Moreover, the Complaint nowhere alleges — with particularity or otherwise — a causal
+link between cGMP issues and the viral contamination Genzyme experienced at its facilities.
+The Complaint merely contends in the broadest terms that the issues cited in the October 2008
+Form 483 have some bearing on the viral contamination that occurred at the Geel and Allston
+Facilities in late 2008.23 But a review of the Form 483 shows that its content relates largely to
+“fill and finish” manufacturing processes “downstream” of the bioreactors where the
+contamination occurred; nothing in the Form 483 has anything to do with deficiencies at Allston
+in detecting or preventing viral contaminations. See McL. Decl. Ex. A. The plaintiffs have not
+— and cannot — allege any relationship between the observations raised in the Form 483
+(which, as noted above, did not establish cGMP “violations” in any event) and the contamination
+events suffered at the Geel and Allston Facilities. See also Sections II. A., C., infra. As there is
+simply no relationship between the contaminations, which occurred in bioreactors, and the Form
+483 observations, relating to different aspects of the manufacturing process, the plaintiffs have
+not pled sufficient facts to support their fanciful theory that Genzyme somehow “knew” that the
+Form 483 observations raised a risk that the Company would also experience bioreactor failures.
+Post-Complete Response Letter Statements. Addressing the period after February 28,
+2009, when Genzyme received the Complete Response Letter and Warning Letter from FDA, the
+plaintiffs’ allegations continue in the same form. The Complaint contends, for example, that
+statements regarding Lumizyme approval during this period were materially misleading because
+the defendants purportedly knew, or were reckless in not knowing, that the concerns raised by
+23
+
+See Compl. ¶ 259 (“Defendants failed to disclose . . . the materially heightened risk that those [cGMP] violations
+would lead to contamination or adulterated products at Allston, as had recently occurred (but not been disclosed) at
+Geel.”).
+
+32
+
+Case 1:09-cv-11267-GAO Document 63
+
+Filed 06/02/10 Page 41 of 60
+
+the FDA in the Warning Letter “were ongoing and would not be resolved” by Genzyme’s
+proposed corrective measures nor within the “short time frame” Genzyme described. Compl. ¶
+287. As the Complaint concedes, Genzyme promptly disclosed the receipt of both letters.
+Compl. ¶ 114. The plaintiffs nonetheless advance the loosely drawn allegation that, following
+the Warning Letter, Genzyme somehow came to know that the problems cited by the FDA would
+take a longer time to address and that Genzyme’s proposed corrective measures would ultimately
+not work (or would not work within the anticipated time frame).
+Again, all of this is supposition. The Complaint simply does not identify facts with any
+particularity to support an inference — let alone the required strong inference — that the
+defendants’ statements concerning Lumizyme approval were made with knowledge that the BLA
+would not be approved. For example, when the plaintiffs assert that Genzyme knew (but failed
+to disclose) that the problems in Allston “would not be corrected,” see Compl. ¶ 287(A), on its
+face the allegation is premised on hindsight. See id. (“Moreover, as the FDA would later
+conclude, Genzyme had failed even to implement its own [corrective action] plans . . . .”)
+(emphasis added).24 Allegations based on hindsight are plainly insufficient to withstand a
+motion to dismiss. See First Marblehead, 639 F. Supp. 2d at 160 (“[The] allegations amount to
+fraud by hindsight, essentially inferring earlier knowledge based only on the situation that later
+came to pass, which the First Circuit has consistently rejected.”) (internal quotations omitted);
+see also In re Discovery Labs. Sec. Litig., No. 06-1820, 2007 WL 789432, at *5 (E.D. Pa. Mar.
+15, 2007) (“The fact that, more than two years later Discovery has not been able to remedy the
+problems [cited in the Form 483] . . . does not make the earlier statements false or misleading.”).
+24
+
+While not essential to resolution of this motion, the notion that Genzyme did not take any corrective action is
+patently false, a fact that the plaintiffs know from their review of FDA correspondence. See, e.g., McL. Decl. Ex. B
+(Letter to FDA, Oct. 31, 2008) (outlining Genzyme’s plan to respond to Form 483 observations); Ex. U (Letter to
+FDA, Feb. 23, 2009) (follow-up letter to FDA outlining progress); Ex. V at 21 (Form 10-K for 2008, Mar. 2, 2009)
+(outlining plan and timeline for corrective action and progress toward completion).
+
+33
+
+Case 1:09-cv-11267-GAO Document 63
+
+Filed 06/02/10 Page 42 of 60
+
+This Court considered conceptually similar scienter allegations in In re Praecis Pharms.
+Inc., Sec. Litig., 2007 WL 951695. In that action, the plaintiffs contended that the defendant’s
+optimistic statements regarding the market for its new product were materially misleading
+because the defendant purportedly knew that the sales goals it set were unlikely to be achieved
+and that the pricing structure for the product would ultimately prevent the company from
+attaining those sales goals. Id. at *11-12. In dismissing the Section 10(b) claim for failure to
+plead scienter, the Court stated:
+[I]t is not reasonable to think that the defendants intentionally
+launched the Company’s flagship product with what they
+recognized was a flawed pricing structure, as if they were more
+interested in fooling the stock market in the short term than
+succeeding in the product market in the long run.
+Id. at *12. The same reasoning applies with equal force here, where the plaintiffs urge the
+unreasonable inference that Genzyme somehow (nowhere explained) knew that the Lumizyme
+BLA was doomed and that the product would never make it to market, yet continued to advise
+investors that approval was expected imminently. As in Praecis, it would be unreasonable to
+think that Genzyme was more interested in “fooling the stock market in the short term” than in
+seeing Lumizyme approved and released to the market.25 This is especially so given that
+Genzyme did disclose information on the FDA’s timing and decisions throughout the period.
+Other cases echo this Court’s approach in Praecis, where plaintiffs contended that a
+company’s prospective statements of positive prospects for a new drug were false or misleading
+under Section 10(b). For example, in AstraZeneca, the plaintiffs alleged that statements
+regarding the company’s anticipation of FDA approval of Exanta, a drug in late-stage clinical
+
+25
+
+Indeed, while securities fraud plaintiffs often cite insider stock sales as a means of establishing an inference of
+scienter, the plaintiffs advance no such allegations here. The implausibility of the scienter inference the plaintiffs
+urge is nowhere more evident than in the pervasive lack of any explanation of why the defendants would have
+engaged in the supposed elaborate deception.
+
+34
+
+Case 1:09-cv-11267-GAO Document 63
+
+Filed 06/02/10 Page 43 of 60
+
+trials, were materially misleading because the company purportedly “knew” when it made the
+statements that approval was unlikely. 559 F. Supp. 2d at 456. The district court noted that:
+[I]f the management of the company releases positive reports about
+the drug to the public along the way which the management
+honestly believes to be true, and where there is no reckless
+disregard for truth, then that is not securities fraud, even though at
+a later point some event occurs which prevents the marketing of
+the drug or makes it necessary to take the drug off the market.
+Id. at 470-71 (dismissing for failure adequately to allege scienter where the complaint contained
+“nothing whatever to indicate that the statements made [about Exanta’s prospects for FDA
+approval] did not reflect the honest belief” of management). The same result should obtain here;
+where the Complaint contains “nothing whatever” to indicate that “there was a consensus of the
+management” that the issues identified by the FDA would take longer to resolve than Genzyme
+then anticipated or that the Lumizyme BLA was “unlikely to be approved.” Id.
+3.
+
+The PSLRA Safe Harbor and the Common Law Bespeaks Caution
+Doctrine Preclude Liability
+
+Finally, all of the alleged misstatements relating to Lumizyme approval are forwardlooking and fall within the PSLRA’s safe harbor (and also are subject to the protections afforded
+by the safe-harbor’s common law predecessor, the “bespeaks caution” doctrine). For this
+additional reason, they are not actionable under Section 10(b). See 15 U.S.C. § 78u-5 (2010).
+The PSLRA safe harbor extends immunity from securities fraud claims to certain types of
+statements that “speak predictively of the future.” In re Stone & Webster, Inc., Sec. Litig., 414
+F.3d 187, 195 (1st Cir. 2005); see also 15 U.S.C. § 78u-5(i)(1) (2010) (defining “forwardlooking statement”). Such statements are protected where: (1) the forward-looking statement is
+identified as such and is “accompanied by meaningful cautionary statements identifying
+important factors that could cause actual results to differ materially from those in the forwardlooking statement”; or (2) the statement is not material; or (3) the plaintiff fails to establish that
+
+35
+
+Case 1:09-cv-11267-GAO Document 63
+
+Filed 06/02/10 Page 44 of 60
+
+the defendant made the statement with actual knowledge of its false or misleading nature. 15
+U.S.C. § 78u-5(c)(1) (2010).26
+Among other categories, the PSLRA safe harbor applies to “a statement of the plans and
+objectives of management for future operations, including plans or objectives relating to the
+products or services of the issuer[.]” 15 U.S.C. § 78u-5(i)(1)(B) (2010). This is precisely the
+type of statement cited by the plaintiffs regarding Genzyme’s plans for approval of the
+Lumizyme BLA. See, e.g., Compl. ¶¶ 217 (citing Oct. 24, 2007 statement that “we expect the
+approval [of the Lumizyme BLA] to occur in the first quarter of next year”); 230 (citing Apr. 21,
+2008 conference call stating “we are now predicting the FDA action by the end of this year” and
+“now expect that commercialization of the 2000-liter material for late-onset patients in the
+United States will start in the first quarter of next year”); 258 (citing November 7, 2008
+statement that “We expect the FDA to act on the [Lumizyme] BLA by November 29, 2008”);
+264 (citing January 13, 2009 press release statement that the Company “expects to . . . [o]btain
+regulatory approvals for larger-scale production of Myozyme” in 2009); 290 (citing March 24,
+2009 statement that “[w]e anticipate U.S. approval of . . . Lumizyme, in mid-2000 [sic]”).27
+These statements plainly are forward-looking under the statute. See In re Medimmune, Inc. Sec.
+Litig., 873 F. Supp. 953, 964 (D. Md. 1995) (“Mere expressions of hope or expectation regarding
+
+26
+
+The common law “bespeaks caution” doctrine was the predecessor to the PSLRA safe harbor and also applies to
+preclude liability for securities fraud where a forward-looking statement is accompanied by meaningful cautionary
+language. See, e.g., Fitzer v. Sec. Dynamics Techs., 119 F. Supp. 2d. 12, 31 (D. Mass. 2000) (granting motion to
+dismiss 10(b) claim under common law “bespeaks caution” doctrine and citing Shaw v. Digital Equip. Corp., 82
+F.3d 1194, 1213 (1st Cir. 1996)). Herein, where the defendants reference the PSLRA safe harbor, such reference
+should be read to include the parallel common law doctrine as well.
+27
+
+For the Court’s benefit, all of the Lumizyme-related forward-looking statements are identified and collected in
+Attachment 2.
+
+36
+
+Case 1:09-cv-11267-GAO Document 63
+
+Filed 06/02/10 Page 45 of 60
+
+future approval, not worded as guarantees, are not actionable.”); In re PLC Sys. Inc. Sec. Litig.,
+41 F. Supp. 2d 106, 117-18 (D. Mass. 1999) (same).28
+In addition to their forward-looking nature, each of the statements was accompanied by
+meaningful cautionary language on the risk that the FDA might not approve Lumizyme, or might
+not do so on the time frame then anticipated by the Company.29 Accordingly, the PSLRA safe
+harbor shields all of the alleged misstatements regarding Lumizyme approval from Section 10(b)
+liability. See Baron v. Smith, 380 F.3d 49, 53-54 (1st Cir. 2004) (forward-looking statement
+accompanied by meaningful cautionary language held not actionable under Section 10(b)).
+Thus, as shown above, the alleged misstatements concerning anticipated Lumizyme
+approval are not actionable, because (i) the plaintiffs cannot establish that they reasonably relied
+on Genzyme’s statements concerning anticipated Lumizyme approval; (ii) the Complaint fails to
+allege fraudulent intent sufficient to supply any inference — much less a compelling inference —
+of scienter; and (iii) Genzyme’s statements concerning anticipated Lumizyme approval are not
+actionable under the PSLRA safe harbor for forward-looking statements, as well as the
+“bespeaks caution” doctrine. This Court should dismiss all claims based on such statements.
+
+28
+
+This is not a case where Genzyme guaranteed FDA approval of Lumizyme. As Attachment 2 shows, Genzyme
+merely expressed its hope and expectation for approval. Each of Genzyme’s statements was accompanied by
+cautionary language that specifically identified the uncertainties inherent in the Lumizyme approval process. These
+cautions, coupled with Genzyme’s expressions of anticipation, make clear that Genzyme did not portray Lumizyme
+approval as a “when not if” proposition. Compare In re Transkaryotic Therapies, Inc. Sec. Litig., 319 F. Supp. 2d
+152, 160-61 (D. Mass. 2004) (“[S]tatements, such as ‘We believe the approval of Replagal in the U.S. remains a
+when not if proposition’ . . . arguably do not fall within the safe harbor provisions.”), with In re Bristol-Myers
+Squibb Sec. Litig., 312 F. Supp. 2d 549, 558 (S.D.N.Y. 2004) (refusing to find statements that defendants were “very
+positive about the approval prospects for this drug” and did not “think it’s likely at all that this drug won’t get
+approved” constituted guarantees actionable under the securities laws). This is also not a case where Genzyme had
+information that seriously undermined the accuracy of its statements. See, e.g., McL. Decl. Ex. C (Press Release,
+Oct. 22, 2008) (describing FDA Advisory Committee’s 16-1 vote in support of Lumizyme’s efficacy as treatment
+for Pompe disease); cf. In re Amylin Pharms., Inc. Sec. Litig., No. 01-CV-1455, 2003 WL 21500525, at *8 (S.D.
+Cal. May 3, 2003).
+29
+
+For the Court’s benefit, citations to the relevant, extensive cautionary statements provided by Genzyme alongside
+the statements cited in the Complaint are collected in Attachment 2.
+
+37
+
+Case 1:09-cv-11267-GAO Document 63
+
+B.
+
+Filed 06/02/10 Page 46 of 60
+
+Statements Regarding FDA Re-Inspection Are Not Actionable
+
+The Complaint contends that the defendants misled investors by stating during a March 2,
+2009 conference call that the Company did not expect that the Lumizyme BLA process would
+require re-inspection of the Allston Facility, when the process ultimately did require a second
+inspection. See Compl. ¶¶ 281, 287(D); see also id. ¶¶ 307, 310(D). But in the same paragraph
+accusing the defendants of falsely representing that re-inspection would not be necessary, the
+Complaint directly quotes Mr. Bamforth explaining that while the Company did not anticipate
+re-inspection, “‘[c]learly, the FDA has the liberty if they choose to do a follow-up to require
+that.’” Compl. ¶ 281. Moreover, as the plaintiffs acknowledge, there can never be any
+“assurance” of how or when the FDA will act. Compl. ¶ 93. Because the defendants cautioned
+of the chance of re-inspection, the statements simply are not materially misleading — no investor
+could cite the statement as a guarantee of no re-inspection — and the statement provides no good
+faith basis for a securities fraud claim.30
+C.
+
+The Complaint Fails to Allege Any Actionable Misstatement or Omission
+Regarding the Contamination Events Experienced in 2008 at Genzyme’s
+Geel and Allston Facilities
+
+In September 2008, Genzyme was performing process validation runs at the Geel
+Facility, which was built to manufacture Myozyme at the 4000L scale. The facility was not yet
+approved for commercial production, and thus its product was not then commercially available to
+patients. Genzyme observed a rapid decline in cell productivity during one of several PV runs,
+and, consistent with its normal practice, commenced an investigation into the cause. In the
+meantime, the plant continued forward to complete the process of gaining regulatory approval
+(and secured the first such approval in February 2009). In November 2008, Genzyme observed
+30
+
+Moreover, the plaintiffs have not begun to plead how the defendants purportedly knew, as of March 2, 2009, that
+re-inspection would later be required by the FDA.
+
+38
+
+Case 1:09-cv-11267-GAO Document 63
+
+Filed 06/02/10 Page 47 of 60
+
+at its Allston Facility a decline in cell productivity during a bioreactor run that was involved in
+the manufacturing of Myozyme at the 2000L scale (or Lumizyme, as it is called in the U.S.).
+Genzyme also commenced an investigation into the cause of this second event.
+Plaintiffs assert that Genzyme should have disclosed these two events — which Genzyme
+later determined had been caused by viral contamination — at the time they occurred, and they
+premise the claim on the theory that these “events” purportedly constrained drug supply,
+negatively impacted the Lumizyme BLA, and “foreshadowed” future problems at the Allston
+Facility. Omitting them, according to the Complaint, rendered false or misleading nearly every
+disclosure Genzyme made between mid-September 2008 and June 16, 2009.31
+While Genzyme did not disclose the events themselves until it had more information
+concerning their cause — which Genzyme was entitled to do32 — the Company did disclose the
+impact those events had on drug supply. Even prior to Fall 2008, Genzyme had cautioned of
+tight Myozyme supply through the First Quarter of 2009. See Compl. ¶¶ 109, 131, 137, 264,
+270, 296. Shortly after the two events, in January 2009, Genzyme disclosed that it had been
+working with stakeholder groups in the Myozyme community (including physicians and patient
+organizations) on a Supply Management Plan to preserve supplies of the therapy and prioritize
+patients with particularly acute therapeutic needs. See McL. Decl. Ex. J at 4 (Jan. 13, 2009 press
+release stating that supplies of Myozyme would be “so tight that there is a risk of delays in order
+fulfillment and consequent potential interruptions in therapy”); Compl. ¶ 264.
+Meanwhile, European regulators disclosed information concerning the two events in Geel
+and Allston. In January 2009, the EMEA issued its own public statement concerning Genzyme’s
+31
+
+See Compl. ¶¶ 245, 250, 251, 256, 259(C)-(D), 266, 272(B), 276, 286, 291, 296, 298, 300, 310(A), (D)-(E).
+
+32
+
+See Higginbotham v. Baxter Int’l, Inc., 495 F.3d 753, 761 (7th Cir. 2007) (“Taking the time necessary to get
+things right is both proper and lawful. Managers cannot tell lies but are entitled to investigate for a reasonable time,
+until they have a full story to reveal.”).
+
+39
+
+Case 1:09-cv-11267-GAO Document 63
+
+Filed 06/02/10 Page 48 of 60
+
+Supply Management Program. In that public release, the EMEA addressed the implications of
+the tight supply of Myozyme; clearly stated that Genzyme had experienced problems at some of
+its manufacturing facilities; and also disclosed Genzyme’s ongoing investigation into the cause
+of those events. See McL. Decl. Ex. K.33 The Complaint entirely ignores the fact that the
+EMEA — like the FDA, a key regulator — released news of the production problems, as well as
+the investigation Genzyme was conducting, and thus ignores that the available information
+concerning the two events was made public shortly after they occurred. The Complaint also
+ignores Genzyme’s disclosures concerning the Myozyme supply constraints allegedly caused, in
+part, by the Allston event, instead blithely asserting that the information was “concealed.”
+The Company disclosed the results of its investigation of the 2008 Geel and Allston
+events — in particular, the fact that both had been the result of contamination by the same virus
+— on June 16, 2009 — only after its investigation had concluded. See McL. Decl. Ex. L (Press
+Release, June 16, 2009) (“Genzyme has now confirmed that this virus was the cause of declines
+in cell productivity at its Allston and Geel facilities in two previous instances in 2008 . . . .”
+(emphasis added)).34 The June 16 press release also announced the decline in cell productivity in
+a third bioreactor run — this one involving a bioreactor in Allston producing Cerezyme — and
+cited the Company’s conclusion that all three events had been caused by the same type of virus.
+See McL. Decl. Ex. L (stating that Genzyme had identified the presence of the virus in
+connection with the third bioreactor event “over the weekend”); Compl. ¶ 139.
+
+33
+
+In its Form 10-K for 2008, Genzyme also disclosed the write-off it took of material from the incomplete PV run at
+Geel. See Compl. ¶¶ 109, 266, 298; McL. Decl. Ex. V at F-23, F-29, F-118 (Form 10-K for 2008, Mar. 2, 2009).
+
+34
+
+On a June 24, 2009 conference call cited by plaintiffs for other purposes, one of the defendants clearly stated that
+“it was only as a result of a six month long investigation that we were able to create the specific PCR [test], which
+allows us to isolate and identify this virus.” McL. Decl. Ex. M at 4. This confirms that Genzyme’s investigation
+lasted into the Spring of 2009. The plaintiffs do not allege that this statement was false in any way.
+
+40
+
+Case 1:09-cv-11267-GAO Document 63
+
+Filed 06/02/10 Page 49 of 60
+
+Against this record — which establishes that Genzyme’s investigation concluded in
+Spring 2009 — no alleged fact supports an inference that Genzyme became aware at an earlier
+time that a virus had caused the two events. Yet the Complaint is premised on the bald
+allegation that Genzyme was required to disclose the viral contamination long before Genzyme
+could have done so. See, e.g., Compl. ¶ 245 (alleging failure to disclose “contamination” after it
+occurred). In order to adequately plead scienter, the plaintiffs were obligated to plead facts from
+which one could draw a strong inference that Genzyme knew material information and withheld
+that information with “either conscious intent to defraud or a high degree of recklessness.” ACA
+Fin. Guar. Corp. v. Advest, Inc., 512 F.3d 46, 58 (1st Cir. 2008) (internal quotations omitted).
+Instead, the plaintiffs simply insist that Genzyme was required to disclose the viral
+contamination earlier, without providing any basis for the claim that Genzyme could have done
+so. This is not enough to survive dismissal. See N.J. Carpenters, 537 F.3d at 45 (explaining that
+a statement or omission “cannot be intentionally misleading if the defendant did not have
+sufficient information at the relevant time to form an evaluation that there was a need to disclose
+certain information and to form an intent not to disclose it.”); Isham v. Perini Corp., 665 F.
+Supp. 2d 28, 35 (D. Mass. 2009) (dismissing Section 10(b) claim for inadequate scienter
+pleading where complaint failed to plead that any defendants “were even aware of” the supposed
+significance of the information allegedly withheld) (quotations omitted).
+In all other respects, too, the plaintiffs’ allegations concerning the Geel and Allston
+events fail to satisfy the PSRLA and Fed. R. Civ. P. 9(b). As noted above, the PSLRA requires
+that allegations made on information and belief, as these are, must “state with particularity all
+facts on which that belief is formed.” 15 U.S.C. § 78u-4(b)(1). The Complaint fails even to try
+to meet this standard. For example, the plaintiffs loosely suggest that the 2008 Geel event bore
+
+41
+
+Case 1:09-cv-11267-GAO Document 63
+
+Filed 06/02/10 Page 50 of 60
+
+some relationship to the 2008 Form 483, Warning Letter, and Complete Response Letter, but no
+particular fact is alleged as a basis for that (erroneous) contention. Even a cursory review of
+these pieces of FDA correspondence show that the agency’s inspection of Allston had nothing to
+do with the Geel event. See McL. Decl. Exs. A, E, F. Moreover, nowhere in any of the FDA’s
+correspondence — including the Complete Response Letter indicating that the Lumizyme BLA
+would not be approved at that time — is the Geel contamination (or any viral contamination)
+even referenced. See McL. Decl. Ex. F. In the same way, the Complaint asserts that the 2008
+Allston contamination established cGMP “violations” and showed that the facility was not in
+compliance with cGMPs. See Compl. ¶¶ 105, 242, 259(B). But the FDA’s Warning Letter and
+Complete Response Letter regarding cGMPs do not even mention the 2008 Geel or Allston
+events. See McL. Decl. Exs. E, F.
+Because the plaintiffs have failed to satisfy the requirements of 9(b) and the PSLRA with
+respect to pleading scienter, and because the plaintiffs have failed to establish that Genzyme was
+required to disclose the 2008 contaminations before it did or that Genzyme was even capable of
+doing so, the Court should dismiss all claims stemming from the Fall 2008 contamination events.
+D.
+
+The Complaint’s Allegations Relating to Defendants’ General Statements of
+Optimism Are Non-Actionable Puffery
+
+The Complaint identifies approximately ten generalized, optimistic statements made by
+Genzyme or its officers or directors about the Company’s prospects that the plaintiffs contend
+were false or misleading in light of challenges that the Company later encountered. See, e.g.,
+Compl. ¶¶ 223 (statement that the Company had an “outlook for strong growth,” and that the
+Company felt “bullish” regarding the future), 228 (statement that the Company’s strong growth
+“positioned the company well for 2008”), 237 (statement characterizing the second quarter of
+2008 as “strong and highly productive” and noting that the Company “set in place a number of
+
+42
+
+Case 1:09-cv-11267-GAO Document 63
+
+Filed 06/02/10 Page 51 of 60
+
+catalysts that will drive near-term growth”).35 But it is well-settled that such vague expressions
+of optimism and rosy affirmations are immaterial as a matter of law, not relied upon by investors,
+and, consequently, not actionable under the securities laws. Shaw, 82 F.3d at 1217. This rule
+applies to both statements about an issuer’s current state of affairs and statements about its future
+prospects. In re Boston Tech., Inc. Sec. Litig., 8 F. Supp. 2d 43, 54 (D. Mass. 1998). Such
+statements are not actionable because reasonable investors would neither rely on, nor deem
+material, vague expressions of optimism that amount to nothing more than puffery. See Shaw,
+82 F.3d at 1217 (“In particular, courts have demonstrated a willingness to find immaterial as a
+matter of law a certain kind of rosy affirmation commonly heard from corporate managers and
+numbingly familiar to the marketplace . . . .”); Praecis, 2007 WL 951695 at *8 (“Courts have
+routinely held such statements, generally optimistic but lacking in certainty or specifics, to be
+transparent ‘puffery,’ and therefore immaterial as a matter of law.”).36
+E.
+
+The Complaint Fails to Allege Any Actionable Misstatement or Omission
+Regarding Earnings Guidance or Revenue Expectations
+
+The Complaint cites nearly every statement Genzyme made relating to financial
+projections or performance during the Putative Class Period, and asserts — without ever
+providing specific support for the contention or alleging how the speaker purportedly knew the
+statement would prove false — that such statements were materially misleading because the
+35
+
+See also Compl. ¶¶ 217, 224, 252, 254, 263, 267, 292.
+
+36
+
+Here, the statements the plaintiffs cite — referencing “confidence” that the company is “well-positioned,” with a
+“strong outlook” and “growth potential” — are precisely the sort of loose expressions of optimism that courts have
+held to be non-actionable puffery. See Kenney v. State St. Corp., No. 09-CV-10750, 2010 WL 938333, at *9 (D.
+Mass. Mar. 15, 2010) (statement that business was “very strong” “is precisely the sort of corporate macro statement
+that courts have deemed nonactionable”); Orton v. Parametric Tech. Corp., 344 F. Supp. 2d 290, 301 (D. Mass.
+2004) (company was “positioned . . . for long-term growth”); In re Parametric Tech. Corp. Sec. Litig., 300 F. Supp.
+2d 206, 220 (D. Mass. 2001) (company was “well positioned for growth”); In re Chipcom Corp. Sec. Litig., No. 9511114, 1996 U.S. Dist. LEXIS 22257, at *40-43 (D. Mass. Apr. 29, 1996) (“strong”); In re PDI Sec. Litig., No. 02211, 2006 WL 3350461, at *22 (D.N.J. Nov. 16, 2006) (company felt “confident”); In re Syntex Corp. Sec. Litig.,
+855 F. Supp. 1086, 1095 (N.D. Cal. 1994) (“we’re doing well and I think we have a great future,” “business will be
+good this year . . . we expect the second half of fiscal 1992 to be stronger than the first half, and the latter part of the
+second half to be stronger than the first,” and “everything is clicking”).
+
+43
+
+Case 1:09-cv-11267-GAO Document 63
+
+Filed 06/02/10 Page 52 of 60
+
+Company had not disclosed, or factored into its financial guidance, the purportedly poor
+“condition” of the Allston facility, the cGMP “violations,” and the “fact” that the contaminations
+at the Geel and Allston Facilities constrained supplies of Myozyme, Cerezyme, and
+Fabrazyme.37 In addition, the Complaint’s mammoth section detailing the purportedly “false or
+misleading statements” is replete with statements regarding financial performance, but lacking in
+any specific allegation as to how the statement is alleged to be false. See, e.g., Compl. ¶¶ 233
+(citing Apr. 23, 2008 Press Release and Form 8-K reporting growth of total revenue over the first
+quarter of 2008, reasons for revenue growth, and an increase in demand and sales of Myozyme,
+Cerezyme, and Fabrazyme); 257 (citing Nov. 7, 2008 Form 10-Q statements regarding growth in
+Cerezyme and Fabrazyme sales).38 These statements represent the apotheosis of the plaintiffs’
+efforts to pin allegedly omitted information Genzyme had no independent duty to disclose39 to
+wholly unassociated affirmative statements, in hopes of arguing that Genzyme’s duty to disclose
+arose from the need to make these affirmative statements “not misleading.”
+None of Genzyme’s financial projections or statements regarding earnings guidance is
+actionable. This is so, first, because the statements qualify for the PSLRA’s safe harbor for
+forward-looking statements. The portion of the PSLRA defining the contours of the safe-harbor
+includes, among examples of forward-looking statements, statements “containing a projection of
+revenues, income (including income loss), earnings (including earnings loss) per share, capital
+
+37
+
+See Compl. ¶¶ 223, 224, 235, 249, 254, 255, 261, 264, 266, 268, 270, 275, 276, 290, 297 (citing financial
+projections); Compl. ¶¶ 220, 227, 236, 241, 259, 262, 265, 272, 287, 300 (purporting to explain why statements are
+alleged to have been false or misleading)
+38
+
+There are at least eight examples of paragraphs in the “False and Misleading Statements” section that contain only
+this type of retrospective report on financial performance that the plaintiffs do not even assert were inaccurate. See
+Compl. ¶¶ 218, 222, 225, 233, 234, 257, 284, 293. Eleven other paragraphs contain similar historical financial
+statements, which the plaintiffs fail allege were false, in addition to other statements. See Compl. ¶¶ 216, 237, 238,
+240, 249, 251, 263, 267, 268, 291, 298.
+
+39
+
+See Section II, supra (addressing disclosure obligations arising from Form 483s, FDA warning letters and alleged
+cGMP violations).
+
+44
+
+Case 1:09-cv-11267-GAO Document 63
+
+Filed 06/02/10 Page 53 of 60
+
+expenditures, dividends, capital structure, or other financial items.” 15 U.S.C. § 78u-5(i)(1)(A)
+(2010). The revenue and earnings guidance statements alleged in the Complaint fall squarely
+into this category — Genzyme offered forecasts of future performance that were consistently
+couched in terms of what Genzyme “expected” or “anticipated.”40 Such language is typical of
+forward-looking earnings and revenue projections shielded by the statutory safe harbor. See In
+re Smith & Wesson Holding Corp. Sec. Litig., 604 F. Supp. 2d 332, 341 (D. Mass. 2009)
+(holding that the PSLRA safe harbor protected defendants’ statements regarding “anticipated
+sales, income, income per share . . . [and] capital expenditures” because they were accompanied
+by cautionary language); In re Ibis Tech. Sec. Litig., 422 F. Supp. 2d 294, 310-13 (D. Mass.
+2006) (holding that statements regarding defendant’s “prospects for booking one to three
+implanter orders in 2003” were non-actionable forward looking statements); First Marblehead,
+639 F. Supp. 2d at 162 (holding that defendant’s “projections of revenues from the additional
+structural advisory fees and residual interests” were non-actionable forward-looking statements);
+see also Praecis, 2007 WL 951695 at *9 (finding statements regarding estimates of a drug’s
+“revenue opportunity” were forward-looking). Also, as the safe-harbor requires, each statement
+was accompanied by meaningful cautionary language citing earnings and revenue guidance
+statements as subject to specific risks and uncertainties.41 The plaintiffs simply cannot state a
+valid Section 10(b) claim based on forward-looking revenue projections accompanied by
+appropriate cautionary language.
+The Complaint also fails to allege scienter with respect to these statements. Nowhere
+does the Complaint purport to explain whether or how the defendants knew — at the time they
+40
+
+For the Court’s benefit, all of the alleged statements cited in the Complaint addressing Genzyme earnings reports
+and revenue guidance are identified and collected in Attachment 3.
+
+41
+
+For the Court’s benefit, citations to the relevant, extensive cautionary statements provided by Genzyme alongside
+the earnings and revenue guidance disclosures cited in the Complaint are also collected in Attachment 3.
+
+45
+
+Case 1:09-cv-11267-GAO Document 63
+
+Filed 06/02/10 Page 54 of 60
+
+made any of the identified statements regarding financial results or guidance — that the
+Company’s performance would fall short of the projections given. Instead, the plaintiffs baldly
+assert that the projections were all false or misleading throughout the putative class period,
+because they did not take into account the allegedly poor “condition” of the Allston facility, the
+Company’s cGMP “violations,” and the “fact” that the 2008 events at the Geel and Allston
+Facilities constrained drug supplies. Compl. ¶¶ 220, 227, 236, 241, 259, 262, 265, 272, 287,
+300. None of these theories is supported by factual allegations that could give rise to an
+inference — strong or otherwise — that the defendants knew that any particular projections or
+guidance were unattainable. See Praecis, 2007 WL 951695 at *10 (simply alleging that the
+company did not take certain information into account is not enough to state a claim). As an
+example, the Complaint posits that “the condition of the Allston plant . . . jeopardized the
+Company’s ability to produce sufficient product to meet its projections.” Compl. ¶ 259. This is
+plainly insufficient to state an actionable Section 10(b) claim, because the plaintiffs make no
+attempt to plead who knew what specific information about the Allston Facility that made it clear
+that revenue projections were unattainable, and how and when such information came to be
+known. See N.J. Carpenters, 537 F.3d at 48-49 (affirming dismissal for lack of scienter where
+plaintiff failed to plead when defendant purportedly knew about problems with its new drug and
+how defendants would know that such information presented a material problem). The plaintiffs
+simply have not — and cannot — state a claim premised on Genzyme’s financial guidance
+during the putative class period.
+
+46
+
+Case 1:09-cv-11267-GAO Document 63
+
+F.
+
+Filed 06/02/10 Page 55 of 60
+
+The Complaint Fails to Allege Any Actionable Misstatement or Omission
+Regarding Cerezyme or Fabrazyme
+
+The Complaint identifies two statements regarding the prospects for Cerezyme and
+Fabrazyme that the plaintiffs contend were false or misleading because Genzyme purportedly
+knew that it could not satisfy the markets for these drugs. See Compl. ¶¶ 219, 268.
+First, on October 24, 2007, Genzyme’s Chief Executive Officer, Mr. Termeer, stated
+during an earnings conference call that, for existing Cerezyme patients, “‘we don’t expect there
+to be, given the very long term extremely solid experience that we have around Cerezyme to be
+any particular reason for patients to shift or to change . . . .”’ Compl. ¶ 219. This statement was
+made fully one year prior to the 2008 events in Geel and Allston, one year prior to the receipt of
+the October 2008 Form 483 from FDA, and 20 months prior to the events in Allston announced
+in June 2009 that first had any impact at all on Cerezyme production. Yet, the plaintiffs contend
+that this forward-looking statement was false or misleading, citing all of the same reasons and
+pegged to nothing more than the plaintiffs’ insistence that Genzyme “knew” all of it.42
+In this respect, plainly, the Complaint fails to satisfy the heightened pleading standards
+required by the PSLRA (as well as Tellabs). See Stone & Webster, 414 F.3d at 205-206 (“[T]he
+requirement [of particularity] is not satisfied by a pleading which simply asserts that the
+defendant knew of the falsity.”); see also Section I supra. Paragraph 220(C), for example,
+claims the statement is false because Genzyme was aware of conditions that made it certain that
+FDA approval of Lumizyme could not be achieved, despite the fact that the Lumizyme BLA was
+
+42
+
+See Compl. ¶ 220 (asserting that the statement was false or misleading because Genzyme was: not in compliance
+with cGMPs, was only able to maintain growth for its products by “overburdening” its Allston Facility, was
+diverting manufacturing capacity away from Cerezyme and Fabrazyme to manufacture Myozyme, was engaging in
+unspecified “practices” making contamination or FDA action “inevitable,” and because patients would have to
+switch to competitors’ products if Genzyme could not supply the market with its own products).
+
+47
+
+Case 1:09-cv-11267-GAO Document 63
+
+Filed 06/02/10 Page 56 of 60
+
+not submitted until May 2008 — seven months after the statement in question even was made.
+Scienter cannot be alleged by hindsight. See First Marblehead, 639 F. Supp. 2d at 160.43
+Still another statement cited by the plaintiffs regarding Cerezyme and Fabrazyme is the
+set of forward-looking projections for 2009 sales presented by the Company’s Chief Financial
+Officer, Michael Wyzga, during a February 11, 2009 earnings conference call. See Compl. ¶
+268. Again, the plaintiffs allege that these statements were false or misleading for the same
+reasons repeatedly cited throughout the Complaint, i.e., that Genzyme failed to disclose cGMP
+“violations,” receipt of the Form 483, the occurrence of the contamination events in Geel and
+Allston in 2008, that the Allston Facility was “overburdened,” and that it could not manufacture
+sufficient Cerezyme or Fabrazyme to meet demand. See Compl. ¶¶ 259, 272.
+But here, too, the Complaint fails — in all of the same ways that the defendants have
+articulated throughout this memorandum — to allege any specific facts that would support a
+strong inference of any defendant’s actual knowledge on February 11, 2009 that Cerezyme and
+Fabrazyme sales would later fall short of the projections announced that day. It was not until
+four months later, in June 2009, in response to the May 2009 Allston contamination, that
+Genzyme announced it would close the Allston Facility for decontamination, and that those
+actions would have a material impact on anticipated Cerezyme and Fabrazyme sales. See McL.
+Decl. Exs. L, SS; Compl. ¶¶ 13, 151. Apart from the usual hash of conclusory allegations
+offered by the plaintiffs to show what the defendants purportedly “knew” at the time the
+43
+
+Mr. Termeer’s October 2007 statement regarding Cerezyme patients also was a forward-looking statement
+relating to guidance for 2011 that was accompanied by meaningful cautionary language. See McL. Decl. Ex. X at 3
+(Tr. of Earnings Conf. Call, Oct. 24, 2007) (at the beginning of the call, Genzyme’s Vice-President for Investor
+Relations warned investors, “On this call we will discuss Genzyme’s future financial outlook and business plans and
+strategies. We will be making forward-looking statements including our non-GAAP earnings estimates and growth
+rates for the next five years, our product development plans and regulatory action estimates including for . . .
+Myozyme manufacturing. These forward-looking statements are subject to a number of risks and uncertainties and
+our actual results may differ materially. Please refer to the June 30, Form 10-Q on file with the SEC for more
+information.”). Thus, it also falls within the PSLRA’s safe harbor and cannot serve as the foundation for a securities
+fraud claim. See Section III. E., supra.
+
+48
+
+Case 1:09-cv-11267-GAO Document 63
+
+Filed 06/02/10 Page 57 of 60
+
+statement was made — i.e., that the Allston Facility was in violation of cGMPs; that the
+Company had “overburdened” that facility; the alleged “depth and pervasiveness” of the
+Company’s “woefully deficient compliance practices” in Allston — the Complaint offers no
+specific facts to suggest that the February 2009 Cerezyme and Fabrazyme projections were not
+fully supported at the time. In this respect, the allegation as to the Company’s February 2009
+Fabrazyme and Cerezyme guidance fails to satisfy scienter pleading requirements.
+Plaintiffs’ claim regarding the February 11, 2009 Cerezyme and Fabrazyme projections
+also fails because the statement was forward-looking and accompanied by meaningful cautionary
+language. See McL. Decl. Ex. EE at 3 (Tr. of Earnings Conf. Call, Feb. 11, 2009).44 As
+discussed in Section III. E., supra, these statements are subject to the PSLRA safe harbor, and
+therefore cannot serve as the basis for a Section 10(b) claim.
+G.
+
+The Complaint Fails to Allege Any Actionable Misstatement or Omission
+Regarding Genzyme’s Decisions on the Marketing of Lumizyme (2000L)
+
+Plaintiffs allege that Genzyme failed to disclose a March 2009 “internal decision” to meet
+United States Myozyme demand with 4000L product produced at Geel rather than continuing to
+pursue FDA approval 2000L Lumizyme. The plaintiffs contend that the Company’s failure to
+disclose that decision rendered its statements regarding Lumizyme plans materially misleading.
+See Compl. ¶¶ 280, 283, 318, 320. But none of the statements identified by the plaintiffs can
+support a viable Section 10(b) claim.45
+
+44
+
+At the beginning of the February 11, 2009 call, Genzyme’s Director of Investor Relations cautioned investors,
+“On this call we will be discussing Genzyme’s future financial outlook, business plans and strategies and we will be
+making forward-looking statements including discussing our earnings, revenue and expense forecast, our
+development and regulatory approval plans and estimated timetables for several products and development programs
+including alglucosidase alfa . . . . These forward-looking statements are subject to a number of risks and
+uncertainties that may cause our actual results to differ materially. Please refer to the risk factor section of our
+September 30, 10-Q for more information on those risks.” McL. Decl. Ex. EE at 3.
+
+45
+
+Notably, several statements identified in the Complaint were made before the plaintiffs contend that Genzyme
+made an “internal decision” not to market Lumizyme. The plaintiffs cite a December 15, 2009 reference by Mr.
+Termeer to the company’s decision regarding Lumizyme on an unspecified date in March 2009. See Compl. ¶ 126.
+
+49
+
+Case 1:09-cv-11267-GAO Document 63
+
+Filed 06/02/10 Page 58 of 60
+
+As an initial matter, the allegation fails on its face to establish loss causation — also an
+element of a Section 10(b) claim, see Dura, 544 U.S. at 342 — because the allegedly
+“corrective” disclosure was made well after the end of the putative class period. A motion to
+dismiss must be granted where — as here — the plaintiff fails adequately to allege that a
+material misstatement or omission was the cause of the actual loss suffered. See In re Polaroid
+Corp. Sec. Litig., 134 F. Supp. 2d 176, 188 (D. Mass. 2001) (internal quotations omitted)
+(granting motion to dismiss for failure to establish loss causation because “[a] plaintiff must
+allege that the misstatements were the reason the transaction turned out to be a losing one”). To
+establish loss causation:
+a plaintiff must allege . . . that the subject of the fraudulent statement or omission
+was the cause of the actual loss suffered, i.e., that the misstatement or omission
+concealed something from the market that, when disclosed, negatively affected
+the value of the security. Otherwise, the loss is not foreseeable.
+In re Alkermes Sec. Litig., No. 03-CV-12091, 2005 WL 2848341, at *11 (D. Mass. Oct. 6, 2005)
+(quoting Lentell v. Merrill Lynch & Co., Inc., 396 F.3d 161 (2d Cir. 2005)) (quotations omitted).
+There can be no dispute that the plaintiffs have failed to plead any causal link between
+the information allegedly withheld — that is, Genzyme’s decision regarding which specific
+production scale would be used to meet demand in a particular market — and the loss the
+plaintiffs allegedly suffered — a drop in the Company’s stock price. See Compl. ¶¶ 321, 322.
+Indeed, the Complaint fails to even include the decision not to market Lumizyme produced at the
+2000L scale in its loss causation allegations. Id. This is hardly surprising, since it is not possible
+that any relevant drop in the market price of Genzyme’s stock during the putative class period
+was attributable to the purportedly “corrective” disclosure of the decision regarding Lumizyme.
+
+Thus, even if it is assumed true that Genzyme made that decision at some point in March 2009, the plaintiffs’ failure
+to specify a date in March forecloses any viable claim of a misstatement or omission made prior to the end of that
+month. See Compl. ¶¶ 280, 283.
+
+50
+
+Case 1:09-cv-11267-GAO Document 63
+
+Filed 06/02/10 Page 59 of 60
+
+The plaintiffs themselves claim that the corrective disclosure was made on December 15, 2009
+— a full month after the end of the putative class period. Compl. ¶ 126. Loss causation cannot
+be present where no corrective disclosure of the purportedly “true” facts can possibly have been
+the cause of a stock price decline and any resulting injury to the plaintiffs during a relevant time.
+Because the Complaint fails in this way to allege an essential element of a securities fraud claim,
+the alleged “omission” cannot survive a motion to dismiss.
+Moreover, while the Complaint seeks to make much of Genzyme’s failure to disclose the
+March 2009 decision to meet United States demand with the larger scale 4000L product rather
+than continue to pursue the sale of 2000L Lumizyme, the plaintiffs cannot allege — and have not
+alleged beyond conclusory ‘say so’ — that the information even was material. The Complaint
+was required to “articulate facts that show how the omitted information would have significantly
+altered the total mix of information available to the market.” Praecis, 2007 WL 951695 at *18.
+Nowhere do the plaintiffs even attempt to explain how disclosure in March 2009 would
+have altered the “total mix” of information available to the market. Genzyme announced well
+before March 2009 that it intended to pursue approval of 4000L Lumizyme in the United States
+— thus the plaintiffs cannot suggest that the Company’s growing emphasis on the larger scale
+version of Lumizyme was somehow hidden. See McL. Decl. Ex. CC at 13, 17 (Tr. of Earnings
+Conf. Call, Oct. 22, 2008) (discussing seeking 4000L approval in U.S.); Ex. J at 2 (Press Release
+and Form 8-K, Jan. 13, 2009) (“The company anticipates filing for U.S. approval for the 4000L
+manufacturing process during the first half of this year.”). In fact, the very disclosures the
+Complaint characterize as fraudulent in this regard specified the Company’s plans to submit an
+sBLA for 4000L Lumizyme that would replace the smaller scale 2000L Lumizyme production.
+See McL. Decl. Ex. FF at 4, 10, 11 (Tr. of Investor Conf. Call, Mar. 2, 2009); Ex. V at 9 (Form
+
+51
+
+Case 1:09-cv-11267-GAO Document 63
+
+Filed 06/02/10 Page 60 of 60
+
+10-K for 2008, Mar. 2, 2009); Ex. TT (Press Release and Form 8-K, Apr. 22, 2009); Ex. OO at
+18 (Press Release and Form 8-K, Oct. 21, 2009). In short, the Company realized that its ability
+to sell Lumizyme produced at the 4000L scale rendered unnecessary the marketing of 2000L
+Lumizyme in the U.S. It is telling that the Complaint does not suggest that the larger scale
+product would be unable to “fill Lumizyme’s shoes” for the United States market — rather, the
+plaintiffs simply quibble with the Company’s disclosures without addressing in any specific
+manner how the disclosures were materially misleading at all. In view of the extensive
+disclosures made by the defendant regarding its intention to pursue 4000L approval and the lack
+of any allegation that the “internal decision” would result in a shortfall of product in any market,
+the plaintiffs cannot possibly claim that any alleged omissions regarding Lumizyme plans would
+alter the total mix of information available. For this additional reason, their claim based on this
+statement should be dismissed.
+CONCLUSION
+For the foregoing reasons, the defendants respectfully request that the Court dismiss the
+plaintiffs’ Complaint in its entirety, with prejudice.
+Dated: June 2, 2010
+
+Respectfully submitted,
+
+/s/ John D. Donovan, Jr.
+John D. Donovan, Jr. (BBO# 130950)
+Robert G. Jones (BBO# 630767)
+Alison E.H. McLaughlin (BBO# 663060)
+ROPES & GRAY LLP
+One International Place
+Boston, Massachusetts 02110
+(617) 951-7000 (Tel)
+(617) 951-7050 (Fax)
+Counsel for Defendant Genzyme Corporation
+
+52
+
+

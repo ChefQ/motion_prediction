@@ -1,0 +1,1295 @@
+Case 8:07-cv-00690-EAK-MAP
+
+Document 105
+
+Filed 06/27/2008
+
+Page 1 of 32
+
+UNITED STATES DISTRICT COURT
+MIDDLE DISTRICT OF FLORIDA
+TAMPA DIVISION
+)
+BANKERS LIFE INSURANCE COMPANY, )
+)
+)
+Plaintiff,
+)
+)
+vs.
+)
+)
+CREDIT SUISSE FIRST BOSTON
+CORPORATION, also known as Credit Suisse )
+)
+Securities (USA) LLC, CREDIT SUISSE
+FIRST BOSTON MORTGAGE SECURITIES )
+CORP., DLJ MORTGAGE CAPITAL, INC., )
+)
+TRIAD GUARANTY INSURANCE
+)
+CORPORATION, SELECT PORTFOLIO
+)
+SERVICING, INC. and BANK OF NEW
+)
+YORK,
+)
+)
+Defendants.
+)
+
+Civil Action No.
+8:07-CV-00690-EAK-MSS
+Judge Elizabeth A. Kovachevich
+Magistrate Judge Mary S. Scriven
+
+DISPOSITIVE MOTION
+
+MOTION OF THE BANK OF NEW YORK TO DISMISS THE SECOND AMENDED
+COMPLAINT PURSUANT TO FEDERAL RULE OF CIVIL PROCEDURE 12(b)(6)
+
+AKERMAN SENTERFITT
+Edmund S. Whitson
+SunTrust Financial Centre
+401 E. Jackson Street, Suite 1700
+Tampa, FL 33602-5250
+(813) 223-7333
+
+THACHER PROFFITT & WOOD LLP
+Richard F. Hans
+John P. Doherty
+Andrew B. Zinman
+Two World Financial Center
+New York, NY 10281
+(212) 912-7400
+Attorneys for The Bank of New York
+
+Case 8:07-cv-00690-EAK-MAP
+
+Document 105
+
+Filed 06/27/2008
+
+Page 2 of 32
+
+TABLE OF CONTENTS
+Page(s)
+TABLE OF AUTHORITIES ........................................................................................................... i
+PRELIMINARY STATEMENT .....................................................................................................1
+SUMMARY OF ALLEGATIONS AGAINST BNY ......................................................................4
+ARGUMENT...................................................................................................................................6
+I.
+
+Standard of Review.................................................................................................................6
+
+II.
+
+Plaintiff Has Failed to Allege Any Basis to Impose Liability on BNY for the
+Alleged Conduct of a Twice-Removed Predecessor Trustee and So Its Claims
+Against BNY Necessarily Fail As a Matter of Law ...............................................................7
+A.
+
+The Second Amended Complaint Alleges Misconduct By Another Entity
+(Bank One) Years Before BNY Became Trustee ..........................................................7
+
+B.
+
+Plaintiff has Failed to Allege Any Basis to Impose Liability for the Torts and
+Breaches of a Predecessor Trustee.................................................................................8
+
+C.
+
+Contract Claims Cloaked as Tort/Fraud Claims Should be Dismissed .........................8
+
+III. Plaintiff Has Failed to Meet Conditions Precedent For Bringing This Action and So
+the Second Amended Complaint Must Be Dismissed ............................................................9
+IV. The Second Amended Complaint Must Be Dismissed as Plaintiff Has Failed to
+Allege That BNY Breached Any Obligation under the PSA................................................11
+A.
+
+The PSA Alone Defines the Trustee’s Duties and Obligations ...................................11
+
+B.
+
+Plaintiff’s Factual Allegations Fail to Constitute a Cognizable Claim for
+Breach of Contract and So Counts XIV-XV Must be Dismissed................................13
+
+C.
+
+(i)
+
+The PSA Insulates BNY from Liability for Information Received
+From Other Sources and Delivered to Third Parties........................................17
+
+(ii)
+
+Count XIV (Information to Rating Agencies) Fails to State a Cause
+of Action for Breach of Contract .....................................................................18
+
+Plaintiff has Failed to Plead the Existence of any Fiduciary Duty and Thus
+Count XVI Fails as a Matter of Law............................................................................20
+(i)
+
+The Trustee Owes No Duty to Certificateholders Other Than Those
+Specified in the PSA ........................................................................................20
+
+Case 8:07-cv-00690-EAK-MAP
+
+(ii)
+V.
+
+Document 105
+
+Filed 06/27/2008
+
+Page 3 of 32
+
+BNY Had No Implied Duty Outside of the PSA .............................................22
+
+The Plaintiff’s Civil Conspiracy Claim Remains Untenable As Against BNY....................24
+
+CONCLUSION..............................................................................................................................25
+
+2
+
+Case 8:07-cv-00690-EAK-MAP
+
+Document 105
+
+Filed 06/27/2008
+
+Page 4 of 32
+
+TABLE OF AUTHORITIES
+Page(s)
+CASES
+AG Capital Funding Partners, L.P. v. State Street Bank and Trust Co.,
+2008 WL 2510628, __ N.E.2d __ (N.Y. Ct. App. June 25, 2008)............................. passim
+Am. Honda Motor Co. v. Motorcycle Info. Network, Inc.,
+390 F. Supp. 2d 1170 (M.D. Fla. 2005)............................................................................ 20
+Bates v. Cook, Inc., 509 So. 2d 1112 (Fla. 1987)........................................................................... 6
+Bell Atl. Corp. v. Twombly, 127 S. Ct. 1955, 1964-65 (2007) ................................................ 6, 22
+Bernard v. Kee Mfg. Co., 409 So. 2d 1047 (Fla. 1982).................................................................. 8
+Bryant v. Avado Brands, Inc., 187 F.3d 1271 (11th Cir. 1999) ..................................................... 5
+Casa Clara Condo. Ass'n v. Charley Toppino & Sons, 620 So. 2d 1244 (Fla. 1993)..................... 9
+Clark-Fitzpatrick, Inc. v. Long Island R.R., 516 N.E.2d 190 (N.Y. 1987)..................................... 8
+Clayton v. State Farm Mut. Auto. Ins. Co.,
+729 So. 2d 1012 (Fla. 3d Dist. Ct. App. 1999) ................................................................... 9
+Colon v. Multi-Pak Corp., 477 F. Supp. 2d 620 (S.D.N.Y. 2007).................................................. 8
+Dresner Co. Profit Sharing Plan v. First Fid. Bank, N.A.,
+1996 WL 694345 (S.D.N.Y. Dec. 4, 1996) ...................................................................... 23
+Elliot Assocs. v. J. Henry Schroder Bank & Trust Co., 838 F.2d 66 (2d Cir. 1988)............. passim
+Fisk v. Letterman, 424 F. Supp. 2d 670 (S.D.N.Y. 2006) ............................................................ 24
+Fla. Mun. Power Agency v. Fla. Power & Light Co.,
+81 F. Supp. 2d 1313 (M.D. Fla. 1999).............................................................................. 16
+Garcia v. Pub. Health Trust of Dade County, 841 F.2d 1062 (11th Cir. 1988).............................. 6
+Glover v. Ligget Group, Inc., 459 F.3d 1304 (11th Cir. 2006)....................................................... 6
+Harris Trust and Sav. Bank v. E-II Holdings, Inc.,
+722 F. Supp. 429 (N.D. Ill. 1989) ..................................................................................... 18
+In re Harrell, 351 B.R. 221 (M.D. Fla. 2006) ............................................................................... 13
+Interstate Sec. Corp. v. Hayes Corp., 920 F.2d 769 (11th Cir. 1991)............................................. 9
+
+i
+
+Case 8:07-cv-00690-EAK-MAP
+
+Document 105
+
+Filed 06/27/2008
+
+Page 5 of 32
+
+Kramer v. Piper Aircraft Corp., 868 F.2d 1538 (11th Cir. 1989) ................................................... 6
+Lorenz v. CSX Corp., 1 F.3d 1406 (3d Cir. 1993) ...................................................... 14-15, 21, 23
+Magluta v. Samples, 256 F.3d 1282 (11th Cir. 2001)..................................................................... 7
+Magten Asset Mgmt. Corp. v. The Bank of N.Y.,
+2007 WL 1326795 (Sup. Ct. N.Y. County May 8, 2007)................................................. 12
+McCutcheon v. Kidder, Peabody & Co., 938 F. Supp. 820 (S.D. Fla. 1996)................................. 9
+Meckel v. Cont'l Res. Co., 758 F.2d 811 (2d Cir. 1985) .............................................................. 12
+Metro. Life Ins. Co. v. RJR Nabisco, Inc.,
+716 F. Supp. 1504, (S.D.N.Y. 1989)................................................................................. 24
+Nairobi Holdings Ltd. v. Brown Bros. Harriman & Co.,
+2002 WL 31027550 (S.D.N.Y. Sept. 10, 2002)................................................................ 21
+N.Y. Med. Care Facilities Fin. Agency v. Bank of Tokyo Trust Co.,
+163 Misc. 2d 551 (Sup. Ct. N.Y. County 1994) ............................................................... 17
+Niagara Mohawk Power Corp. v. Stone & Webster Eng'g Corp.,
+725 F. Supp. 656 (N.D.N.Y. 1989)..................................................................................... 8
+Oppenheimer & Co. v. Oppenheim, Appel, Dixon & Co.,
+660 N.E.2d 415 (N.Y. 1995)............................................................................................. 13
+Page Mill Asset Mgmt. v. Credit Suisse First Boston Corp.,
+2000 WL 335557 (S.D.N.Y. Mar. 30, 2000) ...................................................................... 9
+Papasan v. Allain, 478 U.S. 265 (1986).......................................................................................... 6
+Radin v. Albert Einstein Coll. of Med. of Yeshiva Univ.,
+2005 WL 1214281 (S.D.N.Y. May 20, 2005) .................................................................. 21
+Raymond James & Assocs. v. The Bank of N.Y. Trust Co.,
+2008 WL 186590 (M.D. Fla. Jan. 18, 2008).............................................................. passim
+Renovich v. Stewardship Concepts, Inc.,
+1989 WL 56197 (N.D. Ill. May 15, 1989) ........................................................................ 20
+Sander v. Alexander Richardson Invs., 334 F.3d 712 (8th Cir. 2003).......................................... 22
+Smith v. Brevard County, 461 F. Supp. 2d 1243 (M.D. Fla. 2006).............................................. 17
+Wagner v. First Horizon Pharm. Corp., 464 F.3d 1273 (11th Cir. 2006)....................................... 8
+Walters v. Blankenship, 931 So. 2d 137 (Fla. 5th Dist. Ct. App. 2006)....................................... 24
+
+ii
+
+Case 8:07-cv-00690-EAK-MAP
+
+Document 105
+
+Filed 06/27/2008
+
+Page 6 of 32
+
+Williams v. Cont'l Stock Transfer & Trust Co.,
+1 F. Supp. 2d 839 (N.D. Ill. 1998) .............................................................................. 15, 21
+STATUTES
+15 U.S.C. § 77ooo................................................................................................................... 12, 22
+N.Y. GEN. BUS. LAW ART. 23-A § 352......................................................................................... 20
+RULES
+FEDERAL RULE OF CIVIL PROCEDURE 12(b)(6) ......................................................................... 1, 17
+OTHER AUTHORITIES
+American Bankers Association, Corporate Trust Committee, The Trustee's Role
+in Asset-Backed Securities (2003).................................................................................... 22
+RESTATEMENT (SECOND) CONFLICT OF LAWS (1971)..................................................................... 6
+
+iii
+
+Case 8:07-cv-00690-EAK-MAP
+
+Document 105
+
+Filed 06/27/2008
+
+Page 7 of 32
+
+Defendant The Bank of New York (“BNY” or “Trustee”), by its attorneys, respectfully
+submits this memorandum of law and the affidavit of Richard F. Hans (“Hans Aff.”), dated
+September 28, 2007,1 in support of its Motion to Dismiss Plaintiff’s Second Amended
+Complaint,2 pursuant to Federal Rule of Civil Procedure 12(b)(6), filed contemporaneously
+herewith.
+PRELIMINARY STATEMENT
+By this motion, BNY seeks to dismiss unsupported and illogical allegations in Plaintiff’s
+Second Amended Complaint that BNY participated in misrepresentations, omissions and other
+wrongdoing, all of which occurred more than two-and-a-half years before BNY, the successor
+indenture trustee, had any connection whatsoever to the matters at issue here. As set forth
+below, because Plaintiff’s Second Amended Complaint is filled with vague and conclusory
+statements, it is as flawed as its predecessors and deserves dismissal.
+Plaintiff Bankers Life Insurance Company is a sophisticated insurance company that in
+January and February 2004 acquired high-risk, high-return securities backed by mortgage loans
+(the “Securities”). Three years later, Plaintiff alleged that the Securities lost substantial value. In
+response to this loss, Plaintiff sued Credit Suisse First Boston Corporation and a number of its
+affiliates (together, “Credit Suisse”), which acquired the mortgage loans, pooled them in a trust
+(the “Trust”), and caused the Trust to issue the Securities. Plaintiff also sued Triad Guaranty
+Insurance Corporation (“Triad”), the company that issued a mortgage guaranty insurance policy
+1
+
+In order to not burden the Court with a duplicate filing of the relevant documents, BNY
+respectfully refers the Court to the previous, electronically filed Hans Aff. and accompanying exhibits.
+See Hans Aff., Dkt. # 56.
+
+2
+
+The Second Amended Complaint, Dkt. # 85, is virtually identical to the Amended Complaint save
+for some additional vague and conclusory assertions that do not address any of the Court’s concerns cited
+in the April 11, 2008 Order, which granted in part, and denied in part, Defendants’ motions to dismiss the
+Amended Complaint.
+
+Case 8:07-cv-00690-EAK-MAP
+
+Document 105
+
+Filed 06/27/2008
+
+Page 8 of 32
+
+in connection with the Securities. Finally, Plaintiff sued BNY, which in October 2006 became
+successor indenture trustee for the Trust.
+Plaintiff’s Second Amended Complaint alleges that Credit Suisse, Triad and BNY,
+purportedly in violation of various common law, contractual and statutory duties, collectively
+made misrepresentations and omissions concerning the Securities that caused the Plaintiff to buy
+them. Plaintiff’s allegations must be dismissed because, among other things, they fail to state
+claims upon which relief can be granted.
+There is no basis in law or alleged fact to assert a claim for breach of fiduciary duty
+against BNY or to impose any duty or obligation beyond those specified in the trust indenture.
+An indenture trustee owes only those duties outlined in the trust indenture -- here the Pooling and
+Servicing Agreement (“PSA”). On this, the law is clear. In a strikingly similar case, Raymond
+James & Associates v. The Bank of New York Trust Co., No. 07-CV-239-T-27TBM, 2008 WL
+186590 (M.D. Fla. Jan. 18, 2008), the Honorable James D. Whittemore recently dismissed the
+plaintiff’s complaint, finding that the indenture trustee owed no fiduciary obligation to the
+investors. Judge Whittemore’s decision is persuasive and entirely consistent with those rendered
+in every other jurisdiction that has considered the liability of an indenture trustee. Lest there be
+any doubt, however, New York’s highest court just this week reaffirmed New York law on this
+very issue: an indenture trustee owes only a duty to perform its ministerial duties with due care,
+but does not owe a fiduciary duty to the certificate holders. See AG Capital Funding Partners,
+L.P. v. State Street Bank & Trust Co., No. 114, 2008 WL 2510628, __ N.E.2d __ (N.Y. Ct. App.
+June 25, 2008) (page numbers unavailable).
+More fundamentally, Plaintiff cannot possibly hold BNY liable for any alleged
+wrongdoing that caused Plaintiff to purchase the Securities in 2004: BNY did not become
+
+2
+
+Case 8:07-cv-00690-EAK-MAP
+
+Document 105
+
+Filed 06/27/2008
+
+Page 9 of 32
+
+Trustee for the Trust until October 2006 -- two-and-a-half years after Plaintiff purchased the
+Securities.
+
+Indeed, Plaintiff does not even allege, nor can it, that BNY made any
+
+misrepresentations or omissions or otherwise engaged in any other wrongful conduct before
+Plaintiff purchased its Securities. Likewise, Plaintiff does not assert any factual basis for holding
+BNY liable for the alleged acts of a predecessor trustee. Plaintiff merely lists BNY as a
+defendant and then makes vague, conclusory allegations that BNY engaged in wrongdoing.
+Such claims are frivolous at best.
+Indeed, the only factual allegations made in the Complaint against BNY are that, after it
+became Trustee, BNY did not provide Plaintiff with information concerning claims submitted
+and paid under Triad’s mortgage guaranty insurance policy or inform public rating agencies -i.e., Moody’s Investor Services (“Moody’s”) -- of same. The PSA that governs and defines
+BNY’s duties and obligations makes crystal clear that BNY need only report to investors the
+information it receives regarding the mortgage guaranty insurance policy claims and payments.
+If no such information is received, then no such information can or may be relayed. Here, BNY
+is not alleged to have received that information. In any event, the Second Amended Complaint
+confirms that the information BNY disclosed to Plaintiff was correct and, therefore, cannot form
+the basis for any cognizable claim.
+Therefore, and for the additional reasons detailed below, all claims against BNY should
+be dismissed with prejudice.
+
+3
+
+Case 8:07-cv-00690-EAK-MAP
+
+Document 105
+
+Filed 06/27/2008
+
+Page 10 of 32
+
+SUMMARY OF ALLEGATIONS AGAINST BNY3
+Beginning in 2001, the Trust issued for sale several classes of securities entitled
+“Mortgage-Backed Pass-Through Certificates, titled Series 2001-28” (the “Certificates”).
+(Second Amended Complaint (“SAC”) ¶ 14.) These Certificates were backed by pools of
+mortgage loans. (Id.) Pursuant to the PSA, a Credit Suisse affiliate established the Trust, into
+which it and another affiliate deposited a pool of mortgage loans. (SAC ¶ 18.) Bank One, N.A.
+(“Bank One”) was the original named trustee. On July 1, 2004, Bank One merged into J.P.
+Morgan Chase & Co. (“Chase”), and Chase assumed the trustee’s role. (Hans Aff., Ex. B, J.P.
+Morgan Chase & Co., Current Report (Form 8-K), at 1 (Item 2) (July 1, 2004).) Thereafter, on
+October 1, 2006, pursuant to an asset-purchase agreement, Chase sold its corporate trust business
+to BNY, and BNY assumed the trustee’s role. (Hans Aff., Ex. C, The Bank of New York
+Company, Inc., Current Report (Form 8-K), at 2-3 (Item 8.01) (October 1, 2006).)
+Credit Suisse published a Prospectus and Prospectus Supplement (“ProSupp,” and
+together with Prospectus, the “Offering Documents”) in 2001, more than two years before
+Plaintiff purchased the securities at issue. (SAC ¶¶ 16; 28.) Plaintiff contends the Offering
+Documents were issued with the “input, advice and consent” of the Credit Suisse Defendants and
+Bank One as trustee. Bank One, Plaintiff contends, was the “predecessor in interest to defendant
+[BNY].” (SAC ¶ 17.)
+Plaintiff maintains that the Offering Documents contained false information regarding the
+delinquency of loans included in the Trust. (SAC ¶ 20.) Plaintiff alleges Bank One “knew or
+should have known” the information was “false” and “materially misleading,” and that “third
+3
+
+BNY respectfully refers the Court to the Memorandum of Law in Support of The Motion of
+Credit Suisse Securities (USA) LLC, Credit Suisse First Boston Mortgage Securities Corp., DLJ
+Mortgage Capital, Inc. and Select Portfolio Servicing, Inc. previously submitted in support of its Motion
+to Dismiss the Amended Complaint (hereinafter referred to as the “Credit Suisse Br.”), Dkt. # 58, for a
+more complete statement of the background and relevant facts of this action.
+
+4
+
+Case 8:07-cv-00690-EAK-MAP
+
+Document 105
+
+Filed 06/27/2008
+
+Page 11 of 32
+
+party purchasers of the Certificates would rely on the information in the [ProSupp] when
+purchasing the Certificates” (SAC ¶¶ 20-22.) Plaintiff proffers no facts or allegations to support
+its contention that BNY -- the successor indenture trustee to JPMorgan Chase, which was the
+successor indenture trustee to Bank One -- knew or should have known of the false information.
+Plaintiff further maintains that “Bank One (predecessor in interest to defendant [BNY])”
+had an “obligation” to do, among other things, the following: (1) make amendments or
+corrections to the ProSupp; (2) inform potential third party purchasers that the insurer (Triad)
+declined to cover those mortgage loans procured by fraud; (3) pursue remedies available to the
+Trustee under the PSA “to prevent the impairment of the collateral and its concomitant
+diminution in value”; and (4) inform Moody’s of, or generally “publish[] information” regarding,
+inter alia, the delinquent loans and the insurer’s refusal to cover certain mortgage loans. (SAC
+¶¶ 27-30; 33.)
+Plaintiff does not explain the line of succession from Bank One, an unrelated entity, to
+BNY or otherwise set forth how or when BNY became Trustee. It alleges only that Bank One,
+an entity unrelated to BNY, was the original trustee and that it is the “predecessor in interest to
+defendant [BNY].” (See, e.g., SAC ¶ 17.) The original trustee, Bank One, merged with JP
+Morgan in July 2004. (See Hans Aff., Ex. B.) BNY only became Trustee in October 2006,
+nearly three years after Plaintiff purchased its Certificates, when it acquired JP Morgan’s
+corporate trust business through an asset-purchase agreement. (See Hans Aff., Ex. C.)4
+
+4
+
+When considering a motion to dismiss, it is proper for a court to take judicial notice of documents
+publicly filed with the SEC that are central or integral to the Complaint. Bryant v. Avado Brands, Inc.,
+187 F.3d 1271, 1276-77 (11th Cir. 1999) (citing Cortec Industries Inc., v. Sum Holding L.P., 949 F.2d
+42, 47 (2d Cir. 1991)). Plaintiff has made these documents central to the pleading by alleging broadly
+that Bank One, the original trustee, was a “predecessor” to BNY. It is appropriate, therefore, to consider
+on a motion to dismiss the fact and nature of that succession, to the extent revealed in publicly filed
+documents.
+
+5
+
+Case 8:07-cv-00690-EAK-MAP
+
+Document 105
+
+Filed 06/27/2008
+
+Page 12 of 32
+
+ARGUMENT
+I.
+STANDARD OF REVIEW
+“While a complaint attacked by a Rule 12(b)(6) motion to dismiss does not need detailed
+factual allegations . . . a plaintiff's obligation to provide the ‘grounds’ of his ‘entitle[ment] to
+relief’ requires more than labels and conclusions. . . .” Bell Atl. Corp. v. Twombly, 127 S. Ct.
+1955, 1964-65 (2007) (citations omitted); Papasan v. Allain, 478 U.S. 265, 286 (1986) (on a
+motion to dismiss, courts “are not bound to accept as true a legal conclusion couched as a factual
+allegation”). Dismissal is therefore permitted “when on the basis of a dispositive issue of law, no
+construction of the factual allegations will support the cause of action.” Glover v. Ligget Group,
+Inc., 459 F.3d 1304, 1308 (11th Cir. 2006) (quoting Marshall County Bd. of Educ. v. Marshall
+County Gas Dist., 992 F.2d 1171, 1174 (11th Cir. 1993)).5
+
+5
+
+Plaintiff’s claims against BNY arise under a contract, the PSA, governed by New York law. The
+PSA provides that it “shall be construed in accordance with and governed by the substantive laws of . . .
+New York . . . and the obligations, rights and remedies of the parties hereto and the certificateholders
+shall be determined in accordance with [New York] laws” with respect to the conflict of laws issue.
+(Hans Aff., Ex. D, § 11.03.)
+As to the extra-contractual claims, controlling authority from Florida and New York is similar if
+not identical. Florida employs the “most significant relationship test” defined in Restatement (Second)
+Conflict of Laws § 145 (1971), as the guide for use in choice-of-law analysis. Bates v. Cook, Inc., 509
+So. 2d 1112, 1114 (Fla. 1987) (citing RESTATEMENT (SECOND) CONFLICT OF LAWS §§ 145-46 (1971) to
+determine choice of law analysis); Kramer v. Piper Aircraft Corp., 868 F.2d 1538, 1540 (11th Cir. 1989);
+Garcia v. Pub. Health Trust of Dade County, 841 F.2d 1062, 1064-65 (11th Cir. 1988). Here, with the
+exception of Plaintiff’s status as a Florida domiciliary, the operative facts and circumstances occurred in
+New York. The contract at issue was executed in New York and contains a governing law clause
+selecting New York law. Moreover, BNY is a New York domiciliary and the alleged wrongdoing by
+BNY arose in New York. Accordingly, New York law should apply to this action. To the extent the
+Court determines that Florida law applies to any or all of the causes of action alleged in the SAC, BNY
+has provided case law and standards for Florida law in this memorandum where appropriate. In nearly all
+instances, the law of New York and Florida are indistinguishable with respect to the allegations herein.
+
+6
+
+Case 8:07-cv-00690-EAK-MAP
+
+Document 105
+
+Filed 06/27/2008
+
+Page 13 of 32
+
+II.
+PLAINTIFF HAS FAILED TO ALLEGE ANY BASIS TO IMPOSE LIABILITY ON BNY FOR THE
+ALLEGED CONDUCT OF A TWICE-REMOVED PREDECESSOR TRUSTEE AND SO
+ITS CLAIMS AGAINST BNY NECESSARILY FAIL AS A MATTER OF LAW
+A.
+
+The Second Amended Complaint Alleges Misconduct By Another Entity (Bank
+One) Years Before BNY Became Trustee
+The Second Amended Complaint, Plaintiff’s third bite at the apple, alleges misconduct
+
+only by the Credit Suisse Defendants and Bank One. The Second Amended Complaint does not
+allege a single act by BNY relative to its acquisition of the Certificates during that period, nor
+could it: BNY did not become Trustee until 2006, nearly three years after Plaintiff purchased the
+last of its certificates.
+BNY did not author -- and could not have authored or otherwise prepared -- the Offering
+Documents, all of which were issued in 2001 (Credit Suisse Br., at p. 2 n.1), nearly five years
+before BNY became Trustee. (Hans Aff., Exs. B and C.) Plaintiff alleges that it purchased the
+Securities in January and February 2004 -- nearly three years before BNY became Trustee.
+(SAC ¶ 28.) Therefore, BNY could not possibly have been involved in any wrongdoing or
+uttered any misrepresentation that allegedly caused Plaintiff to purchase the Securities.
+Similarly, Plaintiff cannot credibly allege that it relied on misrepresentations by BNY or
+that BNY participated in a civil conspiracy because BNY had no involvement during the relevant
+times alleged in the Second Amended Complaint.
+
+This temporal impossibility necessarily
+
+eviscerates Plaintiff’s direct claims of breach of fiduciary duty and civil conspiracy against BNY.
+See, e.g., Magluta v. Samples, 256 F.3d 1282, 1284 (11th Cir. 2001) (condemning complaints
+that are “replete with allegations that ‘the defendants’ engaged in certain conduct, making no
+distinction among the [] defendants [and] geographic and temporal realities make plain that all of
+
+7
+
+Case 8:07-cv-00690-EAK-MAP
+
+Document 105
+
+Filed 06/27/2008
+
+Page 14 of 32
+
+the defendants could not have participated in every act complained of.”); see also Wagner v.
+First Horizon Pharm. Corp., 464 F.3d 1273, 1279 (11th Cir. 2006).
+B.
+
+Plaintiff has Failed to Allege Any Basis to Impose
+Liability for the Torts and Breaches of a Predecessor Trustee
+Plaintiff fails to allege any basis, nor can it, to impose successor liability on BNY. As set
+
+forth (at page 4) above, Bank One merged with JP Morgan Chase in 2004. It was not until BNY
+purchased the assets of JP Morgan’s trust business in the fall of 2006 that BNY became Trustee.
+(Hans Aff., Ex. B.) In an asset purchase, where one company sells or otherwise transfers its
+assets to another, the latter does not, as a matter of law, assume the liabilities of the prior
+business. See, e.g., Colon v. Multi-Pak Corp., 477 F. Supp. 2d 620, 626 (S.D.N.Y. 2007)
+(citation omitted) (“In general, under New York law, a corporation that acquires the assets is not
+liable for the torts of its predecessor”); Bernard v. Kee Mfg. Co., 409 So. 2d 1047, 1049 (Fla.
+1982) (restating the “traditional corporate law rule” that courts will not impose the liabilities of
+the selling predecessor upon the buying successor company unless the successor expressly or
+impliedly assumes obligations of the predecessor). Plaintiff does not allege any cognizable basis
+to impose on BNY liability springing from the purported conduct of a predecessor trustee.
+C.
+
+Contract Claims Cloaked as Tort/Fraud Claims Should be Dismissed
+Under New York law, claims sounding in tort and fraud -- here, breach of fiduciary duty
+
+and civil conspiracy -- should be dismissed when they do not state an independent basis for the
+tort or fraud outside of the parties’ contractual relationship. “It is well-established principle that
+a simple breach of contract is not to be considered a tort unless a legal duty independent of the
+contract itself has been violated. This legal duty must spring from circumstances extraneous to,
+and not constituting elements of, the contract.” Clark-Fitzpatrick, Inc. v. Long Island R.R., 516
+N.E.2d 190 (N.Y. 1987) (citations omitted); Niagara Mohawk Power Corp. v. Stone & Webster
+
+8
+
+Case 8:07-cv-00690-EAK-MAP
+
+Document 105
+
+Filed 06/27/2008
+
+Page 15 of 32
+
+Eng’g Corp., 725 F. Supp. 656, 662-63 n.3, 666 (N.D.N.Y. 1989) (citations omitted) (dismissing
+plaintiff’s tort claims where parties’ relationship largely governed by contract on the grounds
+that “[t]he mere fact that the alleged breach involved a contract that encompassed the
+performance of services does not suffice as special additional allegations of wrongdoing which
+amount to ‘a breach of a duty distinct from, or in addition to, the breach of a contract.’”); Page
+Mill Asset Mgmt. v. Credit Suisse First Boston, No. 98 Civ. 6907 (MBM), 2000 WL 335557, at
+*9 (S.D.N.Y. Mar. 30, 2000) (dismissing claim of unjust enrichment where events forming basis
+“arise out of the same subject matter as the indenture”).6
+III.
+PLAINTIFF HAS FAILED TO MEET CONDITIONS PRECEDENT FOR
+BRINGING THIS ACTION AND SO THE SECOND AMENDED COMPLAINT MUST BE DISMISSED
+As with Plaintiff’s earlier pleadings, the Second Amended Complaint fails to establish
+that the Plaintiff has met the conditions precedent for commencing this action. As a threshold,
+the PSA bars Certificateholders, such as Plaintiff, from instituting a lawsuit or bringing any
+action in law or equity with respect to the PSA unless all of the following conditions precedent
+are met:
+• “[S]uch Holder previously shall have given to the Trustee a written notice of an Event of
+Default and of the continuance thereof” and
+
+6
+
+Akin to New York’s requirement for showing an independent duty, Florida follows the
+“economic loss rule.” The economic loss rule is “grounded on the basic difference between contract law - which protects expectations -- and tort law -- which is determined by the duty owed by all persons to
+others in society.” Casa Clara Condo. Ass'n v. Charley Toppino & Sons, 620 So. 2d 1244, 1246 (Fla.
+1993) (noting that “economic losses are ‘disappointed economic expectations,' which are protected by
+contract, rather than tort law”). In order for a plaintiff to recover in tort, “there must be a showing of
+harm above and beyond disappointed expectations” related to the existing contractual relationship of the
+parties. Id. Consequently, when the alleged duty breached is derived from the contractual relationship, it
+cannot form the basis for a separate and distinct tort. Interstate Sec. Corp. v. Hayes Corp., 920 F.2d 769,
+775 (11th Cir. 1991); see also McCutcheon v. Kidder, Peabody & Co., Inc., 938 F. Supp. 820, 824 (S.D.
+Fla. 1996); Clayton v. State Farm Mut. Auto. Ins. Co., 729 So. 2d 1012, 1014 (Fla. 3d Dist. Ct. App.
+1999).
+
+9
+
+Case 8:07-cv-00690-EAK-MAP
+
+Document 105
+
+Filed 06/27/2008
+
+Page 16 of 32
+
+• “[T]he Holders of Certificates evidencing not less than 25% of the Voting Rights
+evidenced by the Certificates shall also have made written request upon the Trustee to
+institute such action, suit or proceeding in its own name as Trustee hereunder and shall
+have offered the Trustee such reasonable indemnity as it may require against the costs,
+expenses, and liabilities to be incurred therein or thereby” and
+• “[T]he Trustee, for 60 days after its receipt of such notice, request or offer of indemnity,
+shall have neglected or refused to institute any such action, suit or proceeding” and
+• “[I]t being expressly covenanted by each Certificateholder with every other
+Certificateholder and the Trustee, that no one or more Holders of Certificates shall have
+any right in any manner whatever by virtue or by availing itself or themselves of any
+provisions of this Agreement to . . . enforce any right under this Agreement, except in the
+manner herein provided and for the common benefit of all Certificateholders . . . .”
+(Hans Aff., Ex. D, at § 11.07.)
+Plaintiff once again has failed to plead that it has given the Trustee written notice of any
+Event of Default. Indeed, no Event of Default is even alleged to have occurred. Importantly,
+Plaintiff also fails to plead that Certificateholders holding 25% of the Voting Rights have made
+any request upon the Trustee or given the Trustee 60 days to commence an action or otherwise
+offered to hold the Trustee harmless. No such demand has been made and indeed Plaintiff
+admits that it has not done so and that it does not represent 25% of the Voting Rights. (SAC
+¶ 150.) Absent such notice and absent an unsuccessful demand coming from those holding 25%
+of the Certificate Voting Rights, Plaintiff may not commence this action. This is not and cannot
+be satisfied by a conclusory allegation of impossibility, because even if Plaintiff could
+demonstrate that it would have been “impossible” or “futile” to demand BNY assert a claim
+against itself, this does not excuse Plaintiff’s failure to gather Certificateholders representing
+25% of the outstanding notes to assert its claims. Indeed, Plaintiff has not even alleged that it
+attempted to garner such support. This Court should not permit individual Certificateholders, like
+the Plaintiff, to commence litigation in direct contravention of the PSA.
+
+10
+
+Case 8:07-cv-00690-EAK-MAP
+
+Document 105
+
+Filed 06/27/2008
+
+Page 17 of 32
+
+The Plaintiff has therefore failed even to meet the conditions precedent for bringing an
+action, and accordingly, the Second Amended Complaint must be dismissed in its entirety.
+IV.
+THE SECOND AMENDED COMPLAINT MUST BE DISMISSED AS PLAINTIFF HAS
+FAILED TO ALLEGE THAT BNY BREACHED ANY OBLIGATION UNDER THE PSA
+Counts XIV, XV and XVI necessarily fail to state a cause of action for breach of contract
+or breach of fiduciary duty as against BNY.
+A.
+
+The PSA Alone Defines the Trustee’s Duties and Obligations
+The PSA represents what is commonly known as a trust indenture, creating a trust to hold
+
+the assets that back or act as collateral for certain certificates sold to investors. The Trustee, also
+known as an indenture trustee, is charged under the PSA with specific and limited contractual
+duties prior to an Event of Default. An indenture trustee’s limited duties prior to an Event of
+Default are well-established in a long line of case law, the most recent being the aforementioned
+Raymond James & Associates v. The Bank of New York Trust Co., No. 07-CV-239-T-27TBM,
+2008 WL 186590 (M.D. Fla. Jan 18, 2008).
+In Raymond James & Associates, the plaintiff purchased from the corporate debtor “passthrough” debt securities secured by certain assets (corporate debt) held in trust. 2008 WL
+186590 at *1. The defendant had, through mergers and acquisitions, succeeded to the position of
+indenture trustee. Id.
+Judge Whittemore dismissed the claim that the defendant successor trustee had breached
+its fiduciary duty by noting that the indenture “explicitly” defined the parameters of defendant’s
+duty to provide notice, which did not include the plaintiff, who was not a “registered holder”
+entitled to notice under the indenture. Id. at *4. As here, the indenture at issue in Raymond
+James & Associates contained a provision dictating that “‘the Trustee undertakes to perform
+
+11
+
+Case 8:07-cv-00690-EAK-MAP
+
+Document 105
+
+Filed 06/27/2008
+
+Page 18 of 32
+
+such duties and only such duties as are specifically set forth in this Indenture, and no implied
+covenant or obligation shall be read into this Indenture against the Trustee . . . .’” Id. at *3
+(quoting the indenture).7
+Consequently, Judge Whittemore concluded that the defendant could not be held to any
+duty outside the four corners of the indenture document. “An indenture trustee,” he determined,
+“is not subject to the ordinary trustee’s duty of undivided loyalty. Unlike the ordinary trustee,
+who has historic common-law duties imposed beyond those in the trust agreement, an indenture
+trustee is more like a stakeholder whose duties and obligations are exclusively defined by the
+terms of the indenture agreement.” Id. at *3. (emphasis added); Elliot Assocs. v. J. Henry
+Schroder Bank & Trust Co., 838 F.2d 66, 71 (2d Cir. 1988) (finding that “under state common
+law [] the duties of an indenture trustee are strictly defined and limited to the terms of the
+indenture”); see also Meckel v. Cont’l Res. Co., 758 F.2d 811, 816 (2d Cir. 1985) (citing 15
+U.S.C. § 77ooo(a)(1), an “indenture…may provide that… the indenture trustee shall not be liable
+except for the performance of such duties as are specifically set out in such indenture”); Magten
+Asset Mgmt. Corp. v. The Bank of N.Y., No. 600410/10, 2007 WL 1326795, at *6 (Sup. Ct.
+N.Y. County May 8, 2007) (the indenture trustee’s obligations are defined by the indenture
+rather than the common law of trusts).
+New York’s highest court just this week reaffirmed these limitations of an indenture
+trustee’s liability. In AG Capital Funding Partners, L.P. v. State Street Bank and Trust Co., the
+Court confirmed the distinction between an ordinary trustee and the indenture trustee, the latter’s
+status being “‘more that of a stakeholder than one of a trustee.’” 2008 WL 2510628 (quoting
+7
+
+Notably, in Raymond James & Associates, the Court agreed with the defendant that the indenture
+was central to the plaintiff’s claims and should be considered in assessing whether the complaint stated a
+cause of action, without converting the motion to dismiss into a summary judgment motion. 2008 WL
+186590, at * 3.
+
+12
+
+Case 8:07-cv-00690-EAK-MAP
+
+Document 105
+
+Filed 06/27/2008
+
+Page 19 of 32
+
+Hazzard v. Chase Nat’l Bank of City of N.Y., 159 Misc. 57, 83-84, (1936), aff’d, 257 A.D. 950
+(1st Dep’t 1939), aff’d 282 N.Y. 652 (1940)). While the indenture trustee owes a duty to
+perform its ministerial duties with due care, the Court held this does not imply or otherwise
+“give[] rise to fiduciary duties” in advance of an Event of Default. AG Capital Funding
+Partners, 2008 WL 2510628 (emphasis in original).
+The language of the PSA mirrors that found in Raymond James & Associates, providing
+that “prior to the occurrence of an Event of Default . . . the duties and obligations of the Trustee
+shall be determined solely by the express provisions of this Agreement, the Trustee shall not be
+liable except for the performance of such duties and obligations as are specifically set forth in
+this Agreement, no implied covenants or obligations shall be read into this Agreement against
+the Trustee . . . .” (Hans Aff., Ex. D, PSA, at § 9.01(a) (emphasis added).) As such, one may
+look only to the provisions of the PSA to determine what the Trustee is and was required to do,
+how it was to act and what liabilities it may incur.
+B.
+
+Plaintiff’s Factual Allegations Fail to Constitute a Cognizable Claim
+for Breach of Contract and so Counts XIV-XV Must be Dismissed
+It is well-settled that where an agreement sets forth “an act or event, other than a lapse of
+
+time, which, unless the condition is excused, must occur before a duty to perform a promise in
+the agreement arises,” that event is a condition precedent that must be strictly enforced before
+any associated obligation may arise. Oppenheimer & Co. v. Oppenheim, Appel, Dixon & Co.,
+660 N.E.2d 415 (N.Y. 1995) (citing RESTATEMENT [SECOND] OF CONTRACTS § 224 (1981)); In re
+Harrell, 351 B.R. 221, 242 (M.D. Fla. 2006) (“Under Florida law, if a contract contains a
+condition precedent, obligations under the contract do not mature until after the condition
+precedent has occurred.”). Nowhere is that maxim more binding than in the indenture trustee
+context, where absent such strict compliance with the terms of the indenture, there can be no
+
+13
+
+Case 8:07-cv-00690-EAK-MAP
+
+Document 105
+
+Filed 06/27/2008
+
+Page 20 of 32
+
+duty to perform, and an action premised on the failure to perform will be dismissed. See, e.g.,
+Elliot Assocs., 838 F.2d at 71 (“[S]o long as the [indenture] trustee fulfills its obligations under
+the express terms of the indenture, it owes the debenture holders no additional, implicit predefault duties or obligations except to avoid conflict of interest.”).
+Here, the obligation of the Trustee is set forth in Section 4.04 of the PSA, entitled
+“Monthly Statement to the Certificateholders,” as follows:
+Trustee shall prepare and cause to be made available to each Certificateholder . . . a
+statement setting forth . . . the number and principal amount of claims submitted and
+claims paid under the TGIC Policy during the proceeding month and the number and
+principal amounts of claims submitted and claims paid under the TGIC Policy. . . .
+The Trustee’s responsibility for disbursing the above information to the
+Certificateholders is limited to the availability, timeliness and accuracy of the
+information derived from each Servicer …
+The Trustee may fully rely upon and shall have no liability with respect to
+information provided by any Servicer.
+(Hans Aff., Ex. D, at § 4.04(a)(xiv)) (emphasis added).
+Section 4.04 explicitly limits the Trustee’s duty to acquire and report only that
+information it receives. (Hans Aff., Ex. D, at § 4.04(a).) “The Trustee’s responsibility for
+disbursing the above information to the Certificateholders is limited to . . . the information
+derived from each Servicer . . . .” (Hans Aff., Ex. D, PSA at § 4.04(a)(xiv).) Section 4.04
+further provides that the Trustee has no duty to recompute, recalculate or verify the accuracy of
+any resolution, certificate, statement, opinion, report, document, order or other instrument so
+furnished to the Trustee.” (Id.) Indeed, the Trustee’s sole duty upon the receipt of a report is to
+examine the report and determine whether it conforms to the requirements of the PSA. (Hans
+Aff., Ex. D, at § 9.01.)
+Courts have uniformly dismissed actions that allege facts analogous to those at bar. For
+example, in Lorenz v. CSX Corp., 1 F.3d 1406 (3d Cir. 1993) (applying New York law),
+14
+
+Case 8:07-cv-00690-EAK-MAP
+
+Document 105
+
+Filed 06/27/2008
+
+Page 21 of 32
+
+plaintiff-debentureholders brought an action against an indenture trustee for breach of the
+implied covenant of good faith and fair dealing, arising from the indenture trustee’s failure to
+inform them of, among other things, letter agreements between the trustee and a third party. Id.
+at 1414.
+
+The Lorenz court conceded that it would have been advantageous for the
+
+debentureholders to have been informed of the letter agreements, as it would have informed them
+of potential violations of securities laws that directly impacted their investment. Nevertheless,
+the Third Circuit upheld the district court’s dismissal of the plaintiff’s claims, holding that “so
+long as an indenture trustee fulfills its obligations under the express terms of the indenture, it
+owes the debentureholders no additional, implicit duties or obligations, except to avoid conflicts
+of interest.” Id. at 1416 (citing Elliot Assocs., 838 F.2d at 71.)
+Similarly, in Williams v. Continental Stock Transfer & Trust Co., 1 F. Supp. 2d 839
+(N.D. Ill. 1998), the purchaser of collateralized mortgage debentures brought suit against the
+indenture trustee for breach of contract and breach of fiduciary duty. The plaintiff alleged that
+the trustee breached its duties by failing to inspect certain documents prior to the closing of the
+bond sale and to ensure that valid title to the mortgage loans was transferred at the closing. Id. at
+840. As here, the plaintiff attempted to rely on a provision of the indenture that, in relevant part,
+provided:
+[o]n or before the Start-Up Date and as a condition to the obligations of
+the Servicer and the Trustee under this Agreement, the [issuer] shall
+deliver documents … to the Trustee, which shall be in form and substance
+satisfactory to the Trustee.
+Id. Dismissing the claims for breach of contract and breach of fiduciary duty, the Court rejected
+plaintiff’s attempt to “impose liability on the [indenture trustee] for failing to obtain documents
+whose delivery was a precondition to the [trustee] having any obligation . . . .” Id. at 841. The
+Court added that the indenture trustee had no obligations until the issuer delivered the
+
+15
+
+Case 8:07-cv-00690-EAK-MAP
+
+Document 105
+
+Filed 06/27/2008
+
+Page 22 of 32
+
+documents, and it “turns the language completely around to argue, as the [plaintiff] does, that the
+section imposes obligations on [the indenture trustee] as opposed to the [issuer].” Id. at 840-41.
+Critical to the Court’s decision was its determination that the plaintiff’s effort to impute liability
+to the indenture trustee was simply “an attempt to evade well-settled New York law concerning
+the limited nature of an indenture trustee’s fiduciary duties.” Id. at 841 (citing Elliot Assocs.,
+838 F.2d at 71).
+It is important to note that this District subscribes to the “plain meaning” rule of contract
+interpretation. Fla. Mun. Power Agency v. Fla. Power & Light Co., 81 F. Supp. 2d 1313, 1329
+(M.D. Fla. 1999). Under this rule, where “the terms are clear and unambiguous, the court should
+interpret the agreement in accordance with its plain meaning.” Id. The plain and unambiguous
+meaning of the provision is that the Trustee must disburse that information it receives or obtains
+from the Servicer -- no more, no less.8 To read any additional obligation into that provision finds
+no home in its plain language or in any other language of the PSA.
+The Second Amended Complaint fails to acknowledge this limitation on the Trustee’s
+liability and baldly maintains that BNY breached Section 4.04 of the PSA. But where, as here,
+“the express language of the Indenture forecloses recovery as a matter of law, dismissal is
+appropriate.” Raymond James & Assocs., 2008 WL 186590, at *4-5. The Raymond James &
+Associates court, taking note of several provisions nearly identical to those found in the present
+PSA, dismissed the complaint, remarking that plaintiff’s “conclusory allegations . . . are
+contradicted by the plain language of the Indenture.”)
+
+8
+
+Importantly, contrary to Plaintiff’s assertion, the Trustee is under no obligation to question
+whether the information received from the Servicer is complete or accurate. See Hans Aff., Ex. D, PSA
+at §§ 4.04(a), 9.01 & 9.01(a).
+
+16
+
+Case 8:07-cv-00690-EAK-MAP
+
+Document 105
+
+Filed 06/27/2008
+
+Page 23 of 32
+
+In sum, the Trustee may rely on the information it has received from the Servicer and
+need not independently confirm the information it has received. With that in mind, claims of
+breach of contract necessarily fail. The Second Amended Complaint itself alleges that the
+Servicer “fail[ed] to supply the Trustee with complete and accurate information regarding the
+mortgage loans constituting the pool . . .” (SAC ¶ 121.) So too, in its original complaint filed in
+this action, Plaintiff maintained that BNY informed the Certificateholders in its Monthly Report
+that it never received the insurance claim information.9 (Complaint ¶ 52.) If the information
+presented to the Trustee is in the proper form, and there is no allegation that it was not, Plaintiff
+may not be heard to complain that the Trustee presented the information as received and in
+accordance with its obligations under the PSA.
+(i)
+
+The PSA Insulates BNY from Liability for Information
+Received From Other Sources and Delivered to Third Parties
+
+In this same vein, the indenture may expressly limit the obligations and liability of the
+indenture trustee for information produced to bondholders (or any third party), and courts
+uniformly have upheld such limitations. See, e.g., N.Y. Med. Care Facilities Fin. Agency v.
+Bank of Tokyo Trust Co., 163 Misc. 2d 551, 557 (Sup. Ct. N.Y. County 1994) (citing Dubovsky
+& Sons, Inc. v. Honeywell, Inc., 89 A.D.2d 993, 994-95 (2d Dep’t 1982) (noting that with
+respect to an indenture “it has been consistently held that exculpatory clauses . . . intended to
+insulate
+
+one
+
+9
+
+Tellingly, the Plaintiff removed any reference to the “Monthly Reports” in its Amended and
+Second Amended Complaints. Nevertheless, the Court may take judicial notice of information that has
+been publicly filed, including prior court pleadings, without converting the Rule 12(b)(6) motion into a
+motion for summary judgment. See, e.g., Smith v. Brevard County, 461 F. Supp. 2d 1243, 1248 (M.D.
+Fla. 2006) (finding that with respect to a motion to dismiss “the Court is permitted to take judicial notice
+of the allegations made in Plaintiff’s earlier Complaint, and need not accept internally inconsistent factual
+allegations”) (citing Cash Inn of Dade, Inc. v. Metro. Dade County, 938 F.2d 1239, 1243 (11th Cir.
+1991)).
+
+17
+
+Case 8:07-cv-00690-EAK-MAP
+
+Document 105
+
+Filed 06/27/2008
+
+Page 24 of 32
+
+. . . from liability . . . will be enforced . . . .”)); see also Harris Trust and Sav. Bank v. E-II
+Holdings, Inc., 722 F. Supp. 429, 443 (N.D. Ill. 1989), aff'd, 926 F.2d 636 (7th Cir. 1991).
+Here, the PSA provides that “[t]he Trustee makes no representations as to the validity or
+sufficiency of this Agreement, the Certificates or of any Mortgage Loan or related document.”
+(Hans Aff., Ex. D, at § 9.03.) Moreover, the PSA limits the Trustee’s obligations and liability as
+to that information which it has received and must deliver to any party. Specifically, Section
+9.02 of the PSA (“Certain Matters Affecting the Trustee”) provides that:
+i.
+
+the Trustee may request and rely upon and shall be protected in
+acting or refraining from acting upon any resolution, Officer’s
+certificate, certificate of auditors, Servicing Officers or any other
+certificate, statement, instrument, opinion, report, notice, request,
+consent, order, appraisal, bond or other paper or document
+believed by it to be genuine and to have been signed or presented
+by the proper party or parties . . . believed by it to be genuine . . . ;
+
+ii.
+
+prior to the occurrence of an Event of Default . . . , the Trustee
+shall not be bound to make any investigation into the facts or
+matters stated in any resolution, certificate, statement, instrument,
+opinion, report, notice, request, consent, order, approval, bond or
+other paper or document . . . .
+
+(Hans Aff., Ex. D, at § 9.02.)
+Accordingly, there is no obligation on the Trustee to conduct an independent investigation or verification of the information it receives from any source, including the Seller,
+Servicer, or Depositor. As a result, Count XV of the Second Amended Complaint as and against
+BNY should be dismissed in its entirety.
+(ii)
+
+Count XIV (Information to Rating Agencies) Fails
+to State a Cause of Action for Breach of Contract
+
+Count XIV, entitled “Breach of Contract Against [BNY] (Information to Ratings
+Agencies)” utterly fails to state a claim. Citing Section 11.05 of the PSA and referring to those
+allegations found in paragraphs 1-36 of the Second Amended Complaint, the Plaintiff contends
+
+18
+
+Case 8:07-cv-00690-EAK-MAP
+
+Document 105
+
+Filed 06/27/2008
+
+Page 25 of 32
+
+that BNY breached its obligation under the PSA to notify the Ratings Agencies of certain
+information. Specifically, the Plaintiff contends that BNY failed to notify the rating agency,
+Moody’s, and the Certificateholders that there were numerous loan deficiencies and defaults in
+the pool, that SPS had not enforced the rights against the Seller and that the insurer had declined
+to cover many of the mortgages. Had this information been provided, Plaintiff maintains,
+Moody’s would have downgraded its rating on the certificates earlier. (SAC ¶¶ 27-30; 33.)
+Plaintiff alleges that, but for BNY’s failure to act in the interests of the Certificateholders and
+properly perform its obligations as Trustee, Plaintiff would not have purchased the Securities.
+(SAC ¶¶ 147-49.)
+But Section 11.05 of the PSA provides only that BNY must notify the rating agencies in
+writing “(a) of any substitution of any Mortgage Loan; (b) any payment or draw on any
+insurance policy applicable to the Mortgage Loans; (c) of the final payment of any amount
+owing to a Class of Certificates; (d) any Event of Default under this Agreement; and (e) in the
+event any Mortgage Loan is repurchased in accordance with this Agreement.” (Hans Aff., Ex.
+D, at § 11.05.) The Second Amended Complaint, as with the prior complaints, is utterly devoid
+of any specific allegation that BNY failed to notify the rating agencies of any such occurrence.
+Indeed, no such incident is even alleged to have occurred. Instead, again Plaintiff merely sets
+forth a conclusory statement that “[BNY] breached its obligation to provide Rating Agencies, in
+writing, notice of the required events under § 11.05 of the Pooling and Service Agreement.”
+(SAC ¶ 133.) Plaintiff suggests in earlier paragraphs of the Second Amended Complaint that
+BNY failed to notify the Ratings Agencies of loan delinquencies or alleged failures to enforce
+rights under the loans or insurance policies. (SAC ¶¶ 27-30.) But, once again, the Trustee is not
+
+19
+
+Case 8:07-cv-00690-EAK-MAP
+
+Document 105
+
+Filed 06/27/2008
+
+Page 26 of 32
+
+obligated under the PSA to inform ratings agencies of such and no such obligation may be
+implied.
+Central to Plaintiff’s claim is its contention that the Ratings Agencies would have
+downgraded the bonds earlier had they known of the purported delinquencies in the pool; and,
+had the Ratings Agencies downgraded sooner, Plaintiff would not have purchased the
+Certificates in the first instance or would have sold sooner. (See SAC ¶¶ 32-35.) Curiously, by
+Plaintiff’s own admission, Moody’s began to downgrade the bonds as early as January 2005.
+By October 2006, at or about the time BNY became Trustee, Moody’s had downgraded the I-B-2
+Certificates no less than six times to what then was a “Caa1” rating. Likewise, the I-B-3
+Certificates were downgraded three times by September 2005 (a full year before BNY became
+Trustee) down to a “Ca” rating. The very downgrades which Plaintiff claims would have
+protected its interests, therefore, had occurred well before BNY ever became Trustee. (SAC
+¶ 32 n.6.) With the precipitous fall in the ratings of the Certificates over an eighteen month
+period, Plaintiff may not now complain that BNY did not do enough to inform Moody’s of the
+state of the pool.
+C.
+
+Plaintiff has Failed to Plead the Existence of any Fiduciary Duty and Thus Count
+XVI Fails as a Matter of Law
+(i)
+
+The Trustee Owes No Duty to Certificateholders
+Other Than Those Specified in the PSA
+
+In order to sustain its claim for breach of fiduciary duty, a plaintiff must first show that a
+fiduciary duty exists between him and the defendant.10 Am. Honda Motor Co. v. Motorcycle
+
+10
+
+As an initial matter, Plaintiff’s claim for breach of fiduciary duty is barred by New York’s Martin
+Act (the “Martin Act”). N.Y. GEN. BUS. LAW Art. 23-A § 352 et seq. Federal courts in diverse
+jurisdictions have held that the Martin Act bars private claims of breach of fiduciary duty arising out of
+the sale of securities. See Renovich v. Stewardship Concepts, Inc., No. 84-C-7727, 1989 WL 56197, at
+*5 (N.D. Ill. May 15, 1989) (citations omitted) (“[S]ince 1987 New York courts have held that the Martin
+Act does not provide a private cause of action for securities fraud … [a]ccordingly, summary judgment …
+
+20
+
+Case 8:07-cv-00690-EAK-MAP
+
+Document 105
+
+Filed 06/27/2008
+
+Page 27 of 32
+
+Info. Network, Inc., 390 F. Supp. 2d 1170, 1179 (M.D. Fla. 2005) (citations omitted) (“To state a
+claim for breach of fiduciary or confidential relationship, ‘a party must allege some degree of
+dependency on one side and some degree of undertaking on the other side to advise, counsel, and
+protect the weaker party.’”); see also Radin v. Albert Einstein Coll. of Med. of Yeshiva Univ.,
+No. 04 CV 704 (RPP), 2005 WL 1214281, at *14, nn.24-25 (S.D.N.Y. May 20, 2005) (applying
+New York law). But the Trustee under the PSA owes no duty, fiduciary or otherwise, beyond
+that which it is contractually bound to perform under the PSA. This is precisely what Judge
+Whittemore held in Raymond James & Associates, 2008 WL 18590, at *4, and what New York’s
+highest court held this week in AG Capital Funding Partners.
+Judge Whittemore’s ruling in dismissing plaintiff’s breach of fiduciary duty claim in
+Raymond James & Associates is entirely consistent with law both in and out of New York. The
+Second Circuit Court of Appeals, cited by Judge Whittemore in his decision, found that under
+New York law the duties of indenture trustees “are exclusively defined by the terms of the
+indenture agreement.” Elliot Assocs., 838 F.2d at 71. The New York Court of Appeals echoed
+and cited the Second Circuit’s holding in Elliott Associates in its decision this week in the AG
+Capital Funding Partners case. 2008 WL 2510628.
+Jurisdictions outside of New York have followed the same rationale, among them
+Pennsylvania, see Lorenz, 1 F.3d at 1415 (“The courts of New York consistently have held that
+the duties of an indenture trustee, unlike those of a typical trustee, are defined exclusively by the
+terms of the indenture.”) and Illinois, see Williams, 1 F. Supp. 2d at 841 (citations omitted)
+(“Although an informal fiduciary relationship can arise under New York law by the repose of
+
+is granted on the Martin Act claims); see also Nairobi Holdings Ltd. v. Brown Bros. Harriman & Co., No.
+02 Civ. 1230 (LMM), 2002 WL 31027550, at *10 (S.D.N.Y. Sept. 10, 2002) (citations omitted)
+(“Plaintiff's . . . breach of fiduciary duty claims are precluded by New York's version of the blue sky laws,
+the Martin Act . . . and should be dismissed.”)
+
+21
+
+Case 8:07-cv-00690-EAK-MAP
+
+Document 105
+
+Filed 06/27/2008
+
+Page 28 of 32
+
+trust and confidence in another party, to allow such an informal fiduciary relationship in the
+indenture trustee context would swallow the limitation on an indenture trustee’s fiduciary duties
+prior to default.”).
+An indenture trustee such as BNY cannot be held to a standard or duty not otherwise
+imposed or implied by law – indeed, in this case, one which the law has flatly dismissed -without unbalancing the “significant economic considerations” recognized by every other court,
+state legislature and Congress when limiting the role and liabilities of indenture trustees.
+Raymond James & Assocs. at *3 (citing 15 U.S.C. § 77ooo(a)(1)).11
+(ii)
+
+BNY Had No Implied Duty Outside of the PSA
+
+Failing to allege that BNY breached any pre-default obligation, the Plaintiff proposes,
+incredibly, that the Trustee had a duty to warn and thereby prevent Plaintiff from investing in the
+Certificates. In other words, according to Plaintiff, the Trustee -- because it allegedly “knew or
+should have known” of alleged delinquencies or misrepresentations regarding the mortgage loans
+included in the trust -- had an implied fiduciary obligation to an unidentified future third-party
+purchaser in the secondary market to obstruct the original sale of the Certificates. Plaintiff’s
+claims are unsustainable. 12
+
+11
+
+Importantly, where, as here, the standard of potential liability for a vast industry is at stake, a
+court must exercise greater scrutiny of the complaint in order to avoid the risk of abusive litigation. See
+Twombly, 127 S. Ct. at 1973 n.14 (“[o]n certain subjects understood to raise a high risk of abusive
+litigation, a plaintiff must state factual allegations with greater particularity than Rule 8 requires”).
+Indenture trustees operate on the understanding that their roles and obligations are limited and they price
+that role and the associated risks accordingly. See Sander v. Alexander Richardson Invs., 334 F.3d 712,
+717 (8th Cir. 2003) (citations omitted) (“businessmen can bargain over which party is to bear the risk of
+damage and set the price accordingly . . . .”); The American Bankers Association, Corporate Trust
+Committee, The Trustee’s Role in Asset-Backed Securities 4 (2003), http://www.aba.com/NR/
+rdonlyres/B1449D99-DEC6-4A5D-AFA5-3DDF8C9CC179/29968/TRUSTEES999997.doc (“Trustees
+are usually named late in the preparation of a transaction . . . and are paid relatively small fees to act as
+trustees in transactions involving large sums of money.”)
+12
+
+This claim fails also because, as has already been established, BNY was not the trustee at the time
+the loans were included in the pool and the certificates were first offered, nor was it the trustee when the
+
+22
+
+Case 8:07-cv-00690-EAK-MAP
+
+Document 105
+
+Filed 06/27/2008
+
+Page 29 of 32
+
+Plaintiff may not impose an implied obligation on BNY to ensure the sufficiency, or nondelinquency, of each and every loan included in the pool. Courts have universally rejected
+implied pre-default duties or, for that matter, any implied duty to warn future purchasers. See
+Dresner Co. Profit Sharing Plan v. First Fid. Bank, N.A., No. 95-CV-1924, 1996 WL 694345
+(S.D.N.Y. Dec. 4, 1996). Dresner is on all fours. There, the plaintiff-bondholders alleged that
+the indenture trustees “knew or should have known that the [issuer’s] financial condition was
+deteriorating rapidly and that the value of the collateral was likewise declining.” Id. at *4. The
+indenture provided that the indenture trustees were required “to examine certain evidence,
+reports and documents.” Id. at *5. Given the trustee’s alleged knowledge of the issuer’s
+financial condition and the express requirement to examine certain evidence, the bondholders
+argued that the trustees should have taken further “steps either to inquire as to the location and
+condition of the Collateral or to take advantage of their rights to inspect [the issuer’s] books and
+records relating to the Collateral.” Id. at *5 (citations omitted). In short, as here, the plaintiffs
+were alleging the indenture trustees had an implied duty to protect the bondholders’ investment
+above and beyond the express terms of the indenture.
+The Dresner court rejected the bondholders’ argument out of hand, and granted the
+trustees’ motion to dismiss.
+
+There, as here, the plaintiff did not “cite any express, non-
+
+discretionary duty under the indenture which the trustees failed to satisfy,” and thus the Court
+flatly refused to find an implied pre-default obligation on the indenture trustees to act on
+information that was arguably just as accessible to the bondholders. Id. at *5; see also Lorenz, 1
+F.3d at 1415 (“Unless the indenture trustee has deprived debentureholders of a right or benefit
+specifically provided to them in the indenture, there is no implied covenant of good faith and fair
+
+Plaintiff purchased its Certificates. Plaintiff’s claim is no less deficient for its failure to specify what
+loans it claims to have been delinquent at the time of its purchase.
+
+23
+
+Case 8:07-cv-00690-EAK-MAP
+
+Document 105
+
+Filed 06/27/2008
+
+Page 30 of 32
+
+dealing”) (citing Broad v. Rockwell Int’l Corp., 642 F.2d 929, 957-58 (5th Cir.) (en banc)
+(applying New York law)); Metro. Life Ins. Co. v. RJR Nabisco, Inc., 716 F. Supp. 1504, 151722 (S.D.N.Y. 1989) (finding no breach of implied covenant under New York law where
+corporation’s incurrence of debt to fund leveraged buyout depleted the value of its debentures, as
+the indenture lacked any terms prohibiting the transaction).
+V.
+THE PLAINTIFF’S CIVIL CONSPIRACY CLAIM REMAINS UNTENABLE AS AGAINST BNY
+As with its earlier iterations, Plaintiff’s civil conspiracy claim is untenable against BNY,
+as BNY would have had to have participated in the alleged conspiracy prior to Plaintiff’s
+purchase of the Securities, years before BNY had any connection with the Securities. To
+establish a claim of civil conspiracy, Plaintiff must demonstrate the following four elements:
+“(1) an agreement between two or more parties; (2) an overt act in furtherance of the agreement;
+(3) the parties’ intentional participation in the furtherance of a plan or purpose; and (4) resulting
+damage or injury.” Fisk v. Letterman, 424 F. Supp. 2d 670, 677 (S.D.N.Y. 2006) (citation
+omitted).13
+In support of its civil conspiracy claim against BNY, Plaintiff asserts that “[BNY], as
+Trustee, intentionally withheld crucial information from purchasers, such as BANKERS, which
+would have disclosed the true risks associated with ownership of the Certificates and the actions
+of the co-defendants.” (SAC ¶ 159.) This lone assertion fails to assert a claim for civil
+conspiracy against BNY on three fronts: (1) as set forth supra, BNY was not the Trustee at the
+
+13
+
+The elements for civil conspiracy are similar under Florida law. See Walters v. Blankenship, 931
+So. 2d 137, 140 (Fla. 5th Dist. Ct. App. 2006) (noting that the elements to sustain a cause of action for
+civil conspiracy are: (i) a conspiracy between two or more parties, (ii) to do an unlawful act or to do
+some overt act in pursuance of the conspiracy, (iii) the doing of some overt act in pursuance of the
+conspiracy, and (iv) damage to plaintiff as a result of the acts performed pursuant to the conspiracy)
+(citations omitted). The overt act or acts must be tortious or unlawful acts. Id.
+
+24
+
+Case 8:07-cv-00690-EAK-MAP
+
+Document 105
+
+Filed 06/27/2008
+
+Page 31 of 32
+
+time that the Certificates were purchased, so it was impossible for BNY to act at all, let alone
+unlawfully or tortiously; (2) Plaintiff fails to allege what information was withheld, and mere
+conclusory statements standing alone will not suffice; and (3) Plaintiff fails to plead facts in
+support of any form of conspiracy between BNY and another defendant.
+As a result, the claim for civil conspiracy against BNY fails as a matter of law and Count
+XVII as and against BNY should be dismissed.
+CONCLUSION
+For all the foregoing reasons, BNY respectfully requests that the Court grant its motion to
+dismiss the Second Amended Complaint as against BNY in its entirety and with prejudice.
+Dated: New York, New York
+June 27, 2008
+THE BANK OF NEW YORK
+By: s/ Richard F. Hans
+Edmund S. Whitson
+E-mail: edmund.whitson@akerman.com
+
+Richard F. Hans (admitted pro hac vice)
+E-mail: rhans@tpw.com
+John P. Doherty (admitted pro hac vice)
+E-mail: jdoherty@tpw.com
+Andrew B. Zinman (admitted pro hac vice)
+E-mail: azinman@tpw.com
+
+AKERMAN SENTERFITT
+SunTrust Financial Centre
+401 E. Jackson Street, Suite 1700
+Tampa, FL 33602-5250
+Telephone: (813) 223-7333
+Fax: (813) 223-2837
+
+THACHER PROFFITT & WOOD LLP
+Two World Financial Center
+New York, NY 10281
+Telephone: (212) 912-7400
+Fax: (212) 912-7751
+Attorneys for The Bank of New York
+
+25
+
+Case 8:07-cv-00690-EAK-MAP
+
+Document 105
+
+Filed 06/27/2008
+
+Page 32 of 32
+
+CERTIFICATE OF SERVICE
+I hereby certify that on June 27, 2008, I electronically filed the foregoing document with
+the Clerk of the Court using CM/ECF. I also certify that the foregoing document is being served
+this day on all counsel of record or pro se parties identified on the attached Service List in the
+manner specified, either via transmission of Notices of Electronic filing generated by CM/ECF
+or in some other authorized manner for those counsel or parties who are not authorized to receive
+electronically Notices of Electronic Filing.
+The Hodkin Kopelowitz Ostrow Firm, P.A.:
+hodkin@thkolaw.com
+kopelowitz@tkolaw.com
+jones@thkolaw.com
+streisfeld@tkolaw.com
+Ledbetter & Associates, PA:
+dledbetter@dlsecuritieslaw.com
+Murray, Marin & Herman, P.A.:
+jmurray@mmhlaw.com
+cdoran@mmhlaw.com
+Gunster Yoakley & Stewart, P.A.:
+jmariani@gunster.com
+McKee Nelson LLP:
+coloughlin@mckeenelson.com
+jqsmith@mckeenelson.com
+seckas@mckeenelson.com
+Locke Lord Bissell & Liddell, LLP:
+sfleischmann@lordbissell.com
+tcunningham@lordbissell.com
+docket@lordbissell.com,
+
+/s/ Richard F. Hans
+Richard F. Hans
+
+

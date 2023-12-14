@@ -1,0 +1,1855 @@
+Case 3:07-cv-02000-H-CAB
+
+1
+2
+3
+4
+
+Document 56
+
+Filed 11/21/2007
+
+Page 1 of 18
+
+David A. Hahn (SBN 125784)
+HAHN & ADEMA
+501 West Broadway, Suite 1600
+San Diego, California 92101-3595
+Telephone: (619) 235-2100
+Facsimile: (619) 235-2101
+
+5
+
+Attorney for Plaintiffs Lucent Technologies Inc.
+and Multimedia Patent Trust
+
+6
+
+Additional counsel listed on the last page.
+
+7
+8
+
+UNITED STATES DISTRICT COURT
+
+9
+
+SOUTHERN DISTRICT OF CALIFORNIA
+
+10
+11
+
+LUCENT TECHNOLOGIES INC. and
+MULTIMEDIA PATENT TRUST,
+
+12
+13
+14
+15
+
+v.
+
+Plaintiffs,
+
+GATEWAY, INC., GATEWAY COUNTRY
+STORES LLC, GATEWAY COMPANIES, INC.,
+GATEWAY MANUFACTURING LLC and
+COWABUNGA ENTERPRISES, INC.,
+Defendants,
+
+16
+
+and
+
+17
+
+MICROSOFT CORPORATION,
+
+18
+19
+
+Intervener.
+MICROSOFT CORPORATION,
+
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+v.
+
+Plaintiff,
+
+LUCENT TECHNOLOGIES INC.,
+Defendant.
+LUCENT TECHNOLOGIES INC. and
+MULTIMEDIA PATENT TRUST,
+v.
+
+Plaintiffs,
+
+DELL INC.,
+Defendant.
+
+Case No. 07-CV-2000-H (CAB)
+consisting of matters severed from
+consolidated cases:
+Case No. 02-CV-2060 B (CAB)
+Case No. 03-CV-0699 B (CAB)
+Case No. 03-CV-1108 B (CAB)
+PLAINTIFFS’ OPPOSITION TO
+DELL’S MOTION FOR
+RECONSIDERATION OF THE
+COURT’S OCTOBER 1, 2007
+ORDER
+Date:
+Time:
+Courtroom:
+Judge:
+
+December 7, 2007
+9:00 a.m.
+13
+Hon. Marilyn L. Huff
+
+Case 3:07-cv-02000-H-CAB
+
+1
+
+Document 56
+
+Filed 11/21/2007
+
+Page 2 of 18
+
+TABLE OF CONTENTS
+
+2
+
+I.
+
+INTRODUCTION .....................................................................................................................1
+
+3
+
+II.
+
+PROCEDURAL HISTORY.......................................................................................................2
+
+4
+
+III.
+
+ARGUMENT.............................................................................................................................4
+
+5
+
+A.
+
+Legal Standards..............................................................................................................4
+
+B.
+
+7
+
+Dell Presents No Basis For Reconsideration Of This Court’s Grant Of
+Summary Judgment Dismissing Dell’s License Defense. .............................................5
+
+8
+
+1.
+
+The Court Committed No Legal Error In Twice Rejecting Dell’s
+Erroneous Interpretation Of Federal Circuit Precedent Concerning
+Patent Assignments............................................................................................5
+
+2.
+
+Dell’s Alleged Factual Dispute Concerning Alcatel’s Consent To
+Lucent’s Transfer Of The Video Coding Patents Is Neither Genuine
+Nor Material.......................................................................................................7
+
+6
+
+9
+10
+11
+12
+
+C.
+
+Dell Presents No Basis For Reconsideration Of This Court’s Grant Of
+Summary Judgment Dismissing Dell’s Tortious Interference With Contract
+Counterclaim..................................................................................................................8
+
+D.
+
+Dell Presents No Basis For Reconsideration Of This Court’s Grant Of
+Summary Judgment Dismissing Its Co-Defendants’ Unclean Hands Defenses..........10
+
+E.
+
+No Good Cause Exists To Certify This Court’s License And Unclean Hands
+Rulings For Interlocutory Appeal. ...............................................................................12
+
+13
+14
+15
+16
+17
+18
+
+IV.
+
+CONCLUSION........................................................................................................................14
+
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+PLAINTIFFS’ OPPOSITION TO DELL’S MOTION FOR
+RECONSIDERATION OF THE COURT’S OCTOBER 1, 2007 ORDER
+
+i
+
+Case No. 07-CV-2000 H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+1
+
+Document 56
+
+Filed 11/21/2007
+
+Page 3 of 18
+
+TABLE OF AUTHORITIES
+
+2
+
+CASES
+
+3
+
+389 Orange Street Partners v. Arnold,
+179 F.3d 656 (9th Cir.1999) ..................................................................................................... 4
+
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+Abbott Labs. v. Syntron Bioresearch Inc.,
+No. 98-CV-2359 H (POR), 2000 WL 33967724 (S.D. Cal. Sept. 28, 2000) ......................... 12
+Aktiebolag v. Waukesha Cutting Tools, Inc.,
+640 F. Supp. 1139 (E.D. Wis. 1986)....................................................................................... 12
+Carroll v. Nakatani,
+342 F.3d 934 (9th Cir. 2003) .................................................................................................... 4
+Coopers & Lybrand v Livesay,
+437 U.S. 463 (1978)................................................................................................................ 12
+Environmental Protection Info. Ctr. v. Pacific Lumber Co.,
+2004 U.S. Dist. LEXIS 6674 (N.D. Cal. 2004) ..................................................................... 13
+Fuller v. M.G. Jewelry,
+950 F.2d 1437 (9th Cir. 1991) .................................................................................................. 4
+Hopkins v. Andaya,
+958 F.2d 881 (9th Cir. 1992) .................................................................................................... 4
+Hopper v. Fin. Mgmt. Sys., Inc.,
+Civ. A. No. 96-456 (TAF), 1997 WL 31101 (D.D.C. Jan. 23, 1997)..................................... 10
+Kern-Tulare Water Dist. v. Bakersfield,
+634 F. Supp. 656 (E.D. Cal. 1986).......................................................................................... 13
+Keystone Driller Co. v. General Excavator Co.,
+290 U.S. 240 (1933)................................................................................................................ 11
+LaForte v. Horner,
+833 F.2d 977 (Fed. Cir. 1987)................................................................................................... 6
+Morrow v. Microsoft Corp.,
+499 F.3d 1332 (Fed. Cir. 2007)............................................................................................. 5, 6
+Princess Cruises, Inc. v. U.S.,
+397 F.3d 1359 (Fed. Cir. 2005)............................................................................................... 12
+Propat Int’l Corp. v. RPost, Inc.,
+473 F.3d 1187 (Fed. Cir. 2007)................................................................................................. 6
+Rosenfeld v. Department of Justice,
+57 F.3d 803 (9th Cir. 1995) ...................................................................................................... 4
+School Dist. No. 1J, Multnomak Cty. v. ACandS, Inc,
+5 F.3d 1255 (9th Cir. 1993) ...................................................................................................... 4
+PLAINTIFFS’ OPPOSITION TO DELL’S MOTION FOR
+RECONSIDERATION OF THE COURT’S OCTOBER 1, 2007 ORDER
+
+ii
+
+Case No. 07-CV-2000 H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+3
+4
+5
+6
+
+Filed 11/21/2007
+
+Page 4 of 18
+
+TABLE OF AUTHORITIES
+(Continued)
+
+1
+2
+
+Document 56
+
+Sicom Systems Ltd. v. Agilent Technologies, Inc.,
+427 F.3d 971 (Fed. Cir. 2005)................................................................................................... 6
+Taylor v. Knapp,
+871 F.2d 803 (9th Cir. 1989) .................................................................................................... 4
+United States Rubber Co. v. Wright,
+359 F.2d 784 (9th Cir. 1966) .................................................................................................. 12
+
+7
+
+Velop, Inc. v. Kaplan, et al.,
+301 N.J. Super. 32 (N.J. Super. App. Div. 1997) ................................................................... 10
+
+8
+
+STATUTES
+
+9
+
+28 U.S.C. § 1292(b) ............................................................................................................................ 12
+
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+PLAINTIFFS’ OPPOSITION TO DELL’S MOTION FOR
+RECONSIDERATION OF THE COURT’S OCTOBER 1, 2007 ORDER
+
+iii
+
+Case No. 07-CV-2000 H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+1
+2
+
+I.
+
+Document 56
+
+Filed 11/21/2007
+
+Page 5 of 18
+
+INTRODUCTION
+Courts do not reconsider rulings simply because a litigant disagrees with the outcome and
+
+3
+
+desires a second — or in Dell’s case, third — opportunity to present its arguments. Dell
+
+4
+
+nevertheless moves for reconsideration of three adverse summary judgment rulings based almost
+
+5
+
+exclusively on arguments that this Court has already carefully considered and properly rejected.
+
+6
+
+Standing alone, Dell’s failure even to attempt to identify legitimate grounds for reconsideration —
+
+7
+
+such as newly discovered evidence, an intervening change in law, or any “clear error” committed by
+
+8
+
+this Court (other than simply disagreeing with Dell’s previously stated positions) — warrants denial
+
+9
+
+of Dell’s motion.
+
+10
+
+Nor do Dell’s substantive arguments carry any more weight now than they did before. Dell’s
+
+11
+
+challenge to the dismissal of its license defense hinges on the erroneous contention — already
+
+12
+
+rejected by this Court on two separate occasions — that the Federal Circuit has established a per se
+
+13
+
+rule that an assignor’s retention of the right to veto subsequent transfers defeats a patent assignment.
+
+14
+
+Along the way, Dell both misrepresents the nature of this Court’s reliance on the Federal Circuit’s
+
+15
+
+recent Morrow decision and misapplies Federal Circuit law concerning prior precedential opinions.
+
+16
+
+Dell’s challenge to this Court’s dismissal of its counterclaim for tortious interference with
+
+17
+
+contract fares no better. In portraying that ruling as inconsistent with the denial of summary
+
+18
+
+judgment on Dell’s counterclaim for tortious interference with prospective economic advantage, Dell
+
+19
+
+focuses solely on the alleged identity of its factual allegations concerning the two counterclaims and
+
+20
+
+ignores the dispositive difference in their legal elements — namely, the requirement for proof that
+
+21
+
+Lucent induced a third-party’s failure to perform a contractual obligation. As this Court has
+
+22
+
+correctly held, the third-party at issue here — Alcatel — never had a contractual obligation to
+
+23
+
+license the video coding patents-in-suit, so there was no contract for Lucent to interfere with.
+
+24
+
+Finally, Dell’s challenge to this Court’s grant of summary judgment dismissing the defense
+
+25
+
+of unclean hands — a defense that Dell never even pled until summary judgment had already been
+
+26
+
+granted — also lacks merit. Dell simply regurgitates the arguments that its co-defendants
+
+27
+
+unsuccessfully raised and attempts to manufacture clear legal error by mischaracterizing the bases
+
+28
+
+for this Court’s unclean hands ruling. In reality, this Court properly determined that the evidence
+PLAINTIFFS’ OPPOSITION TO DELL’S MOTION FOR
+RECONSIDERATION OF THE COURT’S OCTOBER 1, 2007 ORDER
+
+Case No. 07-CV-2000 H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 56
+
+Filed 11/21/2007
+
+Page 6 of 18
+
+1
+
+presented by the defendants on summary judgment failed to create a triable issue as to whether
+
+2
+
+Lucent’s allegedly improper conduct impacted the equities between the parties to this case. That
+
+3
+
+determination hardly constitutes clear error, and amply supports this Court’s grant of summary
+
+4
+
+judgment.
+
+5
+
+II.
+
+6
+
+PROCEDURAL HISTORY
+This consolidated action has been pending since 2002. In November 2006, Lucent formed a
+
+7
+
+Delaware Statutory Trust called the Multimedia Patent Trust (“MPT”) and transferred to MPT two
+
+8
+
+of the patents-in-suit: the Haskell ‘226 patent and the Netravali ‘272 patent (collectively, “the
+
+9
+
+“Video Coding Patents”). In January 2007, Multimedia Patent Trust was substituted for Lucent as
+
+10
+
+plaintiff for the Video Coding Patents. The circumstances surrounding Lucent’s formation of MPT,
+
+11
+
+transfer of the Video Coding Patents, and subsequent merger with Alctael S.A. (“Alcatel”) are
+
+12
+
+detailed in the briefing submitted by MPT and Lucent in support of their motions for summary
+
+13
+
+judgment on trust-related issues, and will not be repeated here. (See Case No. 02-CV-2060 D.I.
+
+14
+
+1981, Aug. 17, 2007 Memorandum Of Points And Authorities In Support Of Multimedia Patent
+
+15
+
+Trust’s And Lucent’s Motions For Summary Judgment On Trust-Related Defenses And
+
+16
+
+Counterclaims at 1-6.)
+
+17
+
+Beginning in February 2007, the defendants amended their pleadings to raise an array of
+
+18
+
+affirmative defenses and counterclaims based on Lucent’s creation of MPT, transfer of the Video
+
+19
+
+Coding Patents, and merger with Alcatel. For example, and despite knowing throughout this
+
+20
+
+five-year litigation that their respective licenses from the MPEG-LA patent pool gave them no rights
+
+21
+
+whatsoever in the Video Coding Patents, the defendants all asserted license defenses based on
+
+22
+
+Alcatel’s membership in MPEG-LA. (See Case No. 02-CV-2060 D.I. 2109, Oct. 1, 2007 Order
+
+23
+
+Granting In Part And Denying In Part Parties’ Motions For Summary Judgment (“the Oct. 1, 2007
+
+24
+
+Order”) at 4.) Gateway and Microsoft — but not Dell — also asserted the equitable defense of
+
+25
+
+unclean hands based on Lucent’s alleged failure to disclose to various government agencies its plan
+
+26
+
+to form MPT and transfer the Video Coding Patents. (See id. at 13.) In addition, the defendants all
+
+27
+
+asserted counterclaims for tortious interference with contract based on Lucent’s alleged interference
+
+28
+
+with their MPEG-LA Portfolio Licenses. (See, e.g., id. at 20-21.)
+PLAINTIFFS’ OPPOSITION TO DELL’S MOTION FOR
+RECONSIDERATION OF THE COURT’S OCTOBER 1, 2007 ORDER
+
+2
+
+Case No. 07-CV-2000 H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+1
+
+Document 56
+
+Filed 11/21/2007
+
+Page 7 of 18
+
+On August 17, 2007, MPT and Lucent moved for summary judgment on many of the
+
+2
+
+defendants’ affirmative defenses and counterclaims, including the license, unclean hands, and
+
+3
+
+tortious interference with contract theories described above. By Order dated October 1, 2007, this
+
+4
+
+Court granted summary judgment in favor of MPT and Lucent on those issues. (See id.) In ruling
+
+5
+
+on the license motion, this Court rejected the defendants’ argument that Federal Circuit precedent
+
+6
+
+establishes a per se rule whereby retention of the power to block subsequent transfers defeats a
+
+7
+
+patent assignment. (See id. at 6.) The Court went on to conclude that — viewed as a whole and
+
+8
+
+weighed against the rights transferred to MPT — any rights retained by Lucent did not render its
+
+9
+
+assignment of the Video Coding Patents ineffective. (See id. at 6.)
+
+10
+
+In granting summary judgment in favor of MPT and Lucent on the equitable defense of
+
+11
+
+unclean hands, this Court found that the defendants failed to meet their burden on summary
+
+12
+
+judgment of presenting evidence sufficient to support a finding in their favor on a necessary element
+
+13
+
+of the unclean hands defense. Specifically, the Court concluded that the summary judgment record
+
+14
+
+lacked evidence demonstrating that the equities between the instant litigants were affected by the
+
+15
+
+alleged misconduct by Lucent — a supposed failure to disclose to governmental organizations its
+
+16
+
+plan to transfer the Video Coding Patents. (See id. at 13-14.)
+
+17
+
+Likewise, this Court granted summary judgment in favor of MPT and Lucent on the
+
+18
+
+defendants’ tortious interference with contract counterclaims because the defendants failed to come
+
+19
+
+forward with proof on a necessary element of those claims — namely, a third-party’s failure to
+
+20
+
+perform a contractual obligation. (See id. at 13-14.) This Court found that Lucent could not have
+
+21
+
+interfered with the defendants’ MPEG LA licenses by transferring the Video Coding Patents,
+
+22
+
+because MPEG LA had no right to license the Video Coding Patents.
+
+23
+
+In September 2007, Dell filed a motion to dismiss MPT’s infringement claims in a related
+
+24
+
+case pending before this Court, Case No. 07-CV-0747 (CAB) (“the 2007 litigation”). (See Case No.
+
+25
+
+07-CV-0746 D.I. 149, Oct. 9, 2007 Order Denying Defendants’ Motion To Dismiss Pursuant To
+
+26
+
+Fed. R. Civ. P. 12(b)(1) (“the Oct. 9, 2007 Order”) at 3.) The three patents-in-suit in the 2007
+
+27
+
+litigation were also transferred to MPT by Lucent in November 2006. (See id. at 2.) In moving to
+
+28
+
+dismiss, Dell argued — just as it argues here — that the assignment of those patents to MPT was
+PLAINTIFFS’ OPPOSITION TO DELL’S MOTION FOR
+RECONSIDERATION OF THE COURT’S OCTOBER 1, 2007 ORDER
+
+3
+
+Case No. 07-CV-2000 H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+1
+
+Document 56
+
+Filed 11/21/2007
+
+Page 8 of 18
+
+ineffective because Lucent retained the right to veto subsequent transfers. (See id. at 7.)
+
+2
+
+By Order dated October 9, 2007, this Court denied Dell’s motion to dismiss the 2007
+
+3
+
+litigation. (See id. at 13.) Once again — and independently1 — this Court rejected Dell’s contention
+
+4
+
+that Federal Circuit authority sets forth a per se rule that retention of the power to block subsequent
+
+5
+
+transfers defeats a patent assignment. (See id. at 8 (“A closer reading indicates that reserving veto
+
+6
+
+power on the right to transfer is merely a factor weighing against standing, not a independently
+
+7
+
+sufficient condition to prevent it.”).)
+
+8
+9
+10
+
+On October 31, 2007, Dell filed the instant motion for reconsideration. Microsoft filed a
+notice of joinder in Dell’s motion the same day.
+III.
+
+ARGUMENT
+
+11
+
+A.
+
+12
+
+Motions for reconsideration “should not be granted, absent highly unusual circumstances.”
+
+Legal Standards.
+
+13
+
+See 389 Orange Street Partners v. Arnold, 179 F.3d 656, 665 (9th Cir.1999). Indeed,
+
+14
+
+reconsideration is appropriate only where (1) the court is “presented with newly-discovered
+
+15
+
+evidence,” (2) the court “committed clear error or the initial decision was manifestly unjust, or
+
+16
+
+(3) there is an intervening change in controlling law.” School Dist. No. 1J, Multnomak Cty. v.
+
+17
+
+ACandS, Inc, 5 F.3d 1255, 1263 (9th Cir. 1993). Where the moving party presents arguments that
+
+18
+
+the court already considered and rejected, the motion for reconsideration should be denied. See
+
+19
+
+Fuller v. M.G. Jewelry, 950 F.2d 1437, 1442 (9th Cir. 1991), citing Taylor v. Knapp, 871 F.2d 803,
+
+20
+
+805 (9th Cir. 1989). A motion for reconsideration “may not be used to raise arguments or present
+
+21
+
+evidence for the first time when they could reasonably have been raised earlier in the litigation.”
+
+22
+
+Carroll v. Nakatani, 342 F.3d 934, 945 (9th Cir. 2003); Rosenfeld v. Department of Justice, 57 F.3d
+
+23
+
+803, 811 (9th Cir. 1995) (no abuse of discretion in declining to consider an argument “raised for the
+
+24
+
+first time on reconsideration without a good excuse”); Hopkins v. Andaya, 958 F.2d 881, 887 n.5
+
+25
+
+(9th Cir. 1992) (“A defeated litigant cannot set aside a judgment because he failed to present on a
+
+26
+27
+28
+
+1 The October 1, 2007 summary judgment rulings were issued by the Honorable Rudi M.
+Brewster, whereas the October 9, 2007 motion to dismiss ruling in the 2007 litigation was issued
+by the Honorable Marilyn L. Huff.
+
+PLAINTIFFS’ OPPOSITION TO DELL’S MOTION FOR
+RECONSIDERATION OF THE COURT’S OCTOBER 1, 2007 ORDER
+
+4
+
+Case No. 07-CV-2000 H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+Document 56
+
+Filed 11/21/2007
+
+Page 9 of 18
+
+motion for summary judgment all the facts known to him that might have been useful to the court.”).
+B.
+
+Dell Presents No Basis For Reconsideration Of This Court’s Grant Of Summary
+Judgment Dismissing Dell’s License Defense.
+
+Dell fails to demonstrate that this Court committed clear legal or factual error warranting
+reconsideration of its summary judgment rulings disposing of Dell’s license defense. Indeed, Dell’s
+motion for reconsideration rests on a contention that this Court has twice properly rejected: namely,
+the mistaken premise that under Federal Circuit precedent, an assignee’s retention of the right to bar
+further assignment necessarily renders an express patent assignment ineffective. Nor did this Court
+base its holding, as Dell contends, on a determination that any such precedent was overruled by the
+Federal Circuit’s recent decision in Morrow v. Microsoft Corp., 499 F.3d 1332 (Fed. Cir. 2007).
+Dell’s legal arguments therefore lack merit.
+Likewise, because the defendants themselves admitted — even urged — during summary
+judgment proceedings that Alcatel consented in writing to Lucent’s formation of MPT and transfer
+of the Video Coding Patents, Dell cannot now credibly contend that this Court’s finding to that
+effect constitutes “clear error.” Moreover, even if Alcatel failed to provide proper written consent,
+and even if the lack of such written consent placed Lucent in breach of the merger agreement, such
+breach would not nullify Lucent’s transfer of the Video Coding Patents. As such, Dell also fails to
+demonstrate any clear error of fact — let alone material fact — committed by this Court.
+1.
+
+The Court Committed No Legal Error In Twice Rejecting Dell’s
+Erroneous Interpretation Of Federal Circuit Precedent Concerning
+Patent Assignments.
+
+Dell contends that this Court committed legal error by relying on the Morrow decision to
+overrule “clear” and “unequivocal” Federal Circuit authority holding that “an unfettered restriction
+on alienation of [a] purportedly assigned patent defeats assignment.” Dell Br. at 7-8. As this Court
+recognized in the October 9, 2007 Order, Dell’s argument fails from the outset because the Federal
+Circuit never established such a bright line rule:
+A closer reading [of the Federal Circuit’s precedent] indicates that
+reserving veto power on the right to transfer is merely a factor weighing
+against standing, not a independently sufficient condition to prevent it.
+(Oct. 9, 2007 Order at 8 (emphasis added).) Judge Brewster independently reached the same
+PLAINTIFFS’ OPPOSITION TO DELL’S MOTION FOR
+RECONSIDERATION OF THE COURT’S OCTOBER 1, 2007 ORDER
+
+5
+
+Case No. 07-CV-2000 H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 56
+
+Filed 11/21/2007
+
+Page 10 of 18
+
+1
+
+conclusion in the October 1, 2007 Order. (See Oct. 1, 2007 Order at 6 (“[W]here a party does not
+
+2
+
+have the unfettered right to assign, a finding that the party lacks ‘all substantial rights’ to the patent
+
+3
+
+has generally involved circumstances where the party lacks additional key rights . . ..”) (emphasis
+
+4
+
+added).) Dell provides no grounds — let alone new grounds — for assigning clear error to that legal
+
+5
+
+conclusion.
+
+6
+
+Nor did this Court improperly rely on Morrow to “overrule” prior inconsistent Federal
+
+7
+
+Circuit authority. Rather, this Court merely noted that the Morrow decision — which recognized
+
+8
+
+that veto power over subsequent alienation is “not significantly restrictive of [a title-owner’s]
+
+9
+
+exclusionary rights” to defeat assignment (see Morrow, 499 F.3d at 1342) — supports the Court’s
+
+10
+
+conclusion that Federal Circuit precedent never established a contrary per se rule in the first place.
+
+11
+
+(See Oct. 1, 2007 Order at 6; accord Oct. 9, 2007 Order at 9 (emphasis added).) As such, the
+
+12
+
+Morrow decision had nothing to “overrule.”
+
+13
+
+Moreover, even if the cases cited by Dell — including Sicom Systems Ltd. v. Agilent
+
+14
+
+Technologies, Inc., 427 F.3d 971 (Fed. Cir. 2005) and Propat Int’l Corp. v. RPost, Inc., 473 F.3d
+
+15
+
+1187 (Fed. Cir. 2007) — applied such a per se rule, reliance on Morrow in this case would not
+
+16
+
+violate the Federal Circuit’s rule concerning prior precedential opinions. That rule simply prevents
+
+17
+
+one Federal Circuit panel from overruling a previous panel decision “to the extent that the issues in
+
+18
+
+the [later] case are identical to those decide in [the former].” LaForte v. Horner, 833 F.2d 977, 980
+
+19
+
+(Fed. Cir. 1987). But as this Court has recognized, unlike here, the Sicom and Propat decisions
+
+20
+
+“involved the retention of legal title by the party purporting to make an assignment.” (Oct. 9, 2007
+
+21
+
+Order at 10 (emphasis added).) In light of that distinction, and the fact that the Sicom and Propat
+
+22
+
+decisions concerned the retention of key rights above and beyond the right to bar further alienation,
+
+23
+
+this Court had no reason to — and did not — hold that Morrow overrules Sicom or Propat.
+
+24
+
+Finally, Dell’s contention that this Court ignored certain rights in the Video Coding Patents
+
+25
+
+retained by Lucent has no basis in fact. In briefing and arguing motions for summary judgment, Dell
+
+26
+
+and its co-defendants vigorously called this Court’s attention to the complete set of rights that
+
+27
+
+Lucent allegedly reserved for itself when it assigned the Video Coding Patents to MPT, including all
+
+28
+
+of the rights that Dell now recites in support of its motion for reconsideration. While the October 1,
+PLAINTIFFS’ OPPOSITION TO DELL’S MOTION FOR
+RECONSIDERATION OF THE COURT’S OCTOBER 1, 2007 ORDER
+
+6
+
+Case No. 07-CV-2000 H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 56
+
+Filed 11/21/2007
+
+Page 11 of 18
+
+1
+
+2007 Order does not expressly address each and every one of those rights, Dell’s contention that this
+
+2
+
+Court must therefore have ignored them is rank speculation, not proof of clear error. Indeed, the
+
+3
+
+October 1, 2007 Order plainly recognized that “[t]o determine whether a provision in an agreement
+
+4
+
+constitutes an assignment or a license, one must ascertain the intention of the parties and examine
+
+5
+
+the substance of what was granted.” (Oct. 1, 2007 Order at 5.) No basis exists to presume that this
+
+6
+
+Court failed to apply the very legal standard set forth in its Order.
+
+7
+8
+
+In sum, Dell’s reiteration of the same arguments that it unsuccessfully pursued on summary
+judgment fails to establish any clear error of law warranting reconsideration.2
+
+9
+
+2.
+
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+Dell’s Alleged Factual Dispute Concerning Alcatel’s Consent To Lucent’s
+Transfer Of The Video Coding Patents Is Neither Genuine Nor Material.
+
+Dell also contends that this Court committed clear factual error by concluding that Alcatel
+consented in writing to Lucent’s assignment of the Video Coding Patents to MPT. According to
+Dell, absent such written agreement, Lucent breached its merger agreement with Alcatel, thereby
+rendering the transfer of the Video Coding Patents a nullity. Dell’s argument for reconsideration
+fails both because Dell can demonstrate no clear error in this Court’s factual determination, and
+because any such error would not have altered the propriety of the summary judgment grant.
+First, during summary judgment arguments, the Court inquired whether certain e-mails
+between Lucent and Alcatel employees — which the defendants introduced into the summary
+judgment record — demonstrate that Alcatel provided written consent for the transfer of the Video
+Coding Patents. (Ex. A, Sept. 26, 2007 Hr’g Tr. at 73-74.)3 In response, counsel for Microsoft
+agreed, stating “I think you could interpret it as being written consent.” (Id. at 74.) As such, Dell
+Even if this Court erred in concluding that Lucent’s assignment of the Video Coding Patents to
+MPT effected a transfer of ownership, reconsideration should be denied because that conclusion
+was not essential to this Court’s grant of summary judgment. As this Court noted, Lucent
+indisputably granted MPT the exclusive right to license and sublicense the Video Coding
+Patents. (Oct. 1, 2007 Order at 6.) That finding independently vitiates Dell’s license defense,
+because Dell’s license theory requires that Alcatel-Lucent be able to license the Video Coding
+Patents. (Id. at 6-7.) Dell nevertheless fails to address this independent basis for summary
+judgment in its reconsideration papers.
+3 Unless otherwise noted, all citations to exhibits reference the exhibits to the Declaration Of
+Chanah Brenenson in Support of Plaintiffs’ Opposition to Dell’s Motion For Reconsideration,
+submitted concurrently herewith.
+2
+
+PLAINTIFFS’ OPPOSITION TO DELL’S MOTION FOR
+RECONSIDERATION OF THE COURT’S OCTOBER 1, 2007 ORDER
+
+7
+
+Case No. 07-CV-2000 H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 56
+
+Filed 11/21/2007
+
+Page 12 of 18
+
+1
+
+cannot credibly contend at this stage that the Court committed a clear error of fact in determining
+
+2
+
+that “the notice provisions were substantially performed by the parties.” (Oct. 1, 2007 Order at 9.)
+
+3
+
+Furthermore, even if that determination constituted clear error, this Court’s grant of summary
+
+4
+
+judgment would nevertheless stand. At most, failure to obtain Alcatel’s consent before transferring a
+
+5
+
+material asset might arguably constitute a breach of the merger agreement between Lucent and
+
+6
+
+Alcatel. But no legal authority exists for the proposition that breach of the merger agreement would
+
+7
+
+divest Lucent of its title to the Video Coding Patents or its right to assign the Video Coding Patent to
+
+8
+
+a third-party. Indeed, Dell has never cited a single case in support of that argument. In sum,
+
+9
+
+because Dell cannot demonstrate that this Court committed any clear error of fact — let alone a clear
+
+10
+
+error material to the grant of summary judgment — Dell’s motion for reconsideration concerning its
+
+11
+
+license defense should be rejected.
+
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+C.
+
+Dell Presents No Basis For Reconsideration Of This Court’s Grant Of Summary
+Judgment Dismissing Dell’s Tortious Interference With Contract Counterclaim.
+
+Dell contends that this Court should reconsider its grant of summary judgment dismissing
+Dell’s tortious interference with contract counterclaim because Dell believes that this Court’s ruling
+conflicts with the Court’s denial of summary judgment on Gateway’s tortious interference with
+prospective economic advantage counterclaim. In so doing, Dell focuses on the overlap in factual
+allegations concerning the two counterclaims. But Dell fails to consider the dispositive difference in
+the legal elements of the two claims.
+Specifically, a tortious interference with contract claim — unlike a tortious interference with
+prospective economic advantage claim — requires proof that the defendant caused a third-party’s
+failure to perform a contractual obligation to the plaintiff. As Dell itself concedes, tortious
+interference with contract requires conduct “inducing or otherwise causing the third person not to
+perform the contract” and “pecuniary loss resulting to the [plaintiff] from the failure of the third
+person to perform the contract.” Dell Br. at 15 (quoting Restatement (Second) of Torts § 766
+(1979)). On summary judgment, Dell and its co-defendants pursued the theory that Lucent
+interfered with their MPEG LA Portfolio Licenses by preventing them from receiving a license to
+the Video Coding Patents. (Oct. 1, 2007 Order at 20.) But this Court properly granted summary
+PLAINTIFFS’ OPPOSITION TO DELL’S MOTION FOR
+RECONSIDERATION OF THE COURT’S OCTOBER 1, 2007 ORDER
+
+8
+
+Case No. 07-CV-2000 H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 56
+
+Filed 11/21/2007
+
+Page 13 of 18
+
+1
+
+judgment in favor of Lucent because, at the time of Lucent’s alleged “interference,” the defendants
+
+2
+
+had no contractual right to the Video Coding Patents under their licenses with MPEG LA. (Id. at 20-
+
+3
+
+21.) Accordingly, this Court held that Lucent did not interfere with MPEG LA’s performance of any
+
+4
+
+contractual obligation to the defendants. (Id.)
+
+5
+
+Dell makes no attempt to demonstrate clear error in that ruling. Rather, Dell raises an
+
+6
+
+entirely new theory of tortious interference with contract, based on the MPEG LA Agreement
+
+7
+
+Among Licensors rather than Dell’s MPEG LA Portfolio License. Dell Br. at 15-16. As an initial
+
+8
+
+matter, Dell cannot seek reconsideration based on arguments that it failed to present during the
+
+9
+
+summary judgment proceedings. See Jackson, 2007 WL 2802171 at *1 (“In the absence of new
+
+10
+
+evidence or a change in the law, as is the case here, a party may not use a motion for reconsideration
+
+11
+
+to present new arguments or claims not raised in a summary judgment motion.”). Moreover, Dell
+
+12
+
+has identified no authority for the proposition that Dell can assert a tortious interference with
+
+13
+
+contract claim based on a contract to which it is not even a party.4
+
+14
+
+Dell’s new tortious interference argument fails on the merits as well. Contrary to Dell’s
+
+15
+
+assertion, Alcatel never had an obligation to license the Video Coding Patents. Hence, Dell can
+
+16
+
+present no evidence that Alcatel failed to perform a contractual obligation to MPEG LA. At most,
+
+17
+
+Alcatel’s obligation to MPEG LA has been to license any essential patents that it acquires the right
+
+18
+
+to license, after the point in time at which such right is acquired. But because Alcatel never acquired
+
+19
+
+the right to license the Video Coding Patents, Alcatel never incurred an obligation to license those
+
+20
+
+patents.
+
+21
+
+Absent any proof that Alcatel failed to perform its obligations to MPEG LA — let alone
+
+22
+
+proof that Lucent caused that failure — this Court’s summary judgment ruling cannot be considered
+
+23
+
+clearly erroneous, even under Dell’s new theory. At bottom, Dell alleges that Lucent prevented
+
+24
+
+Alcatel from incurring an obligation to license the Video Coding Patents — not that Lucent caused
+
+25
+26
+27
+28
+
+4 Although Dell and its co-defendants are parties to MPEG LA Patent Portfolio Licenses, none of
+the defendants is a party to the Agreement Among Licensors. Nor can they have rights as third
+party beneficiaries to the Agreement Among Licensors, because the agreement expressly
+prohibits such rights. See Blackburn Decl. Ex. 1 at 27 (§ 8.10).
+
+PLAINTIFFS’ OPPOSITION TO DELL’S MOTION FOR
+RECONSIDERATION OF THE COURT’S OCTOBER 1, 2007 ORDER
+
+9
+
+Case No. 07-CV-2000 H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 56
+
+Filed 11/21/2007
+
+Page 14 of 18
+
+1
+
+Alcatel to breach such an obligation. That difference is dispositive here. Dell’s motion for
+
+2
+
+reconsideration concerning its tortious interference with contract counterclaim should be denied.5
+
+3
+
+D.
+
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+Dell Presents No Basis For Reconsideration Of This Court’s Grant Of Summary
+Judgment Dismissing Its Co-Defendants’ Unclean Hands Defenses.
+
+Dell offers no new arguments concerning the equitable defense of unclean hands.6 Instead,
+Dell tries to manufacture a legal error warranting reconsideration by mischaracterizing this Court’s
+summary judgment analysis. Contrary to Dell’s reconsideration arguments, this Court did not hold
+that the equitable defense of unclean hands requires proof of “conduct [that] would have had a
+dispositive impact on the issues in the litigation.” Dell Br. at 18. Nor did this Court’s summary
+judgment grant turn on the undisputed fact that Dell and its co-defendants were not directly harmed
+by Lucent’s allegedly wrongful conduct — i.e., Lucent’s purported failure to disclose to certain
+government agencies its intent to assign the Video Coding Patents.7 Id.
+On the contrary, this Court granted summary judgment in favor of Lucent and MPT because
+the defendants failed to come forward with evidence demonstrating that Lucent’s alleged misconduct
+affected the equities between the parties in the instant litigation. (See Oct. 1, 2007 Order at 13-14.)
+As this Court correctly noted, application of the doctrine of unclean hands is reserved for “violations
+of conscience [that] in some measure affect the equitable relations between the parties in respect of
+5 Dell’s reliance on Velop, Inc. v. Kaplan, et al., 301 N.J. Super. 32 (N.J. Super. App. Div. 1997),
+is misplaced. In Velop, unlike here, the party accused of interference with a contract actually
+caused a failure of performance by a third party — i.e., the purchaser. See Velop, 301 N.J.
+Super. at 926 (“[T]he excessive soil removal was the cause of the Kaplans’ loss of their contract
+with Velop.”).) As discussed above, Dell cannot establish that critical element of a tortious
+interference with contract claim. Indeed, the summary judgment record contains no proof that
+any party failed to perform any obligation under any contract.
+6 Indeed, Dell never asserted an unclean hands defense in this case until after this Court had
+granted summary judgment in favor of MPT and Lucent on that defense. (Compare Dell Br. at
+17 n. 10 with Ex. B, Sept. 26, 2007 Hr’g Tr. at 149-150.) That fact alone warrants denial of
+Dell’s motion for reconsideration of this Court’s grant of summary judgment in favor of MPT
+and Lucent on the unclean hands defense.
+
+Ample authority establishes that an unclean hands defense fails absent proof of personal harm
+to the defendant, See, e.g., Hopper v. Fin. Mgmt. Sys., Inc., Civ. A. No. 96-456 (TAF), 1997 WL
+31101, at *3 (D.D.C. Jan. 23, 1997) (“[T]he unclean hands defense requires a defendant to show
+that he himself — not a third party — has been harmed by the plaintiff’s conduct.”).
+Accordingly, even if this Court’s summary judgment grant rested on the absence of harm to the
+defendants — which it did not — such authority disposes of Dell’s contention that this Court
+committed a clear error of law.
+
+7
+
+PLAINTIFFS’ OPPOSITION TO DELL’S MOTION FOR
+RECONSIDERATION OF THE COURT’S OCTOBER 1, 2007 ORDER
+
+10
+
+Case No. 07-CV-2000 H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 56
+
+Filed 11/21/2007
+
+Page 15 of 18
+
+1
+
+something brought before the court for adjudication.” (Oct. 1, 2007 Order at 14, quoting Keystone
+
+2
+
+Driller Co. v. General Excavator Co., 290 U.S. 240, 245 (1933) (emphasis added).) In applying that
+
+3
+
+established maxim, this Court committed no clear legal error.
+
+4
+
+Nor can Dell demonstrate that this Court committed clear error in concluding that the
+
+5
+
+summary judgment record lacked proof sufficient to establish that Lucent’s alleged misconduct
+
+6
+
+impacted the equities between the parties in this case. This Court’s October 1, 2007 Order sets forth
+
+7
+
+numerous grounds — including failures of proof by the defendants — that amply support the
+
+8
+
+summary judgment grant. Specifically, the Court found that:
+
+9
+
+•
+
+the defendants offered no evidence that the concerned government agencies would have
+
+10
+
+taken any different action with regard to the Lucent-Alcatel merger had they been aware of
+
+11
+
+Lucent’s alleged misstatements;
+
+12
+
+•
+
+13
+14
+
+the defendants offered no proof that the fate of the Video Coding Patents would have been
+different than it is now if the concerned government agencies had taken any action;
+
+•
+
+the defendants offered no proof that the eventual public disclosure of the formation of MPT
+
+15
+
+and transfer of the Video Coding Patents had any actual impact on the approvals granted by
+
+16
+
+government agencies; and
+
+17
+
+•
+
+the defendants offered no proof that — had they known of Lucent’s plan to transfer the
+
+18
+
+Video Coding Patents — they would have sought or been able to take actions to prevent the
+
+19
+
+assignment.
+
+20
+
+In moving for reconsideration, Dell simply reiterates the same unsupported allegations and
+
+21
+
+speculations that the defendants offered in opposing summary judgment. See Dell Br. at 17-19. As
+
+22
+
+such, Dell does not — and cannot — rectify the deficiencies in the summary judgment record that
+
+23
+
+are fatal to an unclean hands defense. In sum, because Dell has demonstrated no clear error in this
+
+24
+
+Court’s grant of summary judgment on the defense of unclean hands, Dell’s motion for
+
+25
+26
+27
+28
+PLAINTIFFS’ OPPOSITION TO DELL’S MOTION FOR
+RECONSIDERATION OF THE COURT’S OCTOBER 1, 2007 ORDER
+
+11
+
+Case No. 07-CV-2000 H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+Document 56
+
+Filed 11/21/2007
+
+Page 16 of 18
+
+reconsideration should be denied.8
+E.
+
+No Good Cause Exists To Certify This Court’s License And Unclean Hands
+Rulings For Interlocutory Appeal.
+
+While 28 U.S.C. § 1292(b) provides a mechanism by which litigants can bring an immediate
+appeal of a non-final order upon the consent of both the district court and the court of appeals, the
+Supreme Court has established that interlocutory appeal is reserved for “exceptional circumstances
+[that] justify a departure from the basic policy of postponing appellate review until after the entry of
+a final judgment.” Coopers & Lybrand v Livesay, 437 U.S. 463, 475 (1978) (superseded on other
+grounds); see also United States Rubber Co. v. Wright, 359 F.2d 784, 785 (9th Cir. 1966) (“The
+legislative history of [1292(b)] indicates that it was to be used only in extraordinary cases….”).
+Accordingly, a party seeking certification for interlocutory appeal bears the burden of persuading the
+court that exceptional circumstances warrant interlocutory appeal. See Aktiebolag v. Waukesha
+Cutting Tools, Inc., 640 F. Supp. 1139, 1141 (E.D. Wis. 1986). To meet that burden, a movant must
+demonstrate that (1) the pertinent order involves a controlling question of law, (2) a substantial
+difference of opinion exists as to that question of law, and (3) an immediate appeal of the order may
+materially advance the ultimate termination of the litigation. See 28 U.S.C. § 1292(b); see also
+Abbott Labs. v. Syntron Bioresearch Inc., No. 98-CV-2359 H (POR), 2000 WL 33967724, at *13
+(S.D. Cal. Sept. 28, 2000).
+Here, Dell does not remotely approach its burden of establishing that this Court’s summary
+judgment rulings on the defenses of license and unclean hands are appropriate for interlocutory
+appeal. Rather, Dell offers only a superficial argument for certification, proclaiming that this
+Court’s rulings concern a “controlling issue of law” without any explanation, let alone support. Dell
+ignores the “substantial difference of opinion” requirement altogether. Dell has offered no evidence
+that there is a substantial difference of opinion, such as conflicting opinions among the courts,
+8 In seeking reconsideration, Dell also ignores the fact that the doctrine of unclean hands is
+equitable in nature and therefore resides within the sound discretion of the district court. See
+Princess Cruises, Inc. v. U.S., 397 F.3d 1359, 1369 (Fed. Cir. 2005) (“The trial court has broad
+discretion under the doctrine of unclean hands.”). While Dell may disagree with this Court’s
+decision not to exercise its discretion here, Dell’s dissatisfaction with this Court’s decision
+hardly constitutes extraordinary circumstances warranting reconsideration.
+
+PLAINTIFFS’ OPPOSITION TO DELL’S MOTION FOR
+RECONSIDERATION OF THE COURT’S OCTOBER 1, 2007 ORDER
+
+12
+
+Case No. 07-CV-2000 H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 56
+
+Filed 11/21/2007
+
+Page 17 of 18
+
+1
+
+regarding the legal standards for the license or unclean hands defenses.9 And as for advancing the
+
+2
+
+ultimate termination of the litigation, Dell’s contention that a favorable outcome on its defenses will
+
+3
+
+be “outcome-determinative of the Video Coding Patents” is not only wrong,10 but also ignores the
+
+4
+
+fact that the February trial involves three other patents not impacted by this Court’s summary
+
+5
+
+judgment rulings. An interlocutory appeal of this Court’s license and unclean hands rulings
+
+6
+
+concerning the Video Coding Patents therefore lacks any potential for advancing the ultimate
+
+7
+
+termination of the litigation as a whole. In sum, no exceptional circumstances exist to justify an
+
+8
+
+interlocutory appeal from this Court’s summary judgment rulings.
+
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+A party's strong disagreement with the Court's ruling is not sufficient for there to be a
+“substantial ground for difference;” the proponent of an appeal must make some greater
+showing. See Kern-Tulare Water Dist. v. Bakersfield, 634 F. Supp. 656, 667 (E.D. Cal. 1986),
+aff'd in part and rev'd in part on other grounds, 828 F.2d 514 (9th Cir. 1987). Courts have held
+that § 1292(b) requires that the difference of opinion be between and among judicial bodies. See,
+e.g., Environmental Protection Info. Ctr. v. Pacific Lumber Co., 2004 U.S. Dist. LEXIS 6674,
+*14-16 (N.D. Cal. 2004).
+10 As explained in MPT’s briefing in opposition to the defendants’ trust-related summary
+judgment motions, even if the defendants became licensed to the Video Coding Patents pursuant
+to their agreements with MPEG LA when Lucent and Alcatel merged, their infringement liability
+in this action cannot be extinguished. (See Case No. 02-CV-2060 D.I. 2016, Aug. 31, 2007
+MPT’s Opposition to Defendants’ Motions For Summary Judgment On Trust-Related Defenses
+And Counterclaims at 22-23.) For example, the defendants’ MPEG LA licenses are limited to
+MPEG-2 implementations, whereas MPT’s infringement allegations extend to other video
+compression technologies, such as WMV-9/VC-1. (See id.) Moreover, the defendants’ MPEG
+LA licenses would not retroactively insulate them from infringement liability for the period
+before the Lucent-Alcatel merger. (See id.) Indeed, because this Court declined to rule on “the
+issues of retroactivity and specificity to MPEG-2 products” concerning the defendants’ alleged
+licenses, the proposed interlocutory appeal cannot even resolve the parties’ litigation over the
+Video Coding Patents. (Oct. 1, 2007 Order at 12, n. 2.)
+9
+
+PLAINTIFFS’ OPPOSITION TO DELL’S MOTION FOR
+RECONSIDERATION OF THE COURT’S OCTOBER 1, 2007 ORDER
+
+13
+
+Case No. 07-CV-2000 H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+1
+2
+3
+
+IV.
+
+Document 56
+
+Filed 11/21/2007
+
+Page 18 of 18
+
+CONCLUSION
+For all of the foregoing reasons, Dell’s motion for reconsideration or, in the alternative,
+
+certification for interlocutory appeal under 28 U.S.C. § 1292(b) should be denied.
+
+4
+5
+
+DATED: November 21, 2007
+
+6
+7
+8
+9
+
+By:
+s/David A. Hahn
+John M. Desmarais (admitted pro hac vice)
+Robert A. Appleby (admitted pro hac vice)
+KIRKLAND & ELLIS LLP
+153 East 53rd Street
+New York, New York 10022
+Telephone: (212) 446-4800
+Facsimile: (212) 446-4900
+David A. Hahn (SBN 125784)
+HAHN & ADEMA
+501 West Broadway, Suite 1600
+San Diego, California 92101-3595
+Telephone: (619) 235-2100
+Facsimile: (619) 235-2101
+
+10
+11
+12
+13
+
+Attorneys for Lucent Technologies Inc. and
+Multimedia Patent Trust
+
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+PLAINTIFFS’ OPPOSITION TO DELL’S MOTION FOR
+RECONSIDERATION OF THE COURT’S OCTOBER 1, 2007 ORDER
+
+14
+
+Case No. 07-CV-2000 H (CAB)
+
+

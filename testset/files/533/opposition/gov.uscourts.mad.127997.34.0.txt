@@ -1,0 +1,842 @@
+Case 1:10-cv-10515-DPW Document 34
+
+Filed 08/20/10 Page 1 of 24
+
+UNITED STATES DISTRICT COURT
+DISTRICT OF MASSACHUSETTS
+
+JEFFREY WIENER, derivatively on behalf of
+EATON VANCE MUNICIPALS TRUST,
+Plaintiff,
+
+Civil Action No.: 10-10515-DPW
+
+v.
+EATON VANCE DISTRIBUTORS, INC.,
+BENJAMIN C. ESTY, ALLEN R. FREEDMAN,
+WILLIAM H. PARK, RONALD A.
+PEARLMAN, HELEN FRAME PETERS,
+HEIDI L. STEIGER, LYNN A. STOUT,
+RALPH F. VERNI, and THOMAS FAUST,
+Defendants,
+and
+EATON VANCE MUNICIPALS TRUST,
+Nominal Defendant.
+
+PLAINTIFF’S OPPOSITION TO MOTION TO DISMISS
+THE AMENDED COMPLAINT BY THE INDEPENDENT TRUSTEE DEFENDANTS
+AND NOMINAL DEFENDANT EATON VANCE MUNICIPALS TRUST
+
+Case 1:10-cv-10515-DPW Document 34
+
+Filed 08/20/10 Page 2 of 24
+
+TABLE OF CONTENTS
+Page
+PRELIMINARY STATEMENT ................................................................................................... 1
+FACTUAL BACKGROUND........................................................................................................ 3
+ARGUMENT................................................................................................................................. 4
+I.
+
+THE DECISION WHETHER THE ONGOING PAYMENTS AT ISSUE
+ARE LAWFUL IS PROPERLY COMMITTED TO THIS COURT, NOT
+TO THE MUTUAL FUND’S BOARD................................................................. 4
+A.
+
+Plaintiff Has Sufficiently Alleged the Trust’s Ongoing Securities
+Law Violations........................................................................................... 7
+
+II.
+
+APPLICABLE FEDERAL LAW PREEMPTS ANY STATE LAW THAT
+WOULD OPERATE TO INSULATE ALLEGED VIOLATIONS FROM
+JUDICIAL REVIEW ........................................................................................... 10
+
+III.
+
+PLAINTIFF’S STATE LAW CLAIMS ARE ADEQUATELY PLEADED ...... 12
+A.
+
+B.
+
+Plaintiff Adequately Alleges a Claim for Breach of Fiduciary Duty....... 12
+1.
+
+Rule 9(b) Does Not Apply Because Plaintiff Does Not
+Allege Fraud................................................................................. 12
+
+2.
+
+Plaintiff’s Breach of Fiduciary Duty Claim Is Not a
+Caremark Claim........................................................................... 13
+
+Plaintiff Adequately Alleges a Claim for Corporate Waste..................... 15
+
+CONCLUSION............................................................................................................................ 17
+
+-i-
+
+Case 1:10-cv-10515-DPW Document 34
+
+Filed 08/20/10 Page 3 of 24
+
+TABLE OF AUTHORITIES
+Page(s)
+CASES
+Blake v. Smith,
+No. 0300003 B, 2006 WL 4114305 (Mass. Super. Dec. 11, 2006).........................................16
+Brehm v. Eisner,
+746 A.2d 244 (Del. 2000) ........................................................................................................16
+Burks v. Lasker,
+441 U.S. 471 (1979)...........................................................................................................10, 12
+Cal. Pub. Employees Ret. Sys. v. Coulter,
+No. 19191, 2002 Del. Ch. LEXIS 144 (Del. Ch. Dec. 18, 2002) ..............................................6
+Canadian Commer. Workers Indus. Pension Plan v. Alden,
+No.1184-N, 2006 WL 456786 (Del. Ch. Feb. 22, 2006) .........................................................15
+Desimone v. Barrows,
+924 A.2d 908 (Del. Ch. 2007)..............................................................................................7, 15
+Evangelist v. Fidelity Management & Research Co.,
+554 F.Supp. 87 (D. Mass. 1982) ................................................................................................8
+Fidelity Federal Savings and Loan Ass’n v. de la Cuesta,
+458 U.S. 141 (1982).................................................................................................................11
+Financial Planning Ass’n v. SEC,
+482 F.3d 481 (D.C. Cir. 2007) ...................................................................................................1
+Galef v. Alexander,
+615 F. 2d 51 (2d Cir. 1980)........................................................................................................8
+Gall v. Exxon Corp.,
+418 F. Supp. 508 (S.D.N.Y. 1976).........................................................................................5, 9
+Gantler v. Stephens,
+No. 2392, 2008 Del. Ch. LEXIS 20 (Del. Ch. Feb. 14, 2008)...................................................6
+Gerber v. Bowditch,
+05-10782, 2006 WL 1284232 (D. Mass. May 8, 2006) (Woodlock, J.)............................12, 13
+Gray v. Barnett ( In re Dehon, Inc.),
+334 B.R. 55 (Bankr. D. Mass. 2005) .....................................................................................5, 9
+
+-ii-
+
+Case 1:10-cv-10515-DPW Document 34
+
+Filed 08/20/10 Page 4 of 24
+
+Grimes v. Donald,
+No. 13358, 1995 Del. Ch. LEXIS 3 (Del. Ch. Jan. 12, 1995), aff’d, 673 A.2d 1207
+(Del. 1996) .................................................................................................................................6
+Guttman v. Jen-Hsun Huang,
+823 A.2d 492 (Del. Ch. 2003)....................................................................................................6
+Harhen v. Brown,
+730 N.E. 2d 859 (2000)..........................................................................................................4, 5
+Hendersen v. Axiam, Inc.,
+No. 962572D, 1999 WL 33587312 (Mass. Super. Ct. June 22, 1999) ....................................16
+In re Abbotts Labs. Derivative S’holders Litig.,
+325 F.3d 795 (7th Cir. 2003) .............................................................................................14, 15
+In re Caremark In’l, Inc.Deriv. Litig.,
+698 A.2d 959 (Del. Ch. 1996)......................................................................................13, 14, 15
+In re Kauffman Mutual Fund Actions,
+479 F.2d 257 (1st Cir. 1973)..................................................................................................7, 8
+In re Sabine, Inc.
+No. 05-1019, 2006 WL 1045712 (Bankr. D. Mass. Feb. 27, 2006) ........................................17
+In re SFBC Int'l, Inc. Sec. & Derivative Litig.,
+495 F. Supp. 2d 477 (D.N.J. 2007) ..........................................................................................15
+In re Stratus Computer, Inc Sec. Litig.,
+89-2075, 1992 WL 73555 (D. Mass. Mar. 27, 1992) ..............................................................13
+In re Teu Holdings, Inc.,
+287 B.R. 26 (Bankr.D.Del. 2002) ............................................................................................17
+In re Walt Disney Co. Derivative Litig.,
+No. 15452, 2004 Del. Ch. LEXIS 132 (Del. Ch. Sept. 10, 2004), aff’d, 906 A.2d 27
+(Del. 2006) .................................................................................................................................7
+Independent Cellular Telephone, Inc. v. Barker,
+No. 15171, 1997 WL 153816 (Del. Ch. Mar. 21, 1997)..........................................................17
+Insanaka v. Spectrum Technologies USA Inc.,
+131 F. Supp.2d 353 (N.D.N.Y. 2001)......................................................................................13
+Kahn ex rel. DeKalb Genetics Corp. v. Roberts,
+679 A.2d 460 (Del. 1996) ..........................................................................................................6
+
+-iii-
+
+Case 1:10-cv-10515-DPW Document 34
+
+Filed 08/20/10 Page 5 of 24
+
+Landy v. D’Alessandro,
+316 F. Supp. 2d 49 (D. Mass. 2004) ..........................................................................................8
+Litt v. Wycoff,
+No. 19083, 2003 WL 1794724 (Del. Ch. Mar. 28, 2003)..........................................................8
+Metro Commc’n Corp. BVI v. Advanced Mobilcomm Techs., Inc.,
+854 A.2d 121 (Del. Ch. 2004)....................................................................................................6
+Miller v. American Tel & Tel. Co.,
+507 F.2d 759 (3d Cir. 1974)...................................................................................................5, 9
+North Am. Catholic Educational Programming Foundation Inc. v. Cardinale,
+567 F.3d 8 (1st Cir. 2009)..................................................................................................12, 13
+O’Neal v. Smithkline Beecham Corp.,
+551 F. Supp. 2d 993 (E.D. Cal. 2008)......................................................................................11
+Sachs v. Sprague,
+401 F. Supp.2d 159 (D. Mass. 2005) .......................................................................................13
+SEC v. Keating,
+91-6785, 1992 U.S. Dist. LEXIS 14630 (C.D. Cal. July 24,1992)....................................11, 12
+Stern v. General Electric Co.,
+86- 4055, 1992 WL 8195 (S.D.N.Y. Jan. 14, 1992) ................................................................16
+Swingless Golf Club Corp. v. Taylor,
+679 F. Supp. 2d 1060 (N.D. Cal. 2009) ...................................................................................16
+White v. Panic,
+793 A.2d 356 (Del. Ch. 2000)..................................................................................................15
+STATUTES
+17 C.F.R. § 270.12b-1(b)(3) ..........................................................................................................14
+18 U.S.C. § 610................................................................................................................................9
+Fed R. Civ. P. 23.1(b)(3)..................................................................................................................9
+Mass. Gen. Laws ch. 156D, § 7.41 et seq........................................................................................4
+Mass. Gen. Laws ch. 156D, § 7.42 ..................................................................................................7
+OTHER AUTHORITIES
+United States Constitution
+U.S. Const. Art. VI, Cl. 2.........................................................................................................10
+-iv-
+
+Case 1:10-cv-10515-DPW Document 34
+
+Filed 08/20/10 Page 6 of 24
+
+Plaintiff Jeffrey Wiener, suing derivatively on behalf of Eaton Vance Municipals Trust
+(“Trust”), respectfully submits this opposition to the motion to dismiss the Amended Complaint
+filed by the Independent Trustee Defendants and the Trust (“Motion”). Plaintiff incorporates by
+reference the arguments made in his opposition brief to the motion to dismiss filed by defendants
+Eaton Vance Distributors, Inc. and Thomas Faust (“Eaton Vance Distributors’ Motion’”).
+PRELIMINARY STATEMENT
+Plaintiff complains derivatively that the Trust, his mutual fund, is using fund assets -- on
+an ongoing and current basis -- to pay “asset-based compensation” to broker-dealers, in
+contravention of a clear statutory ban on such compensation in the Investment Advisers Act of
+1940, as definitively confirmed by Financial Planning Ass’n v. SEC, 482 F.3d 481 (D.C. Cir.
+2007).
+The Trust, as nominal defendant, defends on the ground that it has concluded, based on
+the recommendation of a committee of the board that received advice of counsel, that the
+challenged payments are legal and therefore plaintiff’s demand was properly refused.
+As described in the Trust’s present motion, the board’s decision was based on purely
+legal conclusions: (a) that “all asset-based compensation is not necessarily ‘special
+compensation,’” as that term is employed in Section 202(a)(11)(C) of the Adviser’s Act, such
+that the payments were lawful; and (b) that Financial Planning Ass’n “did not determine. . . that
+Rule 12b-1 fees or any other particular form of ‘asset-based’ compensation constitutes ‘special
+compensation’ for purposes of Section 202(a)(11)(C) in all instances.’” Motion at 8-10. The
+board also determined that the benefit of pursuing litigation was outweighed by the likely actions
+that broker-dealers would take in response to any corrective action by the Trust (i.e. requiring
+advisory accounts or terminating the payments) during the pendency of the litigation. Id. at 1011.
+
+Case 1:10-cv-10515-DPW Document 34
+
+Filed 08/20/10 Page 7 of 24
+
+The Trust’s position is itself completely untenable. However completely Massachusetts
+common or statutory law may commit business decisions to corporate boards, all applicable
+decisional law reserves to courts the ability, and indeed the duty, to determine whether the
+company is committing ongoing violations of law. There can be no business judgment that it is
+in the “best interests of the corporation” to violate the law. Nor can the Trust make a business
+decision to insulate itself from any judicial review of its ongoing decisions to violate the law,
+especially in view of the fact that the assertedly unlawful payments are being directly made from
+the individually allocable assets owned by mutual fund shareholders like plaintiff – assets held
+by the Trust solely in a fiduciary capacity.
+Plaintiff’s Amended Complaint focuses on the ongoing illegal conduct at issue, and
+makes no attempt to allege facts that rebut any business judgment of the board. Yet, remarkably,
+the majority of the Trust’s argument focuses on the independence of the Trustees and other
+factors pertinent to the business judgment rule – factors that plaintiff never sought to rebut. This
+can all be disregarded. The only argument that the Trust makes concerning the Rule 23.1
+allegations actually pleaded in the Amended Complaint is that “conclusory” allegations of illegal
+conduct do not preclude the enforcement of the business judgment rule. Motion at 15-17.
+However, the Trust has no support for its argument. Demand futility cases are inapposite. Those
+cases (decided before Massachusetts’ adoption of a universal demand statute) held only that the
+board should be given an opportunity to address the alleged illegal conduct before litigation is
+commenced – an opportunity plaintiff’s demand gave the board here. In any event, the pertinent
+caselaw, i.e. cases involving ongoing illegal conduct, demonstrates that plaintiff’s non-frivolous
+allegations concerning the securities law violations at issue here are more than sufficient at this
+stage of the litigation.
+
+2
+
+Case 1:10-cv-10515-DPW Document 34
+
+Filed 08/20/10 Page 8 of 24
+
+Plaintiff also submits that the federal laws raised in his Amended Complaint, viz. the
+Investment Advisers Act of 1940 (“Advisers Act”) and Investment Company Act of 1940
+(“ICA”), as applied to the payments at issue, preempt any state laws, including the business
+judgment rule and any other state corporate governance laws, that arguably would impair or
+prevent enforcement of the federal laws.
+Moreover, plaintiff’s state law claims alleged against the Trustees are adequately
+pleaded. Plaintiff’s breach of fiduciary duty claim is a properly pleaded direct claim against the
+Trustees arising from their ongoing failure to cease the illegal asset-based compensation
+payments, which are harming the Trust and its shareholders. The corporate waste claim is
+plausibly alleged because the Trust paid for advisory accounts on behalf of its shareholders and
+never received that service.
+Based on the foregoing, the Court should deny the Motion in its entirety.
+FACTUAL BACKGROUND
+In the response to the demand, the Trustees rejected plaintiff’s legal position that assetbased compensation is the subject of the “no special compensation” prong of the statutory
+Broker-Dealer Exclusion to the Advisers Act. AC ¶ 69. According to the Trustees, asset-based
+compensation is not barred “in all instances.” Id. The response letter repeatedly concedes that
+the payments are asset-based compensation. Id. In their motion, the Trustees incorporate the
+arguments contained in Eaton Vance Distributors’ Motion, see Motion at 2 n.2, which argues
+that the “fees are transaction-based compensation in that they are tied to the sale of particular
+mutual fund shares.” Eaton Vance Distributors’ Motion at 2.
+Both positions cannot be right. Either the 12b-1 payments are treated under the BrokerDealer Exclusion as ongoing asset-based compensation or are treated as a transaction-based sales
+commission. The Trustees have no coherent theory of why the payments are lawful, much less
+3
+
+Case 1:10-cv-10515-DPW Document 34
+
+Filed 08/20/10 Page 9 of 24
+
+any business judgment on the subject.
+The remaining relevant facts are set forth at length in plaintiff’s opposition to the Eaton
+Vance Distributors’ Motion, which is being filed simultaneously herewith. To avoid repetition,
+those facts will not be repeated here.
+ARGUMENT
+I.
+
+THE DECISION WHETHER THE ONGOING PAYMENTS AT ISSUE ARE
+LAWFUL IS PROPERLY COMMITTED TO THIS COURT, NOT TO THE
+MUTUAL FUND’S BOARD
+The Trust invokes Harhen v. Brown, 730 N.E. 2d 859, 865-67 (2000), to argue that its
+
+refusal to stop making the payments at issue is protected by the business judgment rule, as
+subsequently codified in 2004 by Mass. Gen. Laws ch. 156D, § 7.44. Motion at 12-13. The
+Trust argues that the business judgment rule insulates all board decisions unless the complaint
+particularizes reasons that the board was not “independent” and did not act in “good faith” after
+conducting a “reasonable inquiry.” Id.
+Consistent law from Massachusetts, Delaware, New York, and federal courts holds that
+the business judgment rule does not and cannot insulate ongoing assertedly unlawful decisions or
+conduct by corporate boards from judicial review.
+The Harhen case -- the seminal case on the business judgment rule in Massachusetts -itself confirms plaintiff’s point, stating that: “Of course, where the failure to pursue a claim in
+itself is an illegal act or results in the continuation of an illegal act, the business judgment rule
+does not apply.” Harhen, 730 N.E. 2d at 866 n.7 (citing Miller v. American Tel & Tel. Co., 507
+F.2d 759, 762 (3d Cir. 1974) (business judgment rule does not insulate directors from liability
+stemming from current violation of federal statute)).1 The Amended Complaint clearly alleges
+
+1
+
+Although the Massachusetts Supreme Judicial Court in Harhen dismissed the plaintiff’s action
+based upon the business judgment rule, that conclusion has no applicability here, as the court
+4
+
+Case 1:10-cv-10515-DPW Document 34
+
+Filed 08/20/10 Page 10 of 24
+
+throughout that the Trust’s ongoing payments are unlawful. See, e.g., AC ¶¶ 4-5, 53-55, 57.
+The distinction between past and ongoing illegal conduct in Miller was aptly explained
+by the court in Gall v. Exxon Corp., 418 F. Supp. 508 (S.D.N.Y. 1976):
+The Court [in Miller] noted that had plaintiffs’ complaint alleged only a failure to
+pursue a corporate claim, application of the business judgment rule would support
+the district court’s ruling that a shareholder could not attack the decision of the
+directors. The Court went on to note, however, that where the decision not to
+collect the debt owed to the corporation was itself alleged to be an illegal act, a
+different rule would apply. Since the Court found that issues had been raised as to
+whether the defendant directors had breached 18 U.S.C. § 610 as plaintiffs had
+charged, it concluded that plaintiffs’ complaint stated a claim upon which relief
+could be granted sufficient to withstand a motion to dismiss.
+Id. at 518 n.19. Accordingly, when the board decision being challenged involves conduct that
+assertedly remains unlawful on an ongoing basis, and the derivative plaintiff seeks to terminate
+the unlawful conduct, the board’s “business” judgment is not involved and the business judgment
+rule does not preclude the action.
+For instance, a board can exercise its business judgment not to seek a damages remedy
+for past illegal conduct (for example, the board of a manufacturing company may make a
+business decision not to sue and antagonize a critical parts supplier even if payments to it were
+unlawful). However, such an exercise of board authority is not permitted if the assertedly
+unlawful conduct was continuing at the time the board was considering the shareholder’s
+demand to cease the unlawful conduct. This is because engaging in illegal activity is ultra vires
+and not a valid business judgment, and therefore it is a matter for a court to decide. See Gray v.
+Barnett ( In re Dehon, Inc.), 334 B.R. 55, 66 (Bankr. D. Mass. 2005):
+Under the facts presented in the Plan Administrator’s complaint, however, the
+challenged distributions were not legitimate business decisions, regardless of
+whether the Defendants believed that they were in the best interests of the Debtor,
+noted that there was no allegation of ongoing illegal conduct by the plaintiff. Harhen, 730 N.E.
+2d at 866 n.7.
+
+5
+
+Case 1:10-cv-10515-DPW Document 34
+
+Filed 08/20/10 Page 11 of 24
+
+since the Debtor’s insolvency renders such distributions unlawful under § 61. As
+the Massachusetts Supreme Judicial Court alluded to in Harhen, challenges to
+business decisions involving illegal actions do not implicate the business
+judgment rule. See Harhen, 431 Mass 838, 730 N.E.2d at 866 (citing Miller v.
+Am. Tel. & Tel. Co., 507 F.2d 759, 762 (3d Cir.1974)).
+See also Kahn ex rel. DeKalb Genetics Corp. v. Roberts, 679 A.2d 460, 465 (Del. 1996)
+(business judgment rule only protects lawful actions of a board); Gantler v. Stephens, No. 2392,
+2008 Del. Ch. LEXIS 20, at *59 n.112 (Del. Ch. Feb. 14, 2008) (“[v]oid acts contrary to public
+policy or beyond the authority of the corporation. . . cannot be cured by ratification”); Metro
+Commc’n Corp. BVI v. Advanced Mobilcomm Techs., Inc., 854 A.2d 121, 131 (Del. Ch. 2004)
+(“[u]nder Delaware law, a fiduciary may not choose to manage an entity in an illegal fashion,
+even if the fiduciary believes that the illegal activity will result in profits for the entity”);
+Guttman v. Jen-Hsun Huang, 823 A.2d 492, 506 n. 34 (Del. Ch. 2003) (“one cannot act loyally
+as a corporate director by causing the corporation to violate the positive laws it is obligated to
+obey”); Cal. Pub. Employees Ret. Sys. v. Coulter, No. 19191, 2002 Del. Ch. LEXIS 144, at *34,
+*39-40 (Del. Ch. Dec. 18, 2002) (holding that a repricing of stock options where “the underlying
+stock option plan does not permit repricing of options” is ultra vires, that “the business judgment
+rule may not be invoked to shelter unauthorized actions of a board of directors” and that “[a]ny
+action of the board that falls outside the rather broad scope of its authority is not entitled to the
+protection of the business judgment rule”); Grimes v. Donald, No. 13358, 1995 Del. Ch. LEXIS
+3, at *21 (Del. Ch. Jan. 12, 1995) (“The question whether these contracts are valid or not does
+not fall into the realm of business judgment, it cannot be definitively determined by the
+informed, good faith judgment of the board. It must be determined by the court.”), aff’d, 673
+A.2d 1207, 1212 (Del. 1996).2
+2
+
+See also In re Walt Disney Co. Derivative Litig., No. 15452, 2004 Del. Ch. LEXIS 132, at *3132 (Del. Ch. Sept. 10, 2004), aff’d, 906 A.2d 27 (Del. 2006) (“if the transaction constitutes
+6
+
+Case 1:10-cv-10515-DPW Document 34
+
+Filed 08/20/10 Page 12 of 24
+
+Those authorities, preserving for judicial review claims alleging that ongoing corporate
+activity is unlawful, demonstrate that the business judgment rule is inapplicable here.
+A.
+
+Plaintiff Has Sufficiently Alleged the Trust’s Ongoing Securities Law
+Violations
+
+Defendants cannot cite a single authority suggesting that the business judgment rule
+permits a board to conclude that it is in the “best interests of the corporation” to continue with
+illegal conduct. Instead, defendants cite to cases that address the issue of demand futility (when
+a plaintiff has filed litigation without first making a demand on the board), rather than cases
+involving allegations of wrongful refusal of a demand. Recognizing the inapplicability of their
+cases, defendants weakly claim that demand futility precedents are relevant because the pleading
+standard is the same for demand futility and demand refusal. Motion at 16 n.57.
+However, the operative pleading standard has nothing to do with the applicability of the
+business judgment rule, as defendants’ own cases explain. In In re Kauffman Mutual Fund
+Actions, 479 F.2d 257, 266-67 (1st Cir. 1973), the Court affirmed the granting of a motion to
+dismiss a derivative action on the grounds that the shareholder had not demonstrated demand
+futility because the board should have had the opportunity to address the alleged misconduct
+without the need for litigation.3 The opinion does not address whether the board could have
+relied upon the business judgment rule to reject a demand. Indeed, the Court expressly noted
+that its decision was limited to the demand obligation, and that its decision did not bar a plaintiff
+
+waste, illegality, fraud, or an ultra vires act, not even ratification by disinterested directors or
+anything less than a unanimous shareholder vote will protect the transaction, or those
+participating in it”); Desimone v. Barrows, 924 A.2d 908, 934 (Del. Ch. 2007) (directors have
+“wide authority to take lawful action on behalf of the corporation” but “have no authority
+knowingly to cause the corporation to become a rogue, exposing the corporation to penalties
+from criminal and civil regulators”).
+3
+
+Kauffman was decided before Massachusetts implemented a universal demand requirement in
+2004. See Mass. Gen. Laws ch. 156D, § 7.42.
+
+7
+
+Case 1:10-cv-10515-DPW Document 34
+
+Filed 08/20/10 Page 13 of 24
+
+from pursuing the underlying cause of action in the future after making a proper demand. Id. at
+267 (“In affirming we must, however, comment upon one phrase in the order of the district court
+granting the motion to dismiss, that it is ‘without prejudice.’ This must mean without prejudice
+as to the substantive cause of action. The dismissal is with prejudice on the issue of the
+obligation to make a demand on the directors with respect to that substantive complaint.”).
+The irrelevance of Kauffman to the issue of wrongful refusal was highlighted in Galef v.
+Alexander, 615 F. 2d 51, 59-60 (2d Cir. 1980), where the Court stated, in pertinent part:
+The decision as to whether a demand is excusable, however, does not necessarily
+answer the question presented here, of whether a resolution by directors to seek
+summary termination of the suit should be honored . . . A determination that
+directors are not so interested in the underlying transaction as to excuse demand
+on them does not mean that they are so disinterested as to enable them to
+eliminate the lawsuit. The rationale of the cases holding that demand must be
+made even if the directors have been or may be made defendants, is not that the
+directors can preclude suit despite being defendants, but rather that they might
+cause the corporation to pursue the suit despite being defendants. See In re
+Kauffman Mutual Fund Actions, supra, 479 F.2d at 265 (additional citations
+omitted).4
+See also Evangelist v. Fidelity Management & Research Co., 554 F.Supp. 87, 90 (D. Mass.
+1982) (“But the rationale of those cases [Kauffman and other demand futility cases] is not that
+the directors are able to preclude suit entirely by refusing a demand. Rather, they rest on the
+proposition that directors, despite being defendants, are still capable of making an honest
+decision about whether to sue on the corporation’s behalf. Failure to make demand only
+
+4
+
+Landy v. D’Alessandro, 316 F. Supp. 2d 49 (D. Mass. 2004) and Litt v. Wycoff, No. 19083,
+2003 WL 1794724, at *7 (Del. Ch. Mar. 28, 2003) (Motion at 16) also concern demand futility.
+In those cases, the courts were considering claims that the boards had approved illegal
+transactions in the past. Landy, 316 F. Supp. 2d at 61 (allegations that board had awarded
+executive compensation in violation of Plan of Reorganization); Litt, 2003 WL 1794724, at *1
+(allegations of prior illegal lending activities, illegal bonus payments to officers, and illegal
+commission payments to officers and directors). In contrast, here, plaintiff has alleged
+substantial particularized facts concerning ongoing securities law violations, which the board has
+refused to remedy. See AC ¶¶ 5, 70.
+
+8
+
+Case 1:10-cv-10515-DPW Document 34
+
+Filed 08/20/10 Page 14 of 24
+
+temporarily bars the shareholder’s suit. Whether the directors correctly assessed the merits of the
+corporate claim in refusing plaintiff’s demand relates to plaintiff’s standing to sue, not to
+whether intracorporate remedies have been exhausted.”) (citations omitted).
+Defendants contend that conclusory allegations of illegal conduct cannot prevent the
+dismissal of a complaint based upon a wrongful refusal of the demand. Apart from the fact that
+there is no precedent for this assertion (defendants’ demand futility cases do not support it), it is
+well established that the plaintiff does not have to prove his allegations of ongoing illegal
+conduct in his complaint. See, e.g., Miller, 507 F.2d 763-64 (“[w]e have accepted plaintiffs’
+allegation of a violation of 18 U.S.C. § 610 as a shorthand designation of the elements necessary
+to establish a breach of that statute. This is consonant with the federal practice of notice pleading.
+. . . At the appropriate time, plaintiffs will be required to produce evidence sufficient to establish
+three distinct elements comprising a violation of 18 U.S.C. § 610”) (citations omitted); Gall, 418
+F. Supp. at 518 n.19 (noting that complaint in Miller was sustained because “issues had been
+raised as to whether the defendant directors had breached 18 U.S.C. § 610”); Gray, 334 B.R. at
+66 (sustaining derivative complaint because construing allegations in light most favorable to
+plaintiff supported the inference that director-defendants had violated Massachusetts law by
+authorizing stock repurchases and dividend payments when they knew that the company was
+insolvent).
+Here, plaintiff has met the “particularity” element of Fed R. Civ. P. 23.1(b)(3), because
+the Amended Complaint explains that broker-dealers may not receive asset-based compensation,
+¶¶ 20-34, explains how performance of the Distribution Agreement providing for such payments
+involves participating in violations of the Advisers Act, ¶¶ 44-58, explains the duties that the
+Trustees and Eaton Vance Distributors have under the ICA that directly pertain to the payments
+
+9
+
+Case 1:10-cv-10515-DPW Document 34
+
+Filed 08/20/10 Page 15 of 24
+
+at issue, ¶¶ 59-65, explains how the ICA requires that compliance with the ICA must trump any
+conflicting contractual obligations, ¶¶ 71-80, and otherwise provides particular detail
+demonstrating that the Trust and its shareholders are being harmed by improper use of Trust
+assets on an ongoing basis, and therefore a derivative action is appropriate. ¶¶ 66-70.
+II.
+
+APPLICABLE FEDERAL LAW PREEMPTS ANY STATE LAW THAT WOULD
+OPERATE TO INSULATE ALLEGED VIOLATIONS FROM JUDICIAL
+REVIEW
+The Trust’s contention that state corporate governance laws prevent review by this Court
+
+of alleged violations of federal securities laws also implicates the Supremacy Clause.5 In Burks
+v. Lasker, 441 U.S. 471 (1979), the Supreme Court -- in a case that, like this one, was a mutual
+fund shareholder derivative action alleging violations of the ICA and the Advisers Act -- set
+forth a two-step inquiry to determine whether the mutual fund board has the power to terminate
+derivative litigation, consistent with the Supremacy Clause. First, the court should “determine
+whether state law permitted [the mutual fund’s] disinterested directors to terminate respondents’
+suit. If so, the next inquiry should have been whether such a state rule was consistent with the
+policy of the ICA and [Adviser’s Act].” Id. at 480.
+According to the Supreme Court, the ICA and the Advisers Act “do not require that
+federal law displace state laws governing the power of directors unless the state laws permit
+action prohibited by the Acts, or unless ‘their application would be inconsistent with the federal
+policy underlying the cause of action . . . .’” Id. at 479 (citing Johnson v. Railway Express
+Agency, 421 U.S. 454, 465 (1975)). “Federal courts must be ever vigilant to insure that
+application of state law poses ‘no significant threat to any identifiable [federal] policy or
+
+5
+
+The United States Constitution and federal laws and treaties “shall be the supreme Law of the
+Land;” and the Judges in every State shall be bound thereby, any Thing in the Constitution or
+Laws of any State to the Contrary notwithstanding.” U.S. Const. Art. VI, Cl. 2.
+
+10
+
+Case 1:10-cv-10515-DPW Document 34
+
+Filed 08/20/10 Page 16 of 24
+
+interest.’” Id. (quoting Wallis v. Pan American Petroleum Corp., 384 U.S. 63, 68 (1966)).
+The Burks opinion is controlling authority here, and essentially follows the established
+“conflict preemption” prong of Supremacy Clause jurisprudence. See O’Neal v. Smithkline
+Beecham Corp., 551 F. Supp. 2d 993, 1002 (E.D. Cal. 2008) (“Conflict preemption can be either
+direct or indirect. Direct conflict, or ‘impossibility preemption,’ occurs where it is ‘impossible
+for a private party to comply with both state and federal requirements,’ indirect conflict, or
+‘obstacle preemption,’ exists ‘where state law stands as an obstacle to the accomplishment and
+execution of the full purposes and objectives of Congress.’” (quoting Sprietsma v. Mercury
+Marine, 537 U.S. 51, 64 (2002) (internal quotations and citations omitted)). Regulations
+promulgated pursuant to federal statutory authority “have no less pre-emptive effect than federal
+statutes.” Fidelity Federal Savings and Loan Ass’n v. de la Cuesta, 458 U.S. 141, 153 (1982).
+This Court does not need to reach the preemption issue here because, under the first step
+of the Burks test, the Court looks to Massachusetts law to determine if the business judgment
+rule applies to ongoing illegal conduct. Since it does not, as described above, the board lacks the
+authority to terminate the litigation, and therefore no conflict preemption analysis is necessary.
+Even if the second step of the Burks test were to be reached, it is clear that, under the standards
+for conflict preemption, this is a case of “direct conflict” because the business judgment rule, a
+creation of state law, would act to shield ongoing violations of the federal securities laws.
+The significance of Burks, as aptly summarized by the district court in SEC v. Keating,
+91-6785, 1992 U.S. Dist. LEXIS 14630, at *11 (C.D. Cal. July 24,1992), is that it is
+“impermissible to allow the business judgment rule, a creation of state law, to supersede the
+requirements, prohibitions, and policies of the federal securities laws”:
+First, the business judgment rule usually applies to actions (generally those
+brought by shareholders) to enjoin corporate acts or to seek damages from
+
+11
+
+Case 1:10-cv-10515-DPW Document 34
+
+Filed 08/20/10 Page 17 of 24
+
+directors based on the actions taken by the directors. Second, it would be
+impermissible to allow the business judgment rule, a creation of state law, to
+supersede the requirements, prohibitions, and policies of the federal securities
+laws. A state business judgement rule cannot permit action otherwise prohibited
+by the federal securities laws. Burks v. Lasker, 441 U.S. 471, 479, 99 S. Ct. 1831,
+1838, 60 L. Ed. 2d. 404 (1979); Galef v. Alexander, 615 F.2d 51, 62 (2d Cir.
+1980). State law cannot be used to supplement the federal securities law if the
+state law would be inconsistent with the principles underlying federal law.
+Kamen v. Kemper Financial Services, Inc., 111 S. Ct. 1711, 1717, 114 L. Ed. 2d
+152 (1991). In sum, if Ligget’s conduct was in violation of the federal securities
+laws, the business judgment rule could not be allowed to apply; if his conduct did
+not violate those laws, the defense is superfluous.
+Id. at *11-12.
+Accordingly, the business judgment rule is inapplicable here, and, even assuming it were
+applicable, it is preempted.
+III.
+
+PLAINTIFF’S STATE LAW CLAIMS ARE ADEQUATELY PLEADED
+A.
+
+Plaintiff Adequately Alleges a Claim for Breach of Fiduciary Duty
+1.
+
+Rule 9(b) Does Not Apply Because Plaintiff Does Not Allege Fraud
+
+The Trustees argue that Rule 9(b) applies to plaintiff’s breach of fiduciary duty claim.
+Motion at 17-18. Defendants are wrong. As this Court has held, a plaintiff alleging a breach of
+fiduciary duty claim generally need only comply with Rule 8(a) of the Federal Rules of Civil
+Procedure. Gerber v. Bowditch, 05-10782, 2006 WL 1284232, at *13 (D. Mass. May 8, 2006)
+(Woodlock, J.). Rule 9(b) applies to a breach of fiduciary duty claim only if the claim is
+grounded in fraud. See North Am. Catholic Educational Programming Foundation Inc. v.
+Cardinale, 567 F.3d 8, 14 (1st Cir. 2009) (Rule 9(b) covers claims where the core allegations
+effectively charge fraud); Gerber, 2006 WL 1284232, at *13.
+Here, the Trustees do not claim, nor could they, that plaintiff’s breach of fiduciary duty is
+based on fraud. Rather, the Trustees argue that Rule 9(b) applies because plaintiff alleged an
+intentional breach of fiduciary duty. Motion at 17-18. However, the only cases on which they
+
+12
+
+Case 1:10-cv-10515-DPW Document 34
+
+Filed 08/20/10 Page 18 of 24
+
+rely for this proposition do not so hold and instead are consistent with this Court’s ruling in
+Gerber that breach of fiduciary duty claims are subject to Rule 8(a), and the First Circuit’s ruling
+in Cardinale that Rule 9(b) only applies if fraud is alleged. For example, the Trustees rely on In
+re Stratus Computer, Inc Sec. Litig., 89-2075, 1992 WL 73555 (D. Mass. Mar. 27, 1992), and
+Sachs v. Sprague, 401 F. Supp.2d 159 (D. Mass. 2005). Yet in Stratus, Rule 9(b) was applied
+not because of an alleged intentional breach of fiduciary duty, but because the breach of
+fiduciary duty “derives from conduct that is fraudulent.” Stratus, 1992 WL 73555, at *8.
+Further, although the Sachs court did use the term “intentional breaches of fiduciary duties,” it
+cites Insanaka v. Spectrum Technologies USA Inc., 131 F. Supp.2d 353 (N.D.N.Y. 2001), which
+holds that: “When a claim for breach of fiduciary duty is based primarily upon alleged
+fraudulent conduct, the heightened pleading requirements of Fed.R.Civ.P. 9(b) apply.” Id. at 362
+(emphasis added). Accordingly, the Trustees’ cases support plaintiff’s position here that Rule
+9(b) does not apply because there are no allegations of fraud in the Amended Complaint.
+2.
+
+Plaintiff’s Breach of Fiduciary Duty Claim Is Not a Caremark Claim
+
+Although defendants contend that Rule 9(b) applies to plaintiff’s breach of fiduciary duty
+claim, defendants do not assert that plaintiff failed to meet the particularity standards set forth in
+Rule 9(b). Rather, the Trustees argue that plaintiff is making a Caremark, or failure to monitor,
+claim, without pleading a “sustained or systematic failure” to exercise oversight. Motion at 18.
+Defendants once again miss the mark because plaintiff pled direct liability for the Trustees’ own
+actions in approving the payments at issue, not a failure to detect wrongdoing by corporate
+personnel other than the Trustees.
+In Caremark, the court states that it is ignorance of the liability creating activities that
+triggers the Caremark standard, which are certainly not the facts here.
+
+13
+
+Case 1:10-cv-10515-DPW Document 34
+
+Filed 08/20/10 Page 19 of 24
+
+[A] claim of directorial liability for corporate loss is predicated upon ignorance of
+liability creating activities within the corporation. . . . [O]nly sustained or
+systematic failure of the board to exercise oversight such as an utter failure to
+attempt to assure a reasonable information and reporting system exits (sic)-will
+establish the lack of good faith that is a necessary condition for liability.
+In re Caremark In’l, Inc.Deriv. Litig., 698 A.2d 959, 971 (Del. Ch. 1996). See also In re Abbotts
+Labs. Derivative S’holders Litig., 325 F.3d 795, 808-809 (7th Cir. 2003) (in Caremark, there was
+no evidence to indicate that the Caremark directors knew of the violations of law and the
+directors’ liability was “predicated upon ignorance” of the “liability-creating activities which
+resulted in unconsidered failure to act.”).
+Here, the board was aware of the “liability-creating activities,” i.e. the board was aware
+that it was deciding to make asset-based compensation payments to broker-dealers, and
+therefore, at all times, had the opportunity (indeed, the duty) to consider the compliance issues
+raised by those payments. By contrast, in a Caremark claim, some low level employee will have
+engaged in misconduct and the derivative shareholder seeks to hold the board liable for failing to
+discover that the conduct that created liability for the corporation had occurred.
+Here, the payments at issue are made out of Trust assets, which implicates SEC Rule
+12b-1, and are being made to firms that sell Trust shares, which implicates the Securities
+Exchange Act, and are of a form of ongoing compensation that implicates the Advisers Act, and
+the Trust’s compliance with all of these laws and regulations is the direct and primary
+responsibility of the board. AC ¶¶ 59-65; see also 17 C.F.R. § 270.12b-1(b)(3) (board
+responsibilities to be aware of the uses of Rule 12b-1 payments out of Trust assets).
+As such, the Amended Complaint alleges a direct breach of fiduciary duty claim against
+the Trustees arising from their own misconduct in using Trust assets improperly, which resulted
+
+14
+
+Case 1:10-cv-10515-DPW Document 34
+
+Filed 08/20/10 Page 20 of 24
+
+in harm to the shareholders of the Trust.6 See AC ¶¶ 4, 5, 61. See also In re SFBC Int'l, Inc.
+Sec. & Derivative Litig., 495 F. Supp. 2d 477, 484 (D.N.J. 2007) (noting that “[u]nlike other
+theories of director liability,” a Caremark claim alleges “loss to the corporation resulting from an
+unconsidered failure of the board to act”); Abbott Labs, 325 F.3d at 806 (facts are “exactly the
+opposite of Caremark; members of the board in Abbott were aware of the problems.”); White v.
+Panic, 793 A.2d 356, 363 (Del. Ch. 2000) (where gravamen of the complaint alleged that
+defendant directors were “liable for their affirmative and intentional decisions allegedly reached
+in bad faith or with a reckless disregard of their fiduciary duties,” then plaintiff did not plead a
+Caremark claim).
+Because the Trustees seek dismissal of plaintiff’s breach of fiduciary duty claim solely on
+the grounds that it is an inadequately pleaded Caremark claim, a contention that has no merit, the
+Trustees’ request to dismiss plaintiff’s breach of fiduciary duty claim should be denied.7
+B.
+
+Plaintiff Adequately Alleges a Claim for Corporate Waste
+
+The Trustees argue that plaintiff has failed to adequately allege waste. Motion at 19-20.
+However, plaintiff has met his pleading burden for this claim. “[A]lthough there is a stringent
+standard to prove a claim of corporate waste at trial, [plaintiff] need only state a plausible claim
+of corporate waste to survive a motion to dismiss under Iqbal.” Swingless Golf Club Corp. v.
+Taylor, 679 F. Supp. 2d 1060, 1071 (N.D. Cal. 2009) (emphasis in original). See also Stern v.
+General Electric Co., 86- 4055 (MJL), 1992 WL 8195, at * 5 (S.D.N.Y. Jan. 14, 1992) (court
+6
+
+The Trustees concede as much in their Preliminary Statement in which they assert that plaintiff
+alleges “conscious wrongdoing by the Independent Trustees in permitting the allegedly unlawful
+payments.” Motion. at 2.
+7
+
+As plaintiff does not allege a Caremark claim, the cases cited by the Trustees are inapposite.
+See, e.g., Desimone, 924 A.2d at 939 (plaintiff’s complaint alleged a Caremark claim based on
+defendant directors’ “fail[ure] to adequately monitor” its finance reporting system); Canadian
+Commer. Workers Indus. Pension Plan v. Alden, No.1184-N, 2006 WL 456786, at * 6-8 (Del.
+Ch. Feb. 22, 2006) (plaintiff specifically alleged Caremark claim in the complaint).
+
+15
+
+Case 1:10-cv-10515-DPW Document 34
+
+Filed 08/20/10 Page 21 of 24
+
+acknowledged that the standard of proving a waste claim is “clearly very high,” but held
+complaint’s allegations sufficiently pled a waste claim, and observed that “plaintiff’s claim must
+succeed or fail after a thorough discovery process and elaboration of proof.”). As shown below,
+plaintiff’s claim for corporate waste is plausible and properly pled.
+“The essence of a claim of waste of corporate assets is the diversion of corporate assets
+for improper or unnecessary purposes.” Hendersen v. Axiam, Inc., No. 962572D, 1999 WL
+33587312, *53 (Mass. Super. Ct. June 22, 1999) (citing Michelson v. Duncan, 407 A.2d 211, 217
+(Del. 1979)). Here, plaintiff has pled such a diversion of assets, i.e. use of Trust assets for
+unlawful compensation payments to broker-dealers. AC ¶¶ 4, 5, 61, 65.8
+The Trustees also contend that plaintiff has failed to allege facts that show that the
+Trustees made an “egregious or irrational decision” that “could not have been in the Trust’s best
+interest.” Motion at 19-20. They cite Blake v. Smith, No. 0300003 B, 2006 WL 4114305 (Mass.
+Super. Dec. 11, 2006), in which an exculpatory clause barred plaintiff’s waste claim because the
+claim as pled was too vague and lacked allegations exceeding the bounds of the clause in that
+plaintiff did not plead bad faith. See id. at *10 (“Because the alleged conduct by the outside
+directors in the claim for corporate waste amounts to ordinary inattention and/or inadvertence,
+which does not exceed gross negligence, the exculpatory provision bars the [waste claim].”). In
+this instance, plaintiff alleges that the Trustees acted in bad faith because they did not properly
+exercise their responsibilities for compliance, and refused to seek a judicial declaration on the
+disputed legal issue. See AC ¶¶ 70, 90.
+
+8
+
+The Trustees rely on Brehm v. Eisner, 746 A.2d 244 (Del. 2000), in which the court stated that
+no waste exists if “there is any substantial consideration received by the corporation.” Id. at 263.
+Plaintiff alleges that the Trust and its shareholders were deprived of the advisory accounts for
+which they paid, and were legally entitled to receive, which is a lack of consideration, given that
+a brokerage account is not a comparable service. AC ¶ 25, 65.
+
+16
+
+Case 1:10-cv-10515-DPW Document 34
+
+Filed 08/20/10 Page 22 of 24
+
+Finally, the Trustees assert that “significant harm” would “likely result to the Trust by
+pursuing litigation” because, if the payments are found to be unlawful, then compliance with the
+Advisers Act might be a burden on the broker-dealers. Motion at 20 (citing Response Letter at
+7). However, this is just acknowledging that a threshold legal issue is in dispute, and is not
+relevant to the adequacy of the waste claim. See In re Sabine, Inc. No. 05-1019, 2006 WL
+1045712, at *9 (Bankr. D. Mass. Feb. 27, 2006) (defendant’s argument why waste claim should
+be dismissed “is a legal one and inappropriate for motion to dismiss”).
+Therefore, plaintiff’s claim for corporate waste, as with other waste claims based on the
+payment of improper fees, should be upheld at the motion to dismiss stage. See, e.g., In re Teu
+Holdings, Inc., 287 B.R. 26, 35 (Bankr.D.Del. 2002) (when viewed in the light most favorable to
+plaintiff, allegation that payment of at least $2 million in fees and expenses for failed services
+constituted waste were sufficient to survive a motion to dismiss); Independent Cellular
+Telephone, Inc. v. Barker, No. 15171, 1997 WL 153816, at * 6-7 (Del. Ch. Mar. 21, 1997)
+(although allegation that “[t]he payment of such fee is not justified by any service provided” was
+“inartfully worded,” the complaint was “sufficiently particularized, and can reasonably be
+regarded as alleging waste”).
+CONCLUSION
+Based on the foregoing, the Motion should be denied in its entirety.
+DATED: August 20, 2010
+
+MILBERG LLP
+
+/s/ Janine L. Pollack
+Michael C. Spencer
+mspencer@milberg.com
+Janine L. Pollack
+jpollack@milberg.com
+One Pennsylvania Plaza
+
+17
+
+Case 1:10-cv-10515-DPW Document 34
+
+Filed 08/20/10 Page 23 of 24
+
+New York NY 10119
+Telephone: (212) 594-5300
+Facsimile: (212) 868-1229
+Glen DeValerio
+gdevalerio@bermandevalerio.com
+BERMAN DEVALERIO
+One Liberty Square
+Boston, MA 02109
+Tel: (617) 542-8300
+Fax: (617) 542-1194
+Lee A. Weiss
+lweiss@bwgfirm.com
+BROWNE WOODS GEORGE LLP
+1 Liberty Plaza, Suite 2329
+New York, NY 10006
+Tel: (212) 354-4901
+Fax: (212) 354-4904
+Ronald A. Uitz
+ron877@yahoo.com
+UITZ & ASSOCIATES
+1629 K Street, N.W. Suite 300
+Washington, D.C. 20006
+Telephone: (202) 296-5280
+Facsimile: (202) 521-0619
+Richard J. Lantinberg, Esq.
+RLantinberg@whmlegal.com
+WILNER HARTLEY & METCALF, P.A.
+444 E. Duval Street
+Jacksonville, FL 32202
+Telephone: (904) 446-9817
+Facsimile: (904) 446-9825
+Attorneys for Plaintiff
+
+18
+
+Case 1:10-cv-10515-DPW Document 34
+
+Filed 08/20/10 Page 24 of 24
+
+CERTIFICATE OF SERVICE
+I hereby certify that on August 20, 2010 I electronically filed the foregoing with the Clerk
+of Court using the CM/ECF system which will send notification of such filing to the following
+email addresses:
+Ryan M. Tosi
+ryan.tosi@klgates.com
+Charles L. Eisen (admitted pro hac vice)
+charles.eisen @klgates.com (admitted pro hac vice)
+Jeffrey B. Maletta
+Jeffrey.maletta@klgates.com
+
+/s/ Janine L. Pollack
+Janine L. Pollack
+
+19
+
+

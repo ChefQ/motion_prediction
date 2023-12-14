@@ -1,0 +1,2212 @@
+Case 3:16-cr-00462-CRB Document 113 Filed 08/25/17 Page 1 of 21
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+KEKER, VAN NEST & PETERS LLP
+JOHN W. KEKER - # 49092
+jkeker@keker.com
+JAN NIELSEN LITTLE - # 100029
+jlittle@keker.com
+BROOK DOOLEY - # 230423
+bdooley@keker.com
+KATE E. LAZARUS - # 268242
+klazarus@keker.com
+NICHOLAS D. MARAIS - # 277846
+nmarais@keker.com
+IAN KANIG - # 293625
+ikanig@keker.com
+633 Battery Street
+San Francisco, CA 94111-1809
+Telephone:
+415 391 5400
+Facsimile:
+415 397 7188
+Attorneys for Defendant
+SUSHOVAN HUSSAIN
+
+11
+
+UNITED STATES DISTRICT COURT
+
+12
+
+NORTHERN DISTRICT OF CALIFORNIA
+
+13
+
+SAN FRANCISCO DIVISION
+
+14
+UNITED STATES OF AMERICA,
+
+Case No. 3:16-cr-00462-CRB
+
+15
+Plaintiff,
+
+DEFENDANT SUSHOVAN HUSSAIN’S
+MOTION TO DISMISS INDICTMENT;
+MEMORANDUM OF POINTS AND
+AUTHORITIES IN SUPPORT THEREOF
+
+16
+v.
+17
+SUSHOVAN HUSSAIN,
+18
+Defendant.
+19
+20
+
+Date:
+Time:
+Dept.:
+Judge:
+Date Filed:
+Trial Date:
+
+September 20, 2017
+11:00 a.m.
+Courtroom 6 – 17th Floor
+Hon. Charles R. Breyer
+November 10, 2016
+February 26, 2018
+
+21
+22
+23
+24
+25
+26
+27
+28
+DEFENDANT’S MOTION TO DISMISS INDICTMENT
+Case No. 3:16-cr-00462-CRB
+1186303
+
+Case 3:16-cr-00462-CRB Document 113 Filed 08/25/17 Page 2 of 21
+
+1
+
+TABLE OF CONTENTS
+
+2
+
+Page
+
+3
+
+I.
+
+SUMMARY OF ARGUMENT ...........................................................................................1
+
+4
+
+II.
+
+BACKGROUND .................................................................................................................3
+
+5
+
+III.
+
+ARGUMENT .......................................................................................................................4
+
+6
+
+A.
+
+Legal Standard .........................................................................................................4
+
+7
+
+B.
+
+The wire fraud charges should be dismissed because the alleged
+misconduct occurred abroad. ...................................................................................5
+
+8
+1.
+
+The wire fraud statute does not apply to extraterritorial conduct. ...............5
+
+2.
+
+The first scheme—an alleged “fraud” on Autonomy shareholders—
+is extraterritorial and should be dismissed. ..................................................6
+
+3.
+
+The second scheme—an alleged “fraud” on Dutch-based Bidco—is
+extraterritorial and should be dismissed. ...................................................10
+
+9
+10
+11
+12
+C.
+13
+
+The securities fraud charge should be dismissed because the indictment
+does not allege that Mr. Hussain acted “in connection with” HPQ
+securities. ...............................................................................................................11
+
+14
+1.
+
+18 U.S.C. § 1348 proscribes fraud “in connection with” U.S.-listed
+securities. ...................................................................................................11
+
+2.
+
+The indictment does not allege a scheme to defraud “in connection
+with” the purchase or sale of HPQ securities.............................................12
+
+3.
+
+Section 1348 is unconstitutionally vague as applied to Mr. Hussain. .......15
+
+15
+16
+17
+18
+IV.
+
+CONCLUSION ..................................................................................................................16
+
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+i
+DEFENDANT’S MOTION TO DISMISS INDICTMENT
+Case No. 3:16-cr-00462-CRB
+1186303
+
+Case 3:16-cr-00462-CRB Document 113 Filed 08/25/17 Page 3 of 21
+
+1
+
+TABLE OF AUTHORITIES
+
+2
+
+Page(s)
+
+3
+
+Federal Cases
+
+4
+
+Absolute Activist Value Master Fund Ltd. v. Ficeto
+677 F.3d 60 (2d Cir. 2012)......................................................................................................... 7
+
+5
+6
+7
+
+Donaldson v. Severn Sav. Bank, F.S.B.
+No. CV JKB-15-901, 2015 WL 7294362 (D. Md. Nov. 18, 2015) ......................................... 11
+EEOC v. Arabian American Oil Co.
+499 U.S. 244 (1991) ................................................................................................................... 5
+
+8
+9
+10
+
+Johnson v. United States
+135 S. Ct. 2551 (2015) ............................................................................................................. 15
+Morrison v. Nat’l Australia Bank Ltd.
+561 U.S. 247 (2010) ....................................................................................................... 1, 5, 6, 7
+
+11
+12
+13
+
+RJR Nabisco, Inc. v. European Cmty.
+136 S. Ct. 2090 (2016) ....................................................................................................... 5, 6, 8
+Russell v. United States
+369 U.S. 749 (1962) ................................................................................................................... 4
+
+14
+15
+16
+
+U.S. S.E.C. v. Pirate Inv’r LLC
+580 F.3d 233 (4th Cir. 2009) ............................................................................................. 12, 14
+United States v. All Assets Held at Bank Julius
+No. CV 04-0798 (PLF), 2017 WL 1508608 (D.D.C. Apr. 27, 2017)............................ 2, 6, 8, 9
+
+17
+18
+19
+
+United States v. Chesney
+10 F.3d 641 (9th Cir. 1993) ....................................................................................................... 4
+United States v. Davis
+905 F.2d 245 (9th Cir.1990) ...................................................................................................... 9
+
+20
+21
+22
+
+United States v. Gasperini
+No. 16-CR-441 (NGG), 2017 WL 2399693 (E.D.N.Y. June 1, 2017) .................................. 6, 8
+United States v. Hawit
+No. 15-CR-252 (PKC), 2017 WL 663542 (E.D.N.Y. Feb. 17, 2017) ....................................... 6
+
+23
+24
+25
+
+United States v. Jordan
+813 F.3d 442 (1st Cir. 2016) .................................................................................................... 14
+United States v. Keith
+605 F.2d 462 (9th Cir. 1979) ..................................................................................................... 4
+
+26
+27
+28
+
+United States v. Mahaffy
+No. 05-CR-613, 2006 WL 2224518 (E.D.N.Y. Aug. 2, 2006) ................................ 2, 11, 12, 13
+United States v. Mandell
+752 F.3d 544 (2d Cir. 2014)....................................................................................................... 7
+ii
+DEFENDANT’S MOTION TO DISMISS INDICTMENT
+Case No. 3:16-cr-00462-CRB
+
+1186303
+
+Case 3:16-cr-00462-CRB Document 113 Filed 08/25/17 Page 4 of 21
+
+1
+
+United States v. Melvin
+No. 3:14-CR-00022-TCB, 2015 WL 7116737 (N.D. Ga. May 27, 2015) ......................... 12, 13
+
+2
+3
+
+United States v. Motz
+652 F. Supp. 2d 284 (E.D.N.Y. 2009) ..................................................................................... 11
+
+4
+
+United States v. O’Hagan
+521 U.S. 642 (1997) ................................................................................................................. 12
+
+5
+6
+
+United States v. Sidorenko
+102 F. Supp. 3d 1124 (N.D. Cal. 2015) ................................................................................. 5, 9
+
+7
+
+United States v. Vilar
+729 F.3d 62 (2d Cir. 2013)............................................................................................. 2, 5, 6, 7
+
+8
+9
+
+United States v. Wey
+No. 15-CR-611 (AJN), 2017 WL 237651 (S.D.N.Y. Jan. 18, 2017)....................................... 14
+
+10
+
+Federal Statutes
+
+11
+
+18 U.S.C. § 1343 .............................................................................................................................. 1
+
+12
+
+18 U.S.C. § 1348 ..................................................................................................................... passim
+
+13
+
+Federal Rules
+
+14
+
+Fed. R. Crim. P. 7(c)(1) ................................................................................................................... 4
+
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+iii
+DEFENDANT’S MOTION TO DISMISS INDICTMENT
+Case No. 3:16-cr-00462-CRB
+1186303
+
+Case 3:16-cr-00462-CRB Document 113 Filed 08/25/17 Page 5 of 21
+
+1
+2
+3
+
+NOTICE OF MOTION AND MOTION
+TO ALL PARTIES AND THEIR COUNSEL OF RECORD IN THIS ACTION:
+PLEASE TAKE NOTICE that on September 20, 2017, at 11:00 a.m. or as soon thereafter
+
+4
+
+as counsel may be heard, in Courtroom 6, 17th Floor of the United States District Court for the
+
+5
+
+Northern District of California, 450 Golden Gate Avenue, San Francisco, CA 94102, Defendant
+
+6
+
+Sushovan Hussain will and hereby does move the Court to dismiss the indictment pursuant to
+
+7
+
+Federal Rule of Criminal Procedure 12(b)(3)(B) for failure to state an offense under any of the
+
+8
+
+criminal statutes it invokes.
+
+9
+
+This motion is based upon the following Memorandum of Points and Authorities, the
+
+10
+
+Declaration of Nicholas D. Marais submitted herewith and the exhibits attached thereto, oral
+
+11
+
+argument, and the pleadings and exhibits on file with the Court.
+
+12
+13
+
+Respectfully submitted,
+Dated: August 25, 2017
+
+KEKER, VAN NEST & PETERS LLP
+
+14
+15
+16
+17
+18
+19
+
+By:
+
+/s/ John W. Keker
+JOHN W. KEKER
+JAN NIELSEN LITTLE
+BROOK DOOLEY
+KATE E. LAZARUS
+NICHOLAS D. MARAIS
+IAN KANIG
+Attorneys for Defendant
+SUSHOVAN HUSSAIN
+
+20
+21
+22
+23
+24
+25
+26
+27
+28
+DEFENDANT’S MOTION TO DISMISS INDICTMENT
+Case No. 3:16-cr-00462-CRB
+1186303
+
+Case 3:16-cr-00462-CRB Document 113 Filed 08/25/17 Page 6 of 21
+
+1
+2
+3
+4
+5
+
+MEMORANDUM OF POINTS AND AUTHORITIES
+I.
+
+SUMMARY OF ARGUMENT
+This Court should dismiss the indictment against defendant Sushovan Hussain because the
+
+facts alleged therein do not support the crimes charged.
+This case arises out of the foreign acquisition of one foreign entity by another. Autonomy
+
+6
+
+was a London- and Cambridge-based software company, whose shareholders (the first of the
+
+7
+
+government’s “victims”) bought and sold Autonomy’s securities on the London Stock Exchange.
+
+8
+
+In 2011, after an abbreviated period of due diligence—conducted according to English takeover
+
+9
+
+rules and practices—Hewlett-Packard Company’s Dutch subsidiary, Bidco, bought Autonomy.
+
+10
+
+In so doing, Bidco published an offer document that specifically stated that the offer was prepared
+
+11
+
+according to English “requirements, format and style, all of which differ from those in the United
+
+12
+
+States,” and then bought out Autonomy’s securities holders, in England, by transferring pound
+
+13
+
+sterling from one English bank account to another.
+
+14
+
+Given the extraterritorial nature of this case, it is unsurprising that the government has
+
+15
+
+spent five years casting about for a theory and a victim, most recently in a superseding indictment
+
+16
+
+that tacked on a sixteenth count and alleged a scheme to defraud an all-new category of securities
+
+17
+
+holders. With that superseding indictment, the government now appears to have settled on three
+
+18
+
+distinct “victims” and three separate schemes to defraud—each of which is fundamentally flawed.
+
+19
+
+First, the government alleges that Mr. Hussain and others “engaged in a fraudulent scheme
+
+20
+
+to deceive purchasers and sellers of Autonomy securities about the true performance of
+
+21
+
+Autonomy’s business….” ECF No. 52 (Superseding Indictment, “SI”) at ¶ 19 (emphasis added).
+
+22
+
+While the government would ordinarily have charged that as “securities fraud” under Section
+
+23
+
+10(b), it knows that it cannot do so here because it could not meet the Morrison requirements:
+
+24
+
+Autonomy was a foreign company, whose shares were listed on the London Stock Exchange; and
+
+25
+
+there is no allegation that Autonomy’s shares were ever bought or sold in the United States. See
+
+26
+
+Morrison v. Nat’l Australia Bank Ltd., 561 U.S. 247, 273 (2010). Undoubtedly aware of this fatal
+
+27
+
+shortcoming, the government attempts instead to recast its first securities fraud theory as a
+
+28
+
+scheme to defraud under the wire fraud statute, 18 U.S.C. § 1343—the nub of which is that
+1
+DEFENDANT’S MOTION TO DISMISS INDICTMENT
+Case No. 3:16-cr-00462-CRB
+
+1186303
+
+Case 3:16-cr-00462-CRB Document 113 Filed 08/25/17 Page 7 of 21
+
+1
+
+Mr. Hussain (working in Autonomy’s offices in England) and Autonomy’s finance team (also in
+
+2
+
+England) published quarterly financials that led some unidentified individuals to invest in their
+
+3
+
+company (on the London Stock Exchange). In other words, all or substantially all of the conduct
+
+4
+
+in this so-called “wire fraud” occurred in England and the “scheme” to defraud Autonomy’s
+
+5
+
+shareholders can neither be said to entail a “substantial amount of conduct in the United States”
+
+6
+
+nor to support “a domestic application of wire fraud.” See, e.g., United States v. All Assets Held
+
+7
+
+at Bank Julius, No. CV 04-0798 (PLF), 2017 WL 1508608, at *15 (D.D.C. Apr. 27, 2017).
+
+8
+
+Second, the government alleges that Mr. Hussain and others engaged in a scheme to
+
+9
+
+defraud HP and Bidco. See, e.g., SI, ¶¶ 21, 23, 26. Here, too, the government’s case turns on
+
+10
+
+extraterritorial conduct: the “defrauded” entity, Bidco, is Dutch; the “perpetrators” are English;
+
+11
+
+and the “property” at issue was English currency in English bank accounts. To sidestep these
+
+12
+
+problems, the indictment attempts—as the government has long attempted—to conflate two
+
+13
+
+distinct corporate entities, HP and Bidco. See, e.g., id. at ¶ 8 (alleging, inaccurately, that both HP
+
+14
+
+and Bidco “entered into an Offer Agreement with Autonomy”). But that effort is divorced from
+
+15
+
+reality: HP carefully and intentionally left the transaction to Bidco, a foreign entity that used
+
+16
+
+foreign funds to acquire a foreign target. See, e.g., id. at ¶¶ 26(cc)–(ee). As a result, the answer
+
+17
+
+to the decisive legal question—“whether the relevant conduct occurred in the territory of a
+
+18
+
+foreign sovereign,” United States v. Vilar, 729 F.3d 62, 70 (2d Cir. 2013)—is “yes.”
+
+19
+
+Third, in a recently added sixteenth count, the government attempts to stretch 18 U.S.C.
+
+20
+
+§ 1348 beyond its limits by alleging a new scheme to defraud purchasers and sellers of
+
+21
+
+Hewlett-Packard securities in August 2011. Section 1348, however, is not a general purpose
+
+22
+
+fraud statute; it requires a nexus to U.S.-listed securities. See, e.g., United States v. Mahaffy, No.
+
+23
+
+05-CR-613, 2006 WL 2224518, *12 (E.D.N.Y. Aug. 2, 2006). And the only allegations of
+
+24
+
+conduct by Mr. Hussain in August 2011 involve representations he made to Bidco in the course of
+
+25
+
+its acquisition of Autonomy. The indictment does not allege that Mr. Hussain acted in any way
+
+26
+
+“in connection with” HPQ securities, as required by section 1348. Because this count is devoid
+
+27
+
+of any nexus with U.S.-listed securities, it is facially invalid and unconstitutionally vague, and it,
+
+28
+
+too, must be dismissed.
+2
+DEFENDANT’S MOTION TO DISMISS INDICTMENT
+Case No. 3:16-cr-00462-CRB
+
+1186303
+
+Case 3:16-cr-00462-CRB Document 113 Filed 08/25/17 Page 8 of 21
+
+1
+2
+
+II.
+
+BACKGROUND
+Mr. Hussain is a citizen and resident of the United Kingdom and was the CFO of U.K.-
+
+3
+
+based software company Autonomy. Like other members of Autonomy’s finance team, he
+
+4
+
+worked in Autonomy’s London and Cambridge offices. Autonomy’s quarterly and annual
+
+5
+
+reports—which were published from England—were prepared in accordance with U.K.
+
+6
+
+regulations and U.K. accounting standards, see SI, ¶¶ 13–14, and reviewed and audited by
+
+7
+
+Deloitte UK, see, e.g., ECF Nos. 50–51.
+
+8
+9
+
+On or about August 18, 2011, HP’s offshore subsidiary, HP Vision B.V. (or “Bidco”),
+entered into an offer agreement to acquire Autonomy, and the deal closed on October 3, 2011. SI,
+
+10
+
+¶¶ 8, 11. According to the indictment, HP and Bidco are alleged to have relied on “the accuracy
+
+11
+
+and truthfulness of the statements and disclosures made in Autonomy’s historically reported
+
+12
+
+financial statements….” Id., ¶ 18. A little more than a year later, HP announced that it was taking
+
+13
+
+an $8.8 billion impairment charge “related to Autonomy”—the majority of which, it claimed, was
+
+14
+
+“linked to serious accounting improprieties, misrepresentations and disclosure failures.” At the
+
+15
+
+same time, HP referred the matter to the U.K.’s Serious Fraud Office, the U.K.’s Financial
+
+16
+
+Reporting Council, the Department of Justice, and the Securities and Exchange Commission. HP
+
+17
+
+also filed a civil suit against Mr. Hussain (and former Autonomy CEO, Michael Lynch) and
+
+18
+
+threatened to sue Deloitte UK—all of which it chose to do in England. See, e.g., ECF No. 50.
+
+19
+
+Meanwhile, on the other side of the Atlantic, the Department of Justice investigated HP’s
+
+20
+
+allegations for four years before seeking an indictment against just one man, Mr. Hussain. That
+
+21
+
+indictment alleges one omnibus “scheme to defraud,” but in reality, the government appears to
+
+22
+
+have settled on three different theories or “schemes.”
+
+23
+
+First, it accuses Mr. Hussain (“and others”) of carrying out a “fraudulent scheme to
+
+24
+
+deceive purchasers and sellers of Autonomy securities about the true performance of Autonomy’s
+
+25
+
+business, its financial condition, and its prospects for growth.” Id. at ¶ 19. In this first scheme,
+
+26
+
+the government alleges, Mr. Hussain and others artificially inflated Autonomy’s financials by
+
+27
+
+accelerating revenue; made false statements to Autonomy’s auditors, analysts, and regulators; and
+
+28
+
+issued false financial statements and press releases. Id. at ¶ 22. As alleged, this scheme was not
+3
+DEFENDANT’S MOTION TO DISMISS INDICTMENT
+Case No. 3:16-cr-00462-CRB
+
+1186303
+
+Case 3:16-cr-00462-CRB Document 113 Filed 08/25/17 Page 9 of 21
+
+1
+
+directed at HP at all, but was instead allegedly carried out between 2009 and mid-2011 with the
+
+2
+
+intent to defraud Autonomy’s shareholders.
+
+3
+
+Second, the indictment alleges a quite different wire fraud scheme, carried out in August
+
+4
+
+2011, with an altogether different purpose (“inducing” Bidco to buy Autonomy).1 In this second
+
+5
+
+scheme, the government argues that Mr. Hussain and others made misrepresentations during the
+
+6
+
+August 2011 negotiations and due diligence process that culminated in Bidco’s purchase of
+
+7
+
+Autonomy—all as part of an alleged scheme to make Autonomy more attractive to purchasers.
+
+8
+
+Third, in an attempt to shore up jurisdictional shortcomings, the government added a
+
+9
+
+securities fraud “scheme”—a scheme to defraud not Autonomy’s shareholders, but HP’s, in
+
+10
+
+violation of 18 U.S.C. § 1348. When the government introduced this third theory, it relied almost
+
+11
+
+entirely on pre-existing allegations, claiming only that, in August 2011, Mr. Hussain (acting
+
+12
+
+alone) violated 18 U.S.C. § 1348 in connection with HPQ securities. SI, ¶ 30. The government
+
+13
+
+did not add any allegations regarding any additional conduct in August 2011, any transaction
+
+14
+
+involving HPQ securities, or any connection between Mr. Hussain and HPQ securities.
+
+15
+
+III.
+
+ARGUMENT
+
+16
+
+A.
+
+17
+
+An indictment must contain a “definite written statement of the essential facts constituting
+
+Legal Standard
+
+18
+
+the offense charged.” Fed. R. Crim. P. 7(c)(1). It must contain each element of the charge. See
+
+19
+
+United States v. Chesney, 10 F.3d 641, 643 (9th Cir. 1993) (“An indictment’s failure to state an
+
+20
+
+element of the charged offense is a fundamental defect.”); United States v. Keith, 605 F.2d 462,
+
+21
+
+464 (9th Cir. 1979). An indictment must set forth the elements in order “to inform the court of
+
+22
+
+the facts alleged, so that it may decide whether they are sufficient in law to support a conviction,
+
+23
+
+if one should be had.” Russell v. United States, 369 U.S. 749, 768 (1962).
+
+24
+25
+26
+27
+28
+
+1
+
+The government has previously attempted to blur the lines between these distinct schemes. At the
+May 10 hearing, AUSA Leach repeatedly told the Court that the indictment “alleges a scheme to
+defraud Autonomy securities holders, the ultimate purchaser of which was Hewlett-Packard
+Corporation through its subsidiary.” ECF No. 64 (Hr’g Tr. (May 20, 2017)), 22:15–18. But they
+involve different conduct, at different times, with different targets, and they should have been charged
+under different statutes. Compare SI, ¶ 19 (describing one scheme “to deceive purchasers and sellers
+of Autonomy securities”) with id. at ¶ 21 (describing an effort “to make Autonomy more attractive to
+a potential purchaser like HP”).
+4
+DEFENDANT’S MOTION TO DISMISS INDICTMENT
+Case No. 3:16-cr-00462-CRB
+
+1186303
+
+Case 3:16-cr-00462-CRB Document 113 Filed 08/25/17 Page 10 of 21
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+
+B.
+
+The wire fraud charges should be dismissed because the alleged misconduct
+occurred abroad.
+
+The first two of the government’s alleged schemes are both charged under the wire fraud
+statute, although the schemes, “means and methods,” and supposed victims are quite different.
+The first scheme to defraud alleges classic securities fraud: that Mr. Hussain and others
+recognized revenue when they shouldn’t have, which led to material misrepresentations in
+quarterly financial statements, which allegedly “deceive[d] purchasers and sellers of Autonomy
+securities about the true performance of Autonomy’s business….” SI, ¶ 19. But, because the
+government knows that Morrison and Vilar foreclose a traditional securities fraud case for such
+extraterritorial conduct, they have attempted to plead around those cases by charging Mr. Hussain
+with deceiving purchasers or sellers of foreign stocks on a foreign exchange by using the U.S.
+wires. The second scheme to defraud—alleging that Mr. Hussain defrauded Bidco—faces fatal
+extraterritoriality problems too: HP structured the deal to occur entirely offshore. And so here,
+too, the government attempts to stretch its case beyond the facts, pretending that HP and Bidco
+are one and the same despite the very corporate formalities that HP put in place to position this
+deal abroad. Regardless of the government’s maneuvering, charges under the wire fraud statute
+require an adequate nexus to the United States, and the government’s efforts to manufacture
+jurisdiction fall short of what the law demands.
+
+18
+1.
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+The wire fraud statute does not apply to extraterritorial conduct.
+
+There is no doubt that “when a statute gives no clear indication of an extraterritorial
+application, it has none.” Morrison, 561 U.S. at 255; EEOC v. Arabian American Oil Co., 499
+U.S. 244, 248 (1991); RJR Nabisco, Inc. v. European Cmty., 136 S. Ct. 2090, 2100 (2016). As a
+result, a broad range of criminal statutes do not apply to extraterritorial conduct—including, as
+this Court has previously noted, the wire fraud statute at issue in the first fifteen counts. United
+States v. Sidorenko, 102 F. Supp. 3d 1124, 1129, 1132 (N.D. Cal. 2015) (finding that, “[b]ecause
+there is no clear indication of extraterritorial intent” in the wire fraud statute, it has no
+extraterritorial application).
+Because the wire fraud statute does not apply extraterritorially, “the only question [the
+Court] must answer in the individual case is whether the relevant conduct occurred in the territory
+5
+DEFENDANT’S MOTION TO DISMISS INDICTMENT
+Case No. 3:16-cr-00462-CRB
+
+1186303
+
+Case 3:16-cr-00462-CRB Document 113 Filed 08/25/17 Page 11 of 21
+
+1
+
+of a foreign sovereign.” Vilar, 729 F.3d at 70 (concluding that it would be “clear or obvious error
+
+2
+
+to apply Section 10(b) and Rule 10b-5 to extraterritorial criminal conduct in light of Morrison”).
+
+3
+
+To do that, courts look to “the statute’s ‘focus’”: “if the conduct relevant to the focus occurred in
+
+4
+
+a foreign country, then the case involves an impermissible extraterritorial application regardless
+
+5
+
+of any other conduct that occurred in U.S. territory.” RJR Nabisco, 136 S. Ct. at 2101.
+
+6
+
+Increasingly, courts that analyze the wire fraud statute’s focus have turned to a more “holistic”
+
+7
+
+assessment of the alleged misconduct:
+
+8
+
+[A] complaint alleges a domestic application of wire fraud when (1) a
+defendant or coconspirator commits a substantial amount of conduct in
+the United States, (2) the conduct is integral to the commission of the
+scheme to defraud, and (3) at least some of the conduct involves the use
+of U.S. wires in furtherance of the scheme to defraud.
+
+9
+10
+11
+
+Bank Julius, 2017 WL 1508608, at *15 (emphases added); see also United States v. Gasperini,
+
+12
+
+No. 16-CR-441 (NGG), 2017 WL 2399693, at *8 (E.D.N.Y. June 1, 2017) (“Congress’s focus in
+
+13
+
+enacting the wire fraud prohibition was to regulate frauds, and not solely a means of perpetrating
+
+14
+
+a fraud.”); United States v. Hawit, No. 15-CR-252 (PKC), 2017 WL 663542, at *5 (E.D.N.Y.
+
+15
+
+Feb. 17, 2017) (courts “must conduct a more holistic assessment of the conduct that constitutes
+
+16
+
+the alleged fraud scheme, including consideration of whether the scheme involves only incidental
+
+17
+
+or minimal use of U.S. wires.”).2
+
+18
+
+2.
+
+19
+
+The first scheme—an alleged “fraud” on Autonomy shareholders—is
+extraterritorial and should be dismissed.
+
+In the superseding indictment, the government alleges that Mr. Hussain “engaged in a
+20
+fraudulent scheme to deceive purchasers or sellers of Autonomy securities about the true
+21
+performance of Autonomy’s business, its financial condition, and its prospects for growth.” SI,
+22
+¶¶ 19, 20, 22 (emphasis added). To be clear, these allegations are specifically about Autonomy
+23
+shareholders, whom the government has distinguished from the HP and Bidco corporate entities,
+24
+25
+26
+27
+28
+
+2
+
+In Hawit, Judge Pamela Chen found that an indictment alleged sufficient U.S.-focused misconduct
+because it involved far more than just “the use of wire facilities and financial institutions located in
+the United States”; the scheme, as alleged, included the “sales of broadcasting and other commercial
+rights in the United States, … holding the centennial edition of the Copa America in the United
+States, announcing in the United States the decision to hold the centennial edition of the Copa
+America in the United States, and phone calls and meetings in the United States related to the
+bribery….” Hawit, 2017 WL 663542, at *6.
+6
+DEFENDANT’S MOTION TO DISMISS INDICTMENT
+Case No. 3:16-cr-00462-CRB
+
+1186303
+
+Case 3:16-cr-00462-CRB Document 113 Filed 08/25/17 Page 12 of 21
+
+1
+
+see, e.g., id. at ¶ 21, and from HP’s own shareholders, id. at ¶ 30. In this first scheme, the
+
+2
+
+government’s theory appears to be that, from as early as 2009—years before Bidco and
+
+3
+
+Autonomy discussed any acquisition—Autonomy’s executives misled their own shareholders by
+
+4
+
+“ensur[ing] that Autonomy reported that it had met or exceeded projected quarterly results for,
+
+5
+
+among other things, revenue, gross margin, net income, and earnings per share.” Id. at ¶ 20.
+
+6
+
+This “scheme to deceive purchasers and sellers of Autonomy securities about the [company’s]
+
+7
+
+true performance” is alleged to have involved:
+
+8
+
+•
+
+Revenue recognition issues—“inflating revenues” by “improperly recording” various
+sales despite backdated contracts, side letters, reciprocal arrangements, and in other
+instances where the (English) accounting standards went unmet, id. at ¶¶ 22(a), 26(d)–
+(f), 26(i)–(j), 26(p)–(r), 26(t), 26(w), 26(x);
+
+•
+
+“Making and causing fraudulent entries to Autonomy’s books,” id. at ¶ 22(f);
+
+•
+
+“Issuing materially false and misleading quarterly and annual reports” for each quarter
+from the start of 2009 to the middle of 2011, id. at ¶¶ 22(g), 26(a)–(c), 26(g)–(h), 26(k),
+26(m), 26(o), 26(s), 26(u); and thereby
+
+•
+
+“Increas[ing] and maintain[ing] the share price of Autonomy securities,” id. at ¶ 20.
+
+9
+10
+11
+12
+13
+14
+15
+16
+
+Each of these “means and methods” comprises conduct that occurred in another country.
+
+17
+
+Although the scheme, as alleged, should sound in securities fraud, the government all but
+
+18
+
+acknowledges that it cannot meet the Morrison and Vilar tests because no Autonomy securities
+
+19
+
+were bought or sold in the United States.3 Thus, it rebrands this scheme as a “wire fraud,” for
+
+20
+
+which the nexus to the U.S. is apparently that Autonomy published quarterly press releases and
+
+21
+
+“distributed” them into this District. See, e.g., Counts Three (2010 annual results “distributed
+
+22
+
+from Cambridge, England, to the Northern District of California”), Seven, Eight. But that is not
+
+23
+
+enough, and the government’s attempts to rescue its case fail in at least three ways:
+
+24
+25
+26
+27
+28
+
+First, the government should not be allowed to plead its way around Morrison. If the
+3
+
+For conduct to fall within Section 10(b)’s reach, the securities at issue must be listed on a domestic
+exchange, or the purchase or sale of the security at issue must have been made in the United States.
+United States v. Mandell, 752 F.3d 544, 548 (2d Cir. 2014) (transaction “is domestic when the parties
+incur irrevocable liability to carry out the transaction within the United States or when title is passed
+within the United States”); see also Absolute Activist Value Master Fund Ltd. v. Ficeto, 677 F.3d 60,
+67 (2d Cir. 2012). Nowhere does the indictment allege that Autonomy shares were traded in the
+United States, or that they were purchased or sold here.
+7
+DEFENDANT’S MOTION TO DISMISS INDICTMENT
+Case No. 3:16-cr-00462-CRB
+
+1186303
+
+Case 3:16-cr-00462-CRB Document 113 Filed 08/25/17 Page 13 of 21
+
+1
+
+indictment alleges that Autonomy securities holders were misled into buying shares, the
+
+2
+
+government must demonstrate that those shares were traded on a domestic exchange or that
+
+3
+
+irrevocable liability passed to purchasers within the United States. It does neither.
+
+4
+
+Second, the government fails to demonstrate that the “conduct relevant to the focus” of the
+
+5
+
+wire fraud statute occurred domestically. See, e.g., RJR Nabisco, 136 S. Ct. at 2101. Here, the
+
+6
+
+press releases at issue were prepared and published in England, in accordance with English
+
+7
+
+accounting rules and policies, and Autonomy shares were only available for purchase on the
+
+8
+
+London Stock Exchange. The indictment waves at shareholders “throughout the United States,”
+
+9
+
+SI at ¶ 3, but never alleges that Mr. Hussain “commit[ted] a substantial amount of conduct” here,
+
+10
+
+let alone that such conduct was “integral to the commission of the scheme to defraud.” Bank
+
+11
+
+Julius, 2017 WL 1508608, at *15 (D.D.C. Apr. 27, 2017); see also Gasperini, 2017 WL 2399693,
+
+12
+
+at *8 (concluding that the court had jurisdiction only after finding that “the alleged domestic
+
+13
+
+conduct … [was] both ‘substantial’ and ‘integral to the commission’ of the underlying scheme”).
+
+14
+
+Instead, the indictment is replete with allegations of misconduct that occurred beyond this
+
+15
+
+country’s borders—as even a cursory review of the government’s alleged “means and methods”
+
+16
+
+makes clear. There, the government claims that Mr. Hussain (“and others”):
+
+17
+
+•
+
+Instructed Autonomy’s finance department to recognize revenue when “all of the
+criteria in IFRS, IAS 18, and Autonomy’s revenue recognition policy had not been
+satisfied….” SI, ¶ 22(a); see also id. at ¶ 22(f). There is no allegation that Autonomy’s
+revenue-recognition decisions were made in the U.S. or made in accordance with U.S.
+policies. (Quite the contrary: IFRS and IAS 18 are U.K. accounting standards, and
+Autonomy’s finance department was located, and made decisions, in England.)
+
+•
+
+Made “false and misleading statements to Autonomy’s independent auditor about the
+facts and circumstances of transactions allegedly supporting the recognition of
+revenue….” Id. at ¶ 22(b). There is no allegation that any of these statements were
+made in the United States. Autonomy was audited by Deloitte UK, whose personnel
+lived and worked in England.
+
+•
+
+Made “false and misleading statements to market analysts covering Autonomy about its
+financial statements….” Id. at ¶ 22(c); see also id. at ¶ 22(e). The government never
+alleges that any U.S.-based market analysts attended Autonomy’s presentations.
+
+•
+
+Made “false and misleading statements to Autonomy’s regulators in response to
+inquiries about its financial statements.” Id. at ¶ 22(d). Here, the government appears
+to have in mind the Financial Reporting Review Panel, a committee that operates under
+the purview of the U.K. Financial Reporting Council.
+
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+8
+DEFENDANT’S MOTION TO DISMISS INDICTMENT
+Case No. 3:16-cr-00462-CRB
+1186303
+
+Case 3:16-cr-00462-CRB Document 113 Filed 08/25/17 Page 14 of 21
+
+1
+
+•
+
+3
+
+“Issu[ed] materially false and misleading quarterly and annual reports.” Id. at ¶ 22(g).
+But Autonomy’s quarterly and annual reports were prepared by its finance department
+in England, reviewed by Deloitte UK, approved in England, and published in England
+(and the indictment never alleges otherwise).
+
+4
+
+In Count One, where the government details the alleged “means and methods of the wire
+
+5
+
+fraud conspiracy,” it again leans heavily on extraterritorial conduct: Autonomy’s decisions about
+
+6
+
+when to recognize revenue—which were taken in England; the preparation and publication of
+
+7
+
+press releases—which happened in England, see, e.g., id. at ¶¶ 26(a)–(c), (f)–(h), (k)–(o), (s), (u);
+
+8
+
+and the company’s issuing annual reports—which happened in England, id. at ¶ 26(u).
+
+9
+
+Recognizing these shortcomings, the government bends over backwards to find “wires” into the
+
+2
+
+10
+
+United States—claiming, for instance, that “Autonomy entered into a[n agreement] with a
+
+11
+
+counterparty in the United States,” id. at ¶ 26(d). But even taking those allegations at face value,
+
+12
+
+they certainly do not constitute “a substantial amount of conduct in the United States.” Bank
+
+13
+
+Julius, 2017 WL 1508608, at *15. The core of the government’s first scheme—Mr. Hussain’s
+
+14
+
+alleged scheme to defraud Autonomy shareholders—is not these incidental agreements or emails.
+
+15
+
+Rather, it is Autonomy’s decisions about whether to recognize revenue on those underlying deals
+
+16
+
+and its announcements to the market—“means and methods” that occurred entirely in England.
+
+17
+
+Third, the Due Process Clause requires a “sufficient nexus between the defendant and the
+
+18
+
+United States so that such an application of a domestic statute to the alleged conduct would not be
+
+19
+
+arbitrary or fundamentally unfair.” Sidorenko, 102 F. Supp. 3d at 1132 (citing United States v.
+
+20
+
+Davis, 905 F.2d 245, 248–49 (9th Cir.1990)). Mr. Hussain lived and worked in England;
+
+21
+
+Autonomy published financial results in England, according to English accounting rules; and
+
+22
+
+there are no allegations that Mr. Hussain sought or solicited U.S.-based purchasers of Autonomy
+
+23
+
+securities. Even on the government’s account, neither Mr. Hussain nor others at Autonomy
+
+24
+
+entered into talks with HP or Bidco until 2011. See SI, ¶ 17. On those facts, there is no basis to
+
+25
+
+believe that Mr. Hussain would ever “reasonably [have anticipated] being ‘haled into court’ in
+
+26
+
+this country” for statements Autonomy made in England in 2009 or 2010. Sidorenko, 102 F.
+
+27
+
+Supp. 3d at 1133. The government’s allegations about a foreign, “fraudulent scheme to deceive
+
+28
+
+purchasers or sellers of Autonomy securities” are beyond the reach of either the securities or wire
+9
+DEFENDANT’S MOTION TO DISMISS INDICTMENT
+Case No. 3:16-cr-00462-CRB
+
+1186303
+
+Case 3:16-cr-00462-CRB Document 113 Filed 08/25/17 Page 15 of 21
+
+1
+
+fraud statutes, and Counts One through Three and Six through Eight must be dismissed.
+
+2
+
+3.
+
+3
+
+The second scheme—an alleged “fraud” on Dutch-based Bidco—is
+extraterritorial and should be dismissed.
+
+Next, the government alleges that Mr. Hussain (and others) “caused Autonomy to make
+4
+materially false and misleading statements to HP regarding Autonomy’s financial condition,
+5
+performance, and business….” SI, ¶ 23. As part of this second scheme to defraud, it alleges that:
+6
+•
+
+Mr. Hussain made various misrepresentations to HP and Bidco, during their duediligence period, about “the nature of Autonomy’s products,” its “hardware sales,” and
+its “top customers” and “top contracts,” id. at ¶¶ 23(a)–(d);
+
+•
+
+“[T]o induce the offer by HP and [Bidco], Hussain executed a letter … warranting that
+all information provided by him … was true and accurate,” id. at ¶ 26(bb); and
+
+•
+
+11
+
+Relying on these alleged misrepresentations, Bidco bought and paid for Autonomy
+through a series of offshore wire transfers, id. at ¶¶ 26(cc)–(ee).
+
+12
+
+The crux of this second scheme appears to be an alleged effort by Autonomy’s executives
+
+13
+
+to “obtain[] money or property” from Bidco “by means of false or fraudulent … representations,”
+
+14
+
+all or substantially all of which happened in England. As the final offer document (the “Offer”)
+
+15
+
+makes clear, this deal was struck between Autonomy and “Hewlett-Packard Vision B.V.”—not
+
+16
+
+HP. See Declaration of Nicholas D. Marais (“Marais Decl.”), Ex. A. The Offer required that
+
+17
+
+shareholders mail their responses to Cambridge, England; set deadlines in “UK time”; described
+
+18
+
+the offer price in pound sterling, see id. at iii; and explained that “HP Vision, in aggregate has
+
+19
+
+received irrevocable undertakings from the Autonomy Directors to accept … the Offer,” id. at 2.
+
+20
+
+Ultimately, even the government concedes that the acquisition closed—and money exchanged
+
+21
+
+hands—outside the United States. See SI, ¶¶ 26(cc)–(ee). HP and Bidco studiously structured
+
+22
+
+this transaction so as to avoid any contact with (or any tax obligations to) the United States, and
+
+23
+
+when the acquisition ultimately soured, Bidco sued Mr. Hussain in England.
+
+7
+8
+9
+10
+
+24
+
+Because the government is worried about finding a domestic “victim,” it obfuscates these
+
+25
+
+clear corporate boundaries and stretches to portray HP and Bidco as one and the same. See, e.g.,
+
+26
+
+SI at ¶¶ 8 (claiming that “HP and Hewlett-Packard Vision B.V. … entered into an Offer
+
+27
+
+Agreement with Autonomy”); 12 (claiming, incorrectly, that Mr. Hussain’s shares were “acquired
+
+28
+
+by HP”); 17 (alleging that Mr. Hussain “gave and otherwise provided” financial statements to
+10
+DEFENDANT’S MOTION TO DISMISS INDICTMENT
+Case No. 3:16-cr-00462-CRB
+
+1186303
+
+Case 3:16-cr-00462-CRB Document 113 Filed 08/25/17 Page 16 of 21
+
+1
+
+“persons at, or acting on behalf of, HP”). They are not, and HP sought to stay as far away from
+
+2
+
+this deal as possible. (HP’s English lawyers have told the High Court that there are “literally
+
+3
+
+hundreds of companies” separating HP from Bidco.)
+
+4
+5
+6
+7
+
+This Court should reject the government’s second scheme and dismiss Counts One, Four,
+Five, and Nine through Fifteen.
+C.
+
+The securities fraud charge should be dismissed because the indictment does
+not allege that Mr. Hussain acted “in connection with” HPQ securities.
+
+Finally, the government alleges a third scheme—one in which Mr. Hussain “intentionally
+8
+execute[d]” a scheme to defraud HP’s shareholders by means of representations he made to HP
+9
+itself. That scheme, embodied in Count 16, should be dismissed because the indictment does not
+10
+allege that Mr. Hussain acted “in connection with” HPQ securities, a necessary element under 18
+11
+U.S.C. § 1348, and is thus also void for vagueness.
+12
+13
+
+1.
+
+18 U.S.C. § 1348 proscribes fraud “in connection with” U.S.-listed
+securities.
+
+14
+
+Enacted as part of the Sarbanes-Oxley Act in 2002, 18 U.S.C. § 1348 requires a sufficient
+
+15
+
+nexus between the alleged scheme to defraud and a U.S.-listed security. Under the statute, it is a
+
+16
+
+crime to knowingly “execute[], or attempt to execute[], a scheme” to defraud any person—or to
+
+17
+
+use “false or or fraudulent pretenses, representations, or promises” to obtain money or property—
+
+18
+
+“in connection with … any security of an issuer with a class of securities registered under
+
+19
+
+section 12 of the Securities Exchange Act of 1934….” 18 U.S.C. § 1348 (emphasis added).
+
+20
+
+To “prove a violation of 18 U.S.C. § 1348, the Government must show: (1) fraudulent
+
+21
+
+intent; (2) a scheme or artifice to defraud; and (3) a nexus with a security” registered under the
+
+22
+
+Exchange Act. United States v. Motz, 652 F. Supp. 2d 284, 295 (E.D.N.Y. 2009) (quoting United
+
+23
+
+States v. Mahaffy, No. 05-CR-613, 2006 WL 2224518, at *12 (E.D.N.Y. Aug. 2, 2006)).
+
+24
+
+Section 1348 was modeled on the wire fraud and bank fraud laws, but “[i]n the case of securities
+
+25
+
+fraud, the additional element to be shown is a nexus with a security.” Donaldson v. Severn Sav.
+
+26
+
+Bank, F.S.B., No. CV JKB-15-901, 2015 WL 7294362, at *3 (D. Md. Nov. 18, 2015).
+
+27
+
+Courts interpreting section 1348 have noted the plain-language need for a nexus between
+
+28
+
+the conduct and the securities. The Eastern District of New York’s decision in Mahaffy contains
+11
+DEFENDANT’S MOTION TO DISMISS INDICTMENT
+Case No. 3:16-cr-00462-CRB
+
+1186303
+
+Case 3:16-cr-00462-CRB Document 113 Filed 08/25/17 Page 17 of 21
+
+1
+
+the most substantive discussion of section 1348’s “in connection with” element that the defense
+
+2
+
+has seen. In that case, defendant stockbrokers allowed day traders to secretly listen to the
+
+3
+
+brokers’ internal speaker systems for customers’ order information, information which included
+
+4
+
+orders large enough to influence the price of the traded securities. 2006 WL 2224518, at *3. In
+
+5
+
+exchange, the day traders paid bribes to the brokers. The Mahaffy court held “though not with the
+
+6
+
+intention of identifying the outer boundary of the statute’s application, the requirement that the
+
+7
+
+scheme be ‘in connection’ with a security is satisfied where as a result of the scheme, the
+
+8
+
+defendants either benefitted, or attempted to benefit, from trading in securities.” Id. at *12
+
+9
+
+(emphasis added; citing United States v. O’Hagan, 521 U.S. 642 (1997)). Additionally, in
+
+10
+
+interpreting section 1348, the Northern District of Georgia observed “[t]he words ‘in connection
+
+11
+
+with’ ordinarily mean associated with, related to, or the like.” United States v. Melvin,
+
+12
+
+No. 3:14-CR-00022-TCB, 2015 WL 7116737, at *6 (N.D. Ga. May 27, 2015) (emphasis added).
+
+13
+
+Decisions interpreting section 10(b) also provide a useful analogue and are instructive on
+
+14
+
+the importance of the “in connection with” language.4 The Fourth Circuit has identified four
+
+15
+
+factors that may guide the determination of whether section 10(b)’s “in connection with the
+
+16
+
+purchase or sale of any security” requirement has been met: “(1) whether a securities sale was
+
+17
+
+necessary to the completion of the fraudulent scheme; (2) whether the parties’ relationship was
+
+18
+
+such that it would necessarily involve trading in securities; (3) whether the defendant intended to
+
+19
+
+induce a securities transaction; and (4) whether material misrepresentations were disseminated to
+
+20
+
+the public in a medium upon which a reasonable investor would rely.” U.S. S.E.C. v. Pirate Inv’r
+
+21
+
+LLC, 580 F.3d 233, 244 (4th Cir. 2009) (citations omitted).
+
+22
+
+2.
+
+23
+
+The indictment does not allege a scheme to defraud “in connection
+with” the purchase or sale of HPQ securities.
+
+Count 16 is defective because the indictment does not allege that Mr. Hussain defrauded
+24
+any person or falsely obtained any money or property “in connection with” HPQ securities. That
+25
+count alleges that in or about August 2011, Mr. Hussain—acting alone—violated section 1348.
+26
+SI, ¶ 30. The indictment’s only allegations of conduct in August 2011 are that:
+27
+28
+
+4
+
+Although section 1348 is not coterminous with section 10(b) of the Securities Exchange Act, both
+address fraud in the securities market.
+12
+DEFENDANT’S MOTION TO DISMISS INDICTMENT
+Case No. 3:16-cr-00462-CRB
+
+1186303
+
+Case 3:16-cr-00462-CRB Document 113 Filed 08/25/17 Page 18 of 21
+
+1
+
+•
+
+On or about August 4, 2011, Mr. Hussain caused Autonomy to provide to HP and its
+advisors lists of Autonomy’s top contracts and customers. SI, ¶ 26(aa).
+
+•
+
+On or about August 18, 2011, in San Francisco, Mr. Hussain executed a letter accepting
+Bidco’s offer, agreeing to recommend it to others, and warranting that information he
+provided “for inclusion in any document issued in connection with the offer was true
+and accurate in all respects and not misleading in any respect.” Id., ¶ 26(bb).
+
+•
+
+On or about August 18, 2011, Bidco entered into an Offer Agreement with Autonomy
+and “publicly announced an offer to acquire Autonomy for approximately $11 billion.”
+Id., ¶¶ 8, 10.
+
+•
+
+On or about August 18, 2011, HP issued a press release announcing the acquisition, in
+which HP included information about Autonomy’s financial performance and the
+benefits to HP from the Autonomy acquisition. Id., ¶ 9.
+
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+None of these allegations states that Mr. Hussain attempted to defraud anyone in
+
+11
+
+connection with shares of HPQ, or that Mr. Hussain obtained money or property in connection
+
+12
+
+with the purchase or sale of HPQ securities. The indictment does not allege that Mr. Hussain (or
+
+13
+
+anyone else) made any false or misleading statements regarding HP, its finances, or HPQ
+
+14
+
+securities. The indictment does not allege that Mr. Hussain obtained any HPQ shares as a result
+
+15
+
+of the acquisition, or that anyone (let alone Mr. Hussain) executed or even contemplated any
+
+16
+
+transactions in HPQ securities. There is no allegation of any conduct related to HPQ securities.
+
+17
+
+To the contrary, the August 2011 allegations suggest that the securities fraud count is
+
+18
+
+premised on Mr. Hussain’s alleged provision of a list of Autonomy contracts to Bidco or his
+
+19
+
+execution of a letter in which he accepted Bidco’s acquisition offer and warranted the accuracy of
+
+20
+
+information he provided for inclusion in any document issued in connection with the offer. But
+
+21
+
+such conduct is far removed from HPQ securities. The representations Mr. Hussain made to
+
+22
+
+Bidco in August 2011 were not in any way “associated with” or “related to” HPQ securities, and
+
+23
+
+there is no allegation that they were included, referenced, or relied on in connection with any HP
+
+24
+
+announcements (which simply related Autonomy’s historical financial performance). See Melvin,
+
+25
+
+2015 WL 7116737, at *6. Mr. Hussain did not benefit or attempt to benefit from trading in HPQ
+
+26
+
+securities on the basis of his representations to Bidco. See Mahaffy, 2006 WL 2224518, at *12.
+
+27
+
+And none of the factors that the Fourth Circuit identified in the section 10(b) context are present
+
+28
+
+in here: (1) no sale of HPQ securities was necessary to the completion of any alleged fraudulent
+13
+DEFENDANT’S MOTION TO DISMISS INDICTMENT
+Case No. 3:16-cr-00462-CRB
+
+1186303
+
+Case 3:16-cr-00462-CRB Document 113 Filed 08/25/17 Page 19 of 21
+
+1
+
+scheme; (2) there is no relationship that “would necessarily involve trading in securities”;
+
+2
+
+(3) there is no allegation that Mr. Hussain “intended to induce a securities transaction”; and
+
+3
+
+(4) Mr. Hussain is not alleged to have publicly disseminated any information in a medium upon
+
+4
+
+which HPQ investors would reasonably rely. Pirate Inv’r, 580 F.3d at 244. This is not even a
+
+5
+
+case in which the defendant is alleged to have made any misrepresentations in connection with a
+
+6
+
+transaction by a U.S.-listed company. The alleged misrepresentations were made to Bidco, a
+
+7
+
+foreign company, in connection with its acquisition of Autonomy, a U.K.-based corporation,
+
+8
+
+completed with Bidco’s money, all offshore funds.
+
+9
+
+The indictment’s only allusion to the HPQ securities market is the allegation that HP
+
+10
+
+issued a press release which included information about Autonomy’s financial performance. SI,
+
+11
+
+¶ 9. The government’s theory seems to be that Mr. Hussain made representations to Bidco during
+
+12
+
+due diligence, and that HP subsequently made its own public statements incorporating those
+
+13
+
+representations. Apparently, the government believes that liability under section 1348 may attach
+
+14
+
+any time a misrepresentation is made to a foreign subsidiary of a U.S. public company, and the
+
+15
+
+public company then makes public statements in reliance on the misrepresentation, regardless of
+
+16
+
+whether the speaker has any interest in or purpose to affect the purchase or sale of the public
+
+17
+
+company’s securities. Such a theory erases the statute’s “in connection with” securities
+
+18
+
+requirement, and converts a “securities fraud” statute into a “fraud on a public company” statute.
+
+19
+
+The government’s allegation is an unprecedented and unjustifiable expansion of the
+
+20
+
+statute. The defense is not aware of any other instance in which the government has charged a
+
+21
+
+defendant under section 1348 on the basis of statements made to the management of a publicly
+
+22
+
+traded company. To the contrary, every charge under section 1348 that the defense has reviewed
+
+23
+
+involved a scheme that was specifically associated with a securities transaction. See, e.g., United
+
+24
+
+States v. Wey, No. 15-CR-611 (AJN), 2017 WL 237651, at *10 (S.D.N.Y. Jan. 18, 2017) (“pump
+
+25
+
+and dump” scheme to inflate the price at which defendant could sell stock); United States v.
+
+26
+
+Jordan, 813 F.3d 442, 444 (1st Cir. 2016), cert. denied, 136 S. Ct. 2528 (2016) (“kickback”
+
+27
+
+scheme involving sale of stock).
+
+28
+
+At most, the indictment’s third scheme appears to allege that Mr. Hussain sought to
+14
+DEFENDANT’S MOTION TO DISMISS INDICTMENT
+Case No. 3:16-cr-00462-CRB
+
+1186303
+
+Case 3:16-cr-00462-CRB Document 113 Filed 08/25/17 Page 20 of 21
+
+1
+
+deceive Bidco’s management, and by extension, HP’s management. If this scheme comprises
+
+2
+
+alleged misrepresentations to Bidco, it is duplicative of the government’s second scheme, which,
+
+3
+
+as discussed above, is beset with its own problems. If, instead, it is meant to reach some form of
+
+4
+
+derivative “misrepresentation” to HP’s management (and, further down the line, HP’s
+
+5
+
+shareholders), then it falls beyond the purview of section 1348. Congress drafted a law about
+
+6
+
+fraud “in connection with” securities. Section 1348’s express requirement of a nexus to securities
+
+7
+
+contradicts any suggestion that Congress intended to make a federal crime out of lying to the
+
+8
+
+management of public companies (much less to the management of offshore subsidiaries).
+
+9
+
+Count 16 might at least be comprehensible if Mr. Hussain were charged for fraud in
+
+10
+
+connection with Autonomy securities—securities that he owned and which Bidco agreed to
+
+11
+
+acquire in August 2011. See SI, ¶ 12. But of course section 1348 only reaches classes of
+
+12
+
+securities that are traded under the Exchange Act, and so the statute does not apply to transactions
+
+13
+
+in Autonomy securities, which were traded on the London Stock Exchange. The government has
+
+14
+
+therefore attempted an end-run around the law’s territorial limitations by tying the charge to HPQ
+
+15
+
+securities. Count 16 is another failed effort to fit the square pegs of foreign conduct and foreign-
+
+16
+
+listed securities into the round hole of U.S. criminal law, and should be dismissed.
+
+17
+
+3.
+
+Section 1348 is unconstitutionally vague as applied to Mr. Hussain.
+
+18
+
+Count 16 is subject to dismissal for another reason: it is unconstitutionally vague as
+
+19
+
+applied to Mr. Hussain. The government violates the Fifth Amendment’s guarantee of due
+
+20
+
+process “by taking away someone’s life, liberty, or property under a criminal law so vague that it
+
+21
+
+fails to give ordinary people fair notice of the conduct it punishes, or so standardless that it invites
+
+22
+
+arbitrary enforcement.” Johnson v. United States, 135 S. Ct. 2551, 2556 (2015). The indictment
+
+23
+
+fails to allege any action taken by Mr. Hussain “in connection with” U.S.-listed securities and is
+
+24
+
+thus an arbitrary and standardless application of section 1348 that deprives him of the fair notice
+
+25
+
+to which he is constitutionally entitled. Mr. Hussain could never have anticipated that by making
+
+26
+
+representations to Bidco in the course of its acquisition of a foreign company, he would be
+
+27
+
+charged with fraud in connection with HPQ securities. Because Mr. Hussain lacked notice of the
+
+28
+
+boundaries of section 1348, the statute is unconstitutional as applied to him.
+15
+DEFENDANT’S MOTION TO DISMISS INDICTMENT
+Case No. 3:16-cr-00462-CRB
+
+1186303
+
+Case 3:16-cr-00462-CRB Document 113 Filed 08/25/17 Page 21 of 21
+
+1
+2
+3
+
+IV.
+
+CONCLUSION
+For the foregoing reasons, defendant Sushovan Hussain respectfully asks that the Court
+
+dismiss the indictment in this case.
+Respectfully submitted,
+
+4
+5
+
+Dated: August 25, 2017
+
+KEKER, VAN NEST & PETERS LLP
+
+6
+7
+
+By:
+
+8
+9
+10
+
+/s/ John W. Keker
+JOHN W. KEKER
+JAN NIELSEN LITTLE
+BROOK DOOLEY
+KATE E. LAZARUS
+NICHOLAS D. MARAIS
+IAN KANIG
+Attorneys for Defendant
+SUSHOVAN HUSSAIN
+
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+16
+
+DEFENDANT’S MOTION TO DISMISS INDICTMENT
+Case No. 3:16-cr-00462-CRB
+1186303
+
+

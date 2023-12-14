@@ -1,0 +1,795 @@
+Case 2:06-cv-02555-DGC Document 157
+
+Filed 04/19/11 Page 1 of 9
+
+LAW OFFICES OF
+
+VENABLE, CAMPILLO, LOGAN & MEANEY, P.C.
+
+1
+
+1938 EAST OSBORN ROAD
+PHOENI X, ARIZONA 85016
+
+2
+
+TELEPHONE (602) 631-9100
+FACSIMILE (602) 631 4529
+E-MAIL DOCKETING@VCLMLAW .COM
+
+3
+
+Lance C. Venable (AZ Bar No 017074)
+4 Joseph R. Meaney (AZ Bar No. 017371)
+Attorneys for Plaintiff MDY Industries, LLC
+5 and Third-Party Defendant Michael Donnelly
+6
+
+UNITED STATES DISTRICT COURT
+
+7
+
+DISTRICT OF ARIZONA
+
+8
+9
+
+MDY INDUSTRIES, LLC,
+
+10
+
+Plaintiff and Counterdefendant,
+
+11
+
+vs.
+
+12
+
+BLIZZARD ENTERTAINMENT, INC.,
+and VIVENDI GAMES, INC.,
+
+13
+
+16
+
+The Honorable David G. Campbell
+
+BLIZZARD ENTERTAINMENT, INC.,
+and VIVENDI GAMES, INC.,
+Third-Party Plaintiffs,
+
+17
+
+vs.
+
+18
+19
+
+Motion to Vacate the DMCA Section of
+the Permanent Injunction against MDY
+
+Defendants and Counterclaimants,
+
+14
+15
+
+Case No.: CV06-02555-PHX-DGC
+
+MICHAEL DONNELLY, an individual
+
+20
+
+Third-Party Defendant.
+
+21
+
+The Court must vacate the DMCA section of its permanent injunction. Anything
+
+22
+23
+
+less would be inconsistent with the Ninth Circuit’s Opinion.
+
+24
+
+As the Ninth Circuit explained, MDY has never been a copyright infringer.1 This
+
+25
+26
+
+newly-minted law of the case means that MDY is once again entitled to safe harbor for its
+
+27
+1
+
+28
+
+MDY Industries, LLC v. Blizzard Entertainment, Inc. et al., --- F.3d ----, at 47, 2010 WL
+5141269 (9th Cir. 2010)
+1
+
+Case 2:06-cv-02555-DGC Document 157
+
+1
+
+Filed 04/19/11 Page 2 of 9
+
+§1201(a)(2) violation of the DMCA. Under section 1201(f), the DMCA provides safe
+
+2
+
+harbor for a defined subset of §1201(a)(2) violators. Violators who are also copyright
+
+3
+
+infringers are not eligible.2 Because the Court declared MDY a copyright infringer at
+
+4
+5
+6
+
+summary judgment, the safe harbor could not protect MDY until the Ninth Circuit
+reversed.
+
+7
+
+Once the Ninth Circuit changed the law of the case by holding that MDY was
+
+8
+9
+
+never a copyright infringer, §1201(f) again offers safe harbor. As described more fully
+
+10
+
+below, safe harbor under §1201(f) applies here because MDY was never a copyright
+
+11
+
+infringer and because MDY’s (a)(2) violation arose from circumvention “for the purpose
+
+12
+13
+
+of enabling interoperability” between Glider and World of Warcraft (“WoW”).3 If MDY
+
+14
+
+is not liable under the DMCA despite its (a)(2) violation, the Court must vacate the
+
+15
+
+DMCA section of its permanent injunction.
+
+16
+17
+18
+
+MEMORANDUM OF POINTS AND AUTHORITIES
+
+19
+20
+
+I.
+
+21
+22
+
+MDY could not have raised §1201(f) at trial because §1201(f) was not
+available as a safe harbor once the Court declared MDY a copyright infringer
+at summary judgment.
+MDY initiated this suit as a declaratory judgment action to establish that its Glider
+
+23
+24
+
+sales do not infringe any of Blizzard’s rights, including any rights under the DMCA.4 In
+
+25
+
+its motion for summary judgment, MDY did not, and had no obligation to, raise §1201(f).
+
+26
+27
+
+2
+
+See, 17 U.S.C. § 1201(f).
+See id.
+4
+Amended Complaint, Dkt. #5.
+3
+
+28
+
+2
+
+Case 2:06-cv-02555-DGC Document 157
+
+1
+
+Filed 04/19/11 Page 3 of 9
+
+Blizzard could have raised the §1201(f) issue at summary judgment, but it did not.
+
+2
+
+Instead, Blizzard expressly sought summary judgment only on the anti-trafficking
+
+3
+
+portions of the DMCA, specifically §1201(a)(2) and §1201(b)(1).5 The Court granted
+
+4
+5
+6
+
+partial summary judgment on the §1201(a)(2) and §1201(b)(1) issues, and conducted a
+trial on the remaining DMCA issues.6
+
+7
+8
+9
+
+Because the Court declared MDY a copyright infringer at summary judgment, that
+ruling became the law of the case.7 And § 1201(f) precludes a copyright infringer from
+
+10
+
+protection under the §1201(f) safe harbor.8 Thus, MDY could not have raised §1201(f) at
+
+11
+
+trial. As a result, the safe harbor under §1201(f) was not available as a remaining DMCA
+
+12
+13
+
+issue at trial.9 And even if MDY could have raised §1201(f) at trial, the Court’s trial
+
+14
+
+decision lost any preclusive effect once the Ninth Circuit vacated it and remanded for
+
+15
+
+“further proceedings consistent with [its] opinion.”10
+
+16
+
+In addition, the Ninth Circuit expressly stated that its opinion was limited to
+
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+5
+
+See Blizzard’s Motion for Summary Judgment, Dkt. #39, at 10-14.
+Summary Judgment Order, Dkt. #82 at 26-27.
+7
+A & A Concrete, Inc. v. White Mountain Apache Tribe, 781 F.2d 1411, 1418 (9th Cir.
+1986), cert. denied, 476 U.S. 1117 (1986) ( “Under the law of the case doctrine, a court is
+precluded from re-examining an issue previously decided by the same court, or a higher
+appellate court, in the same case”); Thomas v. Bible, 983 F.2d 152, 155 (9th Cir.
+1993)(abuse of discretion to ignore law of case, even by implication, absent specific
+circumstances).
+8
+See, 17 U.S.C. § 1201(f).
+9
+Id. at 26.
+10
+See, MDY Industries, LLC, --- F.3d ----, at 47; see also, Ornellas v Oakley, 618 F.2d
+1351, 1356 (9th Cir. 1980)(“a reversed or dismissed judgment cannot serve as the basis
+for disposition on the ground of res judicata or collateral estoppel.”); accord, United
+States v. Williams, 904 F.2d 7,8 (7th Cir. 1990)(“[W]hen a conviction is vacated, the
+effect is to nullify the judgment entirely and place the parties in position of no trial
+having taken place at all.”)
+6
+
+3
+
+Case 2:06-cv-02555-DGC Document 157
+
+1
+2
+3
+
+Filed 04/19/11 Page 4 of 9
+
+review of actual trial court rulings.11 Given that neither party raised §1201(f) at summary
+judgment, and that MDY could not have raised it at trial, the Ninth Circuit had no
+opportunity to review §1201(f) directly. Although MDY urged the Ninth Circuit to reach
+
+4
+5
+
+§1201(f) under the doctrine of in pari materia or via the Chamberlain/Lexmark line of
+
+6
+
+cases, the Ninth Circuit declined. Instead, the Ninth Circuit expressly stated that its
+
+7
+
+opinion did not reach the §1201(f) issue because neither party had raised it below.12
+
+8
+9
+
+Thus, the Ninth Circuit left §1201(f) for this Court to decide on remand.13
+
+10
+
+Against this procedural backdrop, now is the time for the Court to consider
+
+11
+
+§1201(f). Not only did MDY have no opportunity to assert its protection under §1201(f)
+
+12
+13
+
+between summary judgment and the Ninth Circuit reversal, but this Court has yet to
+
+14
+
+consider the applicability of §1201(f). Given the controlling law of this case, the Court
+
+15
+
+can only conclude that MDY has no liability under the DMCA. Even though the Ninth
+
+16
+
+Circuit held that MDY violated §1201(a)(2), something MDY cannot challenge here,
+
+17
+18
+
+§1201(f) provides safe harbor for MDY’s §1201(a)(2) violations.
+
+19
+20
+
+II.
+
+21
+
+When a circumvention device is used to enable interoperability without
+copyright infringement, the plain language of § 1201(f) excludes liability
+under § 1201(a)(2).
+
+22
+
+Under §1201(f), a person may circumvent a protection measure and distribute the
+
+23
+24
+
+circumvention means if the circumvention’s purpose is to enable an independent software
+
+25
+26
+
+11
+
+27
+
+12
+
+28
+
+See, MDY Industries, LLC, --- F.3d ----, at 9.
+See, id., footnote added to Section V(E)(2) on February 17, 2011.
+13
+U.S. v. Cote, 51 F.3d 178, 181-82 (9th Cir. 1995)(on remand, the trial court decides any
+matters left open by the mandate from the appellate court.)
+4
+
+Case 2:06-cv-02555-DGC Document 157
+
+1
+2
+
+Filed 04/19/11 Page 5 of 9
+
+program to interoperate with another program, and doing so does not infringe a
+copyright:
+
+3
+
+Notwithstanding the provisions of subsections (a)(2) and (b), a person may
+develop and employ technological means to circumvent a technological
+measure, or to circumvent protection afforded by a technological measure,
+… for the purpose of enabling interoperability of an independently created
+computer program with other programs, if such means are necessary to
+achieve such interoperability, to the extent that doing so does not constitute
+infringement under this title.14
+…
+
+4
+5
+6
+7
+8
+9
+
+The information acquired through the acts permitted under paragraph (1),
+and the means permitted under paragraph (2), may be made available to
+others if the person referred to in paragraph (1) or (2), as the case may be,
+provides such information or means solely for the purpose of enabling
+interoperability of an independently created computer program with other
+programs, and to the extent that doing so does not constitute infringement
+under this title or violate applicable law other than this section.15
+
+10
+11
+12
+13
+14
+15
+
+“Interoperability” is defined in § 1201(f)(4) as the ability of a computer program to
+
+16
+17
+
+exchange and use information.
+
+18
+
+Congress spoke directly as to the critical importance of third parties overcoming
+
+19
+
+technological measures that prevent software they create from interoperating with other
+
+20
+21
+
+programs without fear of being liable under § 1201(a):
+Achieving interoperability in the consumer electronics environment will be
+a critical factor in the growth of electronic commerce. Companies are
+already designing operating systems and networks that connect devices in
+the home and workplace. In the Committee’s view, manufacturers,
+consumers, retailers, and professional servicers should not be prevented
+from correcting an interoperability problem or other adverse effect resulting
+
+22
+23
+24
+25
+26
+27
+14
+
+28
+
+15
+
+17 U.S.C. § 1201(f)(2) (emphasis added).
+17 U.S.C. § 1201(f)(3) (emphasis added).
+5
+
+Case 2:06-cv-02555-DGC Document 157
+
+Filed 04/19/11 Page 6 of 9
+
+from a technological measure causing one or more devices in the home or
+in a business to fail to interoperate with other technologies.16
+
+1
+2
+
+…
+
+3
+
+… with our Committee’s encouragement, the conferees explicitly stated
+that makers or servicers of consumer electronics, telecommunications, or
+computing products who took steps solely to mitigate a playability problem
+(whether or not taken in combination with other lawful product
+modifications) shall not be deemed to have violated either section 1201(a)
+or section 1201(b). Without giving them that absolute assurance, we felt
+that the introduction of new products into the market might be stifled, or
+that consumers might find it more difficult to get popular legitimate
+products repaired.17
+
+4
+5
+6
+7
+8
+9
+10
+
+Additionally, the Senate Judiciary Committee report on the DMCA explains the
+
+11
+12
+13
+
+policy underlying Section 1201(f). It states that this exception was “intended to allow
+legitimate software developers to continue engaging in certain activities for the purpose
+
+14
+15
+
+of achieving interoperability to the extent permitted by law prior to the enactment of this
+
+16
+
+chapter” and that “[t]he purpose of this section is to foster competition and innovation in
+
+17
+
+the computer and software industry.”18
+
+18
+
+Thus, the plain language of the § 1201(f), as well as the congressional intent
+
+19
+20
+
+pertaining to the statute, support the conclusion that by circumventing a protection
+
+21
+
+measure to enable two software programs to work together without violating the
+
+22
+
+Copyright Act a person does not violate the DMCA even if the person is liable under §
+23
+24
+
+1201(a).
+
+25
+26
+27
+
+16
+
+144 Cong. Rec. E2138 (daily ed. Oct. 13, 1998) (statement of Rep. Bliley).
+Id.
+18
+S. Rep. 105-190, at 32 (1998) (emphasis added).
+17
+
+28
+
+6
+
+Case 2:06-cv-02555-DGC Document 157
+
+1
+
+III.
+
+2
+3
+
+Filed 04/19/11 Page 7 of 9
+
+MDY’s Glider software falls under the § 1201(f) exception.
+A violator of §1201(a)(2) must satisfy two elements before the safe harbor of
+
+§1201(f) attaches: (1) the violator cannot infringe any copyrights, and (2) the
+
+4
+5
+
+circumvention that gave rise to the (a)(2) violation must have been for the purpose of
+
+6
+
+enabling an independent software program to interoperate with another program. Neither
+
+7
+
+element is open to dispute here.
+
+8
+
+With respect to the first prong, the Ninth Circuit has ruled that MDY’s Glider
+
+9
+10
+11
+
+software does not infringe or facilitate an infringement of Blizzard’s copyrighted works.19
+With respect to the second, it is beyond dispute that Glider is independently created
+
+12
+13
+14
+15
+16
+17
+
+software for interoperable use with another software program, World of Warcraft
+(WoW). In fact the Ninth Circuit recognized that MDY developed Glider for no other
+purpose than to interoperate with WoW and that Glider has no commercial use
+independent of WoW.20 Indeed, as the Court acknowledged, when Blizzard launched
+
+18
+
+Warden “MDY responded by modifying Glider to avoid detection” so that Gilder could
+
+19
+
+continue to operate with WoW.21 Furthermore, Blizzard never offered, nor can it offer
+
+20
+21
+
+any evidence to refute MDY’s sworn statement that it “continuously updates Glider’s
+
+22
+
+ability to avoid detection from Warden only because MDY must maintain Glider’s
+
+23
+
+interoperability with WoW.”22 Hence, MDY’s Glider software falls under the
+
+24
+25
+
+19
+
+See, MDY Industries, LLC, --- F.3d ----, at 10-19, 47.
+See, id. at 39 (“Indeed, Glider has no function other than to facilitate the playing of
+WoW”).
+21
+See, id. at 7.
+22
+Donnelly Aff. ¶ 38, as referenced by Blizzard in its Responses to MDY’s Statement of
+Disputed Facts. See, Dkt. #71, ¶140 at 5-6.
+20
+
+26
+27
+28
+
+7
+
+Case 2:06-cv-02555-DGC Document 157
+
+1
+2
+3
+
+Filed 04/19/11 Page 8 of 9
+
+interoperability exception of § 1201(f)(2) and (3).
+The Ninth Circuit affirmed that MDY violated §1201(a)(2). Notwithstanding this
+violation, this Court must vacate its injunction without further delay because §1201(f)
+
+4
+5
+
+provides MDY safe harbor under the DMCA.
+
+6
+7
+
+Respectfully submitted on April 19, 2011,
+
+8
+9
+
+Venable, Campillo, Logan & Meaney, P.C.
+
+10
+
+By /s/Lance C. Venable
+Lance C. Venable SBN 017074
+Joseph R. Meaney SBN 017371
+1938 East Osborn Road
+Phoenix, Arizona 85016
+Tel: 602-631-9100
+Fax: 602-631-9796
+E-Mail docketing@vclmlaw.com
+
+11
+12
+13
+14
+15
+
+Attorneys for Plaintiff MDY
+Industries, LLC and Third-Party
+Defendant Donnelly
+
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+8
+
+Case 2:06-cv-02555-DGC Document 157
+
+Filed 04/19/11 Page 9 of 9
+
+1
+2
+
+CERTIFICATE OF SERVICE
+
+3
+4
+5
+6
+7
+
+I hereby certify that on April 19, 2011, I electronically transmitted the attached
+document to the Clerk’s Office using the CM/ECF System for filing and
+transmittal of a Notice of Electronic Filing to the following CM/ECF registrants:
+Name
+
+Email Address
+
+8
+9
+
+Christian Genetski, Esq.
+
+christian@zwillgen.com
+
+10
+11
+12
+13
+14
+15
+16
+
+I hereby certify that on __________________, I served the attached document by
+FIRST CLASS MAIL on the following, who are not registered participants of the
+CM/ECF System:
+Name
+
+Physical or Email Address
+
+17
+18
+19
+20
+21
+22
+
+s/ Lance C. Venable
+
+23
+24
+25
+26
+27
+28
+
+-1-
+
+

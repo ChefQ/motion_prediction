@@ -1,0 +1,556 @@
+Case 2:17-cr-00585-GMS Document 135 Filed 03/01/18 Page 1 of 6
+
+1
+2
+3
+4
+5
+6
+7
+
+JON M. SANDS
+Federal Public Defender
+District of Arizona
+850 W. Adams, Suite 201
+Phoenix, Arizona 85007
+Telephone: 602-382-2700
+MARIA WEIDNER, #027912
+maria_weidner@fd.org
+ZACHARY CAIN, #020396
+Asst. Federal Public Defender
+zachary_cain@fd.org
+Attorneys for Defendant
+
+8
+
+IN THE UNITED STATES DISTRICT COURT
+
+9
+
+DISTRICT OF ARIZONA
+
+10
+11
+12
+
+United States of America,
+Plaintiff,
+
+13
+
+vs.
+Thomas Mario Costanzo,
+
+14
+
+Defendant.
+
+No. CR-17-0585-PHX-GMS
+MOTION IN LIMINE TO PRECLUDE
+EVIDENCE OR ARGUMENT AS TO
+DARKNET(S) AND/OR THE ONION
+ROUTER (Tor)
+
+15
+16
+
+Thomas Mario Costanzo, by and through undersigned counsel, respectfully
+
+17
+
+moves this Court moves for an order prohibiting the government and/or its witnesses from
+
+18
+
+introducing evidence and/or making arguments regarding Darknet(s) and/or The Onion
+
+19
+
+Router (Tor). Mr. Costanzo urges that this remedy is appropriate as neither of the
+
+20
+
+contested items is relevant to the charged offenses, FRE 401, 402. To the extent that either
+
+21
+
+of the contested items is relevant, it is more prejudicial than probative, confuses the issues,
+
+22
+
+and/or misleads the jury, FRE 403. Additinally, the introduction of either or both
+
+23
+
+contested items would amount to impermissible character evidence, FRE 404(a)(1).
+
+24
+25
+
+Respectfully submitted: March 1, 2018.
+JON M. SANDS
+Federal Public Defender
+
+26
+27
+28
+
+s/Maria Weidner
+MARIA WEIDNER
+ZACHARY CAIN
+Asst. Federal Public Defenders
+
+Case 2:17-cr-00585-GMS Document 135 Filed 03/01/18 Page 2 of 6
+
+1
+2
+3
+4
+5
+6
+7
+8
+
+MOTION IN LIMINE TO PRECLUDE EVIDENCE AND ARGUMENT FROM
+GOVERNMENT COUNSEL AND/OR WITNESSES REGARDING
+DARKNET & THE ONION ROUTER (Tor)
+Thomas Mario Costanzo respectfully moves this Court for an order
+prohibiting the government from introducing evidence and/or making argument
+regarding Darknet(s) and/or The Onion Router (Tor). It is the position of the defense
+that such evidence and/or argument is not relevant, not probative, amounts to improper
+character/propensity evidence, confuses the issues, misleads the jury, and/or is a waste
+of time. FRE 401, 402, 403, 404(a)(1).
+
+9
+
+Relevant provisions of the Federal Rule of Evidence
+
+10
+
+1. “Evidence is relevant if: (a) it has any tendency to make a fact more or less probable
+
+11
+
+than it would be without the evidence; and (b) the fact is of consequence in
+
+12
+
+determining the action.” Rule 401.
+
+13
+14
+
+2. Rule 402 provides that: “Relevant evidence is admissible unless any of the following
+
+15
+
+provides otherwise: the United States Constitution; a federal statute; these rules; or
+
+16
+
+other rules prescribed by the Supreme Court. Irrelevant evidence is not admissible.”
+
+17
+18
+
+3. Rule 403 provides that “The court may exclude relevant evidence if its probative
+
+19
+
+value is substantially outweighed by a danger of one or more of the following: unfair
+
+20
+
+prejudice, confusing the issues, misleading the jury, undue delay, wasting time, or
+
+21
+
+needlessly presenting cumulative evidence.”
+
+22
+23
+
+4. Rule 404(a)(1) provides that “Evidence of a person’s character or character trait is
+
+24
+
+not admissible to prove that one a particular occasion the person acted in accordance
+
+25
+
+with the character or trait.”
+
+26
+27
+28
+
+2
+
+Case 2:17-cr-00585-GMS Document 135 Filed 03/01/18 Page 3 of 6
+
+1
+
+Introduction of Evidence, Argument, or Testimony Regarding Darknet(s) and/or
+The Onnion Router (Tor) Will Violate the Above-Cited Federal Rules of Evidence.
+
+2
+3
+
+1. Preclude all evidence, argument, or testimony by government counsel or
+witnesses as to DARKNET(s).
+
+4
+5
+
+The government has noticed in proposed voir dire, Dkt. # 130, that it wishes
+
+6
+
+to inquire of potential jurors in this case whether they have ever “visited the dark net.”
+
+7
+
+This question is far more complicated than it appears:
+
+8
+
+ A Darknet is “a network built on top of the internet…designed specifically for
+
+9
+
+anonymity.”1 There can be more than one network overlay and thus there are
+
+10
+
+any number of darknets…it’s just an anonymous network.2 One such network
+
+11
+
+overlay/darknet is Tor, a browser built expressly for anonymity…only Tor has
+
+12
+
+been far less than anonymous since 2013.3 The darknet options suggested in
+
+13
+
+2014 as replacements to the compromised Tor network—were 12P, Freenet,
+
+14
+
+and GNUnet.4 Given that the article referenced was penned in 2014, those
+
+15
+
+darknets have likely gone the way of Tor and been replaced with some new
+
+16
+
+darknet(s)—four years is an eternity in technologic time.
+ Dark Web refers to websites on a darknet.5 The dark web of a darknet cannot
+
+17
+
+be accessed by a search engine or user without permission.6 Just as there can be
+
+18
+19
+1
+
+20
+21
+22
+
+of the World Wide Web,” TechLog360, Apr. 21, 2017 (available at
+https://techlog360.com/darknet-vs-dark-web-vs-deep-web-vs-surface-web)
+2
+
+23
+24
+25
+
+See Sabarinath, “Darknet vs Dark web vs Deep Web vs Surface Web—Different Parts
+
+See Eric Markowitz, “Beyond Tor: The 3 Darknets You Should Know,” vocative, Feb.
+
+5, 2014 (available at http://www.vocativ.com/tech/internet/beyond-tor-3-darknetsknow/index.html)
+3
+
+Id.
+
+4
+
+Id.
+
+5
+
+See supra n.1.
+
+6
+
+Id.
+
+26
+27
+28
+
+3
+
+Case 2:17-cr-00585-GMS Document 135 Filed 03/01/18 Page 4 of 6
+
+any number of darknets, it follows that each darknet may have its own distinct
+
+1
+
+dark web(s).
+
+2
+
+ Deep Web is also not accessible via a search engine, and requires a direct link
+
+3
+
+to access.7
+
+4
+5
+
+ Surface Web is the portion of the World Wide Web that is readily available
+
+6
+
+and accessible to the general public and searchable with standard web search
+engines.8
+
+7
+8
+9
+
+This is all very complicated, confusing, and has absolutely nothing to do with the five
+money laundering counts in the present indictment.
+Of note in this regard is the grand jury testimony of SA Ellsworth. When
+
+10
+11
+12
+13
+14
+15
+16
+17
+
+asked by AUSA Konti whether it was alleged that Mr. Costanzo had “any involvement
+with the dark net [sic],” he replied “[n]ot selling anything on the dark net [sic].” See
+Dkt. # 83-2 at page 22, lines 10-14. When asked to testify how the undercover agents
+came to meet Mr. Costanzo, Ellsworth responded “[a] cold contact off
+LocalBitcoins.com.” Id. at lines 7-9. As regards the government’s investigation of Mr.
+Costanzo and subsequent sting, there is simply no nexus to a darknet, rendering this
+term and all its negative connotations irrelevant. FRE 401, 402.
+Reference to “the dark net” by the government serves no purpose but to
+
+18
+19
+20
+21
+
+insinuate the existence of nefarious activity that is confusing, misleading to the jury, and
+seeks to cast aspersions about Mr. Costanzo by association. FRE 403, 404(a)(1).
+Reference to darknets or “the dark net” should thus be precluded on these grounds, both
+in voir dire and throughout the upcoming trial.
+
+22
+
+2. Preclude evidence, argument, or testimony by government counsel or
+witnesses as to the Tor browser.
+
+23
+24
+25
+
+The government has provided notice to defense counsel that it intends to elicit
+testimony and/or offer evidence regarding the presence of The Onion Router (Tor) on
+
+26
+27
+7
+
+Id.
+
+8
+
+Id.
+
+28
+
+4
+
+Case 2:17-cr-00585-GMS Document 135 Filed 03/01/18 Page 5 of 6
+
+1
+2
+3
+4
+
+one or more of the electronic devices seized from the home of Mr. Costanzo in April
+2017.9 Tor was briefly discussed above in relation to the explanation of Darknet. Of
+note, reports that by 2014, usage of Tor had dropped dramatically because it could no
+longer provide the degree of anonymity sought by users.10
+That Tor was discovered on devices seized from Mr. Costanzo does not tend
+
+5
+6
+7
+8
+9
+
+to make any fact relevant to his guilt or innocence in this case more or less probable.
+FRE 401. The implicit message, however, of the government’s desire to offer this
+evidence is once again the insinuation that the presence of the Tor browser is an
+indicator of nefarious activity and familiarity with “the dark net.” FRE 403, 404(a)(1).
+This characterization ignores the multitude legitimate uses and users of the
+
+10
+11
+12
+13
+14
+15
+
+Tor network.11 Journalists, researchers, activists, and whistleblowers, as well as regular
+people trying to protect themselves from unwanted advertising, marketing, and even
+identity thieves are among the users of Tor.12 The defense does not dispute that there are
+those who would use anonymous or semi-anonymous networks for illicit purposes, but
+there are clearly those who use it to protect their privacy, which is not a crime.13 Of note
+here, the government has no evidence that there was an illicit purpose for the Tor
+
+16
+17
+
+purportedly found on devices seized from Mr. Costanzo. There is no nexus and no
+relevance to Tor in the instant case at the upcoming trial of Mr. Costanzo.14
+
+18
+19
+20
+9
+
+21
+22
+23
+
+The defense has moved to exclude recently disclosed digital discovery, which would
+
+include the devices on which the government reports finding the Tor browser. See Dkt.
+# 134.
+10
+
+See supra n. 7.
+
+11
+
+See Tor, https://www.torproject.org/about/torusers.html.en.
+
+12
+
+Id.
+
+13
+
+Id.
+
+14
+
+See Discussion of grand jury testimony of Ellsworth regarding absence of “dark net”
+
+24
+25
+26
+27
+28
+
+involvement by Mr. Costanzo.
+5
+
+Case 2:17-cr-00585-GMS Document 135 Filed 03/01/18 Page 6 of 6
+
+For the foregoing reasons, Thomas Mario Costanzo asks this Court to
+
+1
+2
+3
+4
+5
+
+specifically prohibit the government from eliciting any testimony or proffering any
+evidence regarding “the dark net” a/k/a darknet and/or The Onion Router (Tor) at his
+upcoming trial on charges of money laundering, and prohibiting any opening or closing
+argument based on such allegations.
+Respectfully submitted: March 1, 2018.
+
+6
+
+JON M. SANDS
+Federal Public Defender
+
+7
+8
+
+s/Maria Teresa Weidner
+MARIA TERESA WEIDNER
+ZACHARY CAIN
+Asst. Federal Public Defenders
+
+9
+10
+11
+12
+13
+
+Copy of the foregoing transmitted by ECF for filing March 1, 2018, to:
+
+14
+
+CLERK’S OFFICE
+United States District Court
+Sandra Day O’Connor Courthouse
+401 W. Washington
+Phoenix, Arizona 85003
+
+15
+16
+17
+18
+
+23
+
+MATTHEW BINFORD
+FERNANDA CAROLINA ESCALANTE-KONTI
+GARY RESTAINO
+Assistant U.S. Attorneys
+United States Attorney’s Office
+Two Renaissance Square
+40 N. Central Avenue, Suite 1200
+Phoenix, Arizona 85004-4408
+
+24
+
+Copy mailed to:
+
+19
+20
+21
+22
+
+25
+26
+27
+
+THOMAS MARIO COSTANZO
+Defendant
+s/YC
+
+28
+
+6
+
+

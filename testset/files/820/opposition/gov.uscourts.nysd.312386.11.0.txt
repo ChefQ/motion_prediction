@@ -1,0 +1,1297 @@
+Case 1:07-cv-07783-AKH
+
+Document 11
+
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+-----------------------------------------------------------------x
+:
+NAVIGATOR CAPITAL PARTNERS, L.P., on
+:
+behalf of itself and all others similarly situated,
+:
+:
+Plaintiff,
+:
+:
+- against :
+:
+BEAR STEARNS ASSET MANAGEMENT,
+:
+BEAR, STEARNS SECURITIES CORP.,
+:
+THE BEAR STEARNS COMPANIES INC.,
+:
+BEAR, STEARNS & CO. INC., RALPH
+:
+CIOFFI, RAYMOND MCGARRIGAL AND
+:
+MATTHEW TANNIN,
+:
+:
+Defendants,
+:
+:
+- and :
+:
+BEAR STEARNS HIGH-GRADE STRUCTURED :
+CREDIT STRATEGIES, L.P.,
+:
+:
+Nominal Defendant.
+:
+:
+-----------------------------------------------------------------x
+
+Filed 10/26/2007
+
+Page 1 of 34
+
+Case No. 07 Civ. 07783 (AKH) (DFE)
+
+Oral Argument Requested
+
+DEFENDANTS’ MEMORANDUM OF LAW IN OPPOSITION TO
+PLAINTIFF’S MOTION TO REMAND
+
+WILMER CUTLER PICKERING HALE AND
+DORR LLP
+399 Park Avenue
+New York, New York 10022
+(212) 230-8800
+
+HUGHES HUBBARD & REED LLP
+One Battery Park Plaza
+New York, New York 10004
+(212) 837-6400
+
+DRISCOLL & REDLICH
+521 Fifth Avenue, Suite 3300
+New York, New York 10175
+(212) 986-4030
+
+BRUNE & RICHARD LLP
+80 Broad Street
+New York, New York 10004
+(212) 668-1900
+
+Case 1:07-cv-07783-AKH
+
+Document 11
+
+Filed 10/26/2007
+
+Page 2 of 34
+
+TABLE OF CONTENTS
+Page
+TABLE OF AUTHORITIES .......................................................................................................... ii
+PRELIMINARY STATEMENT .....................................................................................................1
+STATEMENT OF FACTS ..............................................................................................................2
+I.
+
+The Complaint .....................................................................................................................2
+A.
+
+II.
+
+The Nature of the Four Causes of Action ................................................................2
+1.
+The First Direct Claim .................................................................................2
+2.
+The Second Direct Claim.............................................................................5
+3.
+The Two Derivative Claims.........................................................................6
+
+The Parties ...........................................................................................................................7
+
+ARGUMENT...................................................................................................................................7
+I.
+
+THE ACTION WAS PROPERLY REMOVED UNDER SLUSA .....................................7
+A.
+B.
+C.
+
+II.
+
+The Governing Legal Standard for Removal Under SLUSA ..................................7
+The Complaint Alleges Misrepresentations or Omissions of Material
+Fact “In Connection with the Purchase or Sale of a Covered Security”..................8
+Plaintiff’s Arguments Against SLUSA Removal Should Be Rejected .................11
+
+THIS COURT HAS DIVERSITY JURISDICTION UNDER CAFA ..............................18
+A.
+
+B.
+
+The “Securities” Exception Does Not Apply.........................................................18
+1.
+The Complaint’s Direct Claims Are Based on Theories of
+Fraud in the Inducement and Retention. ....................................................19
+2.
+The Text, Structure and Purpose of CAFA Require Rejection
+of Plaintiff’s Reading of the Securities Exception.....................................20
+3.
+This Action Does Not “Solely” Concern Fiduciary Duty
+Claims. .......................................................................................................23
+The Exceptions for Putative Classes Consisting Largely of In-State
+Residents Do Not Apply. .......................................................................................23
+
+CONCLUSION..............................................................................................................................25
+
+i
+
+Case 1:07-cv-07783-AKH
+
+Document 11
+
+Filed 10/26/2007
+
+Page 3 of 34
+
+TABLE OF AUTHORITIES
+CASES
+Breuer v. Jim’s Concrete of Brevard, Inc.,
+538 U.S. 691 (2003).................................................................................................................24
+Cordova v. Lehman Brothers,
+413 F. Supp. 2d 1309 (S.D. Fla. 2006) ....................................................................................13
+Dommert v. Raymond James Finance Services, Inc.
+No. CIV A. 1:06-CV-102, 2007 WL 1018234 (E.D. Tex. Mar. 29, 2007) .............................16
+Eakins v. Pella Corp.,
+455 F. Supp. 2d 450 (E.D. N.C. 2006).....................................................................................24
+Enders v. American Patent Search Co.,
+535 F.2d 1085 (9th Cir. 1976) .................................................................................................20
+Estate of Pew v. Cardarelli,
+No. 5:05-CV-1317, 2006 WL 3524488 (N.D.N.Y. Dec. 6, 2006), appeal docketed,
+No. 06-5703 (2d Cir. argued Apr. 24, 2007) ...........................................................................22
+Frazier v. Pioneer Americas LLC,
+455 F.3d 542 (5th Cir. 2006) ...................................................................................................24
+French v. First Union Securities, Inc.,
+209 F. Supp. 2d 818 (M.D. Tenn. 2002)..................................................................................15
+Gavin v. AT&T Corp.,
+464 F.3d 634 (7th Cir. 2006) ...................................................................................................15
+H-M Wexford LLC v. Encorp, Inc.,
+832 A.2d 129 (Del. Ch. 2003)..................................................................................................19
+Hart v. Fedex Ground Package System Inc.,
+457 F.3d 675 (7th Cir. 2006) ...................................................................................................24
+Herndon v. Equitable Variable Life Insurance Co.,
+325 F.3d 1252 (11th Cir. 2003) ...............................................................................................13
+In re AutomobileStyle Plastics, Inc.,
+269 F.3d 726 (6th Cir. 2001) ...................................................................................................11
+In re Lord Abbett Mutual Funds Fee Litigation,
+463 F. Supp. 2d 505 (D.N.J. 2006) ..........................................................................................17
+
+- ii -
+
+Case 1:07-cv-07783-AKH
+
+Document 11
+
+Filed 10/26/2007
+
+Page 4 of 34
+
+Indiana Electrical Workers Pension Trust Fund, IBEW v. Millard,
+No. 07 Civ. 172, 2007 WL 2141697 (S.D.N.Y. July 25, 2007) ..............................................15
+Lander v. Hartford Life & Annuity Insurance Co.,
+251 F.3d 101 (2d Cir. 2001).....................................................................................................12
+Lasala v. UBS, AG,
+--- F. Supp. 2d ---, 2007 WL 2331054 (S.D.N.Y. Aug. 15, 2007) ....................................15, 17
+Lasley v. New England Variable Life Insurance Co.,
+126 F. Supp. 2d 1236 (N.D. Cal. 1999) ...................................................................................13
+Leykin v. AT&T Corp.,
+216 F. App’x 14 (2d Cir. 2007) (unpublished) ........................................................................17
+McMorris v. TJX Cos., Inc.,
+493 F. Supp. 2d 158 (D. Mass. 2007) ......................................................................................24
+Merrill Lynch, Pierce, Fenner & Smith, Inc. v. Dabit,
+547 U.S. 71 (2006).....................................................................................................7, 8, 14, 16
+Preston v. Tenet Healthsystem Memorial Medical Center, Inc.,
+485 F.3d 804 (11th Cir. 2007) .................................................................................................24
+Ring v. AXA Financial, Inc.,
+483 F.3d 95 (2d Cir. 2007).......................................................................................................14
+Robinson v. Shell Oil Co.,
+519 U.S. 337 (1997).................................................................................................................21
+Roth v. Jennings,
+489 F.3d 499 (2d Cir. 2007).......................................................................................................6
+Rowinski v. Salomon Smith Barney Inc.,
+398 F.3d 294 (3d Cir. 2005).....................................................................................................12
+SEC v. Zandford,
+535 U.S. 813 (2002).................................................................................................................14
+Serrano v. 180 Connect, Inc.,
+478 F.3d 1018 (9th Cir. 2007) .................................................................................................24
+Sofonia v. Principal Life Insurance Co.,
+465 F.3d 873 (8th Cir. 2006) ...................................................................................................17
+
+- iii -
+
+Case 1:07-cv-07783-AKH
+
+Document 11
+
+Filed 10/26/2007
+
+Page 5 of 34
+
+Spielman v. Merrill Lynch, Pierce, Fenner & Smith, Inc.,
+332 F.3d 116 (2d Cir. 2003).....................................................................................................12
+Strigliabotti v. Franklin Resources, Inc.,
+398 F. Supp. 2d 1094 (N.D. Cal. 2005) ...................................................................................15
+United States Mortgage, Inc. v. Saxton,
+494 F.3d 833 (9th Cir. 2007) ...................................................................................................16
+Vieira v. Wal-Mart Stores, Inc.,
+No. 00-272-P-H, 2001 WL 394898 (D. Conn. Apr. 18, 2001)................................................18
+STATUTES
+15 U.S.C. § 77r(b)(1)(A)................................................................................................................11
+15 U.S.C. § 77r(b)(1)(C)................................................................................................................11
+15 U.S.C. § 78bb(f)(1) ...............................................................................................8, 9, 11, 12, 13
+15 U.S.C. § 78bb(f)(2) .......................................................................................................12, 13, 17
+15 U.S.C. § 78bb(f)(3) ...................................................................................................................13
+15 U.S.C. § 78bb(f)(3)(A)(ii)(I).....................................................................................................18
+15 U.S.C. § 78bb(f)(3)(A)(ii)(II) ...................................................................................................18
+15 U.S.C. § 78bb(f)(5) ...............................................................................................................3, 11
+28 U.S.C. § 1332............................................................................................................................21
+28 U.S.C. § 1332(d)(3) ............................................................................................................18, 23
+28 U.S.C. § 1332(d)(4) ............................................................................................................18, 23
+28 U.S.C. § 1332(d)(9)(C) .............................................................................................................18
+Class Action Fairness Act of 2005, Pub. L. No. 109-2, 119 Stat. 4
+(codified at 28 U.S.C. §§ 1332, 1441 & 1453) ..............................................................2, 20, 21
+Securities Litigation Uniform Standards Act of 1998, Pub. L. No. 105-353,
+112 Stat. 3227 (codified at 15 U.S.C. §§ 77p(c) & 78bb(f)(2)).................................................2
+
+- iv -
+
+Case 1:07-cv-07783-AKH
+
+Document 11
+
+Filed 10/26/2007
+
+Page 6 of 34
+
+OTHER AUTHORITIES
+S. Rep. No. 109-14 (2005) .......................................................................................................21, 22
+Webster’s Third New International Dictionary (2002) .................................................................23
+
+-v-
+
+Case 1:07-cv-07783-AKH
+
+Document 11
+
+Filed 10/26/2007
+
+Page 7 of 34
+
+Defendants Bear Stearns Asset Management (“BSAM”), Bear Stearns Securities Corp.
+(“BSSC”), The Bear Stearns Companies, Inc. (“BSC”), Bear, Stearns & Co. Inc. (“BS&Co.”),
+Ralph Cioffi, Raymond McGarrigal, and Matthew Tannin respectfully submit this Memorandum
+of Law in Opposition to Plaintiff Navigator Capital Partners, L.P.’s Motion To Remand.
+PRELIMINARY STATEMENT
+This litigation—which seeks to define the rights of citizens from more than twenty
+states and alleges fraud in connection with the trading of hundreds of millions of dollars in
+securities—is precisely the sort of litigation that belongs in federal court.
+The parties whose rights are directly at issue are diverse. No state’s residents
+predominate, or even make up as much of one-third of the proposed plaintiff class.
+The alleged fraud involved purchases and sales of securities on national markets as
+well as transactions with national and international financial institutions. It involved not only
+traditional equities, but an array of novel and complex financial products—most notably,
+tranches of mortgage-backed securities—including many hedging products and indices that are
+still evolving as ways to manage the risks of structured finance securities. Decisions made in
+this litigation about liability and disclosure requirements in this growing field may have
+substantial effects on the market for any or all of these products and on decisions that fund
+managers will make about whether to employ them at all. Finally, the sums at issue here are of
+far more than local concern.
+Congress recognized that these types of cases belong in federal court when it enacted two
+statutes that substantially increased federal jurisdiction and provide jurisdiction to this Court for
+this action: the Securities Litigation Uniform Standards Act of 1998 and the Class Action
+Fairness Act of 2005.
+
+1
+
+Case 1:07-cv-07783-AKH
+
+Document 11
+
+Filed 10/26/2007
+
+Page 8 of 34
+
+STATEMENT OF FACTS
+I.
+
+The Complaint
+On or about August 6, 2007, plaintiff Navigator Capital Partners, L.P. (“Navigator” or
+
+“plaintiff”) filed this action in the Supreme Court of the State of New York, County of New
+York (the “Action”). Defendants timely removed the complaint to federal court based upon the
+Securities Litigation Uniform Standards Act of 1998 (“SLUSA”), Pub. L. No. 105-353, 112 Stat.
+3227 (codified at 15 U.S.C. §§ 77p(c) & 78bb(f)(2)), and the Class Action Fairness Act of 2005
+(“CAFA”), Pub. L. No. 109-2, 119 Stat. 4 (codified at 28 U.S.C. §§ 1332, 1441 & 1453).
+A.
+
+The Nature of the Four Causes of Action
+1.
+
+The First Direct Claim
+
+In the first cause of action, plaintiff asserts a direct claim on its own behalf and on behalf
+of a class of investors against the so-called Management Defendants, consisting of the
+investment manager (BSAM), and three BSAM employees (Ralph Cioffi, Matthew Tannin, and
+Raymond McGarrigal), each of whom is alleged to have acted as a manager of the Bear Stearns
+High-Grade Structured Credit Strategies, L.P. (the “Domestic Feeder Fund” or the “Fund”).
+According to the complaint, the Domestic Feeder Fund “invested substantially all [of its] assets”
+into a “Master Fund” (i.e., the Bear Stearns High-Grade Structured Credit Strategies Master
+Fund, Ltd.), a hedge fund that engaged in the trading, monitoring and hedging activity that is the
+subject of the Action. See Compl. ¶¶ 15, 34-36. BSAM and the three individual defendants are
+alleged to have breached their fiduciary duty owed directly to investors such as Navigator by
+making fraudulent representations to them and by failing to disclose material facts. Id. ¶¶ 22, 71.
+The gravamen of the first cause of action is that the Management Defendants
+“systematically and continuously failed to disclose to investors” that they:
+(a) were not sufficiently monitoring and adequately assessing the
+2
+
+Case 1:07-cv-07783-AKH
+
+Document 11
+
+Filed 10/26/2007
+
+Page 9 of 34
+
+credit risk inherent in the [Domestic Feeder Fund]’s investments;
+(b) were not determining the frequency and severity of defaults of
+the underlying assets of each of the structured finance securities
+invested in by the [Fund];
+(c) were not developing and implementing credit enhancement
+mechanisms which would cause cash flow to be diverted away
+from the [Fund]’s riskier investments under certain market
+conditions; and
+(d) were not otherwise adequately engaging in hedging techniques
+to minimize risk.
+Id. ¶ 3. This key paragraph is repeated, either verbatim or in substantially similar fashion,
+throughout the complaint. See, e.g., id. ¶ 55 (a verbatim repetition of paragraph 3); id. ¶ 67
+(“Defendants . . . fail[ed] to disclose that they had not monitored and hedged . . . positions as
+they had committed themselves to do . . . .”). In the section detailing the first cause of action,
+these allegations are again repeated verbatim. Id. ¶ 71.
+The complaint alleges that the Management Defendants’ hedging strategy included the
+trading of equity securities. See id. ¶¶ 47, 49-53, 55. It alleges that “Defendants assured
+investors that risk would be minimized through the use of” various “strategies” for “hedging
+purposes,” including the purchase of “futures and forward contracts” and “equity securities.” Id.
+¶ 51 (internal quotation marks omitted). Such securities are listed on national securities
+exchanges and are “covered securities” as defined by SLUSA. See 15 U.S.C. § 78bb(f)(5). In
+addition, the Domestic Feeder Fund’s private placement memoranda—referenced in the
+complaint, see, e.g., Compl. ¶¶ 29, 32—stated that the Domestic Feeder Fund “may invest in . . .
+equity securities.” August 2006 Bear Stearns High-Grade Structured Credit Strategies, L.P.
+Confidential Private Placement Memorandum (“August 2006 PPM”) (Ex. B), at 11; August 2004
+Bear Stearns High-Grade Structured Credit Strategies, L.P. Confidential Private Placement
+Memorandum (“August 2004 PPM”) (relevant sections attached hereto as Ex. F), at 1 (same);
+see also August 2006 PPM, at 14 (“The [Domestic Feeder Fund] will also use other instruments
+3
+
+Case 1:07-cv-07783-AKH
+
+Document 11
+
+Filed 10/26/2007
+
+Page 10 of 34
+
+and strategies to hedge . . . . includ[ing] options, futures and short positions on various financial
+indices or individual securities . . . .”).
+The complaint contains many allegations that the Management Defendants failed to
+“hedge” as promised, and failed to disclose that their “hedges” were allegedly failing, without
+qualification as to the type of hedge at issue. See, e.g., Compl. ¶ 6 (“Although the offering
+documents represented that the [Fund] managers would regularly monitor and adequately hedge
+risk, the managers shirked these responsibilities . . . .”); id. ¶ 7 (“the Management Defendants’
+failure to sufficiently hedge risk is apparent, at least in part, from the Fund’s near total loss of
+value”); id. ¶ 47 (“failing to implement hedging and other strategies to minimize risk
+effectively”); id. ¶ 67 (“failing to disclose that they had not monitored and hedged the
+Partnership’s positions as they had committed themselves to do”).
+As the Domestic Feeder Fund began to fail, the Management Defendants, according to
+the complaint, failed to make timely disclosures about the decline in its value. See, e.g., id. ¶ 57
+(alleging that the Management Defendants only “began to partially disclose the [Domestic
+Feeder Fund]’s ailing financial condition beginning in March 2007”); id. ¶ 60 (alleging that the
+statement of returns for the month of April 2007 was not reported until June 8, 2007). These
+tardy disclosures allegedly harmed investors who otherwise would have withdrawn earlier from
+the Fund or taken other steps to protect themselves. See, e.g., id. ¶ 73 (“Had the Management
+Defendants disclosed these facts to Plaintiff and other investors, they would have taken steps to
+avoid the massive losses they suffered, such as by withdrawing their funds . . . .”)
+During the putative class period (defined in the complaint as August 1, 2006 through July
+18, 2007), the Master Fund held covered securities1 in the amount of tens of millions of dollars
+1
+
+The “covered securities” that the Master Fund held are outlined infra at pp. 10-11.
+
+4
+
+Case 1:07-cv-07783-AKH
+
+Document 11
+
+Filed 10/26/2007
+
+Page 11 of 34
+
+to hedge against any decline in the value of its structured finance securities. See Declaration of
+Robert Ervin, dated August 29, 2007 (Ex. C), ¶¶ 3-4 (identifying positions); Declaration of
+Matthew Tannin (attached hereto as Ex. G), ¶ 4 (stating the “positions identified in the Ervin
+Declaration were held as hedges against risks associated with long positions that the Master Fund
+held in structured finance securities”). For example, on December 31, 2006, near the midpoint
+of the putative class period, the Master Fund’s hedge positions in covered securities amounted to
+over $43 million in long and short positions. See Declaration of Robert Ervin, dated August 29,
+2007 (Ex. C), ¶ 3; Declaration of Matthew Tannin (Ex. G), ¶ 4. The Master Fund also held
+substantial investment positions in corporate debt, which were also covered securities. On
+December 31, 2006, these debt positions had a market value of over $162 million; and on April
+30, 2007, they had a market value of over $217 million. Declaration of Robert Ervin, dated
+October 25, 2007 (attached hereto as Ex. H), ¶¶ 4-6 (identifying positions).
+2.
+
+The Second Direct Claim
+
+In the second cause of action, Navigator sues on its own behalf and on behalf of a
+putative class of investors, asserting that three affiliates of BSAM aided and abetted the alleged
+breach of fiduciary duty by the Management Defendants. One named defendant, BSC, is the
+parent of the three other corporate defendants and is alleged to have “substantially assisted” the
+breach by helping value investments in the Master Fund. Id. ¶ 80. A second named defendant,
+BSSC, which allegedly acted as prime broker and custodian to the Master Fund, also allegedly
+assisted the breach. Id. ¶ 82. The third defendant, BS&Co., allegedly acted as a broker-dealer,
+id. ¶ 18, and acted to help sell limited partnership interests in the Domestic Feeder Fund to
+
+5
+
+Case 1:07-cv-07783-AKH
+
+Document 11
+
+Filed 10/26/2007
+
+Page 12 of 34
+
+investors like Navigator.2
+The gravamen of the second cause of action is that corporate affiliates of BSAM
+somehow assisted the Management Defendants in their breach of their fiduciary duties owed
+directly to investors. These defendants, BSC, BSSC, and BS&Co., are not alleged to be
+fiduciaries and are each alleged to have engaged in additional conduct beyond what the alleged
+fiduciaries did. By valuing the Master Fund’s portfolio, by acting as a prime broker, or by
+selling limited partnership interests to investors, these defendants are alleged to have knowingly
+assisted the Management Defendants in defrauding and injuring the putative class members
+directly. See id. ¶¶ 78-79.
+3.
+
+The Two Derivative Claims
+
+The third and fourth claims are derivative causes of action brought by Navigator on
+behalf of the Domestic Feeder Fund. The third claim, like the first claim, names the
+Management Defendants. Unlike the first claim, however, this derivative claim alleges
+mismanagement due to their “failure to adequately assess, monitor, and hedge the credit risks of
+investments” and “otherwise failing to manage the Fund,” id. ¶ 90, causing harm to the Fund as a
+whole, id. ¶ 91, and does not allege that the Management Defendants breached their fiduciary
+duty by making misrepresentations and omissions. Compare id. ¶¶ 71-72.
+The fourth claim, like the second claim, names BSC, BSSC, and BS&Co. as defendants.
+Id. ¶ 101. Unlike the second claim, however, the fourth claim does not allege distinct injury to
+plaintiff. Compare id. ¶ 72, with id. ¶ 100.
+
+2
+
+Although the complaint makes no allegations about BS&Co., other than that it acted as a broker-dealer,
+Compl. ¶ 18, the complaint relies upon the confidential offering memoranda, which are “deemed part of the pleading
+and may be considered.” Roth v. Jennings, 489 F.3d 499, 509 (2d Cir. 2007) (noting also that “[t]his principle has
+its greatest applicability in cases alleging fraud”). The confidential offering memoranda recite that BS&Co. acted as
+a placement agent selling limited partnership interests to investors. See, e.g., August 2006 PPM (Ex. B), at 4.
+
+6
+
+Case 1:07-cv-07783-AKH
+
+II.
+
+Document 11
+
+Filed 10/26/2007
+
+Page 13 of 34
+
+The Parties
+Navigator purports to bring the first and second causes of action asserted in the complaint
+
+on behalf of a putative class consisting of holders of limited partnership interests in the Domestic
+Feeder Fund from August 1, 2006 through July 18, 2007, excluding the defendants and those
+related to or affiliated with them (the “Putative Class”). Id. ¶ 26. This Putative Class consists of
+persons and entities hailing from more than twenty states and foreign nations who hold interests
+in the Domestic Feeder Fund. See Declaration of Rajan Govindan, dated October 24, 2007
+(attached hereto as Ex. I), ¶ 4.A. The Putative Class includes citizens of different states from
+those of the defendants (the defendants being citizens of Delaware, New Jersey and New York).
+See Defendants’ Notice of Removal at 10 n.4. The percentage of Putative Class members who
+had reported to BSAM a residence or principal place of business in New York State, throughout
+the putative class period and through the date of the filing of the complaint, was less than onethird. Declaration of Rajan Govindan, dated August 30, 2007 (Ex. D), ¶ 3.D-F; Declaration of
+Rajan Govindan, dated October 24, 2007 (Ex. I), ¶ 4.B.
+ARGUMENT
+I.
+
+THE ACTION WAS PROPERLY REMOVED UNDER SLUSA
+A.
+
+The Governing Legal Standard for Removal Under SLUSA
+
+Plaintiff mistakenly contends that the Court must “resolv[e] any doubts against
+removability.” Plaintiff’s Memorandum of Law in Support of Its Motion To Remand (“Pl.’s
+Mem.”) 9 (internal quotation marks omitted). Erroneously citing to the general removal statute
+(28 U.S.C. § 1447), rather than to SLUSA, plaintiff fails to contend with the Supreme Court’s
+broad construction in favor of federal jurisdiction and preemption under SLUSA. See Merrill
+Lynch, Pierce, Fenner & Smith, Inc. v. Dabit, 547 U.S. 71 (2006). The Dabit Court explained
+that both “ordinary principles of statutory construction” and “the particular concerns that
+7
+
+Case 1:07-cv-07783-AKH
+
+Document 11
+
+Filed 10/26/2007
+
+Page 14 of 34
+
+culminated in SLUSA’s enactment” yield a “presumption that Congess envisioned a broad
+construction” of the statute’s reach. Id. at 86. The statute reflects Congress’s strong “preference
+for ‘national standards for securities class action lawsuits involving national traded securities,’”
+and was crafted with the express purpose of preventing plaintiffs from defeating federal
+jurisdiction through artful pleading. Id. at 87 (quoting SLUSA § 2(5), 112 Stat. 3227).
+B.
+
+The Complaint Alleges Misrepresentations or Omissions of Material Fact “In
+Connection with the Purchase or Sale of a Covered Security”
+
+Plaintiff concedes all the elements required for removal under SLUSA save one: it
+maintains that not one of its allegations of misrepresentation or omission is “in connection with
+the purchase or sale of a covered security.” Pl.’s Mem. 10; 15 U.S.C. § 78bb(f)(1).3 It asserts
+that the Master Fund’s “small equity positions are irrelevant and entirely tangential to the claims
+in this case.” Pl.’s Mem. 11. Rather than rely on its complaint in making this broad assertion,
+plaintiff selectively quotes from new documents attached to its Memorandum of Law—
+Preliminary Performance Profiles—that discuss hedging though use of the ABX indices and
+credit default swaps, neither of which are covered securities. Id. 12.
+Plaintiff cannot avoid the actual allegations in its complaint. One of the complaint’s core
+allegations—repeated again and again—is that investors lost their money because the
+Management Defendants failed to monitor and hedge as they had promised, and then concealed
+that failure from investors. See, e.g., Compl. ¶¶ 3, 6, 51, 55, 67, 71. As disclosed in the Fund
+offering documents on which plaintiff allegedly relied, the Master Fund’s hedging strategy
+included covered securities, and the Master Fund, in fact, hedged its positions with tens of
+millions of dollars in covered securities. Thus, Navigator is, within the meaning of SLUSA, a
+3
+
+SLUSA amended the Securities Act of 1933 and the Securities Exchange Act of 1934 “in substantially
+identical ways.” Merrill Lynch, Pierce, Fenner & Smith, Inc. v. Dabit, 547 U.S. 71, 82 n.6 (2006). For the sake of
+simplicity, defendants cite only the amended 1934 Act in this memorandum.
+
+8
+
+Case 1:07-cv-07783-AKH
+
+Document 11
+
+Filed 10/26/2007
+
+Page 15 of 34
+
+“private party alleging . . . a misrepresentation or omission of a material fact in connection with
+the purchase or sale of a covered security.” 15 U.S.C. § 78bb(f)(1).
+Plaintiff’s sole theory of harm to investors in its first cause of action is that the
+Management Defendants misrepresented their monitoring and hedging of the Master Fund, a
+theory the complaint ties directly to covered securities. The complaint alleges, for example, that
+although defendants “assured investors that risk would be minimized through the use of” various
+“strategies” for “hedging purposes,” including the purchase of covered securities like “futures
+and forward contracts” and “equity securities,” Compl. ¶ 51, the Management Defendants
+“systematically and continuously failed to disclose to investors” that they “were not adequately
+engage[ed] in hedging techniques to minimize risk,” id. ¶¶ 3, 55, 71; see also id. ¶ 67
+(defendants failed “to disclose that they had not . . . hedged . . . positions as they had committed
+themselves to do”). The theory of harm in the second cause of action is that affiliates of BSAM
+substantially assisted in imposing that same harm. See id. ¶¶ 78-79.
+The complaint repeatedly faults the Management Defendants for alleged omissions or
+misrepresentations about “hedging,” without any qualification as to type of investments. See,
+e.g., id. ¶ 6 (“Although the offering documents represented that the [Fund] managers would
+regularly monitor and adequately hedge risk, the managers shirked these responsibilities . . . .”);
+id. ¶ 7 (“the Management Defendants’ failure to sufficiently hedge risk is apparent”); id. ¶ 47
+(Defendants “fail[ed] to implement hedging and other strategies to minimize risk effectively.”);
+id. ¶ 54 (“Notwithstanding their obligation to adequately assess, monitor and hedge the credit
+risks of investments . . . the Management Defendants failed to do so . . . .”).
+The complaint cites two “offering documents” in framing its allegations regarding the
+Management Defendants’ alleged misrepresentations or omissions—a “‘Confidential Private
+
+9
+
+Case 1:07-cv-07783-AKH
+
+Document 11
+
+Filed 10/26/2007
+
+Page 16 of 34
+
+Placement Memorandum,’ dated August 31, 2004,” id. ¶ 28; see also id. ¶ 6, and a “Confidential
+Private Placement Memorandum issued in August 2006,” id. ¶ 29; see also id. ¶¶ 6, 32, 40, 53.
+As disclosed in the offering documents, the Master Fund’s hedging strategy included the
+purchase or sale of individual equities, indices, options, futures, and forwards as hedges, and also
+as investments. See August 2004 PPM (Ex. F), at 11 (Stating, under the heading “Leverage and
+Credit Hedges”: “The [Fund] will also use other instruments and strategies to hedge potential
+market volatility. These instruments and strategies include options, futures and short positions
+on various financial indices or individual securities where the managers believe there is an
+opportunity to limit volatility in a negative market scenario.” (emphasis added)); August 2006
+PPM (Ex. B), at 11 (same); August 2004 PPM, at 18 (“The [Domestic Feeder Fund] may utilize
+a variety of financial instruments, such as . . . options, . . . futures, and forward contracts, both
+for investment purposes and for hedging purposes.”); August 2006 PPM, at 21 (same); see also
+August 2004 PPM, at 1 (“The [Domestic Feeder Fund] will make investments (or otherwise take
+on risk) in both the traditional ‘cash’ market and the derivatives market. In addition, the
+[Domestic Feeder Fund] may invest in various derivatives, including . . . options, . . . futures and
+forward contracts (both listed and over-the-counter) on various financial instruments, equity
+securities and currencies.” (emphasis added)); August 2006 PPM, at 1 (same).
+The Domestic Feeder Fund in fact invested tens of millions of dollars through the Master
+Fund in covered securities to hedge its investments. See Declaration of Robert Ervin, dated
+August 29, 2007 (Ex. C), ¶¶ 3-4 (identifying equity securities held by the Master Fund);
+Declaration of Matthew Tannin (Ex. G), ¶ 4 (stating that the “positions identified in the Ervin
+Declaration were held as hedges against risks associated with long positions that the Master Fund
+
+10
+
+Case 1:07-cv-07783-AKH
+
+Document 11
+
+Filed 10/26/2007
+
+Page 17 of 34
+
+held in structured finance securities”).4 In the month of December 2006 alone, for example, of
+$205,777,896 in covered securities, the Master Fund held $43,303,400 in equity securities in
+long and short positions to hedge against risks in the Master Fund’s portfolio of structured
+finance securities. See Declaration of Robert Ervin, dated August 29, 2007 (Ex. C), ¶¶ 3-4;
+Declaration of Robert Ervin, dated October 25, 2007 (Ex. H), ¶ 4; Declaration of Matthew
+Tannin (Ex. G), ¶ 4.5 Thus, the Action not only “alleg[es]” a number of “misrepresentation[s] or
+omission[s] of a material fact in connection with the purchase or sale of a covered security,” 15
+U.S.C. § 78bb(f)(1), its allegations are directly connected to actual investments in covered
+securities.
+C.
+
+Plaintiff’s Arguments Against SLUSA Removal Should Be Rejected
+
+Navigator’s principal tack is to attempt to depreciate the use of covered securities to
+hedge investments in the Master Fund, either by noting that most of the Master Fund’s
+
+4
+
+Under SLUSA, “[t]he term ‘covered security’ means a security that satisfies the standards . . . specified in
+paragraph (1) or (2) of . . . [15 U.S.C. § 77r(b)].” 15 U.S.C. § 78bb(f)(5). Paragraph (1) of section 77r(b) provides
+that “[a] security is a covered security if [it] is –
+(A) listed, or authorized for listing, on the New York Stock Exchange or the
+American Stock Exchange, or listed, or authorized for listing, on the National
+Market System of the Nasdaq Stock Market (or any successor to such entities)[.]
+Id. § 77r(b)(1)(A). The securities identified in the Declaration of Robert Ervin, dated August 29, 2007, are all listed
+on the New York Stock Exchange (“NYSE”), NASDAQ, or the American Stock Exchange, and thus are “covered”
+under subparagraph (A).
+5
+
+Three of the securities listed in the Declaration of Robert Ervin, dated October 25, 2007, are also “listed . . .
+on the [NYSE]”—U.S. Bancorp Capital IX 6.189, Wachovia Capital Trust III 5.8, and Suntrust Capital VIII 6.1—
+and are thus “covered” securities. 15 U.S.C. § 77r(b)(1)(A); see supra n.4. The remaining securities in this
+Declaration are “covered” because each is a security “of the same issuer that is equal in seniority or that is a senior
+security to a security described in subparagraph A.” 15 U.S.C. § 77r(b)(1)(C). These debt securities were issued by
+companies listed on the NYSE, see Declaration of Robert Ervin, dated October 25, 2007 (Ex. H), ¶¶ 3, 6, and are
+senior to equity securities listed on the NYSE by those companies as disclosed in documents filed with the SEC, see
+Final Term Sheet of Prudential Financial, Inc. (relevant sections attached hereto as Ex. J), at 1; Prospectus
+Supplement of Prudential Financial, Inc. (relevant sections attached hereto as Ex. J), at S-10 (“We will issue the
+notes, and they will be our direct, unsubordinated and unsecured debt obligations.”); Prospectus Supplement of
+Lincoln National Corp. (relevant sections attached hereto as Ex. J), at 20 (“The capital securities will rank senior in
+right of payment to our present and future preferred stock.”); see generally In re AutoStyle Plastics, Inc., 269 F.3d
+726, 748 (6th Cir. 2001) (an equity claim “is subordinated below that of other creditors” such as debt holders).
+
+11
+
+Case 1:07-cv-07783-AKH
+
+Document 11
+
+Filed 10/26/2007
+
+Page 18 of 34
+
+investments were in non-covered securities, see, e.g., Pl.’s Mem. 11, or by attempting to distance
+Navigator’s investment in the Domestic Feeder Fund from the hedging done with covered
+securities at the Master Fund level, see id. Both arguments are unavailing.
+SLUSA does not limit removal to actions in which “most” of the securities at issue are
+covered, nor does it require that any particular proportion be covered. What SLUSA provides
+instead, simply and clearly, is that a covered action “alleging . . . a misrepresentation or
+omission of a material fact in connection with the purchase or sale of a covered security . . . shall
+be removable.” 15 U.S.C. § 78bb(f)(1)-(2) (emphasis added). Accordingly, even the purchase or
+sale of one covered security may bring an action within SLUSA, so long as the plaintiff alleges
+one material misrepresentation or omission in connection with the purchase or sale of that
+security. See, e.g., Rowinski v. Salomon Smith Barney Inc., 398 F.3d 294, 298 (3d Cir. 2005)
+(“The jurisdictional inquiry under SLUSA tracks the plain language of the statute. [I]f it is a
+covered class action involving a covered security, removal is proper.” (internal quotation marks
+omitted; alteration incorporated)). Here, where the subject matter of one of the complaint’s key
+allegations is tied to the covered securities held by the Master Fund—and the value of the
+qualifying equity hedges and corporate debt runs to hundreds of millions of dollars—this
+requirement is easily satisfied.
+This result follows not only from the plain meaning of this text, but also from the
+remedial purpose of SLUSA. As courts have uniformly observed, SLUSA was enacted to
+federalize class action litigation “involving allegations of fraud in the securities markets.”
+Lander v. Hartford Life & Annuity Ins. Co., 251 F.3d 101, 114 (2d Cir. 2001). SLUSA was
+written in broad and emphatic terms to prevent remand to state courts by clever pleading—which
+had long frustrated Congress’s aim. See, e.g., Spielman v. Merrill Lynch, Pierce, Fenner &
+
+12
+
+Case 1:07-cv-07783-AKH
+
+Document 11
+
+Filed 10/26/2007
+
+Page 19 of 34
+
+Smith, Inc., 332 F.3d 116, 123 (2d Cir. 2003) (“Driving enactment of SLUSA was Congress’[s]
+finding that litigants eluded [the Private Securities Litigation Reform Act]’s reach with relative
+ease. . . . SLUSA was enacted to close the loophole by mandating federal court as ‘the exclusive
+venue for class actions alleging fraud in the sale of certain covered securities’ . . . . Congress
+could not have spoken more clearly.” (quoting Lander, 251 F.3d at 108)). Thus, SLUSA
+mandates removal of suits that include a solitary material misrepresentation about a solitary
+covered security, subject to a small number of narrow carve-outs not applicable here. 15 U.S.C.
+§ 78bb(f)(1)-(3).
+Consistent with SLUSA’s text and purpose, courts have consistently held that if a class
+action contains allegations of misrepresentation or omission in connection with a purchase or
+sale of a covered security, the action falls within SLUSA, irrespective of whether the action also
+contains other allegations or involves other kinds of securities. See, e.g., Herndon v. Equitable
+Variable Life Ins. Co., 325 F.3d 1252, 1254 (11th Cir. 2003) (“The fact that a variable life
+insurance policy account,” which is a covered security, “adds a life insurance component to the
+investment,” which is a non-covered security, “does not negate the fact that the statutory
+requirements of SLUSA have been met . . . .”); Cordova v. Lehman Bros., 413 F. Supp. 2d 1309,
+1317 (S.D. Fla. 2006) (“The fact that Plaintiffs coupled the option to invest in mutual funds with
+a term life insurance policy does not negate the fact that the statutory requirements of SLUSA
+have been met with the regard to the mutual fund component . . . .”); Lasley v. New Eng.
+Variable Life Ins. Co., 126 F. Supp. 2d 1236, 1238 (N.D. Cal. 1999) (“While it is undisputed that
+ordinary life insurance policies are not covered securities under SLUSA, plaintiffs’ complaint . . .
+does not solely relate to ordinary policies.” (emphasis added)).
+Indeed, this Action would be removable under SLUSA even if, contrary to the
+
+13
+
+Case 1:07-cv-07783-AKH
+
+Document 11
+
+Filed 10/26/2007
+
+Page 20 of 34
+
+complaint’s allegations and to fact, none of the covered securities were used for hedging, but
+were simply held as investments in the Master Fund. The Supreme Court in Dabit held that the
+fraud of which a plaintiff complains need only “‘coincide’” with the purchase or sale of a
+covered security. 547 U.S. at 85; see also SEC v. Zandford, 535 U.S. 813, 819-820 (2002). And
+such “coincidence” plainly exists here, both temporally and in terms of subject matter. At the
+most fundamental level, plaintiff alleges that it was lulled into maintaining its investment in the
+Domestic Feeder Fund—including its beneficial ownership in hundreds of millions of dollars in
+corporate debt, see Declaration of Robert Ervin, dated October 25, 2007 (Ex. H), ¶¶ 2-6, which
+are covered securities—when the Management Defendants allegedly concealed mismanagement
+and failed to disclose timely the decline in the value of the Fund. See, e.g., Compl. ¶ 73.
+The cases cited by plaintiff do not support remand and, upon analysis, actually explain
+why this Action falls within SLUSA. Ring v. AXA Financial, Inc., 483 F.3d 95 (2d Cir. 2007),
+stands for the unremarkable proposition that if an action’s allegations concern only non-covered
+securities, the action does not fall under SLUSA. The plaintiff in Ring brought a class action
+alleging that contract terms governing a Children’s Term Insurance Rider violated state law. Id.
+at 97. Although the rider was a traditional insurance policy and thus not a covered security, the
+defendant sought to bring the action within SLUSA by pointing out that some of the prospective
+class members had purchased the policy as a rider to a variable annuity, which is a covered
+security. Id. The Ring court rejected this theory because the only fraud alleged related to the
+insurance contract, while no fraud was alleged in the terms or marketing of the covered variable
+annuity. Id. at 101 (“[W]e should not preempt . . . a suit that alleges fraud occurred in
+connection only with a promise in a contract that does not relate to a ‘covered security.’”
+(emphasis added)). Here, unlike in Ring, plaintiff directly alleges misrepresentations about the
+
+14
+
+Case 1:07-cv-07783-AKH
+
+Document 11
+
+Filed 10/26/2007
+
+Page 21 of 34
+
+equity hedges and the corporate debt held by the Master Fund.
+In another case cited by plaintiff, Gavin v. AT&T Corp., 464 F.3d 634 (7th Cir. 2006), a
+court held that an alleged misrepresentation was not “in connection with” a purchase or sale
+because it took place months after the alleged sale. The plaintiff brought suit on behalf of
+holders of stock certificates in MediaOne, which had merged with AT&T in June 2000. Id. at
+636-37. In December 2000, a representative of AT&T sent a letter advising former shareholders
+of MediaOne that, if they did not redeem their shares by a certain date, they would escheat to the
+state, and stating that AT&T’s representative would handle the redemption for $7. Id. at 637-38.
+Plaintiff sued because AT&T had failed to mention that the same service was offered for free by
+another exchange agent. Id. The court concluded that that action did not fall within SLUSA
+because the alleged fraud happened long after the shares were sold, and thus “had nothing more
+to do with federal securities law than if [the letter] had asked the MediaOne shareholders ‘do you
+want your AT&T shares sent to you by regular mail or by courier?’” Id. at 638. Gavin plainly
+has nothing to say about the instant Action, in which “the fraud of which [plaintiff] complains” is
+“connected” to the purchase of sale of a covered security not because it took place after a
+purchase or sale of a covered security, but because the alleged fraud directly involved—
+temporally and in terms of subject matter—the purchase or sale of covered securities.6
+
+6
+
+Plaintiff’s citations to Indiana Electrical Workers Pension Trust Fund, IBEW v. Millard, No. 07 Civ. 172,
+2007 WL 2141697 (S.D.N.Y. July 25, 2007); LaSala v. UBS, AG, --- F. Supp. 2d ---, 2007 WL 2331054 (S.D.N.Y.
+Aug. 15, 2007); Strigliabotti v. Franklin Res., Inc., 398 F. Supp. 2d 1094 (N.D. Cal. 2005); and French v. First
+Union Sec., Inc., 209 F. Supp. 2d 818 (M.D. Tenn. 2002), are inapposite. Pl.’s Mem. 14-15. Indiana Electrical
+Workers and LaSala were not decided on “in connection with” or “covered security” grounds. Strigliabotti and
+French were both decided before Dabit instructed that the “in connection with” requirement in SLUSA is to be
+construed broadly, and to the extent they are inconsistent with Dabit they are overruled. However, even on their
+own reasoning, these pre-Dabit cases are clearly distinguishable from this case. In Strigliabotti, the alleged fraud
+involved the failure of brokers to pass on cost-savings from transactions with third parties, and the alleged fraud did
+“not turn on the purchase or sale of securities.” 398 F. Supp. 2d at 1101. In French, the court found that the
+defendants alleged only misconduct “related to [a broker’s] qualifications, not his actual investment decisions.” 209
+F. Supp. 2d at 828 (emphasis added).
+
+15
+
+Case 1:07-cv-07783-AKH
+
+Document 11
+
+Filed 10/26/2007
+
+Page 22 of 34
+
+Plaintiff also suggests that its allegations may not be “in connection with” a purchase or
+sale because, as an investor in the Domestic Feeder Fund, it did not itself purchase the securities
+that are the subject of its allegations. Rather, Navigator argues, the covered securities were
+purchased for plaintiff and other investors by the Master Fund. See, e.g., Pl.’s Mem. 11. This
+suggestion may quickly be put to rest. In Dabit, the Supreme Court considered whether “fraud is
+‘in connection with’ a purchase or sale of securities only when the plaintiff himself was
+defrauded into purchasing or selling,” and flatly “rejected that view.” 547 U.S. at 85. “Under
+our precedents,” the Court stated, “it is enough that the fraud alleged ‘coincide’ with a securities
+transaction—whether by the plaintiff or by someone else.” Id. (emphasis added). “For the
+purposes of SLUSA . . . the identity of plaintiffs does not determine whether the complaint
+alleges fraud ‘in connection with the purchase or sale’” of a covered security. Id. at 89.7
+Plaintiff’s remaining arguments against SLUSA removal are misguided because they fail
+to acknowledge that SLUSA removal is premised upon a qualifying “allegation,” and not upon a
+plaintiff’s characterization of its entire suit or upon the absence of causes of action that would
+not independently justify removal under SLUSA.
+Plaintiff asserts that “[t]his is not a securities fraud case,” but rather “a Delaware law
+breach of fiduciary duty case.” Pl.’s Mem. 17. Even if true as a formal matter, this assertion is
+7
+
+See also, e.g., United States Mortg., Inc. v. Saxton, 494 F.3d 833, 844-845 (9th Cir. 2007) (Plaintiffs “seek
+to avoid SLUSA . . . by arguing that they did not purchase or sell any listed security in response to the
+misrepresentations . . . . This is the very argument that Dabit rejected. Plaintiffs allege a scheme to fraudulently hide
+[the defendant]’s financial condition . . . . They allege harm from this scheme through inducement . . . to refrain
+from exercising rights . . . . While plaintiffs themselves did not purchase or sell any of the [covered securities] . . . .
+[t]hey have alleged fraud that ‘coincide[s]’ with the purchase or sale of [such] securities, and SLUSA therefore
+preempts their claim.” (second alteration in original)); Dommert v. Raymond James Fin. Servs., Inc. No. CIV A.
+1:06-CV-102, 2007 WL 1018234, at *11-*12 (E.D. Tex. Mar. 29, 2007) (noting that the plaintiff “argu[es] that the
+alleged violations are about the relationship between her and the Defendants and not about the purchase and sale of
+securities,” but “that relationship would not exist but for the contract that she entered into specifically for . . .
+investing,” that the plaintiff’s “allegations that the Defendants failed to disclose key information . . . are directly
+related to . . . the investing,” and concluding that under Dabit the plaintiff’s “state law claims for . . . breach of
+fiduciary duty” are covered by SLUSA).
+
+16
+
+Case 1:07-cv-07783-AKH
+
+Document 11
+
+Filed 10/26/2007
+
+Page 23 of 34
+
+not determinative of whether SLUSA applies. As Navigator concedes, its first and second causes
+of action allege misrepresentations or omissions of material fact, i.e., fraud, id. at 10, which
+makes the action removable under SLUSA, see, e.g., Leykin v. AT&T Corp., 216 F. App’x 14 (2d
+Cir. 2007) (breach of fiduciary duty claims alleging a misrepresentation in connection with the
+purchase or sale of a covered security were within SLUSA’s ambit) (unpublished); Sofonia v.
+Principal Life Ins. Co., 465 F.3d 873 (8th Cir. 2006) (same).
+Plaintiff also asserts that its two derivative claims are not preempted by SLUSA because
+they “do not sound in fraud.” Pl.’s Mem. 16. This argument conflates the question of
+preemption of the derivative claims under SLUSA with removal of the Action under SLUSA. In
+the context of this Motion To Remand, the sole question is whether this Court has subject matter
+jurisdiction following removal. If the complaint alleges a misrepresentation or omission in
+connection with a covered security, the Court has jurisdiction over the action. See 15 U.S.C. §
+78bb(f)(2) (providing that covered “class action[s]” “shall be removable”).8 See, e.g., In re Lord
+Abbett Mut. Funds Fee Litig., 463 F. Supp. 2d 505, 511-512 (D.N.J. 2006) (As used here, “the
+commonly understood definition of the word ‘action,’ as used in the phrase ‘covered class
+action,’ . . . signals Congress’s intent” to include “more than mere claims in a complaint.”).
+
+8
+
+The dictum that Plaintiff quotes from LaSala v. UBS, AG, --- F. Supp. 2d ---, 2007 WL 2331054, at *25
+(S.D.N.Y. Aug. 15, 2007)—that SLUSA must be applied “to each claim in the Complaint rather than to the whole
+action”—refers solely to preemption, i.e., dismissal, under 15 U.S.C. § 78bb(f)(1), and not to removal under 15
+U.S.C. § 78bb(f)(2). See also id. at *26 (“Only . . . allegations that fall within the scope of SLUSA’s preemption
+are preempted.” (emphasis added)). Whatever LaSala has to say about preemption, it has nothing to say about
+removal, the sole issue now before this Court.
+
+17
+
+Case 1:07-cv-07783-AKH
+
+Document 11
+
+Filed 10/26/2007
+
+Page 24 of 34
+
+Whether particular claims are pre-empted is a separate question not presented by this Motion. 9
+II.
+
+THIS COURT HAS DIVERSITY JURISDICTION UNDER CAFA
+Although plaintiff does not dispute that this Action meets the prima facie requirements
+
+for federal diversity jurisdiction established by CAFA, plaintiff seeks to avoid removal by
+invoking the exceptions to CAFA jurisdiction codified at 28 U.S.C. § 1332(d)(9)(C) (the
+“securities exception”), and 28 U.S.C. §§ 1332(d)(3)-(4) (the “interests of justice,” “local
+controversy,” and “home state” exceptions). These exceptions do not apply.
+A.
+
+The “Securities” Exception Does Not Apply
+
+The “securities” exception exempts from CAFA’s general grant of federal jurisdiction
+“any class action that solely involves . . . a claim that relates to the rights, duties (including
+fiduciary duties), and obligations relating to or created by or pursuant to any security (as defined
+under section 2(a)(1) of the Securities Act of 1933 [15 U.S.C. § 77b(a)(1)] and the regulations
+issued thereunder.)” 28 U.S.C. § 1332(d)(9)(C). Plaintiff contends that its fiduciary duty claims
+“relate” to a security for purposes of this exception because it has brought them as the owner of a
+security. Pl.’s Mem. 18.
+This Court should reject plaintiff’s construction of the statute for at least two reasons.
+First, Congress intended the securities exception to be construed narrowly, to authorize the
+return to state court of class actions that concern matters of traditional state concern—such as the
+9
+
+In a single sentence in a footnote, plaintiff asserts without elaboration that the Action may not be removed
+under SLUSA because it falls within the “‘Delaware carve-out.’” Pl.’s Mem. 15 n.8. By relegating its comment to a
+footnote and failing to offer any explanation, Navigator has waived the argument. See, e.g., Vieira v. Wal-Mart
+Stores, Inc., No. 00-272-P-H, 2001 WL 394898, at *7 (D. Conn. Apr. 18, 2001) (“Issues mentioned in a perfunctory
+manner, unaccompanied by some effort at developed argumentation, are deemed waived . . . .”). In any event,
+Navigator could not establish that the carve-out applies. Plaintiff does not contend that any defendant is “the issuer”
+of a covered security at issue in this case. Pl.’s Mem. 13; 15 U.S.C. § 78bb(f)(3)(A)(ii)(I). Nor is any defendant an
+“affiliate of the issuer.” Further, the Action does not satisfy even one part of the second prong of the carve out,
+requiring that a suit involve the “recommendation, position, or other communication with respect to the sale of
+securities of an issuer” that “is made by or behalf of the issuer” “to holders of equity securities of the issuer,” and
+“concerns decisions of such equity holders with respect to voting their securities, acting in response to a tender or
+exchange offer, or exercising dissenters’ or appraisal rights.” Id. § 78bb(f)(3)(A)(ii)(II).
+
+18
+
+Case 1:07-cv-07783-AKH
+
+Document 11
+
+Filed 10/26/2007
+
+Page 25 of 34
+
+interpretation of duties that are defined by non-federal securities and the definition of fiduciary
+duties that relate to the governance of business organizations. It was not intended to exempt
+large interstate securities class actions—such as this one—alleging that investors were induced
+by a fraud to purchase or retain securities. Even if such allegations are used to support a breach
+of fiduciary duty claim, the claim does not “relate” to a security for purposes of the exception, as
+the text, structure, history and purpose of CAFA make clear. Second, even assuming that
+plaintiff’s view of “relating” were adopted, its second and fourth causes of action do not “solely”
+state a fiduciary duty claim, as the exception requires. These two causes of action include
+allegations of aiding and abetting by non-fiduciaries which, if not subject to dismissal for failure
+to state a claim as to certain defendants, by definition go beyond any fiduciary duty claim.
+1.
+
+The Complaint’s Direct Claims Are Based on Theories of Fraud in the
+Inducement and Retention
+
+As noted above, supra at pp. 2-6, plaintiff’s principal allegation in the first and second
+causes of action is that investors were harmed when they were induced by the Management
+Defendants’ alleged misrepresentations and omissions to retain or purchase their securities.
+Indeed, plaintiff specifically alleges that, if not for this alleged wrongdoing, investors might have
+sold their securities. See, e.g., Compl. ¶¶ 71-73. Even assuming plaintiff has stated a breach of
+fiduciary duty in form, the substance of its complaint plainly sounds in fraudulent inducement
+and retention. See, e.g., H-M Wexford LLC v. Encorp, Inc., 832 A.2d 129, 144 (Del. Ch. 2003)
+(identifying the elements of a fraudulent inducement claim as: “(1) the existence of a false
+representation, usually one of fact, made by the defendant; 2) the defendant had knowledge or
+belief that the representation was false, or made the representation with requisite indifference to
+the truth; 3) the defendant had the intent to induce the plaintiff to act or refrain from acting; 4)
+the plaintiff acted or did not act in justifiable reliance on the representation; and 5) the plaintiff
+19
+
+Case 1:07-cv-07783-AKH
+
+Document 11
+
+Filed 10/26/2007
+
+Page 26 of 34
+
+suffered damages as a result of such reliance. In addition to overt representations, fraud may
+also occur through deliberate concealment of material facts, or by silence in the face of a duty to
+speak.” (footnotes and internal quotation marks omitted)).
+2.
+
+The Text, Structure and Purpose of CAFA Require Rejection of Plaintiff’s
+Reading of the Securities Exception
+
+Plaintiff contends that any fiduciary duty claim “relates” to a security because it is
+brought by the owner of a security interest. See Pl.’s Mem. 18. But the meaning of a word
+within a statute—especially an elastic term like “relating”—can only be gathered from its
+context. See, e.g., Enders v. American Patent Search Co., 535 F.2d 1085, 1090 (9th Cir. 1976)
+(determining whether an action “relates” to patents and rejecting “literalistic” readings in favor
+of “logical” readings based on context: “While the human mind may be capable of formulating a
+literal connection between a particular statute and patents, the test must be whether there is a
+relationship strong enough to support a conclusion that it relates to patents for purposes of
+providing jurisdiction under section 1338.”).
+Here, it is clear that the exception should be construed narrowly. CAFA was enacted
+pursuant to congressional findings that class actions were being abused in certain state courts,
+and in particular, that “State and Local Courts” were:
+(A) keeping cases of national importance out of Federal court;
+(B) sometimes acting in ways that demonstrate bias against out-ofState defendants; and
+(C) making judgments that impose their view of the law on other
+States and bind the rights of the residents of those States.
+CAFA, Pub. L. No. 109-2, § 2(a)(4), 119 Stat. 4; see also id. § 2(a)(2) (discussing “abuses of
+class action device”). Accordingly, the purpose of CAFA, as set forth in its preamble, was to
+“provid[e] for Federal court consideration of interstate cases of national importance under
+
+20
+
+Case 1:07-cv-07783-AKH
+
+Document 11
+
+Filed 10/26/2007
+
+Page 27 of 34
+
+diversity jurisdiction.” Id. § 2(b)(2). Congress implemented this broad goal by relaxing the
+requirements of federal jurisdiction with respect to class actions, most importantly by providing
+that, except for certain limited, specified carve-outs, federal courts would have jurisdiction over
+class actions in which there was minimal diversity and more than $5 million at issue. See
+Robinson v. Shell Oil Co., 519 U.S. 337, 341 (1997) (analysis of statutory language requires
+close attention to “the specific context in which that language is used, and the broader context of
+the statute as a whole”).
+The Senate Judiciary Committee Report on CAFA underscores this theme: “the federal
+courts are the appropriate forum to decide most interstate class actions because these cases
+usually involve large amounts of money and many plaintiffs, and have significant implications
+for interstate commerce and national policy.” S. Rep. No. 109-14, at 27 (2005). Congress
+therefore enacted CAFA in order to remedy “a flaw in the current diversity jurisdiction statute
+(28 U.S.C. § 1332) that prevent[ed] most interstate class actions from being adjudicated in
+federal courts.” Id. at 5. To this end, the bill was designed “to expand substantially federal court
+jurisdiction over class actions. Its provisions should be read broadly, with a strong preference
+that interstate class actions should be heard in a federal court if properly removed by any
+defendant.” Id. at 43 (emphasis added).
+Accordingly, with respect to the subject-matter exceptions codified at 28 U.S.C. §
+1332(d)(9), the Senate Judiciary Committee explained that it “intend[ed] that [they] be narrowly
+construed.” Id. at 45 (emphasis added). The Committee described the exceptions at (9)(b) and
+(9)(c) as covering class actions “that relate to matters of corporate governance arising out of state
+law.” Id. “By corporate governance litigation, the Committee means only litigation based solely
+on (a) state statutory law regulating the organization and governance of business enterprises such
+
+21
+
+Case 1:07-cv-07783-AKH
+
+Document 11
+
+Filed 10/26/2007
+
+Page 28 of 34
+
+as corporations, partnerships, limited partnerships . . . and business trusts; (b) state common law
+regarding the duties owed between and among owners and managers of business enterprises; and
+(c) the rights arising out of the terms of the securities issued by business enterprises.” Id. The
+Committee went on to explain that section 1332(d)(9) “is also intended to cover disputes over the
+meaning of the terms of a security, which is generally spelled out in some formative document of
+the business enterprise, such as a certificate of incorporation or a certificate of designations.” Id.
+Thus, the securities exception, properly construed, exempts from federal jurisdiction only
+those class actions whose subject matter is of principal concern to individual states, but to
+preserve federal jurisdiction over securities actions having significant interstate importance. The
+exception returns to state court actions brought “solely” to litigate the meaning of rights, duties
+and obligations set forth in the terms of non-federal securities, i.e., rights and duties “created by”
+or “pursuant to” such securities. And it returns to state court litigation that concerns issues of
+corporate governance and business organization, i.e., rights, obligations and duties (including
+fiduciary duties) “relating to” securities—matters traditionally and principally of state concern.
+But what does not return to state court are fiduciary duty claims that “relate” to a security
+principally (or at all) only in the sense that the holder of a security complains it was fraudulently
+induced to purchase or hold the security. These claims, all of which are premised on vindicating
+litigation rights by awarding damages as if the security had never been bought or had been sold
+promptly, do not “relate” to securities in the way the exception intended.10
+
+10
+
+None of the cases plaintiff cites in support of its view of the securities exception is binding on this Court
+and no circuit court has yet ruled on the exception, although the Second Circuit is currently considering the scope of
+the exception. See Estate of Pew v. Cardarelli, No. 5:05-CV-1317, 2006 WL 3524488 (N.D.N.Y. Dec. 6, 2006),
+appeal docketed, No. 06-5703 (2d Cir. argued April 24, 2007). This Court also has yet to interpret the exception.
+More importantly, with the exception of Cardarelli, none of the decisions that has applied the exception arose on
+facts similar to those presented in this case—in which the plaintiff alleges a theory of fraudulent inducement or
+retention—and none should persuade this Court to adopt plaintiff’s reading of the securities exception in the face of
+its text and the legislative history adduced above.
+
+22
+
+Case 1:07-cv-07783-AKH
+
+3.
+
+Document 11
+
+Filed 10/26/2007
+
+Page 29 of 34
+
+This Action Does Not “Solely” Concern Fiduciary Duty Claims
+
+In any event, the second and fourth causes of action are not “solely” fiduciary duty
+claims. The limiting term “solely” denotes exclusivity. See, e.g., Webster’s Third New
+International Dictionary 2168 (2002) (defining “solely” as “to the exclusion of alternate or
+competing things”). In its aiding and abetting claims, plaintiff names BSC, BSSC and BS&Co.
+as defendants. Nowhere does the complaint allege that any of these defendants owed any
+fiduciary duties to plaintiff (indeed, this is presumably why they are named only in the aiding
+and abetting claims), or that they breached any fiduciary duty. See Compl. ¶¶ 78-79, 82-84, 9697, 100-101. Thus, the only “substantial[] assist[ance],” id. ¶¶ 79, 97, that these affiliates could
+have provided would be conduct by a non-fiduciary—conduct that by definition falls outside the
+narrowly construed exception.
+B.
+
+The Exceptions for Putative Classes Consisting Largely of In-State Residents
+Do Not Apply
+
+Plaintiff contends that this Court should remand because the exceptions to CAFA
+jurisdiction in 28 U.S.C. § 1332(d)(3) or § 1332(d)(4) may “potentially apply here.” Pl.’s Mem.
+at 21. This qualified, lukewarm assertion cannot justify remand or serve to shift plaintiff’s
+burden to defendants.
+Every circuit court to consider this issue has held that the party seeking remand bears the
+
+23
+
+Case 1:07-cv-07783-AKH
+
+Document 11
+
+Filed 10/26/2007
+
+Page 30 of 34
+
+burden of proving that an exception in (d)(3) or (d)(4) applies.11 Plaintiff has done nothing to
+discharge its burden. For example, plaintiff does not argue—as it must to prevail—that the
+balance of prudential factors a court must consider before remanding under (d)(3) or (d)(4)(A)(1)
+weighs in favor of remand. Nor does plaintiff attempt to prove that one-third of the members of
+the Putative Class are citizens of New York—as required for remand under (d)(3)—or that twothirds are citizens of New York—as required for remand under (d)(4). The declaration of Rajan
+Govindan attached to the Notice of Removal stated that fewer than one-third of the putative class
+members were New York residents on three sample dates: August 1, 2006 (26.45%); April 30,
+2007 (26.77%), and December 31, 2006 (25.22%). Declaration of Rajan Govindan, dated
+August 30, 2007 (Ex. D), ¶ 3.D-F. This analysis has now been extended and it has been
+determined that fewer than one-third of the putative class members (i.e., holders of partnership
+interests on July 18, 2007 and investors who fully redeemed their interests during the class
+period) had identified themselves as residents of New York on the date the complaint was filed.
+See Declaration of Rajan Govindan, dated October 24, 2007 (Ex. I), ¶ 4.B. Accordingly, plaintiff
+has failed to carry its burden of showing that any of these exceptions applies.
+
+11
+
+See Preston v. Tenet Healthsystem Mem’l Med. Ctr., Inc., 485 F.3d 804, 813 (11th Cir. 2007) (“party
+moving for remand[] must show that the exceptions to federal jurisdiction apply in this class action”); Serrano v.
+180 Connect, Inc., 478 F.3d 1018, 1023 (9th Cir. 2007) (under CAFA, party seeking remand bears burden to
+demonstrate applicability of statutory exceptions to jurisdiction because “‘whenever the subject matter of an action
+qualifies it for removal, the burden is on a plaintiff to find an express exception’” (quoting Breuer v. Jim’s Concrete
+of Brevard, Inc., 538 U.S. 691, 698 (2003)); Frazier v. Pioneer Americas LLC, 455 F.3d 542, 546 (5th Cir. 2006)
+(“plaintiffs have the burden to show the applicability of the §§ 1332(d)(3)-(5) exceptions when jurisdiction turns on
+their application”); Hart v. Fedex Ground Package Sys. Inc., 457 F.3d 675, 680 (7th Cir. 2006) (“the party seeking
+to take advantage of the home-state or local [controversy] exception to CAFA jurisdiction has the burden of showing
+that it applies”). In addition, district courts in two more circuits have reached the same conclusion. McMorris v.
+TJX Cos., Inc., 493 F. Supp. 2d 158, 165 (D. Mass. 2007); Eakins v. Pella Corp., 455 F. Supp. 2d 450, 452 (E.D.
+N.C. 2006).
+
+24
+
+Case 1:07-cv-07783-AKH
+
+Document 11
+
+Filed 10/26/2007
+
+Page 31 of 34
+
+CONCLUSION
+For the foregoing reasons, defendants respectfully request that the Court deny plaintiff’s
+Motion To Remand in its entirety.
+
+Dated: October 26, 2007
+/s/ Peter K. Vigeland
+Charles C. Platt
+Peter K. Vigeland
+Daniel C. Richenthal
+WILMER CUTLER PICKERING HALE AND
+DORR LLP
+399 Park Avenue
+New York, New York 10022
+(212) 230-8800
+Attorneys for Defendants
+BEAR STEARNS ASSET MANAGEMENT;
+BEAR, STEARNS SECURITIES CORP.;
+THE BEAR STEARNS COMPANIES INC.: and
+BEAR, STEARNS & CO. INC.
+
+25
+
+Case 1:07-cv-07783-AKH
+
+Document 11
+
+Filed 10/26/2007
+
+Page 32 of 34
+
+Dated: October 26, 2007
+/s/ Edward J.M. Little
+Edward J.M. Little
+Jason A. Masimore
+HUGHES HUBBARD & REED LLP
+One Battery Park Plaza
+New York, New York 10004
+(212) 837-6400
+Attorneys for Defendant
+RALPH CIOFFI
+
+26
+
+Case 1:07-cv-07783-AKH
+
+Document 11
+
+Filed 10/26/2007
+
+Dated: October 26, 2007
+/s/ Catherine L. Redlich
+Catherine L. Redlich
+DRISCOLL & REDLICH
+521 Fifth Avenue, Suite 3300
+New York, New York 10175
+(212) 986-4030
+Attorney for Defendant
+RAYMOND MCGARRIGAL
+
+27
+
+Page 33 of 34
+
+Case 1:07-cv-07783-AKH
+
+Document 11
+
+Filed 10/26/2007
+
+Dated: October 26, 2007
+/s/ Nina Beattie
+Nina Beattie
+Theresa Trzaskoma
+BRUNE & RICHARD LLP
+80 Broad Street
+New York, New York 10004
+(212) 668-1900
+Attorneys for Defendant
+MATTHEW TANNIN
+
+28
+US1DOCS 6418005v14
+
+Page 34 of 34
+
+

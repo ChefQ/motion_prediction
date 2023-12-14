@@ -1,0 +1,1279 @@
+Case 1:09-cv-02242-RJS
+
+Document 21
+
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+----------------------------------------------------------- x
+:
+AURELIUS CAPITAL MASTER, LTD.,
+:
+et al.,
+:
+:
+Plaintiffs,
+:
+:
+–against–
+:
+:
+MBIA INC., et al.,
+:
+:
+Defendants.
+:
+:
+----------------------------------------------------------- x
+
+Filed 05/06/2009
+
+Page 1 of 32
+
+09 Civ. 2242 (RJS)
+
+MEMORANDUM OF LAW IN SUPPORT OF
+DEFENDANTS' MOTION TO DISMISS
+
+Jonathan D. Siegfried
+John M. Nonna
+Lawrence A. Larose
+Dewey & LeBoeuf LLP
+1301 Avenue of the Americas
+New York, NY 10019
+Telephone: (212) 259-8000
+Facsimile: (212) 259-8500
+Attorneys for Defendants
+
+Case 1:09-cv-02242-RJS
+
+Document 21
+
+Filed 05/06/2009
+
+Page 2 of 32
+
+TABLE OF CONTENTS
+Page
+PRELIMINARY STATEMENT .....................................................................................................1
+STATEMENT OF FACTS ..............................................................................................................5
+A.
+
+The Parties ....................................................................................................................5
+
+B.
+
+Transformation .............................................................................................................5
+
+C.
+
+The Approval of the New York State Department of Insurance ..................................7
+
+D.
+
+The Allegations of the Complaint.................................................................................9
+
+ARGUMENT.................................................................................................................................12
+I.
+
+THE COMPLAINT SHOULD BE DISMISSED AS AN IMPROPER
+COLLATERAL ATTACK ON THE DECISION OF THE NEW YORK
+SUPERINTENDENT OF INSURANCE.............................................................................12
+
+II.
+
+UNDER BURFORD v. SUN OIL, THE COURT SHOULD ABSTAIN IN FAVOR
+OF STATE COURT REVIEW OF THE NEW YORK STATE INSURANCE
+DEPARTMENT'S ADMINISTRATIVE DETERMINATIONS AND DISMISS
+THE COMPLAINT..............................................................................................................16
+
+III.
+
+A.
+
+Adequate State Court Review Is Available In an Article 78 Proceeding ...................18
+
+B.
+
+New York Has a Complex, Extensive Insurance Regulatory Scheme .......................18
+
+C.
+
+The Superintendent Must Make Discretionary Interpretations of New York
+Insurance Laws ...........................................................................................................19
+
+D.
+
+Insurance Regulation Is Traditionally a State Concern ..............................................20
+
+THE COMPLAINT SHOULD BE DISMISSED FOR FAILURE TO STATE A
+CLAIM PURSUANT TO FED. R. CIV. P. 12(b)(6)...........................................................21
+A.
+
+Counts I and II for Fraudulent Conveyance and Constructive Fraudulent
+Conveyance Fail to State a Claim...............................................................................21
+
+B.
+
+Count III for Breach of the Implied Covenant of Good Faith and Fair Dealing
+Fails to State a Claim..................................................................................................23
+
+CONCLUSION..............................................................................................................................25
+
+i
+
+Case 1:09-cv-02242-RJS
+
+Document 21
+
+Filed 05/06/2009
+
+Page 3 of 32
+
+TABLE OF AUTHORITIES
+CASES
+
+Page(s)
+
+ARI and Co., Inc. v. Regent Int'l Corp., 273 F. Supp. 2d 518 (S.D.N.Y. 2003) ................24
+ATSI Commc'ns. Inc. v. Shaar Fund, Ltd., 493 F.3d 87 (2d Cir. 2007).............................21
+Academic Health Prof'ls Ins. Ass'n. v. MQ of New York, Inc., No. 01 Civ. 605452,
+2003 WL 25668211 (N.Y. Sup. Ct. Apr. 14, 2003)...............................................12, 13
+Alliance of Am. Insurers v. Cuomo, 854 F.2d 591 (2d Cir. 1988) .....................................19
+Am. Centennial Ins. Co. v. Armco, Inc., 746 F. Supp. 350 (S.D.N.Y. 1990)...............20, 21
+Ass'n for Cmty. Reform Now v. Bloomberg, 824 N.Y.S.2d 752,
+2006 WL 2686520 (N.Y. Sup. Ct. Sept. 19, 2006)......................................................14
+Bell Atlantic Corp. v. Twombly, 550 U.S. 544 (2007) .............................................4, 21, 23
+Bethpage Lutheran Serv. Inc. v. Weicker, 965 F.2d 1239 (2d Cir. 1992)....................17, 18
+Brass v. Am. Film Techs., Inc., 987 F.2d 142 (2d Cir. 1993) ..............................................2
+Brawer v. Johnson, 647 N.Y.S.2d 553, 231 A.D.2d 664 (2d Dept. 1996) ........................14
+Brillhart v. Excess Ins. Co., 316 U.S. 491 (1942) .............................................................17
+Brown v. AXA Re, No. 02 Civ. 10138, 2004 WL 941959
+(S.D.N.Y. May 3, 2004)...............................................................................................24
+Burford v. Sun Oil Co., 319 U.S. 315 (1943).................................................................4, 16
+Caldwell Trucking PRP Group v. Spaulding Composites Co.,
+890 F. Supp. 1247 (D.N.J. 1995) .................................................................................11
+Colo. River Water Conservation Dist. v. United States, 424 U.S. 800 (1976) ..................16
+Concepcion v. City of New York, No. 05 Civ. 8501,
+2008 WL 2020363 (S.D.N.Y. May 7, 2008) ...............................................................21
+Consumers Union of U.S., Inc. v. New York, 840 N.E.2d 68 (N.Y. 2005) ........................15
+Corcoran v. Ardra Ins. Co., 842 F.2d 31 (2d Cir. 1988) ...................................................17
+Cortec Indus., Inc. v. Sum Holding L.P., 949 F.2d 42 (2d Cir. 1991) .................................2
+
+ii
+
+Case 1:09-cv-02242-RJS
+
+Document 21
+
+Filed 05/06/2009
+
+Page 4 of 32
+
+In re East New York Sav. Bank Depositors Litig., 547 N.Y.S.2d 497
+(N.Y. Sup. Ct. 1989) ....................................................................................................14
+Easter v. Am. W. Fin., 202 F. Supp. 2d 1150 (W.D. Wash. 2002) ....................................17
+In re Empire Blue Cross & Blue Shield Customer Litig., 622 N.Y.S.2d 843
+(N.Y. Sup. Ct. 1994) ....................................................................................................13
+Fiala v. Metro. Life Ins. Co., 776 N.Y.S.2d 29, 6 A.D.3d 320
+(1st Dept. 2004) .......................................................................................................4, 12
+Filetech S.A. v. Fr. Telecom S.A., 157 F.3d 922 (2d Cir. 1998) ..........................................2
+Hanlin Group, Inc. v. Power Auth. of New York, 703 F. Supp. 305
+(S.D.N.Y. 1989) ...........................................................................................................18
+Hirsch v. Arthur Andersen & Co., 72 F.3d 1085 (2d Cir. 1995) .......................................22
+Iqbal v. Hasty, 490 F.3d 143 (2d Cir. 2007) ......................................................................21
+JPMorgan Chase Bank, N.A. v. IDW Group, LLC, No. 08 Civ. 9116,
+2009 WL 321222 (S.D.N.Y. Feb. 09, 2009)................................................................25
+Lac D'Amiante Du Quebec, Ltee v. Am. Home Assur. Co., 864 F.2d 1033
+(3d Cir. 1988)...............................................................................................................21
+Law Enforcement Ins. Co. v. Corcoran, 807 F.2d 38 (2d Cir. 1986) ........17, 18, 19, 20, 21
+Levy v Lewis, 635 F.2d 960 (2d Cir. 1980)..................................................4, 17, 18, 19, 20
+Long v. Marubeni Am. Corp., No. 05 Civ. 0639, 2006 WL 1716878
+(S.D.N.Y. Jun. 20, 2006) .............................................................................................25
+Louisiana Power & Light Co. v. City of Thibodaux, 360 U.S. 25 (1959) .........................16
+Marine Midland Bank v. Home Insurance Co., 693 N.Y.S.2d 550, 263 A.D.2d
+374 (1st Dept. 1999) ....................................................................................................14
+Mass. Mut. Life Ins. Co. v. Thacher, 222 N.Y.S.2d 339, 15 A.D.2d 242 (1st Dept.
+1961) ......................................................................................................................16, 17
+McLoughlin v. People's United Bank, Inc., 586 F. Supp. 2d 70 (E.D.N.Y. 2008) ..............3
+Med. Soc'y of State v. Serio, 800 N.E.2d 728 (N.Y. 2003)................................................17
+
+iii
+
+Case 1:09-cv-02242-RJS
+
+Document 21
+
+Filed 05/06/2009
+
+Page 5 of 32
+
+In re MetLife Demutualization Litig., 156 F. Supp. 2d 254 (E.D.N.Y. 2001) .....................2
+Moses H. Cone Mem'l Hosp. v. Mercury Constr. Corp, 460 U.S. 1 (1983) ......................21
+Muller-Paisner v. TIAA, 446 F. Supp. 2d 221 (S.D.N.Y. 2006)..........................................2
+New Orleans Public Serv., Inc. v. Council of New Orleans,
+491 U.S. 350 (1989).....................................................................................................16
+Prior v. Board of Trustees of New York Fire Department Pension Fund,
+800 N.Y.S.2d 355 (N.Y. Sup. Ct. 2004) ......................................................................15
+Quackenbush v. Allstate Ins. Co., 517 U.S. 706 (1996) ..............................................16, 17
+Rowe v. Great Atl. & Pac. Tea Co., Inc., 385 N.E.2d 566 (N.Y. 1978) ............................24
+Ruotolo v. City of New York, 514 F.3d 184 (2d Cir. 2008)................................................21
+San Leandro Emergency Med. Group Profit Sharing Plan v. Philip Morris Cos.,
+75 F.3d 801 (2d Cir. 1996)...........................................................................................11
+SEC v. Nat'l Sec., Inc., 393 U.S. 453 (1969) .....................................................................20
+Serio v. Black, Davis & Shue Agency, Inc., No. 97 Civ. 4914,
+2005 WL 2560390 (S.D.N.Y. Oct. 11, 2005) ..............................................................19
+Shah v. Metro. Life Ins. Co., No. 00 Civ. 108887,
+2003 WL 728869 (N.Y. Sup. Ct. Feb. 21, 2003).....................................3, 4, 12, 13, 15
+In re Sharp Int'l Corp., 403 F.3d 43 (2d Cir. 2005)...........................................................22
+State Farm Mutual Automobile Insurance Co. v. Levin, 702 N.Y.S.2d 694,
+263 A.D.2d 233 (3d Dept. 2000) .................................................................................15
+State v. Khan, 615 N.Y.S.2d 771, 206 A.D.2d 732 (3d Dept. 1994).................................14
+Steen v. Quaker State Corp., 785 N.Y.S.2d 551, 12 A.D.3d 989
+(3d Dept. 2004) ...........................................................................................................14
+Stephens v. Cooper, 746 F. Supp. 292 (E.D.N.Y. 1990) .........................................4, 18, 19
+Sun Oil Co. v. Burford, 130 F.2d 10 (5th Cir. 1942) .........................................................18
+Tang v. Jinro Am., Inc., No. 03 Civ. 6477, 2008 WL 4163183
+(E.D.N.Y. Sept. 4, 2008)..............................................................................................24
+
+iv
+
+Case 1:09-cv-02242-RJS
+
+Document 21
+
+Filed 05/06/2009
+
+Page 6 of 32
+
+Travelers Ins. Co. v. Home Ins. Co., No. 98 Civ. 9709,
+1999 U.S. Dist. LEXIS 5523 (C.D. Cal. Feb. 22, 1999)..............................................20
+Warner Theatre Assocs. Ltd. v. Metro. Life Ins. Co., No. 97 Civ. 4914,
+1997 WL 685334 (S.D.N.Y. Nov. 4, 1997).................................................................25
+Wilton v. Seven Falls Co., 515 U.S. 277 (1995) ................................................................17
+Wolff v. Rare Medium, Inc., 210 F. Supp. 2d 490 (S.D.N.Y. 2002) ............................24, 25
+STATUTES AND RULES
+McCarran-Ferguson Act, 15 U.S.C. § 1101, et seq ...........................................................20
+N.Y. Debt. & Cred. Law §§ 273-276.............................................................................9, 22
+N.Y. Ins. Law § 201 (McKinney 2006) ...................................................................7, 12, 16
+N.Y. Ins. Law § 301, et seq. (McKinney 2006).................................................................16
+N.Y. Ins. Law § 326 (McKinney 2006) .............................................................3, 14, 15, 18
+N.Y. Ins. Law § 1308 (McKinney 2006) .................................................................8, 12, 19
+N.Y. Ins. Law § 1309(a) (McKinney 2006).................................................................10, 23
+N.Y. Ins. Law § 1411(d) (McKinney 2006) ............................................................8, 12, 19
+N.Y. Ins. Law § 1505(a) (McKinney 2006).............................................................8, 12, 19
+N.Y. Ins. Law § 1505(d) (McKinney 2006) ..................................................................8, 12
+N.Y. Ins. Law § 1505(e) (McKinney 2006).......................................................................19
+N.Y. Ins. Law § 4105(a) (McKinney 2006).............................................................8, 12, 19
+N.Y. Ins. Law § 6904 (McKinney 2006) ...........................................................................19
+N.Y. Ins. Law § 6906 (McKinney 2006) .................................................................8, 12, 19
+N.Y. Ins. Law § 7101(g) (McKinney 2006) ......................................................................19
+N.Y. Ins. Law § 7105(a) (McKinney 2006).......................................................................19
+N.Y. Ins. Law Art. 15 (McKinney 2006)...........................................................................19
+
+v
+
+Case 1:09-cv-02242-RJS
+
+Document 21
+
+Filed 05/06/2009
+
+Page 7 of 32
+
+N.Y. Ins. Law Art. 71 (McKinney 2006)...........................................................................19
+N.Y. C.P.L.R. (McKinney 2009) § 7803(3) ......................................................................15
+N.Y. C.P.L.R. (McKinney 2009) § 7803(4) ......................................................................15
+N.Y. C.P.L.R. (McKinney 2009) § 7804(g) ......................................................................15
+Fed. R. Civ. P. 12(b)(1)....................................................................................................1, 2
+Fed. R. Civ. P. 12(b)(6)..............................................................................................1, 2, 21
+
+vi
+
+Case 1:09-cv-02242-RJS
+
+Document 21
+
+Filed 05/06/2009
+
+Page 8 of 32
+
+Defendants MBIA Inc. ("MBIA Inc."), MBIA Insurance Corporation ("MBIA
+Insurance"), and MBIA Insurance Corporation of Illinois, now known as National Public
+Finance Guarantee Corporation ("MBIA Illinois") (collectively, "Defendants" or the "MBIA
+Group") submit this Memorandum of Law in support of their motion, pursuant to Rules 12(b)(1)
+and (6) of the Federal Rules of Civil Procedure, to dismiss the Complaint for lack of subject
+matter jurisdiction and failure to state a claim.
+PRELIMINARY STATEMENT
+This lawsuit constitutes an improper attempt by Plaintiffs to bypass the state
+channels of review established by the New York State Legislature – and recognized by this Court
+and the Second Circuit – for challenging determinations made by the New York State
+Superintendent of Insurance (the "Superintendent") pursuant to New York's complex and
+comprehensive insurance regulatory scheme. No matter what labels Plaintiffs attach to their
+claims, the inescapable fact is that Plaintiffs ask this Court to unwind and set aside a series of
+transactions (the "Transactions") which were expressly approved by the Superintendent after
+lengthy and thorough review by the New York State Department of Insurance (the
+"Department").
+The Complaint in this action ignores entirely any mention of the Superintendent's
+approval. It fails to attach the Superintendent's letter setting forth his approval (the "Approval
+Letter"), or even acknowledge that these Transactions were undertaken by the MBIA Group only
+after securing the Superintendent's approval.1 It also does not state what the Approval Letter
+
+1
+
+A copy of the Superintendent's Approval Letter, which is a matter of public record, has been available to
+Plaintiffs since it was issued on February 17, 2009 and has been posted on the MBIA Group's website since
+March 3, 2009, prior to Plaintiffs bringing this suit. The Approval Letter is annexed as Exhibit A to the
+Declaration of Jonathan D. Siegfried dated May 6, 2009 ("Siegfried Decl."). This Court may consider such a
+document in connection with Defendants' motion to dismiss for lack of subject matter jurisdiction under Federal
+
+continued on the following page…
+
+Case 1:09-cv-02242-RJS
+
+Document 21
+
+Filed 05/06/2009
+
+Page 9 of 32
+
+makes clear: that the Superintendent and the Department carefully analyzed each Transaction
+now challenged by Plaintiffs under very specific, detailed and interrelated statutory provisions of
+New York Insurance Law. After completing that review, the Superintendent determined that the
+Transactions complied in all respects with New York law. He specifically found that the
+Transactions (1) did not, as Plaintiffs allege, render MBIA Insurance insolvent, (2) were "fair
+and equitable" as to their terms, and (3) did not "adversely affect the interests of policyholders."
+(See Siegfried Decl., Exh. A p.9). As detailed in the Approval Letter, the Superintendent
+reached these determinations based upon the Department's own extensive and independent
+investigation and analysis of the Transactions, including an examination of the books and records
+of MBIA Insurance, the Department's assessment of the financial condition of MBIA Insurance,
+both prior to and after the Transformation, and the Department's "expertise and knowledge about
+insurance companies, the business of insurance and reinsurance and the market for reinsurance."
+(Id. p.7).
+The Transactions approved by the Superintendent allowed the MBIA Group to
+implement a transformation of their business (the "Transformation") following which MBIA
+Illinois would maintain and write financial guaranty insurance solely for domestic public finance
+bonds, and MBIA Insurance would maintain and write financial guaranty insurance for
+structured finance and international products, each with adequate capital and surplus to support
+the obligations insured. Pursuant to the Transactions, MBIA Illinois assumed and reinsured over
+…continued from the preceding page
+Rule of Civil Procedure 12(b)(1), as well as for failure to state a claim under Rule 12(b)(6), notwithstanding
+Plaintiffs' failure to attach it to the Complaint. See Filetech S.A. v. Fr. Telecom S.A., 157 F.3d 922, 932 (2d Cir.
+1998); Brass v. Am. Film Techs., Inc., 987 F.2d 142, 150 (2d Cir. 1993); Cortec Indus., Inc. v. Sum Holding
+L.P., 949 F.2d 42, 47-48 (2d Cir. 1991); Muller-Paisner v. TIAA, 446 F. Supp. 2d 221, 226-27 (S.D.N.Y. 2006),
+rev’d in part on other grounds, 289 Fed. Appx. 461 (2d Cir. 2008); In re MetLife Demutualization Litig., 156 F.
+Supp. 2d 254, 259 n.1 (E.D.N.Y. 2001).
+
+2
+
+Case 1:09-cv-02242-RJS
+
+Document 21
+
+Filed 05/06/2009
+
+Page 10 of 32
+
+$537 billion of bonds previously insured by MBIA Insurance, reducing the exposure of MBIA
+Insurance to $241 billion of insurance previously written. (Siegfried Decl., Exh. B).2
+Rather than directly challenge these determinations of the Superintendent under
+the judicial scheme erected by New York for such purpose – namely, a special proceeding in
+New York State Court under Article 78 of the New York Civil Practice Law and Rules
+(McKinney 2009) ("CPLR") naming the Superintendent as defendant – Plaintiffs have, instead,
+brought suit in this Court against the MBIA Group to unwind and set aside the Transactions.
+Notwithstanding this attempted end run, the fact remains that this suit challenges the
+Superintendent's approval of Transactions falling directly within his supervisory and regulatory
+authority. As such, the Complaint must be dismissed for at least three independent reasons:
+First, under New York law, the exclusive means for Plaintiffs to challenge the
+Transactions approved by the Superintendent is through an Article 78 proceeding. See N.Y. Ins.
+Law (McKinney 2006) ("Insurance Law") § 326. Plaintiffs may not bring a back door collateral
+attack on his determination by cloaking their claims as a private right of action against the MBIA
+Group and suing in Federal District Court. In asking this Court to declare the Transactions "null
+and void" and to "set them aside," Plaintiffs necessarily challenge the very determinations made
+by the Superintendent in order to approve the Transactions, namely their effect on the solvency
+of MBIA Insurance, the fairness of their terms, and the interests of policyholders. Courts have
+not hesitated to dismiss suits, such as this, which seek to "disregard and bypass the
+Superintendent's position, and bring an action directly against the insurer on the very issues
+necessarily encompassed in that decision." Shah v. Metro. Life Ins. Co., No. 00 Civ. 108887,
+2
+
+The Court may take judicial notice of the press release issued by the Department on February 18, 2009, attached
+as Exhibit B to the Siegfried Declaration, announcing its approval of the Transactions. See McLoughlin v.
+People's United Bank, Inc., 586 F. Supp. 2d 70, 73 (D. Conn. 2008).
+
+3
+
+Case 1:09-cv-02242-RJS
+
+Document 21
+
+Filed 05/06/2009
+
+Page 11 of 32
+
+2003 WL 728869, at *10-11 (N.Y. Sup. Ct. Feb. 21, 2003), rev'd in part on other grounds, Fiala
+v. Metro. Life Ins. Co., 776 N.Y.S.2d 29 (1st Dept. 2004). To permit such suits would allow
+Plaintiffs to violate the statutory language of the Insurance Law and the overall legislative
+scheme established by the New York State Legislature. Accordingly, the Complaint should be
+dismissed as an improper collateral attack on the decision of the Superintendent acting pursuant
+to his regulatory authority.
+Second, the Complaint should be dismissed, and the Court should decline
+jurisdiction, under the abstention doctrine of Burford v. Sun Oil Co., 319 U.S. 315 (1943). As
+the Second Circuit has held in cases similarly challenging determinations made by the
+Superintendent, New York State has a "complex administrative and judicial system for
+regulating … insurance companies" which was "adopted pursuant to congressional
+authorization" and "operates pursuant to an express federal policy of noninterference in
+insurance matters." Levy v Lewis, 635 F.2d. 960, 963 (2d Cir. 1980). Accordingly, "federal
+courts [should] refrain from interfering in cases presenting state law issues relating to complex
+state [insurance] regulations … and for which [New York] state has provided a comprehensive
+regulatory system with channels for review by state courts." Stephens v. Cooper, 746 F. Supp.
+292, 295 (E.D.N.Y. 1990) (citation omitted). That is clearly the case here. The Transactions
+were approved by the Superintendent, under a complex regulatory scheme, and Plaintiffs' state
+law claims are, by statute, expressly subject to judicial review by the New York State courts.
+Finally, Counts I and II of the Complaint should be dismissed under Bell Atlantic
+Corp. v. Twombly, 550 U.S. 544 (2007), as well as Federal Rule of Civil Procedure 9(b), since
+those Counts rest on conclusory allegations unsupported by plausible facts. Count III also fails
+to state a valid cause of action under New York law.
+
+4
+
+Case 1:09-cv-02242-RJS
+
+Document 21
+
+Filed 05/06/2009
+
+Page 12 of 32
+
+Accordingly, for the foregoing reasons, and for the reasons set forth below, this
+action should be dismissed.
+STATEMENT OF FACTS
+A.
+
+The Parties
+The five named Plaintiffs are hedge funds who purport to bring this action on
+
+behalf of all holders of securities and instruments (other than United States municipal and
+government bonds) for which Defendant MBIA Insurance issued financial guarantee insurance.
+Plaintiffs do not allege that they are policyholders themselves. (Complaint ("Compl.") ¶1).3
+The MBIA Group operates insurance businesses through MBIA Insurance and
+MBIA Illinois. (Id. ¶¶19, 20). MBIA Insurance is a New York domiciled insurance company
+subject to New York insurance law and regulation. (Id. ¶19). MBIA Illinois is an Illinois
+domiciled insurance company. (Id. ¶20). MBIA Inc. is a publicly traded company and the
+ultimate parent company of MBIA Insurance and MBIA Illinois. (Id. ¶18).
+B.
+
+Transformation
+MBIA Insurance is a monoline insurer that issues only financial guaranty
+
+insurance, not other types of insurance such as property, casualty, life, health or disability
+insurance. Prior to the Transformation of the MBIA Group, MBIA Insurance offered guarantees
+of payment for, among other things, both public finance bonds (such as municipal and state
+bonds) and structured finance products (such as collateralized debt obligations and mortgage
+backed securities). (Id. ¶19).
+The crisis in U.S. financial markets that became apparent in the late summer of
+2007 adversely affected numerous financial institutions. Most companies in the financial
+3
+
+A copy of the Complaint dated March 11, 2009 is attached as Exhibit C to the Siegfried Declaration.
+
+5
+
+Case 1:09-cv-02242-RJS
+
+Document 21
+
+Filed 05/06/2009
+
+Page 13 of 32
+
+guarantee industry – including MBIA Insurance – were downgraded by both Standard & Poor's
+and Moody's and suspended writing new structured finance business by mid-2008. (See, e.g., id.
+¶34). The ratings downgrades also made it impossible for MBIA Insurance to write new
+business in the municipal and other U.S. public finance markets, and MBIA Insurance had
+minimal prospect of re-entering that market in the future. (See id. ¶35). This abrupt withdrawal
+of insurance capacity had the effect of "freezing out" many municipal and state issuers from the
+public finance market and caused the Superintendent and the Department to undertake actions
+they believed were necessary to stabilize and revitalize the financial guarantee industry.
+(Siegfried Decl., Exh. B). The purpose of the Transformation -- which was discussed with the
+Department throughout 2008 -- was, therefore, simple: to establish MBIA Illinois as a separate
+insurance company that only insures domestic public finance obligations. As such, it could help
+provide lower-cost funds to public issuers and thus facilitate the "unfreezing" of the U.S. public
+finance and infrastructure markets. At the same time, the Transformation would preserve MBIA
+Insurance as a well-capitalized, solvent insurer. (Id.) As the Superintendent stated:
+This is a private sector solution to a public sector concern. It preserves
+MBIA's promises to policyholders, while reducing costs and increasing
+opportunities for taxpayers. It will aid the federal stimulus efforts by
+providing access to the credit markets to fund shovel-ready infrastructure
+development, and it will help taxpayers by lowering the cost of that
+borrowing. At a time when the demands on the public purse have never
+been heavier, this plan accomplishes these goals solely with private
+capital.
+(Seigfried Decl., Exh. B).4
+
+4
+
+Far from leaving MBIA Insurance a "looted company … without the ability to pay" its policyholder claims,
+Compl. ¶20, the Superintendent and Department found, as more fully described infra, that following the
+Transformation, MBIA Insurance would have sufficient surplus to pay all of its existing obligations to the
+policyholders and others. (Siegfried Decl., Exhs. A p.6; B).
+
+6
+
+Case 1:09-cv-02242-RJS
+
+C.
+
+Document 21
+
+Filed 05/06/2009
+
+Page 14 of 32
+
+The Approval of the New York State Department of Insurance
+After almost a year of consultations with the Superintendent and the Department,
+
+on December 5, 2008, the MBIA Group submitted a detailed application to the Department
+seeking its approval of the Transactions necessary to implement the Transformation. Pursuant to
+Insurance Law § 201, the Department is responsible for supervising and regulating all insurance
+business in New York State, and the Superintendent possesses "the rights, powers, and duties, in
+connection with the business of insurance in this state, expressed or reasonably implied by [the
+Insurance Law] or any other applicable law of this state." Accordingly, under § 201 and the
+statutory provisions of the Insurance Law set forth below, the Superintendent was required to
+approve the Transactions at issue here before they could be implemented.
+Following the MBIA Group's submission of its application, the Department, over
+the next two (2) months, continued to conduct an extensive review of the application and an
+independent investigation of the MBIA Group, including an examination of each of their books
+and records and reserving methodologies. Only after this review and investigation was
+completed did the Superintendent issue specific written findings and determinations, in a letter
+dated February 17, 2009, approving the Transactions. (Siegfried Decl., Exh. A). Thereafter, the
+Transactions were undertaken, and the Transformation implemented, according to the explicit
+authorization given to the MBIA Group by the Superintendent in the Approval Letter. In
+approving the Transactions, the Superintendent and the Department made the following
+determinations directly relevant to this motion and warranting dismissal of this lawsuit:
+a.
+
+The MBIA Insurance Dividend
+
+The Superintendent approved the distribution of a dividend of approximately
+$1.147 billion in cash and securities from MBIA Insurance to MBIA Inc. As set forth below,
+this Transaction is now challenged by Plaintiffs. (Compl. ¶45). The Superintendent analyzed
+
+7
+
+Case 1:09-cv-02242-RJS
+
+Document 21
+
+Filed 05/06/2009
+
+Page 15 of 32
+
+this transaction under the statutory requirements of Insurance Law § 4105(a), and issued his
+approval after finding (as required by the Insurance Law) that "MBIA [Insurance] will retain
+sufficient surplus to support its obligations and writings following the payment of the MBIA
+[Insurance] Dividend." The Superintendent reached this determination based upon the
+Department's independent analysis of, among other things, "the MBIA Entities' financial
+condition prior to the Transformation, and … after the effectuation of the Transformation."
+(Siegfried Decl., Exh. A p.6).
+b.
+
+The Stock Redemption
+
+The Superintendent approved the redemption by MBIA Insurance of 32,064
+shares of its capital stock from MBIA Inc. in exchange for approximately $938 million in cash
+and securities and the outstanding shares of MBIA Illinois owned by MBIA Insurance. As set
+forth below, these Transactions are also challenged in the Complaint. (Compl. ¶40). The
+Superintendent analyzed these transactions under the statutory requirements of Insurance Law
+§ 1411(d), and issued his approval after expressly finding (as required by the Insurance Law) that
+they were "reasonable and equitable." The determination was based on, among other things, "the
+Department's examination of the MBIA Entities' financial condition prior to the Transformation,
+and … after the effectuation of the Transformation." (Siegfried Decl., Exh. A p.6).
+c.
+
+The Reinsurance Agreement
+
+The Superintendent approved the terms of the reinsurance agreement (the
+"Reinsurance Agreement") also now challenged by Plaintiffs, pursuant to which MBIA Illinois
+assumed and reinsured $537 billion in bonds previously insured by MBIA Insurance. (See
+Compl. ¶41). The Superintendent analyzed this Transaction under the statutory requirements of
+Insurance Law §§ 1308, 1505(a) and (d), and 6906 and issued his approval based upon the
+following:
+
+8
+
+Case 1:09-cv-02242-RJS
+
+Document 21
+
+Filed 05/06/2009
+
+Page 16 of 32
+
+-
+
+The Department's independent "examination of the MBIA Entities'
+financial condition prior to … [and] after the consummation of the
+Reinsurance Transaction."
+
+-
+
+The Department's "expertise and knowledge about insurance
+companies, the business of insurance and reinsurance, and the
+market for reinsurance."
+
+-
+
+The Department's determination that the terms of the Transaction
+are "fair and equitable," that the "[c]harges for fees and services
+performed [are] 'reasonable'," that "[e]xpenses incurred and
+payment received [are] allocated to [MBIA Insurance] on an
+equitable basis," and that the Transaction would not "adversely
+affect the interests of policyholders," such as Plaintiffs purport to
+represent here.
+
+(Siegfried Decl., Exh. A p.7).
+The Department further found that "the Reinsurance Agreement incorporates by
+reference all New York statutes and Department regulations necessary for MBIA [Insurance] to
+realize full credit for the reinsurance being provided," and that MBIA Insurance "will receive full
+financial credit, including the ability to release all unearned premiums, contingency and other
+reserves applicable to the policies ceded pursuant to the MBIA Reinsurance Agreement." (Id.
+p.8). Thus, MBIA Insurance was relieved of over $537 billion of liabilities, which were assumed
+and reinsured by MBIA Illinois. (Siegfried Decl., Exh. B).
+D.
+
+The Allegations of the Complaint
+Plaintiffs allege that the Transactions approved by the Superintendent were either
+
+actual or constructive "fraudulent transfers" that violated §§ 273 through 276 of the New York
+Debtor and Creditor Law. (Compl. ¶¶71-85). With much hyperbole and no facts, Plaintiffs
+claim that the Transactions were made while MBIA Insurance was insolvent or that they
+rendered MBIA Insurance insolvent, leaving MBIA Insurance unable to pay its obligations as
+they become due.
+
+9
+
+Case 1:09-cv-02242-RJS
+
+Document 21
+
+Filed 05/06/2009
+
+Page 17 of 32
+
+In making these allegations, Plaintiffs do not – because they cannot – cite to a
+single financial obligation that MBIA Insurance has failed to meet, either before or after the
+Transactions, much less a failure to pay principal or interest under any of the financial guarantee
+policies it has issued.
+It is also beyond peradventure that whether MBIA Insurance would be solvent –
+and able to meet its obligations after the Transactions were consummated – was the key issue
+decided by the Superintendent and the Department. As set forth supra, the Superintendent gave
+his approval only after the Department conducted an independent examination of the financial
+condition of MBIA Insurance, and only after concluding that MBIA Insurance would remain
+fully solvent and able to meet its obligations. As the Superintendent stated:
+Both MBIA [Insurance] and [MBIA Illinois] will continue to pay all valid
+claims in a timely fashion, and both entities will have sufficient resources
+to meet policyholder claims as they come due. Consistent with New York
+State Insurance Law, the New York State Insurance Department only
+approved the transaction after deciding that both companies would have
+sufficient statutory capital to meet the letter and spirit of the Insurance
+Law. The review and study process lasted approximately one year.
+(Siegfried Decl., Exh. B).5
+In asking this Court to set aside the Transactions under the New York Debtor and
+Creditor Law, Plaintiffs are either asking this Court to overrule these determinations of the
+Superintendent in a proceeding to which the Superintendent is not a party or to ignore the
+Superintendent's determination entirely and make its own parallel determination under New
+York law. The Court should reject Plaintiffs' invitation to do so and dismiss the Complaint, as
+
+5
+
+Under Insurance Law § 1309(a), the Superintendent is charged with determining whether an insurance company
+is or will be insolvent and proceeding against any insurance company under Article 74 of the Insurance Law if
+he has any insolvency concerns.
+
+10
+
+Case 1:09-cv-02242-RJS
+
+Document 21
+
+Filed 05/06/2009
+
+Page 18 of 32
+
+more fully discussed below, under the collateral attack doctrine or under Burford abstention
+principles.
+Plaintiffs further allege that the Transactions violate the implied covenant of good
+faith and fair dealing in the policies insuring the securities they purport to own, because,
+according to Plaintiffs, subsequent to the Transactions the credit ratings for the underlying
+securities which they purport to own were downgraded. (Id. ¶81-85). Plaintiffs, however, do not
+attach the MBIA Insurance policies to the Complaint – and for good reason. As set forth below
+and in Exhibit D to the Siegfried Declaration, the standard policy issued by MBIA Insurance
+guarantees one thing and one thing only: the timely payment of principal and interest on the
+insured instruments. 6 It contains no guaranty, express or implied, of a particular credit rating for
+those instruments.7 Thus, the Superintendent's determination that MBIA Insurance continues to
+have sufficient surplus to meet all of its obligations under the policies it issues, as well as his
+determination that the Transactions do not "adversely affect the interests of policyholders,"
+necessarily encompasses the issues raised in Plaintiffs' breach of contract claim and can only
+properly be challenged in an Article 78 proceeding. Moreover, as discussed in Point III infra,
+the law is clear that courts will not rewrite or interpret an agreement between sophisticated
+parties, such as the parties here, to implicitly impose an obligation the parties did not include.
+
+6
+
+The Court may consider the policy on this motion since it is incorporated by reference in the Complaint. See
+San Leandro Emergency Med. Group Profit Sharing Plan v. Philip Morris Cos., 75 F.3d 801, 808-09 (2d Cir.
+1996); Caldwell Trucking PRP Group v. Spaulding Composites Co., 890 F. Supp. 1247, 1252 (D.N.J. 1995).
+
+7
+
+Nor could MBIA Insurance guarantee or promise any particular ratings, since the ratings are established by
+independent third-party rating companies. In fact, Plaintiffs themselves concede that MBIA Insurance's credit
+rating was downgraded by the rating agencies in early 2008, almost a year before the Transactions they now
+challenge. (Compl. ¶34). Furthermore, the ratings issued by the rating agencies subsequent to the
+Transformation reflect their own independent determination that MBIA Insurance is solvent.
+
+11
+
+Case 1:09-cv-02242-RJS
+
+Document 21
+
+Filed 05/06/2009
+
+Page 19 of 32
+
+Accordingly, this Court should dismiss the Complaint (a) as an improper
+collateral attack on the determinations of the Superintendent, (b) under well-established
+principles of abstention, and (c) for failure to properly plead and state a claim under both the
+Federal Rules of Civil Procedure and New York State law.
+ARGUMENT
+I.
+THE COMPLAINT SHOULD BE DISMISSED AS AN IMPROPER COLLATERAL
+ATTACK ON THE DECISION OF THE NEW YORK SUPERINTENDENT OF
+INSURANCE
+Notwithstanding the labels attached to their causes of action, Plaintiffs cannot
+dispute that this lawsuit, as set forth above, challenges decisions made by the Superintendent on
+issues falling directly within his supervisory or regulatory authority pursuant to §§ 201, 1308,
+1411(d), 1505(a) and (d), 4105(a) and 6906 of the Insurance Law. In their Prayer for Relief,
+Plaintiffs specifically request that this Court annul the decisions of the Superintendent and the
+Department by declaring the MBIA Insurance Dividend, the Stock Redemption, the transfer of
+MBIA Illinois stock to MBIA Inc., and the Reinsurance Transaction "null and void" and "setting
+them aside."
+The Complaint, as such, is an impermissible collateral attack on the decisions of
+the Superintendent and must be dismissed. Fiala v. Metro. Life Ins. Co., 776 N.Y.S.2d 29, 31, 6
+A.D.3d 320, 322 (1st Dept. 2004) (upholding dismissal of claims against insurer for breach of
+contract, breach of fiduciary duty and fraud as "collateral attacks on the Superintendent's
+approval" of the insurer's demutualization plan); Shah v. Metro. Life Ins. Co., 2003 WL 728869,
+at *10-11 (N.Y. Sup. Ct. Feb. 21, 2003) ("claim … directed at the very issues … considered and
+addressed by the Superintendent in his review and approval of the Plan … constitutes a collateral
+attack on that decision"); Academic Health Prof'ls Ins. Ass'n. v. MQ of New York, Inc., No. 01
+
+12
+
+Case 1:09-cv-02242-RJS
+
+Document 21
+
+Filed 05/06/2009
+
+Page 20 of 32
+
+Civ. 605452, 2003 WL 25668211 (N.Y. Sup. Ct. Apr. 14, 2003) ("arguments are not considered
+here because they are an impermissible collateral attack on the Superintendent's decision"); In re
+Empire Blue Cross & Blue Shield Customer Litig., 622 N.Y.S.2d 843, 846-47 (N.Y. Sup. Ct.
+1994).
+As the Court held in Shah, 2003 WL 728869, at *12:
+[P]laintiffs have indicated nothing in either the statute, or its legislative
+history, from which a private right of action, asserted directly against [the
+insurer], could be maintained on those very issues which fall directly
+within the supervisory or regulatory authority of the Superintendent. To
+the extent that plaintiffs feel that the Superintendent's determination of
+these issues was improper, they are authorized to bring an Article 78
+proceeding to challenge such determination. Permitting plaintiffs to
+simply disregard and bypass the Superintendent's decision, and bring an
+action directly against [the insurer] on the very issues necessarily
+encompassed in that decision, would not be consistent with the overall
+legislative scheme.
+Indeed, to hold otherwise and permit this action to proceed against an insurer who
+relied in good faith on the approvals of the Superintendent and the Department would undermine
+both the authority of the Superintendent and the legislative scheme for regulation of insurance
+companies in New York.
+The fact that Plaintiffs have brought their claims as violations of the Debtor and
+Creditor Law and under common law is legally irrelevant. As the court held in Shah, "Even
+though couched in terms of breach of fiduciary duty or fraud, a claim which seeks, indirectly, to
+challenge the sufficiency of a Plan which was approved by the Superintendent, constitutes a
+collateral attack on that approval, and must be made in an Article 78 proceeding." Id. at *13.
+Here, the critical issues upon which Plaintiffs' claims rest – i.e., whether the Transactions
+rendered MBIA Insurance insolvent and whether they adversely affected the interests of
+policyholders – were all considered and squarely addressed by the Superintendent in his decision
+
+13
+
+Case 1:09-cv-02242-RJS
+
+Document 21
+
+Filed 05/06/2009
+
+Page 21 of 32
+
+and approval. Accordingly, since Plaintiffs' claims collaterally attack the Superintendent's
+Approval, they must be made in an Article 78 proceeding to which the Superintendent is a party.8
+This legal principle, mandating dismissal of claims that are collateral attacks on
+decisions of state regulators, is firmly established under New York law and is not limited in its
+application to the area of insurance law. See, e.g., Brawer v. Johnson, 647 N.Y.S.2d 553, 554,
+231 A.D.2d 664 (2d Dept. 1996) (claims of fraud, misrepresentation and breach of fiduciary duty
+"[i]n essence … constituted a collateral attack on" conversion plan approved by New York State
+Superintendent of Banks which could only be brought as an Article 78 proceeding); In re East
+New York Sav. Bank Depositors Litig., 547 N.Y.S.2d 497, 499 (N.Y. Sup. Ct. 1989) State v.
+Khan, 615 N.Y.S.2d 771, 772, 206 A.D.2d 732, 733 (3d Dept. 1994); Ass'n for Cmty. Reform
+Now v. Bloomberg, 824 N.Y.S.2d 752, 2006 WL 2686520, at *18 (N.Y. Sup. Ct. Sept. 19, 2006);
+Steen v. Quaker State Corp., 785 N.Y.S.2d 551, 552, 12 A.D.3d 989, 990 (3d Dept. 2004).
+These cases also clearly hold that Plaintiffs' exclusive remedy is an Article 78
+proceeding in New York State Court naming the Superintendent, not a back door plenary action
+against the insurer. The New York State Legislature has expressly provided that any person
+aggrieved by a decision of the Superintendent has the right to challenge that decision, whether or
+not they were a party to that determination, or had prior notice of it. Insurance Law § 326.
+("Notwithstanding the specific enumerations of the right to judicial review in this chapter, any
+
+8
+
+The case of Marine Midland Bank v. Home Insurance Co., 693 N.Y.S.2d 550, 551, 263 A.D.2d 374, 374 (1st
+Dept. 1999), cited by Plaintiffs at the Preliminary Conference held by this Court on May 1, 2009, does not
+change this result. In Marine Midland, the Appellate Division allowed a creditor's claim against an insurer to
+proceed only after finding that "the issues in the instant action [are not] the same as those that were before the
+sister State administrative body, which was not bound to consider the interests of creditors. Thus, there is no
+potential for conflict or for subversion of the sister State Order." Id. Here, by contrast and as set forth above,
+the issues before the Court are the very issues considered by the Superintendent, who was also required by the
+Insurance Law to consider the interests of policyholders in connection with the Approval.
+
+14
+
+Case 1:09-cv-02242-RJS
+
+Document 21
+
+Filed 05/06/2009
+
+Page 22 of 32
+
+order, regulation or decision of the superintendent is declared to be subject to judicial review in a
+proceeding under article seventy-eight of the civil practice law and rules.").
+In directing that challenges to the Superintendent's decisions be brought in an
+Article 78 proceeding, Section 326 makes no distinction between decisions that are issued by the
+Superintendent pursuant to provisions of the Insurance Law requiring notice and hearing (see,
+e.g., Shah, 2003 WL 728869, at *2; Consumers Union of U.S., Inc. v. New York, 840 N.E.2d 68,
+74 (N.Y. 2005)), and those that are issued without notice and hearing (see, e.g., Prior v. Board of
+Trustees of New York Fire Department Pension Fund, 800 N.Y.S.2d 355 (N.Y. Sup. Ct. 2004);
+State Farm Mutual Automobile Insurance Co. v. Levin, 702 N.Y.S.2d 694, 697, 263 A.D.2d 233,
+237-38 (3d Dept. 2000)). Under New York's statutory scheme, the only relevance to whether a
+party had notice and an opportunity to be heard prior to the issuance of a decision by the
+Superintendent is whether the challenge will be decided under the legal standard set forth in
+CPLR § 7803(3) (when there has been no notice and hearing) or § 7803(4) (where there has), and
+whether the case will be heard at the trial level of the New York State Supreme Court or at a
+term of the Appellate Division. See CPLR § 7804(g).
+Indeed, Plaintiffs' attempt at the Preliminary Conference to argue that the
+collateral attack doctrine should be limited to cases where the Superintendent issued his decision
+after public notice and hearing is undercut by the very case they cite for this proposition, Shah.
+In Shah, plaintiffs challenged certain aspects of a plan where the Superintendent's approval
+followed a vote by policyholders on the plan and notice and hearing by the Superintendent.
+Shah, 2003 WL 728869, at *4. However, the Shah plaintiffs also challenged an amendment to
+the plan which was approved by the Superintendent subsequent to the policyholder vote and
+without any notice or hearing to plaintiffs by the Superintendent. Id. at *6. The Court dismissed
+
+15
+
+Case 1:09-cv-02242-RJS
+
+Document 21
+
+Filed 05/06/2009
+
+Page 23 of 32
+
+this claim as well as a collateral attack on the decision of the Superintendent that could only be
+brought as an Article 78 proceeding. Id. at *12-13.
+Accordingly, Plaintiffs' collateral attack on these determinations of the
+Superintendent, and their request that this Court set aside the Transactions e approved, should be
+dismissed.
+II.
+UNDER BURFORD v. SUN OIL, THE COURT SHOULD ABSTAIN IN FAVOR OF
+STATE COURT REVIEW OF THE NEW YORK STATE INSURANCE
+DEPARTMENT'S ADMINISTRATIVE DETERMINATIONS AND DISMISS THE
+COMPLAINT
+The Court should also abstain from exercising its jurisdiction in this case under
+the well-established abstention doctrine of Burford and its progeny. Burford v. Sun Oil Co., 319
+U.S. 315 (1943); Quackenbush v. Allstate Ins. Co., 517 U.S. 706 (1996); Louisiana Power &
+Light Co. v. City of Thibodaux, 360 U.S. 25 (1959). As the Supreme Court has held, a federal
+court should decline to interfere with the proceedings or orders of state administrative agencies
+where (1) there are "difficult questions of state law bearing on policy problems of substantial
+public import whose importance transcends the result in the case then at bar," or (2) where the
+"exercise of federal review of the question in a case and in similar cases would be disruptive of
+state efforts to establish a coherent policy with respect to a matter of substantial public concern."
+New Orleans Public Serv., Inc. v. Council of New Orleans, 491 U.S. 350, 361 (1989) ("NOPSI")
+(citing Colo. River Water Conservation Dist. v. United States, 424 U.S. 800, 814 (1976)). That
+is precisely what Plaintiffs ask this Court to do. They request that this Court set aside and
+unwind the Transactions approved by the Superintendent after careful review and an independent
+analysis by the Department in accordance with New York's regulatory scheme as embodied in its
+Insurance Law. See, e.g,. Insurance Law §§ 201, 301, et seq.; Mass. Mut. Life Ins. Co. v.
+
+16
+
+Case 1:09-cv-02242-RJS
+
+Document 21
+
+Filed 05/06/2009
+
+Page 24 of 32
+
+Thacher, 222 N.Y.S.2d 339, 344, 15 A.D.2d 242, 247 (1st Dept. 1961), aff'd, 183 N.E.2d 79
+(N.Y. 1962); Med. Soc'y of State v. Serio, 800 N.E.2d 728, 733 (N.Y. 2003) ("Responsibility for
+administering the Insurance Law rests with the Superintendent of Insurance … who has broad
+power to interpret, clarify and implement the legislative policy").9
+In Levy, 635 F.2d. at 963, the Second Circuit held, in language relevant here, that
+Burford abstention applies to decisions of the Superintendent. As the Court stated:
+New York State has a complex administrative and judicial system for
+regulating … domestic insurance companies. … It is also highly
+significant that the state scheme has been adopted pursuant to
+congressional authorization. In the McCarran-Ferguson Act … Congress
+mandated that regulation of the insurance industry be left to the individual
+states. Thus the administrative and judicial scheme erected by New York
+to regulate insurance companies … operates pursuant to an express federal
+policy of noninterference in insurance matters.
+See also Law Enforcement Ins. Co. v. Corcoran, 807 F.2d 38, 43-44 (2d Cir. 1986); Corcoran v.
+Ardra Ins. Co., 842 F.2d 31, 37 (2d Cir. 1988).
+According to the Court of Appeals, in deciding a motion to abstain, the Court
+should determine whether an adequate state law remedy exists and then weigh three key factors,
+all of which heavily favor abstention here: (1) the "degree of specificity of the state regulatory
+scheme"; (2) the "necessity of a discretionary interpretation" of the state statute; and (3) "whether
+the subject matter of the litigation is traditionally one of state concern." Bethpage Lutheran Serv.
+9
+
+Although Plaintiffs also purport to seek damages for the alleged fraudulent conveyances (Prayer for Relief ¶D),
+Plaintiffs fundamentally seek equitable relief – declarations that the Transactions and the Superintendent's
+determinations approving them are "null and void," and that they be "set aside." (Id. ¶¶B and C). Abstention is
+thus squarely appropriate. See Quackenbush, 517 U.S. at 719-721, 730 (1996) ("We have not strictly limited
+abstention to 'equitable cases' … but rather have extended the doctrine to all cases in which a federal court is
+asked to provide some form of discretionary relief.") (citing, e.g., Thibodaux, 360 U.S. 25). Indeed, abstention
+may be appropriate even in cases involving only money damages. Easter v. Am. W. Fin., 202 F. Supp. 2d 1150,
+1155 (W.D. Wash. 2002) ("it is now well-established that [abstention doctrines, including Burford] apply to
+actions at law"). Additionally, to the extent Plaintiffs’ suit is one for declaratory relief, this Court possesses
+additional discretion to abstain. See Brillhart v. Excess Ins. Co., 316 U.S. 491 (1942); Wilton v. Seven Falls
+Co., 515 U.S. 277 (1995).
+
+17
+
+Case 1:09-cv-02242-RJS
+
+Document 21
+
+Filed 05/06/2009
+
+Page 25 of 32
+
+Inc. v. Weicker, 965 F.2d 1239, 1243 (2d Cir. 1992) (citing Hanlin Group, Inc. v. Power Auth. of
+New York, 703 F. Supp. 305, 308 (S.D.N.Y. 1989)). In this case, an adequate state remedy
+clearly exists since Plaintiffs may (and must) challenge the Transactions in an Article 78
+proceeding in New York State court. Furthermore, each of the three key factors to be considered
+by the Court supports abstention: (1) New York has a complex, detailed insurance regulatory
+scheme, pursuant to which the challenged Transactions were approved; (2) under that scheme,
+the Superintendent, utilizing the Department's specialized expertise, made discretionary
+determinations interpreting the Insurance Law; and (3) the Superintendent made those
+determinations in furtherance of insurance regulatory policy, an area that is unquestionably and
+traditionally one of state concern.10
+A.
+
+Adequate State Court Review Is Available In an Article 78 Proceeding
+As the Second Circuit has held, Plaintiffs have an adequate state law remedy to
+
+challenge decisions of the Superintendent – in this case the Approval of the Transactions –
+through an Article 78 proceeding in New York State court. See Insurance Law § 326; Levy, 635
+F.2d at 963; see also Stephens, 746 F. Supp. at 296; Hanlin, 703 F. Supp. at 308; Law
+Enforcement Ins. Co., 807 F.2d at 43 n.8.
+B.
+
+New York Has a Complex, Extensive Insurance Regulatory Scheme
+As the court observed in Hanlin, "[f]oremost among the factors considered is the
+
+presence of a sophisticated and extensive state regulatory scheme involving a complicated area
+of special state concern." Hanlin, 703 F. Supp. at 308. It is well-settled that "New York has set
+
+10
+
+Just as notice and the availability of a hearing are irrelevant to the "collateral attack" analysis, see Section I,
+supra, so too are they irrelevant to Burford abstention analysis. See Sun Oil Co. v. Burford, 130 F.2d 10, 15
+(5th Cir. 1942) (noting that "[w]hether the Commission heard evidence or not is immaterial; it is not required to
+take testimony or make findings of fact before promulgating its orders"), rev’d on other grounds, 319 U.S. 315,
+334 (1943).
+
+18
+
+Case 1:09-cv-02242-RJS
+
+Document 21
+
+Filed 05/06/2009
+
+Page 26 of 32
+
+up a comprehensive plan of regulation of insurance companies," and courts have considered all
+aspects of insurance regulation to fall within its complexity. Law Enforcement Ins. Co., 807 F.2d
+at 43; see also Levy, 635 F.2d at 963; Alliance of Am. Insurers v. Cuomo, 854 F.2d 591, 600 (2d
+Cir. 1988); Serio v. Black, Davis & Shue Agency, Inc., No. 97 Civ. 4914, 2005 WL 2560390, at
+*3 (S.D.N.Y. Oct. 11, 2005); Stephens, 746 F. Supp. at 294-95.
+To approve the Transactions, the Superintendent was required to determine that
+they complied with New York's complex regulatory scheme. As set forth in the Approval Letter,
+the Superintendent and the Department reviewed the Transactions and issued determinations
+under no less than seven (7) different Articles and Sections of the Insurance Law, including
+Sections 1308, 1411, 4105, 6904, 6906 and Articles 15 and 71, which, in turn, cross-reference
+and require consideration of other Sections and Articles of the Insurance Law. (Siegfried Decl.,
+Exh. A).
+Accordingly, application of this factor dictates in favor of Burford abstention.
+C.
+
+The Superintendent Must Make Discretionary Interpretations of New York
+Insurance Laws
+The Superintendent was required to make discretionary determinations under the
+
+Insurance Law as part of the Approval including, inter alia, (a) what constituted "sufficient
+surplus to support [the insurer's] obligations and writings" (Insurance Law § 4105(a) (emphasis
+added)); (b) whether the "plan of stock redemption and retirement … [was] reasonable and
+equitable" (Insurance Law § 1411(d) (emphasis added)); (c) whether the reinsurance agreement
+would "adversely affect the interests of policyholders," and had terms that were "fair and
+equitable" (Insurance Law § 1505(a)-(e) (emphases added)); and (d) whether, in the aggregate,
+the series of actions in the Transformation constituted a "transfer of all or substantially all of the
+assets "of MBIA Insurance. (Insurance Law §§ 7101(g), 7105(a) (emphasis added)). See
+
+19
+
+Case 1:09-cv-02242-RJS
+
+Document 21
+
+Filed 05/06/2009
+
+Page 27 of 32
+
+Bethpage, 965 F.2d at 1243-44 (where "reasonable persons can disagree as to what constitutes
+reasonable payments," the "statutory framework … necessarily invokes the expertise and best
+judgment of the Commissioner"); see also Travelers Ins. Co. v. Home Ins. Co., 1999 U.S. Dist.
+LEXIS 5523, at *4-6 & n.3 (C.D. Cal. Feb. 22, 1999) (abstaining under Burford where state
+Insurance Department found plan was "fair and reasonable to policyholders," provided "adequate
+policyholder protection," and was "in the best interest of policyholders and the public"). These
+determinations were based, among other things, on the Department's "expertise and knowledge
+about insurance companies, the business of insurance and reinsurance, and the market for
+reinsurance." (Siegfried Decl., Exh. A p.7).
+Accordingly, resolution of this factor, as well, warrants abstention.
+D.
+
+Insurance Regulation Is Traditionally a State Concern
+Finally, it is well established that the regulation of insurance is an area of
+
+exclusive and overriding state concern. Congress enacted the McCarran-Ferguson Act, 15
+U.S.C. § 1101, et seq., for the specific purpose of consigning to the states broad and primary
+responsibility for regulating the insurance industry. See SEC v. Nat'l Sec., Inc., 393 U.S. 453,
+458 (1969); Levy, 635 F.2d at 963 ("The administrative and judicial scheme erected by New
+York to regulate insurance companies … operates pursuant to an express federal policy of
+noninterference in insurance matters."); see also Law Enforcement Ins. Co., 807 F.2d at 44 (the
+McCarran-Ferguson Act embodies the "express federal policy of noninterference in insurance
+matters"); Am. Centennial Ins. Co. v. Armco, Inc., 746 F. Supp. 350, 355-56 (S.D.N.Y. 1990)
+(recounting the history of state primacy in insurance regulation, culminating in the McCarranFerguson Act). Furthermore, as set forth supra, the Superintendent made clear that in approving
+the Transactions, New York State had a strong public interest "as part of the stimulus plan" to
+unfreeze the municipal bond market so that municipalities could "increase spending for
+
+20
+
+Case 1:09-cv-02242-RJS
+
+Document 21
+
+Filed 05/06/2009
+
+Page 28 of 32
+
+infrastructure projects" such as "building bridges or schools, housing or hospitals." (Siegfried
+Decl., Exh. B).
+There are, by contrast, no federal claims asserted in this case. See Lac D'Amiante
+Du Quebec, Ltee v. Am. Home Assur. Co., 864 F.2d 1033, 1044 (3d Cir. 1988) ("federal courts
+more readily abstain from a case that contains no issue of federal law") (citing Moses H. Cone
+Mem'l Hosp. v. Mercury Constr. Corp., 460 U.S. 1, 26 (1983)); see also Law Enforcement Ins.
+Co., 807 F.2d at 43; Am. Centennial, 746 F. Supp. at 356.
+Accordingly, since all three factors strongly weigh in favor of abstention, Burford
+and its progeny mandate abstention here.
+III.
+THE COMPLAINT SHOULD BE DISMISSED FOR FAILURE TO STATE A CLAIM
+PURSUANT TO FED. R. CIV. P. 12(b)(6)
+All three counts of the Complaint should also be dismissed for failure to properly
+plead and state a valid cause of action.
+A.
+
+Counts I and II for Fraudulent Conveyance and Constructive Fraudulent
+Conveyance Fail to State a Claim
+In Bell Atlantic Corp. v. Twombly, the Supreme Court held that to withstand a
+
+motion to dismiss, the "[f]actual allegations" contained in the complaint "must be enough to raise
+a right to relief above the speculative level." 550 U.S. 544, 555 (2007). The facts alleged must
+be "plausible" not merely "conceivable." Id. at 570. Plaintiffs must plead "more than labels and
+conclusions, and a formulaic recitation of the elements of a cause of action will not do." Id. at
+555 (internal citations omitted); see also Ruotolo v. City of New York, 514 F.3d 184, 188 (2d Cir.
+2008); Iqbal v. Hasty, 490 F.3d 143, 157-58 (2d Cir. 2007); ATSI Commc'ns. Inc. v. Shaar Fund,
+Ltd., 493 F.3d 87, 98 (2d Cir. 2007); Concepcion v. City of New York, No. 05 Civ. 8501, 2008
+WL 2020363, at *2 (S.D.N.Y. May 7, 2008).
+
+21
+
+Case 1:09-cv-02242-RJS
+
+Document 21
+
+Filed 05/06/2009
+
+Page 29 of 32
+
+Here, however, a "formulaic recitation of the elements of a cause of action" is all
+that Plaintiffs offer. Counts I and II consist of nothing more than conclusory allegations
+parroting the legal standards set forth in §§ 273, 274 and 276 of New York's Debtor and Creditor
+Law.
+Noticeably absent from the Complaint are "plausible" facts to support Plaintiffs'
+conclusions that the "transfers and the restructuring as a whole were undertaken and designed
+with the intent to hinder, delay and defraud MBIA Insurance's present and future creditors"
+(Count I, ¶74), that the Transactions were made "without adequate consideration" (Count I, ¶72;
+Count II, ¶77), or that the Transactions "were made at a time when MBIA Insurance was
+insolvent or caused MBIA Insurance to become insolvent." (Count I, ¶73; Count II, ¶78).
+Plaintiffs' allegations of fraudulent intent in Count I of the Complaint also fail to meet the
+heightened pleading standard of Federal Rule of Civil Procedure 9(b). See e.g., In re Sharp Int'l
+Corp., 403 F.3d 43, 56 (2d Cir. 2005) ("As 'actual intent to hinder, delay or defraud' constitutes
+fraud … it must be pled with specificity, as required by Fed. R. Civ. P. 9(b)").
+Substituting pejorative rhetoric for plausible facts, the Complaint is replete with
+conclusory accusations of "looting," "stripping," "avarice" and "greed." However, as set forth
+supra, the Superintendent and the Department found, based upon their own independent and
+extensive examination of the financial statements of MBIA Insurance, that the challenged
+Transactions were "reasonable and equitable" and that MBIA Insurance, both prior and
+subsequent to the Transactions, was solvent and able to pay all of its obligations as they became
+due. (Siegfried Decl., Exh. A). See Hirsch v. Arthur Andersen & Co., 72 F.3d 1085, 1095 (2d
+Cir. 1995) (affirming dismissal where "attenuated allegations" supporting plaintiff's claim "are
+contradicted … by facts of which we may take judicial notice").
+
+22
+
+Case 1:09-cv-02242-RJS
+
+Document 21
+
+Filed 05/06/2009
+
+Page 30 of 32
+
+These determinations are uniquely within the expertise of the Superintendent who
+is charged with determining whether an insurance company is solvent and is obligated to take
+action if they are not. Insurance Law § 1309(a).11 In fact, Plaintiffs do not allege – because they
+cannot – that MBIA Insurance has defaulted on any of its payment obligations under any of the
+insurance policies it issued.
+Finally, contrary to Plaintiffs' unsupported allegations that the MBIA Group acted
+with an intent to defraud creditors, the Approval Letter establishes that the MBIA Group
+responsibly presented the Transactions to the Superintendent and the Department for their
+thorough and complete independent review, and proceeded with the Transactions only after
+receiving written approval from the Superintendent, all in accordance with New York Law.
+In short, Counts I and II consist of conclusory allegations and unfounded
+speculation, not "plausible facts," which are expressly refuted by the determinations of the
+Superintendent and the Department. As such, these counts should be dismissed pursuant to the
+Supreme Court holding in Twombly and the heightened pleading requirements of Rule 9(b).
+B.
+
+Count III for Breach of the Implied Covenant of Good Faith and Fair Dealing Fails
+to State a Claim
+Plaintiffs' claim for breach of the implied covenant of good faith and fair dealing
+
+must also be dismissed because Plaintiffs seek to recover for an obligation that is neither
+explicitly nor implicitly part of the policies issued by MBIA Insurance. The only contracts that
+
+11
+
+Section 1309(a) of the Insurance Law provides:
+Whenever the superintendent finds from a financial statement or report on examination that an authorized
+insurer is unable to pay its outstanding lawful obligations as they mature in the regular course of business,
+as shown by an excess of required reserves and other liabilities over admitted assets, or by its not having
+sufficient assets to reinsure all outstanding risks with other solvent authorized assuming insurers after
+paying all accrued claims owed, such insurer shall be deemed insolvent and the superintendent may
+proceed against it pursuant to the provisions of article seventy-four of this chapter.
+
+23
+
+Case 1:09-cv-02242-RJS
+
+Document 21
+
+Filed 05/06/2009
+
+Page 31 of 32
+
+purportedly exist between Plaintiffs and MBIA Insurance, and thus the only contracts that could
+give rise to a claim for breach of the implied covenant, are the insurance polices issued by MBIA
+Insurance. 12 These policies (Siegfried Decl., Exh. D), which Plaintiffs do not attach to their
+Complaint, provide that MBIA Insurance guarantees the payment of principal and interest on the
+instruments they insure, nothing more, and Plaintiffs do not allege that MBIA Insurance has
+failed to honor this guarantee.
+Plaintiffs' contention that there is an implied guarantee of a particular credit rating
+in the policies is incorrect. While a guarantee of payment of principal and interest may have the
+effect of enhancing the credit of the underlying instrument – since it provides an additional
+source of payment – it does not imply a particular credit rating. If Plaintiffs had wanted the
+guarantee of a particular credit rating, they should have negotiated for such a guarantee, or for
+default "triggers" in the policy if the credit rating declined after issuance of the policy. They did
+not. As the New York Court of Appeals has held, courts will not rewrite or interpret an
+agreement between sophisticated parties so as to implicitly impose an obligation the parties did
+not include. See Rowe v. Great Atl. & Pac. Tea Co., Inc., 385 N.E.2d 566, 572 (N.Y. 1978); see
+also ARI and Co., Inc. v. Regent Int'l Corp., 273 F. Supp. 2d 518, 523-24 (S.D.N.Y. 2003)
+("[T]he breach of covenant of good faith claim must be dismissed because it seeks to recover for
+obligations that were not explicitly part of the Agreement. New York law is clear that the
+implied covenant cannot be used to create independent obligations beyond the contract."); Wolff
+12
+
+Although Plaintiffs also refer in the Complaint to some unnamed and unidentified offering materials which
+were not prepared by MBIA Insurance, these materials are clearly not a contract between MBIA Insurance and
+Plaintiffs and cannot give rise to a claim under the implied covenant of good faith. See Brown v. AXA Re, No.
+02 Civ. 10138, 2004 WL 941959, at *4 (S.D.N.Y. May 3, 2004); Tang v. Jinro Am., Inc., No. 03 Civ. 6477,
+2008 WL 4163183, at *3 (E.D.N.Y. Sept. 4, 2008). Even as to these unnamed and unidentified documents,
+Plaintiffs contend that the only representation MBIA Insurance "accepted" was the statement that MBIA
+Insurance would "unconditionally and irrevocably guarantee" timely payments of principal and interest, i.e., no
+more than what the policies provide. (Compl. ¶25).
+
+24
+
+Case 1:09-cv-02242-RJS
+
+Document 21
+
+Filed 05/06/2009
+
+Page 32 of 32
+
+v. Rare Medium, Inc., 210 F. Supp. 2d 490, 497 (S.D.N.Y. 2002) ("the obligation of good faith
+does not create obligations that go beyond those intended and stated in the language of the
+contract"); Warner Theatre Assocs. Ltd. v. Metro. Life Ins. Co., No. 97 Civ. 4914, 1997 WL
+685334, at *6 (S.D.N.Y. Nov. 4, 1997) ("[t]he duty of good faith cannot add to, detract from, or
+alter the terms of the contract itself"); Long v. Marubeni Am. Corp., No. 05 Civ. 0639, 2006 WL
+1716878, at *1 (S.D.N.Y. Jun. 20, 2006) (same); JPMorgan Chase Bank, N.A. v. IDW Group,
+LLC, No. 08 Civ. 9116, 2009 WL 321222, at *8 (S.D.N.Y. Feb. 09, 2009) (same).
+Accordingly, Plaintiffs' claim for breach of the implied covenant of good faith and
+fair dealing – which seeks to impose an obligation that is not a part of the policies – should be
+dismissed as a matter of law.
+CONCLUSION
+For the foregoing reasons, Defendants MBIA Inc., MBIA Insurance, and MBIA
+Illinois respectfully request that the Complaint be dismissed and that they be awarded their costs
+and expenses and such other relief as the Court deems appropriate.
+Dated: May 6, 2009
+Respectfully Submitted,
+DEWEY & LEBOEUF LLP
+By: /s/ Jonathan D. Siegfried
+Jonathan D. Siegfried
+1301 Avenue of the Americas
+New York, NY 10019
+Telephone: (212) 259-8000
+Facsimile: (212) 424-8500
+jsiegfried@dl.com
+Attorneys for Defendants
+
+25
+
+

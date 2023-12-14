@@ -1,0 +1,994 @@
+Case 8:12-cv-00954-DKC Document 25 Filed 05/18/12 Page 1 of 30
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF MARYLAND
+GREENBELT DIVISION
+_______________________________________
+METROPOLITAN REGIONAL
+)
+INFORMATION SYSTEMS, INC.,
+)
+)
+Plaintiff,
+)
+) Civil Action No. 12-cv-954
+v.
+)
+)
+AMERICAN HOME REALTY NETWORK, INC. )
+and JONATHAN J. CARDELLA,
+)
+)
+Defendants,
+)
+______________________________________ )
+DEFENDANTS’ OPPOSITION TO
+PLAINTIFF’S MOTION FOR PRELIMINARY INJUNCTION
+
+Richard S. Toikka, Fed. Bar No. 13543
+L. Peter Farkas (pro hac vice)
+FARKAS+TOIKKA, LLP
+1101 30th Street, NW, Suite 500
+Washington, DC 20007
+202-337-7802 (phone)
+202-337-7808 (fax)
+rst@farkastoikka.com (email)
+Of Counsel:
+Christopher R. Miller (pro hac vice)
+Chief Legal Officer and General
+Counsel
+American Home Realty Network, Inc.
+222 7th Street, 2nd Floor
+San Francisco, California 94103
+800-357-3321 (phone)
+C.Miller@NeighborCity.com (email)
+Counsel for Defendants American Home
+Realty Network, Inc. and Jonathan J.
+Cardella
+
+Case 8:12-cv-00954-DKC Document 25 Filed 05/18/12 Page 2 of 30
+
+TABLE OF CONTENTS
+TABLE OF AUTHORITIES .................................................................................. iii
+I. INTRODUCTION .............................................................................................. 1
+II. STANDARD OF REVIEW ................................................................................ 3
+III. STATEMENT OF FACTS ............................................................................... 3
+A. INDUSTRY BACKGROUND ........................................................................ 3
+B. DEFENDANT AHRN, INC. ........................................................................... 4
+C. PLAINTIFF MRIS ......................................................................................... 7
+D. BACKSTORY OF THIS LITIGATON............................................................ 9
+IV. ARGUMENT ................................................................................................. 11
+A. MRIS CANNOT SUCCEED ON THE MERITS .......................................... 11
+1. A Substantial Question Exists Whether The Underlying Text is
+Copyrightable ........................................................................................ 12
+a. Catalogs Are Less Copyrightable ........................................................ 12
+b. MRIS’s Catalog Databases Are Not Copyrightable, ............................ 13
+As They Lack Originality........................................................................... 13
+2. MRIS’s Purported Registrations of Text and Photographs Are
+Invalid For Failure To Identify Any Author and Photographer ................ 15
+3. MRIS Has Not Established Infringement of Its Database ...................... 17
+B. MRIS HAS FAILED TO ESTABLISH IRREPARABLE INJURY................. 19
+C. THE BALANCE OF EQUITIES FAVORS AHRN, INC. .............................. 21
+D. THE PUBLIC INTEREST IS BEST SERVED BY COMPETITION ............. 22
+E. AHRN, INC.’S DEFENSE OF COPYRIGHT MISUSE ............................... 23
+V. CONCLUSION............................................................................................... 24
+
+ii
+
+Case 8:12-cv-00954-DKC Document 25 Filed 05/18/12 Page 3 of 30
+
+TABLE OF AUTHORITIES
+Cases
+Page
+Alaska Stock, LLC v. Houghton Mifflin Harcourt Publ. Co., 2010 U.S. Dist.
+LEXIS 108041, at *1 (D. Alaska Sep. 21, 2010) .............................................. 16
+Apple Computer Inc. v. Franklin Computer Corp., 714 F. 2d 1240
+(3d Cir. 1983) .................................................................................................. 22
+Bean v. Houghton Mifflin Harcourt Publ. Co., 2010 U.S. Dist. LEXIS 83676,
+at *1 (D. Ariz. Aug. 10, 2010) .......................................................................... 16
+Brandir Int'l, Inc. v. Cascade Pac. Lumber Co., 834 F.2d 1142, (2d Cir. 1987)... 14
+Direx Israel, Ltd.v. Breakthrough Med. Corp., 952 F.2d 802 (4th Cir. 1991). ........ 3
+Feist Publ'ns, Inc. v. Rural Tel. Serv. Co., 499 U.S. 340 (U.S. 1991) .....................
+...................................................................................................... 13, 14, 18, 22
+Franklin Mach. Prods. v. Heritage Food Serv. Equip, Inc., 2007 U.S. Dist.
+LEXIS 89666 at *1 (N.D. Ind. Dec. 5, 2007) .................................................... 12
+Franklin Mach. Prods. v. Heritage Food Serv. Equip, Inc., 2008 U.S. Dist.
+LEXIS 18989 at *1 (N.D. Ind. Mar. 11, 2008) .................................................. 12
+Haslett v. Hasselbeck, 757 F. Supp. 2d 73 (D. Mass. 2010)............................... 18
+Keeler Brass Co. v. Cont'l Brass Co., 862 F.2d 1063 (4th Cir. 1988). ................ 11
+Lasercomb America, Inc. v. Job Reynolds, 911 F.2d 970 (4th Cir. 1990). ..... 23, 24
+Matthew Bender & Co. v. West Publishing Co. 158 F.3d 674 (2d Cir. 1998). ..... 13
+Microstrategy Inc. v. Motorola, Inc., 245 F.3d 335 (4th Cir. 2001) ........................ 3
+Muench Photography, Inc. v. Houghton Mifflin Harcourt Publishing Co.,
+712 F. Supp. 2d 84 (S.D.N.Y. 2010).......................................................... 15, 16
+Nautical Solutions Mktg. v. Boats.com, 2004 U.S. Dist. LEXIS 6304, at *1
+(M.D. Fla. Apr. 1, 2004) ............................................................................. 14, 15
+Ocean Atl. Woodland Corp. v. DRH Cambridge Homes, 2003 U.S. Dist.
+LEXIS 16737, at *1 (N.D. Ill. Sep. 24, 2003) ................................................... 24
+Real Truth about Obama, Inc. v. Federal Election Commission, 575 F.3d
+342 (4th Cir. 2009). ........................................................................................... 3
+Realcomp II, Ltd. v. FTC, 635 F.3d 815 (6th Cir. 2011) ...................................... 23
+
+iii
+
+Case 8:12-cv-00954-DKC Document 25 Filed 05/18/12 Page 4 of 30
+
+Regional Multiple Listing Service of Minnesota, Inc., d/b/a NorthstarMLS v.
+American Home Realty Network, Inc., 0:12cv965 (D. Minn). .......................... 11
+Richmond Homes Mgt, Inc. v. Raintree, Inc, 1995 U.S. App. LEXIS
+26452, at *1 (4th Cir. Sep. 18, 1995). ......................................................... 15, 16
+Robertson v. Sea Pines Real Estate, 2012 U.S. App. LEXIS 9694, at *1
+(4th Cir. S.C., May 14, 2012). .......................................................................... 23
+Superior Form Builders, Inc. v. Dan Chase Taxidermy Supply Co., Inc.,
+74 F.3d 488 (4th Cir. 1996). ............................................................................ 14
+U.S. v. National Association of Realtors (“NAR”), 05cv5140 (N.D. Ill. 2005)......... 3
+Universal Furniture Intl., Inc. v. Collezione Europa USA, Inc., 2006 U.S.
+App. LEXIS 22212 at *1 (4th Cir. Aug. 29, 2006) (unpublished) .......... 11, 13, 20
+Warth v. Sedin, 422 U.S. 490 (1975) .................................................................. 20
+Wereldhave USA-San Antonio, L.P. v. Peter Fillat Architects, Inc., 2010 U.S.
+Dist. LEXIS 7660, at *1 (D. Md. Jan. 29, 2010). ................................................ 3
+Woods v. Universal City Studios, Inc., 920 F. Supp. 62 (S.D.N.Y.1996),............ 16
+Yankee Candle Co. v. Bridgewater Candle, LLC, 259 F.3d 25 (1st Cir. 2001). ... 18
+Statutes
+15 U.S.C. §1 ......................................................................................................... 3
+17 U.S.C. § 101 .............................................................................................. 7, 13
+17 U.S.C. § 103(b) ........................................................................................ 12, 15
+Other Authorities
+Copyright Office’s Circular 65 ............................................................................... 7
+Regulations
+37 C.F.R. § 202.3(b)(5) ......................................................................................... 7
+
+iv
+
+Case 8:12-cv-00954-DKC Document 25 Filed 05/18/12 Page 5 of 30
+
+I. INTRODUCTION
+Defendants American Home Realty Network, Inc. (“AHRN, Inc.”) and
+Jonathan J. Cardella (“Cardella”) hereby oppose Plaintiff Metropolitan Regional
+Information Systems, Inc.’s (“MRIS”) Motion for Preliminary Injunction. Although
+MRIS’s Complaint contains several counts, MRIS’s motion seeks preliminary
+relief exclusively on MRIS’s claims of “copyright infringement.” Memorandum in
+Support of Plaintiff’s Motion for Preliminary Injunction (cited as “MRIS Brief”).
+MRIS Brief at 1.
+In its Brief, MRIS asserts it has seven registered compilation copyrights
+containing real estate listing information and photographs. Its Complaint refers to
+three additional registrations. MRIS’s database is unpublished and none of the
+underlying text and photographs is registered as a copyright by MRIS.
+
+See
+
+Copyright Registrations attached as Exhibit 1.
+MRIS’s motion should be denied because it has shown no urgency in
+bringing this case.
+
+AHRN, Inc.’s web site on which the allegedly infringing
+
+materials appeared has been online since August of 2007. Declaration of AHRN,
+Inc.’s CEO Jonathan J. Cardella (“5/18/12 Cardella Decl.”), Exhibit 2, ¶ 5. As one
+of the largest multiple listing services in the country and an industry leader, MRIS
+likely knew about AHRN, Inc.’s activities for some time before it sent AHRN, Inc.
+a cease-and-desist letter on November 18, 2011, but did not file this case until
+March 28, 2012. MRIS’s dilatory tactics require denial of the motion.
+Apart from its being dilatory bringing suit and filing its motion, the Court
+should deny MRIS’s motion additionally for the following reasons:
+
+1
+
+Case 8:12-cv-00954-DKC Document 25 Filed 05/18/12 Page 6 of 30
+
+First, MRIS has not shown any likelihood that it will prevail on the merits of
+its copyright claim because:
+(1) MRIS has failed to established valid or enforceable copyright; the
+underlying content of MRIS’s Database is not protectable, as it is composed of
+factual information, which is not eligible for copyright; and
+(2) MRIS has failed to establish copyright infringement, as it has not
+compared (or even disclosed), the “selection, coordination and arrangement” of
+its Database to the actual organization or arrangement of AHRN, Inc.’s database.
+Instead, it erroneously compares the content of its database with screen shots of
+content of AHRN’s website.
+Second, MRIS has failed to present evidence of irreparable injury;
+adopted a discredited “sweat of the brow” theory of harm; and alleged injury to
+third parties which is irrelevant in the preliminary injunction context.
+Third, the failure of MRIS’s irreparable injury allegations, and MRIS’s and
+its allies’ concerted effort to flood AHRN, Inc. with cease-and-desist letters and
+law suits to destroy AHRN, Inc., tips the balance of equities decidedly in AHRN,
+Inc.’s favor.
+Fourth, the public interest is best served by innovation and competition,
+not by violations of the 2008 consent decree in the government’s antitrust suit
+against the National Association of Realtors.
+Fifth, proof of MRIS’s attempt to suppress and destroy AHRN, Inc.
+through concerted action establishes a credible defense of copyright misuse.
+
+2
+
+Case 8:12-cv-00954-DKC Document 25 Filed 05/18/12 Page 7 of 30
+
+II. STANDARD OF REVIEW
+“A preliminary injunction is an extraordinary remedy involving the exercise
+of very far-reaching power to be granted only sparingly and in limited
+circumstances.” Microstrategy Inc. v. Motorola, Inc., 245 F.3d 335, 339 (4th Cir.
+2001) quoting Direx Israel, Ltd.v. Breakthrough Med. Corp., 952 F.2d 802, 816
+(4th Cir. 1991). “Under the new standard for preliminary injunctions, the plaintiff
+must establish (1) that he is likely to succeed on the merits, (2) that he is likely to
+suffer irreparable harm in the absence of preliminary relief, (3) that the balance of
+equities tips in his favor, and (4) that an injunction is in the public interest.”
+Wereldhave USA-San Antonio, L.P. v. Peter Fillat Architects, Inc., 2010 U.S.
+Dist. LEXIS 7660, at *6 (D. Md. Jan. 29, 2010), quoting Real Truth about Obama,
+Inc. v. Federal Election Commission, 575 F.3d 342, 346 (4th Cir. 2009). The
+Fourth Circuit [in Real Truth], “emphasized that this standard is more stringent
+than the prior standard and that plaintiffs must clearly show that they are likely to
+succeed on the merits and to suffer from irreparable harm before such an
+extraordinary relief for an injunction may be awarded.” Id.
+III. STATEMENT OF FACTS
+A. INDUSTRY BACKGROUND
+In 2005, the Antitrust Division of the U.S. Department of Justice sued the
+National Association of Realtors (“NAR”) for violations Section 1 of the Sherman
+Act, 15 U.S.C. §1 (2004), arising out of discriminatory policies of multiple listing
+services and brokers encouraged and implemented through the NAR. Complaint
+in U.S. v. National Association of Realtors (“NAR”), 05cv5140 (N.D. Ill. 2005),
+
+3
+
+Case 8:12-cv-00954-DKC Document 25 Filed 05/18/12 Page 8 of 30
+
+attached as Exhibit 3. The complaint in that case demonstrates that the public
+interest lies with competition, noting that “[b]y virtue of industry-wide participation
+and control over a critically important input, MLS joint ventures have market
+power in almost every relevant market.” Id. ¶23. The Division recognized that
+brokers with innovative, Internet-based business models present a competitive
+challenge to brokers who provide listings to their customers only by traditional
+methods. Id. ¶ 29.
+On November 18, 2008, the Department of Justice entered a consent
+decree with the NAR, settling the Complaint with a Final Judgment by imposing
+certain prohibitions on the real estate industry. Consent Decree attached as
+Exhibit 4. NAR accepted prohibitions imposed upon it against promulgating and
+enforcing any rule that:
+
+
+Prohibits, restricts, or impedes access to, or discriminates against a webbased broker who provides to its customers all of the listing information
+that is permitted under traditional methods; mail, fax, etc.; Exhibit 4,
+Prohibition A, B at 5;
+
+
+
+Prohibits, restricts, or impedes the referral of customers whose identities
+are obtained from a website by a web-based broker to any other person,
+or establishes the price of any such referral; id. Prohibition C;
+
+
+
+Imposes fees or costs upon any broker who operates a website or upon
+any person operating a website for a broker that charges fees in excess of
+the reasonably estimated actual costs incurred by a multi list board in
+providing listing information to the broker OR discriminates in fees or costs
+charged to a broker versus a person operating a website for a broker, id.
+Prohibition D.
+B. DEFENDANT AHRN, INC.
+Defendant AHRN, Inc. is a small, innovative California real estate
+
+brokerage which has developed a novel system of software and database
+4
+
+Case 8:12-cv-00954-DKC Document 25 Filed 05/18/12 Page 9 of 30
+
+applications that work together to facilitate real estate transactions between
+buyers and sellers represented by real estate agents and brokers. Defendant has
+applied this technology to objectively rate and rank real estate agents and to
+identify them to prospective home buyers and sellers, based on their specific
+requirements, through its web site: www.NeighborCity.com.
+Decl., ¶ 4.
+
+5/18/12 Cardella
+
+This technological advancement was motivated by the lack of
+
+comparable services then, and still, available on the market due to the industrywide “black out” of information rating real estate agents’ specific market activities
+and professional performance. Id., ¶ 5. Other brokerage websites feature their
+own agents or agents with whom they have cooperative referral agreements.
+None rate, rank or even identify all the Realtors in an area. Some popular real
+estate portal sites only suggest real estate agents who pay to be featured next to
+properties within a designated geographic area. These sites derive their ratings
+directly from feedback scores submitted by customers specifically invited by the
+agent who may then cherry-pick the results incorporated in their performance
+ratings. Id.
+To fill the gap, AHRN, Inc. put all the real estate listings, foreclosure and
+for sale by owner listings in the markets it serves in a database underlying its
+NeighborCity site. AHRN created technology that continuously scores, ranks and
+rates agents based on their transaction and listing history. Id., ¶ 6. Specifically, it
+assesses how well agents perform in selling their clients’ homes relative to their
+nearest competitors, as determined by a comparison to a proprietary “peer
+index”. AHRN, Inc. also created “AgentMatch” technology that uses its ranking
+
+5
+
+Case 8:12-cv-00954-DKC Document 25 Filed 05/18/12 Page 10 of 30
+
+and rating data with interested buyers of a seller’s property to match those
+buyers with specialized and qualified local real estate agents. AgentMatch
+quickly routes interested buyers and sellers searching major search engines
+such as Google, Yahoo! and Bing for highly specific information to local agents to
+make
+
+introductions
+
+and
+
+schedule
+
+property
+
+viewings;
+
+coordinates
+
+their
+
+communications; and allows AHRN, Inc. to monitor these interactions to improve
+the level of service generally available to the public. Id.
+AHRN, Inc.’s business model and its NeighborCity website offer unique
+online real estate services. Id., ¶ 7. Unlike other websites, NeighborCity.com
+lists buy-side real estate agent recommendations for virtually every property and
+allows its users to contact those agents without releasing their personal contact
+information until they are ready to do so. Id.
+The data displayed on the NeighborCity web site originates from multiple
+sources: brokers and agents, county tax assessor’s offices and related public
+records, foreclosure data providers and from For Sale By Owner aggregators. Id.,
+¶ 8. None of the sources involve access to the MRIS Database. NeighborCity
+also provides school data from education.com, maps and Streetview® from
+Google and geolocation data from third party providers. NeighborCity further
+derives and publishes unique professional profiles incorporating the performance
+metrics, statistics and rankings for each of the roughly one million residential real
+estate agents in the US derived from the real estate data that it aggregates. The
+key feature that shows buy-side agents next to listed properties assists buyers in
+locating exclusive brokerage representation. This enables buyers to avoid the
+
+6
+
+Case 8:12-cv-00954-DKC Document 25 Filed 05/18/12 Page 11 of 30
+
+inherent conflict of interest involved in working with an agent and brokerage that
+brokers both the buy side and sell side of a given real estate sales transaction.
+Id.
+AHRN, Inc. provides services to the public free of charge. Id., ¶ 9. It is
+typically compensated for its agent matching and referral services out of the local
+buy-side agent and broker commissions, except when making referrals that result
+in listing agreements, in which case AHRN, Inc. is compensated by the listing
+brokerage. Neither the home-buyer, home seller, nor the home seller’s agent or
+broker is charged any fees except in the case of a listing referral as mentioned.
+If the home purchase is not closed by the particular agent to whom a referral is
+made, no compensation is collected. Id.
+C.
+
+PLAINTIFF MRIS
+
+MRIS is one of the largest regional real estate multiple listing services in
+the United States. See Complaint, ¶ 13; MRIS Brief, 1. It serves real estate
+brokers and agent subscribers and other authorized subscribers in Maryland,
+Virginia and the District of Columbia and also in parts of Delaware, West Virginia
+and Pennsylvania. MRIS Brief, 1.
+
+MRIS maintains a database of real estate
+
+listing information (“MRIS Database”) that it alleges it has registered with the U.S.
+Copyright Office under procedures applicable to automated databases.
+Complaint, ¶¶ 17-18; MRIS Brief, 4-5. Although “automated databases” are not
+defined in the Copyright Act, the Copyright Office’s Circular 65 considers
+databases a form of compilation, and registration procedures for automated
+databases are governed by Circular 65 and 37 C.F.R. § 202.3(b)(5). A
+
+7
+
+Case 8:12-cv-00954-DKC Document 25 Filed 05/18/12 Page 12 of 30
+
+compilation, as defined in 17 U.S.C. § 101 (2010), is “a work formed by the
+collection and assembling of preexisting materials or of data that are selected,
+coordinated, or arranged in such a way that the resulting work as a whole
+constitutes an original work of authorship.”
+MRIS claims not only rights in the automated database compilation itself,
+but also rights in “the original expressive contributions (e.g., photographs) MRIS
+has made or acquired to individual property listings in the MRIS Database …”
+MRIS Brief, 10; Complaint, ¶ 17. However, MRIS has not registered copyrights
+to any of the individual data or photographs contained in the MRIS Database.
+See Memorandum in Support of Defendant AHRN, Inc.’s Rule 12(b) Motion to
+Dismiss [D.E. 24-1], 10-11.
+The real estate listing information in the MRIS Database is sourced
+directly from professional brokers and agents under contract to MRIS.
+Complaint, ¶ 15; MRIS Brief, 3. MRIS alleges its MRIS Database is unpublished.
+Complaint, ¶ 18.
+
+However, it makes the Database content available to its
+
+subscribers through a “portfolio of technology solutions,” including broker and
+agent software products and services. Complaint, ¶ 14; MRIS Brief, 3. One of
+the software products and services MRIS offers to its subscribers is the Internet
+Data Exchange Program (“MRIS IDX”) which allows subscribers to display
+Database content to the public on their own web sites. Complaint, ¶¶ 19-21;
+MRIS Brief, 3-4.
+The data feed in the MRIS IDX program is provided in the Real Estate
+Transaction Standard form (“RETS”). Complaint, ¶ 20, MRIS Brief, 3-4. MRIS
+
+8
+
+Case 8:12-cv-00954-DKC Document 25 Filed 05/18/12 Page 13 of 30
+
+also licenses the RETS feed to third parties. Complaint, ¶ 21, MRIS Brief, 4.
+Upon information and belief, one of the third parties to which MRIS licenses its
+RETS feed is the NAR which displays content from the MRIS Database on its
+website: www.Realtor.com. MRIS also displays content from the Database on its
+own website: www.HomesDatabase.com, and to journalists and others via its
+Pending Home Sales Index monthly market summary. Complaint, ¶13, MRIS
+Brief, 5.
+The selected content and arrangement of listing data MRIS provides to its
+subscribers and the public vary widely.
+
+For example, upon information and
+
+belief, MRIS subscribers may receive a (1) long form listing, see listing for 15230
+Riding Club Drive, Exhibit 5 hereto; (2) an agent synopsis listing, see synopsis
+for 15230 Riding Club Drive, Exhibit 6 hereto; and various condensed listing
+summaries, see Weichert listing summaries, Exhibit 7 hereto. The information
+provided to the public through www.homesdatabase is yet another type of
+condensed listing summary, see homesdatabase listing for 214 Watkins Pond
+Road, Exhibit 8.
+D. BACKSTORY OF THIS LITIGATON
+The NAR held its annual meeting in Anaheim, California from November
+11 to 14, 2011.
+
+Defendants have learned that the annual meeting featured
+
+discussions of the perceived threat AHRN, Inc. poses to the industry and what
+the industry could do to shut down AHRN, Inc. 5/18/12 Cardella Decl., ¶ 10.
+Beginning in November just before the Anaheim meeting, AHRN, Inc.
+began to receive what would become an onslaught of cease-and-desist letters
+
+9
+
+Case 8:12-cv-00954-DKC Document 25 Filed 05/18/12 Page 14 of 30
+
+from brokers and multiple listing services.
+
+These have continued into
+
+2012. Most of the letters, 20 in all since early November, 2011, are substantially
+similar as to form and content, allege copyright infringement and threaten legal
+action. Three (3) additional letters are from brokers objecting to AHRN, Inc’s
+referral program; and three (3) letters involve complaints to governmental
+agencies related to either alleged copyright infringement and/or licensing
+violations. On November 15, 2011, the morning after the Anaheim NAR meeting
+closed, AHRN, Inc. received one of these cease-and-desist letters from an
+attorney for the NorthStar MLS in Minnesota. Three days later, on November 18,
+2011, AHRN, Inc. received a cease-and-desist letter from MRIS, attached as
+Exhibit B to the Complaint. Id., ¶ 11.
+On November 15, 2011, the morning after the Anaheim NAR meeting
+closed, AHRN, Inc. received one of these cease-and-desist letters from an
+attorney for the NorthStar MLS web site in Minnesota. Three days, later on
+November 18, 2011, AHRN, Inc. received a cease-and-desist letter from MRIS,
+attached as Exhibit B to the Complaint. Id.
+On December 22, 2011 AHRN, Inc. was copied on an email, attached as
+Exhibit 9, from John Mosey of the NorthStar MLS to his attorney Mitchell Skinner,
+in which Mosey complained of a sense that after “dropping C&D’s on the head of
+the bad fellow,” i.e. Jonathan Cardella, nothing had changed, and he called for
+following up the “full force and fury” of the cease-and-desist letters with:
+
+
+
+
+
+"Collective action;"
+Imparting a "world of hurt" on Cardella;
+Using copyright litigation as the means to do that;
+Sharing the cost of litigation among the MLSs;
+
+10
+
+Case 8:12-cv-00954-DKC Document 25 Filed 05/18/12 Page 15 of 30
+
+
+
+
+“Connecting the dots between all of the MLSs;”
+“Sending a message that our copyrights are enforceable and we
+are serious about punishing anyone who doesn’t take us seriously.”
+
+The result of the Mosey email was the present lawsuit filed on March 19,
+2012, followed by an additional suit filed on April 18, 2012, in Minnesota,
+Regional Multiple Listing Service of Minnesota, Inc., d/b/a NorthstarMLS v.
+American Home Realty Network, Inc., 0:12cv965 (D. Minn). 5/18/12 Cardella
+Decl., ¶ 12.
+These actions by brokers and multiple listing services came shortly after
+AHRN, Inc. rolled out updated profile pages for 850,000 agents that feature
+agent scores and performance metrics based on their transaction history. See
+Inman News Daily Real Estate News (May 15, 2012), copy attached as Exhibit
+10; 5/18/12 Cardella Decl., ¶ 13. Other companies that rolled out real estate
+agent profile pages were forced to discontinue publication of those pages within
+days after their respective launches, such as Redfin, another innovative real
+estate brokerage. See Inman News article, supra; 5/18/12 Cardella Decl., ¶ 14.
+IV. ARGUMENT
+A.
+
+MRIS CANNOT SUCCEED ON THE MERITS
+
+In order to establish copyright infringement of a compilation copyright,
+plaintiff MRIS must show a likelihood of success on the merits.
+
+“The two
+
+elements of copyright infringement are: (1) ownership of a valid copyright by the
+party complaining of infringement, and (2) unauthorized copying of the protected
+work by the infringing party.” Universal Furniture Intl., Inc. v. Collezione Europa
+USA, Inc., 2006 U.S. App. LEXIS 22212 at *14 (4th Cir. Aug. 29, 2006)
+(unpublished), citing Keeler Brass Co. v. Cont'l Brass Co., 862 F.2d 1063, 1065
+11
+
+Case 8:12-cv-00954-DKC Document 25 Filed 05/18/12 Page 16 of 30
+
+(4th Cir. 1988).
+MRIS cannot succeed on the merits because it: (1) has failed to establish
+the eligibility for copyright of its database or any valid copyright in the underlying
+text and photographs of its compilation patent; (2) even if the subject matter of
+MRIS’s compilation copyright were theoretically copyrightable, MRIS has failed to
+identify sufficiently, nor indeed at all, the text, photographs, authors and
+photographers.
+1. A Substantial Question Exists Whether The Underlying Text is
+Copyrightable
+a. Catalogs Are Less Copyrightable
+MRIS asserts that its Database provides its subscribers access to “… a
+copyrighted automated catalog, containing a compilation of regional real estate
+listings and related informational content.” MRIS Brief 1 (emphasis added). The
+courts have held that raw data and facts are not copyrightable and that due "to
+their highly factual nature, . . . generally fall towards the less-protected end of the
+spectrum" of copyrightable material. Franklin Mach. Prods. v. Heritage Food
+Serv. Equip, Inc., 2007 U.S. Dist. LEXIS 89666 at *9, *12 (N.D. Ind. Dec. 5,
+2007) (Court dismissed complaint) (“Franklin Machine I”); 2008 U.S. Dist. LEXIS
+18989 at *2, *7 (N.D. Ind. Mar. 11, 2008)
+
+(Court ordered plaintiff to pay
+
+defendant’s attorneys fees) (“Franklin Machine II”).
+In Franklin Machine I at *5, the court also stated that “[t]he copyright in a
+compilation -- like the catalogs at issue in this case -- extends only to the material
+contributed by the author of such work, but not to the preexisting materials,”
+citing 17 U.S.C. § 103(b). See plaintiff’s counsel’s advice to MRIS and others in
+12
+
+Case 8:12-cv-00954-DKC Document 25 Filed 05/18/12 Page 17 of 30
+
+D. Charron and J. Westermeier, MRIS Guidance Paper, attached as Exhibit 11. 1
+b. MRIS’s Catalog Databases Are Not Copyrightable,
+As They Lack Originality
+Copyright protection is unavailable for both derivative works and
+compilations alike unless, when analyzed as a whole, they display sufficient
+originality so as to amount to an "original work of authorship." See 17 U.S.C. §
+101 (defining a "derivative work", inter alia, as a work containing alterations
+"which, as a whole, represent an original work of authorship"); id. (defining a
+“compilation” as requiring that "the resulting work as a whole constitutes an
+original work of authorship"). The originality required for copyright protection is
+essentially the same. See Feist Publ'ns, Inc. v. Rural Tel. Serv. Co., 499 U.S.
+340, 358 (U.S. 1991) ("Originality requires only that the author make the
+selection or arrangement independently . . . and that it display some minimal
+level of creativity.")
+
+Matthew Bender & Co. v. West Publishing Co. 158 F.3d
+
+674, 680 (2d Cir. 1998) (affirmed district court finding that the “elements of the
+West case reports for which West seeks copyright protection lack sufficient
+originality or creativity to be protectable--whether considered separately or
+together.”) Id. at 681.
+In Universal Furniture, 2006 U.S. App. LEXIS 22212 at *12-13, the Fourth
+Circuit affirmed the denial of a motion for preliminary injunction based “on the
+uncertainty that [the] … compilations are in fact copyright able” where they likely
+1
+
+“Our recommended practice, which we address through the Program, is to provide
+separate copyright protection for each listing beyond the compilation [because] … the
+copyright protection for automated databases as compilations is even weaker than the
+protection accorded more “traditional”, hard-copy compilations.” MRIS Guidance Paper,
+Exhibit 11, at 20.
+13
+
+Case 8:12-cv-00954-DKC Document 25 Filed 05/18/12 Page 18 of 30
+
+failed to meet the Fourth Circuit’s test that “the design must reflect the designer's
+artistic judgment exercised independently of functional influences." Superior
+Form Builders, Inc. v. Dan Chase Taxidermy Supply Co., Inc., 74 F.3d 488, 494
+(4th Cir. 1996), (quoting Brandir Int'l, Inc. v. Cascade Pac. Lumber Co., 834 F.2d
+1142, 1145 (2d Cir. 1987)).
+Nowhere in its motion does MRIS describe the identification, selection or
+arrangement of its databases in such a way that the resulting work as a whole
+constitutes an original work of authorship. The Supreme Court in Feist noted that
+“facts are not copyrightable,” but “compilations of facts generally are.” Feist, 499
+U.S. at 344.
+Many compilations consist of nothing but raw data i.e., wholly
+factual information, not accompanied by any original written
+expression. On what basis may one claim a copyright in such a
+work? Common sense tells us that 100 uncopyrightable facts do
+not magically change their status when gathered in one place….
+The sine qua non of copyright is originality.
+Id. at 345. See Nautical Solutions Mktg. v. Boats.com, 2004 U.S. Dist. LEXIS
+6304, at *7 (M.D. Fla. Apr. 1, 2004)
+
+(extraction of facts from a website by
+
+competing yacht broker’s web site was unprotectable because alleged infringer
+only cut and pasted the industry standard yacht descriptions from the registrant
+and the photographs had been taken by others without transfer of copyrights.)
+Where the compilation compiler adds no written expression, but
+rather lets the facts speak for themselves …. [t]he only conceivable
+expression is in the manner in which the compiler has selected and
+arranged the facts… No matter how original the format, however,
+the facts themselves do not become original through association.
+This inevitably means that the copyright in a factual compilation is
+thin. Notwithstanding a valid [compilation] copyright, a subsequent
+
+14
+
+Case 8:12-cv-00954-DKC Document 25 Filed 05/18/12 Page 19 of 30
+
+compiler remains free to use the facts contained in another’s
+publication….
+Id. at 349. See Richmond Homes Mgt, Inc. v. Raintree, Inc, 1995 U.S. App.
+LEXIS 26452, at *9 (4th Cir. Sep. 18, 1995):
+“The copyright in a compilation or derivative work extends only to
+the material contributed by the author of such work, as
+distinguished from the preexisting material employed in the work,
+and does not imply any exclusive right in the preexisting material.
+The copyright in such work is independent of and does not affect or
+enlarge the scope, duration, ownership or substance of, any
+copyright protection in the preexisting material.”
+Here the compiler MRIS has added no written expression, as far as can
+be detected (the compilation is itself unpublished). The compiler does not make
+any selections, texts or photographs; they are provided on automatic pilot
+through uploading by the subscribers. MRIS Brief at 3.
+In short, the compilations allegedly infringed lack the originality to be
+copyrightable.
+2. MRIS’s Purported Registrations of Text and Photographs
+Are Invalid For Failure To Identify Any Author and Photographer
+All of MRIS’s copyright registrations list MRIS as the copyright claimant
+and refer to preexisting “text and photograph(s).” None of the registrations lists
+an actual author for either text or photographs.
+In Muench Photography, Inc. v. Houghton Mifflin Harcourt Publishing Co.,
+712 F. Supp. 2d 84 (S.D.N.Y. 2010); the court granted summary judgment
+against Muench, a company owned by two photographers, which had sued a
+textbook publisher and its printer for infringement of database compilation
+copyrights. The Court held that under 17 U.S.C.S. § 103(b), when the work at
+
+15
+
+Case 8:12-cv-00954-DKC Document 25 Filed 05/18/12 Page 20 of 30
+
+issue is a compilation, the copyright extends only to the material contributed by
+the author of the compilation (and not to the underlying works).
+
+Muench
+
+Photography, 712 F. Supp. 2d at 90; see also Richmond Homes, 1995 U.S. App.
+LEXIS 26452, at *8-9.
+The Muench court further held that: (1) the registration of a collective work
+reaches the individual works only when the author of the collective work authored
+each of the individual works, id. at 94; (2) in any event, the registrant of a
+compilation copyright must list the names of the authors of the underlying works,
+id. ; and (3) suggested that the author who filed registration for collective work
+must be the same author of the underlying individual works that were the subject
+of the infringement, id.; citing Woods v. Universal City Studios, Inc., 920 F. Supp.
+62, 64 (S.D.N.Y.1996), Richmond Homes, 1995 U.S. App. LEXIS 26452, at *8-9
+(“Having concluded that the district court's finding of common ownership … of the
+copyrights is clearly erroneous, it follows that the … copyrights cannot be merged
+as derivative creations of the same owner”).
+Thus, MRIS’s failure to provide the names of all authors of independent
+works contained in the database, limits the registration and the scope of any
+infringement suit to the database as a whole. It does not cover the individual
+works contained therein. See Muench Photography, 712 F. Supp. 2d at 95; see
+also Alaska Stock, LLC v. Houghton Mifflin Harcourt Publ. Co., 2010 U.S. Dist.
+LEXIS 108041, at *11-12 (D. Alaska Sep. 21, 2010) (same); Bean v. Houghton
+Mifflin Harcourt Publ. Co., 2010 U.S. Dist. LEXIS 83676, at *6-7 (D. Ariz. Aug. 10,
+2010) (same).
+
+16
+
+Case 8:12-cv-00954-DKC Document 25 Filed 05/18/12 Page 21 of 30
+
+Without identification of the text and its authors, the photographs and their
+photographers found in the MRIS database, the compilation copyright is invalid
+or unenforceable as to those individual elements of the database.
+3. MRIS Has Not Established Infringement of Its Database
+Plaintiff’s copyright infringement claims are rooted in its broad non-specific
+allegations that (1) “[d]efendants are obtaining and copying MRIS copyrighted
+information, without authorization, from or sourced from the [allegedly
+unpublished] MRIS database,”
+
+Complaint, ¶¶ 18, 29; and (2) AHRN, Inc.
+
+“provides [its] customers unauthorized access to and use of the copyrighted
+MRIS Database and informational content in support of their referral business,”
+Complaint, ¶ 26, MRIS Brief, 1, 6.
+
+In its Brief, MRIS twice expresses its belief
+
+that AHRN, Inc. “is receiving and copying copyrighted content from the MRIS
+Database via multiple sources, including by way of example, from a RETS data
+feed that is sent to a licensed real estate brokerage, and/or by copying and
+compiling such content from MRIS or third party web sites.” MRIS Brief, 6, 11.
+In support of these broad allegations and speculative beliefs, MRIS points to a
+series of screen shots allegedly taken from the NeighborCity web site.
+
+See
+
+MRIS Brief, 11, referring to Exhibits F-1, F-2, F-3, F-4, F-5, and F-6 to Plaintiff’s
+Motion.
+
+MRIS alleges that these screenshots show that AHRN, Inc. uses
+
+materials that are “…identical… to MRIS’s copyrighted content … since the
+website incorporates MRIS’s copyrighted content in its entirety” (emphasis in
+original). MRIS Brief, 11.
+However, Feist makes clear that: (1) “a compilation is copyrightable only
+
+17
+
+Case 8:12-cv-00954-DKC Document 25 Filed 05/18/12 Page 22 of 30
+
+to the extent that it features an original selection, coordination or arrangement,”
+and (2) establishing infringement of a compilation copyright requires “copying of
+constituent elements of a work that are original,” Feist 499 U.S. at 360-61
+(emphasis added). This has come to require what is known as a “dissection
+analysis.” Haslett v. Hasselbeck, 757 F. Supp. 2d 73, 81 (D. Mass. 2010).
+To establish infringement, MRIS must show substantial similarity between
+its copyrighted work and what it alleges AHRN, Inc. to have copied. In evaluating
+substantial similarity for determining copyright infringement, the courts “first
+‘dissect’ the work to remove those aspects not protected by copyright….That
+dissection analysis is an appropriate method of evaluating substantial similarity
+even when actual copying has occurred. “By dissecting the accused work and
+identifying those features which are protected the court can also determine those
+aspects of the work that should be considered in the comparative analysis under
+the ordinary observer test."
+
+Yankee Candle Co. v. Bridgewater Candle, LLC,
+
+259 F.3d 25, 34 (1st Cir. 2001).
+In its Brief, MRIS has failed to conduct a proper dissection analysis and
+indeed, to the extent it compares anything, it compares the proverbial apples to
+oranges. The proper thing to compare would be the “selection, coordination or
+arrangement” of MRIS’s registered database to that of the AHRN, Inc. database.
+Instead, MRIS compares unprotected elements of its database, unpublished and
+undisclosed, with individual elements of AHRN, Inc.’s NeighborCity.com
+webpage, without first removing the unprotected individual elements from
+consideration.
+
+18
+
+Case 8:12-cv-00954-DKC Document 25 Filed 05/18/12 Page 23 of 30
+
+B.
+
+MRIS HAS FAILED TO ESTABLISH IRREPARABLE INJURY
+
+MRIS’s Complaint is largely silent as to the extent and nature of its alleged
+damages from copyright infringement. It alleges only that it is entitled to the
+maximum statutory damages based on willful infringement, and alternatively, its
+actual damages plus AHRN, Inc.’s profits from infringement “as will be proven at
+trial,” see, e.g., Complaint, ¶¶ 43, 49, 55, 64, 73, 83, but provides no other
+specific allegations of damages.
+In its Brief, MRIS alleges it is likely to suffer irreparable harm in the
+absence of injunctive relief on the basis that AHRN, Inc.’s alleged infringement
+“hinders MRIS’s rights to control the means and methods by which its
+copyrighted works will be seen by the public.” MRIS Brief, 11. 2 It also alleges
+significant harm to its real estate brokers and agent subscribers by allegedly
+“making it impossible for brokers to maintain control over the dissemination of
+their own listing information.” Id., 8.
+MRIS has presented three declarations in support of irreparable injury.
+Two are by MRIS subscribers: Campbell Declaration, MRIS Brief Exhibit D and
+Coile Declaration, id Exhibit E; one by its Chief Marketing Officer, Heithaus
+Declaration, id. Exhibit A. These declarations are grossly inadequate to establish
+MRIS’s irreparable injury.
+Indeed, the Court should strike or disregard the two subscriber
+Declarations as irrelevant, because “[t]he two more important factors [in the four
+part preliminary injunction test are] … those of irreparable injury to the plaintiff
+2
+
+At the same time, MRIS contends its Database is “unpublished,” see Complaint, ¶ 18,
+and thus not disclosed to the public.
+19
+
+Case 8:12-cv-00954-DKC Document 25 Filed 05/18/12 Page 24 of 30
+
+without a decree and of likely harm to the defendant with a decree.” Universal
+Furniture, 2006 U.S. App. LEXIS 22212 at *6 (emphasis added). This is true as
+a general matter even outside the realm of copyrights. The court lacks subject
+matter jurisdiction unless the plaintiff asserts his own injury. See Warth v. Sedin,
+422 U.S. 490, 499 (1975) ("The Art. III judicial power exists only to redress or
+otherwise to protect against injury to the complaining party, even though the
+count or judgment may benefit others collaterally.”) (emphasis added).
+Both Campbell and Coile make the identical allegation that “the
+NeighborCity.com website has caused and is causing irreparable harm to my real
+estate brokerage and business in Maryland.” Campbell Decl. ¶ 4, Coile Decl. ¶
+4. Allegations of injury to third parties are of no moment to the determination of
+irreparable injury to Plaintiff MRIS. See Warth, 422 U.S., at 499.
+The Declaration by MRIS’s Heithaus is also inadequate to establish
+irreparable injury for several reasons. First, MRIS alleges no “irreparable injury”
+to itself. Heithaus alleges only “significant harm.” Heithaus Decl. at ¶ 9. Second,
+the preponderance of harm that Heithaus alleges is, again, harm to MRIS’s
+“subscriber brokers and agents,” id. ¶ 10, and “reducing the revenues that MRIS
+broker subscribers and agents would otherwise earn,” id. ¶12.
+The only harm MRIS alleges to itself is the result of inaccuracies in the
+current status of properties on the NeighborCities.com website, which, MRIS
+claims affects the credibility and integrity of the information MRIS publishes and
+disseminates and hurts its reputation, id. ¶ 9, and “dilutes the value of the MRIS’s
+database,” id. ¶ 13. But the alleged inaccuracies on AHRN, Inc.’s website would
+
+20
+
+Case 8:12-cv-00954-DKC Document 25 Filed 05/18/12 Page 25 of 30
+
+presumptively harm AHRN, Inc., not MRIS.
+
+Moreover this allegation has no
+
+support and is entirely speculative, in that MRIS fails to present any evidence
+from any witness in whose eyes MRIS’s reputation was actually harmed by
+alleged mistakes on the NeighborCity web site.
+
+It is also inconsistent with
+
+copyright injury because the greater the discrepancies in the comparison
+between the MRIS Database, a “thinly” copyrighted compilation database, and
+the NeighborCity listings, the less likely there is infringement.
+The only remaining allegation of harm, not “irreparable injury,” is that
+AHRN, Inc.’s unauthorized use of real estate listings “dilutes the value of the
+MRIS database.” Id. ¶ 13. Again, this allegation is speculative and unsupported
+by any evidence. It is based on the assumption that purely informational real
+estate listings are copyrightable. It also lacks any allegation, let alone proof, of
+the historic value of the database and the current value of the database and
+proof of cause and effect between AHRN, Inc.’s use of the listings and any
+provable reduced value of the database. Finally, this alleged type of harm would
+be compensable with money damages, and therefore, not a proper basis for an
+irreparable injury determination.
+C.
+
+THE BALANCE OF EQUITIES FAVORS AHRN, INC.
+
+The timing and activities of the NAR, Northstar MLS, MRIS and other
+multiple listing services in late 2011 and early 2012 strongly suggests that this
+suit is part of an effort spearheaded by the National Association of Realtors to
+shut down Defendants’ Internet-based real estate agent ranking and rating
+website, www.NeighborCity.com by forcing AHRN, Inc. to spend its resources
+
+21
+
+Case 8:12-cv-00954-DKC Document 25 Filed 05/18/12 Page 26 of 30
+
+fighting off litigation. Thus for AHRN, Inc. these and possible additional lawsuits
+are an existential threat, the very intent of which is expressed by the Mosey
+email, Exhibit 9.
+By contrast, MRIS has established no cognizable injury to itself. First,
+injury to third parties is not recognized for irreparable injury, which means that
+the Campbell and Coile declarations must be disregarded.
+
+Second, MRIS’s
+
+claimed loss of “sweat of the brow” investment must also be disregarded
+because that is a concept that has been completely repudiated by the Supreme
+Court in Feist, 499 U.S. at 359-360.
+Thus, the ongoing damages to AHRN, Inc. clearly outweigh the zero
+damages to MRIS. The equities tip decidedly in AHRN, Inc.’s favor.
+D. THE PUBLIC INTEREST IS BEST SERVED BY COMPETITION
+MRIS alleges that the public interest would be served by an injunction
+because it would prevent the “misappropriation of the skills, creative energies
+and resources which are invested in the protected work,” quoting Apple
+Computer Inc. v. Franklin Computer Corp., 714 F. 2d 1240, 1255 (3d Cir. 1983).
+MRIS Brief 14. This is the “sweat of the brow” or rationale for copyrights that the
+Supreme Court specifically repudiated in Feist. In Feist, the Supreme Court held
+that its application of the 1909 Copyright Act makes clear that the “statute did not
+permit the ‘sweat of the brow’ approach. … Without a doubt the ‘sweat of the
+brow” doctrine flouted basic copyright principles.” Feist, 499 U.S. at 353-354.
+Thus Feist overrules Apple on which MRIS rests its public interest argument.
+
+22
+
+Case 8:12-cv-00954-DKC Document 25 Filed 05/18/12 Page 27 of 30
+
+E. AHRN, INC.’S DEFENSE OF COPYRIGHT MISUSE
+Even before discovery, the Mosey email strongly suggests that Mr. Mosey
+intends to violate prohibitions of the DOJ Consent Decree with NAR.
+
+What
+
+occurred after the NAR annual meeting redoubles suspicions that NAR, multiple
+listing services and certain brokers are currently engaged in what amounts to a
+potential U.S. v NAR II.
+Lending further evidence of concerted anticompetitive action by the
+multiple listing services, in addition to the sudden flood of cease-and-desist
+letters after Anaheim is the following: AHRN, Inc. met every cease-and-desist
+letter with an offer to negotiate a license for the use of the brokers’ or multiple
+listing services’ website. In each case, AHRN’s overture to license was rebuffed
+out of hand without negotiations.
+essentially the same language
+
+Each rejection used the same format and
+Attached as Exhibit 12 are the offer to and
+
+rejection from MRIS and as Exhibit 13, the offer to and rejection from NorthStar.
+The universal rejections raise the spectre of concerted refusals to deal by entities
+with market power which violate the antitrust laws. See Realcomp II, Ltd. v. FTC,
+635 F.3d 815, 824, 829 (6th Cir. 2011); Robertson v. Sea Pines Real Estate,
+2012 U.S. App. LEXIS 9694, at *8-9 (4th Cir. S.C., May 14, 2012).
+“A successful defense of misuse of copyright bars a culpable plaintiff from
+prevailing on an action for infringement of the misused copyright.” Lasercomb
+America, Inc. v. Job Reynolds, 911 F.2d 970, 972 (4th Cir. 1990). (injunction
+reversed).
+
+A full blown antitrust case need not be proven by defendants to
+
+prevail on a copyright misuse defense:
+
+23
+
+Case 8:12-cv-00954-DKC Document 25 Filed 05/18/12 Page 28 of 30
+
+The attempted use of a copyright to violate antitrust law probably
+would give rise to a misuse of copyright defense, the converse is
+not necessarily true -- a misuse need not be a violation of antitrust
+law in order to comprise an equitable defense to an infringement
+action. The question is not whether the copyright is being used in a
+manner violative of antitrust law (such as whether the licensing
+agreement is "reasonable"), but whether the copyright is being
+used in a manner violative of the public policy embodied in the
+grant of a copyright.
+Id. at 978.
+In Ocean Atl. Woodland Corp. v. DRH Cambridge Homes, 2003 U.S. Dist.
+LEXIS 16737, at *16 (N.D. Ill. Sep. 24, 2003), the Court held that assertion of a
+prospective copyright misuse defense cast grave doubt on whether plaintiff could
+prevail on the merits of its copyright infringement claim. The existence of the
+defense was among the deficiencies in proof of likelihood of success on the
+merits that warranted denial of a motion for preliminary injunction.
+V. CONCLUSION
+For the reasons stated above, defendants AHRN, Inc. and Cardella
+respectfully request the Court to deny MRIS’s motion for preliminary injunction.
+
+Respectfully submitted,
+__/s/ Richard S. Toikka_____
+Richard S. Toikka, Fed. Bar No. 13543
+L. Peter Farkas (pro hac vice)
+FARKAS+TOIKKA, LLP
+1101 30th Street, NW, Suite 500
+Washington, DC 20007
+202-337-7802 (phone)
+202-337-7808 (fax)
+rst@farkastoikka.com (email)
+
+24
+
+Case 8:12-cv-00954-DKC Document 25 Filed 05/18/12 Page 29 of 30
+
+Of Counsel:
+Christopher R. Miller (pro hac vice)
+Chief Legal Officer and General
+Counsel
+American Home Realty Network, Inc.
+222 7th Street, 2nd Floor
+San Francisco, California 94103
+800-357-3321 (phone)
+C.Miller@NeighborCity.com (email)
+Counsel for Defendants American Home
+Realty Network, Inc. and Jonathan J.
+Cardella
+
+25
+
+Case 8:12-cv-00954-DKC Document 25 Filed 05/18/12 Page 30 of 30
+
+CERTIFICATE OF SERVICE
+I, Richard S. Toikka, herby certify that on this the 18th of May, 2012, a
+copy of the foregoing Defendants’ Opposition to Plaintiff MRIS’s Motion for
+Preliminary Injunction was served by electronic means using the Court’s CM/ECF
+system upon:
+John T. Westermeier, Esquire
+Margaret A. Esquenet, Esquire
+FINNEGAN, HENDERSON, FARABOW, GARRETT & DUNNER, L.L.P.
+901 New York Avenue, NW
+Washington, DC 20001-4413
+/s/ Richard S. Toikka
+Richard S. Toikka
+
+26
+
+

@@ -1,0 +1,942 @@
+Case 1:11-cv-10509-MLW Document 19
+
+Filed 07/27/11 Page 1 of 25
+
+UNITED STATES DISTRICT COURT
+FOR THE
+DISTRICT OF MASSACHUSETTS
+__________________________________________
+
+)
+AMY ROTHBAUM, individually and on
+)
+behalf of all others similarly situated,
+)
+)
+Plaintiff,
+)
+)
+v.
+)
+)
+SAMSUNG TELECOMMUNICATIONS
+)
+AMERICA, LLC,
+)
+)
+Defendant.
+)
+__________________________________________)
+
+NO. 11-CV-10509-MLW
+
+DEFENDANT SAMSUNG TELECOMMUNICATIONS AMERICA, LLC’S
+OPPOSITION TO PLAINTIFF’S MOTION FOR LEAVE TO AMEND
+
+SAMSUNG TELECOMMUNICATIONS
+AMERICA, LLC
+By its attorneys,
+Robert M. Buchanan, Jr. (BBO No. 545910)
+rbuchanan@choate.com
+Brian A. Davis (BBO No. 546462)
+bad@choate.com
+Margaret E. Ives (BBO No. 668906)
+mives@choate.com
+CHOATE, HALL & STEWART LLP
+Two International Place
+Boston, Massachusetts 02110
+Tele: (617) 248-5000
+Fax: (617) 248-4000
+Date: July 27, 2011
+
+Case 1:11-cv-10509-MLW Document 19
+
+Filed 07/27/11 Page 2 of 25
+
+TABLE OF CONTENTS
+Page
+Introduction ...................................................................................................... 1
+Procedural Background ........................................................................................ 1
+The Relevant Standard ......................................................................................... 3
+The Plaintiff’s Allegations..................................................................................... 5
+Argument ......................................................................................................... 7
+I.
+
+PLAINTIFF’S MOTION TO FURTHER AMEND HER COMPLAINT
+SHOULD BE DENIED AS FUTILE BECAUSE THE REVISED
+ALLEGATIONS OF HER PROPOSED SECOND AMENDED COMPLAINT
+DO NOT CURE THE LEGAL DEFICIENCIES IN HER EXISTING CLAIMS.......... 7
+A.
+
+II.
+
+Plaintiff’s Claim For Breach of Warranty Under Mass. General Laws c.
+106 Still Would Fail As A Matter Of Law. .............................................. 7
+1.
+
+STA Still Was Not Given Proper Notice And An Opportunity To
+Resolve The Plaintiff’s Claim. .................................................... 7
+
+2.
+
+The “Internal Service Bulletin” On Which The Plaintiff Heavily
+Relies Still Refutes, Rather Than Supports, The Central
+Allegations Of Her Complaint..................................................... 9
+
+3.
+
+Plaintiff Still Has Not Alleged Sufficient Facts To Bring Her
+AT&T Transaction Within The Scope Of The UCC. ......................... 10
+
+B.
+
+Plaintiff’s Putative Class Claims Still Are Subject To Dismissal..................... 12
+
+C.
+
+Plaintiff’s Claim For Breach Of Warranty Under Texas Law Still Fails
+For The Simple Reason That Texas Law Does Not Govern. ......................... 13
+
+PLAINTIFF’S MOTION TO FURTHER AMEND HER COMPLAINT
+SHOULD BE DENIED AS FUTILE BECAUSE THE ALLEGATIONS OF
+HER PROPOSED SECOND AMENDED COMPLAINT ARE INSUFFICIENT
+TO SUPPORT HER PROPOSED CLAIM UNDER CHAPTER 93A. ...................... 13
+A.
+
+Plaintiff Cannot Recover Under Chapter 93A For Breach Of Warranty............ 14
+
+B.
+
+Plaintiff Cannot Recover Under Chapter 93A Based On STA’s Purported
+Failure To Disclose A So-Called “Random Shut Down Defect.”.................... 14
+
+C.
+
+Plaintiff Cannot Recover Under Chapter 93A When Effective Relief Is
+Available Without Need Of Litigation. ................................................... 16
+
+Conclusion........................................................................................................ 18
+Request For Oral Argument................................................................................... 19
+-i-
+
+Case 1:11-cv-10509-MLW Document 19
+
+Filed 07/27/11 Page 3 of 25
+
+TABLE OF AUTHORITIES
+CASES
+Abraham v. Woods Hole Oceanographic Institute,
+533 F.3d 114 (1st Cir. 2009) ........................................................................... 4
+Ashcroft v. Iqbal,
+129 S. Ct. 1937 (2009) ............................................................................... 4, 8
+Aspinall v. Philip Morris Cos., Inc.,
+442 Mass. 381 (2004)................................................................................... 15
+AT&T Mobility, LLC v. Concepcion,
+131 S. Ct. 1740 (2011) .............................................................................17-18
+Avritt v. Reliastar Life Ins. Co.,
+No. 07-1817, 2009 U.S. Dist. LEXIS 51524 (D. Minn. June 18, 2009)...................... 12
+Bedi v. Hewlett-Packard Co. and Staples, Inc.,
+No. 07-12318, 2008 U.S. Dist. LEXIS 102672 (D. Mass. Nov. 17, 2008) .............4, 6, 9
+Bell Atlantic Corp. v. Twombly,
+550 U.S. 544 (2007) ............................................................................. 4, 5, 11
+Blackstone Realty LLC v. FDIC,
+244 F.3d 193 (1st Cir. 2001) ........................................................................... 5
+Boston & Me. Corp. v. Hampton,
+987 F.2d 855 (1st Cir. 1993) ........................................................................... 4
+Brown v. Bank of America Corp.,
+No. 10-11085, 2011 U.S. Dist. LEXIS 36235 (D. Mass. Mar. 31, 2011)..................... 3
+Burnham v. Mark IV Homes,
+387 Mass. 575 (1982)................................................................................... 16
+Delano Growers’ Cooperative Winery v. Supreme Wine Co.,
+393 Mass. 666 (1985)................................................................................... 18
+Drobnak v. Andersen Corp.,
+561 F.3d 778 (8th Cir. 2009).......................................................................... 12
+Faherty v. CVS,
+No. 09-12102, 2011 U.S. Dist. LEXIS 23547 (D. Mass. Mar. 9, 2011) ..................... 13
+Fisher v. C.R. Bard, Inc.,
+No. 94-11324, 1996 U.S. Dist. LEXIS 823 (D. Mass. Jan. 3, 1996) (Wolf, J.) ............. 3
+
+-ii-
+
+Case 1:11-cv-10509-MLW Document 19
+
+Filed 07/27/11 Page 4 of 25
+
+Glassman v. Computervision Corp.,
+90 F.2d 617 (1st Cir. 1996) ............................................................................ 4
+Griffin v. Schneider,
+No. 93-1253, 1993 U.S. App. LEXIS 15147 (1st Cir. June 24, 1993)........................ 10
+Hershenow v. Enter. Rent-A-Car Co.,
+445 Mass. 790 (2006)................................................................................... 16
+House of Clean, Inc. v. St. Paul Fire and Marine Ins. Co.,
+No. 07-10839, 2011 U.S. Dist LEXIS 37298 (D. Mass. Apr. 5, 2011) ....................... 3
+Iannacchino v. Ford Motor Co.,
+451 Mass. 623 (2008)...............................................................................14-16
+In re Ford Motor Co. Speed Control Deactivation Switch Prods. Liab. Litig.,
+No. 05-1718, 2007 U.S. Dist. LEXIS 62483 (E.D. Mich. Aug. 24, 2007) .................. 12
+Klein v. MHM Correctional Services, Inc.,
+No. 08-11814, 2010 U.S. Dist. LEXIS 83818
+(D. Mass. Aug. 16, 2010) (Wolf, J.) ......................................................4, 6, 9, 17
+L.B. Corp. v. Schweitzer-Mauduit Int’l,
+121 F. Supp. 2d 147 (D. Mass. 2000) (Ponsor, J.) ............................................... 15
+Markarian v. Connecticut Mutual Life Ins. Co.,
+202 F.R.D. 60 (D. Mass. 2001) (Wolf, J.) ......................................................... 16
+Mercury Marine v. Clear River Constr. Co.,
+839 So. 2d 508 (Miss. 2003) ........................................................................... 9
+Ocasio-Hernandez v. Fortuño-Burset,
+640 F.3d 1 (1st Cir. 2011) ............................................................................. 11
+Ralph Nugent v. Popular Market, Inc.,
+353 Mass. 45 (1967) ................................................................................ 8, 18
+Sebago, Inc. v. Beazer East, Inc.,
+18 F. Supp. 2d 70 (D. Mass. 1998) (Wolf, J.).................................................11-12
+SEC v. Tambone,
+597 F.3d 436 (1st Cir. 2010) (en banc) ........................................................... 4, 8
+Stiegele v. Bailey,
+No. 05-10677, 2007 U.S. Dist. LEXIS 86469 (D. Mass. Aug. 23, 2007) (Wolf, J.) ....... 5
+Towner v. Bennington Constr. Co.,
+No. 00-33B, 2005 Mass. Super. LEXIS 534 (Mass. Super. Ct. Oct. 12, 2005)............. 16
+
+-iii-
+
+Case 1:11-cv-10509-MLW Document 19
+
+Filed 07/27/11 Page 5 of 25
+
+Uchitel v. Tripler & Co.,
+434 N.Y.S.2d 77 (N.Y. App. Term 1980) .......................................................... 9
+Underwood v. Risman,
+414 Mass. 96 (1993) .................................................................................... 15
+STATUTES
+Massachusetts General Laws Chapter 93A ........................................................ Passim
+OTHER AUTHORITIES
+James J. White & Robert S. Summers, Uniform Commercial Code § 8-6 (5th ed. 2000)........ 9
+Restatement (Second) of Conflict of Laws............................................................... 13
+940 C.M.R. Section 3.08(2) ............................................................................... 14
+
+-iv-
+
+Case 1:11-cv-10509-MLW Document 19
+
+Filed 07/27/11 Page 6 of 25
+
+Introduction
+Defendant Samsung Telecommunications America, LLC (“STA”) hereby opposes
+plaintiff Amy Rothbaum’s (“Plaintiff” or “Ms. Rothbaum”) Motion for Leave to Amend her
+Complaint in this action a second time (the “Motion to Further Amend”).
+This is a putative nationwide class action commenced by a single claimant, Ms.
+Rothbaum, involving allegedly defective “smartphones.” Plaintiff already has amended her
+Complaint once as of right.
+
+STA recently moved to dismiss the Plaintiff’s Amended
+
+Complaint (“A.C.”) under Fed. R. Civ. P. 12(b)(6) on multiple, independent grounds. Rather
+than respond to STA’s Motion to Dismiss, Plaintiff filed the present Motion to Further Amend
+and attached a proposed Second Amended Complaint (“S.A.C.”). Plaintiff’s proposed Second
+Amended Complaint, however, suffers from the same legal failings as her existing Amended
+Complaint and, if allowed, would be subject to dismissal on the same grounds. Thus, the
+Plaintiff’s Motion to Further Amend is futile and should be denied for the reasons discussed
+more fully below.
+Procedural Background
+Ms. Rothbaum claims to be the owner of an STA “Captivate” Galaxy S smartphone,
+which she reportedly purchased from an AT&T store in Holyoke, Massachusetts, in October
+2010.
+
+Smartphones are essentially handheld computers that also function as mobile
+
+telecommunication devices.
+
+Ms. Rothbaum alleges that her STA smartphone is defective
+
+because it purportedly shuts down at random times. Ms. Rothbaum further alleges that STA’s
+express warranty regarding her smartphone has “failed of [its] essential purpose,” even though
+Ms. Rothbaum never has provided STA, as opposed to AT&T, with proper notice or the
+opportunity to inspect, repair or replace her smartphone. Rather, Ms. Rothbaum immediately
+
+-1-
+
+Case 1:11-cv-10509-MLW Document 19
+
+Filed 07/27/11 Page 7 of 25
+
+commenced this federal court action against STA under Massachusetts and Texas law seeking
+certification of a nationwide class “of all persons who purchased a new Samsung Phone
+manufactured, distributed, or sold by Samsung in the United States.”
+
+Plaintiff’s original
+
+Complaint was filed on March 24, 2011. She subsequently filed an Amended Complaint,
+which incorporates various new allegations and claims, as of right on April 7, 2011.
+On June 30, 2011, STA filed a Motion to Dismiss the Plaintiff’s Amended Complaint
+as a matter of law pursuant to Fed. R. Civ. P. 12(b)(6). Plaintiff’s claims against STA are
+fatally flawed. Even assuming that Ms. Rothbaum’s Samsung smartphone is “defective” (an
+allegation that STA otherwise disputes), she never gave notice to STA, or sought any remedy
+from STA, before filing suit. Thus, there is no factual basis for her conclusory allegation that
+the contractual remedies offered by STA have “failed of [their] essential purpose.”
+
+STA
+
+stands ready to provide the Plaintiff with a fully functioning replacement smartphone pursuant
+to its standard, express warranty. This is a complete remedy. Ms. Rothbaum does not have
+any additional claims or rights under either Massachusetts or Texas law at the present time,
+and STA respectfully submits that the Plaintiff’s Amended Complaint should be dismissed in
+its entirety.
+After Ms. Rothbaum commenced this litigation, she sent a demand letter to STA under
+Massachusetts General Laws Chapter 93A describing the difficulties that she allegedly has
+experienced with her Galaxy S smartphone and demanding relief. Consistent with its express
+warranty, STA promptly responded by offering to provide the Plaintiff with a “new, fully
+functioning replacement” smartphone. See pages 8-9, infra.
+Ms. Rothbaum never responded to STA’s offer of a fully functioning replacement.
+Instead, she filed the present Motion to Further Amend her Amended Complaint to add yet
+
+-2-
+
+Case 1:11-cv-10509-MLW Document 19
+
+Filed 07/27/11 Page 8 of 25
+
+another claim against STA under Chapter 93A based on essentially the same facts as previously
+alleged. At the same time, the Plaintiff filed a Motion to Extend the Time to Respond to
+STA’s Motion to Dismiss until after the Court has ruled upon her Motion to Further Amend.1
+STA now opposes Ms. Rothbaum’s Motion to Further Amend, which does not, as she
+claims, render “moot” the arguments raised in STA’s Motion To Dismiss. See Plaintiff’s
+Motion To Extend Time, ¶ 4. To the contrary, the various deficiencies in the Plaintiff’s
+existing claims are not cured in her proposed Second Amended Complaint. Furthermore, the
+Plaintiff’s proposed claim under Chapter 93A suffers from the same deficiencies as the
+Plaintiff’s existing claims and would be subject to dismissal on the same grounds, as well as
+other, additional grounds.
+
+For these reasons, which are addressed more fully below, the
+
+Plaintiff’s Motion to Further Amend is futile and should be denied.
+The Relevant Standard
+A motion for leave to amend under Fed. R. Civ. P. 15(a)(2) may be denied where the
+proposed amendment would be futile. See, e.g., Fisher v. C.R. Bard, Inc., No. 94-11324,
+1996 U.S. Dist. LEXIS 823 (D. Mass. Jan. 3, 1996) (Wolf, J.) (granting defendant’s motion
+to dismiss and denying plaintiff’s motion for leave to amend to add a Chapter 93A claim on
+grounds of futility); see also Brown v. Bank of America Corp., No. 10-11085, 2011 U.S.
+Dist. LEXIS 36235 (D. Mass. Mar. 31, 2011) (denying leave to amend on grounds of futility);
+House of Clean, Inc. v. St. Paul Fire and Marine Ins. Co., No. 07-10839, 2011 U.S. Dist
+LEXIS 37298 (D. Mass. Apr. 5, 2011) (same).
+As the Plaintiff’s own motion papers acknowledge, “futility” in this context “means
+that the complaint, as amended, would fail to state a claim upon which relief could be
+1
+
+STA filed a separate opposition to the Plaintiff’s Motion to Extend Time on July 14, 2011 (Docket
+
+No. 17).
+
+-3-
+
+Case 1:11-cv-10509-MLW Document 19
+
+Filed 07/27/11 Page 9 of 25
+
+granted.” Plaintiff’s Memorandum In Support Of Motion For Leave To Amend (“Pl. Mem.”)
+at 4; see also Abraham v. Woods Hole Oceanographic Institute, 533 F.3d 114, 117 (1st Cir.
+2009) (affirming that leave to amend would have been futile and was properly denied);
+Glassman v. Computervision Corp., 90 F.2d 617, 623 (1st Cir. 1996) (same); Boston & Me.
+Corp. v. Hampton, 987 F.2d 855, 868 (1st Cir. 1993) (same).
+A complaint fails to state a claim when it does not “contain sufficient factual matter,
+[if] accepted as true, to ‘state a claim to relief.’” Ashcroft v. Iqbal, 129 S. Ct. 1937, 1949
+(2009) (quoting Bell Atlantic Corp. v. Twombly, 550 U.S. 544, 555 (2007)). A claim must
+rest on allegations of fact, not conclusory assertions. See SEC v. Tambone, 597 F.3d 436,
+442 (1st Cir. 2010) (en banc). In considering a motion to dismiss or a motion to amend, the
+court is entitled to rely on its experience in identifying pleadings “that, because they are no
+more than conclusions, are not entitled to the assumption of truth.” Iqbal, 129 S. Ct. at 1950.
+The court also “may disregard bald assertions, unsupportable conclusions, and opprobrious
+epithets.” Klein v. MHM Correctional Services, Inc., No. 08-11814, 2010 U.S. Dist. LEXIS
+83818, at *6 (D. Mass. Aug. 16, 2010) (Wolf, J.).
+A court further “may consider documents incorporated by reference in the complaint”
+in resolving a motion to dismiss. Bedi v. Hewlett-Packard Co. and Staples, Inc., No. 0712318, 2008 U.S. Dist. LEXIS 102672, at *2-3 (D. Mass. Nov. 17, 2008); see also Klein,
+2010 U.S. Dist. LEXIS 83818, at *6 (a document “merges into the pleadings” where the
+“factual allegations are expressly linked to – and admittedly dependent upon” the document).
+Likewise, the court is free to consider operative legal documents that are “central to plaintiff’s
+claim.” Klein, 2010 U.S. Dist. LEXIS 83818, at *6 (citing Watterson v. Page, 987 F.2d 1, 34 (1st Cir. 1993)).
+
+-4-
+
+Case 1:11-cv-10509-MLW Document 19
+
+Filed 07/27/11 Page 10 of 25
+
+Where an affirmative defense is “clear on the face of the plaintiff’s pleadings,” the
+complaint fails to state a claim and should be dismissed. Blackstone Realty LLC v. FDIC, 244
+F.3d 193, 197 (1st Cir. 2001) (internal quotations and citations omitted). Moreover, in light of
+the Supreme Court’s decision in Twombly, “[c]laims in a complaint need not only be possible
+but also plausible.” Stiegele v. Bailey, No. 05-10677, 2007 U.S. Dist. LEXIS 86469, at *3
+(D. Mass. Aug. 23, 2007) (Wolf, J.).
+The Plaintiff’s Allegations
+Plaintiff’s proposed Second Amended Complaint adds little to the factual allegations of
+her existing Amended Complaint. The central allegations of the Second Amended Complaint
+are essentially unchanged. For the convenience of the Court, STA summarizes the Plaintiff’s
+primary allegations in footnote 2, below.2
+
+2
+
+Plaintiff’s primary factual allegations, which STA accepts as true solely for purposes of its Motion to
+Dismiss and for purposes of this Opposition, are as follows:
+Smartphones are mobile telecommunication devices that also provide “advanced computing ability and
+wireless internet connectivity.” Proposed S.A.C., ¶ 13. Modern smartphone handsets “have many of the
+features possessed by computers,” including sophisticated “operating system (‘OS’) . . . software, consisting of
+programs and data, that runs on computers and manages computer hardware resources and provides common
+services for efficient execution of various application software.” Id.
+Samsung’s “Galaxy S” family of smartphones utilize the “Android” operating system. Proposed S.A.C.,
+¶ 14. Different models of Samsung’s Galaxy S smartphones are sold by different independent wireless service
+providers, such as AT&T, Sprint, T-Mobile and Verizon, according to their own terms and conditions. Id., ¶ 15.
+The “Captivate” model, sold by AT&T, is one such model. Id. To date, more than 14 million Samsung Galaxy
+S smartphones of the various types have been sold around the world, including more than one million in the
+United States. Id., ¶¶ 18-19.
+Plaintiff Amy Rothbaum, a New York resident, allegedly acquired a Samsung Galaxy S Captivate
+smartphone from an AT&T store in Holyoke, Massachusetts, on October 16, 2010. Proposed S.A.C., ¶ 43.
+Plaintiff thereafter encountered problems with her Captivate smartphone. Id., ¶ 44. She claims that her
+smartphone suffers from what she terms a “Random Shut Down Defect,” which purportedly causes the handsets
+to “power off, completely, when the Samsung Phones are in the ‘Standby’ mode.” Id., ¶¶ 22, 44-45. (The
+“standby” mode means that the handset is not in use. Id., ¶ 22.) Plaintiff also claims that, when she “notified
+AT&T of the [alleged] defect” in her Captivate, she received, from AT&T, another Samsung Captivate that
+purportedly suffered from the same condition. Id., ¶ 46.
+
+-5-
+
+Case 1:11-cv-10509-MLW Document 19
+
+Filed 07/27/11 Page 11 of 25
+
+In addition to the central allegations of her Amended Complaint, which are repeated in
+her proposed Second Amended Complaint, the Plaintiff now proposes: (1) to assert that she
+“purchased her phone separate and apart from any service contract with AT&T” (Proposed
+S.A.C., ¶ 7); (2) to allege that STA sells additional models of its Galaxy S smartphones for
+use with carriers Verizon, U.S. Cellular, and Cellular South (id., ¶ 25); (3) to quote seven
+more anonymous Internet postings concerning these three models of STA smartphones (id.,
+¶ 30(e)-(g)); and (4) to recharacterize, in a conclusory and inaccurate fashion, STA’s response
+to the Plaintiff’s recent Chapter 93A demand letter (id., ¶ 66). As explained below, these
+additional allegations do not cure the deficiencies in the Plaintiff’s existing claims for breach of
+warranty, nor are they enough to sustain the Plaintiff’s proposed new claim against STA under
+Chapter 93A. Accordingly, the Court should deny the Plaintiff’s Motion to Further Amend for
+the reasons that follow.
+
+On the basis of her particular experience with Samsung’s Galaxy S Captivate model smartphone, as well
+as 32 anonymous Internet posts from other purported users of Galaxy S smartphones, Ms. Rothbaum assumes and
+claims that all Samsung Galaxy S smartphones suffer from the same “Random Shut Down Defect,” which
+purportedly “prevents the Samsung Phones from being used for their intended purpose.” Proposed S.A.C., ¶¶
+20, 30, 44-50.
+Plaintiff further claims that STA is “aware of” and “admits” the pervasive “Random Shut Down Defect”
+alleged in her Complaint, citing a purported “internal service bulletin” that she apparently found on the Internet.
+Proposed S.A.C., ¶ 32 (“On December 20, 2010, Samsung published an internal service bulletin that boldly
+admitted that ‘some Captivate devices may experience power-off when in the standby mode.’”). A copy of that
+“bulletin” is appended to this Memorandum as Exhibit A. See Bedi, 2008 U.S. Dist. LEXIS 102672, at *2-3;
+Klein, 2010 U.S. Dist. LEXIS 83818, at *6.
+On its face, however, the “internal service bulletin” cited by the Plaintiff was issued by AT&T, not
+STA. Among other things, the document begins by referring to the other party as “Manufacturer(s): Samsung.”
+See Exhibit A. It also describes AT&T as the “Company,” and it is directed to various categories of AT&T
+distributors (i.e., “Company Owned Retail,” “Dealers,” and “Direct Fulfillment”). Id. Furthermore, if
+customers reportedly experience an issue, it directs AT&T’s distributors to “please exchange their device.” Id.
+AT&T’s bulletin also explicitly states that there is only a “small group of Samsung i897 Captivate devices which
+may experience” the issue described, and that “[m]ost customers are not expected to see an issue.” Id. (emphasis
+added).
+Nowhere in her Complaint does Ms. Rothbaum allege that she ever gave notice to, sought a remedy
+from, or even communicated with, STA before commencing this legal action.
+
+-6-
+
+Case 1:11-cv-10509-MLW Document 19
+
+Filed 07/27/11 Page 12 of 25
+
+Argument
+I.
+
+PLAINTIFF’S MOTION TO FURTHER AMEND HER COMPLAINT SHOULD
+BE DENIED AS FUTILE BECAUSE THE REVISED ALLEGATIONS OF HER
+PROPOSED SECOND AMENDED COMPLAINT DO NOT CURE THE LEGAL
+DEFICIENCIES IN HER EXISTING CLAIMS.
+Plaintiff has supported her Motion to Further Amend with a bare-bones Memorandum
+
+(Docket No. 14, filed July 13, 2011) which completely ignores the various fatal deficiencies in
+her existing claims that are identified in STA’s pending Motion to Dismiss. STA’s Motion to
+Dismiss (Docket No. 12, filed June 30, 2011) demonstrates that the Plaintiff’s claims for
+breach of implied warranty are, on their face, legally deficient and subject to dismissal as a
+matter of law. Plaintiff’s proposed Second Amended Complaint, however, does not cure these
+deficiencies. Instead, it only highlights the extent to which the Plaintiff is unable to allege
+facts sufficient to support her claims as set forth below.
+A.
+
+Plaintiff’s Claim For Breach of Warranty Under Mass. General Laws
+c. 106 Still Would Fail As A Matter Of Law.
+
+Plaintiff’s claim for breach of implied warranty fails for multiple reasons, as
+demonstrated in STA’s Memorandum In Support Of Its Motion To Dismiss (“Mem. In Support
+Of MTD”) at pages 5-15. The proposed Second Amended Complaint does not materially alter
+the allegations of Count I, and does not cure the various deficiencies that undermine this claim.
+1.
+
+STA Still Was Not Given Proper Notice And An Opportunity To
+Resolve The Plaintiff’s Claim.
+
+Ms. Rothbaum first made contact with STA when she filed her original Complaint on
+March 24, 2011, having never before informed STA that she was experiencing difficulties with
+her STA smartphone. Plaintiff’s factual allegations make clear that, before filing suit, she
+provided notice to AT&T, but not to STA. See Proposed S.A.C., ¶ 45 (“Plaintiff notified
+AT&T”), ¶ 46 (“On March 1st, 2011, Plaintiff went to the AT&T store to inform
+-7-
+
+Case 1:11-cv-10509-MLW Document 19
+
+Filed 07/27/11 Page 13 of 25
+
+AT&T . . . .”). Plaintiff, however, has chosen to sue STA, not AT&T. Massachusetts law
+requires her to give proper notice and an opportunity to cure to STA before doing so. See
+STA’s Mem. In Support Of MTD, pages 8-9. Plaintiff’s failure to give STA notice and an
+opportunity to cure makes it impossible, as a matter of both logic and law, for her to sustain
+her allegation that STA’s standard contractual remedies necessarily have “failed of their
+essential purpose.” A.C., ¶ 65; Proposed S.A.C., ¶ 65. Her allegation to that effect in both
+her Amended Complaint and her proposed Second Amended Complaint is, therefore,
+implausible and conclusory, and does not state a claim upon which relief may be granted.
+Iqbal, supra at 4; Tambone, supra at 4.
+Plaintiff’s proposed allegation that she recently sent STA a demand letter under
+Chapter 93A (Proposed S.A.C., ¶ 66) does not change this result for at least two reasons.
+First, under Massachusetts warranty law, Ms. Rothbaum was required to give notice to STA
+before bringing suit, so that STA would have an opportunity to resolve her claim by “normal
+settlement through negotiation” and without need of litigation. See Ralph Nugent v. Popular
+Market, Inc., 353 Mass. 45, 50 (1967); see also STA’s Mem. In Support Of MTD, page 9.
+Plaintiff’s decision to shoot first and give notice later improperly and unfairly deprived STA of
+that opportunity.
+Second, STA actually has offered Ms. Rothbaum a “fully functioning replacement”
+smartphone for her allegedly defective unit, which is, in fact, a complete remedy for her
+alleged loss. See page 15, infra. On May 17, 2011, the Plaintiff sent a demand letter to STA,
+which purported to notify STA of a claim under Chapter 93A. Proposed S.A.C., ¶ 66. STA
+responded promptly. Plaintiff alleges that STA’s response was inadequate. Id. The proposed
+Second Amended Complaint expressly relies upon STA’s response letter.
+
+-8-
+
+It is therefore
+
+Case 1:11-cv-10509-MLW Document 19
+
+Filed 07/27/11 Page 14 of 25
+
+appropriate for the Court to examine the document in assessing the sufficiency of the proposed
+complaint.3 A copy of STA’s response to Ms. Rothbaum’s demand is attached as Exhibit B.
+STA wrote:
+Samsung is prepared to provide her immediately with a new, fully
+functioning replacement Galaxy S Handset in accordance with the terms
+of Samsung’s limited product warranty.
+Exhibit B, page 3 (emphasis added). As a matter of logic, the Plaintiff cannot seek a warranty
+remedy, spurn the remedy when it is offered, and then sue for failure to provide it. See
+Uchitel v. Tripler & Co., 434 N.Y.S.2d 77, 81 (N.Y. App. Term 1980) (“Case law has held
+that where a buyer unreasonably refuses to permit a seller to exercise his right to cure, no
+breach of warranty action premised on the defect sought to be cured may be maintained.”);
+Mercury Marine v. Clear River Constr. Co., 839 So. 2d 508, 515 (Miss. 2003) (“[W]e find
+that the express and implied warranties were not breached because [the buyer] did not allow
+[the seller] to cure.”); 1 James J. White & Robert S. Summers, Uniform Commercial Code §
+8-6 (5th ed. 2000) (“The buyer’s wrongful refusal to allow cure . . . deprives the buyer of all
+remedies against the seller for breach arising from the contract.”).
+2.
+
+The “Internal Service Bulletin” On Which The Plaintiff Heavily Relies
+Still Refutes, Rather Than Supports, The Central Allegations Of Her
+Complaint.
+
+In both her Amended Complaint and her proposed Second Amended Complaint, the
+Plaintiff relies upon a so-called “internal service bulletin,” dated December 20, 2010, for the
+proposition that STA “admits to having knowledge of the Random Shut Down Defect” in all of
+its Galaxy S smartphones. See A.C., ¶ 32; Proposed S.A.C., ¶ 32. Because this “internal
+3
+See Bedi, 2008 U.S. Dist. LEXIS 102672, at *2-3 (“[I]n considering the merits of a motion to dismiss,
+the court may consider documents incorporated by reference in the complaint.”); see also Klein, 2010 U.S. Dist.
+LEXIS 83818, at *6 (Wolf, J.) (a document “merges into the pleadings” where the “factual allegations are
+expressly linked to – and admittedly dependent upon” the document).
+
+-9-
+
+Case 1:11-cv-10509-MLW Document 19
+
+Filed 07/27/11 Page 15 of 25
+
+service bulletin” is expressly relied upon by the Plaintiff, STA submitted a copy to the Court in
+support of its pending Motion To Dismiss. See STA’s Mem. In Support Of MTD, pages 1213 and Exhibit A thereto. Another copy is attached to this Opposition as Exhibit A for the
+Court’s convenience.
+Upon examination, the “internal service bulletin” cited by the Plaintiff refutes, rather
+than supports, the Plaintiff’s allegations against STA. For example, the document, on its face,
+purports to be issued by AT&T, not by STA. See Exhibit A.4 It also expressly states that
+there is only a “small group of Samsung i897 Captivate devices which may experience” a
+problem with their smartphones, and that “[m]ost customers are not expected to see an issue.”
+Id. (emphasis added). Thus, the purported “service bulletin” actually contradicts, and renders
+impermissibly conclusory, the Plaintiff’s assertion that all STA Galaxy S handsets suffered
+from a known defect. Cf. Proposed S.A.C., ¶¶ 1-2, 63, 72, 75, 86; see also Griffin v.
+Schneider, No. 93-1253, 1993 U.S. App. LEXIS 15147, at *7-8 (1st Cir. June 24, 1993)
+(unpublished) (upholding dismissal where the claim asserted “[a] purely conclusory statement,
+contradicted by the very facts described in plaintiffs’ complaint”). Nothing in the Plaintiff’s
+proposed Second Amended Complaint addresses or resolves this fatal deficiency.
+3.
+
+Plaintiff Still Has Not Alleged Sufficient Facts To Bring Her AT&T
+Transaction Within The Scope Of The UCC.
+
+STA further demonstrates in its Motion to Dismiss that the UCC, upon which the
+Plaintiff’s primary claims against STA are based, simply does not govern the Plaintiff’s
+purchase of her Galaxy S smartphone. See Mem. In Support Of MTD, pages 13-15. Plaintiff
+4
+
+Among other things, the “internal service bulletin” begins by referring to the other party as
+“Manufacturer(s): Samsung.” See Exhibit A. It also describes AT&T as the “Company,” and it is directed to
+various categories of AT&T distributors (i.e., “Company Owned Retail,” “Dealers,” and “Direct Fulfillment”).
+Id. Furthermore, if customers reportedly experience an issue, it directs AT&T’s distributors to “please exchange
+their device.” Id.
+
+-10-
+
+Case 1:11-cv-10509-MLW Document 19
+
+Filed 07/27/11 Page 16 of 25
+
+obtained her smartphone at an AT&T store. AT&T typically provides smartphones as part of
+a package of telecommunications services.
+
+Id. at 13 (citing AT&T Mobility, LLC v.
+
+Concepcion, 131 S. Ct. 1740 (2011)). A transaction that is predominantly for services is not
+subject to the UCC. Id. at 14 (citing Sebago, Inc. v. Beazer East, Inc., 18 F. Supp. 2d 70 (D.
+Mass. 1998) (Wolf, J.)). Thus, the Plaintiff does not have a cognizable claim against STA
+under the UCC. Id.
+Plaintiff’s proposed Second Amended Complaint contains one new allegation that
+attempts to bring her claims within the scope of the UCC. Paragraph 7 is augmented by a
+vague allegation that “Ms. Rothbaum purchased her phone separate and apart from any service
+contract with AT&T.” No specifics are provided as to what arrangement the Plaintiff actually
+entered with AT&T. Because the Plaintiff has inserted this ambiguous phrase in response to
+the argument raised by STA’s earlier Motion to Dismiss, the Court may infer that the Plaintiff
+is unwilling to plead specific facts that address it. An ambiguous allegation is not sufficient to
+state a plausible claim. Twombly, 550 U.S. at 555 (“a plaintiff's obligation to provide the
+‘grounds’ of his ‘entitle[ment] to relief' requires more than labels and conclusions”); see also
+Ocasio-Hernandez v. Fortuño-Burset, 640 F.3d 1, 12 (1st Cir. 2011) (“In resolving a motion
+to dismiss, a court . . . should begin by identifying and disregarding statements in the
+complaint that merely offer ‘legal conclusion[s] couched as . . . fact[].’”) (quoting Twombly).
+The Court is entitled to disregard the Plaintiff’s new, unclear allegation unless and until
+the Plaintiff clarifies precisely what she acquired from AT&T. Twombly, 550 U.S. at 555;
+Ocasio-Hernandez, 640 F.3d at 12. If the Plaintiff entered into a contract with AT&T to
+provide telecommunications services in conjunction with her STA smartphone, then her
+
+-11-
+
+Case 1:11-cv-10509-MLW Document 19
+
+Filed 07/27/11 Page 17 of 25
+
+transaction is predominantly a purchase of services and is not governed by the UCC. Sebago,
+18 F. Supp. 2d at 85.
+B.
+
+Plaintiff’s Putative Class Claims Still Are Subject To Dismissal.
+
+STA’s Motion To Dismiss also establishes that the Plaintiff’s Amended Complaint does
+not plead a valid warranty claim on behalf of any class because, among other things, the
+members of the putative class also have not provided STA with the required notice and
+opportunity to cure. See STA’s Mem. In Support Of MTD, pages 8-10.
+The allegations of the Plaintiff’s proposed Second Amended Complaint do not remove
+this fatal flaw.
+
+While the Plaintiff attempts to expand her proposed class definition by
+
+including three additional models of STA’s Galaxy S smartphones, and by incorporating seven
+more anonymous Internet postings pertaining to those models, the Plaintiff still has not alleged
+(nor can she allege) that the individual members of the putative class have given STA proper
+notice of their claims, and an opportunity to cure, in advance of filing suit. See, e.g., Drobnak
+v. Andersen Corp., 561 F.3d 778, 785 (8th Cir. 2009) (dismissing class action based on
+individual class members’ failure to provide required notice); In re Ford Motor Co. Speed
+Control Deactivation Switch Prods. Liab. Litig., No. 05-1718, 2007 U.S. Dist. LEXIS 62483,
+at *17 (E.D. Mich. Aug. 24, 2007) (rejecting class action claim because “Plaintiff failed to
+provide individual notice to Defendants of the alleged defect”).
+Lacking any valid claim on behalf of a defined class, this case does not sustain federal
+jurisdiction. See STA’s Mem. In Support Of MTD, pages 15-17; see also Avritt v. Reliastar
+Life Ins. Co., No. 07-1817, 2009 U.S. Dist. LEXIS 51524, at *3-4 (D. Minn. June 18, 2009)
+(jurisdiction under CAFA does not exist once it is determined that the complaint does not state
+
+-12-
+
+Case 1:11-cv-10509-MLW Document 19
+
+Filed 07/27/11 Page 18 of 25
+
+a class claim). Plaintiff’s proposed Second Amended Complaint does not overcome the lack of
+federal court jurisdiction.
+C.
+
+Plaintiff’s Claim For Breach Of Warranty Under Texas Law Still Fails For
+The Simple Reason That Texas Law Does Not Govern.
+
+STA has moved to dismiss the Plaintiff’s claim for breach of the implied warranty
+under Texas law for the simple reason that the State of Texas bears no reasonable relationship
+to the Plaintiff’s transaction. See STA’s Mem. In Support Of MTD, pages 17-18. Plaintiff is
+a New York resident who allegedly purchased her STA smartphone from an AT&T store in
+Holyoke, Massachusetts. Proposed S.A.C., ¶¶ 7, 43. Massachusetts choice-of-law analysis,
+which is guided by the Restatement (Second) of Conflict of Laws, does not support the
+application of Texas law to that transaction. See, e.g., Faherty v. CVS, No. 09-12102, 2011
+U.S. Dist. LEXIS 23547 (D. Mass. Mar. 9, 2011). Nothing in the Plaintiff’s proposed Second
+Amended Complaint changes this analysis or the expected result.
+For the foregoing reasons, all of the Plaintiff’s existing claims will remain subject to
+dismissal under Fed. R. Civ. P. 12(b)(6) regardless of whether the Court grants the Plaintiff’s
+Motion to Further Amend. Accordingly, the Court should deny that Motion as futile.
+II.
+
+PLAINTIFF’S MOTION TO FURTHER AMEND HER COMPLAINT SHOULD
+BE DENIED AS FUTILE BECAUSE THE ALLEGATIONS OF HER PROPOSED
+SECOND AMENDED COMPLAINT ARE INSUFFICIENT TO SUPPORT HER
+PROPOSED CLAIM UNDER CHAPTER 93A.
+Plaintiff also seeks to add an additional claim under Mass. General Laws Chapter 93A
+
+based on essentially the same facts that underlie her present claims.
+
+Plaintiff’s proposed
+
+Chapter 93A claim necessarily fails, however, for many of the same reasons articulated in
+Section I, supra, as well as for the additional reasons set forth below.
+
+-13-
+
+Case 1:11-cv-10509-MLW Document 19
+
+A.
+
+Filed 07/27/11 Page 19 of 25
+
+Plaintiff Cannot Recover Under Chapter 93A For Breach Of Warranty.
+
+The first branch of the Plaintiff’s proposed Chapter 93A claim alleges breach of the
+implied warranty. See Proposed S.A.C., ¶¶ 73-74. This claim mirrors and is interconnected
+with the Plaintiff’s existing claim for breach of warranty under Mass. General Laws c. 106, as
+asserted in Count I of her Amended Complaint. Plaintiff’s claim for breach of warranty under
+Massachusetts law is subject to dismissal for the reasons set forth in Section I(A), supra.
+Where a Chapter 93A claim and a breach of warranty claim are “interconnected,” the
+deficiencies that warrant dismissal of one claim “also warrant dismissal” of the other. See
+Iannacchino v. Ford Motor Co., 451 Mass. 623, 635 (2008). Thus, the Plaintiff’s proposed
+Chapter 93A claim based upon STA’s purported breach of warranty is doomed to fail along
+with Count I of the Plaintiff’s Amended Complaint.5
+B.
+
+Plaintiff Cannot Recover Under Chapter 93A Based On STA’s Purported
+Failure To Disclose A So-Called “Random Shut Down Defect.”
+
+The second branch of the Plaintiff’s proposed Chapter 93A claim alleges a knowing
+failure by STA to disclose what the Plaintiff describes as a “Random Shut Down Defect” that
+purportedly is present in all Galaxy S smartphones. See Proposed S.A.C., ¶¶ 72-75. Once
+again, the Plaintiff’s claim is based on conclusory assertions that are not sustained by the
+
+5
+
+This result not only is legally correct, it also is logically correct. As partial justification for her
+Chapter 93A claim, the Plaintiff cites Section 3.08(2) of the Attorney General’s regulations, which states:
+It shall be an unfair and deceptive act or practice to fail to perform or fulfill any promises or
+obligations arising under a warranty.
+940 C.M.R. 3.08(2). Plaintiff cannot sustain the assertion that STA “fail[ed] to perform or fulfill any promises
+or obligations arising under a warranty,” however, when the Plaintiff’s own pleadings establish that STA never
+was provided with an opportunity, prior to suit, to do so.
+Moreover, when the Plaintiff eventually did make a demand for relief upon STA after commencing this
+lawsuit, STA promptly responded by offering to provide the Plaintiff with a “new, fully functioning replacement”
+smartphone pursuant to its standard warranty. See page 9, supra. Once again, STA cannot logically be said to
+have “fail[ed] to perform or fulfill any promises or obligations arising under a warranty” when the record clearly
+establishes that it has expressly offered to do exactly that.
+
+-14-
+
+Case 1:11-cv-10509-MLW Document 19
+
+factual allegations of the Complaint.
+
+Filed 07/27/11 Page 20 of 25
+
+As such, the Plaintiff’s proposed Second Amended
+
+Complaint fails to state a valid claim against STA under Chapter 93A for at least three reasons.
+First, where a product is sold in millions of units, it is not at all surprising that some
+units may not function properly, and that some consumers will be dissatisfied as a result.6 An
+alleged failure to disclose the potential for a problem does not give rise to a Chapter 93A
+violation, however.
+
+“The Massachusetts courts have made clear that a seller’s failure to
+
+disclose a potential problem, rather than an actual, known problem, does not amount to a
+violation of Chapter 93A.” L.B. Corp. v. Schweitzer-Mauduit Int’l, 121 F. Supp. 2d 147, 154
+(D. Mass. 2000) (Ponsor, J.); see also Underwood v. Risman, 414 Mass. 96, 100 (1993)
+(Chapter 93A does not require disclosure “because of a suspicion or a likelihood, rather than
+knowledge”).
+Second, STA’s prompt response to the Plaintiff’s belated Chapter 93A demand letter
+affirms that STA’s warranty program makes available to Ms. Rothbaum a complete remedy for
+her alleged harm.
+
+Plaintiff alleges that her STA product has not functioned as intended.
+
+Ms. Rothbaum does not allege any personal injury or harm to other property; she alleges only
+an economic loss. In a case where such a claim is recoverable, the measure of damages is the
+difference between the actual value of the (non-compliant) product and the value paid for the
+(supposedly compliant) product. Iannacchino, 451 Mass. at 631; see also Aspinall v. Philip
+Morris Cos., Inc., 442 Mass. 381, 399 (2004). STA has offered to provide a “new, fully
+functioning replacement” for Ms. Rothbaum’s Captivate. See Exhibit B, pages 3, 5; see also
+6
+
+Plaintiff alleges that 14 million Galaxy S smartphones have been sold. S.A.C. ¶ 19. Yet, the Plaintiff
+bases her allegation that all Galaxy S smartphones are defective on a total of just 32 selected, anonymous Internet
+complaints. Id., ¶¶ 30, 40. The flaws in the Plaintiff’s statistical analysis are obvious. Moreover, the so-called
+“internal service bulletin,” which is expressly relied upon by the Plaintiff, explicitly states that there is only a
+“small group of Samsung i897 Captivate devices which may experience” the issue described, and that “[m]ost
+customers are not expected to see an issue.” Exhibit A (emphasis added).
+
+-15-
+
+Case 1:11-cv-10509-MLW Document 19
+
+page 9, supra.
+
+Filed 07/27/11 Page 21 of 25
+
+This offer provides the full value of her alleged measure of damages.
+
+Accordingly, there is no conceivable basis for an additional recovery by the Plaintiff under
+Chapter 93A. See, e.g., Towner v. Bennington Constr. Co., No. 00-33B, 2005 Mass. Super.
+LEXIS 534 (Mass. Super. Ct. Oct. 12, 2005) (no violation of Chapter 93A could be found
+where defendants made offers to cure, and plaintiff refused to accept the offer).
+Third, a Chapter 93A plaintiff, like most other claimants, has an obligation to mitigate
+his or her damages. See Burnham v. Mark IV Homes, 387 Mass. 575, 584 (1982). “The
+general rule with respect to mitigation of damages is that a plaintiff may not recover for
+damages that were avoidable by the use of reasonable precautions on his part.” Id. Where a
+complete remedy is available, and the Plaintiff has chosen to spurn it, the Plaintiff is harmed as
+a result of her own tactics, not as a result of the Defendant’s conduct. Thus the Plaintiff’s
+tactical decision not to seek or accept a new fully-functioning replacement smartphone from
+STA breaks the causal connection between any alleged violation committed by STA and the
+alleged harm suffered by the Plaintiff, which precludes the Plaintiff from obtaining a recovery.
+See, e.g., Iannacchino, 451 Mass. at 631 (recovery under Chapter 93A requires a causal
+connection between the alleged violation and the alleged harm); Hershenow v. Enter. Rent-ACar Co., 445 Mass. 790, 802 (2006) (same); Markarian v. Connecticut Mutual Life Ins. Co.,
+202 F.R.D. 60, 68-69 (D. Mass. 2001) (Wolf, J.) (same).
+C.
+
+Plaintiff Cannot Recover Under Chapter 93A When Effective Relief Is
+Available Without Need Of Litigation.
+
+Lastly, the Plaintiff’s proposed claim under Chapter 93A is subject to dismissal as
+completely unnecessary.
+
+Contrary to the Plaintiff’s hyperbolic and conclusory assertions,
+
+effective relief for the harm alleged by the Plaintiff (i.e., an improperly functioning
+
+-16-
+
+Case 1:11-cv-10509-MLW Document 19
+
+Filed 07/27/11 Page 22 of 25
+
+smartphone) is available, without need of litigation, from at least two sources. Cf. Pl. Mem.
+at 2.
+First, Ms. Rothbaum and others who purchased from AT&T may look to the exact
+same arbitration remedy that was upheld by the U.S. Supreme Court on April 27, 2011 in
+Concepcion. As the Supreme Court explained, AT&T’s arbitration agreement is “‘quick, easy
+to use’ and likely to ‘promp[t] full or . . . even excess payment to the customer without the
+need to arbitrate or litigate.’” Concepcion, 131 S.Ct. at 1745, 1753 (upholding provision
+barring class action proceedings in AT&T customer agreement).7
+Second, Ms. Rothbaum and other consumers have available the remedies offered under
+STA’s express limited warranty, including repair or replacement of their allegedly
+malfunctioning devices. See Exhibit B.8 If a consumer is experiencing a problem, STA needs
+
+7
+
+AT&T’s standard terms and conditions provide for repair and replacement of a defective wireless
+device. If the customer is not satisfied, the customer may complete and submit a one-page Notice of Dispute form
+posted on AT&T’s website. Concepcion, 131 S. Ct. at 1744. If, within 30 days, AT&T does not offer to settle
+the claim or the dispute is not otherwise resolved, the customer may initiate an arbitration proceeding. Id. If the
+arbitrator awards to the customer more than AT&T had proposed in the last written settlement offer, then the
+customer may be awarded a $10,000 minimum recovery and twice the amount of the customer’s attorney’s fees.
+Id. As the Supreme Court affirmed, AT&T’s arbitration agreement is “‘quick, easy to use’ and likely to
+‘promp[t] full or . . . even excess payment to the customer without the need to arbitrate or litigate’ . . . [and it
+provides] ‘a substantial inducement for the consumer to pursue the claim in arbitration.’” Id. at 1745, 1753
+(emphasis in original). The full terms of AT&T’s standard customer agreement can be found online at
+http://www.wireless.att.com/learn/articles-resources/wireless-terms.jsp.
+8
+
+STA’s full express warranty is posted online, and it is stated in a booklet that comes with the product.
+The Court may consider the operative legal documents that are “central to plaintiff’s claim,” where their contents
+are not in dispute. Klein, 2010 U.S. Dist. LEXIS 83818, at *6 (citing Watterson, 987 F.2d at 3-4 ). We do not
+expect there will be a dispute about the wording of Samsung’s express warranty. The terms of the express
+warranty may be useful to the Court by way of background. They state, in part, as follows:
+SAMSUNG TELECOMMUNICATIONS AMERICA, LLC (“SAMSUNG”) warrants to the
+original purchaser (“Purchaser”) that SAMSUNG’s phones and accessories (“Products”) are
+free from defects in material and workmanship under normal use and service for the period
+commencing upon the date of purchase and continuing for the following specified period of time
+after that date: Phone: 1 Year. . . .
+
+-17-
+
+Case 1:11-cv-10509-MLW Document 19
+
+Filed 07/27/11 Page 23 of 25
+
+to hear from that person directly so that STA will have an opportunity to resolve the person’s
+claim by “normal settlement through negotiation,” an opportunity that is required by
+Massachusetts law. See Nugent, 353 Mass. at 50; see also Delano Growers’ Cooperative
+Winery v. Supreme Wine Co., 393 Mass. 666, 675 (1985); STA’s Mem. In Support Of MTD,
+pages 9, 15.
+Plaintiff has made a tactical decision to evade the AT&T arbitration remedy, and then
+to spurn STA’s offer of a “fully functioning replacement” as provided by the warranty, in her
+haste to commence expensive and time-consuming litigation. As the Supreme Court held in
+Concepcion, however, the Plaintiff is not entitled to spurn available remedies in order to
+further her wish to initiate a class action. This litigation is entirely meritless and unnecessary.
+Nothing in the Plaintiff’s proposed Second Amended Complaint makes it less so.
+Conclusion
+For all of the foregoing reasons, the Plaintiff’s Motion To Further Amend her existing
+Amended Complaint against STA should be denied.
+
+During the applicable warranty period, SAMSUNG will repair or replace, at SAMSUNG’s sole
+option, without charge to Purchaser, any defective component part of Product. To obtain
+service under this Limited Warranty, Purchaser must return Product to an authorized phone
+service facility in and adequate container for shipping, accompanied by Purchaser’s sales
+receipt. . . . All other repaired/replaced Product will be warranted for a period equal to the
+remainder of the original Limited Warranty on the original Product or for 90 days, whichever is
+longer.
+. . . .THIS LIMITED WARRANTY SHALL NOT EXTEND TO ANYONE OTHER THAN
+THE ORIGINAL PURCHASER OF THIS PRODUCT AND STATES PURCHASER’S
+EXCLUSIVE REMEDY. . . .
+See http://www.samsung.com/us/documentation/att/SGH-i897/ATT_SGHi897_Captivate_Virtual_User_Manual
+Guide/pubData/source/ATT_SGH-i897_Captivate_English_UM_KB1_WC_021611_F14_Web.pdf.
+
+-18-
+
+Case 1:11-cv-10509-MLW Document 19
+
+Filed 07/27/11 Page 24 of 25
+
+Request For Oral Argument
+STA believes that oral argument may assist the Court, and wishes to be heard.
+Accordingly, STA hereby requests oral argument on this Motion pursuant to Local
+Rule 7.1(D).
+Respectfully submitted,
+SAMSUNG TELECOMMUNICATIONS
+AMERICA, LLC
+By its attorneys,
+/s/ Robert M. Buchanan, Jr.
+Robert M. Buchanan, Jr. (BBO No. 545910)
+rbuchanan@choate.com
+Brian A. Davis (BBO No. 546462)
+bad@choate.com
+Margaret E. Ives (BBO No. 668906)
+mives@choate.com
+CHOATE, HALL & STEWART LLP
+Two International Place
+Boston, Massachusetts 02110
+Tele: (617) 248-5000
+Fax: (617) 248-4000
+Date: July 27, 2011
+
+-19-
+
+Case 1:11-cv-10509-MLW Document 19
+
+Filed 07/27/11 Page 25 of 25
+
+CERTIFICATE OF SERVICE
+I hereby certify that this document, filed through the ECF system, will be sent
+electronically to the registered participants as identified on the Notice of Electronic Filing and
+paper copies will be sent to those indicated as non-registered participants as of July 27, 2011.
+/s/ Robert M. Buchanan, Jr.
+Robert M. Buchanan, Jr. (BBO No. 545910)
+
+-204907497v7
+
+

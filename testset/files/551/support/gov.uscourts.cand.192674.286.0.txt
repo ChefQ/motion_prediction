@@ -1,0 +1,897 @@
+Case 3:07-cv-02845-WHA
+
+1
+2
+3
+4
+
+Document 286
+
+Filed 09/11/2008
+
+Page 1 of 8
+
+BRYAN WILSON (CA SBN 138842)
+ERIC C. PAI (CA SBN 247604)
+MORRISON & FOERSTER LLP
+755 Page Mill Road
+Palo Alto, California 94304-1018
+Telephone: 650.813.5600
+Facsimile: 650.494.0792
+E-Mail: BWilson@mofo.com; EPai@mofo.com
+
+5
+6
+7
+8
+9
+10
+11
+
+DAVID C. DOYLE (CA SBN 70690)
+STEVEN E. COMER (CA SBN 154384)
+BRIAN M. KRAMER (CA SBN 212107)
+MORRISON & FOERSTER LLP
+12531 High Bluff Drive, Suite 100
+San Diego, California 92130-2040
+Telephone: 858.720.5100
+Facsimile: 858.720.5125
+E-Mail: DDoyle@mofo.com; SComer@mofo.com;
+BMKramer@mofo.com
+Attorneys for Plaintiff
+APPLERA CORPORATION – APPLIED BIOSYSTEMS GROUP
+
+12
+13
+
+UNITED STATES DISTRICT COURT
+
+14
+
+NORTHERN DISTRICT OF CALIFORNIA
+
+15
+
+SAN FRANCISCO DIVISION
+
+16
+17
+
+APPLERA CORPORATION – APPLIED
+BIOSYSTEMS GROUP, a Delaware corporation,
+
+18
+Plaintiff,
+19
+v.
+20
+21
+
+ILLUMINA, INC., a Delaware corporation,
+SOLEXA, INC., a Delaware corporation, and
+STEPHEN C. MACEVICZ, an individual,
+
+22
+
+Case No.
+
+C07 02845 WHA
+
+APPLERA CORPORATION –
+APPLIED BIOSYSTEMS
+GROUP’S NOTICE OF MOTION
+AND MOTION FOR LEAVE TO
+FILE MOTION FOR
+RECONSIDERATION OF
+SUMMARY JUDGMENT OF
+NONINFRINGEMENT OF ’119
+PATENT
+
+Defendants.
+23
+24
+
+Trial Date:
+Time:
+Place:
+Judge:
+
+25
+26
+27
+28
+AB’S MOTION FOR LEAVE TO FILE MOTION FOR RECONSIDERATION
+Case No. C07 02845 WHA
+sd-441369
+
+September 29, 2008
+7:30 a.m.
+Courtroom 9, 19th Floor
+William H. Alsup
+
+Case 3:07-cv-02845-WHA
+
+1
+
+Document 286
+
+Filed 09/11/2008
+
+Page 2 of 8
+
+NOTICE OF MOTION AND MOTION
+
+2
+
+TO ALL DEFENDANTS AND THEIR ATTORNEYS OF RECORD:
+
+3
+
+PLEASE TAKE NOTICE THAT, as soon as this matter may be heard by the Court,
+
+4
+
+Plaintiff Applied Biosystems Inc., by and through its counsel, will move and hereby does move,
+
+5
+
+pursuant to Civil Local Rule 7-9, for leave to file a motion for reconsideration of the denial of its
+
+6
+
+motion for summary judgment of noninfringement as to claim 1 of U.S. Patent No. 5,969,119 (the
+
+7
+
+“’119 patent”). AB respectfully requests that the Court also set a briefing schedule that will allow
+
+8
+
+for a decision on this issue before phase II of trial commences.
+
+9
+
+This motion is based on the accompanying Memorandum of Points and Authorities, the
+
+10
+
+Declaration of Steven E. Comer in Support of AB’s Motion for Leave to File Motion for
+
+11
+
+Reconsideration of Summary Judgment of Noninfringement of ’119 Patent (“Comer Decl.”), and
+
+12
+
+the exhibit attached thereto, and on all of the documents and records on file in this action and all
+
+13
+
+matters judicially noticeable.
+
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+AB’S MOTION FOR LEAVE TO FILE MOTION FOR RECONSIDERATION
+Case No. C07 02845 WHA
+sd-441369
+
+1
+
+Case 3:07-cv-02845-WHA
+
+1
+
+Document 286
+
+Filed 09/11/2008
+
+Page 3 of 8
+
+MEMORANDUM OF POINTS AND AUTHORITIES
+
+2
+
+I.
+
+3
+
+Plaintiff Applied Biosystems Inc. (“AB”) respectfully requests that the Court reconsider,
+
+4
+
+prior to Phase II of trial, whether Defendants (“Illumina”) are barred from claiming infringement
+
+5
+
+of claim 1 of the ’119 patent under the doctrine of equivalents. The Court reserved judgment on
+
+6
+
+this issue because of ambiguities in the Federal Circuit’s decisions on claim vitiation and to wait
+
+7
+
+for a more developed record. Two weeks later, on September 8, 2008, the Federal Circuit issued
+
+8
+
+a decision in Carnegie Mellon University v. Hoffmann-La Roche that resolves any ambiguity and
+
+9
+
+establishes that the claim language alone bars Illumina from seeking infringement under the
+
+10
+
+INTRODUCTION
+
+doctrine of equivalents:
+
+11
+
+We agree with Roche and the district court that a finding that Taq is
+an equivalent of E. coli would essentially render the “bacterial
+source [is] E. coli” claim limitation meaningless, and would thus
+vitiate that limitation of the claims. Indeed, in drafting the claims,
+the patentees specifically chose to limit claim 4 to a recombinant
+plasmid where the bacterial source is E. coli. Appellants cannot
+now argue that any bacterial source, including Taq, would infringe
+that claim. Accordingly, summary judgment of noninfringement
+was appropriate.
+
+12
+13
+14
+15
+16
+
+Carnegie Mellon University v. Hoffmann-La Roche, Inc., Nos. 2007-1266 & 2007-1267, slip op.
+
+17
+
+at 24 (Fed. Cir. Sept. 8, 2008) (copy attached to Comer Decl. filed herewith).
+
+18
+19
+20
+21
+
+II.
+
+DISCUSSION
+A.
+
+Illumina’s Assertion of the Doctrine of Equivalents Should be
+Reconsidered in Light of the Federal Circuit’s Recent Decision in
+Carnegie Mellon.
+
+Claim 1 of the ’119 patent is limited to a probe containing a “NH” (phosphoramidate)
+
+22
+
+linkage. (Comer MSJ Decl. Ex. B, Docket No. 212-3.) Illumina concedes that AB’s probes do
+
+23
+
+not literally infringe this claim because they contain a different linkage, called a
+
+24
+
+phosphorothiolate. (Illumina’s Motion for Summary Judgment, Docket No. 203, at 8.) AB filed
+
+25
+
+a motion for summary judgment that the probes used in its systems also do not infringe claim 1 of
+
+26
+
+the ’119 patent under the doctrine of equivalents. (AB’s July 17, 2008 motion for summary
+
+27
+
+judgment; Docket No. 207.) AB argued that Illumina is barred from seeking infringement under
+
+28
+
+the doctrine of equivalents because extending the claim to cover a phosphorothiolate would
+AB’S MOTION FOR LEAVE TO FILE MOTION FOR RECONSIDERATION
+Case No. C07 02845 WHA
+sd-441369
+
+2
+
+Case 3:07-cv-02845-WHA
+
+Document 286
+
+Filed 09/11/2008
+
+Page 4 of 8
+
+1
+
+vitiate the phosphoramidate limitation, and because it is undisputed that the phosphorothiolate
+
+2
+
+linkage is cleaved under different and preferable conditions than the claimed phosphoramidate
+
+3
+
+linkage.
+
+4
+
+The Court denied AB’s motion as to the ’119 patent. (Docket No. 232 at 20.) The Court
+
+5
+
+noted that the Federal Circuit decisions on the issue of vitiation “seem to blow hot and cold.” (Id.
+
+6
+
+(citing Sage Products, Inc. v. Devon Industries, Inc., 126 F.3d 1420 (Fed. Cir. 1997) and Ethicon
+
+7
+
+Endo-Surgery, Inc. v. U.S. Surgical Corp., 149 F.3d 1309 (Fed. Cir. 1998)).) The Court further
+
+8
+
+noted that the totality of the circumstances must be considered, and the specific record presented
+
+9
+
+on summary judgment was “too undeveloped to be confident on this issue.” (Id.) Accordingly,
+
+10
+
+the Court denied summary judgment of noninfringement of claim 1 of the ’119 patent without
+
+11
+
+prejudice to a later motion in limine at trial.
+
+12
+
+Two weeks after the Court issued its Order, the Federal Circuit issued its decision in
+
+13
+
+Carnegie Mellon. This decision clarifies the law on claim vitiation and establishes that in a case
+
+14
+
+such as this, the issue can be decided based on the claim language alone, without further factual
+
+15
+
+development. It therefore supports reconsideration of whether Illumina is barred as a matter of
+
+16
+
+law from pursuing its infringement of claim 1 of the ’119 patent under the doctrine of equivalents.
+
+17
+
+This decision could not have been raised earlier because it was issued two weeks after the Court’s
+
+18
+
+August 22, 2008 Order. (Docket No. 232.) The decision therefore presents grounds for
+
+19
+
+reconsideration under Civil Local Rule 7-9(b)(1) and (2).1
+
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+1
+
+Civil Local Rule 7-9(b) provides that a party seeking leave of court to file a motion for
+reconsideration must show:
+(1) That at the time of the motion for leave, a material difference in
+fact or law exists from that which was presented to the Court before
+entry of the interlocutory order for reconsideration is sought. The
+party also must show that in the exercise of reasonable diligence the
+party applying for reconsideration did not know such fact or law at
+the time of the interlocutory order; or
+(2) The emergence of new material facts or a change of law
+occurring after the time of such order; or
+(3) A manifest failure by the Court to consider material facts or
+dispositive legal arguments which were presented to the Court
+before such interlocutory order.
+AB’S MOTION FOR LEAVE TO FILE MOTION FOR RECONSIDERATION
+Case No. C07 02845 WHA
+sd-441369
+
+3
+
+Case 3:07-cv-02845-WHA
+
+1
+
+B.
+
+Document 286
+
+Filed 09/11/2008
+
+Page 5 of 8
+
+2
+
+The Federal Circuit in Carnegie Mellon Barred the Patentee from
+Arguing that a Claim Limited to a Plasmid Derived from E. coli
+Extends to a Plasmid Derived from Taq.
+
+3
+
+The Federal Circuit’s decision in Carnegie Mellon establishes that when the patentee
+
+4
+
+chooses to limit a claim to one specific species, he cannot argue under the doctrine of equivalents
+
+5
+
+that the claim extends to a different species.
+
+6
+
+The patents in Carnegie Mellon relate to taking a DNA sequence that encodes for the
+
+7
+
+production of DNA polymerase (an enzyme that assists in DNA replication) and making that
+
+8
+
+sequence into a plasmid (a ring of DNA) that is inserted into a host bacterium that then creates
+
+9
+
+copies of the DNA plasmid as it grows and divides. Claim 1 of the ’745 patent broadly claimed a
+
+10
+
+plasmid containing DNA that codes for polymerase where that DNA sequence is derived from
+
+11
+
+any bacterial source:
+
+12
+13
+14
+15
+
+1. A recombinant plasmid containing a DNA coding sequence for
+the expression of DNA polymerase activity, wherein said DNA
+coding sequence is derived from a source that encodes a bacterial
+DNA Polymerase, said source not containing an amber mutation
+affecting expression of said DNA polymerase activity, such that
+when said plasmid is transformed into a bacterial host system the
+host system can grow and divide thereby replicating said plasmid.
+
+16
+
+Carnegie Mellon, slip op. at 22 (emphasis added by Federal Circuit). Claim 4 more narrowly
+
+17
+
+claimed a plasmid containing DNA that codes for polymerase where that DNA sequence is
+
+18
+
+derived from one specific bacterial source, E. coli:
+
+19
+20
+
+4. The recombinant plasmid of claim 3 wherein the bacterial host
+system and the bacterial source are each E. coli; and wherein the
+Nick-translation activity includes polymerase and 5'-3' exonuclease
+activities.
+
+21
+22
+
+Id. (emphasis added by Federal Circuit). The accused product used a plasmid containing DNA
+
+23
+
+that codes for polymerase, but the DNA sequence was derived from a different bacterial source,
+
+24
+
+Thermus aquaticus (“Taq”).
+
+25
+
+The U.S. District Court for the Northern District of California (the Honorable Susan
+
+26
+
+Illston) granted Roche’s motion for summary judgment that claims 1-3 (among other claims) are
+
+27
+
+invalid for lack of written description. Id. at 7-8. The Court also granted summary judgment of
+
+28
+
+noninfringement of claims 4-11 (among other claims) under the doctrine of equivalents. Id. at 8.
+AB’S MOTION FOR LEAVE TO FILE MOTION FOR RECONSIDERATION
+Case No. C07 02845 WHA
+sd-441369
+
+4
+
+Case 3:07-cv-02845-WHA
+
+Document 286
+
+Filed 09/11/2008
+
+Page 6 of 8
+
+1
+
+On appeal, Carnegie Mellon argued that “the substitution of Taq for E. coli was an insubstantial
+
+2
+
+and unimportant change that resulted in an infringing equivalent.” Id. at 23. Roche responded
+
+3
+
+that Carnegie Mellon’s infringement theory would vitiate the E. coli claim limitation, and that the
+
+4
+
+differences between Taq and E. coli are not insubstantial. Id.
+
+5
+
+The Federal Circuit reiterated that “the ‘all limitations rule’ restricts the doctrine of
+
+6
+
+equivalents by preventing its application when doing so would vitiate a claim limitation.” Id.
+
+7
+
+(citing Warner Jenkinson Co. v. Hilton Davis Chemical Co., 520 U.S. 17, 29 (1997)).2 It also
+
+8
+
+reiterated the rule that in determining whether a finding of infringement under the doctrine of
+
+9
+
+equivalents would vitiate a claim limitation, the court must consider “the totality of the
+
+10
+
+circumstances of each case and determine whether the alleged equivalent can be fairly
+
+11
+
+characterized as an insubstantial change from the claimed subject matter without rendering the
+
+12
+
+pertinent limitation meaningless.” Id. (citing Freedman Seating Co. v. Am. Seating Co., 420 F.3d
+
+13
+
+1350, 1359 (Fed. Cir. 2005)).
+
+14
+
+But the Federal Circuit concluded, based on the choice of claim language alone, that the
+
+15
+
+claim limitation requiring that the DNA source be E. coli cannot be extended to a product in
+
+16
+
+which the DNA source is Taq. The court held that because the patentee specifically chose to limit
+
+17
+
+claim 4 to a recombinant plasmid where the bacterial source is E. coli it “cannot now argue that
+
+18
+
+any bacterial source, including Taq, would infringe that claim.” Specifically, the court held:
+
+19
+
+We agree with Roche and the district court that a finding that Taq is
+an equivalent of E. coli would essentially render the “bacterial
+source [is] E. coli” claim limitation meaningless, and would thus
+vitiate that limitation of the claims. Indeed, in drafting the claims,
+the patentees specifically chose to limit claim 4 to a recombinant
+plasmid where the bacterial source is E. coli. Appellants cannot
+now argue that any bacterial source, including Taq, would infringe
+that claim. Accordingly, summary judgment of noninfringement
+was appropriate.
+
+20
+21
+22
+23
+24
+
+Id. at 24.
+
+25
+26
+27
+
+2
+
+Some Federal Circuit decisions call the “all limitations rule” the “all elements rule.”
+See, e.g., Cooper Cameron Corp. v. Kvaerner Oilfield Prods., 291 F.3d 1317, 1320-21 (Fed. Cir
+2002) (noting that the “all elements rule” is “more preferably” called the “all limitations rule”).
+
+28
+AB’S MOTION FOR LEAVE TO FILE MOTION FOR RECONSIDERATION
+Case No. C07 02845 WHA
+sd-441369
+
+5
+
+Case 3:07-cv-02845-WHA
+
+1
+
+C.
+
+2
+
+Document 286
+
+Filed 09/11/2008
+
+Page 7 of 8
+
+Illumina is Barred from Arguing that a Claim Limited to a Probe
+Containing a Phosphoramidate Linkage Extends to a Probe
+Containing a Phosphorothiolate Linkage.
+
+Macevicz similarly chose to limit claim 1 of the ’119 to a single linkage. The clarity and
+
+3
+4
+
+deliberateness of that choice is established by the claims in his related, and earlier-issued ’341
+
+5
+
+patent.3 In claim 7 of the ’341 patent, Macevicz broadly claimed the use of a probe containing
+
+6
+
+any “chemically scissile internucleosidic linkage:”
+
+7
+
+7. The method of claim 2 wherein said step of regenerating
+includes cleaving a chemically scissile internucleosidic linkage in
+said extended oligonucleotide probe.
+
+8
+9
+
+(’341 Patent, Comer MSJ Decl. Ex. A, Docket No. 212-2.) In claim 8 of the ’341 patent,
+
+10
+
+Macevicz expressly limited the claim to one specific chemically scissile internucleosidic linkage
+
+11
+
+— a phosphoramidate:
+
+12
+
+8. The method of claim 7 wherein said chemically scissile
+internucleosidic linkage is a phosphoramidate.
+
+13
+14
+15
+
+(Id.)
+Claims 7 and 8 prove indisputably that Macevicz used the term “chemically scissile
+
+16
+
+internucleosidic linkage” to claim an entire class of linkages, and expressly defined a
+
+17
+
+phosphoramidate linkage as one specific linkage within that class. Subsequently, in the later-
+
+18
+
+issued ’119 patent, he chose the latter, narrow limitation. He specifically chose to limit claim 1 to
+
+19
+
+a probe containing a phosphoramidate linkage, not the broader class of “chemically scissile
+
+20
+
+internucleosidic linkage” Illumina now seeks to cover through the doctrine of equivalents.
+
+21
+
+Illumina cannot now argue that any chemically scissile internucleosidic linkage, including
+
+22
+
+phosphorothiolate, would infringe that claim. As in Carnegie Mellon, a finding that a
+
+23
+
+phosphorothiolate linkage is the equivalent of a phosphoramidate linkage would essentially
+
+24
+25
+26
+27
+
+3
+
+The ’341 patent issued on May 12, 1998. (’341 Patent, Comer MSJ Decl. Ex. A, Docket
+No. 212-2.) The ’119 patent did not issue until 17 months later, on October 19, 1999. (Id. Ex. B,
+Docket No. 212-3.) Macevicz filed responses to office actions in the ’119 prosecution on
+May 12, 1998 and November 3, 1998. (Comer MSJ Decl. Ex. G, Docket No. 212-8; Comer MSJ
+Reply Decl. Ex. 3, Docket No. 226-4.)
+
+28
+AB’S MOTION FOR LEAVE TO FILE MOTION FOR RECONSIDERATION
+Case No. C07 02845 WHA
+sd-441369
+
+6
+
+Case 3:07-cv-02845-WHA
+
+Document 286
+
+Filed 09/11/2008
+
+Page 8 of 8
+
+1
+
+render the phosphoramidate claim limitation meaningless, and would thus vitiate that limitation.
+
+2
+
+Accordingly, summary judgment of noninfringement is appropriate.
+
+3
+4
+
+D.
+
+Vitiation is Established by the Current Record.
+
+Although AB’s phosphorothiolate linkage has significant advantages over Macevicz’s
+
+5
+
+phosphoramidate linkage (see AB’s Trial Brief Re: (1) AB Does Not Infringe The ’119 Patent
+
+6
+
+Under The Doctrine Of Equivalents As A Matter Of Law; (2) Equitable Defenses To
+
+7
+
+Infringement Counterclaims; Docket No. 272 at 1-14), summary judgment of noninfringement is
+
+8
+
+appropriate without considering those advantages. In Carnegie Mellon, the Federal Circuit noted
+
+9
+
+that although Kary Mullis won the Nobel Prize for discovering the use of Taq DNA polymerase,
+
+10
+
+the advantages of Taq played no part in its decision. “While we reach our decision irrespective of
+
+11
+
+those facts, we readily can see why appellants have attempted to broaden the scope of their claims
+
+12
+
+beyond the E. coli species disclosed.” Carnegie Mellon, slip op. at 24 n.4. Thus, on the basis of
+
+13
+
+the claim language alone, AB is entitled to summary judgment.
+
+14
+
+III.
+
+15
+
+AB respectfully requests permission to file a motion for reconsideration of the denial of its
+
+CONCLUSION
+
+16
+
+motion of summary judgment of noninfringement of claim 1 of the ’119 patent. AB further
+
+17
+
+requests that the Court set a briefing schedule that will allow for a decision before phase II of trial
+
+18
+
+commences.
+
+19
+
+Dated: September 11, 2008
+
+MORRISON & FOERSTER LLP
+
+20
+21
+22
+23
+
+By:
+
+/s/ Steven E. Comer
+Steven E. Comer
+Attorneys for Plaintiff
+APPLERA CORPORATION APPLIED BIOSYSTEMS GROUP
+
+24
+25
+26
+27
+28
+AB’S MOTION FOR LEAVE TO FILE MOTION FOR RECONSIDERATION
+Case No. C07 02845 WHA
+sd-441369
+
+7
+
+

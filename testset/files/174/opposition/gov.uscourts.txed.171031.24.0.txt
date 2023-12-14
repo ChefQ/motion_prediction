@@ -1,0 +1,607 @@
+Case 6:16-cv-01133-RWS-KNM Document 24 Filed 12/12/16 Page 1 of 18 PageID #: 290
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE EASTERN DISTRICT OF TEXAS
+TYLER DIVISION
+
+MACROPOINT, LLC,
+Plaintiff,
+v.
+
+Civil Action No.: 6:16-cv-01133-RWS-KNM
+
+RUIZ FOOD PRODUCTS, INC.,
+Defendant.
+
+MACROPOINT, LLC’S OPPOSITION TO DEFENDANT’S MOTION TO TRANSFER
+OR, IN THE ALTERNATIVE, STAY PENDING RELATED LITIGATION
+
+Case 6:16-cv-01133-RWS-KNM Document 24 Filed 12/12/16 Page 2 of 18 PageID #: 291
+
+TABLE OF CONTENTS
+Page
+I.
+
+INTRODUCTION ................................................................................................................. 1
+
+II.
+
+FACTUAL BACKGROUND ................................................................................................ 2
+
+III. LAW AND ARGUMENT ..................................................................................................... 3
+A.
+
+The First-to-File Rule Compels Maintenance of the Action in Texas. ......................... 3
+
+B.
+
+Considerations of Section 1404 Favor Maintenance of the Action in Texas. .............. 4
+
+C.
+
+1.
+
+No Legitimate Judicial Economy Factor Exists. ................................................... 5
+
+2.
+
+Ease of Access to Sources of Proof. ...................................................................... 7
+
+3.
+
+Availability of Compulsory Process...................................................................... 8
+
+4.
+
+The Cost of Attendance for Witnesses. ................................................................. 9
+
+5.
+
+The Public Interest Factors. ................................................................................. 10
+
+The Motion to Stay, in the Alternative, Should be Denied. ........................................ 10
+1.
+
+The Customer-Suit Exception Does Not Apply. ................................................. 11
+
+2.
+
+A Discretionary Stay Should be Denied.............................................................. 12
+
+IV. CONCLUSION .................................................................................................................... 13
+
+i
+
+Case 6:16-cv-01133-RWS-KNM Document 24 Filed 12/12/16 Page 3 of 18 PageID #: 292
+
+TABLE OF AUTHORITIES
+Page(s)
+Federal Cases
+Affymetrix, Inc. v. Synteni, Inc.,
+128 F. Supp. 2d 192 (D. Del. 1998) ...........................................................................................6
+Cadle Co. v. Whataburger of Alice, Inc.,
+174 F.3d 599 (5th Cir. 1999) .....................................................................................................3
+Electronics for Imaging, Inc. v. Coyle,
+394 F.3d 1341 (Fed. Cir. 2005)..................................................................................................4
+In re EMC Corp.,
+501 F. App’x 973 (Fed. Cir. 2013) ............................................................................................5
+In re Genentech, Inc.,
+566 F.3d 1338 (Fed. Cir. 2009)..................................................................................................7
+Hoffman v. Blaski,
+363 U.S. 335 (1960) ...................................................................................................................6
+In re Hoffman-La Roche, Inc.,
+587 F.3d 1333 (Fed. Cir. 2009)................................................................................................10
+Innovative Automation, LLC v. Audio Video & Video Labs, Inc.,
+No. 6:11-CV-234 LED-JDL, 2012 U.S. Dist. LEXIS 114503
+(E.D. Tex. May 30, 2012) .............................................................................................3,7, 8, 12
+Landis v. N. Am. Co.,
+299 U.S. 248 (1936) .................................................................................................................10
+McCuin v. Tex. Power & Light Co.,
+714 F.2d 1255 (5th Cir. 1983) ...................................................................................................7
+Merial Ltd. v. Cipla Ltd.,
+681 F.3d 1283 (Fed. Cir. 2012)..................................................................................................3
+Soverain Software LLC v. Amazon.com, Inc.,
+356 F. Supp. 2d 660 (E.D. Tex. 2005) ...............................................................................10, 11
+Sutter Corp. v. P& P Indus., Inc.,
+125 F.3d 914 (5th Cir. 1997) .....................................................................................................4
+Tegic Commc’n Corp. v. Board of Regents of Tex. Univ. of Tex. Sys.,
+458 F.3d 1335 (Fed. Cir. 2006)................................................................................................11
+
+ii
+
+Case 6:16-cv-01133-RWS-KNM Document 24 Filed 12/12/16 Page 4 of 18 PageID #: 293
+
+Texas Data Co., L.L.C. v. Target Brands, Inc.,
+771 F. Supp. 2d 630 (E.D. Tex. 2011) ...................................................................................4, 5
+Texas Instruments, Inc. v. Micron Semiconductor, Inc.,
+815 F. Supp. 994 (E.D. Tex. 1993) ............................................................................................3
+In re Volkswagen of Am., Inc.,
+545 F.3d 304 (5th Cir. 2008) .................................................................................................4, 5
+Waste Distillation Tech. v. Pan Am. Res.,
+775 F. Supp. 759 (D. Del. 1991) ................................................................................................6
+Federal Statutes
+28 U.S.C. § 1404(a) ............................................................................................................... passim
+35 U.S.C. § 271 ..............................................................................................................................12
+35 U.S.C. § 271(a) .........................................................................................................................11
+35 U.S.C. § 282 ..............................................................................................................................12
+Other Authorities
+17 James Wm. Moore, et al. Moore’s Federal Practice § 111.12[3] (3d ed. 2016) .........................6
+
+iii
+
+Case 6:16-cv-01133-RWS-KNM Document 24 Filed 12/12/16 Page 5 of 18 PageID #: 294
+
+I.
+
+INTRODUCTION
+Defendant Ruiz Food Products, Inc. (“Ruiz Foods”) seeks to transfer the case from this
+
+Court, which undeniably can exercise personal jurisdiction over it and in which venue is proper,
+to a location in which Ruiz Foods does not even have a physical presence and is not registered to
+do business.
+
+Ruiz Foods then incongruously proceeds to accuse MacroPoint of “forum
+
+shopping.” What Ruiz Foods mischaracterizes as forum shopping is expressly permitted under
+the law, namely, the right of a party to choose a venue that is statutorily authorized and
+consistent with the Civil Rules. What is not permitted, however, is “judge shopping,” which is
+exactly what Ruiz Foods seeks to accomplish through its Motion to Transfer or, in the
+Alternative, Stay Pending Related Litigation (“Motion to Transfer”).
+Ruiz Foods cannot dispute that it is subject to personal jurisdiction in Texas, or that
+MacroPoint, LLC’s (“MacroPoint”) action could have been brought in this Court. Rather, Ruiz
+Foods wants to overrule MacroPoint’s choice of forum under 28 U.S.C. § 1404(a), on the
+purported grounds that (1) previously there was an action in the United States District Court for
+the Northern District of Ohio (now on appeal) between MacroPoint and a defendant not a party
+to this case and involving different patents; albeit on the same type of technology, and (2) that
+same third party, more than two months after MacroPoint filed this case, filed a declaratory
+judgment action for patent invalidity and non-infringement against MacroPoint on the same
+patents that are at issue in this case. The fact remains, however, that MacroPoint was undeniably
+the first to file, and under well-settled Fifth Circuit caselaw, its choice of forum should not be
+disturbed.
+Ruiz Foods has failed to meet its substantial burden to prove that the private and public
+interest factors weigh in favor of a convenience transfer pursuant to 28 U.S.C.§ 1404(a). Ruiz
+
+1
+
+Case 6:16-cv-01133-RWS-KNM Document 24 Filed 12/12/16 Page 6 of 18 PageID #: 295
+
+Foods also has failed to show that the proceedings should be stayed as an exception to the firstto-file rule. Accordingly, Ruiz Foods’ Motion to Transfer should be denied.
+II.
+
+FACTUAL BACKGROUND
+MacroPoint filed this action for infringement of United States Patent No. 9,429, 659 (the
+
+“‘659 Patent”) and United States Patent No. 8,275,358 (the “‘358 Patent”) (collectively, the
+“Patents”) on August 30, 2016. [ECF No. 1]. While Ruiz Foods is headquartered in California,
+it also has a manufacturing facility in Denison, Texas, which is located in the Eastern District of
+Texas. [ECF No. 13 at 3]. Ruiz Foods ships food products from this facility throughout the
+United States. [Id.]. The company also monitors the locations of vehicles and food products
+shipped from its Denison, Texas facility through freight monitoring software it acquired. [Id. at
+3 – 4]. Ruiz Foods, however, has no offices in Ohio. [See ECF No. 13 at 3]. It is not even
+registered to do business in the state. [See Exhibit A - Declaration of James Fisher at ¶ 2].
+On November 4, 2016, more than two (2) months after MacroPoint filed the present
+action, a company by the name FourKites, Inc. (“FourKites”), which competes with MacroPoint
+in providing freight monitoring software to customers throughout the United States, filed an
+action against MacroPoint in the Northern District of Ohio, Case No. 1:16-cv-02703-CAB,
+seeking a declaratory judgment that the Patents are invalid and not infringed, and also asserting
+claims for false advertising; false affiliation, connection or association under the Lanham Act;
+tortious interference; and deceptive trade practices under Ohio law. In addition, MacroPoint and
+FourKites are involved in an appeal at the Federal Circuit, Case No. 16-1286, in which
+MacroPoint appealed the dismissal by a different judge in the Northern District of Ohio of a
+previous patent infringement action that it brought against FourKites – Case No. 15-cv-1002.
+The patents at issue in the prior Ohio case and on appeal are not the same patents that
+MacroPoint is asserting against Ruiz Foods in this infringement action.
+2
+
+Case 6:16-cv-01133-RWS-KNM Document 24 Filed 12/12/16 Page 7 of 18 PageID #: 296
+
+On November 21, 2016, this Court entered a Scheduling Order, setting dates for the
+scheduling conference, the Markman hearing, and the trial. [ECF No. 17]. The current case in
+Ohio, however, has not proceeded at all since FourKites filed its claims for declaratory
+judgment. MacroPoint’s response to the complaint is not due until January 4, 2017. [See Exhibit
+B]. No other dates have been set in that case. By that time, MacroPoint already will have served
+its infringement contentions in this case pursuant to the Court’s recent order. [See id.].
+III.
+
+LAW AND ARGUMENT
+A.
+
+The First-to-File Rule Compels Maintenance of the Action in Texas.
+
+There is no dispute that this patent infringement action against Ruiz Foods was filed
+about two months before a declaratory judgment action involving the Patents was filed against
+MacroPoint by a different party in Ohio. The first-to-file rule is a well-established doctrine of
+comity among federal courts. Texas Instruments, Inc. v. Micron Semiconductor, Inc., 815 F.
+Supp. 994, 997 (E.D. Tex. 1993). It provides that when actions involving similar parties and
+issues are filed in two different courts, the court in which the first suit was filed should proceed
+to judgment. Id. When two actions that sufficiently overlap are filed in different federal district
+courts, one for infringement and the other for declaratory relief, the declaratory judgment action,
+if filed later, generally is to be stayed, dismissed, or transferred to the forum of the infringement
+action. Merial Ltd. v. Cipla Ltd., 681 F.3d 1283, 1299 (Fed. Cir. 2012).
+In determining whether to apply the first-to-file rule, the court must consider two factors:
+1) whether the actions involve substantially similar issues; and 2) which of the two courts should
+hear the case. Texas Instruments, Inc., 815 F. Supp. at 997. “As to the first inquiry, all that need
+be present is that the two actions involve closely related questions or common subject matter, or
+that the core issues substantially overlap. The cases need not be identical to be duplicative.” Id.
+Moreover, complete identity of the parties is not necessary. Innovative Automation, LLC v.
+3
+
+Case 6:16-cv-01133-RWS-KNM Document 24 Filed 12/12/16 Page 8 of 18 PageID #: 297
+
+Audio Video & Video Labs, Inc., No. 6:11-CV-234 LED-JDL, 2012 U.S. Dist. LEXIS 114503, at
+*30 (E.D. Tex. May 30, 2012) (citing Cadle Co. v. Whataburger of Alice, Inc., 174 F.3d 599, 603
+(5th Cir. 1999)). As to the second factor, “[t]he Fifth Circuit adheres to the general rule that the
+court in which an action is first filed is the appropriate court to determine whether subsequently
+filed cases involving substantially similar issues should proceed.” and “whether the second suit
+filed must be dismissed, stayed or transferred and consolidated.” Sutter Corp. v. P& P Indus.,
+Inc., 125 F.3d 914, 920 (5th Cir. 1997) (internal quotations omitted).
+Ruiz Foods completely fails to recognize, or even mention, the first-to-file rule, but it
+compels maintenance of this action in Texas.
+
+MacroPoint filed the present action for
+
+infringement of the Patents more than two months before FourKites filed its action against
+MacroPoint in Ohio seeking a declaratory judgment that the Patents are not infringed by Four
+Kites, are invalid and are unenforceable. Even though Ruiz Foods is not a party to the Ohio
+action and was not referred to in the action, both cases involve the common subject matter of the
+‘659 Patent and the ‘358 Patent. As this action was filed first, and the two cases involve the
+same Patents, the first-to-file rule requires that this Court maintain the action and deny the
+Motion to Transfer.
+B.
+
+Considerations of Section 1404 Favor Maintenance of the Action in Texas.
+
+In patent cases, the courts apply “the general rule favoring the forum of the first-filed
+case, ‘unless considerations of judicial and litigant economy, and the just and effective
+disposition of disputes, requires otherwise.’” Electronics for Imaging, Inc. v. Coyle, 394 F.3d
+1341, 1347 (Fed. Cir. 2005). Here, the consideration of 28 U.S.C. § 1404(a) counsels that this
+action should be maintained in Texas. For a transfer to be proper, the moving party must show
+“good cause” to transfer, and this “significant burden” is met when the moving party shows that
+“the transferee venue is clearly more convenient” than the chosen forum. Texas Data Co.,
+4
+
+Case 6:16-cv-01133-RWS-KNM Document 24 Filed 12/12/16 Page 9 of 18 PageID #: 298
+
+L.L.C. v. Target Brands, Inc., 771 F. Supp. 2d 630, 639 (E.D. Tex. 2011) (quoting In re
+Volkswagen of Am., Inc., 545 F.3d 304, 314 (5th Cir. 2008) (emphasis supplied)).
+When determining if transfer is appropriate under Section 1404(a), courts in this district
+“consider[] several private and public interest factors, none of which are given dispositive
+weight.” Texas Data, 771 F. Supp. 2d at 639. Private interests are “(1) the relative ease of access
+to sources of proof; (2) the availability of compulsory process to secure the attendance of
+witnesses; (3) the cost of attendance for willing witnesses; and (4) all other practical problems
+that make trial of a case easy, expeditious and inexpensive.” Id. (citing Volkswagen, 545 F.3d at
+315). The public interests are: “(1) the administrative difficulties flowing from court congestion;
+(2) the local interest in having localized interests decided at home; (3) the familiarity of the
+forum with the law that will govern the case; and (4) the avoidance of unnecessary problems of
+conflict of laws [in] the application of foreign law.” Id. It is not enough to justify transferring
+this case from a plaintiff’s chosen forum if even a factor or two weigh in favor of transfer. See
+Texas Data, 771 F. Supp. 2d at 639 (“The court’s analysis in Volkswagen II reflected the
+importance of the plaintiff’s choice of venue, as the court issued a writ of mandamus to transfer
+venue in that case only after it found that four of the eight Gilbert factors weighed in favor of
+transfer and no factors weighed against transfer.”).
+Here, the private and public interests support maintaining the action here in the Eastern
+District of Texas. Ruiz Foods has not met its significant burden of proving that the balance of
+factors weighs strongly in favor of transfer and that the transferee district is clearly more
+convenient.
+1.
+
+No Legitimate Judicial Economy Factor Exists.
+
+The law requires that motions to transfer “be decided based on the situation which existed
+when suit was instituted,” not the situation as the time when the court rules. In re EMC Corp.,
+5
+
+Case 6:16-cv-01133-RWS-KNM Document 24 Filed 12/12/16 Page 10 of 18 PageID #: 299
+
+501 F. App’x 973, 976 (Fed. Cir. 2013) (internal citations omitted). As such, considerations of
+judicial economy arising after the filing of a suit are not weighed a part of the transfer analysis.
+Id. Here, because the FourKites action against MacroPoint was not pending at the time that the
+present case was filed, it cannot be considered as part of the judicial economy analysis. Without
+the current Ohio case as part of the analysis, Ruiz Foods has no support for its argument that
+judicial economy weighs in favor of transfer.1
+While a court may transfer an action under 28 U.S.C. § 1404(a), “[f]or the convenience
+of parties and witnesses, in the interest of justice . . . to any other district or division where [the
+action] might have been brought,” as the Supreme Court has noted, the transferee district must
+have been able to assert personal jurisdiction over the defendant independent of the defendant’s
+consent. See Hoffman v. Blaski, 363 U.S. 335, 343-44 (1960); Affymetrix, Inc. v. Synteni, Inc.,
+128 F. Supp. 2d 192, 194 n.1 (D. Del. 1998). The moving party bears the burden of proving that
+the action “properly could have been brought in the first instance in the transferee district.” 17
+James Wm. Moore, et al. Moore’s Federal Practice § 111.12[3] (3d ed. 2016) (citing Waste
+Distillation Tech. v. Pan Am. Res., 775 F. Supp. 759, 762 (D. Del. 1991)). Ruiz Foods has not
+met this burden. The assertions of patent infringement in this case are not based on Ruiz Foods’
+engagement of or relationship with distributors in Ohio. [See ECF No. 1 at 6-9; 11-14]. Ruiz
+Foods has neither a physical presence in Ohio nor a registration to do business in Ohio. [ECF
+
+1
+
+Even if the current Ohio case is considered as part of the judicial economy analysis, it does not
+weigh in favor of transfer. The current Ohio case involves different patents (and hence different
+patent claims) than the prior Ohio case that is now on appeal. In fact, the ‘358 Patent has no
+familial relationship whatsoever to any of the prior patents at issue. [See ECF No. 1 at Exhibit
+B]. And, while the ‘659 Patent is related to prior patents, the claims of the ‘659 Patent are
+distinct and independent of the other patent claims. [See ECF No. 1 at Exhibit A]. Moreover,
+the current Ohio case, is presently pending before a different judge than the prior case between
+MacroPoint and Four Kites, or even the first case that MacroPoint had brought for infringement
+of any of its patents. See fn. 2.
+
+6
+
+Case 6:16-cv-01133-RWS-KNM Document 24 Filed 12/12/16 Page 11 of 18 PageID #: 300
+
+No. 13 at 3; Exhibit A at ¶ 3]. Further, it does not appear that Ruiz Foods has ever been sued in
+the state or federal court in Ohio or has ever brought suit against another party in any courts in
+Ohio. [Exhibit A at ¶4]. In fact, even though it could have been, Ruiz Foods is not a party to the
+declaratory judgment action in Ohio. [ECF No. 13 at Exhibit G].
+Moreover, Ruiz Foods’ argument that judicial economy is a reason to transfer this action
+to Ohio is nothing more than an attempt at judge shopping to move this litigation into a specific
+court to try to take advantage of the rulings by a specific judge in one of the prior cases filed in
+Ohio. Judge shopping, however, is not permitted in this Circuit. In a prior case arising out of the
+Tyler Division of the Eastern District of Texas, the Fifth Circuit held in no uncertain terms that
+while forum shopping is permissible, judge shopping is not, holding that “parties clearly have no
+right to a judge of their choice.” McCuin v. Tex. Power & Light Co., 714 F.2d 1255, 1261-62
+(5th Cir. 1983). Ruiz Foods cannot simply disguise its attempt at judge shopping under the claim
+that judicial economy favors transfer.2
+2.
+
+Ease of Access to Sources of Proof.
+
+In determining access to sources of proof, the Federal Circuit has opined that courts must
+assume that the majority of relevant evidence will come from the accused infringer. In re
+Genentech, Inc., 566 F.3d 1338, 1345 (Fed. Cir. 2009). As a result, the location where the
+defendant’s documents are kept is taken into account when determining a motion to transfer.
+2
+
+In the current Ohio case, FourKites has moved to transfer the Ohio case to the same judge who
+provided FourKites with a favorable decision on the other MacroPoint patents in Case No. 1:15cv-1002. However, what Ruiz Foods failed to tell this Court is that the prior case between
+MacroPoint and FourKites was not the only case that was previously filed asserting infringement
+of MacroPoint patents in the U.S. District Court for the Northern District of Ohio. Prior to the
+FourKites case that is currently on appeal, MacroPoint sued Salebug.com, LLC and Pegasus
+TransTech Corporation in the same Ohio court (Case No. 1:14-cv-00312). That case was
+assigned to yet a different third judge in the Northern District of Ohio. FourKites, however, did
+not seek to transfer its case to that other judge. Hence, Ruiz Food’s argument for judicial
+economy is either a misleading and thinly veiled judge shopping attempt or pure speculation.
+
+7
+
+Case 6:16-cv-01133-RWS-KNM Document 24 Filed 12/12/16 Page 12 of 18 PageID #: 301
+
+Innovative Automation, 2012 U.S. Dist. LEXIS 114503, at *23. Here, Ruiz Foods indicates that
+its principal place of business is in Dinuba, California. [ECF No. 13 at 3]. Ruiz Foods also has a
+manufacturing facility from which it ships food products in Denison, Texas, which is located in
+this judicial district. [Id.]. And because the Patents are directed to monitoring the locations of a
+vehicle or freight carried by a vehicle, and providing consent to obtain location information for
+such vehicles or freight, it is plain that shipments that are made from Ruiz Foods’ facility in
+Denison, Texas would be relevant to, and that information concerning those shipments could
+demonstrate infringement of, the Patents. Thus, it would be fair to assume that responsive
+information from Ruiz would come from both California and Texas. There is at least some
+evidence relative to Ruiz Foods’ infringement of the Patents located in this judicial district.
+Thus, this factor does not favor transfer.
+Furthermore, Ruiz Foods’ argument that the bulk of the evidence will come from
+FourKites is inapposite. FourKites, which is located in Chicago, Illinois, is not a party to this
+case. Its location is not relevant to the venue analysis. Even taking into account FourKites’
+location, access to FourKites’ evidence does not favor transfer since it is located outside of both
+the Eastern District of Texas and the Northern District of Ohio.
+3.
+
+Availability of Compulsory Process.
+
+This factor will weigh in favor of transfer if the majority of non-party witnesses are
+located in the venue to which the defendant has moved to transfer. Innovative Automation, 2012
+U.S. Dist. LEXIS 114503, at *26. Ruiz Foods insists that the majority of non-party witnesses
+who will testify will be FourKites witnesses. [ECF No. 13 at 10]. As noted above, Four Kites is
+located in Chicago, Illinois – not in the venue to which Defendant has requested transfer. If Ruiz
+Foods’ contention is true, then the Northern District of Ohio does not have absolute subpoena
+power over the majority of the non-party witnesses. In fact, the only third-party witness over
+8
+
+Case 6:16-cv-01133-RWS-KNM Document 24 Filed 12/12/16 Page 13 of 18 PageID #: 302
+
+which the Northern District of Ohio would have such power is the prosecuting attorney of the
+Patents. On the other hand, any shippers that pick up freight from Ruiz Foods’ Denison, Texas
+facility and would have information concerning Ruiz Foods’ monitoring of vehicle or freight
+locations, or about providing consent to obtain location information likely would be within the
+subpoena power of this Court for purposes of trial. Thus, this factor also does not weigh in favor
+of transfer.
+4.
+
+The Cost of Attendance for Witnesses.
+
+The cost of attendance for witnesses likewise does not weigh in favor of transfer. Just as
+Ruiz Foods’ evidence is in Texas, or closer to Texas than Ohio, so are its witnesses. This forum
+is absolutely more convenient for any employees of the Ruiz Foods facility in Denison, Texas
+that may testify at trial. Any difference in convenience regarding travel between California and
+Tyler, Texas or Cleveland, Ohio that Ruiz Foods claims for its employees in California is in
+practice minimal at best. Witnesses readily could fly to both locations and in both cases would
+likely not be able to avoid overnight stays. Furthermore, any claim that MacroPoint witnesses
+will be inconvenienced in Texas is mooted by the fact that MacroPoint selected this forum.
+The idea that the FourKites witnesses, whom Ruiz Foods claims will be the majority of
+its witnesses, would be able to fly in and out of the trial location in one day is simply unrealistic.
+In reality, it is far more likely that interested witnesses would arrive at the location of the trial at
+least the day before their testimony so that they can prepare with counsel. Whether the trial is in
+Cleveland, Ohio or Tyler, Texas, any FourKites witness would likely not be able to avoid
+overnight stays. Thus, the convenience of attendance for potential FourKites witnesses is not
+distinct enough to weigh in favor of transfer.
+At best, this factor is neutral in the transfer analysis.
+
+9
+
+Case 6:16-cv-01133-RWS-KNM Document 24 Filed 12/12/16 Page 14 of 18 PageID #: 303
+
+5.
+
+The Public Interest Factors.
+
+The public interest factors also are neutral at best. Both this Court and the Northern
+District of Ohio have the same type of interest in protecting patent rights in the United States.
+While the Northern District of Ohio may have some interest in resolution of this case, the people
+of East Texas also would have a vested interest in the outcome of this case. Ruiz Foods has a
+manufacturing facility in this district from which it ships products that are monitored in a manner
+that violates the Patents. As Ruiz Foods’ points out, “the local interest factor is strong when ‘the
+cause of action calls into question the work and reputation of several individuals residing in or
+near that district and who presumably conduct business in that community.’” [ECF No. 13 at 13,
+citing In re Hoffman-La Roche, Inc., 587 F.3d 1333, 1336 (Fed. Cir. 2009)]. Here, the shipping
+activities of Ruiz Foods in Denison, Texas are at least called into question by this patent
+infringement lawsuit. Thus, the local interest in the Eastern District of Texas is at least as strong
+as the local interest in the Northern District of Ohio. As Ruiz Foods point out, the remaining
+public interest factors are neutral and have no weight in the transfer analysis.
+Ruiz Foods has not met its significant burden of proving that the balance of private and
+public interest factors weighs strongly in favor of transfer and that the transferee district is
+clearly more convenient.
+
+Ruiz Foods thus cannot override MacroPoint’s choice of forum.
+
+MacroPoint’s choice of forum should remain undisturbed and the Motion to Transfer must be
+denied.
+C.
+
+The Motion to Stay, in the Alternative, Should be Denied.
+
+While it is true that a district court has the inherent authority to stay proceedings as part
+of its power to control the disposition of causes on its docket, a stay is not appropriate in this
+case. See Landis v. N. Am. Co., 299 U.S. 248, 254 (1936). Moreover, while the court in
+Soverain Software LLC v. Amazon.com, Inc., 356 F. Supp. 2d 660 (E.D. Tex. 2005) did set forth
+10
+
+Case 6:16-cv-01133-RWS-KNM Document 24 Filed 12/12/16 Page 15 of 18 PageID #: 304
+
+factors that a court should consider in determining whether to impose a stay in the context of a
+stay pending proceeding before the U.S. Patent and Trademark Office, even those factors favor
+proceeding with this matter, not staying it. If this case is stayed, MacroPoint would be prevented
+from protecting itself against a direct infringement of the Patents by a direct infringer – Ruiz
+Foods – which it is entitled to do under 35 U.S.C. § 271(a). Soverain certainly does not stand for
+the proposition that the “first to file rule” should be ignored and a case stayed under the
+circumstances of this case. As previously discussed, see supra Section III.A., the first-to-file
+rule requires this action to remain in this Court, and such a finding is not affected by the
+customer-suit exception.
+1.
+
+The Customer-Suit Exception Does Not Apply.
+
+Ruiz Foods asserts that the so-called “customer-suit exception” to the first-to-file rule
+applies and justifies overriding MacroPoint’s choice of forum. Ruiz Foods is wrong. The
+customer-suit exception is a very narrow exception to the first-to-file rule in patent cases. In
+determining whether to apply the customer-suit exception, a court must apply the principles of
+efficiency and judicial economy and consider three relevant factors: (1) whether the customer in
+the earlier filed suit is merely a reseller; (2) whether the customer agrees to be bound by any
+decision in favor of the patent owner; and (3) whether the manufacturer is the only source of the
+infringing product. Tegic Commc’n Corp. v. Board of Regents of Tex. Univ. of Tex. Sys., 458
+F.3d 1335, 1343 (Fed. Cir. 2006).
+When the relevant factors are considered in the present case, it is clear that the customersuit exception does not apply. Critically, Ruiz Foods is not a mere reseller of an infringing
+product.3 Ruiz Foods is a direct infringer of the Patents. A customer, like Ruiz, who utilizes a
+3
+
+In fact, MacroPoint had no need to even mention FourKites in the Complaint because Ruiz
+Foods is accused of directly infringing MacroPoint’s Patents. [See ECF No. 1 at pp. 6-9; 11-14].
+11
+
+Case 6:16-cv-01133-RWS-KNM Document 24 Filed 12/12/16 Page 16 of 18 PageID #: 305
+
+product as part of its own services, rather than simply reselling the product, directly infringes the
+patent. See Innovative Automation, LLC, 2012 U.S. Dist. LEXIS 114503 at *42-43. In this
+case, Ruiz Foods is directly infringing the Patents in violation of 35 U.S.C. § 271 by monitoring
+the locations of a vehicle or freight carried by a vehicle, and providing notice and receiving
+consent to obtain location information for shipments that are made at least from Ruiz Foods’
+facility in Denison, Texas. As Ruiz Foods is not a party to the Ohio declaratory judgment action,
+the disposition of the case in Ohio would not resolve questions of direct infringement by Ruiz
+Foods in the Texas case. Thus, it is plain that the customer-suit exception does not apply.
+2.
+
+A Discretionary Stay Should be Denied.
+
+A discretionary stay also is not appropriate. The patents at issue in MacroPoint’s appeal
+of the prior Ohio case in the Federal Circuit are not the same patents at issue in the present case.
+In fact, the ‘358 Patent has no familial relationship whatsoever to any of the prior patents at
+issue. And, while the ‘659 Patent is related to those patents, the claims of the ‘659 Patent are
+distinct and independent of the other patent claims. The ‘659 Patent is still considered valid even
+if patents related to it are not. See, 35 U.S.C. § 282 (“A patent shall be presumed valid. Each
+claim of a patent (whether in independent, dependent, or multiple dependent form) shall be
+presumed valid independently of the validity of other claims . . . ”).
+Moreover, this Court has already issued a Scheduling Order setting the dates for the
+Markman hearing and the trial. This case is proceeding and there is no just reason to delay it
+pending resolution of MacroPoint’s appeal in the prior Ohio case, especially because any
+decision from the appeal will not be determinative of the validity or infringement of the Patents
+in this case. Accordingly, there is no reason to stay the proceedings pending the decision in the
+Federal Circuit, and this Court should deny Ruiz Foods’ motion to stay this action.
+
+12
+
+Case 6:16-cv-01133-RWS-KNM Document 24 Filed 12/12/16 Page 17 of 18 PageID #: 306
+
+IV.
+
+CONCLUSI
+C
+ON
+For all of the foregoing reeasons, MacroPoint resppectfully requuests that Ruuiz Foods’
+
+Motion to
+o Transfer, or
+o in the Alteernative, Staay Pending R
+Related Litiggation be dennied.
+
+Date:
+D
+Decem
+mber 12, 2016
+6
+
+Respectfullyy submitted,,
+
+______________________________________
+Michael C. Smith (TX ##18650410)
+SIEBMAN
+N, BURG, PH
+HILLIPS & SMITH, L
+LLP
+113 East Auustin Street
+P.O. Box 15556
+Marshall, T
+TX 75671
+Telephone: (903) 938-88900
+Facsimile: ((972) 767-46620
+michaelsmi th@siebmann.com
+Arthur P. L icygiewicz ((OH #00684458)
+Wayne M. S
+Serra (OH ##0074780)
+THOMPSO
+ON HINE L
+LLP
+3900 Key C
+Center
+127 Public Square
+Cleveland, O
+Ohio 44114
+Telephone: (216) 566-55500
+Facsimile: (216) 566-55800
+mpsonhine.coom
+Art.Licygieewicz@thom
+Wayne.Serrra@thompsoonhine.com
+Attorneys foor Plaintiff
+MacroPointt, LLC
+
+13
+
+Case 6:16-cv-01133-RWS-KNM Document 24 Filed 12/12/16 Page 18 of 18 PageID #: 307
+
+CERTIFICA
+C
+ATE OF SE
+ERVICE
+The
+T undersign
+ned hereby certifies
+c
+thatt all counsel of record whho are deem
+med to have
+consented to electron
+nic service arre being serv
+ved with a coopy of this ddocument viaa the Court’ss
+CM/ECF
+F system per Local Rule CV-5(a)(3) on this 12thh day of Deceember, 20166.
+
+______________________________________
+Michael C. Smith
+
+14
+
+

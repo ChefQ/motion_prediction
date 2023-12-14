@@ -1,0 +1,1210 @@
+Securities and Exchange Commission v. Cuban
+
+Doc. 12
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE NORTHERN DISTRICT OF TEXAS
+DALLAS DIVISION
+
+SECURITIES AND EXCHANGE
+COMMISSION,
+
+)
+)
+)
+Plaintiff,
+)
+)
+v.
+)
+)
+MARK CUBAN,
+)
+)
+Defendant.
+)
+____________________________________)
+
+Civil Action No. 3:08-cv-02050 (SAF)
+
+MEMORANDUM OF LAW OF MARK CUBAN
+IN SUPPORT OF MOTION TO DISMISS
+
+Dockets.Justia.com
+
+TABLE OF CONTENTS
+Page(s)
+INTRODUCTION AND SUMMARY OF ARGUMENT..................................................1
+FACTUAL BACKGROUND..............................................................................................3
+ARGUMENT.......................................................................................................................5
+I.
+
+Standard Of Review.................................................................................................7
+
+II.
+
+The SEC Has Failed To Adequately Allege That Mr. Cuban Engaged In
+Insider Trading. .......................................................................................................8
+
+III.
+
+A.
+
+The existence of a fiduciary or fiduciary-like relationship is a matter
+of state law...................................................................................................9
+
+B.
+
+Texas state law applies in this case. ..........................................................11
+
+C.
+
+Under Texas state law, Mr. Cuban did not have a fiduciary or
+fiduciary-like relationship with Mamma.com. ..........................................12
+
+D.
+
+Even if this Court were to apply “federal common law,” the SEC has
+failed to adequately plead a fiduciary or fiduciary-like relationship.........16
+
+SEC Rule 10b5-2(b)(1) Is Not Applicable In This Case. ......................................20
+A.
+
+Rule 10b5-2(b)(1) only applies to family and other personal
+relationships...............................................................................................21
+
+B.
+
+Rule 10b5-2(b)(1) is invalid if construed as creating liability in the
+absence of a fiduciary or similar duty of trust and confidence..................22
+
+CONCLUSION .................................................................................................................25
+
+i
+
+TABLE OF AUTHORITIES
+Page(s)
+FEDERAL CASES
+ARA Automotive Group v. Central Garage, Inc.,
+124 F.3d 720 (5th Cir. 1997) ...........................................................................................14
+Atherton v. FDIC,
+519 U.S. 213 (1997) ..........................................................................................................9
+Barker v. Henderson, Franklin, Starnes & Holt,
+797 F.2d 490 (7th Cir. 1986) .............................................................................................9
+Bell Atlantic Corp. v. Twombley,
+550 U.S. 544 (2007) ..........................................................................................................8
+Benchmark Electronics, Inc. v. J.M. Huber Corp.,
+343 F.3d 719 (5th Cir. 2003) ...........................................................................................11
+Burks v. Lasker,
+441 U.S. 471 (1979) ........................................................................................................10
+Chiarella v. United States,
+445 U.S. 222 (1980) .................................................................................................passim
+City Solutions, Inc. v. Clear Channel Communications, Inc.,
+201 F. Supp. 2d 1048 (N.D. Cal. 2002)...........................................................................20
+Dirks v. SEC,
+463 U.S. 646 (1983) ..........................................................................................................5
+Ernst & Ernst v. Hochfelder,
+425 U.S. 212 (1976) ........................................................................................................22
+Erie Railroad Co. v. Tompkins,
+304 U.S. 64 (1938) ............................................................................................................9
+Financial Acquisition Partners LP v. Blackwell,
+440 F.3d 278 (5th Cir. 2006) .............................................................................................3
+Floors Unlimited, Inc. v. Fieldcrest Cannon, Inc.,
+55 F.3d 181 (5th Cir. 1995) .............................................................................................14
+
+ii
+
+Fortson v. Winstead, McGuire, Sechrest, & Minick,
+961 F.2d 469 (4th Cir. 1992) .............................................................................................9
+Hollis v. Hill,
+232 F.3d 460 (5th Cir. 2000) ...........................................................................................13
+In re Katrina Canal Breaches Litigation,
+495 F.3d 191 (5th Cir. 2007) .............................................................................................7
+Landry v. All American Assurance Co.,
+688 F.2d 381 (5th Cir. 1982) .............................................................................................7
+Leach v. FDIC,
+860 F.2d 1266 (5th Cir. 1988) .........................................................................................10
+Nolan Bros. v. Whiteraven, L.L.C.,
+No. 99 Civ. 10256, 2004 WL 376265 (S.D.N.Y. Feb. 27, 2004)....................................20
+O’Melveny & Myers v. FDIC,
+512 U.S. 79 (1994) ............................................................................................................9
+Ray v. Karris,
+780 F.2d 636 (7th Cir. 1985) .............................................................................................7
+Regents of the University of California v. Credit Suisse First Boston (USA), Inc.,
+482 F.3d 372 (5th Cir. 2007) .......................................................................................8, 24
+Sabre, Inc. v. Lyn-Lea Travel Corp.,
+No. Civ. A 3:96CV2068-R, 2003 WL 22203707 (N.D. Tex. Sept. 23, 2003) ................15
+Santa Fe Industries, Inc. v. Green,
+430 U.S. 462 (1977) ........................................................................................................10
+SEC v. Dorozhko,
+No. 07 Civ. 9606, 2008 WL 126612 (S.D.N.Y. Jan. 8, 2008) ................................ 6-7, 24
+SEC v. Kirch,
+263 F. Supp. 2d 1144 (N.D. Ill. 2003).............................................................................17
+SEC v. Kornman,
+391 F. Supp. 2d 477 (N.D. Tex. 2005) .....................................................................passim
+SEC v. Mayhew,
+916 F. Supp. 123 (D. Conn. 1995)...................................................................................18
+
+iii
+
+SEC v. Sargent,
+229 F.3d 68 (1st Cir. 2000)..............................................................................................17
+SEC v. Talbot,
+430 F. Supp. 2d 1029 (C.D. Cal. 2006), reversed on other grounds,
+530 F.3d 1085 (9th Cir. 2008) .............................................................................16, 19, 21
+SEC v. Yun,
+327 F.3d 1263 (11th Cir. 2003) .......................................................................................17
+Southwest Realty, Ltd. v. Daseke,
+No. CA3-89-3055-D, 1992 WL 373166 (N.D. Tex. May 21, 1992)...........................9, 24
+Snap-On Inc. v. Ortiz,
+No. 96 C 2138, 1996 WL 627618 (N.D. Ill. Oct. 24, 1996)........................................9, 20
+Stuart v. Spademan,
+772 F.2d 1185 (5th Cir. 1985) .........................................................................................11
+United States v. Cassese,
+273 F. Supp. 2d 481 (S.D.N.Y. 2003) .......................................................................18, 19
+United States v. Chestman,
+947 F.2d 551 (2d Cir. 1991) .....................................................................................passim
+United States v. Kim,
+184 F. Supp. 2d 1006 (N.D. Cal. 2002)...............................................................16, 20, 21
+United States v. O’Hagan,
+521 U.S. 642 (1997) .................................................................................................passim
+Wallis v. Pan American Petroleum Corp.,
+384 U.S. 63 (1966) ......................................................................................................9, 10
+Walton v. Morgan Stanley & Co.,
+623 F.2d 796 (2d Cir. 1980) ............................................................................................18
+Williams v. WMX Technologies, Inc.,
+112 F.3d 175 (5th Cir. 1997) .............................................................................................8
+
+STATE CASES
+Anglo-Dutch Petroleum International, Inc. v. Smith,
+243 S.W.3d 776 (Tex. App. – Houston [14th Dist.] 2007, pet. denied)...........................15
+
+iv
+
+Associated Indemnity Corp. v. CAT Contracting, Inc.,
+964 S.W.2d 276 (Tex. 1998) ...........................................................................................14
+Crim Truck & Tractor Co. v. Navistar International Transportation Corp.,
+823 S.W.2d 591 (Tex. 1992) ...........................................................................................14
+Grant Thornton LLP v. Suntrust Bank,
+133 S.W.3d 342 (Tex. App. – Dallas 2004, pet. denied).................................................11
+Meyer v. Cathey,
+167 S.W.3d 327 (Tex. 2005) ...........................................................................................14
+Ramco Oil & Gas Ltd. v. Anglo-Dutch (Tenge) L.L.C.,
+207 S.W.3d 801 (Tex. App. – Houston [14th Dist.] 2006, pet. denied)...........................15
+Schlumberger Technology Corp. v. Swanson,
+959 S.W.2d 171 (Tex. 1997) ...........................................................................................14
+
+ADMINISTRATIVE CASE
+Cady, Roberts & Co. v. SEC,
+40 SEC 907 (1961) ............................................................................................................5
+
+FEDERAL STATUTES AND REGULATORY MATERIAL
+15 U.S.C. § 78j(b)..............................................................................................................5
+17 C.F.R. § 240.10b5-2 .....................................................................................................2
+17 C.F.R. § 240.10b5-2(b)(1) ................................................................................2, 20, 25
+Selective Disclosure and Insider Trading,
+64 Fed. Reg. 72590 (proposed rule, Dec. 28, 1999)........................................................21
+Selective Disclosure and Insider Trading,
+65 Fed. Reg. 51716 (final rule, Aug. 24, 2000).........................................................21, 25
+
+STATE STATUTE
+Tex. Bus. Corp. Act Ann. art. 8.02A (Vernon 1980) ......................................................13
+
+v
+
+FOREIGN STATUTE
+Business Corporations Act,
+R.S.O. 1990, c. B.16, ss. 1, et seq. (Can.), available on Westlaw ...................................13
+MISCELLANEOUS
+Linda C. Thomsen, Director, Division of Enforcement, SEC,
+Opening Remarks to the Securities Industry and Financial Markets Association
+Regulatory Symposium on Insider Trading (May 19, 2008) .........................................2, 6
+Restatement (Second) of Conflict of Laws § 148(2) (1971) .................................................11
+Steven A. Ramirez & Christopher M. Gilbert,
+The Misappropriation Theory of Insider Trading under United States v. O’Hagan:
+Why Its Bark Is Worse Than Its Bite, 26 Sec. Reg. L.J. 162 (1998)................................11
+W. Wang & M. Steinberg, Insider Trading § 5:4 (2d ed. 2005 & 2008 Supp.)......................6
+Brief for the United States at *10-11, United States v. O’Hagan,
+521 U.S. 642 (1997) (No. 96-842).....................................................................................6
+
+vi
+
+INTRODUCTION AND SUMMARY OF ARGUMENT
+The Securities and Exchange Commission (“SEC” or “Commission”) has sued
+Mark Cuban for insider trading based on a single, unsolicited phone conversation that Mr.
+Cuban had more than four years ago with the Chief Executive Officer (“CEO”) of
+Mamma.com Inc., a Canadian company in which Mr. Cuban was an investor. The call
+concerned an offering of shares that Mamma.com was about to announce to the public. In
+its Complaint, the SEC alleges Mr. Cuban engaged in insider trading when he supposedly
+agreed to keep confidential the information about the offering he received on the call (and
+in a follow-up call with Mamma.com’s placement agent), but then violated that alleged
+agreement by selling his Mamma.com stock based on the information. The SEC has failed
+to state a cause of action, however, because it does not (and cannot) adequately allege that
+Mr. Cuban owed Mamma.com a fiduciary or similar duty of trust and confidence.1
+There is no general prohibition on the trading of securities based on material,
+nonpublic information. Although the SEC has often argued that any recipient of material,
+nonpublic information has potential insider trading liability, the U.S. Supreme Court has
+repeatedly rejected the SEC’s view. Instead, the Court has insisted that insider trading
+liability requires a showing of fraud. In an insider trading case like this one, a fraud occurs
+only if the trader violates a fiduciary or similar duty of trust and confidence by knowingly
+using, without disclosure to the source of the information, the material, nonpublic
+information for his own benefit.
+The SEC has not been shy about its desire to impermissibly expand the scope of
+liability established by the Supreme Court. In a recent speech, the SEC’s director of
+enforcement made it clear that the Commission is bringing suits that “confront” the limits
+
+1
+
+Mr. Cuban vigorously disputes the SEC’s version of the facts – including the assertion that
+Mr. Cuban entered into a confidentiality agreement with Mamma.com – but for purposes of this
+motion to dismiss assumes the truth of the allegations in the Complaint as required by law.
+
+1
+
+of insider trading law by challenging the Court’s fiduciary duty requirement.2 This lawsuit
+is just such a test case. The Complaint alleges that Mr. Cuban agreed at the beginning of
+his phone call with the CEO of Mamma.com to keep any information he received
+confidential and, by doing so, entered into a fiduciary or similar relationship of trust and
+confidence with Mamma.com. No court has ever held, however, that a confidentiality
+agreement alone creates a fiduciary or fiduciary-like duty to act loyally to the source of the
+information. In the absence of other factual allegations demonstrating the existence of a
+fiduciary or similar relationship, Mr. Cuban cannot be liable for insider trading.
+The fact that SEC Rule 10b5-2(b)(1) provides that a person is presumed to have a
+“duty of trust or confidence” whenever he “agrees to maintain information in confidence”
+does not alter this conclusion. 17 C.F.R. § 240.10b5-2. The adopting release for Rule
+10b5-2(b)(1) states that the rule only addresses the existence of a fiduciary or similar duty
+in the context of a family or other personal relationship.
+
+The rule therefore has no
+
+applicability in this case. Moreover, to the extent the SEC claims that Rule 10b5-2(b)(1)
+creates potential liability based solely on the existence of a confidentiality agreement, the
+rule directly contravenes Supreme Court precedent by creating liability in the absence of
+the requisite duty and cannot be followed.
+In sum, the SEC contends Mr. Cuban violated an oral agreement to keep
+information about Mamma.com’s securities offering confidential. Even if that were true, a
+breach of a confidentiality agreement does not constitute fraud in the absence of a fiduciary
+or fiduciary-like relationship between the parties to the agreement. Mr. Cuban did not have
+the requisite relationship with Mamma.com. Accordingly, this Court should decline the
+SEC’s transparent invitation to ignore binding precedent and expand the scope of insider
+
+2
+
+See Linda C. Thomsen, Director, Division of Enforcement, SEC, Opening Remarks to the
+Securities Industry and Financial Markets Association Regulatory Symposium on Insider
+Trading
+(May
+19,
+2008)
+(“Thomsen
+Opening
+Remarks”),
+available
+at
+http://www.sec.gov/news/speech/2008/spch051908lct.htm (arguing that “duty is not what
+[Section 10(b)] requires”).
+
+2
+
+trading liability to encompass the non-fraudulent activity alleged in this case.
+
+The
+
+Complaint should be dismissed with prejudice.
+FACTUAL BACKGROUND
+Mamma.com was a Canadian company that operated an Internet search engine. See
+Mamma.com Inc., Annual Report (Form 20-F) (May 14, 2004) (“2003 Form 20-F”) (Ex.
+1).3 In March 2004, Mr. Cuban purchased 600,000 shares, or 6.3%, of Mamma.com’s
+outstanding common stock. (Compl. ¶ 10.) In compliance with SEC regulations, Mr.
+Cuban timely filed a Schedule 13G with the Commission disclosing his share purchase.
+Schedule 13G (Mar. 15, 2004) (Ex. 2). The SEC does not allege that Mr. Cuban had any
+relationship with Mamma.com other than as a minority shareholder.
+During the spring of 2004, Mamma.com decided to engage in a private investment
+in public equity (“PIPE”) offering and retained Merriman Curhan Ford & Co.
+(“Merriman”) to serve as the placement agent. (Compl. ¶ 12.) Although Mamma.com
+“anticipated” that Mr. Cuban would be upset about the forthcoming PIPE offering and
+would want to sell his shares, it nevertheless decided to tell him about the offering in
+advance of the public announcement. (Id. ¶¶ 12, 15.) The SEC alleges Mamma.com
+wanted to invite Mr. Cuban to participate in the PIPE offering. (Id.) An internal company
+e-mail cited in the Complaint, however, states that as of the day Mamma.com contacted Mr.
+Cuban, the company’s “board has indicated that we raised $15 million, we may be slightly
+
+3
+
+In a motion to dismiss a securities fraud action, this Court may consider “public disclosure
+documents required by law to be, and that have been, filed with the SEC, and documents that
+the plaintiffs either possessed or knew about and upon which they relied in bringing the suit[],
+without, pursuant to Rule 12(b), converting the motion into one for summary judgment.”
+Financial Acquisition Partners LP v. Blackwell, 440 F.3d 278, 286 (5th Cir. 2006). See also
+Defendant Mark Cuban’s Motion For Judicial Notice.
+
+3
+
+oversubscribed at about $17 million. . . .” E-mail from Mamma.com Executive Chairman
+David Goldman on June 28, 2004 (emphasis added) (Compl. ¶ 15) (Ex. 3). 4
+On June 28, 2004, just one day prior to the closing and announcement of the PIPE
+offering, the CEO of Mamma.com spoke with Mr. Cuban about the transaction for the first
+time.
+
+(Compl. ¶ 13.)
+
+In that phone conversation, which lasted approximately eight
+
+minutes, the CEO allegedly “prefaced the call by informing Cuban that he had confidential
+information to convey to him, and Cuban agreed that he would keep whatever information
+the CEO intended to share with him confidential.” (Id. ¶¶ 13, 14.)
+“proceeded to tell Cuban about the PIPE offering.”
+
+(Id. ¶ 14.)
+
+The CEO then
+As anticipated by
+
+Mamma.com, Mr. Cuban reacted angrily to the information and indicated that he would sell
+his Mamma.com shares. (Id. ¶¶ 14, 15.) According to company personnel, however, Mr.
+Cuban also was concerned that he would be unable to sell his shares until after the PIPE
+offering was announced. (Id.)
+Later that same day, the CEO of Mamma.com e-mailed Mr. Cuban with contact
+information for the Merriman sales representative. (Id. ¶ 16.) Mr. Cuban spoke with the
+sales representative and reiterated his displeasure with the PIPE offering. (Id. ¶ 17.) Mr.
+Cuban subsequently directed his broker to sell all of his Mamma.com shares. (Id. ¶ 18.)
+Mr. Cuban’s broker sold a small amount of the shares in after-hours trading on June 28,
+2004 and sold the rest during regular trading hours on June 29, 2004. (Id. ¶¶ 19, 21.)
+Mamma.com issued a press release about the PIPE offering on June 29, 2004 after the
+markets had closed. (Id. ¶ 22.)
+In direct contrast to what one might expect from someone who has supposedly
+engaged in insider trading, Mr. Cuban openly disclosed both his sale of Mamma.com shares
+and his reasons for selling. Mr. Cuban filed an amended Schedule 13G with the SEC
+
+4
+
+The PIPE offering ultimately involved the sale of “1,515,980 common shares and 606,392
+warrants to certain accredited investors for an aggregate price of $16,599,981.” Mamma.com
+Inc., Annual Report (Form 20-F), at 16 (May 27, 2005) (Ex. 4).
+
+4
+
+stating that, as of June 29, 2004, he no longer held any shares of Mamma.com. Schedule
+13G, filed on July 1, 2004 (Ex. 5). In other words, Mr. Cuban immediately alerted the SEC
+and the public that he had sold his shares just prior to the announcement of the PIPE
+offering. According to the Complaint, Mr. Cuban also “publicly stated that he had sold his
+Mamma.com shares because the company was conducting a PIPE.” (Compl. ¶ 25.)
+ARGUMENT
+No federal statute expressly prohibits insider trading. Therefore, the SEC primarily
+has used the “catchall” fraud provisions of Section 10(b) of the Securities Exchange Act
+and Rule 10b-5 to cover this conduct. Ever since its seminal decision in Cady, Roberts &
+Co. v. SEC, 40 SEC 907 (1961), where the SEC found for the first time that insider trading
+violated Section 10(b), the Commission has pushed for a “parity of information” rule
+whereby anyone who possesses material, nonpublic information must either disclose it to
+the investing public or abstain from trading. The problem with the “parity of information”
+rule is that it does not conform to the plain language of Section 10(b), which only creates
+liability for “manipulative” or “deceptive” conduct. 15 U.S.C. § 78j(b).5 As a result, the
+U.S. Supreme Court has forcefully rejected the SEC’s “parity of information” rule and
+found that “only some persons, under some circumstances, will be barred from trading
+while in possession of material nonpublic information.” Dirks v. SEC, 463 U.S. 646, 657
+(1983) (citing Chiarella v. United States, 445 U.S. 222, 233 (1980)). The people who are
+barred from trading are those who have a duty to disclose based on the existence of a
+fiduciary or similar relationship of trust and confidence. Chiarella, 445 U.S. at 228; United
+States v. O’Hagan, 521 U.S. 642, 652 (1997).
+There are two established theories of insider trading liability: classical and
+misappropriation. In Chiarella, the Court applied the classical theory, pursuant to which a
+5
+
+Section 10 makes it “unlawful for any person . . . (b) [t]o use or employ, in connection with
+the purchase or sale of any security . . . any manipulative or deceptive device or contrivance in
+contravention of such rules and regulations as the Commission may prescribe as necessary or
+appropriate in the public interest or for the protection of investors.” Id.
+
+5
+
+corporate insider commits securities fraud when he breaches his fiduciary duty to the
+corporation’s shareholders by trading on the basis of material, nonpublic information
+obtained from the corporation. Id. at 227-28. An alternative (but closely related) theory of
+liability, originally adopted by some lower courts, is the misappropriation theory. See, e.g.,
+United States v. Chestman, 947 F.2d 551, 564 (2d Cir. 1991). Under the misappropriation
+theory, a person commits securities fraud when he misappropriates material, nonpublic
+information in breach of a fiduciary duty owed to the source of the information and then
+trades on the basis of the information.
+
+Id.
+
+When the issue of the validity of the
+
+misappropriation theory came before the Supreme Court in the O’Hagan case, the SEC
+specifically argued – consistent with Chiarella and the classical theory – that liability
+required the existence of a fiduciary or similar duty of trust and confidence that “deceives
+the information’s legitimate possessor into believing that [the trader] is acting as a faithful
+agent.” Brief for the United States at *10-11, United States v. O’Hagan, 521 U.S. 642
+(1997) (No. 96-842). The Court accepted the SEC’s position, because it comported with
+the language of Section 10(b), and endorsed the misappropriation theory. In particular, the
+Court held that “a fiduciary’s undisclosed, self-serving use of a principal’s information to
+purchase or sell securities, in breach of a duty of loyalty and confidentiality, defrauds the
+principal of the exclusive use of that information.” O’Hagan, 521 U.S. at 652. See also W.
+Wang & M. Steinberg, Insider Trading § 5:4 (2d ed. 2005 & 2008 Supp.).
+The SEC is no longer satisfied, however, with the scope of the misappropriation
+theory as adopted by the Supreme Court. In contravention of the position it took in
+O’Hagan, the SEC (by its own admission) is bringing insider trading cases in which no
+breach of a fiduciary or similar duty of trust and confidence is alleged. See Thomsen
+Opening Remarks. Not surprisingly, courts have reacted negatively to this renewed attempt
+to impose the “parity of information” rule. In the most notable decision to date, SEC v.
+Dorozhko, the court was sharply critical of the SEC’s failure to adequately allege any
+breach of a fiduciary or fiduciary-like duty in a case against a corporate outsider who
+6
+
+obtained material, nonpublic information by illegally hacking into a computer system. No.
+07 Civ. 9606, 2008 WL 126612 (S.D.N.Y. Jan. 8, 2008). The court found that violations of
+Section 10(b) “[u]niformly . . . have been predicated on a breach of a fiduciary (or similar)
+duty of candid disclosure.” Id. at *1. For a court to “eliminate the fiduciary requirement
+now would be to undo decades of Supreme Court precedent, and rewrite the law as it has
+developed.” Id.
+The instant case is simply more of the same. Mr. Cuban is not alleged to have been
+(and was not) a corporate insider at Mamma.com. Thus, the SEC is proceeding under the
+misappropriation theory. The Complaint brazenly alleges that Mr. Cuban violated a “duty
+of confidentiality” (Compl. ¶ 16) or a “duty of trust or confidence” (Id. ¶ 26) (emphasis
+added), but never contends he violated the requisite fiduciary duty or similar duty of trust
+and confidence.
+
+The SEC may argue that the alleged facts nevertheless support the
+
+existence of the requisite duty.
+
+If so, it is the SEC’s apparent position that an oral
+
+confidentiality agreement reached during an eight-minute phone call between the CEO of a
+company and one of his shareholders can give rise to Section 10(b) liability for insider
+trading. No court has ever held, however, that a confidentiality agreement alone creates a
+fiduciary or fiduciary-like duty to act loyally to the source of the information. For all the
+reasons discussed below, this Court should decline to be the first.6
+I.
+
+Standard Of Review.
+On a motion to dismiss for failure to state a claim, the court must “accept[] all well-
+
+pleaded facts as true, viewing them in the light most favorable to the plaintiff.” In re
+Katrina Canal Breaches Litig., 495 F.3d 191, 205 (5th Cir. 2007) (internal quotations
+6
+
+The Complaint asserts insider trading claims under both Section 17(a) of the Securities Act
+and Section 10(b) of the Exchange Act (and Rule 10b-5 promulgated thereunder). (Compl. ¶¶
+28-33.) Courts have routinely examined these provisions under the same standards. See
+Landry v. All Am. Assurance Co., 688 F.2d 381, 385 (5th Cir. 1982) (“Rule 10b-5, adopted
+under § 10(b) of the Securities and Exchange Act of 1934, is substantially identical to §
+17(a).”); Ray v. Karris, 780 F.2d 636, 641, n.3 (7th Cir. 1985) (“Since, however, this section
+and Rule 10b-5 ‘track’ each other closely, the lack of a 10b-5 cause of action would preclude
+section 17(a) relief also.”).
+
+7
+
+omitted).
+
+However, a plaintiff’s pleading obligation “requires more than labels and
+
+conclusions, and a formulaic recitation of the elements of a cause of action will not do . . .
+[the] [f]actual allegations must be enough to raise a right to relief above the speculative
+level.” Bell Atl. Corp. v. Twombley, 550 U.S. 544, 552 (2007).
+In addition, because the SEC asserts insider trading claims, which sound in fraud, it
+must meet the heightened pleading requirements of Federal Rule of Civil Procedure 9(b)
+(“FRCP 9(b)”). Williams v. WMX Techs., Inc., 112 F.3d 175, 178 (5th Cir. 1997) (FRCP
+9(b) should be applied “with force, without apology”). The Commission therefore must
+plead with particularity all of the circumstances, other than mental state, constituting fraud
+under the misappropriation theory – namely, that Mr. Cuban both traded on the basis of
+material, nonpublic information and breached a duty of disclosure to the source of the
+information. See, e.g., O’Hagan, 521 U.S. at 652, 666.
+II.
+
+The SEC Has Failed To Adequately Allege That Mr. Cuban Engaged In
+Insider Trading.
+As the Supreme Court has held, “Section 10(b) is aptly described as a catchall
+
+provision, but what it catches must be fraud.” Chiarella, 445 U.S. at 234-35. For purposes
+of insider trading liability pursuant to the misappropriation theory, the fraud arises when the
+trader engages in “[d]eception through nondisclosure” by failing to tell the source of the
+material, nonpublic information that he is going to use the information for his own benefit
+by trading in securities. O’Hagan, 521 U.S. at 654. For the trader’s actions to constitute
+deception, he must have had a duty of disclosure. Id. at 652; see also Regents of the Univ.
+of Cal. v. Credit Suisse First Boston (USA), Inc., 482 F.3d 372, 389 (5th Cir. 2007) (no
+“deception” under Section 10(b) “unless it involves breach of some duty of candid
+disclosure”). The duty of disclosure is created by the existence of a fiduciary or similar
+relationship of trust and confidence between the fiduciary-turned-trader and the source of
+the information. O’Hagan, 521 U.S. at 652. The SEC has failed to adequately allege that a
+
+8
+
+fiduciary or similar relationship of trust and confidence existed between Mr. Cuban and
+Mamma.com. As a result, Mr. Cuban cannot be liable for insider trading.
+A.
+
+The existence of a fiduciary or fiduciary-like relationship is a matter of
+state law.
+
+The legal basis for determining what facts and circumstances give rise to a fiduciary
+duty, as this Court has recognized, is not the federal securities laws. Southwest Realty, Ltd.
+v. Daseke, No. CA3-89-3055-D, 1992 WL 373166, at *9-10 (N.D. Tex. May 21, 1992).
+Instead, “the duty to disclose material facts arises only where there is some basis outside
+the securities laws, such as state law, for finding a fiduciary or other confidential
+relationship.” Id. at *10 (quoting Fortson v. Winstead, McGuire, Sechrest, & Minick, 961
+F.2d 469, 472 (4th Cir. 1992)); see also Barker v. Henderson, Franklin, Starnes & Holt,
+797 F.2d 490, 496 (7th Cir. 1986) (“[D]uty [to disclose] does not come from § 10(b) or
+Rule 10b-5; if it did the inquiry would be circular. The duty must come from a fiduciary
+relation outside securities law.”); Snap-On Inc. v. Ortiz, No. 96 C 2138, 1996 WL 627618,
+at *3 (N.D. Ill. Oct. 24, 1996) (in evaluating Section 10(b) claim based on non-disclosure,
+“[t]he existence of a fiduciary relationship depends upon the existence of a duty under
+applicable state law”). Although some lower courts – apparently not confronted with the
+argument that state law should apply – have appeared willing to apply a separate federal
+fiduciary duty analysis for purposes of applying the misappropriation theory (see, e.g., SEC
+v. Kornman, 391 F. Supp. 2d 477 (N.D. Tex. 2005)), this runs directly counter to this
+Court’s holding in Southwest Realty and the Supreme Court’s jurisprudence.
+There “is no federal general common law.” O’Melveny & Myers v. FDIC, 512 U.S.
+79, 83 (1994) (quoting Erie R.R. Co. v. Tompkins, 304 U.S. 64, 78 (1938)). Absent
+congressional authorization, the creation by courts of special federal rules can only be
+justified by a “significant conflict between some federal policy or interest and the use of
+state law.” Id. at 87 (quoting Wallis v. Pan Am. Petroleum Corp., 384 U.S. 63, 68 (1966));
+see also Atherton v. FDIC, 519 U.S. 213, 218, 224 (1997) (rejecting creation of federal
+
+9
+
+common law to govern standard of care for directors of federally chartered banks). The
+Supreme Court has already determined that there is no such conflict between Section 10(b)
+and state fiduciary duty law.
+In Santa Fe Industries, Inc. v. Green, the Court rejected the Second Circuit’s
+attempt to use federal common law to expand Section 10(b) liability to cover a nondeceptive breach of fiduciary duty related to a corporate cash-out merger. 430 U.S. 462,
+480 (1977). In particular, the Court expressed concern that a decision in favor of the
+plaintiffs would involve the creation of a “federal fiduciary principle” that “could be
+expected to depart from state fiduciary standards at least to the extent necessary to ensure
+uniformity within the federal system.”
+
+Id. at 478-79. “Absent a clear indication of
+
+congressional intent,” the Court declined to “federalize the substantial portion of the law of
+corporations that deals with transactions in securities, particularly where established state
+policies of corporate regulation would be overridden.” Id. The Court ultimately concluded
+that “uniform federal fiduciary standards . . . should not be supplied by judicial extension of
+[Section] 10(b) and Rule 10b-5 to cover the corporate universe.” Id. at 480 (internal
+quotation marks omitted).7 See also Burks v. Lasker, 441 U.S. 471, 478, 479 (1979)
+(quoting Wallis, 384 U.S. at 68) (applying state law to cause of action under federal
+Investment Company Act because state law is “font of corporate directors’ powers” and
+application of state law did not pose “significant threat to any identifiable federal policy or
+interest”).8
+7
+
+In an analogous situation – examining the standing of a minority shareholder to bring a
+Racketeer Influenced and Corrupt Organization Act (“RICO”) action against corporate
+directors based on false representations – the Fifth Circuit has held that it must apply state law
+rather than “generating federal common law in this area.” Leach v. FDIC, 860 F.2d 1266, 1274
+n.14 (5th Cir. 1988) (“Any definition of the term ‘property,’ an inherently state-law related
+term, should look to state law.”).
+
+8
+
+Nothing in O’Hagan suggests the Court intended to move away from its previous holdings
+and permit the creation of a federal fiduciary duty for purposes of insider trading claims under
+the misappropriation theory. As commentators have noted, “in light of the Supreme Court’s
+skepticism towards federal common law, it is unlikely it would countenance a wholesale
+
+10
+
+State law is the traditional “font” of fiduciary duties and, as the Supreme Court
+found in Santa Fe, courts should decline to override established state law to expand the
+scope of liability under Section 10(b) and Rule 10b-5. This Court should follow the
+approach it embraced in Southwest Realty, which accurately reflects the Supreme Court
+jurisprudence on the issue, and apply state law in determining whether Mr. Cuban had a
+fiduciary or similar relationship of trust and confidence with Mamma.com.
+B.
+
+Texas state law applies in this case.
+
+Federal courts must follow the choice of law rules of the state in which they sit,
+Stuart v. Spademan, 772 F.2d 1185, 1195 (5th Cir. 1985), and thus Texas choice of law
+rules apply here. Texas courts decide choice of law issues by using the “most significant
+relationship” test. Benchmark Elecs., Inc. v. J.M. Huber Corp., 343 F.3d 719, 727 (5th Cir.
+2003). Specifically, Restatement (Second) of Conflict of Laws § 148(2) applies in fraud
+and misrepresentation claims. Benchmark, 343 F.3d at 727-28 n.4.9
+
+creation of a federal common law of appropriate information use in contexts ranging from
+physician-patient relationships to father-son relationships, with nary a mention of this issue in
+the O’Hagan opinion.” Steven A. Ramirez & Christopher M. Gilbert, The Misappropriation
+Theory of Insider Trading under United States v. O’Hagan: Why Its Bark Is Worse Than Its
+Bite, 26 Sec. Reg. L.J. 162 (1998) (state common law must be used to determine existence of
+fiduciary duty).
+9
+
+The Restatement sets out a six-factor test for determining which state has the most significant
+relationship to the occurrence and the parties:
+a. The place, or places, where the plaintiff acted in reliance upon the
+defendant’s representations,
+b. The place where the plaintiff received the representations,
+c. The place where the defendants made the representations,
+d. The domicile, residence, nationality, place of incorporation and place of
+business of the parties,
+e. The place where a tangible thing which is the subject of the transaction
+between the parties was situated at the time, and
+f. The place where the plaintiff is to render performance under a contract
+which he has been induced to enter by the false representations of the
+defendant.
+Restatement (Second) of Conflict of Laws § 148(2) (1971); applied in Benchmark, 343 F.3d at
+727 n.4; Grant Thornton LLP v. Suntrust Bank, 133 S.W.3d 342, 358 (Tex. App. – Dallas 2004,
+pet. denied).
+
+11
+
+The Restatement factors relating to the plaintiff are inapplicable in this case because
+the SEC, as plaintiff in its capacity as a government agency, is not the allegedly defrauded
+party. Accordingly, the “most significant relationship” test must focus on the defendant’s
+conduct.
+All of Mr. Cuban’s alleged actions that the SEC cites in support of its claims took
+place in Texas. Mr. Cuban resides in Dallas. (Compl. ¶ 8.) Mr. Cuban allegedly entered
+into an oral confidentiality agreement with Mamma.com while in Dallas. (Id. ¶¶ 13, 14.)
+Mr. Cuban received the information about Mamma.com’s PIPE offering while in Dallas.
+(Id. ¶¶ 14, 17.) Mr. Cuban’s broker is located in Dallas. (Id. ¶ 18.) Mr. Cuban was in
+Dallas when he contacted his broker and instructed him to sell his Mamma.com shares.
+(Id.) Thus, the only reasonable conclusion is that Texas state law should be applied in this
+case.
+C.
+
+Under Texas state law, Mr. Cuban did not have a fiduciary or fiduciarylike relationship with Mamma.com.
+
+The SEC contends that Mr. Cuban “breached a duty of trust or confidence that he
+owed to Mamma.com” when he sold his Mamma.com shares.
+
+(Compl. ¶ 26.)
+
+The
+
+Complaint contains only two factual allegations, however, that describe the relationship
+between Mr. Cuban and Mamma.com. First, the SEC alleges that Mr. Cuban was a
+minority shareholder in the company. (Id. ¶ 10.) Second, the SEC alleges that, in a phone
+conversation with the CEO of Mamma.com, Mr. Cuban entered into an oral confidentiality
+agreement prior to receiving information about the PIPE transaction. (Id. ¶ 14.)10 Taken
+separately or together, these contentions do not – as a matter of law – adequately allege the
+existence of a fiduciary or fiduciary-like relationship between Mr. Cuban and Mamma.com.
+
+10
+
+The Complaint also states that after Mr. Cuban acquired his stock, the CEO of Mamma.com
+was his “primary point of contact” at the company. (Compl. ¶ 10.) The SEC does not allege,
+however, that any contact actually took place prior to June 28, 2004, much less contact that
+gave rise to a fiduciary or fiduciary-like relationship.
+
+12
+
+As to any duties created by Mr. Cuban’s stock ownership, this Court must look to
+Canadian (Ontario) law. Texas has adopted the “internal affairs doctrine” by statute, which
+specifically controls the choice of law issue. See Tex. Bus. Corp. Act Ann. art. 8.02A
+(Vernon 1980); Hollis v. Hill, 232 F.3d 460, 464-65 (5th Cir. 2000). In Texas, “the internal
+affairs of the foreign corporation, ‘including but not limited to the rights, powers, and
+duties of its board of directors and shareholders and matters relating to its shares,’ are
+governed by the laws of the jurisdiction of incorporation.” Hollis, 232 F.3d at 465 (quoting
+Tex. Bus. Corp. Act Ann. art. 8.02A).
+As of June 2004, Mamma.com was incorporated in Ontario, Canada. See 2003
+Form 20-F (Ex. 1). Mr. Cuban was a minority shareholder of Mamma.com – at no time is
+he alleged to have held more than 6.3% of the outstanding common shares of the company.
+(Compl. ¶ 10.) Mamma.com was governed by the Business Corporations Act (Ontario)
+(“OBCA”), the provisions of which, inter alia, provide for all of the respective rights,
+duties, and powers of a corporation, its officers and directors, and its shareholders.
+Business Corporations Act, R.S.O. 1990, c. B.16, ss. 1, et seq. (Can.) (available on
+Westlaw). The OBCA does not provide that a minority stockholder owes a fiduciary or
+fiduciary-like duty to the corporation. Id. The only fiduciary or fiduciary-like duties
+imposed under the OBCA are those that are owed to the corporation by its directors and
+officers.
+
+Id., s. 134(1).
+
+Accordingly, Mr. Cuban did not owe a fiduciary duty to
+
+Mamma.com based on his minority stock ownership.
+In the absence of a relevant fiduciary relationship based on Mr. Cuban’s stock
+ownership, the SEC is reduced to arguing that a fiduciary or similar relationship of trust and
+confidence was created by a single telephone call on June 28, 2004, in which Mr. Cuban
+supposedly “agreed that he would keep whatever information the CEO intended to share
+with him confidential.”
+
+(Compl. ¶ 14.)
+
+As a matter of Texas law, however, a
+
+confidentiality agreement alone cannot create a relationship of trust and confidence.
+
+13
+
+Texas courts recognize both formal fiduciary relationships (e.g., principal/agent,
+partners) and “informal fiduciary relationships [that] have also been termed ‘confidential
+relationships’ and may arise where one person trusts in and relies upon another, whether the
+relation is a moral, social, domestic or merely personal one.” Crim Truck & Tractor Co. v.
+Navistar Int’l Transp. Corp., 823 S.W.2d 591, 593-94 (Tex. 1992) (internal quotation
+marks omitted). “[A] fiduciary duty will not be lightly created” under Texas law, however,
+because “it imposes extraordinary duties” and requires the fiduciary to “put the interests of
+the beneficiary ahead of its own if the need arises.” Floors Unlimited, Inc. v. Fieldcrest
+Cannon, Inc., 55 F.3d 181, 188 (5th Cir. 1995).
+Texas courts have consistently rejected attempts to impose a fiduciary obligation on
+an otherwise arms-length business relationship. See ARA Auto. Group v. Central Garage,
+Inc., 124 F.3d 720, 726 (5th Cir. 1997) (noting that “few Texas cases have found fiduciary
+relationships outside of legal relationships that carry fiduciary duties as a matter of law”
+and citing two other Fifth Circuit decisions declining to find existence of fiduciary
+relationship between business parties under Texas law).
+
+The main barrier is the
+
+requirement that “[t]o impose an informal fiduciary duty in a business transaction, the
+special relationship of trust and confidence must exist prior to, and apart from, the
+agreement made the basis of the suit.” Associated Indem. Corp. v. CAT Contracting, Inc.,
+964 S.W.2d 276, 288 (Tex. 1998) (emphasis added); see also Meyer v. Cathey, 167 S.W.3d
+327, 331 (Tex. 2005); Schlumberger Tech. Corp. v. Swanson, 959 S.W.2d 171, 177 (Tex.
+1997).
+Texas courts apply this principle with equal vigor to confidentiality agreements. As
+found by the Texas Supreme Court, “[e]very contract includes an element of confidence
+and trust that each party will faithfully perform his obligation under the contract.” Crim
+Truck, 823 S.W.2d at 595. A party to a contract “is free to pursue its own interests, even if
+it results in a breach of that contract, without incurring tort liability.”
+
+Id. at 594.
+
+Accordingly, Texas courts have had no difficulty finding that in the absence of a pre14
+
+existing confidential relationship, entering into a confidentiality agreement is insufficient as
+a matter of law to create an informal fiduciary duty. Anglo-Dutch Petroleum Int’l, Inc. v.
+Smith, 243 S.W.3d 776, 782 (Tex. App. – Houston [14th Dist.] 2007, pet. denied) (finding
+“no authority supporting the notion that confidentiality agreements can create fiduciary
+relationships”); Ramco Oil & Gas Ltd. v. Anglo-Dutch (Tenge) L.L.C., 207 S.W.3d 801,
+827 (Tex. App. – Houston [14th Dist.] 2006, pet. denied) (without pre-existing relationship
+prior to entering confidentiality agreement, argument “fails as a matter of law”).
+The SEC has failed to allege any facts supporting the notion that a fiduciary or
+similar relationship of trust and confidence existed between Mr. Cuban and Mamma.com
+under the relevant law. Mr. Cuban’s status as a minority shareholder did not cause him to
+owe the CEO of Mamma.com a fiduciary duty; rather, he was owed such a duty.
+Moreover, Mr. Cuban and Mamma.com are not alleged to have had a pre-existing
+confidential relationship prior to entering into the supposed confidentiality agreement.
+Texas courts have refused to find the existence of an informal fiduciary relationship under
+identical circumstances. See Anglo-Dutch, 243 S.W.3d at 782; Ramco Oil & Gas, 207
+S.W.3d at 827.11
+
+Because Mr. Cuban had no fiduciary or similar relationship with
+
+Mamma.com under applicable state law, he had no duty to disclose to Mamma.com that he
+would use the information about the PIPE offering as a basis for trading in Mamma.com
+shares. Accordingly, Mr. Cuban cannot be liable for insider trading.
+
+11
+
+If anything, the Complaint confirms that Mr. Cuban and Mamma.com did not have an
+informal fiduciary relationship. Under Texas law, the party seeking to enforce an informal
+fiduciary duty must have been “justified in placing confidence in the belief that another party
+will act in his or her best interest.” Sabre, Inc. v. Lyn-Lea Travel Corp., No. Civ. A
+3:96CV2068-R, 2003 WL 22203707, at *5 (N.D. Tex. Sept. 23, 2003) (citation omitted). The
+SEC alleges that Mamma.com “anticipated” that Mr. Cuban would “[fly] off the handle and
+[say] he would sell his shares” when told about the PIPE transaction. (Compl. ¶ 15.)
+Mamma.com clearly was not confident Mr. Cuban would act loyally to the company under
+these circumstances.
+
+15
+
+D.
+
+Even if this Court were to apply “federal common law,” the SEC has
+failed to adequately plead a fiduciary or fiduciary-like relationship.
+
+As discussed above, Texas choice of law rules – and, therefore, Canadian (Ontario)
+and Texas law – must be applied in determining the existence of a fiduciary or similar
+relationship of trust and confidence between Mr. Cuban and Mamma.com. The Court need
+not go any further in reaching its decision. Even if this Court were to consider court
+decisions that improperly apply “federal common law,” however, the SEC has failed to
+adequately plead the existence of the requisite relationship.
+Mr. Cuban’s status as a minority shareholder did not give rise to a formal fiduciary
+duty under federal law. Indeed, it was the Mamma.com directors and officers who owed
+Mr. Cuban a fiduciary duty. See SEC v. Talbot, 430 F. Supp. 2d 1029, 1051 (C.D. Cal.
+2006), reversed on other grounds, 530 F.3d 1085 (9th Cir. 2008) (declining to find status as
+minority shareholder gave rise to fiduciary duty). In the absence of a formal fiduciary duty,
+federal courts – as do Texas courts – assess whether there was a similar relationship of trust
+and confidence, which “must be the functional equivalent of a fiduciary relationship.”
+Chestman, 947 F.2d at 568.
+Chestman is the leading federal case examining the attributes of a fiduciary-like
+relationship. See, e.g., United States v. Kim, 184 F. Supp. 2d 1006, 1010 (N.D. Cal. 2002)
+(following Chestman); Kornman, 391 F. Supp. 2d 477 (following both Chestman and Kim).
+Pursuant to Chestman, the hallmarks of a fiduciary-like relationship are “reliance, and de
+facto control and dominance.” Chestman, 947 F.2d at 568 (internal quotation omitted).
+Essential to finding such a relationship, the Chestman court concluded, is a determination
+that “confidence is reposed on one side and there is resulting superiority and influence on
+the other.” Id. “In relying on a fiduciary to act for his benefit, the beneficiary of the
+relation may entrust the fiduciary with custody over property.” Id. at 569. The fiduciary
+“obtains access to this property to serve the ends of the fiduciary relationship” (as opposed
+to gratuitously) and, therefore, “becomes duty-bound not to appropriate the property for his
+
+16
+
+own use.” Id. “While acceptance [of a duty of confidentiality] may be implied, it must be
+implied from a pre-existing fiduciary-like relationship between the parties.” Id. at 571
+(emphasis added).
+In other words, as under Texas law, there are two factors in the federal common law
+analysis of a relationship of trust and confidence for purposes of the misappropriation
+theory. There must be a pre-existing relationship between the parties. In addition, the
+nature of that relationship must have provided the beneficiary with justifiable reason to
+believe that the other party would not appropriate any confidential information provided to
+him for his own use (i.e., act disloyally). To proceed under the misappropriation theory
+based on a breach of a fiduciary-like relationship, a plaintiff must allege facts
+demonstrating the existence of both factors.
+Insider trading cases that have found the existence of a fiduciary-like relationship
+have uniformly based their holdings on facts demonstrating a pre-existing relationship and
+a justifiable basis for an assumption of loyalty (either through a history of sharing
+confidences or an explicit confidentiality agreement). See SEC v. Yun, 327 F.3d 1263,
+1273-74 (11th Cir. 2003) (evidence of husband-and-wife relationship involving “a history
+or pattern of sharing and keeping business confidences” and wife “explicitly accepted the
+duty to keep in confidence the business information she received”); SEC v. Sargent, 229
+F.3d 68, 76 (1st Cir. 2000) (evidence of “pre-existing fiduciary relationship between [the
+parties] arising out of their status as sole shareholders of their closely-held business
+corporation” and “promise[] not to divulge” information); Kornman, 391 F. Supp. 2d at
+488-89 (course of communications between advisor and executives, as well as advisor’s
+superior knowledge, led to development of confidential relationship and advisor provided
+materials indicating information would be kept confidential); SEC v. Kirch, 263 F. Supp. 2d
+1144, 1150-51 (N.D. Ill. 2003) (parties had pre-existing membership in CEO Roundtable
+that had “express” confidentiality agreement and confidentiality agreement was reiterated
+directly before information was provided). The facts of these cases make it clear that none
+17
+
+of the courts held that a confidentiality agreement alone is sufficient to create the requisite
+duty and impose insider trading liability.
+The SEC has completely failed to plead the existence of a pre-existing relationship
+between Mr. Cuban and Mamma.com that could give rise to a duty of trust and confidence.
+Rather, the Commission appears to assert that a single, eight-minute call was sufficient to
+both establish a pre-existing relationship and then, through the mechanism of an alleged
+oral confidentiality agreement, provide Mamma.com with justifiable reason to believe that
+Mr. Cuban would from that point forward “serve the ends of the fiduciary relationship.”
+Chestman, 947 F.2d at 569.12
+Not surprisingly, no court has found that a single phone call can create the
+necessary pre-existing relationship. The only case with a similar alleged fact pattern –
+United States v. Cassese – expressly rejects the idea.
+
+273 F. Supp. 2d 481, 486-87
+
+(S.D.N.Y. 2003). In Cassese, the defendant was the CEO of Computer Horizons Corp.,
+which entered into negotiations to be acquired by Compuware Corp.
+
+Id. at 483.
+
+Compuware’s CEO later called the defendant and told him that Compuware planned to
+acquire a different company. Id. at 484. The defendant allegedly misappropriated that
+information by trading in the shares of the new acquisition target. Id. The court found that
+the two CEO’s were “not inherent fiduciaries, but rather potential arms-length business
+partners.” Id. at 486. There were no allegations that they “had a long-standing relationship
+or that they regularly shared confidences.” Id. The court concluded that this was “very far
+12
+
+The SEC also alleges that at the end of the phone conversation Mr. Cuban told the CEO of
+Mamma.com “Well, now I’m screwed. I can’t sell,” and the CEO relied on this statement.
+(Compl. ¶¶ 14, 16.) Even assuming that Mr. Cuban made this statement and it caused a belief
+on the part of Mamma.com that Mr. Cuban would not sell his shares until the PIPE offering
+was publicly disclosed, this belief could not impose a fiduciary or similar duty of trust and
+confidentiality upon Mr. Cuban. See, e.g., Walton v. Morgan Stanley & Co., 623 F.2d 796, 799
+(2d Cir. 1980) (expectation on part of source that party receiving nonpublic information will
+not trade cannot impose duty of confidentiality); SEC v. Mayhew, 916 F. Supp. 123, 130 (D.
+Conn. 1995) (the fact that an insider who disclosed material nonpublic information “expected
+[the recipient] to the keep the substance of the lunch conversation confidential, did not, in itself,
+give rise to a fiduciary duty”).
+
+18
+
+from a relationship marked by ‘de facto control’ and ‘dominance’ or entailing
+‘discretionary authority and dependency.’” Id. (quoting Chestman, 947 F.2d at 568-69). In
+addition, the Compuware CEO had “no persuasive need” to tell the defendant about the
+alternative acquisition and the parties did not enter into a confidentiality agreement. Id. at
+487.
+The alleged relationship between Mr. Cuban and Mamma.com is even weaker than
+in Cassese. Far from being a fiduciary of Mamma.com, or even an “equal” arms-length
+business partner, Mr. Cuban was a minority shareholder who was owed a fiduciary duty by
+Mamma.com’s officers and directors. In no way did Mr. Cuban exercise “de facto control”
+or “dominance” over Mamma.com’s management. In fact, as a minority shareholder, it
+was Mr. Cuban who “reposed confidence in the management of [Mamma.com] to protect
+and enhance [his] investment” and Mamma.com’s management, in turn, “held a position of
+superiority and influence respecting the use of those assets.” Talbot, 430 F. Supp. 2d at
+1062.
+
+Indeed, the information in question was conveyed when Mamma.com’s
+
+management, with superior knowledge about the pending PIPE offering, allegedly solicited
+Mr. Cuban to buy shares.
+
+Cf. Kornman, 391 F. Supp. 2d at 488 (trader solicited
+
+information from executives based on his dominant position and then used the information
+for his own benefit).
+Moreover, the Complaint makes it clear that Mamma.com had no expectation that
+Mr. Cuban would act for the company’s benefit. The SEC alleges that Mamma.com
+“anticipated” that Mr. Cuban would “[fly] off the handle and [say] he would sell his shares”
+when told about the PIPE offering. (Compl. ¶ 15.) Mamma.com could not be justified in
+placing confidence in the belief that Mr. Cuban would act loyally to the company when it
+already knew, prior to calling Mr. Cuban, that he would want to sell his shares upon
+receiving the information. Nor did Mamma.com have a “persuasive need” to share the
+information about the PIPE offering with Mr. Cuban, given that management did not expect
+
+19
+
+Mr. Cuban to participate and the offering was already oversubscribed. E-mail from David
+Goldman on July 28, 2004. (Compl. ¶ 15.) (Ex. 3).
+Mr. Cuban’s alleged entry into an oral confidentiality agreement, even if true, is
+irrelevant in the absence of any pre-existing relationship.
+
+No court has held that a
+
+confidentiality agreement alone creates a fiduciary or similar relationship of trust or
+confidence. As stated in Kim, “an express [confidentiality] agreement can provide the basis
+for misappropriation liability only if the express agreement sets forth a relationship with the
+hallmarks of a fiduciary relationship.” 184 F. Supp. 2d at 1015.13 The SEC does not,
+because it cannot, allege that the supposed oral confidentiality agreement in this case
+encompassed an agreement by Mr. Cuban to assume all of the responsibilities of a fiduciary
+toward the CEO of Mamma.com (effectively reversing their existing legal positions).
+In short, under either Texas or federal common law, the SEC has failed to
+adequately plead that Mr. Cuban had a fiduciary or fiduciary-like duty to Mamma.com. In
+the absence of such a duty and accompanying breach, any insider trading claim against Mr.
+Cuban fails as a matter of law.
+III.
+
+SEC Rule 10b5-2(b)(1) Is Not Applicable In This Case.
+Although the Complaint does not expressly cite SEC Rule 10b5-2, the Commission
+
+may attempt to invoke that provision in an effort to salvage its claims. In particular,
+subsection (b)(1) of Rule 10b5-2 states that a person is presumed to have a “duty of trust or
+confidence” for purposes of applying the misappropriation theory whenever he “agrees to
+maintain information in confidence.” 17 C.F.R. § 240.10b5-2(b)(1). Rule 10b5-2(b)(1) is
+inapplicable in this case, however, for two reasons. First, the rule does not apply where no
+family or other personal relationship exists. Second, to the extent the SEC claims that the
+rule creates potential liability based solely on the existence of a confidentiality agreement,
+13
+
+Accord Nolan Bros. v. Whiteraven, L.L.C., No. 99 Civ. 10256, 2004 WL 376265, at *1
+(S.D.N.Y. Feb. 27, 2004) (confidentiality agreement does not create fiduciary relationship);
+City Solutions, Inc. v. Clear Channel Commc’ns, Inc., 201 F. Supp. 2d 1048, 1049 (N.D. Cal.
+2002) (same); Snap-On, 1996 WL 627618 at *4 (same).
+
+20
+
+the rule directly contradicts the Supreme Court’s decisions on this issue by creating liability
+in the absence of a fiduciary or similar duty of trust and confidence and therefore cannot be
+followed.
+A.
+
+Rule 10b5-2(b)(1) only applies to family and other personal
+relationships
+
+The SEC created Rule 10b5-2 to resolve “an unsettled issue in insider trading law”
+– specifically, “under what circumstances certain non-business relationships, such as family
+and personal relationships, may provide the duty of trust or confidence required under the
+misappropriation theory.” Selective Disclosure and Insider Trading, 65 Fed. Reg. 51716,
+51729 (final rule, Aug. 24, 2000) (emphasis added); see also Selective Disclosure and
+Insider Trading, 64 Fed. Reg. 72590 (proposed rule, Dec. 28, 1999). Indeed, in explaining
+the need for and scope of Rule 10b5-2(b)(1), which creates a presumption of the requisite
+duty based on a confidentiality agreement, the SEC specifically contrasted a “business
+context,” where parties sometimes “sign an express, written confidentiality agreement,”
+with the Rule’s more relaxed standard for “everyday personal interactions” where
+individuals may “rely on reasonable, implicit understandings of confidentiality.” Id. at
+72603 (proposed rule, Dec. 28, 1999). Simply put, the Rule, if interpreted consistently with
+its proposing and adopting releases, merely provides that a pre-existing relationship (family
+or personal) combined with a confidentiality agreement may be sufficient to create the
+requisite fiduciary or fiduciary-like duty. See supra Section II.
+With this background, it is obvious why the only two courts to have expressly
+considered the issue have found that Rule 10b5-2 does not apply to business relationships.
+In Kim, the court found that the “language of the release makes clear [Rule 10b5-2] applies
+to family or other non-business relationships.” 184 F. Supp. 2d at 1015 (internal quotation
+omitted). Likewise, the Talbot court specifically rejected the SEC’s attempt to apply Rule
+10b5-2 to the business relationships at issue in that case. 430 F. Supp. 2d at 1061 n.91. Cf.
+Kornman, 391 F. Supp. 2d at 489-91 (court’s determination that fiduciary-like relationship
+
+21
+
+existed “bolstered” by Rule 10b5-2, but court did not address issue of rule’s scope). In the
+absence of any alleged family or other non-business relationship between Mr. Cuban and
+Mamma.com, Rule 10b5-2 is not applicable in this case.
+B.
+
+Rule 10b5-2(b)(1) is invalid if construed as creating liability in the
+absence of a fiduciary or similar duty of trust and confidence.
+
+The SEC may argue, contrary to its own proposing and adopting releases (see supra
+Section III(A)), that Rule 10b5-2(b)(1) should be broadly interpreted as imposing potential
+liability upon any person who breaches an agreement to keep information confidential,
+regardless of the nature of the relationship (if any) between the person and the source of the
+information. If Rule 10b5-2(b)(1) were interpreted in this fashion, however, the Rule
+would conflict with the Supreme Court’s construction of Section 10(b) and exceed the
+SEC’s rulemaking authority.
+The SEC does not have unlimited rulemaking authority pursuant to Section 10(b).
+“The rulemaking power granted to an administrative agency charged with the
+administration of a federal statute is not the power to make law. Rather, it is the power to
+adopt regulations to carry into effect the will of Congress as expressed by the statute.”
+Ernst & Ernst v. Hochfelder, 425 U.S. 212, 214 (1976) (internal citations omitted). The
+scope of Rule 10b5-2(b)(1) therefore cannot exceed the power granted the SEC under
+Section 10(b). Id. Section 10(b), which prohibits conduct involving manipulation or
+deception, “simply authorizes the SEC to proscribe manipulative or deceptive devices or
+contrivances.” O’Hagan, 521 U.S. at 671 (internal quotations omitted).
+The Supreme Court has held that for purposes of the misappropriation theory of
+insider trading liability, conduct is “deceptive” within the meaning of Section 10(b) only if
+it involves a breach of a duty to disclose. O’Hagan, 521 U.S. at 655. The duty to disclose
+“does not arise from the mere possession of nonpublic market information,” Chiarella, 445
+U.S. at 235, but from the existence of a fiduciary or similar relationship of trust and
+confidence. Id. at 230 (Section 10(b) liability for insider trading “is premised upon a duty
+
+22
+
+to disclose arising from a relationship of trust and confidence between parties to a
+transaction”); O’Hagan, 521 U.S. at 652-55 (“the misappropriation theory premises
+liability on a fiduciary-turned-trader’s deception of those who entrusted him with access to
+confidential information” and “the deception essential to the misappropriation theory
+involves feigning fidelity to the source of information”) (emphasis added)).
+The Supreme Court’s definition of “deceptive” forecloses any possibility that a
+defendant can incur Section 10(b) liability under the misappropriation theory if no fiduciary
+or fiduciary-like duty is breached.
+
+See Chiarella, 445 U.S. at 235, 228 (“When an
+
+allegation of fraud is based upon nondisclosure, there can be no fraud absent a duty to
+speak,” and “one who fails to disclose material information prior to the consummation of a
+transaction commits fraud only when he is under a duty to do so.”) (emphasis added);
+O’Hagan, 521 U.S. at 655 (“Because the deception essential to the misappropriation theory
+involves feigning fidelity to the source of information, if the fiduciary discloses to the
+source that he plans to trade on the nonpublic information, there is no ‘deceptive device’
+and thus no § 10(b) violation.”) (emphasis added). Moreover, the Court has made clear that
+the breach of a fiduciary or fiduciary-like duty is required by the plain text of the statute.
+Chiarella, 445 U.S. at 234-35.
+This is made particularly explicit in Chiarella.
+
+There, the Supreme Court
+
+“emphasized” that “the 1934 Act cannot be read more broadly than its language and the
+statutory scheme reasonably permit” and, for purposes of Section 10(b), this means that
+“[w]hen an allegation of fraud is based upon nondisclosure, there can be no fraud absent a
+duty to speak.” Id. (internal quotations omitted); see also O’Hagan, 521 U.S. at 659 n.9
+(referring to the “textual proscription” of Section 10(b), and construing what the “text of
+[Section 10b] requires”) (emphasis added). In other words: imposing fraud liability under
+Section 10(b) for insider trading where no duty to speak exists is inconsistent with the text
+of Section 10(b) because it “read[s] [Section 10(b)] more broadly than its language . . .
+permit[s].” Chiarella, 445 U.S. at 234 (internal quotations omitted).
+23
+
+The Fifth Circuit has recognized that the Supreme Court’s definition of “deceptive”
+conduct is exclusive and controlling. In Regents of the University of California, the court
+found that the Supreme Court has “authoritatively construed” deception as involving a
+breach of duty: “the [Supreme] Court . . . has established that a device, such as a scheme, is
+not ‘deceptive’ unless it involves breach of some duty of candid disclosure.” 482 F.3d at
+389. The Fifth Circuit rejected the plaintiff’s definition of “deceptive” because it was
+inconsistent with the Supreme Court’s definition of “deceptive.” The Fifth Circuit took
+pains to note that none of its Section 10(b) decisions has ever “contradicted” the Supreme
+Court on this issue. Id.14
+To the extent the SEC urges that Rule 10b5-2(b)(1) be read as basing potential
+liability on a breach of a confidentiality agreement alone, this interpretation would
+effectively dispense with the fiduciary duty requirement. Under applicable common law, a
+confidentiality agreement alone cannot create an obligation to act loyally to the other
+party, and the breach of a confidentiality agreement therefore does not constitute a breach
+of fiduciary duty. See supra Section II.15 Interpreted in this manner, Rule 10b5-2(b)(1)
+would create liability for conduct that is not “deceptive,” thereby exceeding the SEC’s
+limited authority under Section 10(b) to “proscribe deceptive conduct.”
+The text of Rule 10b5-2 suggests that the SEC may have improperly intended to
+reach just such a result. Rule 10b5-2 describes circumstances in which a person is deemed
+to have a duty of “trust or confidence,” as opposed to the Supreme Court’s consistent
+standard of a duty of “trust and confidence.” As discussed above, this does not meet the
+14
+
+See also Dorozhko, 2008 WL 126612 at *13 (O’Hagan makes clear that Section 10(b) “does
+not reach all structural disparities in information that result in securities transactions, only those
+disparities obtained by dint of a breach of fiduciary duty of disclosure.”) (emphasis added).
+15
+
+In addition, as this Court has previously recognized, “the duty to disclose material facts arises
+only where there is some basis outside the securities laws, such as state law, for finding a
+fiduciary or other confidential relationship.” Southwest Realty, 1992 WL 373166 at *9
+(rejecting plaintiff’s attempt to rely upon SEC rule as source of fiduciary duty) (citations
+omitted) (emphasis added)).
+
+24
+
+Section 10(b) requirement of “deceptive” conduct, because under Chiarella and O’Hagan,
+only a relationship of both trust and confidence gives rise to a fiduciary-like relationship.
+While the term “confidence” standing alone suggests that the breach of a confidentiality
+agreement may be sufficient to violate the requisite duty, it does not comport with the
+requirement that it is the insider trader’s undisclosed breach of trust and loyalty – and not
+merely his breach of confidentiality – that constitutes fraud under Section 10(b).16
+The adopting release and the preliminary note for Rule 10b5-2(b)(1) expressly state
+that the Rule was designed to address when liability arises “under the misappropriation
+theory of insider trading.” Selective Disclosure, 65 Fed. Reg. at 51729 (final rule, Aug. 24,
+2000) (emphasis added); 17 C.F.R. § 240.10b5-2(b)(1) (emphasis added). To the extent the
+SEC urges this Court to apply in a literal fashion a “trust or confidence” standard, or
+otherwise argues that Rule 10b5-2(b)(1) creates potential liability based on the breach of a
+confidentiality agreement alone, the SEC would be paying mere lip service to the
+misappropriation theory and improperly creating insider trading liability based on nonfraudulent activity.
+CONCLUSION
+Under both controlling Texas law and the improper “federal common law” that
+lower courts have developed, the SEC does not (and cannot) adequately plead that Mr.
+Cuban breached a fiduciary or similar duty of trust and confidence when he sold his
+Mamma.com stock. In the absence of such a breach, there is no fraud and no insider
+trading liability. For all the reasons stated above, defendant Mark Cuban respectfully
+requests that the Complaint be dismissed with prejudice.
+
+16
+
+See O’Hagan, 521 U.S. at 653 (under the misappropriation theory, “a fiduciary’s
+undisclosed, self-serving use of a principal’s information to purchase or sell securities, in
+breach of a duty of loyalty and confidentiality, defrauds the principal . . . .” (emphasis added).
+
+25
+
+Respectfully submitted,
+DEWEY & LEBOEUF LLP
+/s/ Lyle Roberts
+By:
+Lyle Roberts (pro hac vice)
+D.C. Bar No. 464789
+Ralph C. Ferrara (pro hac vice)
+D.C. Bar No. 156380
+Stephen A. Best
+D.C. Bar No. 428447
+Henry W. Asbill
+D.C. Bar No. 938811
+DEWEY & LEBOEUF LLP
+1101 New York Avenue, NW
+Washington, D.C. 20005
+Telephone: (202) 346-8000
+Facsimile: (202) 346-8102
+lroberts@dl.com
+rferrara@dl.com
+sbest@dl.com
+hasbill@dl.com
+Christopher J. Clark (pro hac vice)
+N.Y. Bar No. 2854222
+DEWEY & LEBOEUF LLP
+1301 Avenue of the Americas
+New York, New York 10019
+Telephone: (212) 259-8000
+Facsimile: (212) 259-6333
+cjclark@dl.com
+Attorneys for Mark Cuban
+OF COUNSEL:
+Stephen M. Ryan
+Texas Bar No. 24002881
+DEWEY & LEBOEUF LLP
+1000 Main Street, Suite 2550
+Houston, Texas 77002
+Telephone 713-287-2025
+713-445-2125 – Fax
+sryan@dl.com
+26
+
+Paul Coggins
+Texas Bar No. 04504700
+Kip Mendrygal
+Texas Bar No. 24041472
+FISH & RICHARDSON P.C.
+1717 Main Street, Suite 5000
+Dallas, Texas 75201
+Telephone: 214-747-5070
+Facsimile: 214-747-2091
+coggins@fr.com
+mendrygal@fr.com
+CERTIFICATE OF SERVICE
+On January 14, 2009, I electronically submitted the Memorandum of Law of Mark
+Cuban in Support of Motion to Dismiss and the Appendix with the Clerk of Court for the U.S.
+District Court, Northern District of Texas, using the electronic case filing system of the court. I
+hereby certify that I have served all counsel and/or pro se parties of record electronically or by
+another manner authorized by Federal Rule of Civil Procedure 5(b)(2).
+
+/s/ Lyle Roberts
+______________________________
+Lyle Roberts
+
+27
+
+

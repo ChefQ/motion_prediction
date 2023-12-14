@@ -1,0 +1,1940 @@
+Case 3:07-cv-02845-WHA
+
+1
+2
+3
+4
+
+Document 155
+
+Filed 03/12/2008
+
+Page 1 of 18
+
+BRYAN WILSON (CA SBN 138842)
+ERIC C. PAI (CA SBN 247604)
+MORRISON & FOERSTER LLP
+755 Page Mill Road
+Palo Alto, California 94304-1018
+Telephone: 650.813.5600
+Facsimile: 650.494.0792
+E-Mail: BWilson@mofo.com; EPai@mofo.com
+
+5
+6
+7
+8
+9
+10
+11
+
+DAVID C. DOYLE (CA SBN 70690)
+STEVEN E. COMER (CA SBN 154384)
+BRIAN M. KRAMER (CA SBN 212107)
+MORRISON & FOERSTER LLP
+12531 High Bluff Drive, Suite 100
+San Diego, California 92130-2040
+Telephone: 858.720.5100
+Facsimile: 858.720.5125
+E-Mail: DDoyle@mofo.com; SComer@mofo.com;
+BMKramer@mofo.com
+Attorneys for Plaintiff
+APPLERA CORPORATION – APPLIED BIOSYSTEMS GROUP
+
+12
+13
+
+UNITED STATES DISTRICT COURT
+
+14
+
+NORTHERN DISTRICT OF CALIFORNIA
+
+15
+
+SAN FRANCISCO DIVISION
+
+16
+17
+
+APPLERA CORPORATION – APPLIED
+BIOSYSTEMS GROUP, a Delaware corporation,
+
+18
+Plaintiff,
+19
+v.
+
+Case No.
+
+C07 02845 WHA
+
+APPLERA CORPORATION –
+APPLIED BIOSYSTEMS
+GROUP’S NOTICE OF MOTION
+AND MOTION TO BIFURCATE
+
+20
+21
+
+ILLUMINA, INC., a Delaware corporation,
+SOLEXA, INC., a Delaware corporation, and
+STEPHEN C. MACEVICZ, an individual,
+
+22
+Defendants.
+23
+24
+25
+26
+27
+28
+AB’S MOTION TO BIFURCATE
+Case No. C07 02845 WHA
+sd-413819
+
+Date: April 17, 2008
+Time: 8:00 a.m.
+Place: Courtroom 9, 19th Floor
+Honorable William H. Alsup
+
+Case 3:07-cv-02845-WHA
+
+1
+
+Document 155
+
+Filed 03/12/2008
+
+Page 2 of 18
+
+TABLE OF CONTENTS
+
+2
+
+Page
+
+3
+
+I.
+
+INTRODUCTION .............................................................................................................. 2
+
+4
+
+II.
+
+FACTUAL BACKGROUND ............................................................................................. 3
+A.
+
+5
+
+The Ownership Dispute .......................................................................................... 3
+
+6
+
+1.
+
+Macevicz’s Obligation To Assign The Inventions To AB.......................... 3
+
+7
+
+2.
+
+Illumina’s BFP Defense .............................................................................. 4
+
+8
+
+3.
+
+Illumina’s Statute Of Limitations Defense ................................................. 5
+
+9
+
+B.
+
+The Infringement, Willfulness, Damages, Invalidity, And Unenforceability
+Case ......................................................................................................................... 5
+
+C.
+
+Trial Of The Ownership Case ................................................................................. 6
+
+D.
+
+Trial Of The Infringement, Willfulness, Damages, Invalidity, And
+Unenforceability Case............................................................................................. 7
+
+10
+11
+12
+13
+
+III.
+
+ARGUMENT ...................................................................................................................... 8
+A.
+
+Illumina Has No Right To A Jury Trial On The Effect Of The Invention
+Agreement On Standing.......................................................................................... 8
+
+B.
+16
+
+There Should Be A Bench Trial On Standing Before Proceeding With The
+Infringement, Invalidity, And Inequitable Conduct Issues ................................... 11
+
+17
+
+1.
+
+Standing Is A Threshold Issue To Be Decided First................................. 11
+
+18
+
+2.
+
+An Early Bench Trial On Standing Will Promote Efficiency................... 12
+
+14
+15
+
+a.
+
+The standing issues are a fraction of the issues to be decided
+at an infringement trial .................................................................. 12
+
+b.
+
+The standing case will involve a fraction of the witnesses
+involved in the infringement case ................................................. 13
+
+22
+
+c.
+
+The potential savings of judicial resources is significant.............. 14
+
+23
+
+d.
+
+Bifurcation is fair because otherwise AB will have to attack
+its own patents............................................................................... 15
+
+19
+20
+21
+
+24
+IV.
+
+CONCLUSION ................................................................................................................. 15
+
+25
+26
+27
+28
+i
+
+Case 3:07-cv-02845-WHA
+
+Document 155
+
+Filed 03/12/2008
+
+1
+
+TABLE OF AUTHORITIES
+
+2
+
+CASES
+
+3
+
+Page 3 of 18
+
+DDB Techs., L.L.C. v. MLB Advanced Media, L.P.,
+No. 2007-1211, 2008 U.S. App. LEXIS 3086 (Fed. Cir. Feb. 13, 2008) ..................... 2, 8, 9, 10
+
+4
+5
+6
+
+F & G Scrolling Mouse L.L.C. v. IBM Corp.,
+190 F.R.D. 385 (M.D.N.C. 1999) ............................................................................................. 12
+FilmTec Corp. v. Allied-Signal Inc.,
+939 F.2d 1568 (Fed. Cir. 1991)............................................................................................. 4, 10
+
+7
+8
+9
+
+Fitzgerald v. Terminal Dev. Co.,
+11 Cal. App. 2d 126 (Ct. App. 1936)........................................................................................ 11
+Hebert v. Lisle Corp.,
+99 F.3d 1109 (Fed. Cir. 1996)................................................................................................... 14
+
+10
+11
+12
+
+Hendrie v. Sayles,
+98 U.S. 546 (1879).......................................................................................................... 4, 10, 11
+Jinro Am. Inc. v. Secure Invs., Inc.,
+266 F.3d 993 (9th Cir. 2001)..................................................................................................... 12
+
+13
+14
+15
+
+Kahn v. Gen. Motors Corp.,
+77 F.3d 457 (Fed. Cir. 1996)..................................................................................................... 11
+Kahn v. Gen. Motors Corp.,
+865 F. Supp. 210 (S.D.N.Y. 1994)...................................................................................... 12, 14
+
+16
+17
+18
+
+Miller v. Bechtel Corp.,
+33 Cal. 3d 868 (1983) ................................................................................................................. 5
+Ortho Pharm. Corp. v. Genetics Inst., Inc.,
+52 F.3d 1026 (Fed. Cir. 1995)............................................................................................... 8, 11
+
+19
+20
+21
+
+Propat Int'l Corp. v. RPost, Inc.,
+473 F.3d 1187 (Fed. Cir. 2007)................................................................................................. 12
+Roberts v. Corrothers,
+812 F.2d 1173 (9th Cir. 1987)................................................................................................... 11
+
+22
+STATUTES
+23
+Fed. R. Civ. P. 42(b) ............................................................................................................. 1, 12
+24
+25
+26
+27
+28
+AB’S MOTION TO BIFURCATE
+Case No. C07 02845 WHA
+sd-413819
+
+ii
+
+Case 3:07-cv-02845-WHA
+
+1
+2
+3
+4
+
+Document 155
+
+Filed 03/12/2008
+
+Page 4 of 18
+
+NOTICE OF MOTION AND MOTION
+TO ILLUMINA, INC., SOLEXA, INC., AND STEPHEN C. MACEVICZ
+(“DEFENDANTS”) AND THEIR ATTORNEYS OF RECORD:
+PLEASE TAKE NOTICE THAT on April 17, 2008, in the Courtroom of the Honorable
+
+5
+
+William H. Alsup, located at 450 Golden Gate Avenue, San Francisco, California, in the hour of
+
+6
+
+8:00 a.m., Plaintiff Applera Corporation – Applied Biosystems Group (“AB”), by and through its
+
+7
+
+counsel, will move and hereby does move, pursuant to Rule 42(b) of the Federal Rules of Civil
+
+8
+
+Procedure, to bifurcate and conduct a bench trial on Defendants’ standing to assert United States
+
+9
+
+Patent Nos. 5,750,341, 5,969,119, and 6,306,597 (“the Macevicz patents”). This motion is based
+
+10
+
+on the accompanying Memorandum of Points and Authorities, the Declaration of Bryan Wilson
+
+11
+
+in Support of AB’s Motion to Bifurcate (“Wilson Decl.”) and the exhibits attached thereto, and on
+
+12
+
+all of the documents and records on file in this action and all matters judicially noticeable.
+
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+AB’S MOTION TO BIFURCATE
+Case No. C07 02845 WHA
+sd-413819
+
+1
+
+Case 3:07-cv-02845-WHA
+
+1
+
+Document 155
+
+Filed 03/12/2008
+
+Page 5 of 18
+
+MEMORANDUM OF POINTS AND AUTHORITIES
+
+2
+
+I.
+
+3
+
+On February 13, this Court issued an order inviting the parties to brief “whether the issue
+
+INTRODUCTION
+
+4
+
+of ownership is for the judge or for the jury.” (Order Re Issue of Ownership of Patent, Docket
+
+5
+
+No. 131, at 1.) On the very same day, the Federal Circuit, addressing what it called an issue of
+
+6
+
+first impression, answered the Court’s question: In cases interpreting whether an employment
+
+7
+
+agreement obligates an inventor to assign an invention to his employer, there is no right to a jury
+
+8
+
+trial on the issue of standing. DDB Techs., L.L.C. v. MLB Advanced Media, L.P., No. 2007-1211,
+
+9
+
+2008 U.S. App. LEXIS 3086, at *15-*17 (Fed. Cir. Feb. 13, 2008). As acknowledged by
+
+10
+
+Defendants, a determination that the patents at issue belong to AB under the Invention Agreement
+
+11
+
+would deprive them of standing for their federal patent law claims. (See Docket No. 114, at 4-5.)
+
+12
+
+Under DDB, that determination is for the Court, not the jury.
+
+13
+
+In the same February 13 Order, the Court also inquired “whether the issue of ownership of
+
+14
+
+the patents should be severed.” (Docket No. 131, at 1.) Bifurcation is appropriate here because
+
+15
+
+Illumina’s lack of standing is a threshold issue of subject matter jurisdiction that must be resolved
+
+16
+
+before deciding any other aspect of the case. If the Court finds that Illumina does not have
+
+17
+
+standing, then (1) there is no jurisdictional basis for any further inquiry into any of the claims
+
+18
+
+raised by the parties with respect to issues of patent infringement, willfulness, damages,
+
+19
+
+invalidity, and unenforceability, and (2) because of the lack of federal court jurisdiction, any
+
+20
+
+remaining claims could be remanded back to state court for resolution.
+
+21
+
+Bifurcation of standing is highly efficient, because if the Court concludes that AB owns
+
+22
+
+the patents, it will moot the expensive, and potentially unnecessary, trial of the infringement,
+
+23
+
+willfulness, damages, invalidity, and unenforceability case. Standing can be decided without
+
+24
+
+considering any of the extensive evidence relating only to infringement, willfulness, damages,
+
+25
+
+invalidity, and unenforceability of the patents. AB therefore requests that, subject to the Court’s
+
+26
+
+calendar, a bench trial on standing be set during May 2008 and the infringement, willfulness,
+
+27
+
+damages, invalidity, and unenforceability trial, if necessary, remain set for September 29, 2008.
+
+28
+AB’S MOTION TO BIFURCATE
+Case No. C07 02845 WHA
+sd-413819
+
+2
+
+Case 3:07-cv-02845-WHA
+
+Document 155
+
+Filed 03/12/2008
+
+Page 6 of 18
+
+1
+
+II.
+
+2
+
+The issues, evidence, and witnesses regarding the Invention Agreement are a small
+
+3
+
+fraction of the issues regarding whether the patents are valid and infringed, and if so, the amount
+
+4
+
+of damages. The principal issues on the Invention Agreement are whether Macevicz was
+
+5
+
+obligated to assign the inventions, whether Illumina was a bona fide purchaser for value, and
+
+6
+
+whether the statute of limitations applies. These are very different from the issues of whether
+
+7
+
+AB’s SOLiD™ system infringes the patents, the amount of any damages due to the infringement,
+
+8
+
+and whether the patents are invalid in light of the prior art.
+
+9
+10
+11
+
+FACTUAL BACKGROUND
+
+A.
+
+The Ownership Dispute
+1.
+
+Macevicz’s Obligation To Assign The Inventions To AB
+
+The first issue regarding standing is whether AB’s former Senior Patent Counsel, Dr.
+
+12
+
+Stephen Macevicz, breached his Employee Invention Agreement (the “Invention Agreement”).
+
+13
+
+The Court found that AB “has a strong case on the merits” of its claim that Macevicz was
+
+14
+
+required to assign the patent application to AB. (Docket No. 88, at 6, 10-11.)
+
+15
+
+In 1992, Macevicz signed the Invention Agreement, in which he promised to assign his
+
+16
+
+inventions to AB. (Wilson Decl. Ex. 1 ¶ 2.) The only exception was for inventions that were
+
+17
+
+developed entirely on his own time and without company resources, and were unrelated to AB’s
+
+18
+
+business. Macevicz further agreed that if he believed the invention fell within the exception, he
+
+19
+
+would promptly disclose, in writing, what the invention was and the grounds for his belief that it
+
+20
+
+fell within the exception. (Id. ¶ 7.)
+
+21
+
+While working for AB, Macevicz invented what he described as a method of DNA
+
+22
+
+sequencing by ligation. On April 17, 1995, he filed a patent application entitled “DNA
+
+23
+
+Sequencing By Parallel Oligonucleotide Extensions,” (Wilson Decl. Ex. 4.) Although the
+
+24
+
+invention was squarely within AB’s line of business, he did not disclose it to his supervisor,
+
+25
+
+Michael Hunkapiller, or anyone else at AB. (Wilson Decl. Ex. 2 at 104:24-105:7; 106:5-107:23;
+
+26
+
+173:10-174:4.) Four months later, on August 7, 1995, Macevicz left AB. Three weeks later, on
+
+27
+28
+AB’S MOTION TO BIFURCATE
+Case No. C07 02845 WHA
+sd-413819
+
+3
+
+Case 3:07-cv-02845-WHA
+
+Document 155
+
+Filed 03/12/2008
+
+Page 7 of 18
+
+1
+
+August 31, 1995, he purported to assign the patent application to Lynx.1 (Wilson Decl. Ex. 8.)
+
+2
+
+That application led to the three patents at issue in this case.
+
+3
+
+Macevicz argues that he “didn’t consider these inventions to be a part of the AB
+
+4
+
+business.” (Id. at 107:7-8.) The Invention Agreement, however, covers inventions that “relate to
+
+5
+
+the business or actual or demonstrably anticipated research or development” of AB. (Wilson
+
+6
+
+Decl. Ex. 1 ¶ 2(c)(i).) Moreover, the Invention Agreement required him to promptly disclose, in
+
+7
+
+writing, the inventions and the grounds for his belief that he did not use any AB resources
+
+8
+
+developing the inventions and that they did not relate to AB’s business, which he admitted he
+
+9
+
+never did.
+
+10
+11
+
+2.
+
+Illumina’s BFP Defense
+
+Illumina claims to be a bona fide purchaser for value. To qualify as a BFP, Illumina will
+
+12
+
+have to show that it (1) acquired an interest in the patents (2) by paying valuable consideration (3)
+
+13
+
+to the legal title holder (4) without notice of an outstanding equitable claim or title on the patent.
+
+14
+
+See FilmTec Corp. v. Allied-Signal Inc., 939 F.2d 1568, 1573 (Fed. Cir. 1991) (citing Hendrie v.
+
+15
+
+Sayles, 98 U.S. 546, 549 (1879)).
+
+16
+
+Illumina claims that its predecessor, Lynx, paid Macevicz for the patent application.
+
+17
+
+Lynx, however, paid Macevicz nothing for the application. Illumina’s corporate designee, Kathy
+
+18
+
+San Roman, testified that Illumina is not aware of any compensation being provided to Macevicz
+
+19
+
+for the application. (Wilson Decl. Ex. 5 at 76:14-25.) Even when value is paid, a BFP must
+
+20
+
+purchase “without notice” of an outstanding equitable claim or title. AB contends that Lynx
+
+21
+
+cannot be a BFP because Macevicz’s knowledge of his obligation to assign the patent application
+
+22
+
+to AB is imputed to Lynx. As an officer of Lynx when he assigned the application, he “would
+
+23
+
+clearly be on notice of the provisions of his own contract.” FilmTec, 939 F.2d at 1574.
+
+24
+25
+
+AB also contends that Lynx had more than enough information to put it on inquiry notice.
+Sam Eletr, the CEO of Lynx, negotiated with Macevicz to assign the application. (Wilson Decl.
+
+26
+1
+
+27
+
+Lynx merged with Solexa in 2005. (Docket No. 55, ¶ 2.) Illumina acquired Solexa in
+January 2007. (Id.) The three entities are referred to collectively herein as “Illumina.”
+
+28
+AB’S MOTION TO BIFURCATE
+Case No. C07 02845 WHA
+sd-413819
+
+4
+
+Case 3:07-cv-02845-WHA
+
+Document 155
+
+Filed 03/12/2008
+
+Page 8 of 18
+
+1
+
+Ex. 2 at 123:1-124:6.) Eletr was also a founder of AB and was familiar with AB’s policies
+
+2
+
+concerning employee inventions. The same law firm, Cooley Godward, worked for both Lynx
+
+3
+
+and AB at that time, handled the spin-off of Lynx, and drafted Lynx’s employee invention
+
+4
+
+agreement, which is identical to AB’s Invention Agreement. (Wilson Decl. Ex. 5 at 22:14-25:6,
+
+5
+
+60:4-16 & 142:18-22.) And Lynx was a spin-off of AB, so Eletr and others knew that DNA
+
+6
+
+sequencing was within AB’s line of business. They also knew that Macevicz conceived of and
+
+7
+
+reduced to practice his invention while employed by AB.
+
+8
+
+3.
+
+Illumina’s Statute Of Limitations Defense
+
+9
+
+Illumina also argues that AB’s rights to the patents are barred by the statute of limitations.
+
+10
+
+This issue, which is currently before the Court on cross-motions for summary judgment, has little
+
+11
+
+to do with the issues of infringement, invalidity, or inequitable conduct. Macevicz admits that he
+
+12
+
+owed AB a fiduciary duty (Wilson Decl. Ex. 2 at 23:8-23), which means that AB would have a
+
+13
+
+duty to investigate his wrongdoing only if it became aware of facts that would make a reasonably
+
+14
+
+prudent person suspicious. See Miller v. Bechtel Corp., 33 Cal. 3d 868, 875 (1983). The issues,
+
+15
+
+evidence and witnesses regarding (1) AB’s lack of actual notice, (2) the absence of information
+
+16
+
+creating a duty of inquiry until February 2006, and (3) the legal effect of Macevicz’s fiduciary
+
+17
+
+duty, are a fraction of the issues, evidence and witnesses on the infringement, willfulness,
+
+18
+
+damages, invalidity, and inequitable conduct issues.
+
+19
+20
+
+B.
+
+The Infringement, Willfulness, Damages, Invalidity, And
+Unenforceability Case
+
+The infringement issues involve only whether AB’s SOLiD™ system meets the claim
+21
+limitations as construed by the Court. For example, all of the asserted claims in the ’341 and ’597
+22
+patents require determining the identity of at least one target nucleotide within each cycle. The
+23
+Court held that “identifying” a nucleotide means “within each cycle determining the identity of a
+24
+base in the target polynucleotide.” AB’s SOLiD™ system does not determine the identity of a
+25
+base within each cycle. Claim 1 of the ’341 patent also requires that the “initializing
+26
+oligonucleotide probe” be hybridized to a “target polynucleotide.” The Court held that although
+27
+the specification teaches that the initializing oligonucleotide probe is hybridized to the known
+28
+AB’S MOTION TO BIFURCATE
+Case No. C07 02845 WHA
+sd-413819
+
+5
+
+Case 3:07-cv-02845-WHA
+
+Document 155
+
+Filed 03/12/2008
+
+Page 9 of 18
+
+1
+
+region, the claim requires that it be hybridized to the target region. (Docket No. 133, at 8-10.) In
+
+2
+
+the SOLiD™ system, the initializing oligonucleotide probe hybridizes to the known region, not
+
+3
+
+the target region.
+
+4
+
+Claim 1 of the ’119 patent requires a probe with a cleavable bond of a particular formula.
+
+5
+
+The formula “—OP(==O)(O—)NH” means that there must be nitrogen atom (N) in the particular
+
+6
+
+location claimed. Illumina does not dispute that the probes used in the SOLiD™ system use a
+
+7
+
+sulfur atom (S) in place of the required nitrogen atom, but contends that AB’s probes infringe
+
+8
+
+under the doctrine of equivalents.
+
+9
+
+AB has also disclosed several prior art references that anticipate or render the asserted
+
+10
+
+claims obvious. AB further asserts that the patents are unenforceable due to Macevicz’s failure to
+
+11
+
+disclose material prior art to the patent examiner.
+
+12
+13
+
+C.
+
+Trial Of The Ownership Case
+
+The ownership case will involve analysis of events that took place primarily in 1992
+
+14
+
+through mid-1995, when Macevicz worked for AB, as well as the period shortly after he left AB.
+
+15
+
+Macevicz will be the main witness on the relevant issues. AB anticipates that it will also offer the
+
+16
+
+testimony of current and former AB employees, including Macevicz’s former supervisor Michael
+
+17
+
+Hunkapiller, and the AB employee who first learned of the Macevicz patents, Scott Bortner. Dr.
+
+18
+
+Hunkapiller left AB several years ago and has minimal knowledge about the SOLiD™ system
+
+19
+
+that Illumina accuses of infringement. (Wilson Decl. ¶ 10.) AB does not yet know what
+
+20
+
+testimony will be offered by Illumina. Its testimony will, though, necessarily be focused on AB’s
+
+21
+
+business and the actions of AB, Illumina and Macevicz during the 1990s. While Defendants may
+
+22
+
+argue that an understanding of AB’s business is relevant to both the Invention Agreement and
+
+23
+
+patent sides of this litigation, there are two significant differences. First, the infringement part of
+
+24
+
+the case is directed at the current time frame, while the standing part of the case is not. The
+
+25
+
+Invention Agreement trial will address the scope of AB’s business during the early to mid-1990s.
+
+26
+
+By contrast, to resolve the patent issues, the jury will need to understand the details of AB’s
+
+27
+
+SOLiD™ system, which was first placed in 2007.
+
+28
+AB’S MOTION TO BIFURCATE
+Case No. C07 02845 WHA
+sd-413819
+
+6
+
+Case 3:07-cv-02845-WHA
+
+1
+
+Document 155
+
+Filed 03/12/2008
+
+Page 10 of 18
+
+Second, the two sides of the case require different types of knowledge about AB’s
+
+2
+
+business. On the Invention Agreement issues, the key inquiry concerns the overall breadth of
+
+3
+
+AB’s business, at a high and general level, in the early to mid-1990s. The patent issues, on the
+
+4
+
+other hand, will also require jurors to learn about a specific product – one particular aspect of
+
+5
+
+AB’s current business – in great depth and detail to be able to conduct an element-by-element
+
+6
+
+infringement analysis.
+
+7
+
+Illumina’s primary affirmative defense is that Lynx was a bona fide purchaser for value.
+
+8
+
+The evidence on this defense will focus on Lynx’s acquisition in 1995 of the patent application
+
+9
+
+that spawned the Macevicz patents, many years before what is now known as the SOLiD™
+
+10
+
+system was invented. This will have little relevance to the question of whether the SOLiD™
+
+11
+
+system infringes the Macevicz patents, or whether the patents are valid or enforceable.
+
+12
+
+Illumina’s other affirmative defense is based on the statute of limitations. The evidence
+
+13
+
+on this defense will focus on whether AB became aware of facts that would make a reasonably
+
+14
+
+prudent person suspicious of Macevicz before it obtained actual knowledge of the Macevicz
+
+15
+
+patents and started this litigation in 2006. This too will have little relevance to the question of
+
+16
+
+whether the SOLiD™ system infringes the Macevicz patents, or whether the patents are valid.
+
+17
+18
+19
+20
+
+AB anticipates that the Invention Agreement case will take about two or three days to try
+to the Court, and that the parties could be ready for trial as early as May 8, 2008.
+D.
+
+Trial Of The Infringement, Willfulness, Damages, Invalidity, And
+Unenforceability Case
+
+The infringement case will require an analysis of AB’s SOLiD™ system. The system
+21
+originated at Agencourt Personal Genomics in Massachusetts, which AB acquired in 2006. The
+22
+first system was placed with customers in June 2007. To explain the detailed operation of the
+23
+system, including its chemistry and software, AB expects to offer the testimony of several AB
+24
+scientists who have worked on developing the system. AB also expects to offer the testimony of
+25
+at least one technical expert.
+26
+The invalidity case will involve an analysis of the prior art, which AB expects will be
+27
+handled primarily by technical experts. The unenforceability case involves Macevicz’s
+28
+AB’S MOTION TO BIFURCATE
+Case No. C07 02845 WHA
+sd-413819
+
+7
+
+Case 3:07-cv-02845-WHA
+
+Document 155
+
+Filed 03/12/2008
+
+Page 11 of 18
+
+1
+
+knowledge of prior art references which he did not disclose to the Patent Office. The witnesses
+
+2
+
+are expected to be technical and PTO experts, as well as Macevicz.
+
+3
+
+The patent damages case will involve evidence concerning lost profits and determination
+
+4
+
+of a reasonable royalty under the Georgia-Pacific factors. Other witnesses will include AB and
+
+5
+
+Illumina sales and marketing people regarding AB’s and Illumina’s sales and other financials, and
+
+6
+
+experts on damages issues.
+
+7
+8
+9
+10
+11
+
+AB anticipates that trial of the infringement, willfulness, damages, invalidity, and
+inequitable conduct issues will take about 10 days.
+III.
+
+ARGUMENT
+A.
+
+Illumina Has No Right To A Jury Trial On The Effect Of The
+Invention Agreement On Standing.
+
+Standing is a jurisdictional issue that must be resolved by the court before proceeding with
+12
+any other aspect of this case. See Ortho Pharm. Corp. v. Genetics Inst., Inc., 52 F.3d 1026, 103213
+33 (Fed. Cir. 1995) (“[B]efore a federal court can consider the merits of a legal claim, the person
+14
+seeking to invoke the jurisdiction of the court must establish the requisite standing to sue.”)
+15
+(citations omitted). The Federal Circuit’s recent decision in DDB Technologies, 2008 U.S. App.
+16
+LEXIS 3086, is dispositive on Defendants’ lack of right to a jury trial regarding the Invention
+17
+Agreement and its effect on standing. In DDB, brothers David and Daniel Barstow were the
+18
+named inventors on three patents relating to a method for generating a computer simulation of a
+19
+live event and a fourth patent relating to a method allowing a viewer to search for information
+20
+about a live event. Id. at *2. The brothers formed DDB Technologies (“DDB”) and purported to
+21
+assign their patents to that company. Id.
+22
+During the time David Barstow (“Barstow”) was filing his patent applications and
+23
+purporting to assign them to DDB, he was working as a computer scientist for Schlumberger
+24
+Technology Corporation. Barstow and Schlumberger had an invention agreement that required
+25
+Barstow to promptly disclose his inventions to his employer:
+26
+27
+28
+
+3. Employee shall promptly furnish to Company a complete record
+of any and all technological ideas, inventions and improvements,
+whether patentable or not, which he, solely or jointly, may
+AB’S MOTION TO BIFURCATE
+Case No. C07 02845 WHA
+sd-413819
+
+8
+
+Case 3:07-cv-02845-WHA
+
+1
+
+Document 155
+
+Filed 03/12/2008
+
+Page 12 of 18
+
+conceive, make or first disclose during the period of his
+employment with [Schlumberger].
+
+2
+4. Employee agrees to and does hereby grant and assign to
+Company or its nominee his entire right, title and interest in and to
+ideas, inventions and improvements coming within the scope of
+Paragraph 3:
+
+3
+4
+5
+
+a) which relate in any way to the business or activities of
+[Schlumberger], or
+
+6
+b) which are suggested by or result from any task or work of
+Employee for [Schlumberger], or
+
+7
+8
+
+c) which relate in any way to the business or activities of Affiliates
+of [Schlumberger],
+
+9
+together with any and all domestic and foreign patent rights in such
+ideas, inventions and improvements. Employee agrees to execute
+specific assignments and do anything else properly requested by
+[Schlumberger], at any time during or after employment with
+[Schlumberger], to secure such rights.
+
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+
+2008 U.S. App. LEXIS 3086, at *3-*4.2
+Ten years after Barstow left Schlumberger, DDB filed suit against MLB Advanced Media
+(“MLB”) alleging patent infringement. MLB purchased whatever interest Schlumberger owned
+in the patents, and moved to dismiss the case based on its claim of ownership through the
+Barstow-Schlumberger invention agreement. Id. at *6-7.
+The district court held a hearing, weighed the facts in dispute, and found that the patents
+fell within the scope of Barstow’s employee invention agreement. Id. at *8. The district court
+held that it lacked jurisdiction because DDB could not sue a co-owner of the patent, and therefore
+lacked standing. Id.
+On appeal, DDB argued that the district court should not have dismissed the case on
+jurisdictional grounds without first having a jury trial on the merits as to whether the employee
+invention agreement required assignment of the patents. Id. at *15. The Federal Circuit first
+
+24
+25
+26
+27
+
+2
+
+The Invention Agreement in DDB provided for “automatic assignment,” while the AB
+Invention Agreement imposes an obligation to assign. Automatic assignment was one ground on
+which the district court in DDB held that the defenses of waiver, estoppel, and statute of
+limitations were not available to DDB, which the Federal Circuit affirmed, but played no role in
+the Federal Circuit’s analysis of the jury trial issue.
+
+28
+AB’S MOTION TO BIFURCATE
+Case No. C07 02845 WHA
+sd-413819
+
+9
+
+Case 3:07-cv-02845-WHA
+
+Document 155
+
+Filed 03/12/2008
+
+Page 13 of 18
+
+1
+
+clarified the issue of what law controls. It held that because the question of a patentee’s right to a
+
+2
+
+jury trial implicates patent law, its resolution is governed by the law of the Federal Circuit, not the
+
+3
+
+regional circuits. Id. at *15-*16. It also stated that “the right to a jury trial on disputed
+
+4
+
+jurisdictional facts that also implicate the merits of plaintiff’s cause of action is an issue of first
+
+5
+
+impression for this court.” Id. at *16. Thus, to the extent that any earlier decisions from other
+
+6
+
+circuits are inconsistent with DDB, they are not controlling.
+
+7
+
+The Federal Circuit noted that district courts should consider “the degree of
+
+8
+
+intertwinement of jurisdictional facts and facts underlying the substantive claim [to] determine
+
+9
+
+the appropriate procedure for resolution of those facts.” Id. at *16. Applying that standard to
+
+10
+
+DDB, the Federal Circuit held that “the interpretation of the employment agreement, which
+
+11
+
+depends in part on state contract law and in part on this circuit’s law regarding patent assignment
+
+12
+
+clauses, is not so intertwined with the substantive federal patent law governing DDB’s
+
+13
+
+infringement claims and [MLB]’s invalidity counterclaims that dismissal on jurisdictional
+
+14
+
+grounds would be inappropriate.” Id. at *16-*17. Therefore, it held that “DDB has no right to a
+
+15
+
+jury trial on the issue of standing.” Id. at *17.
+
+16
+
+The same minimal degree of intertwinement is present here. Defendants’ standing
+
+17
+
+depends on interpretation of the Invention Agreement, Macevicz’s actions during the early to
+
+18
+
+mid-1990s, and Illumina’s assertions that it is a BFP and that the statute of limitations has run.
+
+19
+
+The substantive federal law issues on which the Defendants would be entitled to a jury trial
+
+20
+
+revolve around whether the SOLiD™ system infringes the Macevicz patents, the amount of any
+
+21
+
+damages, whether the patents are valid, and whether they are unenforceable. There is little
+
+22
+
+intertwinement between the two sets of issues.
+
+23
+
+The minimal intertwinement between the substantive patent law issues and the ownership
+
+24
+
+issues is further illustrated by Illumina’s affirmative defenses. Its primary defense appears to be
+
+25
+
+that Lynx was a BFP and its successors, Solexa and Illumina, inherited that status. To qualify as
+
+26
+
+a BFP, Illumina has the burden of showing that Lynx (1) acquired an interest in the patents (2) by
+
+27
+
+paying valuable consideration (3) to the legal title holder (4) without notice of an outstanding
+
+28
+
+equitable claim or title on the patent. See FilmTec, 939 F.2d at 1573 (citing Hendrie v. Sayles, 98
+AB’S MOTION TO BIFURCATE
+Case No. C07 02845 WHA
+sd-413819
+
+10
+
+Case 3:07-cv-02845-WHA
+
+Document 155
+
+Filed 03/12/2008
+
+Page 14 of 18
+
+1
+
+U.S. 546, 549 (1879)); Fitzgerald v. Terminal Dev. Co., 11 Cal. App. 2d 126, 133 (Ct. App.
+
+2
+
+1936). The resolution of each of these prongs does not involve any analysis of AB’s SOLiD™
+
+3
+
+system. In fact, consideration of the SOLiD™ system in resolving these claims would be
+
+4
+
+impossible because it did not even exist at the time.
+
+5
+
+Similarly, Illumina’s defense based on the statute of limitations has little, if any,
+
+6
+
+intertwinement with the substantive patent issues. This defense involves (1) AB’s lack of actual
+
+7
+
+notice, (2) the absence of information creating a duty of inquiry until February 2006, and (3) the
+
+8
+
+legal effect of Macevicz’s fiduciary duty. These are distinct from the issues of infringement,
+
+9
+
+damages, invalidity, or inequitable conduct.
+
+10
+
+B.
+
+11
+
+There Should Be A Bench Trial On Standing Before Proceeding With
+The Infringement, Invalidity, And Inequitable Conduct Issues.
+
+The issue of standing must be decided first. Ortho Pharm., 52 F.3d at 1032-33. AB
+12
+proposes that the Court hold a bench trial on standing beginning as early as May 8, 2008 and
+13
+continuing for two to three days, which should be sufficient time for the parties to present all of
+14
+their evidence and testimony on this issue. An early bench trial will avoid any delay and preserve
+15
+the existing September 29 date for the trial on the patent infringement, damages, willfulness,
+16
+invalidity, and inequitable conduct issues, if still necessary.
+17
+1.
+
+18
+
+Standing Is A Threshold Issue To Be Decided First.
+
+Illumina’s lack of standing is a threshold subject matter jurisdiction issue that must be
+19
+
+resolved before proceeding with any other aspect of the case.3 See id. The Court may hear
+
+20
+evidence and weigh facts as necessary to determine jurisdiction. See Kahn v. Gen. Motors Corp.,
+21
+77 F.3d 457, 459 (Fed. Cir. 1996) (“The ownership of patent property is a matter of law, the
+22
+decision of which may entail underlying factual inquiries.”); Roberts v. Corrothers, 812 F.2d
+23
+1173, 1177 (9th Cir. 1987). If the Court finds that Illumina does not have standing, then there is
+24
+no jurisdictional basis for any further inquiry into any of the claims raised by the parties with
+25
+respect to issues of patent infringement, willfulness, damages, invalidity, and unenforceability,
+26
+3
+
+27
+
+Illumina agrees that if the Court rules for AB on the ownership claims, then Illumina no
+longer has standing to sue. (Docket No. 114 at 4-5.)
+
+28
+AB’S MOTION TO BIFURCATE
+Case No. C07 02845 WHA
+sd-413819
+
+11
+
+Case 3:07-cv-02845-WHA
+
+Document 155
+
+Filed 03/12/2008
+
+Page 15 of 18
+
+1
+
+and the remaining claims should be resolved in state court. See Propat Int’l Corp. v. RPost, Inc.,
+
+2
+
+473 F.3d 1187, 1194 (Fed. Cir. 2007) (affirming dismissal of patent infringement claims for lack
+
+3
+
+of standing).
+
+4
+5
+6
+7
+8
+9
+
+2.
+
+An Early Bench Trial On Standing Will Promote Efficiency.
+
+Bifurcation is appropriate when a separate trial will promote efficiency or avoid prejudice.
+Federal Rule of Civil Procedure 42(b) provides in pertinent part:
+The court, in furtherance of convenience or to avoid prejudice, or
+when separate trials will be conducive to expedition and economy,
+may order a separate trial of any claim, cross-claim, counterclaim,
+or third party claim, or of any separate issues or of any number of
+claims . . . .
+
+10
+
+Fed. R. Civ. P. 42(b). “Under Rule 42(b), the district court has broad discretion to bifurcate a
+
+11
+
+trial to permit deferral of costly and possibly unnecessary proceedings pending resolution of
+
+12
+
+potentially dispositive preliminary issues.” Jinro Am. Inc. v. Secure Invs., Inc., 266 F.3d 993, 998
+
+13
+
+(9th Cir. 2001) (emphasis added).
+
+14
+
+Bifurcating the issue of Illumina’s standing to sue for an early bench trial has precisely
+
+15
+
+this benefit. It may dispose of Illumina’s infringement allegations and thus avoid wasting the
+
+16
+
+time and resources of the Court, the jury, and the parties in trying the issues of infringement,
+
+17
+
+damages, willfulness, invalidity, and inequitable conduct. See Kahn v. Gen. Motors Corp., 865 F.
+
+18
+
+Supp. 210, 215 (S.D.N.Y. 1994) (“If [plaintiff] does not own the patent, the parties will have
+
+19
+
+saved the substantial cost of preparing for and conducting the trial on the infringement issues.”);
+
+20
+
+F & G Scrolling Mouse L.L.C. v. IBM Corp., 190 F.R.D. 385, 390 (M.D.N.C. 1999) (“At times, a
+
+21
+
+special issue may be found to merit its own separate trial, such as patent ownership . . . .”).
+
+22
+
+a.
+
+23
+
+The standing issues are a fraction of the issues to be
+decided at an infringement trial.
+
+A separate trial on standing is also more efficient. As discussed above, the issues to be
+24
+tried on standing are a fraction of the issues to be tried in the infringement, damages, invalidity,
+25
+and unenforceability case. Defendants’ standing depends on interpretation of the Invention
+26
+Agreement and its application to events occurring in the early to mid-1990’s, while the patent case
+27
+28
+AB’S MOTION TO BIFURCATE
+Case No. C07 02845 WHA
+sd-413819
+
+12
+
+Case 3:07-cv-02845-WHA
+
+Document 155
+
+Filed 03/12/2008
+
+Page 16 of 18
+
+1
+
+is about a specific product that was not launched until 2007, which will be the subject of days of
+
+2
+
+expert testimony irrelevant to standing.
+
+3
+
+Both standing and the patent case require some knowledge of technology. For standing,
+
+4
+
+this is knowledge about the scope of AB’s business in 1995, and a general understanding of DNA
+
+5
+
+sequencing. For the patent case, this will be a detailed understanding of the patents and the
+
+6
+
+asserted claims, at an element-by-element level, and a detailed understanding of the complex
+
+7
+
+SOLiD™ system as it works today. These subject areas are so different that trying them together
+
+8
+
+will likely confuse matters rather than clarify them.
+
+9
+
+The damages and invalidity cases are also separate from the standing issues. The
+
+10
+
+invalidity case requires comparing the scope of the asserted claims to what was taught by the prior
+
+11
+
+art. The damages issues involve recent financial data. Neither of these subject areas overlaps
+
+12
+
+significantly with the issue of Macevicz’s obligation to assign the invention to AB.
+
+13
+
+b.
+
+14
+
+The standing case will involve a fraction of the witnesses
+involved in the infringement case.
+
+The witnesses who will testify regarding standing are also a fraction of the witnesses who
+15
+will testify regarding infringement. In addition to the different fact witnesses described above,
+16
+there will be extensive expert witness testimony that will be essential to the infringement,
+17
+damages, invalidity, and inequitable conduct case but irrelevant to standing.
+18
+The only witnesses who AB believes will have testimony potentially relevant to both
+19
+standing and the patent case are Macevicz, Michael Hunkapiller (the named inventor on a prior art
+20
+patent), and Vincent Powers (the patent attorney who prosecuted the patents for Lynx, and later
+21
+worked for AB). But the subject matter of their testimony concerning standing will be but a
+22
+fraction of their testimony in the patent case. Illumina acknowledges this, and took the position
+23
+that depositions of witnesses to date would cover only ownership issues, not infringement.
+24
+(Wilson Decl. Ex. 7 at 81:11-82:9.) Illumina even objected when AB questioned Dr. Powers
+25
+about subjects that Illumina thought were related to enforceability. (Id. at 80:6-82:9.)
+26
+Aside from these limited exceptions, the witnesses who will testify regarding standing will
+27
+not testify regarding infringement, damages, invalidity, and unenforceability issues, and those
+28
+AB’S MOTION TO BIFURCATE
+Case No. C07 02845 WHA
+sd-413819
+
+13
+
+Case 3:07-cv-02845-WHA
+
+Document 155
+
+Filed 03/12/2008
+
+Page 17 of 18
+
+1
+
+who will testify regarding infringement, damages, invalidity, and unenforceability issues will not
+
+2
+
+testify regarding standing. The parties could readily expedite the completion of any remaining
+
+3
+
+discovery relating to standing there might be so that a bench trial on standing could commence as
+
+4
+
+early as May 8, 2008.
+
+5
+6
+
+c.
+
+The potential savings of judicial resources is significant.
+
+Standing is much simpler than the patent case. It can be tried in about two to three days,
+
+7
+
+as opposed to Illumina’s estimate of eight days to try all of the issues in the case. (Docket No. 26,
+
+8
+
+at 15.) (AB believes that ten days is a more realistic estimate.) A bench trial on standing has the
+
+9
+
+potential to resolve this litigation much more quickly than a jury trial on infringement. Trying all
+
+10
+
+of the issues in a single jury trial, by contrast, would require the jury to sit through the
+
+11
+
+presentation of witnesses, testimony, and other evidence that may be mooted by the resolution of
+
+12
+
+the standing issue. This is inefficient, regardless of how the Court rules on standing. If AB wins
+
+13
+
+on standing, the inefficiency is the greatest, since the infringement, damages, willfulness,
+
+14
+
+invalidity, and inequitable conduct portions of the trial will have been unnecessary.4 Kahn, 865
+
+15
+
+F. Supp. at 215 (holding that a single trial on ownership and infringement would be
+
+16
+
+“unreasonable and wasteful”). But even if Illumina wins on standing, there is still inefficiency
+
+17
+
+because the jury will have had to sit through a trial that was longer than necessary to resolve the
+
+18
+
+jury issues.
+
+19
+
+Bifurcation avoids these inefficiencies. If AB wins on standing, the federal case will be
+
+20
+
+over and significant judicial resources will have been saved. In fact, under AB’s proposed
+
+21
+
+schedule this case could be completely resolved in May. If AB does not win on standing, the jury
+
+22
+
+trial will be more focused and shorter. Id. (“If [plaintiff] prevails on the title issue, the half-day
+
+23
+
+trial will not have been in vain, and the parties can prepare for the final showdown.”).
+
+24
+25
+26
+27
+
+4
+
+The district courts have discretion in how to decide inequitable conduct. See Hebert v.
+Lisle Corp., 99 F.3d 1109, 1114 (Fed. Cir. 1996). A court may decide the issue itself, submit
+special interrogatories to the jury on the facts relating to materiality and intent, or instruct the jury
+to find and weigh the facts of materiality and intent and decide the ultimate question of
+inequitable conduct.
+
+28
+AB’S MOTION TO BIFURCATE
+Case No. C07 02845 WHA
+sd-413819
+
+14
+
+Case 3:07-cv-02845-WHA
+
+1
+2
+3
+4
+5
+6
+7
+
+Document 155
+
+d.
+
+Filed 03/12/2008
+
+Page 18 of 18
+
+Bifurcation is fair because otherwise AB will have to
+attack its own patents.
+
+Finally, resolving standing quickly and first will prevent the prejudice to AB from having
+to take “accused infringer” positions against its own patents at trial. This avoids putting AB in
+the unfair position of having to attack the validity and enforceability of patents it owns. Although
+this factor alone has not led the Court to order bifurcation previously, it is another factor weighing
+in favor of bifurcation now that standing is ready for decision and the Federal Circuit has clarified
+that defendants have no right to a jury trial on standing.
+
+8
+IV.
+9
+10
+
+CONCLUSION
+
+AB respectfully requests that the issue of standing be set for an early bench trial, and that
+the remaining issues be bifurcated and remain set for trial on September 29, 2008.
+
+11
+Dated: March 12, 2008
+
+MORRISON & FOERSTER LLP
+
+12
+13
+By:
+14
+15
+16
+
+/s/ Steven E. Comer
+Steven E. Comer
+Attorneys for Plaintiff
+APPLERA CORPORATION –
+APPLIED BIOSYSTEMS GROUP
+
+17
+18
+19
+20
+21
+22
+
+I, Bryan Wilson am the ECF User whose ID and password are being used to file this APPLERA
+CORPORATION – APPLIED BIOSYSTEMS GROUP’S NOTICE OF MOTION AND
+MOTION TO BIFURCATE. In compliance with General Order 45, X.B., I hereby attest that
+Steven E. Comer has concurred in this filing.
+
+23
+24
+
+March 12, 2008
+
+25
+
+/s/ Bryan Wilson
+Bryan Wilson
+
+26
+27
+28
+AB’S MOTION TO BIFURCATE
+Case No. C07 02845 WHA
+sd-413819
+
+15
+
+

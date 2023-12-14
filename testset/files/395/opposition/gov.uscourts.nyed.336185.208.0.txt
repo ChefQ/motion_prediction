@@ -1,0 +1,1402 @@
+Case 1:12-cv-05567-RJD-MDG Document 208 Filed 12/02/15 Page 1 of 36 PageID #: 11620
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE EASTERN DISTRICT OF NEW YORK
+
+RUSSEL DOVER, HENRY HORSEY, CODY
+RANK, and SUZETTE PERRY, on behalf of
+themselves and all others similarly situated,
+Plaintiffs,
+
+Case No. 1:12-cv-05567-MKB-MDG
+
+v.
+BRITISH AIRWAYS, PLC (UK),
+Defendant.
+
+BRITISH AIRWAYS PLC’S MEMORANDUM IN OPPOSITION
+TO PLAINTIFFS’ MOTION FOR CLASS CERTIFICATION
+
+DLA Piper LLP (US)
+Richard F. Hans
+Keara M. Gordon
+Colleen M. Carey
+richard.hans@dlapiper.com
+keara.gordon@dlapiper.com
+colleen.carey@dlapiper.com
+1251 Avenue of the Americas
+New York, New York 10020
+Tel: (212) 335-4500
+Attorneys for Defendant
+British Airways PLC
+
+Case 1:12-cv-05567-RJD-MDG Document 208 Filed 12/02/15 Page 2 of 36 PageID #: 11621
+TABLE OF CONTENTS
+Page
+TABLE OF AUTHORITIES ........................................................................................................ iii
+INTRODUCTION ......................................................................................................................... 1
+FACTS ........................................................................................................................................... 3
+A.
+
+British Airways’ Executive Club ........................................................................... 3
+
+B.
+
+BA’s Fuel Surcharge .............................................................................................. 4
+
+C.
+
+The Putative Class Representatives ....................................................................... 5
+1.
+
+Russell Dover ............................................................................................. 5
+
+2.
+
+Suzette Perry .............................................................................................. 6
+
+3.
+
+Cody Rank ................................................................................................. 7
+
+4.
+
+Henry Horsey ............................................................................................. 7
+
+ARGUMENT ................................................................................................................................. 9
+I.
+
+THE LEGAL STANDARD ............................................................................................... 9
+
+II.
+
+PLAINTIFFS CANNOT SATISFY THE REQUIREMENTS OF RULE 23(a) ............. 10
+
+III.
+
+A.
+
+The Plaintiffs Fail to Establish Numerosity ......................................................... 10
+
+B.
+
+Commonality Is Lacking...................................................................................... 11
+
+C.
+
+The Named Plaintiffs Are Not Adequate Class Representatives ......................... 15
+
+PLAINTIFFS CANNOT SATISFY THE STANDARDS FOR CERTIFICATION
+UNDER 23(b)(3) ............................................................................................................. 18
+A.
+
+B.
+IV.
+
+Individual, Rather Than Common, Issues Will Predominate .............................. 18
+1.
+
+Liability and Injury Cannot Be Proven on a Class-wide Basis ................ 18
+
+2.
+
+The Plaintiffs’ Damages Models Are Inconsistent with Their
+Theory of Liability ................................................................................... 22
+
+3.
+
+Individualized Issues Regarding the Term “Fuel Surcharge”
+Destroy Predominance ............................................................................. 23
+
+4.
+
+Unique Defenses Preclude Predominance ............................................... 24
+a.
+
+The Voluntary Payment Doctrine ................................................ 24
+
+b.
+
+Statute of Limitations ................................................................... 27
+
+c.
+
+Waiver .......................................................................................... 27
+
+A Class Action Is Not Superior to Other Methods of Adjudication .................... 28
+
+THE PROPOSED CLASS IS NOT ASCERTAINABLE ............................................... 29
+
+CONCLUSION ............................................................................................................................ 30
+-i-
+
+Case 1:12-cv-05567-RJD-MDG Document 208 Filed 12/02/15 Page 3 of 36 PageID #: 11622
+
+TABLE OF AUTHORITIES
+Page(s)
+CASES
+Adams v. Kansas City Life Ins. Co.,
+192 F.R.D. 274 (W.D. Mo. 2000) ......................................................................................19, 24
+Alix v. Wal-Mart Stores, Inc.,
+16 Misc. 3d 844 (N.Y. Sup. Ct. Albany County 2007), aff’d, 57 A.D.3d 1044 (3rd
+Dep’t 2008) ..............................................................................................................................30
+Avritt v. Reliastar Life Ins. Co.,
+615 F.3d 1023 (8th Cir. 2010) .................................................................................................24
+Bakalaw v. Vavra,
+237 F.R.D. 59 (S.D.N.Y. 2006) ...............................................................................................29
+Biglio v. Coca-Cola Co.,
+675 F.3d 163 (2d Cir. 2012).....................................................................................................25
+Brecher v. Rep. of Argentina,
+2015 WL 5438797 (2d Cir. Sept. 16, 2015) ........................................................................9, 29
+Calabrese v. CSC Holdings, Inc.,
+2009 WL 425879 (E.D.N.Y. Feb. 19, 2009)............................................................................28
+Chen-Oster v. Goldman, Sachs & Co.,
+2015 WL 1566722 (S.D.N.Y. Mar. 10, 2015) .........................................................................22
+Cohen v. Laiti,
+98 F.R.D. 581 (E.D.N.Y. 1983) ...............................................................................................17
+Cohn v. Mass Mut. Life. Co.,
+189 F.R.D. 209 (D. Conn. 1999)..............................................................................................28
+Comcast Corp. v. Behrend,
+133 S. Ct. 1426 (2013) ...................................................................................................9, 22, 23
+Dunnigan v. Metro. Life Ins. Co.,
+214 F.R.D. 125 (S.D.N.Y. 2003) .............................................................................................28
+Eisen v. Carlisle & Jacquelin,
+417 U.S. 156 (1974) .................................................................................................................28
+Enriquez v. Cherry Hill Mkt. Corp.,
+2013 WL 5437038 (E.D.N.Y. Sept. 30, 2013) ........................................................................22
+
+-iii-
+
+Case 1:12-cv-05567-RJD-MDG Document 208 Filed 12/02/15 Page 4 of 36 PageID #: 11623
+
+Friedman-Katz v. Lindt & Sprungli (USA), Inc.,
+270 F.R.D. 150 (S.D.N.Y. 2010) .............................................................................................16
+Grocery Haulers, Inc. v. C&S Wholesale Grocers, Inc.,
+2013 WL 342693 (S.D.N.Y. Jan. 29, 2013) ............................................................................13
+Gustafson v. BAC Home Loans Servicing, LP,
+294 F.R.D. 529 (C.D. Cal. 2013) .............................................................................................25
+Hawkinson v. Conniff,
+53 Wash. 2d 454 (1959) ...........................................................................................................25
+In re Currency Conversion Fee Antitrust Litig.,
+230 F.R.D 303 (S.D.N.Y.2004). ..............................................................................................18
+In re Int’l Air Trans. Surcharge Antitrust Litig.,
+Case No. 06-md-01793-CRB (N.D. Cal. Feb. 15, 2008) ...................................................27, 28
+In Re IPO Sec. Litig.,
+471 F.3d 24 (2d Cir. 2006)...................................................................................................9, 30
+In re Rail Freight Fuel Surcharge Antitrust Litig.,
+725 F.3d 244 (D.C. Cir. 2013) .................................................................................................22
+In re Vivendi Univ., S.A. Sec. Litig.,
+2009 WL 855799 (S.D.N.Y. Mar. 31, 2009) ...........................................................................30
+Jim Ball Pontiac-Buick-GMC, Inc. v. DHL Express (USA), Inc.,
+2011 WL 815209 (W.D.N.Y. Mar. 2, 2011)......................................................................19, 30
+Johnson v. Nextel Comm’ns Inc.,
+780 F.3d 128 (2d Cir. 2015)...............................................................................................18, 29
+Kline v. Wolf,
+702 F.2d 400 (2d Cir. 1983).....................................................................................................16
+Lazard Freres & Co. v. Protective Life Ins. Co.,
+108 F.3d 1531 (2d Cir. 1997)...................................................................................................25
+Licci v. Lebanese Canadian Bank, SAL,
+672 F.3d 155 (2d Cir. 2012).....................................................................................................25
+Masokowitz v. La Suisse, Societe D’Assurances Sur La Vie,
+282 F.R.D. 54 (S.D.N.Y. 2012) ...............................................................................................19
+McDaniel v. County of Schenectady,
+2005 WL 1745566 (N.D.N.Y July 21, 2005) ..........................................................................16
+
+-iv-
+
+Case 1:12-cv-05567-RJD-MDG Document 208 Filed 12/02/15 Page 5 of 36 PageID #: 11624
+
+Myers v. Hertz Corp.,
+624 F.3d 537 (2d Cir. 2010)...........................................................................................9, 18, 24
+Norman v. Arcs Equities Corp.,
+72 F.R.D. 502 (S.D.N.Y. 1976) ...............................................................................................16
+Northwest, Inc. v. Ginsberg,
+134 S. Ct. 1422 (2014) ...............................................................................................................1
+O’Gara v. Countrywide Home Loans, Inc.,
+282 F.R.D. 81 (D. Del. 2012) ......................................................................................19, 20, 27
+Pagan v. Abbott Labs., Inc.,
+287 F.R.D. 139 (E.D.N.Y. 2012) ..................................................................................... passim
+Parino v. BidRack, Inc.,
+838 F. Supp. 2d 900 (N.D. Cal. 2011) .....................................................................................25
+Rapp v. Green Tree Servicing, LLC,
+302 F.R.D. 505 (D. Minn. 2014)........................................................................................19, 20
+Rocco v. Nam Tai Elecs., Inc.,
+245 F.R.D. 131 (S.D.N.Y. 2007) .............................................................................................16
+Savino v. Computer Credit, Inc.,
+164 F.3d 81 (2d Cir. 1998).................................................................................................16, 17
+Scaggs v. N.Y. State Dep’t of Educ.,
+2009 WL 890587 (E.D.N.Y. Mar. 31, 2009) .....................................................................10, 15
+Shaw v. Marriott Int’l, Inc.,
+474 F. Supp. 2d 141 (D.D.C. 2007) .........................................................................................25
+Southwell v. Mortgage Investors Corp. of Ohio, Inc.,
+2014 WL 3956699 (W.D. Wash. Aug. 12, 2014) ....................................................................11
+Spagnola v. Chubb Corp.,
+264 F.R.D. 76 (S.D.N.Y. 2010) ....................................................................................... passim
+Spagnola v. Great Northern Ins. Co.,
+531 F. Appx. 93 (2nd Cir. 2013)..............................................................................................19
+Spann v. AOL Time Warner, Inc.,
+219 F.R.D. 307 (S.D.N.Y. 2003) .............................................................................................28
+Spread Enterprises, Inc. v. First Data Merchant Servs. Corp.,
+298 F.R.D. 54 (E.D.N.Y. 2014) ...............................................................................................10
+
+-v-
+
+Case 1:12-cv-05567-RJD-MDG Document 208 Filed 12/02/15 Page 6 of 36 PageID #: 11625
+
+St. Stephen's School v. PricewaterhouseCoopers Accountants N.V.
+570 Fed. Appx. 37 (2d Cir. 2014) ............................................................................................30
+Vaccariello v. XM Satellite Radio, Inc.,
+295 F.R.D. 62 (S.D.N.Y. 2013) .........................................................................................22, 25
+Van West v. Midland Nat. Life. Ins. Co.,
+199 F.R.D. 448 (D.R.I. 2001) ..................................................................................................30
+Vincent v. Money Store,
+304 F.R.D. 446 (S.D.N.Y. 2015) .............................................................................................24
+Vu v. Diversified Collection Services, Inc.,
+293 F.R.D. 343 (E.D.N.Y. 2013) .............................................................................................22
+Wal-Mart Stores, Inc. v. Dukes,
+131 S. Ct. 2541 (2011) ..................................................................................................... passim
+Whitton v. Defenbaugh Disposal, Inc.,
+2014 WL 26023881 (D. Kan. June 11, 2014) ....................................................................12, 13
+Whitton v. Defenbaugh Disposal, Inc.,
+2015 WL 751817 (D. Kan. Feb. 23, 2015) ........................................................................12, 13
+OTHER AUTHORITIES
+Fed. R. Civ. P. 23 ................................................................................................................... passim
+
+-vi-
+
+Case 1:12-cv-05567-RJD-MDG Document 208 Filed 12/02/15 Page 7 of 36 PageID #: 11626
+
+INTRODUCTION
+The plaintiffs posit that, based upon little more than their say so, this Court should
+conclude that each distinct fuel surcharge paid by any of the more than 168,000 putative class
+members over the more than six year putative class period,1 on any of 38,771 route combinations
+operated by British Airways Plc (“BA”), should be evaluated exactly the same – without any
+deviation – regardless of the amount of fuel surcharge assessed, how or why it was determined,
+or the benefit received. The plaintiffs also lump together each of the 15 different global fuel
+surcharge changes that BA made during the putative class period, notwithstanding that, as
+explained in the attached declarations of Adam Daniels (“Daniels Decl.”) and Jerry Foran
+(“Foran Decl.”), the process and the methodology for evaluating the fuel surcharge level changed
+over time, the factors and weight attributed to each varied, and not all fuel surcharges were
+adjusted each time. The plaintiffs’ approach defies common sense, abhors the record, and is
+inconsistent with governing class action jurisprudence.
+This is a contract case. At this point, the plaintiffs have been forced to concede that the
+Executive Club Terms and Conditions (“EC Contract”) unequivocally permits BA to charge a
+fuel surcharge. Under English law, BA has the power to set the fuel surcharge, in its discretion.
+(Ex. 1, June 15, 2015 Rebuttal Report of Michael Crane (“Crane Rep.”) ¶¶ 33-41.)2 Under
+English law, BA cannot be liable for a breach of that contract unless, among other things, it acted
+irrationally in exercising its discretion. (Id.) Because the plaintiffs’ claim has morphed entirely
+into a good faith and fair dealing claim, it is pre-empted and should be dismissed. Northwest,
+Inc. v. Ginsberg, 134 S. Ct. 1422 (2014). If, however, the Court considers the claim, the Court
+1
+2
+
+As established in Section III(A)(4), the operative statute of limitations is actually two years.
+
+“Ex. __” refers to the exhibits attached to the Declaration of Keara M. Gordon (“Gordon Declaration”)
+filed contemporaneously herewith. Citation to “Pl. Br. __” refers to the Memorandum in Support of Plaintiffs’
+Motion for Class Certification.
+
+Case 1:12-cv-05567-RJD-MDG Document 208 Filed 12/02/15 Page 8 of 36 PageID #: 11627
+
+will have to review, individually, each fuel surcharge decision and each resulting fuel surcharge
+change to determine whether BA breached its contractual obligations. Only then, would it need
+to compare those fuel surcharges to the amount of fuel surcharges contractually permitted to
+determine if any putative class member was actually injured and, if so, in what amount.
+It is clear, therefore, that BA’s fuel surcharges do not rise or fall in unison:
+•
+
+The plaintiffs argue that the fuel surcharge was improper because their industry expert
+supposedly found one route – out of 240 – in one year, on which he claims BA over
+recovered its fuel costs. (Ex. 2, July 27, 2015 Corrected Reply Report of Robert Kokonis
+(“Kokonis Reply”) ¶ 45.) Even assuming that analysis is correct (which it is not), it
+would establish that 239 of the 240 routes (or 99.5%) had no over recovery. The
+purported existence of a single allegedly over recovered route, on which no named
+plaintiff flew, for one snapshot in time does not establish class wide liability, injury or
+damage for that one route, let alone all. In any event, the plaintiffs have admitted that the
+fuel surcharge never recouped BA’s fuel costs or its incremental fuel costs since the fuel
+surcharge was imposed. (See, e.g., Ex. 10, Nos. 113-14.)
+
+•
+
+The plaintiffs claim that the ratio between the fuel surcharge and the fare on a particular
+flight is a determinant of whether the fuel surcharge is appropriate. (Ex. 3, May 4, 2015
+Expert Report of Jonathan I. Arnold, Ph.D. (“May Arnold Rep.”) ¶¶ 37-39.) The EC
+Contract does not contain such a limitation, and the putative class booked
+tickets, on
+route combinations, over a more than six year period, during which BA
+had millions of fares. (Id. Figures 9-10.) The named plaintiffs’ ratios ranged from 4% to
+15%, much lower than the markedly different results that the plaintiffs derived from
+focusing upon only low, inapplicable shoulder season fares. (Ex. 4, August 28, 2015
+Supplemental Rebuttal Report of Marc B. Sherman (“Sherman Rep.”) ¶¶ 65-68; Ex. 3,
+May Arnold Rep. ¶ 39, Figures 9, 10.) This metric – with its widely disparate results –
+does not establish class wide liability, injury or damage.
+
+•
+
+The plaintiffs overlook entirely BA’s Reward Flight Saver Program, which began in
+November 2011, and pursuant to which the putative class, U.S. Executive Club Members
+(“Members”), paid only £35 on certain short haul flights in Europe to cover all taxes,
+fees, and fuel surcharges (which were actually paid by another entity), rather than the
+otherwise applicable fuel surcharge amount. (Ex. 5, September 4, 2015 Supplemental
+Rebuttal Report of Daniel M. Kasper (“Kasper Rep.”) ¶ 88; Daniels Dec. ¶ 11.)
+
+•
+
+The plaintiffs claim that the fuel surcharge was inappropriate because it was nonrefundable. The fuel surcharge was fully refundable on every reward ticket purchased
+by anyone in the putative class, and was fully refundable on all tickets prior to December
+2008 (Foran Decl. ¶ 16), so even if it were relevant, it does not establish class wide
+liability, injury or damage.
+
+2
+
+Case 1:12-cv-05567-RJD-MDG Document 208 Filed 12/02/15 Page 9 of 36 PageID #: 11628
+
+•
+
+The plaintiffs’ spin on the term “fuel surcharge” turns on a statement on BA.com that the
+fuel surcharge reflected the “fluctuating” price of worldwide oil. If the term “fuel
+surcharge” is ambiguous, English law fixes the “factual matrix” at the time a Member
+enters into the EC Contract, which means that the statement cannot be considered in
+determining the meaning of the term “fuel surcharge” for any of the 125,099 putative
+class members who joined the Executive Club prior to July 2, 2009. (Ex. 1, Crane Rep. ¶
+44; Ex. 6, BA00169580; Ex. 7, Mar. 20, 2015 BA’s R&O to Pls.’ Second RFA, No. 4 at
+6; Sutcliffe 109:2-123:22; Crane 69:2-15; Decl. of Paul Shade ¶ 7.)3
+
+•
+
+The plaintiffs manufacture a false distinction between a “cost recovery” and “revenue
+maximization” charge and claim that BA’s fuel surcharge was not intended for “cost
+recovery,” and therefore, is not a fuel surcharge. (Ex. 2, Kokonis Reply ¶¶ 2, 4.) This is
+absurd; from a revenue standpoint, there is no way to offset incurred fuel costs other than
+by generating revenue. (Kokonis 107:24-108:19, 124:21-125:5.) In any event, the
+plaintiffs’ industry expert admitted that it was “possible” that BA used its fuel surcharge
+revenues “for fuel cost offset” (id. 108:15-19), but he had no idea “what percentage of
+those revenues British Airways applied against its fuel costs.” (Id. 109:4-8). And, he
+could not prove that BA’s fuel surcharge revenue went to anything other than fuel cost
+recovery. (Id. 110:12-18.) As a result, it would be improper for this Court to assume that
+every dollar of fuel surcharge revenue collected during the 2,351 days in the putative
+class period went toward something other than fuel cost recovery.
+
+•
+
+The plaintiffs claim that BA did not “always” change the fuel surcharge for reasons that
+related to fuel costs. (Pl. Br. 5.) But, BA’s witnesses consistently testified that BA set its
+fuel surcharge to offset rising fuel costs, and the plaintiffs have failed to establish by a
+preponderance of the evidence that any particular fuel surcharge change (let alone all 15
+global changes) was made for an improper reason. (Ex. 5, Kasper Rep. ¶ 95.)
+Amazingly, despite these facts, the plaintiffs declare that if BA is liable, it “agrees” that
+
+damages can be calculated on a formulaic, class wide basis. (Pl. Br. 9.) BA has never agreed to
+this. Quite the contrary, the particularized inquires that must be undertaken in an attempt to
+prove breach and damages here foreclose class certification.
+FACTS
+A.
+
+British Airways’ Executive Club.
+
+The “Executive Club” is BA’s frequent-flyer program. It is free to join, and Members
+earn frequent flyer points (“Avios”) in several ways, including traveling on BA, using a BA-
+
+3
+
+Deposition citations are in the following format: deponent name, page number, line number. Deposition
+transcripts referenced herein are provided in Appendix A to the Gordon Declaration.
+
+3
+
+Case 1:12-cv-05567-RJD-MDG Document 208 Filed 12/02/15 Page 10 of 36 PageID #: 11629
+
+branded credit card, buying wine, renting cars, or staying at participating hotel chains. (Dover
+103:17-19, 146:7-150:8; Ex. 10, No. 1 at 4; Ex. 24, BA00168963.) Travelers who join the
+Executive Club are subject to the EC Contract (Ex. 10, No. 29 at 12.)
+BA told the plaintiffs, before they booked their flights, that BA would impose a fuel
+surcharge, and the plaintiffs agreed to pay it. The EC Contract informed Members that they were
+“liable for all taxes and other charges associated with Reward travel . . . including without
+limitation . . . fuel surcharges.” (Ex. 8, EC Contract § 13.14.) The EC Contract is subject to
+BA’s General Conditions of Carriage for Passengers and Baggage (“CoC”). (Ex. 9, CoC.) The
+CoC, which Members enter into when they redeem Avios for reward travel, makes plain that BA
+“may charge any surcharge to the fare for your ticket which applies under our tariff on the day
+you pay for your ticket, for example a fuel or insurance surcharge.” (Id., CoC § 4a5.)
+B.
+
+BA’s Fuel Surcharge.
+
+The EC Contract gives BA the discretion to set the fuel surcharge. The Court has already
+held that the term “fuel surcharge” was unambiguous and that the “plain meaning of the term
+‘fuel surcharge’ is a supplemental charge that is reasonably related to or based upon the cost or
+price of fuel” and “an added charge imposed by an airline in order to defray rising fuel costs.”
+(Nov. 7, 2013 Mem. & Order (Dkt. No. 52) (“MTD Order”) at 9.) Under English law, since the
+EC Contract does not contain any express contractual limitation on BA’s power to impose a fuel
+surcharge, “BA [was] under an implied duty to act honestly, in good faith and rationally having
+regard to the presumed purpose of a fuel surcharge.” (Ex. 1, Crane Rep. ¶ 1(iii)). Rationality
+means “good faith,” “that there should be some logical connection between the evidence and the
+ostensible reasons for the decision, and (which will usually amount to the same thing) an absence
+of arbitrariness, of capriciousness or of reasoning so outrageous in its defiance of logic as to be
+perverse.” (Id. ¶ 39 (quoting Hayes v Willoughby [2013] 1 WLR 935).)
+4
+
+Case 1:12-cv-05567-RJD-MDG Document 208 Filed 12/02/15 Page 11 of 36 PageID #: 11630
+
+The manner in which BA exercised its discretion to set, review, and adjust the fuel
+surcharge is set forth in the attached declarations of Jerry Foran and Adam Daniels.
+C.
+
+The Putative Class Representatives.
+1.
+
+Russell Dover
+
+Mr. Dover joined the Executive Club in March of 1996, years before BA imposed a fuel
+surcharge.
+
+(Ex. 10, No. 2 at 4-5.)
+
+Since then, he has traveled on BA dozens of times.
+
+(Amended Complaint (Dkt. No. 131) (“AC”) ¶¶ 16-17; Dover 115:11-123:9, 127:145:23.) Mr.
+Dover was a member of a prior settlement class, and, as such, has released claims that he
+purports to assert here. (Dover 68:20-96:15, 221:14-23.)
+Mr. Dover accumulates his Avios by, among other things, spending on his BA-branded
+credit cards.
+
+(Dover 148:13-149:8, 150:15-25.)
+
+He engages in a practice known as
+
+“manufactured spending”; his “hobby [is] acquiring loyalty points.”
+
+(Id. 239:10-247:20;
+
+249:250:24; 258:24; 269:19-270:4; 483:13-489:2.) To “manufacture[] spending,” Mr. Dover
+purchased “vanilla reloads” with his BA Visa. (Id. 246:11-254:16.) Vanilla reloads allow him to
+earn points by storing money on cards instead of actually spending it. (Id. 246:25-247:20.) Mr.
+Dover “spent” hundreds of thousands of dollars in manufactured spending and boasted online
+about bringing his seven year old daughter with him to stores as his “beard” to avoid suspicion.
+(Id. 265:25-269:2; 257:3-258:5-24.)
+Mr. Dover redeemed Avios on April 26, 2012 to book two first-class, roundtrip tickets
+from San Francisco to London, departing eight months later, on Christmas Day, and returning
+January 2, 2013. (Id. 145:3-17; AC ¶ 19.) When he did so, BA informed Mr. Dover of the
+associated fees and charges and he paid them without complaint. (Dover 166:15-167:3; 167:20-
+
+5
+
+Case 1:12-cv-05567-RJD-MDG Document 208 Filed 12/02/15 Page 12 of 36 PageID #: 11631
+
+168:6, 172:10-23; Ex. 10 Nos. 35-36 at 14.) The fuel surcharge equated to just over 8 cents per
+mile, per person, to sit in BA’s first class cabin. (See ICW Data;5 Ex. 11, BA00002624 at 78.)
+Mr. Dover later read a blog post about Lieff Cabraser Heimann & Berstein, LLP (“LC”)
+investigating BA’s fuel surcharge, which is what prompted him to sue BA. (Ex. 12, Def’s Dep.
+Ex. 38; Dover 183:8-184:15; 191:4-12.)
+2.
+
+Suzette Perry
+
+Ms. Perry is a lawyer who acts as a judge. (Perry 329:6-10, 335:12-333:22.) She joined
+the Executive Club on May 22, 2012 because she mistakenly thought that she could only redeem
+points earned through American Express on BA. (Id. 39:21-40:11, 41:24-43:7, Ex. 13, May 15,
+2015 Perry’s Second Am. R&O to RFA, No. 2 at 4-5.) Ms. Perry redeemed 272,500 Avios,
+obtained by transferring points from her American Express card, to book five tickets for a trip to
+London four months later, paying approximately 4 cents per mile in fuel surcharge. (Id. 74:4-15,
+79:3-6; ICW Data; Ex. 14, Def’s Dep. Ex. 61.) Ms. Perry canceled the first leg of her flight, and
+BA refunded her the associated Avios. (Perry 74:23-75:19, 81:7-82:12.)
+Ms. Perry did not recall reading the EC Contract. (Id. 124:6-19; Ex. 13, No. 27 at 11.)
+She is also a seasoned litigant who has been involved in various suits, one of which resulted in a
+judgment entered against her.
+
+(Id. 30:12-32:17.)
+
+Ms. Perry joined this lawsuit after
+
+communicating with LC. (Id. 221:19-222:16.) She spoliated evidence in this case by mass
+deleting thousands of e-mails after she brought suit. (Id. 290:7-291:8, 294:23-295:12, 399:2515, 401:9-18.) Despite this destruction of evidence, Ms. Perry falsely attests in her declaration in
+support of the plaintiffs’ class certification motion (“Declaration”) that she “preserved all
+
+5
+
+“ICW Data” refers to data from the Integrated Corporate Warehouse, which is a data warehouse BA uses to
+store its information. (Shade Decl. ¶ 3; BA00174616-174621, BA00174625 & BA00174626.)
+
+6
+
+Case 1:12-cv-05567-RJD-MDG Document 208 Filed 12/02/15 Page 13 of 36 PageID #: 11632
+
+potentially relevant documents (hard copy and electronic) in [her] custody, possession or
+control.” (Pl. Br. Ex. K ¶ 7.)
+3.
+
+Cody Rank
+
+Mr. Rank is a software engineer who moonlights as an activist and has taken part in
+protests, one of which led to his arrest in 2004 for vandalizing a traffic sign and disorderly
+conduct. (Rank 42:11-50:18; Ex. 15, Def’s Dep. Ex. 5.) Mr. Rank pled guilty to the charges but
+could not recall doing so at his deposition. (Rank 42:21-43:2, 50:19-24, 51:24-52:6.)
+Mr. Rank joined the Executive Club on October 14, 2009. (Ex. 16, May 15, 2015 Rank’s
+Second Am. R&O to RFA, No. 2 at 4-5.) He earned 50,000 Avios just for signing up for a BA
+credit card and another 50,000 Avios by spending $2,000. (Rank 93:11-15; 95:15-24; Ex. 17,
+Def’s Dep. Ex. 7.) Mr. Rank and his fiancée redeemed 98,000 of those 100,000 Avios to book a
+trip to Europe. (Rank 96:7-18, 102:21-103:15; AC ¶ 26.) He paid approximately 6 cents per
+mile in fuel surcharge. (ICW Data.) Mr. Rank never used his BA credit card again. (Rank
+96:25-97:7.) To book his travel, Mr. Rank called BA and was told the fees and charges. (Rank
+76:9-11; 76:25-77:9, 77:18-24.) He said he “would have to think about it,” he discussed the cost
+with his fiancée and decided it was “worth it” to book the flights. (Id. 76:25-77:9; 79:17-81:15.)
+Mr. Rank read a “blog post” that LC was looking for people who paid a BA fuel
+surcharge. (Id. 125:6-125:23.) He testified that he did not know whether he would have brought
+this suit if he had not seen the blog, and, when asked whose idea it was to sue, LC instructed Mr.
+Rank not to answer. (Id. 135:14-19.)
+4.
+
+Henry Horsey
+
+Mr. Horsey joined the Executive Club in February 2011 to receive the bonus Avios
+associated with opening his BA Chase Card. (Horsey 49:9-19; Ex. 18, May 15, 2015 Horsey’s
+
+7
+
+Case 1:12-cv-05567-RJD-MDG Document 208 Filed 12/02/15 Page 14 of 36 PageID #: 11633
+
+Second Am. R&O to BA’s RFA, No. 2 at 4-5.) Mr. Horsey has booked flights on BA at least
+three times.
+First, on April 5, 2009, Mr. Horsey booked non-redemption travel on BA for himself and
+his then-girlfriend from Denver to London, which was scheduled to depart approximately seven
+months later. (Horsey 55:7-55:21.) He canceled the trip when he broke up with his girlfriend.
+(Id. 58:10-18.) He did not complain about the charges associated with his travel; he considered
+the fare details unimportant. (Id. 56:18-20; 63:17-64:3.)
+On January 1, 2013, Mr. Horsey redeemed 270,000 Avios, which he accumulated on his
+BA Chase Card, to book first-class tickets for two for a trip from Dulles to Mumbai (with a
+layover in London) departing December 17, 2013 and returning December 31, 2013. (Id. 88:1789:10, 97:12-17, 99:3-5.) Prior to booking the travel, BA informed Mr. Horsey of the associated
+fees and charges, and he paid them without complaint. (Id. 109:19-111:10; Ex. 18, Nos. 34-35.)
+The fuel surcharge equated to just over 8 cents per mile, to sit in first class, and have access to
+BA’s lounge, free massages and free ground transportation while on the lay over in London.
+(See ICW Data; Ex. 19, BA-PLTF-001258; see also Ex. 11, BA00002624 at 78; Ex. 20
+BA00169507; Ex. 21, BA00169531.) After his flight, Mr. Horsey complained that the first-class
+cabin was “very, very antiquated.” (Id. 135:10-21, 140:7-41:22.) He made no other complaint at
+that time. In response, BA gave him and his wife 100,000 Avios, which Mr. Horsey considered
+to be “generous.” (Id. 142:8-144:12.)
+Finally, on March 15, 2014, after reaching out to LC and joining this lawsuit, Mr. Horsey
+redeemed 240,000 Avios to book flights, again in first class, for two people from Dulles to Dubai
+(with a layover in London) departing on February 17, 2015. (Id. 148:2-149:8.)
+
+8
+
+Case 1:12-cv-05567-RJD-MDG Document 208 Filed 12/02/15 Page 15 of 36 PageID #: 11634
+
+Mr. Horsey joined the lawsuit after reading an article about LC bringing this case. (Id.
+124:11-125:11.) He admits he does not know whether the fuel surcharge was excessive; he is
+simply “ask[ing] the question.” (Id. 179:16-24.)
+ARGUMENT
+I.
+
+THE LEGAL STANDARD
+A “class action is ‘an exception to the usual rule that litigation is conducted by and on
+
+behalf of the individual named parties only.’” Comcast Corp. v. Behrend, 133 S. Ct. 1426, 1432
+(2013) (quoting Califano v. Yamasaki, 442 U.S. 682, 700-01 (1979)). Plaintiffs “bear[] the
+burden of establishing by a preponderance of the evidence that each of Rule 23’s requirements
+ha[ve] been met.” Myers v. Hertz Corp., 624 F.3d 537, 547 (2d Cir. 2010).
+Rule 23 “does not set forth a mere pleading requirement”; rather, a plaintiff must satisfy
+with evidentiary proof the four prerequisites of Rule 23(a) – numerosity, commonality,
+typicality, and adequacy – and at least one provision of Rule 23(b). Id. at 1432. Rule 23 also
+contains “an implied requirement of ascertainability.” Brecher v. Republic of Argentina, 2015
+WL 5438797, at * 2 (2d Cir. Sept. 16, 2015).
+Certification is proper only if “the trial court is satisfied, after a rigorous analysis, that
+the prerequisites of Rule 23[] have been satisfied.” Comcast, 122 S. Ct. at 1432 (emphasis
+added) (internal quotations omitted). It “‘may be necessary for the court to probe behind the
+pleadings before coming to rest on the certification question.’” Id. The Court must receive
+“enough evidence, by affidavits, documents, or testimony” to establish that certification is
+appropriate. In Re IPO Sec. Litig., 471 F.3d 24, 41 (2d Cir. 2006). The plaintiffs here have not
+met these demanding requirements.
+
+9
+
+Case 1:12-cv-05567-RJD-MDG Document 208 Filed 12/02/15 Page 16 of 36 PageID #: 11635
+
+II.
+
+PLAINTIFFS CANNOT SATISFY THE REQUIREMENTS OF RULE 23(a).
+“Rule 23(a) ensures that the named plaintiffs are appropriate representatives of the class
+
+whose claims they wish to litigate.” Wal-Mart Stores, Inc. v. Dukes, 131 S. Ct. 2541, 2550
+(2011). Here, the plaintiffs have not shown, by a preponderance of the evidence, that they satisfy
+Rule 23(a)’s threshold requirements of (A) numerosity, (B) commonality, and (C) adequacy of
+representation. These defects, alone, are fatal to class certification.
+A.
+
+The Plaintiffs Fail to Establish Numerosity.
+
+The plaintiffs fail to establish, by a preponderance of the evidence, that “the class is so
+numerous that joinder of all members is impracticable.” Fed. R. Civ. P. 23(a)(1). “[W]hile
+‘evidence of the exact size or identity of class members is not required,’ a plaintiff cannot rely on
+‘pure speculation or bare allegations’ in order to demonstrate numerosity.” Spread Enter., Inc. v.
+First Data Merchant Servs. Corp., 298 F.R.D. 54, 67 (E.D.N.Y. 2014); see also Scaggs v. N.Y.
+State Dep’t of Educ., 2009 WL 890587, at *5 (E.D.N.Y. Mar. 31, 2009). In Scaggs, for example,
+the plaintiffs alleged that a school operator violated statutory requirements by depriving them of
+their right to a free public education. 2009 WL 890587, at *2-3. In an attempt to establish
+numerosity, the plaintiffs noted that the defendant had schools in various states. The Court
+found that showing inadequate and denied certification: “The mere fact that there are, or were,
+presumably more than 40 students enrolled in schools managed by [the defendant] is not enough
+to establish numerosity where plaintiffs have failed to demonstrate that even a single one of them
+suffered the same alleged injuries as plaintiffs.” Id. at *4.
+Here, the plaintiffs assert that their proposed class “includes 168,259 members” based on
+a database that contains records of “any” Member with a U.S. address that “made a [redemption]
+
+10
+
+Case 1:12-cv-05567-RJD-MDG Document 208 Filed 12/02/15 Page 17 of 36 PageID #: 11636
+
+booking6 during the class period.” (Pl. Br. 12.) Although the plaintiffs’ experts reports span 423
+pages, they do not establish that any of the four named plaintiffs paid a fuel surcharge that
+deviated from a contractually-permitted fuel surcharge by a specific amount, much less that any
+member of the putative class suffered the same alleged injuries. (Kokonis 100:16-24,105:5-22;
+Arnold 137:12-137:25, 214:21-215:14, 228:16-229:5.) It is pure speculation to assume that
+every Member that booked a flight during the putative class period paid a fuel surcharge that was
+above the contractually permitted amount. The mere act of booking and paying a fuel surcharge
+is insufficient to establish numerosity. Southwell v. Mortg. Investors Corp. of Ohio, Inc., 2014
+WL 3956699, at *3 (W.D. Wash. Aug. 12, 2014) (numerosity not proven); Pagan v. Abbott
+Labs., Inc., 287 F.R.D. 139, 147 (E.D.N.Y. 2012) (denying certification).
+B.
+
+Commonality Is Lacking.
+
+Commonality requires that “there are questions of law or fact common to the class.” Fed.
+R. Civ. P. 23(a)(2). It is not enough for a plaintiff to show that class members “suffered a
+violation of the same provision of law.” Dukes, 131 S. Ct. at 2551. Rather, “[c]ommonality
+requires the plaintiff to demonstrate that the class members ‘have suffered the same injury.’” Id.
+(quoting Gen. Tel. Co. of S.W. v. Falcon, 457 U.S. 147, 157 (1982)). In other words, “[w]hat
+really matters to class certification . . . is not the raising of common questions – even in droves –
+but, rather the capacity of a classwide proceeding to generate common answers apt to drive the
+resolution of the litigation.” Id. (emphasis added).
+6
+
+The plaintiffs’ proposed class definition encompasses tickets that fail to meet their own criteria, including:
+(1) tickets booked within the putative class period, but the fuel surcharge was not paid until afterwards; (2) tickets
+that were exchanged or refunded during the putative class period; (3) tickets where the fuel surcharge was paid prior
+to the putative class period, but later adjusted without any additional fuel surcharge payment; (4) segments that were
+not redemption travel; (5) upgrades; (6) “tickets that were either fully paid for by cash or were paid for with a
+combination of Avios and cash”; (7) redemptions made under BA’s Reward Flight Saver program in which
+Members did not actually pay a fuel surcharge; and (8) redemptions made by Members who did not have a U.S.
+address at the time of booking. (See Ex. 4, Sherman Rep., Chart 11, at 57.) In each of these instances, the tickets
+and coupons do not even meet the plaintiffs’ proposed class definition and should be excluded from any class.
+
+11
+
+Case 1:12-cv-05567-RJD-MDG Document 208 Filed 12/02/15 Page 18 of 36 PageID #: 11637
+
+Here, there are no common answers: the fuel surcharge assessed in November 2006 was
+different structurally and in amount from that assessed in April 2013; each of the 15 fuel
+surcharge changes involved different facts, considered different factors in different ways, was
+influenced by varying economic circumstances, and may have changed only long-haul or shorthaul; the process changed over time; and the arguments to which the plaintiffs point in an
+attempt to claim that all fuel surcharges were not in fact true fuel surcharges are not uniform
+across route, or fare class, and are not necessarily applicable during the entire 2,153 day putative
+class period. (Foran Decl. ¶¶ 6-45; Daniels Decl. ¶¶ 4-32.) The plaintiffs do not, nor could they,
+establish that the entire class “suffered the same injury.” Pagan, 287 F.RD. at 148-49.
+The plaintiffs cite to Whitton v. Defenbaugh Disposal, Inc., 2015 WL 751817 (D. Kan.
+Feb. 23, 2015), which they describe as “finding class certification proper for breach of contract
+claim alleging that a ‘fuel surcharge’ was not truly a fuel surcharge.” (Pl. Br. 13.) Not so. The
+opinion is not the decision on class certification. Presumably, the plaintiffs meant to cite Whitton
+v. Defenbaugh Disposal, Inc., 2014 WL 26023881 (D. Kan. June 11, 2014). That decision,
+however, makes clear the stark contrast between BA’s fuel surcharge and the one in Whitton;
+there, the fuel surcharge methodology was “based on a table that tie[d] the amount of the fee to
+the average retail price of diesel fuel,” and all putative class members were “charged the same
+fees, for the same reasons.” Id. at *2, 9. Here, BA did not use a formula to determine the
+amount of the fuel surcharge, there was no one methodology, the process changed over time, and
+the class members all paid different fuel surcharges. (Foran Decl. ¶¶ 6-45; Daniels Decl. ¶ 4-32.)
+In attempting to frame a common issue, the plaintiffs offer two possible definitions of the
+term fuel surcharge: (1) either “an extra charge in addition to the normal price of fuel to take into
+
+12
+
+Case 1:12-cv-05567-RJD-MDG Document 208 Filed 12/02/15 Page 19 of 36 PageID #: 11638
+
+account recent changes in fuel prices” or (2) “a charge that attempts to recover as much of BA’s
+annual fuel costs relative to 2003 as possible.” (Id.) In so doing, the plaintiffs:
+•
+
+Ignore the fact that they previously argued for the first definition propounded by their
+English law expert (Ex. 22, May 4, 2015 English Law Expert Report of Andrew Sutcliffe,
+QC (“May Sutcliffe Rep.”) ¶ 58), which the Court implicitly rejected when it ruled that
+the term “fuel surcharge” is unambiguous and that the “plain meaning of the term ‘fuel
+surcharge’ is a supplemental charge that is reasonably related to or based upon the cost or
+price of fuel” and “an added charge imposed by an airline in order to defray rising fuel
+costs.” (MTD Order at 9.) The law of the case doctrine applies this ruling to subsequent
+phases of this case. Grocery Haulers, Inc. v. C&S Wholesale Grocers, Inc., 2013 WL
+342693, at *2 (S.D.N.Y. Jan. 29, 2013) (“unambiguous interpretations of the contract as a
+matter of law” were entitled to deference under the law of the case doctrine).
+
+•
+
+Contradict their own prior statements acknowledging that the question posed by the Court
+was whether BA’s fuel surcharge was reasonably related to or based upon the cost or
+price of fuel. (Mem. in Supp. of Pls.’ Mot. to Exclude All Testimony from Daniel M.
+Kasper and Certain Testimony from Marc B. Sherman at 2.)
+
+•
+
+Ignore their own damages expert’s testimony that he was applying the Court’s fuel
+surcharge definition (not the definition the plaintiffs now proffer) and their industry
+expert’s admission that there was no industry-wide definition of fuel surcharge; instead, it
+could “change from one carrier to the next,” but should be designed to recover an element
+of fuel expenses, the level of which “would depend on the carrier.” (Arnold 15:14-19;
+Kokonis 160:22-107:23.)
+
+•
+
+Wrongly assert that, under any definition, there will be the exact same answer uniformly
+applicable to all putative class members, regardless of when during the more than six
+year putative class period they bought their reward ticket, regardless of the length of their
+flight, or its timing, or the fuel surcharge paid, or the fuel price that day, or fuel trends, or
+BA’s cost of fuel (net of hedging).
+
+•
+
+Fail to identify the common proof that supposedly will drive common answers.
+
+•
+
+Misstate the record and BA’s position. BA never intended the fuel surcharge to recover
+all its fuel costs or even all of its incremental increase in fuel costs. (Foran Decl. ¶ 6;
+Daniels Decl. ¶ 4.) Instead, BA set its fuel surcharge prospectively, in an attempt to
+recoup some percentage of its increasing fuel costs. BA, of course, never came close to
+recovering its entire fuel bill, the incremental cost versus 2003, or even the incremental
+costs year over year. (Ex. 4, Sherman Rep. ¶¶ 71-73, Charts 9-10.)
+The plaintiffs’ all or nothing approach – that all fuel surcharges were appropriate or none
+
+were – is simply wrong. (Pl. Br. 13.) BA undisputedly was entitled to charge a fuel surcharge.
+
+13
+
+Case 1:12-cv-05567-RJD-MDG Document 208 Filed 12/02/15 Page 20 of 36 PageID #: 11639
+
+(Ex. 22, May Sutcliffe Rep. ¶ 15; Ex. 23, July 15, 2015 Reply Report of Andrew Sutcliffe, QC
+(“July Sutcliffe Rep.”) ¶ 6.a.) To establish a breach, the plaintiffs must demonstrate, by a
+preponderance of the evidence, that BA abused its discretion by setting a fuel surcharge that was
+irrational and not reasonably related to the price or cost of fuel. (Ex. 23, July Sutcliffe Rep. ¶¶
+23, 31, 32.) If they could establish a breach, then damages under English law would be “the
+difference between the amount actually paid in fuel surcharge . . . and whatever amount would
+have been paid had BA not acted outside the terms of the contract but nevertheless applied the
+power to impose a fuel surcharge in its own commercial interests having regard to circumstances
+prevailing at the time.” (Ex. 1, Crane Rep. ¶ 90; Ex. 22, May Sutcliffe Rep. ¶ 36.)
+The plaintiffs also claim that the fuel surcharge was not “always” changed to reflect BA’s
+fuel costs – yet they do not analyze any, let alone all – of the 15 global fuel surcharge changes
+during the putative class period or demonstrate that any one (much less all) of them violated the
+EC Contract or was not reasonably related to the price or cost of fuel. (Ex. 3, May Arnold Rep. ¶
+20, Figure 1.) Instead, the plaintiffs point to certain aspects of BA’s fuel surcharge at certain
+points during the putative class period to argue that it was not a fuel surcharge. This tactic does
+not generate common answers to the question posed:
+•
+
+Whether BA supposedly over recovered its fuel costs on one route out of 240 for one
+year (Pl. Br. 5), when BA sets its fuel surcharge on a global, rather than route-by-route,
+flight-by-flight basis, says nothing about the appropriateness of the fuel surcharge
+attendant to the other 239 routes. (Foran Decl. ¶ 9; Daniels Decl. ¶ 5.)
+
+•
+
+Whether the fuel surcharge was non-refundable (Pl. Br. 6) is irrelevant to Members
+because redemption tickets were always refundable. In any event, this change was made
+to non-redemption flights in late 2008, two years into the putative class period. (Foran
+Decl. ¶ 16.)
+
+•
+
+The statement on BA.com regarding the “fluctuating price” of oil (Pl. Br. 1) did not
+appear until July 2009 – 32 months into the putative class period, and the named
+plaintiffs had no recollection of seeing it. (Ex. 7, Mar. 20, 2015 BA’s R&O to Pls.’
+
+14
+
+Case 1:12-cv-05567-RJD-MDG Document 208 Filed 12/02/15 Page 21 of 36 PageID #: 11640
+
+Second RFA, No. 4 at 6; Dover 207:6-14; Perry 171:16-22; Rank 172:22-173:4; Horsey
+196:22-197:5; 53:23-54:7.)
+•
+
+The point of sale variance (Pl. Br. 5) only reflected currency exchange rates until October
+2008, and after that was consistent with industry custom and practice. (Ex. 5, Kasper
+Rep. ¶¶ 63-67, 130; Foran Decl. ¶ 44; Daniels Decl. ¶ 7, 10.)
+
+•
+
+To the extent that the plaintiffs’ argument with BA’s baseline is that it became less
+relevant over time, its appropriateness necessarily differs during the putative class period.
+The absence of evidentiary proof that the entire class “suffered the same injury” also
+
+destroys commonality. In Pagan, the plaintiffs alleged that the defendant misrepresented the
+safety of its infant formula that allegedly contained beetle parts. 287 F.R.D. at 148-9. The Court
+ruled that commonality had not been met because it was “not enough” “merely” to show that the
+class bought the infant formula – they needed to demonstrate that the formula purchased
+“actually contained beetle parts” to establish injury. Since only one percent of the product
+contained beetle parts, the Court concluded that “the majority of the putative class members
+received exactly what they paid to receive and, thus, cannot now claim injury.” Id. at 149.
+The same conclusion is compelled here. Even if the plaintiffs’ analysis demonstrated that
+one route, out of 240, had some over recovery during one year, that does not, and cannot,
+establish liability on all
+
+flights, on
+
+route combinations, over a more than six year
+
+period. Scaggs, 2009 WL 890587, at *5.
+C.
+
+The Named Plaintiffs Are Not Adequate Class Representatives.
+
+The plaintiffs must show that they “will fairly and adequately protect the interests of the
+class.” Fed. R. Civ. P. 23(a)(4). The adequacy requirement is intended “to ferret out potential
+conflicts between representatives and other class members,” and courts “carefully scrutinize the
+adequacy of representation in all class actions.” Spagnola v. Chubb Corp., 264 F.R.D. 76, 95
+(S.D.N.Y. 2010). Courts deny class certification where, as here, the named plaintiffs’ testimony
+
+15
+
+Case 1:12-cv-05567-RJD-MDG Document 208 Filed 12/02/15 Page 22 of 36 PageID #: 11641
+
+and actions raise serious questions about their ability to serve as fiduciaries for the putative class.
+Savino v. Computer Credit, Inc., 164 F.3d 81, 87 (2d Cir. 1998). The named plaintiffs are
+inadequate here because they: (1) flouted their discovery obligations, (2) contradicted the
+allegations of their complaint, and (3) lack credibility.
+First, “[o]ne who will not comply wholeheartedly and fully with the discovery
+requirements of modern federal practice, is not to be regarded by this Court as one to whom the
+important fiduciary obligation of acting as a class representative should be entrusted.” Norman
+v. Arcs Equities Corp., 72 F.R.D. 502, 506 (S.D.N.Y. 1976) (denying certification); see also
+Pagan, 287 F.R.D. at 147 (denying certification where plaintiff may have spoliated evidence);
+Rocco v. Nam Tai Elecs., Inc., 245 F.R.D. 131, 137 (S.D.N.Y. 2007) (denying class
+certification). Named plaintiffs must comply with their “discovery obligations and failure to do
+so strongly intimates that the class representation is inadequate.”
+
+McDaniel v. County of
+
+Schenectady, 2005 WL 1745566, at *3 (N.D.N.Y July 21, 2005).7 Courts also “may consider the
+honesty and trustworthiness of the named plaintiff.” Kline v. Wolf, 702 F.2d 400, 403 (2d Cir.
+1983) (affirming denial); Friedman-Katz v. Lindt & Sprungli (USA), Inc., 270 F.R.D. 150, 157161 (S.D.N.Y. 2010) (denying certification).
+Here, Ms. Perry – a lawyer who acts as a judge – admitted at the very end of her
+deposition that she spoliated evidence by conducting a mass deletion of e-mails after she filed
+this lawsuit. (Perry 290:7-291:8, 308:24-310:23.) Almost a year after her purge, her counsel
+7
+
+The plaintiffs’ alarming unfamiliarity with this case and unwillingness to learn about the underlying facts
+reinforces their inadequacy. Koenig v. Benson, 117 F.R.D. 330, 337 (E.D.N.Y. 1987). As detailed in Exhibit 26, at
+their depositions, the named plaintiffs did not know what contract they were suing under, never read either the EC
+Contract or the CoC, did not review documents before filing, and did not know what damages they were seeking.
+Tellingly, during their depositions, the named plaintiffs stated “I don’t know,” “I don’t remember, and “I don’t
+recall,” approximately 960 times. Despite their repeated displays of ignorance at their depositions, the named
+plaintiffs each submitted declarations in support of their motion for class certification attesting that their claim is
+based on “the same events as the events on which every other proposed class member’s claims is based” and that
+their “legal arguments [are] the same as the legal arguments of other proposed class members.” (Pl. Br., Ex. K ¶ 5,
+Ex L ¶ 5, Ex. M. ¶ 5, Ex. N ¶ 5; see also Ex. 27 (chart comparing declarations to deposition testimony).)
+
+16
+
+Case 1:12-cv-05567-RJD-MDG Document 208 Filed 12/02/15 Page 23 of 36 PageID #: 11642
+
+notified BA that “two emails” “c[ould] not be produced in compliance with BA’s specifications.
+Those emails are no longer available in their original format as Ms. Perry unfortunately deleted
+them.” (Ex. 25, Letter from Mr. Cuthbertson to Mr. Birnbaum, dated May 2, 2014.) Counsel
+neglected to mention that Ms. Perry’s actions went far beyond deleting “two e-mails.”
+At her deposition, Ms. Perry finally revealed that, in fact, she had conducted a “mass
+deletion” of “thousands” of e-mails after she began this litigation. (Perry 290:7-291:4, 294:23295:12 (“Q. You said that you deleted thousands of emails; is that correct? A.
+
+Yes.”).)
+
+Directly contradicting these facts, Ms. Perry attests in her Declaration that she supposedly
+“preserved all potentially relevant documents.” (Pl. Br., Ex. K ¶ 6.) It is this destruction of
+evidence (coupled with the fact that Ms. Perry only produced three documents before her first
+deposition and 333 afterwards) that necessitated the two depositions Ms. Perry references in her
+declaration. (Perry 387:8-389:25.)
+As set forth in Exhibit 28, Messrs. Dover and Horsey also failed to comply with their
+discovery obligations. (See Ex. 28.) Mr. Dover initially produced only five documents, with
+another 13 the week before his deposition. (Dover 357:13-16; Ex. 29, Def’s Dep. Ex. 54.) Even
+then, Mr. Dover’s document production was woefully inadequate, which necessitated a second
+deposition. (Ex. 28; Ex. 30; Ex. 31.) Mr. Horsey’s production was similarly deficient. (Ex. 32.)
+Second, as set forth in Exhibit 33, the plaintiffs provided testimony that contradicted the
+central allegations of the Complaint regarding, for example, BA’s alleged contractual promises
+and the R-Squared Analysis.
+
+(Ex. 33.)
+
+This alone renders the plaintiffs inadequate
+
+representatives. See Savino, 164 F.3d at 87 (affirming denial of certification); Spagnola, 264
+F.R.D. at 95-97 (same); Cohen v. Laiti, 98 F.R.D. 581, 582-83 (E.D.N.Y. 1983) (same).
+Finally, the named plaintiffs’ testimony revealed independent credibility issues:
+
+17
+
+Case 1:12-cv-05567-RJD-MDG Document 208 Filed 12/02/15 Page 24 of 36 PageID #: 11643
+
+III.
+
+•
+
+Mr. Dover games the system by using vanilla reloads to cheat corporations – including
+BA – that offer loyalty points by earning points without actually spending money. (As
+discussed previously at Section C(1), supra.)
+
+•
+
+Mr. Rank provided counterfactual responses to interrogatories regarding his disorderly
+conduct conviction and, when confronted with his own criminal record, could not
+remember it. (As discussed previously at Section C(3), supra.)
+
+•
+
+Ms. Perry, a lawyer, provided testimony filled with inconsistencies, contradictions and
+inaccurate information. (See Ex. 34 (chart of Ms. Perry’s contradictory statements).)
+
+•
+
+Each of the named plaintiffs’ declarations submitted under oath in support of their class
+certification motion contains statements that contradict their sworn deposition testimony.
+Attached as Ex. 27 is a chart detailing these discrepancies.
+PLAINTIFFS CANNOT SATISFY THE STANDARDS FOR CERTIFICATION
+UNDER 23(b)(3).
+Even if the plaintiffs could satisfy the prerequisites of Rule 23(a) (which they cannot),
+
+class certification is still inappropriate because: (a) individual, rather than common, issues
+predominate and (b) a class action is not superior to other means of adjudication.
+A.
+
+Individual, Rather Than Common, Issues Will Predominate.
+
+Rule 23’s predominance requirement is designed to ensure that “proposed classes are
+sufficiently cohesive to warrant adjudication by representation.” Myers, 624 F.3d at 547 (citing
+Amchen Prods., Inc. v. Windsor, 521 U.S. 591, 623 (1997)).
+
+This requirement is “more
+
+demanding than Rule 23(a).” Johnson v. Nextel Comm’ns Inc., 780 F.3d 128, 138 (2d Cir.
+2015). “[A] Court must consider the elements of each cause of action, and determine whether
+those elements can be satisfied by common, class-wide proof.” In re Currency Conversion Fee
+Antitrust Litig., 230 F.R.D. 303, 310 (S.D.N.Y. 2004). Here, they cannot.
+1.
+
+Liability and Injury Cannot Be Proven on a Class-wide Basis.
+
+“[A] court must deny certification where individual issues of fact abound.” Spagnola,
+264 F.R.D. at 98 (quoting In re Currency Conversion Fee Antitrust Litig., 209 F.R.D. at 309).
+Numerous courts have found predominance lacking in “form contract” cases when “individual
+
+18
+
+Case 1:12-cv-05567-RJD-MDG Document 208 Filed 12/02/15 Page 25 of 36 PageID #: 11644
+
+inquiries [are] required to determine whether a breach of the contract could be found.” Jim Ball
+Pontiac-Buick-GMC, Inc. v. DHL Express (USA), Inc., 2011 WL 815209, at *6 (W.D.N.Y. Mar.
+2, 2011) (denying class certification); Spagnola, 264 F.R.D. at 98-99 (same); Masokowitz v. La
+Suisse, Societe D’Assurances Sur La Vie, 282 F.R.D. 54, 62 (S.D.N.Y. 2012) (same); Rapp v.
+Green Tree Servicing, LLC, 302 F.R.D. 505 (D. Minn. 2014) (same); O’Gara v. Countrywide
+Home Loans, Inc., 282 F.R.D. 81, 90-91 (D. Del. 2012) (same).8
+In Spagnola v. Great Northern Ins. Co., for example, the Second Circuit reaffirmed that
+form contract cases can raise individual inquiries that destroy predominance. 531 F. Appx. 93,
+93 (2d Cir. 2013). There, the plaintiffs alleged a breach of a form contract; the defendant
+allegedly failed to change coverage amounts to reflect “current costs and values.” Spagnola, 264
+F.R.D. at 83, 99. The Court ruled that liability could not be established by class-wide proof
+because determining whether the coverage changes reflected “current costs and values” required
+“analysis of the unique characteristics of each class member’s home, whether each
+policyholder’s coverage was actually increased using [the consumer price index] or some other
+guideline, the amount of the increase, whether the policy[holder] requested that the increase be
+waived or revalued, and [the] actual replacement cost of each policyholder’s home.” Id. at 99.
+Similarly, in Rapp, the plaintiff claimed that the defendant breached a mortgage contract
+by charging him an amount in “force-placed insurance” that exceeded the actual cost of such
+insurance. 302 F.R.D. at 508. The Court found that “it is an oversimplification to say that
+because each class member’s breach of contract claim turns on the meaning of the phrase ‘cost of
+the insurance,’ . . . each class member’s claim will be factually similar.” 302 F.R.D. at 508, 510.
+
+8
+
+See also Pastor v. State Farm Mut. Auto Ins. Co., 2005 WL 2453900, at *7 (N.D. Ill. Sept. 30, 2005), aff’d,
+487 F.3d 1042 (7th Cir. 2007) (denying class certification); Weiss v. La Suisse, Societe D’Assurances Sur La Vie,
+226 F.R.D. 446, 451-54 (S.D.N.Y. 2005) (same); Adams v. Kansas City Life Ins. Co., 192 F.R.D. 274, 282 (W.D.
+Mo. 2000) (same); Sparano v. Southland Corp., 1996 WL 681273, at *1-2 (N.D. Ill. Nov. 21, 1996) (same).
+
+19
+
+Case 1:12-cv-05567-RJD-MDG Document 208 Filed 12/02/15 Page 26 of 36 PageID #: 11645
+
+In finding that “questions that would require individual adjudication would substantially
+predominate” over common questions, the Court stated:
+There is no reason to think that “the cost of insurance” for Rapp will be the same
+as “the cost of the insurance” for every other class member. A jury would need to
+determine the “true” cost to the amount actually charged by [defendant]. The
+“true” cost of the force-placed insurance in each case might depend on the
+location of the property, the personal characteristics of the borrower, the
+circumstances of the insurance market at the particular time and in the particular
+location, and countless other variables.
+Id. at 510.
+Moreover, “[n]umerous courts have recognized that predominance cannot be satisfied
+where a court must make a reasonableness determination of individual charges.” O’Gara, 282
+F.R.D. at 90 (collecting cases). In O’Gara, the plaintiffs alleged a breach of a standard form
+mortgage agreement. Id. The Court ruled that, while the contract may have been common and
+demonstrable on a class wide basis, “breach and damages cannot” because those issues required
+individualized analysis and “class-member-specific proof.” Id.
+The same result follows here. The AC alleges that (1) BA breached the EC Contract by
+charging a fuel surcharge that was not based on its fuel costs, and (2) that BA’s “breach injured
+[them] because [they] paid a surcharge that was greater than one based on BA’s actual fuel
+costs.” (AC ¶ 76.) As an initial matter, BA disagrees with the formulation of the issue because it
+would be unreasonable to expect that BA could anticipate, 355 days before a flight, what its
+actual fuel costs will be on that flight. As Mr. Foran explains, BA’s future fuel costs are
+unknowable and impacted by a number of variables. (Foran Decl. ¶¶10, 11.) For that reason,
+BA set its fuel surcharge at a global level, and it is undisputed that BA’s fuel surcharge did not
+exceed its actual fuel costs during the putative class period. (Ex. 4, Sherman Rep. ¶¶ 71-73,
+Charts 9-10; Ex. 10, May 15, 2015 Dover Second Am. R&O to RFA, No. 114 at 41.)
+
+20
+
+Case 1:12-cv-05567-RJD-MDG Document 208 Filed 12/02/15 Page 27 of 36 PageID #: 11646
+
+Assuming, for the sake of argument only, that BA could be held to the plaintiffs’
+standard, the plaintiffs will have to establish that BA acted irrationally in setting its fuel
+surcharge, that each, separate fuel surcharge decision was not based on BA’s fuel costs, and that
+each fuel surcharge imposed was greater than one based on BA’s “actual fuel costs,” which
+necessarily involves establishing what those actual fuel costs were.
+Each decision regarding the fuel surcharge reflects unique facts and circumstances:
+•
+
+Each surcharge decision made during the six year putative class period reflects the fuel
+prices and pricing trends at that particular moment in time. During the relevant period,
+there were dramatic variations in fuel prices. (Ex. 5, Kasper Rep. at 3 & ¶¶ 8-10, 19, 33.)
+
+•
+
+BA’s aggregate and incremental fuel costs at the time of each fuel surcharge decision
+varied based on an ever-changing landscape of factors, including hedging profiles,
+currency exchange rates, demand, weather, etc. (Foran Decl. ¶¶ 10-11.)
+
+•
+
+The structure of the fuel surcharge varied and changed over time. (Foran Decl. ¶¶ 7-19;
+Daniels Decl. ¶¶ 6-11.)
+
+Each resulting fuel surcharge imposed necessarily had its own distinct relationship to BA’s
+fuel costs, which would need to be assessed to determine whether the amount paid was greater
+than BA’s fuel costs. This analysis is individualized and complex, for example:
+•
+
+The fuel surcharges assessed varied based on the route, the sector length, and the cabin
+class ticketed.
+
+•
+
+Each named plaintiff bought his or her ticket at different points during the putative class
+period, for different routes, in different cabin classes, and paid different fuel surcharges,
+each of which were based on the unique factors, facts and circumstances at the time of
+ticketing. (Ex. 4, Sherman Rep. Chart 7; Foran Decl. ¶¶ 6-32; Daniels Decl. ¶¶ 4-32.)
+
+•
+
+The fuel surcharge was applied at the time of ticketing, but Members may not have flown
+until up to 355 days later, a factor that needs to be considered in evaluating the
+reasonableness of the charge. (Ex. 4, Sherman Rep. ¶ 22; Ex. 3, May Arnold Rep. Figure
+12; Foran 148:22-149:12.)
+Even if the plaintiffs could establish liability through common evidence (which they
+
+cannot), the mere payment of a fuel surcharge is insufficient to establish injury because if the
+
+21
+
+Case 1:12-cv-05567-RJD-MDG Document 208 Filed 12/02/15 Page 28 of 36 PageID #: 11647
+
+fuel surcharge paid did not exceed BA’s actual fuel costs, there is no injury. As a result, the
+Court must determine the appropriate fuel surcharge level for each putative class member’s flight
+to assess whether the fuel surcharge paid exceeded that amount. Yet, the plaintiffs’ damages
+expert did “not look[] to see on a ticket-by-ticket basis whether there was ever an occasion in
+which the YQ charge was the same as or was very close to the imputed fuel surcharge.” (Arnold
+117:6-21.) The need for individualized, ticket-by-ticket inquiries destroys predominance here.
+See Chen-Oster v. Goldman, Sachs & Co., 2015 WL 1566722, at *18 (S.D.N.Y. Mar. 10, 2015);
+In re Rail Freight Fuel Surcharge Antitrust Litig., 725 F.3d 244, 252; Vu v. Diversified
+Collection Serv., Inc., 293 F.R.D. 343, 356 (E.D.N.Y. 2013); Enriquez v. Cherry Hill Mkt. Corp.,
+2013 WL 5437038, at *6 (E.D.N.Y. Sept. 30, 2013); Vaccariello v. XM Satellite Radio, Inc., 295
+F.R.D. 62, 68 (S.D.N.Y. 2013); Pagan, 287 F.R.D. at 151.
+2.
+
+The Plaintiffs’ Damages Models Are Inconsistent with Their Theory
+of Liability.
+
+The plaintiffs’ damages models suffer from a fundamental defect because they do not
+align with their theory of liability in two ways. Comcast, 133 S. Ct. at 1433 (holding that a
+model for determining class-wide damages must actually measure damages that result from the
+class’s asserted theory of injury). First, their damages model assumes the only proper fuel
+surcharge level would be $0, thereby disregarding BA’s undisputable contractual right to impose
+some level of fuel surcharge. (Ex. 23, July Sutcliffe Rep. ¶ 6.a.)
+Second, the plaintiffs’ English law expert claims BA is liable if it imposed a fuel
+surcharge that did not “cover unanticipated increases in its fuel costs caused by fluctuations in
+the price of crude oil.” (Id. ¶¶ 5.b., 6.a., 9, 16-17.) The plaintiffs’ damages model, however,
+does not measure damages based on “unexpected fluctuations” in the price of oil. (Ex. 3, May
+Arnold Rep. ¶ 54 & App’x 5.) “[A] model purporting to serve as evidence of damages in this
+
+22
+
+Case 1:12-cv-05567-RJD-MDG Document 208 Filed 12/02/15 Page 29 of 36 PageID #: 11648
+
+class action must measure only those damages attributable to [the] theory [of liability].”
+Comcast, 133 S. Ct. at 1433. Failing to align their damages model to their theory of liability
+eviscerates the plaintiffs ability to “establish damages [that] are susceptible of measurement
+across the entire class for purposes of Rule 23(b)(3).” Id.
+3.
+
+Individualized Issues Regarding the Term “Fuel Surcharge” Destroy
+Predominance.
+
+The Court has held that the “plain meaning” of “fuel surcharge” is a charge “reasonably
+related to or based upon the cost or price of fuel” and a charge “to defray rising fuel costs.”
+(MTD Order at 9.) As such, the EC Contract is unambiguous and confers on BA the power to
+set a fuel surcharge in its discretion. (Ex. 1, Crane Rep. ¶ 10.) To the extent, however, that the
+plaintiffs are now advocating that the Court should ignore this prior ruling and consider other
+interpretations, those raise additional individualized inquiries, which defeat predominance.
+Through their ever changing interpretations of the phrase “fuel surcharge,” the plaintiffs
+try to inject ambiguity into the EC Contract. If ambiguity exists (which it does not), the Court
+will look to the “factual matrix” to determine the intended meaning of the contractual language.
+(Id. ¶¶ 42-44, 46-48; Ex. 22, May Sutcliffe Rep. ¶ 33.) That in turn creates individualized
+inquiries because the factual matrix is set at the time each individual putative class member
+joined the Executive Club and would necessarily be different for each of them. (Ex. 22, May
+Sutcliffe Rep., ¶ 33; Ex. 1, Crane Rep., ¶ 10(xi).) For example, “the fluctuating price of
+worldwide oil” language was not on BA’s website until 32 months into the putative six-year
+class period and after more than 74% of the class became a member of the Executive Club. (Ex.
+7, Mar. 20, 2015 BA’s R&O to Pls.’ Second RFA, No. 4 at 6; Shade Decl. ¶ 7.)
+
+Indeed, Mr.
+
+Dover joined the Executive Club in 1996, well before that BA.com statement. (Ex. 10, May 15,
+2015 Dover Second Am. R&O to BA’s RFA, No. 2 at 5; Dover 104:7-108:9.)
+
+23
+
+Case 1:12-cv-05567-RJD-MDG Document 208 Filed 12/02/15 Page 30 of 36 PageID #: 11649
+
+The need to consider extrinsic evidence to resolve ambiguity weighs against class
+certification.
+
+See Avritt v. Reliastar Life Ins. Co., 615 F.3d 1023, 1030 (8th Cir. 2010)
+
+(certification denied where disputed language was ambiguous and extrinsic evidence was
+necessary); Adams v. Kansas City Life Ins. Co., 192 F.R.D. 274, 281, 282 (W.D. Mo. 2000)
+(Rule 23(b)(3) not satisfied where contract claim was premised on language that likely
+“contain[ed] some degree of ambiguity.”).
+4.
+
+Unique Defenses Preclude Predominance.
+
+“[I]t is . . . well established that courts must consider potential defenses in assessing the
+predominance requirement.”
+
+Myers, 624 F.3d at 551.
+
+The Second Circuit has expressly
+
+recognized that, “[w]hile [the defendant] ultimately bear[s] the burden of proving the merits of [a
+defense], plaintiffs must at this stage show that more ‘substantial’ aspects of this litigation will
+be susceptible to generalized proof for all class members than any individualized issues.” Myers,
+624 F.3d at 551 (citation omitted). Thus, the plaintiffs’ claim that BA must establish at this stage
+that its defenses are “meritorious” (Pl. Br. 17) is wrong; even the case on which the plaintiffs
+rely did not impose a “meritorious” requirement. See Vincent v. Money Store, 304 F.R.D. 446,
+455-56 (S.D.N.Y. 2015). Instead, the Court found that the defendant had not made a “plausible
+showing” that the defenses would apply. Id.
+Here, three unique defenses – the voluntary payment doctrine, the statute of limitations,
+and waiver – operate to bar certain of the putative class members’ claims and require
+individualized inquiries that preclude predominance.
+a.
+
+The Voluntary Payment Doctrine
+
+“The voluntary payment doctrine precludes a plaintiff from recovering payments ‘made
+with full knowledge of the facts’ and with a lack of diligence in determining his contractual
+rights and obligations.” Spagnola, 574 F.3d at 72 (quoting Dillon v. U-A Columbia Cablevision
+24
+
+Case 1:12-cv-05567-RJD-MDG Document 208 Filed 12/02/15 Page 31 of 36 PageID #: 11650
+
+of Westchester, Inc., 292 A.D.2d 25, 27 (2d Dep’t 2002)); Vaccariello, 295 F.R.D. at 68 (class
+not be certified); Gustafson v. BAC Home Loans Servicing, LP, 294 F.R.D. 529, 549 (C.D. Cal.
+2013) (predominance not met).
+The doctrine is a state-specific defense that applies by operation of the CoC, which is the
+contract each Member entered into when buying a reward ticket and paying the fuel surcharge.
+Unlike the EC Contract, the CoC does not contain a choice-of-law provision, and although the
+plaintiffs have argued that English law would apply to the CoC, their English law expert has
+opined that the choice of law provision “would not affect the governing law of the [CoC].”
+(Compare Pls.’ Opp. to BA’s MTD (Dkt. No. 27) at 7, with Ex. 22, May Sutcliffe Rep. ¶ 13 n.6.)
+A federal court sitting in diversity applies the choice-of-law rules of the state in which it
+sits. Biglio v. Coca-Cola Co., 675 F.3d 163, 169 (2d Cir. 2012). Under New York’s choice-oflaw rules, “[t]he first step in any case presenting a potential choice of law issue is to determine
+whether there is an actual conflict between the laws of the jurisdictions involved.” Licci v.
+Lebanese Canadian Bank, SAL, 672 F.3d 155, 157 (2d Cir. 2012). A conflict exists here because
+neither English law expert has opined that the voluntary payment doctrine is available under
+English law. Conversely, New York and the states where the plaintiffs purchased their reward
+travel recognize the doctrine. See Parino v. BidRack, Inc., 838 F. Supp. 2d 900, 908-09 (N.D.
+Cal. 2011); Shaw v. Marriott Int’l, Inc., 474 F. Supp. 2d 141, 150-51 (D.D.C. 2007); Hawkinson
+v. Conniff, 53 Wash. 2d 454, 460 (1959); Spagnola, 574 F.3d at 72.
+In determining which law applies – and, thus, what defenses are available – New York
+courts apply the “center of gravity” or “grouping of contacts” approach. Lazard Freres & Co. v.
+Protective Life Ins. Co., 108 F.3d 1531, 1539 (2d Cir. 1997). Under this approach, the places of
+contracting and performance “are given the heaviest weight in this analysis.” Id. Given that
+
+25
+
+Case 1:12-cv-05567-RJD-MDG Document 208 Filed 12/02/15 Page 32 of 36 PageID #: 11651
+
+each named plaintiff purchased reward travel in his or her home state, agreed to the CoC, and
+partially performed in his or her home state by taking a flight from that location, the laws of the
+states of the named plaintiffs’ residences have the strongest connection to the CoC.
+The voluntary payment doctrine requires an analysis of the putative class members’
+payment history and the circumstances under which each learned of the fuel surcharge and paid
+it with or without protest. Illustrating the individualized analysis are the circumstances under
+which the named plaintiffs purchased their travel. For example, Mr. Dover is a seasoned traveler
+who paid the fuel surcharge repeatedly with full knowledge and without objection. (Dover
+115:11-123:9, 127:145:23; 166:15-168:6, 172:10-23.) After purchasing the travel at issue, he
+later booked another seat for his daughter on the same flight. (Id. 215:21-216:16-18; AC ¶ 19.)
+Mr. Horsey paid a fuel surcharge on at least three separate occasions, including after he had
+contacted LC about joining this suit. (Horsey 56:3-23, 111:3-10, 148:2-12, 150:4-7.)
+Finally, the plaintiffs cannot argue that the voluntary payment doctrine is applicable to all
+putative class members because such a justification “is simply too weak to overcome the clearly
+numerous individual issues that are likely to become the focus of this litigation.” Spagnola, 264
+F.R.D. at 99 n.25.9 Here, there is significant disparity among the number of times putative class
+members repeatedly paid the fuel surcharge. Over 55 percent only paid one fuel surcharge in the
+putative class period, 20.67 percent paid two, 16.21 percent paid three to five, 4.91 percent paid
+six to ten, 1.71 percent paid ten to twenty, 0.47 percent paid 21 to 40, and 0.11 paid more than
+40. (Ex. 35, SHERMAN-00002741.) These statistics belie any claim that the voluntary payment
+doctrine applies to all putative class members in the same way.
+9
+
+Where the voluntary payment doctrine has not precluded a predominance finding, the courts addressed
+whether the doctrine applied to the putative class as a whole, not whether the doctrine barred individual putative
+class members’ claims. In re Cablevision Consumer Litig., 2014 WL 1330546, at *11 (E.D.N.Y. Mar. 31, 2014)
+(defendant “contracted around the voluntary payment doctrine”); Dupler v. Costco Wholesale Corp., 249 F.R.D. 29,
+39 (E.D.N.Y. 2008) (named plaintiff made factual denials).
+
+26
+
+Case 1:12-cv-05567-RJD-MDG Document 208 Filed 12/02/15 Page 33 of 36 PageID #: 11652
+
+b.
+
+Statute of Limitations
+
+The statute of limitations operates to bar certain putative class members’ claims and thus
+undermines predominance. O’Gara, 282 F.R.D. at 91. Here, the EC Contract states that the
+“limitations and exclusions of liability referred to in the [CoC] will . . . apply in relation to travel
+on the services of British Airways including Reward travel.” (See Ex. 8, EC Contract § 13.1; Ex.
+22, May Sutcliffe Rep. ¶ 15 (EC Contract is subject to CoC).) According to the CoC, “[a]ctions
+for damages must be brought within two years.” (Ex. 9, CoC Article 17.)
+Despite the two year limitations period, the plaintiffs’ proposed class attempts to reach
+back to November 9, 2006, which is more than two years before the Complaint was filed. (Pl.
+Br. 4.)
+
+Under English law, the enforceability of the limitation provision depends on a
+
+“reasonableness” inquiry that involves “consideration of the particular circumstances in which
+individual contracts were concluded.” (Ex. 1, Crane Rep. ¶ 60.) Accordingly, individualized
+inquiries are necessary to determine whether certain claims are barred by the applicable statute of
+limitations. (Ex. 1, Crane Rep., ¶¶ 81-82, Ex. 23, July Sutcliffe Rep. ¶¶ 49-50).
+c.
+
+Waiver
+
+Certain putative class members, including potentially Mr. Dover, have released their
+claims against BA pursuant to a settlement entered in a previous class action lawsuit filed against
+BA in California. (Ex. 36, Settlement Agreement Between Plaintiffs and British Airways PLC,
+In re Int’l Air Trans. Surcharge Antitrust Litig., Case No. 06-md-01793-CRB (N.D. Cal. Feb. 15,
+2008) (“Settlement Agreement”); Dover 68:20-96:15, 221:14-23; Ex. 37; Ex. 38; Ex. 39; Ex.
+40). In the Settlement Agreement, class members who purchased a ticket on BA from August
+11, 2004 through March 23, 2006, “forever released, relinquished, and discharged”
+any and all claims, demands, actions, suits, and causes of action, whether class,
+individual, or otherwise in nature, that the Releasing Parties, or any one of them,
+ever had, now has, or hereafter can, shall or may have, directly, representatively,
+27
+
+Case 1:12-cv-05567-RJD-MDG Document 208 Filed 12/02/15 Page 34 of 36 PageID #: 11653
+
+derivatively, or in any other capacity, against [BA], on account of, arising from,
+or in any way related to, the pricing of passenger air transportation by British
+Airways . . . including, without limitation, with respect to fuel surcharges . . . .
+Id. ¶¶ 2.1(a), 8.1. The release covers all claims through November 1, 2008. Id. ¶¶ 8.1, 1.16.
+Determining whether putative class members released their claims against BA requires an
+individualized inquiry into the circumstances surrounding the putative class members’ notice of
+and participation in the settlement.
+
+Spann v. AOL Time Warner, Inc., 219 F.R.D. 307, 323
+
+(S.D.N.Y. 2003). Mr. Dover, for example, filled out a claim form in connection with the
+settlement in which he attested that he was a member of the class, and that he agreed to “fully,
+finally, and forever release, relinquish, and discharge” BA. (Ex. 38). A case-by-case factual
+inquiry will be necessary to determine whether he, and 66,942 other absent class members,
+released their claims, destroying predominance. (Ex. 4, Sherman Rep. ¶ 98 & Chart 11.)
+B.
+
+A Class Action Is Not Superior to Other Methods of Adjudication.
+
+The superiority analysis “encompasses the whole range of practical problems that may
+render the class action format inappropriate for a particular suit.” Eisen v. Carlisle & Jacquelin,
+417 U.S. 156, 164 (1974). Courts should consider, among other things, “the difficulties likely to
+be encountered in the management of a class action.” Calabrese v. CSC Holdings, Inc., 2009
+WL 425879, at *27-28 (E.D.N.Y. Feb. 19, 2009).
+
+Indeed, “[t]he greater the number of
+
+individual issues, the less likely superiority can be established.” Cohn v. Mass Mut. Life. Co.,
+189 F.R.D. 209, 219 (D. Conn. 1999). It has long been recognized that “the need for mini trials
+on the resolution of each class member’s claims and the applicability of affirmative defenses
+detracts from the superiority of the class action device.” Spagnola, 264 F.R.D. at 50; Dunnigan
+v. Metro. Life Ins. Co., 214 F.R.D. 125, 142 (S.D.N.Y. 2003) (need for mini-trials defeats
+superiority). “Because liability for a significant bloc of the class members and damages for the
+entire class must be decided on an individual basis, . . . a class action is not a superior method of
+28
+
+Case 1:12-cv-05567-RJD-MDG Document 208 Filed 12/02/15 Page 35 of 36 PageID #: 11654
+
+litigating the case.” Johnson, 780 F.3d at 148. Given the multitude of individualized inquiries
+relating to liability, the class action device here is not superior.
+IV.
+
+THE PROPOSED CLASS IS NOT ASCERTAINABLE.
+Denial of class certification is warranted for the independent reason that the class is not
+
+ascertainable. “The touchstone of ascertainability is whether the class is ‘sufficiently definite so
+that it is administratively feasible for the court to determine whether a particular individual is a
+member.’” Brecher, 2015 WL 5438797, at *2.
+In Brecher, the Court rejected the proposed class defined solely by objective criteria, i.e.,
+those holding Argentinian bonds. The Court ruled that the class was not ascertainable because
+the trading on the secondary market made it impossible to determine which bonds had opted in
+or out of earlier settlements or which had suffered any harm. As the Court opined, defining a
+class to include “‘those wearing blue shirts,’ while objective, could hardly be called sufficiently
+definite and readily ascertainable.” Id. at *2. Class membership must be readily identifiable
+such that a court can determine who is in the class without resort to a “mini-hearing on the merits
+of each case.” Id.; see also Bakalar v. Vavra, 237 F.R.D. 59, 65-66 (S.D.N.Y. 2006).
+Here, the putative class may only be determined through a burdensome mix of mini-trials
+on both the merits and on damages. The plaintiffs’ proposed class definition in their brief has
+morphed from that in the AC (which was limited to U.S. residents), to purportedly include:
+“All” Members “who redeemed frequent flier miles for an award ticket from November 9, 2006
+through April 17, 2013 and who paid a BA-imposed ‘fuel surcharge,’ so long as that member
+provided British Airways with a valid United States address at the time of booking.” (Pl. Br. 4.)
+The proposed definition fails in four ways. First, it is impossible to ascertain the size,
+scope and geographic reach of this class. How will one establish that a Member provided BA a
+“valid United States” address? Is this a home address, business address or a holiday address?
+29
+
+Case 1:12-cv-05567-RJD-MDG Document 208 Filed 12/02/15 Page 36 of 36 PageID #: 11655
+
+Second, surely the plaintiffs do not intend to suggest that the class includes foreign
+citizens. If they did, then presumably they would have attempted to meet their burden to
+demonstrate that the existing law of the countries in which those individuals reside would
+enforce the judgment of a U.S. court. In re IPO, 471 F.3d at 41. Here, were the class to extend
+past U.S. citizens, the proposed class would include individuals from 174 different countries,
+ranging from Eritrea to Uzbekistan. (Ex. 4, Sherman Rep. Ex. 6.) In such an event, the Court
+would be obligated to conduct an investigation of the laws of each of those countries, which
+would destroy the superiority of the class action mechanism. In re Vivendi Univ., S.A. Sec.
+Litig., 2009 WL 855799, at *3 (S.D.N.Y. Mar. 31, 2009); St. Stephen's School v.
+PricewaterhouseCoopers Accountants N.V., 570 F. Appx. 37, 39 (2d Cir. 2014).
+Third, the plaintiffs’ damages cannot be established without resort to individual inquiries
+to determine whether class members paid a fuel surcharge that was greater than BA’s fuel costs.
+See, e.g., Alix v. Wal-Mart Stores, Inc., 16 Misc. 3d 844, 848, 850 (N.Y. Sup. Ct. Albany County
+2007) (class not ascertainable), aff’d, 57 A.D.3d 1044 (3rd Dep’t 2008); Van West v. Midland
+Nat. Life. Ins. Co., 199 F.R.D. 448 (D.R.I. 2001).
+Finally, individual inquiries are necessary to determine which Members’ claims are
+barred by the voluntary payment doctrine, statute of limitations, or waiver and estoppel. Jim Ball
+Pontiac-Buick-GMC, 2011 WL 815209, at *4.
+CONCLUSION
+For all these reasons, BA respectfully requests that the Court deny class certification.
+s/s Keara M. Gordon
+Richard F. Hans
+Keara M. Gordon
+Colleen M. Carey
+Attorneys for Defendant
+British Airways PLC
+30
+
+

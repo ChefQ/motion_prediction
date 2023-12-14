@@ -1,0 +1,877 @@
+Case 2:12-cv-02767-JPM-tmp Document 46 Filed 03/01/13 Page 1 of 25
+
+PageID 483
+
+UNITED STATES DISTRICT COURT
+WESTERN DISTRICT OF TENNESSEE
+WESTERN DIVISION
+B.E. TECHNOLOGY, L.L.C.,
+Plaintiff,
+v.
+AMAZON DIGITAL SERVICES, INC.,
+Defendant.
+
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+
+Case No. 2:12-cv-02767 JPM tmp
+JURY DEMAND
+REQUEST HEARING ON MOTION
+
+PLAINTIFF’S MEMORANDUM IN OPPOSITION TO DEFENDANT’S MOTION TO
+TRANSFER VENUE PURSUANT TO 28 U.S.C. § 1404(a)
+Dated: March 1, 2013
+
+Richard M. Carter (TN B.P.R. #7285)
+Adam C. Simpson (TN B.P.R. #24705)
+MARTIN, TATE, MORROW & MARSTON, P.C.
+6410 Poplar Avenue, Suite 1000
+Memphis, TN 38119-4839
+Telephone: (901) 522-9000
+Robert E. Freitas (CA Bar No. 80948)
+Craig R. Kaufman (CA Bar No. 159458)
+Daniel J. Weinberg (CA Bar No. 227159)
+James Lin (CA Bar No. 241472)
+Qudus B. Olaniran (CA Bar No. 267838)
+FREITAS TSENG & KAUFMAN LLP
+100 Marine Parkway, Suite 200
+Redwood Shores, CA 94065
+Telephone: (650) 593-6300
+Attorneys for Plaintiff
+B.E. Technology, L.L.C.
+
+Case 2:12-cv-02767-JPM-tmp Document 46 Filed 03/01/13 Page 2 of 25
+
+PageID 484
+
+TABLE OF CONTENTS
+Page
+I.
+
+INTRODUCTION ............................................................................................................. 1
+
+II.
+
+STATEMENT OF FACTS ................................................................................................ 2
+A.
+
+B.E. Technology, L.L.C ......................................................................................... 2
+
+B.
+
+B.E. v. Amazon ...................................................................................................... 3
+
+III.
+
+THE LAW GOVERNING MOTIONS TO TRANSFER .................................................. 3
+
+IV.
+
+TRANSFER IS NOT APPROPRIATE ............................................................................. 4
+A.
+
+B.E.’s Choice of Forum is Entitled to Substantial Weight .................................... 5
+
+B.
+
+Private Factors Favor B.E.’s Choice of Forum ...................................................... 8
+
+C.
+
+1.
+
+Convenience of the Parties Weighs Against Transfer ............................... 9
+
+2.
+
+Convenience of the Witnesses Weighs Against Transfer .......................... 9
+a.
+
+Party Witnesses ............................................................................ 10
+
+b.
+
+Non-Party Witnesses .................................................................... 12
+
+3.
+
+Location of Sources of Proof ................................................................... 14
+
+4.
+
+Amazon Would Not Be Materially Burdened Bearing The Expense
+of Litigating in the Western District of Tennessee .................................. 16
+
+Public Factors Favor B.E.’s Choice of Forum ..................................................... 16
+1.
+
+Transfer to the Northern District of California Would Delay Trial ......... 16
+
+2.
+
+The Western District of Tennessee Has a Substantial Local Interest
+in the Vindication of B.E.’s Patent Rights ............................................... 17
+
+V.
+
+REQUEST FOR ORAL ARGUMENT ........................................................................... 18
+
+VI.
+
+CONCLUSION ................................................................................................................ 19
+
+-i-
+
+Case 2:12-cv-02767-JPM-tmp Document 46 Filed 03/01/13 Page 3 of 25
+
+PageID 485
+
+TABLE OF AUTHORITIES
+
+Page(s)
+Federal Cases
+Adoma v. Univ. of Phoenix, Inc.,
+711 F. Supp. 2d 1142 (E.D. Cal. 2010)....................................................................................10
+American S.S. Owners Mut. Prot. & Indem. Ass’n, Inc. v. Lafarge North Am., Inc.,
+474 F. Supp. 2d 474 (S.D.N.Y. 2002)......................................................................................15
+Board of Trs. v. Baylor Heading & Air Conditioning, Inc.,
+702 F. Supp. 1253 (E.D. Va. 1988) .........................................................................................10
+Cincinnati Ins. Co. v. O’Leary Paint Co.,
+676 F. Supp. 2d 623 (W.D. Mich. 2009) .................................................................................15
+E2Interactive, Inc. v. Blackhawk Network, Inc.,
+2010 WL 3937911 (W.D. Wis. Oct. 6, 2010) ....................................................................16, 17
+Ellipsis, Inc. v. Colorworks, Inc.,
+329 F. Supp. 2d 962 (W.D. Tenn. 2004)..................................................................................16
+Esperson v. Trugreen Ltd. P’ship,
+2010 WL 4362794 (W.D. Tenn. Oct. 5, 2010) ............................................................10, 11, 16
+Hanning v. New England Mut. Life Ins. Co.,
+710 F. Supp. 213 (S.D. Ohio 1989) ...........................................................................................5
+Hunter Fan Co. v. Minka Lighting, Inc.,
+2006 WL 1627746 (W.D. Tenn. June 12, 2006) ............................................................. passim
+Imagepoint, Inc. v. Keyser Indus., Inc.,
+2005 WL 1242067 (E.D. Tenn. May 25, 2005) .........................................................................5
+Innogenetics, N.V. v. Abbott Labs,
+512 F.3d 1363 (Fed. Cir. 2008)..........................................................................................12, 13
+Kerobo v. Southwestern Clean Fuels Corp.,
+285 F.3d 531 (6th Cir. 2002) .....................................................................................................3
+Koh v. Microtek Int’l, Inc.,
+250 F. Supp. 2d 627 (E.D. Va. 2003) ......................................................................................10
+In re Link_A_Media Devices Corp.,
+662 F.3d 1221 (Fed. Cir. 2011)................................................................................................15
+Lucent Techs., Inc. v. Aspect Telecomms. Corp.,
+1997 WL 476356 (E.D. Pa. Aug. 20, 1997) ..............................................................................9
+
+ii
+
+Case 2:12-cv-02767-JPM-tmp Document 46 Filed 03/01/13 Page 4 of 25
+
+PageID 486
+
+TABLE OF AUTHORITIES
+(Cont.)
+Page(s)
+Federal Cases
+Max Rack, Inc. v. Hoist Fitness Sys., Inc.,
+2006 WL 640497 (S.D. Ohio March 10, 2006) .......................................................................14
+MCNIC Oil & Gas Co. v. IBEX Resources Co., L.L.C.,
+23 F. Supp. 2d 729 (E.D. Mich. 1998) .......................................................................................4
+In re Microsoft Corp.,
+630 F.3d 1361 (Fed. Cir. 2011)..................................................................................................7
+Moses v. Business Card Express, Inc.,
+929 F.2d 1131 (6th Cir. 1991) ...................................................................................................4
+Nationwide Mut. Life Ins. v. Koresko,
+2007 WL 2713783 (S.D. Ohio Sept. 14, 2007) ...................................................................3, 15
+Parsons v. Chesapeake & Ohio Ry. Co.,
+375 U.S. 71 (1963) ...................................................................................................................16
+Returns Distribution Spec., LLC v. Playtex Prods., Inc.,
+2003 WL 21244142 (W.D. Tenn. May 28, 2003) .....................................................................4
+Roberts Metals, Inc. v. Florida Props. Mktg. Grp., Inc.,
+138 F.R.D. 89, 93 (N.D. Ohio 1991) .................................................................................10, 11
+Samsung Elecs. Co. v. Rambus, Inc.,
+386 F. Supp. 2d 708 (E.D. Va. 2005) ......................................................................................10
+Siteworks Solutions, LLC v. Oracle Corp.,
+2008 WL 4415075 (W.D. Tenn. Sept. 22, 2008) .....................................................................16
+Stewart Organization, Inc. v. Ricoh Corp.,
+487 U.S. 22 (1988) .....................................................................................................................4
+Tuna Processors, Inc. v. Hawaii Int’l Seafood,
+408 F. Supp. 2d 358 (E.D. Mich. 2005).....................................................................................4
+Van Dusen v. Barrack,
+376 U.S. 612 (1964) ...................................................................................................................4
+Virton Int’l Corp. v. David Boland, Inc.,
+237 F. Supp. 2d 812 (W.D. Mich. 2002) .................................................................................11
+
+- iii -
+
+Case 2:12-cv-02767-JPM-tmp Document 46 Filed 03/01/13 Page 5 of 25
+
+PageID 487
+
+TABLE OF AUTHORITIES
+(Cont.)
+Page(s)
+Federal Statutes
+28 U.S.C. § 1404 ......................................................................................................................1, 2, 3
+28 U.S.C. § 1404(a) ...................................................................................................................3, 19
+Rules
+Fed. R. Civ. P. 45(b)(2)..................................................................................................................13
+
+- iv -
+
+Case 2:12-cv-02767-JPM-tmp Document 46 Filed 03/01/13 Page 6 of 25
+
+I.
+
+PageID 488
+
+INTRODUCTION.
+This case arises from the infringement by defendant Amazon Digital Services, Inc.
+
+(“Amazon”) of United States Patents 6,141,010 and 6,771,290. Plaintiff B.E. Technology,
+L.L.C. (“B.E.”) has brought this action because Amazon has infringed B.E.’s patents in this
+District and across the United States. The inventor, Martin David Hoyle, is also the Chief
+Executive Officer of B.E. Mr. Hoyle has lived in the Western District of Tennessee since 2006
+and currently resides at 116 W. Viking Drive, Cordova, Tennessee, part of the City of Memphis.
+Mr. Hoyle has directed B.E.’s business from this District since at least 2008.
+Ignoring these facts, Amazon asks this Court to transfer the case from the Western
+District of Tennessee to the Northern District of California. Amazon states that “B.E. is
+orchestrating the facts to create the appearance that venue is appropriate in this district,” D.E. 431 at 15, because a December 2011 patent application that identifies New Orleans as Mr. Hoyle’s
+residence “suggests” Mr. Hoyle “is still based there,” and he and/or B.E. are not “genuine”
+residents of this District. Id. at 11, 15. But the Western District of Tennessee is, and has long
+been, the physical location and home of B.E. and its Chief Executive Officer. Amazon cannot
+disprove that. And while Amazon may point to one patent application that lists New Orleans as
+Mr. Hoyle’s residence, Amazon makes no mention of three other B.E. patent applications that
+identify Mr. Hoyle’s residence as Eads, Tennessee (where he lived before his move to Cordova).
+In addition to trivializing Mr. Hoyle’s and B.E.’s longstanding connection to this District,
+Amazon argues that transfer to the Northern District of California would be more convenient
+because, despite being headquartered in Seattle, the Amazon facilities relevant to this case are
+located in Cupertino, California. Transfer to California might in some ways be more convenient
+for Amazon, but it would be less convenient for B.E. Transfer under 28 U.S.C. § 1404 requires a
+“more convenient forum,” not merely a “forum likely to prove equally convenient or
+1
+
+Case 2:12-cv-02767-JPM-tmp Document 46 Filed 03/01/13 Page 7 of 25
+
+PageID 489
+
+inconvenient,” or “a forum the defendant finds more to its liking.” Because Amazon can offer
+no more, its motion to transfer should be denied.
+II.
+
+STATEMENT OF FACTS.
+A.
+
+B.E. Technology, L.L.C.
+
+B.E. is a Delaware limited liability company. Declaration of Martin David Hoyle
+(“Hoyle Decl.”) ¶ 5. Martin David Hoyle, who goes by David, founded B.E. in 1997 to develop
+Internet-related technologies. Id. B.E. is the assignee of United States Patents 6,141,010 (the
+“’010 patent”) and 6,771,290 (the “’290 patent”) (together, the “patents-in-suit”). Id. ¶ 7. Mr.
+Hoyle has been B.E.’s Chief Executive Officer since 2008. Id. ¶ 6. He previously held other
+positions with B.E., including serving as its President from 1997 to 2001. Id. Mr. Hoyle is the
+named inventor of the patents-in-suit.1 Id. ¶ 7.
+In April 2006, Mr. Hoyle and his family moved from Mandeville, Louisiana to Eads,
+Tennessee. Id. ¶ 2. They left Louisiana in the aftermath of Hurricane Katrina. Id. Mr. Hoyle
+has remained in the Memphis area, and in this judicial district, ever since. See id. ¶¶ 2-4. In
+2012, after contemplating a return to Louisiana, Mr. Hoyle and his wife moved to Cordova, in
+the city of Memphis and also in this District. Id. ¶ 4.
+B.E. originally maintained its registered office in Michigan where some of its members
+and its accountant reside, id. ¶ 5, but it formally registered to conduct business in Tennessee in
+2012. Id. ¶ 8. Mr. Hoyle runs the business of B.E. from his home office, including meeting with
+the B.E. Board of Directors, filing patent applications, and coordinating the enforcement of
+B.E.’s intellectual property rights. Id. ¶ 6.
+
+1
+
+In addition to his work for B.E., Mr. Hoyle is an independent technology consultant. Hoyle
+Decl. ¶ 9.
+-2-
+
+Case 2:12-cv-02767-JPM-tmp Document 46 Filed 03/01/13 Page 8 of 25
+
+PageID 490
+
+B.E. also is the assignee of patent applications filed in January and March 2010 and May
+2011. Declaration of Qudus B. Olaniran (“Olaniran Decl.”), Exs. A-C. Each application
+identifies Mr. Hoyle as the inventor and identifies his residence as Eads, Tennessee. Id.
+B.
+
+B.E. v. Amazon.
+
+B.E. filed its original Complaint in this matter on September 7, 2012, and filed an
+Amended Complaint on September 20, 2012. D.E. 1 & 9. This is one of nineteen cases B.E. has
+filed in the Western District of Tennessee for the infringement of the patents-in-suit and a related
+patent not asserted against Amazon. The defendants in these cases include several of the world’s
+most sophisticated technology companies, each of which regularly conducts business on a
+massive scale in this District. Unlike the other 18 B.E. defendants that have answered B.E.’s
+complaints, Amazon contends the Amended Complaint fails to state a claim upon which relief
+can be granted because the patents-in-suit are invalid. D.E. 32-1, 43-1 at 2.
+III.
+
+THE LAW GOVERNING MOTIONS TO TRANSFER.
+“For the convenience of parties and witnesses, in the interest of justice, a district court
+
+may transfer any civil action to any other district or division where it might have been brought.”
+28 U.S.C. § 1404(a). A decision to transfer venue is made “on an individual basis by
+considering convenience and fairness.” Kerobo v. Southwestern Clean Fuels Corp., 285 F.3d
+531, 537 (6th Cir. 2002) (internal quotes omitted). The “balance of convenience must weigh
+heavily in favor of the transfer.” Nationwide Mut. Life Ins. v. Koresko, 2007 WL 2713783, at *5
+(S.D. Ohio Sept. 14, 2007).
+“As a general rule, there is a ‘strong presumption’ in favor of the plaintiff’s selection of
+forum, and the plaintiff’s choice should not be altered ‘unless the defendant carries his burden of
+demonstrating that the balance of convenience strongly favors transfer.’” Hunter Fan Co. v.
+Minka Lighting, Inc., 2006 WL 1627746, at * 2 (W.D. Tenn. June 12, 2006) (McCalla, J.)
+-3-
+
+Case 2:12-cv-02767-JPM-tmp Document 46 Filed 03/01/13 Page 9 of 25
+
+PageID 491
+
+(quoting Plough, Inc. v. Allergan, Inc., 741 F. Supp. 144, 148 (W.D. Tenn. 1990)) (denying a
+motion to transfer even though the majority of defendant’s witnesses and documents were
+located in California and California was the epicenter of the accused infringing activity). “When
+a plaintiff has selected its home forum, this choice is given particular weight.” Id. (citing Tuna
+Processors, Inc. v. Hawaii Int’l Seafood, 408 F. Supp. 2d 358, 360 (E.D. Mich. 2005)).
+The threshold question on any motion to transfer is whether the plaintiff could have filed
+the action in the transferee forum. See Returns Distribution Spec., LLC v. Playtex Prods., Inc.,
+2003 WL 21244142, at *6 (W.D. Tenn. May 28, 2003); MCNIC Oil & Gas Co. v. IBEX
+Resources Co., L.L.C., 23 F. Supp. 2d 729, 739 (E.D. Mich. 1998) (same). If so, then the
+“district court should consider the private interests of the parties, including their convenience and
+the convenience of potential witnesses, as well as other public-interest concerns, such as
+systemic integrity and fairness, which come under the rubric of ‘interests of justice.’” Moses v.
+Business Card Express, Inc., 929 F.2d 1131, 1137 (6th Cir. 1991) (quoting Stewart
+Organization, Inc. v. Ricoh Corp., 487 U.S. 22, 30 (1988)).
+IV.
+
+TRANSFER IS NOT APPROPRIATE.
+B.E. agrees that its patent infringement claims could have been brought in the Northern
+
+District of California because Amazon infringes there, just as it does in this District. The
+relevant question presented by Amazon’s motion is therefore whether Amazon has met its high
+burden to establish that the Northern District of California is “a more convenient forum,” not
+merely an “equally convenient or inconvenient” forum when compared to the Western District of
+Tennessee. Van Dusen v. Barrack, 376 U.S. 612, 645-46 (1964). Amazon has not made that
+showing.
+
+-4-
+
+Case 2:12-cv-02767-JPM-tmp Document 46 Filed 03/01/13 Page 10 of 25
+
+A.
+
+PageID 492
+
+B.E.’s Choice of Forum is Entitled to Substantial Weight.
+
+As mentioned above, it is well-settled that a plaintiff’s choice of forum is entitled to
+substantial weight. Hunter Fan Co., 2006 WL 1627746, at *2; see also Imagepoint, Inc. v.
+Keyser Indus., Inc., 2005 WL 1242067, at *3 (E.D. Tenn. May 25, 2005) (explaining the
+plaintiff’s “choice of forum will be given deference”); Hanning v. New England Mut. Life Ins.
+Co., 710 F. Supp. 213, 214-15 (S.D. Ohio 1989) (“considerable weight”). The Western District
+of Tennessee is B.E.’s principal place of business and its Chief Executive Officer, who is the
+named inventor, lives here. B.E.’s choice of forum should be accorded substantial weight.
+Amazon argues that B.E.’s choice of venue should be “subject to much closer scrutiny”
+because its “presence in [the] venue appears to be recent, ephemeral, and an artifact of
+litigation.” D.E. 43-1 at 7 (internal quotations and citations omitted). B.E.’s presence in the
+Western District of Tennessee is none of those but B.E. welcomes close scrutiny of the facts
+establishing its connection to this District and Amazon’s distortions of those facts to further its
+forum shopping narrative.
+Mr. Hoyle lives in the Western District of Tennessee and operates B.E. from his home
+office in Cordova. See Hoyle Decl. ¶¶ 2-6. Mr. Hoyle moved to this District six years before
+the filing of this or any other action. Id. ¶ 2. He has been physically present in this District since
+2006. Id. ¶¶ 2-4. Amazon contends that Mr. Hoyle’s “recent patent filings suggest he is still
+based” in Louisiana. D.E. 43-1 at 11 (relying on a December 2011 patent application that lists
+his residence as New Orleans). Amazon’s incorrect conclusion ignores Mr. Hoyle’s personal
+situation and the circumstances that led him briefly to seek to establish residence in New Orleans
+around the time the December 2011 patent application was filed. See Hoyle Decl. ¶ 4
+(explaining that “[o]ver time, [he] considered a return to Louisiana” and “[d]uring part of the
+time [he] was living in Eads, [he] planned to return to Louisiana and took steps to establish
+-5-
+
+Case 2:12-cv-02767-JPM-tmp Document 46 Filed 03/01/13 Page 11 of 25
+
+PageID 493
+
+residence there while [his] non-B.E. work required [his] presence in the Memphis area”).
+Amazon presents no information that demonstrates Mr. Hoyle’s statements in this Court are
+inconsistent with the representation made to the Patent Office about his residency and it
+identifies no other patent “filings” that “suggest” he lives in New Orleans. To the contrary, Mr.
+Hoyle regularly represented to the Patent Office in other patent applications that his residence
+was Eads, consistent with the fact that he lived there. Olaniran Decl. Exs. A-C (2010 and 2011
+patent applications). And while Mr. Hoyle personally considered his residence to be New
+Orleans around the time the December 2011 patent application was filed (even though he was
+present in Eads), he obviously considered his residence to be within this District before that time
+(as evidenced by the other patent filings) and after when, in February 2012, he and his wife
+elected to remain in Tennessee and purchased their home in Cordova. Hoyle Decl. ¶ 4.
+Amazon’s distortion that Mr. Hoyle resided in New Orleans “at least as late as June of 2012” is
+inexcusable. The patent application that is the basis for Amazon’s New Orleans conjecture was
+published in June 2012. There is no argument or evidence that the date of publication
+corresponds to any representations by Mr. Hoyle about his residence or physical location. In
+fact, Mr. Hoyle had no duty to update his address with the Patent Office after the December 2011
+filing because he gave a Power of Attorney to the prosecuting attorney whose mailing address
+was used for all correspondence. See Olaniran Decl. Ex. D. Mr. Hoyle is a resident of this
+District and his presence and residence here have nothing at all do with a desire to manufacture
+venue.
+
+-6-
+
+Case 2:12-cv-02767-JPM-tmp Document 46 Filed 03/01/13 Page 12 of 25
+
+PageID 494
+
+B.E. has been in this District since at least 20082 when Mr. Hoyle became Chief
+Executive Officer and took control of the company. Hoyle Decl. ¶¶ 2-7. He operates B.E. from
+his home office in Cordova. Id. ¶ 6. He conducts meetings with the board of directors,
+participates in the prosecution of patents assigned to B.E., and coordinates the enforcement of
+B.E.’s intellectual property. Id. Amazon cannot dispute this, and simply ignores it, but
+nonetheless contends that B.E. made a “last minute prelitigation ‘relocation’” by filing “business
+registration papers with this State.” D.E. 43-1 at 1. The filing of a business registration does not
+establish when a company began business operations in a particular state and Amazon cites no
+authority or regulation establishing that B.E. was required to register sooner than it did or that the
+existence of a business registration is relevant to demonstrating a plaintiff’s connection to a
+chosen forum. To the contrary, courts are instructed to identify the company’s “‘nerve center[,]’
+the place of actual direction, control and coordination.” In re Microsoft Corp., 630 F.3d 1361,
+1364 (Fed. Cir. 2011). Mr. Hoyle’s office is B.E.’s “nerve center.” It is and has been the place
+from which he has controlled and directed B.E. business activities since at least 2008. Hoyle
+Decl. ¶ 6. Amazon can muster no evidence to the contrary.
+More importantly, B.E. does not rely on the fact that it is registered to conduct business
+in Tennessee as a basis for establishing its connection to the District. Amazon ignores this too,
+going so far as to state that B.E’s “sole purported connection to Tennessee is its business
+registration—created the day before this lawsuit was filed.” D.E. 43-1 at 1. B.E. registered
+because it has a connection to Tennessee; it did not register to establish a connection. If the
+
+2
+
+It could be said that B.E. has been present in this District since 2006 because Mr. Hoyle comanaged the company from here from 2006 to 2008. Hoyle Decl. ¶ 6. But for purposes of this
+motion, it is unnecessary to debate whether B.E. began operating from this District in 2006 or
+2008 since either establishes a sufficient duration to overcome the contention that B.E.’s
+presence in the District is “recent, ephemeral, and an artifact of litigation.”
+-7-
+
+Case 2:12-cv-02767-JPM-tmp Document 46 Filed 03/01/13 Page 13 of 25
+
+PageID 495
+
+timing of B.E.’s registration is to be questioned, it should be understood that the registration was
+made after Mr. Hoyle chose to remain in Tennessee, rather than return to Louisiana. Hoyle Decl.
+¶ 4. When B.E. was preparing to file this action and Mr. Hoyle discovered that B.E. had not
+registered to do business in Tennessee, the registration was made. Id. ¶ 8. Regardless, B.E. does
+not contend that its contacts with the forum are established by its registration.
+Finally, B.E.’s relevant business records, including documents demonstrating the
+conception and reduction to practice of Mr. Hoyle’s inventions, are physically located in the
+Western District of Tennessee. Hoyle Decl. ¶ 7. Amazon wrongly contends that “[n]ot a single
+relevant document is known to be located in this district.” D.E. 43-1 at 1 & 8 (“Very little, if any
+[documents and information relating to this case], is located in this district.”). These statements,
+whether based on some speculative interpretation of a nearly thirteen year old B.E. business plan
+or just a desperation to flee Tennessee, have no basis in the facts. When closely scrutinized, it is
+clear B.E.’s contacts with the forum were not manufactured for litigation and as a result, its
+choice of forum is entitled to “substantial weight.”
+B.
+
+Private Factors Favor B.E.’s Choice of Forum.
+
+While B.E.’s choice of forum is entitled to substantial weight, the Court is nevertheless
+required to evaluate private and public factors in determining whether to grant Amazon’s motion.
+“The private interests of the parties that courts consider when determining whether to transfer a
+case include: the convenience of the parties, the convenience of witnesses, the location of
+sources of proof, where the operative facts occurred, the relative ability of litigants to bear
+expenses in any particular forum, and other practical problems affecting the case.” Hunter Fan,
+2006 WL 1627746, at *2.
+
+-8-
+
+Case 2:12-cv-02767-JPM-tmp Document 46 Filed 03/01/13 Page 14 of 25
+
+1.
+
+PageID 496
+
+Convenience of the Parties Weighs Against Transfer.
+
+The Western District of Tennessee is more convenient for B.E. than the Northern District
+of California. As previously explained, B.E. and its CEO, the inventor of the patents-in-suit,
+reside within the District. B.E.’s corporate documents and records are here as well. Outside of
+witness convenience, Amazon does not make an explicit argument that it will be inconvenienced
+by conducting litigation in Tennessee. It is reasonable to require companies with the wealth and
+size of Amazon to litigate in jurisdictions in which they regularly conduct business. See Lucent
+Techs., Inc. v. Aspect Telecomms. Corp., 1997 WL 476356, at *4 (E.D. Pa. Aug. 20, 1997)
+(finding it reasonable to force a public company with “$300 million a year in sales and
+approximately $216 million in current assets, to travel to places where it is subject to jurisdiction
+in order to defend its corporate interests”). Amazon’s parent company, Amazon.com, Inc. (D.E.
+21) is a large and wealthy company. It reported for the fiscal quarter ending September 30, 2012
+that it generated $13,806,000,000 in total net sales. Olaniran Decl., Ex. E. Amazon further
+reported $22,834,000,000 in total assets, including $2,980,000,000 in cash and cash equivalents.
+As of February 28, 2013, Amazon had a market capitalization of $120,120,000,000, and, to
+defend it in this action, it has retained lawyers from Memphis and Mountain View, California. It
+is doubtful that Amazon will suffer hardship or inconvenience by litigating in the Western
+District of Tennessee.
+2.
+
+Convenience of the Witnesses Weighs Against Transfer.
+
+Amazon argues that the Northern District of California would be a more convenient
+venue for its own witnesses because, “[s]imply put, it is more efficient and convenient and less
+disruptive for witnesses to testify at home . . . .” D.E. 43-1 at 9. By the same logic, transfer to
+the Northern District of California would be equally inconvenient to B.E.’s witnesses, none of
+whom is located in the Northern District of California. Moreover, Amazon offers precious little
+-9-
+
+Case 2:12-cv-02767-JPM-tmp Document 46 Filed 03/01/13 Page 15 of 25
+
+PageID 497
+
+about whom the witnesses are that will be inconvenienced by the case staying in Tennessee, what
+they will say, and why they are important to this case. “To sustain a finding on [the convenience
+of the witnesses] . . . the party asserting witness inconvenience ‘has the burden to proffer, by
+affidavit or otherwise, sufficient details respecting the witnesses and their potential trial
+testimony to enable the court to assess the materiality of evidence and the degree of
+inconvenience.’” Rinks, 2011 WL 691242, at *3 (quoting Koh v. Microtek Int’l, Inc., 250 F.
+Supp. 2d 627, 636 (E.D. Va. 2003)); Samsung Elecs. Co. v. Rambus, Inc., 386 F. Supp. 2d 708,
+718 (E.D. Va. 2005) (same). District courts typically require affidavits or declarations that
+contain admissible evidence setting forth “who the key witnesses will be and what their
+testimony will generally include.” Rinks, 2011 WL 691242, at *3 (quoting Adoma v. Univ. of
+Phoenix, Inc., 711 F. Supp. 2d 1142, 1151 (E.D. Cal. 2010)); see also Board of Trs. v. Baylor
+Heading & Air Conditioning, Inc., 702 F. Supp. 1253, 1258 (E.D. Va. 1988) (“Witness
+convenience . . . cannot be assessed in the absence of reliable information identifying the
+witnesses involved and specifically describing their testimony.”). Amazon provides none of that.
+a. Party Witnesses.
+Amazon claims that the employees with knowledge relevant to this litigation are located
+in Cupertino, California or Seattle. Declaration of Jeffrey H. Dean (“Dean Decl.”) ¶¶ 4-5. But
+Amazon offers no particularized information enabling the Court to ascertain how much weight to
+give the claim of inconvenience. Amazon fails to identify any witnesses by name, position title,
+location, the subject matter on which they will testify, or the burdens they would endure by
+traveling to Tennessee to testify. “[A] party that ‘fails to identify the witnesses’ and ‘what their
+testimony would be’ cannot establish that a particular forum is inconvenient.” Esperson v.
+Trugreen Ltd. P’ship, 2010 WL 4362794, at *8 (W.D. Tenn. Oct. 5, 2010) (quoting Roberts
+Metals, Inc. v. Florida Props. Mktg. Grp., Inc., 138 F.R.D. 89, 93 (N.D. Ohio 1991), aff’d per
+- 10 -
+
+Case 2:12-cv-02767-JPM-tmp Document 46 Filed 03/01/13 Page 16 of 25
+
+PageID 498
+
+curiam, 22 F.2d 1104 (6th Cir. 1994)). Similarly, Amazon makes a pure numbers argument,
+contending that the disruption—which it does not describe—to “the large number of employees
+from Amazon, and the other 18 defendants,” outweighs any disruption to Mr. Hoyle. D.E. 43-1
+at 10. But it is “the materiality and importance of the testimony of prospective witnesses, and
+not merely the number of witnesses, [that] is crucial to this inquiry.” Rinks, 2011 WL 691242 at
+*3 (citing Virton Int’l Corp. v. David Boland, Inc., 237 F. Supp. 2d 812, 816 (W.D. Mich.
+2002)). Instead of relying on the fact that B.E. sued 19 defendants to create an imbalance in the
+total number of overall witnesses that tips in its favor, Amazon should have provided evidence
+identifying specific witnesses and describing how their testimony is material and important and
+identifying the specific burdens they purport to face by having to travel to Memphis to testify at
+trial. Amazon has provided none of that, and thus has not met its burden to establish the
+convenience of witnesses weighs in favor of transferring this case.
+Amazon also does not provide admissible evidence of the costs expected to be incurred
+by having to travel from California to Tennessee or the difference in cost of having to travel
+from Seattle to Memphis instead of Seattle to the Bay Area. D.E. 43-1 at 9 (referring generally
+to “costly overnight stays”). Nor does Amazon assert that it will not cover any travel expenses
+of its employee witnesses or that it would suffer any financial hardship by having to endure the
+cost.
+Amazon also does not provide admissible evidence of how its operations would be
+disrupted by the case staying in Tennessee. Amazon merely argues that the “relevant Amazon
+engineers are important to Amazon’s business and their absence for significant periods of time
+would adversely affect operations.” D.E. 43-1 at 9. That’s it. Amazon fails to provide the
+names, position titles, or responsibilities of a single anticipated witness, or the adverse effect
+
+- 11 -
+
+Case 2:12-cv-02767-JPM-tmp Document 46 Filed 03/01/13 Page 17 of 25
+
+PageID 499
+
+their absence from Washington or California would have on Amazon’s business operations. Nor
+does Amazon provide any evidence that any witness would have an “absence for significant
+periods of time,” or even what constitutes a “significant period” for purposes of adversely
+affecting its operations.
+Finally, Amazon has not shown that all of its witnesses will necessarily be forced to
+testify in Tennessee. Typically, though not always, depositions are taken in locations convenient
+for the witnesses or subject to agreements between the parties mindful of witness convenience.
+It is likely that Amazon’s California-based employees will be deposed in California where B.E.’s
+lead counsel is based. See Hunter Fan, 2006 WL 1627746, at *2 (witness convenience does not
+favor transfer where plaintiff “plans to take the depositions of witnesses who are California
+residents, including Defendant’s employees, in California”).
+b. Non-Party Witnesses.
+Amazon next argues that the case should be transferred because “[n]o third-party prior art
+witnesses are known to be located in Tennessee,” and “the other defendants” have “already
+identified at least twelve prior art patents with clear ties to companies (such as Google, Intel, and
+Verifone) or inventors in the Northern District of California.” D.E. 43-1 at 11. The testimony of
+third-party prior art witnesses is not entitled to great weight where, as here, the movant fails to
+establish that the third party testimony will be material or important. See Rinks, 2011 WL
+691242, at *3 (stating “the materiality and importance of the testimony of the prospective
+witness” is “crucial to this inquiry”).
+Amazon identifies eleven United States patents and a patent publication that it contends
+may be prior art. D.E. 43-1 at 11, n.3. Prior art inventor testimony may not be used to vary the
+words of the alleged prior art and admissible prior art inventor testimony is almost certain to be
+severely limited by the time of trial. See, e.g., Innogenetics, N.V. v. Abbott Labs, 512 F.3d 1363,
+- 12 -
+
+Case 2:12-cv-02767-JPM-tmp Document 46 Filed 03/01/13 Page 18 of 25
+
+PageID 500
+
+1375 (Fed. Cir. 2008) (affirming order limiting prior art inventor’s testimony to the “actual
+words and content” of the patent application). Therefore, the testimony of these so-called
+California-based prior art inventors does not weigh in favor of transfer.
+Moreover, Amazon fails to establish the current locations of any of the inventors,
+presumably relying exclusively on the dated information disclosed in the patents themselves.
+See D.E. 43-1 at 11 n.3. Amazon appears to have made no effort to identify or locate any of the
+prior art witnesses, despite a burden to present evidence to support its motion to transfer. Even if
+the Court were to assume that each inventor and assignee resides in the same location he, she, or
+it did at the time the patents issued, some of which date back almost 20 years, at least three of the
+patents list inventors that reside in Oregon—U.S. Patents 5,696,965; 5,710,884; and 5,717,923.
+Amazon adds that the availability of compulsory process3 in California weighs in favor of
+transfer because in California “these, and likely many more, relevant third-party witnesses reside
+and can be compelled to attend trial and testify in person.” D.E. 43-1 at 11. Amazon does not
+deny that it will be able to subpoena these third-party inventors and assignees to produce
+documents and appear for depositions in their home districts. See Fed. R. Civ. P. 45(b)(2).
+Thus, Amazon’s stated “need to gather documents and obtain testimony from these individuals
+and companies in California,” can be achieved even if the case stays here. This will allow
+Amazon to investigate whether any of these third-parties have relevant prior art, what it is, and
+whether it is material to the inventions at issue here. It is true, however, that Amazon will be
+unable to subpoena some witnesses for trial if the witnesses are unwilling to appear—which
+Amazon has not established—but Amazon does not address the relevance, materiality, and
+
+3
+
+While Amazon addresses the availability of compulsory process as a separate factor, it is
+“closely tied to the convenience of witness factor,” Rinks, 2011 WL 691242, at *4, and B.E.
+addresses it here.
+- 13 -
+
+Case 2:12-cv-02767-JPM-tmp Document 46 Filed 03/01/13 Page 19 of 25
+
+PageID 501
+
+importance of the testimony any witness who allegedly could not be subpoenaed might give, or
+explain why the theoretical testimony of those that assertedly could be subpoenaed for a trial in
+the Northern District of California is more important that the theoretical testimony of the
+witnesses who were based in Oregon when their patents were issued. In the absence of
+compulsory process, the presentation of the third party testimony may “not be live and could
+therefore be less persuasive,” Rinks, 2011 WL 691242, at *4, but in the absence of a showing
+that the potential testimony is material and important, this factor is not entitled to great weight.
+3.
+
+Location of Sources of Proof.
+
+Amazon contends that the location of the sources of proof favors transfer because
+“[t]echnical documentation and computer source code related to the accused Kindle products—
+constituting the bulk of discovery to take place in this case—are located in the Northern District
+of California;” and “[i]nformation related to Amazon’s U.S. sales, finances, and marketing
+operations is maintained in Seattle, substantially closer to the Northern District of California than
+to Tennessee.” D.E. 43-1 at 7-8 (citing Dean Decl. ¶¶ 4-5). While perhaps true for Amazon’s
+documents, Amazon ignores that the majority of B.E.’s documents are and for years have been
+maintained in the Western District of Tennessee. Therefore, “[a]lthough it might be more
+convenient for the Defendant to litigate this matter in California because its documents and
+evidentiary proof are located in California, it would be less convenient for Plaintiff.” Hunter
+Fan, 2006 WL 1627746, at *3; see also Max Rack, Inc. v. Hoist Fitness Sys., Inc., 2006 WL
+640497, at *6 (S.D. Ohio March 10, 2006) (“Both parties will be required to provide
+documentary evidence regarding the patented designs. Any burden imposed on [defendant] is
+counter-balanced by the potential burden that would be imposed on [plaintiff] if transferred.”). It
+is not even the case that all of Amazon’s documents can be located in California.
+
+- 14 -
+
+Case 2:12-cv-02767-JPM-tmp Document 46 Filed 03/01/13 Page 20 of 25
+
+PageID 502
+
+In addition, the location of relevant documentary evidence is increasingly less important
+in deciding motions to transfer. “[T]he Court does not view [the location of relevant
+documentary evidence] as particularly significant given the technological age in which we live,
+and the widespread use of . . . electronic document production.” Cincinnati Ins. Co. v. O’Leary
+Paint Co., 676 F. Supp. 2d 623, 635 (W.D. Mich. 2009) (internal citations omitted); American
+S.S. Owners Mut. Prot. & Indem. Ass’n, Inc. v. Lafarge North Am., Inc., 474 F. Supp. 2d 474,
+484 (S.D.N.Y. 2002) (“The location of relevant documents is largely a neutral factor in today’s
+world of faxing, scanning, and emailing documents.”). The Federal Circuit even acknowledged
+these advances in In re Link_A_Media Devices Corp., 662 F.3d 1221 (Fed. Cir. 2011), stating
+“[w]hile advances in technology may alter the weight given to these factors, it is improper to
+ignore them entirely.” 662 F.3d at 1224 (discussing the convenience of witnesses and location of
+documentary evidence factors). Amazon does not establish through any admissible evidence that
+its records are maintained in paper format, and concedes that “source code,” which is maintained
+electronically, will be a critical piece of evidence in this case. D.E. 43-1 at 7; see also Dean
+Decl. ¶ 4.
+Finally, it can be expected that Amazon will eventually produce its documents to B.E.’s
+lead counsel in California, not to B.E. in Tennessee. See, e.g., Koresko, 2007 WL 2713783, at
+*5 (“Although Defendant resides in and maintains his only offices in Pennsylvania, Plaintiff
+offered to accept production of relevant documents at the offices of its counsel in Pennsylvania,
+eliminating any difficulties associated with producing the relevant evidence in the Southern
+District of Ohio.”). Transfer to the Northern District of California would merely impose on B.E.
+the same inconvenience that Amazon, a much larger, wealthier, and more experienced litigant,
+purportedly seeks to eliminate for itself. Coupled with the fact that Amazon likely maintains its
+
+- 15 -
+
+Case 2:12-cv-02767-JPM-tmp Document 46 Filed 03/01/13 Page 21 of 25
+
+PageID 503
+
+documents electronically and can be expected with a high degree of certainty to make its
+production to B.E.’s California counsel, this factor does not weigh in favor of transfer.
+4.
+
+Amazon Would Not Be Materially Burdened Bearing The Expense of
+Litigating in the Western District of Tennessee.
+
+“The relative ability of litigants to bear expenses in any particular forum” is a factor to be
+considered in deciding transfer motions. Ellipsis, Inc. v. Colorworks, Inc., 329 F. Supp. 2d 962,
+970 (W.D. Tenn. 2004); Siteworks Solutions, LLC v. Oracle Corp., 2008 WL 4415075, at *4
+(W.D. Tenn. Sept. 22, 2008) (weighing the relative financial strength of the parties). Amazon
+does not contend that it is financially incapable of bearing the expense of litigating in the
+Western District of Tennessee. B.E., on the other hand, would face a financial burden by having
+to litigate in the Northern District of California. Hoyle Decl. ¶ 9. Likewise, Mr. Hoyle would
+endure financial loss if he is required to travel to California for this case and forego business
+opportunities in Tennessee. Id. For these reasons, the Court should deny Amazon’s motion to
+transfer.
+C.
+
+Public Factors Favor B.E.’s Choice of Forum.
+1.
+
+Transfer to the Northern District of California Would Delay Trial.
+
+The relative docket congestion of the two district courts is an important public interest
+factor to be weighed in connection with a motion to transfer. See Esperson, 2010 WL 4362794,
+at *10. The speed with which an action may be resolved is a central consideration when
+choosing a forum for litigation. Parsons v. Chesapeake & Ohio Ry. Co., 375 U.S. 71, 73 (1963).
+“Swift resolution can be particularly important in patent cases because delay might frustrate a
+patent holder’s rights and the value of its patent.” E2Interactive, Inc. v. Blackhawk Network,
+Inc., 2010 WL 3937911, at *4 (W.D. Wis. Oct. 6, 2010) (denying motion to transfer). Based on
+
+- 16 -
+
+Case 2:12-cv-02767-JPM-tmp Document 46 Filed 03/01/13 Page 22 of 25
+
+PageID 504
+
+recent publicly available Federal Court Management Statistics, transfer to the Northern District
+of California would likely delay trial of this case by at least one year.
+Within the 12 month period ending September 30, 2012, 8,426 cases were filed in the
+Northern District of California. Olaniran Decl., Ex. F. The median time from filing to trial was
+32.7 months. Id. Within that same time frame in this District, 2,286 cases were filed, and the
+median time from filing to trial was 18.8 months. Id. In 2012, the Northern District of
+California received a significantly larger number of new patent, copyright or trademark
+infringement filings (543) than this District (38). In 2011, this Court was designated a Patent
+Pilot Project court, and on September 19, 2011 the Court adopted Patent Local Rules to
+streamline patent litigation in this District. B.E. has a legitimate interest in the prompt resolution
+of its patent infringement claims, and transfer to the Northern District of California would delay
+trial in this case.
+2.
+
+The Western District of Tennessee Has a Substantial Local Interest in
+the Vindication of B.E.’s Patent Rights.
+
+Amazon wrongly argues the “Western District of Tennessee has no [strong local interest
+in adjudicating]” B.E.’s claims because “Amazon has no relevant operations in Tennessee,”
+“B.E. appears to have no actual operations in Tennessee besides filing lawsuits.” D.E. 43-1 at
+14. As explained above, this is far from the truth. B.E.’s contacts with the Western District of
+Tennessee are not recent, ephemeral, or manufactured for the purpose of litigation. Amazon
+sells goods and services to Tennesseans on a massive scale, products that B.E. alleges infringe its
+patent rights. This District has a local interest in deciding whether one of its resident’s patent
+rights have been violated and awarding an appropriate amount of damages.
+Amazon also argues that the Northern District of California has a more substantial local
+interest in adjudicating B.E.’s claims because the “Northern District of California has a strong
+
+- 17 -
+
+Case 2:12-cv-02767-JPM-tmp Document 46 Filed 03/01/13 Page 23 of 25
+
+PageID 505
+
+local interest in adjudicating claims calling into question the activities of companies and
+employees who reside in the district.” D.E. 43-1 at 14. But Amazon is not headquartered in the
+Northern District of California, and while it could be argued that the Western District of
+Washington—where Amazon resides—has an interest in adjudicating claims against one of its
+residents, Amazon does not seek transfer there and the Western District of Washington’s interest
+does not clearly outweigh this District’s interest in adjudicating claims brought by one of its
+residents.
+B.E. is not a forum shopper. It filed suit in its home district for its convenience and for
+the convenience of its CEO and because Amazon has infringed the patents-in-suit here. As
+Amazon points out, B.E. filed lawsuits against 19 defendants, many of which are headquartered
+throughout the United States. It is not surprising that B.E. would elect to proceed in its home
+forum given the resources that will necessarily be devoted to prosecuting each of those cases.
+By filing all 19 cases in the same district, B.E. will be in position to obtain efficiencies for the
+benefit of the Court, the federal judicial system, and itself through consolidation of issues for
+pre-trial and trial. Transfer to the Northern District of California would undermine those
+potential efficiencies, particularly because several B.E. defendants do not reside in the Northern
+District of California and some B.E. defendants have sought transfer to other forums.
+V.
+
+REQUEST FOR ORAL ARGUMENT
+B.E. requests that the Court schedule a date and time for a hearing on Amazon’s motion
+
+to transfer, and the motion to transfer filed by the other B.E. defendants. A hearing will be
+helpful and necessary. Amazon, like other B.E. defendants that have come before, is likely to
+seek leave to file a reply brief. Ignoring for the moment that Amazon should have reasonably
+anticipated B.E.’s response arguments because they are consistent with the arguments B.E. has
+made in other cases, B.E. cannot fairly respond to the anticipated reply brief absent oral
+- 18 -
+
+Case 2:12-cv-02767-JPM-tmp Document 46 Filed 03/01/13 Page 24 of 25
+
+PageID 506
+
+argument. The transfer of this and the other 18 B.E. cases is a significant issue that merits an
+opportunity to answer any of the Court’s questions. For these reasons, B.E. requests oral
+argument.
+VI.
+
+CONCLUSION.
+For the reasons stated above, B.E. respectfully requests that the Court deny Amazon’s
+
+Motion to Transfer Venue Pursuant to 28 U.S.C. § 1404(a).
+Dated: March 1, 2013
+
+Respectfully submitted,
+s/Qudus B. Olaniran
+Robert E. Freitas (CA Bar No. 80948)
+Craig R. Kaufman (CA Bar No. 159458)
+Daniel J. Weinberg (CA Bar No. 227159)
+James Lin (CA Bar No. 241472)
+Qudus B. Olaniran (CA Bar No. 267838)
+FREITAS TSENG & KAUFMAN LLP
+100 Marine Parkway, Suite 200
+Redwood Shores, CA 94065
+Telephone: (650) 593-6300
+Facsimile: (650) 593-6301
+rfreitas@ftklaw.com
+ckaufman@ftklaw.com
+dweinberg@ftklaw.com
+jlin@ftklaw.com
+qolaniran@ftklaw.com
+Richard M. Carter (TN B.P.R. #7285)
+Adam C. Simpson (TN B.P.R. #24705)
+MARTIN, TATE, MORROW & MARSTON, P.C.
+6410 Poplar Avenue, Suite 1000
+Memphis, TN 38119-4839
+Telephone: (901) 522-9000
+Facsimile: (901) 527-3746
+rcarter@martintate.com
+asimpson@martintate.com
+Attorneys for Plaintiff B.E. Technology, L.L.C.
+
+- 19 -
+
+Case 2:12-cv-02767-JPM-tmp Document 46 Filed 03/01/13 Page 25 of 25
+
+PageID 507
+
+CERTIFICATE OF SERVICE
+The undersigned hereby certifies that on March 1, 2013, a true and correct copy of the
+foregoing was electronically filed with the United States District Court for the Western District
+of Tennessee and was served on counsel by the Court’s electronic filing notification.
+
+s/Qudus B. Olaniran
+Qudus B. Olaniran
+
+- 20 -
+
+

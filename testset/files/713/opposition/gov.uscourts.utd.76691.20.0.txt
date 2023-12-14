@@ -1,0 +1,1568 @@
+Case 2:10-cv-00829-TC -SA Document 20
+
+Filed 09/07/10 Page 1 of 45
+
+JILL M. PIETRINI (Admission Pro Hac Vice Pending)
+jpietrini@manatt.com
+MANATT, PHELPS & PHILLIPS, LLP
+11355 West Olympic Boulevard
+Los Angeles, CA 90064-1614
+Telephone: (310) 312-4000
+Facsimile: (310) 312-4224
+ROBERT D. BECKER (Admission Pro Hac Vice Pending)
+rbecker@manatt.com
+SHAWN G. HANSEN (USB No. 8603)
+shansen@manatt.com
+MANATT, PHELPS & PHILLIPS, LLP
+1001 Page Mill Road, Building 2
+Palo Alto, CA 94304
+Telephone: (650) 812-1300
+Facsimile: (650) 213-0260
+Attorneys for Defendants
+IN THE UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF UTAH
+CENTRAL DIVISION
+
+LL&L INNOVATIONS, LLC, and
+LOWDOWN DISTRIBUTION, INC.,
+Plaintiffs,
+v.
+JERRY LEIGH OF CALIFORNIA, INC.;
+KOHL’S DEPARTMENT STORES, INC.; JC
+PENNEY CORPORATION, INC.; RUSTY
+LICENSING, INC.; HOT TOPIC
+MERCHANDISING, INC.; and SUN COAST
+MERCHANDISE CORPORATION d/b/a
+SUN COAST,
+Defendants.
+
+Civil Action No.: 2:10-cv-829-TC
+U.S. District Judge Tena Campbell
+DEFENDANTS’ MEMORANDUM OF
+POINTS AND AUTHORITIES IN
+OPPOSITION TO PLAINTIFFS’ MOTION
+FOR TEMPORARY RESTRAINING
+ORDER AND PRELIMINARY
+INJUNCTION
+JURY DEMANDED
+
+Case 2:10-cv-00829-TC -SA Document 20
+
+Filed 09/07/10 Page 2 of 45
+
+TABLE OF CONTENTS
+Page
+I.
+
+INTRODUCTION AND STATEMENT OF ISSUES ...................................................... 1
+
+II.
+
+STATEMENT OF FACTS ................................................................................................ 4
+A.
+
+III.
+
+The Parties ............................................................................................................. 4
+1.
+
+Defendants ................................................................................................. 4
+
+2.
+
+Plaintiff LL&L ........................................................................................... 5
+
+3.
+
+Plaintiff Lowdown and Mr. Zhou’s Other Related Entities....................... 6
+
+B.
+
+Procedural Background.......................................................................................... 7
+
+C.
+
+The Patent-in-Suit .................................................................................................. 8
+
+D.
+
+The HB3 Technology™ and Hoodie Buddie™ Products.................................... 10
+
+E.
+
+The Prior Art ........................................................................................................ 13
+
+THE MOTION FOR TEMPORARY RESTRAINING ORDER AND
+PRELIMINARY INJUNCTION SHOULD BE DENIED IN ITS ENTIRETY ............. 17
+A.
+
+Applicable Legal Standards ................................................................................. 17
+
+B.
+
+Plaintiffs Failed to Show a Likelihood of Success on the Merits ........................ 18
+1.
+
+2.
+
+3.
+
+Claim Construction .................................................................................. 18
+a.
+
+The Claim Limitation “Acts as a Drawstring for the Hood”
+Should be Construed to Mean: “The Wire Must be Used to
+Tighten or Close the Hood Opening ............................................ 19
+
+b.
+
+The Literal Scope of the Earphone Wire Drawstring
+Limitation is Limited by Statements Made During
+Prosecution of the ‘192 Patent ..................................................... 19
+
+c.
+
+Prosecution History Estoppel Precludes Application of the
+Doctrine of Equivalents ............................................................... 21
+
+The HB3 Technology™ Products Do Not Infringe as a Matter of
+Law Because They Do Not Include A Wire That “Acts as a
+Drawstring for the Hood” ........................................................................ 22
+a.
+
+There is No Direct Infringement as a Matter of Law................... 22
+
+b.
+
+Plaintiffs Have Not Alleged Facts Sufficient To State a
+Claim for Infringement by Inducement ....................................... 23
+
+c.
+
+Plaintiffs Have Not Alleged Facts Sufficient To State a
+Claim for Contributory Infringement........................................... 24
+
+Claim 1 of the ‘192 Patent is Invalid as Being Anticipated and/or
+Obvious Because Numerous Prior Art References Expressly or
+Inherently Disclose and/or Strongly Suggest the Earphone Wire
+Drawstring Limitation.............................................................................. 25
+i
+
+Case 2:10-cv-00829-TC -SA Document 20
+
+Filed 09/07/10 Page 3 of 45
+
+TABLE OF CONTENTS
+(continued)
+Page
+
+C.
+
+IV.
+
+a.
+
+Claim 1 of the ‘192 Patent is Anticipated Under 35 U.S.C.
+§ 102............................................................................................. 26
+
+b.
+
+Claim 1 of the ‘192 Patent is Obvious Under Section 103 .......... 29
+
+Plaintiffs Failed To Show That They Would Be Irreparably Harmed
+Absent a Preliminary Injunction .......................................................................... 30
+1.
+
+Plaintiffs Identified No Specific Potential Harms to Substantiate
+Their Unsupported Factual Conclusions Regarding Lost Market
+Share and Price Erosion ........................................................................... 31
+
+2.
+
+Plaintiffs’ Delay in Seeking Injunctive Relief Shows They Would
+Not Be Irreparably Harmed Absent an Injunction................................... 33
+
+3.
+
+Plaintiffs’ Licensing of the ‘192 Patent Shows They Would Not Be
+Irreparably Harmed Absent an Injunction ............................................... 34
+
+D.
+
+The Balance of Hardships Tips Decidedly in Favor of Defendants .................... 35
+
+E.
+
+The Public Interest is Best Served by Denying the Injunction ............................ 36
+
+F.
+
+Security in the Amount of at Least $13,500,000 is Appropriate Should
+Preliminary Injunctive Relief Be Granted ........................................................... 37
+
+CONCLUSION................................................................................................................ 37
+
+-ii-
+
+Case 2:10-cv-00829-TC -SA Document 20
+
+Filed 09/07/10 Page 4 of 45
+
+TABLE OF AUTHORITIES
+Page
+CASES
+Abbott Labs. v. Andrx Pharms., Inc.,
+452 F.3d 1331 (Fed. Cir. 2006)..........................................................................................33, 36
+Alloc, Inc. v. ITC,
+342 F.3d 1361 (Fed. Cir. 2003)................................................................................................19
+Amazon.com, Inc. v. Barnesandnoble.com, Inc.,
+239 F.3d 1343 (Fed. Cir. 2001)..........................................................................................25, 26
+Anton/Bauer, Inc. v. PAG, Ltd.,
+329 F.3d 1343 (Fed. Cir. 2003)....................................................................................17, 18, 27
+Automated Merch. Sys. v. Crane Co.,
+357 Fed. Appx. 297 (Fed. Cir. 2009).......................................................................................31
+Bell Atl. Network Servs. v. Covad Commc’ns Group, Inc.,
+262 F.3d 1258 (Fed. Cir. 2001)..........................................................................................19, 20
+Chimie v. PPG Indus.,
+402 F.3d 1371 (Fed. Cir. 2005)................................................................................................19
+Computer Docking Station Corp. v. Dell, Inc.,
+519 F.3d 1366 (Fed. Cir. 2008)..........................................................................................19, 21
+Dominion Video Satellite, Inc. v. Echostar Satellite Corp.,
+269 F.3d 1149 (10th Cir. 2001) ...............................................................................................37
+DSU Med. Corp. v. JMS Co.,
+471 F.3d 1293 (Fed. Cir. 2006)..........................................................................................23, 24
+Dynacore Holdings Corp. v. U.S. Philips Corp.,
+363 F.3d 1263 (Fed. Cir. 2004)................................................................................................23
+eBay Inc. v. MercExchange, L.L.C.,
+547 U.S. 388 (2006).....................................................................................................31, 33, 35
+Helifix Ltd. v. Blok-lok, Ltd.,
+208 F.3d 1339 (Fed. Cir. 2000)................................................................................................25
+High Tech Med. Instrumentation, Inc. v. New Image Indus., Inc.,
+49 F.3d 1551 (Fed. Cir. 1995)............................................................................................31, 35
+Hybritech, Inc. v. Abbott Laboratories,
+849 F.2d 1446 (Fed. Cir. 1988)..........................................................................................33, 34
+In re Napier,
+55 F.3d 610 (Fed. Cir. 1995)....................................................................................................28
+
+iii
+
+Case 2:10-cv-00829-TC -SA Document 20
+
+Filed 09/07/10 Page 5 of 45
+
+TABLE OF AUTHORITIES
+(continued)
+Page
+Jack Guttman, Inc. v. Kopykake Enters., Inc.,
+302 F.3d 1352 (Fed. Cir. 2002)..........................................................................................17, 35
+KSR Int’l Co. v. Teleflex Inc.,
+550 U.S. 398 (U.S. 2007)...................................................................................................29, 30
+Mallinckrodt, Inc. v. EZ-EM INC.,
+670 F. Supp. 2d 349 (D. Del. 2009)...................................................................................23, 24
+Microsoft Corp. v. Multi-Tech Sys., Inc.,
+357 F.3d 1340 (Fed. Cir. 2004)................................................................................................19
+National Steel Car, Ltd. v. Canadian Pacific Railway, Ltd.,
+357 F.3d 1319 (Fed. Cir. 2004)................................................................................................17
+Nutrition 21 v. United States,
+930 F.2d 867 (Fed. Cir. 1991)..................................................................................................32
+Pharmacia & Upjohn Co. v. Mylan Pharms., Inc.,
+170 F.3d 1373 (Fed. Cir. 1999)................................................................................................22
+Phillips v. AWH Corp.,
+415 F.3d 1303 (Fed. Cir. 2005), cert. denied, 126 S. Ct. 1332 (2006) ....................................18
+Playtex Prods., Inc. v. Procter & Gamble Co.,
+400 F.3d 901 (Fed. Cir. 2005)..................................................................................................22
+Purdue Pharma L.P. v. Boehringer Ingelheim GmbH,
+237 F.3d 1359 (Fed. Cir. 2001)................................................................................................18
+Purdue Pharma L.P. v. Endo Pharms., Inc.,
+438 F.3d 1123 (Fed. Cir. 2006)................................................................................................19
+Titan Tire Corp. v. Case New Holland, Inc.,
+566 F.3d 1372 (Fed. Cir. 2009)................................................................................................25
+Verdegaal Bros. v. Union Oil Co. of California,
+814 F.2d 628 (Fed. Cir. 1987)..................................................................................................26
+Voile Mfg. Corp. v. Dandurand,
+551 F. Supp. 2d 1301 (D. Utah 2008)....................................................................17, 31, 32, 33
+Winter v. NRDC, Inc.,
+129 S. Ct. 365 (2008)....................................................................................................... passim
+STATUTES
+35 U.S.C. § 102..............................................................................................................2, 13, 26, 28
+35 U.S.C. § 102(e) ...................................................................................................................15, 16
+35 U.S.C. § 103..............................................................................................................2, 13, 29, 30
+
+iv
+
+Case 2:10-cv-00829-TC -SA Document 20
+
+Filed 09/07/10 Page 6 of 45
+
+TABLE OF AUTHORITIES
+(continued)
+Page
+35 U.S.C. § 271(c) .........................................................................................................................24
+OTHER AUTHORITIES
+U.S. Patent 2,285,083 ....................................................................................................................13
+U.S. Patent 6,753,756 ....................................................................................................................16
+U.S. Patent No. 7,519,192...................................................................................................... passim
+RULES
+Fed. R. Civ. P. 11................................................................................................................... passim
+Fed. R. Civ. P. 15(a)(1)....................................................................................................................8
+Fed. R. Civ. P. 65(c) ......................................................................................................................37
+
+v
+
+Case 2:10-cv-00829-TC -SA Document 20
+
+I.
+
+Filed 09/07/10 Page 7 of 45
+
+INTRODUCTION AND STATEMENT OF ISSUES
+Defendants Jerry Leigh of California, Inc. (“Jerry Leigh”), Kohl’s Department Stores,
+
+Inc. (“Kohl’s”), JC Penney Corporation, Inc. (“JC Penney”), Rusty Licensing, Inc. (“Rusty”),
+Hot Topic Merchandising, Inc. (“Hot Topic”), and Sun Coast Merchandise Corporation (“Sun
+Coast”) (collectively, “Defendants”) respectfully submit this Memorandum of Points and
+Authorities in Opposition (“Opposition”)1 to the Motion for Temporary Restraining Order and
+Preliminary Injunction (“Motion”) filed by Plaintiffs LL&L Innovations, LLC (“LL&L”) and
+Lowdown Distribution, Inc. (“Lowdown”) (collectively, “Plaintiffs”). This Opposition is
+supported by the concurrently submitted Declarations of Andrew Leigh, Jeff Silver and Shawn
+Hansen.
+Plaintiffs’ Motion was not brought in good faith. With respect to likelihood of success on
+the merits, Plaintiffs bear the burden to show that they will likely prove infringement and that
+Defendants’ challenges to the validity of the asserted patent, U.S. Patent No. 7,519,192 (“‘192
+patent”), lack substantial merit. Not only have Plaintiffs failed to meet this burden, but they have
+no chance of succeeding on the merits because the ‘192 patent is, as a matter of law, neither
+infringed nor valid, as explained herein.
+The ‘192 patent claims are directed to a hooded garment (sometimes referred to as a
+“hoodie”) where the conventional hoodie drawstring is replaced by earphone wire such that the
+wire itself acts as the drawstring. Given that hoodies and earphones were well known, the use of
+the earphone wire as the drawstring was critical to the allowance of the claims. Claim 1 of the
+‘192 patent expressly requires, inter alia, that an earphone wire “acts as a drawstring for the
+
+1
+
+During the Status Conference held on September 2, 2010, the Court granted Defendants leave
+to exceed the page limits under DUCivR 7-1 in this brief.
+1
+
+Case 2:10-cv-00829-TC -SA Document 20
+
+Filed 09/07/10 Page 8 of 45
+
+hood”. The accused products (“HB3 Technology™ products”) do not infringe the ‘192 patent
+literally or equivalently as a matter of law because they do not meet this key limitation of claim
+1, among other reasons.
+On the contrary, the HB3 Technology™ products were specifically designed to prevent
+the ear bud wire from acting as a drawstring because this causes excessive wear and damage to
+the wire and related components. Instead, the HB3 Technology™ products include a component
+similar to a conventional drawstring in the form of a tubular “lanyard,” which contains and
+protects the ear bud wire. The tubular lanyard acts as the drawstring to tighten or close the hood
+opening. But because the ear bud wire is substantially longer than the tubular lanyard within
+which it is contained, meaning that even when the lanyard is pulled the wire is not pulled, the
+wire is physically prevented from acting as a drawstring by design. Because the accused
+products do not have a wire that “acts as a drawstring for the hood,” there can be no infringement
+as a matter of law.
+With respect to invalidity, there are multiple prior art references that expressly or
+inherently disclose and/or strongly suggest an earphone wire acting as a drawstring in the
+existing drawstring passageway of a conventional hooded garment and accordingly invalidate the
+‘192 patent as being anticipated under 35 U.S.C. § 102 and/or obvious under 35 U.S.C. § 103.
+Plaintiffs were on notice of Defendants’ positions regarding noninfringement and
+invalidity prior to the filing of this Motion. To make a record of notifying Plaintiffs of this
+information, on August 17, 2010, and again on August 25, 2010, Defendant Jerry Leigh served
+on Plaintiffs’ counsel substantially similar Motions for Sanctions Pursuant to Federal Rule of
+Civil Procedure 11 (“Rule 11 Motion”) explaining why the ‘192 patent is neither infringed nor
+valid as a matter of law, and including copies of invalidating prior art. No Rule 11 Motion has
+
+2
+
+Case 2:10-cv-00829-TC -SA Document 20
+
+Filed 09/07/10 Page 9 of 45
+
+been filed with the Court, but Defendants reserve the right to file such a motion at an appropriate
+time.
+Because Defendants notified Plaintiffs of Defendants’ noninfringement and invalidity
+defenses prior to the filing of this Motion, in the Rule 11 Motion served on August 17, 2010,
+Plaintiffs bear the burden to prove these defenses lack substantial merit. Plaintiffs have failed to
+meet their burden.
+With respect to noninfringement, Plaintiffs ignore claim construction altogether and
+make no effort to show the wire in the accused products meets the claim requirement that it “acts
+as a drawstring for the hood” of a hooded garment. As discussed below, the correct construction
+of this phrase is: “The wire must be used to tighten or close the hood opening. Moveable
+wiring within the drawstring passageway is not wiring that acts as a drawstring.” The
+accused products do not meet this or any other legally correct definition.
+With respect to validity, Plaintiffs stated at page 9 of their Memorandum and Points of
+Authority (“Memorandum”) filed on August 20, 2010, that “[t]he only validity argument
+articulated by Defendants to date is an allegation that website advertisements for the O’Neil [sic]
+‘Hub’ jacket invalidate the claims of the ‘192 patent.” In fact, Jerry Leigh’s previously served
+Rule 11 Motion included multiple prior art references forming the basis for invalidity defenses in
+addition to the documents discussed in Plaintiffs’ Memorandum. Because Plaintiffs’ failed to
+address these additional prior art references in their Memorandum, Plaintiffs failed to meet their
+burden show that Defendants’ invalidity defenses based on them lack substantial merit.
+Moreover, Plaintiffs cannot demonstrate the requisite irreparable harm. Plaintiffs
+licensing activity, lack of participation in the market, and delay in seeking injunctive relief are
+fundamentally inconsistent with a showing of irreparable harm. Plaintiffs allege that they will be
+
+3
+
+Case 2:10-cv-00829-TC -SA Document 20
+
+Filed 09/07/10 Page 10 of 45
+
+irreparably harmed by loss of market share and/or price erosion, but they have offered no
+evidence of any actual contracts or market share that were allegedly lost, nor of Lowdown’s
+pricing to substantiate their allegations of price erosion. In these circumstances, monetary
+damages are clearly adequate to compensate Plaintiffs should infringement of a valid patent
+claim be found.
+Lastly, the balance of hardships tips decidedly in favor of Defendants. In contrast to
+Plaintiffs’ failure to demonstrate irreparable harm in the absence of an injunction, Defendants
+have established businesses, which, if wrongly enjoined, would stand to lose approximately
+$13,500,000 in direct losses, representing a value at the retail level in excess of approximately
+$23,000,000. Products would have to be recalled from thousands of stores across the country. A
+substantial number of employees could lose their jobs. In addition to severe financial loss,
+Defendants would suffer irreparable harm to their reputations and commercial relationships if
+there were wrongfully enjoined.
+Because Plaintiffs cannot meet their burden to show a likelihood of success on the merits
+and irreparable harm absent an injunction, and because the balance of hardships tips decidedly in
+favor of Defendants, the Motion should be denied in its entirety.
+II.
+
+STATEMENT OF FACTS
+A.
+
+The Parties
+1.
+
+Defendants
+
+Jerry Leigh, established in 1962, is a family-owned clothing designer, manufacturer, and
+brand management company. (Silver Decl., ¶ 3.)2 With over 750 employees worldwide, Jerry
+
+2
+
+Declaration of Jeff Silver in Support of Defendants’ Opposition to Motion for Temporary
+Restraining Order and Preliminary Injunction (“Silver Decl.”).
+4
+
+Case 2:10-cv-00829-TC -SA Document 20
+
+Filed 09/07/10 Page 11 of 45
+
+Leigh distributes to retailers at all tiers of distribution, from boutiques to mass market, and
+manufactures apparel for everyone, from toddlers to adults. (Id.)
+Jerry Leigh is the developer and manufacturer of the accused Hoodie Buddie™ with HB3
+Technology™ products and has agreed to indemnify and defend the other Defendants against
+Plaintiffs’ claims for infringement of the ‘192 patent based on garments supplied and/or licensed
+by Jerry Leigh. (Id. at ¶¶ 4-11.) Sun Coast provides sales and marketing services to Jerry Leigh.
+Kohl’s is a department store operating approximately 1,000 stores in 49 states. (Id. at ¶
+9.) JC Penney is a department store operating approximately 1,100 stores in 49 states and Puerto
+Rico. (Id.) Hot Topic is a clothing retailer operating approximately 680 Hot Topic stores
+throughout the United States and Puerto Rico. (Id.) Thus, these retailer Defendants collectively
+have thousands of stores in which the HB3 Technology™ products are sold nationwide. (Id.)
+Rusty is an iconic brand in surf culture, featuring a range of garments available at leading
+surf shops nationwide. (Id. at ¶ 26.) In addition to Jerry Leigh’s proprietary line of Hoodie
+Buddie™ products, the HB3 Technology™ lanyard is used in garments made and sold by Rusty
+pursuant a license agreement that permits Rusty to use Jerry Leigh’s HB3 Technology™
+trademark and the underlying technology in Rusty’s garments. (Silver Decl., ¶¶ 26-27.)
+2.
+
+Plaintiff LL&L
+
+In contrast to the long-established businesses of Defendants, LL&L was formed five
+months ago in April 2010. (Hansen Decl., Ex. H.)3 LL&L has no known products or operating
+business and appears to exist solely to license the ‘192 patent, as its Articles of Organization set
+forth the stated purpose of the business as: “Hold, market and manage intellectual property
+
+3
+
+Declaration of Shawn G. Hansen in Support of Defendants’ Opposition to Plaintiffs’ Motion
+for Temporary Restraining Order and Preliminary Injunction (“Hansen Decl.”).
+5
+
+Case 2:10-cv-00829-TC -SA Document 20
+
+Filed 09/07/10 Page 12 of 45
+
+interests.” (Hansen Decl., Ex. H.)
+3.
+
+Plaintiff Lowdown and Mr. Zhou’s Other Related Entities
+
+Lowdown is a California corporation whose registered agent for service of process is
+Peiliang Zhou, believed to be the same person as the Edward Zhou who submitted a Declaration
+in support of the Motion. (Hansen Decl., Ex. L.) Mr. Zhou also owns and/or controls a garment
+manufacturing organization with operations in China and the United States, known as “Dragon
+Crowd.” According to the Dragon Crowd web page, Mr. Zhou established Dragon Crowd
+Garment Inc. in Ningbo, China in 1998, and currently is listed as the “CEO & Owner” of that
+entity on its website. (Hansen Decl., Exs. I-J.)
+Dragon Crowd Garment Inc. also is the name of a corporation incorporated in the State of
+California. (Hansen Decl., Ex. K.) Mr. Zhou’s Dragon Crowd Garment Inc. entities in China
+and California are referred to collectively as, “Dragon Crowd”.
+Lowdown and Dragon Crowd both are registered to do business in the State of California
+under the fictitious business name “Colorfast Apparel Inc.” (“Colorfast”). (Hansen Decl., Exs.
+M-N.)
+As noted above, the agreement between Jerry Leigh and Rusty permits Rusty, subject to
+the terms and conditions of the agreement, to have contractors make licensed products for Rusty
+using the HB3 Technology™ trademark and technology. (Silver Decl., ¶ 26-27.) Starting no
+later than approximately January or February of 2010, Jerry Leigh sent multiple shipments of
+samples of HB3 Technology™ products to Dragon Crowd, which Rusty contracted to
+manufacture products under the agreement between Jerry Leigh and Rusty. (Id.) In addition,
+under the agreement between Jerry Leigh and Rusty, Jerry Leigh has supplied to Dragon Crowd
+HB3 Technology™ lanyard components to be included in garments made by Dragon Crowd for
+
+6
+
+Case 2:10-cv-00829-TC -SA Document 20
+
+Filed 09/07/10 Page 13 of 45
+
+Rusty. (Id.)
+Then, at a trade show in July of 2010, representatives of Jerry Leigh observed that
+products being exhibited by Colorfast, a fictitious business name of Lowdown and Dragon
+Crowd as noted above, appeared to be Jerry Leigh’s products with the Colorfast name on them,
+in response to which Jerry Leigh’s counsel sent a letter dated July 14, 2010, demanding that
+Colorfast immediately cease and desist from offering illicit products. (Hansen Decl., Ex. O.)
+B.
+
+Procedural Background
+
+This is the second action for infringement of the same ‘192 patent by the same HB3
+Technology™ products filed with this Court by Plaintiffs’ counsel since July 15, 2010.
+On July 15, 2010, the day after Jerry Leigh’s counsel sent the letter to Colorfast, LL&L
+(but not Lowdown) filed in this Court a Complaint for alleged infringement of the ‘192 patent
+based on the HB3 Technology™ products (Case No. 2:10-cv-665-DAK; hereinafter, the “First
+Case”). (Hansen Decl., Ex.A.) The Complaint in the First Case was not served on any
+Defendant.
+Based on Jerry Leigh’s observations at the above-referenced trade show in July 2010
+(and subsequent trade shows), on August 13, 2010, Jerry Leigh filed in the U.S. District Court
+for the Central District of California a Complaint against Lowdown and Dragon Crowd alleging
+claims for false designation of origin, false advertising, unfair competition, and common law
+misappropriation. (Hansen Decl., Ex. G.)
+Because the HB3 Technology™ products do not infringe the ‘192 patent and the ‘192
+patent is invalid as a matter of law, and to make a record of notifying Plaintiffs of the reasons
+why, on August 17, 2010, Jerry Leigh’s counsel caused to be served on Plaintiffs’ counsel a
+Rule 11 Motion in the First Case setting forth Defendants’ preliminary positions regarding
+
+7
+
+Case 2:10-cv-00829-TC -SA Document 20
+
+Filed 09/07/10 Page 14 of 45
+
+noninfringement and invalidity, including copies of the prior art forming the bases of
+Defendants’ invalidity defenses. (Hansen Decl., Ex. D.)
+In response, on August 20, 2010, Plaintiffs’ counsel filed a Notice of Dismissal Without
+Prejudice in the First Case. (Hansen Decl., Ex. E.) Separately the same day, Plaintiffs’ counsel
+filed the instant Motion and the Complaint in this action, asserting the same claims that were
+asserted in the Complaint in the First Case, as well as adding Lowdown as a plaintiff and Sun
+Coast as a defendant. (Docket Nos. 2, 4-7.)
+Because Plaintiffs’ Complaint in the First Case was never served, the changes to
+Plaintiffs’ claims and addition of parties could have been made as a matter of right in the First
+Case pursuant to FRCP 15(a)(1). Plaintiffs have not explained the reasons for the dismissal and
+serial refiling of their claims. However, because Jerry Leigh’s Rule 11 Motion in the First Case
+was directed to the Complaint in the First Case, the dismissal of that Complaint mooted that
+motion. Thus, on August 25, 2010, Jerry Leigh served on Plaintiffs’ counsel a Rule 11 Motion
+in this action, again putting Plaintiffs on notice of Defendants’ preliminary positions on
+noninfringement and invalidity, as well as pointing out that Plaintiffs’ statements at page 9 of
+their Memorandum failed to address invalidating prior art that was included in the first Rule 11
+Motion. (Hansen Decl., Ex. F.)
+C.
+
+The Patent-in-Suit
+
+The Complaints in the First Case and this action both assert a single claim for relief for
+alleged infringement of the ‘192 patent, entitled “Wired clothing and earphones,” filed on
+September 13, 2005, and issued on April 14, 2009. (See Hansen Decl., Ex. A, Complaint in the
+First Case; see also Docket No. 2, Complaint in this action.) The instant Motion asserts only
+claim 1 of the ‘192 patent, which is illustrated in Figure 1 of the ‘192 patent, reproduced below
+
+8
+
+Case 2:10-cv-00829-TC -SA Document 20
+
+Filed 09/07/10 Page 15 of 45
+
+at right. Claim 1 states:
+1. A combined garment and earphones,
+comprising:
+a garment having a hood sized to be selectively
+worn over a user’s head, the hood including an
+elongate internal passageway along the border of the
+hood, and having left and right apertures at each end
+of the passageway; [and]
+earphones, comprising: a conductive wire assembly
+passing through the elongate internal passageway and
+having left and right lengths of wire exiting through the
+left and right apertures, respectively, wherein at least a
+portion of the conductive wire assembly is slideable
+within the passageway, and acts as a drawstring for
+the hood; a left and a right earpiece configured to be
+worn in close proximity to the left and right ears of the
+user, the earpieces being electronically coupled to the
+left and right lengths of wire, respectively, and
+including transducers for emitting audio into the ears of
+the user; and a connection between the earphones and
+an audio device for supplying an audio signal from the
+audio device to the earphones.
+(‘192 patent, col. 8, lines 22-43 (emphasis added); FIG. 1 (at right).)
+In many words, claim 1 recites the simple combination of a prior art hooded garment and
+a prior art set of earphones in which the earphone wire passes through the existing drawstring
+passageway of the hood and “acts as a drawstring for the hood.” (‘192 patent, col. 8, lines 22-43
+(claim 1); see also col. 2, line 52 to col. 3, line 55 (written description of FIG. 1).)
+Not only is it admitted in the ‘192 patent that hoodies with drawstrings and earphones
+with wires and a connection for audio devices were known in the prior art, see ‘192 patent col. 3,
+lines 4-6 and 20-49, but the ‘192 patent further expressly admits at col. 1, lines 39-46, that it was
+known in the prior art to pass earphone wiring through passageways in clothing to avoid
+entanglements and position the earphones near a user’s ears. In other words, it is admitted within
+9
+
+Case 2:10-cv-00829-TC -SA Document 20
+
+Filed 09/07/10 Page 16 of 45
+
+the ‘192 patent that all or virtually all of the subject matter of claim 1 was known in the prior art.
+During prosecution of the ‘192 patent before the U.S. Patent & Trademark Office
+(“PTO”), the Examiner indicated that he considered the allowable subject matter to be, “the
+unique feature of having a conductive wire slideable through the passageway, and acting as a
+drawstring for a hooded garment.” (Prosecution History File, Exhibit 1 at pp. 122-125, Notice of
+Allowance dated December 22, 2008.) This critical feature is referred to hereinafter as the
+“Earphone Wire Drawstring” feature or limitation.
+As discussed above and in further detail below, the Earphone Wire Drawstring feature
+was expressly or inherently disclosed in and/or strongly suggested by numerous prior art
+references. The ‘192 patent therefore is invalid. In any event, Defendants’ accused products do
+not meet the Earphone Wire Drawstring limitation and thus do not infringe the ‘192 patent.
+D.
+
+The HB3 Technology™ and Hoodie Buddie™ Products
+
+Even if the ‘192 patent were valid, which it is not, Defendants do not infringe the patent
+as a matter of law. Jerry Leigh has developed an inventive machine-washable lanyard featuring
+integrated ear buds and wiring to connect to an audio device, such as an iPhone or other mp3
+player, which Jerry Leigh sells under the trademark HB3 Technology™. (Leigh Decl., ¶ 5.) 4
+The HB3 Technology™ products provide users with the ease and convenience of not having to
+remember to bring separate ear buds to listen to music on their iPhone or other audio device
+while wearing a garment incorporating the HB3 Technology™. (Id.)
+Among other products, the HB3 Technology™ is used in Jerry Leigh’s proprietary brand
+of “Hoodie Buddie™” products, in which the HB3 Technology™ lanyard is built into the hood
+
+4
+
+Declaration of Andrew Leigh in Support of Defendants’ Opposition to Motion for Temporary
+Restraining Order and Preliminary Injunction (“Leigh Decl.”).
+10
+
+Case 2:10-cv-00829-TC -SA Document 20
+
+Filed 09/07/10 Page 17 of 45
+
+of a hoodie, appearing similar to conventional drawstrings, with wiring inside the garment to
+connect the ear buds to an audio device in a pocket of the garment. (Id., ¶ 7.) Jerry Leigh
+introduced the first products in the Hoodie Buddie™ line in the fall of 2009 and since that time
+has invested in an extensive marketing and public relations campaign, including on the Internet,
+on television, and in print. (Id., ¶¶ 7-8; Silver Decl., ¶¶ 6-8.)
+The design and construction of the HB3 Technology™ lanyard and ear bud enclosures
+protects the ear bud electronics and wiring from physical abuse and thus helps enable them to
+better survive the shock of machine wash cycles, unlike previously known waterproof earphones.
+(Leigh Decl., ¶ 6.) In contrast to the requirement of all of the claims of the ‘192 patent that the
+wire connecting the earphones “acts as a drawstring for the hood,” the HB3 Technology™
+lanyard is specifically designed to avoid using the wire as a drawstring. (Leigh Decl., ¶ 9-11 and
+Exhibit A.)
+The HB3 Technology™ lanyard was designed to protect the wire from being pulled to
+help prevent damage and reduce wear on the electronic connections and components. (Leigh
+Decl., ¶ 9.) If the wire itself is used to act as a drawstring, the tension of pulling on the wire can
+damage and/or break the wire and related electronic connections and components. (Id., ¶ 10.)
+To avoid these problems, the wire in the HB3 Technology™ lanyard is substantially
+longer than the lanyard within which it is loosely contained, so there is always slack on the wire
+within the lanyard, as illustrated in the below diagram of the current design of the HB3
+Technology™ lanyard. (Id.; Exhibit A.)
+
+11
+
+Case 2:10-cv-00829-TC -SA Document 20
+
+Filed 09/07/10 Page 18 of 45
+
+As can be seen in the diagram above, the wire within the HB3 Technology™ lanyard,
+denoted by reference numeral 6, is substantially longer than the lanyard, denoted by reference
+numeral 5. (Id., ¶ 11.) As a result of this construction, the lanyard, not the wire, bears the load
+when the lanyard is pulled. (Id.) As such, the wire within the HB3 Technology™ lanyard
+physically cannot act as a drawstring because the wire cannot be pulled to tighten or close the
+opening of the hood. (Id.) Accordingly, there can be no infringement of the ‘192 patent literally
+or equivalently, as a matter of law.
+In addition, there can be no indirect infringement because the HB3 Technology™ lanyard
+can be used in many different kinds of garments, not just hooded garments. (Silver Decl., ¶ 5;
+Leigh Decl., ¶ 12.) As an example, the HB3 Technology™ can be used in garments that do not
+have a hood, including but not limited to, by running the lanyard around the collar of a garment
+such as a blazer or other jacket without a hood. (Leigh Decl., ¶ 12.) In addition, the HB3
+
+12
+
+Case 2:10-cv-00829-TC -SA Document 20
+
+Filed 09/07/10 Page 19 of 45
+
+Technology™ lanyard is suitable for use in hooded garments that are expressly designed not to
+have a functional drawstring in the hood, including but not limited to, in hooded garments having
+drawstrings secured at or near the point where they exit the hood to prevent the drawstring from
+tightening or closing the hood opening. (Id.) Such designs are desirable, among other reasons,
+because they further protect the ear bud wire against damage and wear from being pulled. (Id.)
+E.
+
+The Prior Art
+
+The ‘192 patent is invalid due to anticipation under 35 U.S.C. § 102 and/or obviousness
+under 35 U.S.C. § 103 because the subject matter claimed in the ‘192 patent, including the
+Earphone Wire Drawstring feature, was expressly or inherently disclosed and/or strongly
+suggested in numerous prior art patents, products, and printed publications.
+As shown in Exhibit R, U.S. Patent 2,285,083, entitled “Two-way Radio Garment,”
+which was filed on March 30, 1940, and issued on June 2, 1942, the notion of integrating
+earphones and wiring in garments is a very old concept indeed. (Defendants’ Prior Art Exhibit
+2-N.) In January of 2004, more than a year and a half before the application for the ‘192 patent
+was filed on September 13, 2005, the sportswear manufacturer O’Neill announced a hooded
+jacket called “The Hub” that included the Earphone Wire Drawstring feature.
+The image reproduced below from Exhibit E, an article dated January 16, 2004, regarding
+the O’Neill jacket on the website Cellular Online (“January 2004 Cellular Online Article”),
+discloses each and every limitation of claim 1 of the ‘192 Patent, including the Earphone Wire
+Drawstring limitation. (Defendants’ Prior Art Exhibit 2-A.)
+
+13
+
+Case 2:10-cv-00829-TC -SA Document 20
+
+Filed 09/07/10 Page 20 of 45
+
+As can be seen at right, the image of the O’Neill
+jacket in the January 2004 Cellular Online Article
+discloses a hooded garment with the drawstring
+passageway clearly visible along the border of the hood
+and earphone wires emerging from that passageway,
+acting as a drawstring for the hood. (Defendants’ Prior
+Art Exhibit 2-A.) Thus, the January 2004 Cellular
+Online Article discloses the Earphone Wire Drawstring
+feature, as well as the other limitations of claim 1 of the
+‘192 patent.
+
+Additional views of the O’Neill jacket from the website Gizmag are shown above, which
+also clearly disclose the earphone wire emerging from the drawstring passageway on the hood,
+
+14
+
+Case 2:10-cv-00829-TC -SA Document 20
+
+Filed 09/07/10 Page 21 of 45
+
+acting as a drawstring for the hood. (Defendants’ Prior Art Exhibits 2-A through 2-D; see also
+Defendants’ Prior Art Exhibits 2-E through 2-I.)
+In addition, the Earphone Wire
+Drawstring feature, as well as the other
+limitations of claim 1 of the ‘192 patent, is
+disclosed in U.S. Patent Application
+Publication 2006/0075537 (“Tsai
+Application”), which is effective as prior art
+under 35 U.S.C. § 102(e) as of its filing date
+of October 8, 2004. (Defendants’ Prior Art
+Exhibit 2-L; FIG. 7 shown at right.)
+The Tsai Application discloses a jacket or pullover in which an earpiece set E′ having
+two earpiece wires E1′ and E2′ are integrated between inner and outer layers of the hood 50′ of
+the garment and emerge through earpiece openings 58′ and 59′, i.e., the Earphone Wire
+Drawstring feature. ( Defendants’ Prior Art Exhibit 2-L, FIGS. 7, 8 and 11; ¶ [0054]; see also
+¶¶ [0011], [0016], [0021].)
+The Earphone Wire Drawstring feature also is disclosed in U.S. Patent Application
+Publication 2006/0147052 (“Wikel Application”), a copy of which is attached as Exhibit Q,
+which is effective as prior art under 35 U.S.C. § 102(e) as of its filing date of January 4, 2005.
+(Defendants’ Prior Art Exhibit 2-M.) The Wikel Application describes the Earphone Wire
+Drawstring feature as an alternative embodiment of the cap shown in Figure 7, as follows: “an
+exemplary audio headset comprising first and second earphone portions interconnected by a
+lanyard is installed within a garment in the exemplary form of a cap 700. Alternatively, the cap
+
+15
+
+Case 2:10-cv-00829-TC -SA Document 20
+
+Filed 09/07/10 Page 22 of 45
+
+may be a hood integrated with a coat or other clothing article.” (Defendants’ Prior Art Exhibit 2M, ¶ [0021]; see also FIG 7.)
+Also highly relevant is U.S. Patent 6,753,756
+(“Marmaropoulos Patent”), a copy of which is
+attached as Exhibit S, entitled “Control Device for
+Wearable Electronics,” which is effective as prior art
+under 35 U.S.C. § 102(e) as of its priority filing date
+of January 11, 2001. (Defendants’ Prior Art Exhibit
+2-O.) Figure 1 of the Marmaropoulos Patent,
+reproduced at right, discloses a hooded garment 10
+with earphones 20 incorporated in the hood 12.
+(Defendants’ Prior Art Exhibit 2-O, FIG. 1; see also
+col. 2, lines 22-60.)
+The Marmaropoulos Patent further disclosed two cords 22, 24, ending in toggles 26, 28,
+which are integrated within the garment 10 and emerge through eyelets 30, 32 near the location
+of traditional drawstrings to provide controls for a built-in radio 16. (Id.) Although different
+than the configuration claimed in claim 1 of the ‘192 patent, the Marmaropoulos Patent
+demonstrates that the art of integrating electronic wiring in clothing was advanced long before
+the application for the ‘192 patent was filed.
+
+16
+
+Case 2:10-cv-00829-TC -SA Document 20
+
+III.
+
+Filed 09/07/10 Page 23 of 45
+
+THE MOTION FOR TEMPORARY RESTRAINING ORDER AND
+PRELIMINARY INJUNCTION SHOULD BE DENIED IN ITS ENTIRETY
+A.
+
+Applicable Legal Standards
+
+The U.S. Supreme Court recently emphasized that, “A preliminary injunction is an
+extraordinary remedy never awarded as of right.” Winter v. NRDC, Inc., 129 S. Ct. 365, 376
+(2008) (emphasis added). The Federal Circuit likewise has held that a preliminary injunction for
+patent infringement is “drastic and extraordinary remedy that is not to be routinely granted.”
+National Steel Car, Ltd. v. Canadian Pacific Railway, Ltd., 357 F.3d 1319, 1324 (Fed. Cir.
+2004); see also Voile Mfg. Corp. v. Dandurand, 551 F. Supp. 2d 1301, 1306 (D. Utah 2008) (this
+Court reviewing the recent case law regarding preliminary injunctions in patent cases).
+In ruling on a motion for a preliminary injunction for patent infringement, a court must
+consider four factors: (1) the moving party’s reasonable likelihood of success on the merits; (2)
+whether the moving party will suffer irreparable harm if a preliminary injunction is not granted;
+(3) whether the balance of hardships tips in favor of the moving party; and (4) whether the public
+interest favors the grant of a preliminary injunction. Anton/Bauer, Inc. v. PAG, Ltd., 329 F.3d
+1343, 1348 (Fed. Cir. 2003).
+The Court must consider all four factors before granting a preliminary injunction, while
+the Court may deny a preliminary injunction if the moving party fails to make a showing on any
+one of the four factors, particularly the first two. Jack Guttman, Inc. v. Kopykake Enters., Inc.,
+302 F.3d 1352, 1356 (Fed. Cir. 2002).
+Plaintiffs have offered nothing here but unsupported factual conclusions regarding
+possible irreparable harm they may suffer absent a preliminary injunction, which is insufficient
+as a matter of law. Plaintiffs also have failed to show a likelihood of success on the merits.
+
+17
+
+Case 2:10-cv-00829-TC -SA Document 20
+
+Filed 09/07/10 Page 24 of 45
+
+Either one of these failures is independently fatal to Plaintiffs’ request for preliminary injunctive
+relief. Taken together, these failures demonstrate conclusively that preliminary injunctive relief
+is not appropriate in this case.
+B.
+
+Plaintiffs Failed to Show a Likelihood of Success on the Merits
+
+With regard to the requirement of a likelihood of success on the merits, Plaintiffs must
+show, in light of the burdens that will inhere at trial, that (1) they will likely prove infringement
+and (2) Defendants’ challenges to the validity and enforceability of the ‘192 patent “lack
+substantial merit.” Anton/Bauer, 329 F.3d at 1348, citing Purdue Pharma L.P. v. Boehringer
+Ingelheim GmbH, 237 F.3d 1359, 1363 (Fed. Cir. 2001). The proper construction of the claim
+language is the first step in the analysis of these issues.
+1.
+
+Claim Construction5
+
+It is a “bedrock principle” of patent law that “the claims of a patent define the invention
+to which the patentee is entitled the right to exclude.” Phillips v. AWH Corp., 415 F.3d 1303,
+1312 (Fed. Cir. 2005), cert. denied, 126 S. Ct. 1332 (2006). In general, the ordinary meaning of
+the language of the claims of the ‘192 patent is readily apparent. See Id. at 1314. However, as
+discussed below, the arguments made to obtain the issuance of the ‘192 patent expressly
+disclaimed wiring that is simply moveable within a passageway and narrowed the scope of the
+claims to require that the wiring must actually be used to tighten or close the hood opening.
+
+5
+
+Defendants expressly reserve the right to assert other claim construction positions as this
+matter progresses, including but not limited to, in light of information obtained in discovery and
+in response to arguments made by Plaintiffs.
+18
+
+Case 2:10-cv-00829-TC -SA Document 20
+
+a.
+
+Filed 09/07/10 Page 25 of 45
+
+The Claim Limitation “Acts as a Drawstring for the Hood”
+Should be Construed to Mean: “The Wire Must be Used to
+Tighten or Close the Hood Opening. Moveable Wiring Within
+the Drawstring Passageway is Not Wiring That Acts as a
+Drawstring.”
+
+Statements made during prosecution of a patent affect the scope of the claims. Computer
+Docking Station Corp. v. Dell, Inc., 519 F.3d 1366, 1374-1375 (Fed. Cir. 2008). Claims should
+not be construed “one way in order to obtain their allowance and in a different way against
+accused infringers.” Chimie v. PPG Indus., 402 F.3d 1371, 1384 (Fed. Cir. 2005). As discussed
+further below, the express disclaimers and definitions provided to the PTO Examiner during
+prosecution of the ‘192 patent mandate the following construction of the claim limitation “acts as
+a drawstring for the hood”:
+“The wire must be used to tighten or close the hood opening. Moveable
+wiring within the drawstring passageway is not wiring that acts as a
+drawstring.”
+b.
+
+The Literal Scope of the Earphone Wire Drawstring
+Limitation is Limited by Statements Made During Prosecution
+of the ‘192 Patent
+
+“[A] patentee may limit the meaning of a claim term by making a clear and unmistakable
+disavowal of scope during prosecution.” Computer Docking Station, 519 F.3d at 1374-1375,
+citing Purdue Pharma L.P. v. Endo Pharms., Inc., 438 F.3d 1123, 1136 (Fed. Cir. 2006). A
+patentee can do so, for example, by clearly characterizing the invention in a way to try to
+overcome rejections based on prior art. Id., citing Microsoft Corp. v. Multi-Tech Sys., Inc., 357
+F.3d 1340, 1349 (Fed. Cir. 2004); Alloc, Inc. v. ITC, 342 F.3d 1361, 1372 (Fed. Cir. 2003); Bell
+Atl. Network Servs. v. Covad Commc’ns Group, Inc., 262 F.3d 1258, 1273 (Fed. Cir. 2001).
+The Federal Circuit explained in Computer Docking Station that the doctrine of
+prosecution disclaimer “protects the public’s reliance on definitive statements made during
+
+19
+
+Case 2:10-cv-00829-TC -SA Document 20
+
+Filed 09/07/10 Page 26 of 45
+
+prosecution” by “precluding patentees from recapturing through claim interpretation specific
+meanings clearly and unmistakably disclaimed during prosecution.” Id. (citations omitted). As
+noted above, in order to obtain the ‘192 patent, the inventors submitted in “Amendment A” a
+number of arguments to the PTO Examiner that clearly and unmistakably disclaimed subject
+matter and thus limited the scope of the claims. (Prosecution History File, Exhibit 1 at pp. 92101, “Amendment A,” dated June 10, 2008.)
+In “Amendment A,” LL&L’s inventors
+sought to distinguish the prior art reference Eves on
+the basis that it failed to “teach or suggest wiring
+that ‘acts as a drawstring’ as claimed in applicants’
+claim 1.” (Prosecution History File, Exhibit 1 at pp.
+92-101, “Amendment A,” dated June 10, 2008.)
+With reference to Figures 7 and 8 of Eves,
+reproduced at right, LL&L’s inventors admitted that
+Eves disclosed moveable wiring within a
+passageway, but in order to distinguish the reference
+they argued that this was not wiring that “acts as a
+drawstring”.
+The above Figure 7 of Eves is virtually identical to the “Tillbury Figure 5” reproduced
+and discussed on page 10 of Plaintiffs Memorandum. During prosecution of the ‘192 patent,
+LL&L’s inventors argued to the PTO Examiner:
+Eves teaches wiring that is moveable within the internal passageways in the
+clothing. Moveable wiring within a passageway is not wiring that acts as a
+drawstring. The moveable wiring disclosed in Eves serves to minimize the
+
+20
+
+Case 2:10-cv-00829-TC -SA Document 20
+
+Filed 09/07/10 Page 27 of 45
+
+amount of loose cable. In one embodiment shown in figures 7 and 8 in Eves this
+wiring emerges “discretely from the collar close to the user’s ears such that there
+is a minimum of loose cable.” Eves does not teach or suggest that this wiring
+be used to tighten or close an opening in the clothing. The disclosure does not
+show or explain that the wiring goes around the periphery of the collar so that the
+wiring could possibly be used as a drawstring.
+(Id., pp. 98-99 (emphasis added).)
+These arguments make a clear and unmistakable disavowal of claim scope that should be
+reflected in the Court’s construction of the claims. Computer Docking Station, 519 F.3d at 13741375. LL&L’s inventors expressly disavowed coverage of wiring that is merely moveable
+within a passageway around the periphery of an opening in a garment because this subject matter
+was anticipated by Eves. Rather, as noted above, to distinguish Eves, LL&L’s inventors argued
+that wiring only “acts as a drawstring” as required in the claims if it is “used to tighten or close
+an opening”. The PTO Examiner indicated in the Notice of Allowance that this feature was the
+reason for allowing the claims of the ‘192 patent. (Prosecution History File, Exhibit 1 at pp.
+123, Notice of Allowance dated December 22, 2008.)
+Accordingly, because the claims must be construed the same way against accused
+infringers as they were construed to obtain their allowance, the claim limitation “acts as a
+drawstring for the hood” should be construed as set forth above. Otherwise, LL&L improperly
+could recapture through claim interpretation specific meanings that were clearly and
+unmistakably disclaimed during prosecution. Computer Docking Station, 519 F.3d at 13741375.
+c.
+
+Prosecution History Estoppel Precludes Application of the
+Doctrine of Equivalents
+
+In addition, Plaintiffs are estopped from asserting infringement under the doctrine of
+equivalents to encompass subject matter beyond the literal scope of the claims. “Prosecution
+
+21
+
+Case 2:10-cv-00829-TC -SA Document 20
+
+Filed 09/07/10 Page 28 of 45
+
+history estoppel precludes a patentee from obtaining under the doctrine of equivalents coverage
+of subject matter that has been relinquished during the prosecution of its patent application.”
+Pharmacia & Upjohn Co. v. Mylan Pharms., Inc., 170 F.3d 1373, 1376 (Fed. Cir. 1999). A
+number of activities during prosecution may give rise to prosecution history estoppel, including
+arguments made to obtain allowance of the claims at issue. Id.
+Having distinguished the Eves prior art reference, which admittedly disclosed wiring
+moveable within a passageway around the periphery of the collar of a jacket, on the grounds that
+it allegedly failed to include the Earphone Wire Drawstring limitation because it did not show
+that the wiring was “used to tighten or close [the] opening,” Plaintiffs expressly disclaimed all
+equivalents for this claim limitation. Pharmacia & Upjohn, 170 F.3d at 1376. Accordingly,
+prosecution history estoppel precludes Plaintiffs from asserting the doctrine of equivalents with
+respect to the Earphone Wire Drawstring limitation.
+2.
+
+The HB3 Technology™ Products Do Not Infringe as a Matter of Law
+Because They Do Not Include A Wire That “Acts as a Drawstring for
+the Hood”
+
+“To prove infringement, the patentee must show that the accused device meets each claim
+limitation, either literally or under the doctrine of equivalents.” Playtex Prods., Inc. v. Procter &
+Gamble Co., 400 F.3d 901, 906 (Fed. Cir. 2005).
+a.
+
+There is No Direct Infringement as a Matter of Law
+
+As discussed above, the HB3 Technology™ products are specifically designed to prevent
+using the ear bud wire as a drawstring to protect the wire and associated electronic connections
+from wear and damage. (See Leigh Declaration ¶¶ 6-8.) The HB3 Technology™ lanyard
+physically prevents the wire from being pulled by design. Thus, the wire within the HB3
+Technology™ lanyard cannot act as a drawstring because the wire cannot be pulled to tighten or
+
+22
+
+Case 2:10-cv-00829-TC -SA Document 20
+
+Filed 09/07/10 Page 29 of 45
+
+close the opening of the hood, as the inventors argued to the PTO Examiner is required in order
+for the wire to “act as s drawstring”. (Id. at ¶ 7.) As such, the wire within the HB3
+Technology™ lanyard is similar to the wire in the Eves prior art reference, in that it is moveable
+within a passageway around the periphery of an opening but does not “act as a drawstring”
+within the meaning of the claim as construed by the inventors to the PTO Examiner because it is
+not used to tighten or close the opening of the hood.
+b.
+
+Plaintiffs Have Not Alleged Facts Sufficient To State a Claim
+for Infringement by Inducement
+
+Because the HB3 Technology™ lanyard can be used in many different kinds of garments,
+not just hooded garments, see Leigh Declaration, ¶ 8, and because there is no allegation nor
+competent evidence of the state of mind on the part of Defendants that is required for indirect
+infringement, there can be no infringement by inducement or contributory infringement. See,
+e.g., DSU Med. Corp. v. JMS Co., 471 F.3d 1293, 1297 (Fed. Cir. 2006) (en banc).
+To properly state a claim for inducing infringement a plaintiff is required to allege that
+the “defendant possessed the requisite knowledge or intent to be held vicariously liable.”
+Mallinckrodt, Inc. v. EZ-EM INC., 670 F. Supp. 2d 349, 354 (D. Del. 2009) (quoting Dynacore
+Holdings Corp. v. U.S. Philips Corp., 363 F.3d 1263, 1273 (Fed. Cir. 2004)). There certainly
+can be no presumption that Defendants possess the requisite state of mind for indirect
+infringement because, among other reasons, the HB3 Technology™ lanyard can be used in many
+different kinds of garments. (Leigh Decl., ¶ 8.)
+In Mallinckrodt, the Court dismissed claims for inducing infringement because the
+plaintiff didn’t “specifically allege that Defendants had knowledge of the [patent-in-suit] at the
+time they were committing the allegedly infringing activities . . . [n]or does [the complaint]
+
+23
+
+Case 2:10-cv-00829-TC -SA Document 20
+
+Filed 09/07/10 Page 30 of 45
+
+contain sufficient facts on which the Court can reasonably infer an allegation that Defendants
+possessed such knowledge. Further, Plaintiffs do not specifically allege any intent to induce
+infringement.” Mallinckrodt, Inc., 670 F. Supp. 2d at 354, citing DSU, 471 F.3d at 1304. The
+same is true of Plaintiffs’ unsubstantiated attorney arguments at pages 7-8 of their Memorandum.
+Plaintiffs attorney arguments do not even allege that Defendants had the requisite knowledge of
+the ‘192 patent nor specific intent to induce infringement of the patent. On the contrary, the
+noninfringing design of the HB3 Technology™ lanyard demonstrates that Defendants intend not
+to infringe the ‘192 patent. There can be no infringement by inducement under these
+circumstances as a matter of law.
+c.
+
+Plaintiffs Have Not Alleged Facts Sufficient To State a Claim
+for Contributory Infringement
+
+Similarly, to establish contributory infringement, 35 U.S.C. § 271(c) requires Plaintiffs to
+prove that Defendants sold “a component of a patented [device] . . . constituting a material part
+of the invention, knowing the same to be especially made or especially adapted for use in an
+infringement of such patent, and not a staple article or commodity of commerce suitable for
+substantial non-infringing use.” 35 U.S.C. § 271(c) (emphasis added). The fact that the HB3
+Technology™ lanyard is suitable for substantial noninfringing uses is fatal to any claim for
+contributory infringement. (Leigh Decl., ¶ 8.)
+Further, the Mallinckrodt Court observed that liability for contributory infringement
+requires “a showing that the alleged contributory infringer knew that the combination for which
+his component was especially designed was both patented and infringing.” Mallinckrodt, 670 F.
+Supp. 2d at 354-55. Plaintiffs have not shown and cannot show that Defendants knew that the
+HB3 Technology™ lanyard was especially designed to infringe because there are substantial
+
+24
+
+Case 2:10-cv-00829-TC -SA Document 20
+
+Filed 09/07/10 Page 31 of 45
+
+noninfringing uses of the HB3 Technology™ lanyard. (Leigh Decl. ¶ 8.) Accordingly, Plaintiffs
+cannot establish liability for contributory infringement as a matter of law.
+3.
+
+Claim 1 of the ‘192 Patent is Invalid as Being Anticipated and/or
+Obvious Because Numerous Prior Art References Expressly or
+Inherently Disclose and/or Strongly Suggest the Earphone Wire
+Drawstring Limitation
+
+Validity challenges during preliminary injunction proceedings can be successful, that is,
+they may raise substantial questions of invalidity, on evidence that would not suffice to support a
+judgment of invalidity at trial. Amazon.com, Inc. v. Barnesandnoble.com, Inc., 239 F.3d 1343,
+1358 (Fed. Cir. 2001), citing Helifix Ltd. v. Blok-lok, Ltd., 208 F.3d 1339, 1352 (Fed. Cir. 2000).
+As the Federal Circuit explained in Amazon.com:
+In resisting a preliminary injunction, however, one need not make out a case of
+actual invalidity. Vulnerability is the issue at the preliminary injunction stage,
+while validity is the issue at trial. The showing of a substantial question as to
+invalidity thus requires less proof than the clear and convincing showing
+necessary to establish invalidity itself.
+Id. at 1359.
+While the evidentiary burdens at the preliminary injunction stage track the burdens at
+trial, importantly, the ultimate question before the trial court is different. Titan Tire Corp. v. Case
+New Holland, Inc., 566 F.3d 1372, 1377 (Fed. Cir. 2009). As the Federal Circuit reiterated its
+prior holdings in Titan Tire,
+the trial court ‘does not resolve the validity question, but rather must . . . make an
+assessment of the persuasiveness of the challenger’s evidence, recognizing that it
+is doing so without all evidence that may come out at trial.’ Instead of the alleged
+infringer having to persuade the trial court that the patent is invalid, at this stage it
+is the patentee, the movant, who must persuade the court that, despite the
+challenge presented to validity, the patentee nevertheless is likely to succeed at
+trial on the validity issue.
+Id. (emphasis added) (citations omitted).
+With respect to the burden on Plaintiffs on the issue of invalidity, “a patentee need not
+25
+
+Case 2:10-cv-00829-TC -SA Document 20
+
+Filed 09/07/10 Page 32 of 45
+
+establish the validity of a patent beyond question.” Amazon.com, 239 F.3d at 1359. Plaintiffs
+must, however, “present a clear case supporting the validity of the patent in suit.” Id. Such a
+case might be supported, for example, by showing that the patent in suit had successfully
+withstood previous validity challenges in other proceedings. Id. Further support for such a clear
+case might come from a long period of industry acquiescence in the patent’s validity. Id.
+Neither of those considerations benefit Plaintiffs in this case, however, because the ‘192
+patent has never been tested by any form of trial or other adversarial proceeding, and it was
+issued just over a year before the start of this litigation.
+a.
+
+Claim 1 of the ‘192 Patent is Anticipated Under
+35 U.S.C. § 102
+
+A patent claim is invalid due to anticipation under 35 U.S.C. § 102, “if each and every
+element as set forth in the claim is found, either expressly or inherently described, in a single
+prior art reference.” Verdegaal Bros. v. Union Oil Co. of California, 814 F.2d 628, 631 (Fed.
+Cir. 1987); see also 35 U.S.C. § 102.
+On August 17, 2010, Plaintiffs’ counsel was put on notice of the prior art forming the
+basis of Defendants’ preliminary invalidity defenses when it was served with a copy of the Rule
+11 Motion in the First Case, including a copy of the January 2004 Cellular Online Article as well
+as numerous additional prior art references demonstrating that all the claims of the ‘192 patent
+are invalid as being anticipated and/or rendered obvious. (Hansen Decl., Ex. D, which included
+copies of Defendants’ Prior Art Exhibits 2-A through 2-O.) Plaintiffs’ counsel was again put on
+notice of these invalidity defenses in the Rule 11 Motion served on August 25, 2010, in this
+action. (Hansen Decl., Ex. F, which included copies of Defendants’ Prior Art Exhibits 2-A
+through 2-O.)
+
+26
+
+Case 2:10-cv-00829-TC -SA Document 20
+
+Filed 09/07/10 Page 33 of 45
+
+In order to prove their entitlement to preliminary injunctive relief, Plaintiffs bear the
+burden to show that these invalidity defenses “lack substantial merit.” Anton/Bauer, 329 F.3d at
+1348. Plaintiffs’ Memorandum attempts to rebut the invalidity defenses based on the O’Neill
+“Hub” jacket, but Plaintiffs offer no argument as to why Defendants’ other invalidity defenses
+“lack substantial merit.” Id. Accordingly, even if the Court credits Plaintiffs’ arguments
+regarding the O’Neill “Hub” jacket, Plaintiffs failed to meet their burden to show that
+Defendants’ other invalidity defenses, based on the prior art identified in the prior Rule 11
+Motion but not addressed in Plaintiffs Memorandum, lack substantial merit.
+As discussed above, it is admitted in the ‘192 patent that hoodies with drawstrings and
+earphones connected by wires were known in the prior art. (‘192 patent, col. 3, lines 4-6 and 2049.) Moreover, the Background of the Invention section of the ‘192 patent expressly admits that
+it was known in the prior art to pass earphone wiring through clothing to avoid entanglements
+and position the earphones near a user’s ears. (‘192 patent, col. 1, lines 39-46.)
+Accordingly, Plaintiffs’ inventors admitted within the ‘192 patent that all or essentially
+all of the subject matter of claim 1 was known in the prior art. The only alleged patentable
+distinction identified by the Examiner during prosecution of the ‘192 patent was the Earphone
+Wire Drawstring feature. (Prosecution History File, Exhibit 1 at p. 123, Notice of Allowance
+dated December 22, 2008.) However, as discussed above, numerous prior art references
+disclosed the Earphone Wire Drawstring feature and every other limitation of claim 1 of the ‘192
+patent, invalidating the claim. (See Defendants’ Prior Art, Exhibits 2-A through 2-O.)
+Plaintiffs argue that the Tilbury patents cited by the PTO Examiner during the
+prosecution of the ‘192 patent were “similar” to the O’Neill prior art jacket. (Memorandum, pp.
+9-11.) However, unlike the O’Neill prior art jacket, neither of the cited Tilbury patents disclosed
+
+27
+
+Case 2:10-cv-00829-TC -SA Document 20
+
+Filed 09/07/10 Page 34 of 45
+
+a hooded garment with an earphone wire visibly passing through the conventional drawstring
+passageway of the hood.
+The Tilbury patents, as well as the Eves reference, instead disclosed garments without
+hoods that, of course, also lacked the conventional drawstring passageway along the border of a
+hood. In contrast, the images of the O’Neill prior art jacket in Exhibits 2-A, 2-B, and 2-C,
+among others, show both a hood with the conventional drawstring passageway along the border
+of the hood and the earphone wire visibly passing through and emerging from that passageway.
+Even if the use of the earphone wire in the O’Neill prior art jacket as a drawstring is not
+expressly described in the text of the exhibits, that subject matter is nevertheless inherently
+disclosed in the images. The express, implicit, and inherent disclosures of a prior art reference
+may be relied upon to invalidate claims under 35 U.S.C. §§ 102 or 103. “The inherent teaching
+of a prior art reference, a question of fact, arises both in the context of anticipation and
+obviousness.” In re Napier, 55 F.3d 610, 61 (Fed. Cir. 1995).
+The images of the O’Neill Hub jacket included in Exhibits 2-A, 2-B, and 2-C expressly
+show the earphone wire passing through the conventional drawstring passageway along the
+border of the hood. This inherently discloses use of the wire as a drawstring.
+In addition to the documents regarding the O’Neill prior art jacket, the Tsai Application
+discloses the Earphone Wire Drawstring limitation and expressly describes that the wires are
+“integrated between inner and outer layers of the hood 50′ of the garment and emerge through
+earpiece openings 58′ and 59′”. (Defendants’ Prior Art Exhibit 2-L, FIGS. 7, 8 and 11; ¶ [0054];
+see also ¶¶ [0011], [0016], [0021].) This too inherently discloses use of the wire as a
+drawstring, particularly when viewed in the context of the conventional hoodie with a drawstring
+passageway along the border of the hood. The Wikel Application and the Marmaropoulos Patent
+
+28
+
+Case 2:10-cv-00829-TC -SA Document 20
+
+Filed 09/07/10 Page 35 of 45
+
+also disclose the same or very similar subject matter. (Defendants’ Prior Art Exhibits 2-M, 2-O.)
+Plaintiffs failed to provide any arguments to show that Defendants invalidity defenses
+based on the Tsai Application, the Wikel Application, and the Marmaropoulos Patent lack
+substantial merit. In summary, there are multiple prior art references that expressly or inherently
+disclose the Earphone Wire Drawstring limitation and the remaining subject matter of claim 1
+and therefore invalidate the claim due to anticipation.
+b.
+
+Claim 1 of the ‘192 Patent is Obvious Under Section 103
+
+Even if the Court does not find anticipation because it concludes there are differences
+between claim 1 and the prior art, such differences are obvious under 35 U.S.C. § 103. A patent
+claim can be invalid due to obviousness under 35 U.S.C. § 103 if “the differences between the
+subject matter sought to be patented and the prior art are such that the subject matter as a whole
+would have been obvious at the time the invention was made to a person having ordinary skill in
+the art to which said subject matter pertains.” KSR Int’l Co. v. Teleflex Inc., 550 U.S. 398, 406
+(U.S. 2007); 35 U.S.C. § 103.
+As the Supreme Court explained in KSR, a “patent for a combination which only unites
+old elements with no change in their respective functions . . . obviously withdraws what already
+is known into the field of its monopoly and diminishes the resources available to skillful men.”
+KSR, 550 U.S. at 415-416.
+The aforementioned admissions within the ‘192 patent that all of the individual elements
+of claim 1 were known in the prior art are independently sufficient to support a finding of
+obviousness under the Supreme Court’s opinion in KSR without any need for additional prior art
+evidence. (‘192 patent, col. 1, lines 39-46; col. 3, lines 4-6 and 20-49.) Nevertheless,
+Defendants have provided evidence demonstrating that the claimed subject matter, including the
+
+29
+
+Case 2:10-cv-00829-TC -SA Document 20
+
+Filed 09/07/10 Page 36 of 45
+
+Earphone Wire Drawstring feature, was expressly disclosed and/or strongly suggested in
+numerous prior art references. (See Defendants’ Prior Art Exhibits 2-A through 2-O.)
+Even if these prior art references are determined not to describe the identical subject
+matter claimed in the ‘192 patent, which Jerry Leigh contends they do, they undeniably disclose
+subject matter that is extremely similar, and they demonstrate design needs and market pressures
+that would have led a person of ordinary skill in the art to combine admittedly known elements
+in the manner claimed in the ‘192 patent. As the Supreme Court explained in KSR:
+When there is a design need or market pressure to solve a problem and there are a
+finite number of identified, predictable solutions, a person of ordinary skill has
+good reason to pursue the known options within his or her technical grasp. If this
+leads to the anticipated success, it is likely the product not of innovation but of
+ordinary skill and common sense. In that instance the fact that a combination was
+obvious to try might show that it was obvious under § 103.
+KSR, 550 U.S. at 421.
+In short, to the extent anticipation is not found, the subject matter claimed in the ‘192
+patent clearly is obvious under the standards set forth by the Supreme Court in KSR.
+C.
+
+Plaintiffs Failed To Show That They Would Be Irreparably Harmed Absent
+a Preliminary Injunction
+
+In addition to their failure to demonstrate a likelihood of success on the merits, Plaintiffs
+have failed to offer any competent evidence that they would be irreparably harmed absent a
+preliminary injunction. No preliminary injunction may be issued in the absence of a showing of
+irreparable harm, even if the Court determines that Plaintiffs have shown a likelihood of success
+on the merits.
+As the Supreme Court emphasized in Winter, the mere possibility of irreparable harm is
+insufficient to justify a preliminary injunction: “Issuing a preliminary injunction based only on a
+possibility of irreparable harm is inconsistent with our characterization of injunctive relief as an
+
+30
+
+Case 2:10-cv-00829-TC -SA Document 20
+
+Filed 09/07/10 Page 37 of 45
+
+extraordinary remedy that may only be awarded upon a clear showing that the plaintiff is entitled
+to such relief.” Id. at 375-376.
+And, as this Court held in Voile Mfg. Corp. v. Dandurand, 551 F. Supp. 2d 1301, 1306
+(D. Utah 2008), the Supreme Court’s decision in eBay Inc. v. MercExchange, L.L.C., 547 U.S.
+388, 392-94 (2006), discarded the former presumption of irreparable harm based solely on proof
+of infringement of a valid patent. See also Automated Merch. Sys. v. Crane Co., 357 Fed. Appx.
+297, 301 (Fed. Cir. 2009).
+This Court explained in Voile that, “[t]he essence of showing irreparable harm is
+demonstrating an injury that money damages cannot sufficiently remedy.” Voile, 551 F. Supp.
+2d at 1307, citing High Tech Med. Instrumentation, Inc. v. New Image Indus., Inc., 49 F.3d 1551,
+1557 (Fed. Cir. 1995). Consistent with the Supreme Court’s above-quoted cautions in Winter
+against granting injunctions on the basis of possible harm, this Court stated in Voile that, “Courts
+require more than unsupported factual conclusions to support such a finding.” Id.
+1.
+
+Plaintiffs Identified No Specific Potential Harms to Substantiate Their
+Unsupported Factual Conclusions Regarding Lost Market Share and
+Price Erosion
+
+The instant Motion illustrates why competent evidence is required to support a showing
+of irreparable harm sufficient to justify injunctive relief, much like the situation in Voile. In
+Voile, the patentee relied on statements in an affidavit to describe the harms it would suffer if an
+injunction did not issue. Id. The patentee’s affiant stated that the accused product’s presence in
+the market devalued and demoralized his company, made licensing of the asserted patent nearly
+impossible, and eroded the market share for his company’s products, and he also cited diverted
+resources from research and development to the lawsuit. Id.
+Here, Mr. Zhou’s declaration admits that the ‘192 patent has been licensed to two other
+
+31
+
+Case 2:10-cv-00829-TC -SA Document 20
+
+Filed 09/07/10 Page 38 of 45
+
+entities related to Lowdown, and that the license permits LL&L to license the ‘192 patent to
+others, albeit with the consent of the licensees. (Zhou Decl., ¶ 4.) However, because no copy of
+the license agreement was provided, the Court cannot fully consider and corroborate his hearsay
+statements regarding alleged exclusivity under the license. (Zhou Decl., ¶ 4.) Even if the license
+truly is of an exclusive nature, this fact would mean merely that Lowdown is in a position similar
+to a patentee that practices its patented inventions, which still requires proof of specific
+irreparable harm to justify an injunction.
+Mr. Zhou’s Declaration alleges that Lowdown is harmed by the establishment of
+relationships to distribute and sell products infringing the ‘192 patent, but no specifics are
+provided regarding relationships or sales that were lost. (Id. at ¶ 7.) Like the situation in Voile,
+Mr. Zhou does not make clear to the Court how Lowdown is being allegedly devalued by the
+sale of the HB3 Technology™ products. Voile, 551 F. Supp. 2d at 1307. Nor does Mr. Zhou
+point to any customers, distributors, or potential licensees who have refused to enter agreements
+because of the presence of the HB3 Technology™ products in the market. Id. And there is no
+evidence before the Court regarding the sales of Lowdown’s products or the overall size of the
+market, making it impossible to determine whether or to what extent Lowdown’s market share
+has been eroded. Id.
+In fact, Mr. Zhou’s admission that Lowdown has not yet entered the market also admits
+that Lowdown has no market share to lose nor any established prices to be eroded. At bottom,
+Lowdown complains about a possible loss in market share. Id. But this type of damage alone
+does not amount to irreparable harm. Id., citing Nutrition 21 v. United States, 930 F.2d 867, 87172 (Fed. Cir. 1991).
+Lost market share must be proven (or at least substantiated with some evidence) in order
+
+32
+
+Case 2:10-cv-00829-TC -SA Document 20
+
+Filed 09/07/10 Page 39 of 45
+
+for it to support entry of a preliminary injunction, because granting preliminary injunctions on
+the basis of speculative loss of market share would result in granting preliminary injunctions “in
+every patent case where the patentee practices the invention.” Id. Further, lost sales standing
+alone are insufficient to prove irreparable harm as a matter of law; if they were sufficient,
+irreparable harm would be found in every case involving a “manufacturer/patentee, regardless of
+circumstances.” Id., citing Abbott Labs. v. Andrx Pharms., Inc., 452 F.3d 1331, 1348 (Fed. Cir.
+2006). Thus, lost sales (without more) are presumed to be compensable through damages, so
+they do not require injunctive relief. Id.
+Plaintiffs have provided nothing more than unsupported factual conclusions here, which
+are insufficient as a matter of law to meet Plaintiffs’ burden. Voile, 551 F. Supp. 2d at 1307.
+This failure of proof of irreparable harm is fatal to Plaintiffs’ request for preliminary injunctive
+relief. Id.; eBay, 547 U.S. at 392-94; Winter, 129 S. Ct. at 376.
+2.
+
+Plaintiffs’ Delay in Seeking Injunctive Relief Shows They Would Not
+Be Irreparably Harmed Absent an Injunction
+
+In addition, the period of delay by a party prior to seeking a preliminary injunction is a
+factor to be considered by a district court in its analysis of irreparable harm. Hybritech, Inc. v.
+Abbott Laboratories, 849 F.2d 1446, 1457 (Fed. Cir. 1988). Plaintiffs’ delay in seeking
+preliminary injunctive relief here is further evidence that they would not be irreparably harmed
+absent an injunction.
+The ‘192 patent issued well over a year ago in April 2009 and, as discussed in Plaintiffs’
+Memorandum and Mr. Zhou’s Declaration, Defendants have made no secret of aggressively
+marketing and distributing the accused HB3 Technology™ products since they were introduced
+in the fall of 2009. Indeed, Mr. Zhou admits that he has seen these advertisements and marketing
+
+33
+
+Case 2:10-cv-00829-TC -SA Document 20
+
+Filed 09/07/10 Page 40 of 45
+
+at industry trade shows, on television, on the Internet, and in print. (Zhou Decl., ¶ 8.)
+Mr. Zhou claims that Lowdown has been aware of the alleged infringement only for two
+months, since July 7, 2010. (Zhou Decl., ¶ 6.) No explanation is provided as to why the present
+Motion was not filed on July 15, 2010, when the complaint in the First Case was filed. Nor is
+any explanation provided as to why that complaint was dismissed without ever being served.
+Nor is any explanation provided as to why the Complaint in this action was not served until as
+late as August 31, 2010. (See, e.g., Docket No. 13, executed summons indicating Kohl's was
+served on August 31, 2010.)
+Importantly, Mr. Zhou’s related entity Dragon Crowd has known of and received
+multiple shipments of HB3 Technology™ products from Jerry Leigh since approximately
+January or February of 2010 because Dragon Crowd contracted with Rusty to manufacture HB3
+Technology™ products for Rusty that included HB3 Technology™ lanyards supplied by Jerry
+Leigh. (Silver Decl., ¶¶ 25-27 and Exhibits A-E.)
+To the extent that Dragon Crowd is licensed under the ‘192 patent, then the Rusty
+products made by Dragon Crowd also were licensed, and this is an independent reason why
+infringement is impossible as a matter of law with respect to such products.
+In any event, Plaintiffs’ delay in seeking preliminary injunctive relief is fundamentally
+inconsistent with the requisite showing of irreparable harm. Hybritech, 849 F.2d at 1457.
+3.
+
+Plaintiffs’ Licensing of the ‘192 Patent Shows They Would Not Be
+Irreparably Harmed Absent an Injunction
+
+Further, the licensing of the ‘192 patent demonstrates that monetary damages are
+adequate to compensate for any infringement. The offer of a license demonstrates that the
+patentee “is willing to forgo its patent rights for compensation” and “suggests that any injury
+
+34
+
+Case 2:10-cv-00829-TC -SA Document 20
+
+Filed 09/07/10 Page 41 of 45
+
+suffered by [the patentee] would be compensable in damages assessed as part of the final
+judgment in the case.” High Tech, 49 F.3d at 1557.
+Plaintiffs allege that the license under the ‘192 patent to Lowdown and “related entities”
+is exclusive, but no copy of the license itself or any other documentation is provided to
+corroborate the hearsay allegations of exclusivity in Mr. Zhou’s Declaration. Plaintiffs’
+admissions that the ‘192 patent has been licensed in the past and may be licensed in the future,
+coupled with their failure to provide any competent evidence to support their hearsay allegations
+of exclusivity of the license to Lowdown and “related entities,” seriously undermine their
+allegations of irreparable harm. Even if the license is exclusive, the fact remains that Plaintiffs
+have provided nothing more than unsupported factual conclusions regarding potential irreparable
+harms.
+Accordingly, Plaintiffs have failed to offer any competent evidence establishing that they
+would be irreparably harmed by the denial of an injunction, and this failure is fatal to Plaintiffs’
+request for injunctive relief. Jack Guttman, 302 F.3d at 1356; eBay, 547 U.S. at 392-94; Winter,
+129 S. Ct. at 376.
+D.
+
+The Balance of Hardships Tips Decidedly in Favor of Defendants
+
+As Mr. Silver explained in his Declaration, if an injunction is granted requiring cessation
+of all sales and manufacturing of all HB3 Technology™ products, products would have to be
+taken off the shelves at the thousands of retail stores that currently carry the HB3 Technology™
+products. (Silver Decl., ¶ 18.) An injunction thus would cause significant disruption to the
+businesses of Defendants Kohl’s, JC Penney, and Hot Topic, who would be required to expend
+substantial resources and employee time to remove the products from store shelves and return
+them to Defendant Jerry Leigh. (Id., ¶¶ 19-24.) And an injunction could cause the loss of
+
+35
+
+Case 2:10-cv-00829-TC -SA Document 20
+
+Filed 09/07/10 Page 42 of 45
+
+employment of a substantial number of employees at Jerry Leigh. (Id., ¶ 18.)
+In addition, Jerry Leigh would be liable for the full wholesale price paid by the retailers,
+and may also be liable for the difference between the retailers’ sales plans and actual sales before
+the injunction. (Id.) Because of the short product cycles and other factors mentioned above,
+returned products likely would be written off as a total loss to Jerry Leigh. (Id.)
+An injunction also would result in the total loss by Jerry Leigh of all the costs that have
+already been incurred and cannot be recovered (“sunk costs”) in connection with the Hoodie
+Buddie™ with HB3 Technology™ products, including design and development costs, outside
+legal fees relating to patent and trademark protection, and marketing and promotion costs. (Id.,
+¶¶ 6-8.)
+Accordingly, taking into account the cost of returns of previously sold items and freight
+for the returns, cancellation of currently open orders, and unsold inventory, as well as the
+unrecoverable “sunk costs” of development and design, intellectual property protection, and
+marketing and promotion, an injunction would result in direct losses to Jerry Leigh in excess of
+approximately $13,500,000, and would result in lost retail sales in excess of approximately
+$23,000,000. (Id., ¶ 23.) Beyond the direct costs of an injunction, an injunction would result in
+severe damage to Defendants’ reputations and relationships in the industry. (Id., ¶ 24.)
+In these circumstances, the balance of hardships tips in favor of Defendants and against
+granting preliminary injunctive relief.
+E.
+
+The Public Interest is Best Served by Denying the Injunction
+
+In general, the public interest inquiry follows the likelihood of success of the merits; that
+is, the public interest is best served by enforcing patents only if they are likely valid and
+infringed. Abbott Labs., 452 F.3d at 1348. As Plaintiffs did not establish a likelihood of success
+
+36
+
+Case 2:10-cv-00829-TC -SA Document 20
+
+Filed 09/07/10 Page 43 of 45
+
+on the merits, as explained above, the public interest is best served by denying the preliminary
+injunction.
+F.
+
+Security in the Amount of at Least $13,500,000 is Appropriate Should
+Preliminary Injunctive Relief Be Granted
+
+No preliminary injunction may issue “except upon the giving of security by the applicant,
+in such sums as the court deems proper, for the payment of such costs and damages as may be
+incurred or suffered by any party who is found to have been wrongfully enjoined or restrained.”
+Fed. R. Civ. P. 65(c). The Tenth Circuit has stated that while the trial court has “wide
+discretion” in setting the amount of the preliminary injunction bond, it must make specific
+factual findings in setting the bond amount for the preliminary injunction. Dominion Video
+Satellite, Inc. v. Echostar Satellite Corp., 269 F.3d 1149, 1158 (10th Cir. 2001).
+As noted in the preceding section, an injunction would result in direct losses to Jerry
+Leigh in excess of approximately $13,500,000, and would result in lost retail sales in excess of
+approximately $23,000,000. (Silver Decl., ¶ 23.) Accordingly, in the event that the Court grants
+the Motion, Defendants request that security of at least $13,500,000 be required before any
+injunction can take effect. FRCP 65(c).
+IV.
+
+CONCLUSION
+For the above-stated reasons, Defendants respectfully request the Court to deny the
+
+Motion in its entirety. To the extent that the Motion is granted, Defendants request the Court to
+require security pursuant to FRCP 65(c) of at least $13,500,000 to pay the costs and damages
+that would be sustained by Defendants if wrongfully enjoined.
+
+37
+
+Case 2:10-cv-00829-TC -SA Document 20
+
+Filed 09/07/10 Page 44 of 45
+
+Respectfully submitted,
+MANATT, PHELPS & PHILLIPS, LLP
+DATED: September 7, 2010
+
+By: ___/s/ Shawn G. Hansen_______________
+Jill M. Pietrini
+Robert D. Becker
+Shawn G. Hansen
+Attorneys for Defendants
+JERRY LEIGH OF CALIFORNIA, INC.
+KOHL’S DEPARTMENT STORES, INC.
+JC PENNEY CORPORATION, INC.
+RUSTY LICENSING, INC.
+HOT TOPIC MERCHANDISING, INC.
+SUN COAST MERCHANDISE
+CORPORATION d/b/a SUN COAST
+
+38
+
+Case 2:10-cv-00829-TC -SA Document 20
+
+Filed 09/07/10 Page 45 of 45
+
+CERTIFICATE OF SERVICE
+I HEREBY CERTIFY that on the 7th day of September, 2010, I filed the foregoing
+electronically through the Court’s CM/ECF system, which caused the following parties or
+counsel to be served by electronic means, as more reflected on the Notice of Electronic Filing:
+
+_____ Hand Delivery
+X CM/ECF system
+_____ Federal Express
+Email
+
+Charles L. Roberts
+croberts@wnlaw.com
+James B. Belshe
+jbelshe@wnlaw.com
+Chad E. Nydegger
+cnydegger@wnlaw.com
+WORKMAN | NYDEGGER
+1000 Eagle Gate Tower
+60 East South Temple
+Salt Lake City, Utah 84111
+Attorneys for Plaintiffs
+LL&L INNOVATIONS, LLC
+LOWDOWN DISTRIBUTION, INC.
+
+/s/ Shawn G. Hansen
+
+300146672.1
+
+39
+
+

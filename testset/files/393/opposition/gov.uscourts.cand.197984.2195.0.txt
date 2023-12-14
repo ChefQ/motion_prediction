@@ -1,0 +1,2278 @@
+Case3:07-cv-05944-SC Document2195 Filed11/06/13 Page1 of 23
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+
+Kenneth A. Gallo (pro hac vice)
+Joseph J. Simons (pro hac vice)
+Craig A. Benson (pro hac vice)
+PAUL, WEISS, RIFKIND, WHARTON & GARRISON LLP
+2001 K Street, NW
+Washington, DC 20006-1047
+Telephone: (202) 223-7300
+Facsimile: (202) 223-7420
+Email: kgallo@paulweiss.com
+Email: jsimons@paulweiss.com
+Email: cbenson@paulweiss.com
+Stephen E. Taylor (SBN 058452)
+Jonathan A. Patchen (SBN 237346)
+TAYLOR & COMPANY LAW OFFICES, LLP
+One Ferry Building, Suite 355
+San Francisco, California 94111
+Telephone: (415) 788-8200
+Facsimile: (415) 788-8208
+Email: staylor@tcolaw.com
+Email: jpatchen@tcolaw.com
+Attorneys for Plaintiffs Sharp Electronics Corporation and
+Sharp Electronics Manufacturing Company of America, Inc.
+
+14
+UNITED STATES DISTRICT COURT
+
+15
+16
+
+NORTHERN DISTRICT OF CALIFORNIA
+SAN FRANCISCO DIVISION
+
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+In re: CATHODE RAY TUBE (CRT) ANTITRUST
+LITIGATION
+
+Case No. 07-cv-5944 SC
+MDL No. 1917
+
+This Document Relates to:
+Sharp Electronics Corp., et al. v. Hitachi Ltd., et al.,
+Case No. 13-cv-1173 SC
+
+SHARP ELECTRONICS
+CORPORATION AND SHARP
+ELECTRONICS
+MANUFACTURING COMPANY OF
+AMERICA, INC.’S OPPOSITION
+TO TOSHIBA DEFENDANTS’
+MOTION TO DISMISS
+Date: December 20, 2013
+Time: 10:00 a.m.
+Place: Courtroom 1, 17th floor
+Judge: Hon. Samuel Conti
+
+26
+27
+28
+PLAINTIFFS’ OPPOSITION TO TOSHIBA DEFENDANTS’ MOTION TO DISMISS
+CASE NOS. 13-1173-SC; MDL NO. 1917
+
+Case3:07-cv-05944-SC Document2195 Filed11/06/13 Page2 of 23
+
+1
+
+TABLE OF CONTENTS
+
+2
+
+Page
+
+3
+
+ISSUES TO BE DECIDED .......................................................................................................... 1
+
+4
+
+INTRODUCTION ........................................................................................................................ 1
+
+5
+
+FACTUAL BACKGROUND .......................................................................................................3
+
+6
+
+ARGUMENT ................................................................................................................................ 5
+
+7
+
+I.
+
+TOSHIBA’S MOTION TO DISMISS BASED ON THE BTA’S FORUM
+SELECTION CLAUSE SHOULD BE DENIED ............................................................. 5
+
+8
+A.
+
+The Sharp Plaintiffs Are Not Parties to or Bound By the BTA ............................ 5
+
+B.
+
+The Sharp Plaintiffs’ Claims Do Not Relate to the BTA...................................... 7
+
+C.
+
+Enforcing the Forum Selection Clause Here Would Violate Public
+Policy By Depriving the Sharp Plaintiffs of Reasonable Recourse
+for Their Claims: Treble Damages in a Court of Competent
+Jurisdiction .......................................................................................................... 12
+
+9
+10
+11
+12
+13
+
+II.
+
+14
+
+THE SHARP PLAINTIFFS’ FINISHED PRODUCT CLAIMS ARE
+PROPER UNDER ILLINOIS BRICK ............................................................................. 14
+
+15
+
+CONCLUSION ........................................................................................................................... 17
+
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+PLAINTIFFS’ OPPOSITION TO TOSHIBA DEFENDANTS’ MOTION TO DISMISS
+CASE NOS. 13-1173-SC; MDL NO. 1917
+i
+
+Case3:07-cv-05944-SC Document2195 Filed11/06/13 Page3 of 23
+
+1
+
+TABLE OF AUTHORITIES
+
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+
+Page(s)
+CASES
+Adams v. Raintree Vacation Exch., LLC,
+702 F.3d 436 (7th Cir. 2012)..................................................................................................... 9
+Anselmo v. Univision Station Group, Inc.,
+No. 92-cv-1471, 1993 WL 17173 (S.D.N.Y. Jan. 15, 1993) .................................................... 8
+Argueta v. Banco Mexicano, S.A.,
+87 F.3d 320 (9th Cir. 1996)....................................................................................................... 5
+In re ATM Fee Antitrust Litig.,
+686 F.3d 741 (9th Cir. 2012)................................................................................................... 15
+Beverly Enters. v. Herman,
+130 F. Supp. 2d 1 (D.D.C. 2000) ........................................................................................ 6, 10
+In re Brand Name Prescription Drugs Antitrust Litig.,
+123 F.3d 599 (7th Cir. 1997)................................................................................................... 15
+Cedars-Sinai Med. Center v. Global Excel Mgmt., Inc.,
+No. 09-cv-3627, 2010 WL 5572079 (C.D. Cal. Mar. 19, 2010)............................................... 8
+City of Moundridge v. Exxon Mobil Corp.,
+471 F. Supp. 2d 20 (D.D.C. 2007) .......................................................................................... 16
+Clinton v. Janger,
+583 F. Supp. 284 (N.D. Ill. 1984) ............................................................................................. 9
+Coal. for ICANN Transparency Inc. v. Verisign, Inc.,
+452 F. Supp. 2d (N.D. Cal. 2006) ............................................................................................. 8
+Comer v. Micor, Inc.,
+436 F.3d 1098 (9th Cir. 2006)................................................................................................. 11
+In re Cathode Ray Tube (CRT) Antitrust Litig.,
+911 F. Supp. 2d 857 (N.D. Cal. 2012) .................................................................................... 16
+
+23
+24
+25
+26
+27
+
+In re CRT Antitrust Litig.,
+No. 07-cv-5944, 2013 WL 4505701 (N.D. Cal. Aug. 21, 2013) ............................................ 16
+Decker Coal Co. v. Commonwealth Edison Co.,
+805 F.2d 834 (9th Cir. 1986)..................................................................................................... 9
+Deloitte Noraudit A/S v. Deloitte Haskins & Sells, U.S.,
+9 F.3d 1060 (2d Cir. 1993).................................................................................................. 9, 10
+
+28
+PLAINTIFFS’ OPPOSITION TO TOSHIBA DEFENDANTS’ MOTION TO DISMISS
+CASE NOS. 13-1173-SC; MDL NO. 1917
+ii
+
+Case3:07-cv-05944-SC Document2195 Filed11/06/13 Page4 of 23
+
+1
+2
+3
+4
+5
+
+E.E.O.C. v. Waffle House, Inc.,
+534 U.S. 279 (2002) .................................................................................................................. 5
+In re G-Fees Antitrust Litig.,
+584 F. Supp. 2d 26 (D.D.C. 2008) .................................................................................... 15, 16
+GECCMC 2005-C1 Plummer St. Office Ltd. P’ship v. JP Morgan Chase Bank,
+N.A.,
+671 F.3d 1027 (9th Cir. 2012)................................................................................................... 6
+
+6
+7
+8
+9
+10
+
+Harrington v. Atl. Sounding Co., Inc.,
+602 F.3d 113 (2d Cir. 2010).................................................................................................... 11
+Herrera v. Katz Comm’ns, Inc.,
+532 F. Supp. 2d 644 (S.D.N.Y. 2008)....................................................................................... 7
+Holland Am. Line Inc. v. Wartsila N. Am. Inc.,
+485 F.3d 450 (9th Cir. 2007)............................................................................................... 9, 12
+
+11
+12
+13
+14
+15
+
+Ill. Brick v. Illinois,
+431 U.S. 720 (1977) ............................................................................................................ 7, 15
+Jewish Hosp. Ass’n v. Stewart Mech. Enters.,
+628 F.2d 971 (6th Cir. 1980)................................................................................................... 15
+Katzir’s Floor & Home Design, Inc. v. M-MLS.COM,
+394 F.3d 1143 (9th Cir. 2004)................................................................................................. 11
+
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+
+Kendall v. Visa U.S.A. Inc.,
+518 F.3d 1042 (9th Cir. 2008)................................................................................................. 16
+Klamath Water Users Protective Ass’n v. Patterson,
+204 F.3d 1206 (9th Cir. 1999)................................................................................................... 6
+Kristian v. Comcast Corp.,
+446 F.3d 25 (1st Cir. 2006) ..................................................................................................... 13
+Lopez v. Smith,
+203 F.3d 1122 (9th Cir. 2000)................................................................................................. 16
+M/S Bremen v. Zapata Offshore Co.,
+407 U.S. 1 (1972) .................................................................................................................... 11
+Mayes v. Leipziger,
+729 F.2d 605 (9th Cir. 1984)................................................................................................... 17
+Manetti-Farrow, Inc. v. Gucci Am., Inc.,
+858 F.2d 509 (9th Cir. 1988)................................................................................................. 5, 9
+
+28
+PLAINTIFFS’ OPPOSITION TO TOSHIBA DEFENDANTS’ MOTION TO DISMISS
+CASE NOS. 13-1173-SC; MDL NO. 1917
+iii
+
+Case3:07-cv-05944-SC Document2195 Filed11/06/13 Page5 of 23
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+In re Mercedes-Benz Antitrust Litig.,
+157 F. Supp. 2d 355 (D.N.J. 2001) ......................................................................................... 16
+Minn. Supply Co. v. Mitsubishi Caterpillar Forklift Am. Inc,
+822 F. Supp. 2d 896 (D. Minn. 2011) ....................................................................................... 6
+Mitsubishi Motors Corp. v. Soler Chrysler-Plymouth, Inc.,
+473 U.S. 614 (1985) .............................................................................................. 10, 11, 13, 14
+Mundi v. Union Sec. Life Ins. Co.,
+555 F.3d 1042 (9th Cir. 2009)................................................................................................. 12
+Murphy v. Schneider Nat’l, Inc.,
+362 F.3d 1133 (9th Cir. 2004)............................................................................................... 5, 7
+Pierce Cnty. Hotel Emps. & Rest. Emps. Health Trust v. Elks Lodge, B.P.O.E. No.
+1450,
+827 F.2d 1324 (9th Cir. 1987)................................................................................................... 6
+
+11
+12
+13
+14
+15
+
+Pratt v. Silversea Cruises, Ltd., Inc.,
+No. 05-cv-0693, 2005 WL 1656891 (N.D. Cal. July 13, 2005).............................................. 12
+Prince Heaton Enters. v Buffalo’s Franchise Concepts, Inc.,
+117 F. Supp. 2d 1357 (N.D. Ga. 2000) ................................................................................... 16
+Pritzker v. Merrill Lynch, Pierce, Fenner & Smith, Inc.,
+7 F.3d 1110 (3d Cir. 1993)........................................................................................................ 9
+
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+
+Putz v. Golden,
+No. 10-cv-0741, 2010 WL 5071270 (W.D. Wash. Dec. 7, 2010) ................................... 12, 13
+Richards v. Lloyd’s of London,
+135 F.3d 1289 (9th Cir. 1998)..................................................................................... 10, 11, 14
+Simula, Inc. v. Autoliv, Inc.,
+175 F.3d 716 (9th Cir. 1999)............................................................................................. 10, 14
+Stereo Gema, Inc. v. Magnadyne Corp.,
+941 F. Supp. 271 (D.P.R. 1996)................................................................................................ 5
+Sunkist Soft Drinks, Inc. v. Sunkist Growers, Inc.,
+10 F.3d 753 (11th Cir. 1993)..................................................................................................... 9
+Time Warner Entm’t Co. v. Everest Midwest Licensee, L.L.C.,
+381 F.3d 1039 (10th Cir. 2004)................................................................................................. 7
+In re TFT-LCD Antitrust Litig.,
+No. 07-cv-1827, 2011 WL 4017961 (N.D. Cal. Sept. 9, 2011) ............................................. 13
+
+28
+PLAINTIFFS’ OPPOSITION TO TOSHIBA DEFENDANTS’ MOTION TO DISMISS
+CASE NOS. 13-1173-SC; MDL NO. 1917
+iv
+
+Case3:07-cv-05944-SC Document2195 Filed11/06/13 Page6 of 23
+
+1
+2
+3
+4
+5
+
+Trosper v. Synthes USA Sales, LLC,
+No. 13-cv-2126, 2013 WL 2898229 (C.D. Cal. June 12, 2013) ............................................. 12
+Udom v. Fonseca,
+846 F.2d 1236 (9th Cir. 1988)................................................................................................. 17
+U.S. for the Use & Benefit of Union Bldg. Materials Corp. v. Haas & Haynie
+Corp.,
+577 F.2d 568 (9th Cir. 1978)..................................................................................................... 6
+
+6
+7
+8
+9
+10
+
+Universal Grading Serv. v. eBay, Inc.,
+No. 08-cv-3557, 2009 WL 2029796 (E.D.N.Y. June 10, 2009) ............................................... 9
+Vimar Seguros y Reaseguros, S.A. v. M/V Sky Reefer,
+515 U.S. 528 (1995) ................................................................................................................ 13
+Whetstone Candy Co., Inc. v. Kraft Foods, Inc.,
+351 F.3d 1067 (11th Cir. 2003)................................................................................................. 6
+
+11
+OTHER AUTHORITIES
+12
+13
+14
+
+Fed. R. of Civ. P. 12(b)(3) .............................................................................................................. 5
+Restatement (Second) of Contracts § 202(4) (1981) ...................................................................... 6
+
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+PLAINTIFFS’ OPPOSITION TO TOSHIBA DEFENDANTS’ MOTION TO DISMISS
+CASE NOS. 13-1173-SC; MDL NO. 1917
+v
+
+Case3:07-cv-05944-SC Document2195 Filed11/06/13 Page7 of 23
+
+1
+
+ISSUES TO BE DECIDED
+1. Whether a forum selection clause in a Japanese 1977 contract between non-
+
+2
+3
+
+party Sharp Corporation and Toshiba Corporation, that no plaintiff signed, that no plaintiff is
+
+4
+
+party to, which reflects no intention to apply internationally or to non-parties to the agreement,
+
+5
+
+and which is not the contract governing the transactions at issue, prevents plaintiffs from bringing
+
+6
+
+Sherman Act and related state law claims in a United States court for their U.S. purchases?
+2. Whether the Sharp Plaintiffs’ allegations suffice to establish that their
+
+7
+8
+
+purchases of CRT finished products under the Sherman Act fall under the Illinois Brick exception
+
+9
+
+for ownership or control, like the Direct Purchaser Plaintiffs and other Direct Action Plaintiffs?
+
+10
+
+INTRODUCTION
+The Toshiba Defendants’ motion to dismiss should be denied.1 Their venue
+
+11
+12
+
+argument is based entirely on a forum selection clause in a 1977 “Basic Transaction Agreement”
+
+13
+
+(the “BTA”) that neither of the two plaintiffs in this case ever executed. The two companies that
+
+14
+
+are plaintiffs here—New Jersey-based Sharp Electronics Corporation and California-based Sharp
+
+15
+
+Electronics Manufacturing Company of America (the “Sharp Plaintiffs”)—are United States
+
+16
+
+companies, and they are not now, and have never been, parties to the BTA. The BTA does not
+
+17
+
+apply to them and does not govern their relationship with the Toshiba Defendants. The Sharp
+
+18
+
+Plaintiffs’ claims are based on their purchases in the United States of price-fixed CRTs and of
+
+19
+
+finished products containing CRTs manufactured by defendants and conspirators—purchases that
+
+20
+
+were governed by entirely separate agreements.
+The BTA is instead between two Japanese corporations, Tokyo Shibaura Electric
+
+21
+22
+
+Corporation (“Tokyo Shibaura,” a former official name of Toshiba Corporation) and Sharp
+
+23
+
+Corporation. Sharp Corporation is not a party to this lawsuit and none of the claims at issue are
+
+24
+
+for Sharp Corporation purchases from Toshiba Corporation. The BTA does not even purport to
+
+25
+
+bind other companies, including subsidiaries or other entities related to Sharp Corporation, such
+
+26
+
+as the Sharp Plaintiffs. The Toshiba Defendants’ motion should be denied on this ground alone.
+
+27
+
+1
+
+28
+
+The moving Toshiba Defendants are Toshiba Corporation, Toshiba America, Inc., Toshiba
+America Information Systems, Inc., and Toshiba America Electronic Components, Inc.
+PLAINTIFFS’ OPPOSITION TO TOSHIBA DEFENDANTS’ MOTION TO DISMISS
+CASE NOS. 13-1173-SC; MDL NO. 1917
+1
+
+Case3:07-cv-05944-SC Document2195 Filed11/06/13 Page8 of 23
+
+1
+
+Not surprisingly, there are other defects with the motion to dismiss. The forum
+
+2
+
+selection clause in the BTA also does not apply to this case because the claims at issue here do
+
+3
+
+not “relate” to that agreement. The BTA relates only to domestic Japanese transactions between
+
+4
+
+Toshiba Corporation and Sharp Corporation. The claims here, by contrast, arise out of purchases
+
+5
+
+of CRTs or CRT Products made by the Sharp Plaintiffs solely in the United States. The Sharp
+
+6
+
+Plaintiffs, in fact, entered into their own separate agreements to purchase CRTs during the
+
+7
+
+conspiracy period. An exemplar CRT agreement with Toshiba America Electronics Components
+
+8
+
+(“TAEC”) contains its own terms and conditions that are inconsistent with terms in the BTA. The
+
+9
+
+applicable CRT agreement, for example, says not one word about disputes being resolved in
+
+10
+
+Osaka, Japan. Instead, it contemplates proceedings in United States courts by specifying that the
+
+11
+
+governing law for any disputes is Tennessee state law and requiring compliance with U.S. federal
+
+12
+
+law, which, of course, includes the Sherman Act. The CRT agreement also contains an
+
+13
+
+integration clause that recites it is the only agreement related to that subject matter. This clause
+
+14
+
+excludes application of the BTA to the claims here.
+
+15
+
+Third, enforcing the BTA’s forum selection clause against the Sharp Plaintiffs
+
+16
+
+would deprive them of rights and remedies available under U.S. law and thus violate public
+
+17
+
+policy. Not only would the Osaka District Court lack jurisdiction over this dispute, but even if it
+
+18
+
+could exercise jurisdiction, it could not award the Sharp Plaintiffs the treble damages to which
+
+19
+
+they would be entitled under U.S. law. Japanese law does not permit the award of treble
+
+20
+
+damages. In short, the Sharp Plaintiffs could not bring the claims they assert here in the Osaka
+
+21
+
+District Court. There can be no serious argument that the Sharp Plaintiffs waived their right to
+
+22
+
+bring such claims by virtue of a document to which they are not even a party.
+
+23
+
+Finally, in the second part of their motion, the Toshiba Defendants seek to revisit
+
+24
+
+legal rulings by this Court on the question of claims for finished CRT products. Twice this Court
+
+25
+
+has permitted claims for finished CRT products to proceed under the “ownership or control
+
+26
+
+exception” to Illinois Brick. For the same reasons that the Court permitted the Direct Purchaser
+
+27
+
+Class Plaintiffs’ and the other Direct Action Plaintiffs’ claims to proceed to discovery, it should
+
+28
+
+permit the Sharp Plaintiffs’, as well.
+PLAINTIFFS’ OPPOSITION TO TOSHIBA DEFENDANTS’ MOTION TO DISMISS
+CASE NOS. 13-1173-SC; MDL NO. 1917
+2
+
+Case3:07-cv-05944-SC Document2195 Filed11/06/13 Page9 of 23
+
+FACTUAL BACKGROUND
+
+1
+
+New Jersey-based Sharp Electronics Corporation and California-based Sharp
+2
+Electronics Manufacturing Company of America, Inc. bought price-fixed cathode ray tubes
+3
+(CRTs) directly from the defendants in the United States, and also purchased “CRT Products”
+4
+from “OEMs as well as others” containing price-fixed CRTs that had been manufactured by the
+5
+defendants. Compl. ¶¶ 30, 218. Because this Court is generally familiar with the details of the
+6
+alleged conspiracy, we do not rehearse them here. The Complaint names as defendants
+7
+participating in the conspiracy Toshiba Corporation; Toshiba America, Inc.; Toshiba America
+8
+
+Electronic Components, Inc.; and, Toshiba America Information Systems, Inc.2 Compl. ¶¶ 65-69.
+
+9
+Throughout the conspiracy period, the Sharp Plaintiffs purchased CRTs from the
+10
+Toshiba Defendants through Purchase Orders containing mandatory terms and conditions. See
+11
+Attach. 1, Decl. of Vince Sampietro, Ex. A (Purchase Order (“PO”)). These Purchase Orders
+12
+contained essential commercial terms relating to the price, delivery, and course of performance
+13
+for the sale of the CRTs. See id. They specified, among other things, that any disputes would be
+14
+governed by Tennessee law, and they guaranteed that the Seller would comply with U.S. “federal
+15
+and state” laws, including the “Occupational Safety Health Act of 1970.” Id. at ¶¶ 9, 13. They
+16
+also included an integration clause which stated that the Purchase Order “shall constitute the
+17
+entire agreement between the Seller and the Buyer and no other understanding shall limit[,]
+18
+modify, or vary its terms unless reduced to writing.” Id. at ¶ 3. These Purchase Orders are the
+19
+contracts that governed the Sharp Plaintiffs’ purchases of CRTs from the Toshiba Defendants.
+20
+See Attach. 1, Decl. of Vince Sampietro, ¶ 3. The Toshiba Defendants have identified no writing
+21
+that purports to limit, modify or vary the terms of these agreements.
+22
+Japan-based Sharp Corporation is the ultimate parent corporation for the Sharp
+23
+Plaintiffs. Sharp Corporation is not a party to this lawsuit, however, and it does not make
+24
+purchases in the United States of CRTs or CRT Products. In 1977, Tokyo Shibaura Electric
+25
+Corporation entered into the BTA with Sharp Corporation. See Mot. to Dismiss, Attach. 3. The
+26
+27
+28
+
+2
+
+Plaintiffs also brought suit against Matsushita Toshiba Picture Display Co., Ltd.—a joint
+venture between Toshiba Corporation and Matsushita. Compl. ¶ 51.
+PLAINTIFFS’ OPPOSITION TO TOSHIBA DEFENDANTS’ MOTION TO DISMISS
+CASE NOS. 13-1173-SC; MDL NO. 1917
+3
+
+Case3:07-cv-05944-SC Document2195 Filed11/06/13 Page10 of 23
+
+1
+
+BTA lists only two parties: “Party A,” defined only as Sharp Corporation, and “Party B,” defined
+
+2
+
+only as Tokyo Shibaura. Id. It purports to set forth “the basic terms and conditions related to the
+
+3
+
+manufacture and supply of goods” and to apply to only individual agreements between Sharp
+
+4
+
+Corporation and Tokyo Shibaura, if there is no other special agreement. Id., BTA Preamble; Art.
+
+5
+
+1(2) (“Content . . . shall apply to all individual Agreements between Party A and Party B to the
+
+6
+
+extent that there is no special Agreement.”). Only Sharp Corporation and Tokyo Shibaura are
+
+7
+
+signatories to the BTA. Id.
+The BTA was a version of a form contract that Sharp Corporation used for
+
+8
+9
+
+domestic Japanese contracts. See Attach. 2, Decl. of Fumihiro Yamazoe at ¶ 5. The BTA does
+
+10
+
+not state, or reflect any intent, that it applies to international disputes or make any references to
+
+11
+
+international disputes at all, and Sharp Corporation did not intend for the BTA, nor agreements
+
+12
+
+like it, to apply internationally. Id. at ¶¶ 3-4. The BTA is an example of a “basic agreement for
+
+13
+
+Japanese, domestically produced materials and research materials transactions.” Id. at ¶ 5. The
+
+14
+
+BTA also does not state that it applies to any affiliate, joint venture or subsidiary of the
+
+15
+
+signatories and Sharp Corporation did not intend for the BTA to apply to its affiliates, joint
+
+16
+
+ventures or subsidiaries. Id. at ¶¶ 3-4. It contains no express waiver of any non-parties’ rights to
+
+17
+
+litigate international disputes under foreign law. See id. at ¶ 7. Consistent with this
+
+18
+
+understanding that the BTA governed only domestic transactions between two Japanese
+
+19
+
+companies, the BTA specifies that for “litigation related to this Agreement . . . the Osaka District
+
+20
+
+Court shall be the court of competent jurisdiction.” See Mot. to Dismiss, Attach. 3, BTA Art.
+
+21
+
+21(2).
+
+22
+
+That the BTA and the Purchase Orders are separate contracts, intended to bind
+
+23
+
+separate entities with respect to separate claims, is made clear by the fact that the BTA and the
+
+24
+
+Purchase Orders contain terms on overlapping subject matters, but that differ from one another.
+
+25
+
+The BTA and the Purchase Orders provide different indemnity provisions as well as different
+
+26
+
+requirements regarding basic terms and conditions, delivery of goods, inspection of goods upon
+
+27
+
+delivery, and the transfer of rights and obligations. See Mot. to Dismiss, Attach. 3, BTA Arts. 1,
+
+28
+
+6-8, 18-19; Attach. 1, Ex. A, PO at ¶¶ 1, 5-6, 11. For example, the BTA envisions additional
+PLAINTIFFS’ OPPOSITION TO TOSHIBA DEFENDANTS’ MOTION TO DISMISS
+CASE NOS. 13-1173-SC; MDL NO. 1917
+4
+
+Case3:07-cv-05944-SC Document2195 Filed11/06/13 Page11 of 23
+
+1
+
+agreements between Sharp Corporation and Tokyo Shibaura, stating that the BTA applies to “all
+
+2
+
+individual Agreements between Party A and Party B to the extent that there is no special
+
+3
+
+Agreement,” Mot. to Dismiss, Attach. 3, BTA Art. 1(2), whereas the Purchase Orders state that
+
+4
+
+the Order “constitute[s] the entire agreement between the Seller [SMCA] and the Buyer
+
+5
+
+[TAEC],” Attach. 1, Ex. A, PO at ¶ 3. The BTA states that when Sharp Corporation incurs
+
+6
+
+damages due to Tokyo Shibaura’s failure to deliver goods, “Party A may request Party B to make
+
+7
+
+compensation for damages.” Mot. to Dismiss, Attach. 3, BTA Art. 6(2). The Purchase Orders,
+
+8
+
+on the other hand, state that the Seller’s failure to deliver goods allows the Buyer to “cancel the
+
+9
+
+then remaining balance of this Order unless the delay is an excusable delay.” Attach. 1, Ex. A,
+
+10
+
+PO at ¶ 5. Finally, employees at the Sharp Plaintiffs responsible for CRT procurement from the
+
+11
+
+Toshiba Defendants were unaware of the BTA’s existence, and instead understood that their
+
+12
+
+purchases were governed by the Purchase Orders. See Attach. 1, Decl. of Vince Sampietro, at ¶¶
+
+13
+
+1, 4-5.
+
+14
+15
+
+ARGUMENT
+I.
+
+16
+
+TOSHIBA’S MOTION TO DISMISS BASED ON THE BTA’S FORUM
+SELECTION CLAUSE SHOULD BE DENIED
+A motion to dismiss for improper venue proceeds under Rule 12(b)(3) of the
+
+17
+18
+
+Federal Rules of Civil Procedure. Argueta v. Banco Mexicano, S.A., 87 F.3d 320, 324 (9th Cir.
+
+19
+
+1996). The court may consider facts outside the face of the pleadings but must “draw all
+
+20
+
+reasonable inferences in favor of the non-moving party and resolve all factual conflicts in favor of
+
+21
+
+the non-moving party.” Murphy v. Schneider Nat’l, Inc., 362 F.3d 1133, 1137-38 (9th Cir. 2004).
+
+22
+
+Because the BTA does not specify under what law it is to be interpreted, federal common law
+
+23
+
+governs its interpretation. See Manetti-Farrow, Inc. v. Gucci Am., Inc., 858 F.2d 509, 512-13
+
+24
+
+(9th Cir. 1988); see also Stereo Gema, Inc. v. Magnadyne Corp., 941 F. Supp. 271, 273 (D.P.R.
+
+25
+
+1996).
+
+26
+27
+28
+
+A.
+
+The Sharp Plaintiffs Are Not Parties to or Bound By the BTA
+“It goes without saying that a contract cannot bind a nonparty.” E.E.O.C. v. Waffle
+
+House, Inc., 534 U.S. 279, 294 (2002). This is true, even when the party is a corporate parent or
+PLAINTIFFS’ OPPOSITION TO TOSHIBA DEFENDANTS’ MOTION TO DISMISS
+CASE NOS. 13-1173-SC; MDL NO. 1917
+5
+
+Case3:07-cv-05944-SC Document2195 Filed11/06/13 Page12 of 23
+
+1
+
+affiliate of the non-party. See Beverly Enters. v. Herman, 130 F. Supp. 2d 1, 22 (D.D.C. 2000)
+
+2
+
+(“The relationship between a parent and subsidiary alone is not enough to render a subsidiary
+
+3
+
+liable on a parent’s contract.”); Whetstone Candy Co., Inc. v. Kraft Foods, Inc., 351 F.3d 1067,
+
+4
+
+1074 (11th Cir. 2003); see also Minn. Supply Co. v. Mitsubishi Caterpillar Forklift Am. Inc., 822
+
+5
+
+F. Supp. 2d 896, 904 (D. Minn. 2011) (“Thus, the forum-selection clause in a contract between
+
+6
+
+the subsidiary and another generally does not also bind the parent in any dispute with the other
+
+7
+
+party.”). The Sharp Plaintiffs are not parties or signatories to the BTA. See Mot. to Dismiss,
+
+8
+
+Attach. 3. Not even Toshiba Defendants contest this.
+
+9
+
+A contract may not be enforced by or against a non-signatory unless the parties to
+
+10
+
+the agreement intended it to be so. See GECCMC 2005-C1 Plummer St. Office Ltd. P’ship v.
+
+11
+
+JPMorgan Chase Bank, N.A., 671 F.3d 1027, 1033 (9th Cir. 2012). Intent is divined first through
+
+12
+
+the agreement itself: “Contract terms are to be given their ordinary meaning, and when the terms
+
+13
+
+of a contract are clear, the intent of the parties must be ascertained from the contract itself.”
+
+14
+
+Klamath Water Users Protective Ass’n v. Patterson, 204 F.3d 1206, 1210 (9th Cir. 1999).
+
+15
+
+Nothing about the plain language of the BTA reflects an intention to bind any non-signatory. The
+
+16
+
+BTA quite clearly defines the parties as only Tokyo Shibaura and Sharp Corporation. See Mot. to
+
+17
+
+Dismiss, Attach. 3, BTA Preamble. It does not mention affiliated companies or subsidiaries at
+
+18
+
+all, or suggest that it intended to cover their claims, or that they were, in any way, third-party
+
+19
+
+beneficiaries of the agreement. That silence is unambiguous. See Klamath Water Users, 204
+
+20
+
+F.3d at 1210. Again, not even the Toshiba Defendants contest this.
+
+21
+
+But even if the contract were ambiguous (and it is not), courts would look to
+
+22
+
+secondary considerations for intent. These include “negotiations, later conduct, related
+
+23
+
+agreements, and industrywide custom.” Pierce Cnty. Hotel Emps. & Rest. Emps. Health Trust v.
+
+24
+
+Elks Lodge, B.P.O.E. No. 1450, 827 F.2d 1324, 1327 (9th Cir. 1987). “[S]ubsequent action of the
+
+25
+
+parties in construing the contract cannot be ignored as evidencing the intent of the parties.” U.S.
+
+26
+
+for the Use & Benefit of Union Bldg. Materials Corp. v. Haas & Haynie Corp., 577 F.2d 568, 574
+
+27
+
+(9th Cir. 1978); see also Restatement (Second) of Contracts § 202(4) (1981). Here, the secondary
+
+28
+PLAINTIFFS’ OPPOSITION TO TOSHIBA DEFENDANTS’ MOTION TO DISMISS
+CASE NOS. 13-1173-SC; MDL NO. 1917
+6
+
+Case3:07-cv-05944-SC Document2195 Filed11/06/13 Page13 of 23
+
+1
+
+considerations show that the relevant entities did not intend for the U.S. Sharp Plaintiffs to be
+
+2
+
+bound by the BTA.3
+Sharp Corporation had no intention to bind its U.S. subsidiaries through the
+
+3
+4
+
+renewal of the BTA. The BTA is an example of a “basic agreement for Japanese, domestically
+
+5
+
+produced materials and research materials transactions.” See Attach. 2, Decl. of Fumihiro
+
+6
+
+Yamazoe at ¶ 5. The executed version is in Japanese because, consistent with Sharp
+
+7
+
+Corporation’s policy, this was an agreement only between two Japanese entities governing their
+
+8
+
+commercial transactions in Japan. Id. at ¶ 6.4 The Toshiba Defendants have identified no
+
+9
+
+conduct or correspondence from either Sharp Corporation or Tokyo Shibaura reflecting a contrary
+
+10
+
+intent.
+
+11
+
+B.
+
+The Sharp Plaintiffs’ Claims Do Not Relate to the BTA
+Because it is plain that the Sharp Plaintiffs did not sign the BTA, that they are not
+
+12
+13
+
+mentioned (generically or specifically) in it, and that there is no evidence of an intent to bind
+
+14
+
+them to it, Toshiba must argue instead that the Sharp Plaintiffs should be nonetheless bound by
+
+15
+
+the BTA’s forum selection clause because their dispute is “closely related” to the subject matter
+
+16
+
+of the contract. Mot. to Dismiss at 9. But this argument is wrong on the facts and the law.
+On the facts, the BTA purports to relate to Japanese transactions between Tokyo
+
+17
+18
+
+Shibaura and Sharp Corporation (which is not a party to this case). The phrase “related to”
+
+19
+
+“cover[s] claims that have a significant relationship to the contract or have ‘their origin or
+
+20
+3
+
+Even if the BTA were ambiguous, ambiguous contracts should not be interpreted in a way
+that contravenes public policy or the public interest. Herrera v. Katz Comm’ns, Inc., 532 F.
+Supp. 2d 644, 647 (S.D.N.Y. 2008) (“[P]rinciples of contract . . . provide that . . . a meaning
+which serves the public interest . . . is preferred over a meaning which does not.”) (citing Time
+Warner Entm’t Co. v. Everest Midwest Licensee, L.L.C., 381 F.3d 1039, 1045 (10th Cir.
+2004), and Restatement (Second) of Contracts § 207 (interpretation “that serves the public
+interest is generally preferred”)). But Toshiba’s interpretation would do just that, for the
+reasons discussed in (I)(C) below. The Supreme Court has observed time and again that
+“private treble-damages action[s] play a paramount role in the enforcement of the
+fundamental economic policy of the Nation.” Ill. Brick Co. v. Illinois, 431 U.S. 720, 755
+(1977).
+
+4
+
+To the extent Toshiba challenges these assertions, this factual dispute, alone, mandates that
+Toshiba’s argument be denied. See Murphy, 362 F.3d at 1139.
+
+21
+22
+23
+24
+25
+26
+27
+28
+
+PLAINTIFFS’ OPPOSITION TO TOSHIBA DEFENDANTS’ MOTION TO DISMISS
+CASE NOS. 13-1173-SC; MDL NO. 1917
+7
+
+Case3:07-cv-05944-SC Document2195 Filed11/06/13 Page14 of 23
+
+1
+
+genesis’ in the contract.” Cedars-Sinai Med. Ctr. v. Global Excel Mgmt., Inc., No. 09-cv-3627,
+
+2
+
+2010 WL 5572079, at *5 (C.D. Cal. Mar. 19, 2010) (quoting Seagal v. Vorderwuhlbecke, 162
+
+3
+
+Fed. Appx. 746, 748 (9th Cir. 2006)). Under the “plain meaning” of the term “related to,” the
+
+4
+
+claims “must involve the [agreement] itself to trigger the clause.” Coal. for ICANN Transparency
+
+5
+
+Inc. v. Verisign, Inc., 452 F. Supp. 2d 924, 931-32 (N.D. Cal. 2006). But this case does not
+
+6
+
+involve claims that purport to have their origin in the BTA. This case involves purchases made in
+
+7
+
+the United States by U.S. corporations, and those transactions were governed by separate
+
+8
+
+Purchase Orders, which state that they shall “constitute the entire agreement between the Seller
+
+9
+
+and the Buyer and no other understanding shall limit[,] modify or vary its terms unless reduced to
+
+10
+
+writing.” See Attach. 1, Ex. A, PO at ¶ 3. Nowhere do those Purchase Orders make any mention
+
+11
+
+of the 35-year old BTA, and the Toshiba Defendants have identified nothing suggesting that
+
+12
+
+either party considered the BTA to modify the Purchase Orders. Those Purchase Orders clearly
+
+13
+
+specify that the “order and performance hereunder shall be governed by the case and statutory
+
+14
+
+laws of the State of Tennessee.” See id., PO at ¶ 13. This is completely inconsistent with an
+
+15
+
+expectation that disputes would be resolved in the Osaka District Court. Likewise, the BTA and
+
+16
+
+the Purchase Orders have duplicative provisions that would be unnecessary if the parties had
+
+17
+
+intended for the BTA to govern these agreements. See Mot. to Dismiss, Attach. 3, BTA Art. 18,
+
+18
+
+and Attach. 1, Ex. A, PO at ¶ 6 (indemnity provisions); Mot. to Dismiss, Attach. 3, BTA Art. 7,
+
+19
+
+and Attach. 1, Ex. A, PO at ¶ 5 (inspection provisions); Mot. to Dismiss, Attach. 3, BTA Art. 19,
+
+20
+
+and Attach. 1, Ex. A, PO at ¶ 11 (provisions governing the transfer of rights and obligations).
+
+21
+
+And employees at the Sharp Plaintiffs responsible for CRT procurement from the Toshiba
+
+22
+
+Defendants were unaware of the BTA’s existence, and instead understood that purchases were
+
+23
+
+governed by the Purchase Orders. See Attach. 1, Decl. of Vince Sampietro, ¶¶ 1, 4, 5.
+
+24
+
+In similar contexts, courts have declined to find that claims arising under one
+
+25
+
+agreement “relate to” a wholly different agreement. See Anselmo v. Univision Station Group,
+
+26
+
+Inc., No. 92-cv-1471, 1993 WL 17173, at *2 (S.D.N.Y. Jan. 15, 1993) (“[T]he forum selection
+
+27
+
+clause by its terms applies only to litigation relating to ‘this Agreement,’ so it was not intended to
+
+28
+
+govern disputes arising under the terms of earlier contracts or agreements . . . .”).
+PLAINTIFFS’ OPPOSITION TO TOSHIBA DEFENDANTS’ MOTION TO DISMISS
+CASE NOS. 13-1173-SC; MDL NO. 1917
+8
+
+Case3:07-cv-05944-SC Document2195 Filed11/06/13 Page15 of 23
+
+1
+
+On the law, Toshiba’s cases are all distinguishable. None present facts remotely
+
+2
+
+like the ones here. Critically, all but two of the cases involve disputes where both signatories to
+
+3
+
+the agreement were parties in the lawsuit and on opposite sides of the case.5 This is in stark
+
+4
+
+contrast to the circumstance here, where only one signatory is. The courts in those cases were
+
+5
+
+thus faced with a very different question: how to give effect to a forum selection clause in a
+
+6
+
+litigation between the two admitted signatories, where there are also non-signatory parties that are
+
+7
+
+affiliated companies involved in the same underlying dispute. The courts therefore had to
+
+8
+
+evaluate whether the mere inclusion of non-signatories as parties should frustrate the signatories’
+
+9
+
+unambiguous intent to proceed with their litigation in a particular forum. Because Sharp
+
+10
+
+Corporation is not a party to this case—and, indeed, could not be—these cases are irrelevant.
+
+11
+
+The other two cases cited by Toshiba that, like this one, do not involve a signatory
+
+12
+
+on both sides of the case—Adams v. Raintree Vacation Exch., LLC, 702 F.3d 436 (7th Cir. 2012),
+
+13
+
+and Deloitte Noraudit A/S v. Deloitte Haskins & Sells, U.S., 9 F.3d 1060 (2d Cir. 1993)—are
+
+14
+
+inapposite for other reasons. The Adams court concluded that the non-signatory defendant could
+
+15
+
+enforce a forum selection clause against the signatory plaintiff only where the non-signatory
+
+16
+
+defendant was “the parent of [the signatory]’s successor” and the signatory no longer existed.
+
+17
+
+Adams, 702 F.3d at 442. In that circumstance, there was no question that the plaintiff—whose
+
+18
+
+choice of venue is ordinarily given weight6—was a party to the agreement and had agreed to the
+
+19
+
+forum; it was, rather, the defendant that was “opting in” to the agreement. See id. Additionally,
+
+20
+
+because the defendant subsidiary signatory no longer existed, “the effect [was] merely to
+
+21
+
+substitute one party for another.” Id. There is nothing comparable here. Binding the Sharp
+
+22
+
+Plaintiffs, therefore, would not simply be a matter of substituting a defunct signatory with a viable
+
+23
+
+5
+
+See Holland Am. Line Inc. v. Wartsila N. Am. Inc., 485 F.3d 450, 455, 458 (9th Cir. 2007)
+(both signatories co-parties to the litigation); Manetti-Farrow, Inc., 858 F.2d at 511 (same);
+Pritzker v. Merrill Lynch, Pierce, Fenner & Smith, Inc., 7 F.3d 1110, 1122 (3d Cir. 1993)
+(same); Sunkist Soft Drinks, Inc. v. Sunkist Growers, Inc., 10 F.3d 753, 757-58 (11th Cir.
+1993) (same); Clinton v. Janger, 583 F. Supp. 284, 290 (N.D. Ill. 1984) (same); Universal
+Grading Serv. v. eBay, Inc., No. 08-cv-3557 (CPS), 2009 WL 2029796, at *16 (E.D.N.Y.
+June 10, 2009) (same).
+
+6
+
+See Decker Coal Co. v. Commonwealth Edison Co., 805 F.2d 834, 843 (9th Cir. 1986).
+
+24
+25
+26
+27
+28
+
+PLAINTIFFS’ OPPOSITION TO TOSHIBA DEFENDANTS’ MOTION TO DISMISS
+CASE NOS. 13-1173-SC; MDL NO. 1917
+9
+
+Case3:07-cv-05944-SC Document2195 Filed11/06/13 Page16 of 23
+
+1
+
+successor-in-interest involved in the underlying dispute. It would mean binding a non-signatory
+
+2
+
+subsidiary solely because its parent corporation was a party to the contract—an argument courts
+
+3
+
+have squarely rejected. See Beverly Enters., 130 F. Supp. 2d at 22.
+Deloitte was decided on the grounds of equitable estoppel, a theory which only
+
+4
+5
+
+applies when the party who seeks to take advantage of an agreement is later bound by it. See
+
+6
+
+Deloitte, 9 F.3d at 1064. In Deloitte, the court observed that the non-signatory party was bound
+
+7
+
+where the intent of the parties to bind it was clear, since it was specifically named in the relevant
+
+8
+
+agreement, and it was undisputed that the party had previously received a copy of the agreement
+
+9
+
+with a request to voice any objections and did not do so; as such, the court found it had “no
+
+10
+
+persuasive reason for its inaction.” Id. The court held that, by making affirmative use of the
+
+11
+
+rights conferred in the agreement, the party was bound to the agreement by estoppel. See id.
+
+12
+
+There is no evidence or assertion here that the Sharp Plaintiffs sought to take advantage of the
+
+13
+
+BTA. In short, the Toshiba Defendants have not identified a single case that would bind the
+
+14
+
+Sharp Plaintiffs—even if the CRT transactions were “closely related” to the BTA.
+The cases Toshiba cites in its brief more generally regarding international
+
+15
+16
+
+agreements or transactions—Bremen, Mitsubishi Motors, Richards, and Simula—lend no support
+
+17
+
+to the argument that the Sharp Plaintiffs should be bound here for at least three reasons. Mot. to
+
+18
+
+Dismiss at 6. First, it mattered to the courts in those cases that those agreements—unlike the
+
+19
+
+BTA here—were explicitly international in nature.7 Second, unlike here, there was no question
+
+20
+
+that the parties whose claims were at issue in those plainly intended to be bound by the
+
+21
+22
+23
+24
+25
+26
+27
+28
+
+7
+
+M/S Bremen v. Zapata Offshore Co., 407 U.S. 1, 8-9, 13, 16 (1972) (involving “a freely
+negotiated private international commercial agreement” where an “American company” is
+“contracting with a foreign company” and eliminating of uncertainties was an “indispensable
+element in international trade”); Mitsubishi Motors Corp. v. Soler Chrysler-Plymouth, Inc.,
+473 U.S. 614, 631 (1985) (noting importance of federal policy in favor of arbitral dispute
+resolution “in the field of international commerce” where agreement was between Japanese
+and Puerto Rican corporations); Richards v. Lloyd’s of London, 135 F.3d 1289, 1294 (9th Cir.
+1998) (noting that forum selection clause was “indispensable element in international trade,
+commerce, and contracting” where agreement was between British association and American
+underwriters); Simula, Inc. v. Autoliv, Inc., 175 F.3d 716, 722 (9th Cir. 1999) (noting the
+importance of agreement’s basis in “the field of international commerce” where it was
+between American and German corporations).
+PLAINTIFFS’ OPPOSITION TO TOSHIBA DEFENDANTS’ MOTION TO DISMISS
+CASE NOS. 13-1173-SC; MDL NO. 1917
+10
+
+Case3:07-cv-05944-SC Document2195 Filed11/06/13 Page17 of 23
+
+1
+
+underlying contracts.8 And finally, most of the cases involved arbitration clauses and therefore
+
+2
+
+also relied on the Federal Arbitration Act, which has no relevance at all here, as the BTA does not
+
+3
+
+contain an arbitration clause.9
+
+4
+
+Toshiba also baldly asserts that the Sharp Plaintiffs could be bound by the BTA’s
+
+5
+
+forum selection clause, even though they are not parties to the agreement, under the fact-specific
+
+6
+
+theories of either “alter ego” status, third party beneficiary status, or equitable estoppel. For the
+
+7
+
+factual predicate, Toshiba relies on an innocuous allegation in the Sharp Plaintiffs’ Complaint
+
+8
+
+that “Sharp Electronics is the wholly-owned U.S. sales and marketing subsidiary of Osaka-based
+
+9
+
+Sharp Corporation.” Mot. to Dismiss at 10. This is plainly insufficient for any such theory. An
+
+10
+
+alter ego finding requires evidence of “either fraud or a failure to observe corporate formalities.”
+
+11
+
+Comer v. Micor, Inc., 436 F.3d 1098, 1103 (9th Cir. 2006); see also Katzir’s Floor & Home
+
+12
+
+Design, Inc. v. M-MLS.COM, 394 F.3d 1143, 1149 (9th Cir. 2004). There is nothing like that
+
+13
+
+here. And Toshiba’s third-party beneficiary theory is mistaken: the Ninth Circuit has made clear
+
+14
+
+that a “third party beneficiary . . . certainly cannot be bound to a contract it did not sign or
+
+15
+
+otherwise assent to.” Comer, 436 F.3d at 1102.
+Moreover, as described earlier, any equitable estoppel theory fails also. The Ninth
+
+16
+17
+
+Circuit has explained that the only circumstance in which, as here, a signatory (like Toshiba
+
+18
+
+Corporation) can force a non-signatory (like the Sharp Plaintiffs) to comply with an arbitration
+
+19
+
+clause under an estoppel theory is where the non-signatory has “knowingly exploit[ed] the
+
+20
+
+agreement containing the arbitration clause.” Id. at 1101-02. The Toshiba Defendants have
+
+21
+8
+
+Mitsubishi, 473 U.S. at 628 (“Having made the bargain to arbitrate, the party should be held
+to it . . . .”); Bremen, 407 U.S. at 12, 16 (noting that enforcing arbitration clauses is proper
+where they “give effect to the legitimate expectations of the parties, manifested in their freely
+negotiated agreement,” and that the “parties to a freely negotiated private international
+commercial agreement contemplated the claimed inconvenience”); Richards, 135 F.3d at
+1295 (holding that plaintiffs could not “escape their ‘solemn agreement’ to adjudicate their
+claims in England”).
+
+9
+
+Harrington v. Atl. Sounding Co., Inc., 602 F.3d 113, 121 (2d Cir. 2010) (where “the FAA is
+involved . . . the issues must be addressed with a healthy regard for the federal policy favoring
+arbitration”) (internal quotations and emphasis omitted).
+
+22
+23
+24
+25
+26
+27
+28
+
+PLAINTIFFS’ OPPOSITION TO TOSHIBA DEFENDANTS’ MOTION TO DISMISS
+CASE NOS. 13-1173-SC; MDL NO. 1917
+11
+
+Case3:07-cv-05944-SC Document2195 Filed11/06/13 Page18 of 23
+
+1
+
+asserted no such thing here, and there is no evidence to support such a notion. See Mundi v.
+
+2
+
+Union Sec. Life Ins. Co., 555 F.3d 1042, 1047 (9th Cir. 2009).
+Toshiba’s position also requires it to make the untenable argument that the non-
+
+3
+4
+
+signatory Toshiba Defendants “have the right to enforce the forum selection clause” against
+
+5
+
+parties consisting entirely of non-signatories, the Sharp Plaintiffs. Mot. to Dismiss at 12. It cites
+
+6
+
+no cases where this has ever happened, nor has it put forth any facts suggesting that either they or
+
+7
+
+Tokyo Shibaura intended them to be bound by the BTA. There is simply no basis for dismissing
+
+8
+
+any of the Sharp Plaintiffs’ claims.
+
+9
+
+C.
+
+10
+
+Enforcing the Forum Selection Clause Here Would Violate Public Policy By
+Depriving the Sharp Plaintiffs of Reasonable Recourse for Their Claims:
+Treble Damages in a Court of Competent Jurisdiction
+
+11
+
+This forum selection clause should not be enforced for another, independent,
+
+12
+
+reason. Courts may reject such clauses where, as here, they are unreasonable because they would
+
+13
+
+deprive plaintiffs of their rights under the law. This is true even when there is no question that
+
+14
+
+the signatories intended non-signatories to be bound. When weighing the reasonableness of a
+
+15
+
+forum selection clause, courts consider if enforcing the clause “would contravene a strong public
+
+16
+
+policy of the forum in which suit is brought.” Holland Am., 485 F.3d at 457. Here, it would.
+
+17
+
+It is unreasonable to enforce a forum selection clause where it would render filing
+
+18
+
+suit an “impossibility.” See Trosper v. Synthes USA Sales, LLC, No. 13-cv-2126, 2013 WL
+
+19
+
+2898229, at *4 (C.D. Cal. June 12, 2013); Pratt v. Silversea Cruises, Ltd., Inc., No. 05-cv-0693,
+
+20
+
+2005 WL 1656891, at *4 (N.D. Cal. July 13, 2005). This includes where the venue mandated by
+
+21
+
+a forum selection clause would lack jurisdiction. In Putz v. Golden, for example, the court
+
+22
+
+declined to enforce a forum selection clause where there was “considerable doubt” that the
+
+23
+
+specified French Polynesian court would have personal jurisdiction over the defendants, thus
+
+24
+
+“depriv[ing the plaintiffs] of their day in court.” No. 10-cv-0741, 2010 WL 5071270, at *9 (W.D.
+
+25
+
+Wash. Dec. 7, 2010). This case presents a similar problem: the forum designated by the BTA, the
+
+26
+
+Osaka District Court in Japan, would not apply the forum selection clause in the BTA to the
+
+27
+
+Sharp Plaintiffs and to the non-signatory Toshiba Defendants. See Attach. 3, Decl. of Kazuto
+
+28
+
+Yamamoto at ¶¶ 3-5. More than mere “considerable doubt,” the Sharp Plaintiffs have established
+PLAINTIFFS’ OPPOSITION TO TOSHIBA DEFENDANTS’ MOTION TO DISMISS
+CASE NOS. 13-1173-SC; MDL NO. 1917
+12
+
+Case3:07-cv-05944-SC Document2195 Filed11/06/13 Page19 of 23
+
+1
+
+that the BTA would not confer jurisdiction on the Osaka District Court to hear their antitrust
+
+2
+
+claims, leaving them with no recourse against the Toshiba Defendants in the forum mandated by
+
+3
+
+the clause. See id. at ¶ 5; Putz, 2010 WL 5071270, at *9.
+
+4
+
+Enforcing the BTA’s forum selection clause would also violate public policy
+
+5
+
+because it would divest the Sharp Plaintiffs of their statutory claims for treble damages. In
+
+6
+
+Mitsubishi, the Supreme Court enforced an arbitration clause providing for arbitration before a
+
+7
+
+Japanese arbitral tribunal, but only where it observed that the clause at issue did not leave the
+
+8
+
+plaintiff without an antitrust remedy. Mitsubishi, 473 U.S. at 636-37. It specifically contrasted
+
+9
+
+the scenario where a choice-of-forum clause acts as “a prospective waiver of a party’s right to
+
+10
+
+pursue statutory remedies for antitrust violations,” noting that there, it “would have little
+
+11
+
+hesitation in condemning the agreement as against public policy.” Id. at 628, 637 & n.19. The
+
+12
+
+Mitsubishi Court also took comfort in the fact that, under the Federal Arbitration Act, a federal
+
+13
+
+court would have the opportunity to review any arbitral award. See id. at 638. Our case fails this
+
+14
+
+Mitsubishi test twice: the Sharp Plaintiffs would be waiving rights to pursue statutory remedies,
+
+15
+
+and there would be no opportunity for U.S. federal court oversight. See Vimar Seguros y
+
+16
+
+Reaseguros, S.A. v. M/V Sky Reefer, 515 U.S. 528, 542 (1995) (O’Connor, J., concurring) (noting
+
+17
+
+the “important” difference that foreign arbitration clauses “do not divest domestic courts of
+
+18
+
+jurisdiction, unlike true foreign forum selection clauses”).
+
+19
+
+Enforcing the BTA’s forum selection clause here would thus deprive the Sharp
+
+20
+
+Plaintiffs of their right to “vindicate [their] statutory cause of action,” undermining the antitrust
+
+21
+
+laws’ “remedial and deterrent function.” Mitsubishi, 473 U.S. at 637. No Japanese court can
+
+22
+
+award treble damages, a key attribute of recovery under U.S. antitrust law—and one that cannot
+
+23
+
+be prospectively waived. See id. at 635; Kristian v. Comcast Corp., 446 F.3d 25, 47-48 (1st Cir.
+
+24
+
+2006); In re TFT-LCD Antitrust Litig., No. 07-cv-1827, 2011 WL 4017961, at *6 (N.D. Cal. Sept.
+
+25
+
+9, 2011) (“The Court agrees that the arbitration clause’s limitation on treble damages is
+
+26
+
+unenforceable.”); Attach. 3, Decl. of Kazuto Yamamoto at ¶ 6. Without this tool, Japanese courts
+
+27
+
+cannot “provide an adequate mechanism” for remedying the Sharp Plaintiffs’ losses, and for
+
+28
+
+deterring future antitrust violators. Mitsubishi, 473 U.S. at 636-37.
+PLAINTIFFS’ OPPOSITION TO TOSHIBA DEFENDANTS’ MOTION TO DISMISS
+CASE NOS. 13-1173-SC; MDL NO. 1917
+13
+
+Case3:07-cv-05944-SC Document2195 Filed11/06/13 Page20 of 23
+
+In these circumstances, the Ninth Circuit has stated that even a choice-of-forum
+
+1
+2
+
+clause between parties who are admitted signatories to the contract should be closely scrutinized.
+
+3
+
+Simula, 175 F.3d at 723; Richards, 135 F.3d at 1296. In contrast to Richards and Simula,
+
+4
+
+however, where plaintiffs had adequate recourse against the defendants under applicable laws,10
+
+5
+
+here, there is no question that Japanese courts would be unable to wield the “chief tool in the
+
+6
+
+antitrust enforcement scheme,” the treble-damages remedy. Mitsubishi, 473 U.S. at 635; see
+
+7
+
+Attach. 3, Decl. of Kazuto Yamamoto at ¶ 6. As such, the Ninth Circuit was not squarely
+
+8
+
+presented in Richards and Simula with the concern here: a certain waiver of non-waivable U.S.
+
+9
+
+antitrust remedies due to the operation of a foreign forum selection clause that the plaintiffs did
+
+10
+
+not sign, with no safeguards through federal judicial review of judgment as provided under the
+
+11
+
+FAA. This result would be all the more unfair here than in Richards or Simula, since, at least, in
+
+12
+
+those cases, there was no question that the party challenging the clause had previously agreed to
+
+13
+
+be bound. See Simula, 175 F.3d at 718-19; Richards, 135 F.3d at 1292. Here, the Toshiba
+
+14
+
+Defendants would be asking this Court to approve the waiver of federal statutory rights of a non-
+
+15
+
+signatory with no showing of an intent to be bound.
+For all of these reasons, the Toshiba Defendants’ arguments regarding the forum
+
+16
+17
+18
+
+selection clause in the BTA should be rejected.
+II.
+
+19
+
+THE SHARP PLAINTIFFS’ FINISHED PRODUCT CLAIMS ARE PROPER
+UNDER ILLINOIS BRICK
+The Sharp Plaintiffs bring claims based on direct purchases of CRTs from the
+
+20
+21
+
+Toshiba Defendants, as well as purchases of finished CRT products from other Sharp entities that
+
+22
+
+purchased price-fixed CRTs from the defendants. The Toshiba Defendants’ challenge under
+
+23
+
+Illinois Brick11 is only for claims relating to the Sharp Plaintiffs’ purchases of finished products
+
+24
+
+10
+
+Simula is further distinguishable on this point, as the plaintiff’s expert conceded that it was
+possible that the arbitral forum would apply U.S. antitrust laws, and so there was no certainty
+of a waiver of federal statutory remedies. Simula, 175 F.3d at 723 n.4. Here, there is that
+certainty.
+
+11
+
+As a preliminary matter, the parties have already stipulated that this Court’s Illinois Brick
+ruling applies, making this motion improper. See Order (Dkt. 1971) (Oct. 1, 2013).
+Nonetheless the Sharp Plaintiffs respond on the merits as well.
+
+25
+26
+27
+28
+
+PLAINTIFFS’ OPPOSITION TO TOSHIBA DEFENDANTS’ MOTION TO DISMISS
+CASE NOS. 13-1173-SC; MDL NO. 1917
+14
+
+Case3:07-cv-05944-SC Document2195 Filed11/06/13 Page21 of 23
+
+1
+
+containing price-fixed CRTs—not those relating to CRTs.12 These finished products claims,
+
+2
+
+however, are proper under the so-called “ownership or control” doctrine articulated by the
+
+3
+
+Supreme Court in Illinois Brick Co. v. Illinois, 431 U.S. 720 (1977) and previously ruled upon in
+
+4
+
+this case.13
+Although federal law generally prohibits antitrust damages claims for indirect
+
+5
+6
+
+purchases, it permits them in certain circumstances, including where there are allegations of
+
+7
+
+sufficient “ownership and control” as between a customer of the direct purchaser and the direct
+
+8
+
+purchaser. In re ATM Fee Antitrust Litig., 686 F.3d 741, 749 (9th Cir. 2012) (citing Illinois
+
+9
+
+Brick, 431 U.S. at 736); In re Brand Name Prescription Drugs Antitrust Litig., 123 F.3d 599, 605
+
+10
+
+(7th Cir. 1997). The Sharp Plaintiffs’ claims for CRT finished products meet this “ownership or
+
+11
+
+control” exception.
+The “ownership or control” exception may be met, among other ways, through
+
+12
+13
+
+“interlocking directorates, minority stock ownership, agreements ceding operating control, a
+
+14
+
+contractual agency relationship, or other modes of control separate from ownership of a majority
+
+15
+
+of the intermediary’s common stock.” In re G-Fees Antitrust Litig., 584 F. Supp. 2d 26, 33
+
+16
+
+(D.D.C. 2008). The exception is grounded in the idea that where there is “functional economic or
+
+17
+
+other unity” between a direct and indirect purchaser, “there effectively has been only one sale”
+
+18
+
+which eliminates the complexities of a pass-through analysis that gave rise to the Illinois Brick
+
+19
+
+bar on indirect purchaser damages suits. See Jewish Hosp. Ass’n v. Stewart Mech. Enters., 628
+
+20
+
+F.2d 971, 975 (6th Cir. 1980).
+
+21
+22
+23
+
+12
+
+The Toshiba Defendants mistakenly contend that the Sharp Plaintiffs seek only damages on
+“devices that incorporate CRTs.” Mot. to Dismiss at 3. The Toshiba Defendants have
+misread the definition of CRT Products in the Complaint, which includes both CRTs and
+finished products. See Compl. ¶ 3.
+
+13
+
+The Toshiba Defendants move against Sharp’s New Jersey claims on Illinois Brick grounds as
+well. Mot. to Dismiss at 15. The Sharp Plaintiffs’ claims are equally proper under New
+Jersey law which, as the Toshiba Defendants note, is to be interpreted in accord with federal
+law.
+
+24
+25
+26
+27
+28
+
+PLAINTIFFS’ OPPOSITION TO TOSHIBA DEFENDANTS’ MOTION TO DISMISS
+CASE NOS. 13-1173-SC; MDL NO. 1917
+15
+
+Case3:07-cv-05944-SC Document2195 Filed11/06/13 Page22 of 23
+
+This Court has twice permitted claims on CRT finished products under the
+
+1
+2
+
+“ownership or control” exception. See In re Cathode Ray Tube (CRT) Antitrust Litig., 911 F.
+
+3
+
+Supp. 2d 857, 872 (N.D. Cal. 2012) (denying defendants’ motion for summary judgment as to
+
+4
+
+certain DPPs); In re CRT Antitrust Litig., No. 07-cv-5944, 2013 WL 4505701, at *3 (N.D. Cal.
+
+5
+
+Aug. 21, 2013) (denying defendants’ motion to dismiss as to certain DAPs). The Sharp
+
+6
+
+Plaintiffs’ claims should be permitted, as well. The Sharp Plaintiffs allege that they purchased
+
+7
+
+“CRT Products” from “others” which contained price-fixed CRTs manufactured by the
+
+8
+
+defendants. Compl. ¶¶ 30, 218. More specifically—as Sharp Plaintiffs have made clear in their
+
+9
+
+discovery responses—the Sharp Plaintiffs purchased through inter-company transactions CRT
+
+10
+
+televisions manufactured by other Sharp affiliates in Asia which contained CRTs that the
+
+11
+
+affiliates purchased from defendants.14 This is sufficient under Illinois Brick and to the extent
+
+12
+
+that the Toshiba Defendants wish to challenge any of the facts, they should do so through
+
+13
+
+discovery. See City of Moundridge v. Exxon Mobil Corp., 471 F. Supp. 2d 20, 32 (D.D.C. 2007)
+
+14
+
+(“At this stage of the lawsuit, the [plaintiffs] have sufficiently pled control even though they have
+
+15
+
+failed to specify the nature of the alleged control.”); see also In re G-Fees Antitrust Litig., 584 F.
+
+16
+
+Supp. 2d at 34 (denying a motion to dismiss on the grounds that an exception to Illinois Brick was
+
+17
+
+sufficiently pleaded); In re Mercedes-Benz Antitrust Litig., 157 F. Supp. 2d 355, 367 (D.N.J.
+
+18
+
+2001) (same); Prince Heaton Enters. v. Buffalo’s Franchise Concepts, Inc., 117 F. Supp. 2d
+
+19
+
+1357, 1364 (N.D. Ga. 2000) (same).15
+
+20
+
+Finally, should the Court find the Complaint’s current allegations insufficient, the
+
+21
+
+Sharp Plaintiffs request leave to amend the Complaint. Leave to amend is proper where, as here,
+
+22
+
+the Sharp Plaintiffs could cure any defects through more detailed allegations. Lopez v. Smith, 203
+
+23
+
+14
+
+See Attach. 4, Decl. of Craig A. Benson, Ex. A, Excerpt of Response to Interrog. No. 4, Pls.
+Sharp Elecs. Corp. and Sharp Elecs. Mfg. Co. of Am., Inc.’s Resps. and Objections to Defs.
+Hitachi Elec. Devices (USA), Inc. and Samsung SDI America, Inc.’s First Set of Interrogs.
+
+15
+
+The Toshiba Defendants’ reliance on Kendall v. Visa U.S.A. Inc., 518 F.3d 1042 (9th Cir.
+2008) is inapposite, as the question there was whether there were plausible allegations that a
+direct purchaser and the seller had conspired as co-conspirators. Id. at 1049-50. The question
+of whether facts could “just as easily suggest rational, legal business behavior” is not at issue
+here. Id.
+
+24
+25
+26
+27
+28
+
+PLAINTIFFS’ OPPOSITION TO TOSHIBA DEFENDANTS’ MOTION TO DISMISS
+CASE NOS. 13-1173-SC; MDL NO. 1917
+16
+
+Case3:07-cv-05944-SC Document2195 Filed11/06/13 Page23 of 23
+
+1
+
+F.3d 1122, 1130 (9th Cir. 2000); see also Mayes v. Leipziger, 729 F.2d 605, 608 (9th Cir. 1984);
+
+2
+
+Udom v. Fonseca, 846 F.2d 1236, 1238 (9th Cir. 1988).
+
+3
+4
+5
+
+CONCLUSION
+For the foregoing reasons, Plaintiffs respectfully submit that the Court should deny
+the Toshiba Defendants’ Motion to Dismiss in its entirety.
+
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+
+DATED: November 6, 2013
+
+By: /s/ Craig A. Benson
+Kenneth A. Gallo (pro hac vice)
+Joseph J. Simons (pro hac vice)
+Craig A. Benson (pro hac vice)
+PAUL, WEISS, RIFKIND, WHARTON & GARRISON LLP
+2001 K Street, NW
+Washington, DC 20006
+Telephone: (202) 223-7300
+Facsimile: (202) 223-7420
+Email: kgallo@paulweiss.com
+Email: jsimons@paulweiss.com
+Email: cbenson@paulweiss.com
+Stephen E. Taylor (SBN 058452)
+Jonathan A. Patchen (SBN 237346)
+TAYLOR & COMPANY LAW OFFICES, LLP
+One Ferry Building, Suite 355
+San Francisco, California 94111
+Telephone: (415) 788-8200
+Facsimile: (415) 788-8208
+Email: staylor@tcolaw.com
+Email: jpatchen@tcolaw.com
+Attorneys for Plaintiffs
+
+21
+22
+23
+24
+25
+26
+27
+28
+PLAINTIFFS’ OPPOSITION TO TOSHIBA DEFENDANTS’ MOTION TO DISMISS
+CASE NOS. 13-1173-SC; MDL NO. 1917
+17
+
+

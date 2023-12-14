@@ -1,0 +1,713 @@
+IN THE UNITED STATES DISTRICT COURT
+FOR THE SOUTHERN DISTRICT OF TEXAS
+HOUSTON DIVISION
+
+MEMORIAL HERMANN HEALTH
+SYSTEM,
+Plaintiff,
+v.
+BLUE CROSS BLUE SHIELD OF
+TEXAS,
+Defendant.
+
+§
+§
+§
+§
+§
+§
+§
+§
+§
+§
+§
+§
+§
+
+CIVIL ACTION NO. 17-CV-2661
+
+HON. SIM LAKE
+
+DEFENDANT HEALTH CARE SERVICE CORPORATION’S MOTION TO DISMISS
+PURSUANT TO RULE 12(B)(3) FOR IMPROPER VENUE AND
+MOTION TO COMPEL ARBITRATION
+
+TABLE OF CONTENTS
+Page
+INTRODUCTION......................................................................................................................... 1
+NATURE AND STAGE OF PROCEEDINGS........................................................................... 1
+STATEMENT OF ISSUES .......................................................................................................... 2
+FACTUAL BACKGROUND ....................................................................................................... 4
+SUMMARY OF ARGUMENT .................................................................................................... 6
+ARGUMENT ................................................................................................................................. 7
+I.
+
+THE PARTIES AGREED TO ARBITRATE THIS DISPUTE .......................................... 7
+A.
+
+There is a Valid Arbitration Agreement in Place .................................. 8
+
+B.
+
+The Arbitration Agreement Delegates the Scope of
+Arbitrability to the Arbitrator ................................................................. 8
+
+C.
+
+Regardless, the Dispute Falls Within the Scope of the
+Arbitration Agreement ........................................................................... 11
+
+II.
+
+ARBITRATION IS NOT FORECLOSED BY OTHER LEGAL CONSTRAINTS ............. 14
+
+III.
+
+THIS CASE SHOULD BE DISMISSED UNDER RULE 12(B)(3) ................................ 15
+
+CONCLUSION ........................................................................................................................... 15
+
+(i)
+
+TABLE OF AUTHORITIES
+Page(s)
+Cases
+A&A Glob. Indus., Inc. v. Wolfe,
+No. CIV.A.3:01CV1515-D, 2001 WL 1343628 (N.D. Tex. Oct. 29, 2001) ...........................13
+Action Indus., Inc. v. U.S. Fid. & Guar. Co.,
+358 F.3d 337 (5th Cir. 2004) .....................................................................................................2
+Alford v. Dean Witter Reynolds, Inc.,
+975 F.2d 1161 (5th Cir. 1992) .............................................................................................7, 12
+Ambraco, Inc. v. Bossclip B.V.,
+570 F.3d 233 (5th Cir. 2009) .....................................................................................................5
+ASW Allstate Painting & Const. Co., Inc. v. Lexington Ins. Co.,
+188 F.3d 307 (5th Cir. 1999) .................................................................................................3, 7
+AT & T Techs., Inc. v. Commc’ns Workers of Am.,
+475 U.S. 643, 106 S. Ct. 1415 (1986) ......................................................................................12
+Baylor Health Care Sys. v. Equitable Plan Servs., Inc.,
+955 F. Supp. 2d 678 (N.D. Tex. 2013) ......................................................................................2
+Cantella & Co. Inc. v. Goodwin,
+924 S.W.2d 943 (Tex. 1996)..................................................................................................3, 6
+Certain Underwriters at Lloyd’s of London v. Celebrity, Inc.,
+950 S.W.2d 375 (Tex. App.—Tyler 1996), writ dismissed w.o.j., 988 S.W.2d
+731 (Tex. 1998)......................................................................................................................3, 7
+Crawford Prof’l Drugs, Inc. v. CVS Caremark Corp.,
+748 F.3d 249 (5th Cir. 2014) ...............................................................................................9, 10
+Dickey’s Barbecue Restaurants, Inc. v. Mathieu,
+No. 3:12-CV-5119-G, 2013 WL 5268976 (N.D. Tex. Sept. 18, 2013) ...................................14
+Dustrol, Inc. v. Champagne-Webber, Inc.,
+No. CIV.A.3:01-CV-0650-G, 2001 WL 1326477 (N.D. Tex. Oct. 16, 2001) ...........................2
+First Options of Chicago, Inc. v. Kaplan,
+514 U.S. 938, 115 S.Ct. 1920 (1995) .........................................................................................8
+Fleetwood Enterprises, Inc. v. Gaskamp,
+280 F.3d 1069 (5th Cir. 2002)
+opinion supplemented on denial of reh’g, 303 F.3d 570 (5th Cir. 2002) ..................................8
+(ii)
+
+Folse v. Richard Wolf Med. Instruments Corp.,
+56 F.3d 603 (5th Cir. 1995) .....................................................................................................14
+Ford v. NYLCare Health Plans of Gulf Coast, Inc.,
+141 F.3d 243 (5th Cir. 1998) ...........................................................................................2, 6, 13
+Fozard v. C.R. England, Inc.,
+3:16-CV-1334-B, 2017 WL 1036661 (N.D. Tex. March 17, 2017) ........................................14
+Freudensprung v. Offshore Tech. Servs., Inc.,
+379 F.3d 327 (5th Cir. 2004) ...............................................................................................2, 10
+Garrett v. Circuit City Stores, Inc.,
+449 F.3d 672 (5th Cir. 2006) .....................................................................................................6
+J.M. Davidson, Inc. v. Webster,
+128 S.W.3d 223 (Tex. 2003)....................................................................................................11
+Jack B. Anglin Co. v. Tipps,
+842 S.W.2d 266 (Tex. 1992)....................................................................................................14
+Kubala v. Supreme Prod. Servs., Inc.,
+830 F.3d 199 (5th Cir. 2016) ........................................................................................... passim
+Lim v. Offshore Specialty Fabricators, Inc.,
+404 F.3d 898 (5th Cir. 2005) ...........................................................................................4, 7, 15
+Mitsui & Co. (USA), Inc. v. MIRA M/V,
+111 F.3d 33 (5th Cir. 1997) .....................................................................................................15
+Monday v. Cox,
+881 S.W.2d 381 (Tex. App.—San Antonio 1994, writ denied).................................................6
+Moses H. Cone Mem. Hosp. v. Mercury Const. Corp.,
+460 U.S. 1, 103 S. Ct. 927 (1983) ............................................................................................11
+In re Olshan Found. Repair Co., LLC,
+328 S.W.3d 883 (Tex. 2010)......................................................................................................2
+Omni Pinnacle, LLC v. ECC Operating Servs., Inc.,
+255 F. App’x 24 (5th Cir. 2007) ..............................................................................................15
+Pedcor Mgmt. Co. Welfare Benefit Plan v. Nations Pers. of Texas, Inc.,
+343 F.3d 355 (5th Cir. 2003) .....................................................................................................2
+Pennzoil Expl. & Prod. Co. v. Ramco Energy Ltd.,
+139 F.3d 1061 (5th Cir. 1998) .................................................................................................12
+
+(iii)
+
+Petrofac, Inc. v. DynMcDermott Petroleum Operations Co.,
+687 F.3d 671 (5th Cir. 2012) .............................................................................................3, 8, 9
+Prudential Sec. Inc. v. Marshall,
+909 S.W.2d 896 (Tex. 1995)....................................................................................................13
+Reliable Energy Sols. v. Amalfi Apartment Corp.,
+No. 4:16-CV-03346, 2017 WL 3412198 (S.D. Tex. June 30, 2017)
+report and recommendation adopted, No. CV H-16-3346, 2017 WL 3394613
+(S.D. Tex. Aug. 7, 2017) ....................................................................................................12, 13
+Rent–A–Ctr., W., Inc. v. Jackson,
+561 U.S. 63, 130 S. Ct. 2772 (2010) ..........................................................................................9
+Rouf v. Cricket Commc’ns, Inc.,
+No. CIV.A. H-13-2778, 2013 WL 6079255 (S.D. Tex. Nov. 19, 2013) .................................12
+Schlumberger Tech. Corp. v. Baker Hughes Inc.,
+355 S.W.3d 791 (Tex. App.—Houston [1st] 2011, no pet.) ..............................................3, 8, 9
+Vujasinovic & Beckcom, PLLC v. Cubillos,
+No. CV H-15-2546, 2016 WL 5573712 (S.D. Tex. Sept. 29, 2016) .............................2, 10, 11
+Webb v. Investacorp Inc.,
+89 F.3d 252 (5th Cir. 1996) ...................................................................................................3, 6
+Woodmen of World Life Ins. Soc’y/Omaha Woodmen Life Ins. Soc’y v. JRY,
+320 F. App’x 216 (5th Cir. 2009) ..............................................................................................6
+Statutes
+9 U.S.C. §§ 3, 4 ..........................................................................................................................2, 15
+Tex. Civ. Prac. & Rem. Code §§ 171.021(a), 171.025 ..............................................................3, 15
+Rules
+Fed. R. Civ. P. 12(b)(3)..............................................................................................................4, 15
+
+(iv)
+
+INTRODUCTION
+This is a contract dispute between a health insurance company and a hospital regarding
+the amount of payment due the hospital with respect to certain claims for reimbursement for
+post-emergency care services.
+
+Plaintiff Memorial Hermann Health System’s (“Memorial
+
+Hermann”) suit is premised on the allegation that Defendant Health Care Service Corporation, a
+Mutual Legal Reserve Company that operates in Texas as Blue Cross and Blue Shield of Texas
+(“BCBSTX”) 1, failed to pay hundreds of claims pursuant to the alleged contractual terms. But
+the contract underlying Memorial Hermann’s complaint contains a mandatory arbitration
+agreement requiring that “any Contract interpretation or claim issue” be resolved “by arbitration
+under the commercial rules and regulations of the American Arbitration Association.” BCBSTX
+moves to enforce that agreement to arbitrate and respectfully submits this memorandum of law in
+support of its motion to dismiss pursuant to Federal Rule of Civil Procedure 12(b)(3) for
+improper venue.
+NATURE AND STAGE OF PROCEEDINGS
+Memorial Hermann sued BCBSTX on August 1, 2017 in the District Court of Harris
+County, Texas, alleging that BCBSTX breached its contract with Memorial Hermann by failing
+to pay hundreds of claims submitted by Memorial Hermann for post-emergency care services.
+On September 3, 2017, BCBSTX removed the case to this Court based on diversity jurisdiction.
+(See Dkt. No. 3.)
+
+1
+
+Memorial Hermann named Blue Cross Blue Shield of Texas as the defendant in the State Court Action. But
+Blue Cross Blue Shield of Texas is not a corporate entity; it is an unincorporated division of Health Care
+Service Corporation. (See Dkt. No. 3 Notice of Removal.)
+
+1
+
+STATEMENT OF ISSUES
+Issue: Should the Court compel arbitration pursuant to the Federal Arbitration Act
+(“FAA”) and Texas General Arbitration Act (“TGAA”), and dismiss this action pursuant to
+Federal Rule of Civil Procedure 12(b)(3) based on improper venue because the express terms of
+the underlying contract require any contract interpretation or claim issue to be resolved through
+arbitration?
+Standard of Review: Under the FAA, when a party fails, neglects, or refuses to arbitrate
+under a written agreement for arbitration, the aggrieved counter-party may move the court for an
+order directing that an arbitration proceed pursuant to the relevant agreement. 9 U.S.C. § 4.
+Similarly, under the TGAA, 2 a court must order the parties to arbitrate upon a showing that there
+
+2
+
+In the alternative, BCBSTX brings its motion pursuant to the TGAA. The FAA applies to contracts involving
+commerce “absent clear and unambiguous contractual language to the contrary.” Action Indus., Inc. v. U.S. Fid.
+& Guar. Co., 358 F.3d 337, 340–43 (5th Cir. 2004). The arbitration provision at issue here expressly invokes
+the TGAA and a separate provision of the contract provides that the contract will be governed by the laws of the
+state of Texas. Given the language of the arbitration provision, there is conflicting case law regarding whether
+the FAA, the TGAA, or both governs in this case. Compare Ford v. NYLCare Health Plans of Gulf Coast, Inc.,
+141 F.3d 243, 249–50 (5th Cir. 1998) (holding that the parties intended Texas law and the TGAA to govern the
+scope of the arbitration clause, to the exclusion of the FAA, where the arbitration clause (1) invoked the TGAA,
+(2) provided that the arbitration would be conducted in Harris County, Texas, (3) provided that disagreements
+over arbitrators were to be resolved by “any judge of any Court of the State of Texas, having jurisdiction and
+located in Harris County,” and (4) announced in bold, capital type on the first page of the contract: “This
+agreement is subject to arbitration under the Texas General Arbitration Act”) with Pedcor Mgmt. Co. Welfare
+Benefit Plan v. Nations Pers. of Texas, Inc., 343 F.3d 355, 360–62 (5th Cir. 2003) (parties “must expressly
+exclude the applicability of the FAA if they want only state law to apply”); see also Freudensprung v. Offshore
+Tech. Servs., Inc., 379 F.3d 327, 338 n.7 (5th Cir. 2004) (“Where, as here, an agreement contains a clause
+designating Texas law but does not exclude the FAA, the FAA and Texas law, including that state’s arbitration
+law, apply concurrently because Texas law incorporates the FAA as part of the substantive law of that state.”);
+Baylor Health Care Sys. v. Equitable Plan Servs., Inc., 955 F. Supp. 2d 678, 692–93 (N.D. Tex. 2013) (“When
+an agreement contains a clause that designates Texas law but does not exclude the FAA, the FAA and Texas
+law, including the TAA, apply concurrently.”) (citing Freudensprung, 379 F.3d at 338 n.7). The Texas
+Supreme Court in 2010 held that a clause requiring that disputes arising out of the contract “be resolved by
+mandatory and binding arbitration ... pursuant to the Texas General Arbitration Act....” was sufficient to
+indicate the parties’ intent to choose “a state’s substantive law, specifically the TAA, to govern disputes under
+the agreement,” to the exclusion of the FAA. In re Olshan Found. Repair Co., LLC, 328 S.W.3d 883, 890 (Tex.
+2010). But in Vujasinovic & Beckcom, PLLC v. Cubillos, No. CV H-15-2546, 2016 WL 5573712 (S.D. Tex.
+Sept. 29, 2016), where the contract contained a Texas choice of law provision and an arbitration clause
+requiring disputes to be resolved “pursuant to the Texas General Arbitration Statute,” id. *2, the court held that
+the contract did not “exclude the applicability of the Federal Arbitration Act,” and that “the Federal Arbitration
+Act and the Texas Arbitration Act both apply.” Id. at *4. Regardless, as discussed throughout this
+memorandum, the analysis under the FAA and TGAA is substantially the same, and the result in this case is
+exactly the same. See e.g., Dustrol, Inc. v. Champagne-Webber, Inc., No. CIV.A.3:01-CV-0650-G, 2001 WL
+
+2
+
+is an agreement to arbitrate and the opposing party has refused to do so. Tex. Civ. Prac. & Rem.
+Code § 171.021(a).
+A court engages in a two-step analysis in determining whether to compel arbitration
+under the FAA: (1) whether the parties agreed to arbitrate the dispute in question; and (2)
+whether “legal constraints would foreclose the arbitration of those claims.” Webb v. Investacorp
+Inc., 89 F.3d 252, 258 (5th Cir. 1996). Whether the parties agreed to arbitrate the dispute
+involves two separate determinations:
+
+“(1) whether there is a valid agreement
+
+to arbitrate between the parties; and (2) whether the dispute in question falls within the scope of
+that arbitration agreement.” Id.; see also ASW Allstate Painting & Const. Co., Inc. v. Lexington
+Ins. Co., 188 F.3d 307, 311 (5th Cir. 1999) (applying the TGAA and Texas law) (citing Certain
+Underwriters at Lloyd’s of London v. Celebrity, Inc., 950 S.W.2d 375, 377 (Tex. App.—Tyler
+1996), writ dismissed w.o.j., 988 S.W.2d 731 (Tex. 1998)).
+However, an arbitration agreement may delegate determination of the scope of
+arbitrability to the arbitrator, including by incorporating the American Arbitration Association
+(the “AAA”) commercial arbitration rules into the arbitration agreement.
+
+See, e.g.,
+
+Schlumberger Tech. Corp. v. Baker Hughes Inc., 355 S.W.3d 791, 802 (Tex. App.—Houston
+[1st] 2011, no pet.); Petrofac, Inc. v. DynMcDermott Petroleum Operations Co., 687 F.3d 671,
+675 (5th Cir. 2012). In such cases, the court’s analysis is limited.
+It performs the first step—an analysis of contract formation—as it always does.
+But the only question, after finding that there is in fact a valid agreement, is
+whether the purported delegation clause is in fact a delegation clause—that is, if it
+1326477, at *3–*4 (N.D. Tex. Oct. 16, 2001) (noting that the party opposing arbitration conceded “that the
+choice-of-law issue is of no consequence because both the [FAA] and the TGAA require that there be an
+agreement to arbitrate, and that the dispute be within the scope of that agreement, before arbitration will be
+compelled” (internal quotation marks omitted); also noting, after choosing to apply the TGAA, that “the
+analysis would be substantially similar were the FAA to be applied”). Under Texas law, Memorial Hermann
+bears the burden of defeating the arbitration agreement. Cantella & Co. Inc. v. Goodwin, 924 S.W.2d 943, 944
+(Tex. 1996) (“A party opposing an arbitration agreement bears the burden of defeating it.”).
+
+3
+
+evinces an intent to have the arbitrator decide whether a given claim must be
+arbitrated. If there is a delegation clause, the motion to compel arbitration should
+be granted in almost all cases.
+Kubala v. Supreme Prod. Servs., Inc., 830 F.3d 199, 202 (5th Cir. 2016) (internal citations
+omitted).
+The Fifth Circuit has recognized that when the claims alleged in a complaint are subject
+to arbitration, dismissal of the civil litigation under Rule 12(b)(3) is the proper remedy. See, e.g.,
+Lim v. Offshore Specialty Fabricators, Inc., 404 F.3d 898, 902 (5th Cir. 2005); see also Fed. R.
+Civ. P. 12(b)(3).
+FACTUAL BACKGROUND
+Memorial Hermann is a large, sophisticated healthcare system in Texas that provides a
+variety of health care services, including emergency services. (Dkt. No. 3-1 State Court Pet. ¶¶
+6, 16.) BCBSTX offers insurance and administers health benefit plans that enable its members
+to receive access to health care services. (Id. ¶ 6.) In connection with those efforts to provide
+access, BCBSTX contracts with healthcare providers, including hospitals and healthcare systems
+like Memorial Hermann.
+Memorial Hermann alleges that the parties entered into various contracts to govern their
+relationship, including how BCBSTX would reimburse Memorial Hermann for services provided
+to members of various BCBSTX health benefit plans. (Id. ¶¶ 8-11.) Through these contracts,
+Memorial Hermann became an “in-network” provider for certain BCBSTX plans, including
+certain Health Maintenance Organization (“HMO”) and Preferred Provider Organization
+(“PPO”) plans. (See id. ¶¶ 8-9.)
+Memorial Hermann and BCBSTX also entered into a broad-ranging Hospital Contract for
+Traditional Indemnity Business (the “Traditional Contract”). (Ex. 1 Traditional Contract; see
+
+4
+
+also Dkt. No 3-1 State Court Pet. ¶ 11-12.) 3 The Traditional Contract provides the
+“reimbursement mechanism which will be used as the basis for payment of Covered Services by
+BCBSTX to [Memorial Hermann].” (Ex. 1 Traditional Contract Art. 2.A.) The reimbursement
+rate under the Traditional Contract is known as the PAR rate. (See Dkt. No. 3-1 State Court Pet.
+¶ 11). The Traditional Contract defines “Covered Services” as “those acute care inpatient and
+outpatient hospital services for which benefits are available under a Subscriber’s health care
+benefit plan.” (Id. Art. 1.A.) “Subscriber,” in turn, “means any person entitled to receive
+Covered Services under a health care benefit plan provided or administered by [BCBSTX].” (Id.
+Art. 1.B.)
+In 2013, BCBSTX introduced the Blue Advantage HMO plan (the “BAV Plan”). (Dkt.
+No. 3-1 State Court Pet. ¶ 14.) Memorial Hermann was “out-of-network” for the BAV Plan. (Id.
+¶ 15.) Because Memorial Herman was not an “in-network” provider for the BAV Plan (id. ¶ 15),
+BCBSTX took the position that the Traditional Contract applied for reimbursement of services
+provided by Memorial Hermann to BAV Plan members. (See id. ¶ 20.) Memorial Hermann
+eventually agreed. (Id.)
+Now, Memorial Hermann alleges that BCBSTX breached its contractual obligations with
+regard to payment of claims submitted for post-emergency care services to BAV Plan members
+and, as a result, owes the PAR reimbursement rate for hundreds of BAV Plan claims. (Id. ¶¶ 24,
+30.)
+
+3
+
+References to Ex. 1 are to Exhibit 1 of the Declaration of Brian P. Kavanaugh. Ex. 1 contains relevant excerpts
+of the Traditional Contract. While Memorial Hermann did not attach the Traditional Contract, or any other
+contract, to its petition, the Traditional Contract is expressly referenced in the petition (e.g. Dkt. No. 3-1 State
+Court Pet. ¶ 11) and is properly considered by the Court. Regardless, under Rule 12(b)(3), this Court is
+“permitted to look at evidence in the record beyond simply those facts alleged in the complaint and its proper
+attachments.” Ambraco, Inc. v. Bossclip B.V., 570 F.3d 233, 238 (5th Cir. 2009).
+
+5
+
+The operative Traditional Contract contains a forum selection provision requiring that
+any contract interpretation or claim issue shall be resolved by arbitration. The full text of the
+provision states:
+After exhausting the remedies contained in this Article 11, any Contract
+interpretation or claim issue which [Memorial Hermann] or BCBSTX determines
+has not been satisfactorily resolved shall be resolved by arbitration under the
+commercial rules and regulations of the American Arbitration Association, and in
+accordance with the Texas General Arbitration Act (Chapter 171 Texas Civil
+Practice and Remedies Codes). (Ex. 1 Traditional Contract Art. 11.C.)
+Despite this, Memorial Hermann has made its intention clear that it does not seek to
+arbitrate, as evidenced by filing this lawsuit in state court.
+SUMMARY OF ARGUMENT
+Federal and Texas policy strongly favor arbitration. Garrett v. Circuit City Stores, Inc.,
+449 F.3d 672, 674 (5th Cir. 2006) (“[O]nce a party makes an agreement to arbitrate, that party is
+held to arbitration unless Congress itself has evinced an intention to preclude a waiver of judicial
+remedies for the statutory rights at issue.” (internal quotation marks omitted)); see also Ford, 141
+F.3d at 250 (“Texas courts favor arbitration.”) (citing Monday v. Cox, 881 S.W.2d 381, 384
+(Tex. App.—San Antonio 1994, writ denied)); Cantella, 924 S.W.2d at 944 (noting Federal and
+Texas law strongly favor arbitration).
+Because the parties agreed to arbitrate all contract interpretation and claim issues, as set
+forth in Article 11 of the Traditional Contract, and because no legal constraints impact the
+arbitrability of those claims, this Court must compel arbitration. Webb, 89 F.3d at 258; see also
+Woodmen of World Life Ins. Soc’y/Omaha Woodmen Life Ins. Soc’y v. JRY, 320 F. App’x 216,
+221 (5th Cir. 2009).
+
+Specifically, it cannot be disputed that the parties entered into the
+
+arbitration agreement contained in the Traditional Contract.
+
+6
+
+And, under that arbitration
+
+agreement, any dispute regarding the scope of the arbitration agreement must be submitted to the
+arbitrator.
+When all of the claims alleged in a complaint are subject to arbitration, dismissal of the
+litigation under Federal Rule of Civil Procedure 12(b)(3), as opposed to a stay of litigation, is the
+proper remedy. See Alford v. Dean Witter Reynolds, Inc., 975 F.2d 1161, 1164 (5th Cir. 1992);
+Lim, 404 F.3d at 902 (analyzing Fifth Circuit law, as well as other circuits, to find that it is
+proper to grant a Rule 12(b)(3) motion to dismiss in the event of a valid forum selection clause).
+Because Memorial Hermann’s dispute with BCBSTX is subject to a valid arbitration agreement,
+the Court should dismiss this action.
+ARGUMENT
+I.
+
+THE PARTIES AGREED TO ARBITRATE THIS DISPUTE
+Whether the parties agreed to arbitrate a dispute involves two determinations: “(1)
+
+whether there is a valid agreement to arbitrate between the parties; and (2) whether the dispute in
+question falls within the scope of that arbitration agreement.” Webb, 89 F.3d at 258; see also
+Kubala, 830 F.3d at 202 (“Enforcement of an arbitration agreement involves two analytical
+steps.
+
+The first is contract formation—whether the parties entered into any arbitration
+
+agreement at all. The second involves contract interpretation to determine whether this claim is
+covered by the arbitration agreement.” (internal citations omitted; emphasis added)); ASW
+Allstate Painting & Const. Co., 188 F.3d at 311 (applying TGAA and Texas law) (citing
+Celebrity, 950 S.W.2d at 377).
+In this case, the Traditional Contract contains a valid agreement to arbitrate. (Ex. 1
+Traditional Contract Art. 11.C.) And under the terms of that same agreement, the second
+threshold issue – the scope of the arbitration agreement – must be determined by the arbitrator,
+not the Court.
+7
+
+A. There is a Valid Arbitration Agreement in Place
+The satisfaction of this first threshold issue – contract formation – cannot be questioned
+because it is undisputed that “the parties entered into any arbitration agreement at all.” Kubala,
+830 F.3d at 202 (emphasis added).
+
+Because Memorial Hermann executed the Traditional
+
+Contract (Ex. 1 Traditional Contract Art. 23) and has been operating under it since 2005 (id.;
+Dkt. No. 3-1 State Court Pet. ¶¶ 11-12), whether there is any valid arbitration agreement must be
+answered affirmatively. Fleetwood Enterprises, Inc. v. Gaskamp, 280 F.3d 1069, 1073 (5th Cir.
+2002), opinion supplemented on denial of reh’g, 303 F.3d 570 (5th Cir. 2002) (The
+determination of whether there is a valid agreement to arbitrate “is generally made on the basis
+of ordinary state-law principles that govern the formation of contracts.” (internal citation and
+quotation marks omitted)). Indeed, Memorial Hermann concedes in the State Court Petition that
+the Traditional Contract is valid and enforceable, and seeks to be paid the rates set forth in this
+contract. (Dkt. No. 3-1 State Court Pet. ¶¶ 11-12, 20-21, 35.)
+B. The Arbitration Agreement Delegates the Scope of Arbitrability to the Arbitrator
+Ordinarily, both contract formation and contract interpretation are threshold issues for the
+court to decide. See e.g., Kubala, 830 F.3d at 201–02; Schlumberger Tech. Corp., 355 S.W.3d at
+802 (citing First Options of Chicago, Inc. v. Kaplan, 514 U.S. 938, 943, 115 S.Ct. 1920, 1923
+(1995)). But the parties’ contract may bypass the court’s involvement in this second threshold
+issue by delegating interpretation of the scope of arbitrability to the arbitrator. Petrofac, Inc.,
+687 F.3d at 675 (“Just as the arbitrability of the merits of a dispute depends upon whether the
+parties agreed to arbitrate that dispute, so the question ‘who has the primary power to decide
+arbitrability’ turns upon what the parties agreed about that matter.” (quoting Kaplan, 514 U.S. at
+943)).
+
+8
+
+“Delegation clauses are enforceable and transfer the court’s power to decide arbitrability
+questions to the arbitrator. Thus, a valid delegation clause requires the court to refer a claim to
+arbitration to allow the arbitrator to decide gateway arbitrability issues.” Kubala, 830 F.3d at
+202 (citing Rent–A–Ctr., W., Inc. v. Jackson, 561 U.S. 63, 68–69, 130 S. Ct. 2772, 2776 (2010)).
+Where the arbitration agreement expresses an intent to have questions of arbitrability determined
+by the arbitrator, “the court’s analysis is limited. It performs the first step—an analysis of
+contract formation—as it always does. But the only question, after finding that there is in fact a
+valid agreement, is whether the purported delegation clause is in fact a delegation clause—that
+is, if it evinces an intent to have the arbitrator decide whether a given claim must be
+arbitrated. If there is a delegation clause, the motion to compel arbitration should be granted in
+almost all cases.” Id. (citations omitted).
+Further, under Texas and Fifth Circuit law, “the express incorporation of rules that
+empower the arbitrator to determine arbitrability—such as the AAA Commercial Arbitration
+Rules—has been held to be clear and unmistakable evidence of the parties’ intent to allow the
+arbitrator to decide such issues.” Schlumberger Tech. Corp., 355 S.W.3d at 802; Petrofac, Inc.,
+687 F.3d at 675 (holding that incorporating AAA rules into an arbitration agreement “presents
+clear and unmistakable evidence that the parties agreed to arbitrate arbitrability”). This is
+because the “AAA Rules for commercial arbitration include Rule 7, which provides that ‘[t]he
+arbitrator shall have the power to rule on his or her own jurisdiction, including any objections
+with respect to the existence, scope, or validity of the arbitration agreement or to the arbitrability
+of any claim or counterclaim.’” Crawford Prof’l Drugs, Inc. v. CVS Caremark Corp., 748 F.3d
+249, 262 (5th Cir. 2014) (quoting AAA rules for commercial arbitration). The Fifth Circuit in
+Crawford, relying on Petrofac, affirmed the district court’s order compelling arbitration, holding
+
+9
+
+that “whether the Plaintiffs’ claims are subject to arbitration must be decided in the first instance
+by the arbitrator, not a court.” Id. at 263.
+As in Schlumberger, Petrofac, and Crawford, the arbitration agreement in this case
+expressly incorporates and requires application of the “commercial rules and regulations of the
+American Arbitration Association.” (Ex. 1 Traditional Contract Article 11.C.) Accordingly,
+questions regarding the scope of the arbitration agreement must be determined by the arbitrator.
+This is the required result under both the FAA and the TGAA.
+
+In Vujasinovic &
+
+Beckcom, 2016 WL 5573712, the relevant contract, like the Traditional Contract here, contained
+a Texas choice of law provision and an arbitration clause requiring disputes to be resolved
+“pursuant to the Texas General Arbitration Statute in accordance with the commercial arbitration
+rules then in effect with the American Arbitration Association.” Id. at *2. The court first held
+that “[w]hen a contract contains a clause specifying Texas law (as here), but does not exclude the
+applicability of the Federal Arbitration Act, the Federal Arbitration Act and the Texas
+Arbitration Act both apply.” Id. at *4 (citing Freudensprung, 379 F.3d at 338 n.7). Applying
+both statutes, the court found, based on Petrofac and Schlumberger, that both “Fifth Circuit and
+Texas cases unambiguously hold that incorporating AAA rules into an arbitration agreement
+makes threshold questions of arbitrability questions for the arbitrator to decide, rather than the
+court.” Id. at *5. Layering in the Fifth Circuit’s instruction in Kubala, the court concluded:
+The combination of Petrofac and Kubala makes this case simple.
+This court has already ruled that there is a valid and enforceable
+arbitration clause, and the parties do not meaningfully challenge
+that ruling. The arbitration clause incorporates the AAA rules by
+reference, which, under Petrofac, is the functional equivalent of a
+delegation clause. Under Kubala, once the court determines that
+there is a valid and enforceable arbitration agreement that contains
+a delegation clause, the court must grant the motion to compel
+arbitration. The arbitrator will hear and rule on the defendants’
+
+10
+
+various arguments as to what claims can properly be heard in
+arbitration and what claims must be left for the court to decide.
+Id. at *6.
+Fifth Circuit and Texas precedent under the FAA and TGAA require that any dispute
+about the scope of the Traditional Contract’s arbitration clause be decided by the arbitrator. This
+Court, need not, and may not, wade into the scope of arbitrability. Instead, the dispute must be
+sent to arbitration and the litigation dismissed.
+C. Regardless, the Dispute Falls Within the Scope of the Arbitration Agreement
+Even if the Court were to find that the Traditional Contract’s express incorporation of the
+AAA rules does not prevent it from independently considering the scope of the arbitration
+agreement, Memorial Hermann’s claims are well within the scope of the arbitration agreement
+facially and under the broad interpretation given to arbitration agreements under Texas and Fifth
+Circuit law. If a valid arbitration agreement exists, both Texas and federal law require courts to
+apply a “strong presumption favoring arbitration.” Vujasinovic & Beckcom, 2016 WL 5573712,
+at *4 (citing J.M. Davidson, Inc. v. Webster, 128 S.W.3d 223, 227 (Tex. 2003)).
+Memorial Hermann’s allegations center on the interpretation of the Traditional Contract
+and its application to claims for reimbursement submitted by Memorial Hermann to BCBSTX
+for post-emergency services provided to BAV Plan members. (Dkt. No. 3-1 State Court Pet.
+¶¶ 20, 35.) In other words, this is a contract interpretation dispute about claim issues. And the
+Traditional Contract’s arbitration provision explicitly requires that “any Contract interpretation
+or claim issue” must be resolved by arbitration. (See Ex. 1 Traditional Contract Art. 11.C.) As
+such, the entire dispute falls within the arbitration provision and dismissal is proper. See Moses
+H. Cone Mem. Hosp. v. Mercury Const. Corp., 460 U.S. 1, 24–25, 103 S. Ct. 927, 941 (1983)
+(Courts must resolve “any doubts concerning the scope of arbitrable issues . . . in favor of
+
+11
+
+arbitration.”); see also AT & T Techs., Inc. v. Commc’ns Workers of Am., 475 U.S. 643, 650, 106
+S. Ct. 1415, 1419 (1986) (“[A]n order to arbitrate the particular grievance should not be denied
+unless it may be said with positive assurance that the arbitration clause is not susceptible of an
+interpretation that covers the asserted dispute.” (internal quotation marks omitted)); Pennzoil
+Expl. & Prod. Co. v. Ramco Energy Ltd., 139 F.3d 1061, 1067 (5th Cir. 1998) (same); Rouf v.
+Cricket Commc’ns, Inc., No. CIV.A. H-13-2778, 2013 WL 6079255, at *6 (S.D. Tex. Nov. 19,
+2013) (holding that the plaintiffs’ claims for anticipatory breach of contract fell strictly within
+the purview of the arbitration clause, which stated that “all disputes” arising out of the contract
+shall be decided by arbitration).
+Moreover, all Counts of the petition require interpretation and application of the
+Traditional Contract, and thus dismissal is warranted. Alford, 975 at 1164. Count One (breach
+of contract) directly relates to “claim issues” and the proper “Contract interpretation” of the
+Traditional Contract and its PAR Rate. Count Two (quantum meruit/unjust enrichment) is also a
+“claim issue” dispute regarding reimbursement for claims submitted by Memorial Hermann.
+(See, e.g., Dkt. No. 3-1 State Court Pet. ¶ 45.) Further, Count Two is only plead in the
+alternative and expressly incorporates and relies on all of the factual allegations of the petition,
+including the Traditional Contract and PAR Rate. (Dkt. No. 3-1 State Court Pet. ¶ 38); see
+Reliable Energy Sols. v. Amalfi Apartment Corp., No. 4:16-CV-03346, 2017 WL 3412198, at *3
+(S.D. Tex. June 30, 2017), report and recommendation adopted, No. CV H-16-3346, 2017 WL
+3394613 (S.D. Tex. Aug. 7, 2017) (holding that breach of contract, quantum meruit, and unjust
+enrichment claims were all within the scope of the arbitration agreement because all three claims
+“relate to the nature and quality of the goods and services that formed the basis for the
+
+12
+
+Agreement, and any representations made in connection therewith”). 4 Count Three, which seeks
+declaratory relief, likewise relies on all of the factual allegations of the petition regarding the
+Traditional Contract (Dkt. No. 3-1 State Court Pet. ¶ 46), and turns on the allegation that
+BCBSTX’s claim denials “violate[] the parties’ agreement.” (Id. ¶ 48.); see also Reliable Energy
+Sols., 2017 WL 3394613, at *3 (“But, where there are any doubts or ambiguities as to scope of
+the arbitration provision, they are ordinarily resolved in favor of arbitration.”).
+Under Texas law and the TGAA, the result is the same. 5
+
+First, under Texas law,
+
+Memorial Hermann bears the burden of showing that the claims asserted are not within the scope
+of the arbitration agreement. Prudential Sec. Inc. v. Marshall, 909 S.W.2d 896, 900 (Tex. 1995)
+(placing the burden of showing the claims fell outside the scope of the arbitration agreement on
+the party opposing arbitration).
+
+Second, a court focuses on the factual allegations of the
+
+complaint, rather than the legal causes of action asserted. Id. The test is whether the claim is “so
+interwoven with the underlying contract that it could not stand alone, that is, whether the claim is
+actionable without reference to the underlying contract.” A&A Glob. Indus., Inc., 2001 WL
+1343628, at *3 (applying Texas law).
+Memorial Hermann’s factual allegations, which are incorporated into and form the basis
+of each of the petition’s counts, implicate the Traditional Contract and, consequentially, its
+arbitration provision.
+
+Counts One and Two center on the applicability of the Traditional
+
+Contract, or its terms, to BAV Plan claims, thereby making such claims eligible for the
+
+4
+
+Memorial Hermann’s claim for damages, $17,000,000, is exactly the same under Count One and Count Two,
+further illustrating that both counts rely on the validity and applicability of the Traditional Contract. (Dkt. No.
+3-1 State Court Pet. ¶¶ 36, 45.)
+
+5
+
+There is “no perceptible difference” between federal and state law when determining the scope of an arbitration
+agreement. See Ford, 141 F.3d at 250 n.7; see also A&A Glob. Indus., Inc. v. Wolfe, No. CIV.A.3:01CV1515D, 2001 WL 1343628, at *3 (N.D. Tex. Oct. 29, 2001) (noting a determination of the scope of an arbitration
+provisions is similar under FAA and TGAA).
+
+13
+
+reimbursement rates agreed to in the Traditional Contract. (See Dkt. No. 3-1 State Court Pet. ¶¶
+35-36, 42, 45.) Thus, reference to and evidence relating to the Traditional Contract is essential
+for Memorial Hermann to maintain its claims.
+
+The facts implicated by Count Three for
+
+declaratory relief are also “interwoven” with the Traditional Contract because that Count seeks a
+declaration that BCBSTX’s claims determinations violate the parties’ contract.
+
+(Id. ¶ 48.)
+
+Resolution of this claim is not possible without reference to the Traditional Contract and
+therefore this claim is also subject to arbitration. See Jack B. Anglin Co. v. Tipps, 842 S.W.2d
+266, 271 (Tex. 1992) (confirming a Deceptive Trade Practices Act claim was subject to an
+arbitration agreement under the FAA, and adding that “Texas law favors the joint resolution of
+multiple claims to prevent multiple determinations of the same matter”); see also Dickey’s
+Barbecue Restaurants, Inc. v. Mathieu, No. 3:12-CV-5119-G, 2013 WL 5268976, at *6 (N.D.
+Tex. Sept. 18, 2013) (holding that plaintiff’s declaratory judgment cause of action was
+arbitrable).
+II.
+
+Arbitration is Not Foreclosed by Other Legal Constraints
+Memorial Hermann cannot show any legal constraints that would foreclose arbitration
+
+under these facts. This is a simple two-party contract dispute with a valid arbitration provision,
+and there are no policy reasons or other statutes that would impact the arbitrability of the claims.
+See Folse v. Richard Wolf Med. Instruments Corp., 56 F.3d 603, 605 (5th Cir. 1995) (providing
+as an example of a legal constraint when “Congress itself has evinced an intention to preclude a
+waiver of judicial remedies for the statutory rights at issue” (internal quotation marks and
+citation omitted)); see also Fozard v. C.R. England, Inc., 3:16-CV-1334-B, 2017 WL 1036661,
+at *4 (N.D. Tex. March 17, 2017) (“The party resisting arbitration must demonstrate that
+Congress clearly intended to preclude the parties from waiving their judicial remedies or that
+another ground exists at law or equity (such as fraud or coercion) which permits the parties’
+14
+
+contract or agreement to be revoked.” (internal quotation marks and citation omitted)).
+Arbitration is appropriate, and required, in these circumstances.
+III.
+
+This Case Should Be Dismissed Under Rule 12(b)(3)
+Fifth Circuit case law demonstrates that, when a valid arbitration agreement is applicable,
+
+dismissal under Rule 12(b)(3), rather than a stay of proceedings, is a proper remedy. See, e.g.,
+Lim, 404 F.3d at 902 (analyzing Fifth Circuit law, as well as other circuits, to find that it is
+proper to grant a Rule 12(b)(3) motion to dismiss in the event of a valid arbitration clause); see
+also Mitsui & Co. (USA), Inc. v. MIRA M/V, 111 F.3d 33, 37 (5th Cir. 1997) (affirming a district
+court’s grant of a Rule 12(b)(3) motion to dismiss based on a forum selection clause). 6 Because
+the claims in this case are subject to a valid arbitration agreement, the case should be dismissed.
+CONCLUSION
+Because this dispute is subject to a valid and applicable arbitration provision, this Court
+should compel arbitration pursuant to Section 4 of the FAA or Section 171.021(a) of the TGAA,
+and dismiss this litigation pursuant to Federal Rule of Civil Procedure 12(b)(3). See 9 U.S.C. §
+4; Tex. Civ. Prac. & Rem. Code § 171.021(a); Fed. R. Civ. P. 12(b)(3). Alternatively, the Court
+should stay the litigation pending arbitration pursuant to Section 3 of the FAA or Section
+171.025 of the TGAA. See 9 U.S.C. § 3; Tex. Civ. Prac. & Rem. Code § 171.025.
+
+6
+
+There is also support for dismissing on the grounds of Federal Rule of Civil Procedure 12(b)(1). See, e.g., Omni
+Pinnacle, LLC v. ECC Operating Servs., Inc., 255 F. App’x 24, 25–26 (5th Cir. 2007) (affirming district court’s
+order dismissing claims under Rule 12(b)(1) and compelling arbitration). To the extent the Court views Rule
+12(b)(1) as the proper mechanism for dismissal pursuant to a motion to compel arbitration—and in the
+alternative— BCBSTX moves to dismiss on this ground as well.
+
+15
+
+DATED: September 11, 2017
+
+Respectfully Submitted,
+
+KIRKLAND & ELLIS LLP
+By: /s/ Brian P. Kavanaugh
+Brian P. Kavanaugh
+Attorney-in-Charge
+IL Bar No. 6270046
+S.D. Tex. Bar No. IL6270046
+Luke C. Ruse (pro hac vice pending)
+IL Bar No. 6296476
+300 North LaSalle
+Chicago, IL 60654
+Telephone: (312) 862-2000
+Facsimile: (312) 862-2200
+Email: brian.kavanaugh@kirkland.com
+luke.ruse@kirkland.com
+and
+Rebekah Sills
+S.D. Tex Bar admission pending
+TX Bar No. 24091427
+609 Main Street
+Houston, TX 77002
+Telephone: (713) 836-3600
+Facsimile: (713) 836-3601
+Email: rebekah.sills@kirkland.com
+Attorneys for Defendant, Health Care
+Service Corporation, a Mutual Legal
+Reserve Company, d/b/a Blue Cross and
+Blue Shield of Texas
+
+16
+
+CERTIFICATE OF CONFERENCE
+The undersigned hereby certifies that he contacted counsel for Plaintiff on September 8
+and 11, 2017, in an effort to secure Plaintiff’s agreement to arbitrate the claims asserted in the
+complaint in accordance with the terms of the parties’ contract.
+
+On September 11, 2017,
+
+counsel for Plaintiff responded that, “Memorial Hermann does not now agree to arbitrate its
+claims in this lawsuit under the Hospital Contract for Traditional Indemnity Business.”
+/s/ Brian P. Kavanaugh
+Brian P. Kavanaugh
+
+CERTIFICATE OF SERVICE
+The undersigned hereby certifies that a true and correct copy of the foregoing document
+has been served on all counsel of record via the Court’s CM/ECF filing system on this 11th day
+of September, 2017.
+
+/s/ Brian P. Kavanaugh
+Brian P. Kavanaugh
+
+17
+
+

@@ -1,0 +1,1560 @@
+Case 1:07-cv-10356-LAK-THK
+
+Document 22
+
+Filed 05/27/2008
+
+Page 1 of 39
+
+OUTTEN & GOLDEN LLP
+Adam T. Klein (AK 3293)
+Justin M. Swartz (JS 7989)
+Ossai Miazad (OM 1127)
+3 Park Avenue, 29th Floor
+New York, New York 10016
+Telephone: 212-245-1000
+BRUCKNER BURCH PLLC
+Richard J. Burch (TX 24001807) (Pro Hac Vice Motion Pending)
+1415 Louisiana, Suite 2125
+Houston, Texas 77002
+Telephone: 713-877-8788
+UNITED STATES DISTRICT
+SOUTHERN DISTRICT OF NEW YORK
+KEVIN HUGHES and CRYSTIE KILGER on behalf
+of themselves and all others similarly situated,
+Plaintiffs,
+-against-
+
+07-CV-10356 (LAK)
+
+GETRONICS WANG LLC;
+GETRONICS USA, INC.; and
+GETRONICS FLEXIBLE SOLUTIONS, LLC,
+Defendants.
+
+MEMORANDUM OF LAW IN OPPOSITION TO DEFENDANTS’ MOTION FOR
+DETERMINATION THAT THIS ACTION IS NOT APPROPRIATE FOR
+CERTIFICATION AS A CLASS OR COLLECTIVE ACTION PURSUANT TO
+FEDERALS RULES OF CIVIL PROCEDURE 12(C) AND 23(D) AND 29 U.S.C. §216(B)
+
+Case 1:07-cv-10356-LAK-THK
+
+Document 22
+
+Filed 05/27/2008
+
+Page 2 of 39
+
+TABLE OF CONTENTS
+TABLE OF CONTENTS................................................................................................................. i
+TABLE OF AUTHORITIES ......................................................................................................... iii
+PRELIMINARY STATEMENT .....................................................................................................1
+FACTUAL BACKGROUND..........................................................................................................3
+PROCEDURAL HISTORY.............................................................................................................3
+ARGUMENT...................................................................................................................................4
+I.
+
+The Court Should Reject Defendants’ Premature Attempt to Inject Class
+Certification Issues At The Pleading Stage ........................................................................4
+
+II.
+
+The FAC Meets the Federal Rules’ Liberal Pleading Standards ........................................6
+A.
+
+The FAC Satisfies Rule 23 ......................................................................................8
+1.
+
+The FAC Satisfies Rule 23(a) ......................................................................8
+
+2.
+
+The FAC Satisfies Rule 23(b)......................................................................9
+
+3.
+B.
+III.
+
+a.
+
+Plaintiffs Adequately Plead Superiority; their Waiver of
+Liquidated Damages Has Not Impact on Superiority ......................9
+
+b.
+
+Plaintiffs Adequately Plead Predominance; the
+Potential for “Individual Inquiries” Does Not Defeat
+Predominance.................................................................................11
+
+The Plaintiffs’ Proposed Class Definitions are Sufficient .........................14
+
+The FAC Satisfies 29 U.S.C. § 216(b)...................................................................14
+
+Plaintiffs’ NYLL Class Allegations Should Not Be “Stricken” .......................................15
+A.
+
+Defendants Cite No Procedural Mechanism That Allows The Court To
+“Strike” Plaintiff’s Class Claims ...........................................................................15
+
+B.
+
+Defendants Do Not Establish Any of the Elements of a Rule 12(f)
+Motion....................................................................................................................16
+
+C.
+
+Plaintiffs’ NYLL Class Action Does Not Violate The Rules Enabling
+Act..........................................................................................................................17
+
+i
+
+Case 1:07-cv-10356-LAK-THK
+
+Document 22
+
+Filed 05/27/2008
+
+Page 3 of 39
+
+D.
+
+A FLSA Collective Action is Not “Incompatible” with a NYLL Class
+Action.....................................................................................................................19
+
+E.
+
+The Court Has Jurisdiction Over Plaintiffs’ NYLL Claims ..................................20
+
+F.
+
+1.
+
+The Court Has Original Jurisdiction Over Plaintiffs’ NYLL
+Claims ........................................................................................................20
+
+2.
+
+The Court Has Supplemental Jurisdiction Over Plaintiffs’
+Claims ........................................................................................................21
+
+Plaintiffs’ May Waive Liquidated Damages..........................................................23
+
+CONCLUSION..............................................................................................................................25
+
+ii
+
+Case 1:07-cv-10356-LAK-THK
+
+Document 22
+
+Filed 05/27/2008
+
+Page 4 of 39
+
+TABLE OF AUTHORITIES
+CASES
+Ad-Hoc Committee of Baruch Black & Hispanic Alumni Associate v. Bernard M.
+Baruch College,
+835 F.2d 980 (2d Cir. 1987)................................................................................................7
+Aguayo v. Oldenkamp Trucking,
+No. CV-F-04-6279, 2005 U.S. Dist. LEXIS 22190 (E.D. Cal. Oct. 3, 2005) .....................1
+AmBase Corp. v. City Investing Co. Liquidating Trust,
+326 F.3d 63 (2d Cir. 2003)...................................................................................................7
+Ansoumana v. Gristede's Operating Corp.,
+201 F.R.D. 81 (S.D.N.Y. 2001) ...................................................................1, 11, 21, 22, 24
+In re Arthur Treacher's Franchisee Litigation,
+93 F.R.D. 590 (E.D. Pa. 1982).............................................................................................6
+Baas v. Dollar Tree Stores, Inc.,
+No. 07-CV-3108, 2007 U.S. Dist. LEXIS 65979 (N.D. Cal. Aug. 29, 2007) ...........1, 6, 21
+Bahramipour v. Citigroup Global Markets, Inc.,
+No. 04-CV-4440, 2006 U.S. Dist. LEXIS 9010 (N.D. Cal. Feb. 22, 2006) ........................1
+Ballard v. Community Home Care Referral Serv.,
+264 A.D.2d 747, 695 N.Y.S.2d 130 (App. Div. 1999) ......................................................23
+Bamonte v. City of Mesa,
+No. 06-CV-1860, 2007 U.S. Dist. LEXIS 50101 (D. Ariz. July 10, 2007) .........................1
+Barnett v. Washington Mut. Bank, FA,
+No. 03-CV-0753, 2004 U.S. Dist. LEXIS 18491 (N.D. Cal. Sept. 9, 2004) .......................1
+Barnhart v. Safeway Stores, Inc.,
+No. S-92-0803, 1992 U.S. Dist. LEXIS 22572 (E.D. Cal. Dec. 14, 1992)..........................4
+Bartleson v. Winnebago Industrial Inc.,
+No. C02-3008, 2003 U.S. Dist. LEXIS 19058 (N.D. Iowa Oct. 24, 2003) .........................1
+Beauperthuy v. 24 Hour Fitness USA, Inc.,
+No. 06-CV-715, 2006 U.S. Dist. LEXIS 88988 (N.D. Cal. Nov. 28, 2006) .......................6
+Belbis v. County of Cook,
+No. 01-CV-6119, 2002 U.S. Dist. LEXIS 22426 (N.D. Ill. Nov. 13, 2002) .......................1
+
+iii
+
+Case 1:07-cv-10356-LAK-THK
+
+Document 22
+
+Filed 05/27/2008
+
+Page 5 of 39
+
+Bell Atlantic v. Twombly,
+_ U.S. _ 127 S. Ct. 1955 (2007).....................................................................................8, 12
+Beltran-Benitez v. Sea Safari, Ltd.,
+180 F. Supp. 2d 772 (E.D.N.C. 2001)..................................................................................1
+Bodner v. Banque Paribas,
+202 F.R.D. 370 (E.D.N.Y. 2000) .........................................................................................4
+Breeden v. Benchmark Lending Group, Inc.,
+229 F.R.D. 623 (N.D. Cal. 2005).........................................................................................1
+Brickey v. Dolencorp, Inc.,
+244 F.R.D. 176 (W.D.N.Y. 2007)..........................................................................1, 5, 7, 21
+Brzychnalski v. UNESCO, Inc.,
+35 F. Supp. 2d 351 (S.D.N.Y. 1999)........................................................................1, 21, 24
+Burlington Northern R. Co. v. Woods,
+480 U.S. 1, 107 S. Ct. 967, 94 L. Ed. 2d 1 (1987).............................................................17
+Burns v. U. S. R. Retirement Board,
+226 U.S. App. D.C. 178 (D.C. Cir. 1983)..........................................................................14
+Business Guides, Inc. v. Chromatic Communs. Enterprises, Inc.,
+498 U.S. 533, 111 S. Ct. 922, 112 L. Ed. 2d 1140 (1991).................................................18
+Cannon v. Douglas Elliman, LLC,
+No. 06-CV-7092, 2007 U.S. Dist. LEXIS 91139 (S.D.N.Y. Dec. 10, 2007) ......................8
+Chan v. Triple 8 Palace,
+No. 03-CV-6048, 2004 U.S. Dist. LEXIS 9359 (S.D.N.Y. May 24, 2004) ..................1, 21
+Chateau de Ville Products, Inc. v. Tams-Witmark Music Library, Inc.,
+586 F.2d 962 (2d Cir. 1978).................................................................................................4
+Chavez v. IBP, Inc.,
+No. 01-CV-5093, 2002 U.S. Dist. LEXIS 24598 (E.D. Wash. Oct. 28, 2002) ...................1
+Copley v. Florida Physicians Ins. Co.,
+No. 07-CV-2100, 2008 U.S. Dist. LEXIS 14296 (M.D. Fla. Feb. 26, 2008) ......................8
+In re Crude Oil Commodity Litigation,
+No. 06-CV-6677, 2007 U.S. Dist. LEXIS 66208 (S.D.N.Y. Sept. 7, 2007)......................21
+
+iv
+
+Case 1:07-cv-10356-LAK-THK
+
+Document 22
+
+Filed 05/27/2008
+
+Page 6 of 39
+
+Cryer v. Intersolutions, Inc.,
+No. 06-CV-2032, 2007 U.S. Dist. LEXIS 29241 (D.D.C. Apr. 20, 2007) ..........................1
+De Asencio v. Tyson Foods, Inc.,
+342 F.3d 301 (3d Cir. 2003)...............................................................................................22
+Diaz v. Scores Holding Co., Inc.,
+No. 07-CV-8718, 2008 U.S. Dist. LEXIS 38248 (S.D.N.Y. May 9, 2008) ............1, 17, 19
+Doninger v. Pac. Northwest Bell, Inc.,
+564 F.2d 1304 (9th Cir. 1977) .............................................................................................4
+Duchene v. Michael L. Cetta, Inc.,
+244 F.R.D. 202 (S.D.N.Y. 2007) ...................................................................................1, 21
+EEOC v. Local 638,
+No. 71-CV-2877, 2004 U.S. Dist. LEXIS 21682 (S.D.N.Y. Oct. 28, 2004) .....................13
+Ellis v. Edward D. Jones & Co.,
+527 F. Supp. 2d 439 (W.D. Pa. 2007)................................................................................19
+Ellison v. Autozone, Inc.,
+No. 06-CV-7522, 2007 U.S. Dist. LEXIS 70187 (N.D. Cal. Sep. 13,
+2007) ..................................................................................................................1, 19, 20, 21
+Farhy v. Janney Montgomery Scott, LLC,
+Nos. 06-CV-3202, 06-CV-3969, 2007 U.S. Dist. LEXIS 39112 (E.D. Pa. Apr. 26,
+2007) ..................................................................................................................................17
+In re Farmers Insurance Exch. Claims Representative Overtime Pay Litigation,
+No. 1439, 2003 U.S. Dist. LEXIS 25717 (D. Or. May 19, 2003) .......................................1
+Fasanelli v. Heartland Brewery, Inc.,
+516 F. Supp. 2d 317 (S.D.N.Y. 2007)................................................................................15
+Frank v. Eastman Kodak Co.,
+228 F.R.D. 174 (W.D.N.Y. 2005)..................................................................................1, 21
+Freeman v. Hoffman-Laroche, Inc.,
+No. 07-CV-1503, 2007 U.S. Dist. LEXIS 92589 (D.N.J. Dec. 18, 2007)...............1, 17, 19
+In re Frontier Insurance Group, Inc. Sec. Litigation,
+172 F.R.D. 31 (E.D.N.Y. 1997) .........................................................................................12
+Gary Plastic Packaging Corp. v. Merrill Lynch, Pierce, Fenner & Smith, Inc.,
+903 F.2d 176 (2d Cir. 1990)...............................................................................................12
+
+v
+
+Case 1:07-cv-10356-LAK-THK
+
+Document 22
+
+Filed 05/27/2008
+
+Page 7 of 39
+
+Glewwe v. Eastman Kodak Co.,
+No. 05-CV-6462, 2006 U.S. Dist. LEXIS 33449 (W.D.N.Y. May 25, 2006).....................6
+Gomez v. Toledo,
+446 U.S. 635 (1980).............................................................................................................8
+Gonzalez v. Nicholas Zito Racing Stable, Inc.,
+No. 04-CV-22, 2008 U.S. Dist. LEXIS 27598 (E.D.N.Y. Mar. 31, 2008)....................1, 21
+Green v. Wolf Corp.,
+406 F.2d 291 (2d Cir. 1968)...............................................................................................10
+Greene v. Robert Half International, Inc.,
+No. C05-03248, 2006 U.S. Dist. LEXIS 97050 (N.D. Cal. Mar. 28, 2006)..................1, 19
+Guzman v. VLM, Inc.,
+No. 07-CV-1126, 2007 U.S. Dist. LEXIS 75817 (E.D.N.Y. Oct. 11, 2007)...............15, 24
+Guzman v. VLM, Inc.,
+No. 07-CV-1126, 2008 U.S. Dist. LEXIS 15821 (E.D.N.Y. Mar. 2,
+2008) ......................................................................................................1, 10, 11, 17, 19, 21
+Harris v. City of New York,
+186 F.3d 243 (2d Cir. 1999).................................................................................................8
+Heller Financial, Inc. v. Midwhey Powder Co., Inc.,
+883 F.2d 1286 (7th Cir. 1989) ...........................................................................................16
+Hoffman v. Sbarro, Inc.,
+982 F. Supp. 249 (S.D.N.Y. 1997).......................................................................................7
+Horn v. Associated Wholesale Grocers Inc.,
+555 F.2d 270 (10th Cir. 1977) ...........................................................................................10
+Hudson v. Delta Air Lines,
+90 F.3d 451 (11th Cir. 1996) .............................................................................................14
+Hunt v. Pritchard Industrial, Inc.,
+No. 07-CV-0747, 2007 U.S. Dist. LEXIS 47749 (S.D.N.Y. July 3, 2007) .......................21
+Iglesias-Mendoza v. LaBelle Farm, Inc.,
+239 F.R.D. 363 (S.D.N.Y. 2007) ...........................................................1, 11, 13, 15, 21, 24
+Jacobs v. Macy’s East, Inc.,
+A.D.3d 318, 792 N.Y.S. 2d 574 (App. Div. 2d Dep't 2005)..............................................23
+
+vi
+
+Case 1:07-cv-10356-LAK-THK
+
+Document 22
+
+Filed 05/27/2008
+
+Page 8 of 39
+
+Jankowski v. Castaldi,
+No. 01-CV-0164, 2006 U.S. Dist. LEXIS 4237 (E.D.N.Y. Jan. 13, 2006) .............1, 13, 21
+K.P. v. Corsey,
+Fed. Appx 611 (3d Cir. 2003)..............................................................................................1
+Kelley v. SBC, Inc.,
+No. 97-CV-2729, 1998 U.S. Dist. LEXIS 18643 (N.D. Cal. Nov. 13, 1998) .....................1
+Kingsepp v. Wesleyan University,
+142 F.R.D. 597 (S.D.N.Y. 1992) .........................................................................................5
+Klein v. Ryan Beck Holdings,
+No. 06-CV-3460, 2007 U.S. Dist. LEXIS 51465 (S.D.N.Y. Jul. 13,
+2007) ......................................................................................................1, 17, 18, 19, 21, 25
+Korman v. Walking Co.,
+503 F. Supp. 2d 755 (E.D. Pa. 2007) ...................................................................................6
+Ladegaard v. Hard Rock Concrete Cutters, Inc.,
+No. 00-CV-5755, 2000 U.S. Dist. LEXIS 17832 (N.D. Ill. Dec. 1, 2000)....................1, 10
+Lee v. ABC Carpet & Home,
+236 F.R.D. 193 (S.D.N.Y. 2006) ...................................................................................1, 21
+Lehman v. Legg Mason, Inc.,
+532 F. Supp. 2d 726 (M.D. Pa. 2007) ................................................................................17
+Lenahan v. Sears, Roebuck & Co.,
+No. 02-CV-0045, 2006 U.S. Dist. LEXIS 60307 (D.N.J. July 10, 2006)............................1
+Leyva v. Buley,
+125 F.R.D. 512 (E.D. Wash. 1989)......................................................................................1
+Lindsay v. Gov. Employees Insurance Co.,
+448 F.3d 416 (D.C. 2006) ......................................................................................18, 19, 22
+Lipsky v. Commonwealth United Corp.,
+551 F.2d 887 (2d Cir. 1976)...............................................................................................16
+Lynch v. United Services Automobile Association,
+491 F. Supp. 2d 357 (S.D.N.Y. 2007)................................................................................15
+Marisol A. ex rel. Forbes v. Giuliani,
+126 F.3d 372 (2d Cir. 1997)...............................................................................................13
+
+vii
+
+Case 1:07-cv-10356-LAK-THK
+
+Document 22
+
+Filed 05/27/2008
+
+Page 9 of 39
+
+Martens v. Smith Barney, Inc.,
+No. 96-CV-3779, 2003 U.S. Dist. LEXIS 11587 (S.D.N.Y. July 9, 2003) .......................16
+Martens v. Thomann,
+273 F.3d 159 (2d Cir. 2001)...............................................................................................15
+Mascol v. E & L Transport, Inc.,
+No. 03-CV-3343, 2005 U.S. Dist. LEXIS 32634 (E.D.N.Y. 2005)...............1, 9, 11, 21, 24
+McBean v. The City of New York,
+228 F.R.D. 487 (S.D.N.Y. 2005) .......................................................................................12
+McLaughlin v. Liberty Mutual Insurance Co.,
+224 F.R.D. 304 (D. Mass. 2004)....................................................................................1, 10
+Mendez v. Radec Corp.,
+411 F. Supp. 2d 347 (W.D.N.Y. 2006) ..........................................................................1, 21
+Miles v. Merrill Lynch & Co.,
+471 F.3d 24 (2d Cir. 2006)...................................................................................................4
+Miller v. Wolpoff & Abramson L.L.P.,
+321 F.3d 292 (2d Cir. 2003)...............................................................................................12
+Morton v. Valley Farm Transport, Inc.,
+No. 06-CV-2933, 2007 U.S. Dist. LEXIS 31755 (N.D. Cal. Apr. 13, 2007) ......................1
+Myers v. Hertz Corp.,
+No. 02-CV-3425, 2007 U.S. Dist. LEXIS 53572 (E.D.N.Y. July 24, 2007)...............11, 15
+Narwick v. Wexler,
+912 F. Supp. 342 (N.D. Ill. 1995) ........................................................................................5
+Neary v. Metropolitan Prop. & Casualty Insurance Co.,
+472 F. Supp. 2d 247 (D. Conn. 2007)......................................................................1, 17, 21
+In re New York City Municipal Securities Litigation,
+87 F.R.D. 572 (S.D.N.Y. 1980) .........................................................................................14
+Noble v. 93 University Place Corp.,
+224 F.R.D. 330 (S.D.N.Y. 2004) .......................................................................1, 11, 21, 24
+O'Brien v. Encotech Construction Services, Inc.,
+203 F.R.D. 346 (N.D. Ill. 2001)...........................................................................................1
+
+viii
+
+Case 1:07-cv-10356-LAK-THK
+
+Document 22
+
+Filed 05/27/2008
+
+Page 10 of 39
+
+O'Connell v. Hove,
+22 F.3d 463 (2d Cir. 1994).................................................................................................18
+Osby v. Citigroup, Inc.,
+No. 07-CV-6085, 2008 U.S. Dist. LEXIS 39041 (May 14, 2008) ........1, 17, 18, 19, 20, 21
+Ouedraogo v. Durso Associates,
+No. 03-CV-1851, 2005 U.S. Dist. LEXIS 11954 (S.D.N.Y. June 16, 2005) ................1, 21
+Overnite Transport Co. v. Tianti,
+926 F.2d 220 (2d Cir. 1991)...............................................................................................20
+Pac. Merchant Shipping Association v. Aubry,
+918 F.2d 1409 (9th Cir. 1990) ...........................................................................................20
+Parker v. Time Warner Entertainment Co.,
+331 F.3d 13 (2nd Cir. 2003)...........................................................................................4, 12
+Pesantez v. Boyle Environmental Services, Inc.,
+251 A.D.2d 11, 673 N.Y.S.2d 659 (App. Div. 1st Dep't 1998) .........................................23
+Pittman v. E. I. duPont de Nemours & Co.,
+552 F.2d 149 (5th Cir. 1977) .............................................................................................14
+Poddar v. State Bank of India,
+235 F.R.D. 592 (S.D.N.Y. 2006) .......................................................................................14
+Promisel v. First American Artificial Flowers, Inc.,
+943 F.2d 251 (2d Cir. 1991)...............................................................................................23
+Ramirez v. RDO-BOS Farms, LLC,
+No. 06-CV-174, 2007 U.S. Dist. LEXIS 40633 (D. Or. Jan. 23, 2007) ..............................1
+Recinos-Recinos v. Express Forestry, Inc.,
+233 F.R.D. 472 (E.D. La. 2006)...........................................................................................1
+Ridge Meadows Homeowners' Association, Inc., v. Tara Development Co., Inc.,
+242 A.D.2d 947, 665 N.Y.S.2d 361 (App. Div. 4th Dep't 1997)......................................24
+Robidoux v. Celani,
+987 F.2d 931 (2d Cir.1993)................................................................................................14
+Romero v. Producers Dairy Foods, Inc.,
+235 F.R.D. 474 (E.D. Cal. 2006) .........................................................................................1
+Rubery v. Buth-Na-Bodhaige, Inc.,
+
+ix
+
+Case 1:07-cv-10356-LAK-THK
+
+Document 22
+
+Filed 05/27/2008
+
+Page 11 of 39
+
+494 F. Supp. 2d 178 (W.D.N.Y. 2007) ................................................................................5
+Salazar v. AgriProcessors, Inc.,
+527 F. Supp. 2d 873 (N.D. Iowa 2007)..............................................................................20
+Saur v. Snappy Apple Farms, Inc.,
+203 F.R.D. 281 (W.D. Mich. 2001) .....................................................................................1
+Schering Corp. v. Home Insurance Co.,
+712 F.2d 4 (2d Cir. 1983) ..................................................................................................12
+Scholtisek v. Eldre Corp.,
+229 F.R.D. 381 (W.D.N.Y. 2005)..................................................................................1, 21
+Scott v. Aetna Services, Inc.,
+210 F.R.D. 261 (D. Conn. 2002)..............................................................................1, 10, 21
+Sheppard v. Beerman,
+94 F.3d 823 (2d Cir. 1996).................................................................................................12
+Sjoblom v. Charter Communications, LLC,
+No. 07-CV-451, 2007 U.S. Dist. LEXIS 93879 (W.D. Wis.
+Dec. 19, 2007)..............................................................................................1, 17, 18, 20, 21
+Smellie v. Mount Sinai Hospital,
+No. 03-CV-0805, 2004 U.S. Dist. LEXIS 24006 (S.D.N.Y.
+Nov. 29, 2004) .........................................................................................1, 9, 11, 21, 24, 25
+Takacs v. A.G. Edwards & Sons, Inc.,
+444 F. Supp. 2d 1100 (S.D. Cal. 2006)................................................................................1
+Tomlinson v. Indymac Bank, F.S.B.,
+359 F. Supp. 2d 898 (C.D. Cal. 2005) .................................................................................1
+Torres v. Gristede's Operating Corp,
+No. 04-CV-3316, 2006 U.S. Dist. LEXIS 74039 (S.D.N.Y.
+Sept. 29, 2006) .......................................................................................1, 10, 11, 13, 23, 24
+Trinidad v. Breakaway Courier Sys., Inc.,
+No. 05-CV-4116, 2007 U.S. Dist. LEXIS 2914 (S.D.N.Y. 2007).................................1, 21
+Trotter v. Perdue Farms, Inc.,
+No. 99-CV-893, 2001 U.S. Dist. LEXIS 13212 (D. Del. Aug. 16, 2001) ...........................1
+United Mine Workers v. Gibbs,
+383 U.S. 715, 86 S. Ct. 1130, 16 L. Ed. 2d 218 (1966).....................................................22
+
+x
+
+Case 1:07-cv-10356-LAK-THK
+
+Document 22
+
+Filed 05/27/2008
+
+Page 12 of 39
+
+U.S. v. Northern Trust Co.,
+372 F.3d 886 (7th Cir. 2004) ...............................................................................................8
+In re Visa Check/MasterMoney Antitrust Litigation,
+280 F.3d 124 (2d Cir. 2001)...............................................................................................11
+In re Wal-Mart Stores, Inc.,
+505 F. Supp. 2d 609 (N.D. Cal. 2007) .................................................................................5
+West Virginia v. Chas. Pfizer & Co.,
+440 F.2d 1079 (2d Cir. 1971).............................................................................................10
+Westerfield v. Wash. Mutual Bank,
+No. 06-CV-2817, 2007 U.S. Dist. LEXIS 54830 (E.D.N.Y.
+Jul. 26, 2007)....................................................................................1, 17, 18, 19, 20, 21, 25
+Wraga v. Marble Lite, Inc.,
+No. 05-CV-5038, 2006 U.S. Dist. LEXIS 60457 (E.D.N.Y. Aug. 22, 2006)................1, 21
+Wright v. Aargo Sec. Services, Inc.,
+No. 99 Civ. 9115, 2001 U.S. Dist. LEXIS 882 (S.D.N.Y. Feb. 1, 2001) ............................8
+Wright v. Stern,
+No. 01-CV-4437, 2003 U.S. Dist. LEXIS 11589 (S.D.N.Y. July 9, 2003) .......................13
+
+STATUTES
+28 U.S.C. §1332.................................................................................................................21
+28 U.S.C. § 1367................................................................................................................21
+28 U.S.C. § 2072................................................................................................................17
+29 U.S.C. § 216..................................................................................1, 7, 14, 15, 18, 19, 20
+29 U.S.C. § 218..................................................................................................................20
+
+RULES
+Fed. R. Civ. P. 12.......................................................................................5, 6, 7, 12, 16, 21
+Fed. R. Civ. P. 23....................................................................................................... passim
+
+xi
+
+Case 1:07-cv-10356-LAK-THK
+
+Document 22
+
+Filed 05/27/2008
+
+Page 13 of 39
+
+Fed. R. Civ. P. 56...............................................................................................................12
+
+xii
+
+Case 1:07-cv-10356-LAK-THK
+
+Document 22
+
+Filed 05/27/2008
+
+Page 14 of 39
+
+PRELIMINARY STATEMENT
+Defendants’ motion is an impermissible preemptive strike on Plaintiffs’ proposed class
+and collective actions. In this unnecessary make-work exercise, Defendants ask the Court to
+deny class and collective action certification before Defendants produce a single document,
+before Plaintiffs can take a single deposition, and without the benefit of any certification-related
+evidence. Defendants’ motion is procedurally premature and substantively meritless.
+This is a standard “hybrid” wage and hour action seeking to recover unpaid overtime
+compensation under the Fair Labor Standards Act (“FLSA”) and the New York Labor Law
+(“NYLL”). Plaintiffs bring their FLSA claims as an opt-in collective action under 29 U.S.C. §
+216(b) and their NYLL claims as an opt-out class action under Fed. R. Civ. P. 23 (“Rule 23”).
+Courts in the Second Circuit “routinely” allow workers to bring FLSA collective actions
+alongside NYLL class actions, Duchene v. Michael L. Cetta, Inc., 244 F.R.D. 202, 204
+(S.D.N.Y. 2007), and “unflinchingly” certify them, Iglesias-Mendoza v. LaBelle Farm, Inc.¸ 239
+F.R.D. 363, 375 (S.D.N.Y. 2007). Defendants fail to acknowledge the substantial weight of
+authority rejecting their arguments – both in this circuit1 and around the country.2
+
+1
+
+See, e.g., Diaz v. Scores Holding Co., Inc., No. 07 Civ. 8718, 2008 U.S. Dist. LEXIS
+38248 (S.D.N.Y. May 9, 2008); Gonzalez v. Nicholas Zito Racing Stable, Inc., 2008 U.S. Dist.
+LEXIS 27598 (E.D.N.Y. March 31, 2008); Guzman v. VLM, Inc., No. 07-CV-1126, 2008 U.S.
+Dist. LEXIS 15821 (E.D.N.Y. Mar. 2, 2008); Iglesias-Mendoza v. LaBelle Farm, Inc.¸ 239
+F.R.D. 363, 374 (S.D.N.Y. 2007); Brickey v. Dolencorp, Inc., 244 F.R.D. 176 (W.D.N.Y. 2007);
+Westerfield v. Wash. Mut. Bank, No. 06-CV-2817, 2007 U.S. Dist. LEXIS 54830 (E.D.N.Y. July
+26, 2007); Klein v. Ryan Beck Holdings, No. 06 Civ. 3460, 2007 U.S. Dist. LEXIS 51465
+(S.D.N.Y. July 13 2007); Trinidad v. Breakaway Courier Sys., Inc., No. 05 Civ. 4116 , 2007 U.S.
+Dist. LEXIS 2914 (S.D.N.Y. 2007); Duchene v. Michael L. Cetta, Inc., 244 F.R.D. 202
+(S.D.N.Y. 2007); Torres v. Gristede’s Operating Corp., No. 04 Civ. 3316, 2006 U.S. Dist.
+LEXIS 74039 (S.D.N.Y. Sept. 28, 2006); Mendez v. Radec Corp., 411 F. Supp. 2d 347
+(W.D.N.Y. 2006); Lee v. ABC Carpet & Home, 236 F.R.D. 193 (S.D.N.Y. 2006); Jankowski v.
+Castaldi, No. 01-0164, 2006 U.S. Dist. LEXIS 4237 (E.D.N.Y. Jan. 13, 2006); Wraga v. Marble
+Lite, Inc., No. 05-5038, 2006 U.S. Dist. LEXIS 60457 (E.D.N.Y. Aug. 22, 2006); Frank v.
+Eastman Kodak Co., 228 F.R.D. 174 (W.D.N.Y. 2005); Ouedraogo v. Durso Assocs., No. 03 CV
+1
+
+Case 1:07-cv-10356-LAK-THK
+
+Document 22
+
+Filed 05/27/2008
+
+Page 15 of 39
+
+1851, 2005 U.S. Dist. LEXIS 11954 (S.D.N.Y. June 16, 2005); Scholtisek v. Eldre Corp., 229
+F.R.D. 381 (W.D.N.Y. 2005); Mascol v. E & L Transp., Inc., No. CV-03-3343, 2005 U.S. Dist.
+LEXIS 32634 (E.D.N.Y. 2005); Smellie v. Mount Sinai Hosp., No. 03-0805, 2004 U.S. Dist.
+LEXIS 24006 (S.D.N.Y. Nov. 29, 2004); Noble v. 93 Univ. Place Corp., 224 F.R.D. 330
+(S.D.N.Y. 2004); Chan v. Triple 8 Palace, No. 03-6048, 2004 U.S. Dist. LEXIS 9359 (S.D.N.Y.
+May 24, 2004); Scott v. Aetna Servs., Inc., 210 F.R.D. 261, 264–68 (D. Conn. 2002); Ansoumana
+v. Gristede’s Operating Corp., 201 F.R.D. 81, 85 (S.D.N.Y. 2001); Brzychnalski v. UNESCO,
+Inc., 35 F. Supp. 2d 351 (S.D.N.Y. 1999). But see Neary v. Metro. Prop. & Cas. Ins. Co., 472 F.
+Supp. 2d 247 (D. Conn. 2007).
+2
+
+See, e.g., Osby v. Citigroup, Inc., No. 07-cv-6085, 2008 U.S. Dist. LEXIS 39041 (May
+14, 2008); Sjoblom v. Charter Commc’ns., LLC, No. 3:07-CV-0451, 2007 U.S. Dist. LEXIS
+93879 (D. Wis. Dec. 19, 2007); Freeman v. Hoffmann-Laroche, Inc., No. 07-1503, 2007 U.S.
+Dist. LEXIS 92589 (D.N.J. Dec. 18, 2007); Baas v. Dollar Tree Stores, Inc., No. 07-03108,
+2007 U.S. Dist. LEXIS 65979 (N.D. Cal. Aug. 29, 2007); Salazar v. AgriProcessors, Inc., 527 F.
+Supp. 2d 873 (N.D. Iowa 2007); Bamonte v. City of Mesa, No. CV 06-01860, 2007 U.S. Dist.
+LEXIS 50101 (D. Ariz. July 10, 2007); Cryer v. Intersolutions, Inc., No. 06-2032, 2007 U.S.
+Dist. LEXIS 29241 (D.D.C. Apr. 20, 2007); Morton v. Valley Farm Transp., Inc., No. C 062933, 2007 U.S. Dist. LEXIS 31755 (N.D. Cal. Apr. 13, 2007); Ramirez v. RDO-BOS Farms,
+LLC, No. 06-174, 2007 U.S. Dist. LEXIS 40633 (D. Or. Jan. 23, 2007); Recinos-Recinos v.
+Express Forestry, Inc., 233 F.R.D. 472 (E.D. La. 2006); Ellison v. Autozone, Inc., No. C0607522, 2007 U.S. Dist. LEXIS 70187 (N.D. Cal. Sept. 13, 2007); Takacs v. A.G. Edwards &
+Sons, Inc., 444 F. Supp. 2d 1100 (S.D. Cal. 2006); Lenahan v. Sears, Roebuck & Co., No. 020045, 2006 U.S. Dist. LEXIS 60307 (D.N.J. July 10, 2006); Romero v. Producers Dairy Foods,
+Inc., 235 F.R.D. 474, 494 (E.D. Cal. 2006); Bahramipour v. Citigroup Global Mkts., Inc., No. C04-4440, 2006 U.S. Dist. LEXIS 9010 (N.D. Cal. Feb. 22, 2006); Greene v. Robert Half Int’l,
+Inc., No. C05-03248, 2006 U.S. Dist. LEXIS 97050, (N.D. Cal. Mar. 28, 2006); Aguayo v.
+Oldenkamp Trucking, No. CV-F-04-6279, 2005 U.S. Dist. LEXIS 22190 (E.D. Cal. Oct. 3,
+2005); Breeden v. Benchmark Lending Group, Inc., 229 F.R.D. 623 (N.D. Cal. 2005); Tomlinson
+v. Indymac Bank, F.S.B., 359 F. Supp. 2d 898 (C.D. Cal. 2005); McLaughlin v. Liberty Mut. Ins.
+Co., 224 F.R.D. 304 (D. Mass. 2004); Barnett v. Washington Mut. Bank, FA, 03-00753, 2004
+U.S. Dist. LEXIS 18491 (N.D. Cal. Sept. 9, 2004); In re Farmers Ins. Exch. Claims
+Representative Overtime Pay Litig., No. 1439, 2003 U.S. Dist. LEXIS 25717 (D. Or. May 19,
+2003); Bartleson v. Winnebago Indus. Inc., No. C02-3008, 2003 U.S. Dist. LEXIS 19058 (N.D.
+Iowa Oct. 24, 2003); Belbis v. County of Cook, No. 01 C 6119, 2002 U.S. Dist. LEXIS 22426
+(N.D. Ill. Nov. 18, 2002); Chavez v. IBP, Inc., No. 01-5093, 2002 U.S. Dist. LEXIS 24598 (E.D.
+Wash. Oct. 28, 2002); Beltran-Benitez v. Sea Safari, Ltd., 180 F. Supp. 2d 772 (E.D.N.C. 2001);
+Trotter v. Perdue Farms, Inc., No. CV-99-893, 2001 U.S. Dist. LEXIS 13212 (D. Del. Aug. 16,
+2001); Saur v. Snappy Apple Farms, Inc., 203 F.R.D. 281 (W.D. Mich. 2001) (FLSA and
+Migrant and Seasonal Agricultural Worker Protection Act (“AWPA”) class claims); O’Brien v.
+Encotech Constr. Servs., Inc., 203 F.R.D. 346 (N.D. Ill. 2001); Ladegaard v. Hard Rock
+Concrete Cutters, Inc., No. 00 C 5755, 2000 U.S. Dist. LEXIS 17832 (N.D. Ill. Dec. 1, 2000);
+Kelley v. SBC, Inc., No. 97-CV-2729, 1998 U.S. Dist. LEXIS 18643 (N.D. Cal. Nov. 13, 1998);
+Leyva v. Buley, 125 F.R.D. 512 (E.D. Wash. 1989).
+2
+
+Case 1:07-cv-10356-LAK-THK
+
+Document 22
+
+Filed 05/27/2008
+
+Page 16 of 39
+
+FACTUAL BACKGROUND
+Getronics Wang LLC, Getronics USA, Inc., and Getronics Flexible Solutions, LLC
+(collectively “Defendants”) are a multi-billion dollar, multi-national information and
+communication technology company with over 20,000 employees. They are in the business of
+helping their clients “develop, maintain and improve their information technology and computer
+capabilities.” Def. Br.3 at 1.
+Plaintiffs were among Defendants’ line workers. They provided computer support
+services to Getronics’ clients. Plaintiffs bring overtime claims on their own behalves and on
+behalf of hundreds of similarly situated workers, all of whom Getronics subjected to the same
+unlawful policy: requiring long overtime hours without proper overtime pay.
+PROCEDURAL HISTORY
+Plaintiffs filed this lawsuit on November 15, 2007 (See Declaration of Ossai Miazad in
+Opposition to Defendants’ Motion For Determination That This Action Is Not Appropriate For
+Certification As A Class Or Collective Action (“Miazad Decl.”) ¶ 2. Plaintiffs filed their First
+Amended Class Action Complaint (“FAC”) on February 26, 2008 and served it on February 27,
+2008. Miazad Decl ¶ 3, Exhibit (“Ex.”) 1. On April 14, 2008, the Court entered an Order
+setting the discovery cut-off for August 15, 2008. Miazad Decl. ¶ 4, Ex. 2. Plaintiffs served
+their initial set of document requests on April 25, 2008. Miazad Decl. ¶ 5, Ex. 3. Defendants’
+responses are due on May 27, 2008. Miazad Decl. ¶ 6. Plaintiffs have also noticed four
+depositions: Stephanie Fields on June 12, 2008, Rick Kremer on June 13, 2008, and two 30(b)(6)
+depositions for June 23, 2008 and June 24, 2008. Miazad Decl. ¶¶ 7-10, Exs. 4-7. Defendants
+
+3
+
+Citations to “Def. Br.” refer to Defendants’ Memorandum Of Law In Support Of
+Defendants’ Motion For Determination That This Action Is Not Appropriate For Certification As
+A Class Or Collective Action (Docket No. 16).
+3
+
+Case 1:07-cv-10356-LAK-THK
+
+Document 22
+
+Filed 05/27/2008
+
+Page 17 of 39
+
+have noticed both named Plaintiffs’ depositions and served a third-party subpoena on Deutsche
+Bank, Defendants’ customer for whom Plaintiff Hughes provided support while employed by
+Defendant. Miazad Decl. ¶ 11.
+ARGUMENT
+I.
+
+The Court Should Reject Defendants’ Premature Attempt to Inject Class
+Certification Issues At The Pleading Stage.
+Defendants should not be allowed to oppose Plaintiffs’ class and collective action
+
+certification motions before Plaintiffs have an opportunity to file them, and before Plaintiffs can
+take any discovery to support them. Deciding class certification at the pleading stage is strongly
+disfavored. The Court should defer such a decision until after class-related discovery and
+briefing, so as to permit the Court to make a decision based on an adequate record with the
+fullest possible factual background. See Parker v. Time Warner Entm’t Co., 331 F.3d 13, 21-22
+(2nd Cir. 2003) (reversing premature denial of class certification because the district court had
+improperly “precluded any class discovery and even the filing of a motion for class
+certification”); Chateau de Ville Prods., Inc. v. Tams-Witmark Music Library, Inc., 586 F.2d 962,
+966 (2d Cir. 1978) (Courts “should defer decision on certification pending discovery if the
+existing record is inadequate for resolving the relevant issues”).4
+Once the Court has the benefit of a fully-briefed motion and is presented with all relevant
+evidence, it will be in a much better position to exercise its informed discretion regarding
+propriety of class treatment. Parker, 331 F.3d at 22. In light of the Second Circuit’s ruling in
+4
+
+See also, Doninger v. Pac. Nw. Bell, Inc., 564 F.2d 1304, 1312-13 (9th Cir. 1977)
+(“under some circumstances the failure to grant discovery before denying class treatment is
+reversible error”); Bodner v. Banque Paribas, 202 F.R.D. 370, 373 (E.D.N.Y. 2000) (“discovery
+. . . is essential to determining whether class certification is appropriate”); Barnhart v. Safeway
+Stores, Inc., No. S-92-0803, 1992 U.S. Dist. LEXIS 22572, at *9 (E.D. Cal. Dec. 14, 1992) (“It
+is this court’s duty to permit the parties to give the district court all information that the district
+court might find relevant in making a class action determination.” (emphasis in original).)
+4
+
+Case 1:07-cv-10356-LAK-THK
+
+Document 22
+
+Filed 05/27/2008
+
+Page 18 of 39
+
+Miles v. Merrill Lynch & Co. (“In re: IPO Litigation”), requiring district courts to “resolve[]
+factual disputes relevant to each Rule 23 requirement and find [] that whatever underlying facts
+are relevant to a particular Rule 23 requirement have been established,” 471 F.3d 24, 41 (2d Cir.
+2006), it would be particularly unfair for the Court to deny class certification based only on the
+pleadings and Defendants’ employees’ affidavits. Plaintiffs are entitled to take discovery and
+move for class certification.
+An early motion under Fed. R. Civ. P. 12(c) (“Rule 12(c)”) is not an appropriate
+mechanism to oppose class and collective action certification. Courts routinely deny early
+motions like this one in wage and hour litigation. See, e.g., Brickey v. Dolencorp, Inc., 244
+F.R.D. 176, 178 (W.D.N.Y. 2007) (“there is simply no basis for the Court to require that
+plaintiffs responding to a Rule 12(c) motion, without the benefit of discovery, concretely prove
+all of the specifics relating to the policies and practices they have alleged”); Rubery v. Buth-NaBodhaige, Inc., 494 F. Supp. 2d 178, 181 (W.D.N.Y. 2007) (denying defendant’s motion to
+dismiss as premature.); In re Wal-Mart Stores, Inc., 505 F. Supp. 2d 609, 615 (N.D. Cal. 2007)
+(declining to rule on the propriety of class allegations before discovery had commenced or
+arguments related to class certification had been made).
+Nor can Defendants use Fed. R. Civ. P. 23(d) (“Rule 23(d)”) to deny Plaintiffs the
+opportunity to develop a record and brief the class certification issues. Def. Br. at 23. Rule
+23(d) simply provides the district court with the means to facilitate “the fair and efficient conduct
+of the action.” Fed. R. Civ. P. 23(d) advisory committee’s note. Courts typically use it as a
+“clean-up” device to conform the pleadings after they deny class certification motions. See
+Narwick v. Wexler, 912 F. Supp. 342, 344 (N.D. Ill. 1995) (class allegations stricken after denial
+of certification motion); Kingsepp v. Wesleyan Univ., 142 F.R.D. 597, 603 (S.D.N.Y. 1992)
+
+5
+
+Case 1:07-cv-10356-LAK-THK
+
+Document 22
+
+Filed 05/27/2008
+
+Page 19 of 39
+
+(same); In re Arthur Treacher's Franchisee Litig., 93 F.R.D. 590, 598 (E.D. Pa. 1982) (same).
+Rule 23(d) should not be used to circumvent a class certification motion. Baas v. Dollar
+Tree Stores, Inc., No. C 07-03108, 2007 U.S. Dist. LEXIS 65979, at *8 n.2 (N.D. Cal. Aug. 29,
+2007) (class certification determination is “procedurally inseparable” from a Rule 23(d)(4)
+determination requiring an amendment to the pleadings); Beauperthuy v. 24 Hour Fitness USA,
+Inc., No. 06-715 SC, 2006 U.S. Dist. LEXIS 88988, at *10 (N.D. Cal. Nov. 28, 2006) (same).
+Courts regularly reject efforts, like this one, to use Rule 23(d) to strike wage and hour class
+allegations before discovery and a class certification motion. See Baas, 2007 U.S. Dist. LEXIS
+65979 at *8 (rejecting early Rule 23(d) motion to strike class allegation); Beauperthuy, 2006
+U.S. Dist. LEXIS 88988, at **10-11 (same); Korman v. Walking Co., 503 F. Supp. 2d 755, 76263 (E.D. Pa. 2007) (same).
+The only authority Defendants cite for their Rule 23(d) argument, Glewwe v. Eastman
+Kodak Co., No. 05-CV-6462, 2006 U.S. Dist. LEXIS 33449 (W.D.N.Y. May 25, 2006) is
+inapposite. There, the Court dismissed the plaintiffs’ class allegations for lack of commonality
+and adequacy because the plaintiffs, who only worked in one state, purported to bring claims
+under 35 different state wage and hour laws. They had also executed release agreements in
+which they promised not to assist any other person or entity in bringing a lawsuit against the
+defendant. Id. at **8-9. Here, Plaintiff Hughes, the putative NYLL class representative, brings
+his wage claims only under the law of the state in which he worked, New York, and Defendants
+do not claim that he signed a release.
+II.
+
+The FAC Meets the Federal Rules’ Liberal Pleading Standards.
+Plaintiffs’ class and collective allegations easily defeat Defendants’ Rule 12(c) motion.
+
+When deciding a motion under Fed. R. Civ. P. 12(c), the Court must take all of Plaintiffs
+
+6
+
+Case 1:07-cv-10356-LAK-THK
+
+Document 22
+
+Filed 05/27/2008
+
+Page 20 of 39
+
+allegations as true and draw all reasonable inferences in Plaintiffs’ favor. Ad-Hoc Comm. of
+Baruch Black & Hispanic Alumni Assoc. v. Bernard M. Baruch Coll., 835 F.2d 980, 982 (2d Cir.
+1987). The Court should only “assess the legal feasibility of the complaint,” not weigh the
+evidence. AmBase Corp. v. City Investing Co. Liquidating Trust, 326 F.3d 63, 72 (2d Cir.
+2003). Plaintiffs must only allege “enough facts to state a claim to relief that is plausible on its
+face.” Bell Atlantic v. Twombly, 127 S. Ct. 1955, 1974, 167 L. Ed. 2d 929 (2007). Factual
+allegations must simply exceed “the speculative level,” Id. at 1964-65 (citations omitted).
+Defendants’ repeated characterization of Plaintiffs’ allegations as “vague” or
+“speculative” do not support dismissal. When responding to a Rule 12(c) motion before
+discovery, a plaintiff need not “concretely prove all of the specifics relating to the policies and
+practices they have alleged.” Brickey v. Dolencorp, Inc., 244 F.R.D. at 178. As Plaintiffs
+demonstrate below, the allegations in the FAC meet every requirement of Rule 23 and 29 U.S.C.
+§ 216(b), and therefore satisfy Plaintiffs’ pleading burden.5
+In Brickey v. Dolencorp, Inc., the court rejected a Rule 12(c) challenge to a class and
+collective action wage and hour complaint similar to Plaintiffs’ FAC. 224 F.R.D. at 178. The
+court held that the allegations in the Brickey complaint were sufficient to “identify and describe a
+common nucleus of fact which goes well beyond a ‘formulaic recitation’ of the elements of
+
+5
+
+The FAC also clearly states a cause of action for unpaid overtime. To state a claim for
+unpaid overtime under the FLSA and the NYLL, plaintiffs must simply allege that they and other
+similarly situated employees worked more than 40 hours in a workweek and were not paid an
+overtime premium. See Hoffman v. Sbarro, Inc., 982 F. Supp. 249, 258 (S.D.N.Y. 1997)
+(“[L]ooking at Plaintiff’s complaint, it is evident that plaintiffs have stated a claim for relief.
+Quite simply, plaintiffs contend they and other restaurant managers worked overtime and were
+not paid for it”). Here, Plaintiffs allege, among other things, that Defendants misclassified
+plaintiffs and other similarly situated employees as exempt (FAC at ¶ 37(c)), scheduled or
+expected plaintiffs to work in excess of 40 hours per week (FAC at ¶¶ 4, 42, 50) and failed to
+pay plaintiffs and other similarly situated employees overtime wages for hours that they worked
+in excess of 40 hours per week (FAC at ¶ 37(d)).
+7
+
+Case 1:07-cv-10356-LAK-THK
+
+Document 22
+
+Filed 05/27/2008
+
+Page 21 of 39
+
+plaintiffs’ FLSA and state law claims,” and therefore satisfied the Twombly standard. Id.
+Defendants cite Cannon v. Douglas Elliman, LLC, No. 06-Civ-7092, 2007 U.S. Dist.
+LEXIS 91139 (S.D.N.Y. Dec. 10, 2007), and Copley v. Florida Physicians Ins. Co., No. 8:07-cv2100-T-30, 2008 U.S. Dist. LEXIS 14296 (M.D. Fla. Feb. 26, 2008), apparently for the
+unremarkable proposition that Bell Atlantic Corp. v. Twombly applies in FLSA cases. These two
+cases are otherwise inapposite. In Cannon, the Court dismissed the plaintiffs’ joint employment
+liability theory because their complaint did not plead facts supporting any of the factors of the
+operative test. 2007 U.S. Dist. LEXIS 91139, at *10. In Copley, the court dismissed the
+plaintiffs’ complaint because they did not plead facts to establish that they were covered by the
+FLSA. 2008 U.S. Dist. LEXIS 14296, at *5.6
+Defendants do not cite a single case that supports their claim that Plaintiffs’ class and
+collective allegations are insufficient.
+A.
+
+The FAC Satisfies Rule 23.
+
+The FAC meets each prong of Rule 23(a) and at least one subpart of Rule 23(b), and their
+proposed class definition is adequate, at least at this stage of the litigation.
+1.
+
+The FAC Satisfies Rule 23(a)
+
+The FAC satisfies Rule 23(a) by alleging that Plaintiffs meet each of its elements,
+numerosity, commonality, typicality, and adequacy of representation, and supports these
+allegations with additional factual allegations. FAC at ¶¶ 24-39. For example, Plaintiff Hughes
+
+6
+
+Copley is also wrongly decided. The administrative exemption to the FLSA is an
+affirmative defense. See, e.g., Wright v. Aargo Sec. Servs., Inc., No. 99 Civ. 9115, 2001 U.S.
+Dist. LEXIS 882 (S.D.N.Y. Feb. 1, 2001), at *6 (S.D.N.Y. Feb. 1, 2001). Plaintiffs need not
+rebut affirmative defenses in their pleadings. See Gomez v. Toledo, 446 U.S. 635, 640 (1980);
+Harris v. City of New York, 186 F.3d 243, 251 (2d Cir. 1999) (“the statute of limitations is an
+affirmative defense…that [plaintiff’s] pleading need not have anticipated”); U.S. v. N. Trust Co.,
+372 F.3d 886, 888 (7th Cir. 2004) (“complaints need not anticipate and plead around defenses”).
+8
+
+Case 1:07-cv-10356-LAK-THK
+
+Document 22
+
+Filed 05/27/2008
+
+Page 22 of 39
+
+alleges his claims are typical of the class’ claims. He supports this allegation with the factual
+assertion that he and the potential class members “work or have worked for Defendant and have
+not been paid overtime wages for the hours they have worked in excess of 40 hours per week.”
+Further, Hughes alleges “Defendant has acted and refused to act on grounds generally applicable
+to the Rule 23 Class.” FAC at ¶ 30.
+2.
+
+The FAC Satisfies Rule 23(b)(3)
+
+The FAC satisfies Rule 23(b)(3)7 by alleging superiority and predominance.
+a.
+
+Plaintiffs Adequately Plead Superiority; their
+Waiver of Liquidated Damages Has No Impact on
+Superiority.
+
+The superiority element of Rule 23(b)(3) requires plaintiffs to show that “a class action is
+superior to other available methods for the fair and efficient resolution of the controversy.”
+Plaintiffs allege superiority and facts supporting it. FAC at ¶ 33.
+Defendants are wrong that Plaintiffs’ waiver of liquidated damages, as required by N.Y.
+CPLR §901(b) (“§ 901(b)”), defeats superiority. Def. Br. at 15. It is true that an individual
+worker could theoretically bringing her own law suit seeking liquidated damages, but a class
+action does not preclude this. If a class is certified, all workers will receive notice and have an
+opportunity to opt-out and bring their own cases. Mascol v. E & L Transport, Inc., No. Cv-033343, 2005 U.S. Dist. LEXIS 32634, at **26-27 (E.D.N.Y. June 29, 2005) (directing the
+plaintiffs to “provide a clear and concise description explaining the nature of liquidated damages
+and the consequences of a waiver in the notice as well”); Smellie v. Mount Sinai Hosp., No. 030805, 2004 U.S. Dist. LEXIS 24006, at *16 (S.D.N.Y. Nov. 29, 2004) (requiring “that the notice
+to class members make clear the limitation on the relief sought for the class in this action and the
+7
+
+Defendants’ arguments regarding Rule 23(b)(2) (Def. Br. at 8-12) are moot because Plaintiffs
+do not plan to move for class certification under that subsection.
+9
+
+Case 1:07-cv-10356-LAK-THK
+
+Document 22
+
+Filed 05/27/2008
+
+Page 23 of 39
+
+availability of these alternative courses of action”); See Fed. R. Civ. P. 23(c)(2)(B).
+Moreover, Rule 23(b)(3) requires a relative comparison examining whether “the
+class action device [is] superior to other methods available for a fair and efficient
+adjudication of the controversy.” Green v. Wolf Corp., 406 F.2d 291, 301 (2d Cir. 1968)
+(emphasis added). Leaving wage and hour enforcement to individual workers is not a
+feasible method, let alone a superior one. Even employees with legitimate claims for
+back wages are not likely to pursue their remedies individually.8
+Class actions also provide a method of obtaining redress for claims, like most
+wage and hour claims, that are too small to warrant individual actions. See West Virginia
+v. Chas. Pfizer & Co., 440 F.2d 1079, 1090 (2d Cir. 1971); Torres v. Gristede's
+Operating Corp, No. 04 Civ. 3316, 2006 U.S. Dist. LEXIS 74039, at *53 (S.D.N.Y. Sept.
+29, 2006) (“[b]ecause litigation costs would likely exceed any gains from overtime wage
+recovery, class members would be unlikely to litigate individually.”). Without classaction enforcement, many workers would be left with no practical remedy.
+A class action is certainly superior to the only real alternative – allowing
+Getronics’ unlawful practices to continue unchecked.
+The only case that Defendants cite in support of their argument, Myers v. Hertz
+
+8
+
+See, e.g, Horn v. Associated Wholesale Grocers Inc., 555 F.2d 270, 275 (10th Cir. 1977)
+(Class actions ensure representation for those who cannot be expected to protect themselves.);
+Guzman, 2008 U.S. Dist. LEXIS 15821, at **25–26 (“the opt-out nature of a class action is a
+valuable feature lacking in an FLSA collective action” because many employees are reluctant to
+affirmatively sue); McLaughlin v. Liberty Mut. Ins. Co., 224 F.R.D. 304, 309 (D. Mass. 2004)
+(“Many courts have suggested that the employer-employee relationship is of such a nature that
+an employee may feel inhibited to sue . . . .”) (internal citations omitted); Scott v. Aetna Servs.,
+Inc., 210 F.R.D. 261, 268 (D. Conn. 2002) (“[C]lass members may fear reprisal and would not be
+inclined to pursue individual claims . . . .”); Ladegaard v. Hard Rock Concrete Cutters, Inc., No.
+00 C 5755, 2000 U.S. Dist. LEXIS 17832, at *14 (N.D. Ill. Dec. 1, 2000) (“[T]he nature of the
+economic dependency involved in the employment relationship is inherently inhibiting.”).
+10
+
+Case 1:07-cv-10356-LAK-THK
+
+Document 22
+
+Filed 05/27/2008
+
+Page 24 of 39
+
+Corp., does not even decide the issue. In Myers, the Court denied a motion for class
+certification because the plaintiffs failed to show commonality and typicality. No. 02CV-3425, 2007 U.S. Dist. LEXIS 53572, at *20 (E.D.N.Y. July 24, 2007). The court
+merely stated, in dicta, that “it is unclear if a class action would be superior,” given
+901(b). Id. at *21.
+Courts in this circuit have consistently found class actions superior to individual
+litigation, even where plaintiffs have waived liquidated damages. See, e.g., Guzman v.
+VLM, Inc., No. 07-CV-1126, 2008 U.S. Dist. LEXIS 15821, at **25–26 (E.D.N.Y. Mar.
+2, 2008); Iglesias-Mendoza, 239 F.R.D. at 373; Torres, 2006 U.S. Dist. LEXIS 74039 at
+*53-55; Ansoumana v. Gristede’s Operating Corp., 201 F.R.D. 81, 88-89 (S.D.N.Y.
+2001); Mascol, 2005 U.S. Dist. LEXIS 32634 at *24-26; Smellie, 2004 U.S. Dist. LEXIS
+24006, at *19-22; Noble v. 93 Univ. Place Corp., 224 F.R.D. 330, 346 (S.D.N.Y. 2004).
+b.
+
+Plaintiffs Adequately Plead Predominance; the
+Potential for “Individual Inquiries” Does Not
+Defeat Predominance.
+
+The predominance element of Rule 23 requires that “the issues in the class action that are
+subject to generalized proof, and thus applicable to the class as a whole . . . predominate over
+those issues that are subject only to individualized proof.” In re Visa Check/MasterMoney
+Antitrust Litig., 280 F.3d 124, 136 (2d Cir. 2001). The essential inquiry is whether “liability can
+be determined on a class-wide basis, even when there are some individualized damage issues.”
+Id. at 139. A defense that “may arise and [ ] affect different class members differently does not
+compel a finding that individual issues predominate over common ones.” Noble, 224 F.R.D at
+339. Where plaintiffs are “unified by a common legal theory” and common facts, the
+predominance requirement is satisfied. McBean v. The City of New York, 228 F.R.D. 487, 502
+
+11
+
+Case 1:07-cv-10356-LAK-THK
+
+Document 22
+
+Filed 05/27/2008
+
+Page 25 of 39
+
+(S.D.N.Y. 2005).
+On its face, the FAC meets this standard. Plaintiffs specifically allege that common
+questions of law and fact predominate, and list several examples. FAC at ¶ 29. Further
+supporting predominance, Plaintiffs allege that Defendants uniform conduct and policies gave
+rise to their NYLL violations. See, e.g., FAC at ¶¶ 2, 3, 35, 36, 37, 77. These allegations are
+more then enough to “raise a right to relief above the speculative level.” Twombly, 127 S. Ct. at
+1964-65.
+The potential for “individualized inquiries” is not a ground for dismissing Plaintiffs’ class
+allegations. Def. Br. at 13. Defendants’ argument is premature and substantively wrong.
+It is premature because Plaintiffs are awaiting discovery that will bear on certification
+and liability, and help them establish that common legal and factual questions predominate.
+Miazad Decl. ¶¶5-10. Plaintiffs dispute Defendants’ claim that they had “vastly different jobs”
+from one another and from every other Getronics’ employee. Def. Br. at 3. Plaintiffs are entitled
+to discovery that would allow them to challenge these claims. See Parker, 331 F.3d at 22.9
+Moreover, “the mere existence of individualized factual questions,” such as different job
+titles, different customers, and different locations, does not bar class Rule 23(b)(3) class
+certification. See Gary Plastic Packaging Corp. v. Merrill Lynch, Pierce, Fenner & Smith, Inc.,
+903 F.2d 176, 180 (2d Cir. 1990); In re Frontier Ins. Group, Inc. Sec. Litig., 172 F.R.D. 31, 41
+(E.D.N.Y. 1997) (“The rule barring certification of plaintiffs subject to unique defenses is not
+9
+
+The Court should exclude the two affidavits Defendants submit in support of their
+motion, or, if it considers them, treat the motion as one for summary judgment under Fed. R.
+Civ. P. 56, Sheppard v. Beerman, 94 F.3d 823, 828 (2d Cir. 1996), and grant Plaintiffs’ time to
+take adequate discovery to rebut them. Fed. R. Civ. P. 12(c). Pre-discovery summary judgment
+should be granted only in rare cases. Miller v. Wolpoff & Abramson L.L.P., 321 F.3d 292, 303–
+04 (2d Cir. 2003). “[S]ummary judgment should not be granted while the party opposing
+judgment timely seeks discovery of potentially favorable information.” Schering Corp. v. Home
+Ins. Co., 712 F.2d 4, 10 (2d Cir. 1983).
+12
+
+Case 1:07-cv-10356-LAK-THK
+
+Document 22
+
+Filed 05/27/2008
+
+Page 26 of 39
+
+rigidly applied in this Circuit[.]” (citation omitted).) Courts regularly certify classes featuring
+factual and legal variance among class members. See Marisol A. ex rel. Forbes v. Giuliani, 126
+F.3d 372, 377 (2d Cir. 1997) (affirming the district court’s conclusion that the “unique
+circumstances” of the plaintiffs were not a bar to class certification because the evidence showed
+that defendants’ conduct “form[ed] a pattern of behavior that commonly affect[ed] all of the
+proposed class members”); EEOC v. Local 638, 71 Civ. 2877, 2004 U.S. Dist. LEXIS 21682, at
+**19-20 (S.D.N.Y. Oct. 28, 2004) (“Courts within the Second Circuit have repeatedly certified
+classes . . . despite differing factual circumstances of the class members’ claims”); Wright v.
+Stern, 01 Civ. 4437, 02 Civ. 4699, 2003 U.S. Dist. LEXIS 11589, at **15-17 (S.D.N.Y. July 9,
+2003) (rejecting defendants’ argument that the plaintiffs failed to meet Rule 23’s commonality
+requirement because the class “members’ employment var[ied] widely according to civil service
+classification, location, and collective bargaining agreement.”)
+Here, Plaintiffs allege that all members of the class are unified by common facts – they
+all provided computer user support for Getronics’ customers, FAC at ¶¶ 2, 24, 26, and Getronics
+classifies them all as exempt from state and federal overtime protections, FAC at ¶¶ 3, 35. They
+are also unified by a common legal theory – that Getronics’ exempt classification of these
+positions violates the NYLL. FAC at ¶¶ 35-37. These allegations, if supported by evidence,
+establish predominance. See Iglesias-Mendoza, 239 F.R.D. at 373 (whether employees were
+supposed to be paid overtime was “about the most perfect question[] for class treatment”);
+Torres, 2006 U.S. Dist. LEXIS 74039, at *52 (finding that question as to whether plaintiffs
+“introduced sufficient proof that Defendants engaged in a common practice to deny employees
+overtime pay” predominates); Jankowski v. Castaldi, No. 01-CV-0164, 2006 U.S. Dist. LEXIS
+4237, at *13 (E.D.N.Y. Jan. 13, 2006) (“The common question of Defendants’ alleged failure to
+
+13
+
+Case 1:07-cv-10356-LAK-THK
+
+Document 22
+
+Filed 05/27/2008
+
+Page 27 of 39
+
+pay overtime wages predominates, and this requirement is therefore satisfied.”)
+3.
+
+Plaintiffs’ Proposed Class Definitions are Sufficient.
+
+The Court should reject Defendants’ claim that the class definitions in the FAC are not
+sufficiently “precise” or “presently ascertainable.” Def. Br. at 14-15. “[The] court is not bound
+by the class definition proposed in the complaint and should not dismiss the action simply
+because the complaint seeks to define the class too broadly.” Poddar v. State Bank of India 235
+F.R.D. 592, 595 (S.D.N.Y. 2006) (citing Robidoux v. Celani, 987 F.2d 931, 937 (2d Cir.1993)).
+Plaintiffs are entitled to take discovery to support their proposed class definition or to refine or
+clarify it. See Hudson v. Delta Air Lines, 90 F.3d 451, 459 n.16 (11th Cir. 1996) (“Although the
+issue of class certification should be resolved in the early stages of a case if possible, prior
+discovery is often necessary to sufficiently define the proper scope of an alleged class or
+subclass”).10 Plaintiffs have served such discovery and await Defendants’ responses. See
+Miazad Decl. ¶ 5-6. After discovery, Plaintiffs may seek to certify a class narrower or more
+precisely defined than the one in pled the FAC. See In re New York City Mun. Sec. Litig., 87
+F.R.D. 572, 580 (S.D.N.Y. 1980) (“Prior to a decision on the merits, leave to amend the
+complaint to redefine the class should be freely given except when some prejudice results to
+either the defendants or to those persons dropped from the class.”)
+B.
+
+The FAC Satisfies 29 U.S.C. § 216(b).
+
+The standard for certification of an FLSA collective is lower than for certification of a
+Rule 23 class action. Lynch v. United Services Auto. Ass'n, 491 F. Supp. 2d 357, 369 (S.D.N.Y.
+10
+
+See also, Burns v. U. S. R. Retirement Bd., 226 U.S. App. D.C. 178, 191-92 (D.C. Cir.
+1983) (the “precise delineation of a class may require discovery or other preliminary procedures.
+. . . [and] may require alteration or amendment as the case unfolds”); Pittman v. E. I. duPont de
+Nemours & Co., 552 F.2d 149, 150 (5th Cir. 1977) (“Of course, a certain amount of discovery is
+essential in order to determine the . . . proper scope of a class action. The plaintiff is entitled to
+some leeway in attempting to define the proper parameters of his proposed class.”).
+14
+
+Case 1:07-cv-10356-LAK-THK
+
+Document 22
+
+Filed 05/27/2008
+
+Page 28 of 39
+
+2007) (“Unlike Rule 23, section 216(b) of the FLSA requires no showing of numerosity,
+typicality, commonality, or representativeness”); Myers, 2007 U.S. Dist. LEXIS 53572, at *12
+(“the FLSA ‘similarly situated’ test is ‘significantly less strict’ than the test under Rule 23.”)
+(citations omitted). Under § 216(b) a plaintiff need only establish that they are “similarly
+situated” to other employees who could benefit from the lawsuit – the defendant subjected other
+employees to the same policies or practices. Fasanelli v. Heartland Brewery, Inc., 516 F. Supp.
+2d 317, 320-21 (S.D.N.Y. 2007); Guzman v. VLM, Inc., No. 07-CV-1126, 2007 U.S. Dist.
+LEXIS 75817, at *8 (E.D.N.Y. Oct. 11, 2007); Iglesias-Mendoza, 239 F.R.D. at 367.
+On its face, the FAC easily meets this standard. In addition to the allegations cited in
+section II A., supra, Plaintiffs allege that “[u]pon information and belief, there are many
+similarly situated current and former employees of Defendant who have been underpaid in
+violation of the FLSA,” FAC at ¶ 25, that they bring this case “to remedy violations of the
+wage-and-hour provisions of the FLSA by Defendant, that have deprived Plaintiffs and others
+similarly situated of their lawful overtime wages,” FAC at ¶ 8, and that Defendants “failed to
+pay Plaintiffs and the FLSA Collective the overtime wages to which they were entitled under the
+FLSA.” FAC at ¶ 69.
+III.
+
+Plaintiffs’ NYLL Class Allegations Should Not Be “Stricken.”
+A.
+
+Defendants Cite No Procedural Mechanism That Allows The Court To
+“Strike” Plaintiff’s Class Claims.
+
+The Court should reject Defendants’ effort to “strike” Plaintiffs’ class allegations (Def.
+Br. at 16-20) because these arguments are not tethered to any procedural mechanism. This is not
+just bad form, it is a substantive failing. See Martens v. Thomann, 273 F.3d 159, 172 (2d Cir.
+2001) (failure to identify procedural mechanism is not merely a “procedural formality,” but can
+“severely burden[]” review and disposition of a motion). It leaves Plaintiffs and the Court with
+
+15
+
+Case 1:07-cv-10356-LAK-THK
+
+Document 22
+
+Filed 05/27/2008
+
+Page 29 of 39
+
+the impossible task of divining which provision Defendants attempt to employ and requires them
+to guess which standards to apply. Id. (each procedural mechanism “carries its own procedures,
+its own standards for granting relief by the district court, and its own standards of review . . . ,
+thus making identification of the precise nature of the motion an essential . . .”). The Court
+should deny Defendants’ motion for this reason alone. See Martens v. Smith Barney, Inc., No.
+96 Civ. 3779, 2003 U.S. Dist. LEXIS 11587, at **13–14 (S.D.N.Y. July 9, 2003) (denying
+motion, after remand, for failure to identify procedural mechanism).
+B.
+
+Defendants Do Not Establish Any of the Elements of a Rule 12(f) Motion.
+
+If Defendants seek to “strike” Plaintiffs’ class allegations under Fed. R. Civ. P. 12(f)
+(“Rule 12(f)”), they fail because they do not even attempt to demonstrate that they meet any of
+its requirements. Rule 12(f) allows a court to order stricken “from any pleading . . . any
+redundant, immaterial, impertinent, or scandalous material” in any pleading. Because striking a
+portion of a pleading is a drastic remedy and because it is often sought as a dilatory or harassing
+tactic, Rule 12(f) motions are viewed with disfavor and seldom granted. C. Wright & A. Miller,
+5A Federal Practice and Procedure (“Wright & Miller”), § 1380 (2d ed. 1990); See Heller
+Financial, Inc. v. Midwhey Powder Co., Inc., 883 F.2d 1286, 1294 (7th Cir. 1989) (motions to
+strike disfavored, because they “potentially serve only to delay”); Lipsky v. Commonwealth
+United Corp., 551 F.2d 887, 893 (2d Cir. 1976) (“it is settled that the motion will be denied,
+unless it can be shown that no evidence in support of the allegation would be admissible.”)
+Defendants here fail to address the 12(f) standard or identify which material is
+“redundant, immaterial, impertinent, or scandalous.” They do not cite a single case that arose
+under a pre-discovery motion to strike.
+C.
+
+Plaintiffs’ NYLL Class Action Does Not Violate The Rules Enabling Act.
+
+16
+
+Case 1:07-cv-10356-LAK-THK
+
+Document 22
+
+Filed 05/27/2008
+
+Page 30 of 39
+
+Wage and hour defendants frequently raise, without success, the Rules Enabling Act
+(“REA”) argument that Defendants raise in their motion. It has failed five consecutive times in
+district courts in the Second Circuit. See Diaz v. Scores Holding Co., No. 07-CV-8718, 2008
+U.S. Dist. LEXIS 38248 (S.D.N.Y. May 9, 2008); Guzman v. VLM, Inc., No. 07-CV-1126, 2007
+U.S. Dist. LEXIS 15821, at *8 (E.D.N.Y. Oct. 11, 2007); Klein v. Ryan Beck Holdings, No. 06
+Civ. 3460, 2007 U.S. Dist. Lexis 51465 (S.D.N.Y. Jul. 13, 2007); Westerfield v. Wash. Mut.
+Bank, No. 06-CV-2817, 2007 U.S. Dist. LEXIS 54830 (E.D.N.Y. Jul. 26, 2007); Neary v. Metro.
+Prop. & Cas. Ins. Co., 472 F. Supp. 2d 247, 250-51 (D. Conn. 2007). District courts elsewhere
+“have uniformly and squarely rejected it,” as well. Osby v. Citigroup, 07-cv-06085, 2008 U.S.
+Dist. LEXIS 39041, at *12-14 (W.D. Mo. May 14, 2008) (rejecting REA argument); see also,
+Sjoblom v. Charter Commc’ns, LLC, No. 07-CV-0451, 2007 U.S. Dist. LEXIS 93879 (W.D.
+Wis. Dec. 19, 2007) (same); Freeman v. Hoffman-Laroche, Inc., 2007 U.S. Dist. LEXIS 92589
+(D.N.J. Dec. 18, 2007) (same); Lehman v. Legg Mason, Inc., 532 F. Supp. 2d. 726, 732-33 (M.D.
+Pa. 2007) (same); Farhy v. Janney Montgomery Scott, LLC, Nos. 06-3202, 06-3969, 2007 U.S.
+Dist. LEXIS 39112 (E.D. Pa. Apr. 26, 2007) (same).
+It should also fail here. The REA grants federal courts the authority to establish their
+own procedural rules but does not allow these rules to “abridge, enlarge, or modify []substantive
+right[s].” 28 U.S.C. § 2072(b). With regard to REA challenges, the Supreme Court has stated:
+[A]ny Rules Enabling Act challenge . . . has a large hurdle to get over. The Federal Rules
+of Civil Procedure are not enacted by Congress, but Congress participates in the
+rulemaking process. . . . Additionally, the Rules do not go into effect until Congress has
+had at least seven months to look them over. . . . A challenge . . . can therefore succeed
+only if the Advisory Committee, this Court, and Congress erred in their prima facie
+judgment that the Rule . . . This Court's decision in Burlington Northern R. Co. v. Woods,
+480 U.S. 1, 107 S. Ct. 967, 94 L. Ed. 2d 1 (1987), presents another hurdle. There, the
+Court considered the [REA]’s proscription against interference with substantive rights
+and held, in a unanimous decision, that Rules which incidentally affect litigants’
+
+17
+
+Case 1:07-cv-10356-LAK-THK
+
+Document 22
+
+Filed 05/27/2008
+
+Page 31 of 39
+
+substantive rights do not violate this provision if reasonably necessary to maintain the
+integrity of that system of rules.
+Bus. Guides, Inc. v. Chromatic Commc’ns. Enters., Inc., 498 U.S. 533, 552, 111 S. Ct. 922, 112
+L. Ed. 2d 1140 (1991) (internal quotation marks omitted; citations omitted; emphasis in original).
+Defendants argue that allowing a NYLL class action would diminish absent class
+members’ “substantive right” to bring their own overtime claims under 29 U.S.C. § 216(b) of the
+FLSA, and Defendants’ “substantive right” not to defend an opt-out wage and hour action.
+Plaintiffs’ class claims, however, do not affect any substantive rights. The FLSA’s “opt-in”
+procedure is just that – a procedure, not a substantive right. See Lindsay v. Gov. Employees Ins.
+Co., 448 F.3d 416, 424 (D.C. 2006) (the difference between Rule 23 and 29 U.S.C. §216(b) is a
+“mere procedural difference . . . .”); Sjoblom, 2007 U.S. Dist. LEXIS 93879 at **15-17 ( finding
+that the opt-in provisions of § 216(b) do not provide a substantive right within the meaning of the
+REA.); Klein, 2007 U.S. Dist. Lexis 51465, at *19 (same); Westerfield, 2007 U.S. Dist. LEXIS
+54830, **4-10 (same); see O’Connell v. Hove, 22 F.3d 463, 468 (2d Cir. 1994) (the FLSA’s
+substantive right is to overtime protection, regardless of prescribed procedural mechanisms).
+The REA does not protect procedural rights.
+Moreover, Plaintiffs’ proposed NYLL class does not violate any rights at all – substantive
+or otherwise. “Even if the right to opt-in is a substantive right, the right is not modified or
+abridged in any way by permitting a state law opt-out class to proceed alongside the FLSA opt-in
+class in the same case.” Westerfield, 2007 U.S. Dist. LEXIS 54830, at *5; Sjoblom, 2007 U.S.
+Dist. LEXIS 93879, at *17; Osby, 2008 U.S. Dist. LEXIS 39041, at *4. Plaintiffs do not seek to
+“invoke the procedures of Rule 23” to pursue their FLSA claims. Westerfield, 2007 U.S. Dist.
+LEXIS 54830, at *5. Rather, they seek to prosecute FLSA claims and NYLL claims “under their
+respective procedures.” Ellison v. Autozone, Inc., 2007 U.S. Dist. LEXIS 70187, at **4-5 (N.D.
+
+18
+
+Case 1:07-cv-10356-LAK-THK
+
+Document 22
+
+Filed 05/27/2008
+
+Page 32 of 39
+
+Cal. Sep. 13, 2007); see Osby, 2008 U.S. Dist. LEXIS 39041, at *8 (“Plaintiffs do not contend
+that they are entitled to a Rule 23 class for . . . claims brought under the FLSA and, indeed, are
+proceeding with a 216(b) class on those claims.”) Defendants do not cite a single case accepting
+its REA argument.11
+D.
+
+An FLSA Collective Action is Not “Incompatible” with a NYLL Class
+Action.
+
+Instead of citing the only case accepting its discredited REA argument, see supra
+footnote 11, Defendants cite a few out-of-Circuit cases that find FLSA collective actions and
+state law class actions to be “inherently incompatible,” or finding that the FLSA’s procedures
+preempt state law class actions. These cases are wrongly decided and inconsistent with betterreasoned decisions in this Circuit.
+The only cases in this district to address the “inherent incompatibility” argument, Diaz,
+2008 U.S. Dist. LEXIS 38248, at **16-19; Guzman, 2008 U.S. Dist. LEXIS 15821, at **30-31;
+Klein, 2007 U.S. Dist. LEXIS 51465, at **19-20, have rejected it.12 Defendants not only fail to
+acknowledge these decisions, but also ignore the holding of another court in this Circuit that the
+“inherently incompatible” argument is an “imaginary legal doctrine.” Westerfield, 2007 U.S.
+Dist. LEXIS 54830, at *7 (E.D.N.Y. July 26, 2007) (“There is no legal doctrine, of which the
+Court is aware, that permits the Court to dismiss a cause of action solely on the grounds that it is
+‘inherently incompatible’ with another action before it.”)
+11
+
+Such an opinion does exist. See Ellis v. Edward D. Jones & Co., 527 F. Supp. 2d 439
+(W.D. Pa. 2007).
+
+12
+
+See also, e.g., Lindsay, 448 F.3d at 424 (no conflict between an opt-out NYLL action and
+an opt-in FLSA action); Freeman, 2007 U.S. Dist. LEXIS 92589, at *7-9 (rejecting “inherent
+incompatibility” argument); Ellison, 2007 U.S. Dist. LEXIS 70187, at *6 (“FLSA collective and
+Rule 23 class actions are not incompatible”); Greene v. Robert Hall Int’l, Inc., 2006 U.S. Dist.
+LEXIS 97050, at **12-13 (N.D. Cal. Mar. 28, 2006) (“claims based on opt-in procedures are not
+irreconcilable with pendant state claims based on Federal Rule 23 opt-out procedures.”).
+19
+
+Case 1:07-cv-10356-LAK-THK
+
+Document 22
+
+Filed 05/27/2008
+
+Page 33 of 39
+
+Decisions rejecting the “inherently incompatible” argument are correct because a NYLL
+class action does not “circumvent” the FLSA’s opt-in requirement at all. As explained above,
+Plaintiffs bring their FLSA claims under the proper procedural mechanism – 29 U.S.C. § 216(b)
+and their NYLL claims under their proper procedural mechanism – Fed. R. Civ. P. 23. See
+Westerfield, 2007 U.S. Dist. LEXIS 54830, at *5; Sjoblom, 2007 U.S. Dist. LEXIS 93879, at *3.;
+Osby, 2008 U.S. Dist. LEXIS 39041, at **12-14; Ellison, 2007 U.S. Dist. LEXIS 70187, at **45.
+Under Defendants’ logic, no state law wage claim could ever be brought as a class action.
+Congress, however, never intended to limit workers’ rights under state laws. To the contrary, the
+FLSA “establish[es] a floor under which wage protections cannot drop. . . .,” Pac. Merch.
+Shipping Ass’n v. Aubry, 918 F.2d 1409, 1425 (9th Cir. 1990), and does not preempt state
+overtime wage laws. Overnite Transp. Co. v. Tianti, 926 F.2d 220, 222 (2d Cir. 1991). States
+are free to provide greater wage protections to their workers, subject to broader-reaching
+procedures. See 29 U.S.C. § 218(a). “Since 1947, Congress has done nothing to add language to
+the FLSA to expressly prohibit the exercise of supplemental jurisdiction over claims based on
+state wage and hour laws . . . Congress has refrained from enacting a law which provides for
+FLSA preemption of this state counterpart.” Salazar v. AgriProcessors, Inc., 527 F. Supp. 2d
+873, 885 (N.D. Iowa 2007).
+E.
+
+The Court Has Jurisdiction Over Plaintiffs’ NYLL Claims.
+1.
+
+The Court Has Original Jurisdiction Over Plaintiffs’ NYLL Claims.
+
+Defendants argue that the Court “may” lack supplemental jurisdiction over Plaintiffs’
+NYLL claims. Def. Br. at n. 12. The Court should deem this argument waived because
+Defendants only raise it in a footnote and do not develop it. In re Crude Oil Commodity Litig.,
+
+20
+
+Case 1:07-cv-10356-LAK-THK
+
+Document 22
+
+Filed 05/27/2008
+
+Page 34 of 39
+
+No. 06 Civ. 6677, 2007 U.S. Dist. LEXIS 66208, at *9 (S.D.N.Y. Sept. 7, 2007) (“Arguments
+which appear in footnotes are generally deemed to have been waived.”)
+Defendants’ supplemental jurisdiction argument is also moot because Plaintiffs
+adequately pled original jurisdiction under the Class Action Fairness Act (“CAFA”), 28 U.S.C.
+§1332(d). See FAC ¶ 10. CAFA provides an independent basis for federal jurisdiction. See
+Osby, 2008 U.S. Dist. LEXIS 39041 at * *10-14 (recognizing CAFA jurisdiction over state law
+wage and hour claims); Westerfield, 2007 U.S. Dist. LEXIS 54830 at *3 n.1 (defendants
+abandoned supplemental jurisdiction argument in light of CAFA); Sjoblom, 2007 U.S. Dist.
+LEXIS 93879 at **17-22 (recognizing that CAFA jurisdiction in wage case); Ellison, 2007 U.S.
+Dist. LEXIS 70187, at **5-6 (same); Baas, 2007 U.S. Dist. LEXIS 65979, at **8-10 (same).13
+2.
+
+The Court Has Supplemental Jurisdiction Over Plaintiffs’ Claims
+
+Even if the Court did not have CAFA jurisdiction over Plaintiffs’ NYLL claims, it would
+have supplemental jurisdiction under 28 U.S.C. § 1367(a). In arguing to the contrary,
+Defendants ignore the “overwhelming authority of district court cases from this circuit,”
+Gonzalez v. Nicholas Zito Racing Stable, Inc., 2008 U.S. Dist. LEXIS 27598, at *26 (E.D.N.Y.
+Mar. 31, 2008)14, including Ansoumana v. Gristede’s Operating Corp., the seminal New York
+13
+
+Although Defendants do not cite a procedural mechanism for their jurisdictional
+argument, Plaintiffs assume they intend to move under Rule 12(b)(1), under which the Court
+must accept Plaintiffs’ CAFA allegations as true, and draw all reasonable inferences in Plaintiffs
+favor. See Hunt v. Pritchard Indus., Inc., No. 07 Civ. 0747, 2007 U.S. Dist. LEXIS 47749, at
+**9–10 (S.D.N.Y. July 3, 2007).
+14
+
+See, e.g., Guzman, 2008 U.S. Dist. LEXIS 15821; Iglesias-Mendoza v. LaBelle Farm,
+Inc.¸ 239 F.R.D. 363, 374 (S.D.N.Y. 2007); Brickey v. Dolencorp, Inc., 244 F.R.D. 176
+(W.D.N.Y. 2007); Westerfield v. Wash. Mut. Bank, No. 06-CV-2817, 2007 U.S. Dist. LEXIS
+54830 (E.D.N.Y. July 26, 2007); Klein v. Ryan Beck Holdings, No. 06 Civ. 3460, 2007 U.S.
+Dist. LEXIS 51465 (S.D.N.Y. July 13 2007); Trinidad v. Breakaway Courier Sys., Inc., No. 05
+Civ. 4116 , 2007 U.S. Dist. LEXIS 2914 (S.D.N.Y. 2007); Duchene v. Michael L. Cetta, Inc.,
+244 F.R.D. 202 (S.D.N.Y. 2007); Torres v. Gristede’s Operating Corp., No. 04 Civ. 3316, 2006
+U.S. Dist. LEXIS 74039 (S.D.N.Y. Sept. 28, 2006); Mendez v. Radec Corp., 411 F. Supp. 2d 347
+21
+
+Case 1:07-cv-10356-LAK-THK
+
+Document 22
+
+Filed 05/27/2008
+
+Page 35 of 39
+
+decision on supplemental jurisdiction, where Judge Hellerstein wrote:
+the federal FLSA claims and the [NYLL] claims arise from the same nucleus of
+operative facts, are substantially related to each other, and naturally would be
+treated as one case and controversy. Indeed, it would be difficult to try them
+separately, for the findings in one case would tend to be preclusive as to the other
+or, if not preclusive, could expose the parties to inconsistent results. . . . The test
+of relatedness under Section 1367 is satisfied, and the federal FLSA claim confers
+supplemental jurisdiction over the [NYLL] claim.
+201 F.R.D. at 93. Defendants also ignore the only circuit court opinion to address the issue
+squarely.15 Lindsay, 448 F.3d at 421 (“it is clear that section 1367(a) authorizes a district court
+to exercise its supplemental jurisdiction [over NYLL claims] in mandatory language.”)
+Plaintiffs’ NYLL claims are part of the same case or controversy as their FLSA claims
+because they “derive from a common nucleus of operative fact.” United Mine Workers v. Gibbs,
+383 U.S. 715, 725, 86 S. Ct. 1130, 16 L. Ed. 2d 218 (1966). A federal court’s exercise of
+(W.D.N.Y. 2006); Lee v. ABC Carpet & Home, 236 F.R.D. 193 (S.D.N.Y. 2006); Jankowski v.
+Castaldi, No. 01-0164, 2006 U.S. Dist. LEXIS 4237 (E.D.N.Y. Jan. 13, 2006); Wraga v. Marble
+Lite, Inc., No. 05-5038, 2006 U.S. Dist. LEXIS 60457 (E.D.N.Y. Aug. 22, 2006); Frank v.
+Eastman Kodak Co., 228 F.R.D. 174 (W.D.N.Y. 2005); Ouedraogo v. Durso Assocs., No. 03 CV
+1851, 2005 U.S. Dist. LEXIS 11954 (S.D.N.Y. June 16, 2005); Scholtisek v. Eldre Corp., 229
+F.R.D. 381 (W.D.N.Y. 2005); Mascol v. E & L Transp., Inc., No. CV-03-3343, 2005 U.S. Dist.
+LEXIS 32634 (E.D.N.Y. 2005); Smellie v. Mount Sinai Hosp., No. 03-0805, 2004 U.S. Dist.
+LEXIS 24006 (S.D.N.Y. Nov. 29, 2004); Noble v. 93 Univ. Place Corp., 224 F.R.D. 330
+(S.D.N.Y. 2004); Chan v. Triple 8 Palace, No. 03-6048, 2004 U.S. Dist. LEXIS 9359 (S.D.N.Y.
+May 24, 2004); Scott v. Aetna Servs., Inc., 210 F.R.D. 261, 264–68 (D. Conn. 2002); Ansoumana
+v. Gristede’s Operating Corp., 201 F.R.D. 81, 85 (S.D.N.Y. 2001); Brzychnalski v. UNESCO,
+Inc., 35 F. Supp. 2d 351 (S.D.N.Y. 1999). But see Neary v. Metro. Prop. & Cas. Ins. Co., 472 F.
+Supp. 2d 247 (D. Conn. 2007).
+15
+
+While the Third Circuit rejected a hybrid action in one wage case, it did so only after
+finding that supplemental jurisdiction existed, but was improperly exercised by the district court.
+De Asencio v. Tyson Foods, Inc., 342 F.3d 301, 312 (3d Cir. 2003) (district court improperly
+accepted supplemental jurisdiction over novel issue of state law claims where Plaintiffs waited
+17 months, until after discovery had closed, to move for Rule 23 class certification of state law
+claim allegations that Plaintiffs’ had not asserted previously); see K.P. v. Corsey, 77 Fed. Appx.
+611, 614 (3d Cir. 2003) (Rendell, C. J. dissenting) (noting the “unique circumstances” in De
+Asencio and to “voic[ing] confidence in, and support for, the proposition that under our current
+statutory scheme, the district courts may exercise supplemental jurisdiction to decide issues of
+state law pursuant to 28 U.S.C. § 1367.”).
+
+22
+
+Case 1:07-cv-10356-LAK-THK
+
+Document 22
+
+Filed 05/27/2008
+
+Page 36 of 39
+
+supplemental jurisdiction over state law claims, “while not automatic, is a favored and normal
+course of action.” Promisel v. First American Artificial Flowers, Inc. 943 F.2d 251, 254 (2d Cir.
+1991). Supplemental jurisdiction is proper here because the very same acts that violate the
+FLSA, denial of overtime pay, also form the basis for Plaintiffs’ NYLL claims.
+F.
+
+Plaintiffs May Waive Liquidated Damages.
+
+Defendants incorrectly argue that § 901(b) precludes Plaintiffs’ NYLL class
+claims. Although § 901(b) prohibits plaintiffs from seeking liquidated damages in class
+actions, Ballard v. Community Home Care Referral Serv., 264 A.D.2d 747, 695 N.Y.S.2d
+130, 132 (App. Div. 1999) (“The fact that the plaintiff’s complaint contains a claim for
+liquidated damages precludes class action relief.”), it does not preclude plaintiffs from
+pursuing their claims on a class basis, because Plaintiffs expressly waive the right to
+NYLL liquidated damages on behalf of the class. FAC at 14. New York law allows
+Plaintiffs to do so and maintain a class action for actual damages as long as absent class
+members have an opportunity to opt-out and pursue statutory damages. See e.g., Jacobs
+v. Macy's East, Inc., 17 A.D.3d 318, 792 N.Y.S.2d 574, 576 (App. Div. 2d Dep’t 2005)
+(“CPLR article 9 authorizes class action suits, and sets forth the criteria to be considered
+in granting class action certification, which are to be liberally construed”). Pesantez v.
+Boyle Envtl. Servs., Inc., 251 A.D.2d 11, 673 N.Y.S.2d 659, 660 (App. Div. 1st Dep’t
+1998) (“To the extent certain individuals may wish to pursue punitive claims pursuant to
+Labor Law § 198 (1-a), which cannot be maintained in a class action (CPLR 901 [b]),
+they may opt out of the class action”); Ridge Meadows Homeowners’ Ass’n, Inc., v. Tara
+Dev. Co., Inc., 242 A.D.2d 947, 665 N.Y. S.2d 361, 361 (App. Div. 4th Dep’t 1997)
+(“any class member wishing to pursue statutory minimum and treble damages under the
+
+23
+
+Case 1:07-cv-10356-LAK-THK
+
+Document 22
+
+Filed 05/27/2008
+
+Page 37 of 39
+
+sixth cause of action may opt out of the class and bring an individual action.”)
+Notably, Defendants fail to acknowledge (much less distinuguish) the many cases
+in this Circuit rejecting their § 901(b) argument. Guzman, 2007 U.S. Dist. LEXIS 75817
+at *18; Iglesias-Mendoza, 239 F.R.D. at 374 (the court found “no problem with plaintiffs
+waiving their liquidated damages” provided that notice was given to the Rule 23
+instructing individuals how to pursue their claims for liquidated damages); Torres, 2006
+U.S. Dist. LEXIS 74039, at *56 (same); Mascol, 2005 U.S. Dist. LEXIS 32634, at **2627 (“New York law does, however, allow for the waiver of liquidated damages claims for
+class action claims for overtime wages as long as putative class members are given the
+opportunity to opt out of the class in order to pursue their own liquidated damages
+claims.”); Smellie, U.S. Dist. LEXIS 24006, at **15-16 (“It is well within the range of
+permissible practical and strategic choices for a plaintiff to choose to join a class action
+seeking actual damages only, rather than undertake the efforts and transaction costs of
+seeking to pursue an individual action for actual and liquidated damages, or pressing her
+individual complaint with the Industrial Commissioner, who is empowered to seek actual
+and liquidated damages on wage claims.”); Noble, 224 F.R.D. at 341 (S.D.N.Y. May 3,
+2004) (“Because the right to liquidated damages has been waived, Section 901 does not
+preclude certification”); Ansoumana, 201 F.R.D. at 95 (New York law authorizes
+procedure where plaintiffs “waive any right to recover liquidated damages as a condition
+of being certified as a class”); Brzychnalski, 35 F. Supp. 2d at 353 (“even if plaintiffs
+cannot seek liquidated damages on a class basis, they may waive that right and still
+proceed on a class basis with respect to their remaining claims”)
+The cases Defendants cite for the proposition that Plaintiffs may not waive
+
+24
+
+Case 1:07-cv-10356-LAK-THK
+
+Document 22
+
+Filed 05/27/2008
+
+Page 38 of 39
+
+liquidated damages are not on point. They do not address waiver of liquidated damages
+under the NYLL – they are both Donnelly Act cases. In rejecting the argument
+Defendants make here, Federal courts routinely distinguish Donnelly Act cases from
+NYLL cases on the ground that the Donnelly Act imposes a mandatory penalty while
+NYLL merely allows liquidated damages. Klein, 2004 U.S. Dist. LEXIS 24006, at **1213 (“We note, as did the Smellie court, that [§ 340(5)], the provision at issue in Asher,
+differs from N.Y. LAB. LAW § 198(1-a) in that it imposes a mandatory penalty, whereas
+§ 198 merely allows the recovery of liquidated damages.”); see also, Westerfield, 2007
+U.S. Dist. LEXIS 54830, at **10-11 (finding defendants’ argument unpersuasive because
+“defendant relies on cases….which hold that mandatory penalties cannot be waived but
+which were decided under a different statute, the Donnelly Act”); Smellie, 2004 U.S.
+Dist. LEXIS 24006, at *16 (there are no indications “that a plaintiff cannot chose [sic] to
+forego the opportunity to prove willfulness and thus, in effect, waive the penalty
+provision.”).
+Defendants have not cited a single case arising under the NYLL where a court has
+held that Plaintiffs cannot waive liquidated damages in order to maintain a class.
+CONCLUSION
+For the foregoing reasons, Plaintiffs respectfully request that this Court deny Defendants’
+motion in its entirety.
+Dated: May 27, 2008.
+Respectfully submitted,
+OUTTEN & GOLDEN LLP
+
+25
+
+Case 1:07-cv-10356-LAK-THK
+
+Document 22
+
+By:
+
+Filed 05/27/2008
+
+Page 39 of 39
+
+/s/ Justin M. Swartz
+Justin M. Swartz (JS 7989)
+
+Outten & Golden LLP
+Adam T. Klein (AK 3293)
+Justin M. Swartz (JS 7989)
+Ossai Miazad (OM 1127)
+3 Park Avenue, 29th Floor
+New York, New York 10016
+Telephone: 212-245-1000
+AND
+BRUCKNER BURCH PLLC
+Richard J. (Rex) Burch (TX 24001807)
+Pro Hac Vice Motion Forthcoming
+Michael K. Burke (TX 24012359)
+Pro Hac Vice Motion Forthcoming
+1415 Louisiana, Suite 2125
+Houston, Texas 77002
+Telephone: 713-877-8788
+Attorneys for Plaintiff and the Putative Classes
+
+26
+
+

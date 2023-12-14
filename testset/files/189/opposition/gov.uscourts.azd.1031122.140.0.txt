@@ -1,0 +1,615 @@
+Case 2:17-cr-00585-GMS Document 140 Filed 03/06/18 Page 1 of 6
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+ELIZABETH A. STRANGE
+First Assistant United States Attorney
+District of Arizona
+MATTHEW BINFORD
+Arizona Bar No. 029019
+Matthew.Binford@usdoj.gov
+CAROLINA ESCALANTE
+Arizona Bar No. 026233
+Fernanda.Escalante.Konti@usdoj.gov
+GARY M. RESTAINO
+Arizona Bar No. 017450
+Gary.Restaino@usdoj.gov
+Assistant U.S. Attorneys
+Two Renaissance Square
+40 N. Central Ave., Suite 1800
+Phoenix, Arizona 85004
+Telephone: 602-514-7500
+Attorneys for Plaintiff
+
+11
+IN THE UNITED STATES DISTRICT COURT
+
+12
+
+FOR THE DISTRICT OF ARIZONA
+
+13
+14
+
+United States of America,
+
+15
+
+Plaintiff,
+
+16
+17
+18
+
+vs.
+Thomas Mario Costanzo,
+
+GOVERNMENT’S RESPONSE TO
+MOTION IN LIMINE TO PRECLUDE
+EVIDENCE OR ARGUMENT AS TO
+DARKNET(S) AND/OR THE ONION
+ROUTER (Tor)
+
+Defendant.
+
+19
+20
+
+CR-17-00585-PHX-GMS
+
+Costanzo’s motion to preclude any mention of Tor or the dark net by the government
+
+21
+
+during the entire trial is too broad and should be denied.
+
+While the government
+
+22
+
+acknowledges that—in the wrong context—mention of the dark net or Tor could
+
+23
+
+potentially be prejudicial, a brief mention of those subjects to provide context, background,
+
+24
+
+or to rebut claims made by Costanzo or his witnesses is appropriate and supported by the
+
+25
+
+rules of evidence. Additionally, if granted, Costanzo’s motion would place the government
+
+26
+
+at an unfair disadvantage because it would allow the defense witnesses to freely talk about
+
+27
+
+Tor or the dark net with no opportunity for the government to rebut or respond to that
+
+28
+
+evidence.
+
+Case 2:17-cr-00585-GMS Document 140 Filed 03/06/18 Page 2 of 6
+
+1
+
+I.
+
+Introduction and Background.
+
+2
+
+Costanzo is charged with engaging in five separate financial transactions for two
+
+3
+
+purposes: to conceal and disguise the nature, location, source, ownership and control of the
+
+4
+
+undercover agents’ drug money, in violation of 18 U.S.C. § 1956(a)(3)(B); and with the
+
+5
+
+intent to avoid a transaction reporting requirement that any financial institution would be
+
+6
+
+required to make, in violation of 18 U.S.C. § 1956(a)(3)(C). The government has the
+
+7
+
+burden to establish beyond a reasonable doubt that Costanzo acted with the intent to either
+
+8
+
+conceal the nature and source of the dirty money or to otherwise avoid federal transaction
+
+9
+
+reporting requirements. In all of the transactions charged here, Costanzo provided bitcoin
+
+10
+
+in exchange for money represented to be drug proceeds.
+
+11
+
+As mentioned in previous pleadings, this undercover operation began back in 2015,
+
+12
+
+when federal law enforcement began looking closely at peer-to-peer bitcoin exchangers
+
+13
+
+offering their services on a website called localbitcoins.com. (Doc. 79, at 3.) That scrutiny
+
+14
+
+was based on concerns about bitcoin being used to further illegal activity. (Doc. 79, at 7.)
+
+15
+
+That illegal activity included traditional money laundering, but it also included money
+
+16
+
+laundering specifically related to drugs and other contraband being sold on the dark net.
+
+17
+
+(Doc. 79, at 9.)
+
+18
+
+II.
+
+Potential Uses At Trial.
+
+19
+
+Mention of the dark net or Tor at trial would be limited at trial to a few situations—
+
+20
+
+none of which violate the rules of evidence or unfairly prejudice Costanzo. As detailed
+
+21
+
+below, the only potential times when those topics would come up is for background on
+
+22
+
+how this investigation began, to explain the training and experience of a few witnesses, or
+
+23
+
+to rebut or impeach Costanzo or his witnesses. It is also important to bring up during voir
+
+24
+
+dire to determine whether any potential jury members have specialized knowledge or
+
+25
+
+training that could impact their ability to be fair and impartial, or impact their duty to rely
+
+26
+
+solely on the evidence presented at trial.
+
+27
+
+A.
+
+28
+
+It is well-established that agents may explain the origins of an investigation. See,
+
+To Provide Background About The Investigation.
+
+-2-
+
+Case 2:17-cr-00585-GMS Document 140 Filed 03/06/18 Page 3 of 6
+
+1
+
+e.g., United States v. Wahchumwah, 710 F.3d 862, 871 (9th Cir. 2013) (denying a
+
+2
+
+confrontation clause claim seeking to preclude complaints by third parties that prompted
+
+3
+
+investigation); United States v. Hassan, 742 F.3d 104, 137 (4th Cir. 2014) (affirming
+
+4
+
+admission of agent’s testimony about information received that explained the origins of the
+
+5
+
+investigation); United States v. Mohamud, 941 F.Supp.2d 1303, 1313 (D. Or. 2013) (“A
+
+6
+
+jury may hear some background information on why a criminal investigation began.”); see
+
+7
+
+also United States v. McLean, 138 F.3d 1398, 1403 (11th Cir. 1998) (“Evidence, not part
+
+8
+
+of the crime charged but pertaining to the chain of events explaining the context, motive
+
+9
+
+and set-up of the crime, is properly admitted if linked in time and circumstances with the
+
+10
+
+charged crime, or forms an integral and natural part of an account of the crime, or is
+
+11
+
+necessary to complete the story of the crime for the jury.”); United States v. Feldman, No.
+
+12
+
+8:14-CR-521-T-27AEP, 2016 WL 3002418, at *5 (M.D. Fla. May 20, 2016) (“The
+
+13
+
+evidence that was admitted simply provided an explanation of why law enforcement
+
+14
+
+targeted pain clinics in general and this Defendant in particular”) (“It provided factual
+
+15
+
+context for the investigation of Defendant and his pain clinic and was necessary to explain
+
+16
+
+why law enforcement sent undercover agents into his medical practice”) (“Evidence
+
+17
+
+describing the rising epidemic of prescription drug abuse and the manner by which the
+
+18
+
+abusers acquired prescription narcotics . . . was certainly relevant to put this case in its
+
+19
+
+proper perspective.”). A brief mention of the dark net is necessary here to put the
+
+20
+
+investigation in context and to explain why federal agents were looking into peer-to-peer
+
+21
+
+exchangers like Costanzo. This type of background and context is particularly important
+
+22
+
+if the defense plans to make arguments to the jury similar to the arguments made back in
+
+23
+
+January before this Court, when defense counsel used strong terms to criticize the
+
+24
+
+government’s investigation in this case. (RT 1/4/18, at 35.) Testimony regarding what
+
+25
+
+prompted this investigation, including use of bitcoin by dark net vendors, is relevant and
+
+26
+
+necessary to explain the origins of this investigation and does not “insinuate the existence
+
+27
+
+of nefarious activity that is confusing,” mislead the jury, or “seek[] to cast aspersions about
+
+28
+
+Mr. Costanzo by association.” (Doc. 135, at 4.)
+-3-
+
+Case 2:17-cr-00585-GMS Document 140 Filed 03/06/18 Page 4 of 6
+
+1
+
+B.
+
+2
+
+Mention of Tor and the dark net might also come up while agents are providing
+
+3
+
+testimony about their training and background. Many of the witnesses scheduled to testify
+
+4
+
+at trial are part of a joint task force responsible for the investigation of dark net vendors
+
+5
+
+and local drug traffickers who use the dark net to obtain drugs to sale in Arizona. Virtual
+
+6
+
+currency and the dark net go hand in hand. For many of the dark net marketplaces, bitcoin
+
+7
+
+is the only payment method accepted. As such, much of the agents’ training and experience
+
+8
+
+includes training and presentations on the dark net. To exclude the mere mention of an
+
+9
+
+agent’s area of training or expertise because the subject matter can sometimes have a
+
+10
+
+negative connotation is asking too much and is not supported by the rules of evidence. The
+
+11
+
+mere mention of a detective’s training and experience in homicide cases shouldn’t prevent
+
+12
+
+that same detective from mentioning that specialized training and experience during a
+
+13
+
+robbery or burglary trial. It is the same as saying an FBI agent who has experience on the
+
+14
+
+Joint Terrorism Task Force shouldn’t be allowed to mention that training or experience
+
+15
+
+when testifying at a felon in possession of a firearm trial. The mere fact that an agent has
+
+16
+
+training in one area has nothing to do with Costanzo’s character. The exclusion of the
+
+17
+
+agents’ training is not logical and Costanzo cannot establish that the mere mention of
+
+18
+
+specialized training or experience, along with its probative value, is substantially
+
+19
+
+outweighed by unfair prejudice, confusion of the issues, delay, or any other reason set forth
+
+20
+
+in Rule 403.
+
+To Provide Information About The Training and Experience of Agents.
+
+21
+
+C.
+
+22
+
+If Costanzo testifies at trial, his knowledge of the dark net and the presence of Tor
+
+23
+
+on his electronic devices could be used to impeach or rebut his testimony. Likewise, if
+
+24
+
+Costanzo’s witnesses at trial attempted to assert that he never used encryption, Tor, or the
+
+25
+
+dark net, the evidence showing that he is familiar with those topics would certainly be
+
+26
+
+relevant to rebut that testimony. Additionally, the argument in Costanzo’s own motion
+
+27
+
+seems to cut against itself. It asks this Court to prevent any mention of Tor—or the fact
+
+28
+
+that it was found on several of his electronic devices—because it would be unfairly
+
+To Rebut or Impeach Costanzo or His Witnesses.
+
+-4-
+
+Case 2:17-cr-00585-GMS Document 140 Filed 03/06/18 Page 5 of 6
+
+1
+
+prejudicial or improper character evidence, but at the same time it argues that many
+
+2
+
+respected people use the Tor browser and that not many people use Tor anymore because
+
+3
+
+“it could no longer provide the degree of anonymity sought by users.” (Doc. 135, at 5.)
+
+4
+
+The bottom line is that mention of the dark net or Tor may be relevant to rebut or impeach
+
+5
+
+Costanzo or his witnesses and the Court should not make a blanket ruling prior to trial
+
+6
+
+excluding any mention of these topics before the defense witnesses have even testified.
+
+7
+8
+
+To Ensure That Jurors Do Not Have Specialized Knowledge That Could
+Impact Their Ability to be Fair and Impartial.
+
+9
+
+Finally, mention of the dark net is important for voir dire—which is why the
+
+10
+11
+12
+13
+14
+15
+16
+17
+
+D.
+
+government has asked the Court to consider making that inquiry during jury selection.
+(Doc. 130, at 4.) As mentioned above, it is important to find out whether potential jury
+members have specialized knowledge or training that could impact their ability to be fair
+and impartial, or impact their duty to rely solely on the evidence presented at trial.
+Alternatively, if the current question of, “Have you ever accessed the dark net?” might
+seem too prejudicial or invasive, that question could be softened to “Have you heard about
+the dark net?” 1
+III.
+
+Conclusion.
+
+18
+
+For the reasons set forth above, Costanzo’s motion to preclude any and all mention
+
+19
+
+of Tor or the dark net by government attorneys or agents is simply too broad. Those two
+
+20
+
+subjects are not character evidence, are relevant to limited parts of the trial and can be
+
+21
+
+presented in ways where any potential prejudice, confusion, or delay does not substantially
+
+22
+
+outweigh the probative value. Thus, the motion should be denied.
+
+23
+24
+25
+26
+27
+28
+
+1
+
+The Court may also direct the jury in voir dire away from imputing dark net
+suspicions onto Costanzo as to the charged transactions. For example, the Court could
+introduce the question by saying, “You may also hear about the use of the dark net to
+anonymize purchases made with virtual currency. To be clear, the defendant did not use
+the dark net in any of his transactions or communications with undercover agents.”
+-5-
+
+Case 2:17-cr-00585-GMS Document 140 Filed 03/06/18 Page 6 of 6
+
+1
+
+Respectfully submitted this 6th day of March, 2018.
+
+2
+
+ELIZABETH A. STRANGE
+First Assistant United States Attorney
+District of Arizona
+
+3
+4
+
+s/ Matthew Binford
+MATTHEW BINFORD
+CAROLINA ESCALANTE
+GARY M. RESTAINO
+Assistant U.S. Attorneys
+
+5
+6
+7
+8
+
+CERTIFICATE OF SERVICE
+
+9
+
+I hereby certify that on this date, I electronically transmitted the attached document
+
+10
+
+to the Clerk’s Office using the CM/ECF System for filing and transmittal of a Notice of
+
+11
+
+Electronic Filing to counsel of record in this case.
+
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+-6-
+
+

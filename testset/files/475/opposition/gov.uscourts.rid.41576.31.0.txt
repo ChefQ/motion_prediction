@@ -1,0 +1,3102 @@
+Case 1:17-cv-00042-JJM-LDA Document 31 Filed 02/28/18 Page 1 of 34 PageID #: 551
+
+1
+2
+
+UNITED STATES DISTRICT COURT
+
+3
+
+DISTRICT OF RHODE ISLAND
+
+4
+5
+CYNTHIA BOSS,
+
+Case No.: 1:17-cv-00042-JJM-LDA
+
+6
+Plaintiff,
+7
+v.
+8
+9
+10
+11
+
+FEDERAL HOUSING FINANCE AGENCY,
+FEDERAL NATIONAL MORTGAGE
+ASSOCIATION, AND SANTANDER BANK,
+N.A.,
+Defendants.
+
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+REPLY IN SUPPORT OF FANNIE MAE’S AND FHFA’S
+MOTION FOR JUDGMENT ON THE PLEADINGS
+
+Case 1:17-cv-00042-JJM-LDA Document 31 Filed 02/28/18 Page 2 of 34 PageID #: 552
+
+1
+
+TABLE OF CONTENTS
+
+2
+
+Page
+TABLE OF AUTHORITIES .......................................................................................................... ii
+
+3
+4
+
+INTRODUCTION ........................................................................................................................... 1
+
+5
+ARGUMENT .................................................................................................................................. 2
+6
+7
+
+I. FHFA AS CONSERVATOR IS NOT A GOVERNMENT ACTOR FOR PURPOSES
+OF CONSTITUTIONAL CLAIMS. ......................................................................................... 2
+
+8
+9
+
+II. FANNIE MAE IS NOT A GOVERNMENT ACTOR FOR PURPOSES OF
+CONSTITUTIONAL CLAIMS. ............................................................................................... 7
+
+10
+11
+
+A. FHFA’s Conservatorship Does Not Establish Permanent Government Control
+of Fannie Mae Under Lebron. ....................................................................................... 8
+
+12
+13
+
+B. Treasury’s Financial Support of the Fannie Mae Conservatorship Does Not
+Establish Permanent Government Control Under Lebron. ......................................... 15
+
+14
+15
+
+III. LEBRON CONTROLS THESE ISSUES AND SUBSEQUENT DECISIONS DO
+NOT UNDERMINE LEBRON’S PERMANENCY REQUIREMENT. ................................. 17
+
+16
+17
+
+CONCLUSION ............................................................................................................................. 21
+
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+i
+
+Case 1:17-cv-00042-JJM-LDA Document 31 Filed 02/28/18 Page 3 of 34 PageID #: 553
+
+1
+
+TABLE OF AUTHORITIES
+
+2
+3
+4
+5
+6
+
+Page(s)
+Cases
+U.S. ex rel. Adams v. Aurora Loan Servs., Inc.,
+813 F.3d 1259 (9th Cir. 2016) ......................................................................................... 4, 9, 20
+AG Route Seven P’ship v. United States,
+57 Fed. Cl. 521 (2003) .............................................................................................................. 6
+
+7
+8
+9
+10
+11
+
+Alley v. Resolution Trust Corp.,
+984 F.2d 1201 (D.C. Cir. 1993) ................................................................................................ 4
+Am. Bankers Mortg. Corp. v. Freddie Mac,
+75 F.3d 1401 (9th Cir. 1996) ............................................................................................. 18, 20
+Ambase Corp. v. United States,
+61 Fed. Cl. 794 (Fed. Cl. 2004) ................................................................................................. 6
+
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+Ameristar Fin. Servicing Co., LLC v. United States,
+75 Fed. Cl. 807 (2007) ............................................................................................................ 14
+Barrios-Velazquez v. Asociacion de Empleados del Estado Libre Asociado de
+Puerto Rico,
+84 F.3d 487 (1st Cir. 1996) ..................................................................................................... 18
+Basinger v. Wal-Mart Stores, Inc.,
+No. 98-334-P-H, 1999 WL 33117106 (D. Me. Jan. 27, 1999)................................................ 12
+Becker v. Gallaudet University,
+66 F. Supp. 2d 16 (D.D.C. 1999) ............................................................................................ 20
+Bernard v. Fannie Mae,
+No. 12-14680, 2013 WL 1282016 (E.D. Mich. Mar. 27, 2013) ............................................... 8
+Brentwood Acad. v. Tennessee Secondary School Athletic Ass'n,
+531 U.S. 288 (2001) .......................................................................................................... 18, 19
+Caroline Hunt Trust Estate v. United States,
+470 F.3d 1044 (Fed. Cir. 2006) ............................................................................................... 15
+Dep't of Transp. v. Ass'n of Am. R.R.,
+135 S. Ct. 1225 (2015) ............................................................................................................ 20
+Dias v. Fannie Mae,
+990 F. Supp. 2d 1042 (D. Haw. 2013) .................................................................................. 3, 8
+Fannie Mae v. Mandry,
+No. 12-cv-13236, 2012 WL 5996537 (E.D. Mich. Oct. 12, 2012) ........................................... 6
+ii
+
+Case 1:17-cv-00042-JJM-LDA Document 31 Filed 02/28/18 Page 4 of 34 PageID #: 554
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+
+Fannie Mae v. Mandry,
+No. 12-cv-13236, 2013 WL 687056 (E.D. Mich. Feb. 26, 2013) ......................................... 3, 6
+FDIC v. Meyer,
+510 U.S. 471 (1994) .............................................................................................................. 6, 7
+FDIC v. Morley,
+867 F.2d 1381 (11th Cir. 1989) ............................................................................................... 15
+FHFA v. Countrywide Fin. Corp.,
+900 F. Supp. 2d 1055 (C.D. Cal. 2012) ................................................................................. 5, 6
+FHFA v. Royal Bank of Scotland Grp. PLC,
+No. 3:11-cv-01383, 2012 WL 3580522 (D. Conn. Aug. 17, 2012) ...................................... 5, 6
+FHFA v. UBS Americas Inc.,
+No. 12-3207 (2d Cir. Oct. 25, 2012) ......................................................................................... 6
+Freddie Mac v. Shamoon,
+922 F. Supp. 2d 641 (E.D. Mich. 2013) .................................................................................... 3
+
+12
+13
+14
+15
+16
+
+Herron v. Fannie Mae,
+857 F. Supp. 2d 87 (D.D.C. 2012) ................................................................................... passim
+Herron v. Fannie Mae,
+861 F.3d 160 (D.C. Cir. 2017) ......................................................................................... passim
+Holland v. United States,
+75 Fed. Cl. 483 (2007) ............................................................................................................ 15
+
+17
+18
+19
+20
+21
+
+In re Kapla,
+485 B.R. 136 (Bankr. E.D. Mich. 2012) ................................................................................... 8
+Lebron v. Nat’l R.R. Passenger Corp.,
+513 U.S. 374 (1994) ......................................................................................................... passim
+Loren v. City of New York,
+No. 16-cv-3605, 2017 WL 5903358 (S.D.N.Y. Nov. 28, 2017) ............................................. 20
+
+22
+23
+24
+25
+26
+27
+28
+
+Matter of: S.E. James & Co.,
+B-415733, 2018 WL 834433 (Comp. Gen. Feb. 7)................................................................... 8
+Matveychuk v. One W. Bank, FSB,
+No. 1:13-CV-3464, 2016 WL 4059681 (N.D. Ga. Jan. 28, 2016) ............................................ 8
+May v. Wells Fargo Bank, NA.,
+No. 4:11-3516, 2013 WL 3207511 (S.D. Tex. June 24, 2013) ............................................. 3, 8
+Meridian Invs., Inc. v. Freddie Mac,
+855 F.3d 573 (4th Cir. 2017) ................................................................................... 9, 16, 19, 21
+
+- iii -
+
+Case 1:17-cv-00042-JJM-LDA Document 31 Filed 02/28/18 Page 5 of 34 PageID #: 555
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+
+Mik v. Freddie Mac,
+743 F.3d 149 (6th Cir. 2014) ................................................................................................... 18
+Morin v. Consol. Rail Corp.,
+810 F.2d 720 (7th Cir. 1987) ................................................................................................... 10
+Northrip v. Fannie Mae,
+527 F.2d 23 (6th Cir. 1975) ..................................................................................................... 19
+Parra v. Fannie Mae,
+No. 13-cv-4031, 2013 WL 5638824 (C.D. Cal. Oct. 16, 2013) ................................................ 3
+Pennsylvania v. Board of Directors of City Trusts of Phila.,
+353 U.S. 230 (1957) ................................................................................................................ 21
+United States ex rel. Petras v. Simparel, Inc.,
+857 F.3d 497 (3d Cir. 2017) ...................................................................................................... 4
+Posey v. Tenn. Valley Auth.,
+93 F.2d 726 (5th Cir. 1937) ..................................................................................................... 12
+
+12
+13
+14
+15
+16
+
+Regional Rail Reorganization Act Cases,
+419 U.S. 102 (1974) ................................................................................................... 10, 11, 16
+Roberts v. Cameron-Brown Co.,
+556 F.2d 356 (5th Cir. 1977) ................................................................................................... 19
+Rubin v. Fannie Mae,
+587 F. App’x 273 (6th Cir. 2014).......................................................................................... 8, 9
+
+17
+18
+19
+20
+21
+
+Schock v. FDIC,
+118 F. Supp. 2d 165 (D.R.I. 2000) ............................................................................................ 6
+Schock v. FDIC,
+254 F.3d 1 (1st Cir. 2001) ......................................................................................................... 6
+Sprauve v. W. Indian Co.,
+799 F.3d 226 (3d Cir. 2015) .............................................................................................. 12, 20
+
+22
+23
+24
+25
+26
+27
+28
+
+Syriani v. Freddie Mac Multiclass Certificates, Series 3365,
+No. CV 12-3035, 2012 WL 6200251 (C.D. Cal. July 10, 2012) .............................................. 3
+United States v. Beszborn,
+21 F.3d 62 (5th Cir. 1994) ..................................................................................................... 3, 4
+United States v. Ely,
+142 F.3d 1113 (9th Cir. 1998) ................................................................................................... 7
+United States v. Heffner,
+85 F.3d 435 (9th Cir. 1996) ....................................................................................................... 4
+
+- iv -
+
+Case 1:17-cv-00042-JJM-LDA Document 31 Filed 02/28/18 Page 6 of 34 PageID #: 556
+
+1
+2
+3
+4
+5
+
+Wiggins v. JP Morgan Chase Bank,
+2:14-cv-11103, 2015 WL 868933 (S.D.W.V. Feb. 27, 2015) ................................................. 15
+Statutes
+12 U.S.C.
+§ 1723(b) ................................................................................................................................. 16
+§ 4617(a)(2) ............................................................................................................................... 8
+§ 4617(b)(2)(A)(i) ..................................................................................................................... 2
+
+6
+7
+
+Other Authorities
+
+9
+
+Grant S. Nelson, Confronting the Mortgage Meltdown: A Brief for the
+Federalization of State Mortgage Foreclosure Law, 37 Pepp. L. Rev. 583
+(2010) ........................................................................................................................................ 2
+
+10
+
+65 Emory L.J. 107, 109-10 (2015) .................................................................................................. 2
+
+11
+
+FDIC OIG, Receivership Termination Activity 2 (Sept. 20, 2002),
+https://www.fdicoig.gov/sites/default/files/publications/02-032.pdf ...................................... 10
+
+8
+
+12
+13
+14
+15
+16
+17
+18
+19
+
+Georgia Real Estate Finance and Foreclosure Law § 14:2............................................................ 1
+James Sterngold, 85% U.S. Stake in Conrail Sold for $1.6 Billion, N.Y. Times
+(Mar. 27, 1987), http://.nytimes.com/////-us-stake-in-conrail-sold-for-1.6billion.html?=1&sq=conrail&st=nyt ....................................................................................... 10
+U.S. Dep’t of the Treasury, Where Did The Money Go?(Nov. 15, 2016, 2:02 PM),
+https://www.treasury.gov/initiatives/financial-stability/abouttarp/Pages/where-did-the-money-go.aspx ............................................................................... 15
+William E. Eye, Comment, Are Fannie Mae and Freddie Mac State Actors? State
+Action, Due Process, & Nonjudicial Foreclosure..................................................................... 2
+
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+-v-
+
+Case 1:17-cv-00042-JJM-LDA Document 31 Filed 02/28/18 Page 7 of 34 PageID #: 557
+
+INTRODUCTION
+
+1
+2
+
+Defendants’ motion established that Fannie Mae and FHFA, as Fannie Mae’s
+
+3
+
+Conservator, are not government actors for purposes of constitutional claims because
+
+4
+
+conservatorship does not amount to permanent government control under Lebron, the governing
+
+5
+
+Supreme Court precedent. In response, Plaintiff argues that Defendants are government actors,
+
+6
+
+primarily because conservatorship purportedly puts the Enterprises under permanent government
+
+7
+
+control or because Lebron supposedly does not govern.
+Plaintiff is wrong. Unanimous authority, including recent, on-point decisions of two
+
+8
+9
+
+federal appellate courts and at least 36 federal district judges, confirms that Lebron controls and
+
+10
+
+that neither the Enterprises nor FHFA as their Conservator can be deemed a government actor
+
+11
+
+subject to constitutional claims because conservatorship, though indefinite, is inherently
+
+12
+
+temporary. 1
+Facing this solid wall of authority, Plaintiff asserts that this case “involves a murky area
+
+13
+14
+
+of constitutional jurisprudence”—and that the roughly 40 on-point federal decisions issued to
+
+15
+
+date are all “clearly erroneous or too cursory to be reliable,” and “have been widely criticized by
+
+16
+
+legal scholars” in publications such as Georgia Real Estate Finance and Foreclosure Law. Opp.
+
+17
+
+at 4-5 nn.2-3. Plaintiff is wrong again. These articles express their authors’ wish that the law
+
+18
+
+were different; they do not describe the actual state of the law this Court must apply. Even the
+
+19
+
+Georgia publication, whose authors include foreclosure-relief advocates rather than neutral
+
+20
+
+“legal scholars,” 2 acknowledges that the “initial lower federal court decisions [that] have
+
+21
+
+addressed the implications of the Lebron test as applied to the conservatorship of Fannie Mae
+
+22
+
+and Freddie Mac have concluded that state action is not present,” and reiterates that “[d]ecisions
+
+23
+
+that . . . evaluate the Lebron factors in light of the 2008 [conservatorship] conclude that state
+
+24
+
+action is not present.” F. Alexander et al., Georgia Real Estate Finance and Foreclosure Law
+
+25
+26
+27
+
+1
+
+For the Court’s convenience, Defendants attach a list of the federal court decisions as
+Appendix A.
+2
+
+28
+
+The authors include the general counsel of the Center for Community Progress and an
+attorney with the Atlanta Legal Aid Society’s Home Defense Program.
+
+-1-
+
+Case 1:17-cv-00042-JJM-LDA Document 31 Filed 02/28/18 Page 8 of 34 PageID #: 558
+
+1
+
+§ 14:2 (emphasis added). 3
+
+2
+
+In any event, courts—who base their decisions on precedent—have carefully considered
+
+3
+
+the same arguments Plaintiff offers here and uniformly rejected them as foreclosed by Supreme
+
+4
+
+Court authority. The district court and Court of Appeals opinions in Herron, for example,
+
+5
+
+analyze and apply the governing precedents; they are neither “clearly erroneous [n]or too cursory
+
+6
+
+to be reliable.” See Opp. at 4 n.2. If some of the many other decisions—a few of which
+
+7
+
+expressly adopt the Herron district court’s analysis with little additional discussion—are brief,
+
+8
+
+that confirms the law is clear, not “murky” as Plaintiff suggests.
+Plaintiff’s arguments fail, and the Court should grant Defendants’ Motion.
+
+9
+
+ARGUMENT
+
+10
+11
+
+I.
+
+12
+
+FHFA AS CONSERVATOR IS NOT A GOVERNMENT ACTOR FOR
+PURPOSES OF CONSTITUTIONAL CLAIMS.
+Plaintiff argues primarily that FHFA is a government actor for purposes of this case
+
+13
+because it is a federal agency, and that Fannie Mae must therefore be one too because it operates
+14
+under FHFA’s conservatorship. Opp. at 5-6. Plaintiff is wrong on both counts.
+15
+No one could question that FHFA is a federal agency. But that is of no moment here,
+16
+because Plaintiff’s allegations as to FHFA concern only its capacity as Conservator of Fannie
+17
+Mae—a private corporation—not as a federal regulatory agency; Plaintiff neither alleges nor
+18
+could allege that FHFA, in connection with the foreclosure at issue, exercised any power or
+19
+authority beyond the private contractual rights it inherited as Fannie Mae’s statutory successor.
+20
+See 12 U.S.C. § 4617(b)(2)(A)(i) (The Conservator “immediately succeed[s] to . . . all rights,
+21
+22
+23
+24
+25
+26
+27
+28
+
+3
+
+Similarly, another of the articles Plaintiff cites—the law-student comment William E.
+Eye, Comment, Are Fannie Mae and Freddie Mac State Actors? State Action, Due Process, &
+Nonjudicial Foreclosure—recites that the “[c]ourts that have considered this issue in recent years
+have almost unanimously found that Fannie and Freddie do not satisfy the Lebron test,” then
+advocates for “a novel approach to determin[ing] whether Fannie and Freddie are state actors.”
+65 Emory L.J. 107, 109-10 (2015). Plaintiff also claims an article published in 2010—Grant S.
+Nelson, Confronting the Mortgage Meltdown: A Brief for the Federalization of State Mortgage
+Foreclosure Law, 37 Pepp. L. Rev. 583 (2010)—somehow “criticize[s]” decisions issued years
+later. Opp. at 4-5 n.3. The early, oft-cited district court decision in Herron, for example, was
+issued in 2012. See Herron v. Fannie Mae, 857 F. Supp. 2d 87 (D.D.C. 2012) (“Herron I”).
+Plaintiff’s inversion of the timing was undoubtedly an honest mistake, but it shows how tenuous
+Plaintiff’s argument is.
+
+-2-
+
+Case 1:17-cv-00042-JJM-LDA Document 31 Filed 02/28/18 Page 9 of 34 PageID #: 559
+
+1
+
+titles, powers, and privileges of the regulated entity” in conservatorship.). As the D.C. Circuit
+
+2
+
+recently explained, in its capacity as Conservator, FHFA is not a government actor for
+
+3
+
+constitutional purposes because it “step[s] into Fannie Mae’s private shoes,” thus becoming a
+
+4
+
+private actor itself for such purpose. Herron v. Fannie Mae, 861 F.3d 160, 169 (D.C. Cir. 2017)
+
+5
+
+(“Herron II”) (citing Perry Capital LLC v. Mnuchin, 848 F.3d 1072, 1103 & n.22 (D.C. Cir.
+
+6
+
+2017); Meridian Invs., Inc. v. Freddie Mac, 855 F.3d 573, 579 (4th Cir. 2017)); see also Freddie
+
+7
+
+Mac v. Shamoon, 922 F. Supp. 2d 641, 645 (E.D. Mich. 2013) (“FHFA, as conservator, merely
+
+8
+
+‘steps into the shoes’ of Freddie Mac, a private corporation.”); May v. Wells Fargo Bank, NA.,
+
+9
+
+No. 4:11-3516, 2013 WL 3207511, at *5 (S.D. Tex. June 24, 2013) (agreeing that “FHFA as
+
+10
+
+conservator ‘stepped into Fannie Mae’s private role’”); Syriani v. Freddie Mac Multiclass
+
+11
+
+Certificates, Series 3365, No. CV 12-3035, 2012 WL 6200251, at *4 (C.D. Cal. July 10, 2012)
+
+12
+
+(same).
+
+13
+
+Plaintiff attempts to avoid this on-point precedent by arguing that the “stepping into
+
+14
+
+shoes” metaphor is not “applicable.” Opp. at 7-8. But Plaintiff offers no support for her view,
+
+15
+
+and as the cases cited above confirm, federal courts have recognized that the “stepping into
+
+16
+
+shoes” metaphor is indeed applicable to constitutional claims concerning FHFA when it acts as
+
+17
+
+Conservator, as it did here. Parra v. Fannie Mae, No. 13-cv-4031, 2013 WL 5638824, at *3
+
+18
+
+(C.D. Cal. Oct. 16, 2013) (“FHFA, which took over as Fannie Mae’s conservator, also does not
+
+19
+
+qualify as a government actor” for purposes of the plaintiff’s Fifth Amendment claim.); Fannie
+
+20
+
+Mae v. Mandry, No. 12-cv-13236, 2013 WL 687056, at *5 (E.D. Mich. Feb. 26, 2013) (“Fannie
+
+21
+
+Mae and FHFA are not government actors that can be held liable for [a] Fifth Amendment due
+
+22
+
+process violation.”); Dias v. Fannie Mae, 990 F. Supp. 2d 1042, 1061 (D. Haw. 2013)
+
+23
+
+(“Similarly, the FHFA, which took over as Fannie Mae’s conservator, also does not qualify as a
+
+24
+
+government actor.”).
+
+25
+
+Federal court precedent for other financial-institution conservators and receivers
+
+26
+
+operating under substantially the same statutory structure confirms the point. For example, the
+
+27
+
+Fifth Circuit has held that when acting as receiver for a failed bank, the Resolution Trust
+
+28
+
+Corporation (“RTC”) was not a government actor for constitutional purposes. United States v.
+
+-3-
+
+Case 1:17-cv-00042-JJM-LDA Document 31 Filed 02/28/18 Page 10 of 34 PageID #: 560
+
+1
+
+Beszborn, 21 F.3d 62, 68 (5th Cir. 1994). In Beszborn, the RTC receiver successfully pursued an
+
+2
+
+award of punitive damages against former officers and directors of the bank. Id. at 67. Later,
+
+3
+
+when the Department of Justice brought criminal charges against the same individuals
+
+4
+
+concerning the same conduct, they argued that the Double Jeopardy Clause barred the
+
+5
+
+prosecution because the RTC was part of the government, making DOJ’s prosecution a
+
+6
+
+constitutionally barred second sovereign attempt to punish the same wrong. The Fifth Circuit
+
+7
+
+rejected that argument, explaining that “[t]he RTC as receiver of an insolvent financial institution
+
+8
+
+stands in the shoes of the bank” and concluding that “the RTC stands as a private, non-
+
+9
+
+governmental entity, and is not the Government for purpose of the Double Jeopardy Clause.”
+
+10
+
+Id.; see also United States v. Heffner, 85 F.3d 435, 439 (9th Cir. 1996) (agreeing with Beszborn);
+
+11
+
+United States ex rel. Petras v. Simparel, Inc., 857 F.3d 497, 503-04 (3d Cir. 2017) (applying
+
+12
+
+Beszborn in holding that the Small Business Administration, acting as a receiver, “did not qualify
+
+13
+
+as the Government”).
+Despite Plaintiff’s suggestion to the contrary, Defendants do not argue that “when the
+
+14
+15
+
+FDIC—or any other federal entity—is a receiver [and steps into the shoes of the private entity],
+
+16
+
+the federal entity becomes a private actor for all purposes.” Opp. at 8 (citing O’Melveny, 512
+
+17
+
+U.S. 79) (emphasis added). 4 Indeed, “an entity may be governmental for one purpose and
+
+18
+
+nongovernmental for another.” Alley v. Resolution Trust Corp., 984 F.2d 1201, 1206 (D.C. Cir.
+
+19
+
+1993); U.S. ex rel. Adams v. Aurora Loan Servs., Inc., 813 F.3d 1259, 1261 (9th Cir. 2016). But
+
+20
+
+when that purpose is the exercise of a purely private, contractual right of an entity in
+
+21
+
+conservatorship (i.e., the power of sale in a mortgage), there is no question FHFA is not
+
+22
+
+considered governmental for purposes of a constitutional claim, as the cases described above
+
+23
+
+confirm.
+
+24
+
+Indeed, Plaintiff identifies no case in which any court has ever deemed any federal
+
+25
+
+financial-institution conservator or receiver to be a government actor for constitutional purposes.
+
+26
+27
+28
+
+4
+
+Plaintiff’s argument, notably, asks this Court to accept the opposite, untenable extreme.
+According to Plaintiff, FHFA is a federal agency and is therefore a governmental actor in all
+instances, regardless of the capacity in which FHFA acts.
+
+-4-
+
+Case 1:17-cv-00042-JJM-LDA Document 31 Filed 02/28/18 Page 11 of 34 PageID #: 561
+
+1
+
+Rather, she cites to two cases that do not present the issue at all, but instead involve purely
+
+2
+
+statutory questions governed by a completely different analysis. Opp. at 6, 10 (citing FHFA v.
+
+3
+
+Countrywide Fin. Corp., 900 F. Supp. 2d 1055 (C.D. Cal. 2012), and FHFA v. Royal Bank of
+
+4
+
+Scotland Grp. PLC, No. 3:11-cv-01383, 2012 WL 3580522 (D. Conn. Aug. 17, 2012)).
+
+5
+
+Underscoring the point, each of those cases acknowledges the district court decision in Herron I
+
+6
+
+(the D.C. Circuit had not yet ruled), and expressly indicates that its ruling does not conflict with
+
+7
+
+Herron I.
+
+8
+
+In Countrywide, the court concluded that an ambiguous statute of limitations provision
+
+9
+
+governing litigation brought by the Conservator should be interpreted in FHFA’s favor. 900 F.
+
+10
+
+Supp. 2d at 1066. The court decided the issue as a matter of statutory interpretation, discerning
+
+11
+
+Congress’s intent from the interplay between various provisions of HERA. Id. The Countrywide
+
+12
+
+court plainly considered the question it faced to be different from that presented here, noting that
+
+13
+
+it would reach the same conclusion “regardless of whether the FHFA is a government [actor] for
+
+14
+
+purpose of [constitutional] claims.” Id. at 1066 n.9 (citing Herron I, 857 F. Supp. 2d 87).
+
+15
+
+In Royal Bank, the court held that FHFA, in its capacity as Conservator, was not subject
+
+16
+
+to a mandatory discovery stay under the Private Securities Litigation Reform Act (“PSLRA”).
+
+17
+
+The court again based its decision on statutory-interpretation principles, considering the purpose
+
+18
+
+of the statute, reasoning that “the concerns motivating Congress in enacting the PSLRA are not
+
+19
+
+present here,” and concluding that FHFA’s case was not a “private action” as that term is used in
+
+20
+
+the PSLRA. Royal Bank, 2012 WL 3580522, at *2. Confirming that it was not applying the
+
+21
+
+constitutional principles at issue here, the Royal Bank court denied a motion to reconsider its
+
+22
+
+ruling after the Herron I decision was issued, emphasizing the differing legal context of the two
+
+23
+
+holdings: “Herron does not address the meaning or scope of the term ‘private action’ as used by
+
+24
+
+Congress in the PSLRA. Thus, Herron does not alter the court’s conclusion that where FHFA is
+
+25
+
+‘bringing this action pursuant to its Congressional authorization under HERA,’ the action ‘is not
+
+26
+
+a private action under the PSLRA.’” Order re Defendants’ Motion for Reconsideration at 3,
+
+27
+
+Royal Bank, No. 11-CV-01383 (D. Conn. Sept. 30, 2013), ECF No. 201. The Royal Bank
+
+28
+
+argument has been raised in at least one other foreclosure-related case, and the court rejected it
+
+-5-
+
+Case 1:17-cv-00042-JJM-LDA Document 31 Filed 02/28/18 Page 12 of 34 PageID #: 562
+
+1
+
+sub silentio in holding that FHFA and Fannie Mae are not government actors subject to the
+
+2
+
+plaintiff’s due process claim. 5 Thus, Countrywide and Royal Bank do not support Plaintiff’s
+
+3
+
+argument.
+Plaintiff also cites to an appellate brief FHFA filed in another Second Circuit case,
+
+4
+5
+
+similar to Royal Bank, that also did not involve a constitutional claim. Opp. at 7 (quoting Brief
+
+6
+
+at 56 n.15, FHFA v. UBS Americas Inc., No. 12-3207 (2d Cir. Oct. 25, 2012)). Plaintiff
+
+7
+
+overlooks the fact that in the very quote she presents, FHFA expressly limited its analysis to
+
+8
+
+“purposes of statutory interpretation.” Id. Therefore, contrary to Plaintiff’s argument, FHFA did
+
+9
+
+not “concede[]” anything relevant to this case. Unlike UBS, Royal Bank, and Countrywide, this
+
+10
+
+case involves a question of constitutional status, not one of “statutory interpretation.” 6
+Plaintiff’s assertion that the Supreme Court’s ruling in FDIC v. Meyer decides this issue
+
+11
+12
+
+is also wrong. Opp. at 8-10 (citing 510 U.S. 471 (1994)). Meyer does not stand for the
+
+13
+
+proposition that FHFA, as Conservator, is a government actor subject to constitutional
+
+14
+
+constraints. Instead, Meyer addressed the jurisdictional issue of immunity. 510 U.S. at 475, 479.
+
+15
+
+In Meyer, the Supreme Court held that FDIC’s sue-and-be-sued clause waived its sovereign
+
+16
+
+immunity for purposes of plaintiff’s due process Bivens claim. But that waiver did not
+
+17
+
+automatically make FDIC subject to plaintiff’s claim. Id. at 483. Indeed, as Plaintiff
+
+18
+
+acknowledges, the Supreme Court ultimately held that FDIC was not subject to the due process
+
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+5
+
+Response to Motion to Dismiss at 13-16, Fannie Mae v. Mandry, No. 12-cv-13236,
+(E.D. Mich. Oct. 12, 2012), 2012 WL 5996537; Mandry, No. 12-cv-13236, 2013 WL 687056, at
+*1 (court opinion).
+
+6
+
+It is worth noting that courts applying statutory-interpretation principles often hold that
+federal financial-institution receivers and conservators are not the government for certain
+statutory purposes. See, e.g., Schock v. FDIC, 118 F. Supp. 2d 165, 169 (D.R.I. 2000) (FDIC as
+receiver is not a government body subject to an Equal Access to Justice Act claim, because
+“[w]hen the FDIC acts in its capacity as a receiver, its main objective is not to carry out
+governmental policy.”), aff’d on other grounds, 254 F.3d 1 (1st Cir. 2001); AG Route Seven
+P’ship v. United States, 57 Fed. Cl. 521, 534 (2003) (FDIC receiver not the government for
+Tucker Act purposes: “In its capacity as receiver . . . FDIC is merely standing in the shoes, and
+thus asserting the claims, of the defunct thrift. . . . Consequently, the FDIC’s attendant role
+herein is tantamount to that of a private party, and not the government per se.”); Ambase Corp. v.
+United States, 61 Fed. Cl. 794, 796-97 (Fed. Cl. 2004) (similar: “[T]he FDIC receiver could
+intervene against the United States. Under prevailing constitutional law, the FDIC receiver
+therefore cannot be the government as well.”).
+
+-6-
+
+Case 1:17-cv-00042-JJM-LDA Document 31 Filed 02/28/18 Page 13 of 34 PageID #: 563
+
+1
+
+claim. Opp. at 9. Here, FHFA has not argued that, as Conservator, it is immune from Plaintiff’s
+
+2
+
+due process claim or that this Court lacks jurisdiction. Instead, FHFA argues that as a matter of
+
+3
+
+law, Plaintiff’s claim fails. Plaintiff’s “reasoning conflates two ‘analytically distinct’ inquiries.
+
+4
+
+The first inquiry is whether there has been a waiver of sovereign immunity. If there has been
+
+5
+
+such a waiver . . . , the second inquiry comes into play—that is, whether the source of
+
+6
+
+substantive law upon which the claimant relies provides an avenue for relief.” Meyer, 510 U.S.
+
+7
+
+at 484. Here, because the FHFA as Conservator is not a government actor for constitutional
+
+8
+
+purposes, the avenue Plaintiff has selected is closed.
+
+9
+
+As the Ninth Circuit has confirmed, Meyer “did not purport to determine the status of the
+
+10
+
+FDIC when . . . taking over a failed bank as receiver,” United States v. Ely, 142 F.3d 1113, 1121
+
+11
+
+(9th Cir. 1998), nor did it address whether a conservatorship or receivership transforms an
+
+12
+
+otherwise private actor into the government for purposes of constitutional claims. Plaintiff relies
+
+13
+
+heavily on Meyer because it is a Supreme Court decision, but the decision does not support
+
+14
+
+Plaintiff’s argument—nor does it justify a different conclusion from all prior courts that have
+
+15
+
+addressed this issue, all of which would have been bound by Meyer if it applied to the question
+
+16
+
+presented.
+FHFA as Conservator is not a government actor subject to constitutional claims.
+
+17
+18
+19
+
+II.
+
+FANNIE MAE IS NOT A GOVERNMENT ACTOR FOR PURPOSES OF
+CONSTITUTIONAL CLAIMS.
+Neither is Fannie Mae a government actor for purposes of this case. As Defendants
+
+20
+explained in their Motion, Lebron controls the analysis of whether Fannie Mae—in or out of
+21
+FHFA conservatorship—is a government actor for purposes of Plaintiff’s constitutional claim.
+22
+Under Lebron, Fannie Mae is not a government actor because the government lacks permanent
+23
+structural control over Fannie Mae. FHFA’s control as Conservator (even if assumed incorrectly
+24
+to be governmental control) is temporary rather than permanent.
+25
+Plaintiff responds that, contrary to the decisions of every federal court to consider the
+26
+issue, Fannie Mae is a government actor under Lebron because FHFA’s conservatorship of
+27
+Fannie Mae has no predetermined endpoint, and therefore purportedly constitutes permanent
+28
+government control. Opp. at 11-19. Plaintiff is wrong once again. Lebron and the numerous
+-7-
+
+Case 1:17-cv-00042-JJM-LDA Document 31 Filed 02/28/18 Page 14 of 34 PageID #: 564
+
+1
+
+decisions on the issue make clear that while FHFA’s control over Fannie Mae has no
+
+2
+
+predetermined endpoint and is therefore indefinite, that does not constitute permanent
+
+3
+
+government control for purposes of Lebron. As the D.C. Circuit explained, FHFA’s “indefinite
+
+4
+
+but temporary control does not transform Fannie Mae into a government actor.” Herron II, 861
+
+5
+
+F.3d at 169. 7
+Plaintiff also argues that Treasury’s financial support to Fannie Mae converts Fannie Mae
+
+6
+7
+
+into a government actor. Opp. at 22-25. That too is wrong. It is common for the government to
+
+8
+
+invest in financial institutions during a financial crisis without the financial institution becoming
+
+9
+
+a government actor for constitutional purposes. Treasury’s financial support is neither
+
+10
+
+permanent nor indicative of structural control. Plaintiff’s arguments to the contrary lack merit.
+
+11
+
+A.
+
+12
+
+Under Lebron, “permanency is ‘a necessary condition precedent’ to consider a
+
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+FHFA’s Conservatorship Does Not Establish Permanent Government
+Control of Fannie Mae Under Lebron.
+
+government-created corporation part of the government.” Herron II, 861 F.3d at 167 (quoting
+Sprauve v. W. Indian Co., 799 F.3d 226, 233 n.8 (3d Cir. 2015)). “There is nothing in [HERA]
+that makes [FHFA’s] conservatorship permanent.” In re Kapla, 485 B.R. 136, 152 (Bankr. E.D.
+Mich. 2012). Rather, the conservatorship is temporary. Indeed, HERA mandates that FHFA
+reorganize or rehabilitate Fannie Mae or wind up its affairs; either circumstance would bring the
+conservatorship to a close at some future date. 12 U.S.C. § 4617(a)(2). Plaintiff’s argument that
+there should be a “specified end date” or “an automatic termination” of the conservatorship to
+make it temporary, Opp. at 16-17, is incorrect and not consistent with Lebron. Lebron v. Nat’l
+7
+
+See also Rubin v. Fannie Mae, 587 F. App’x 273, 275 (6th Cir. 2014) (“Congress, by
+statute, empowered the FHFA to become conservator for Fannie Mae for [an] inherently
+temporary purpose.”); Matveychuk v. One W. Bank, FSB, No. 1:13-CV-3464, 2016 WL 4059681,
+at *3 (N.D. Ga. Jan. 28, 2016) (“Because the FHFA lacks permanent control over Fannie Mae,
+Fannie Mae is not a state actor . . . .”); Dias, 990 F. Supp. 2d at 1062 (“FHFA’s conservatorship
+does not create the type of permanent control required under Lebron.”); Bernard v. Fannie Mae,
+No. 12-14680, 2013 WL 1282016, at *5 (E.D. Mich. Mar. 27, 2013) (“[T]he FHFA’s
+conservatorship does not create the type of permanent control required under Lebron.”); May,
+2013 WL 3207511, at *4 (same); see also Matter of: S.E. James & Co., B-415733, 2018 WL
+834433, at *3 (Comp. Gen. Feb. 7, 2018) (ruling that “Fannie Mae’s and Freddie Mac’s status
+remains as non-federal agencies for purposes of [the Federal Property and Administrative
+Services Act of 1949.] [T]he fact that FHFA has the statutory responsibility as conservator to
+regulate and supervise these entities does not mean that the entities are federal agencies.”).
+
+-8-
+
+Case 1:17-cv-00042-JJM-LDA Document 31 Filed 02/28/18 Page 15 of 34 PageID #: 565
+
+1
+
+R.R. Passenger Corp., 513 U.S. 374, 399 (1994). Even if conservatorship is assumed to embody
+
+2
+
+government control—it does not, see supra at 2-7—Lebron makes clear that indefinite
+
+3
+
+government control is not permanent government control. Rather, permanent government
+
+4
+
+control requires structural elements that cannot be altered other than by act of Congress, such as
+
+5
+
+statutory charter provisions entitling the President to appoint a majority of the entity’s governing
+
+6
+
+body. Lebron, 513 U.S. at 397.
+
+7
+
+Indeed, the federal courts that have addressed this issue have applied Lebron and found
+
+8
+
+that the Enterprises are not government actors for purposes of constitutional claims because the
+
+9
+
+government lacks such permanent, structural control. See Appendix A. For example, the D.C.
+
+10
+
+Circuit held that “the conservatorship over Fannie Mae did not create the type of permanent
+
+11
+
+government control that is required under Lebron.” Herron II, 861 F.3d at 169. Similarly, the
+
+12
+
+Sixth Circuit held that “Congress, by statute, empowered the FHFA to become conservator for
+
+13
+
+Fannie Mae for the limited purpose of ‘reorganizing, rehabilitating, or winding up [its] affairs.’
+
+14
+
+. . . This is an inherently temporary purpose.” Rubin, 587 F. App’x at 275 (alteration in original)
+
+15
+
+(citation omitted); accord Adams, 813 F.3d at 1261 (“[A]ssuming that Lebron outlines the
+
+16
+
+correct analytical framework for False Claims Act purposes, relators’ argument still fails,
+
+17
+
+because relators do not allege that the conservatorship represents the federal government’s
+
+18
+
+retention of permanent authority to control Fannie Mae and Freddie Mac.”); 8 Meridian Invs.,
+
+19
+
+Inc., 855 F.3d at 579 (applying Lebron and concluding that “the government does not exert
+
+20
+
+control over Freddie Mac such that it loses its private-party status”). Thus, when and how the
+
+21
+
+conservatorship terminates is not relevant to the Court’s analysis. 9
+
+22
+23
+24
+25
+26
+27
+28
+
+8
+
+Plaintiff contrasts the absence of allegations of permanent control in Adams with the
+presence of such allegations—albeit unsupported and contrary to law—here. Opp. at 4 n.2. But
+what Adams teaches is simply that permanent government control has always been and remains a
+required element of the Lebron test, a proposition Plaintiff disputes elsewhere in her brief. See
+Opp. at 19-20 (arguing that “the gravamen of the Lebron test is the degree of government
+control, not the duration.”).
+9
+
+Consequently, that “FHFA’s control over the GSEs has already lasted over nine years,”
+Opp. at 16, does not make the conservatorship permanent. FDIC receiverships, which operate
+under a materially identical legal structure and have never been held to convert an otherwise
+private financial institution into a government actor, have an average duration of 8.7 years.
+FDIC OIG, Receivership Termination Activity 2 (Sept. 20, 2002),
+https://www.fdicoig.gov/sites/default/files/publications/02-032.pdf. (“The 168 receiverships
+(Footnote Cont’d on Following Page)
+
+-9-
+
+Case 1:17-cv-00042-JJM-LDA Document 31 Filed 02/28/18 Page 16 of 34 PageID #: 566
+
+Nevertheless, Plaintiff argues it is “illogical and inconsistent with the reasoning of
+
+1
+2
+
+Lebron” for the Conservator’s control over Fannie Mae to be indefinite but remain temporary.
+
+3
+
+Opp. at 17-18. This is because Plaintiff misunderstands Lebron and the Supreme Court’s
+
+4
+
+endorsement, in that case, of the Regional Rail Reorganization Act Cases—an earlier decision in
+
+5
+
+which the Supreme Court held that Conrail, another federally supported railway subject to
+
+6
+
+extensive government control, was not a federal actor because the government’s control was
+
+7
+
+indefinite rather than structurally permanent:
+
+8
+
+[Amtrak] also invokes . . . the Regional Rail Reorganization Act Cases . .
+., which found . . . Conrail[] not to be a federal instrumentality, despite the
+President’s power to appoint, directly or indirectly, 8 of its 15 directors . . .
+. But we specifically observed in that case that . . . ‘full voting control . . .
+will shift to the shareholders if federal obligations fall below 50% of
+Conrail’s indebtedness.’
+
+9
+10
+11
+12
+
+Lebron, 513 U.S. at 399 (citing Regional Rail Reorganization Act Cases, 419 U.S. 102, 152
+
+13
+
+(1974) (emphasis added)). Notably, in Regional Rail, voting control would shift to the Conrail
+
+14
+
+shareholders only if federal financial support fell below a certain level—meaning that even
+
+15
+
+though the government’s control over Conrail had no obvious or fixed end date, control could
+
+16
+
+shift back to the shareholders without further legislation. 10 Thus, even though Conrail did not
+
+17
+
+have “a provision automatically terminating the government’s control” at some predetermined
+
+18
+
+time, Opp. at 17, the government’s control, though functionally complete, was only indefinite
+
+19
+
+and temporary, not permanent.
+
+20
+(Footnote Cont’d From Previous Page)
+
+21
+22
+23
+24
+25
+26
+27
+28
+
+active as of January 1, 2002 had an average age of 8.7 years.”). Moreover, that FHFA by statute
+can appoint itself as receiver of Fannie Mae someday, Opp. at 16 n.7 (citing 12 U.S.C.
+§ 4617(a)(4)(D)), does not establish current permanent control.
+10
+
+As a practical matter, and though the Supreme Court obviously could not have known it
+at the time of the Regional Rail decision, the government’s control over Conrail lasted
+approximately 13 years. Regional Rail, 419 U.S. at 111; James Sterngold, 85% U.S. Stake in
+Conrail Sold for $1.6 Billion, N.Y. Times (Mar. 27, 1987), http://www.nytimes.com/1987/03/27/
+business/85-us-stake-in-conrail-sold-for-1.6-billion.html?scp=1&sq=conrail&st=nyt. That is
+roughly three years longer than Fannie Mae has been in conservatorship to date, yet no decision
+indicates any court ever considered that lengthy but inherently indefinite term of government
+control sufficient to convert Conrail into a government actor. See Morin v. Consol. Rail Corp.,
+810 F.2d 720, 723 (7th Cir. 1987) (agreeing “with the Second Circuit that Conrail . . . is not an
+entity of the federal government for purposes of the due process clause” even after 13 years of
+government funding).
+
+- 10 -
+
+Case 1:17-cv-00042-JJM-LDA Document 31 Filed 02/28/18 Page 17 of 34 PageID #: 567
+
+1
+
+The Supreme Court distinguished its holding that Conrail was not a government actor
+
+2
+
+from its holding that Amtrak was a government actor on the ground that the government’s
+
+3
+
+authority to appoint the majority of Conrail’s board of directors was contingent on the
+
+4
+
+continuation of federal financial support rather than baked into Conrail’s organic statute.
+
+5
+
+Lebron, 513 U.S. at 399. Even though there was no certainty as to when the federal financial
+
+6
+
+support would end, and therefore no certainty whether (and, if so, when) voting control would
+
+7
+
+ever shift back to the Conrail shareholders, the Supreme Court reaffirmed its holding that Conrail
+
+8
+
+was not a government actor in the context of a constitutional claim. Id. Notwithstanding that the
+
+9
+
+government was able to exercise control over Conrail’s board of directors, the Supreme Court
+
+10
+
+explained that the indefinite duration of that government control meant that it did not constitute
+
+11
+
+permanent control required by Lebron. Simply put, the government’s authority to appoint the
+
+12
+
+board of directors of Conrail could cease without an act of Congress, whereas the government’s
+
+13
+
+authority to appoint Amtrak’s board could not.
+
+14
+
+Nor is it plausible to argue that Conrail’s financial prospects somehow made its
+
+15
+
+emergence from government control more likely or foreseeable than Fannie Mae’s exit from
+
+16
+
+conservatorship appears today. Indeed, when the Supreme Court determined that Conrail was
+
+17
+
+not a federal actor in 1974, that corporation’s economic outlook was every bit as bleak—and its
+
+18
+
+dependence on federal support as great—as Fannie Mae’s has ever been:
+
+19
+20
+21
+22
+23
+
+The record makes abundantly clear what all the parties concede, that
+Conrail, though dubbed “a for-profit corporation” . . . shows no prospect
+of being an enterprise operating on a profitable basis. Penn Central
+losses between June 21, 1970, and December 31, 1973, were $851 million,
+and the Reorganization Court . . . found that reorganization on an income
+basis was not possible. The values that ride on today’s decisions are
+therefore not based on the prospect of future profitable operations.
+Regional Rail, 419 U.S. at 163-64 (Douglas, J., dissenting) (emphases added).
+
+24
+To the same effect, the Supreme Court also identified “a private corporation whose stock
+25
+comes into federal ownership” as an example to illustrate the absence of permanent government
+26
+control over the corporation. Lebron, 513 U.S. at 398 (“Amtrak is not merely in the temporary
+27
+control of the Government (as a private corporation whose stock comes into federal ownership
+28
+
+- 11 -
+
+Case 1:17-cv-00042-JJM-LDA Document 31 Filed 02/28/18 Page 18 of 34 PageID #: 568
+
+1
+
+might be.” (emphases added)). Thus, the Supreme Court itself has unequivocally confirmed that
+
+2
+
+indefinite control is not permanent control.
+
+3
+
+Seeking to neutralize this portion of Lebron, Plaintiff points the Court to dicta describing
+
+4
+
+the Panama Railroad Company, characterizing the passage as indicating that the government’s
+
+5
+
+“ownership of [that company’s] stock . . . confer[red] sufficient control that the . . . company
+
+6
+
+qualified as a government actor.” Opp. at 24 (emphasis added). Plaintiff appears to have made
+
+7
+
+another honest-but-telling mistake. See supra n.3. Lebron’s “detailed recitation of ‘the long
+
+8
+
+history of corporations created and participated in by the United States,’” Sprauve, 799 F.3d at
+
+9
+
+230 (quoting Lebron, 513 U.S. at 386), never indicates whether the Panama Railroad Company
+
+10
+
+ever was, or should have been, deemed a government actor. See Posey v. Tenn. Valley Auth., 93
+
+11
+
+F.2d 726, 727 (5th Cir. 1937) (distinguishing Panama Railroad Company, as “a corporation
+
+12
+
+created under the general laws of some state or territory, [and] whose stock the United States
+
+13
+
+happen[s] to own,” from government-created and controlled corporations that are “plainly . . .
+
+14
+
+government agenc[ies]”).
+
+15
+
+Plaintiff has no persuasive answer to the relevant portions of Lebron, or the more than 30
+
+16
+
+cases applying Lebron in holding the Enterprises are not government actors for constitutional
+
+17
+
+purposes. Instead, Plaintiff asks this Court to look to other, off-point authorities to define an
+
+18
+
+“indefinite time period” to determine if FHFA’s conservatorship is temporary or permanent.
+
+19
+
+Opp. at 15-16. But it is illogical for Plaintiff to ask this Court to look to authorities “[i]n other
+
+20
+
+contexts,” like employment and disability law, Opp. at 15, when Lebron and the more than 30
+
+21
+
+cases following it are the controlling authority on, and clearly address, the very issue of this case.
+
+22
+
+For the same reason, the Court should not accept Plaintiff’s invitation to rely on
+
+23
+
+dictionary definitions when there is case law directly on point. “[C]ase law [is] a preferable
+
+24
+
+source of authority” when “the plaintiffs’ use of a . . . dictionary definition in support of their
+
+25
+
+argument [is] inconsistent with the existing case law.” Basinger v. Wal-Mart Stores, Inc., No.
+
+26
+
+98-334-P-H, 1999 WL 33117106, at *4 n.5 (D. Me. Jan. 27, 1999). Nevertheless, even under the
+
+27
+
+definition Plaintiff cites, FHFA’s conservatorship remains “temporary,” which Plaintiff’s
+
+28
+
+dictionary equates with “lasting for a limited time.” See Opp. at 15 (citing Merriam Webster
+
+- 12 -
+
+Case 1:17-cv-00042-JJM-LDA Document 31 Filed 02/28/18 Page 19 of 34 PageID #: 569
+
+1
+
+online dictionary). That a circumstance’s duration is limited does not mean it has a “definite
+
+2
+
+temporal limitation,” i.e., a “specified end date,” as Plaintiff argues. Opp. at 15-16. For
+
+3
+
+example, we are all on this earth for only “a limited time,” but few if any of us know when our
+
+4
+
+time will conclude; our lifetimes, though indefinite, are surely temporary. 11 Similarly, while no
+
+5
+
+one can know today exactly when the Fannie Mae conservatorship will end, it is temporary
+
+6
+
+rather than permanent in the Lebron sense; not even Plaintiff argues that a new legislative
+
+7
+
+enactment is necessary to end it. Perhaps anticipating the point, Plaintiff observes that “nothing
+
+8
+
+is permanent” in a “strict” philosophical “sense.” Opp. at 18. That tautological assertion proves
+
+9
+
+too much; it conflicts directly with the test the Supreme Court prescribed in Lebron, which
+
+10
+
+depends on the premise that some things—such as the Government’s statutorily mandated
+
+11
+
+structural control over Amtrak—are permanent in a different, but equally strict, legal sense.
+
+12
+
+Plaintiff also asks this Court to look to three cases for the proposition that because
+
+13
+
+permanent conservatorships exist in other contexts, FHFA’s conservatorship must be permanent.
+
+14
+
+Opp. at 15 (citing Mitchell v. Ensor, 412 F.2d 155, 158 (1969); United States v. Peelle Co., 224
+
+15
+
+F.2d 667, 669 (2d Cir. 1955); Propper v. Clark, 337 U.S. 472, 476 (1949)). These cases do not
+
+16
+
+involve federal financial-institution conservatorships or receiverships, or any other
+
+17
+
+conservatorship or receivership imposed under a similar statutory structure, and they do not
+
+18
+
+evaluate whether the very different conservatorships at issue were government actors for
+
+19
+
+constitutional purposes. Plaintiff offers no reason why these cases should apply here, and there
+
+20
+
+is none. Defendants need not establish that no conservatorship can ever be permanent in order to
+
+21
+
+prevail. What is at issue are the conservatorships of financial institutions—and they are
+
+22
+
+inherently temporary. Indeed, a financial-institution conservatorship is usually directed toward
+
+23
+
+the eventual resumption of the institution’s private business activity. As one court explained, “a
+
+24
+25
+26
+27
+28
+
+11
+
+Indeed, the dictionary Plaintiff cites confirms that indefinite circumstances fit well within
+the definition of “temporary”—Merriam Webster illustrates its definition with the quotation
+“Investors are weighing whether the sharp swings this week are the start of a deeper correction or
+just a temporary bump in the nine-year bull market.” Merriam Webster online dictionary (entry
+for “temporary”), last visited Feb. 23, 2018 (citation omitted, emphasis in original). As of today,
+no one can know when recent market volatility will end; the circumstance is paradigmatically
+indefinite, yet Merriam Webster deems it quintessentially “temporary.”
+
+- 13 -
+
+Case 1:17-cv-00042-JJM-LDA Document 31 Filed 02/28/18 Page 20 of 34 PageID #: 570
+
+1
+
+conservator is a person or entity, including a government agency, appointed by a regulatory
+
+2
+
+authority to operate a troubled financial institution in an effort to conserve, manage, and protect
+
+3
+
+the troubled institution’s assets until the institution has stabilized or has been closed by the
+
+4
+
+chartering authority.” Ameristar Fin. Servicing Co., LLC v. United States, 75 Fed. Cl. 807, 808
+
+5
+
+n.3 (2007) (internal quotation marks and citations omitted).
+
+6
+
+Plaintiff further argues that conservatorships cannot be inherently temporary because
+
+7
+
+“Congress could establish conservatorship entities completely controlled by the government and
+
+8
+
+with indefinite duration as a means of avoiding compliance with the United States Constitution.”
+
+9
+
+Opp. at 14. First, Plaintiff’s policy argument cannot negate the legal requirements under Lebron.
+
+10
+
+Second, Plaintiff’s argument fails because the premise is wrong and misconstrues the nature of
+
+11
+
+FHFA’s conservatorship and of conservatorships and receiverships generally. Indeed, Plaintiff
+
+12
+
+disregards the policy supporting conservatorships. The FDIC and FHFA are authorized by
+
+13
+
+statute to place a failing financial institution in conservatorship or receivership to facilitate their
+
+14
+
+safety and soundness. After doing so, these agencies step into the shoes of the regulated entity as
+
+15
+
+Conservators and do not control the regulated entities as part of the government for purposes of
+
+16
+
+constitutional claims. See supra at 2-7.
+
+17
+
+Lastly, Plaintiff contends that Lebron requires courts to look beyond Congressional
+
+18
+
+“labels,” such as a “conservatorship,” when determining whether a corporation is a government
+
+19
+
+actor for purposes of constitutional claims. Opp. at 13-14 & n.6. The discussion in Lebron to
+
+20
+
+which Plaintiff refers, however, merely explains that Congress’s pronouncement that a
+
+21
+
+corporation is not a government actor is not dispositive of that entity’s status for constitutional
+
+22
+
+claims. For example, in Lebron, the Supreme Court explained that Congress could not avoid the
+
+23
+
+restrictions of the Fourth Amendment by issuing a pronouncement that the Federal Bureau of
+
+24
+
+Investigation was not a government actor. 513 U.S. at 392-93. In any event, the more than 30
+
+25
+
+federal decisions to reject Plaintiff’s claim have not relied on a Congressional pronouncement
+
+26
+
+regarding Fannie Mae’s status post-conservatorship. See Appendix A. Indeed, no such
+
+27
+
+Congressional pronouncement exists. Instead, the unanimous federal decisions to reject
+
+28
+
+- 14 -
+
+Case 1:17-cv-00042-JJM-LDA Document 31 Filed 02/28/18 Page 21 of 34 PageID #: 571
+
+1
+
+Plaintiff’s argument have examined whether the government has “retain[ed] for itself
+
+2
+
+permanent,” structural control over Fannie Mae, as required by Lebron. 513 U.S. at 400.
+
+3
+
+B.
+
+4
+
+Plaintiff is likewise incorrect in asserting that the Treasury’s financial support of Fannie
+
+5
+6
+7
+8
+9
+10
+11
+
+Mae establishes that Fannie Mae is a government actor for constitutional purposes. Opp. at 2225. As explained in Defendants’ Opening Brief, Mot. at 9-10, Treasury’s investment in Fannie
+Mae is irrelevant to Fannie Mae’s status for constitutional purposes because the financial support
+does not give Treasury permanent control over Fannie Mae. See Lebron, 513 U.S. at 398
+(characterizing a private corporation “whose stock comes into federal ownership” as only “in the
+temporary control of the Government”).
+Indeed, it is common for the government (through Treasury and FDIC) to invest in
+
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+
+Treasury’s Financial Support of the Fannie Mae Conservatorship Does Not
+Establish Permanent Government Control Under Lebron.
+
+troubled financial institutions to support the broader financial system. In prior financial crises,
+the government purchased equity of, and provided substantial financial support to, troubled
+banks, often under detailed contracts. See, e.g., Holland v. United States, 75 Fed. Cl. 483 (2007);
+Caroline Hunt Trust Estate v. United States, 470 F.3d 1044 (Fed. Cir. 2006); FDIC v. Morley,
+867 F.2d 1381 (11th Cir. 1989). This financial support does not convert the subject institutions
+into government actors. See, e.g., Wiggins v. JP Morgan Chase Bank, 2:14-cv-11103, 2015 WL
+868933 (S.D.W.V. Feb. 27, 2015) (recipient of TARP funds not a government actor). 12 Despite
+arguing that the federal support provided to the Fannie Mae conservatorship makes Fannie Mae a
+government actor, Plaintiff identifies no case—because there is none—in which a private
+financial institution has been deemed a government actor by virtue of accepting federal
+assistance while in conservatorship or receivership.
+12
+
+Similar to Treasury’s financial support of the Fannie Mae conservatorship, “Treasury
+used the TARP authority to make investments loans and asset guarantees and purchases in or
+from a range of financial institutions. In exchange for this assistance, Treasury, on behalf of the
+taxpayer, received financial instruments including equity securities (preferred stock, common
+stock and warrants) . . . .” U.S. Dep’t of the Treasury, Where Did The Money Go?(Nov. 15,
+2016, 2:02 PM), https://www.treasury.gov/initiatives/financial-stability/about-tarp/Pages/wheredid-the-money-go.aspx.
+
+28
+
+- 15 -
+
+Case 1:17-cv-00042-JJM-LDA Document 31 Filed 02/28/18 Page 22 of 34 PageID #: 572
+
+1
+
+Lebron and Regional Rail are dispositive here. Lebron makes clear that even if
+
+2
+
+government financial support results in the government retaining a controlling interest in a
+
+3
+
+corporation for an indefinite (but non-permanent) period, that support is insufficient to convert
+
+4
+
+the corporation into a government actor. 513 U.S. at 399 (reaffirming the holding in Regional
+
+5
+
+Rail that Conrail, a private corporation, was not converted into a government actor despite the
+
+6
+
+government’s considerable support as guarantor). This is so because “when the government
+
+7
+
+acquires an ownership interest in a corporation, it acts—and is treated—as any other
+
+8
+
+shareholder.” Meridian Invs., Inc., 855 F.3d at 579 (citing Lebron, 513 U.S. at 398, and Bank of
+
+9
+
+U.S. v. Planters’ Bank of Ga., 22 U.S. 904, 907 (1824)).
+
+10
+
+Moreover, Plaintiff is incorrect that “the Lebron court actually counted the directors of
+
+11
+
+Amtrak that the federal government elected by virtue of its present holding of Amtrak’s preferred
+
+12
+
+stock in finding Amtrak was a government actor.” Opp. at 23. The Supreme Court only
+
+13
+
+analyzed whether Amtrak’s governance structure under its organic statute reflected permanent
+
+14
+
+government control; it did, because the chartering statute allowed the government to appoint six
+
+15
+
+of the nine directors. Lebron, 513 U.S. at 385. Because Amtrak was always under permanent
+
+16
+
+government control, the Court could not and did not ground its decision that Amtrak was a
+
+17
+
+government actor on any aspect of the incremental control the government gained through its
+
+18
+
+financial assistance arrangement. That temporary arrangement was superfluous to the
+
+19
+
+government’s pre-existing permanent control, and therefore irrelevant—the Supreme Court made
+
+20
+
+no mention in its analysis of the additional appointment power the government gained by
+
+21
+
+acquiring Amtrak’s stock. Id. at 397 (“As we have described, six of the corporation’s eight
+
+22
+
+externally named directors (the ninth is named by a majority of the board itself) are appointed
+
+23
+
+directly by the President of the United States . . . .”).
+
+24
+
+Here, Fannie Mae’s charter does not grant the government permanent authority to appoint
+
+25
+
+Fannie Mae’s directors—“The Federal National Mortgage Association shall have a board of
+
+26
+
+directors, which shall consist of 13 persons . . . who shall be elected annually by the common
+
+27
+
+stockholders.” 12 U.S.C. § 1723(b). Moreover, in applying Lebron, the court in Herron I
+
+28
+
+- 16 -
+
+Case 1:17-cv-00042-JJM-LDA Document 31 Filed 02/28/18 Page 23 of 34 PageID #: 573
+
+1
+
+rejected Plaintiff’s argument that Treasury’s ownership of Fannie Mae’s stock gives it permanent
+
+2
+
+control over Fannie Mae:
+
+3
+
+The Stock Agreement did not give the government permanent control over
+Fannie Mae. The Stock Agreement provided Treasury with a warrant to
+purchase 79.9% of the total shares of Fannie Mae common stock
+outstanding on the date of exercise at a nominal price. . . . As of this date,
+Treasury has not exercised this warrant. The Stock Agreement also
+required Treasury to provide funding to Fannie Mae to ensure a positive net
+worth in exchange for shares of Senior Preferred Stock that pay a certain
+dividend. . . . Senior Preferred Stock conferred no voting rights. . . . Thus,
+Treasury’s warrant to purchase common stock and its ownership of nonvoting Senior Preferred Stock do not give the United States permanent
+control over Fannie Mae and do not make Fannie Mae a government entity
+under Lebron.
+
+4
+5
+6
+7
+8
+9
+10
+
+857 F. Supp. 2d at 96 (emphasis added). That conclusion was plainly correct; as noted above,
+11
+Lebron specifically identifies “a private corporation whose stock comes into federal ownership,”
+12
+as lacking permanent government control. Lebron, 513 U.S. at 398.
+13
+In any event, Treasury does not own common stock and has not obtained any voting
+14
+rights through its purchase of Senior Preferred Stock. Thus, according to Plaintiff’s own
+15
+reasoning, Treasury’s financial support does not transform Fannie Mae into a government entity
+16
+because Treasury’s “ownership of shares [does not] confer[] a controlling interest over the
+17
+operations of [Fannie Mae]”—much less a permanent controlling interest. Opp. at 25.
+18
+Moreover, Plaintiff concedes that Fannie Mae’s “directors are currently appointed by FHFA as
+19
+[C]onservator,” and that Treasury could potentially have authority to appoint Fannie Mae’s
+20
+directors (if it purchases common stock) when the conservatorship ends. Opp. at 25. Plaintiff
+21
+cannot then argue that Fannie Mae is currently under Treasury’s permanent control based on
+22
+Treasury’s hypothetical ability to appoint Fannie Mae’s directors after conservatorship.
+23
+Treasury’s financial support does not amount to permanent government control under
+24
+Lebron and does not impose government-actor status onto Fannie Mae.
+25
+26
+27
+28
+
+III.
+
+LEBRON CONTROLS THESE ISSUES AND SUBSEQUENT DECISIONS DO
+NOT UNDERMINE LEBRON’S PERMANENCY REQUIREMENT.
+Unable to identify a single, supportive decision involving a federal financial-institution
+
+conservatorship or receivership—all of which favor our arguments and, to the extent they
+
+- 17 -
+
+Case 1:17-cv-00042-JJM-LDA Document 31 Filed 02/28/18 Page 24 of 34 PageID #: 574
+
+1
+
+address Lebron’s permanency requirement, adopt it—Plaintiff argues that decisions after Lebron
+
+2
+
+“teach us that the gravamen of the Lebron test is the degree of government control, not the
+
+3
+
+duration.” Opp. at 19-21. Similarly, Plaintiff argues that “[Fannie Mae and Freddie Mac] are
+
+4
+
+government actors, subject to the constraints of the Constitution” because FHFA has “complete”
+
+5
+
+control over them. Opp. at 11-13. Plaintiff also cites to various decisions to argue that this
+
+6
+
+Court can find that Fannie Mae is a government actor under alternative tests. Opp. at 25-28. All
+
+7
+
+of Plaintiff’s arguments fail.
+
+8
+9
+
+First, as explained in Defendants’ Opening Brief, Lebron provides the controlling test to
+determine if a private, federally-chartered corporation is a government actor for constitutional
+
+10
+
+purposes. Mot. at 6-10. Lebron makes clear that to make an otherwise private entity
+
+11
+
+governmental, permanent control by the government is required. 513 U.S. at 400; see also
+
+12
+
+Herron II, 861 F.3d at 167 (“[W]e apply the framework the Supreme Court established
+
+13
+
+in Lebron for determining whether a ‘Government-created and -controlled corporation[ ]” is a
+
+14
+
+government actor for constitutional purposes”; and “permanency is ‘a necessary condition
+
+15
+
+precedent’ to consider a government-created corporation part of the government.”); Mik v.
+
+16
+
+Freddie Mac, 743 F.3d 149, 168 (6th Cir. 2014) (same); Am. Bankers Mortg. Corp. v. Freddie
+
+17
+
+Mac, 75 F.3d 1401, 1406 (9th Cir. 1996) (same). Indeed, the First Circuit confirms that
+
+18
+
+permanent control is the requirement. Barrios-Velazquez v. Asociacion de Empleados del Estado
+
+19
+
+Libre Asociado de Puerto Rico, 84 F.3d 487, 492 (1st Cir. 1996). In Barrios-Velazquez, the First
+
+20
+
+Circuit applied Lebron and held that there was no government action because “neither party in
+
+21
+
+the instant case has contended that the Government of Puerto Rico has retained permanent
+
+22
+
+authority over the directors of the [regulated entity].” Id. (emphasis added).
+
+23
+
+Second, Plaintiff cites Brentwood Academy v. Tennessee Secondary School Athletic
+
+24
+
+Association to argue that permanent control is not a requirement under Lebron because the case
+
+25
+
+“make[s] no mention of the word ‘permanent.’” Opp. at 19 (citing 531 U.S. 288, 296 (2001)).
+
+26
+
+But the Supreme Court in Brentwood was not analyzing a government-created entity and
+
+27
+
+therefore did not conduct its analysis under Lebron; accordingly, it did not need to analyze
+
+28
+
+whether permanent structural control rested with the government. Nevertheless, the Supreme
+
+- 18 -
+
+Case 1:17-cv-00042-JJM-LDA Document 31 Filed 02/28/18 Page 25 of 34 PageID #: 575
+
+1
+
+Court plainly endorses the Lebron holding, citing to it as an “example[] from our cases . . .
+
+2
+
+showing that the character of a legal entity is determined neither by its expressly private
+
+3
+
+characterization in statutory law, nor by the failure of the law to acknowledge the entity’s
+
+4
+
+inseparability from recognized government officials or agencies.” Brentwood Acad., 531 U.S. at
+
+5
+
+296.
+
+6
+
+Brentwood provides an alternative test that applies to entities other than federally
+
+7
+
+chartered corporations—pervasive entwinement. Because Fannie Mae (like Amtrak) is a
+
+8
+
+federally chartered corporation, Lebron rather than Brentwood controls. Regardless, Fannie Mae
+
+9
+
+would not be deemed a government actor under Brentwood either. Under Brentwood, for a
+
+10
+
+private entity to be deemed a government actor, the entity must be pervasively entwined with a
+
+11
+
+government agency or official that is “acting in their official capacity.” 531 U.S. 298-300. But
+
+12
+
+as we explained above in Section I, when FHFA as Conservator directs Fannie Mae’s operations,
+
+13
+
+it does so in a non-governmental capacity. See supra at 2-7. Hence, conservatorship is
+
+14
+
+irrelevant under Brentwood. Herron I, 857 F. Supp. 2d at 96 (rejecting plaintiff’s “entwinement”
+
+15
+
+theory because “Brentwood did not change the law of conservatorship and receivership . . .
+
+16
+
+Fannie Mae was a private entity; when FHFA took over as conservator of Fannie Mae, it stepped
+
+17
+
+into Fannie Mae’s private role”). Similarly, because “when the government acquires an
+
+18
+
+ownership interest in a corporation, it acts—and is treated—as any other shareholder,” Meridian
+
+19
+
+Invs., Inc., 855 F.3d at 579, Treasury is not pervasively entwined with Fannie Mae to make
+
+20
+
+Fannie Mae a government actor under Brentwood.
+
+21
+
+Nor could Plaintiff plausibly argue that anything about the government’s relationship
+
+22
+
+with Fannie Mae (and Freddie Mac) other than FHFA’s conservatorship and Treasury’s financial
+
+23
+
+support somehow demonstrates “pervasive entwinement,” as that would mean the Enterprises
+
+24
+
+were government actors for constitutional purposes before conservatorship. That proposition
+
+25
+
+was uniformly rejected whenever asserted. Roberts v. Cameron-Brown Co., 556 F.2d 356, 359-
+
+26
+
+60 (5th Cir. 1977) (rejecting due process claim brought by a borrower against pre-
+
+27
+
+conservatorship Fannie Mae for commencing a non-judicial foreclosure); Northrip v. Fannie
+
+28
+
+Mae, 527 F.2d 23, 30 (6th Cir. 1975) (rejecting claim that pre-conservatorship Fannie Mae was a
+
+- 19 -
+
+Case 1:17-cv-00042-JJM-LDA Document 31 Filed 02/28/18 Page 26 of 34 PageID #: 576
+
+1
+
+federal actor subject to the Due Process Clause of the Fifth Amendment); Am. Bankers Mortg.
+
+2
+
+Corp., 75 F.3d at 1406 (holding that similarly-situated, pre-conservatorship Freddie Mac was not
+
+3
+
+a government actor for purposes of a Fifth Amendment due process claim).
+
+4
+
+Third, Plaintiff cites to Department of Transportation v. Association of American
+
+5
+
+Railroads to argue that Lebron does not require that “the government’s control over the
+
+6
+
+corporation be permanent.” Opp. at 19-20 (citing 135 S. Ct. 1225 (2015)). Wrong. Nothing in
+
+7
+
+American Railroads alters Lebron. Indeed, the Supreme Court approvingly cites Lebron in
+
+8
+
+reaffirming that Amtrak was a government actor; it never purports to criticize or limit Lebron’s
+
+9
+
+analysis. Ass’n of Am. R.R., 135 S. Ct. at 1233. And after American Railroads, other courts
+
+10
+
+have continued to recognize permanency as a required element under Lebron. Indeed, in
+
+11
+
+rejecting the same argument Plaintiff makes here, the D.C. Circuit “d[id] not read Department of
+
+12
+
+Transportation v. Association of American Railroads, as dispensing with the permanency
+
+13
+
+requirement,” instead holding specifically that “permanency is a necessary condition precedent
+
+14
+
+to consider a government-created corporation part of the government.” Herron II, 861 F.3d at
+
+15
+
+168 (internal quotation marks and citation omitted); see also Adams, 813 F.3d at 1261; Sprauve,
+
+16
+
+799 F.3d at 233; Loren v. City of New York, No. 16-cv-3605, 2017 WL 5903358, at *3 (S.D.N.Y.
+
+17
+
+Nov. 28, 2017) (denying a motion for reconsideration because “the government did not retain the
+
+18
+
+permanent authority to appoint a majority of the directors to [the entity]’s board, and thus did not
+
+19
+
+meet the standard set out in Lebron”).
+
+20
+
+Regardless, American Railroads does not discuss the permanence of government
+
+21
+
+authority over Amtrak because the Supreme Court had already found it in Lebron and the parties
+
+22
+
+did not dispute it. Instead, they argued about a different issue: the Amtrak “‘charter’s disclaimer
+
+23
+
+of agency.’” Ass’n of Am. R.R., 135 S. Ct. at 1233. The Court applied Lebron to resolve that
+
+24
+
+argument: “Lebron teaches that, for purposes of Amtrak’s status as a federal actor or
+
+25
+
+instrumentality under the Constitution, the practical reality of federal control and supervision
+
+26
+
+prevails over Congress’ disclaimer of Amtrak’s governmental status.” Id.
+
+27
+28
+
+Fourth, Plaintiff’s citation to Becker v. Gallaudet University for “[f]urther support that
+Lebron focuses on the degree of control and not the duration” fares no better. Opp. at 20-21
+
+- 20 -
+
+Case 1:17-cv-00042-JJM-LDA Document 31 Filed 02/28/18 Page 27 of 34 PageID #: 577
+
+1
+
+(citing 66 F. Supp. 2d 16 (D.D.C. 1999)). In that case, the court states that permanent control is
+
+2
+
+a required element under Lebron. 66 F. Supp. 2d at 20. After applying the Lebron test, the
+
+3
+
+Court held that the defendant, Gallaudet University, was not a government actor because “[t]he
+
+4
+
+number of public positions on Gallaudet’s Board of Trustees, [3 of 21], is a strong indication that
+
+5
+
+the federal government does not exercise sufficient control.” Id. at 20-21. It was not necessary
+
+6
+
+for the court to analyze whether the government exerted permanent control, because the court
+
+7
+
+found that the government did not exert any control.
+Finally, Plaintiff also cites Pennsylvania v. Board of Directors of City Trusts of
+
+8
+9
+
+Philadelphia, a three-paragraph opinion that pre-dates Lebron. Opp. at 27 (citing 353 U.S. 230,
+
+10
+
+231 (1957)). City Trusts does not govern here and in any event is entirely consistent with
+
+11
+
+Lebron’s requirement of permanent structural control. In City Trusts, “an act of the
+
+12
+
+Pennsylvania legislature” expressly provided for the board of a state college to be controlled by
+
+13
+
+“an agency of the State.” Pennsylvania, 353 U.S. at 231. 13 The Court reached the unremarkable
+
+14
+
+conclusion that the college’s admission decisions constituted state action. Id. By contrast, when
+
+15
+
+FHFA acts as Conservator, it directs Fannie Mae’s operations in a non-governmental capacity
+
+16
+
+and without permanent structural control. See supra at 2-7. Likewise, Treasury “acts—and is
+
+17
+
+treated—as any other shareholder” when it supports financial institutions through stock
+
+18
+
+ownership. Meridian Invs., Inc., 855 F.3d at 579. Thus, Plaintiff’s argument that the
+
+19
+
+government controls Fannie Mae for purposes of Lebron or any other state-action test applicable
+
+20
+
+to constitutional claims must fail.
+
+21
+
+CONCLUSION
+
+22
+
+For the reasons set forth herein, Fannie Mae and FHFA respectfully request that the
+
+23
+
+Court grant their motion for judgment on the pleadings and enter judgment in their favor.
+
+24
+25
+
+Respectfully submitted,
+
+26
+27
+28
+
+13
+
+Of course, the mere legislative creation of an entity is not sufficient alone to make the
+agency a government actor, as that is but one element of the test set forth in Lebron.
+
+- 21 -
+
+Case 1:17-cv-00042-JJM-LDA Document 31 Filed 02/28/18 Page 28 of 34 PageID #: 578
+
+1
+
+Dated: February 28, 2018
+
+2
+3
+4
+
+FEDERAL HOUSING FINANCE AGENCY FEDERAL HOUSING FINANCE AGENCY
+AND FEDERAL NATIONAL MORTGAGE
+By Its Attorney,
+ASSOCIATION
+
+5
+
+By Their Attorney,
+
+6
+
+/s/ Samuel C. Bodurtha
+Samuel C. Bodurtha, Bar No. 7075
+HINSHAW & CULBERTSON LLP
+321 South Main Street, Suite 301
+Providence, RI 02903
+(401) 751-0842
+(401) 751-0072 (fax)
+sbodurtha@hinshawlaw.com
+
+7
+8
+9
+10
+
+/s/ Michael A.F. Johnson
+Michael A.F. Johnson (pro hac vice)
+ARNOLD & PORTER KAYE SCHOLER LLP
+601 Massachusetts Ave., NW
+Washington, DC 20001
+(202) 942-5000
+(202) 942-5999 (fax)
+Michael.Johnson@arnoldporter.com
+
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+- 22 -
+
+Case 1:17-cv-00042-JJM-LDA Document 31 Filed 02/28/18 Page 29 of 34 PageID #: 579
+
+APPENDIX A
+
+1
+2
+3
+4
+
+I.
+
+Decisions holding that Fannie Mae and Freddie Mac are not Government Actors
+Subject to Constitutional Claims
+
+Appellate Court decisions:
+
+5
+6
+7
+8
+
+1. Herron v. Fannie Mae, 861 F.3d 160, 169 (D.C. Cir. 2017) (“[T]he government’s indefinite
+but temporary control does not transform Fannie Mae into a government actor.”)
+2. Mik v. Freddie Mac, 743 F.3d 149, 168 (6th Cir. 2014) (“Under the Lebron framework,
+Freddie Mac is not a government actor who can be held liable for violations of the Fifth
+Amendment’s Due Process Clause.”)
+
+9
+10
+11
+12
+
+3. Rubin v. Fannie Mae, 587 F. App’x 273, 275 (6th Cir. 2014) (“Under Supreme Court
+precedent, a necessary condition precedent for a conclusion that a once-private entity is a
+state actor is that the government’s control over the entity is permanent.”)
+4. Bernard v. Fannie Mae, 587 F. App’x 266, 271 (6th Cir. 2014) (citing Lebron and holding
+that “following FHFA’s conservatorship, Fannie Mae is not a state actor”)
+
+13
+14
+15
+
+5. Heibel v. Fannie Mae, 581 F. App’x 543, 544 (6th Cir. 2014) (following Sixth Circuit
+precedent)
+
+16
+
+6. Freddie Mac v. Gaines, 589 F. App’x 314, 316 (6th Cir. 2014) (following Sixth Circuit
+precedent)
+
+17
+
+District Court decisions:
+
+18
+
+1. Herron v. Fannie Mae, 857 F. Supp. 2d 87, 92 (D.D.C. 2012) (Fannie Mae is not subject to
+Bivens claims because “the imposition of conservatorship . . . did not transform Fannie Mae
+into a government actor.”)
+
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+2. Haney v. Fannie Mae, No. 16-cv-01296, 2017 WL 1404103, at *5 (D. Colo. Mar. 9, 2017)
+(“It is well-settled that Fannie Mae is not a state actor for purposes of establishing the
+necessary state action” under § 1983. (citing Herron, 857 F. Supp. 2d at 92))
+3. Beliz v. Loan Simple, Inc., No. 15-cv-01284, 2016 WL 424807, at *8 (D. Colo. Jan. 14,
+2016), report and recommendation adopted, 2016 WL 409408 (D. Colo. Feb. 3, 2016)
+(“[T]the court agrees with those courts that have considered and rejected the argument that
+Freddie Mac and its companion, Fannie Mae, are government actors by virtue of the FHFA
+conservatorship. . . . [T]he court concludes that the FHFA conservatorship does not create
+the type of permanent control required under Lebron.”)
+4. Caldwell v. Citimortgage, Inc., No. 15-cv-1784, 2015 WL 6445467, at *4 (N.D. Ill. Oct. 23,
+2015) (agreeing with “[a]ll of the federal courts to address the issue [and that] have held that
+Freddie Mac is not a government actor and, therefore, cannot be held liable for violating a
+plaintiff’s constitutional rights”)
+-1-
+
+Case 1:17-cv-00042-JJM-LDA Document 31 Filed 02/28/18 Page 30 of 34 PageID #: 580
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+
+5. Fisher v. JP Morgan Chase Bank, NA, No. 14-cv-12734, 2015 WL 871066, at *4 (E.D.
+Mich. Feb. 27, 2015) (“The Courts have already determined that Fannie Mae is not a
+government actor” for constitutional purposes.)
+6. Hurst v. Fannie Mae, No. 14-cv-10942, 2015 WL 300275, at *4 n.4 (E.D. Mich. Jan. 22,
+2015), aff'd, 642 F. App’x 533 (6th Cir. 2016) (concluding even if plaintiff had standing, her
+claims would fail because “[f]ederal courts . . . across the country [have] found that neither
+Fannie Mae nor Freddie Mac are governmental actors post-conservatorship pursuant to the
+Supreme Court’s decision in Lebron”)
+7. Freddie Mac. v. Kama, No. 14-cv-00137, 2014 WL 4980967, at *16 (D. Haw. Oct. 3, 2014)
+(citing Lebron and agreeing with the “numerous district courts [that] have held that Freddie
+Mac, and similar entity [Fannie Mae] did not become federal governmental actors postconservatorship”)
+8. Wright v. Fannie Mae, No. 1:13-cv-04294, 2014 WL 12042555, at *3 (N.D. Ga. Sept. 22,
+2014) (“Since government control of Defendant Fannie Mae is temporary, courts have
+consistently held that Defendant Fannie Mae is not a government actor, even though it is in a
+conservatorship.”)
+9. Rush v. Freddie Mac, No. 13-cv-11302, 2014 WL 1030842, at *4 (E.D. Mich. Mar. 17,
+2014) (“Thus, under the Lebron test, Freddie Mac is not a governmental entity.”)
+10. Narra v. Fannie Mae, No. 2:13-cv-12282, 2014 WL 505571, at *4 (E.D. Mich. Feb. 7, 2014)
+(“[N]either Fannie Mae nor Freddie Mac are governmental actors post-conservatorship
+pursuant to the Supreme Court’s decision in Lebron.”)
+11. In re Kapla, No. ADV 12-4000, 2014 WL 346019, at *3 (E.D. Mich. Jan. 30, 2014) (citing
+Lebron and agreeing “a conservatorship is by nature temporary and therefore the third prong
+required to find that [Fannie Mae] is a federal actor for the purpose of a constitutional claim
+is not satisfied”)
+12. Dias v. Fannie Mae, 990 F. Supp. 2d 1042, 1062 (D. Haw. 2013) (“FHFA’s conservatorship
+does not create the type of permanent control required under Lebron.”)
+13. Parra v. Fannie Mae, No. 13-cv-4031, 2013 WL 5638824, at *3 (C.D. Cal. Oct. 16, 2013)
+(agreeing that “Fannie Mae and its conservator, [FHFA], are not government actors for
+purposes of the Fifth Amendment’s Due Process Clause”)
+14. Williams v. Fannie Mae, No. 1:13-cv-1899, 2013 WL 5361211, at *2 n.3 (N.D. Ga. Sept. 25,
+2013) (“[C]ourts have consistently found that Fannie Mae is not a government actor for
+purposes of a constitutional claim.”)
+15. Johnson v. Fannie Mae, No. 2:12-cv-00452, 2013 WL 3819365, at *2 (W.D. Mich. July 23,
+2013) (“Fannie Mae is not a governmental entity capable of violating [plaintiff’s] federal
+constitutional rights.”)
+
+28
+Appendix A
+-2-
+
+Case 1:17-cv-00042-JJM-LDA Document 31 Filed 02/28/18 Page 31 of 34 PageID #: 581
+
+1
+2
+3
+4
+
+16. In re Hermiz, No. BR 12-52399, 2013 WL 3353928, at *2 (E.D. Mich. July 3, 2013) (citing
+Lebron and holding that “Freddie Mac is not a federal instrumentality for constitutional
+purposes”)
+17. May v. Wells Fargo Bank, N.A., No. 4:11-cv-3516, 2013 WL 3207511, at *5 (S.D. Tex. June
+24, 2013) (“This Court agrees and holds that, despite FHFA’s conservatorship, Freddie Mac
+is not a government actor under Lebron.”)
+
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+18. Colbert v. Fannie Mae, No. 12-cv-13844, 2013 WL 1629305, at *13 (E.D. Mich. Apr. 16,
+2013) (“This Court agrees with the reasoning of other courts in this District concluding that
+Fannie Mae is not a state actor.”)
+19. Bernard v. Fannie Mae, No. 12-cv-14680, 2013 WL 1282016, at *5 (E.D. Mich. Mar. 27,
+2013), aff’d, 587 F. App’x 266 (6th Cir. 2014) (“FHFA’s conservatorship does not create the
+type of permanent control required under Lebron. Accordingly, the Court holds that Fannie
+Mae is not a government actor that can be held liable for an alleged Fifth Amendment due
+process violation.”)
+20. Fannie Mae v. Mandry, No. 12-cv-13236, 2013 WL 687056, at *5 (E.D. Mich. Feb. 26,
+2013) (“FHFA’s conservatorship does not create the type of permanent control required
+under Lebron. Accordingly, this Court holds that Fannie Mae and FHFA are not government
+actors that can be held liable for the Fifth Amendment due process violation.”)
+21. Freddie Mac v. Matthews-Gaines, No. 12-cv-12131, 2013 WL 423777, at *3 (E.D. Mich.
+Feb. 4, 2013), aff'd, 589 F. App’x 314 (6th Cir. 2014) (Freddie Mac is not a government
+actor because “Lebron requires that the government maintain permanent control over the
+entity.”)
+22. Lopez v. Bank of Am., N.A., 920 F. Supp. 2d 798, 801 (W.D. Mich. 2013) (“Because Fannie
+Mae is not under permanent governmental control, it is not a governmental actor for purposes
+of constitutional challenges.”)
+23. Fannie Mae v. Lemaire, No. 12-cv-11479, 2012 WL 12930829, at *2 (E.D. Mich. Dec. 20,
+2012) (citing Lebron and holding “Defendants’ due process argument must fail because
+Fannie Mae is a private corporation and not a government actor for constitutional purposes”).
+24. In re Kapla, 485 B.R. 136, 152 (Bankr. E.D. Mich. 2012), aff’d, 2014 WL 346019 (E.D.
+Mich. Jan. 30, 2014) (“Fannie Mae is not a government actor under Lebron for purposes of
+constitutional claims.”)
+25. Rubin v. Fannie Mae, No. 12-cv-12832, 2012 WL 6000572, at *3 (E.D. Mich. Nov. 30,
+2012) (citing Lebron and holding “that Fannie Mae is not a federal actor [for the purpose of]
+constitutional claims”)
+26. Ljekocevic v. CitiMortgage, No. 11-cv-14403, 2012 WL 5379571, at *4 (E.D. Mich.
+Sept. 25, 2012), report and recommendation adopted, 2012 WL 5379370 (E.D. Mich. Oct.
+31, 2012) (“Freddie Mac is a private corporation—not a government actor—for
+constitutional purposes.”)
+Appendix A
+-3-
+
+Case 1:17-cv-00042-JJM-LDA Document 31 Filed 02/28/18 Page 32 of 34 PageID #: 582
+
+1
+2
+3
+
+27. Syriani v. Freddie Mac Multiclass Certificates, Series 3365, No. 12-cv-3035, 2012 WL
+6200251, at *4 (C.D. Cal. July 10, 2012) (applying Lebron and holding “Freddie Mac does
+not become a governmental actor for Fifth Amendment purposes merely because it is placed
+into conservatorship. [FHFA]’s ‘control’ is merely the same control that Freddie Mac had
+before the conservatorship.”)
+
+4
+5
+6
+7
+8
+
+28. Garcia v. Fannie Mae, No. 1:13-cv-1259, 2014 WL 2210784, at *3 (W.D. Mich. Apr. 30,
+2014), aff'd, 782 F.3d 736 (6th Cir. 2015) (citing Herron and holding that “Fannie Mae is not
+a governmental actor” for the plaintiff’s § 1983 claim)
+29. Freddie Mac v. Shamoon, 922 F. Supp. 2d 641, 644 (E.D. Mich. 2013) (applying Lebron and
+holding that “Freddie Mac, and similar entity Fannie Mae, [are] not governmental actors
+post-conservatorship, and dismissing claims alleging a constitutional violation as a matter of
+law”)
+
+9
+10
+11
+12
+13
+14
+15
+16
+
+30. Oliver v. Bank of Am., N.A., No. 1:14-cv-00012, 2014 WL 11532239, at *6 (E.D. Tenn.
+Sept. 10, 2014) (agreeing with the “[n]umerous federal courts [that] have specifically
+considered the issue of whether post-conservatorship [Fannie Mae] qualifies as a state actor
+under the test set forth in Lebron and have consistently found that [Fannie Mae] is not a state
+actor”)
+31. Colyer v. Freddie Mac, No. 13-cv-10425, 2014 WL 1048009, at *6 (E.D. Mich. Mar. 18,
+2014) (dismissing plaintiff’s § 1983 claim because “Freddie Mac is not a governmental
+actor”)
+32. Smalls v. Riviera Towers Corp., No.16-cv-847, 2017 WL 4180115, at *4 n.4 (D.N.J.
+Sept. 21, 2017) (Fannie Mae is “not considered to be a state actor for purposes of Section
+1983 or constitutional claims.”)
+
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+33. Narra v. Fannie Mae, No. 2:13-cv-12282, 2014 WL 505571, at *4 (E.D. Mich. Feb. 7, 2014)
+(“Federal courts . . . have comprehensively examined the issue and found that neither Fannie
+Mae nor Freddie Mac are governmental actors post-conservatorship pursuant to the Supreme
+Court’s decision in Lebron.”)
+34. Williams v. Fannie Mae, No. 13-cv-12776, 2013 WL 5445883, at *2 (E.D. Mich. Sept. 30,
+2013) (“Fannie Mae is not a state actor [for ‘constitutional due process . . . violations.’]”)
+35. Yousif v. Fannie Mae, No. 12-cv-12427, 2013 WL 980159, at *2 n.2 (E.D. Mich. Mar. 13,
+2013) (“Fannie Mae is neither a governmental entity nor a state actor” subject to plaintiff’s
+due process claim.)
+36. Freddie Mac v. Montague, No. 1:13-cv-1162, 2014 WL 4313633, at *5 (W.D. Mich. Sept. 2,
+2014) (Freddie Mac “is not a state actor who can be held liable for violations of the Due
+Process Clause.”)
+
+26
+27
+28
+Appendix A
+-4-
+
+Case 1:17-cv-00042-JJM-LDA Document 31 Filed 02/28/18 Page 33 of 34 PageID #: 583
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+
+II.
+
+Decisions holding that FHFA as Conservator is not a Government Actor Subject to
+Constitutional Claims
+
+1. Herron v. Fannie Mae, 861 F.3d 160, 169 (D.C. Cir. 2017) (As Conservator, “FHFA shed its
+government character and became a private party.” (international quotation marks and
+alterations omitted))
+2. Parra v. Fannie Mae, No. 13-cv-4031 FMO SHX, 2013 WL 5638824, at *3 (C.D. Cal.
+Oct. 16, 2013) (“FHFA, which took over as Fannie Mae’s conservator, also does not qualify
+as a government actor.”)
+3. Dias v. Fannie Mae, 990 F. Supp. 2d 1042, 1061 (D. Haw. 2013) (“Similarly, the FHFA,
+which took over as Fannie Mae’s conservator, also does not qualify as a government actor.”)
+4. Fannie Mae v. Mandry, No. 12-cv-13236, 2013 WL 687056, at *5 (E.D. Mich. Feb. 26,
+2013) (“Fannie Mae and FHFA are not government actors that can be held liable for [a] Fifth
+Amendment due process violation.”)
+5. Herron v. Fannie Mae, 857 F. Supp. 2d 87, 95 (D.D.C. 2012) (“FHFA as conservator for
+Fannie Mae is not a government actor.”)
+
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+Appendix A
+-5-
+
+Case 1:17-cv-00042-JJM-LDA Document 31 Filed 02/28/18 Page 34 of 34 PageID #: 584
+
+1
+2
+
+CERTIFICATE OF SERVICE
+I hereby certify that I electronically filed the foregoing brief with the Clerk of the Court
+
+3
+
+for the District of Rhode Island by using the CM/ECF system on February 28, 2018. I certify
+
+4
+
+that all participants in the case are registered CM/ECF users and that service will be
+
+5
+
+accomplished by the CM/ECF system.
+
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+/s/ Samuel C. Bodurtha
+Samuel C. Bodurtha
+
+

@@ -1,0 +1,301 @@
+UNITED STATES DISTRICT COURT
+EASTERN DISTRICT OF VIRGINIA
+NORFOLK DIVISION
+__________________________________________
+)
+)
+I/P ENGINE, INC.,
+)
+)
+Plaintiff,
+)
+v.
+)
+)
+AOL, INC. et al.,
+)
+)
+Defendants.
+)
+__________________________________________)
+
+Civil Action No. 2:11-cv-512
+
+I/P ENGINE, INC.’S MEMORANDUM IN SUPPORT OF ITS
+MOTION FOR DEFENDANTS TO SHOW CAUSE UNDER RULE 37
+FOR NONCOMPLIANCE WITH AUGUST 13, 2013 ORDER
+Plaintiff I/P Engine, Inc. (“I/P Engine”), by counsel, in support of its Motion for
+Defendants to Show Cause under Rule 37 for Noncompliance with this Court’s Order entered
+August 13, 2013, states as follows:
+Introduction
+Despite an Order from this Court “to produce any documents relevant for determining
+whether New AdWords is no more than a colorable variation of the adjudicated product” by
+August 25, 2013 (D.I. 963, p. 8), Defendants produced a mere seventeen (17) documents, and
+boundless source code (which was not available until August 28, 2013), and no custodial
+documents. Declaration of Charles J. Monterio, Jr. ¶¶ 4-5 (“Monterio Declaration”). Among other
+things, their production included no emails. Id. ¶ 7. Defendants produced this limited number of
+documents despite the fact that they claim that Google fundamentally re-designed one of the most
+profitable components of its business, and despite the fact that the discovery record leading up to
+
+trial shows that Google carefully studies and analyzes all changes it makes to its systems before
+implementation. Id. ¶ 5. In their own words, Defendants assert that “custodial emails are not
+relevant.” Ex. A. It is implausible that the alleged re-design for a multi-billion dollar system
+would have been engineered, tested, analyzed, approved and implemented on the basis of such
+scant documentation and no relevant custodial documents, such as emails discussing the changes.1
+The consequences of this failure to comply are significant and disrupt this Court’s
+schedule. Plainly, this Court’s Order sought to eliminate any maneuvering between the parties
+over any discovery obligations by requiring that each party “must produce any documents relevant
+to” the alleged changes. This Court’s schedule made the expert report, deposition, and briefing
+schedule reasonable in a short time frame. And, since the information about the alleged redesign
+rests entirely with Google, Google bears the responsibility of producing documents sufficient to
+permit this Court and I/P Engine to evaluate whether the alleged changes are not more than
+colorably different.
+Instead, Google seeks to play discovery games, leaving I/P Engine with virtually no
+meaningful discovery after 20% of the discovery period has passed, denying I/P Engine a fair
+opportunity to produce the expert report envisioned by this Court’s Order, and depriving this Court
+of a chance to have a fair hearing on the alleged changes in accordance with this Court’s schedule.
+I/P Engine respectfully requests that this Court require Defendants to show cause for their
+noncompliance and to issue an appropriate remedy.
+
+1
+
+Google has adopted a strategy of tirelessly re-litigating every issue and ignoring this Court’s
+orders. This happened repeatedly at trial. Most recently, this Court ruled that it would adopt a
+20.9% apportionment factor for the royalty base and would not “relitigate” that issue. See Order
+of August 13, 2013; D.I. 963 at 6. Google nonetheless selectively ignored that ruling in its filing
+of August 26, 2013 (D.I. 973) and argued again for a 2.8% apportionment factor – an argument
+that this Court had just rejected.
+
+2
+
+Background
+On November 20, 2012, this Court entered judgment on a jury verdict in favor of I/P
+Engine against Defendants for $30,496,155 with a running royalty rate of 3.5%. See D.I. 801.
+I/P Engine thereafter moved for an award of post-judgment royalties. See D.I. 822. In opposing
+the award of post-judgment royalties, Defendants claimed that, as of May 11, 2013, they redesigned the accused functionalities of the adjudged infringing system so as not to infringe the
+patents-in-suit. In particular, Defendants stated:
+As Google informed I/P Engine, Google has changed the accused system in ways
+that render it far more than just “colorably different” from the adjudicated
+system. Specifically, Google has removed all three alternative bases that I/P
+Engine presented at trial to meet the “filtering for relevance to the query” required
+in every asserted claims [sic].
+D.I. 938, p. 5 (emphasis added).
+By Memorandum Opinion and Order dated August 13, 2013, this Court, because of
+Google’s argument that it re-designed its adjudged infringing AdWords system as of May 11,
+2013 (see D.I. 963, p. 7), established a discovery schedule for New AdWords including a
+document production date of August 25, 2013:
+August 25, 2013 – The parties must produce any documents relevant for
+determining whether New AdWords is no more than a colorable variation of the
+adjudicated product. Any additional discovery is limited to three (3) depositions
+per side, including expert witnesses.
+D.I. 963, p. 8 (emphasis added).
+
+The phrase “must produce any documents relevant for
+
+determining whether New AdWords is no more than a colorable varation of the adjudicated
+product” put the burden on Google to produce any documents that are relevant to making that
+determination; it did not give Google the right to handpick a subset of those documents.
+
+3
+
+Grounds for Show Cause Order
+Federal Rule of Civil Procedure 37(b)(2) provides that, “If a party or a party’s officer,
+director, or managing agent . . . fails to obey an order to provide or permit discovery, including
+an order under Rule 26(f), 35, or 37(a), the court where the action is pending may issue further
+just orders.” Such orders may include the following:
+(i)
+
+directing that the matters embraced in the order or other designated facts
+be taken as established for purposes of the action, as the prevailing party
+claims;
+
+(ii)
+
+prohibiting the disobedient party from supporting or opposing designated
+claims or defenses, or from introducing designated matters in evidence;
+
+(iii)
+
+striking pleadings in whole or in part;
+
+(iv)
+
+staying further proceedings until the order is obeyed;
+
+(v)
+
+dismissing the action or proceeding in whole or in part;
+
+(vi)
+
+rendering a default judgment against the disobedient party; or
+
+(vii)
+
+treating as contempt of court the failure to obey any order except an order
+to submit to a physical or mental examination.
+
+FED.R.CIV.P. 37(b)(2).
+Defendants have failed to comply with this Court’s August 13, 2013 Order, and it appears
+they have done so purposefully.2 Defendant Google, the party in control of the AdWords system
+and with sole custody of all relevant non-public documents, has produced just seventeen (17)
+non-source code documents. Monterio Decl. ¶ 4. And it has admitted to producing no custodial
+documents. Ex. A.
+Google attempts to excuse its behavior by stating that “Google already produced
+technical documents and made the source code available for your inspection in compliance with
+2
+
+On August 25, 2013, in compliance with the Order, I/P Engine produced such documents as it
+could find on Google’s website that describe the current AdWords system. Monterio Decl. ¶ 3.
+None of those documents indicate any relevant change to the AdWords system. Id.
+
+4
+
+the Court’s Order” (Id.), but the source code is not a substitute for producing all relevant
+documents. While Google may have made source code available, the review of that source code
+(without a roadmap) is unduly burdensome, if possible at all, based on this Court’s truncated
+schedule. For example, the directory listing of the produced source code itself shows over 17
+single-spaced pages of individual files.
+
+The communications between Google personnel,
+
+especially its engineers, and other custodial documents describing Google’s efforts regarding the
+relevant changes serves as a necessary tool in efficiently mapping out what changes Google
+actually implemented and where they have been implemented, which provides a roadmap to
+review the source code. Monterio Decl. ¶ 8. In other words, the unproduced relevant emails and
+custodial documents are expected to explain: (1) who worked on the removal or modifications of
+the adjudged infringing functionalities and the new replacement features; (2) what functionalities
+were removed or modified and what they were replaced with; and (3) how Google implemented
+each alleged change in its code. All of this information is relevant to this Court’s inquiry, and
+vital to I/P Engine’s ability to prove that the New AdWords System is no more than colorably
+different from the adjudged infringing system.
+Instead of complying with this Court’s Order and providing all relevant documents,
+Google seeks to delay. This is Google’s modus operandi. Google ultimately took 6 months to
+produce its original custodial documents. Id. ¶ 6. Recognizing these same tactics in response to
+this Court’s August 13 Order, counsel for I/P Engine immediately raised these concerns at a meet
+and confer conference on August 27, 2013, two days after Google’s deadline for production. Id.
+The very next day counsel for Google hedged its position stating:
+“Google is in the process of identifying custodians and search terms. We will
+provide additional information later this week regarding the timing of the
+production.”
+
+5
+
+Ex. A. Again, counsel for Google seeks to delay its obligations by simply promising additional
+information about the timing of its supplemental production “later this week.” Id. These
+documents should have been identified and produced on or before this Court’s ordered deadline
+of August 25, 2013. Now almost a week has passed since the deadline and I/P Engine still does
+not have the documents. Given this Court’s clear directive and truncated schedule, I/P Engine
+cannot afford to wait for Google to decide whether it will comply with this Court’s Order and to
+what extent. Based on its actions, Google’s “discovery plan” appears to be the same plan that
+previously took 6 months. Monterio Decl. ¶ 6.
+This Court placed the burden on Google to produce ab initio and Google chose not to
+comply with this Court’s Order. Google is in willful contempt of this Court’s Order. That
+contempt should be sanctioned because it thwarts this Court’s schedule and requires I/P Engine
+to seek this relief. The relief should reflect the fact that Google’s stall tactic has already
+prejudiced I/P Engine. Simply stated, this Court’s schedule allows no time for gameplay. I/P
+Engine must produce an expert witness report in just four (4) weeks. It is limited to three (3)
+depositions, including expert witnesses, leaving no room to wait to find out from a witness which
+documents were not produced or to review documents and determine which other witnesses
+should be deposed. This Court’s schedule presupposed that depositions would be conducted
+based on a prior review of the “relevant” documents.
+If past is prologue, then we know two facts: (1) Google generates a far larger amount of
+documents about changes to its systems than 17 documents; and (2) Google regularly refuses to
+stop re-litigating issues it has lost. Here, those two facts demonstrate that Google chose not to
+produce all “relevant” documents as required by this Court’s order, and is therefore in contempt
+and should be sanctioned.
+
+6
+
+As a remedy for this contempt and as a sanction for Google’s willful failure to produce
+the ordered documents, I/P Engine requests the following:
+1. An order that the alleged changes to AdWords are not colorably different than the
+adjudged infringing systems; or
+2. An order that Defendants shall produce all such documents, in native format, within 3
+days and that I/P Engine shall have an additional 10 days to comply with each
+deadline in this Court’s August 13, 2013 order, while the Defendants shall have no
+such extension of time;
+3. An order that, in addition to the witnesses who may be produced pursuant to this
+Court’s August 13, 2013 Order, Google shall also produce a person knowledgeable
+about the existence and location of the documents described in the August 13 Order
+upon 3 days notice of such deposition by I/P Engine;
+4. An order that I/P Engine shall have an additional 7 hours to depose the original three
+Google witnesses;
+5. An order that the produced source code be placed on a single, non-networked
+computer that is password protected and maintained in a secure, locked area in
+accordance with the Protective Order in the D.C. offices of counsel for I/P Engine
+(instead of the D.C. offices of counsel for Google) to afford I/P Engine the ability to
+review the unmanageable source code (especially without a roadmap) around the
+clock; and
+6. An order awarding to I/P Engine all fees and costs associated with this motion
+including I/P Engine’s fees and costs associated with conferring with Google
+regarding this issue.
+
+7
+
+Conclusion
+WHEREFORE, I/P Engine, by counsel, respectfully asks this Court to require Defendants
+to appear and show cause why their failure to fully and timely comply with this Court’s Order
+entered August 13, 2013 should not result in sanctions under Rule 37, and for such other relief as
+is appropriate under the circumstances, including all means of relief allowed under Rule 37.
+
+Dated: August 29, 2013
+
+I/P ENGINE, INC.
+
+By:
+
+Donald C. Schultz, VSB No. 30531
+W. Ryan Snow, VSB No. 47423
+CRENSHAW, WARE & MARTIN, P.L.C.
+150 West Main Street, Suite 1500
+Norfolk, Virginia 23510
+Telephone: (757) 623-3000
+Facsimile: (757) 623-5735
+dschultz@cwm-law.com
+wrsnow@cwm-law.com
+Jeffrey K. Sherwood, VSB No. 19222
+Kenneth W. Brothers (admitted pro hac vice)
+Frank C. Cimino, Jr. (admitted pro hac vice)
+Dawn Rudenko Albert (admitted pro hac vice)
+Charles J. Monterio, Jr. (admitted pro hac vice)
+Jonathan Falkler (admitted pro hac vice)
+DICKSTEIN SHAPIRO LLP
+1825 Eye Street, NW
+Washington, DC 20006
+Telephone: (202) 420-2200
+Facsimile: (202) 420-2201
+Counsel for I/P Engine, Inc.
+
+8
+
+/s/ Jeffrey K. Sherwood
+
+CERTIFICATE OF SERVICE
+I certify that on this 29th day of August 2013 I electronically filed the foregoing with the
+Clerk of Court using the CM/ECF system, which will send notification to the following:
+Stephen Edward Noona
+Kaufman & Canoles, P.C.
+150 W Main St, Suite 2100
+Norfolk, VA 23510 senoona@kaufcan.com
+David Perlson
+Quinn Emanuel Urquhart & Sullivan LLP
+50 California Street, 22nd Floor San Francisco, CA 94111
+davidbilsker@quinnemanuel.com
+davidperlson@quinnemanuel.com
+Robert L. Burns
+Finnegan, Henderson, Farabow, Garrett & Dunner, LLP Two
+Freedom Square
+11955 Freedom Drive Reston, VA 20190
+robert.burns@finnegan.com
+Cortney S. Alexander
+Finnegan, Henderson, Farabow, Garrett & Dunner, LLP
+3500 SunTrust Plaza
+303 Peachtree Street, NE Atlanta, GA 94111
+cortney.alexander@finnegan.com
+
+/s/ Jeffrey K. Sherwood
+
+9
+
+

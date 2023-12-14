@@ -1,0 +1,653 @@
+Case 1:16-cv-21199-CMA Document 68 Entered on FLSD Docket 10/17/2016 Page 1 of 19
+
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF FLORIDA
+MIAMI DIVISION
+_____________
+)
+)
+)
+Plaintiffs,
+)
+)
+v.
+)
+)
+THOMAS DARDEN; JOHN T. VAUGHN, )
+INDUSTRIAL HEAT, LLC; IPH
+)
+INTERNATIONAL B.V.; and
+)
+CHEROKEE INVESTMENT PARTNERS, )
+LLC,
+)
+)
+Defendants.
+)
+ANDREA ROSSI and LEONARDO
+CORPORATION,
+
+INDUSTRIAL HEAT, LLC and IPH
+INTERNATIONAL B.V.,
+Counter-Plaintiffs,
+v.
+ANDREA ROSSI and LEONARDO
+CORPORATION,
+Counter-Defendants,
+and
+J.M. PRODUCTS, INC.; HENRY
+JOHNSON; FABIO PENON; UNITED
+STATES QUANTUM LEAP, LLC;
+FULVIO FABIANI; and JAMES A. BASS,
+Third-Party Defendants.
+
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+
+CASE NO. 1:16-cv-21199-CMA
+
+OPPOSITION TO COUNTERDEFENDANTS’ MOTION TO
+DISMISS SECOND AMENDED
+COUNTERCLAIMS
+
+Case 1:16-cv-21199-CMA Document 68 Entered on FLSD Docket 10/17/2016 Page 2 of 19
+
+TABLE OF CONTENTS
+Page
+LEGAL STANDARD.................................................................................................................... 1
+ARGUMENT ................................................................................................................................. 2
+I.
+
+II.
+
+Count I States a Breach of Contract Claim ............................................................ 2
+A.
+
+Industrial Heat Has Standing to Bring the Count I Breach of
+Contract Claim ........................................................................................... 2
+
+B.
+
+Count I States a Cause of Action for Breach of Contract .......................... 4
+
+Count II States a Breach of Contract Claim........................................................... 5
+A.
+
+Counter-Plaintiffs Have Sufficiently Alleged that CounterDefendants Violated the License Agreement’s Covenant Not to
+Compete ..................................................................................................... 5
+
+B.
+
+The Court Has Sustained Counter-Plaintiffs’ Allegations that
+Counter-Defendants Have Failed to Pay Taxes as Required by the
+License Agreement .................................................................................... 6
+
+III.
+
+Count III States a Fraudulent Inducement Claim against CounterDefendants ............................................................................................................. 7
+
+IV.
+
+Count IV States a Florida Deceptive and Unfair Trade Practices Act
+(“FDUTPA”) Claim against Counter-Defendants ................................................. 9
+A.
+
+Counter-Plaintiffs Are Allowed to Bring a FDUTPA Claim and a
+Breach of Contract Claim Based on the Same Conduct in the Same
+Action......................................................................................................... 9
+
+B.
+
+Industrial Heat Has Standing to Bring a FDUTPA Claim against
+Counter-Defendants ................................................................................. 10
+
+C.
+
+Counter-Plaintiffs Are Not Required to Satisfy the Heightened
+Pleading Standard of Rule 9(b) in Count IV, But They Do ..................... 11
+
+CONCLUSION ............................................................................................................................ 12
+CERTIFICATE OF SERVICE .................................................................................................... 14
+
+-i-
+
+Case 1:16-cv-21199-CMA Document 68 Entered on FLSD Docket 10/17/2016 Page 3 of 19
+
+TABLE OF AUTHORITIES
+Page
+CASES
+Ashcroft v. Iqbal,
+556 U.S. 662 (2009) ...................................................................................................................1
+Ashmore v. F.A.A.,
+2011 WL 3915752 (S.D. Fla. Sept. 2, 2011) .............................................................................1
+Coutant v. U.S. Dep’t of Treasury,
+2002 WL 34382737 (S.D. Fla. Feb. 27, 2002) ..........................................................................7
+Deere Constr., LLC v. Cemex Constr. Materials Fl., LLC,
+2016 WL 4374970 (S.D. Fla. July 26, 2016) ...........................................................................11
+Delgado v. J.W. Courtesy Pontiac GMC-Truck, Inc.,
+693 So.2d 602 (Fla. Dist. Ct. App. 1997) ................................................................................10
+Esys Latin Am., Inc. v. Intel Corp.,
+925 F.Supp.2d 1306 (S.D. Fla. 2013) ....................................................................................3, 4
+Garcia v. United Auto Credit Corp.,
+2008 WL 141579 (S.D. Fla. Jan. 11, 2008) ...............................................................................2
+Gaustaldi v. Sunvest Cmtys. USA, LLC,
+637 F.Supp.2d 1045 (S.D. Fla. 2009) ......................................................................................11
+Geter v. Galardi South Enters., Inc.,
+43 F.Supp.3d 1322 (S.D. Fla. 2014) ..........................................................................................1
+Guarisma v. Microsoft Corp.,
+2016 WL 4017196 (S.D. Fla. July 26, 2016) .............................................................................5
+Kia Motors Am. Corp. v. Butler,
+985 So.2d 1133 (Fla. Dist. Ct. App. 2008) ..............................................................................11
+Lauren Kyle Holdings, Inc. v. Heath-Peterson Constr. Corp.,
+864 So.2d 55 (Fla. Dist. Ct. App. 2004) ....................................................................................3
+Leesberg Cmty. Cancer Ctr. v. Leesburg Reg’l Med. Ctr.,
+972 So.2d 203 (Fla. Dist. Ct. App. 2007) ..................................................................................3
+
+- ii -
+
+Case 1:16-cv-21199-CMA Document 68 Entered on FLSD Docket 10/17/2016 Page 4 of 19
+
+TABLE OF AUTHORITIES
+(continued)
+Page
+Leisure Founders, Inc. v. CUC Intern., Inc.,
+833 F.Supp. 1562 (S.D. Fla. 1993) ............................................................................................9
+Nature’s Prods., Inc. v. Natrol, Inc.,
+990 F.Supp.2d 1307 (S.D. Fla. 2013) ......................................................................................10
+N. Am. Clearing, Inc. v. Brokerage Comp. Sys., Inc.,
+666 F.Supp.2d 1299 (M.D. Fla. 2009) .....................................................................................10
+PNR, Inc. v. Beacon Prop. Mgmt., Inc.,
+842 So.2d 773 (Fla. 2003)....................................................................................................9, 10
+Prestige Rests. & Entm’t, Inc. v. Bayside Seafood Rest., Inc.,
+2010 WL 680905 (S.D. Fla. Feb. 23, 2010) ..............................................................................2
+Rodriguez v. Holder,
+2011 WL 2911927 (S.D. Fla. Mar. 9, 2011) ..............................................................................1
+Rollins, Inc. v. Butland,
+951 So.2d 860 ( Fla. Dist. Ct. App. 2006) ...............................................................................11
+Sanchez-Knutson v. Ford Motor Co.,
+52 F.Supp.3d 1223 (S.D. Fla. 2014) ........................................................................................11
+Sanctuary Surgical Ctr., Inc. v. Conn. Gen. Life Ins. Co., Inc.,
+2012 WL 28263 (S.D. Fla. Jan. 5, 2012) ...................................................................................2
+Siever v. BWGaskets, Inc.,
+669 F.Supp.2d 1286 (M.D. Fla. 2009) .....................................................................................11
+Slip-N-Slide Records, Inc. v. TVT Records, LLC,
+2007 WL 3232270 (S.D. Fla. Oct. 31, 2007).....................................................................2, 3, 4
+State Farm Fire & Cas. Co. v. Ray,
+556 So.2d 811 (Fla. Dist. Ct. App. 1990) ..............................................................................3, 4
+State Farm Mut. Auto. Ins. Co. v. Gonnella,
+677 So.2d 1355 (Fla. Dist. Ct. App. 1996) ................................................................................2
+Toback v. GNC Holdings, Inc.,
+2013 WL 5206103 (S.D. Fla. Sept. 13, 2013) .........................................................................12
+- iii -
+
+Case 1:16-cv-21199-CMA Document 68 Entered on FLSD Docket 10/17/2016 Page 5 of 19
+
+TABLE OF AUTHORITIES
+(continued)
+Page
+Univ. Creek Assocs., II, Ltd. V. Boston Am. Fin. Group, Inc.,
+100 F.Supp.2d 1337 (S.D. Fla. 1998) ........................................................................................2
+W. Coast Life Ins. Co. v. Life Brokerage Partners LLC,
+2009 WL 2957749 (S.D. Fla. Sept. 9, 2009) .............................................................................8
+Ziemba v. Cascade Int’l, Inc.,
+156 F.3d 1994 (11th Cir. 2001) .................................................................................................8
+STATUTES
+Florida Deceptive and Unfair Trade Practices Act ........................................................9, 10, 11, 12
+Fla. Stat. 501.204(1).......................................................................................................................10
+OTHER AUTHORITIES
+Rule 9(b) ..........................................................................................................................7, 9, 11, 12
+
+- iv -
+
+Case 1:16-cv-21199-CMA Document 68 Entered on FLSD Docket 10/17/2016 Page 6 of 19
+
+COUNTER-PLAINTIFFS’ OPPOSITION TO COUNTER-DEFENDANTS’
+MOTION TO DISMISS SECOND AMENDED COUNTERCLAIMS
+Counter-Plaintiffs Industrial Heat, LLC (“Industrial Heat”) and IPH International, B.V.
+(“IPH”) (collectively, “Counter-Plaintiffs”) hereby respectfully oppose Counter-Defendants
+Andrea Rossi (“Rossi”) and Leonardo Corporation’s (“Leonardo”) (collectively, “CounterDefendants”) Motion to Dismiss Defendants’ [Second] Amended Counterclaims against
+Plaintiffs ([D.E. 56]) (“Motion to Dismiss”). The relevant pleading for purpose of the Motion to
+Dismiss is the Second Amended Answer, Additional Defenses, Counterclaims and Third-Party
+Claims (“2nd Amended AACT”). [D.E. 50].
+LEGAL STANDARD
+Counter-Defendants’ depiction of the applicable legal standard is inaccurate or
+incomplete in several respects. First, Counter-Defendants mischaracterize the applicable
+pleading standard by implying that if they can dream up potential alternative explanations for
+events pled in the 2nd Amended AACT, based on assumed or hypothetical “facts” not pled in the
+2nd Amended AACT, then those events cannot support claims against Counter-Defendants
+because the events only create a “mere possibility” of liability. See Mot. to Dismiss at 4, 7. The
+correct standard, however, is that for a party to state a plausible claim for relief, the party need
+only “‘plead factual content that allows the court to draw the reasonable inference that the
+[opposing party] is liable for the misconduct alleged.’” Ashmore v. F.A.A., 2011 WL 3915752,
+at *1 (S.D. Fla. Sept. 2, 2011) (quoting Ashcroft v. Iqbal, 556 U.S. 662, 678 (2009)).
+Second, Counter-Defendants fail to address that, in ruling on a motion to dismiss, a court
+considers not only the allegations in the relevant pleading (here, the 2nd Amended AACT), but
+also the exhibits attached thereto (and documents referenced therein that are central to a claim).
+See Geter v. Galardi South Enters., Inc., 43 F.Supp.3d 1322, 1328 (S.D. Fla. 2014); Rodriguez v.
+
+Case 1:16-cv-21199-CMA Document 68 Entered on FLSD Docket 10/17/2016 Page 7 of 19
+
+Holder, 2011 WL 2911927, at *1 n.5 (S.D. Fla. Mar. 9, 2011); Prestige Rests. & Entm’t, Inc. v.
+Bayside Seafood Rest., Inc., 2010 WL 680905, at *3 (S.D. Fla. Feb. 23, 2010); Garcia v. United
+Auto Credit Corp., 2008 WL 141579, at *1 (S.D. Fla. Jan. 11, 2008).1
+ARGUMENT
+I.
+
+Count I States a Breach of Contract Claim.
+A.
+
+Industrial Heat Has Standing to Bring the Count I Breach of Contract Claim
+
+Counter-Defendants erroneously contend that, due to the Assignment and Assumption of
+the License Agreement (the “Original Assignment”), Industrial Heat lacks standing to bring the
+Count I breach of contract claim. “In construing assignments, the court must determine . . .
+exactly what has been assigned to make certain that the [assignee] is the real party in interest[.]”
+Univ. Creek Assocs., II, Ltd. v. Boston Am. Fin. Group, Inc., 100 F.Supp.2d 1337, 1339 (S.D.
+Fla. 1998). “Like any other contract, the scope of the assignment depends foremost upon the
+language of the agreement itself.” Sanctuary Surgical Ctr., Inc. v. Conn. Gen. Life Ins. Co., Inc.,
+2012 WL 28263, at *3 (S.D. Fla. Jan. 5, 2012). “If the terms of the assignment are qualified,
+then the assignment may be construed as being limited by its terms[.]” Slip-N-Slide Records,
+Inc. v. TVT Records, LLC, 2007 WL 3232270, at *4 (S.D. Fla. Oct. 31, 2007) (citing State Farm
+Mut. Auto. Ins. Co. v. Gonnella, 677 So.2d 1355 (Fla. Dist. Ct. App. 1996)).
+Counter-Defendants’ argument is premised on the Original Assignment, but they wholly
+ignore the Amended and Restated Assignment and Assumption of License Agreement
+1
+
+Counter-Defendants also proclaim that they are not contesting in their Motion the 2nd
+Amended AACT’s allegations, see Motion to Dismiss at 2 n. 1, but then misstate what is pled in
+the 2nd Amended AACT. For example, contrary to what Counter-Defendants claim in the
+Motion to Dismiss, the 2nd Amended AACT does not plead that (a) the measurements of the
+Plant operated in Florida were “conducted by a mutually agreed upon independent third party
+expert”, (b) the validation test in 2013 was “successful[]”, (c) the operation of the Plant in
+Florida was a “Guaranteed Performance” process under the License Agreement, or (d) CounterPlaintiffs approved the methodologies used to operate and measure the Plant in Florida.
+Compare 2nd Amended AACT at pp. 36-38, 43-51 with Mot. to Dismiss at 1, 3-4.
+-2-
+
+Case 1:16-cv-21199-CMA Document 68 Entered on FLSD Docket 10/17/2016 Page 8 of 19
+
+(“Amended Assignment”), attached as Exhibit 27 to the 2nd Amended AACT. The Amended
+Assignment makes clear that “the Plant [i.e., the 1MW E-Cat Unit or Plant] is excluded from
+such transfer and assignment and shall remain the property of the Assignor [Industrial Heat].”
+Amended Assignment § 2. As the Plant was excluded from the Assignment, Industrial Heat may
+still enforce the License Agreement as it pertains to Industrial Heat’s property and ownership
+rights in the Plant. See State Farm Fire & Cas. Co. v. Ray, 556 So.2d 811, 813 (Fla. Dist. Ct.
+App. 1990) (“[A]n unqualified assignment transfers to the assignee all the interest of the assignor
+under the assigned contract, [and] the assignor has no right to make any claim on the contract
+once the assignment is complete, unless authorized to do so by the assignee.”) (emphasis added).
+See also Esys Latin Am., Inc. v. Intel Corp., 925 F.Supp.2d 1306, 1312 (S.D. Fla. 2013) (“The
+plain and unambiguous language of this statement [in the assignment] indicates the [first
+agreement] is independent of the [second agreement] and remains in effect between the two
+original signatories. Because the ‘plain language’ controls, the [first agreement] was not
+assigned, but rather reaffirmed in the [assignment].” (internal citations omitted)); Slip-N-Slide
+Records, Inc., 2007 WL 3232270, at *4. Cf. Leesberg Cmty. Cancer Ctr. v. Leesburg Reg’l Med.
+Ctr., 972 So.2d 203, 206 (Fla. Dist. Ct. App. 2007) (“‘An assignment is a transfer of all the
+interests and rights to the thing assigned.’” (quoting Lauren Kyle Holdings, Inc. v. HeathPeterson Constr. Corp., 864 So.2d 55, 58 (Fla. Dist. Ct. App. 2004) (emphasis added)).
+Industrial Heat’s property and ownership rights in the Plant are implicated by Count I
+because, among other things, that Count seeks return of the initial $1.5 million payment to
+Leonardo (as well as the subsequent $10 million payment and other payments), see 2nd Amended
+AACT at pp. 26-27, 52, and the License Agreement is clear that the initial $1.5 million covered
+payment in full for the Plant. See License Agreement §§ 3.1, 3.2(a), 4. The License Agreement
+
+-3-
+
+Case 1:16-cv-21199-CMA Document 68 Entered on FLSD Docket 10/17/2016 Page 9 of 19
+
+is also clear that Leonardo must refund that payment if “validation” under the License
+Agreement was not achieved (with the Plant being returned to Leonardo). See id. § 3.2(a). Thus,
+Industrial Heat, which was still the owner of the Plant following the Amended Assignment, is
+entitled to enforce the License Agreement and seek recovery of the $1.5 million payment sought
+under Count I. See Esys Latin Am., Inc., 925 F.Supp.2d at 1312; Slip-N-Slide Records, Inc.,
+2007 WL 3232270, at *4; State Farm Fire & Cas. Co., 556 So.2d at 813.
+B.
+
+Count I States a Cause of Action for Breach of Contract.
+
+Counter-Defendants’ argument that Counter-Plaintiffs have failed to state a cause of
+action for breach of contract in Count I is without merit. Counter-Plaintiffs have pled that there
+are only three possible explanations for their inability to replicate the results claimed by CounterDefendants and Fabio Penon. See 2nd Amended AACT at pp. 28-29, 52. Counter-Defendants
+refuse to accept these allegations, and instead dream up alternative theories that are not based on
+any facts pled in the 2nd Amended AACT. See Mot. to Dismiss at 7. In fact, CounterDefendants’ theories are contradicted by the 2nd Amended AACT, which makes clear several
+times that Counter-Plaintiffs used the E-Cat technology provided to them by Leonardo and Rossi
+(not that they misused it or used only part of it, as Counter-Defendants hypothesize). See 2nd
+Amended AACT at pp. 28-29, 41-42, 52.2 That pleading also alleges that Counter-Plaintiffs
+were unable to replicate Counter-Defendants’/Penon’s claimed results even when Rossi was
+working with them in North Carolina to attempt to do so. See id. at pp. 40-41, 42, 52. Because
+the allegations as pled in the 2nd Amended AACT must be accepted as true, Counter-Defendants’
+
+2
+
+Counter-Defendants also argue that Counter-Plaintiffs do not allege in Count I the “specific
+provisions of the License Agreement” that were breached. Mot. to Dismiss at 6. But the 2nd Amended
+AACT very clearly identifies the validation and IP transfer provisions of the License Agreement, see 2nd
+Amended AACT at pp. 51-52, and the License Agreement is also attached as an exhibit to CounterDefendants’ Complaint.
+
+-4-
+
+Case 1:16-cv-21199-CMA Document 68 Entered on FLSD Docket 10/17/2016 Page 10 of 19
+
+efforts to avoid or ignore those allegations must be rejected and Count I sustained. See
+Guarisma v. Microsoft Corp., 2016 WL 4017196, at *2 (S.D. Fla. July 26, 2016).3
+II.
+
+Count II States a Breach of Contract Claim.
+A.
+
+Counter-Plaintiffs Have Sufficiently Alleged that Counter-Defendants
+Violated the License Agreement’s Covenant Not to Compete.
+
+Counter-Defendants erroneously argue that Counter-Plaintiffs have not sufficiently
+alleged that Counter-Defendants violated the License Agreement’s covenant not to compete
+because Counter-Defendants read into the License Agreement’s covenant not to compete
+language or exceptions that are simply not there. Pursuant to the plain language of the License
+Agreement, the covenant not to compete prohibits Counter-Defendants and any of their affiliates
+from “be[ing] . . . connected in any manner with any business or enterprise (a) engaged in the
+design, development, manufacture, distribution, lease, rental or sale of any E-Cat Products, or the
+provision of any services related thereto or (b) which is competitive with the E-Cat Products[.]”
+other than “as an officer, director, stockholder, employee, agent or consultant” of Industrial Heat
+or a subsidiary. License Agreement § 13.3.
+Contrary to what Counter-Defendants assert (see Mot. to Dismiss at 10), there is nothing
+in Section 13.3 that limits it to the Licensed Territory. Moreover, the 2nd Amended AACT
+
+3
+
+Counter-Defendants also knowingly mischaracterize the 2nd Amended AACT as “acknowledg[ing] that numerous third parties have been successful in generating an energy multiplier (COP)
+ranging from COP 2.6 to COP 10.85.” Mot. to Dismiss at 8. The 2nd Amended AACT is clear that the
+only persons ever to have claimed a double-digit COP, or even a COP anywhere near or over 10, are
+Counter-Plaintiffs and the partner in their scheme, Third-Party Defendant Penon. Swiss and Italian
+scientists determined far lower COPs (below any threshold in the License Agreement), and even their
+COP determinations have been subject to serious criticism. See 2nd Amended AACT at pp. 38-39, 42-43.
+In any event, none of this changes or could change the results of Counter-Plaintiffs’ testing using the ECat technology as provided to them by Counter-Defendants.
+
+-5-
+
+Case 1:16-cv-21199-CMA Document 68 Entered on FLSD Docket 10/17/2016 Page 11 of 19
+
+alleges (on page 29) that Counter-Defendants are based in the United States, which is included
+within the Territory.4
+Counter-Defendants’ contention that Counter-Plaintiffs encouraged Rossi to continue his
+research and development efforts after entering the License Agreement also misses the mark.
+See Mot. to Dismiss at 10. Section 13.3 is clear that such efforts would not violate its restrictions
+if Rossi undertook them as, for example, an “agent or consultant” of Counter-Plaintiffs. But
+Section 13.3 is violated if Rossi undertook such efforts for someone else.
+Finally, Counter-Defendants argue that their activities could only violate Section 13.3 if
+they were competing with IPH. Mot. to Dismiss at 10. Again, however, this fails to read the
+Section fully – it applies both to a business “(a) engaged in the design, development,
+manufacture, distribution, lease, rental or sale of any E-Cat Products, or the provision of any
+services related thereto or (b) which is competitive with the E-Cat Products.” License
+Agreement § 13.3 (emphasis added).
+Counter-Plaintiffs allege that Counter-Defendants are “engaged in designing and
+developing what are classified as ‘E-Cat Products’ under the License Agreement” and are doing
+so “in combination with a company or companies unaffiliated with IPH.” 2nd Amended AACT
+at p. 58. This is sufficient to state a violation of License Agreement § 13.3.
+B.
+
+The Court Has Sustained Counter-Plaintiffs’ Allegations that CounterDefendants Have Failed to Pay Taxes as Required by the License Agreement.
+
+In the Court’s recent Order on Plaintiffs’/Counter-Defendants’ motion to strike (“Motion
+to Strike Order”) ([D.E. 67]), the Court refused to strike, but instead sustained, the allegations in
+the 2nd Amended AACT relating to Counter-Defendants’ failure to pay taxes as required by the
+4
+
+Counter-Defendants note that Leonardo has licensed the E-Cat technology in geographic areas
+outside the Territory. But nothing in Section 13.3 states or implies that such licensing activity would
+further allow Counter-Defendants to, for example, manage or operate a business that manufactures or
+distributes E-Cat Products.
+
+-6-
+
+Case 1:16-cv-21199-CMA Document 68 Entered on FLSD Docket 10/17/2016 Page 12 of 19
+
+License Agreement because those allegations support the defense of prior breach pled in the 2nd
+Amended AACT. See Mot. to Strike Order at 1 (“Paragraphs 126–33 of Count II of the
+Counterclaims and Third-Party Claims in Defendants’ Answer remain intact.”).
+Those allegations are not pled to support a present affirmative claim against CounterDefendants, but since they are at issue in the case in any event as part of the prior breach
+defense, Counter-Plaintiffs have “reserve[d] the right to assert” the allegations as an affirmative
+claim if or when additional facts develop that warrant an affirmative claim for relief. 2nd
+Amended AACT at p. 60. Counter-Defendants contend such facts can never develop, but the
+very case they cite to support this conclusion shows that a federal tax lien can take priority over a
+private party’s interest in property if the private party’s interest is not protected by a perfected
+lien prior to the attachment of the federal tax lien. See Coutant v. U.S. Dep’t of Treasury, 2002
+WL 34382737, at *5 (S.D. Fla. Feb. 27, 2002).
+III.
+
+Count III States a Fraudulent Inducement Claim against Counter-Defendants.
+Counter-Defendants’ argument that Counter-Plaintiffs have not pled fraudulent
+
+inducement with specificity required by Rule 9(b) is without merit. As to Counter-Defendants,
+Counter-Plaintiffs have alleged with considerable specificity (a) precisely what statements were
+made in what documents or oral representations;5 (b) the time and place of each such statement
+and the person responsible for making same;6 (c) the content of such statements and the manner
+in which they misled Counter-Plaintiffs (e.g., that there was a real customer in Florida who
+5
+
+Counter-Plaintiffs have alleged that Rossi, both in his individual capacity and on behalf of
+Leonardo, made the specific fraudulent statements contained in the e-mail from Rossi to Tom Darden and
+others attached as Exhibit 16 to the 2nd Amended AACT, as well as two fraudulent statements during
+Rossi’s August 2014 meeting with Industrial Heat in North Carolina: (1) that J.M. Products, Inc. (“J.M.
+Products”) was a confidential subsidiary of Johnson Matthey p.l.c. (“Johnson Matthey”) and (2) that
+Johnson Matthey was interested in using the E-Cat technology in connection with a confidential
+manufacturing process it wanted to operate in Florida. See 2nd Amended AACT at pp. 43-47.
+6
+
+See Footnote 5 supra.
+
+-7-
+
+Case 1:16-cv-21199-CMA Document 68 Entered on FLSD Docket 10/17/2016 Page 13 of 19
+
+needed steam power for its chemical products processing; that Counter-Defendants intended to
+operate the Plant to provide power to a real customer; and that Counter-Defendants intended to
+seek authorizations from regulatory agencies to allow the Plant or subsequent E-Cat plants to be
+used for other commercial purposes); and (d) what Counter-Defendants obtained as a result of
+such fraudulent statements (the ability to operate the 1MW Plant in Florida away from
+Defendants so that Plaintiffs could conduct a fatally flawed attempt at demonstrating
+“Guaranteed Performance” and thus improperly claim entitlement to $89 million under the
+License Agreement). See 2nd Amended AACT at pp. 43-47, 60-61; W. Coast Life Ins. Co. v. Life
+Brokerage Partners LLC, 2009 WL 2957749, at *7 (S.D. Fla. Sept. 9, 2009) (citing Ziemba v.
+Cascade Int’l, Inc., 156 F.3d 1994, 1202 (11th Cir. 2001)). Nevertheless, Counter-Defendants
+attempt to cast the “one e-mail alleged to be made by Rossi” (Exhibit 16) as devoid of any
+specific content, blatantly disregarding the numerous and specific statements contained therein,
+and entirely ignore the statements Counter-Plaintiffs allege that Rossi made during the August
+2014 meeting in North Carolina. See Mot. to Dismiss at 14. Plaintiffs also ignore the detailed
+allegations provided to them that address their deception and manipulation in connection with
+the Validation testing in 2013. See 2nd Amended AACT at pp. 36-38.
+Counter-Defendants’ suggestion that Counter-Plaintiffs have not distinguished among
+Counter-Defendants and the Third-Party Defendants is equally unavailing. Counter-Plaintiffs’
+allegations regarding the July 15, 2014 e-mail clearly demonstrate that Counter-Plaintiffs are
+attributing the statements contained therein to Counter-Defendants, not Henry Johnson
+(“Johnson”) or J.M. Products, Inc. (“J.M. Products”). See 2nd Amended AACT at pp. 43-45.
+Furthermore, that Counter-Plaintiffs allege that Johnson and J.M. Products made similar
+fraudulent statements to Counter-Defendants in the August 2014 meeting in North Carolina does
+
+-8-
+
+Case 1:16-cv-21199-CMA Document 68 Entered on FLSD Docket 10/17/2016 Page 14 of 19
+
+not render such allegations insufficiently specific – Counter-Plaintiffs are in fact alleging that
+Rossi (both in his individual capacity and on behalf of Leonardo) and Henry Johnson (both in his
+individual capacity and on behalf of J.M. Products) made similar fraudulent statements regarding
+J.M. Products. See id. at pp. 45-46.
+Counter-Defendants’ arguments are ironic given that the fraudulent inducement claim in
+their Complaint does not distinguish among Defendants but instead attributes alleged
+misrepresentations to multiple Defendants lumped together. See Compl. ¶¶ 112-17. In any event,
+the allegations supporting Counter-Plaintiffs’ fraudulent inducement claim in the 2nd Amended
+AACT are detailed and clear, and the allegations regarding Counter-Defendants’ fraudulent
+statements are more than sufficient to meet the heightened pleading standard of Rule 9(b) and
+“alert [Counter-Defendants] to the precise misconduct with which they are charged.” Leisure
+Founders, Inc. v. CUC Intern., Inc., 833 F.Supp. 1562, 1575 (S.D. Fla. 1993).7
+IV.
+
+Count IV States a Florida Deceptive and Unfair Trade Practices Act (“FDUTPA”)
+Claim against Counter-Defendants.
+A.
+
+Counter-Plaintiffs Are Allowed to Bring a FDUTPA Claim and a Breach of
+Contract Claim Based on the Same Conduct in the Same Action.
+
+Counter-Defendants contend that Counter-Plaintiffs are prohibited from bringing both a
+breach of contract claim and a FDUTPA claim based on the same or overlapping conduct.
+Florida law is to the contrary. A claimant may bring both a breach of contract claim and a
+FDUTPA claim based on the same or overlapping conduct so long as the conduct underlying the
+breach of contract is itself unfair and/or deceptive. See PNR, Inc. v. Beacon Prop. Mgmt., Inc.,
+842 So.2d 773, 777 n.2 (Fla. 2003) (“To the extent an action giving rise to a breach of contract . .
+
+7
+
+In the Court’s Motion to Strike Order, Defendants were directed to clarify the specific corporate
+entity responsible for fraudulent misrepresentations pled in the 2nd Amended AACT. To the extent the
+Motion to Dismiss is read to raise the same issue, it will be addressed and resolved by Defendants’
+amendment pursuant to the Motion to Strike Order.
+
+-9-
+
+Case 1:16-cv-21199-CMA Document 68 Entered on FLSD Docket 10/17/2016 Page 15 of 19
+
+. may also constitute an unfair or deceptive act, such a claim is and has always been cognizable
+under the FDUTPA.”); Delgado v. J.W. Courtesy Pontiac GMC-Truck, Inc., 693 So.2d 602, 609
+(Fla. Dist. Ct. App. 1997) (finding that economic loss rule did not apply to bar FDUTPA claim
+based on a written sales contract); see also N. Am. Clearing, Inc. v. Brokerage Comp. Sys., Inc.,
+666 F.Supp.2d 1299, 1310 (M.D. Fla. 2009) (holding that conduct amounting to a breach of
+contract can also support a FDUTPA claim “if the conduct underlying the breach is, by itself,
+unfair or deceptive” (citing PNR, Inc., 842 So.2d at 777 n.2)).
+Counter-Plaintiffs’ FDUTPA claim pleads much more than a mere breach of contract –
+the claim pleads in detail a deceptive and unfair scheme to mislead Counter-Plaintiffs, conceal
+relevant information from them, and manipulate them. See 2nd Amended AACT at pp. 27-28,
+36-38, 41-42, 43-49, 61-63. Thus, even though Counter-Defendants’ conduct in breaching the
+License Agreement also supports Counter-Plaintiffs’ FDUTPA claim, the latter claim is broader
+than just a simple breach of contract and involves clear and extensive allegations of deceptive
+and unfair conduct. The FDUTPA claim is perfectly permissible under Florida law.
+B.
+
+Industrial Heat and IPH Have Standing to Bring a FDUTPA Claim against
+Counter-Defendants.
+
+Counter-Defendants’ argument that Industrial Heat and IPH lack standing to bring a
+FDUTPA claim against them is also without merit. Even assuming that Industrial Heat
+transferred all of its rights in the License Agreement to IPH (which it did not, see page 3 supra),
+and even assuming IPH does not have any right to enforce the Term Sheet, Industrial Heat and
+IPH would still have standing to bring a FDUTPA claim against Counter-Defendants because a
+FDUTPA claim does not require the existence of contractual privity. See Fla. Stat. 501.204(1)
+(2015); Nature’s Prods., Inc. v. Natrol, Inc., 990 F.Supp.2d 1307, 1322 (S.D. Fla. 2013), appeal
+docketed, No. 15-11180 (11th Cir. 2015) (“‘A claim under FDUTPA is not defined by the
+
+- 10 -
+
+Case 1:16-cv-21199-CMA Document 68 Entered on FLSD Docket 10/17/2016 Page 16 of 19
+
+express terms of a contract, but instead encompasses unfair and deceptive practices arising out of
+business relationships” (quoting Siever v. BWGaskets, Inc., 669 F.Supp.2d 1286, 1292 (M.D. Fla.
+2009))); see also Kia Motors Am. Corp. v. Butler, 985 So.2d 1133, 1140 (Fla. Dist. Ct. App.
+2008) (citing Rollins, Inc. v. Butland, 951 So.2d 860, 869 (Fla. Dist. Ct. App. 2006) (“[I]t is well
+recognized in this state that a claim for damages under FDUTPA has three elements: (1) a
+deceptive act or unfair practice; (2) causation; and (3) actual damages.”). As alleged in the 2nd
+Amended AACT, Counter-Defendants engaged in a variety of deceptive acts and/or unfair
+practices against both Industrial Heat and IPH, and such acts and practices have caused both
+Industrial Heat and IPH to suffer harm. See 2nd Amended AACT at pp. 27-28, 36-38, 41-42, 4349, 61-63.8 Therefore, both Industrial Heat and IPH have standing to bring a FDUTPA claim
+against Counter-Defendants.
+C.
+
+Counter-Plaintiffs Are Not Required to Satisfy the Heightened Pleading
+Standard of Rule 9(b) in Count IV, But They Do.
+
+Counter-Defendants erroneously assert that Counter-Plaintiffs are required to satisfy the
+heightened pleading standard of Rule 9(b) for their FDUTPA claim. Rule 9(b)’s heightened
+pleading standard, however, does not apply to FDUTPA claims. See Deere Constr., LLC v.
+Cemex Constr. Materials Fl., LLC, 2016 WL 4374970, at *8 (S.D. Fla. July 26, 2016) (finding
+that “[t]he requirements of Rule 9(b) do not apply to claims under the FDUTPA” because,
+among other things, FDUTPA does not require the elements of fraud and it reaches deceptive
+and unfair practices that need not involve fraud (quoting Gaustaldi v. Sunvest Cmtys. USA, LLC,
+637 F.Supp.2d 1045, 1058 (S.D. Fla. 2009))); Sanchez-Knutson v. Ford Motor Co., 52 F.Supp.3d
+
+8
+
+The harms pled include not only the $11.5 million Counter-Plaintiffs already paid to Leonardo,
+but also the transfer of the Plant to Florida to be outside Counter-Plaintiffs’ direct control, the instant
+litigation, and the Counter-Defendants and Third-Party Defendants “obtain[ing] various payments from
+Counter-Plaintiffs for work that one or more .. was performing not to benefit Counter-Plaintiffs, but in
+fact with the goal of harming Counter-Plaintiffs.” 2nd Amended AACT at pp. 61-62.
+
+- 11 -
+
+Case 1:16-cv-21199-CMA Document 68 Entered on FLSD Docket 10/17/2016 Page 17 of 19
+
+1223, 1239 (S.D. Fla. 2014) (citing Toback v. GNC Holdings, Inc., 2013 WL 5206103, at *2
+(S.D. Fla. Sept. 13, 2013) (“[T]his Court is persuaded that Rule 9(b) does not apply to FDUTPA
+claims.”).
+Moreover, even if such standard did apply to FDUTPA claims, Counter-Plaintiffs have
+more than satisfied it by specifically alleging that Counter-Defendants engaged in a variety of
+deceptive acts and/or unfair practices against both Counter-Plaintiffs, and that such acts and
+practices have caused both Counter-Plaintiffs to suffer harm. They have pled extensive details
+about, among other things, Counter-Defendants manipulating them into allowing the Plant to be
+moved to Florida, deceiving them about J.M. Products and its ownership, manipulating the
+operations of the Plant in Florida, concealing information from Counter-Plaintiffs, and
+improperly charging them for services, expenses, and equipment. See 2nd Amended AACT at pp.
+27-28, 36-38, 41-42, 43-49, 61-63. Counter-Plaintiffs have also alleged actual harms they
+suffered as a result of these deceptive and unfair acts. See note 8 supra. Counter-Plaintiffs have
+more than adequately pled a FDUTPA claim against Counter-Defendants.
+CONCLUSION
+For the foregoing reasons, this Court should deny Counter-Defendants’ Motion to
+Dismiss the Counterclaims in the 2nd Amended AACT in its entirety.
+
+- 12 -
+
+Case 1:16-cv-21199-CMA Document 68 Entered on FLSD Docket 10/17/2016 Page 18 of 19
+
+Dated:
+
+October 17, 2016
+
+Respectfully submitted,
+
+/s/ Christopher R. J. Pace
+Christopher R.J. Pace
+cpace@jonesday.com
+Florida Bar No. 721166
+Christopher M. Lomax
+clomax@jonesday.com
+Florida Bar No. 56220
+Erika S. Handelson
+Florida Bar No. 91133
+ehandelson@jonesday.com
+Christina T. Mastrucci
+Florida Bar No. 113013
+JONES DAY
+600 Brickell Avenue, Suite 3300
+Miami, Florida 33131
+Tel: 305-714-9700
+Fax: 305-714-9799
+Attorneys for Defendants and CounterPlaintiffs
+
+- 13 -
+
+Case 1:16-cv-21199-CMA Document 68 Entered on FLSD Docket 10/17/2016 Page 19 of 19
+
+CERTIFICATE OF SERVICE
+I HEREBY CERTIFY that on October 17, 2016, I electronically filed the foregoing with
+the Clerk of the Court by using the CM/ECF system which will send a notice of electronic filing
+to all counsel of record for the parties.
+
+/s/ Christina T. Mastrucci
+Christina T. Mastrucci
+
+- 14 -
+
+

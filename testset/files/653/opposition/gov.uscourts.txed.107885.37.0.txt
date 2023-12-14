@@ -1,0 +1,642 @@
+ESN LLC v. Cisco Systems, Inc. et al
+
+Doc. 37
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE EASTERN DISTRICT OF TEXAS
+TEXARKANA DIVISION
+ESN, LLC,
+Plaintiff,
+v.
+CISCO SYSTEMS, INC., and
+CISCO-LINKSYS, LLC,
+Defendants.
+
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+
+CIVIL ACTION NO. 5:08-CV-20
+
+JURY TRIAL DEMANDED
+
+PLAINTIFF’S OPPOSITION TO DEFENDANTS’
+MOTION TO STAY PENDING REEXAMINATION
+
+Dockets.Justia.com
+
+I.
+
+INTRODUCTION
+Plaintiff, ESN, LLC (“ESN”) opposes Defendants’, Cisco Systems, Inc. and Cisco-
+
+Linksys, LLC (collectively “Cisco”), motion to stay this case pending a final decision on the
+inter partes reexamination (“IPR”) of United States Patent No. 7,283,519 (“the ‘519 Patent”).
+Cisco fails to demonstrate that it will suffer any “hardship or inequity in being required to
+go forward” (Landis v. North American Co., 299 U.S. 248, 255 (1936)) and it fails to carry its
+burden to “show that there is a pressing need for a delay” (Castanho v. Jackson Marine, Inc., 484
+F. Supp. 201, 209 (E.D. Tex. 1980)). Instead, Cisco relies on two primary arguments in support
+of its motion. First, Cisco argues that a stay will not prejudice ESN because the Patent Office
+will purportedly act “expeditiously.” Second, Cisco argues that it is likely that the IPR will
+narrow or eliminate the present litigation and that it is not seeking “two bites at the apple.”
+Cisco’s arguments lack merit.
+Contrary to the misleading statistics cited by Cisco, recent studies show that the time
+necessary to reach a final decision (including internal Patent Office and external Federal Circuit
+appeals) on an IPR is an average of 78.4 months and growing. (Ex. A at 1.) This would likely
+delay a trial in this action (now scheduled for April 2010) until the year 2016 or beyond. This
+undue delay would cause substantial, irreparable prejudice and tactical disadvantages for ESN.
+Moreover, Cisco’s assertion that the IPR will narrow the issues in this case is speculative
+at best and disingenuous at worst. Cisco fails to inform the Court that, in addition to the 13
+alleged prior art references that Cisco has asserted in the IPR, it has identified over 100
+additional alleged prior art products in its P.R. 3-3 invalidity contentions. (Ex. B at 5-7.) Thus,
+Cisco apparently hopes for a scenario where sometime in 2016 or later – after the ‘519 Patent is
+dragged through the Patent Office and appeals and finally determined to be valid over the 13
+
+1
+
+prior art references presented in the IPR – Cisco will retry the validity of the ‘519 Patent in front
+of this Court. It is apparent that Cisco is seeking much more than two bites at the apple, and is
+hoping that the apple will rot before ESN gets its first bite.
+Cisco's Senior Vice President and General Counsel, Mark Chandler, in testifying before
+Congress, criticized potential delays caused by patent reexamination proceedings:
+[A]s the holder of over 2500 patents (and applications for over 4000 more), we
+recognize that the post-grant review process cannot unfairly burden the patent
+holder with dilatory, duplicative and expensive proceedings. The principle that
+justice delayed is justice denied applies with equal force to the patent process.
+(Ex. C at 4 (emphasis added).) Nevertheless, Cisco seeks to delay until the later part of the next
+decade any consideration of Greg Girard's (the inventor and co-owner of Plaintiff, ESN)
+infringement claims while Cisco continues to reap the benefits of Mr. Girard's invention.
+The history of this dispute demonstrates that Cisco’s present motion is consistent with
+Cisco's strategy of winning by attrition and other improper means, rather than on the merits.
+II.
+
+BACKGROUND
+Cisco would have this Court believe that this dispute started on January 31, 2008 with the
+
+filing of the Complaint in this civil action. But, there is more to the story.
+A.
+
+Pre-litigation History of Dispute
+
+•
+
+ESN is a company formed and 50% owned by Greg Girard, the inventor of the ‘519 Patent.
+
+•
+
+The ‘519 Patent is the result of a patent application filed by Mr. Girard on April 14, 2002,
+which is based on a provisional patent application filed on April 13, 2001. (Ex. D, ‘519
+Patent, cover page.) The patent application was published in November 2002. (Id.)
+Through no fault of Mr. Girard, the Patent Office delayed substantive examination of his
+patent application, and the ‘519 Patent did not issue until October 16, 2007. (Id.) The
+Patent Office acknowledged that the examination of Mr. Girard’s patent rights had been
+
+2
+
+unduly delayed by adding nearly three years to the end of the term of the ‘519 Patent. (Id.
+(“the term of this patent is extended … under 35 U.S.C. 154(b) by 1052 days.”).)
+•
+
+After filing for patent protection, Mr. Girard fully intended to manufacture and sell products
+embodying his invention. He formed a company and began preparation to do so. Mr.
+Girard received high praise from industry leaders such as SBC and Verizon for proposed
+products that were to embody the inventions of the ‘519 Patent.1 However, the post-9/11
+collapse of the venture capital and telecommunications markets destroyed his ability to fund
+his start-up company. All he was left with for his intellectual, physical, emotional and
+financial investment and full disclosure of his invention to the public in a patent application
+was a Constitutional promise that his patent application, once issued as a patent, would grant
+him exclusive rights to his invention.
+
+•
+
+Nevertheless, even before the ‘519 Patent issued, Mr. Girard elected to share his invention.
+More than a year before his patent would ultimately issue, Mr. Girard asked Brian Hollander
+(a co-founder of ESN) to help him license or sell his patent rights to an established company
+that could use the rights for the benefit of the public. ESN was formed for this purpose and
+in August 2006 Mr. Hollander approached Cisco. (Ex. E.)
+
+•
+
+Mr. Hollander made frequent efforts to engage Cisco in discussions that could result in a
+reasonable business arrangement.
+
+ESN was eventually directed to Cisco’s retained
+
+outside patent counsel, Baker Botts, purportedly for the purpose of an open and honest
+
+1
+
+E.g.: “Based on our early meetings with Accensus [Mr. Girard’s company], my organization is developing a
+business case based on edge switching for Verizon.”; “When is the earliest we can have one to try?” (Michael
+Weintraub, Director Converged Services, Verizon.) “We've seen nothing comparable from any other vendor.” (Jeff
+Piroga, Sr. Director Technical Product Development, Allegiance.) “The DES solution from Accensus is unlike
+anything else we've come across. If your vision is correct you could have an important jump start on the market.”
+(Andrea Green, Senior Research Analyst at Lehman.) “The sooner we have DES the better -- absolutely.” (VP,
+DSL.net.) "I really like what Accensus is doing. My view is that what you propose will be the prevailing model
+within five years. And, as in the case of SS7 and the analogue to digital conversion, the Edge Switch has ‘legs’ well
+into the next decade and beyond.” (Larry Pearson, Director Product Design, SBC Communications.)
+
+3
+
+discussion of the merits and value of ESN’s patent rights. Instead, Cisco, through Baker
+Botts, attempted to fabricate an inequitable conduct defense by asserting that certain
+allegedly material prior art should have been disclosed by ESN to the Patent Office. (Ex.
+F, letter dated May 26, 2007.)
+•
+
+While ESN did not agree that the prior art identified by Cisco was material to the ‘519
+Patent, in the interest of full disclosure and eliminating Cisco’s fabricated defense, ESN
+disclosed all of the prior art identified by Cisco to the Patent Office. (Ex. G.) Since a
+Notice of Allowability (Ex. H) had already been issued by the Patent Office by the time
+of Baker Botts’ allegation, ESN was forced to file a Request for Continued Examination
+(Ex. G) to make sure the prior art cited by Cisco would be considered by the Patent
+Office, thereby delaying issuance of the ‘519 Patent for over four months.
+
+•
+
+In June 2007, ESN provided a detailed written explanation to Cisco of how Cisco’s
+products would infringe the ‘519 Patent upon issuance and confirmed that it had
+disclosed to the Patent Office all of the prior art asserted by Cisco to be relevant. (Ex. I.)
+Cisco never even acknowledged this communication, much less responded with any noninfringement argument.
+
+•
+
+Importantly, Cisco also failed to notify ESN of any additional allegedly relevant prior art
+during the time between June 2007 and October 16, 2007 when the ‘519 Patent was still
+pending and ESN would have had an opportunity to disclose it to the Patent Office.
+Cisco thereby deprived the Patent Office of the opportunity to review the prior art Cisco
+has now asserted in the IPR prior to the issuance of the ‘519 Patent.
+
+•
+
+Since Cisco demonstrated that it was not interested in negotiating in good faith, ESN was
+left with no alternative but to file a lawsuit against Cisco.
+
+4
+
+B.
+
+Post-Complaint Events
+
+While Cisco and its lawyers’ pre-litigation treatment of Mr. Girard could be considered
+typical of certain large companies that generally disrespect the patent rights of individual inventors,
+its conduct since ESN asserted its patent rights in federal court has been simply outrageous, and
+confirming of its orchestrated strategy to deny Mr. Girard the opportunity to enforce his rights as an
+inventor.
+•
+
+ESN properly and timely filed a first civil action against Cisco on October 16, 2007 in the
+U.S. District Court for the Eastern District of Texas using the correct and only available
+procedure for electronic filing of a Complaint. ESN obtained a case number by filing a civil
+cover sheet on October 15th and then at 12:01 am on October 16th filed its Complaint.
+
+•
+
+Cisco thereafter filed a duplicative Declaratory Judgment Complaint in the U.S. District
+Court for the District of Connecticut. (Ex. J.) Cisco falsely alleged that ESN’s Texas
+complaint was filed on October 15th before the ‘519 Patent issued and, therefore, that
+subject matter jurisdiction did not exist for ESN’s Texas action. (Id. at 2-3, ¶10.)
+
+•
+
+Cisco then began an anonymous public relations campaign intended to destroy the
+reputation of Mr. Girard, ESN and their attorneys through the “Patent Troll Tracker” blog of
+its in-house patent counsel assigned to oversee the ESN lawsuit, Rick Frenkel. Mr. Frenkel
+published the following on October 17th:
+Troll Jumps the Gun, Sues Cisco Too Early
+****
+A company called ESN sued Cisco for patent infringement on October 15th, while the
+patent did not issue until October 16th, I looked, and ESN appears to be a shell entity ….
+****
+One other interesting tidbit: Cisco appeared to pick up on this, very quickly. Cisco filed
+a declaratory judgment action (in Connecticut) yesterday, the day after ESN filed its null
+complaint. Since Cisco’s lawsuit was filed after the patent issued, it should stick in
+Connecticut. (Ex. K at 1-2.)
+
+•
+
+On October 18th Mr. Frenkel published the following accusations:
+
+5
+
+ESN Convinces EDTX Court Clerk To Alter Documents To Try To Manufacture
+Subject Matter Jurisdiction Where None Existed
+****
+You can’t change history, and it’s outrageous that the Eastern District of Texas is
+apparently, wittingly or unwittingly, conspiring with a non-practicing entity to try to
+manufacture subject matter jurisdiction. (Ex. K at 1.)
+•
+
+Cisco has admitted that it was responsible for the statements made in Mr. Frenkel’s Patent
+Troll Tracker blog. (Ex. L at 4-5.)
+
+•
+
+The Patent Troll Tracker blog was widely read by those in patent law circles – boasting a
+readership of over 100,000. These defamatory publications were obviously intended to
+materially influence those that would ultimately determine the merits of ESN’s dispute
+with Cisco, including (1) federal judges and law clerks, (2) potential jurors and (3) U.S.
+Patent Office examiners whom Cisco knew would be examining Cisco’s request for
+reexamination of the ‘519 Patent.2
+
+•
+
+Cisco then requested that ESN agree to a stand-down period to discuss settlement. On
+November 2, 2007, Cisco represented to the Court in Connecticut that it desired “a 90-day
+stand-down period in which we are going to work in earnest to settle the dispute.” (Ex. N at
+3-4.) ESN agreed to dismiss its original Texas action without prejudice for this purpose.
+
+•
+
+Cisco’s representation to the Connecticut Court can only be viewed as less than genuine in
+light of its subsequent behavior. Cisco refused to disclose any financial data for the accused
+products, refused to discuss any non-infringement defense, waited until January 10, 2008 to
+identify an invalidity defense based on two prior art patents3 and sent Mr. Frenkel to the
+only in-person settlement meeting with ESN. (See Ex. O, P and Q.) The only intention
+evidenced by this behavior was to delay and buy time to prepare its request for IPR.
+
+2
+
+This is not mere speculation. The information considered by the Patent Office prior to granting Cisco’s request for
+inter partes reexamination included several articles by a law professor that comment on and perpetuate the
+defamatory and prejudicial statements of Mr. Frenkel. (See Ex. M (referencing the “Patently-O” blog).)
+3
+During settlement discussions, Cisco did not make any reference to the 11 other prior art references that it would
+assert in its IPR request, which was filed in the Patent Office only one week after this lawsuit was filed.
+
+6
+
+III.
+
+ARGUMENT
+In the interest of fairness and due process, and under the precedent of this Court, Cisco’s
+
+motion should be denied. Texas MP3 Tech., Ltd. v. Samsung Electronics Co., Ltd., 2007 WL
+3219372 at *2 (E.D. Tex. 2007). ESN has a right to a just and speedy trial. Fed. R. Civ. P. 1.
+“[T]he Court must be aware that a request for [re]examination can be used as a tactical tool to
+delay a case and impose costs, with no real expectation that any controversy will be resolved.”
+Anascape, Ltd. v. Microsoft Corp., 475 F. Supp. 2d 612, 615 (E.D. Tex. 2007). Cisco’s conduct
+throughout the parties’ dispute demonstrates that its motion to stay pending IPR is nothing more
+than another attempt to delay the inevitable, without any realistic expectation that the issues
+raised by this action will be meaningfully narrowed or eliminated.
+A “resolution of a motion to stay must begin with consideration of the landmark decision
+in Landis v. North American Co., 299 U.S. 248 (1936).” Unidisco, Inc. v . Schattner, 1981 U.S.
+Dist. LEXIS 14890, *13 (D. Md. 1981). In Landis, the Supreme Court held that a party moving
+“for a stay must make out a clear case of hardship or inequity in being required to go forward, if
+there is even a fair possibility that the stay for which he prays will work damage to someone
+else.” Landis, 299 U.S. at 255. To that end, the “burden is squarely on the party seeking the stay
+to show that there is a pressing need for a delay.” Castanho, 484 F. Supp. at 209.
+While a court has discretion to grant a stay if warranted by the particular circumstances at
+play, there is absolutely no obligation “to stay judicial resolution in view of [Patent Office]
+reexaminations.” Viskase Corp. v. Am. Nat’l Can Co., 261 F.3d 1316, 1328 (Fed. Cir. 2001).
+Instead, the court should “tread carefully” in determining whether a stay is necessary, “since a
+party has a right to a determination of its rights and liabilities without undue delay.” Tyco
+Healthcare, LP v. Medrad, 2005 U.S. Dist. LEXIS 42869, at *24 (S.D. Ohio 2005); Castanho,
+
+7
+
+484 F. Supp. at 209 (“Because each party to a lawsuit has a right to an expe[ditious]
+determination of his claim, . . . the district court must weigh competing interests in order to reach
+a fair decision.”).
+This Court has focused on three primary factors when determining whether to grant a stay
+pending reexamination: “(1) whether a stay will unduly prejudice or present a clear tactical
+disadvantage to the nonmoving party, (2) whether a stay will simplify the issues in question and
+trial of the case, and (3) whether discovery is complete and whether a trial date has been set.”
+Biax Corp. v. Fujitsu Computer Sys. Corp., 2007 U.S. Dist. LEXIS 12973, at *3 (citation
+omitted). These factors weigh heavily in favor of denying Cisco’s motion to stay this action.
+A.
+
+A Stay Would Cause Prejudice And Tactical Disadvantage To ESN
+
+The stay requested by Cisco would likely delay ESN’s right to have its claims against
+Cisco heard in court until the year 2016 or beyond. Such a lengthy delay, on its face, presents a
+clear case of substantial prejudice. This would be 15 years or more after Mr. Girard sought
+patent protection.
+
+ESN’s right to exclusivity would be essentially eviscerated.
+
+Practical
+
+concerns of lost evidence, fading memories and even deceased parties, witnesses and chosen trial
+counsel become very real over such a time period. Moreover, this Court, rather than the Patent
+Office, is better suited to resolve the validity issues presented by Cisco’s IPR due to the lack of
+discovery tools and limited fact finding ability of the Patent Office. For these same reasons,
+ESN’s rebuttal of Cisco’s invalidity defenses will be severely hampered if this case is stayed.
+1.
+
+ESN Will Be Prejudiced By An Indefinitely Lengthy Stay
+
+In Biax, this Court held that “the potential delay for an indefinite period” pending an ex
+parte reexamination “would likely prejudice” the patentee plaintiff. 2007 U.S. Dist. LEXIS
+12973, at *4 (E.D. Tex. 2007).
+
+Evidence in that case reflected an average ex parte
+
+8
+
+reexamination pendency of 22.6 months, with the possibility of an additional 24 months for
+appellate review. Id. In this case, however, an inter partes reexamination is at issue and poses a
+significantly longer and indeterminate potential delay in proceedings due to the fact that both the
+patentee and the requester have the right to appeal an adverse decision. Despite a mandate for
+“special dispatch,” the time required to complete an IPR is much longer than reflected in the data
+cited by Cisco, which in its presentation is both incomplete and highly misleading. See Roger
+Shang & Yar Chaikovsky, Inter Partes Reexamination of Patents: An Empirical Evaluation, 15
+Tex. Intell. Prop. L.J. 1, 16 (2006) (“Since the first inter partes reexamination request was filed
+in 2001, only three proceedings have been completed with the issuance of a reexamination
+certificate, and the parties did not appeal to the BPAI or the Federal Circuit in these
+proceedings.”)4.
+Cisco’s optimism in predicting a speedy resolution of the IPR is baseless. The Institute
+for Progress, an independent organization, recently issued an in-depth report analyzing IPR
+statistics. (See Ex. A, Report by The Institute for Progress (April 2008).) Its findings include:
+•
+
+“The Patent Office has reportedly set a target of 24 months to complete the reexam
+process, but so far, the actual time to conclude an inter partes reexam is far beyond
+this target. This can not help but raise significant concern to anyone who is interested
+in the efficient administration of justice in the U.S. Patent system.” (Ex. A at 6.)
+
+•
+
+“Inter partes reexamination requests are rising rapidly – a 6X increase between 2003
+and 2007 [from 24 to 142].” (Id. at 1.)
+
+•
+
+“To date [since the first IPR started in 2001], there has never been a single inter
+partes reexamination that has gone through the entire reexamination process
+(including appeal) and made it to completion. (Id.)
+
+•
+
+The Patent Office’s report citing the average pendency of an inter partes case as
+28.5 months is “mathematically accurate” but “highly misleading. . . . An
+appropriate reading of the statistic is that the Patent Office takes two years to
+dispose of a patent through inter partes reexam if the patent holder doesn’t care
+
+4
+
+This article focused on Patent Office data through 2005. The total number of reexamination certificates issued as
+of March 2008 totaled 17, still a miniscule fraction of the 390 total requests filed at that time. (See Ex. R.)
+
+9
+
+to defend its rights. It takes significantly longer to get to a resolution if the
+patent holder participates in the process.” (Id. at 5 (emphasis added).)
+•
+
+“Although no inter partes reexam has ever been completed after being appealed,
+the average pendency for appealed inter partes reexam is 78.4 months (assuming
+no rework by the patent office or secondary appeal) – a 95% confidence interval
+would put the pendency between 5 and 8 years.” (Id. at 1 (emphasis added).)
+
+ESN will most certainly defend its rights vigorously during the IPR and, thus, the data
+showing an average pendency of appealed IPRs as 78.4 months (and growing every day) means
+that Cisco is effectively asking to delay this action by six and a half years or more.
+In Texas MP3 Tech., this Court recognized that an IPR would likely take three years plus
+the time for any appeals and found that such a delay would unfairly prejudice the plaintiff
+patentee. 2007 WL 3219372, at * 1. The more recently available statistics establish that ESN
+will suffer even greater delay and prejudice than was persuasive in Texas MP3 Tech.
+Cisco appears to argue that the harm to ESN caused by the delay would be entirely
+reparable by money damages.
+
+However, the Supreme Court explicitly rebutted this
+
+consideration in its recent eBay, Inc. v. MercExchange decision, which recognized that
+individual inventors, such as ESN’s Mr. Girard may be able to meet the test for an injunction,
+including establishing irreparable harm:
+some patent holders, such as university researchers or self-made inventors might
+reasonably prefer to license their patents, rather than undertake efforts to secure
+the financing necessary to bring their works to market themselves. Such patent
+holders may be able to satisfy the traditional four-factor test and we see no basis
+for categorically denying them the opportunity to do so.
+547 U.S. at 393.5 The stay requested by Cisco essentially eliminates ESN’s right to exclusivity
+and effectively grants Cisco a compulsory license until at least 2016.
+
+5
+
+Cisco's Senior Vice President and General Counsel, Mark Chandler, recognized this special treatment accorded to
+self-made inventors in his testimony before Congress. (Ex. C at 6.)
+
+10
+
+2.
+
+A Stay Would Create Tactical Disadvantages to ESN
+
+In addition to causing the “fundamental harm of delaying final resolution,” staying this
+case for an indefinite period of time threatens to prejudice ESN’s ability to fairly prosecute its
+patent infringement action when the stay is finally lifted. Biax, 2007 U.S. Dist. LEXIS 12973, at
+*4. Courts have recognized that “crucial witnesses are more likely to be located if discovery is
+allowed to proceed now, rather than later.” Anascape, 475 F. Supp. 2d at 617. Given the very
+real possibility that “witnesses may become unavailable, their memories may fade, and evidence
+may be lost while the PTO proceedings take place,” ESN would be at a disadvantage if the case
+is stayed. Gladish v. Tyco Toys, Inc., 1993 U.S. Dist. LEXIS 20211, at **5-6 (E.D. Cal. 1993).
+Further, a District Court rather the Patent Office is the most appropriate forum to
+consider Cisco’s invalidity defenses. Cisco’s defenses presented in this lawsuit and in the IPR
+include numerous arguments that the claims of the ‘519 Patent are invalid under 35 U.S.C. 103
+as being obvious.
+
+Any determination of obviousness must include an examination of the
+
+evidence of secondary considerations of non-obviousness. Knoll Pharm. Co. v. Teca Pharm.
+USA, Inc., 367 F.3d 1381, 1385 (Fed. Cir. 2004) (“The so-called ‘objective’ criteria must always
+be considered, Graham v. John Deer Co., 383 U.S. 1, 17-18 (1966), and given whatever weight
+is warranted by the evidence presented.”).
+The secondary considerations of non-obviousness include, inter alia, (1) the commercial
+success of the claimed inventions, including the success of an infringer’s products; (2) long-felt,
+but unsolved need for the invention and prior failed solutions; (3) copying of the inventions by
+the infringer; (4) praise for, professional approval of, and laudatory statements regarding the
+inventions; and (5) the infringer’s attempt to obtain patents on the same or similar subject
+
+11
+
+matter.6
+
+Much of the evidence supporting these considerations would only be available through
+
+discovery of Cisco and/or third parties pursuant to the Federal Rules of Civil Procedure. Staying
+this action would prevent ESN from discovering critically relevant evidence from Cisco,
+including proof of infringement and financial data establishing the enormous commercial success
+of its infringing products, evidence of Cisco’s prior failed products, and evidence that Cisco
+directly or indirectly copied Mr. Girard’s inventions.
+Additionally, the fact-intensive nature of the secondary considerations necessitates a fact
+finder with a scope of evaluation beyond that which is within the Patent Office’s realm. See U.S.
+Surgical Corp. v. Hosp. Prods. Int’l Pty., 701 F. Supp. 314, 337 n.24 (D. Conn. Dec. 2, 1988)
+aff’d U.S. Surgical Corp. v. Hosp. Prods. Int’l Pty, 914 F.2d 271 (Fed. Cir. 1990) (declining to
+defer to the PTO on secondary considerations, “. . . in light of the evidence on this record
+regarding secondary considerations or commercial success, the import of which may be
+understood without the benefit of any particular expertise, the Court does not defer to that
+portion of the reexamination decision.”).
+Thus, not only is this Court the best forum since it will provide a more timely resolution,
+it is the best forum for the factual development of the bases upon which the legal judgment of
+validity rests.7 Denying ESN the best forum would operate as a severe tactical disadvantage.
+B.
+
+A Stay Would Not Simplify The Issues At Trial
+
+Contrary to Cisco’s assertions, there is no reason to believe that granting its motion will
+result in simplifying the issues at trial. Cisco’s invalidity defense in this lawsuit relies on over
+6
+
+See, e.g., Graham, 383 U.S. at 17-18; National Steel Car, Ltd. v. Canadian Pacific Railway, Ltd., 254 F. Supp. 2d
+527, 570 (E.D. Penn. 2003); Mosinee Paper v. James River, 1992 U.S. Dist. LEXIS 2425, at *15 (E.D. Wis. 1992).
+7
+Indeed, ESN may seek to suspend the inter partes reexamination on these grounds. See Sony Computer
+Entertainment America, Inc. v. Dudas, 2006 U.S. Dist. Lexis 36856, *17-18 (E.D. Va. 2006) (“Congress has
+provided that the PTO may suspend inter partes review ‘for good cause.’ See 35 U.S.C. § 314. . . . the PTO has
+recognized . . . that concurrent litigation may provide good cause to suspend inter partes reexamination. See 37
+C.F.R. § 1.987 (‘If a patent in the process of inter partes reexamination is or becomes involved in litigation, the
+[PTO] shall determine whether or not to suspend the inter partes reexamination proceeding.’)”).
+
+12
+
+100 alleged prior art products. (See Ex. 2 at 5-7, Cisco’s P.R. 3-3 Invalidity Contentions.) By
+statute, the IPR is limited to the review of the 13 prior art patents and printed publications
+asserted therein by Cisco. At trial, Cisco would be estopped from asserting the 13 patents and
+printed publications, but it will still attempt to make the same invalidity arguments based on the
+more than 100 additional alleged prior art products. It would be far more expeditious to consider
+the prior art at one time and in one forum.
+Cisco cites the fact that its request for IPR has been granted by the Patent Office as if that
+fact alone indicates that the ‘519 Patent will ultimately be cancelled. To the contrary, “virtually
+all requests for inter parties reexamination are granted.” (Ex. A at 1; see also Ex. S, USPTO
+Table 13B: Inter Partes Reexamination (FY 2003 – FY 2007) (in 2007, 118 of 119 IPR requests
+granted).) The fact that the Patent Office granted Cisco’s request is meaningless in predicting
+the eventual outcome. (See Ex. A at 4 (“Whatever threshold has been established by the Patent
+Office for determining a “significant new question” [of patentability], few requestors have been
+unable to clear it.”).)
+Cisco also makes much of the fact that pursuant to its request for reexamination, the
+Patent Office rejected the claims of the ‘519 Patent. Predicting success and simplification of the
+case on this fact is naïve on Cisco’s part. As seasoned practitioners are well aware, rejecting
+claims in a first office action is standard practice. See NTP, Inc. v. Research In Motion, Ltd., 397
+F. Supp.2d 785 (E.D. Va. Nov. 30, 2005) (denying a stay pending reexamination even though the
+asserted claims were rejected in the first office action).
+Similarly, Cisco’s assertion that it is “highly likely” that the IPR will result in the
+cancellation of all claims is not supported by the data. Cisco cites to data purporting to show that
+57% of all patent claims subject to IPR are being invalidated. While this is a convenient statistic,
+
+13
+
+it is misleading. This number is based on only 30 post-final office action proceedings. A sample
+size of 30 is simply too small to be significant. Indeed, the authors of the article cited by Cisco
+in its motion even admit that “this group of thirty proceedings still does not provide a large data
+set.” Shang & Chaikovsky, at 11. Nor is this statistic probative of the outcome in this case.
+Cisco further places great emphasis on the number of rejections made by the Patent
+Office without any discussion of the merits or quality of those rejections. Cisco failed to inform
+the Court, however, that the Patent Office’s rejections are duplicative, overlapping, and
+numerous primarily because they parrot Cisco’s 500+ page reexamination request. In its first
+Office Action, the Patent Office has adopted Cisco’s factual assertions about the prior art without
+significant independent analysis. This first volley should not be given any weight as an indicator
+of the outcome of the match.
+In sum, the IPR would only eliminate a small fraction of the prior art issues raised by
+Cisco. Cisco’s hope that the ‘519 Patent will be entirely cancelled is purely “speculative and
+does not support a stay.” Biax, 2007 U.S. Dist. LEXIS 12973, at *5.
+C.
+
+The Stage of Litigation Does Not Favor A Stay
+
+This case may be in its relatively early stages, but that fact in itself does not favor a stay.
+See Sighting Sys. Inst., LLC v. Prestige Law Enforcement, Inc., U.S. Dist. LEXIS 64698, at *11
+(N.D. Tex. Sept. 11, 2006) (“Although the advanced nature of a case approaching trial may
+weigh heavily against granting a stay, the opposite inference—that a suit in the early stages
+should weigh heavily in favor of a stay—is not true.”); see also Biax, 2007 U.S. Dist. LEXIS
+12973, at *6 (denying a stay where the case was in its early stages). Any other rule would
+encourage patent infringers so obviously intent on gaming the patent system to secure an
+
+14
+
+indeterminately lengthy reprieve from accounting for their infringing activities simply by filing a
+quick request for reexamination with the Patent Office.
+The Court has already set a detailed case schedule, including a Markman hearing in June
+2009 and a trial date in April 2010. Notably, on April 16, 2008, six days prior to the April 22,
+2008 Case Management Conference hearing, the Patent Office had already ordered Cisco’s IPR
+to proceed. (Ex. T.) Nevertheless, Cisco did not at that time request a stay of the case. It
+appears that Cisco hoped to gain a tactical advantage by purposefully waiting to move for a stay
+until after ESN served its P.R. 3-1 and 3-2 Disclosures, including Infringement Contentions, and
+responses to a first set of Interrogatories.
+To date, the parties have exchanged infringement and invalidity contentions as well as
+interrogatory answers. Discovery is well underway with over 20,000 pages of documents having
+been produced. While Cisco may believe “no significant resources have been expended,” ESN
+and Mr. Girard, who do not have the multi-billion dollar resources of Cisco, feel otherwise.
+IV.
+
+CONCLUSION
+For the foregoing reasons, Plaintiff ESN respectfully asks the Court to deny Cisco’s
+
+motion to stay this case pending reexamination of the ‘519 Patent.
+Respectfully submitted,
+/s/ Peter J. McAndrews________________
+George P. McAndrews
+Thomas J. Wimbiscus
+Peter J. McAndrews
+Gerald C. Willis
+McAndrews, Held & Malloy, Ltd.
+500 West Madison, Suite 3400
+Chicago, IL 60661
+Telephone (312) 775-8000
+Fax (312) 775-8100
+pmcandrews@mcandrews-ip.com
+Eric M. Albritton
+Texas State Bar No. 00790215
+Albritton Law Firm
+15
+
+P.O. Box 2649
+Longview, Texas 75606
+Telephone (903) 757-8449
+Fax (903) 757-2323
+ema@emafirm.com
+T. John Ward Jr.
+Texas State Bar No. 00794818
+Ward & Smith Law Firm
+111 West Tyler Street
+Longview, Texas 75601
+Telephone (903) 757-6400
+Fax (903) 757-2323
+jw@jwfirm.com
+Attorneys for Plaintiff ESN, LLC
+
+16
+
+CERTIFICATE OF SERVICE
+I hereby certify that on the date this proof of service is signed below, I served the
+foregoing:
+PLAINTIFF’S OPPOSITION TO DEFENDANTS’
+MOTION TO STAY PENDING REEXAMINATION
+via the Court’s Electronic Filing System, on the following:
+Charles K Verhoeven
+Quinn Emanuel Urquhart Oliver & Hedges, LLP
+50 California St., 22nd Floor
+San Francisco, CA 94111
+charlesverhoeven@quinnemanuel.com
+Victoria F. Maroulis
+Quinn Emanuel Urquhart Oliver & Hedges, LLP
+555 Twin Dolphin Dr., Suite 560
+Redwood Shores, CA 94065
+victoriamaroulis@quinnemanuel.com
+Sam Baxter
+McKool Smith, P.C.
+104 E. Houston Street, Suite 300
+P.O. Box 0
+Marshall, Texas 75670
+sbaxter@mckoolsmith.com
+Garrett W. Chambers
+McKool Smith, P.C.
+300 Crescent Court, Suite 1500
+Dallas, Texas 75201
+gchambers@mckoolsmith.com
+
+Date: July 15, 2008
+
+_/s/ Peter J. McAndrews________________
+Peter J. McAndrews
+
+17
+
+

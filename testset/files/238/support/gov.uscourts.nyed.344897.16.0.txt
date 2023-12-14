@@ -1,0 +1,519 @@
+Case 2:13-cv-03914-JS-ARL Document 16 Filed 10/11/13 Page 1 of 18 PageID #: 123
+
+UNITED STATES DISTRICT COURT
+EASTERN DISTRICT OF NEW YORK
+--------------------------------------------------------------------------X
+BRADLEY TANKIEWICZ,
+13-CV-3914 (JS)(ARL)
+Plaintiff,
+-againstUNITED SERVICE WORKERS UNION LOCAL 74
+and PINELAWN CEMETARY,
+Defendants.
+--------------------------------------------------------------------------X
+
+LOCAL 74’S MEMORANDUM OF LAW IN SUPPORT OF
+ITS MOTION TO DISMISS PLAINTIFF’S COMPLAINT
+
+O’DWYER & BERNSTIEN, LLP
+Attorneys for Defendant
+United Service Workers Union Local 74
+52 Duane Street, 5th Floor
+New York, NY 10007
+(212) 571-7100
+
+Case 2:13-cv-03914-JS-ARL Document 16 Filed 10/11/13 Page 2 of 18 PageID #: 124
+
+TABLE OF CONTENTS
+
+PRELIMINARY STATEMENT ........................................................................................1
+FACTS ..................................................................................................................................1
+ARGUMENT ........................................................................................................................3
+POINT I
+STANDARDS APPLICABLE ON THIS RULE 12(b)(6) MOTION TO DISMISS ............3
+POINT II
+PLAINTIFF FAILS TO STATE A HYBRID LMRA SECTION 301/BREACH
+OF THE DFR CLAIM ...........................................................................................................5
+A. Plaintiff fails to state a claim for breach of the
+duty of fair representation ...................................................................................5
+B. Plaintiff fails to state a claim for breach of the CBA by Pinelawn .......................10
+POINT III
+THE COURT SHOULD DENY PLAINTIFF LEAVE TO AMEND THE
+COMPLAINT ........................................................................................................................10
+CONCLUSION ....................................................................................................................12
+
+i
+
+Case 2:13-cv-03914-JS-ARL Document 16 Filed 10/11/13 Page 3 of 18 PageID #: 125
+
+TABLE OF AUTHORITIES
+Case
+
+Page(s)
+
+Amna v. New York State Dept. of Health,
+2009 WL 6497844 (E.D.N.Y. Sept. 3, 2009),
+report and recommendation adopted,
+2010 WL 2076015 (E.D.N.Y. May 20, 2010) ………………………………… 11
+Ashcroft v. Iqbal,
+556 U.S. 662, 129 S.Ct. 1937 (2009) …………………………………………... 3
+Bell Atlantic Corp. v. Twombly,
+550 U.S. 544 127 S. Ct. 1955 (007) ………………………………………….. 3, 4
+Carrion v. Enter. Ass’n, Metal Trades Branch Local Union 638,
+227 F.3d 29 (2d Cir. 2000) ……………………………………………………... 5
+Chepilko v. City of New York,
+2010 WL 3926186 (E.D.N.Y. Sept. 8, 2010) ………………………………….. 11
+Dougherty v. Town of N. Hempstead Bd. of Zoning Appeals,
+282 F.3d 83, 88 (2d Cir. 2002)), report and recommendation adopted,
+2010 WL 3909211 (E.D.N.Y. Sept. 27, 2010)…………………………………. 11
+Giglio v. Buonnadonna Shoprite, LLC,
+2009 WL 3150431 (E.D.N.Y. Sept. 25, 2009) ………………………………. 5, 6
+Gvozdenovic v. United Airlines, Inc.,
+933 F.2d 1100 (2d Cir. 1991) …………………………………………………... 6
+Health-Chem Corp. v. Baker,
+915 F.2d 805 (2d Cir.1990) …………………………………………………….. 11
+Heller v. Consolidated Rail Corp.,
+331 Fed.Appx. 766, 2009 WL 1448977 (2d Cir. 2009) ……………………….. 11
+Hoy v. Inc. Village of Bayville,
+765 F.Supp.2d 158, 163 (E.D.N.Y. 2011) …………………………………… 1, 2
+Jordan v. Viacom Outdoor Group,
+475 F.Supp.2d 440, 444 (S.D.N.Y. 2007) ………………………………………. 5
+Llanos v. Brookdale Univ. Hosp. & Med. Center,
+2011 WL 809615 (E.D.N.Y. Mar. 2, 2011) …………………………………. 6, 8
+
+ii
+
+Case 2:13-cv-03914-JS-ARL Document 16 Filed 10/11/13 Page 4 of 18 PageID #: 126
+
+Lucente v. International Business Machine Corp.,
+310 F.3d 243, 258 (2d Cir. 2002) ………………………………………………. 11
+Moore v. Roadway Express, Inc.,
+2008 WL 819049 (E.D.N.Y. Mar. 25, 2008) ……………………………………. 8
+Nicholls v. Brookdale Univ. Hospital and Medical,
+2005 WL 1661093 (E.D.N.Y. July 14, 2005) …………………………………… 8
+Sanozky v. Int'l Ass'n of Machinists & Aerospace Workers,
+415 F.3d 279 (2d Cir.2005) ……………………………………………………… 8
+Scroxton v. Town of Southold,
+2010 WL 1223010 (E.D.N.Y. Mar. 24, 2010) ………………………………….. 3
+Semper v. New York Methodist Hosp.,
+786 F. Supp. 2d 566, (E.D.N.Y. 2011) ……………………………………….. 7, 8
+Sim v. New York Mailers’ Union Number 6,
+166 F.3d 465 (2d Cir. 1999) …………………………………………………….. 9
+Smith v. Drug, Chem., Cosmetic, Plastics & Affiliated Indus. Warehouse Employees
+Local 815,
+943 F.Supp. 224, 242 (E.D.N.Y. 1996) ………………………………………... 3
+Spellacy v. Airline Pilots Assoc. International,
+156 F.3d 120 (2d Cir. 1998) …………………………………………………6, 8, 9
+U.S. v. Bonanno Organized Crime Family of La Cosa Nostra,
+879 F.2d 20 (2d Cir. 1989) …………………………………………………….. 4
+Vaca v. Sipes,
+386 U.S. 171, 87 S.Ct. 903 (1967) …………………………………………….. 3
+Vaughn v. Air Line Pilots Ass’n, Intern.,
+604 F.3d 703 (2d Cir. 2010) ……………………………………………………. 9
+White v. White Rose Food,
+237 F.3d 174 (2d Cir. 2001) ……………………………………………………. 10
+
+iii
+
+Case 2:13-cv-03914-JS-ARL Document 16 Filed 10/11/13 Page 5 of 18 PageID #: 127
+
+Statutes and Rules
+
+Page(s)
+
+Fed. Rule Civ. Proc. 8(a)(2) ………………………………………………………… 3
+29 U.S.C. § 185……………………………………………………………………… 5
+29 U.S.C. § 151 et seq. ……………………………………………………………... 5
+
+iv
+
+Case 2:13-cv-03914-JS-ARL Document 16 Filed 10/11/13 Page 6 of 18 PageID #: 128
+
+PRELIMINARY STATEMENT
+This memorandum of law is submitted on behalf of defendant United Service Workers
+Union Local 74 (hereinafter “Local 74”) in support of its motion to dismiss plaintiff’s complaint
+pursuant to Rule 12(b)(6).
+The complaint should be dismissed as against Local 74 for failure to state a claim, as
+plaintiff does not sufficiently allege that Local 74 violated its duty of fair representation in this
+matter, or that defendant Pinelawn Cemetery (“Pinelawn”) violated the applicable collective
+bargaining agreement by terminating plaintiff’s employment. Additionally, leave to amend the
+complaint or re-file should be denied by the Court as the deficiencies in plaintiff’s complaint
+cannot be cured, therefore, any amendment or re-filing of the claim against Local 74 would be
+futile.
+FACTS 1
+Defendant Local 74 is a labor organization representing certain employees of defendant
+Pinelawn Cemetery (“Pinelawn”). (Doc. 1, Compl. ¶¶11-12) Local 74 and Pinelawn are
+signatories to a collective bargaining agreement (“CBA”), which, inter alia, sets the terms and
+conditions of employment of employees such as plaintiff. (Id. ¶9; CBA between Local 74 (or its
+predecessor unions) and Pinelawn, a copy of which is annexed as Exhibit “A” to the Declaration
+of Zachary Harkin, Esq.) 2 Plaintiff is an individual previously employed by Pinelawn and
+represented by Local 74 pursuant to the CBA. (Id.)
+
+1
+
+The properly alleged facts contained in the complaint are deemed true only for purposes of this motion.
+
+2
+
+Consideration of the CBA as part of the instant Rule 12(b)(6) motion is appropriate because it is
+incorporated by reference in plaintiff’s complaint. See Hoy v. Inc. Village of Bayville, 765 F.Supp.2d
+158, 163 (E.D.N.Y. 2011)(stating that a court may consider, inter alia, documents that are incorporated
+by reference in the complaint on a Rule 12(b)(6) motion to dismiss).
+
+1
+
+Case 2:13-cv-03914-JS-ARL Document 16 Filed 10/11/13 Page 7 of 18 PageID #: 129
+
+On or about March 23, 2013, plaintiff was terminated from his employment with
+Pinelawn for having prior knowledge of a suspected act of arson that destroyed a bulldozer
+belonging to Pinelawn and failing to warn Pinelawn or contact law enforcement regarding same.
+(Id. ¶66; March 26, 2013 termination letter, a copy of which is annexed as Exhibit “B” to the
+Declaration of Zachary Harkin, Esq.) 3 Plaintiff’s termination was also based on the fact that
+Pinelawn believed he lied to Pinelawn’s investigators when he denied any knowledge of the
+incident in question, and plaintiff’s extremely poor work record and disciplinary history. (March
+26, 2013 termination letter, Ex. “B” to Harkin Decl.) On April 3, 2013, Local 74 grieved this
+termination on behalf of plaintiff. (Id. ¶72; April 3, 2013 grievance letter, a copy of which is
+annexed as Exhibit “C” to the Declaration of Zachary Harkin, Esq.) 4 On or about April 23,
+2013, plaintiff, Local 74, and Pinelawn attended a grievance meeting regarding a prior
+disciplinary incident from December 2012. (Compl. ¶73) At this meeting, Local 74
+representative Mike Herron advised plaintiff that he would get back to him regarding his April 3,
+2013 termination grievance. (Compl. ¶75) Local 74 declined to proceed to arbitration with
+respect to plaintiff’s April 3, 2013 termination grievance. (Compl. ¶76)
+Under the CBA, Pinelawn must have just cause to discipline or terminate covered
+employees. (CBA, Harkin Decl. Ex. “A”) The CBA does not give an individual employee the
+right to an arbitration hearing regarding his or her termination, does not entitle the employee to
+
+3
+
+Consideration of the March 26, 2013 termination letter as part of the instant Rule 12(b)(6) motion is
+appropriate because the termination letter is incorporated by reference in the complaint, and integral to the
+complaint and relied upon therein. See Hoy v. Inc. Village of Bayville, 765 F.Supp.2d at 163 (allowing
+consideration of “documents ‘integral’ to the complaint and relied upon in it, even if not attached or
+incorporated by reference”).
+4
+
+Consideration of the April 3, 2013 grievance letter as part of the instant Rule 12(b)(6) motion is
+appropriate because the grievance letter is incorporated by reference in the complaint, and integral to the
+complaint and relied upon therein. See Hoy supra.
+
+2
+
+Case 2:13-cv-03914-JS-ARL Document 16 Filed 10/11/13 Page 8 of 18 PageID #: 130
+
+reinstatement or back pay, and does not provide an individual employee with a reasonable time
+to prepare a defense. (Id.) The only parties to the CBA and arbitration agreement found therein
+are Local 74 (or its predecessors) and Pinelawn. (Id.) Under the CBA and controlling legal
+authority, only Local 74 has the authority to arbitrate grievances arising under the CBA. (Id.) 5
+ARGUMENT
+POINT I
+STANDARDS APPLICABLE ON THIS RULE 12(b)(6) MOTION TO DISMISS
+To survive a motion to dismiss, the proposed amended complaint “must contain sufficient
+factual matter, accepted as true, to ‘state a claim to relief that is plausible on its face.’” Ashcroft
+v. Iqbal, 556 U.S. 662, 129 S.Ct. 1937, 1949 (2009) (quoting Bell Atlantic Corp. v. Twombly,
+550 U.S. 544, 570, 127 S. Ct. 1955 (2007)). “A claim has facial plausibility when the plaintiff
+pleads factual content that allows the court to draw the reasonable inference that the defendant is
+liable for the misconduct alleged.” Id., citing Twombly, 550 U.S. at 556, 127 S. Ct. 1955.
+“[O]nly a complaint that states a plausible claim for relief survives a motion to dismiss.”
+Iqbal, 556 U.S. 662, 129 S.Ct. at 1950. “The complaint must be enough to raise a right to relief
+above the speculative level.” Scroxton v. Town of Southold, 2010 WL 1223010, at *3
+(E.D.N.Y. Mar. 24, 2010) (citing Twombly, 550 U.S. 544, 127 S.Ct. 1955). “[W]here the wellpleaded facts do not permit the court to infer more than the mere possibility of misconduct, the
+complaint has alleged-but it has not ‘show[n]’-‘that the pleader is entitled to relief.’” Iqbal, 556
+U.S. 662, 129 S.Ct. at 1950, quoting Fed. Rule Civ. Proc. 8(a)(2). A complaint that merely
+asserts “‘naked assertion[s]’ devoid of ‘further factual enhancement’” fails to comply with Rule
+
+5
+
+“[I]t is of course well-established that a disaffected employee has no absolute right to have her grievance
+taken to arbitration.” Smith v. Drug, Chem., Cosmetic, Plastics & Affiliated Indus. Warehouse
+Employees Local 815, 943 F.Supp. 224, 242 (E.D.N.Y. 1996)(citing Vaca v. Sipes, 386 U.S. 171, 191, 87
+S.Ct. 903, 917 (1967)).
+
+3
+
+Case 2:13-cv-03914-JS-ARL Document 16 Filed 10/11/13 Page 9 of 18 PageID #: 131
+
+8. Id., quoting Twombly, 550 U.S. at 557. The general rule that a court must accept as true all
+the allegations in the complaint does not apply to legal conclusions. U.S. v. Bonanno Organized
+Crime Family of La Cosa Nostra, 879 F.2d 20, 27 (2d Cir. 1989) (“[L]egal conclusions,
+deductions or opinions couched as factual allegations are not given a presumption of
+truthfulness.” [citations omitted]).
+Applying the above principles to the instant action, plaintiff has failed to allege facts that
+cross the “line from conceivable to plausible” and the complaint must be dismissed in turn.
+Twombly, 550 U.S. at 570. The complaint is replete with allegations that are nothing more than
+conclusory statements completely devoid of sufficient factual enhancement. As such, the Court
+should not accept as true the allegations in the complaint that are of a conclusory nature. (See,
+e.g., Compl. ¶¶ 77, 78) Plaintiff’s remaining allegations do not plausibly establish a hybrid
+Section 301/fair representation cause of action, as he does not plausibly allege a claim for breach
+of the duty of fair representation by Local 74, or breach of the CBA by Pinelawn. Accordingly,
+the action against Local 74 should be dismissed in its entirety.
+It is also important to note the apparent “artful” pleading of plaintiff’s complaint in
+determining the instant motion to dismiss. Plaintiff makes some factual allegations up to a certain
+point in the complaint, and then resorts to legal conclusions and generalized statements (e.g. from
+the date of his termination moving forward) with respect to matters upon which it is believed
+plaintiff had specific knowledge. Local 74 submits that plaintiff’s “cherry picking” of factual
+allegations should be considered in deciding the instant motion to dismiss, especially with respect
+to whether the documents submitted by Local 74 herein can be considered under Rule 12(b)(6)
+standards.
+
+4
+
+Case 2:13-cv-03914-JS-ARL Document 16 Filed 10/11/13 Page 10 of 18 PageID #: 132
+
+POINT II
+PLAINTIFF FAILS TO STATE A HYBRID LMRA SECTION 301/BREACH
+OF THE DFR CLAIM
+Plaintiff’s alleges a breach of the duty of fair representation by Local 74 as part of his
+hybrid Section 301/fair representation claim against Local 74 and Pinelawn. 6 It is well settled
+that “[t]o prevail on a hybrid § 301/fair representation claim, a plaintiff must not only show that
+his discharge was contrary to the contract, but must also demonstrate breach of duty by his
+union.” Giglio v. Buonnadonna Shoprite, LLC, 2009 WL 3150431, *5 (E.D.N.Y. Sept. 25,
+2009). Thus, in order to properly allege a hybrid Section 301/fair representation claim against
+either Local 74 or Pinelawn, plaintiff must properly allege a breach of Local 74’s duty of fair
+representation, and a violation of the applicable CBA by Pinelawn in connection with his
+termination from employment.
+As explained below, plaintiff has not properly alleged either component of his hybrid
+Section 301/fair representation claim. Accordingly, the complaint should be dismissed as to
+Local 74.
+A.
+
+Plaintiff fails to state a claim for breach of the duty of fair representation
+
+Whether plaintiff has made out a proper breach of the duty of fair representation claim is
+the threshold analysis in determining if plaintiff has asserted a valid Section 301/fair
+representation claim. Jordan v. Viacom Outdoor Group, 475 F.Supp.2d 440, 444 (S.D.N.Y.
+2007). In the case at bar, plaintiff fails to properly allege the fair representation aspect of his
+hybrid claim, therefore, this claim must be dismissed.
+
+6
+
+Hybrid § 301/fair representation suits are governed by Section 301 of the Labor-Management Relations
+Act (29 U.S.C. § 185) and the implied duty of fair representation under the National Labor Relations Act
+(29 U.S.C. § 151 et seq.). Carrion v. Enter. Ass’n, Metal Trades Branch Local Union 638, 227 F.3d 29,
+33 (2d Cir. 2000).
+
+5
+
+Case 2:13-cv-03914-JS-ARL Document 16 Filed 10/11/13 Page 11 of 18 PageID #: 133
+
+To establish a breach of the duty of fair representation by a union, a plaintiff must
+establish: (1) “that the union’s actions or inactions are either arbitrary, discriminatory, or in bad
+faith,” and (2) “a causal connection between the union’s wrongful conduct and their injuries.”
+Llanos v. Brookdale Univ. Hosp. & Med. Center, 2011 WL 809615, *2 (E.D.N.Y. Mar. 2, 2011)
+(internal quotations omitted).
+In crafting the duty of fair representation standard, courts have recognized that judicial
+review of union action in enforcing the collective bargaining agreement “must be highly
+deferential, recognizing the wide latitude that [unions] need for the effective performance of their
+bargaining responsibilities.” Spellacy v. Airline Pilots Assoc. International, 156 F.3d 120, 126
+(2d Cir. 1998) (quoting Gvozdenovic v. United Airlines, Inc., 933 F.2d 1100, 1106 (2d Cir.
+1991) (internal citations omitted)), cert. denied 526 U.S. 1017, 119 S.Ct. 1251 (1999).
+As such, the difficult standard necessary to state a breach of the duty of fair
+representation claim was recited by this Court as follows:
+“A union does not breach its duty of fair representation when it ‘fails to
+process a meritless grievance, engages in mere negligent conduct, or fails
+to process a grievance due to error in evaluating the merits of the
+grievance.’ “ Soto v. ECC Indus., Inc., No. 05–CV–4764, 2007 U .S. Dist.
+LEXIS 80603, at *15 (E.D.N.Y. Oct. 31, 2007). Moreover, “a union's
+failure or refusal to pursue a grievance on its own does not constitute a
+breach of the duty of fair representation unless that failure or refusal may
+be fairly characterized as so far outside of a wide range of reasonableness
+that it is wholly irrational or arbitrary.” Vera v. Saks & Co., 424 F.Supp.2d
+694, 706 (S.D.N.Y.2006) (citations omitted), aff'd 2006 U.S.App. LEXIS
+30620 (2d Cir.2006).
+Giglio v. Buonnadonna Shoprite, LLC, 2009 WL 3150431, at *5.
+In this case, plaintiff’s complaint fails to allege facts supporting a DFR claim. Plaintiff
+alleges he was terminated by Pinelawn on March 23, 2013 because Pinelawn believed plaintiff
+had prior knowledge of a suspected act of arson that destroyed Pinelawn property, and failed to
+
+6
+
+Case 2:13-cv-03914-JS-ARL Document 16 Filed 10/11/13 Page 12 of 18 PageID #: 134
+
+warn Pinelawn or contact law enforcement beforehand. (Compl. ¶66, March 26, 2013
+termination letter, Ex. “B” to Harkin Decl.) Plaintiff’s termination was also based on the fact
+that Pinelawn believed he lied to Pinelawn’s investigators when he denied any knowledge of the
+incident in question, and plaintiff’s extremely poor work record and disciplinary history. (March
+26, 2013 termination letter, Ex. “B” to Harkin Decl.) In or around April 2013, plaintiff alleges
+he “filed a formal grievance” with Local 74 regarding his termination by Pinelawn. (Compl. ¶72)
+On April 3, Local 74 representative Mike Herron filed a grievance with Pinelawn regarding the
+March 23, 2013 termination on behalf of plaintiff. (April 3, 2013 grievance letter, Ex. “C” to
+Harkin Decl.) Plaintiff alleges he spoke with Local 74 representative Mike Herron in person on
+April 23, 2013 regarding his April 3, 2013 termination grievance. (Compl. ¶¶73, 75) When
+plaintiff inquired regarding the status of his pending grievance, Herron stated that “I’ll get back
+to you.” (Id. ¶75) Plaintiff then concludes his allegations by asserting that Local 74 failed and/or
+refused to pursue a grievance on his behalf regarding his termination of employment. (Id. ¶¶75,
+82)
+The above-pled facts do not amount to a valid breach of the duty of fair representation
+claim against Local 74. In the complaint, plaintiff’s allegations that Local 74’s failure/refusal to
+pursue his termination grievance was “arbitrary, discriminatory, and/or with malice and in bad
+faith” are conclusory and without factual support. Moreover, plaintiff’s allegation that Local 74
+“acted arbitrarily” in failing to process his “meritorious grievance” is also merely a threadbare
+restatement of the applicable legal standard that is supported only with conclusory statements
+and suppositions. Where, as in this case, plaintiff has not alleged any actual facts in support of
+his fair representation claim, dismissal of the claim is warranted. See Semper v. New York
+Methodist Hosp., 786 F.Supp.2d 566, 585-586 (E.D.N.Y. 2011)(dismissing fair representation
+
+7
+
+Case 2:13-cv-03914-JS-ARL Document 16 Filed 10/11/13 Page 13 of 18 PageID #: 135
+
+claim where “[p]laintiff fail[ed] to make any claim regarding the manner in which or reasons
+behind the Union’s failure to process her grievance.”); Llanos v. Brookdale Univ. Hosp. & Med.
+Center, 2011 WL 809615, at *3 (granting Rule 12(b)(6) motion to dismiss fair representation
+claim where plaintiff failed to allege facts as to why his grievance was meritorious, or why the
+union’s refusal to arbitrate was arbitrary or in bad faith)
+As in the above-cited cases, plaintiff in the case at bar cannot defeat the instant motion to
+dismiss by simply reciting the applicable duty of fair representation standards and baldly
+claiming that his grievance was meritorious and that Local 74’s refusal to arbitrate said grievance
+was arbitrary, discriminatory, or in bad faith. Under controlling legal authority, a union’s
+conduct is only arbitrary if, “in light of the factual and legal landscape at the time of the union’s
+actions, the union’s behavior is so far outside a wide range of reasonableness as to be irrational.”
+Llanos, 2011 WL 809615, at *3 (citing Sanozky v. Int’l Ass’n of Machinists & Aerospace
+Workers, 415 F.3d 279, 283 (2d Cir. 2005)). In order to establish a union acted in bad faith, it
+must be alleged that the union acted “with an improper intent, purpose, or motive.” Spellacy v.
+Airline Pilots Ass’n, 156 F.3d 120, 126 (2d Cir. 1998). “To be discriminatory, a union’s actions
+must be invidious or unlawful.” Nicholls v. Brookdale Univ. Hospital and Medical, 2005 WL
+1661093, at *7 (E.D.N.Y. July 14, 2005)(internal quotations omitted), aff’d 204 Fed.Appx. 40
+(2d Cir. 2006), see also Moore v. Roadway Express, Inc., 2008 WL 819049, at *4 (E.D.N.Y.
+Mar. 25, 2008) (“[D]iscrimination occurs when it favors some of its members at the expense of
+others without legitimate purpose.”).
+Plaintiff’s allegations clearly do not satisfy this highly deferential standard. In the
+complaint, plaintiff admits that Pinelawn notified him that he was being terminated due to his
+apparent knowledge of criminal activity that resulted in the destruction of Pinelawn property.
+
+8
+
+Case 2:13-cv-03914-JS-ARL Document 16 Filed 10/11/13 Page 14 of 18 PageID #: 136
+
+(Compl. ¶66) Moreover, plaintiff’s March 26, 2013 termination letter further specifies the
+multiple reasonable grounds upon which Pinelawn based its decision to discharge plaintiff. (Ex.
+“B” to Harkin Decl.) Plaintiff also admits in his complaint that a grievance meeting was held
+with respect to a prior suspension he had received, and that Local 74 represented him at that
+meeting. (Compl. ¶¶73-74) Additionally, plaintiff’s complaint alleges that a grievance was filed
+regarding his termination in April 2013. (Compl. ¶72) In fact, the grievance plaintiff refers to
+was filed by Local 74 at grievant’s request. (April 3, 2013 grievance letter, Ex. “C” to Harkin
+Decl.) The complaint then simply alleges that Local 74 failed/refused to pursue his grievance
+further. Accordingly, the validly alleged facts in the complaint are insufficient to state a claim
+for breach of the duty of fair representation by Local 74. 7
+Finally, plaintiff fails to demonstrate the necessary causal connection between Local 74’s
+alleged wrongful conduct and his injuries of “past and future lost wages and benefits, [and] past
+and future physical and emotional distress.” (Compl. ¶ 87) Vaughn v. Air Line Pilots Ass’n,
+Intern., 604 F.3d 703, 709 (2d Cir. 2010) (after establishing that the union’s actions or inactions
+are arbitrary, discriminatory or in bad faith, plaintiffs must then “demonstrate a causal
+connection between the union’s wrongful conduct and their injuries”, quoting Spellacy, 156 F.3d
+at 126), aff’d 377 Fed.Appx. 88 (2d Cir. 2010); see also Sim v. New York Mailers’ Union
+Number 6, 166 F.3d 465 (2d Cir. 1999) (DFR claim must fail for failure to demonstrate a causal
+connection).
+
+7
+
+Plaintiff’s allegations that Local 74 denied “him the benefits of the CBA, including his right to arbitrate
+his termination and his right to restoration to the damage of Plaintiff in an amount to be determined at
+trial” are also conclusory and unsupported by factual claims. Plaintiff does not specify or allege the CBA
+provisions in question that give him these rights. Further, the CBA does not actually provide plaintiff
+with any of these rights. (Ex. “A” to Harkin Decl.)
+
+9
+
+Case 2:13-cv-03914-JS-ARL Document 16 Filed 10/11/13 Page 15 of 18 PageID #: 137
+
+Based on the foregoing, plaintiff fails to state a claim against Local 74 for breach of the
+duty of fair representation. His hybrid Section 301/fair representation claim should be dismissed
+as a result.
+B.
+
+Plaintiff fails to state a claim for breach of the CBA by Pinelawn
+
+As set forth above, in order to make out a hybrid Section 301/fair representation claim, a
+plaintiff must prove that the union breached its duty of fair representation, and “that the
+employer breached a collective bargaining agreement.” White v. White Rose Food, 237 F.3d
+174, 178-79 (2d Cir. 2001). Accordingly, “[t]he plaintiff may sue the union or the employer, or
+both, but must allege violations on the part of both.” Id.
+In this case, plaintiff has failed to allege actual facts that support his bald conclusion that
+his grievance was meritorious. For this reason, plaintiff also fails to state a claim against
+Pinelawn for a breach of the CBA. In the absence of allegations of a meritorious grievance, it
+logically follows that the complaint also lacks viable factual allegations of the breach of the
+CBA. Thus, plaintiff’s breach of the CBA claim under LMRA Section 301 is also insufficient as
+a matter of law, and dismissal of the entire hybrid Section 301/fair representation claim is
+required.
+POINT III
+THE COURT SHOULD DENY PLAINTIFF LEAVE TO AMEND THE
+COMPLAINT OR RE-FILE AGAINST LOCAL 74
+If dismissal as to Local 74 is granted pursuant to the above arguments, leave to amend the
+complaint or re-file against Local 74 should be denied. Plaintiff’s complaint is a cherry picking
+of the few facts that could be construed in favor of plaintiff’s meritless claims. The remaining
+facts that are not in the complaint, and which Local 74 believes plaintiff to be aware of, further
+bolster the reasonable and permissible nature of the conduct of Local 74 and Pinelawn. As such,
+10
+
+Case 2:13-cv-03914-JS-ARL Document 16 Filed 10/11/13 Page 16 of 18 PageID #: 138
+
+any amendment or re-filing would similarly be deficient and dismissible under Rule 12(b)(6).
+See Chepilko v. City of New York, 2010 WL 3926186, at *1 (E.D.N.Y. Sept. 8, 2010) (“‘An
+amendment to a pleading will be futile if a proposed claim could not withstand a motion to
+dismiss pursuant to Rule 12(b)(6).’” quoting Dougherty v. Town of N. Hempstead Bd. of Zoning
+Appeals, 282 F.3d 83, 88 (2d Cir. 2002)), report and recommendation adopted, 2010 WL
+3909211 (E.D.N.Y. Sept. 27, 2010); Lucente v. International Business Machine Corp., 310 F.3d
+243, 258 (2d Cir. 2002) (same); Amna v. New York State Dept. of Health, 2009 WL 6497844
+(E.D.N.Y. Sept. 3, 2009) (recommending denial of motion for leave to amend where plaintiff’s
+proposed second amended complaint fails to state a claim), report and recommendation adopted,
+2010 WL 2076015 (E.D.N.Y. May 20, 2010).
+The deficiencies in plaintiff’s complaint cannot be cured, and any future amendment or
+re-filing would be futile and should be denied. See Heller v. Consolidated Rail Corp., 331
+Fed.Appx. 766, 768, 2009 WL 1448977, at *1 (2d Cir. 2009) (“[A] district court need not grant
+leave to amend if it can rule out any possibility, however unlikely it might be, that an amended
+complaint would succeed.”); Health-Chem Corp. v. Baker, 915 F.2d 805, 810 (2d Cir.1990)
+(“[W]here, as here, there is no merit in the proposed amendments, leave to amend should be
+denied.”).
+
+11
+
+Case 2:13-cv-03914-JS-ARL Document 16 Filed 10/11/13 Page 17 of 18 PageID #: 139
+
+CONCLUSION
+For the foregoing reasons, the complaint should be dismissed in its entirety against
+defendant Local 74 with prejudice. Leave to amend the complaint or re-file this action against
+Local 74 should be denied as well.
+Dated: October 11, 2013
+New York, New York
+
+Respectfully submitted,
+O’DWYER & BERNSTIEN, LLP
+
+By:
+
+12
+
+____/s/ Zachary Harkin_________
+ZACHARY HARKIN (ZH0620)
+Attorneys for defendant Local 74
+52 Duane Street, 5th Fl.
+New York, NY 100007
+212-571-7100
+zharkin@odblaw.co
+
+Case 2:13-cv-03914-JS-ARL Document 16 Filed 10/11/13 Page 18 of 18 PageID #: 140
+
+CERTIFICATE OF SERVICE
+I, Zachary Harkin, hereby certify a true and correct copy of the foregoing was served this
+11th day of October, 2013, via CM/ECF filing upon:
+
+Edward Sample, Esq.
+Frank & Associates, P.C.
+Attorneys for plaintiff
+500 Bi-County Blvd, #112N
+Farmingdale, NY 11735
+Eve Klein, Esq.
+Eric Ruden, Esq.
+Duane Morris LLP
+Attorneys for defendant Pinelawn Cemetery
+1540 Broadway
+New York, NY 10036
+
+Dated: October 11, 2013
+New York, NY
+
+____/s/ Zachary Harkin________
+Zachary Harkin
+
+13
+
+

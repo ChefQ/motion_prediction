@@ -1,0 +1,760 @@
+Case 6:10-cv-00521-LED Document 491 Filed 08/30/13 Page 1 of 22 PageID #: 15156
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE EASTERN DISTRICT OF TEXAS
+TYLER DIVISION
+WI-LAN INC.,
+Plaintiff,
+v.
+
+CIVIL ACTION NO. 6:10–CV–521–LED
+
+ALCATEL–LUCENT USA INC., et al.,
+Defendants.
+
+WI-LAN INC.,
+Plaintiff,
+v.
+
+CIVIL ACTION NO. 6:13–CV–252–LED
+
+HTC CORPORATION, et al.,
+Defendants.
+
+RESPONSE TO WI-LAN INC.’S RENEWED MOTION FOR
+JUDGMENT AS A MATTER OF LAW OF NO INVALIDITY OR,
+ALTERNATIVELY, MOTION FOR NEW TRIAL ON INVALIDITY
+
+Case 6:10-cv-00521-LED Document 491 Filed 08/30/13 Page 2 of 22 PageID #: 15157
+
+TABLE OF CONTENTS
+Table of Authorities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ii
+Preliminary Statement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+Background . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+Arguments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+A. The jury reasonably found that Tiedemann, alone,
+invalidates the claims. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+1. The only issue raised in Wi-LAN’s Motion is whether
+Defendants presented evidence that Tiedemann
+discloses “TDM techniques.” . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+2. The jury heard evidence that: (1) the Tiedemann system
+allocates time slots to data items based on user identity;
+and (2) user identity is a characteristic associated with
+the data items. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+3. The jury’s verdict was reasonable in light of the
+evidence. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+a. The jury reasonably found Mr. Lanning more
+credible than Dr. Wells. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+b. Dr. Wells disregarded the Court’s claimconstruction ruling. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+B. The jury reasonably found the claims invalid as obvious
+in light of the combination of Tiedemann and Gitlin. . . . . . . . . . . . . . . . . . . 8
+1. Legal Standard . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+2. Applying the proper standard, the facts adduced at trial
+support the jury’s verdict. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+a. The jury heard uncontested testimony that there
+was a design need and market pressure to solve
+the “limited bandwidth problem.”. . . . . . . . . . . . . . . . . . . . . . . .
+
+11
+
+b. The jury heard uncontested testimony that there
+was a finite number of identified, predictable
+solutions to the limited bandwidth problem. . . . . . . . . . . . . . . . . . .
+
+12
+
+c. The jury’s obviousness verdict was reasonable
+in light of the uncontested evidence. . . . . . . . . . . . . . . . . . . . . . .
+
+13
+
+Conclusion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+15
+
+Certificate of Service . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+19
+
+–i–
+
+Case 6:10-cv-00521-LED Document 491 Filed 08/30/13 Page 3 of 22 PageID #: 15158
+
+TABLE OF AUTHORITIES
+Anderson’s–Black Rock, Inc. v. Pavement Salvage Co.,
+396 U.S. 57 (1969) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Ball Aerosol & Specialty Container, Inc. v. Limited Brands, Inc.,
+555 F.3d 984 (Fed. Cir. 2009) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Elmer Corp. v. Computervision Corp.,
+732 F.2d 888 (Fed. Cir. 1984) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Ericsson Inc. v. D-Link, Sys., Inc.,
+No. 6:10-cv-473, 2013 WL 4046225 (E.D. Tex. Aug. 6, 2013) . . . . . . . . . . . . . .
+
+7, 8
+
+KSR Int’l Co. v. Teleflex Inc.,
+550 U.S. 398 (2007) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10, 11, 14, 15
+Leapfrog Enters., Inc. v. Fisher–Price, Inc.,
+485 F.3d 1157 (Fed. Cir. 2007) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Stratoflex, Inc. v. Aeroquip Corp.,
+713 F.2d 1530 (Fed. Cir. 1983) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Streber v. Hunter,
+221 F.3d 701 (5th Cir. 2000) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Sundance, Inc. v. DeMonte Fabricating, Ltd.,
+550 F.3d 1356 (Fed. Cir. 2008) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14, 15
+Wyers v. Master Lock Co.,
+616 F.3d 1231 (Fed. Cir. 2010) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10, 11
+
+– ii –
+
+Case 6:10-cv-00521-LED Document 491 Filed 08/30/13 Page 4 of 22 PageID #: 15159
+
+PRELIMINARY STATEMENT
+The jury returned an invalidity verdict, based on the only credible evidence presented at
+trial on the issue, and it applied the proper legal standards in doing so. In moving for JMOL or,
+in the alternative, a new trial, Wi-LAN is asking the Court to ignore that evidence and apply
+improper standards. The Court should refuse to do so. Rather, because there was substantial
+evidence to support the verdict and the verdict was not against the great weight of the evidence,
+the Court should deny Wi-LAN’s Renewed Motion for Judgment as a Matter of Law of No
+Invalidity or, Alternatively, Motion for New Trial on Invalidity (the “Motion”) and let the verdict
+stand.
+
+BACKGROUND
+The patents at issue in this suit involve claims related to wireless telecommunications
+systems. Among other things, they describe systems and methods for increasing the number of
+users who are able to transmit and receive data within a single frequency channel. Specifically,
+the claims explain that a frequency channel can be subdivided using combinations of code
+division multiple access (CDMA) and time division multiplexing (TDM), thus allowing more
+users to communicate within the same frequency channel.
+Wi-LAN claimed Defendants’ products that comply with specifications in the 3GPP
+telecommunications standard governing HSDPA (high-speed downlink packet access) infringe.
+Defendants showed that their products do not infringe and that the patents are invalid. After
+deliberating for less than hour, the jury returned a verdict for Defendants on all grounds, finding
+no infringement and that the patents were invalid as both anticipated and obvious.
+
+–1–
+
+Case 6:10-cv-00521-LED Document 491 Filed 08/30/13 Page 5 of 22 PageID #: 15160
+
+ARGUMENTS
+A. The jury reasonably found that Tiedemann, alone, invalidates the claims.
+1. The only issue raised in Wi-LAN’s Motion is whether Defendants presented
+evidence that Tiedemann discloses “TDM techniques.”
+Defendants’ expert on invalidity, Mark Lanning, testified that a publication titled “CDMA
+for Cellular and PCS” (“Tiedemann” (DX 124)) anticipated or rendered obvious every element
+of the claims at issue. As Mr. Lanning explained, Tiedemann is a paper that was presented at a
+telecommunications conference in Boston in 1994. 1 Wi-LAN’s Motion does not dispute that
+Tiedemann is prior art. Nor does it dispute the majority of Mr. Lanning’s conclusions regarding
+Tiedemann. Wi-LAN’s argument focuses on a single issue, namely, whether the jury reasonably
+found Tiedemann discloses one of the claim limitations—“TDM techniques.”
+The claims at issue all require, among other things, a means for either encoding data items
+using TDM techniques or decoding data items that have been encoded with TDM techniques. 2
+As construed by the Court, TDM techniques are “techniques for allocating an interval of time
+within a predetermined frame period to a data item, based on one or more characteristics
+associated with the data item.” Memorandum Opinion and Order (May 16, 2012), ECF No. 200,
+at 11). There is no dispute that the Tiedemann system allocates an interval of time within a
+predetermined frame period to a data item. The only question raised by Wi-LAN’s Motion is
+whether it does so “based on one or more characteristics associated with the data item,” as
+required by the Court’s construction. The evidence at trial clearly demonstrates that it does.
+
+1
+2
+
+See Ex. E: Trial Tr. 43:10–24 (July 12, 2013, Morning Session).
+See, e.g., Ex. L: ’326 Patent (PX 1) at 28:39–45.
+–2–
+
+Case 6:10-cv-00521-LED Document 491 Filed 08/30/13 Page 6 of 22 PageID #: 15161
+
+2. The jury heard evidence that: (1) the Tiedemann system allocates time slots to data
+items based on user identity; and (2) user identity is a characteristic associated with
+the data items.
+Mr. Lanning showed the jury a page from Tiedemann describing the paging channel in the
+Tiedemann system, which he testified discloses TDM techniques under the Court’s
+construction. 3
+
+As Mr. Lanning explained:
+Mr. Tiedemann is describing the paging channel . . . . It’s divided into slots
+of 80 milliseconds’ duration. And then he describes that there is a period of
+repetition, and that would be the frame. And those are assigned slots. And
+then he discusses that there’s hash functions that are used on the paging
+channel for a specific slot that the mobile and the base station are to use.
+The mobile is to monitor.4
+Mr. Lanning then clarified that this description of the paging channel discloses TDM techniques:
+Q. And so did you find that the Tiedemann document itself described
+TDM techniques under the Court’s construction?
+A. Yes. . . .
+Q. And did you find a TDM encoder arranged to apply time division
+multiplexing techniques in the Tiedemann reference?
+3
+
+Ex. H: DX 124 at 285 (DDX 13-19); Ex. E:Trial Tr. 44:14–45:8 (July 12, 2013
+(Morning Session)); id. at 49:18–50:4.
+4
+Id. at 44:21-45:6.
+–3–
+
+Case 6:10-cv-00521-LED Document 491 Filed 08/30/13 Page 7 of 22 PageID #: 15162
+
+A. Yes. As I explained earlier, this slide shows that this is the TDM
+techniques that they’re explaining here; that it has all three components.
+It has—it has the interval of time; it has the predetermined frame; and it
+has one or more characteristics associated with the data item,
+which would be the actual identification of the cell phone. 5
+Significantly, Wi-LAN did not offer any evidence or testimony to counter Mr. Lanning’s
+assertion that the Tiedemann system used the mobile device’s identity to allocate time intervals
+to data items. Wi-LAN’s sole argument at trial was that the identity of the mobile device is not a
+characteristic associated with the data. Indeed, Wi-LAN’s expert, Dr. Jonathan Wells,
+acknowledged that his only “beef” with Mr. Lanning’s opinion was that “although the slots are
+allocated based on the user’s identity, the user’s identity is not a characteristic associated with
+the data item.” 6 Dr. Wells agreed, however, that the user is associated with the data being sent to
+his or her mobile device and that time intervals are allocated to that data based on the identity of
+the user:
+Q. A user is associated with its data, the data that’s being transmitted
+to that user. You’ll agree with that?
+A. Generally, yes, it would be associated with it. . . .
+Q. And . . . th[e] encoder that’s inserting the data for those mobiles into
+the paging channel has to know the identity of that user to do that,
+right?
+A. It has to know it, but it doesn’t—it doesn’t look at the characteristics of
+that data item.
+Q. It’s looking at the user identity, though, right?
+A. It knows—it has to know which end-user to send the data to.
+Q. Okay. And using that mobile identity, this paging channel allocates
+those slots in a pre-defined repeated sequence. You’ll agree with
+that, right?
+
+5
+6
+
+Id. at 45:9–12, 49:18–50:2 (emphasis added).
+Ex. F: Trial Tr. at 42:14–19 (July 12, 2013 (Afternoon Session)).
+–4–
+
+Case 6:10-cv-00521-LED Document 491 Filed 08/30/13 Page 8 of 22 PageID #: 15163
+
+A. That’s right, yes. 7
+Nevertheless, Dr. Wells insisted that the user’s identity is not a characteristic of the data and that
+“allocation based on the user in a pre-defined repeated sequence, is excluded by the Court’s
+construction.” 8
+The ultimate question, therefore, is whether Dr. Wells’s completely unsupported assertion
+that user identity is not a characteristic of the data item somehow rendered Mr. Lanning’s
+testimony insufficient to support the verdict. As explained below, the answer is clear—the
+verdict should stand.
+3. The jury’s verdict was reasonable in light of the evidence.
+a. The jury reasonably found Mr. Lanning more credible than Dr. Wells.
+This case presents a classic “battle of the experts.” Mr. Lanning testified that the identity of
+the mobile device is a characteristic associated with the data item. Dr. Wells testified that he
+disagreed with Mr. Lanning on this factual issue:
+Q. So you and Mr. Lanning disagree about whether the MIN [Mobile
+Identification Number] is a characteristic of the data item or a
+characteristic associated with the user?
+A. It would appear that way. In my opinion, this MIN is not a
+characteristic associated with the data item as is required by the Court's
+construction of TDM techniques. 9
+Because there was conflicting expert testimony, the jury was free to “make credibility
+determinations and believe the witness it consider[ed] more trustworthy.” Streber v. Hunter, 221
+F.3d 701, 726 (5th Cir. 2000) (quotations omitted); see also Perkin–Elmer Corp. v.
+Computervision Corp., 732 F.2d 888, 893 (Fed. Cir. 1984) (the court may not “substitute its
+choice for that of the jury between conflicting elements of the evidence”); DDR Holdings, LLC
+7
+8
+9
+
+Id. at 42:24–43:21 (emphasis added).
+Id. at 42:22–25.
+Id. at 14:3–9.
+–5–
+
+Case 6:10-cv-00521-LED Document 491 Filed 08/30/13 Page 9 of 22 PageID #: 15164
+
+v. Hotels.com, L.P., — F. Supp. 2d — , 2013 WL 3187161, at *11 (E.D. Tex. June 20, 2013)
+(“When opposing experts differ on how a claim limitation is met, as is the case here, it is up to
+the jury to decide which opinion is more credible in light of the evidence.”). In fact, this is the
+position Wi-LAN took on this exact issue in the months leading up to trial, before the jury found
+in Defendants’ favor:
+THE COURT: So, in other words, you are saying that the dispute is
+whether a user identity constitutes characteristics associated with a data
+item?
+MR. BORGMAN: I think that is exactly right, Your Honor.
+THE COURT: You are saying that is a factual dispute —
+MR. BORGMAN: Yes.
+THE COURT: — for the jury to determine based on the experts?
+MR. BORGMAN: Correct, Your Honor. 10
+The jury was certainly reasonable in finding Mr. Lanning more credible than Dr. Wells. Dr.
+Wells, after all, testified that a spreading tree is not a spreading tree 11; that an overlay encoder
+does not encode data using overlay codes 12; that he did not know how telephone numbers
+
+10
+
+Hearing Tr. at 20:25–21:10 (Feb. 26, 2013) (emphasis added).
+Id. at 63:3–15: (“Q. And if we turn, we see that the figure that’s being referred to is the
+figure I showed you before, Figure 4-3, a tree, right? A. I don’t know. I mean, it’s not a
+spreading tree, because it—the Tiedemann reference talks about merging these channels
+together. This makes no sense. Q. It’s not a spreading tree? It says spreading right at the top of
+the tree. A. It doesn’t say spreading tree; it says spreading. Q. It says spreading right at the top of
+the tree, right? A. I see that it says spreading, yes.”).
+12
+Id. at 56:17–57:1: (“Q. Okay. And then if we look at Figure 4-3—you didn’t show us this
+figure on direct, did you? A. No, I didn't, because this—the—Tiedemann here talks about this
+overlay code generator as merging codes together. This—this figure makes no sense in the
+context of this patent—of this paper. Q. It says: Overlay Encoding, is the title of this figure,
+right? A. Yes. And as I said, just because it says overlay encoding, doesn’t mean it’s an overlay
+encoder.”).
+11
+
+–6–
+
+Case 6:10-cv-00521-LED Document 491 Filed 08/30/13 Page 10 of 22 PageID #: 15165
+
+work 13; and that the channel quality indicator (CQI) in the accused products does not measure
+inter-cell interference because “you don’t have many elevators out in a rural [area].” 14 Because
+the determination of which expert’s opinion was more credible was an issue for the jury, under
+these facts there is no reason to reopen the jury’s factual determination, and the Court should
+deny Wi-LAN’s motion. See Ericsson Inc. v. D-Link, Sys., Inc., No. 6:10-cv-473, 2013 WL
+4046225, at *17 (E.D. Tex. Aug. 6, 2013).
+b. Dr. Wells disregarded the Court’s claim-construction ruling.
+As noted above, Dr. Wells did not dispute that the Tiedemann system allocates intervals of
+time to data items based on the user in a pre-defined repeated sequence. Rather, he argued that
+“allocation based on the user in a pre-defined repeated sequence is excluded by the Court’s
+construction [of “TDM techniques].” 15 Dr. Wells is wrong.
+The Court construed “TDM techniques” to mean “techniques for allocating an interval of
+time within a predetermined frame period to a data item, based on one or more characteristics
+associated with the data item.” Memorandum Opinion and Order (May 16, 2012), ECF No. 200,
+at 11. The Court later clarified this construction in its ruling on Defendants Motion for
+Clarification of the Construction of a Single Term in the Court’s Claim-Construction Order.
+Order (Mar. 5, 2013), ECF No. 341. There the Court ruled that “its construction of TDM
+techniques cannot be interpreted to exclude characteristics described in the specification.” Id. at
+3.
+
+13
+
+Ex. C: Trial Tr. 129:13–23 (July 9, 2013 (Morning Session)) (“Q. The area code . . .
+that’s the area right, 903. Right, okay? And, in fact, if you were to look up how phone numbers
+work, right, the next three digits tell you a particular switch in that area, right? A. I—I really
+don’t know.”).
+14
+Id. at 146:6–14.
+15
+Ex. F: Trial Tr. at 43:22–25 (July 12, 2013 (Afternoon Session)).
+–7–
+
+Case 6:10-cv-00521-LED Document 491 Filed 08/30/13 Page 11 of 22 PageID #: 15166
+
+Dr. Wells apparently ignored the Court’s clarification because the specification, which is
+shared in pertinent part by all of the patents-in-suit, discloses allocating time intervals in a
+predefined sequence based on the user. In fact, the Court has already found that “the
+specification discloses in Figure 9B the use of predefined repeated sequences as a TDM
+technique.” Id. And the Summary of the Invention discloses allocating time slots to data items in
+a predefined sequence based on the particular subscriber terminals associated with the data
+items. 16 Thus, since the Court held that its construction cannot exclude TDM techniques
+described in the specification, and since there is no dispute that Tiedemann discloses allocating
+intervals of time to data items based on the user in a pre-defined repeated sequence, Tiedemann
+discloses TDM techniques, as that term was construed by the Court. 17
+The Court should therefore deny Wi-LAN’s motion for this reason as well.
+B. The jury reasonably found the claims invalid as obvious in light of the combination of
+Tiedemann and Gitlin.
+The claims at issue are also invalid as obvious in light of the combination of Tiedemann
+and U.S. Patent No. 6,018,528 (“Gitlin”; DX 148). Like Tiedemann, Gitlin describes a wireless
+telecommunications system that combines CDMA with TDM. 18 Mr. Lanning testified that Gitlin
+discloses every element of the claims at issue except overlay codes. 19 Wi-LAN’s motion does
+not dispute this testimony or argue that it was insufficient in any way. In particular, Wi-LAN’s
+Motion does not dispute Mr. Lanning’s conclusion that Gitlin discloses TDM techniques.
+
+16
+
+See Ex. L: ’326 Patent (PX 1) at 3:63–4:12; see also id. at 13:38–49.
+Wi-LAN is effectively seeking a belated claim-construction ruling that would narrow the
+scope of the term TDM techniques. Not only is there no basis for such a ruling, having failed to
+seek a new construction before the verdict, Wi-LAN also waived its arguments regarding this
+limitation.
+18
+See Ex. E: Trial Tr. at 66:1–8 (July 12, 2013 (Morning Session)).
+19
+See id. at 66:11–70:23.
+17
+
+–8–
+
+Case 6:10-cv-00521-LED Document 491 Filed 08/30/13 Page 12 of 22 PageID #: 15167
+
+In fact, Mr. Lanning’s testimony was quite clear on this point—Gitlin allocates time slots to
+data based, in part, on the type of data begin transmitted:
+Q. And did you find TDM techniques as construed by the Court?
+A. Yes.
+Q. Could you explain that?
+A. You have TDM techniques. So there’s a frame. So we need three
+pieces, right? We need a—we need this slot, or we need the increment
+of time. And we see all kinds of different slots. This would be the slots
+(indicating) that are shown from S0 to S6. And then the frame period
+would be from S0 through S6. That’s the frame period. And the third
+thing we need for that construction—for the Court’s construction
+for TDM techniques is a characteristic of the data. Well, if you look
+down at the bottom of Gitlin, you’ll see that the characteristics of
+data have to do with whether you have high-speed users, mediumspeed users, or low-speed users, and also the user ID. So there’s two
+different characteristics associated with the data item.
+Q. And why would the users need different speeds?
+A. Users have different speeds, want to pay different amounts, or they may
+only want to send a fax part of the time, and then want lower speed for
+voice calls or lower speed data connections at other times. 20
+Dr. Wells agreed that Gitlin discloses allocating data items, in part, based on the type of
+data being transmitted.
+Q. And then if we go down in the same paragraph [in Gitlin 21], it talks
+about a system in which the individual time slots can transmit a given
+number of bits for voice, ‘n’ bits, or video, ‘m’ bits, transmissions
+using different amounts of medium bandwidth. Do you see that?
+A. Yes, I do.
+Q. Voice is a type of data, right?
+A. Yes.
+Q. And video is a type of data, right?
+20
+21
+
+Id. at 66:23–67:22; see Ex. K: Gitlin (DX 148) Fig. 7 (Ex. I: DDX 13–31).
+See Ex. K: Gitlin (DX 148) at 2:22–25.
+–9–
+
+Case 6:10-cv-00521-LED Document 491 Filed 08/30/13 Page 13 of 22 PageID #: 15168
+
+A. It can be, yes.
+Q. And here we see ‘n’ bits are given to voice, ‘m’ bits are given to video,
+different amounts of bits given to different types of data, right?
+A. I see that written down here. 22
+No doubt in view of this testimony, Wi-LAN is not disputing that the jury reasonably found
+that: (1) Gitlin and Tiedemann are prior art; (2) Gitlin disclosed a wireless telecommunications
+system that included TDM techniques; and (3) Tiedemann disclosed every other element of the
+claims at issue. So the question is not whether the claim elements were found in the prior art, but
+rather whether it would have been obvious to combine Gitlin with Tiedemann. Wi-LAN
+contends that Mr. Lanning’s testimony does not support a finding of obviousness because he
+allegedly did not explain why a person of ordinary skill in the art would have combined the
+TDM techniques disclosed in Gitlin with the remaining claim elements disclosed in Tiedemann.
+As explained below, Wi-LAN is incorrect.
+1. Legal Standard
+Wi-LAN asks the Court to apply an improper and overly rigid approach to the obviousness
+analysis. In KSR, the Supreme Court “instruct[ed] courts to take a more ‘expansive and flexible
+approach’ in determining whether a patented invention was obvious at the time it was made.”
+Wyers v. Master Lock Co., 616 F.3d 1231, 1238 (Fed. Cir. 2010) (quoting KSR Int’l Co. v.
+Teleflex Inc., 550 U.S. 398, 415 (2007)). The Court emphasized that “[t]he obviousness analysis
+cannot be confined by a formalistic conception of the words teaching, suggestion, and
+motivation.” KSR, 550 U.S. at 419. Indeed, expert testimony concerning motivation to combine
+may even be unnecessary: “KSR and our later cases establish that the legal determination of
+obviousness may include recourse to logic, judgment, and common sense, in lieu of expert
+
+22
+
+Ex. F: Trial Tr. at 53:3–17 (July 12, 2013 (Afternoon Session)).
+– 10 –
+
+Case 6:10-cv-00521-LED Document 491 Filed 08/30/13 Page 14 of 22 PageID #: 15169
+
+testimony.” Wyers, 616 F.3d at 1239. This is particularly true in cases, like this one, where the
+evidence establishes that there was a design need or market pressure to solve a problem and a
+finite number of solutions:
+When there is a design need or market pressure to solve a problem and there
+are a finite number of identified, predictable solutions, a person of ordinary
+skill has good reason to pursue the known options within his or her
+technical grasp. If this leads to the anticipated success, it is likely the
+product not of innovation but of ordinary skill and common sense.
+KSR, 550 U.S. 421; see also Ball Aerosol & Specialty Container, Inc. v. Limited Brands, Inc.,
+555 F.3d 984, 991 (Fed. Cir. 2009) (holding that where all of the limitations of the patent were
+present in the prior art, and the invention was addressed to a known problem, “KSR . . . compels
+the grant of summary judgment of obviousness”). 23
+2. Applying the proper standard, the facts adduced at trial support the jury’s verdict.
+a. The jury heard uncontested testimony that there was a design need and market
+pressure to solve the “limited bandwidth problem.”
+The jury heard testimony throughout the trial that limited bandwidth was a problem for
+engineers in the wireless telecommunications industry at the time of the invention of the patentsin-suit. Specifically, the challenge was to create systems that allowed more and more cellular
+subscribers to communicate along the same radio frequencies at the same time. The following
+are some examples of the testimony.
+•
+
+Dr. Wells: “[O]ne of the problems that we have in the cellular industry is this limited
+bandwidth problem. Basically what happens, when you make that call from your cell
+phone up to a cell tower, the traffic is carried on a radio wave, and that has a
+particular frequency, and there’s only a certain number of those frequencies that are
+really available. So what happens is . . . those frequencies are very jealously guarded,
+
+23
+
+The Court instructed the jury on this standard in its charge, further explaining: “you may
+evaluate whether there was some teaching, suggestion, or motivation to arrive at the claimed
+invention as a whole, before the time of the claimed invention, although proof of this is not a
+requirement to prove obviousness.” Ex. G: Trial Tr. at 35:19–23 (July 15, 2013 (Morning
+Session)) (emphasis added); see also id. at 35:24–37:7. Wi-LAN did not object to this portion of
+the charge.
+– 11 –
+
+Case 6:10-cv-00521-LED Document 491 Filed 08/30/13 Page 15 of 22 PageID #: 15170
+
+and it’s limited the number that you can use. And what that does is that places a limit
+on how many cell phones can actually be used within a cell. So we call that the
+limited bandwidth problem.” 24
+•
+
+Dr. Wicker: “[The] problem is that as more subscribers subscribe, we need more
+channels. We need to be able to support more people. But we’ve got this situation in
+which we’re stuck. We’ve got 16 subscribers already and 16 channels. So we have to
+have some way of expanding our system so that it covers more people.” 25
+
+•
+
+Paul Struhsaker: ““[W]ireless is—is an expensive commodity, So you have to use it
+very, very carefully. The government charges billions of dollars for the use of
+Spectrum. . . . We were solving a real problem that real people had in the roll-out in
+1995. . . . [A]t the time maybe 25 percent of the United States had a cell phone, and
+they had a big issue with voice capacity.” 26
+b. The jury heard uncontested testimony that there was a finite number of
+identified, predictable solutions to the limited bandwidth problem.
+The jury also heard abundant and undisputed testimony that, at the time of the invention,
+
+there was a finite number of identified and predictable ways of addressing the so-called limitedbandwidth problem. These included dividing frequency channels using CDMA, TDM,
+combinations of CDMA and TDM, and combinations of CDMA and overlay codes. The
+following are examples of some of that testimony.
+CDMA
+•
+
+Dr. Wells: “Q. Were there other approaches that were used to try and solve this
+bandwidth problem? A. Yes. The other one, of course, is code division multiple
+access, CDMA.” 27
+
+•
+
+Dr. Wicker: Q. “[W]hat are some of the techniques that have been used to allow these
+multiple transmissions to occur on the network? A. Well, there’s two . . . . The first is
+code division multiple access.” 28
+
+24
+
+Ex. B: Trial Tr. 49:14–50:2 (July 8, 2013 (Afternoon Session)).
+Ex. D: Trial Tr. at 187:22–188:3 (July 10, 2013 (Afternoon Session)).
+26
+Ex. A: Trial Tr. 118:24–119:9 and 123:12–14 (July 8, 2013 (Morning Session))
+(emphasis added).
+27
+Ex. B: Trial Tr. 51:12–15 (July 8, 2013 (Afternoon Session)).
+28
+Ex. D: Trial Tr. 183:3–8 (July 10, 2013 (Afternoon Session)).
+25
+
+– 12 –
+
+Case 6:10-cv-00521-LED Document 491 Filed 08/30/13 Page 16 of 22 PageID #: 15171
+
+TDM
+•
+
+Dr. Wells: “Q. And so how do cell systems deal with this limited bandwidth problem
+if everybody wants to use all of these different types of data” A. Well, there’s various
+ways. The first way is time division multiple access.” 29
+
+•
+
+Dr. Wicker: “Q. Now, another technology we’ve heard about in this case is time
+division multiplexing. A. That’s right. Q. What is that? A. That’s the equivalent of
+taking turns talking. . . . So what we see here is a number of slots that have been
+allocated to different users.” 30
+Combination of CDMA and TDM
+
+•
+
+Dr. Wells: “Q. The industry knew and the engineers in the mobile communications knew
+to put TDMA and CDMA in the same system, right, before the Airspan patents? A. There
+was some examples of that, yes.” 31
+Combination of CDMA and Overlay Code
+
+•
+
+Dr. Wells (by deposition): “Q. It’s fair to say that the combination of orthogonal channels
+and overlay codes was known prior to the invention of the ’326 patent and the other
+patents in his case, correct? A. That was known.” 32
+c. The jury’s obviousness verdict was reasonable in light of the uncontested
+evidence.
+Mr. Lanning testified that both Tiedemann and Gitlin disclosed wireless telecommunication
+
+systems that offered solutions to the limited bandwidth problem. 33 He also testified that the
+solutions they offered included using known and predictable TDM and CDMA techniques. 34
+Thus, he concluded that the combination of Tiedemann and Gitlin rendered the claims at issue
+obvious:
+Q. Okay. And why would it have been obvious in your mind to combine
+Gitlin and Tiedemann?
+
+29
+
+Ex. B: Trial Tr. 50:3–7 (July 8, 2013 (Afternoon Session)).
+Ex. D: Trial Tr. 183:20–184:3 (July 10, 2013 (Afternoon Session)).
+31
+Ex. C: Trial Tr. 86:9–12 (July 9, 2013 (Morning Session)).
+32
+Id. at 81:14–18.
+33
+See Ex. E: Trial Tr. 42:20–65:23 (Tiedemann) and 66:1–72:6 (Gitlin) (July 12, 2013
+(Morning Session)).
+34
+See id.
+30
+
+– 13 –
+
+Case 6:10-cv-00521-LED Document 491 Filed 08/30/13 Page 17 of 22 PageID #: 15172
+
+A. Because both of these patents are in regard to cellular systems,
+specifically, CDMA wireless systems. And Gitlin was from Bell Labs,
+AT&T Bell Labs. Tiedemann was from Qualcomm. And as you’ve
+heard, in the early 1990s, they were working together on CDMA
+solutions. So there’s multiple reasons why one of ordinary skill in the
+art would combine Gitlin with Tiedemann. 35
+Following KSR, this is more than sufficient: “When there is a design need or market pressure to
+solve a problem and there are a finite number of identified, predictable solutions, a person of
+ordinary skill has good reason to pursue the known options within his or her technical grasp.”
+KSR, 550 U.S. at 421.
+The Federal Circuit’s ruling in Sundance, Inc. v. DeMonte Fabricating, Ltd., 550 F.3d 1356
+(Fed. Cir. 2008), is instructive in this regard. In that case, the district court entered JMOL
+overturning a jury verdict of obviousness, based on a lack of motivation to combine the prior-art
+references at issue. Id. at 1365, 1366. On appeal, the Federal Circuit first held there was no
+admissible expert testimony regarding motivation to combine. Id. at 1364–65. Despite the lack of
+expert testimony, the Federal Circuit reversed the district court’s JMOL and found the claims
+invalid as obvious because: (1) there was no dispute regarding the content of the prior art, the
+scope of the patent claims, or the level of ordinary skill in the art; and (2) the prior-art
+combination at issue “simply arrange[d] old elements with each performing the same function it
+had been known to perform and yield[ed] no more than one would expect from such an
+arrangement.” Id. at 1365, 1367.
+Applying the Federal Circuit’s reasoning to this case, there is no basis for overturning the
+jury’s obviousness verdict. As explained above, there is no dispute that Tiedemann and Gitlin,
+combined, disclose every element of the claims at issue; there is no dispute regarding the scope
+of those claims; and there is no dispute regarding the level of ordinary skill in the art. Further, as
+35
+
+Id. at 70:2–12.
+– 14 –
+
+Case 6:10-cv-00521-LED Document 491 Filed 08/30/13 Page 18 of 22 PageID #: 15173
+
+in Sundance, combining Tiedemann with Gitlin simply arranged old elements—i.e., CDMA and
+TDM—with each performing the same function it had been known to perform—i.e., subdividing
+frequency channels—and yielding no more than one would expect from such an arrangement.
+The only relevant difference between this case and Sundance is that in this case the jury did hear
+admissible expert testimony regarding motivation to combine, thus making the jury’s
+obviousness verdict even more reasonable. 36
+In sum, this is a textbook example of a case where the asserted claims describe a
+combination of familiar elements according to known methods that does no more than yield
+predictable results. KSR, 550 U.S. at 416. The Court should therefore deny Wi-LAN’s motion
+and refuse to overturn the jury’s obviousness verdict.
+
+CONCLUSION
+For the reasons set forth above, the jury’s verdict was supported by evidence. Indeed, the
+jury returned the only reasonable verdict based on the evidence. The Court should therefore deny
+Wi-LAN’s Motion in its entirety.
+36
+
+Wi-LAN also criticizes Mr. Lanning for failing to consider objective indicia of
+nonobviousness. But the alleged evidence of nonobviousness related to the widespread use of
+HSDPA, and the jury effectively found that the patents do not cover HSDPA when it found no
+infringement. Plainly put, if the patent claims do not cover HSDPA, the widespread use of
+HSDPA is not an indication of nonobviousness. Further, the evidence presented regarding
+companies who licensed the patents-in-suit similarly does not indicate nonobviousness, as there
+was no evidence presented of a nexus between the merits of the claimed inventions and such
+licenses. See Stratoflex, Inc. v. Aeroquip Corp., 713 F.2d 1530, 1539 (Fed. Cir. 1983) (upholding
+a finding of obviousness where the patentee had “shown neither a nexus between the merits of
+the invention and the licenses of record, nor that those licenses arose out of recognition and
+acceptance of the patent.”). Finally, secondary considerations of nonobviousness, even if WiLAN had raised any, would not overcome the strong evidence of obviousness in this case. See
+Sundance, 550 F.3d at 1368; see also Anderson’s–Black Rock, Inc. v. Pavement Salvage Co., 396
+U.S. 57, 61 (1969) (considering argument of secondary considerations but holding that “those
+matters without invention will not make patentability”); Leapfrog Enters., Inc. v. Fisher–Price,
+Inc., 485 F.3d 1157, 1162 (Fed. Cir. 2007) (holding that the objective considerations of
+nonobviousness presented, including substantial evidence of commercial success, praise, and
+long-felt need, were inadequate to overcome a strong showing of primary considerations that
+rendered the claims at issue invalid).
+– 15 –
+
+Case 6:10-cv-00521-LED Document 491 Filed 08/30/13 Page 19 of 22 PageID #: 15174
+
+Dated: August 30, 2013
+
+Respectfully submitted,
+By: /s/Robert A. Appleby
+Robert A. Appleby (pro hac vice)
+Jeanne M. Heffernan (pro hac vice)
+Akshay S. Deoras (pro hac vice)
+KIRKLAND & ELLIS LLP
+601 Lexington Avenue
+New York, NY 10022
+Tel: (212) 446-4800
+Fax: (212) 446-4900
+Alcatel-Lucent-Wi-LANDefense@kirkland.com
+Michael E. Jones
+Allen F. Gardner
+POTTER MINTON PC
+110 N. College, Suite 500 (75702)
+P.O. Box 359
+Tyler, Texas 75710
+(903) 597 8311
+(903) 593 0846 (Facsimile)
+mikejones@potterminton.com
+allengardner@potterminton.com
+
+– 16 –
+
+Case 6:10-cv-00521-LED Document 491 Filed 08/30/13 Page 20 of 22 PageID #: 15175
+
+By: /s/ Martin R. Bader
+Martin R. Bader (pro hac vice)
+Daniel N. Yannuzzi (pro hac vice)
+Lee Hsu (pro hac vice)
+Graham M. Buccigross (pro hac vice)
+SHEPPARD MULLIN RICHTER &
+HAMPTON LLP
+12275 El Camino Real, Suite 200
+San Diego, CA 92130
+Tel: (858) 720-8924
+Fax: (858) 847-4892
+LegalTm-WiLAN-Alcatel@sheppardmullin.com
+Eric H. Findlay (TX Bar No. 00789886)
+Brian Craft (TX Bar No. 04972020)
+FINDLAY CRAFT
+6760 Old Jacksonville Hwy, Suite 101
+Tyler, TX 75703
+Tel: (903) 534-1100
+Fax: (903) 534-1137
+efindlay@findlaycraft.com
+bcraft@findlaycraft.com
+ATTORNEYS FOR DEFENDANTS
+HTC CORPORATION, HTC AMERICA,
+INC.,
+AND EXEDEA, INC.
+
+– 17 –
+
+Case 6:10-cv-00521-LED Document 491 Filed 08/30/13 Page 21 of 22 PageID #: 15176
+
+By: /s/ Bruce S. Sostek
+Bruce S. Sostek (Lead Attorney)
+State Bar No. 18855700
+Bruce.Sostek@tklaw.com
+Richard L. Wynne, Jr.
+State Bar No. 24003214
+Richard.Wynne@tklaw.com
+THOMPSON & KNIGHT LLP
+1722 Routh Street, Suite 1500
+Dallas, Texas 75201
+214.969.1700
+214.969.1751 (facsimile)
+ATTORNEYS FOR DEFENDANTS
+TELEFONAKTIEBOLAGET LM ERICSSON,
+ERICSSON INC., SONY MOBILE
+COMMUNICATIONS AB, AND SONY MOBILE
+COMMUNICATIONS (USA) INC.
+
+– 18 –
+
+Case 6:10-cv-00521-LED Document 491 Filed 08/30/13 Page 22 of 22 PageID #: 15177
+
+CERTIFICATE OF SERVICE
+This is to certify that on this 30th day of August, 2013, a copy of the foregoing document
+was served on counsel of record for Plaintiff by electronic mail.
+
+/s/ Richard L. Wynne, Jr.
+Richard L. Wynne, Jr.
+
+– 19 –
+
+

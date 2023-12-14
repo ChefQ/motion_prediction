@@ -1,0 +1,1733 @@
+Case 1:08-cv-02185-WHP
+
+Document 36
+
+Filed 06/20/2008
+
+Page 1 of 46
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE SOUTHERN DISTRICT OF NEW YORK
+Cintas Corporation, Cintas Corporation No.
+2, Cintas Corporation No. 3 and Cintas
+Holdings LLC,
+
+)
+)
+)
+)
+Plaintiffs,
+)
+v.
+)
+)
+UNITE HERE, Change to Win, International )
+Brotherhood of Teamsters, Bruce Raynor,
+)
+Ahmer Qadeer, Keith Mestrich, Elizabeth
+)
+Gres, Peter Demay, Katie Unger, Stefan
+)
+)
+Antonowicz, And Does 1 Through 100,
+)
+)
+Defendants.
+)
+
+Case No.: 08 cv 2185 (WHP)
+
+MEMORANDUM OF LAW IN SUPPORT OF ALL
+DEFENDANTS’ JOINT RULE 12(b)(6) MOTION TO DISMISS
+
+Irwin Rochman (SDNY Bar No. SS7573)
+Tesser, Ryan & Rochman, LLP
+509 Madison Avenue
+New York, New York 10022
+Phone: (212) 754-9000
+Fax: (212) 754-5906
+Attorney for Defendants UNITE HERE,
+Bruce Raynor, Ahmer Qadeer, Keith
+Mestrich, Elizabeth Gres, Peter DeMay,
+Katie Unger and Stefan Antonowitz
+
+Robert M. Weinberg (pro hac vice)
+Andrew D. Roth (pro hac vice)
+Leon Dayan (pro hac vice)
+Bredhoff & Kaiser, PLLC
+805 Fifteenth Street, N.W., Suite 1000
+Washington, DC 20005
+Phone: (202) 842-2600
+Fax: (202) 842-1888
+Attorneys for Defendants International
+Brotherhood of Teamsters and Change to
+Win
+
+Case 1:08-cv-02185-WHP
+
+Document 36
+
+Filed 06/20/2008
+
+Page 2 of 46
+
+i
+TABLE OF CONTENTS
+TABLE OF AUTHORITIES .............................................................................................. ii
+INTRODUCTION ...............................................................................................................1
+ARGUMENT.......................................................................................................................2
+I.
+
+II.
+
+III.
+
+EACH OF THE RICO COUNTS IN CINTAS’ COMPLAINT (Counts
+One-Four) FAILS TO STATE A CLAIM ON WHICH RELIEF CAN BE
+GRANTED. .................................................................................................2
+A.
+
+Cintas’ Hobbs Act Claim Does Not Meet The Act’s
+“Wrongful[ness]” Requirement Or Its Separate “Obtaining of
+Property” Requirement. ...................................................................5
+
+B.
+
+Cintas’ Hobbs Act Claim Also Fails On Independent First
+Amendment And Federal Labor Law Grounds. ............................14
+
+C.
+
+Cintas’ Travel Act and “State Law Extortion” Allegations Cannot
+Salvage Its Rico Claims. ................................................................22
+
+EACH OF THE LANHAM ACT COUNTS (Counts Six Through Nine)
+FAILS TO STATE A CLAIM ON WHICH RELIEF MAY BE
+GRANTED ................................................................................................23
+A.
+
+Counts Six, Seven and Eight Fail to Allege that UNITE HERE
+Made “Commercial Use” of Cintas’ Trademark ...........................24
+
+B.
+
+Counts Six and Eight Fail to Allege the Requisite “Likelihood of
+Confusion” .....................................................................................32
+
+C.
+
+Count Seven Fails to Allege Facts Establishing Dilution of the
+Association Between the Term “Cintas” and the Services Cintas
+Provides..........................................................................................35
+
+D.
+
+Count Nine Should Be Dismissed, Because UNITE HERE’s Use
+of “Cintas Exposed” as a Domain Name Does Not Constitute
+“Cybersquatting”............................................................................36
+
+THE COURT SHOULD DECLINE TO EXERCISE ITS
+SUPPLEMENTAL JURISDICTION OVER CINTAS’ PENDENT
+STATE LAW CLAIMS (Counts Five, Ten-Fourteen) ..............................39
+
+CONCLUSION..................................................................................................................40
+
+Case 1:08-cv-02185-WHP
+
+Document 36
+
+Filed 06/20/2008
+
+Page 3 of 46
+
+ii
+TABLE OF AUTHORITIES
+CASES
+A. Terzi Productions v. Theatrical Protective Union,
+2 F. Supp. 2d 485 (S.D.N.Y. 1998)............................................................................................6
+Bally Total Fitness v. Faber, 29 F. Supp. 2d 1161 (C.D. Cal. 1998) ......................................36, 37
+Bell Atlantic Corp. v. Twombly, 127 S. Ct. 1955 (2007) ...............................................................35
+Beverly Hills Foodland v. UFCW, Local 655, 39 F.3d 191 (8th Cir. 1994)..................................16
+Bihari v. Gross, 119 F. Supp. 2d 309 (S.D.N.Y. 2000) .................................................................26
+Bosley Med. Inst., Inc. v. Kremer, 403 F.3d 672 (9th Cir. 2005)........................................... passim
+Brokerage Concepts, Inc. v. U.S. Healthcare, Inc., 140 F.3d 494 (3d Cir. 1998)...........................8
+Brookfield Communications, Inc. v. West Coast Entm't Corp.,
+174 F.3d 1036 (9th Cir. 1999) .................................................................................................34
+Cellco P'ship v. Communications Workers of Am.,
+2003 U.S. Dist. LEXIS 26823 (D.N.J.) .............................................................................29, 30
+Clearing House Ass'n v. Cuomo, 510 F.3d 105 (2d Cir. 2007) .....................................................17
+D.R.S. Trading Co. v. Fisher, 2002 WL 1482764 (S.D.N.Y.).......................................................40
+DeBartolo Corp. v. Florida Gulf Coast Bldg. & Constr. Trades Council,
+485 U.S. 568 (1988)...........................................................................................................17, 18
+EPA v. Port Auth., 162 F. Supp. 2d 173 (S.D.N.Y. 2001),
+aff'd, 23 Fed. Appx. 81 (2d Cir. 2001).....................................................................................40
+Eastern R.R. Presidents Conference v. Noerr Motor Freight, 365 U.S. 127 (1961).........17, 18, 21
+Entrepreneur Media, Inc. v. Smith, 279 F.3d 1135 (9th Cir. 2002)...............................................34
+Famous Horse, Inc. v. Fifth Avenue Photo, Inc., 2008 WL 2156727
+(S.D.N.Y. May 19, 2008).........................................................................................................32
+First Capital Asset Mgmt. v. Satinwood, Inc., 385 F.3d 159 (2d Cir. 2004) .................................40
+Ford Motor Co. v. 2600 Enterprises, 177 F. Supp. 2d 661 (E.D. Mich. 2001)............................26
+
+Case 1:08-cv-02185-WHP
+
+Document 36
+
+Filed 06/20/2008
+
+Page 4 of 46
+
+iii
+Fur Information and Fashion Council, Inc. v. E.F. Timme and Son, Inc.,
+501 F.2d 1048, 1051-52 (2d Cir. 1974) ...................................................................................27
+Gmurzynska v. Hutton, 355 F.3d 206 (2d Cir. 2004).....................................................................28
+HERE, Local 2 v. Marriott Corp., 961 F.2d 1464 (9th Cir. 1992) ..............................................4, 5
+HERE, Local 57 v. Sage Hosp. Res., 390 F.3d 206 (3d Cir. 2004) .....................................5, 13, 20
+HERE, Local 217 v. J.P. Morgan Hotel, 996 F.2d 561 (2d Cir. 1993) .............................5, 6, 8, 13
+I. Meyer Pincus & Assocs. v. Oppenheimer & Co., Inc.,
+936 F.2d 759 (2d Cir.1991)................................................................................................23, 24
+Kolari v. New York-Presbyterian Hosp., 455 F.3d 118 (2d Cir. 2006) .........................................40
+Lamparello v. Falwell, 420 F.3d 309 (4th Cir. 2005)....................................................................37
+Linn v. Plant Guard Workers, 383 U.S. 53 (1966) ........................................................................21
+Louis Vuitton v. Dooney & Bourke, 454 F.3d 108 (2d Cir. 2006) .................................................32
+Machinists v. Wisconsin Empl. Rel. Comm'n, 427 U.S. 132 (1976)..................................18, 19, 20
+Mattel, Inc. v. MCA Records, 296 F.3d 894 (9th Cir. 2002)..........................................................36
+Matusovsky v. Merrill Lynch, 186 F. Supp. 2d 397 (S.D.N.Y. 2002)............................................35
+Metropolitan Opera Ass'n v. Local 100, HERE, 239 F.3d 172 (2d Cir. 2001)....................4, 14, 15
+Moseley v. V Secret Catalogue, Inc., 537 U.S. 418 (2003) ...........................................................35
+NAACP v. Claiborne Hardware Co., 458 U.S. 886 (1982) ...........................................................15
+NLRB v. Drivers, 362 U.S. 274 (1960) ..........................................................................................17
+NLRB v. Fruit Packers, 377 U.S. 58 (1964) ..................................................................................17
+OBH, Inc. v. Spotlight Magazine, Inc., 86 F. Supp. 2d 176 (W.D.N.Y. 2000)........................31, 32
+Organization for a Better Austin v. Keefe, 402 U.S. 415 (1971)...................................................15
+Planned Parenthood v. Bucci, 1997 WL 133313 (S.D.N.Y.),
+aff'd mem.,152 F.3d 920 (2d Cir. 1998)...................................................................................32
+Savin Corp. v. Savin Group, 391 F.3d 439 (2d Cir. 2004) ............................................................35
+
+Case 1:08-cv-02185-WHP
+
+Document 36
+
+Filed 06/20/2008
+
+Page 5 of 46
+
+iv
+
+Scheidler v. NOW, Inc., 537 U.S. 393 (2003)........................................................................ passim
+Smithers Found. v. St. Lukes Roosevelt Hosp. Ctr, 2001 WL 761076 (S.D.N.Y.)........................30
+Sodexho v. HERE Local 217, 989 F. Supp. 169 (D. Conn. 1997) .................................................29
+Sunlight Saunas, Inc. v. Sundance Sauna, Inc.,
+427 F. Supp. 2d 1032 (D. Kan. 2006)......................................................................................37
+Taubman v. Webfeats, 319 F.3d 770 (6th Cir. 2003).....................................................................37
+Teamsters Union v. Morton, 377 U.S. 252 (1964).........................................................................19
+Thornhill v. Alabama, 310 U.S. 88 (1940) ..............................................................................14, 15
+Tojzan v. New York Presbyterian Hosp., 2003 WL 1738993 (S.D.N.Y.) .....................................40
+United States v. Clemente, 640 F.2d 1069 (2d Cir. 1981) ...........................................................7, 8
+United States v. DeLaurentis, 491 F.2d 208 (2d Cir. 1974) ..........................................................20
+United States v. Enmons, 410 U.S. 396 (1973)....................................................................5, 6, 7, 8
+United States v. Gotti, 459 F.3d 296 (2d Cir. 2006) ......................................................9, 10, 11, 13
+United States v. Nardello, 393 U.S. 286 (1969) ............................................................................22
+United States v. Tropiano, 418 F.2d 1069 (2d Cir. 1969) .............................................................10
+United We Stand Am., Inc. v. United We Stand Am. N.Y. Inc.,
+128 F.3d 86 (2d Cir. 1996).......................................................................................................30
+Utah Lighthouse Ministry v. Foundation for Apologetic Information, 2008 U.S.
+App. LEXIS 11523 (10th Cir. May 29, 2008) .............................................................26, 31, 38
+Viacom Int'l v. Icahn, 747 F. Supp. 205 (S.D.N.Y. 1990), aff'd on other grounds,
+946 F.2d 998 (2d Cir. 1991).......................................................................................................8
+WHS Entm't Ventures v. United Paperworkers Int'l Union,
+997 F. Supp. 946 (M.D. Tenn. 1998).................................................................................29, 33
+Whitely v. Comsat Corp., 2001 WL 1135946 (S.D.N.Y.) .............................................................40
+Wojnarowicz v. American Family Association, 745 F. Supp. 130 (S.D.N.Y. 1990) .....................27
+
+Case 1:08-cv-02185-WHP
+
+Document 36
+
+Filed 06/20/2008
+
+Page 6 of 46
+
+v
+STATUTES AND LEGISLATIVE MATERIAL
+15 U.S.C. § 1114(a) ......................................................................................................................23
+15 U.S.C. § 1125(a)(1) ..................................................................................................................23
+15 U.S.C. § 1125(c) ................................................................................................................23, 36
+15 U.S.C. § 1125(d) ......................................................................................................................23
+18 U.S.C. § 1951 .............................................................................................................................5
+18 U.S.C. § 1961(1) .........................................................................................................................2
+18 U.S.C. §§ 1961 et seq..................................................................................................................2
+18 U.S.C. § 1962..............................................................................................................................2
+28 U.S.C. § 1367(c)(3)...................................................................................................................39
+29 U.S.C. § 186........................................................................................................................13, 20
+S. 1883, 101st Cong., 1st Sess., 135 Cong. Rec. 1207, 1217 (April 13, 1989) .............................28
+
+Case 1:08-cv-02185-WHP
+
+Document 36
+
+Filed 06/20/2008
+
+Page 7 of 46
+
+INTRODUCTION
+The principal allegation made by Plaintiffs Cintas Corporation and its three related
+corporate entities (collectively “Cintas”) in this lawsuit is that Defendants are committing the
+felony crime of “attempted extortion”—and thus violating the federal RICO statute—by the
+following course of conduct: engaging in a negative publicity and boycott campaign, comprised
+of disparaging commentary on Cintas and free speech appeals to independent third parties not to
+deal with Cintas, that puts pressure on Cintas, through fear of economic loss, to enter into a
+lawful card check and neutrality agreement with Defendants UNITE HERE and the Teamsters.
+And, Cintas further alleges that Defendant UNITE HERE, by using an Internet website titled
+“CintasExposed.org” as one means of disseminating its anti-Cintas message and making its
+boycott appeals to independent third parties, also is violating the federal Lanham Act.
+As we show in this Memorandum, Cintas’ RICO and Lanham Act claims fail as a matter
+of law both on pure statutory interpretation grounds, and on the independent ground that the First
+Amendment and the federal labor laws stand as bars to those claims. At bottom, this
+RICO/Lanham Act lawsuit by Cintas is an effort to gain the upper hand in a longstanding labor
+dispute between the parties by negating Defendants’ right under the First Amendment and the
+federal labor laws to further their interests in that labor dispute by engaging in a negative
+publicity and boycott campaign against Cintas. That, we submit, is a misuse of RICO and the
+Lanham Act, which calls for a dismissal of Cintas’ federal claims under Rule 12(b)(6) and a
+refusal to exercise supplemental jurisdiction over Cintas’ pendent state law claims.
+
+Case 1:08-cv-02185-WHP
+
+Document 36
+
+Filed 06/20/2008
+
+Page 8 of 46
+
+-2ARGUMENT
+I.
+
+EACH OF THE RICO COUNTS IN CINTAS’ COMPLAINT (Counts One-Four)
+FAILS TO STATE A CLAIM ON WHICH RELIEF CAN BE GRANTED.
+An essential element of any claim under the Racketeer Influenced and Corrupt
+
+Organizations Act (“RICO”), 18 U.S.C. §§ 1961 et seq., is that the defendant has engaged, or
+conspired to engage, in a “pattern of racketeering activity,” see 18 U.S.C. § 1962. In this regard,
+“‘racketeering activity’ means” the felony crimes enumerated in RICO, see 18 U.S.C.
+§ 1961(1)—commonly referred to as RICO “predicate acts.”
+As we show, taking the factual allegations in Cintas’ Complaint as true for purposes of
+this Rule 12(b)(6) motion, those factual allegations do not as a matter of law make out a claim
+that Defendants have committed even a single RICO predicate act—much less the required
+“pattern” of RICO predicate acts. Accordingly, Cintas’ four putative RICO claims against
+Defendants, see Cplt. ¶¶ 263-77, fail at the most basic level and should be dismissed.
+All four of Cintas’ RICO claims rest on the allegation that Defendants are committing the
+RICO predicate act of “attempted extortion under the Hobbs Act[ ],” Cplt. ¶¶ 265, 268, 271, 276,
+by engaging in a “negative public relations campaign against Cintas,” id. ¶ 232—which includes
+as “a key component” free speech appeals to independent third parties to boycott Cintas products
+and services, id. ¶¶ 98-99—with the ultimate objective of putting Cintas in such “fear of
+economic loss” as to apply “pressure” on Cintas to “enter into a card check and neutrality
+agreement with Defendants UNITE HERE and the Teamsters,” id. ¶ 8-9, 97. 1 Or, as Cintas’
+counsel put it at the May 27 pre-motion conference, “our allegation is that there was a fear of
+1
+
+In addition, Cintas alleges that—by this same conduct—Defendants also are committing the
+RICO predicate acts of (i) using the facilities of interstate commerce to commit extortion in
+violation of the Travel Act; and (ii) “extortion and attempted extortion” under Ohio law. See
+Cplt. ¶¶ 265, 268, 271, 276. As we show infra pp. 22-23, under Scheidler v. NOW, Inc., 537
+U.S. 393 (2003), these additional allegations cannot salvage Cintas’ RICO claims.
+
+Case 1:08-cv-02185-WHP
+
+Document 36
+
+Filed 06/20/2008
+
+Page 9 of 46
+
+-3economic injury or loss associated with the defendant’s conduct . . ., [a]nd quite simply . . .
+defendants . . . are attempting to quite directly and frankly force Cintas into agreeing to what’s
+referred to as card check neutrality.” Transcript at 16. There is no allegation in this case that
+Defendants engaged in any force or violence or threats of force or violence.
+To be specific, the “extortionate” means alleged by Cintas is Defendants’ conduct of a
+negative publicity and boycott campaign consisting primarily of: (i) “almost daily publication of
+misleading, negative and/or damaging information about Cintas to countless third parties,” Cplt.
+¶ 93 (emphasis added); (ii) “reaching out” to Cintas’ customers “in an attempt to convince them
+that they are ‘getting ripped off disproportionately’ by Cintas,” id. ¶ 98; (iii) “communicat[ing]
+disparaging information about Cintas to Cintas’s stakeholders by mailing and faxing letters and
+flyers containing misleading and/or negative statements about Cintas, distributing newsletters,
+posting press releases, creating web pages and sending anti-Cintas letters to investors and stock
+analysts,” id. ¶ 102 (emphasis added); (iv) “us[ing] the Internet to publish and circulate
+misleading, disparaging and/or negative information about Cintas and its business practices to,
+among others, Cintas’s employees, customers, shareholders, and the general public,” id. ¶ 110
+(emphasis added), including the use of a “Cintas Exposed website . . . specifically designed to
+encourage consumers and other companies not to conduct business with Cintas,” id. ¶ 112; (v)
+“attend[ing] NASCAR races to distribute anti-Cintas literature and to encourage NASCAR fans
+to ‘tell us why you think NASCAR should give Cintas the boot,’” id. ¶ 147; and (vi) maintaining
+“yet another anti-Cintas website” that “disseminate[s] negative information about Cintas to
+NASCAR fans” in “support [of]” Defendant UNITE HERE’s “assertion that ‘Cintas doesn’t
+deserve such a profitable partnership with NASCAR,’” id. ¶¶ 148-49.
+
+Case 1:08-cv-02185-WHP
+
+Document 36
+
+Filed 06/20/2008
+
+Page 10 of 46
+
+-4Given Cintas’ allegations, we note at the outset (and discuss more fully infra pp. 14-18)
+that under controlling Second Circuit case law, union “campaign[s] of public criticism” and
+associated “boycott” activities of this kind—directed at a business for the purpose of exerting
+“pressure” on that business to take action to “resolve [a labor] dispute” in a lawful manner—“are
+constitutionally protected.” See Metropolitan Opera Ass’n v. Local 100, HERE, 239 F.3d 172,
+174-75, 177-78 (2d Cir. 2001).
+To be equally specific about Defendants’ alleged “extortionate” objective, a “card check
+and neutrality agreement” (an example of which is attached to Cintas’ Complaint as Exhibit 9)
+sets out the essentials of a “process”—separate from “the traditional NLRB election process”—
+to govern an employer’s response to a union’s effort “to organize [the employer’s] workers” and
+to become the workers’ legally-recognized exclusive bargaining representative. Metropolitan
+Opera, 239 F.3d at 174. The employer makes two commitments in such an agreement: (1) “to
+remain neutral by not hiring ‘union busters’ or speaking against the [u]nion”; and (2) to
+determine the position of its employees on union representation through a “card-check”
+procedure—in lieu of insisting on an NLRB election procedure—and to accord legal recognition
+to the union as the employees’ exclusive bargaining representative if in the “card-check”
+procedure an employee majority “vot[es] in favor of unionization.” Id.2
+Given Cintas’ allegations, we also note at the outset (and discuss more fully infra pp. 5-8)
+that under controlling Second Circuit case law, a card check and neutrality agreement is “a valid
+contract governing representation . . . [that] make[s] the union recognition process less
+2
+
+To be precise, “[i]n a card check procedure, employees are given cards asking them to
+designate the union as their bargaining representative. If a majority of the employees sign and
+return the cards, the union becomes the employees’ exclusive bargaining representative. . . .
+Typically, the cards are distributed and collected by the union without the employer’s assistance.
+They are then “checked” for authenticity by a neutral party.” HERE, Local 2 v. Marriott Corp.,
+961 F.2d 1464, 1466 n.1 (9th Cir. 1992) (internal citation omitted).
+
+Case 1:08-cv-02185-WHP
+
+Document 36
+
+Filed 06/20/2008
+
+Page 11 of 46
+
+-5burdensome for both [parties] . . . [by] resolv[ing] peacefully those tensions inevitably flowing
+from a union organizing effort.” HERE, Local 217 v. J.P. Morgan Hotel, 996 F.2d 561, 566 (2d
+Cir. 1993); accord e.g. HERE, Local 57 v. Sage Hosp. Res., 390 F.3d 206, 218-19 (3d Cir. 2004);
+Marriott Corp., 961 F.2d at 1467-70.
+A.
+
+Cintas’ Hobbs Act Claim Does Not Meet The Act’s “Wrongful[ness]”
+Requirement Or Its Separate “Obtaining of Property” Requirement.
+
+The Hobbs Act makes it a federal crime to interfere with commerce through “extortion”
+or attempted “extortion,” and defines “extortion” as “the obtaining of property from another,
+with his consent, induced by wrongful use of actual or threatened force, violence, or fear . . . .”
+18 U.S.C. § 1951 (emphasis added).
+Given that, as noted above, Cintas’ Hobbs Act “attempted extortion” claim rests on the
+allegation that Defendants are using means that are constitutionally protected to achieve an
+objective that is lawful under the federal labor laws, it is not at all surprising that under
+controlling Supreme Court and Second Circuit case law, Cintas’ Hobbs Act claim fails on two
+separate statutory grounds: (1) it does not meet the Act’s “wrongful[ness]” requirement; and (2)
+it does not meet the Act’s “obtaining of property” requirement.
+1.
+
+The “Wrongful[ness]” Requirement. In United States v. Enmons, 410
+
+U.S. 396 (1973), the Supreme Court interpreted the word “wrongful” in the Hobbs Act phrase
+“wrongful use of actual or threatened force, violence, or fear” as “limit[ing] the statute’s
+coverage to those instances where the obtaining of the property would itself be ‘wrongful’
+because the alleged extortionist has no lawful claim to the property.” 410 U.S. at 400. On this
+basis, the Enmons Court concluded that the Hobbs Act “does not apply to the use of force to
+achieve legitimate labor ends.” Id. at 401 (emphasis added).
+
+Case 1:08-cv-02185-WHP
+
+Document 36
+
+Filed 06/20/2008
+
+Page 12 of 46
+
+-6While Enmons involved the use of “force”—in that case, violence—“to achieve [the]
+legitimate labor end[ ]” of negotiating a collective bargaining agreement providing “higher
+wages in return for genuine services,” id. at 400, the Enmons Court went on to add that the
+Hobbs Act was patterned on New York extortion law, under which—no matter how “militant”
+the means used—“‘an accused would not be guilty of extortion for attempting to achieve
+legitimate labor goals,’” broadly defined to include “‘the legitimate labor objective of
+organization.’” 410 U.S. at 406 n.16 (emphasis added) (citations omitted). That being so,
+Enmons repeatedly and unqualifiedly states that on a proper interpretation of the word
+“wrongful” as used in the Hobbs Act, the Act does not reach the use of force to achieve
+“legitimate union objectives,” id. at 400, or “legitimate labor ends,” id. at 401, and does not
+encroach in any way on “the legitimate activities of labor unions,” id. at 406 n.16.
+A card check and neutrality agreement is lawful under the Second Circuit’s controlling
+decision in J.P. Morgan Hotel, 996 F.2d at 566—and thus is a “legitimate labor end[ ],” Enmons,
+537 U.S. at 401. Under Enmons, then, an allegation that a labor union is using force to achieve a
+lawful card check and neutrality agreement—if such an allegation were made—would fail to
+state a Hobbs Act claim.3 Here, there is no allegation that Defendants are using force to achieve
+a lawful card check and neutrality agreement. Rather, Cintas’ allegation is that Defendants are
+3
+
+A. Terzi Productions v. Theatrical Protective Union, 2 F. Supp. 2d 485 (S.D.N.Y. 1998),
+in dictum, finds merit in the view that Enmons’ interpretation of the “wrongful[ness]”
+requirement only applies to the use of force to achieve the legitimate labor objective of a lawful
+collective bargaining agreement, and does not apply to the use of force to achieve other
+legitimate labor objectives. See id. at 505-06, 508. (A. Terzi Productions’ holding is that the
+defendant union violated the Hobbs Act by making wrongful use of force to achieve an unlawful
+labor objective: recognition of the union and a collective bargaining agreement where the union
+did not represent the employees, see id. at 506-08.) As we have shown in text, the Enmons
+decision, in its terms and its rationale, cuts exactly the opposite way from the dictum in A. Terzi
+Productions. But we do not pursue this matter any more deeply here, because as we go on to
+show in text, Cintas’ Hobbs Act claim in this “use of fear of economic loss” case fails without
+regard to Enmons’ scope of application in “use of force” cases.
+
+Case 1:08-cv-02185-WHP
+
+Document 36
+
+Filed 06/20/2008
+
+Page 13 of 46
+
+-7using “fear of economic loss,” Cplt. ¶ 8 (emphasis added), to achieve such a lawful agreement.
+And, under Enmons and the Second Circuit’s reading of Enmons in United States v. Clemente,
+640 F.2d 1069 (2d Cir. 1981), it is clear beyond any question that the use of “fear of economic
+loss” to achieve a lawful card check and neutrality agreement is not “wrongful” under the Hobbs
+Act, and that Cintas’ allegation thus fails to state a Hobbs Act claim.
+The issue presented to the Second Circuit in Clemente was the applicability of the Hobbs
+Act to cases involving the allegation that the defendant used “fear of economic loss” to obtain
+property. 640 F.2d at 1076-78. In addressing this issue, the Clemente Court began by stating the
+general principle, drawn from Enmons’ “teach[ings],” that the applicability of the Hobbs Act
+depends on whether the statutorily identified means (“actual or
+threatened force, violence, or fear”) have been put to “wrongful
+use”, i.e., have been employed to obtain property to which “the
+alleged extortionist has no lawful claim.” [Id. at 1076 (quoting
+Enmons, 410 U.S. at 400 (emphasis added).]
+In other words, said the Clemente Court, the applicability of the Hobbs Act turns, in the first
+instance, on whether “the wrongfulness element of the crime of extortion” has been met. Id. at
+1077 (emphasis added). And, the Clemente Court added that in determining whether “the
+wrongfulness element” has been met, it is improper to assess wrongfulness “in a vacuum,
+independent of” the means used by the defendant to obtain the alleged extortion victim’s
+property. Id. That is so because “[i]t is obvious that the use of fear of financial injury is not
+inherently wrongful.” Id.
+Given these considerations, the Clemente Court squarely held that in a Hobbs Act case
+involving the allegation that the defendant used “fear of economic loss”—and not “force”—to
+obtain property, the Act’s wrongfulness element is satisfied only when such fear is used “to
+achieve a wrongful purpose,” and not when it is used “‘to obtain legitimate economic ends.’” Id.
+(emphasis added) (quoting the trial court’s jury instruction with approval).
+
+Case 1:08-cv-02185-WHP
+
+Document 36
+
+Filed 06/20/2008
+
+Page 14 of 46
+
+-8The Third Circuit, in a decision expressly “adopt[ing]” the “position” taken by the
+Second Circuit in Clemente, put the point this way:
+Unlike the use or threatened use of force or violence, the use of
+economic fear in business negotiations between private parties is
+not “inherently” wrongful. Indeed, the fear of economic loss is a
+driving force of our economy that plays an important role in many
+legitimate business transactions. This economic reality leads us to
+conclude that the reach of the Hobbs Act is limited in cases, such
+as this one, which involve the use of economic fear in a transaction
+between two private parties. The limitation we apply is that set
+forth in Enmons: that a defendant is not guilty of extortion if he
+has a lawful claim to the property obtained.
+Brokerage Concepts, Inc. v. U.S. Healthcare, Inc., 140 F.3d 494, 523, 524 (3d Cir. 1998); see
+also e.g. Viacom Int’l v. Icahn, 747 F. Supp. 205, 211, 213 (S.D.N.Y. 1990) (the defendant’s use
+of “greenmail” tactics to induce the plaintiff to part with valuable consideration out of economic
+fear of a takeover attempt does not constitute Hobbs Act “extortion,” because “in an extortion
+scenario the alleged victim has a pre-existing entitlement to pursue his business interests free of
+the [economic] fear” being generated by the defendant, and a business “does not have a preexisting right to be free from the problems and fears of a takeover threat”), aff’d on other
+grounds, 946 F.2d 998 (2d Cir. 1991).
+The alleged purpose of Defendants’ “attempted extortion under the Hobbs Act[ ]” in this
+case is not “a wrongful purpose” under the law, but rather the wholly “legitimate” purpose,
+Clemente, 640 F.2d at 1077, of “achiev[ing] [the] legitimate labor end[ ],” Enmons, 410 U.S. at
+401, of a card check and neutrality agreement lawful under J.P. Morgan Hotel, 996 F.2d at 566.
+That being so, Cintas’ claim that Defendants are committing the RICO predicate act of Hobbs
+Act “attempted extortion” by using fear of economic loss to pressure Cintas to enter into a lawful
+card check and neutrality agreement, fails at its inception under Enmons and Clemente.
+
+Case 1:08-cv-02185-WHP
+
+Document 36
+
+Filed 06/20/2008
+
+Page 15 of 46
+
+-92.
+
+The “Obtaining of Property” Requirement. Cintas’ Hobbs Act “attempted
+
+extortion” claim fails on a separate and independent statutory ground as well: on a
+straightforward application of the Supreme Court’s decision in Scheidler v. NOW, Inc., 537 U.S.
+393 (2003), and the Second Circuit’s reading of Scheidler in United States v. Gotti, 459 F.3d 296
+(2d Cir. 2006), that claim does not meet the Hobbs Act’s “obtaining of property” requirement.
+(a)
+
+In Scheidler, the defendant abortion protestors used force to
+
+“interfere[ ] with, and in some instances completely disrupt[ ], the ability of the [plaintiff
+abortion] clinics to function.” 537 U.S. at 401. The clinics argued that this conduct amounted to
+RICO Hobbs Act extortion on the following legal theory: by using force to deprive the clinics of
+the clinics’ right to exclusive control of their businesses and of how to use their business assets,
+the defendants had “obtained” the clinics’ asserted “intangible” property right “to exercise
+exclusive control over the use of [the clinics’] business assets.” Id. at 401-02.
+The Supreme Court squarely rejected this legal theory. The Court—after assuming
+without deciding that “something as intangible” as the right “to exercise exclusive control over
+the use of a party’s business assets” could qualify as “property” under the Hobbs Act, id. at
+402—then stated: “Whatever the outer boundaries [‘of extortion liability under the Hobbs Act’]
+may be, the effort to characterize [defendants’] actions here as an ‘obtaining of property from’
+[plaintiffs] is well beyond them.” Id. (emphasis added). The Court elaborated, in the decisive
+paragraph of its opinion:
+There is no dispute in these cases that [defendants] interfered with,
+disrupted, and in some instances completely deprived [plaintiffs]
+of their ability to exercise their property rights. . . . But . . . their
+acts of interference and disruption . . . did not constitute extortion
+because [defendants] did not “obtain” respondents’ property.
+[Defendants] may have deprived or sought to deprive [plaintiffs] of
+their alleged property right of exclusive control of their business
+assets, but they did not acquire any such property. [Defendants]
+
+Case 1:08-cv-02185-WHP
+
+Document 36
+
+Filed 06/20/2008
+
+Page 16 of 46
+
+- 10 neither pursued nor received “something of value from” [plaintiffs]
+that they could exercise, transfer, or sell.” [Id. at 404-05
+(emphasis added) (citation omitted).]
+“To conclude that such actions constituted extortion,” the Court held, “would effectively discard
+the statutory requirement that property must be obtained from another, replacing it instead with
+the notion that merely interfering with or depriving someone of property is sufficient to
+constitute extortion.” Id. at 405 (emphasis added).
+In Gotti, the Second Circuit made two points about Scheidler: First, Scheidler “did not
+overturn [United States v. Tropiano, 418 F.2d 1069 (2d Cir. 1969)’s] broad interpretation of the
+Hobbs Act’s reference to ‘property,’ nor otherwise suggest that only tangible property rights can
+be extorted under the Hobbs Act.” 459 F.3d at 323. Second, Scheidler “tighten[ed] the
+‘obtaining’ requirement of the Hobbs Act” by holding that that requirement entails “both a
+deprivation and an acquisition of property.” Id. (emphasis added). In the latter regard, said the
+Gotti Court, the Scheidler Court’s “explanation” as to “why the [defendant] anti-abortion
+protestors could not be viewed as having acquired [the plaintiff abortion clinics’] property,” id.,
+leads to the conclusion that the “obtaining of property” requirement test is whether the alleged
+extortionists are “seeking simply to deprive someone of a right,” or are seeking in addition to
+“do[ ] [something] affirmative with that right themselves,” id. at 323-24.
+Gotti therefore “hold[s]” that “in evaluating an extortion count’s conformity with”
+Scheidler—“i.e., whether it adequately alleges the ‘obtaining of property’ for purposes of the
+Hobbs Act’s definition of extortion—the key inquiry is whether the defendant is (1) alleged to
+have carried out (or, in the case of attempted extortion, attempted to carry out) the deprivation of
+a property right from another, with (2) the intent to exercise, sell, transfer, or take some other
+analogous action with respect to that right.” Id. at 324.
+
+Case 1:08-cv-02185-WHP
+
+Document 36
+
+Filed 06/20/2008
+
+Page 17 of 46
+
+- 11 The Government’s proof in support of the extortion and attempted extortion counts
+upheld in Gotti clearly satisfied this legal standard. For example, on “[t]he ILA Counts,” the
+defendants seized and “exercised” control over the internal affairs of the International
+Longshoreman’s Association (“ILA”), “first by using force to determine ‘who filled various
+International Executive Officer and other ILA positions’ in order to ‘ensure that organized crime
+associates would be placed in these positions,’ and then by directing the activities of those officeholders.” Id. at 302. On “[t]he Alayev Counts,” the defendants seized and exercised physical
+control over part of a restaurant’s operations, by “install[ing]” gambling machines in the
+restaurant against the owner’s will, “collect[ing] money from th[ose] machines” which the
+defendants kept for themselves, and eventually forcing a sale of the restaurant from which one of
+the defendants “ended up taking a portion of” the proceeds. Id. at 313-14. And, on “[t]he Seagal
+Counts,” the defendants through threats of force sought to have an actor pay them money and
+provide them his acting services. Id. at 314-15.
+(b)
+
+Cintas’ Complaint alleges that the “extortion[ate]” objective of
+
+Defendants’ negative publicity and boycott campaign is to pressure Cintas to “enter into a card
+check and neutrality agreement.” Cplt. ¶ 9. Given “Tropiano’s broad interpretation of the
+Hobbs Act’s reference to ‘property,’” Gotti, 459 F.3d at 323, we assume for purposes of analysis
+that the intangible employer rights affected by a card check and neutrality agreement qualify as
+“property” under the Hobbs Act. Granting Cintas that much for present purposes, it is plain that
+Defendants are not seeking to obtain any such property from Cintas, and that Cintas’ “attempted
+extortion” claim fails on that basis.
+Here, as in Scheidler, the sum and substance of the plaintiff’s allegation is that the
+defendants are using coercive pressure “to dictate and restrict [the plaintiff’s business] actions
+
+Case 1:08-cv-02185-WHP
+
+Document 36
+
+Filed 06/20/2008
+
+Page 18 of 46
+
+- 12 and decisions.” Scheidler, 537 U.S. at 406. And, Scheidler squarely holds that coercive conduct
+by a defendant “to restrict another’s freedom of action” is not “extortion.” Id. at 405.
+Specifically, Cintas’ allegation is that Defendants are using fear of economic loss “to
+dictate and restrict [Cintas’] actions and decisions,” id. at 406, respecting whether (1) to exercise
+its employer right to oppose unionization, rather than be neutral on unionization; and (2) to
+exercise its employer right to refuse to agree to a card check procedure and to insist on an
+alternative NLRB election procedure for determining a union claim of majority status. For
+Hobbs Act “obtaining of property” purposes, that allegation is no different in kind from the
+plaintiff abortion clinics’ complaint in Scheidler that the defendant anti-abortion protestors used
+force “to dictate and restrict the [clinics’] actions and decisions” respecting whether to exercise
+their right to continue performing abortions, rather than to cease performing abortions.
+Here, as in Scheidler, on plaintiff’s allegations it fairly can be said that the defendants are
+seeking to deprive the plaintiff of its “alleged property right[s],” 537 U.S. at 405, i.e., to deprive
+Cintas of (1) its employer right to oppose, rather than be neutral on, unionization; and (2) its
+employer right to refuse to agree to a card check procedure, and to insist instead on an NLRB
+election procedure, for determining a union claim of majority status. And here, as in Scheidler, it
+fairly can be said that the defendants seek a benefit that may ultimately result from that
+deprivation. Given the employer’s control over his employees’ working lives, an employer
+campaign against unionization and, as part of such a campaign, an employer refusal to agree to a
+card check procedure and to insist on a union-employer contest through an NLRB election
+procedure, stand as major obstacles to the exercise by employees of their right to form and join a
+union that is engaged in an organizing campaign.
+
+Case 1:08-cv-02185-WHP
+
+Document 36
+
+Filed 06/20/2008
+
+Page 19 of 46
+
+- 13 But here, as in Scheidler, it cannot fairly be said that the defendants are seeking to
+“acquire any such property,” 537 U.S. at 405 (emphasis added), i.e., that the defendants are
+seeking to “deprive[ ] [the plaintiff] of [its asserted intangible] property right[s] . . . with . . . the
+intent to exercise, sell, transfer, or take some other analogous action with respect to th[ose]
+right[s].” Gotti, 459 F.3d at 324. The Defendant unions in this case quite obviously are not
+seeking to acquire and exercise for themselves Cintas’ right to oppose unionization, or Cintas’
+right to refuse a card check procedure and to insist on an NLRB election procedure. And, neither
+the Defendant unions nor Cintas would acquire any property right (intangible or otherwise) from
+the other. As the Second Circuit explained in J.P. Morgan Hotel, supra, through a card check
+and neutrality agreement, each party
+g[i]ve[s] up rights under the [National Labor Relations] Act . . . in
+an effort to make the union recognition process less burdensome
+for both . . . [and] to resolve peacefully those tensions inevitably
+flowing from a union organizing effort. [996 F.2d at 566
+(emphasis added); see also Cplt., Exh. 9.]
+In this regard, a card check and neutrality agreement is the exact analogue to an
+agreement between two parties to determine a breach of contract claim, or any other legal claim,
+through arbitration rather than through judicial or administrative proceedings. As the Third
+Circuit aptly put the point in Sage Hospitality, supra:
+The fact that a [Card Check and] Neutrality Agreement—like any
+other labor arbitration agreement—benefits both parties with
+efficiency and cost saving does not transform it into a payment or
+delivery of some benefit. Furthermore, any benefit to the union
+inherent in a more efficient resolution of recognition disputes does
+not constitute a ‘thing of value’ within the meaning of the statute [,
+29 U.S.C. § 186, enacted by Congress “to address bribery,
+extortion and other corrupt practices” in labor-management
+relations]. [390 F.3d at 219 (emphasis added).]
+The critical point is that a card check and neutrality agreement is not an employer grant to the
+union of the status of an exclusive bargaining representative; rather, it is an agreement for a
+
+Case 1:08-cv-02185-WHP
+
+Document 36
+
+Filed 06/20/2008
+
+Page 20 of 46
+
+- 14 process by which the employees will determine for themselves whether to grant the union that
+status. Supra p. 4.
+In short, Cintas’ allegation that Defendants are seeking to pressure Cintas to enter into a
+card check and neutrality agreement does not, under the legal standard established in Scheidler
+and fleshed out in Gotti, constitute a legally sufficient allegation that Defendants are seeking to
+“obtain” Cintas’ asserted intangible property rights within the meaning of the Hobbs Act.
+B.
+
+Cintas’ Hobbs Act Claim Also Fails On Independent First Amendment And
+Federal Labor Law Grounds.
+
+As we have shown, Cintas’ Hobbs Act “attempted extortion” claim fails on pure statutory
+interpretation grounds. As we now show, Cintas’ claim also fails on the further ground that the
+First Amendment and the federal labor laws stand as bars to that claim.
+1.
+
+The First Amendment. Cintas’ RICO claim is that the Hobbs Act makes
+
+it the felony crime of “attempted extortion” for a union to engage in a negative publicity and
+boycott campaign—comprised of disparaging commentary on an employer and free speech
+appeals to independent third parties not to deal with the employer—that puts pressure on the
+employer, through fear of economic loss, to enter into a lawful card check and neutrality
+agreement with the union. The First Amendment stands as a bar to that RICO Hobbs Act claim,
+as the pertinent Supreme Court case law and the Second Circuit’s decision in Metropolitan
+Opera, supra, 239 F.3d 172, applying that case law make abundantly clear.
+It is settled law that labor unions—in common with, for example, civil rights,
+environmental and anti-abortion organizations—have a First Amendment right to publicize their
+objections to a company’s business practices, and to urge independent third parties to boycott
+that company, as a means of pressuring the company to make lawful changes in its business
+practices. As Thornhill v. Alabama, 310 U.S. 88, 102 (1940) states, “the dissemination of
+
+Case 1:08-cv-02185-WHP
+
+Document 36
+
+Filed 06/20/2008
+
+Page 21 of 46
+
+- 15 information concerning the facts of a labor dispute must be regarded as within the area of free
+discussion that is guaranteed by the Constitution.” And, that is so where the information is
+intended to and “may persuade some of those reached to refrain from entering into advantageous
+relations with the business establishment which is the scene of the dispute.” Id. at 104.
+The Second Circuit’s decision in Metropolitan Opera, supra, 239 F.3d 172, could not be
+clearer in this regard. In that case, the defendant Union was seeking a lawful card check and
+neutrality agreement from Restaurant Associates, a food services vendor. In that connection, the
+Union initiated “a campaign of public criticism” and associated “boycott” activities directed at
+the Metropolitan Opera (“Met”)—which had contracted with Restaurant Associates to provide
+food services at the Met—designed to “pressure” the Met “to help resolve [the] dispute” with
+Restaurant Associates over the card check and neutrality agreement “in the Union’s favor.” Id.
+at 174-75, 177. The Met, citing its status as a neutral third party to the underlying labor dispute,
+sought and secured a district court injunction against the Union’s campaign. The Second Circuit,
+in recognition that “the Supreme Court has expressly afforded a special breadth of protection
+[under the First Amendment] to union speech that publicizes labor conflicts,” id. at 177,
+dissolved the injunction, and in so doing emphasized:
+[W]e do not ascribe any particular significance to the district
+court’s finding that the Union was motivated to coerce the Met
+through social pressure and the threat of social ostracism. The
+district court found the Union’s actions to be “harassing” and
+“threatening” when the Union warned of “repercussions” against
+those who did not join its boycott. Such “repercussions” included,
+for example, follow-up leafleting condemning [another neutral
+employer] for refusing to join. Especially within the labor context,
+in seeking to exert social pressure on the Met, the Union’s methods
+may be harassing, upsetting, or coercive, but unless we are to
+depart from settled First Amendment principles, they are
+constitutionally protected.
+See e.g., NAACP v. Claiborne
+Hardware Co., 458 U.S. 886, 909-11 (1982) . . .; Organization for
+a Better Austin v. Keefe, 402 U.S. 415, 419 (1971). [Id. at 177-78.]
+
+Case 1:08-cv-02185-WHP
+
+Document 36
+
+Filed 06/20/2008
+
+Page 22 of 46
+
+- 16 In the cited portion of the Keefe decision, the Supreme Court had stated: “[t]he claim that
+the expressions were intended to exercise a coercive impact on respondent does not remove them
+from the reach of the First Amendment. Petitioners plainly intended to influence respondent’s
+conduct by their activities; this is not fundamentally different from the function of a newspaper.”
+And, in the cited portion of its Claiborne Hardware decision, the Supreme Court had reaffirmed
+this core First Amendment principle. See also Beverly Hills Foodland v. UFCW, Local 655, 39
+F.3d 191, 197 (8th Cir. 1994) (under Keefe and Claiborne Hardware, “the prime directive in the
+Union [organizing] campaign, a boycott of [the target employer], is . . . constitutionally
+safeguarded,” as is the accompanying “activity of peaceful pamphleteering”).
+Metropolitan Opera’s holding that a union negative publicity and boycott campaign that
+puts pressure on a neutral third party to have that party help resolve a labor dispute generated by
+the union’s effort to secure a lawful card check and neutrality agreement from a primary
+employer is “constitutionally protected” entails the following conclusion: Defendants’ negative
+publicity and boycott campaign against Cintas that puts pressure on Cintas—the primary
+employer—to resolve a labor dispute by entering into a lawful card check and neutrality
+agreement, is “constitutionally protected.”
+And, the conclusion that Defendants’ negative publicity and boycott campaign against
+Cintas is “constitutionally protected,” in its turn, entails the further conclusion that the First
+Amendment stands as a bar to Cintas’ RICO Hobbs Act claim in this case. It goes without
+saying that Congress has no power to restrict—much less to criminalize—the exercise of
+“constitutionally protected” First Amendment rights. In other words, if the Hobbs Act plausibly
+could be construed to apply in the circumstances alleged by Cintas here—which we have shown
+it cannot be, see supra pp. 5-14—the Hobbs Act would be unconstitutional as so applied.
+
+Case 1:08-cv-02185-WHP
+
+Document 36
+
+Filed 06/20/2008
+
+Page 23 of 46
+
+- 17 At an irreducible minimum, applying the Hobbs Act as Cintas would have it apply here
+would raise “serious constitutional problems.” Clearing House Ass’n v. Cuomo, 510 F.3d 105,
+113 (2d Cir. 2007) (internal quotations and citation omitted). Accordingly, “the doctrine of
+constitutional avoidance,” id., dictates that the Hobbs Act be construed not to apply here. That is
+the teaching of DeBartolo Corp. v. Florida Gulf Coast Bldg. & Constr. Trades Council, 485 U.S.
+568 (1988), the leading labor law “constitutional avoidance” case.
+The issue in DeBartolo was whether the respondent union violated § 8(b)(4) of the
+National Labor Relations Act (“NLRA”) by “distributing handbills” urging “a consumer
+boycott” of a shopping mall in order to pressure the mall owner and its tenants to use “their
+influence” to help resolve a “primary labor dispute” with a mall construction contractor in the
+union’s favor. 485 U.S. at 570-71. The Supreme Court reversed the NLRB’s finding that the
+union’s consumer boycott handbilling violated § 8(b)(4), on the ground that “the Board’s
+construction of the statute, as applied in this case, poses serious questions of the validity of
+§ 8(b)(4) under the First Amendment.” Id. at 575. And, the Court explained that it had applied
+the constitutional avoidance doctrine to reach a similar result in “several” other labor cases:
+In NLRB v. Drivers, 362 U.S. 274, 284 (1960), for example, the
+Court rejected the Board’s interpretation of the phrase “restrain or
+coerce” [in § 8(b)(4)] to include peaceful recognitional picketing . .
+. . Similarly, in NLRB v. Fruit Packers, 377 U.S. 58, 63 (1964)
+(Tree Fruits), we disagreed with the Board’s determination that §
+8(b)(4)(ii)(B) prohibited all consumer picketing at a secondary
+establishment, . . . [based, inter alia, on the] concern that a broad
+ban against peaceful picketing might collide with the guarantees of
+the First Amendment. [485 U.S. at 577-78.]
+Eastern R.R. Presidents Conference v. Noerr Motor Freight, 365 U.S. 127 (1961), the
+leading Supreme Court “constitutional avoidance” case outside the labor law context, is precisely
+to the same effect. The issue in Noerr was whether the defendant railroads violated the Sherman
+Act by “conduct[ing] a publicity campaign against the [plaintiff] truckers designed to foster the
+
+Case 1:08-cv-02185-WHP
+
+Document 36
+
+Filed 06/20/2008
+
+Page 24 of 46
+
+- 18 adoption and retention of laws and law enforcement practices destructive of the trucking
+business, to create an atmosphere of distaste for the truckers among the general public, and to
+impair the relationships existing between the truckers and their customers.” Id. at 129. In
+holding that the railroads’ publicity campaign did not violate the Sherman Act, the Court
+emphasized that a contrary construction of the Act “would raise important constitutional
+questions. The right of petition is one of the freedoms protected by the Bill of Rights, and we
+cannot, of course, lightly impute to Congress an intent to invade these freedoms.” Id. at 138.
+In short, given the constitutional protection afforded Defendants’ negative publicity and
+boycott campaign against Cintas, acceptance of Cintas’ claim that the Hobbs Act is to be read to
+criminalize such a campaign would “pose[ ] serious”—indeed, unanswerable—“questions of the
+[constitutional] validity of [the Hobbs Act] . . . [‘as applied in this case’].” DeBartolo, 485 U.S.
+at 575. For that constitutional reason—in addition to the separate statutory reasons given in the
+Enmons/Clemente and Scheidler/Gotti decisions, respectively—Cintas “cannot use the [Hobbs
+Act and RICO] either as a shield [against Defendants’ campaign], or as a sword to [kill that
+campaign].” Cf. Bosley Med. Inst., Inc. v. Kremer, 403 F.3d 672, 680 (9th Cir. 2005) (discussed
+infra pp. 24-26, in the context of our showing that the First Amendment also stands as a bar to
+Cintas’ Lanham Act claims in this case).
+2. The Federal Labor Laws. The same conclusion follows from the
+federal labor law principles enunciated by the Supreme Court in Teamsters Union v. Morton, 377
+U.S. 252 (1964) and Machinists v. Wisconsin Empl. Rel. Comm’n, 427 U.S. 132 (1976).
+Morton raised the question of whether “the Ohio law of secondary boycott can be applied
+to proscribe the same type of conduct which Congress focused upon but did not proscribe when
+it enacted [the federal labor law’s secondary boycott provisions].” 377 U.S. at 259-60. The
+
+Case 1:08-cv-02185-WHP
+
+Document 36
+
+Filed 06/20/2008
+
+Page 25 of 46
+
+- 19 Court answered that question “no.” It did so where the Ohio law had been applied to proscribe
+the defendant union’s “request to [a neutral employer’s] management to cease doing business
+with [the employer with whom the union had a labor dispute,]” and on the following ground:
+[A] union is free to approach [a neutral] employer to persuade him
+to engage in a boycott [of a primary employer], so long as it
+refrains from the specifically prohibited means of coercion through
+inducement of employees. . . . This weapon of self-help, permitted
+by federal law, formed an integral part of the [union’s] effort to
+achieve its bargaining goals during negotiations with the [primary
+employer]. Allowing its use is a part of the balance struck by
+Congress between the conflicting interests of the union, the
+employees, the employer and the community. . . . [T]he inevitable
+result [of applying the Ohio secondary boycott law] would be to
+frustrate the congressional determination to leave this weapon of
+self-help available, and to upset the balance of power between
+labor and management expressed in our national labor policy. . . .
+We hold, therefore, that the damages awarded against the [union]
+based upon its peaceful persuasion of [the neutral employer’s]
+management not to do business with the [primary employer]
+during the strike cannot stand. [Id. (internal quotations and
+citations omitted).]
+As the Court added in Machinists, in invalidating a state labor board order enjoining “a
+union and its members from continuing to refuse to work overtime pursuant to a union policy to
+put economic pressure on the employer in negotiations for renewal of an expired collectivebargaining agreement,” 427 U.S. at 133: “Central to Morton’s analysis was the observation that
+in selecting which forms of economic pressure should be prohibited, Congress struck the balance
+between the uncontrolled power of management and labor to further their respective interests.”
+Id. at 146 (internal quotations and ellipsis omitted). It follows, said the Court, that “[t]o sanction
+state regulation of such economic pressure deemed by the federal Act desirably left for the free
+play of contending economic forces is not merely to fill a gap by outlawing what federal law
+fails to outlaw; it is denying one party to an economic contest a weapon that Congress meant him
+to have available.” Id. at 150 (internal quotations, brackets and ellipsis omitted).
+
+Case 1:08-cv-02185-WHP
+
+Document 36
+
+Filed 06/20/2008
+
+Page 26 of 46
+
+- 20 Morton and Machinists hold, in terms, that state laws cannot be applied to “regulat[e] . . .
+economic pressure [devices] deemed by the federal [labor] Act desirably left for the free play of
+contending economic forces.” Machinists, 427 U.S. at 150. Their rationale, however, goes
+further and provides that general federal laws, like the Hobbs Act and RICO, cannot be applied
+to regulate through criminal and civil sanctions the economic pressure device at issue here—i.e.,
+a negative publicity and boycott campaign, through free speech appeals to independent third
+parties, to pressure Cintas to resolve a labor dispute in the Defendant unions’ favor. For, like the
+application of the Ohio secondary boycott law to the union pressure device at issue in Morton—
+i.e., a union request to a neutral employer to cease doing business with a primary employer to put
+pressure on the latter to resolve a labor dispute in the union’s favor—the application of the
+Hobbs Act and RICO to the union pressure device of the same kind at issue here “is not merely
+to fill a gap by outlawing what federal [labor] law fails to outlaw; it is denying one party to an
+economic contest a weapon that Congress meant him to have available.” Id.
+As the Third Circuit put the point in concluding that a card check and neutrality
+agreement does not violate the general prohibitions of § 302 of the NLRA, 29 U.S.C. § 186:
+Issues of labor-unit recognition and bargaining are
+comprehensively regulated by the NLRA. Courts have repeatedly
+upheld labor-management agreements providing for arbitration
+over recognition disputes. Sage’s interpretation of section 302
+would wreak havoc on the carefully balanced structure of the laws
+governing recognition of and bargaining with unions. [Sage
+Hospitality, supra, 390 F.3d at 219.]
+See also United States v. DeLaurentis, 491 F.2d 208, 213-14 (2d Cir. 1974) (“Congress has paid
+a great deal of attention to its enactments in the labor field,” and against that background, it
+cannot be concluded that Congress, in a civil rights statute of general applicability, “silently
+import[ed] sweeping criminal liability into the regulation of labor relations.”).
+*
+
+*
+
+*
+
+*
+
+Case 1:08-cv-02185-WHP
+
+Document 36
+
+Filed 06/20/2008
+
+Page 27 of 46
+
+- 21 To be sure, Cintas does allege that Defendants in carrying out their negative publicity and
+boycott campaign against Cintas have, in a handful of instances, either “defam[ed]” Cintas or
+committed other “tort[s].” See Cplt. ¶¶ 8, 205-19. To put the matter in perspective, however,
+while Cintas alleges that Defendants have since “early 2003,” id. ¶ 88, engaged in the “almost
+daily publication of misleading, negative and/or damaging information about Cintas to countless
+third parties,” id. ¶ 93 (emphasis added), Cintas’ Complaint contains a single state law
+defamation Count based on a single press release, see id. ¶¶ 334-341. Defendants deny the
+allegations of defamatory speech and other “tort[s],” but for present purposes it suffices to point
+out that the law provides for remedies designed specifically to deal with any such torts
+committed by Defendants. See e.g. Linn v. Plant Guard Workers, 383 U.S. 53 (1966).
+What the law manifestly does not provide for is Cintas’ effort to press the Hobbs Act
+(and, by extension, RICO) into service as a means of preventing Defendants from continuing a
+negative publicity and boycott campaign against Cintas that—aside from any defamations or
+other torts that may have been committed in the course of that campaign—is protected by the
+First Amendment and lawful under the federal labor laws. For the mere fact that isolated torts,
+remediable under state law, may have been committed in the course of an otherwise lawful
+negative publicity and boycott campaign entitled to constitutional protection cannot somehow
+transmute that campaign into an entirely unlawful campaign—much less into an “extortionate”
+campaign violative of the Hobbs Act and RICO. Compare Noerr, supra, 365 U.S. at 140-41
+(that the defendant railroads have engaged in certain “decept[ive]” and “unethical” practices
+during the course of their otherwise constitutionally protected “publicity campaign” against the
+plaintiff truckers does not transmute that “publicity campaign” into a Sherman Act violation;
+“[i]nsofar as that Act sets up a code of ethics at all, it is a code that condemns trade restraints, not
+
+Case 1:08-cv-02185-WHP
+
+Document 36
+
+Filed 06/20/2008
+
+Page 28 of 46
+
+- 22 political activity, and . . . a publicity campaign to influence governmental action falls clearly into
+the category of political activity”).
+C.
+
+Cintas’ Travel Act and “State Law Extortion” Allegations Cannot Salvage
+Its Rico Claims.
+
+Under the Supreme Court’s decision in Scheidler, our showing that the conduct alleged
+by Cintas here does not as a matter of law constitute the RICO predicate act of Hobbs Act
+“attempted extortion”—and, indeed, could not be found to constitute “attempted extortion” under
+the Hobbs Act consistent with the First Amendment and the federal labor laws—brings down
+Cintas’ claim that this same conduct constitutes the RICO predicate acts of (i) using the facilities
+of interstate commerce to commit extortion in violation of the Travel Act; and (ii) “extortion and
+attempted extortion” under Ohio law. See supra p.2 n.1.
+In Scheidler, the Court held that “for a state offense to be an ‘act or threat involving . . .
+extortion, . . . which is chargeable under State law,’ as RICO requires, . . . the conduct must be
+capable of being generically classified as extortionate.” 537 U.S. at 409. And, the Court
+adopted for this purpose the following generic definition of extortion that had been adopted by
+the Court for Travel Act purposes in United States v. Nardello, 393 U.S. 286 (1969): “obtaining
+something of value from another with his consent induced by the wrongful use of force, fear, or
+threats.” Scheidler, 537 U.S. at 410. That generic definition of extortion—which includes both
+the “wrongful[ness]” requirement and the “obtaining” requirement—is for present purposes
+indistinguishable from the Hobbs Act definition of extortion. Accordingly, the words of the
+Scheidler Court respecting the state law and Travel Act claims asserted as RICO predicate
+crimes in that case are squarely applicable here:
+Because petitioners did not [“as the Hobbs Act requires”] obtain or
+attempt to obtain respondents’ property, both the state extortion
+claims and the claim of attempting or conspiring to commit state
+extortion were fatally flawed [“for RICO purposes.”] The 23
+
+Case 1:08-cv-02185-WHP
+
+Document 36
+
+Filed 06/20/2008
+
+Page 29 of 46
+
+- 23 violations of the Travel Act and 23 acts of attempting to violate the
+Travel Act also fail. These acts were committed in furtherance of
+allegedly extortionate conduct. But we have already determined
+that petitioners did not commit or attempt to commit extortion.
+[537 U.S. at 410.]
+And, of course, on the same analysis, Cintas’ failure to meet the Hobbs Act’s
+“wrongful[ness]” requirement is an independent fatal flaw in Cintas’ attempt to base its RICO
+claims on the predicate crimes of state law extortion and the Travel Act.
+II.
+
+EACH OF THE LANHAM ACT COUNTS (Counts Six Through Nine) FAILS TO
+STATE A CLAIM ON WHICH RELIEF MAY BE GRANTED.
+Cintas asserts four Lanham Act claims: trademark infringement in violation of 15 U.S.C.
+
+§ 1114(a) (Count 6); trademark dilution in violation of 15 U.S.C. § 1125(c) (Count 7); unfair
+competition in violation of 15 U.S.C. § 1125(a)(1) (Count 8); and cybersquatting in violation of
+15 U.S.C. § 1125(d) (Count 9). These counts are based on the following allegations:
+To carry out its “negative public relations campaign against Cintas” (the “Uniform
+Justice” campaign), in December 2002 defendants UNITE HERE, Unger, and Antonowicz
+(collectively “UNITE HERE”) established three websites by registering three “CintasExposed”
+Internet addresses, or “domain names”; the site principally used in the campaign bears an “.org”
+suffix; the other two bear “.com” and “.net” suffixes respectively. Cplt. ¶¶ 232-36.
+The CintasExposed.org site is devoted entirely to criticism of Cintas and its business
+practices; the site itself neither offers for sale any goods or services nor solicits contributions
+from the public or union members. Id. ¶ 240. Immediately upon entering the CintasExposed.org
+website, a visitor is “informed that the website purports to be ‘an independent source of
+consumer information from UNITE HERE.’” Id. ¶ 238. An exhibit attached to the Complaint,
+which is properly treated as part of the Complaint for Rule 12(b)(6) purposes, see I. Meyer
+Pincus & Assocs. v. Oppenheimer & Co., Inc., 936 F.2d 759, 762 (2d Cir.1991), establishes that
+
+Case 1:08-cv-02185-WHP
+
+Document 36
+
+Filed 06/20/2008
+
+Page 30 of 46
+
+- 24 this identification of UNITE HERE as the source of the information is prominent, appearing at
+the top of the CintasExposed.org home page. See Cplt., Exh. 27. Cintas’ own official website
+bears the address “Cintas.com.” Id. ¶ 250.
+On these allegations, all four Lanham Act counts are due to be dismissed under Rule
+12(b)(6). Counts 6, 7 and 8 rest on Lanham Act provisions that make a person’s use of another’s
+trademark actionable only where the person has made commercial use of the mark, and Counts 6,
+7 and 8 fail to meet that basic statutory requirement. The Count 6 and 8 statutory provisions also
+make a person’s use of another’s trademark actionable only where that use creates a “likelihood
+of confusion,” and those Counts fail to meet that separate requirement as well. The Count 7 also
+statutory provision makes a person’s use of another’s trademark actionable only where that use
+“dilutes” the association between the mark and the mark owner’s goods or services, and Count 7
+fails to meet that additional requirement. Finally, the Count 9 statutory provision makes the
+registration of a domain name actionable only where the registrant (i) registered a name
+identical, confusingly similar to, or dilutive of another’s trade name; and (ii) acted with a bad
+faith intent to profit from the registration. Count 9 fails to meet both of those requirements.
+A.
+
+Counts Six, Seven And Eight Fail To Allege That UNITE HERE Made
+“Commercial Use” Of Cintas’ Trademark
+
+The Lanham Act provisions underlying Counts 6, 7 and 8 rest on a common statutory
+requirement: that a person’s use of another’s trademark is actionable only where the person has
+made commercial use of the mark—that is, where the person has used the owner’s mark to sell or
+market goods or services, and has not merely used the owner’s mark to criticize the owner’s
+goods or services. Counts 6, 7 and 8 fail to meet this basic requirement.
+1.
+
+We begin with Bosley Medical Institute, Inc. v. Kremer, 403 F.3d 672, 676
+
+(9th Cir. 2005), the appellate decision most closely on point. In that case, Bosley, a physician
+
+Case 1:08-cv-02185-WHP
+
+Document 36
+
+Filed 06/20/2008
+
+Page 31 of 46
+
+- 25 who operated his hair replacement practice under the trade name of “Bosley Medical,” brought
+both a traditional “infringement” claim under § 1114(a) and a “dilution” claim under § 1125(c)
+against a disgruntled former customer who created “BosleyMedical.com,” a website devoted to
+criticism of Bosley Medical.
+In rejecting the plaintiff’s claims, the court of appeals began by observing that § 1114(a)
+contains a limiting clause that renders actionable only the use of another’s trademark “in
+connection with the sale, offering for sale, or distribution of goods or services,” and that §
+1125(c) contains a limiting clause that renders actionable only the “commercial use in
+commerce” of another’s mark. The court explained that, although the two limiting clauses
+employ different verbal formulas, both express the same substantive concept: that only persons
+who use a trademark owner’s mark to sell or market their own or a third party’s goods or
+services—and not those who use the owner’s mark solely to engage in commentary or criticism
+about the mark owner—are within the statute’s reach. 403 F.3d at 678-79. See also id. at 676
+(“the term ‘commercial use in commerce’ is … roughly analogous to the ‘in connection with’
+sale of goods and services requirement of the infringement statute”). On this basis, the court
+held that the defendant had made no “commercial use” of the mark, because he had used Bosley
+Medical’s mark solely to criticize the company. Id. at 678.
+The Bosley Medical court added that it was untenable to read the “in connection with”
+clause of § 1114(a) to reach persons who use a mark only in connection with the trademark
+owner’s goods or services. Doing so would stretch § 1114(a) to “encompass almost all uses of a
+registered trademark, even when the mark is merely being used to identify the object of
+consumer criticism,” and according the provision such a broad reach “is supported by neither the
+text of the statute nor the history of trademark laws in this country.” Id. at 679. Those laws, the
+
+Case 1:08-cv-02185-WHP
+
+Document 36
+
+Filed 06/20/2008
+
+Page 32 of 46
+
+- 26 court explained, were adopted to redress competitive injuries, and “[the defendant] is not
+Bosley’s competitor; he is their critic.” Id.
+The Bosley Medical court observed as well that limiting §§ 1114(a) and 1125(c) to
+commercial uses serves to assure that the provisions do not conflict with the First Amendment.
+Id. at 677. In the court’s pithy phrase: “Bosley cannot use the Lanham Act either as a shield
+from [the defendant’s] criticism, or as a sword to shut [the defendant] up.” Id. at 680.
+A recent decision by the Tenth Circuit, Utah Lighthouse Ministry v. Foundation for
+Apologetic Information, 2008 U.S. App. LEXIS 11523 (10th Cir. May 29, 2008), follows Bosley
+Medical in every respect, and goes on to interpret the “in connection with any goods or services”
+clause in § 1125(a)(1)—at issue in Utah Lighthouse and in this case, but not in Bosley Medical—
+to include the same “commercial use” requirement that Bosley Medical held to be encompassed
+within § 1114(a)’s “in connection with the sale … of goods or services” clause. Id. at *14. The
+Tenth Circuit accordingly rejected Lanham Act unfair competition and dilution claims by the
+owner of the “Utah Lighthouse” trademark against the owner of the utahlighthouse.org and .com
+domain names, who used those domain names to criticize the mark owner. The court reasoned
+that “the defendant in a trademark infringement and unfair competition case must use the mark in
+connection with the goods or services of a competing producer, not merely to make a comment
+on the trademark owner’s own goods or services.” Id. at *16.
+The Bosley Medical and Utah Lighthouse treatment of §§ 1114(a), 1125(a), and 1125(c)
+accords with Bihari v. Gross, 119 F. Supp. 2d 309, 318 (S.D.N.Y. 2000), where the court held
+that the “in connection with any goods or services” clause in § 1125(a)(1) is limited to use in
+connection with the alleged infringer’s goods or services and imposes a “commercial use”
+requirement parallel to that set forth in § 1125(c). See also, e.g., Ford Motor Co. v. 2600
+
+Case 1:08-cv-02185-WHP
+
+Document 36
+
+Filed 06/20/2008
+
+Page 33 of 46
+
+- 27 Enterprises, 177 F.Supp. 2d 661, 665 (E.D. Mich. 2001) (§ 1114(a)’s “in connection with …
+goods or services” clause encompasses only use of a mark in connection with goods or services
+marketed by a non-markholder).
+Further, Bosley Medical’s observation that it would be inconsistent with the “history of
+trademark laws in this country” to read the “in connection with” clause to encompass uses that
+are solely in connection with the trademark owner’s goods or services accords with the decision
+in Wojnarowicz v. American Family Association, 745 F. Supp. 130, 141-42 (S.D.N.Y. 1990),
+which thoroughly reviewed that history.
+In Wojnarowicz, the court explained that between the Lanham Act’s adoption in 1946 and
+its amendment in 1988, it was uniformly understood that the clause in former § 1125(a) that
+authorized actions for false designations of origin or source “in connection with any goods or
+services” did not encompass uses of an owner’s mark to make false or disparaging statements
+about the mark owner’s goods or services. As the court said: “Until 1988, [§ 1125(a)] covered
+only misrepresentations concerning one’s own product, and did not apply to disparagement of a
+competitor’s product. See Fur Information and Fashion Council, Inc. v. E.F. Timme and Son,
+Inc., 501 F.2d 1048, 1051-52 (2d Cir. [1974]).”
+Then, in 1988, when § 1125(a) was amended to add, through § 1125(a)(1)(B), a new
+cause of action for false advertising—including certain kinds of false advertising about another
+person’s product—Congress, mindful of the First Amendment implications, expressly limited
+that new cause of action to “false or misleading representation[s] of fact, which … in commercial
+advertising or promotion, misrepresent[] the nature, characteristics, qualities, or geographic
+origin of his or her or another person’s goods, services, or commercial activities.” (Emphasis
+
+Case 1:08-cv-02185-WHP
+
+Document 36
+
+Filed 06/20/2008
+
+Page 34 of 46
+
+- 28 added.). In placing that amendment in its historical context, the Wojnarowicz court found the
+following passage from the legislative history of the amendment to be instructive:
+Under this proposed change only false or misleading “advertising
+or promotion” would be actionable, whether it pertained to the
+advertiser itself or another party. The change would exclude all
+other misrepresentations from [§ 1125(a)] coverage. These others
+are the type which raise free speech concerns, such as a Consumer
+Report which reviews and may disparage the quality … of
+products, [and] misrepresentations made by interested groups
+which may arguably disparage a company and its products.
+S. 1883, 101st Cong., 1st Sess., 135 Cong. Rec. 1207, 1217 (April 13, 1989) (as quoted in
+Wojnarowicz, 745 F. Supp. at 142) (second emphasis added).
+This history not only supports reading the former § 1125(a) as excluding uses of a
+trademark in connection with criticism of a mark owner’s goods or services, but compels the
+Bosley Medical and Utah Lighthouse courts’ parallel readings of § 1114(a) and the current §
+1125(a)(1)(A). For if one were to adopt the contrary position that the “in connection with”
+clauses include such uses, it would follow that the use of a mark to disparage “another person’s
+goods, services, or commercial activities”—conduct that the Wojnarowicz court explained had
+been outside the coverage of the Lanham Act until § 1125(a)(1)(B) was adopted in 1988—would
+have actually been within the coverage of the Act all along. Stranger still, the original 1946
+Lanham Act infringement and unfair competition provisions, now codified in sections 1114(a)
+and 1125(a)(1)(A) respectively, would magically be rendered more generous to disparagement
+claims than the new provision adopted by Congress in 1988 specifically to authorize such claims,
+in that they would not be burdened by the new § 1125(a)(1)(B)’s specific limits on
+disparagement cases. See Gmurzynska v. Hutton, 355 F.3d 206, 210 (2d Cir. 2004) (elaborating
+on those limits). Thus, as Bosley Medical and Utah Lighthouse hold, the only way to reconcile
+sections 1114(a) and 1125(a) with “the history of trademark laws in this country” is to recognize
+
+Case 1:08-cv-02185-WHP
+
+Document 36
+
+Filed 06/20/2008
+
+Page 35 of 46
+
+- 29 that these provisions exclude statutory coverage in cases where a mark is used solely in
+connection with the mark owner’s own goods or services.
+2.
+
+Consistent with the reasoning in Bosley Medical and with trademark law
+
+history, three district courts have dismissed Lanham Act claims under Rule 12(b)(6) for failure to
+meet the “commercial use” requirement in circumstances where, as here, a union defendant was
+allegedly using an employer’s trademark in disseminating derogatory information about an
+employer/markholder in order to exert pressure on the employer in a labor dispute. See Sodexho
+v. HERE Local 217, 989 F. Supp. 169, 172 (D. Conn. 1997); WHS Entm’t Ventures v. United
+Paperworkers Int’l Union, 997 F. Supp. 946, 949-51 (M.D. Tenn. 1998); Cellco P’ship v.
+Communications Workers of Am., 2003 U.S. Dist. LEXIS 26823 (D.N.J.).
+In Sodexho, the employer complained that the union defendants had, in the course of a
+negative publicity and boycott campaign, used the employer’s trade name in misleading flyers
+critical of its business practices. The court dismissed the complaint under Rule 12(b)(6):
+While defendants' actions may have been intended to encourage
+customers to choose a food service provider other than Sodexho,
+they were not intended to cause consumers to choose the defendant
+unions themselves as the food service providers… [T]he Lanham
+Act … does not only require disparagement of a service or product,
+it additionally requires that the defendant do so in order to promote
+its own service or product. [989 F. Supp. at 172].
+WHS is to the same effect. There the court, in a comprehensive opinion, dismissed an
+employer’s § 1125(a)(1) and § 1125(c) complaint against a union that used the employer’s mark
+in derogatory flyers distributed during a negative publicity campaign. 997 F. Supp. at 951.
+Cellco too was a Lanham Act suit by an employer against a union that used the
+employer’s trademarked slogan as part of a corporate campaign. The Cellco court followed
+Sodexho and WHS and added that “[a] union commenting on its employer adversary through
+using the latter’s slogan during a labor dispute” is exercising “its First Amendment right,” which
+
+Case 1:08-cv-02185-WHP
+
+Document 36
+
+Filed 06/20/2008
+
+Page 36 of 46
+
+- 30 should not be “jeopardized by an overly-broad construction of the Lanham Act.” 2003 U.S. Dist.
+LEXIS 26823 at *24 n.6.4
+3.
+
+When the foregoing legal principles are applied to the facts alleged in the
+
+Complaint, it is clear beyond any question that Counts 6, 7 and 8 fail to meet the “commercial
+use” requirement.
+As noted supra p. 23, the Cintas Exposed site is devoted exclusively to criticism of
+Cintas and neither sells nor advertises goods or services. The only nexus Cintas can identify
+between the Cintas Exposed website and the sale or marketing of any non-Cintas products or
+services is this: CintasExposed.org contains a hyperlink to the home page of UNITE HERE’s
+principal website UNITEHERE.org, a page that “primarily consists of inflammatory union
+rhetoric, much of which is directed at Cintas.” Cplt. ¶ 241. The UNITE HERE home page, in
+turn, includes 35 hyperlinks to other web pages, see Exh. 68, two of which Cintas deems
+relevant. One is a hyperlink to the home page of the UNITE HERE online store, which sells
+mugs, baseball caps, T-shirts, and similar bric-a-brac bearing the UNITE HERE logo, Cplt. ¶
+242; the other is to a “Buy Union” page whose purpose is “to encourage consumers to purchase
+only union-made products and apparel,” id. ¶ 243. The “Buy Union” page, in turn, contains
+hyperlinks to pages that contain further hyperlinks to union-friendly uniform and apparel
+manufacturers, some of which compete with Cintas. Id. ¶¶ 244-45.
+
+4
+
+In contending that the Lanham Act provisions at issue here apply only to commercial users of a
+trademark, we do not suggest that those provisions apply only to for-profit users. A nonprofit
+organization that, for example, appropriates a competing nonprofit organization’s trade name to
+solicit contributions is making a “commercial use” of that mark just as surely as is a for-profit
+entity. See United We Stand Am., Inc. v. United We Stand Am. N.Y. Inc., 128 F.3d 86, 90 (2d
+Cir. 1996). See also Smithers Found. v. St. Lukes Roosevelt Hosp. Ctr, 2001 WL 761076, at *4
+(S.D.N.Y.) (Pauley, J.) (noting that it was “crucial” to the holding in United We Stand that the
+plaintiff and defendant nonprofit organizations were “direct competitors”).
+
+Case 1:08-cv-02185-WHP
+
+Document 36
+
+Filed 06/20/2008
+
+Page 37 of 46
+
+- 31 These twice- and thrice-removed links to the sale of non-Cintas goods establish far too
+remote a connection between the Cintas Exposed website and the sale of those goods to
+transform the plainly noncommercial Cintas Exposed website into one that makes “commercial
+use” of Cintas’ trademark. Thus, in Bosley Medical, the Ninth Circuit rejected the argument that
+the defendant’s website devoted to criticism of the mark holder’s hair replacement services was
+rendered “commercial” by containing a hyperlink to a “discussion group” website that was, in
+turn, supported by advertising from competing hair replacement providers. The court held that
+this “roundabout path to the advertising of others is too attenuated to render [defendant’s] site
+commercial.” 403 F.3d at 678. The path that Cintas traces from the Cintas Exposed website to
+web pages that advertise non-Cintas goods for sale is even more “roundabout” and “attenuated”
+than that. Accord Utah Lighthouse, 2008 U.S. App. LEXIS 11523, at *13 (fact that gripe site
+contained link to home page of a site sponsored by an affiliated organization, which, in turn,
+included an online bookstore did not render gripe site “commercial”).
+4.
+
+In the face of Bosley Medical, the three on-point union 12(b)(6) cases, and
+
+the other cases discussed above—all holding that the use of a trademark solely in connection
+with criticism or disparagement of the mark owner’s goods, services or business practices does
+not constitute a commercial use—Cintas relies on OBH, Inc. v. Spotlight Magazine, Inc., 86 F.
+Supp. 2d 176 (W.D.N.Y. 2000), for the proposition that “a ‘commercial use’ is established any
+time an unauthorized use of a protected mark hinders or impacts the commercial success of the
+mark’s owner or otherwise disparages the mark owner.” See Cintas’ May 1, 2008 Letter to the
+Court. But OBH is a factually distinguishable case that only provides support for Cintas’
+assertion in an unsupported and unsound dictum.
+
+Case 1:08-cv-02185-WHP
+
+Document 36
+
+Filed 06/20/2008
+
+Page 38 of 46
+
+- 32 In OBH, the plaintiff and the defendant were in “direct competition” with one another.
+86 F. Supp. 2d at 182. The plaintiff owned the “The Buffalo News” trademark, and published
+the “Apartment Finder,” a circular containing rental listings. The defendant published the
+competing “Apartment Spotlight.” The defendant set up a website under the name
+“thebuffalonews.com,” and included on that site both criticism of the Buffalo News and a link to
+its own “Apartment Spotlight” publication. The district court began by holding that the use of
+“thebuffalonews.com” site to advertise a competing publication was a classic “commercial use.”
+The court nevertheless went on to add, in a cursory dictum, that “the ‘in connection with’
+requirement is not only met by use of the mark in connection with goods or services distributed
+or advertised by the alleged infringer; it may also be met by use in connection with the goods or
+services distributed by the trademark holder.” Id. at 186 (emphasis added).5
+The proposition stated in that dictum is in square conflict with the Lanham Act history set
+out above, and has been rejected in Bosley Medical, Utah Lighthouse and the numerous other
+cases cited supra at pp.26-29. It cannot therefore rescue Counts 6, 7 and 8 from dismissal for
+failure to meet the “commercial use” requirement.
+B.
+
+Counts Six And Eight Fail To Allege The Requisite “Likelihood of
+Confusion”
+
+A second requirement for a § 1114(a) claim of trademark infringement or a § 1125(a)
+claim of unfair competition is that the mark be used in such a way as to create a “likelihood of
+confusion” as to the source or sponsorship of the defendant’s goods or services. Louis Vuitton v.
+Dooney & Bourke, 454 F.3d 108, 114 (2d Cir. 2006). See also Famous Horse, Inc. v. Fifth
+5
+
+The OBH court supported its dictum only through reliance on a further dictum—a statement in
+Planned Parenthood v. Bucci, 1997 WL 133313 (S.D.N.Y.), aff’d mem., 152 F.3d 920 (2d Cir.
+1998), to the effect that the “in connection with” element can be met merely by showing a
+connection to the trademark owner’s services. That statement was a dictum because the court
+had already concluded that the defendant there had used the plaintiff’s mark to advertise, or
+“plug,” the sale of a book authored by one of his confederates. 1997 WL 133313 at * 4.
+
+Case 1:08-cv-02185-WHP
+
+Document 36
+
+Filed 06/20/2008
+
+Page 39 of 46
+
+- 33 Avenue Photo, Inc., 2008 WL 2156727 (S.D.N.Y. May 19, 2008) (Pauley, J.) (dismissing
+Lanham Act claim for failure to satisfy the confusion element); WHS Entm’t, 997 F. Supp. at
+951-52 (same). Cintas’ Counts 6 and 8 fail this requirement.
+Cintas contends that the use of the term “CintasExposed” as the domain name of a
+website critical of Cintas’ business practices is apt to confuse Internet users into believing that
+Cintas itself is the sponsor of the site. But it is plain from the allegations in the Complaint and
+the attached exhibits that Counts 6 and 8 do not meet the confusion requirement.
+An Internet user, upon entering the CintasExposed.org site, will immediately be
+confronted with a disclaimer, at the top of the page, “inform[ing] [the user] that the website
+purports to be ‘an independent source of consumer information from UNITE HERE.’” Cplt. ¶
+238.
+Although Cintas recognizes, as it must, that this disclaimer would instantly dispel any
+possible confusion as to whether Cintas sponsored the site, Cintas presses on, claiming that
+search engine users entering “Cintas” as a search term and viewing, as one of the items on the
+results list, “Cintas Exposed,” might experience momentary confusion, or “initial interest
+confusion,” Cplt. ¶ 254, during the fleeting period between forming the belief that “Cintas
+Exposed” might be Cintas’ official site and then seeing, after clicking onto the site, the
+disclaimer prominently declaring the site to be an “independent source of consumer information
+from UNITE HERE.” Such momentary confusion, Cintas argues, is sufficient to establish the
+likelihood-of-confusion element of a cause of action under §§ 1114(a) and 1125(a).
+Cintas is wrong for two separate and independent reasons.
+First, the Exhibits to the Complaint negate the existence of any confusion, including
+initial interest confusion. Exhibit 78 to the Complaint is a printout of the results generated by a
+
+Case 1:08-cv-02185-WHP
+
+Document 36
+
+Filed 06/20/2008
+
+Page 40 of 46
+
+- 34 search for “Cintas” on a search engine. This results page shows that, immediately following the
+listing for CintasExposed.org is a disclaimer that UNITE HERE included in the
+CintasExposed.org website as a “metatag”—a tag that can be read by Internet “search engines”
+and then displayed to assist search engine users. The disclaimer states: “CintasExposed.org is
+an independent website posted by the labor union UNITE. It contains criticism and information
+about the uniform and facilities services rental company Cintas…” Exh. 78.6
+After this factual hole in Cintas’ “initial interest confusion” theory was exposed at the
+May 27 status conference, Cintas amended its complaint and added a new exhibit (Exhibit 77) to
+show that some search engines do not display UNITE HERE’s metatag disclaimer. But Exhibit
+77 does not serve to fill the hole in Cintas’ theory. Cintas’ problem is that Exhibit 77, which sets
+out the results of searches for the term “Cintas” in a series of search engines, shows that, in every
+instance, the official company site, “Cintas.com”—which bears the intuitively obvious name for
+an official site7—is always listed first and well ahead of “CintasExposed.org.” Because the
+purpose of the “initial interest confusion” doctrine in the Internet context is to prevent an
+opportunist from diverting a user to another site before he or she encounters the company’s
+official site, see Brookfield Communications, Inc. v. West Coast Entm’t Corp., 174 F.3d 1036
+(9th Cir. 1999), the doctrine cannot logically be applied in cases where, as here, search engines
+list the mark owner’s official site above the “gripe site,” and the official site bears the intuitively
+obvious name whereas the lower-listed gripe site does not bear such a name.
+6
+
+At the May 27 status conference, counsel for Cintas stated that Exhibit 78 (which was then
+Exhibit 77) showed the results of a search using Google, the world’s most dominant search
+engine. Tr.21-22. The document itself indicates that Microsoft’s MSN search generated those
+results, but the discrepancy is immaterial, because it is a fact of public record that a search using
+Google generates the very same disclaimer as that displayed on Exhibit 78.
+7
+
+See Entrepreneur Media, Inc. v. Smith, 279 F.3d 1135, 1146 (9th Cir. 2002) (“Internet users
+searching for a company's Web site often assume, as a rule of thumb, that the domain name of a
+particular company will be the company name [or trademark] followed by ‘.com.’ ”).
+
+Case 1:08-cv-02185-WHP
+
+Document 36
+
+Filed 06/20/2008
+
+Page 41 of 46
+
+- 35 Second, even if it were assumed, contrary to our submission, that some Internet users
+might experience some “initial interest confusion” in searching for Cintas’ official site, Cintas’
+“initial interest confusion” theory would still fail. In Savin Corp. v. Savin Group, 391 F.3d 439
+(2d Cir. 2004), the Second Circuit held that “[b]ecause consumers diverted on the Internet can
+more readily get back on track than those in actual space, thus minimizing the harm to the owner
+of the searched-for site from consumers becoming trapped in a competing site, Internet initial
+interest confusion requires a showing of intentional deception.” Id. at 462 n.13 (emphasis
+added). As a matter of law, no such showing of “intentional deception” can be made here,
+because (i) UNITE HERE gave its Cintas “gripe site” the thoroughly non-deceptive name
+“Cintas Exposed”; and (ii) UNITE HERE, as just noted, included a metatag in the
+CintasExposed.org website containing a disclaimer that is designed to be displayed by search
+engines—and that in fact is displayed by at least two very prominent search engines, see note 6
+supra—informing Internet users that the union is the site sponsor.8
+C.
+
+Count Seven Fails To Allege Facts Establishing Dilution Of The Association
+Between The Term “Cintas” And The Services Cintas Provides.
+
+Cintas’ Count 7 claim under § 1125 (c) has a second fatal defect as well: It fails to meet
+that provision’s dilution requirement.
+The anti-dilution provision serves to protect the strength and quality of the associations
+that exist between a famous trademark and the trademarked product or service. See Moseley v. V
+Secret Catalogue, Inc., 537 U.S. 418, 433 (2003). Thus, the provision applies against those who
+8
+
+To be sure, the Complaint includes a conclusory recitation that UNITE HERE “intentionally”
+caused initial interest confusion. Cplt. ¶ 254. But under Bell Atlantic Corp. v. Twombly, 127 S.
+Ct. 1955, 1965 (2007), “a formulaic recitation of the elements of a cause of action will not do”—
+particularly where, as here, the specific allegations in the complaint and attached exhibits
+contradict the conclusory recitation. “If a plaintiff's allegations are contradicted by such a
+document [attached to the complaint], those allegations are insufficient to defeat a motion to
+dismiss.” Matusovsky v. Merrill Lynch, 186 F. Supp. 2d 397, 400 (S.D.N.Y. 2002).
+
+Case 1:08-cv-02185-WHP
+
+Document 36
+
+Filed 06/20/2008
+
+Page 42 of 46
+
+- 36 would use a famous mark to identify a new product or service and in so doing weaken the
+original association, as “[f]or example, Tylenol snowboards, Netscape sex shops and Harry
+Potter dry cleaners,” which “diminish [the marks’] ability to evoke their original associations…
+by blurring their uniqueness and singularity … and/or by tarnishing them with negative
+associations.” Mattel, Inc. v. MCA Records, 296 F.3d 894, 903 (9th Cir. 2002) (internal
+quotation marks omitted).
+Here, the Complaint contains no allegation that UNITE HERE has used Cintas’ mark to
+identify any new product or service. Rather, Cintas’ claim is that UNITE HERE is using Cintas’
+mark to criticize services Cintas provides under that mark. Such criticism does not have any
+tendency to weaken the association between Cintas and the services it provides; indeed, it has the
+effect of reinforcing the association, albeit in a way that is not to Cintas’ liking. Count 7 thus
+fails to meet § 1125(c)’s dilution requirement.
+D.
+
+Count Nine Should Be Dismissed, Because UNITE HERE’s Use Of “Cintas
+Exposed” As A Domain Name Does Not Constitute “Cybersquatting”
+
+Cintas’ final Lanham Act count (Count 9) rests on the Anticybersquatting Consumer
+Protection Act of 1999 (“ACPA”), codified as part of the Lanham Act in 15 U.S.C. § 1125(d).
+To make out a claim, ACPA requires the plaintiff owner of a famous mark to make two
+showings: (1) that the domain name “is identical or confusingly similar to, or dilutive of” the
+owner’s mark; and (2) that the defendant registered the domain name with a “bad faith intent to
+profit” from the name. Id. Count 9 does not meet either of these requirements.
+1.
+
+The domain name “Cintas Exposed” is not “identical” to, or “confusingly
+
+similar” to, Cintas’ mark. By adding “Exposed” to Cintas, UNITE HERE ensured that there
+could be no basis for a user to assume that Cintas sponsored the site, since the word “exposed” in
+this context connotes adverse scrutiny of the company. See, e.g., Bally Total Fitness v. Faber,
+
+Case 1:08-cv-02185-WHP
+
+Document 36
+
+Filed 06/20/2008
+
+Page 43 of 46
+
+- 37 29 F. Supp. 2d 1161, 1164 (C.D. Cal. 1998) (“ballysucks.com” not confusingly similar to
+“Bally”).9
+Furthermore, as the Fourth Circuit explained in Lamparello v. Falwell, 420 F.3d 309, 320
+(4th Cir. 2005), the inquiry as to whether a domain name is “confusingly similar” for ACPA
+purposes extends not only to an examination of the bare name of the site, but also to contextual
+factors such as how the site presents itself to a user. 420 F.3d at 316, 320. Here, as already
+shown, the Cintas Exposed site includes a prominent disclaimer on its home page, and it is
+tagged in such a way that a similar disclaimer can be read and displayed by search engines. See
+supra pp. 33-34. There is, accordingly, no “confusing similarity.”
+Nor is the “Cintas Exposed” domain name “dilutive” of the Cintas mark. The discussion
+above of Cintas’ dilution claim establishes that the use of the term “Cintas Exposed” to describe
+a website that comments on Cintas in no way dilutes the association between the term “Cintas”
+and the laundry-and-uniform services that Cintas is famous for providing. Count 9 thus fails to
+meet the first requirement of its ACPA claim.
+2.
+
+Count 9 also fails to meet ACPA’s second requirement, that the defendant
+
+registered the mark with a “bad faith intent to profit” from the domain name. As the court held
+in Bosley Medical, a “bad faith intent to profit” within the meaning of ACPA can manifest itself
+
+9
+
+Although the word “exposed” might have a positive connotation when added to the name of a
+tanning salon or film developer, cf. Sunlight Saunas, Inc. v. Sundance Sauna, Inc., 427 F. Supp.
+2d 1032, 1064 (D. Kan. 2006), the word has no such possible connotation here, and use of it in
+the “Cintas Exposed” domain name defeats confusing similarity as a matter of law. To say that
+because the word “exposed” might not connote adverse scrutiny when juxtaposed with some
+domain names, the word’s negative connotation can never be determined as a matter of law,
+would be to indulge in fallacy. That argument would be no different than saying that because
+adding “sucks” to a domain name promoting Hoover vacuum cleaners would have a positive
+connotation, the negative connotation of “sucks” should never be determined as a matter of
+law—as it often is. See Bally, 29 F. Supp. 2d at 1164; Taubman v. Webfeats, 319 F.3d 770, 77778 (6th Cir. 2003).
+
+Case 1:08-cv-02185-WHP
+
+Document 36
+
+Filed 06/20/2008
+
+Page 44 of 46
+
+- 38 in two distinct ways: “Cybersquatting occurs when a person other than a trademark holder
+registers the domain name of a well known trademark and then attempts to profit from this by
+either [1] ransoming the domain name back to the trademark holder or by [2] using the domain
+name to divert business from the trademark holder to the domain name holder.” 403 F.3d at 680
+(internal quotation marks omitted).
+The Tenth Circuit’s recent decision in Utah Lighthouse is in accord:
+[B]ad faith intent to profit is when a defendant purchases a domain
+name very similar to the trademark and then offers to sell the name
+to the trademark owner at an extortionate price. A defendant could
+also intend to profit by diverting customers … to the defendant's
+own website … [to] purchase the defendant's products or services
+instead of the trademark owner’s. [2008 U.S. App. Lexis 11523, at
+*29]
+As to the first of the two prohibited means of profiting from a domain name registration,
+the Complaint contains no allegation that UNITE HERE registered the Cintas Exposed name in
+order to “ransom[]” or “sell” that name to Cintas. As to the second, the Complaint contains no
+allegation that UNITE HERE registered the Cintas Exposed name to “divert customers” to the
+Cintas Exposed website to “purchase [UNITE HERE’s] products or services instead of [Cintas’]”
+products or services. Indeed, the Cintas Exposed site does not sell any products or services.
+And, the only items that the Complaint alleges UNITE HERE sells anywhere are union-logo
+mugs, t-shirts, and other bric-a-brac—items that UNITE HERE sells, not on the Cintas Exposed
+site, but rather on a page on UNITE HERE’s official site that, as explained supra at 30-31, is at
+two removes from the Cintas Exposed site. Furthermore, Cintas itself does not sell such items,
+which means there can be no “diversion” of Cintas’ sales to UNITE HERE of the kind necessary
+to form the predicate for showing the second prohibited means of profiting from cybersquatting.
+While the foregoing is sufficient to dispose of Cintas’ cybersquatting claim, we would
+add that even if, contrary to the case law, an intent to profit from the sale of goods not sold by
+
+Case 1:08-cv-02185-WHP
+
+Document 36
+
+Filed 06/20/2008
+
+Page 45 of 46
+
+- 39 the mark owner could constitute actionable cybersquatting, the Complaint still would be
+deficient. For the suggestion that UNITE HERE registered the Cintas Exposed domain name
+with the “intent to profit” from the sales on the UNITE HERE official website of union-logo
+mugs and other trinkets is foreclosed by Cintas’ own allegations. The Complaint alleges that the
+Cintas Exposed website was created by UNITE HERE to be “a critical tool” in its negative
+public relations and boycott campaign against Cintas, Cplt. ¶ 232, and the Complaint further
+identifies the precise “goal” that the website is “specifically designed” to achieve, id. ¶ 112.
+Unsurprisingly, that “goal” is not an increased-sales goal for union-logo mugs and other trinkets.
+Rather, consistent with Cintas’ entire theory of the case, it is “to encourage consumers and others
+not to conduct business with Cintas.” Id. 112. As we have shown, Defendants have a First
+Amendment right to pursue such a “goal” through speech on a website, and exercising that right
+does not constitute cybersquatting or any other violation of the Lanham Act.
+III.
+
+THE COURT SHOULD DECLINE TO EXERCISE ITS SUPPLEMENTAL
+JURISDICTION OVER CINTAS’ PENDENT STATE LAW CLAIMS (Counts
+Five, Ten-Fourteen)
+A district court “may decline to exercise supplemental jurisdiction over a [pendent state
+
+law] claim” if the court “has dismissed all [federal] claims over which it has original
+jurisdiction.” 28 U.S.C. § 1367(c)(3). That is the proper course here given our showing that
+Cintas’ RICO and Lanham Act claims are due to be dismissed: “[I]f the federal claims are
+dismissed before trial, even though not insubstantial in a jurisdictional sense, the state claims
+should be dismissed as well.” First Capital Asset Mgmt. v. Satinwood, Inc., 385 F.3d 159, 183
+(2d Cir. 2004) (internal quotations omitted); see also Kolari v. New York-Presbyterian Hosp.,
+455 F.3d 118, 122 (2d Cir. 2006) (“in the usual case in which all federal-law claims are
+
+Case 1:08-cv-02185-WHP
+
+Document 36
+
+Filed 06/20/2008
+
+Page 46 of 46
+
+- 40 eliminated before trial, the balance of factors . . . will point toward declining to exercise
+jurisdiction over the remaining state-law claims”) (internal quotations omitted).
+Applying these well-settled jurisdictional principles, this Court routinely has dismissed
+the plaintiff’s pendent state claims after having dismissed all of the plaintiff’s federal claims
+prior to trial. E.g., Tojzan v. New York Presbyterian Hosp., 2003 WL 1738993, at *9 (S.D.N.Y.);
+D.R.S. Trading Co. v. Fisher, 2002 WL 1482764, at *5 (S.D.N.Y.); Whitely v. Comsat Corp.,
+2001 WL 1135946, at *7 (S.D.N.Y.); EPA v. Port Auth., 162 F. Supp. 2d 173, 192 (S.D.N.Y.
+2001), aff’d, 23 Fed. Appx. 81 (2d Cir. 2001). There is no basis for a contrary result here.
+CONCLUSION
+For the foregoing reasons, Cintas’ Complaint should be dismissed in its entirety.
+Respectfully submitted,
+
+/s/ Irwin Rochman _______________
+Irwin Rochman (SDNY Bar No. SS7573)
+Tesser, Ryan & Rochman, LLP
+509 Madison Avenue
+New York, New York 10022
+Phone: (212) 754-9000
+Fax: (212) 754-5906
+Attorney for Defendants UNITE HERE,
+Bruce Raynor, Ahmer Qadeer, Keith
+Mestrich, Elizabeth Gres, Peter DeMay,
+Katie Unger and Stefan Antonowitz
+
+/s/ Robert M. Weinberg______________
+Robert M. Weinberg (pro hac vice)
+Andrew D. Roth (pro hac vice)
+Leon Dayan (pro hac vice)
+Bredhoff & Kaiser, PLLC
+805 Fifteenth Street, N.W., Suite 1000
+Washington, DC 20005
+Phone: (202) 842-2600
+Fax: (202) 842-1888
+Attorneys for Defendants International
+Brotherhood of Teamsters and Change to
+Win
+
+

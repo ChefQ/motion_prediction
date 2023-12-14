@@ -1,0 +1,1133 @@
+IN THE UNITED STATES DISTRICT COURT
+FOR THE EASTERN DISTRICT OF WISCONSIN
+-----------------------------------------------------UNITED STATES OF AMERICA et al.,
+ex rel. TODD HEATH,
+Plaintiff-Relator,
+
+Case No. 2:08-CV-000876-LA
+(Lead Case No. 2:08-CV-00724-LA)
+Judge Lynn Adelman
+
+v.
+
+WISCONSIN BELL, INC.
+Defendant.
+------------------------------------------------------
+
+MEMORANDUM IN OPPOSITION TO
+DEFENDANT'S MOTION FOR JUDGMENT ON THE PLEADINGS
+
+TABLE OF CONTENTS
+Page
+I.
+
+INTRODUCTION .............................................................................................................. 1
+
+II.
+
+BACKGROUND ................................................................................................................ 5
+A.
+
+Factual Background ................................................................................................ 5
+
+B.
+
+The FCC Notice of Apparent Liability for Forfeiture ............................................ 7
+
+C.
+
+Procedural Background ........................................................................................... 9
+
+III.
+
+LEGAL STANDARD....................................................................................................... 11
+
+IV.
+
+ARGUMENT .................................................................................................................... 11
+A.
+
+The Price Defendant Charges Schools and Libraries is Material as a
+Matter of Law ....................................................................................................... 12
+
+B.
+
+Defendant's Arguments are Without Merit and Should be Rejected .................... 16
+
+C.
+V.
+
+1.
+
+The FCC's Continued Payment after the DOJ Declined to Intervene
+Says Nothing About Whether the FCC Considers the Price it Pays
+for Telecommunications Material ............................................................. 19
+
+2.
+
+Deciding Not to Reemphasize the Importance of the LCP
+Requirement Says Nothing About Materiality ......................................... 24
+
+3.
+
+Requests for Clarification of the LCP Rule Do Not Render Pricing
+Immaterial ................................................................................................. 27
+
+Plaintiff-Relator Agrees to Limit its Claims to after October 16, 2002................ 29
+
+CONCLUSION ................................................................................................................. 29
+
+-i-
+
+TABLE OF AUTHORITIES
+Page
+Cases
+Al-Khalidi v. Rosche,
+No. 07-C-0740, 2008 WL 5111082 (E.D. Wis. Dec. 3, 2008) ............................................ 11
+Avery v. Pagel,
+No. 12-CV-00192, 2013 WL 593438 (E.D. Wis. Feb. 15, 2013) ........................................ 11
+Henderson v. U.S. Bank, N.A.,
+615 F. Supp. 2d 804 (E.D. Wis. 2009)................................................................................. 11
+Junius Const. Co. v. Cohen,
+257 N.Y. 393 (1931) ............................................................................................................ 18
+Luckey v. Baxter Healthcare Corp.,
+183 F.3d 730 (7th Cir. 1999) ............................................................................................... 15
+Massachusetts v. Mylan Labs.,
+608 F. Supp. 2d 127 (D. Mass. 2008) .................................................................................. 14
+Matrixx Initiatives, Inc. v. Siracusano,
+563 U.S. 27 (2011) ............................................................................................................... 18
+Northern Ind. Gun & Outdoor Shows, Inc. v. City of S. Bend,
+163 F.3d 449 (7th Cir. 1998) ............................................................................................... 11
+Rose v. Stephens Inst., No. 09-CV-05966-PJH, 2016 WL 5076214 (N.D. Cal. Sept. 20,
+2016), motion to certify appeal granted sub nom. Scott Rose v. Inst., No. 09-CV05966-PJH, 2016 WL 6393513 (N.D. Cal. Oct. 28, 2016)...................................... 20, 21, 22
+U.S. ex rel. Asch v. Teller, Levit & Silvertrust,
+P.C., No. 00 C 3289, 2004 WL 1093784 (N.D. Ill. May 7, 2004) ...................................... 14
+U.S. ex rel. El-Amin v. George Washington Univ.,
+533 F. Supp. 2d 12 (D.D.C. 2008) ....................................................................................... 19
+U.S. ex rel. Frascella v. Oracle Corp.,
+751 F. Supp. 2d 842 (E.D. Va. 2010) .................................................................................. 14
+U.S. ex rel. Sanchez-Smith v. AHS Tulsa Reg'l Med. Ctr.,
+754 F. Supp. 2d 1270 (N.D. Okla. 2010) ............................................................................. 24
+U.S. ex rel. Tyson v. Amerigroup Illinois, Inc.,
+488 F. Supp. 2d 719 (N.D. Ill. 2007) ................................................................................... 14
+
+-ii-
+
+U.S. ex rel. Yannacopoulos v. Gen. Dynamics,
+652 F.3d 818 (7th Cir. 2011) .............................................................................................. 23
+United States ex rel. Am. Sys. Consulting v. ManTech Advanced Sys. Int'l,
+600 Fed. Appx. 969 (6th Cir. 2015) ..................................................................................... 19
+United States ex rel. Anti-Discrimination Center of Metro New York, Inc. v. Westchester
+County N.Y.,
+668 F. Supp. 2d 548 (S.D.N.Y. 2009).................................................................................. 21
+United States ex rel. Atkins v. McInteer,
+470 F.3d 1350 (11th Cir. 2006) ........................................................................................... 21
+United States ex rel. Chandler v. Cook County,
+277 F.3d 969 (7th Cir. 2002), aff'd, 538 U.S. 119 (2003).................................................... 21
+United States ex rel. Cieszyski v. LifeWatch Servs., Inc.,
+No. 13 CV 4052, 2015 WL 6153937 (N.D. Ill. Oct. 19, 2015) ........................................... 17
+United States ex rel. Durcholz v. FKW Inc.,
+997 F. Supp. 1159 (S.D. Ind. 1998), aff'd, 189 F.3d (7th Cir. 1999) ................................... 13
+United States ex rel. Garbe v. Kmart Corp.,
+824 F.3d 632 (7th Cir. 2016) ............................................................................................... 13
+United States ex rel. Harrison v. Westinghouse Savannah River Co.,
+352 F.3d 908 (4th Cir. 2003) ......................................................................................... 19, 22
+United States ex rel. Howard v. KBR, Inc.,
+139 F. Supp. 3d 917 (C.D. Ill. 2015) ................................................................................... 17
+United States ex rel. Marshall v. Woodward, Inc., 85 F. Supp. 3d 973, 980 (N.D. Ill.
+2015), aff'd sub nom. U.S. ex rel. Marshall v. Woodward, Inc., 812 F.3d 556 (7th
+Cir. 2015), cert. denied, 136 S. Ct. 2510 (2016)...................................................... 17, 20, 28
+United States ex rel. Morsell v. Symantec Corp.,
+130 F. Supp. 3d 106 (D.D.C. 2015) ..................................................................................... 14
+United States ex rel. Oliver v. The Parsons Corp.,
+498 F. Supp. 2d 1260 (C.D. Cal. 2006) ............................................................................... 14
+United States ex rel. Shemesh v. CA, Inc.,
+89 F. Supp. 3d 36 (D.D.C. 2015) ......................................................................................... 13
+United States ex rel. Thomas v. Black & Veatch Special Projects Corp.,
+820 F.3d 1162 (10th Cir. 2016) ......................................................................... 17, 22, 24, 28
+
+-iii-
+
+United States v. Bae Sys. Tactical Vehicle Sys., LP,
+No. 15-12225, 2016 WL 894567 (E.D. Mich. Mar. 9, 2016) .............................................. 13
+United States v. Crumb,
+No. CV 15-0655-WS-N, 2016 WL 4480690 (S.D. Ala. Aug. 24, 2016)............................. 26
+United States v. McNinch,
+356 U.S. 595 (1958) ............................................................................................................. 11
+United States v. President & Fellows of Harvard College,
+323 F. Supp. 2d 151 (D. Mass. 2004) ............................................................................ 20, 22
+United States v. Sanford–Brown, Ltd.,
+840 F.3d 445 (7th Cir. 2016) ......................................................................................... 17, 22
+United States v. Supervalu, Inc.,
+No. 11-3290, 2016 WL 6139913 (C.D. Ill. Oct. 21, 2016).................................................. 13
+United States, ex rel. Escobar v. Universal Health Services, Inc. (Escobar III),
+No. 14-1423, 2016 WL 6872650 (1st Cir. Nov. 22, 2016) ...................................... 15, 21, 23
+Universal Health Servs., Inc. v. United States ex rel. Escobar,
+136 S. Ct. 1989 (2016) .................................................................................................. passim
+Statutes
+31 U.S.C. § 3731(b)(2) ................................................................................................................. 29
+31 U.S.C. 3730(c)(3) ..................................................................................................................... 23
+47 U.S.C. § 254(h)(1)(B) ................................................................................................ 5, 6, 12, 27
+Rules
+Federal Rule of Civil Procedure 12(b)(6) ..................................................................................... 10
+Federal Rule of Civil Procedure 12(c) .......................................................................................... 11
+
+-iv-
+
+Regulations & Administrative Proceedings
+47 C.F.R. § 54.500 ................................................................................................................ 5, 6, 12
+47 C.F.R. § 54.511(b) ..................................................................................................... 5, 6, 12, 27
+E-rate Modernization Order,
+29 FCC Rcd. 8870 ............................................................................................................... 15
+FCC's Notice of Apparent Liability for Forfeiture issued to AT&T in July, 2016................ passim
+Fourth Order on Reconsideration,
+13 FCC Rcd. 2372 (FCC 1997) ........................................................................................... 29
+
+-v-
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE EASTERN DISTRICT OF WISCONSIN
+-----------------------------------------------------UNITED STATES OF AMERICA et al.,
+ex rel. TODD HEATH,
+Plaintiff-Relator,
+
+Case No. 2:08-CV-000876-LA
+(Lead Case No. 2:08-CV-00724-LA)
+Judge Lynn Adelman
+
+v.
+
+WISCONSIN BELL, INC.
+Defendant.
+-----------------------------------------------------MEMORANDUM IN OPPOSITION TO
+DEFENDANT'S MOTION FOR JUDGMENT ON THE PLEADINGS
+I.
+
+INTRODUCTION
+For years, Defendant, Wisconsin Bell, Inc. ("Defendant" or "WBI"), overcharged
+
+Wisconsin schools, libraries, and the federal government for telecommunications services
+provided under the Federal Communications Commission's ("FCC") E-Rate Program.
+Second Amended Complaint ("Complaint or "Compl.").
+
+See
+
+As a material requirement of its
+
+participation in the E-Rate program, WBI agreed to charge the schools and libraries the "lowest
+corresponding price" ("LCP") offered to other similar customers. Instead, WBI charged schools,
+libraries and the federal government significantly higher prices, without disclosing that it had
+failed to charge the LCP. As a result, schools, libraries and the government substantially
+overpaid Defendant.
+In its third attempt to dismiss this case at the pleadings stage, Defendant now asks
+this Court to find – as a matter of law – that the LCP requirement is immaterial to payment under
+the FCC's E-Rate subsidy program and that the government(s) understood they were being
+
+charged more than the LCP but were indifferent to the higher prices. While asking the Court to
+accept this incredulous notion, WBI ignores and remarkably withholds from this Court evidence
+that the FCC, the agency charged with administration of the federal E-Rate program,
+unequivocally considers LCP to be a material requirement under the federal subsidy program.
+From the outset of the E-Rate Program, the FCC instructed Defendant and other
+service providers that complying with the LCP requirement was a condition of payment under
+the E-Rate program. (First Report and Order, 12 FCC Rcd. 8776, para. 487 (FCC 1997) ("First
+Report and Order")). Thereafter, Defendant signed certifications at least annually, stating time
+and again that it was complying with all E-Rate rules, including the LCP requirement. As one
+would expect, given the nature of telecommunications charges and the size of the E-Rate
+program (disbursing roughly $2.25 billion annually), the FCC necessarily and reasonably relied
+on Defendant's certifications of LCP compliance. The FCC had no practical alternative, as only
+Defendant possesses the detailed pricing information that would be needed to determine whether
+Defendant was truly giving schools, libraries, and the federal government the same prices it
+charged to similar non-residential customers (including private businesses and other non-school
+entities).
+Most recently, the FCC issued a lengthy written opinion proposing a claw back of
+funds from another of AT&T's subsidiaries for precisely the same conduct alleged in this
+case. The FCC's Notice of Apparent Liability for Forfeiture issued to AT&T in July 2016 (the
+"FCC Notice"), confirms the longstanding agency position that LCP compliance is material, and
+that the failure to charge schools the LCP gives rise to damages and fines. Indeed, it is difficult
+to imagine a violation more material to the government's payment decision than a price gouge.
+In light of the FCC's strong statement on the materiality of the LCP, this Court should do the
+
+-2-
+
+exact opposite of what WBI requests and hold that failure to provide eligible recipients the LCP
+is material as a matter of law. At the very least, the materiality of WBI's LCP violation to
+payment of the E-Rate subsidy is a question of fact, requiring a determination upon an
+evidentiary record, not on a motion to dismiss.
+Defendant's Motion for Judgment on the Pleadings (the "Motion") is its third
+attempt to dismiss Plaintiff-Relator's Complaint before fully responding to Plaintiff-Relator's
+discovery requests. Tellingly, Defendant's Motion – which is based on neither new facts nor new
+law – comes just days after Plaintiff-Relator vowed to file a motion to compel Defendant to
+comply with its discovery obligations.
+Defendant makes three arguments in support of its position that Defendant's
+violation of the LCP requirement is immaterial to the government's payment decision. First,
+Defendant argues that, because the government continued to pay for Defendant's services after
+this qui tam action brought the issue to the Department of Justice's ("DOJ") attention, the
+government must not care about what price Defendant charges.
+
+Under WBI's theory, the
+
+government must discontinue payment every time a qui tam suit is filed, or concede
+immateriality and the case itself. Neither the case law nor principles of good government
+support this view.
+Second, Defendant incorrectly argues that the LCP requirement is not material
+because the FCC supposedly decided against expressly stating that LCP compliance was a
+condition of payment. But the opposite is true. Since 1997, the FCC has made it clear that a
+service provider's compliance with LCP is a condition of payment. Even if Defendant was
+correct in its incredible assertion that the FCC somehow refused to categorize the LCP
+requirement as a condition of payment, Defendant's motion still fails. The United States
+
+-3-
+
+Supreme Court has made clear that the classification of a particular requirement does not control
+the issue of materiality. Universal Health Servs., Inc. v. United States ex rel. Escobar, 136 S. Ct.
+1989, 1996 (2016) ("Defendants can be liable for violating requirements even if they were not
+expressly designated as conditions of payment").
+Third, Defendant argues that because the precise method for computing LCP is
+not explicitly set forth in the FCC regulations, the LCP requirement is not material, and
+Defendant had the unfettered discretion to "make [the LCP] determination themselves." See
+Memorandum in Support of Defendant's Motion for Judgment on the Pleadings ("Memo"), p. 16.
+Defendant ignores the FCC proclamations advising how LCP should be determined (see p. 29,
+infra) and effectively reads the LCP requirement right out of the FCC's regulatory scheme.
+Each of Defendant's three arguments fail on their merits, as set forth above and
+discussed in greater depth below. But, Defendant, while citing extensively from a range of FCC
+materials, withheld from this Court the most exhaustive – and dispositive – statement on the
+materiality of the LCP requirement – the July 27, 2016 FCC Notice against another wholly
+owned subsidiary of Defendant's parent company, AT&T. Following an extensive two-year
+investigation, the FCC stated that AT&T "willfully and repeatedly" violated the LCP
+requirement. See FCC Notice attached hereto as Exhibit A, ¶¶ 1, 28. Precisely because the LCP
+requirement is material to the FCC, the FCC proposed that AT&T return $63,760 in improperly
+disbursed monies to the government for just two school districts in Florida for one year (the only
+subjects of the investigation), and also proposed a penalty of $106,425 related to those
+overcharges. Id. at ¶ 72. The FCC's actions confirm the FCC's longstanding position that the
+LCP requirement is material to the government's payment decision.
+
+-4-
+
+For these reasons, as more fully set forth below, Plaintiff-Relator respectfully
+requests that the Court deny Defendant's Rule 12(c) Motion for Judgment on the Pleadings and
+hold, as a matter of law, that the LCP requirement is material.
+II.
+
+BACKGROUND
+A.
+
+Factual Background
+Defendant provides services to participants of the Schools and Libraries Program
+
+of the Universal Service Fund, commonly known as the E-Rate Program. Compl., ¶ 4. Pursuant
+to the Telecommunications Act of 1996 (the "Act"), the E-Rate Program provides federal
+subsidies for telecommunications, internet and related services provided to schools and libraries
+throughout the nation. Compl., ¶ 1. The Universal Service Administrative Company ("USAC")
+administers the E-Rate Program under the direction and control of the FCC. Id. The Universal
+Service Fund typically pays the schools' and libraries' telecommunications charges directly to the
+carrier. Id., ¶ 28.
+Requests for funding under the E-Rate program consistently exceed the funds
+available, and to ensure that the scarce federal monies are spent appropriately and that the
+available funds are stretched as far as possible, the E-Rate Program depends on carrier
+adherence to the regulations governing this federal program. Id., ¶¶ 2, 29. In particular, all
+telecommunications service providers participating in the E-Rate Program must: "provide such
+services to elementary schools, secondary schools, and libraries for educational purposes at rates
+less than the amounts charged for similar services to other parties," 47 U.S.C. § 254(h)(1)(B)
+(emphasis added); Compl., ¶ 3, and offer their "lowest corresponding price" to schools and
+libraries to be eligible for E-Rate reimbursement. 47 C.F.R. § 54.511(b); 47 C.F.R. § 54.500;
+Compl., ¶ 30. As the FCC has confirmed, "[t]he LCP Requirement does not place the burden of
+asking or negotiating for lowest corresponding prices on the school – it requires the service
+-5-
+
+provider to affirmatively submit bids for and charge prices compliant with the LCP
+Requirement." See FCC Notice, ¶ 5. These requirements protect and save money for both the
+schools and libraries, and the E-Rate Program. Compl., ¶ 31. Telecommunications charges that
+do not satisfy the LCP requirement are, accordingly, ineligible for government reimbursement.
+Id., ¶ 32; see also 47 U.S.C. § 254(h)(1)(B), 47 C.F.R. § 54.511(b); 47 C.F.R. § 54.500.
+Contrary to Defendant's suggestions that this case is based on little more than a
+few sample price comparisons, the Complaint alleges Defendant's systematic failure to make any
+effort to provide E-Rate participants with the LCP. Despite Defendant's own admission that it
+was aware of the LCP requirement, Defendant made no effort to develop any method to
+determine the LCP, and it did not train its sales force to offer, or even calculate, LCP. See
+Defendant's Response to Plaintiff-Relator's Request to Admit No. 1, attached hereto as Exhibit
+B; Compl., ¶¶ 36-37. Not surprisingly, Defendant's employees repeatedly denied having a duty
+to provide schools and libraries with the LCP and, in fact, when asked by Plaintiff-Relator,
+refused to provide the LCP to several Wisconsin school districts. Compl., ¶¶ 33, 34.
+Instead of systematically offering E-Rate participants the LCP, as statutorily
+required, Defendant offered a wide array of rates to schools on an individual case-by-case basis.
+Compl., ¶ 37. Despite Defendant's failure to respond to the vast majority of Plaintiff-Relator's
+document requests, WBI's limited document production confirmed that Defendant completely
+ignored the LCP requirement in favor of case-by-case pricing. See Exhibit C attached hereto
+(senior manager of Defendant noting that "LCP is what we deem it to be").
+As a result of Defendant's reckless disregard for the LCP requirement, schools
+receiving the same services often paid drastically different prices, and schools across the state
+were charged significantly more than the rate they were entitled to receive based on state
+
+-6-
+
+contracts such as the State of Wisconsin Department of Administration's Voice Network
+Services Agreement ("VNS Agreement"). Compl., ¶¶ 37, 39, 40, 42, 43. By way of example,
+even though the price offered to the State of Wisconsin and all of its "authorized users" (a term
+defined to include public schools) was $9.25 or $9.45 per Centrex line per month depending on
+certain circumstances, Wisconsin school districts were ordinarily charged much more (e.g.,
+$13.84, $16.14 and $17.61 per Centrex line per month). Compl., ¶¶ 40, 43. State contracts such
+as the VNS Agreement should at the very least, have been "a ceiling on the rate [AT&T could]
+offer and charge" schools and libraries in Wisconsin. See FCC Notice, ¶ 44. Moreover, while
+state contracts like the VNS Agreement provide one possible measure of LCP, it is very possible
+that discovery will reveal even lower pricing for Defendant's other customers, making even
+greater the differential between the LCP and the prices schools and libraries were actually
+charged.
+In sum, by simply using individualized case-by-case pricing, instead of
+consciously offering and charging the LCP, Defendant regularly overcharged schools and
+libraries, all while falsely certifying the opposite. See First Report and Order, 12 FCC Rcd.
+8776, para. 487; Compl., ¶¶ 54-59. Because of Defendant's failure to comply with the LCP
+requirement, schools and libraries and the Universal Service Fund significantly overpaid for their
+telecommunications services. Accordingly, claims for reimbursement to the government were
+substantially inflated, resulting in Defendant receiving millions of dollars more than it should
+have. Compl., ¶¶ 43, 52.
+B.
+
+The FCC Notice of Apparent Liability for Forfeiture
+In July 2016, the FCC issued a Notice of Apparent Liability for Forfeiture,
+
+concluding that BellSouth Telecommunications, LLC (a subsidiary of Defendant's parent
+company, AT&T), "apparently willfully and repeatedly violat[ed] . . . the Commission's rules by
+-7-
+
+failing to charge legally mandated lower prices to two school districts in Florida" that are E-Rate
+participants. See FCC Notice, ¶¶ 1, 28. A two-year FCC investigation found just what the
+Plaintiff-Relator alleges and what preliminary discovery already has confirmed in this case: that
+Defendant's parent company1 completely ignored the LCP requirement. See FCC Notice at ¶ 47
+(AT&T's "pricing policies and processes [ ], far from facilitating LCP Requirement compliance,
+would seem to make it next to impossible to comply with the LCP Requirement."). As the FCC
+Notice concluded: AT&T apparently failed to consider whether schools received lower prices
+than similarly situated customers, and instead, significantly overcharged schools and the
+Universal Service Fund for telecommunications services:
+
+
+"[r]ather than charge public schools and libraries lower
+prices, as AT&T was obligated to do, it charged Districts
+some of the highest prices in the state";
+
+
+
+"Each year, after apparently charging these unlawfully high
+prices, AT&T certified or submitted forms to . . . USAC . . .
+inaccurately claiming that it complied with the
+Commission's rules. On the basis of these forms, AT&T
+received public funds from the Universal Service Fund
+(Fund) to subsidize high-priced services provided by
+AT&T to the Districts";
+
+
+
+"AT&T also undermined the effectiveness of the E-rate
+Program by depleting limited public funds that could have
+supplied other schools and libraries with access to crucial
+learning technologies."
+
+Id. at ¶ 2 (emphasis in the original). In order to issue the FCC Notice, the FCC undertook the
+exact same analysis Plaintiff-Relator proposes here: comparing the prices AT&T charged school
+districts with prices charged to other school districts, other businesses and the state Department
+of Administration. In doing so, the FCC assessed the prices AT&T charged the school districts
+1
+
+Defendant is a wholly-owned Wisconsin subsidiary of AT&T. In response to Plaintiff-Relator's
+discovery requests, and in its 26(a)(1) disclosures, Defendant has identified several employees of its
+parent corporation, AT&T, and other AT&T affiliates as relevant fact witnesses.
+
+-8-
+
+(typically reflected in customer service record data) for two particular telephone services, as
+compared to (i) the prices AT&T charged other customers receiving the same services over the
+same time period and (ii) the rates available in a state-wide contract that all schools and libraries
+were eligible to receive. Id. at ¶¶ 8-9, 41-42, 62.
+Using this analysis, and focusing on "a handful of" school districts, the FCC
+Notice described dramatic price differences "underpinning" their finding that AT&T apparently
+violated the LCP requirement and "sought to maximize profits at the expense of the Districts and
+at the expense of the publicly-funded E-rate program." Id. at ¶¶ 9, 13. Importantly, the FCC
+Notice concluded that AT&T apparently violated the LCP requirement by failing to develop a
+process to determine if the rates charged were in fact the LCP. Plaintiff-Relator has alleged
+precisely the same failings. See Compl., ¶¶ 35-37; cf. FCC Notice at ¶ 16 ("AT&T's pricing
+policy failed to achieve LCP Requirement compliant pricing"), ¶¶ 45-48 ("AT&T should be able
+to demonstrate that none of the entities receiving lower prices were similarly situated . . . or that
+lower prices were not compensatory. . . . AT&T could not make this showing."). Moreover, the
+FCC Notice flatly rejected the same position that WBI asserts here – that its pricing was
+"somehow compliant with the LCP Requirement." Id. at ¶ 36. The FCC Notice explained that
+AT&T "failed to substantiate its plainly paradoxical position that some of the highest prices in
+the state of Florida for [the telecommunication] services were the lowest corresponding prices."
+Id. As a result of AT&T's apparent and willful LCP violations, on the basis of just two school
+districts over a period of one year, the FCC Notice proposed damages of $63,760 and a penalty
+of $106,425.
+C.
+
+Procedural Background
+The current motion is Defendant's third attempt to dismiss this matter before
+
+engaging in any meaningful discovery. Plaintiff-Relator filed the present qui tam action under
+-9-
+
+seal against Defendant on August 26, 2008. Dkt. No. 1. Plaintiff-Relator's Complaint remained
+under seal until June 30, 2011, while the government investigated Plaintiff-Relator's allegations.
+Dkt. No. 26. Since Plaintiff-Relator's Complaint has been unsealed, Defendant has filed two
+ultimately unsuccessful Federal Rule of Civil Procedure 12(b)(6) motions to dismiss PlaintiffRelator's Complaint, on two separate grounds.
+
+Dkt. Nos. 68, 96.
+
+Neither of Defendant's
+
+previous motions to dismiss concerned the materiality of the LCP requirement, the subject of the
+present Motion.
+Defendant's last attempt to dismiss this case was denied by this Court on July 1,
+2015, after which Defendant moved to certify the Court's decision for immediate appeal, which
+this Court also denied on January 20, 2016. Dkt. Nos. 126, 140. In response to the Defendant's
+last motion to dismiss, the government (which has declined to intervene at this time) filed a
+Statement of Interest opposing Defendant's motion to dismiss and an amicus brief filed in
+support thereof. Dkt. Nos. 106, 111, 122. The government is also filing a statement of interest
+in response to the present Motion.
+Since the Court's January 20, 2016 decision, Defendant has persistently resisted
+Plaintiff-Relator's discovery efforts. Plaintiff-Relator issued discovery requests on March 10,
+2016. To date, Defendant has produced documents responsive to only three of Plaintiff-Relator's
+fourteen document requests and has failed to fully and fairly disclose information about how it
+maintains its customer service record data (impeding Plaintiff-Relator's ability to seek documents
+showing the amounts that Defendant charged its customers for telecommunications services –
+facts at the heart of Plaintiff-Relator's claim). After several failed attempts to meet and confer on
+these issues, Plaintiff-Relator filed its Motion to Compel on November 14, 2016.
+Nos. 158-159.
+
+-10-
+
+Dkt.
+
+III.
+
+LEGAL STANDARD
+"A motion for judgment on the pleadings pursuant to Federal Rule of Civil
+
+Procedure 12(c) is governed by the same standards governing motions to dismiss under
+Rule 12(b)(6)." Henderson v. U.S. Bank, N.A., 615 F. Supp. 2d 804, 808 (E.D. Wis. 2009). In
+considering a motion for judgment on the pleadings, "[t]he court must accept as true the
+nonmovant's version of the facts and may not resolve factual disputes." Id. Additionally, all
+reasonable inferences must be drawn in favor of the nonmovant. Al-Khalidi v. Rosche, No. 07C-0740, 2008 WL 5111082, at *2 (E.D. Wis. Dec. 3, 2008). "Like Rule 12(b) motions, courts
+grant a Rule 12(c) motion only if 'it appears beyond doubt that the plaintiff cannot prove any
+facts that would support his claim for relief.'" Avery v. Pagel, No. 12-CV-00192, 2013 WL
+593438, at *1 (E.D. Wis. Feb. 15, 2013) (quoting Northern Ind. Gun & Outdoor Shows, Inc. v.
+City of S. Bend, 163 F.3d 449, 452 (7th Cir. 1998)).
+IV.
+
+ARGUMENT
+A contractor that charges the government more money than it is obligated to pay
+
+has committed a paradigmatic False Claims Act violation. See Escobar, 136 S. Ct. at 1996
+(citing United States v. McNinch, 356 U.S. 595, 599 (1958) (charging "exorbitant prices for
+goods delivered" one of the driving forcing behind the enactment of the FCA)). This is because
+any "reasonable man would attach importance" to the price he is charged, which goes "to the
+very essence of the bargain," and, of course, has "a natural tendency to influence, or [is] capable
+of influencing, the payment or receipt of money or property." Id. at 2002-03, 2002 n.5 (internal
+citations and quotations omitted). Price, therefore, is a material term, and submitting a bill for
+more than what is due is a "material" violation of the FCA.
+That is exactly what Defendant has done in this case by charging schools and
+libraries more than they were statutorily obligated to pay – the LCP.
+-11-
+
+Defendant claims
+
+otherwise: that the FCC took the time to establish a ceiling on the amount schools and libraries
+should pay in order to protect the funds in the USAC, but nonetheless willingly paid more –
+often significantly more – because the price it paid was simply not material. Defendant's
+position finds no support in the Supreme Court's opinion in Escobar, or any of the other cases
+upon which it relies.
+As set forth in Section A below, Defendant's failure to offer and charge schools
+and libraries the LCP is material as a matter of law. As set forth in Section B below, Defendant's
+efforts to suggest otherwise run counter to the clear pronouncements and actions of the FCC, and
+the Supreme Court's decision in Escobar.
+A.
+
+The Price Defendant Charges Schools and Libraries is Material as a Matter
+of Law
+The price Defendant is permitted to charge schools and libraries is the LCP – a
+
+statutorily established ceiling. Specifically, service providers must "provide such services to
+elementary schools, secondary schools, and libraries for educational purposes at rates less than
+the amounts charged for similar services to other parties." 47 U.S.C. § 254(h)(1)(B) (emphasis
+added). The need to charge LCP was also confirmed by the FCC in its 1997 regulations
+(47 C.F.R. § 54.511(b); 47 C.F.R. § 54.500), and in its 1997 First Universal Service Order (First
+Report and Order, 12 FCC Rcd. 8776, paras. 484-85). The clear mandates of the statute,
+regulation and the FCC orders establish materiality. Even if those were not enough, the very fact
+that the obligation to charge LCP is specifically tied to pricing compels a finding of materiality.
+There is perhaps no better example of a material condition of receiving payment under a
+government program than an obligation to charge favorable prices as mandated by law.
+The price a contractor charges the government is inherently material, consistent
+with Escobar, because it has a natural tendency – indeed, it has the natural effect – of influencing
+
+-12-
+
+the payment. Escobar, 136 S. Ct. at 2002. While Escobar was recently decided, the fact that a
+price term is material is not at all a new concept – it is "common sense." In United States ex rel.
+Durcholz v. FKW Inc., the Plaintiff alleged that the defendant violated the FCA by overcharging
+on a government project. 997 F. Supp. 1159, 1170 (S.D. Ind. 1998), aff'd, 189 F.3d 542 (7th Cir.
+1999). The court rejected the defendant's contention that any fraudulent conduct was immaterial,
+holding that:
+[Defendant's] alleged fraudulent conduct was obviously material to
+the government's decision to approve the price of the delivery
+order. Defendants' position would have this Court hold that the
+price of the delivery order and the government's ability to obtain a
+lower price for the same type of work were irrelevant to whether it
+approved the delivery order. Such a conclusion would be contrary
+to the evidence and common sense.
+Id. (emphasis added).
+The Seventh Circuit, in United States ex rel. Garbe v. Kmart Corp., 824 F.3d 632,
+639 (7th Cir. 2016), held that misrepresenting "usual and customary prices," which had the effect
+of increasing the defendant's reimbursement for generic drugs under Medicare, was material,
+because the misrepresentations formed "the basis of the federal monies" defendant received. See
+also United States v. Supervalu, Inc., No. 11-3290, 2016 WL 6139913, at *4–5 (C.D. Ill. Oct. 21,
+2016) (confirming that "reporting an inflated usual and customary price is a materially false
+statement which results in overpayment by the government health program"); United States v.
+Bae Sys. Tactical Vehicle Sys., LP, No. 15-12225, 2016 WL 894567, at *3 (E.D. Mich. Mar. 9,
+2016) (allegations that Defendant concealed cost or pricing data during negotiations with
+government sufficient to survive motion to dismiss); United States ex rel. Shemesh v. CA, Inc.,
+89 F. Supp. 3d 36, 51 (D.D.C. 2015) (rejecting defendant's assertion that fraud related to a
+pricelist was immaterial: "[c]onsidering that the pricelist was the basis for the negotiated price,
+defendant's argument that misrepresenting CA's pricelist is immaterial to the government's
+-13-
+
+decision to pay a certain contract price is puzzling at best"); United States ex rel. Morsell v.
+Symantec Corp., 130 F. Supp. 3d 106, 120 (D.D.C. 2015) (rejecting claim that discount
+requirement for government was immaterial where central goal of the procurement process was
+ensuring that the government received a reasonable price for products and services); U.S. ex rel.
+Frascella v. Oracle Corp., 751 F. Supp. 2d 842, 856 (E.D. Va. 2010) (manipulating transactions
+to evade price reductions clause and give other customers significantly higher discounts than the
+government, leading to significant financial losses for the government, was material);
+Massachusetts v. Mylan Labs., 608 F. Supp. 2d 127, 156 (D. Mass. 2008) (holding false
+representation of cost was material as a matter of law because it had a natural tendency to
+influence government's actions by inflating payment); U.S. ex rel. Tyson v. Amerigroup Illinois,
+Inc., 488 F. Supp. 2d 719, 726-727 (N.D. Ill. 2007) (nondiscrimination provisions were material
+where they formed the actuarial basis for the rates the government paid); United States ex rel.
+Oliver v. The Parsons Corp., 498 F. Supp. 2d 1260, 1290 (C.D. Cal. 2006) (recognizing that
+allegations of inflated claims, if true, influenced the amount the government paid based on
+claims); U.S. ex rel. Asch v. Teller, Levit & Silvertrust, P.C., No. 00 C 3289, 2004 WL 1093784,
+at *3 (N.D. Ill. May 7, 2004) (materiality "necessarily present" where defendant inaccurately
+inflated the amounts of its fees).
+If "common sense" were not enough, the FCC has consistently, and publicly,
+reiterated the importance of the LCP requirement to its payment decisions. The FCC has
+characterized the LCP requirement as follows:
+
+
+"[T]he lowest corresponding price [is] an upper limit on the
+price that carriers can charge schools and libraries in noncompetitive markets, as well as competitive markets, so that
+eligible schools and libraries can take advantage of any costbased rates that other customers may have negotiated with
+carriers during a period when the market was subject to actual,
+
+-14-
+
+or even potential, competition." First Report and Order, 12
+FCC Rcd. 8776, paras. 484-85.
+
+
+"we remind service providers that they not only must charge
+eligible schools, libraries, and consortia the LCP when
+providing E-rate services, but also must offer eligible entities
+the LCP when submitting competitive bids to provide E-rate
+supported services." E-rate Modernization Order, 29 FCC
+Rcd. 8870, para. 183.
+
+
+
+"Providers may not avoid the obligation to offer the lowest
+corresponding price to schools and libraries for interstate
+services, however, by arguing that none of their non-residential
+customers are identically situated to a school or library or that
+none of their service contracts cover services identical to those
+sought by a school or library." First Report and Order, 12 FCC
+Rcd. 8776, para. 488.
+
+
+
+"[W]e agree with the Joint Board's recommendation that, as a
+condition of receiving support, carriers be required to certify
+that the price they offer to schools and libraries is no greater
+than the lowest corresponding price based on the prices the
+carrier has previously charged or is currently charging in the
+market." Id., para. 487.
+
+The importance an agency places on its regulations is an indication of materiality.
+In United States, ex rel. Escobar v. Universal Health Services, Inc. (Escobar III), the First
+Circuit recognized that the paying agency, MassHealth, had made clear its expectations
+regarding compliance with the regulation at issue. No. 14-1423, 2016 WL 6872650, at *6 (1st
+Cir. Nov. 22, 2016). The court reasoned, therefore that "[c]ompliance, or lack thereof, with these
+regulations seem to us the textbook example" of materiality. Id. There can be no question that,
+as in Escobar III, Plaintiff-Relator has offered sufficient evidence to plead, and in fact prove,
+materiality. By contrast, in Luckey v. Baxter Healthcare Corp., a case relied upon by Defendant
+which is not related to pricing violations, the relator had "not offered any evidence tending to
+show that the [defendant's] omission" was material. 183 F.3d 730, 732 (7th Cir. 1999) (emphasis
+added).
+
+-15-
+
+But even if the FCC's proclamations of materiality left any doubt, the FCC has
+affirmatively taken enforcement action, just this year, for violations of the LCP requirement,
+demonstrating beyond doubt the materiality of the LCP. Remarkably, Defendant failed to bring
+that action to the attention of this Court, even though it was taken against another subsidiary of
+Defendant's parent company, AT&T, for violations exactly like those alleged in this case.
+Just five months ago, the FCC concluded its two-year investigation into the exact
+conduct alleged in the Complaint, and found that AT&T's subsidiary apparently "willfully and
+repeatedly" failed to comply with the LCP requirement by charging two Florida school districts
+some of the highest prices in the state. FCC Notice at ¶¶ 2, 5, 28, 36, 72. Not surprisingly, the
+FCC proposed that AT&T return the $63,760 it overcharged the Universal Service Fund for just
+two schools for a single year, and further proposed a penalty of $106,425. FCC Notice at ¶ 72.
+The plain meaning of "materiality" embraced by the Supreme Court in Escobar;
+the obvious significance of pricing to the government as affirmed by long-standing precedent;
+the FCC's plain statements regarding the importance of pricing; the FCC's enforcement action
+against a subsidiary Defendant's parent company; and "common sense," all make clear as a
+matter of law that charging more than the LCP is a "material" violation of the FCA.
+B.
+
+Defendant's Arguments are Without Merit and Should be Rejected
+Defendant's Motion is premised on three arguments that relate to factors Escobar
+
+recognized might be relevant to determining materiality. Escobar, 136 S. Ct. at 2001, 2003-04.
+But Escobar addressed materiality in the context of imposing limits on the theory of "implied
+false certification," where it can sometimes be difficult to determine which of the potentially
+"thousands" of regulatory or contractual requirements are material to the government's payment
+decision. Id. at 2002-03; see also Memo, p. 1. In most implied false certification cases, like those
+
+-16-
+
+cited by the Defendant, the regulatory or contractual requirement at issue typically has no
+obvious connection to the amount the government pays.
+Where, as here, the fraud relates directly to the price that the defendant caused the
+government to pay, however, the claim is factually false and the concerns central to Escobar do
+not apply because there can be no question that amount demanded of the government is material
+to the government's decision to pay. See infra, pp. 12-14; see also Escobar, 136 S. Ct. at 2002;
+United States ex rel. Howard v. KBR, Inc., 139 F. Supp. 3d 917, 946-47 (C.D. Ill. 2015)
+(knowing presentation of invoices for unallowable and unreasonable costs, directly connected to
+the Government's payment decision, results in factually false claims); United States ex rel.
+Cieszyski v. LifeWatch Servs., Inc., No. 13 CV 4052, 2015 WL 6153937, at *7 (N.D. Ill. Oct. 19,
+2015) (certification of compliance not necessary where violation contains direct nexus to
+government's payment decision). The cases upon which Defendant relies, by contrast, involve
+violations of regulatory or contractual provisions unrelated to payment. See e.g., United States
+ex rel. Thomas v. Black & Veatch Special Projects Corp., 820 F.3d 1162, 1171 (10th Cir. 2016)
+(alleged contractual violation was not project-specific, did not undermine contractual
+performance, and was "merely tangential" to the essential purpose of the agreement); United
+States v. Sanford–Brown, Ltd., 840 F.3d 445, 445 (7th Cir. 2016) (alleged non-compliance with
+regulations regarding the manner in which defendant paid its employees, which had no direct
+bearing on the amount requested from the government); United States ex rel. Marshall v.
+Woodward, Inc., 85 F. Supp. 3d 973, 980 (N.D. Ill. 2015), aff'd sub nom. U.S. ex rel. Marshall v.
+Woodward, Inc., 812 F.3d 556 (7th Cir. 2015), cert. denied, 136 S. Ct. 2510 (2016) (alleged
+failure to comply with manufacturing processes or "shop procedure," which had no bearing on
+the quality of the finished product or the amount paid by the government).
+
+-17-
+
+Even assuming Defendant's overbilling practices are not material as a matter of
+law – and as set forth above, they are – Defendant's arguments, at the very most, raise a question
+of fact about the materiality of the LCP requirement. Indeed, each of the cases cited by the
+Defendant was decided on a motion for summary judgment.
+
+As Escobar makes clear,
+
+materiality is determined through a holistic assessment of the tendency or capacity of the
+violation to affect the government decision maker. Escobar, 136 S. Ct. at 2001. The Supreme
+Court identified a variety of factors bearing on this holistic assessment, including whether the
+provision violated is expressly labeled as a condition of payment, id. at 1995, whether the
+violation is significant or "minor or insubstantial," id. at 2003, whether the violation goes to the
+"essence of the bargain," id. at 2003 n.5 (quoting Junius Const. Co. v. Cohen, 257 N.Y. 393, 400
+(1931)), whether the government took action in this or other cases where the government had
+knowledge of similar violations, id. at 2003-2004, and whether the government paid a particular
+claim in full despite actual knowledge that certain requirements were violated, and has signaled
+no change in that position, id. As the Supreme Court held, no one factor is dispositive, and a
+court must evaluate these and any other relevant factors together to determine whether a
+particular violation is material. Id. at 2001 (citing Matrixx Initiatives, Inc. v. Siracusano, 563
+U.S. 27, 39 (2011) (materiality cannot rest on a "single fact or occurrence as always
+determinative")).
+Defendant's three arguments all make assumptions about the view of the
+government, which are inappropriate for resolution at this stage. But none of those assumptions
+undermine the critical importance of the price Defendant charged schools and libraries, or the
+fact that the FCC actually already seeks to recover overpayments from – and fine – Defendant's
+sibling corporation for violating the LCP rule.
+
+-18-
+
+1.
+
+The FCC's Continued Payment after the DOJ Declined to Intervene
+Says Nothing About Whether the FCC Considers the Price it Pays for
+Telecommunications Material
+
+The fact that the FCC did not stop payment for Defendant's services under the ERate Program after the DOJ declined to intervene in this matter does nothing to suggest that the
+FCC does not care about the price Defendant charged schools and libraries. There are many
+reasons for the government to continue payment upon hearing about allegations of possible
+wrongdoing, including that the truth of the allegations has yet to be proven, that the government
+might face resource constraints, or that stopping the payment of claims could disrupt existing
+contractual relations in a manner unhelpful to other government interests. As the Sixth Circuit
+has explained:
+The government may make operational changes or investments in
+reliance on the agreement . . . . In these circumstances, among
+others, termination could cause incremental losses that exceed the
+benefits, making a decision not to terminate a poor indicator of
+materiality at the outset.
+United States ex rel. Am. Sys. Consulting v. ManTech Advanced Sys. Int'l, 600 Fed. Appx. 969,
+977 (6th Cir. 2015) (emphasis added); see also U.S. ex rel. El-Amin v. George Washington Univ.,
+533 F. Supp. 2d 12, 22 (D.D.C. 2008) (defendant "would have the Court assume that the
+government always takes action whenever a claim is materially false and, conversely, that the
+government takes no action when a claim is not materially false. This effectively transforms the
+legal definition of materiality into a simple question of whether the government took
+enforcement action. The record before the Court is too paltry to support this inference. As
+explained above, the government may have had any number of reasons for not exercising 'one of
+its various administrative remedies' in this case."); United States ex rel. Harrison v.
+Westinghouse Savannah River Co., 352 F.3d 908, 917 (4th Cir. 2003) ("we can foresee instances
+in which a government entity might choose to continue funding the contract despite earlier
+-19-
+
+wrongdoing by the contractor. For example, . . . . to avoid further costs the government might
+want the subcontractor to continue the project rather than terminate the contract and start over.");
+United States v. President & Fellows of Harvard College, 323 F. Supp. 2d 151, 182 (D. Mass.
+2004) (government agency's attempts to continue a project to aid in reform of the Russian market
+system after discovering the fraud of federal grantee "might simply mean that USAID decided
+that its first priority would be to salvage some of the work to reform the Russian economy and
+then deal with its miscreant grantee later"); cf. Marshall, Inc., 85 F. Supp. 3d at 982-83
+(acknowledging that Department of Defense decision to continue to purchase allegedly
+noncompliant parts from defendant is not dispositive of materiality).
+In Rose v. Stephens Inst., No. 09-CV-05966-PJH, 2016 WL 5076214 (N.D. Cal.
+Sept. 20, 2016), motion to certify appeal granted sub nom. Scott Rose v. Inst., No. 09-CV-05966PJH, 2016 WL 6393513 (N.D. Cal. Oct. 28, 2016), for example, the defendant argued that the
+DOE's failure to take action against it despite being alerted to Defendant's alleged fraud by the
+relator's complaint was evidence that the fraud was not material.
+
+The court rejected that
+
+argument explaining that the agency might have had many reasons for its failure to take action,
+but its inaction was "not terribly relevant to materiality."
+"The court finds that the DOE's decision to not take action against
+[defendant] despite its awareness of the allegations in this case is
+not terribly relevant to materiality. The DOE did not cite any
+reason for this decision, which could well have been based on
+difficulties of proof or resource constraints, or the fact that the
+truth of the allegations has yet to be proven. In such
+circumstances, the DOE's inaction does not provide any basis for
+the court to infer that the DOE had 'actual knowledge' of
+[defendant's] violations or chose not to act because it considered
+the [regulation] unimportant."
+Id. at *6.
+
+-20-
+
+As the court in Rose held, continued payment after a relator's complaint is filed
+does not establish that the relevant agency continued paying with "actual knowledge" of
+Defendant's fraud. Indeed, applying the Supreme Court's Escobar analysis on remand, just last
+month, the First Circuit rejected the notion that continued payment compelled a finding of
+immateriality, emphasizing that "mere awareness of allegations concerning noncompliance with
+regulations is different from knowledge of actual noncompliance." See Escobar III, 2016 WL
+6872650, at *7; see also United States ex rel. Anti-Discrimination Center of Metro New York,
+Inc. v. Westchester County N.Y., 668 F. Supp. 2d 548, 570 (S.D.N.Y. 2009) (defendant's
+assertion of continued payment "missed the mark" where defendant had not established that
+government knew precisely about defendant's wrongdoing).
+Defendant's attempt to ascribe significance to the government's continued
+payment after the DOJ declined this case is also misleading. The DOJ's decision not to intervene
+in a FCA case says nothing about the merits of the case, let alone the relevant agency's view of
+the materiality of the underlying violation. See, e.g., United States ex rel. Chandler v. Cook
+County, 277 F.3d 969 (7th Cir. 2002), aff'd, 538 U.S. 119 (2003) (recognizing that "[t]he Justice
+Department may have myriad reasons for permitting the private suit to go forward including
+limited prosecutorial resources and confidence in the relator's attorney."); see also United States
+ex rel. Atkins v. McInteer, 470 F.3d 1350, 1360 n.17 (11th Cir. 2006) (nonintervention does not
+mean that the relator's claims lack merit). Moreover, even if this case alerted the DOJ to some
+specific rates Defendant charged, the DOJ's decision not to intervene certainly does not suggest
+that the FCC knowingly acquiesced to inflated prices and claims for subsidy payments, as
+Defendant would have the Court believe, especially where, as here, the FCC subsequently filed
+an action taking the opposite position.
+
+-21-
+
+In this case, the government may have continued payment for a multitude of
+reasons, including that the government's "first priority" was to ensure that Wisconsin's schools
+and libraries did not suddenly lose E-Rate funding, recognizing the important role that funding
+plays in school budgeting decisions, and also to prevent the sudden loss of telecommunications
+and internet services for hundreds of Wisconsin schools and many thousands nationwide. Cf.
+Harrison, 352 F.3d at 917; Harvard College, 323 F. Supp. 2d at 182.
+
+Alternatively, the
+
+government may have lacked the resources needed to perform the same type of investigation it
+performed in Florida for Wisconsin schools, or perhaps for schools in other states, to confirm the
+full extent of the fraud being committed by AT&T entities before making the decision to
+discontinue payments to AT&T across the board. Cf. Rose, 2016 WL 5076214 at *6. Defendant
+can only speculate about the basis for the government's decision to continue paying after hearing
+of Plaintiff-Relator's allegations in Wisconsin, making a decision in its favor inappropriate.
+By contrast, in the cases on which Defendant relies, each determining materiality
+at the summary judgment stage, actual knowledge of the alleged fraud on the part of the payor
+agency had been firmly established.
+
+For example, in Thomas, the relator alleged that the
+
+defendant had altered visas and work permit papers in connection with a United States Agency
+for International Development ("USAID") contract. 820 F.3d at 1165. Yet, the "undisputed
+facts establish[ed] that USAID knew" that the relators had discovered and confirmed that altered
+documents were submitted, yet "never took any adverse action" against defendant. Id. at 1172.
+Similarly, in United States v. Sanford–Brown, Ltd., central to the Seventh Circuit's decision
+affirming summary judgment for the defendant, was the fact that "the subsidizing agency" had
+already examined defendant "multiple times over and concluded that neither administrative
+penalties nor termination was warranted." 840 F.3d at 447. The same analysis also factored into
+
+-22-
+
+the Seventh Circuit's decision in U.S. ex rel. Yannacopoulos v. Gen. Dynamics.
+
+In
+
+Yannacopoulos, the defendant specifically alerted the payor agency, the Defense Security
+Assistance Agency, by letter that it believed a provision of the parties' contract was no longer
+applicable. 652 F.3d 818, 830 (7th Cir. 2011). On summary judgment, the Seventh Circuit
+found no genuine issue of fact as to the materiality of that provision, emphasizing the defendant's
+letter and finding that "the agency failed to take action when it actually learned of the supposed
+misrepresentation." Id. at 831 (emphasis supplied); cf. Escobar III, 2016 2016 WL 6872650, at
+*7 (rejecting defendant's argument that continued payment demonstrated materiality, noting that
+there was no evidence in the complaint that the entity paying the claims had actual knowledge of
+the allegations ("much less their veracity")).
+Defendant's position on continued payment, if accepted, would require the
+government to immediately suspend payment every time a qui tam complaint is filed, or risk a
+court finding that the relevant agency did not consider the underlying violation material. Such a
+position would either inappropriately grind government payments to a halt, or prevent the
+government from ever pursuing claims based on regulations it might well find to be critically
+important. Further, Defendant's position effectively reads out of the FCA the qui tam provision
+allowing relators to pursue claims in non-intervened cases, and precludes the government from
+exercising its statutory right to intervene in a previously declined case for good cause. See § 31
+U.S.C. 3730(c)(3) (giving the relator the "right to conduct the action" after declination).
+But even if the FCC's decision to continue paying after the DOJ's investigation
+were at all relevant in determining materiality in this case, that decision would be outweighed by
+the FCC's prior and subsequent directives and enforcement action confirming the materiality of
+the LCP requirement.
+
+See FCC Notice, ¶ 72.
+
+-23-
+
+As Escobar made clear, the government's
+
+continued payment is evidence of a lack of materiality only where the government "has signaled
+no change in position." Escobar, 136 S. Ct. at 2003-04 (emphasis added); see also U.S. ex rel.
+Sanchez-Smith v. AHS Tulsa Reg'l Med. Ctr., 754 F. Supp. 2d 1270, 1298 (N.D. Okla. 2010)
+(denying summary judgment for defendant where evidence that Oklahoma Health Care
+Authority sought refund for regulatory deficiencies could support conclusion that defendant's
+implied false certification was material to its payment decisions); cf. Thomas, 820 F.3d at 1167
+(noting that agency did not demand refund). In this case, the FCC's actions – proposing recovery
+of overpayments and fines against a subsidiary of Defendant's parent corporation for apparent
+violation of the LCP rule – demonstrates the agency's understanding that compliance with the
+LCP requirements of the E-Rate subsidy program is material to payment under the program.
+2.
+
+Deciding Not to Reemphasize the Importance of the LCP
+Requirement Says Nothing About Materiality
+
+Although not a model of clarity, Defendant's next argument appears to be that the
+LCP requirement is not material because the FCC did not specifically single out the E-Rate
+Program's LCP requirement on the face of the certifications that carriers are required to submit
+for payment. Defendant claims that the FCC considered doing so at various points, and then uses
+this "fact" to suggest that the LCP must not be a "condition of payment." See Memo., pp. 1315. In making this argument, Defendant appears to be conflating the concepts of "false
+certification" (which relates to falsity) and "condition of payment" (which can relate to
+materiality). The fact that the FCC never explicitly identified the LCP requirement (or other
+specific requirements of the E-Rate Program) on the face of a form certification has no bearing
+on the materiality of the LCP requirement – neither Escobar, nor any other court, has held that
+all material provisions must be listed on the face of a request for payment or certification. Nor
+
+-24-
+
+does a form certification speak to whether any particular requirement, like the LCP, is a
+condition of payment.
+In any event, Defendant was required to submit to the FCC Form 473, which
+includes a certification that the "Service Provider is in compliance with the rules and orders
+governing the schools and libraries universal service support program." See FCC Notice at ¶ 36.
+By signing the certification, Defendant was certifying that it was in compliance with the E-Rate
+Program rules, which undeniably include the duty not to overcharge the government. Id. at ¶¶
+14, 36, n.100 ("AT&T understands that the certifications require LCP Requirement-compliant
+pricing"). So, even if a certification were somehow evidence of materiality – and it is not –
+Defendant did certify compliance with the LCP. 2
+Tellingly, even when arguing that the LCP requirement is not material because it
+is not specifically identified on the form certifications, Defendant quotes from FCC guidance
+strongly suggesting that the LCP is, in fact, material: "as a condition of receiving support,
+carriers [must] be required to certify that the prices they offer to schools and libraries is no
+greater than the lowest corresponding price . . . " Memo, p. 13 (emphasis added). The E-Rate
+regulations do not otherwise define specific "conditions of payment" or materiality, but the
+Universal Service Order leads only to the conclusion that, to the extent there are such explicit
+
+2
+
+The specific language of the FCC Form 473 has changed several times since E-Rate funding began in
+1998. But, even the instructions to the very first FCC Form 473 in 1998 clearly required an authorized
+AT&T representative to certify that "the service provider [AT&T] is in compliance with the rules
+governing the schools and libraries universal support mechanism." See FCC Form 473 Instructions
+regarding "Block 2: Certification," attached hereto as Exhibit D. Defendant may quibble about the
+specific words of the certification, but the fact remains that Defendant certified (expressly and impliedly)
+that it was complying with the LCP requirement. Defendant has produced documents in discovery
+confirming that it knew it was required to comply with all requirements of the E-Rate Program, including
+the LCP Rule. See Exhibit E, attached hereto (the relevant portion of which is highlighted).
+
+-25-
+
+provisions, LCP is one.
+
+First Report and Order, 12 FCC Rcd. 8776, para. 487 (service
+
+provider's LCP compliance is "a condition of receiving support" from E-Rate).
+Even if the LCP requirement were not characterized as a condition of payment,
+however, Escobar made clear that the characterization of the requirement is not dispositive.
+Escobar expressly rejected the false dichotomy between so-called conditions of participation and
+conditions of payment. Escobar, 136 S. Ct. at 2002 ("[F]orcing the Government to expressly
+designate a provision as a condition of payment would create further arbitrariness"); see also
+United States v. Crumb, No. CV 15-0655-WS-N, 2016 WL 4480690, at *23 n.38 (S.D. Ala. Aug.
+24, 2016) ("One effect of Escobar was to decimate [defendant's] assertion in its principal brief
+that implied certification claims necessarily fail where the pleading 'does not identify any alleged
+false certifications that were a condition of payment.'"). Instead, the Supreme Court clarified that
+FCA liability "does not turn upon" whether requirements are expressly designated as conditions
+of payment and that Defendant "can be liable for violating requirements even if they were not
+expressly designated as conditions of payment" as long as they are material. Escobar, 136 S. Ct.
+at 1996.
+Defendant's argument regarding the "consideration" of various changes to its FCC
+forms is a red herring. Memo, pp. 13-15. In fact, the FCC's decision not to specifically single
+out the LCP requirement on the form certifications actually refutes Defendant's argument – given
+the clear certification that service providers were complying with all E-Rate program rules, the
+FCC likely decided it was not necessary (or prudent) to single out the duty to charge LCP in the
+certifications. Even if such considerations were relevant, the FCC's subsequent actions make
+clear its view on the materiality of the LCP requirement. FCC Notice at ¶¶ 5, 28, 72 (the LCP
+requirement, "requires the service provider to affirmatively submit bids for and charge prices
+
+-26-
+
+compliant with the LCP Requirement," and AT&T's willful and repeated failures to comply with
+the LCP requirement resulted in a proposal to refund monies it received under the E-Rate
+program and pay a fine).
+3.
+
+Requests for Clarification of the LCP Rule Do Not Render Pricing
+Immaterial
+
+Contrary to Defendant's assertion, there is no lack of precision regarding the LCP
+requirement – service providers must charge schools and libraries less than what they charge
+others. 47 U.S.C. § 254(h)(1)(B) (service providers must "provide such services to elementary
+schools, secondary schools, and libraries for educational purposes at rates less than the amounts
+charged for similar services to other parties"); 47 C.F.R. § 54.511(b) (service providers "shall not
+submit bids for or charge schools, school districts, libraries . . . a price above the lowest
+corresponding price for supported services").
+
+Defendant admits it was aware of the LCP
+
+requirement. See Defendant's Response to Plaintiff-Relator's Request to Admit No. 1, attached
+hereto as Exhibit B.
+The fact that the FCC has not further defined the LCP requirement, despite the
+fact that "numerous commentators" have requested a further definition (Memo, p. 17) says
+nothing about the FCC's view on the materiality of the LCP, let alone that the FCC thinks that
+the LCP is immaterial.
+
+Innumerable government requirements could conceivably be more
+
+thoroughly defined, including those that are regularly construed as material, but the relevant
+agencies' decision not to define those requirements further does not mean that the agency
+considers them immaterial.
+The fact that carriers, like Defendant, potentially might have some degree of
+latitude in determining who is "similarly situated" and who is receiving "similar services," does
+not mean that carriers are free to entirely disregard the LCP requirement, as Defendant
+
+-27-
+
+remarkably claims. Memo, pp. 15-16 (the FCC allows carriers to the unfettered discretion to
+"make [the LCP] determination themselves"). But that is just what Defendant has done. See
+Exhibit C (noting that the "LCP is what we deem it to be"). And that is exactly what the FCC
+has condemned. Notice at ¶ 54 ("By employing such a wide-ranging and open definition of
+'similarly situated,' AT&T allows itself to make each customer individualized and effectively
+'similarly situated' to no one else, should it chose (sic) to do so. This is plainly contrary to the
+intent of the LCP Requirement").
+Defendant's reliance on United States ex rel. Marshall v. Woodward, Inc. is
+misplaced.
+
+In Marshall, the relator alleged that the defendant failed to comply with
+
+manufacturing procedures, which the defendant was contractually permitted to change
+unilaterally.
+
+The discretion to make changes, however, did not go to the heart of the
+
+government's bargain – it did not relate to price or the final product sold to the government. 85
+F. Supp. 3d at 980; see also Thomas, 820 F.3d at 1167 (recognizing the tangential nature of the
+defendant's violation and noting that "violations which are merely tangential to the purpose of a
+government contract, standing alone, are insufficient to satisfy the materiality requirement under
+the FCA"). Here, however, the fraud at issue relates to the amount Defendant charged schools,
+libraries, and ultimately, the government. The mere fact that Defendant must exercise some
+independent judgment in meeting its statutory obligation does not suggest that the government
+does not care about what price Defendant charges, which undoubtedly goes to the essence of the
+government's bargain. Nor does the fact that the FCC considered further defining the LCP, but
+decided not to, affect this analysis.
+In fact, the FCC has offered service providers considerable guidance in how to
+determine LCP. In the First Report and Order, the FCC emphasized that services providers
+
+-28-
+
+could not avoid the LCP, as Defendant has tried, "by arguing that none of their non-residential
+customers [were] identically situated to a school or library or that none of their service contracts
+cover services identical to those sought by a school or library." See First Report and Order, 12
+FCC Rcd. 8776, para. 488. The FCC has also explained; for example:
+
+
+"[F]or the purpose of determining that lowest corresponding
+price, similar services would include those provided under
+contract as well as those provided under tariff." Fourth Order
+on Reconsideration, 13 FCC Rcd. 2372 (FCC 1997), para. 133.
+
+
+
+"[R]ates offered within the previous three years are still
+compensatory." Id.
+
+
+
+"[O]nly promotions offered for a period not exceeding 90 days
+may be excluded from the comparable rates upon which the
+lowest corresponding price must be determined." Id., para. 143.
+
+This guidance not only undermines Defendant's claim that the FCC has refused to
+describe the LCP requirement, it reinforces the obvious proposition that the LCP requirement is
+material and that the agency has provided guidance on its implementation.
+C.
+
+Plaintiff-Relator Agrees to Limit its Claims to after October 16, 2002
+Without conceding any arguments raised in Defendant's Motion, Plaintiff-Relator
+
+agrees to limit its claims to the time period from October 16, 2002 to present. Plaintiff-Relator
+reserves the right to pursue claims predating October 16, 2002 if the government intervenes in
+this action. See 31 U.S.C. § 3731(b)(2) (three-year tolling provision from when government
+learns of material facts).
+V.
+
+CONCLUSION
+For all of the foregoing reasons, Plaintiff-Relator respectfully requests that the
+
+Court deny Defendant's Motion for Judgment on the Pleadings, and hold that, as a matter of law,
+the lowest corresponding price is material.
+
+-29-
+
+Dated: December 21, 2016
+
+Respectfully submitted,
+
+O'NEIL, CANNON, HOLLMAN,
+DEJONG & LAING S.C.
+By: /s/Douglas P. Dehler
+Douglas P. Dehler
+Wis. State Bar No. 1000732
+Doug.Dehler@wilaw.com
+Laura J. Lavey
+Wis. State Bar No. 1079346
+Laura.Lavey@wilaw.com
+Christa D. Wittenberg
+Wis. State Bar No. 1096703
+Christa.Wittenberg@wilaw.com
+
+GOLDBERG KOHN LTD.
+By: /s/ David J. Chizewer
+
+David J. Chizewer
+Matthew K. Organ
+Meredith S. Kirshenbaum
+55 E. Monroe
+Suite 3300
+Chicago, IL 60603
+Tel: (312) 201-4000
+Fax: (312) 332-2196
+Attorneys for Plaintiff/Relator
+
+-30-
+
+

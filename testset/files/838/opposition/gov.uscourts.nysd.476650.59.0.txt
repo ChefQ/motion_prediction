@@ -1,0 +1,996 @@
+Case 1:17-cv-04853-JSR Document 59 Filed 10/09/17 Page 1 of 30
+
+IN THE UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+------------------------------------SARAH PALIN,
+Plaintiff,
+-againstTHE NEW YORK TIMES COMPANY,
+Defendant.
+
+-------------------------------------
+
+X
+:
+: No. 17 Civ. 4853
+:
+: Hon. Jed S. Rakoff
+:
+: ECF Case
+:
+:
+:
+:
+:
+:
+:
+X
+
+DEFENDANT’S MEMORANDUM IN OPPOSITION TO
+PLAINTIFF’S MOTION FOR RECONSIDERATION
+AND TO ALTER OR AMEND THE JUDGMENT
+
+Thomas S. Leatherbury
+(admitted pro hac vice)
+VINSON & ELKINS L.L.P.
+Trammell Crow Center
+2001 Ross Avenue, Suite 3700
+Dallas, TX 75201-2975
+Tel: (214) 220-7700
+Fax: (214) 220-7716
+tleatherbury@velaw.com
+
+David A. Schulz
+Jay Ward Brown
+BALLARD SPAHR, LLP
+919 Third Avenue, 37th Floor
+New York, NY 10022-3915
+Tel: (212) 223-6103
+Fax: (212) 223-1942
+schulzd@ballardspahr.com
+brownjay@ballardspahr.com
+
+Co-Counsel for Defendant
+
+Co-Counsel for Defendant
+
+Case 1:17-cv-04853-JSR Document 59 Filed 10/09/17 Page 2 of 30
+
+TABLE OF CONTENTS
+TABLE OF AUTHORITIES .......................................................................................................... ii
+PRELIMINARY STATEMENT .................................................................................................... 1
+RELEVANT PROCEDURAL HISTORY ..................................................................................... 2
+ARGUMENT .................................................................................................................................. 7
+I.
+
+MRS. PALIN’S MOTION SEEKS TO RELITIGATE ISSUES THE COURT HAS
+ALREADY DECIDED AND FAILS TO SATISFY THE STRICT STANDARDS
+GOVERNING REQUESTS FOR RECONSIDERATION ................................................ 7
+
+II.
+
+AMENDMENT WOULD BE FUTILE BECAUSE THE PROPOSED AMENDED
+COMPLAINT FAILS TO STATE A CLAIM.................................................................. 12
+A.
+
+The Court Is Not Required to Credit All Allegations in a Complaint, No
+Matter How Implausible, Unreasonable, or Conclusory ...................................... 12
+
+B.
+
+The Proposed Amended Complaint Fails to Plead a Plausible Claim of
+Actual Malice ........................................................................................................ 17
+
+CONCLUSION ............................................................................................................................. 23
+
+i
+
+Case 1:17-cv-04853-JSR Document 59 Filed 10/09/17 Page 3 of 30
+
+TABLE OF AUTHORITIES
+Cases
+
+Page(s)
+
+Ashcroft v. Iqbal,
+556 U.S. 662, 669, 678, 679, 682 (2009) ......................................................................... passim
+Barsky v. Spiegel Accountancy Corp.,
+2015 WL 580574, at *3 (N.D. Cal. Feb. 11, 2015) ...........................................................16, 17
+Bell Atl. Corp. v. Twombly,
+550 U.S. 544, 555, 567, 570 (2007) .............................................................................12, 16, 23
+Bellikoff v. Eaton Vance Corp.,
+481 F.3d 110, 118 (2d Cir. 2007)...............................................................................................8
+Biro v. Conde Nast,
+963 F. Supp. 2d 255, 279-80 (S.D.N.Y. 2013) ........................................................................15
+Bose Corp. v. Consumers Union of U.S.,
+466 U.S. 485, 511-14 (1984) .....................................................................................................6
+Bozzuto v. Sarra,
+2001 WL 266028, at *2 (W.D.N.Y. Mar. 12, 2001) ................................................................13
+Cabello-Rondon v. Dow Jones & Co.,
+2017 WL 3531551, at *7 (S.D.N.Y. Aug. 16, 2017) ...............................................................14
+Combier v. New York,
+2010 WL 3785130, at *12 (S.D.N.Y. Aug. 25, 2010) .............................................................14
+Cox v. Nat’l R.R. Passenger Corp.,
+2009 WL 2634792, at *3 (S.D.N.Y. Aug. 25, 2009) .................................................................8
+Crupar-Weinmann v. Paris Baguette Am., Inc.,
+41 F. Supp. 3d 411, 413 (S.D.N.Y. 2014)..................................................................................1
+Curtis Publ’g Co. v. Butts,
+388 U.S. 130, 155 (1967) .........................................................................................................18
+Davila v. Johnson,
+2015 WL 8968357, at *4-5 (S.D.N.Y. Dec. 15, 2015) ............................................................17
+Doe v. Columbia Univ.,
+831 F.3d 46, 48 (2d Cir. 2016).................................................................................................15
+Eclectic Properties E., LLC v. Marcus & Millichap Co.,
+751 F.3d 990, 999 (9th Cir. 2014) ...........................................................................................17
+
+ii
+
+Case 1:17-cv-04853-JSR Document 59 Filed 10/09/17 Page 4 of 30
+
+Egiazaryan v. Zalmayev,
+2011 WL 6097136, at *8 (S.D.N.Y. Dec. 7, 2011) .................................................................15
+Gallop v. Cheney,
+642 F.3d 364, 369-70 (2d Cir. 2011) .......................................................................................14
+Glob. Packaging Servs., LLC v. Glob. Printing & Packaging,
+--- F. Supp. 3d ---, 2017 WL 1232731, at *5 (S.D.N.Y. Mar. 31, 2017) .................................15
+Harte-Hanks Commc’ns, Inc. v. Connaughton,
+491 U.S. 657, 665-66 (1989) .............................................................................................18, 19
+Hayden v. Cty. of Nassau,
+180 F.3d 42, 53-54 (2d Cir. 1999) ...........................................................................................11
+High Falls Brewing Co., LLC v. Boston Beer Corp.,
+852 F. Supp. 2d 306, 322-23 (W.D.N.Y. 2011) .......................................................................17
+Hopper v. Banana Republic, LLC,
+2008 WL 490613, at *2 (S.D.N.Y. Feb. 25, 2008) ..................................................................14
+In re Keegan Mgmt. Co. Sec. Litig.,
+154 F.R.D. 237, 241 (N.D. Cal. 1994) .....................................................................................13
+Kendall v. Cuomo,
+2013 WL 5425780, at *6 (S.D.N.Y. Sept. 26, 2013) .........................................................14, 15
+Landesman v. City of N.Y.,
+501 F. Supp. 837, 840 (E.D.N.Y. 1980) ..................................................................................13
+Levine v. FDIC,
+2 F.3d 476, 479 (2d Cir. 1993).................................................................................................13
+Lopez v. Ctpartners Exec. Search Inc.,
+173 F. Supp. 3d 12, 43 (S.D.N.Y. 2016)..................................................................................11
+McNaughton v. De Blasio,
+644 F. App’x 32, 33 (2d Cir. 2016) .........................................................................................14
+Murphy v. Cuomo,
+913 F. Supp. 671, 683 (N.D.N.Y. 1996) ..................................................................................13
+Nungesser v. Columbia Univ.,
+244 F. Supp. 3d 345, 354 n.6 (S.D.N.Y. 2017)........................................................................15
+Porat v. Lincoln Towers Cmty. Ass’n,
+464 F.3d 274, 276 (2d Cir. 2006).............................................................................................11
+
+iii
+
+Case 1:17-cv-04853-JSR Document 59 Filed 10/09/17 Page 5 of 30
+
+In re Refco Secs. Litig.,
+2012 WL 607612, at *1 (S.D.N.Y. Feb. 17, 2012) ....................................................................8
+RSM Prod.Corp. v. Fridman,
+643 F. Supp. 2d 382, 413 (S.D.N.Y. 2009)..............................................................................15
+Saenz v. Ledbetter,
+2017 WL 2626987, at *4 (C.D. Cal. June 15, 2017) ...............................................................16
+Schatz v. Republican State Leadership Comm.,
+669 F.3d 50, 55 (1st Cir. 2012) ..........................................................................................12, 13
+Sequa Corp. v. GBJ Corp.,
+156 F.3d 136, 144 (2d Cir. 1998)...............................................................................................1
+Shay v. Walters,
+702 F.3d 76, 82 (1st Cir. 2012) ................................................................................................15
+Shrader v. CSX Transp., Inc.,
+70 F.3d 255, 257 (2d Cir. 1995).............................................................................................7, 8
+Simon v. Smith & Nephew, Inc.,
+18 F. Supp. 3d 423, 427 (S.D.N.Y. 2014)..................................................................................8
+Smith v. Stevens,
+957 F. Supp. 2d 466, 470-71 (S.D.N.Y. 2013) ........................................................................10
+Sourceone Healthcare Techs., Inc. v. Bensonhurst Imaging Assocs. Mgmt. LLC,
+2008 WL 2697324, at *2 (E.D.N.Y. July 2, 2008) ..................................................................13
+SPV OSUS Ltd. v. AIA LLC,
+2016 WL 3039192, at *8 (S.D.N.Y. May 26, 2016)................................................................10
+Tabaei v. New York City Health & Hospitals Corp.,
+2011 WL 6778500, at *4 (S.D.N.Y. Dec. 21, 2011) .........................................................10, 11
+United States ex. Rel. Ceas v. Chrysler Grp. LLC,
+78 F. Supp. 3d 869, 882 (N.D. Ill. 2015) .................................................................................16
+Van Buskirk v. N.Y. Times Co.,
+325 F.3d 87, 92 (2d Cir. 2003).................................................................................................11
+Williams v. Citigroup Inc.,
+659 F.3d 208, 213 (2d Cir. 2011)...............................................................................................8
+
+iv
+
+Case 1:17-cv-04853-JSR Document 59 Filed 10/09/17 Page 6 of 30
+
+Rules
+L. Civ. R. 6.3 ....................................................................................................................................7
+Fed. R. Civ. P. 11(b)(3)..................................................................................................................13
+Other Authorities
+Robert D. Sack, Sack on Defamation § 5:5.2[B] (4th ed. 2010)......................................................9
+
+v
+
+Case 1:17-cv-04853-JSR Document 59 Filed 10/09/17 Page 7 of 30
+
+PRELIMINARY STATEMENT
+Plaintiff Sarah Palin’s motion for reconsideration of this Court’s August 29, 2017 Order
+and to alter or amend the Court’s August 30, 2017 judgment should be denied for two separate
+but related reasons.
+First, Mrs. Palin’s motion proceeds from the false premise that she was deprived of “a
+meaningful opportunity to plead her case.” Pl.’s Mem. of Law in Support of Mot. For
+Reconsideration and to Alter or Amend the Judgment, Dkt. 52 (“Mem.”) at 1. In fact, the Court
+not only held an evidentiary hearing that provided her with an opportunity to cure her facially
+deficient pleading, it also thereafter permitted her to submit two supplemental briefs in which she
+relied on the same factual allegations and legal theories that now undergird her motion for
+reconsideration. As a result, the Court has already considered the very same contentions that
+Mrs. Palin now re-urges in her motion, expressly concluding “it is plain that plaintiff has not and
+cannot meet” the applicable “plausibility” standard by which her case must be judged, “even
+with the benefit of the facts brought forth by the evidentiary hearing” and the “gloss” Mrs. Palin
+sought to put on them in her supplemental briefs. Opinion & Order, Dkt. 45 (“Op.”) at 17-18.
+Mrs. Palin’s attempt to reargue her case, therefore, offers no proper basis for reconsideration—
+i.e., no “data that the Court overlooked . . . that might reasonably be expected to alter the
+conclusion reached.” Crupar-Weinmann v. Paris Baguette Am., Inc., 41 F. Supp. 3d 411, 413
+(S.D.N.Y. 2014) (Rakoff, J.) (citation omitted); see also Sequa Corp. v. GBJ Corp., 156 F.3d
+136, 144 (2d Cir. 1998) (a motion for reconsideration is not “a vehicle for relitigating old issues,
+presenting the case under new theories, securing a rehearing on the merits, or otherwise taking a
+‘second bite at the apple’”) (citations omitted). The motion should be denied on this basis alone.
+Second, even if the Court were to allow Mrs. Palin a “second bite at the apple” following
+the entry of judgment, the amendment she contemplates is demonstrably futile because it fails to
+
+Case 1:17-cv-04853-JSR Document 59 Filed 10/09/17 Page 8 of 30
+
+make plausible allegations of “actual malice.” To the extent the proposed amendment ventures
+beyond the same allegations the Court has already rejected in assessing both Mrs. Palin’s
+complaint and her supplemental briefs, it doubles down on the very same kinds of “gross
+supposition” and “weak” allegations that characterized those previous submissions, Op. at 25, by
+infusing her proposed amended pleading with an admixture of facially implausible and internally
+contradictory contentions, unreasonable inferences from facts actually adduced at the evidentiary
+hearing, and conclusory assertions that there can be no good-faith basis to make. It is well
+settled that the Court need not credit such implausible allegations and unreasonable inferences
+and, when the proposed Amended Complaint is stripped of them, there can be no serious dispute
+that leave to amend would be futile. Mrs. Palin’s motion for reconsideration should be denied on
+this basis as well.
+RELEVANT PROCEDURAL HISTORY
+On July 7, 2017, the parties appeared before the Court for an initial case management and
+scheduling conference. At that conference, defendant The New York Times Company (“The
+Times”) stated its intention to move to dismiss the complaint on several grounds, including most
+notably that Mrs. Palin had failed to plead plausible allegations of actual malice. In considering
+whether to grant The Times’s request to stay discovery pending its resolution of that motion, the
+Court specifically inquired whether a decision granting such a motion would prompt the filing of
+an amended complaint. Counsel for Mrs. Palin represented that, in that event, no such
+amendment would be tendered because Mrs. Palin did not possess “any additional facts of
+malice.” See July 7, 2017 Tr. (“7.17 Tr.”) at 7:7-18. The Court then granted The Times’s
+request to stay discovery. Id. at 10:20-21.
+In its subsequently filed motion, The Times demonstrated that Mrs. Palin’s contention
+that it had published the challenged statements with actual malice was premised on a series of
+2
+
+Case 1:17-cv-04853-JSR Document 59 Filed 10/09/17 Page 9 of 30
+
+implausible assumptions and strained inferences: i.e., the supposition that members of The
+Times’s Editorial Board, because they politically oppose and personally dislike Mrs. Palin,
+deliberately published false and defamatory statements about her alongside (and while linking to)
+other publications that would instantly alert readers to their falsity, and then promptly corrected
+those statements when their scheme to defame Mrs. Palin inevitably failed, all in the hope that
+one passing mention of her name deep in the text of an editorial that was not otherwise about her
+would nevertheless draw a multitude of online readers and result in additional advertising
+revenue. In opposing the motion, Mrs. Palin urged that her pleadings plausibly alleged precisely
+those facts. Mem. in Opp.to Def.’s Mot.to Dismiss, Dkt. 29 (“MTD Opp.”) at 14-21.1
+On August 10, shortly after hearing argument on The Times’s motion, the Court issued
+an Order convening a hearing pursuant to Rule 43(c) to assist in addressing the “plausibility”
+issue. Order, Dkt. 35. “To a large extent,” the Court explained, “determination of that issue may
+turn on what inferences favorable to the plaintiff are reasonable given the circumstances alleged
+in the Complaint.” Id. at 1. Thus, “to help inform the Court of what inferences are reasonable or
+unreasonable in this context,” the Order directed The Times to produce at the hearing the author
+of the challenged statements, who The Times identified as Editorial Page Editor James Bennet.
+Id. at 2. Neither party objected to this procedure, Aug. 16, 2017 Tr. (“8.16 Tr.”) at 72:23-25,
+75:21-24, which, as a practical matter, afforded Mrs. Palin an additional opportunity to attempt
+to develop a factual predicate supporting a plausible claim of actual malice.
+
+1
+
+Mrs. Palin argued that her thesis was further supported by allegations that The Times failed to
+heed other articles it published on the same topic, MTD Opp. at 17-19; Compl. ¶¶ 4, 5, 41-47,
+67-68; violated its own and otherwise accepted journalistic standards, MTD Opp. at 19-20;
+Compl. ¶¶ 6, 69-72, 81; and failed “meaningfully” to retract or correct the challenged statements,
+MTD Opp. at 20-21; Compl. ¶¶ 49-66.
+
+3
+
+Case 1:17-cv-04853-JSR Document 59 Filed 10/09/17 Page 10 of 30
+
+Prior to the hearing, the Court ordered the parties to exchange any exhibits they proposed
+to introduce in connection with Mr. Bennet’s testimony. Mrs. Palin initially designated some 56
+exhibits, reducing that number to 32 on the eve of the hearing. At the Court’s request, The
+Times produced to Mrs. Palin an initial draft of the challenged editorial that had been prepared
+by Mr. Bennet’s colleague Elizabeth Williamson. On August 16, Mr. Bennet testified at the
+hearing, at which time he was questioned by counsel for the parties and by the Court. Id. at 3:810. Following Mr. Bennet’s testimony, the Court asked counsel if either party wished to take
+testimony from Ms. Williamson. Id. at 72:1-6. Mrs. Palin opted not to seek such testimony. Id.
+at 73:4-20 (requiring Ms. Palin to submit a letter if she wished to call Ms. Williamson, which
+was never submitted).
+At the close of the hearing, the Court ordered supplemental briefing for the express
+purpose of assessing how the testimony and other evidence adduced at the hearing affected the
+question of whether Mrs. Palin could plausibly allege that the challenged statements were
+published with actual malice. Id. at 73:21-74:7. At the same time, the Court asked The Times to
+produce to Mrs. Palin additional documents referenced by Mr. Bennet in his testimony, a request
+with which The Times promptly complied. Id. at 79:1-25. In seeking such briefing, the Court
+reiterated that the purpose of the hearing was not to adjudicate disputed facts or to make
+credibility determinations, but rather to assess “what is a plausible possibility and what is not a
+plausible possibility in this so far as a motion to dismiss is concerned.” Id. at 74:3-6.
+On August 21, the parties submitted their supplemental briefs. In her submission, Mrs.
+Palin recognized that, to assess the plausibility of a complaint’s allegations on a motion to
+dismiss, “[t]rial courts are permitted to consider a limited universe of documents and information
+extraneous to the complaint to evaluate context,” including by permitting “limited plausibility
+
+4
+
+Case 1:17-cv-04853-JSR Document 59 Filed 10/09/17 Page 11 of 30
+
+discovery or, as was the case here, to conduct a plausibility hearing to assist the court in its
+gatekeeping role.” See Pl.’s Mem. of Law on Context, Inferences and Plausibility, Dkt. 40, at 12. Proceeding from this premise, Mrs. Palin argued that the combination of the facts pled in her
+complaint, Mr. Bennet’s testimony at the hearing, and the documents that she had designated as
+exhibits along with those that The Times had produced, yielded a sufficient basis for her
+plausibly to allege, inter alia, that:
+
+
+Mr. Bennet (and thus The Times) had an “inferred actual knowledge” of
+prior press reports demonstrating the falsity of the challenged statements,
+both in The Times and in The Atlantic, at which he had previously served
+as its editor, id. at 5-6;
+
+
+
+Mr. Bennet had a “pre-determined theory” about Mrs. Palin’s role in
+inciting the shooting of Rep. Gabrielle Giffords, which he was determined
+to expound regardless of its accuracy, id. at 4-5;
+
+
+
+Mr. Bennet was motivated to do so both because of his desire to increase
+advertising revenue by portraying Mrs. Palin in an unfavorable manner
+and because Mr. Bennet disagrees with Mrs. Palin politically and dislikes
+her personally, id. at 8-10; and
+
+
+
+Mr. Bennet’s personal animus was fueled specifically by the fact that his
+brother is a United States Senator who belongs to a different political party
+than Mrs. Palin and who holds views contrary to hers (particularly about
+gun control) and had received threats of violence as a result, id. at 5 n.22.
+
+Mrs. Palin’s supplemental brief was accompanied by a declaration that contained 34 exhibits.
+Declaration of Shane B. Vogt, Dkt. 41 (“Vogt Decl.”).2
+On August 29, 2017, the Court issued its Opinion and Order dismissing the Complaint.
+In it, the Court concluded that Mrs. Palin was unable plausibly to allege actual malice,
+emphasizing that it had considered not just the well pleaded allegations of the Complaint, but
+
+2
+
+On August 22, the day after she submitted her supplemental brief, Mrs. Palin requested
+permission to submit an additional brief. Over The Times’s objection, the Court granted her
+request and Mrs. Palin filed a further supplemental memorandum on August 22, 2017. Pl.’s
+Reply to Response to Motion, Dkt. 43.
+
+5
+
+Case 1:17-cv-04853-JSR Document 59 Filed 10/09/17 Page 12 of 30
+
+also the evidence adduced at the hearing and the arguments based on that evidence contained in
+Mrs. Palin’s supplemental briefs. As the Court explained, “plaintiff’s complaint, even when
+supplemented by facts developed at an evidentiary hearing convened by the Court” failed to
+make a plausible showing of actual malice. Op. at 1 (emphasis added). The Court specifically
+assessed the new “facts” that Mrs. Palin identified in her supplemental briefs and concluded that
+each and every item of alleged support for plaintiff’s claim of actual malice
+consists either of gross supposition or of evidence so weak that, even together,
+these items cannot support the high degree of particularized proof that must be
+provided before plaintiff can be said to have adequately alleged clear and
+convincing evidence of actual malice.
+Id. at 25. In so concluding, the Court expressly considered the inferences Mrs. Palin drew from
+Mr. Bennet’s testimony to support her assertion that he “actually knew, or recklessly
+disregarded, that his editorial statements were false, because of prior articles in the Times and the
+Atlantic … that he presumably read and that disclaimed any link between the SarahPAC Map
+and the Loughner Shooting,” id. at 22, rejecting the proffered inferences that Mr. Bennet had
+these prior reports in mind when he wrote the challenged statements as unpersuasive “lawyers’
+arguments.” Id.3 Ultimately, the Court concluded that, “[b]ecause … this Court has canvassed
+in the discussion above all the various additions that plaintiff has even remotely suggested it
+would include in an amended complaint, the dismissal is ‘with prejudice,’ that is, final.” Id. at
+25. Judgment was entered the following day. Judgment, Dkt. 46.
+The instant motion was filed on September 25. Notice of Mot., Dkt. 51. Styled as a
+“motion for reconsideration and to alter or amend the judgment,” it cites no specific, dispositive
+3
+
+The Court did not, as Mrs. Palin now asserts, “credit Mr. Bennet’s testimony” that he did not
+recall these prior articles when he wrote the challenged statements. Mem. at 6. Rather, it
+appropriately determined both that Mr. Bennet’s testimony provided no basis for Mrs. Palin to
+draw a contrary inference, see Bose Corp. v. Consumers Union of U.S., 466 U.S. 485, 511-14
+(1984) (disbelief of author’s testimony does not warrant drawing contrary inference), and that the
+proffered inference was demonstrably unreasonable in any event, see Op. at 22.
+
+6
+
+Case 1:17-cv-04853-JSR Document 59 Filed 10/09/17 Page 13 of 30
+
+legal or factual issue allegedly overlooked by the Court. Rather, the motion asserts only that the
+Court erred by dismissing the complaint with prejudice rather than with leave to amend, see
+Mem. at 1, and contends that the attached 221-paragraph proposed Amended Complaint,
+accompanied by 29 exhibits, plausibly alleges actual malice, id. at 1-2.
+Although the proposed Amended Complaint includes Mr. Bennet in many places in
+which its predecessor had referenced only The Times or its Editorial Board, it substantively
+tracks the same allegations made in the Complaint and in Mrs. Palin’s supplemental briefs—i.e.,
+it alleges that Mr. Bennet must have known the challenged statements were false because he
+must have specifically remembered 2011 articles in The Atlantic and stories in The Times
+reflecting a journalistic “consensus” to the contrary, id. at 10-11, 19-20; that he pursued a
+preconceived story line he therefore knew to be false, id. at 12-14; that he did so because he was
+motivated by a desire to increase advertising revenue and because of “bias” and “ill will” arising
+from his own political views and those of his brother, id. at 14-15; that he and The Times
+“refused to meaningfully retract” the Editorial, id. at 15-17; and that, in doing all of this, he
+violated accepted journalistic standards, id. at 17-18.
+ARGUMENT
+I.
+
+MRS. PALIN’S MOTION SEEKS TO RELITIGATE ISSUES THE COURT HAS
+ALREADY DECIDED AND FAILS TO SATISFY THE STRICT STANDARDS
+GOVERNING REQUESTS FOR RECONSIDERATION
+Under the rules of this Court, motions for reconsideration require a memorandum “setting
+
+forth concisely the matters or controlling decisions which counsel believes the Court has
+overlooked.” L. Civ. R. 6.3. As the Second Circuit has instructed:
+The standard for granting such a motion is strict, and reconsideration will
+generally be denied unless the moving party can point to controlling decisions or
+data that the court overlooked – matters, in other words, that might reasonably be
+expected to alter the conclusion reached by the court.
+
+7
+
+Case 1:17-cv-04853-JSR Document 59 Filed 10/09/17 Page 14 of 30
+
+Shrader v. CSX Transp., Inc., 70 F.3d 255, 257 (2d Cir. 1995); see In re Refco Secs. Litig., 2012
+WL 607612, at *1 (S.D.N.Y. Feb. 17, 2012) (Rakoff, J.) (denying reconsideration motion and
+motion to amend because “Local Rule 6.3 should be ‘strictly applied so as to avoid repetitive
+arguments on issues that have been considered fully by the Court’” (citation omitted)); Simon v.
+Smith & Nephew, Inc., 18 F. Supp. 3d 423, 427 (S.D.N.Y. 2014) (denying reconsideration and
+motion for leave to file amended complaint where plaintiff “failed[ed] to point to any facts the
+Court overlooked that would warrant reconsideration”); Cox v. Nat’l R.R. Passenger Corp., 2009
+WL 2634792, at *3 (S.D.N.Y. Aug. 25, 2009) (“a plaintiff may not rescue his complaint by
+inserting new or revised allegations in a motion for reconsideration”). In short, “post-judgment
+motions for leave to replead must be evaluated with due regard to both the value of finality and
+the policies embodied in Rule 15.” Williams v. Citigroup Inc., 659 F.3d 208, 213 (2d Cir. 2011).
+And, as the Court of Appeals has emphasized, “[l]eave to amend is especially inappropriate
+where . . . plaintiff’s proposed amendments [are] merely recycled versions of claims which had
+already fallen victim to a motion to dismiss.” Bellikoff v. Eaton Vance Corp., 481 F.3d 110, 118
+(2d Cir. 2007).
+Mrs. Palin’s motion is just that. All of the factual allegations that were—or reasonably
+could be—made in support of her contention that the challenged statements were published with
+actual malice have already been fully considered by the Court. In its Order, the Court expressly
+considered not only the allegations contained in the complaint itself but also the extensive
+arguments made by Mrs. Palin in her supplemental briefs following the hearing, including “all
+the various additions that plaintiff has even remotely suggested it would include in an amended
+complaint.” Op. at 25. Those additions encompass all of the various species of allegations now
+urged by Mrs. Palin on reconsideration. Compare Mem. at 10-11, 19-20 (alleging knowledge of
+
+8
+
+Case 1:17-cv-04853-JSR Document 59 Filed 10/09/17 Page 15 of 30
+
+falsity by Mr. Bennet based on prior reports in The Times and The Atlantic and resulting
+journalistic “consensus”), with Op. at 22, 24 (rejecting plausibility of same); compare Mem. at
+12-14 (alleging preconceived story line and “purposeful avoidance” of the truth), with Op. at 20,
+23 (rejecting plausibility of same); compare Mem. at 14-15 (alleging “bias, motive and ill will”),
+with Op. at 18-19 (rejecting plausibility of same); compare Mem. at 15-16 (alleging “refus[al] to
+meaningfully retract”), with Op. at 25 (rejecting plausibility of same); compare Mem. at 17-18
+(alleging violation of journalistic standards), with Op. at 21 (rejecting plausibility of same); see
+also Op. at 25 (rejecting “other alleged evidence of actual malice” as “too inconsequential to be
+worth further discussion”).4
+The sole error of law alleged by Mrs. Palin is her contention that the Court should not
+have found amendment to be futile until “after a plaintiff has an opportunity to proffer an
+amended complaint.” Mem. at 3. This contention not only ignores what actually happened in
+this case, it is incorrect as a matter of law. The fundamental flaw in Mrs. Palin’s argument that
+4
+
+Although the proposed Amended Complaint includes a number of exhibits, all of them were
+either already produced in advance of the plausibility hearing—including all of The Atlantic
+articles that now feature prominently in Mrs. Palin’s motion for reconsideration—or could have
+been. None represents the kind of newly discovered evidence not previously available to a
+plaintiff that might properly be the subject of a reconsideration motion. Indeed, the overarching
+notion advanced by Mrs. Palin—that the factual predicates for her “new” allegations did not and
+could not have become known to her until after the close of supplemental briefing, see Mem. at
+1-2—does not survive reasonable scrutiny. When Mrs. Palin filed her initial complaint, it was
+certainly no secret that (1) Mr. Bennet was The Times’s Editorial Page Editor, (2) that he bore
+overall responsibility for its editorials, or (3) that he had been editor of The Atlantic at the time of
+the Arizona shooting. The articles from that era on which Mrs. Palin relied at the evidentiary
+hearing, in her supplemental briefing, and then again in her proposed Amended Complaint were
+all available to her before she filed her initial complaint. Especially given her repeated allegation
+that it is reasonable to infer, from the mere fact that Mr. Bennet was once editor of The Atlantic,
+that he not only was responsible for and therefore read every article that magazine published
+during his tenure, but that he also committed them to memory, id. at 10-11 (summarizing
+allegations), there is no reasonable basis for Mrs. Palin now to claim, as she does in this motion,
+see Mem. at 1-2, that Mr. Bennet’s involvement in the editorial’s publication, his prior role at
+The Atlantic, or that magazine’s publication of articles about the Arizona shooting came as a
+surprise to her.
+
+9
+
+Case 1:17-cv-04853-JSR Document 59 Filed 10/09/17 Page 16 of 30
+
+she “should be given a meaningful opportunity to plead her case,” id. at 1, is that she has already
+been afforded just such an opportunity. Although Mrs. Palin expressly disclaimed any desire to
+amend her complaint at the Initial Pretrial Conference, precisely because she was aware of no
+additional relevant facts that could be pleaded in good faith, 7.17 Tr. at 7:7-18, the Court
+nevertheless provided her an opportunity both (a) to amass such facts by holding an evidentiary
+hearing and (b) to submit multiple supplemental briefs setting out why she believed she could—
+in the wake of that hearing—plausibly allege actual malice. As a practical matter, the
+supplemental briefs served the same function as the motion for leave to file an amended
+complaint Mrs. Palin now claims she was deprived of the ability to make: It afforded her a full
+and fair opportunity to identify for the Court facts plausibly establishing her claim prior to any
+decision that it should be dismissed with prejudice.
+As a matter of law, Mrs. Palin is entitled to nothing more. In SPV OSUS Ltd. v. AIA LLC,
+for example, this Court dismissed claims with prejudice after granting plaintiff leave to file a
+letter identifying what supplemental allegations it would make if afforded an opportunity to
+replead. 2016 WL 3039192, at *8 (S.D.N.Y. May 26, 2016) (Rakoff, J.) (cited at Mem. at 4),
+appeal docketed sub nom. SPS OSUS Ltd. v. UBS AG, No. 16-2173 (2d Cir. June 24, 2016). The
+Court dismissed the claim with prejudice because the resulting submission, taken together with
+alternate theories proffered in the plaintiff’s briefing, was insufficient to plead a required element
+of the claim. Id. Similarly, in Smith v. Stevens, the Court entertained a faxed submission on a
+key factual point, but dismissed the claim with prejudice because the submission only confirmed
+the implausibility of the complaint’s allegations. 957 F. Supp. 2d 466, 470-71 (S.D.N.Y. 2013)
+(Rakoff, J.) (cited at Mem. at 4). And, in Tabaei v. New York City Health & Hospitals Corp.,
+when counsel for a plaintiff orally sought leave to amend at a hearing on a motion to dismiss, the
+
+10
+
+Case 1:17-cv-04853-JSR Document 59 Filed 10/09/17 Page 17 of 30
+
+Court asked counsel to identify those additional facts that would save its claim and, because “few
+were mentioned and none was material,” dismissed the case with prejudice. 2011 WL 6778500,
+at *4 (S.D.N.Y. Dec. 21, 2011) (Rakoff, J.) (cited at Mem. at 4).
+In this case, the Court did not—as Mrs. Palin now asserts—evaluate the validity of an
+amended pleading based on its own “improper speculation” about what that pleading might
+allege. Mem. at 4. Rather, the Court considered her counsel’s examination of Mr. Bennet at the
+evidentiary hearing (as well as its own examination of the witness), the exhibits she proffered in
+connection with that hearing, and Mrs. Palin’s own arguments based on that evidence, which
+were set out in detail in her supplemental briefs and the 34 exhibits she submitted along with
+them. Op. at 25. This was not a “limited” or otherwise “truncated” process. Mem. at 2, 5.
+Where, as here, the Court “canvassed … all the various additions that plaintiff has even remotely
+suggested it would include in an amended complaint” and found them insufficient as a matter of
+law, Op. at 25, dismissal with prejudice is entirely appropriate. See Porat v. Lincoln Towers
+Cmty. Ass’n, 464 F.3d 274, 276 (2d Cir. 2006) (no error to dismiss with prejudice where
+plaintiff’s counsel “fail[ed] . . . to make a showing that the complaint’s defects can be cured”);
+Hayden v. Cty. of Nassau, 180 F.3d 42, 53-54 (2d Cir. 1999) (“[W]here the plaintiff is unable to
+demonstrate that he would be able to amend his complaint in a manner which would survive
+dismissal, opportunity to replead is rightfully denied.”); see also Van Buskirk v. N.Y. Times Co.,
+325 F.3d 87, 92 (2d Cir. 2003); Lopez v. Ctpartners Exec. Search Inc., 173 F. Supp. 3d 12, 43
+(S.D.N.Y. 2016) (liberal repleading rules do not “require that a plaintiff receive, as a matter of
+course, repeated judicial decisions on the same motion”).
+
+11
+
+Case 1:17-cv-04853-JSR Document 59 Filed 10/09/17 Page 18 of 30
+
+II.
+
+AMENDMENT WOULD BE FUTILE BECAUSE THE PROPOSED AMENDED
+COMPLAINT FAILS TO STATE A CLAIM
+Even if the proposed Amended Complaint is considered on its merits, it fails for the same
+
+reason as its predecessor—it does not plausibly allege “sufficient particularized facts” to “prove
+by ‘clear and convincing evidence’ that the allegedly defamatory statements were made with
+‘actual malice’—that is, with knowledge that the statements were false or with reckless disregard
+as to their falsity.” Op. at 15-16 (citations omitted). Thus, the proposed amendment would be
+“futile,” and Mrs. Palin’s motion is properly denied on this basis as well.
+A.
+
+The Court Is Not Required to Credit All Allegations in a Complaint, No
+Matter How Implausible, Unreasonable, or Conclusory
+
+Mrs. Palin’s contention that her proposed Amended Complaint plausibly alleges actual
+malice is premised squarely on her assertion that the Court is “duty-bound . . . to accept as true
+Mrs. Palin’s allegations that Mr. Bennet knew about and recalled The New York Times and The
+Atlantic articles and the consensus among journalists which demonstrated that Mr. Bennet’s
+statements about Mrs. Palin were false.” Mem. at 7. Mrs. Palin is wrong about this and her
+misapprehension of the requirements imposed by Federal Rules of Civil Procedure is fatal to her
+claim.
+As the Supreme Court has explained, “[t]o survive a motion to dismiss, a complaint must
+contain sufficient factual matter, accepted as true, to ‘state a claim to relief that is plausible on its
+face.’” Ashcroft v. Iqbal, 556 U.S. 662, 678 (2009) (quoting Bell Atl. Corp. v. Twombly, 550
+U.S. 544, 570 (2007)). “A claim has facial plausibility when the plaintiff pleads factual content
+that allows the court to draw the reasonable inference that the defendant is liable for the
+misconduct alleged.” Id. (emphasis added). In other words, the well-pleaded “[f]actual
+allegations must be enough to raise a right to relief above the speculative level,” Twombly, 550
+U.S. at 555. As the First Circuit has explained, in a decision similarly assessing the plausibility
+12
+
+Case 1:17-cv-04853-JSR Document 59 Filed 10/09/17 Page 19 of 30
+
+of a plaintiff’s allegations of actual malice, “[p]lausible . . . means something more than merely
+possible, and gauging a pleaded situation’s plausibility is a ‘context-specific’ job that compels us
+‘to draw on’ our ‘judicial experience and common sense.’” Schatz v. Republican State
+Leadership Comm., 669 F.3d 50, 55 (1st Cir. 2012) (quoting Iqbal, 556 U.S. at 679).
+In making the plausibility assessment required by Iqbal and Twombly, a court is not
+“duty-bound” to accept all of the complaint’s allegations that the plaintiff denominates as
+“facts.” Mem. at 7. For one thing, courts are not obliged to accept factual allegations that are
+themselves demonstrably implausible or speculative. See, e.g., Levine v. FDIC, 2 F.3d 476, 479
+(2d Cir. 1993) (“the creativity of an attorney may not transcend the facts of a given case”)
+(citation omitted). Indeed, long before Iqbal and Twombly, courts rejected factual allegations
+that were “pure conjecture.” Bozzuto v. Sarra, 2001 WL 266028, at *2 (W.D.N.Y. Mar. 12,
+2001) (denying leave to amend where new allegations were “wholly fanciful”); see also
+Sourceone Healthcare Techs., Inc. v. Bensonhurst Imaging Assocs. Mgmt. LLC, 2008 WL
+2697324, at *2 (E.D.N.Y. July 2, 2008) (“[A] party cannot allege facts to make out the substance
+of a claim when it has an insufficient basis to make those allegations in the hope that discovery
+may fortuitously give it a good faith basis, unless it has reason to believe that will in fact
+occur.”).5
+5
+
+The Federal Rules of Civil Procedure have long proceeded from the premise that the “factual
+contentions” made in a complaint must “have evidentiary support or, if specifically so identified,
+will likely have evidentiary support after a reasonable opportunity for further investigation or
+discovery.” Fed. R. Civ. P. 11(b)(3). While a plaintiff is not required to know all potentially
+relevant facts prior to filing its pleading, “a complaint must always be based ‘on more than pure
+speculation and fantasy.’” Murphy v. Cuomo, 913 F. Supp. 671, 683 (N.D.N.Y. 1996) (quoting
+In re Keegan Mgmt. Co. Sec. Litig., 154 F.R.D. 237, 241 (N.D. Cal. 1994)); see also Landesman
+v. City of N.Y., 501 F. Supp. 837, 840 (E.D.N.Y. 1980) (“Careful examination of the complaint
+reveals that, with respect to defendants . . . it is based wholly on speculation and conjecture and
+is an artful attempt to satisfy the pleading requirements of the federal rules while avoiding the
+proscriptions of Rule 11.”).
+
+13
+
+Case 1:17-cv-04853-JSR Document 59 Filed 10/09/17 Page 20 of 30
+
+Following Iqbal and Twombly, courts have similarly rejected factual allegations that are
+themselves implausible or otherwise contrary to “common sense.” Iqbal, 556 U.S. at 679. In
+one recent defamation case, for example, the court granted a motion to dismiss because the
+complaint’s allegation that the defendant published a challenged article with an intent to defame
+him was premised on the implausible factual allegation that, despite the article’s attribution of
+the alleged defamation to an unnamed government official, there was actually no source because,
+the complaint alleged, “no Justice Department official would have leaked the allegedly
+defamatory quotes.” Cabello-Rondon v. Dow Jones & Co., 2017 WL 3531551, at *7 (S.D.N.Y.
+Aug. 16, 2017), appeal docketed, No. 17-2895 (2d Cir. Sept. 18, 2017); accord, McNaughton v.
+De Blasio, 644 F. App’x 32, 33 (2d Cir. 2016) (plaintiff’s “allegations of a conspiracy spanning
+several years and involving his sister, two separate police departments, dozens of police officers,
+and numerous underage children [were] implausible and conclusory,” and, therefore, “[n]one of
+his allegations against any of the defendants satisfy the pleading standard of Twombly that
+McNaughton, as a lawyer, was required to meet.”); Gallop v. Cheney, 642 F.3d 364, 369-70 (2d
+Cir. 2011) (affirming dismissal where complaint’s allegations that government officials had
+engaged in a conspiracy to violate her constitutional rights were “factually frivolous”).
+The kinds of allegations that may properly be rejected as implausible include those that
+are internally contradictory, see, e.g., Combier v. New York, 2010 WL 3785130, at *12
+(S.D.N.Y. Aug. 25, 2010) (rejecting contradictory allegations made in a complaint as “totally
+implausible”), report and recommendation adopted, 2010 WL 3835030 (S.D.N.Y. Oct. 1, 2010);
+Hopper v. Banana Republic, LLC, 2008 WL 490613, at *2 (S.D.N.Y. Feb. 25, 2008) (rejecting
+factual allegations in complaint as “inherently contradictory and therefore implausible”), as well
+as those that are demonstrably false based on matters of which the court may properly take
+
+14
+
+Case 1:17-cv-04853-JSR Document 59 Filed 10/09/17 Page 21 of 30
+
+judicial notice, see Kendall v. Cuomo, 2013 WL 5425780, at *6 (S.D.N.Y. Sept. 26, 2013)
+(taking judicial notice of valid court order and dismissing claim based on allegation that such
+order did not exist). Similarly, in adjudicating a motion to dismiss, courts need not accept
+factual allegations that are conclusory, a proposition that is especially well taken in defamation
+cases, like this one, where the actual malice inquiry necessarily focuses on the defendant’s state
+of mind. See Biro v. Conde Nast, 963 F. Supp. 2d 255, 279-80 (S.D.N.Y. 2013), aff’d, 807 F.3d
+541 (2d Cir. 2015), cert. denied, 126 S. Ct. 2015 (2016).6
+By the same token, courts are not obliged to credit unreasonable inferences or chains of
+inferences represented in a complaint to be “fact.” Put another way, “in ruling on a motion to
+dismiss, courts are [only] required to ‘draw all reasonable inferences in the plaintiff’s favor.’
+The obvious inverse of that rule is that courts need not draw unreasonable inferences in the
+plaintiff’s favor.” Nungesser v. Columbia Univ., 244 F. Supp. 3d 345, 354 n.6 (S.D.N.Y. 2017)
+(quoting Doe v. Columbia Univ., 831 F.3d 46, 48 (2d Cir. 2016)). This is particularly so when
+those unreasonable inferences are stacked one upon the other, taking the pleader far from the
+underlying factual allegations. See, e.g., RSM Prod.Corp. v. Fridman, 643 F. Supp. 2d 382, 413
+(S.D.N.Y. 2009) (dismissing complaint without leave to replead where the proposed amended
+pleading “is devoid of factual support for each of the causes of action alleged therein and is,
+instead, based almost entirely on speculation and inference stacked upon inference”), aff’d, 387
+6
+
+See also Shay v. Walters, 702 F.3d 76, 82 (1st Cir. 2012) (“While the plaintiff’s complaint
+contains conclusory allegations about ‘ill-will’ and ‘actual malice,’ it contains no factual
+assertions that in any way lend plausibility to these conclusions.”); Egiazaryan v. Zalmayev,
+2011 WL 6097136, at *8 (S.D.N.Y. Dec. 7, 2011) (rejecting conclusory allegations of actual
+malice); see also, e.g., Glob. Packaging Servs., LLC v. Glob. Printing & Packaging, --- F. Supp.
+3d ---, 2017 WL 1232731, at *5 (S.D.N.Y. Mar. 31, 2017) (recognizing that court “is not
+required to accept conclusory allegations—particularly allegations such as those asserted here,
+characterizing or attributing a state of mind of another person,” and dismissing tortious
+interference claim based on allegations that defendant “intentionally interfered with those
+relationships” and “acted with the sole purpose of harming Plaintiff”).
+
+15
+
+Case 1:17-cv-04853-JSR Document 59 Filed 10/09/17 Page 22 of 30
+
+F. App’x 72 (2d Cir. 2010). For this reason, courts have emphatically rejected efforts to
+“reverse-engineer” a complaint based on the stacking of inferences on top of a modest factual
+predicate to arrive at a set of “facts” that purports to state a valid claim. United States ex. Rel.
+Ceas v. Chrysler Grp. LLC, 78 F. Supp. 3d 869, 882 (N.D. Ill. 2015); accord, Saenz v. Ledbetter,
+2017 WL 2626987, at *4 (C.D. Cal. June 15, 2017) (holding that because complaint’s “allegation
+of Defendant’s invidious purpose can only pass muster with ‘unreasonable inferences’ and
+‘unwarranted deductions,’” it failed to state a viable claim).
+Perhaps most significantly, courts have recognized that a complaint’s factual allegations
+should be rejected as implausible when there is an “obvious alternative explanation” for them.
+See Iqbal, 556 U.S. at 682; Twombly, 550 U.S. at 567. In Iqbal itself, the Supreme Court
+considered a claim that the Attorney General and the Director of the FBI violated plaintiff’s
+constitutional rights by mistreating him on the basis of his race and religion. 556 U.S. at 669.
+The Supreme Court dismissed the complaint, in significant part, because there was an “obvious
+alternative explanation” for what plaintiff had experienced:
+The September 11 attacks were perpetrated by 19 Arab Muslim hijackers who
+counted themselves members in good standing of al Qaeda, an Islamic
+fundamentalist group. Al Qaeda was headed by another Arab Muslim—Osama
+bin Laden—and composed in large part of his Arab Muslim disciples. It should
+come as no surprise that a legitimate policy directing law enforcement to arrest
+and detain individuals because of their suspected link to the attacks would
+produce a disparate, incidental impact on Arab Muslims, even though the purpose
+of the policy was to target neither Arabs nor Muslims. On the facts respondent
+alleges the arrests Mueller oversaw were likely lawful and justified by his
+nondiscriminatory intent to detain aliens who were illegally present in the United
+States and who had potential connections to those who committed terrorist
+acts. As between that “obvious alternative explanation” for the arrests, and the
+purposeful, invidious discrimination respondent asks us to infer, discrimination is
+not a plausible conclusion.
+Id. at 682 (citations omitted); see also Barsky v. Spiegel Accountancy Corp., 2015 WL 580574,
+at *3 (N.D. Cal. Feb. 11, 2015) (“None of the schemes alleged above are plausible when
+
+16
+
+Case 1:17-cv-04853-JSR Document 59 Filed 10/09/17 Page 23 of 30
+
+compared to the obvious alternative explanations that Defendants simply made an inadvertent
+mistake and/or were following the instructions of their clients . . . . It is not plausible that
+Defendants would file a correct form, then deliberately change the form to an incorrect amount,
+and then change the form again to the correct amount, as part of a scheme to defraud.”).7
+B.
+
+The Proposed Amended Complaint Fails to Plead a Plausible Claim of
+Actual Malice
+
+Stripped of its implausible, speculative, contradictory, and conclusory allegations, as well
+as the wholly unreasonable inferences that Mrs. Palin draws from them, the proposed Amended
+Complaint fails to state a viable claim. Indeed, to a significant extent, the allegations contained
+in Mrs. Palin’s proposed amended pleading are identical to those that the Court has already
+considered, and rejected, in its predecessor. Thus, for example, the proposed Amended
+Complaint’s allegations that The Times (1) had an “economic motive” to defame Mrs. Palin;
+(2) failed to follow its own and generally accepted journalistic standards; and (3) declined to
+make a “meaningful” retraction all remain largely unchanged from the initial complaint and have
+already been directly addressed by this Court. Op. at 19-21, 25. The proposed Amended
+Complaint’s remaining allegations with respect to actual malice, although plainly embellished
+from their previous formulation in Mrs. Palin’s supplemental briefs, remain essentially the
+same—i.e., that The Times, through Mr. Bennet, (1) published the challenged statements with
+7
+
+Accord, Eclectic Properties E., LLC v. Marcus & Millichap Co., 751 F.3d 990, 999 (9th Cir.
+2014) (affirming dismissal where “Plaintiffs’ fraud theory is not plausible when considered in
+light of the innocent explanation that failure of franchise businesses in making rental payments,
+and their abandonment of leases, took place in the context of a deep national recession”); Davila
+v. Johnson, 2015 WL 8968357, at *4-5 (S.D.N.Y. Dec. 15, 2015) (rejecting as implausible
+conspiracy claim based on allegation that individual complained to police that Petitioner was an
+attorney, despite the allegation that he had never said as much to that individual, because of the
+obvious alternative explanations that “Ms. Martinez misunderstood Petitioner or lied to the
+police of her own initiative”); High Falls Brewing Co., LLC v. Boston Beer Corp., 852 F. Supp.
+2d 306, 322-23 (W.D.N.Y. 2011) (rejecting proposed counterclaim because allegations were
+“not plausible in light of the more likely and eminently more plausible view of the facts”).
+
+17
+
+Case 1:17-cv-04853-JSR Document 59 Filed 10/09/17 Page 24 of 30
+
+knowledge of their falsity because he was aware of prior and contemporaneous publications that
+contradicted them and (2) that he did so because he disliked Mrs. Palin, disagreed with her policy
+positions, especially with respect to the Second Amendment, and viewed his brother as her
+political adversary. As The Times has demonstrated, see supra pp. 8-10, the Court has already
+considered and rejected these allegations as well, see Op. at 19-25.
+Upon examination, the proposed Amended Complaint differs from Mrs. Palin’s previous
+formulations in only one respect—it doubles down on the “gross supposition” contained in her
+initial complaint and post-hearing briefs, supplementing it with a host of ostensibly “new”
+allegations she claims renders plausible her overarching contention that the challenged
+statements were published with actual malice. However, these new allegations, like their
+predecessors, consist of an admixture of implausible, inherently speculative, contradictory and/or
+conclusory assertions, as well as a host of unreasonable inferences premised upon them. They
+cannot, therefore, serve as the basis for a plausible claim that The Times published the
+challenged statements with actual malice.
+Specifically, the proposed Amended Complaint’s effort to bolster Mrs. Palin’s contention
+that Mr. Bennet published the challenged statements with actual knowledge that they were false
+or purposely avoided the truth in the course of publishing them is plainly implausible.8 To make
+8
+
+Separate and apart from these theories of liability, both the proposed Amended Complaint and
+Mrs. Palin’s motion make the demonstrably incorrect assertion that she can secure a judgment
+based on a showing that Mr. Bennet engaged in “highly unreasonable conduct constituting an
+extreme departure from the standards of investigation and reporting ordinarily adhered to by
+responsible publishers.” Am. Compl. ¶ 172; Mem. at 18 (quoting Curtis Publ’g Co. v. Butts, 388
+U.S. 130, 155 (1967) (plurality opinion)). As the U.S. Supreme Court explained more than 25
+years ago:
+The language . . . discussing professional standards is taken from Justice Harlan’s
+plurality opinion in Curtis Publishing Co. v. Butts . . . . This proposed standard,
+however, was emphatically rejected by a majority of the Court in favor of the
+stricter New York Times actual malice rule.
+18
+
+Case 1:17-cv-04853-JSR Document 59 Filed 10/09/17 Page 25 of 30
+
+this case, the proposed Amended Complaint proceeds from the predicate that Mr. Bennet edited
+The Atlantic at the time of the Arizona shooting when the magazine published “numerous
+articles” about it. Vogt Decl., Ex. A (“Am. Compl.”) ¶¶ 7, 54, 57-67. It then sets out a series of
+inferences, ostensibly drawn from that otherwise unobjectionable fact, including, inter alia, that
+those articles “established there was no established link between the Palin Map and Loughner’s
+crime,” id. ¶ 153, and that Mr. Bennet not only “read about and committed” those articles “to
+memory,” id. ¶ 155, but that he was also aware of a national journalistic “consensus,” reached
+within days of the Arizona shooting, that Mr. Loughner had never seen the Crosshairs Map, id.
+¶¶ 5, 65, 155. None of these allegations withstand analysis.
+Needless to say, the assertion that Mr. Bennet committed to memory lengthy articles
+published years before the challenged editorial was published is absurd and cannot conceivably
+have a good faith basis in fact. And, as the Court has already explained, the notion that Mr.
+Bennet had those articles in mind when he wrote the challenged statements is itself implausible.
+See, e.g., Op. at 22 (“[A]ll these articles appeared years earlier, and there is no reason to suppose
+that, even if Bennet had read them at the time, he would necessarily remember their
+conclusions.”).9 Indeed, the proposed Amended Complaint alleges not just that Mr. Bennet read
+
+Harte-Hanks Commc’ns, Inc. v. Connaughton, 491 U.S. 657, 665-66 (1989) (citations omitted)
+(emphasis added). Thus, “[t]oday, there is no question that public figure libel cases are
+controlled by the New York Times standard and not by the professional standards rule.” Id. at
+666; see also Robert D. Sack, Sack on Defamation § 5:5.2[B] (4th ed. 2010) (actual malice is not
+shown by evidence “that the defendant journalist ‘violated journalism ethics,’ and the article
+does not ‘hold[] up to normal standards of investigative reporting’”).
+9
+
+Similarly unreasonable is the proposed Amended Complaint’s proffered inference that, simply
+because he served as its editor, Mr. Bennet was not only aware of, but endorsed the views
+expressed in each of the articles published in The Atlantic during his tenure. See, e.g., Am.
+Compl. ¶ 56 (alleging that “Mr. Bennet knew about and approved of Mr. Sullivan’s ‘TrigTrutherism’ campaign”). By that implausible logic, Mr. Bennet must be deemed to “approve of”
+directly contradictory views expressed not only by The Atlantic’s many contributing authors
+19
+
+Case 1:17-cv-04853-JSR Document 59 Filed 10/09/17 Page 26 of 30
+
+and memorized articles published in The Atlantic, but that he read and memorized the hyperlinks
+within those articles—and even hyperlinks within those hyperlinks. See, e.g., Am. Compl.
+¶¶ 63-64 (relying on a hyperlink within an Atlantic article to a National Review article—and then
+a hyperlink within that National Review article to article in The Times).
+Moreover, the Court properly can—and already did—take judicial notice that there is no
+national journalistic “consensus” about the relationship, if any, between the Crosshairs Map and
+the Arizona shooting, much less one reached “[w]ithin days” after that tragedy. Id. ¶ 65. For
+one thing, articles published years after that event continue to invoke the map when discussing,
+as the challenged editorial did, the relationship between “fiery rhetoric” and politically inspired
+violence.10 Indeed, many of the articles attached as exhibits to the proposed Amended
+Complaint themselves raise questions about whether or not Loughner was politically motivated
+and whether political rhetoric, including specifically the Crosshairs Map, was at least in part to
+blame. See articles cited at id. ¶¶ 57, 58, 59(a)-(b), 61-64. The Court has already recognized
+both that “there were also articles that appeared shortly after the Loughner shooting that drew
+contrary conclusions,” Op. at 22 (citing Compl. ¶ 24), and that even the previously published
+editorials and column in The Times emailed to Ms. Williamson11 and copied to Mr. Bennet prior
+
+during his tenure there, but also those published on The Times’s’ editorial pages, including those
+vigorously advocating, inter alia, against gun control legislation.
+10
+
+See, e.g., Petula Dvorak, “Fiery rhetoric a close relative of violence,” Wash. Post (Dec. 1,
+2015) at B.1 (citing the Crosshairs Map and decrying leaders who “incite and inflame with fiery
+speeches” even when that “may not be their intent”); Robin Marty, “Donald Trump Acts Like
+Words Don’t Matter. They Do,” Cosmopolitan (Aug. 10, 2016) (linking the Crosshairs Map and
+“‘Second Amendment remedies’” like the Giffords shooting); Clay Jones, “‘Second Amendment
+People,’” The (Utah) Independent (Aug. 10, 2016) (“Democratic U.S. Representative Gabby
+Giffords of Arizona was shot in the head by Jared Lee Loughner after Sarah Palin published a
+bulls-eye on her district.”).
+11
+
+The proposed Amended Complaint’s multiple references to Ms. Williamson’s conduct and
+state of mind, see Am. Compl. ¶¶ 92, 96, warrant specific mention. Having affirmatively
+20
+
+Case 1:17-cv-04853-JSR Document 59 Filed 10/09/17 Page 27 of 30
+
+to the challenged editorial’s publication “do not contradict [Mr. Bennet’s] thesis nearly as much
+as plaintiff suggests”—rather, in many cases, they “contain some language tending to
+corroborate parts of the challenged statements.” Id. at 23-24.12
+Perhaps most significantly, the proposed Amended Complaint’s allegations that Mr.
+Bennet knowingly endorsed this purported journalistic “consensus” in the pages of The Atlantic
+on multiple occasions, even if credited, cannot be reconciled with its parallel contention that he
+was motivated to publish defamatory falsehoods about Mrs. Palin because of his long-simmering
+personal animus toward her based on their differing politics. If that were the case, Mr. Bennet
+surely would not have approved for publication in The Atlantic “numerous articles” that
+exonerated her from any responsibility for the Arizona shooting.
+In that regard, the proposed Amended Complaint’s newly enhanced allegation that Mr.
+Bennet “harbors deep-seeded resentment and animus toward Mrs. Palin and her political views”
+is demonstrably implausible. See, e.g., Am. Compl. ¶¶ 3, 49, 52, 53, 71, 160, 168. The only
+“facts” offered in support of this conclusory assertion are (1) that Mr. Bennet is himself an
+“ardent” and “outspoken advocate for gun control,” id. ¶¶ 3, 49 (emphasis added), (2) that he has
+worked for what Mrs. Palin characterizes as “liberal” publications, id. ¶ 168, and (3) that his
+brother, a United States Senator from a different political party than hers, was once threatened
+with violence because of his political views, id. ¶¶ 45-48. The proposed Amended Complaint
+
+declined an opportunity to take her testimony with respect to those very subjects, 8.16 Tr. at
+73:4-20, the proposed amendment’s factual representations about what Ms. Williamson did and
+thought are the very definition of unbridled speculation devoid of a good faith basis in fact.
+12
+
+Such ongoing debate underscores that there was nothing “inherently implausible” about the
+challenged statements—despite the Amended Complaint’s conclusory allegations to the contrary.
+See Am. Compl. ¶¶ 65, 174. The Crosshairs Map employed gun imagery; Rep. Giffords was
+specifically identified in the Map; she complained of receiving increased threats of violence as a
+result of the Map; and Loughner targeted her at a campaign event not long thereafter.
+
+21
+
+Case 1:17-cv-04853-JSR Document 59 Filed 10/09/17 Page 28 of 30
+
+offers no factual basis at all for the first assertion, which is itself remarkable given that Mr.
+Bennet has spent his career writing for the public. If he held such purportedly deep-seated
+loathing for all politicians who opposed gun control, it is implausible he would not have proudly
+revealed it—in his own name—on the pages of one of the “liberal” publications for which he has
+written. As for the latter two assertions, they not only fail to carry the weight Mrs. Palin places
+on them—i.e., the plainly unreasonable inference that Mr. Bennet harbored “deep-seeded
+resentment and animus” toward Mrs. Palin merely because he and his brother hold different
+political views than she does—a virtually identical version of this contention was proffered in
+Mrs. Palin’s supplemental briefs and properly rejected by this Court, for good reason: “If such
+political opposition counted as evidence of actual malice, the protections imposed by Sullivan
+and its progeny would swiftly become a nullity.” Op. at 19.
+At bottom, therefore, the narrative set out in the proposed Amended Complaint is, at best,
+internally contradictory and inherently implausible. According to that pleading: Mr. Bennet
+hated Republicans generally, and Mrs. Palin specifically, long before the Arizona shooting;
+despite this blinding hatred, he oversaw, approved, and subsequently memorized a large number
+of articles that conclusively stated that there was no link between Loughner and the Crosshairs
+Map; while overseeing the publication of these articles during his brother’s political rise, Mr.
+Bennet did nothing to act on his hatred or to slander Mrs. Palin for many years; indeed, six years
+later, Mr. Bennet oversaw and approved the publication of several columns in The Times that
+similarly reflected this journalistic consensus; then, seizing his long-delayed moment, Mr.
+Bennet suddenly wrote an editorial and in its sixth paragraph embedded a defamatory falsehood
+about Mrs. Palin, all in an effort to act on his animus toward her and reap profits for The Times.
+
+22
+
+Case 1:17-cv-04853-JSR Document 59 Filed 10/09/17 Page 29 of 30
+
+In the last analysis, the proposed Amended Complaint requires the Court to indulge
+inference upon unreasonable inference and, contrary to common sense, endorse a factual
+scenario that is the very definition of implausible—especially when compared to the “obvious
+alternative explanation,” Iqbal, 556 U.S. at 682; Twombly, 550 U.S. at 567, already articulated
+by this Court:
+What we have here is an editorial, written and rewritten rapidly in order to voice
+an opinion on an immediate event of importance, in which are included a few
+factual inaccuracies somewhat pertaining to Mrs. Palin that are very rapidly
+corrected. Negligence this may be; but defamation of a public figure it plainly is
+not.
+Op. at 25.
+CONCLUSION
+The Times respectfully submits that, for all of the foregoing reasons, leave to file the
+proposed Amended Complaint would be futile and that Mrs. Palin’s motion for reconsideration
+and to alter or amend the judgment should be denied.
+Dated: New York, New York
+October 9, 2017
+
+Respectfully submitted,
+
+VINSON & ELKINS L.L.P.
+Thomas S. Leatherbury
+(admitted pro hac vice)
+Trammell Crow Center
+2001 Ross Avenue, Suite 3700
+Dallas, TX 75201-2975
+Tel: (214) 220-7700
+Fax: (214) 220-7716
+tleatherbury@velaw.com
+
+BALLARD SPAHR, LLP
+By: /s/ Jay Ward Brown
+David A. Schulz
+Jay Ward Brown
+919 Third Avenue, 37th Floor
+New York, NY 10022-3915
+Tel: (212) 223-6103
+Fax: (212) 223-1942
+schulzd@ballardspahr.com
+brownjay@ballardspahr.com
+
+Co-Counsel for Defendant
+Co-Counsel for Defendant
+
+23
+
+Case 1:17-cv-04853-JSR Document 59 Filed 10/09/17 Page 30 of 30
+
+CERTIFICATE OF SERVICE
+I hereby certify that on this 9th day of October, 2017, a true and correct copy of the
+foregoing DEFENDANT’S MEMORANDUM IN OPPOSITION TO PLAINTIFF’S
+MOTION FOR RECONSIDERATION AND TO ALTER OR AMEND THE JUDGMENT
+was filed with the Court through the electronic filing system, which will automatically serve
+electronic notice of the same on all counsel of record.
+
+/s/ Jay Ward Brown
+Jay Ward Brown
+
+

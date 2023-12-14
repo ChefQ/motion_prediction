@@ -1,0 +1,948 @@
+Case 8:08-cv-02446-JDW-TBM Document 300 Filed 03/02/11 Page 1 of 23 PageID 16181
+
+IN THE UNITED STATES DISTRICT COURT
+MIDDLE DISTRICT OF FLORIDA
+TAMPA DIVISION
+TAMPA BAY WATER,
+A Regional Water Supply Authority,
+Plaintiff,
+v.
+HDR ENGINEERING, INC., a Nebraska
+corporation, CONSTRUCTION DYNAMICS
+GROUP, INC., a Maryland corporation,
+BARNARD CONSTRUCTION COMPANY,
+INC., a Montana corporation, ST. PAUL
+FIRE AND MARINE INSURANCE
+COMPANY, a Minnesota corporation,
+Defendants.
+
+§
+§
+§
+§
+§
+§
+§
+§
+§
+§
+§
+§
+§
+§
+§
+§
+
+CASE NO. 8:08-cv-2446-T27-TBM
+
+HDR’S DAUBERT MOTION TO EXCLUDE OPINION TESTIMONY
+ON “LOSS OF USE” DAMAGES BY ADAMS AND KENNEDY
+I.
+SUMMARY OF MOTION
+A.
+
+TBW’s “Loss of Use” Damage Claims
+
+TBW has asserted approximately $26.9 million in past and future damages due to its
+alleged inability to use the Reservoir to its full capacity, which allegedly resulted in reliance on
+more costly desalinated water in place of Reservoir water. For past damages, TBW claims it
+spent an extra $6.9 million on desalinated water because a fill limit placed on the Reservoir from
+fall of 2008 through June 2009 prevented TBW from using the Reservoir to its full capacity. For
+future damages, TBW claims it will spend an extra $20 million on desalinated water because the
+Reservoir will be out of service for two years between 2013-2015 while undergoing major
+renovation and rebuilding (which TBW claims are “repairs”).
+
+HDR’S DAUBERT MOTION TO EXCLUDE TESTIMONY BY ADAMS AND KENNEDY – Page 1
+
+Case 8:08-cv-02446-JDW-TBM Document 300 Filed 03/02/11 Page 2 of 23 PageID 16182
+
+B.
+
+Exclusion of Kennedy’s and Adams’ Opinion Testimony
+
+TBW has not designated a retained expert witness to testify about its “loss of use”
+damage claims. Instead, it has designated two in-house employees, Jon Kennedy, its Senior
+Project Manager, and Alison Adams, the manager of its Source Rotation & Environmental
+Protection Department, for this purpose. Adams provided water usage data, modeling, and
+forecasts that Kennedy relied on to perform the mathematical calculations for these claims.
+Neither Adams nor Kennedy prepared a report outlining their calculation of damages.
+Instead, TBW listed the damage numbers in its Rule 26(a) Disclosures, provided background
+documents, and presented Adams and Kennedy for deposition to explain the numbers.
+HDR moves to exclude the opinion testimony of Kennedy and Adams on “loss of use”
+damages. Neither is qualified to perform the economic analysis required to quantify such
+damages. Moreover, neither used proper methodology for their calculations. For past damages,
+they relied on inaccurate assumptions regarding desalinated water use and production, and
+ignored available data that demonstrate no increased use of desalinated water. Their future
+damage calculations are based on a speculative water supply and demand model that is unlikely
+to occur and in many instances contrary to known facts. Their opinions as a whole are unreliable,
+do not fit the facts of the case, and therefore, do not meet the requirements of FED. R. EVID. 702
+for admissibility.
+II.
+STANDARD FOR DAUBERT MOTION
+Before expert testimony can be admitted pursuant to FED. R. EVID. 702, this Court must
+act as a gatekeeper and screen the proffered evidence to ensure that it is relevant and reliable.
+Daubert v. Merrell Dow Pharms., Inc., 509 U.S. 579, 597, 113 S. Ct. 2786, 125 L. Ed. 2d 469
+(1993). Expert testimony is properly admitted when (1) the expert is qualified to testify
+competently regarding the matters he intends to address; (2) the methodology by which the
+
+HDR’S DAUBERT MOTION TO EXCLUDE TESTIMONY BY ADAMS AND KENNEDY – Page 2
+
+Case 8:08-cv-02446-JDW-TBM Document 300 Filed 03/02/11 Page 3 of 23 PageID 16183
+
+expert reaches his conclusion is sufficiently reliable as determined by the sort of inquiry
+mandated in Daubert; and (3) the testimony assists the trier of fact, through the application of
+scientific, technical, or specialized expertise, to understand the evidence or to determine a fact in
+issue. See City of Tuscaloosa v. Harcros Chems., Inc., 158 F.3d 548, 562 (11th Cir. 1999). This
+Court must consider the circumstances of each particular case in determining whether the
+proffered expert testimony is reliable. Kumho Tire Co. v. Carmichael, 526 U.S. 137, 119 S. Ct.
+1167, 143 L. Ed. 2d 238 (1999). The party proffering the expert bears the burden of establishing
+the proper foundation for the admissibility of the expert's testimony by a preponderance of the
+evidence. See Allison v. McGhan Med. Corp., 184 F.3d 1300, 1306 (11th Cir. 1999).
+III.
+LACK OF QUALIFICATIONS TO PERFORM FORENSIC DAMAGE MODELING
+A.
+
+Adams Lacks Proper Qualifications to Perform Damage Analysis
+
+Alison Adams is TBW’s designated corporate representative to testify about the use of its
+water supply facilities.1 Ms. Adams has a degree in environmental engineering2 and is
+responsible for TBW’s internal demand forecasting and planning.3 However, she has no
+specialized knowledge in the field of water economics and is not considered a water economist4
+(in fact, TBW’s counsel instructed Adams not to answer questions dealing with water
+economics).5 Adams admits she did not create models based on a “reasonable degree of
+certainty” or on events that were reasonably likely to occur. In part, this was because she does
+not do this type of modeling in the regular course of her duties;6 but, more importantly, she was
+
+1
+
+2
+3
+4
+5
+
+6
+
+Ex. A, Joint Affidavit of Kevin D. Dennis, CPA/CFF, CMA, and E. Allen Jacobs, Ph.D. in Support of HDR’s Motion
+to Strike Testimony of Alison Adams and Jon Kennedy on Damages due to “lost water” use (hereinafter “Navigant
+Affidavit”); Ex. A-6, Adams’ Deposition, June 2010, 9:10-21.
+Ex. A-6, Adams’ Deposition, June 2010, 12:13-17.
+Ex. A-6, Adams’ Deposition, June 2010, 15:3-16:24.
+Ex. A-8, Kennedy’s Deposition, October 2010, 369:10-16.
+Ex. A-6, Adams’ Deposition, November 2010, 239:16-23 (“Mr. Harrison: ‘She’s not being tendered as an expert in
+water economics, number one, so she is not going to answer that question.’”)
+Ex. A-6, Adams’ Deposition, November 2010, 126:3-12.
+
+HDR’S DAUBERT MOTION TO EXCLUDE TESTIMONY BY ADAMS AND KENNEDY – Page 3
+
+Case 8:08-cv-02446-JDW-TBM Document 300 Filed 03/02/11 Page 4 of 23 PageID 16184
+
+never asked to do so in this case.7 While her background may be in budgeting and planning, that
+does not qualify her to render opinions regarding water economic projections to a reasonable
+degree of certainty in litigation, especially where she has not even attempted to perform such an
+analysis.
+B.
+
+Kennedy Lacks Proper Qualifications to Perform Damage Analysis
+
+Likewise, Kennedy is not qualified to present expert testimony regarding past or future
+lost use. Kennedy is a Senior Project Manager for TBW with an educational background in civil
+engineering.8 He, too, is not a water economist.9 He claims no expertise in performing damage
+assessments or water resource modeling, and admitted he had to rely on Adams for information
+on facility demand, use, mix of water sources, and future projections.10 Kennedy’s contribution
+to the damage calculation was to compare the cost of desalinated water versus other water
+sources and use a calculator to multiply those costs against Adams’ water production numbers.
+He is not qualified to opine about causation, i.e., that a reduced capacity of the Reservoir caused
+an increased use of desalinated water.
+IV.
+IMPROPER DAMAGE CALCULATION METHODOLOGY
+A.
+
+TBW’s Ever-Evolving Damage Claims
+
+The Court will recall that TBW’s “loss of use” damage claims have been something of a
+moving target in this case. As outlined in Barnard’s and HDR’s Motions for Sanctions (Docket
+#243 and #245), TBW has significantly changed its claims as suit has progressed. TBW’s
+Original Complaint, filed in December 2008, included the cryptic statement that TBW was
+
+7
+
+8
+9
+10
+
+Ex. A-6, Adams’ Deposition, November 2010, 124:25-125:10; 126:3-12; 204:3-205:11; 208:21-209:9; 209:23-210:13;
+210:20-213:17; Ex. A-8, Kennedy’s Deposition, October 2010, 525:13-526:13.
+Ex. A-8, Kennedy’s Deposition, June 2010, 21:13-22.
+Ex. A-8, Kennedy’s Deposition, October 2010, 369:10-16.
+Ex. A-8, Kennedy’s Deposition, June 2010, 196:15-197:14 (“I cannot develop the amount of water on my own”);
+Kennedy’s Deposition, October 2010, 374:11-18 (“Are you qualified to [develop the amount water]?” A: “I am still not
+qualified to do that, and that’s why I relied on Dr. Adams.”).
+
+HDR’S DAUBERT MOTION TO EXCLUDE TESTIMONY BY ADAMS AND KENNEDY – Page 4
+
+Case 8:08-cv-02446-JDW-TBM Document 300 Filed 03/02/11 Page 5 of 23 PageID 16185
+
+seeking damages for “loss of use,” without providing any information as to what that term
+meant.11 In its Rule 26 Initial Disclosures, served in March 2009, TBW did not disclose anything
+about this claim, saying it was “not yet determined.”12 It was not until June 2010, eighteen
+months after filing suit, that TBW finally disclosed the amount of this claim, saying it would be
+$61 - $68 million, based on a “Revenue Model.”13 TBW provided no narrative reports explaining
+the Revenue Model. Instead, it referenced various source documents from which the calculations
+were derived and offered Adams and Kennedy to testify.
+When Adams was deposed about this in June, however, she admitted that TBW had lost
+no revenues, as TBW was able to completely fulfill its customers’ demands.14 Barnard retained a
+water economist, Dr. William Wade, to analyze and respond to these claims. Dr. Wade produced
+a detailed report in early October 2010 demonstrating, not only, that TBW had suffered no
+economic losses under the Revenue Model, but, if anything, had realized an economic benefit.
+Upon reading Dr. Wade’s report, TBW realized he was correct and that the Revenue
+Model was inappropriate. On the day before the continuation of Kennedy’s deposition in his
+capacity as TBW’s corporate representative, TBW amended its Disclosures again and added the
+“Cost Model” as an alternative method for calculating damages.15 The “Cost Model” cut the
+claim for future losses by more than half (still leaving them at a substantial $20 million), but left
+its calculation of past losses unknown, describing them as “to be determined.”16 When asked to
+explain this at his deposition, TBW’s corporate representative, Kennedy, disclosed that TBW
+was abandoning the Revenue Model in favor of the Cost Model for future losses, but he had not
+
+11
+
+12
+13
+14
+15
+16
+
+Original Complaint, filed Dec. 10, 2008, pp. 20-21 [Dkt. #1]. TBW repeated this same uninformative phrase nearly a
+year later in its Amended Complaint, filed Nov. 20, 2009, pp. 20-21 [Dkt. #125].
+TBW’s Initial Disclosures, p. 3 [Dkt. #243-1].
+TBW’s First Amended Initial Disclosures regarding Damages, p. 4 [Dkt. #243-5].
+Ex. A-6, Adams’ Deposition, June 2010, 221:4-222:5.
+TBW’s Second Amended Initial Disclosures regarding Damages, p. 4 [Dkt. #243-7].
+Id.
+
+HDR’S DAUBERT MOTION TO EXCLUDE TESTIMONY BY ADAMS AND KENNEDY – Page 5
+
+Case 8:08-cv-02446-JDW-TBM Document 300 Filed 03/02/11 Page 6 of 23 PageID 16186
+
+yet tried to calculate a past loss claim under the Cost Model and did not know what TBW
+intended to do about that claim.17
+By November, TBW still had not provided any expert report on its “loss of use” damage
+claim (under either the Revenue or Cost Model), but it did produce 900 pages of documents
+related to its damage claim in response to a request for production of documents. On December
+6, little more than a week before the close of discovery, TBW amended its Rule 26(a)
+Disclosures a third time, finally quantifying the past lost claim under the Cost Model at $6.9
+million, but still listing both the Revenue and Cost Models as alternative measures of damages.
+On December 15 (the day discovery closed), TBW produced 2 million pages of emails,
+many of which were relevant to its damage claims. On December 20, the week after discovery
+closed, TBW unequivocally abandoned the Revenue Model in favor of the Cost Model:
+The only dispute at this juncture is what that cost model, properly
+calculated, would reflect – damages because the lost reservoir
+supply must be replaced by more costly desalinated water, or no
+damages because the lost supply can be made up for by less
+expensive ground water?18
+Only through the process of reviewing hundreds of thousands of pages of TBW’s late produced
+water documents, charts, and calculations, scouring website materials, and coupling that with
+prior deposition testimony of Adams and Kennedy has it been possible to determine how TBW
+attempted to calculate TBW’s damage claims for “lost use.”
+B.
+
+Incorrect, Incomplete and Unreliable Methodology
+
+The way in which TBW has constantly shifted, changed and abandoned its various “loss
+of use” damage models (coupled with the fact that Adams and Kennedy even espoused the nowabandoned Revenue Model to begin with) evidences the unreliability of any proposed damage
+
+17
+
+Ex A-8, Kennedy’s Deposition, October 2010, 371:2-7; 371:18-372:2; 488:25-489:6; 490:10-15; 492:11-25 [Dkt. #2438].
+
+HDR’S DAUBERT MOTION TO EXCLUDE TESTIMONY BY ADAMS AND KENNEDY – Page 6
+
+Case 8:08-cv-02446-JDW-TBM Document 300 Filed 03/02/11 Page 7 of 23 PageID 16187
+
+calculation. The Revenue Model was not even remotely a proper basis for claiming damages, as
+TBW has now recognized. Many of the detailed criticisms of the Revenue Model first expressed
+in Dr. Wade’s report not, only carry over to the Cost Model, but are more pronounced. HDR’s
+expert witnesses from Navigant Consulting have analyzed TBW’s Cost Model at length and
+demonstrated it is deeply flawed.19 Navigant concluded: “The Kennedy/Adams’ damage
+calculations of past and future lost use of the Reservoir do not follow the recognized
+methodology appropriate to calculate such damages used by experts in the field of forensic
+accounting, economics, water resource use, or hydrology modeling.”20 Kennedy/Adams’
+calculation assumes conclusions that are wrong, is based on unrealistic assumptions that are not
+likely to occur and runs contrary to known facts.
+When the expert’s methodology and assumptions are inaccurate and against the facts,
+they fail to meet the requirements of Daubert and FED. R. EVID. 702 and must be excluded. 1st
+Source Bank v. First Resource Fed. Credit Union, 167 F.R.D. 61 (N.D. Ind. 1996); Slicex, Inc. v.
+Aeroflex Colo. Springs, Inc., No. 2:04-cv-615, 2006 U.S. Dist. LEXIS 46775, 2006 WL
+1932344, at *3 (D. Utah July 11, 2006); CDA of Am. Inc. v. Midland Life Ins. Co., No. 01-cv837, 2006 U.S. Dist. LEXIS 97327, 2006 WL 5349266, 6 (S.D. Ohio Mar. 27, 2006). Florida
+law requires that assumptions used to support the conclusions of future damages such as lost
+profits be reasonably certain, "not mere best case scenario predictions." Environment Biotech,
+Inc. v. Sibbitt Enterprises, Inc., 2008 U.S. Dist. LEXIS 98870 *13-19 (M.D. Fla. Nov. 24,
+2008)(expert testimony was unreliable when it was based on data skewed in favor of higher
+valuation); Sun Ins. Mkt. Network, Inc. v. AIG Life Ins. Co., 254 F. Supp. 2d 1239, 1247 (M.D.
+Fla. 2003).
+
+18
+
+19
+
+Ex. A-3, TBW’s Second Amended Response to Barnard Motion for Sanctions, p. 17 [Dkt. # 251]; Ex. A, Navigant
+Affidavit, ¶ 18.
+Ex. A, Navigant Affidavit, ¶¶ 19, 44, 56, 79.
+
+HDR’S DAUBERT MOTION TO EXCLUDE TESTIMONY BY ADAMS AND KENNEDY – Page 7
+
+Case 8:08-cv-02446-JDW-TBM Document 300 Filed 03/02/11 Page 8 of 23 PageID 16188
+
+In determining whether a plaintiff's alleged future losses were “reasonably certain to
+arise,” the Eleventh Circuit has ruled that "the expenses incurred to produce the [future damages]
+must be established in specific dollar amounts." Ad-Vantage Tel. Directory Consultants, Inc. v.
+GTE Directories Corp., 849 F.2d 1336, 1351 (11th Cir. 1987). Further, "if the plaintiff presents
+evidence only of gross receipts or fails to prove expenses with some specificity, an award of
+damages relating to lost profits will be reversed." Clayton v. Howard Johnson Franchise Sys.,
+Inc., 954 F.2d 645, 652 (11th Cir. 1992). “It is as inappropriate to use purely speculative
+forecasts of future revenue to determine the market value of a business as it is to use such
+speculative forecasts in determining future profits.” Susan Fixel, Inc. v. Rosenthal & Rosenthal,
+Inc., 921 So. 2d 43, 46 (Fla. 3d DCA 2006).
+Expert testimony must be "based upon sufficient facts or data." FED. R. EVID. 702. Thus,
+"it remains a basic foundation for admissibility that proposed expert testimony must be supported
+by appropriate validation - i.e., 'good grounds,' based on what is known." United States v.
+Frazier, 387 F.3d 1244, 1261 (11th Cir. 2004). Thus, the failure of an expert to follow
+methodology accepted in the accounting community renders his calculations flawed and
+inadmissible. Club Car, Inc. v. Club Car (Quebec) Imp., Inc., 362 F.3d 775, 780 (11th Cir.
+2004).
+This is a case where Kennedy and Adams have shown such a basic failure to use the
+proper methodology in calculating damages and have created models that are so contrary to
+known facts that their testimony is inadmissible. In re Bonham, 251 B.R. 113, 135 (Bankr. D.
+Alaska 2000) (debtor’s expert exhibited a “gross misunderstanding” in opining that Trustee’s
+expert had missed $3 million in revenue).21
+
+20
+
+21
+
+Ex. A, Navigant Affidavit, ¶12.
+This is not a case where cross-examination provides sufficient protection against flawed expert testimony, as in Quiet
+Tech. DC-8, Inc. v. Hurel-Dubois UK Ltd., 326 F.3d 1333, 1345-46 (11th Cir. 2003).
+
+HDR’S DAUBERT MOTION TO EXCLUDE TESTIMONY BY ADAMS AND KENNEDY – Page 8
+
+Case 8:08-cv-02446-JDW-TBM Document 300 Filed 03/02/11 Page 9 of 23 PageID 16189
+
+V.
+EXCLUSION OF OPINION TESTIMONY ON PAST “LOSS OF USE” DAMAGES
+A.
+
+The Non-Model “Cost Model”
+
+Although TBW attaches the label “Cost Model” to its calculation of past “loss of use”
+damages, it really is not a model at all. The “Cost Model” is nothing more than an exercise in
+arithmetic, where Kennedy multiplied 100% of the desalination plant production from February October 2009 (4.6 billion gallons) by the incremental cost difference between desalinated water
+and other water sources (approximately $1.50 per 1,000 gallons), yielding a total claim of
+approximately $6.9 million. The ability to multiply two numbers together is no substitute for a
+true calculation of damages. At a minimum, the computation of economic damages requires
+three steps: (i) an explanation of how some action (or inaction) caused a result different from
+what would have been expected to occur; (ii) an analysis of the economic consequences of this
+difference (to value, profit, costs, revenue, etc.); and (iii) economic or financial calculations,
+models, or measurements that are appropriate to estimate the amount of this difference. These
+three steps are missing from the Kennedy/Adams “Cost Model.”22
+Kennedy and Adams present their Cost Model as calculating incremental cost in that they
+posit that the reduced capacity of the Reservoir resulted in the increased use of more expensive
+desalinated water. In order to determine the actual incremental cost, however, the calculation
+would have to establish the following: (1) the Reservoir had a reduced availability for usage; (2)
+this reduced Reservoir availability reduced the availability of surface or groundwater sources; (3)
+the reduced surface and groundwater availability was replaced by increased desalination plant
+production; and (4) since desalinated water is more expensive than surface water, the economic
+
+22
+
+Ex. A, Navigant Affidavit, ¶ 14.
+
+HDR’S DAUBERT MOTION TO EXCLUDE TESTIMONY BY ADAMS AND KENNEDY – Page 9
+
+Case 8:08-cv-02446-JDW-TBM Document 300 Filed 03/02/11 Page 10 of 23 PageID 16190
+
+damages would be the incremental difference in the cost of the desalinated water that was used to
+replace the groundwater and/or surface water that was not available.23
+The Kennedy/Adams’ calculation is missing Steps 2 and 3.24 It does not attempt to
+determine whether the reduced availability of the Reservoir actually translated into a reduced
+availability of surface water or groundwater. Nor does it attempt to determine how much the
+reduction in availability of the Reservoir actually caused as an increase in the desalination plant
+production, if any. Instead, Kennedy’s arithmetic simply assumes 100% of the desalination plant
+production resulted from the reduced availability of the Reservoir. Put another way,
+Kennedy/Adams’ calculations assume the desalination plant would have been completely shut
+down and producing nothing had the Reservoir been fully available.25 Kennedy/Adams’ omission
+of the two steps of analysis and proof critically turns the “Cost Model” into no “model” at all.
+Kennedy/Adams’ calculations cannot be presented as “expert opinion.”
+B.
+
+Incorrect Use of “Gross” vs. “Incremental” Desalination Plant Production
+
+One of the fundamental mistakes in the Kennedy/Adams’ calculation of past losses is its
+failure to distinguish between gross and incremental desalination plant production. Kennedy
+calculated that the desalination plant’s production from February to October 2009 totaled 4.6
+billion gallons or 16.7 MGD.26 The damage calculation assumes that 100% of this production
+was caused by the reduced availability of the Reservoir. It does not provide any offsets for
+production that would have been required by other factors, regardless of the condition of the
+Reservoir. This is comparable to making a claim for gross profits rather than net profits, which is
+wrong as a matter of law. See cases cited supra, pp.7-8.
+
+23
+24
+25
+
+26
+
+Ex. A, Navigant Affidavit, ¶¶ 15-16.
+Id.
+Ex. A, Navigant Affidavit, ¶¶ 20-27; Ex. A-4, Tampa Bay Water’s Third Amended Rule 26(a)(1)(A)(iii) Initial
+Disclosure and attachments thereto TBW317971-TBW317986 (hereinafter “December Disclosures”).
+Ex. A, Navigant Affidavit, ¶ 22; Ex. A-4, December Disclosures, TBW317986.
+
+HDR’S DAUBERT MOTION TO EXCLUDE TESTIMONY BY ADAMS AND KENNEDY – Page 10
+
+Case 8:08-cv-02446-JDW-TBM Document 300 Filed 03/02/11 Page 11 of 23 PageID 16191
+
+In order for TBW to have suffered any past loss, it would have to show the desalination
+plant production was higher than it would have been if the Reservoir had been operating at full
+capacity. But the facts show otherwise. Even if the Reservoir had been operating at full capacity,
+TBW still would have used the desalination plant. Adams testified TBW would never shut down
+the desalination plant for a year or less.27 At a minimum, the desalination plant had to produce at
+least 4 MGD just to maintain operational readiness.28 Kennedy concurred with this figure.29
+Among the 2 million pages of emails TBW produced on December 15th was an exchange
+between Adams and TBW’s General Manager, Gerald Seeber, in which Adams said the
+desalination plant’s fixed minimum production requirement was 8.4 MGD.30 As a matter of
+economic principles, therefore, the Kennedy/Adams’ calculation of 16.7 MGD should have been
+offset by at least 4.0 – 8.4 MGD. (In fact, Kennedy did offset 4.0 MGD from TBW’s future loss
+calculation).31
+Beyond the desalination plant’s operational readiness requirements, various contractual
+provisions, such as covenants in financial agreements, obligated TBW to operate the plant at
+even higher levels. TBW budgeted 15 MGD of desalination plant production for WY2009
+“guided by the funding agreement requirements,”32 and operated it during that year at 16.9
+MGD, due to requirements specified in its funding agreements.33 No contemporaneous TBW
+documents were located attributing any of the desalination plant production to any condition of
+the Reservoir.
+
+27
+28
+29
+30
+
+31
+32
+
+Ex. A-6, Adams’ Deposition, November 2010, 49:21-50:21.
+Ex. A-6, Adams’ Deposition, November 2010, 42:13-43:5.
+Ex. A-8, Kennedy’s Deposition, October 2010, 501:8-12.
+When asked by TBW’s General Manager Jerry Seeber in March 2009 for the “lowest annual average flow that we can
+tolerate at the Desalination Plant,” Adams wrote: “[O]ur lowest production at desal is two trains which is 8.4 mgd. So I
+would use 8.4 mgd as your minimum, this is number I have used in other analysis.” Ex. A-7, Email from Gerald Seeber
+to Alison Adams dated March 8, 2009, TBW-EM4271852-54.
+Ex. A-16, Kennedy’s Deposition Exhibit 668, p.3.
+Ex. A-9, Tampa Bay Water February 18, 2008 Regular Board Meeting Minutes, p. 71.
+
+HDR’S DAUBERT MOTION TO EXCLUDE TESTIMONY BY ADAMS AND KENNEDY – Page 11
+
+Case 8:08-cv-02446-JDW-TBM Document 300 Filed 03/02/11 Page 12 of 23 PageID 16192
+
+Kennedy/Adams’ calculations use gross, rather than net or incremental, production. This
+is such a fundamental methodological flaw that the past lost use calculation must be rejected as
+unreliable. See Thornton v. J Jargon Co., 580 F. Supp. 2d 1261 (M.D. Fla. 2008) (Whittemore,
+J.)(expert’s use of incorrect underlying rate as basis for determining damages made calculated
+measure of damages irrelevant, unreliable as a methodology, and not helpful to the trier of fact).
+In order to be admissible, statistics as well as scientific evidence must be "supported by
+appropriate validation-i.e., 'good grounds,' based on what is known." Frazier, supra, 387 F.3d at
+1261. The Kennedy/Adams’ calculation of past loss is not based on “good grounds” or “what is
+known.” It does not meet the necessary threshold of reliability.
+C.
+
+Incorrect Dates, Amounts and Sources of Water
+
+Kennedy’s mathematical calculation of past lost use is also incorrect because it uses the
+wrong dates, amounts, and sources of water. According to Kennedy, the fill limit on the
+Reservoir caused a shift in production of water to the desalination plant from February to
+October 2009, totaling 4.6 billion gallons.34 Kennedy testified he had to rely on the water
+resource numbers Adams provided, because he was not qualified to determine where the water
+comes from.35
+When Adams actually performed an analysis of what occurred in 2008-2009, however,
+she came up with entirely different dates, amounts of, and sources of water. Adams determined
+the shift of water sources occurred from August 2008 through May 2009, not February – October
+2009. Adams determined the shift totaled 7.2 billion gallons, not 4.6 billion gallons. Most
+importantly, Adams determined the fill limit on the Reservoir caused a shift to groundwater, not
+
+33
+
+34
+35
+
+Ex. A-10, Optimized Regional Operations Plan Water Year 2009 Annual Report, p. 5. (Adams’ Deposition Ex. 376)
+(“[The] average production for the water year was 16.9 mgd . . . operated toward meeting production requirements
+specified in the Second Amendment to the New Water Sources Funding Agreement”).
+Ex. A-4, December Disclosures, TBW317986.
+Ex. A-8, Kennedy’s Deposition, October 22, 2010, 374:11-18.
+
+HDR’S DAUBERT MOTION TO EXCLUDE TESTIMONY BY ADAMS AND KENNEDY – Page 12
+
+Case 8:08-cv-02446-JDW-TBM Document 300 Filed 03/02/11 Page 13 of 23 PageID 16193
+
+desalinated water.36 Adams provided a detailed chart showing the production shift month-bymonth, which graphically demonstrated that TBW replaced all of the “lost” Reservoir water, by a
+one-for-one gallon shift to groundwater sources, not desalinated water.37 This is significant
+because groundwater sources are less expensive than either the Reservoir or the desalination
+plant. Thus, if Kennedy would have used, rather than disregarded, Adams’ water source
+calculations provided to Defendants, his arithmetic and “Cost Model” would have shown that
+TBW saved money during the time of the Reservoir’s fill limit. Because Kennedy’s arithmetic
+does not meet with the facts, it must be excluded.
+D.
+
+Incorrect and Unsupported Assumptions of Causation
+
+As noted above, one of the key requirements in an incremental cost model would be
+proof that the fill limit on the Reservoir actually created a water shortage that could only be filled
+by production from the desalination plant. Once again, however, the Kennedy/Adams’
+calculation simply assumes the truth of this point, without any supporting evidence. In point of
+fact, ample sources of other water were available during the time in question, both surface and
+groundwater. The desalination plant’s use was not because of a shortage of other water sources,
+and certainly not because of the fill limit on the Reservoir.
+To begin, it must be recognized that the Reservoir was not empty between February and
+October 2009. The Reservoir was subject to a “fill limit” to 105 feet rather than 136.5. This limit
+still left 6.6 billion gallons of water in the Reservoir during the nine-month stretch of time
+Kennedy calculates lost use. Additionally, TBW had access to other surface water production
+sources and groundwater sources. The desalination plant was not TBW’s only option. The
+Kennedy/Adams’ calculation does not analyze whether TBW had to resort to the desalination
+
+36
+
+37
+
+Ex. A, Navigant Affidavit, ¶¶ 28-32; see also Ex. A-12, Table 1. Comparison of Consolidated Wellfield Production
+under actual and normal reservoir operating conditions (Adams’ Deposition Ex. 380).
+Id.
+
+HDR’S DAUBERT MOTION TO EXCLUDE TESTIMONY BY ADAMS AND KENNEDY – Page 13
+
+Case 8:08-cv-02446-JDW-TBM Document 300 Filed 03/02/11 Page 14 of 23 PageID 16194
+
+plant. HDR’s consultant Navigant has done so.38 Navigant concluded: “the reduced fill limit of
+the Reservoir did not ‘cause’ any increase in desalination plant use,” and “did not cause a higher
+cost mix for TBW.”39
+This does not represent a mere difference of opinion between opposing experts. It goes to
+the very heart of the Daubert analysis. The Kennedy/Adams’ calculation assumes the truth of a
+critical point TBW must prove (i.e., that a shift occurred from surface water/Reservoir to
+desalination water). Rather than prove this, Kennedy/Adams ignore available data, fail to analyze
+other data, and their work runs directly contrary to TBW’s own records and analyses Adams
+herself performed. Such fundamental flaws doom the reliability of the proffered opinions. When
+the facts show the assumption is wrong, exclusion of the opinion is required.
+VI.
+EXCLUSION OF OPINION TESTIMONY ON FUTURE “LOSS OF USE” DAMAGES
+A.
+
+Unrealistic and improbable assumptions
+1.
+
+Reasonable certainty versus speculative claims
+
+TBW also makes a calculation regarding future “loss of use” damages when the
+Reservoir is expected to undergo renovation between 2013 - 2015. Again, the theory presented
+is that desalination plant production will increase to counter the alleged Reservoir outage,
+resulting in $20 million in damages. For this claim, the Kennedy/Adams’ calculation assumes a
+highly improbable confluence of events occurring precisely when the Reservoir is undergoing
+renovation: demand will increase; supply will decrease; and expensive desalinated water will be
+the only solution.
+While claims of future economic damages need not be shown with precision, they must
+be based on reasonable probabilities, not speculation or formulas designed to produce worst case
+
+38
+39
+
+Id. ¶¶ 33-42.
+Id. ¶ 40.
+
+HDR’S DAUBERT MOTION TO EXCLUDE TESTIMONY BY ADAMS AND KENNEDY – Page 14
+
+Case 8:08-cv-02446-JDW-TBM Document 300 Filed 03/02/11 Page 15 of 23 PageID 16195
+
+scenarios. Since TBW’s claim is a forecast of supply, demand, and costs, the Court can find
+guidance in cases dealing with lost profits and business valuations. In Fixel v. Rosenthal &
+Rosenthal, Inc., 921 So. 2d 43, 46 (Fla. 3d DCA 2006), the court excluded the plaintiff’s expert
+on damages because his reliance on purely speculative forecasts of future revenue was
+conjectural and unsupported. Similarly, in North Dade Cmty. Dev. Corp. v. Dinner’s Place, Inc.,
+827 So. 2d 352, 353 (Fla. 3d DCA 2002), the court held a business prospectus sheet “was little
+more than an unsupported wish list of what the lessee hoped would occur in the coming years”
+and therefore insufficient “to satisfy the mind of a prudent, impartial person as to the amount of
+profits lost.”
+2.
+
+Speculative and unrealistic assumptions of increasing demand
+
+The first weak link in this chain is the assumption of future increasing demand. Adams’
+calculation assumes that demand will grow 7.2% in 2012 and then hover between 1.2% and 2.4%
+annually for the next five years.40 This assumption is at odds with the facts. Water demand has
+actually been declining on an annual basis for the past decade.41 Moreover, Adams’ demand
+figures are not reliable. TBW historically overestimates demand and Adams did not assign a rate
+of error to her numbers.42 Between June 2008 and December 2010, TBW issued at least four
+demand forecasts for the years 2013 – 2015. Every report forecast different numbers for those
+years, but the numbers decreased in each successive report.43 If one were to graph the decline in
+TBW’s continually corrected forecasts, it would result in a lower forecast than the one Adams
+has used for this litigation.44 Not only does this demonstrate the demand forecast is unreliable in
+
+40
+41
+
+42
+43
+44
+
+Ex. A, Navigant Affidavit, ¶¶ 56-62.
+Ex. A, Navigant Affidavit, ¶ 61; Ex. A-16, Demand, Supply, and Costs Projections (Kennedy’s Deposition Ex. 668);
+Ex. A-19, Long Term Demand Forecasting and Future Water Supply Needs Update.
+Ex. A, Navigant Affidavit, ¶¶ 56-62.
+Ex. A, Navigant Affidavit, ¶ 58.
+Id.
+
+HDR’S DAUBERT MOTION TO EXCLUDE TESTIMONY BY ADAMS AND KENNEDY – Page 15
+
+Case 8:08-cv-02446-JDW-TBM Document 300 Filed 03/02/11 Page 16 of 23 PageID 16196
+
+its own right, it runs afoul of Daubert’s caution against opinions created for the courtroom rather
+than the Boardroom, and a failure to assign a known rate of error.
+3.
+
+Speculative and unrealistic assumptions of decreasing supply
+
+In order to make the calculation show a future need for increased desalinated water,
+Adams had to artificially reduce the supply of available surface water precisely when the
+Reservoir is scheduled to be out of service.45 She accomplished this by assuming that WY2013
+and WY2014 would be “low flow” (below average) water years, producing only 37 MGD and 41
+MGD respectively.46 This assumption was not based on an analysis of what was likely to happen
+in those two years. Rather, it was based on her belief that TBW should “plan for” unlikely
+scenarios47 (i.e., “prepare for the worst, hope for the best”). Adams admitted she did not try to
+analyze what might reasonably happen under expected circumstances.48 She commented that she
+did not do this type of probability forecasting in the regular performance of her duties.49
+Forecasting economic damages requires a different methodology than forecasting for water use
+planning. Adams’ approach of contingency planning “fundamentally misstates expected values
+(and damages).”50
+Adams admitted she could not assign any level of probability to her forecast, and could
+not say her assumption of a “low flow” condition was likely to occur at all. Her testimony in this
+regard is telling:
+Q.
+
+45
+
+46
+47
+48
+49
+
+50
+
+So you have -- are you saying you have no estimation of the likelihood of
+-- of having a low-flow condition in 2013?
+
+Ex. A-6, Adams’ Deposition, November 2010, 71:11-72:24; 74:7-75:13; 122:20-123:21; 126:3-12; 204:19-205:11;
+208:21-209:9; 212:6-22.
+Ex. A-6, Adams’ Deposition, November 2010, 122:20-123:21; 126:3-12; 208:21-209:9; 212:6-22.
+Ex. A-6, Adams’ Deposition, November 2010, 239:25-240:9.
+Ex. A-6, Adams’ Deposition, November 2010, 217:1-17.
+Ex. A-6, Adams’ Deposition, November 2010, 217:24-219:7.
+Ex. A, Navigant Affidavit, ¶ 48.
+
+HDR’S DAUBERT MOTION TO EXCLUDE TESTIMONY BY ADAMS AND KENNEDY – Page 16
+
+Case 8:08-cv-02446-JDW-TBM Document 300 Filed 03/02/11 Page 17 of 23 PageID 16197
+
+A.
+
+I have not done that analysis, no.51
+
+Q.
+
+And as you sit here today as an expert for Tampa Bay Water, can you put
+a percentage probability on that low run-of-river flow for 2013?
+
+A.
+
+No, I can't.52
+
+Q.
+
+Can you tell the jury that it is more likely than not that the flow in 2013 is
+going to be 37 million gallons per day or below for run-of-river?
+
+A.
+
+No one can sit here today and predict what the flow in 2013 is going to
+be.53
+
+When pressed to say whether the predicted 37 MGD figure for 2013 was going to happen
+“25% of the time, 50% of the time,” Adams admitted: “I don't have an answer to that question.”54
+As she stated, “I have not done that type of time-series analysis to go be able to give you that
+answer.”55
+Adams admitted her forecast is not based on expected or average future outcomes.56 She
+conceded her future estimate of “low flow” years was not based on any statistical analysis or
+statistical probability modeling.57 If any prediction at all is appropriate about the occurrence of
+two consecutive “low flow” years, it would be that they are not likely to occur, and that future
+lost use damages are unlikely. Adams testified the probability of a “low flow” year is about 3035% in any given year.58 This means the statistical probability of two consecutive “low flow”
+years would drop to 11%.59 Indeed, TBW’s own historical data confirms this. Over a 31-year
+historical span back to 1978, back-to-back low flow years (represented by the bottom 33%) only
+
+51
+52
+53
+54
+55
+56
+57
+
+58
+59
+
+Ex. A-6, Adams’ Deposition, November 2010, 126:3-7.
+Ex. A-6, Adams’ Deposition, November 2010, 212:18-22.
+Ex. A-6, Adams’ Deposition, November 2010, 213:12-17.
+Ex. A-6, Adams’ Deposition, November 2010, 208:21-209:9.
+Ex. A-6, Adams’ Deposition, November 2010, 209:23-210:4.
+Ex. A-6, Adams’ Deposition, November 2010, 210:5-211:5.
+Ex. A-6, Adams’ Deposition, November 2010, 124:25-125:14; 126:3-12; 204:3-205:11; 208:2-209:9; 209:23-210:13;
+210:20-213:17.
+Ex. A-6, Adams’ Deposition, November 2010, 71:22-72:24; 124:25-125:14; 208:21-209:9.
+Ex. A, Navigant Affidavit, ¶ 46.
+
+HDR’S DAUBERT MOTION TO EXCLUDE TESTIMONY BY ADAMS AND KENNEDY – Page 17
+
+Case 8:08-cv-02446-JDW-TBM Document 300 Filed 03/02/11 Page 18 of 23 PageID 16198
+
+occurred 10% of the time, just as random statistics would predict.60 This same historical data
+shows that one “low flow” year does not follow another “low flow” year any more than
+randomly. Therefore, there is no basis at all for saying that two unlikely events will occur at a
+specific time. When questioned about the uncertainty of a “low flow year,” Adams herself stated:
+“No one can sit here today and predict what the flow in 2013 is going to be.”61 Navigant’s
+conclusion in this regard is appropriate: “Using a potential future condition of two low flow
+years that are 90% unlikely to occur is an improper methodology to determine potential future
+damages.”62
+Another way to measure the unrealistic nature of the future prediction of inadequate
+supplies is to check it against known facts. In order to make her calculations work, Adams had to
+assume an overestimated demand and an underestimated supply. She did not perform any
+calculations using any other numbers. However, TBW had done other “what if” scenarios,
+assuming the Reservoir was out of service, with markedly different results.
+As previously mentioned, TBW internally studied 31 years of hydrology data from 1978200863 for the specific purpose of estimating surface water production as if there had been no
+Reservoir and assuming the surface water treatment plant capacity was 99 MGD of capacity.
+This analysis showed that even a year in the lower 25th percentile would have produced at least
+50.7 MGD of surface water availability, and an average year would have produced 64.1 MGD
+(even assuming the Reservoir had never been built).64
+
+60
+
+61
+62
+63
+
+64
+
+Ex. A, Navigant Affidavit, ¶ 46; Ex. A-17, Email from Alison Adams to Ervin Myers and James Molyneux dated April
+23, 2009, B_V146002-146004.
+Ex. A-6, Adams’ Deposition, 213:12-17.
+Ex. A, Navigant Affidavit, ¶ 46.
+Ex. A-17, Email from Alison Adams to Ervin Myers and James Molyneux dated April 23, 2009, B_V146002-146004.
+Adams did not produce this email prior to or during any of her depositions. Likewise, TBW did not produce it from its
+ESI. It was only produced by Black & Veatch, the recipient of the email.
+As explained in some detail, this is a conservative analysis that probably understates the available surplus water. Ex. A,
+Navigant Affidavit, ¶¶ 65-72.
+
+HDR’S DAUBERT MOTION TO EXCLUDE TESTIMONY BY ADAMS AND KENNEDY – Page 18
+
+Case 8:08-cv-02446-JDW-TBM Document 300 Filed 03/02/11 Page 19 of 23 PageID 16199
+
+At 50 MGD, which the 31-year historical analysis showed was below average, Adams
+admitted that TBW would have no need to use desalinated water (and hence would have no
+damages):
+Q.
+
+That goes for any year that you're talking about the Reservoir being off
+line. If we have an average year of 50 million gallons per day of river
+flow, we not would not need to use more desalination than our four
+million gallons per day?
+
+A.
+
+It's not likely that we would, right.
+
+Q.
+
+Okay. And in addition to that, Tampa Bay Water would not exceed its
+groundwater permitting limits?
+
+A.
+
+Yes, that's correct.65
+
+If this would be true for a below average (25th percentile) year at 50 MGD, then it obviously
+would be even more so for an average year at 64 MGD.
+The same holds true if one checks Adams’ forecast against other years she considered. In
+explaining the basis for her “low flow” numbers of 37 MGD and 41 MGD, Adams testified that
+she considered WY2008 and WY2009 representative of “low flow” years.66 Using the actual
+water numbers for those years, however, and taking into account the increased surface water
+plant production capacity that will be available in 2013 (which was not available in 2008-2009),
+demonstrates 49.3 MGD supply of water will be available, without either the Reservoir or the
+desalination plant.67 This is ostensibly the same as the 50 MGD average that Adams admits will
+result in no future loss. Thus, even assuming arguendo Adams’ example of a “low flow” year
+did occur, there still would be no future damages.
+This demonstrates the unreliability of the Kennedy/Adams’ calculation. It runs counter to
+31 years of TBW’s history, which shows that there would be no need to use desalinated water
+
+65
+66
+67
+
+Ex. A-6, Adams’ Deposition, November 2010, 225:4-13.
+Ex. A-6, Adams’ Deposition, November 2010, 74:11-75:13.
+Ex. A, Navigant Affidavit, ¶ 67.
+
+HDR’S DAUBERT MOTION TO EXCLUDE TESTIMONY BY ADAMS AND KENNEDY – Page 19
+
+Case 8:08-cv-02446-JDW-TBM Document 300 Filed 03/02/11 Page 20 of 23 PageID 16200
+
+(and hence no damages) even in a below-average 25th percentile year of 50 MGD. Certainly in
+an average year or one reasonably certain to occur, no future damages can be said to exist.
+Adams’ and Kennedy’s calculation on these issues should be excluded.
+4.
+
+Speculative and unrealistic assumptions of increased costs
+
+Finally, in order to generate the $20 million number, the Kennedy/Adams’ calculation
+uses an incremental cost difference for desalinated water of $2.62 per 1,000 gallons. This means
+the cost of desalinated water will have to escalate nearly 75% in barely four years from the time
+of the past damages (2009) to the future damages (2013).68 No explanation, justification or
+evidence is offered for such a meteoric rise. Using the $1.50 figure lowers the future damage
+calculation by $8.5 million. This underscores the speculative nature of TBW’s damage
+calculation.
+B.
+
+Failure to consider facts, probable events, and alternative scenarios
+
+Not only does the Kennedy/Adams’ calculation use speculative and unrealistic
+assumptions, it fails to consider other variables that directly and dramatically change the results
+of the calculations. For example, it fails to take into account the increased production capacity of
+the surface water treatment plant,69 as well as increased efficiency of production at that plant.70 It
+fails to consider alternative ways to optimize water production by varying the amounts produced
+from surface water sources versus groundwater sources at different times of the year.71 By failing
+to consider these variables, the Kennedy/Adams’ calculation is based on a worst case scenario. It
+does not reflect a valid estimate of probable damages. Instead, it produces an inflated estimate of
+
+68
+
+69
+70
+71
+
+Ex. A. Affidavit, ¶¶ 77-78; Ex. A-23, Email from Jon Kennedy to Ervin Myers dated August 10, 2005 (Kennedy’s
+Deposition Ex. 670); Ex. A-16, Demand, Supply, and Costs Projections (Kennedy’s Deposition Ex. 668).
+Ex. A, Navigant Affidavit, ¶¶ 66-68.
+Id.
+Id.
+
+HDR’S DAUBERT MOTION TO EXCLUDE TESTIMONY BY ADAMS AND KENNEDY – Page 20
+
+Case 8:08-cv-02446-JDW-TBM Document 300 Filed 03/02/11 Page 21 of 23 PageID 16201
+
+things that are not likely to happen. In Navigant’s words, the calculation “overstates the need for
+desalination production and future economic damages are biased.”72
+VII.
+CONCLUSION
+Each of these errors alone would doom Adams’ and Kennedy’s testimony under Daubert.
+Combined, the errors provide appropriate grounds to exclude in total all of the testimony and
+evidence regarding alleged any “loss of use” damages. An expert’s opinion testimony must be
+based not only on sufficient facts or data, but also must be “the product of reliable principles or
+methods,” which the expert has applied reliably to the facts of the case. Pierson v. Werntz, 2010
+WL 3447496 (M.D. Fla. August 30, 2010).
+In Pierson, the plaintiff retained James T. McClave, a Ph.D. in statistics, to calculate
+damages based on lost earnings. The defendant argued the methodologies failed to take into
+account facts and data, and that McClave selectively chose assumptions and data to formulate his
+calculations.73 The Court agreed:
+Dr. McClave did not consider sufficient facts or data, ignored
+available data, and did not apply principles and methods reliably to
+the facts. Instead, his opinions are based on unsupported
+assumptions . . . His failure to account for the differences in the
+relevant orthopedic markets, Plaintiff’s professional situations in
+each of those markets, the circumstances under which Plaintiff left
+Chicago, and Plaintiff’s actual income just before the events at
+issue renders Dr. McClave’s opinions regarding Plaintiff’s lost
+earnings unreliable under Rule 702, and therefore they must be
+excluded.
+Adams’ and Kennedy’s opinions suffer from the same flaws. Their calculations of past
+and future losses are built on unproven assumptions that are contrary to known facts. They
+
+72
+73
+
+Ex. A, Navigant Affidavit, ¶ 54.
+McClave offered no data to support his assumption that market-to-market comparisons could be made; he neglected to
+consider the different employment circumstances of the plaintiff in the various cities in which he resided; and failed to
+account for differences in the practice circumstances or geographic locations where the plaintiff practiced medicine. He
+assumed the plaintiff’s earnings had steadily increased, even though the facts showed that plaintiff’s income had
+dropped significantly and not rebounded. Pierson, at *4-6.
+
+HDR’S DAUBERT MOTION TO EXCLUDE TESTIMONY BY ADAMS AND KENNEDY – Page 21
+
+Case 8:08-cv-02446-JDW-TBM Document 300 Filed 03/02/11 Page 22 of 23 PageID 16202
+
+assume causation rather than prove it. Kennedy’s testimony disregards Adams’ past calculations
+and testimony of shift to groundwater (not desalination water). Their calculation of future losses
+does not even attempt to forecast a reasonably certain event. Their demand estimates are rebutted
+by TBW’s historical numbers, which they ignored. They ignored TBW’s own 31-year historical
+averages of surface water availability and did not account for the surface water treatment plant’s
+increased ability to process it. They failed to evaluate alternative production possibilities. In
+short, they rely on numbers and figures geared towards producing a desired result rather than
+provide a reliable analysis to reach a reliable answer.
+The analytical gap is a chasm. Their testimony is so unreliable that correcting the errors
+does not simply result in “error rate” or only diminish the amount of the damages claimed.
+Correcting the errors actually eliminates the entire lost use damage claim. In circumstances like
+this, FED. R. EVID. 702 and Daubert dictate that their opinion testimony must be excluded.
+WHEREFORE, HDR respectfully prays that the Court grant this Motion, exclude the
+opinion testimony of Kennedy and Adams on past and future “loss of use” damages, and grant
+HDR such other relief to which it may be justly entitled.
+Respectfully submitted,
+SEDGWICK, DETERT, MORAN & ARNOLD LLP
+/s/ KURT W. MEADERS
+WAYNE B. MASON, ESQUIRE
+Admitted Pro Hac Vice
+KURT W. MEADERS, ESQUIRE
+Admitted Pro Hac Vice
+1717 Main Street, Suite 5400
+Dallas, TX 75201-7367
+Telephone 469-227-8200
+Facsimile 469-227-8004
+
+HDR’S DAUBERT MOTION TO EXCLUDE TESTIMONY BY ADAMS AND KENNEDY – Page 22
+
+Case 8:08-cv-02446-JDW-TBM Document 300 Filed 03/02/11 Page 23 of 23 PageID 16203
+
+FORIZS & DOGALI, P.A.
+TIMOTHY D. WOODWARD, ESQUIRE
+Florida Bar No.: 0486868
+JAMES K. HICKMAN, ESQUIRE
+Florida Bar No.: 0893020
+4301 Anchor Plaza Parkway, Suite 300
+Tampa, FL 33634
+Telephone 813-289-0700
+Facsimile 813-289-9435
+ATTORNEYS FOR HDR ENGINEERING, INC.
+
+CERTIFICATE OF GOOD FAITH
+The undersigned counsel for Defendant HDR Engineering, Inc., has conferred with
+counsel for all parties in the above styled case via email correspondence dated February 24 and
+25, 2010, as to this Motion. Counsel for Barnard and McDonald do not oppose this Motion.
+Counsel for TBW opposes this Motion.
+
+/s/ Kurt W. Meaders
+KURT W. MEADERS
+
+CERTIFICATE OF SERVICE
+Per the Court’s request, the foregoing instrument previously filed on February 28, 2011
+as a "miscellaneous motion" is being re-filed electronically as a “Motion in Limine" through the
+CM/ECF system on March 2, 2001, which thereby sent a notice of electronic filing to all counsel
+of record the same day.
+
+/s/ Kurt W. Meaders
+KURT W. MEADERS
+
+HDR’S DAUBERT MOTION TO EXCLUDE TESTIMONY BY ADAMS AND KENNEDY – Page 23
+
+

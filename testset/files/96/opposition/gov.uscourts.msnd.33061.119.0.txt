@@ -1,0 +1,227 @@
+Case: 3:12-cv-00036-SA-SAA Doc #: 119 Filed: 11/15/12 1 of 7 PageID #: 3899
+
+UNITED STATES DISTRICT COURT
+NORTHERN DISTRICT OF MISSISSIPPI
+WESTERN DIVISION
+
+CORR WIRELESS
+COMMUNICATIONS, L.L.C.,
+CELLULAR SOUTH, INC., and
+CELLULAR SOUTH LICENSES, LLC
+V.
+
+PLAINTIFFS
+CIVIL ACTION NO. 3:12CV036
+
+AT&T, INC., AT&T MOBILITY LLC,
+MOTOROLA SOLUTIONS, INC.,
+QUALCOMM INCORPORATED, and
+JOHN DOES 1-10
+
+DEFENDANTS
+
+DEFENDANT QUALCOMM INCORPORATED’S REPLY
+BRIEF IN SUPPORT OF ITS REQUEST FOR JUDICIAL NOTICE
+OF MATTERS RELEVANT TO ITS RESPONSE IN OPPOSITION TO
+MOTION FOR LEAVE TO FILE A SECOND AMENDED COMPLAINT
+In opposing Qualcomm’s Request for Judicial Notice of the 3GPP Working
+Procedures and Qualcomm’s Comments in response to the FCC’s Interoperability Petition,
+Cellular South1 does not argue that these documents are not matters of public record or that they
+are “subject to reasonable dispute” within the meaning of Fed. R. Evid. 201(b). In fact, Cellular
+South concedes the authenticity of the documents. Cellular South’s opposition to the Request is
+instead based on the contention that Qualcomm is asking this Court to take judicial notice of the
+truth of the contents of the documents and that judicial notice is not permissible for such
+purpose. For the reasons set forth below, Cellular South’s opposition is without merit, and this
+Court may take judicial notice of the documents and consider them in determining whether to
+permit the filing of the proposed Second Amended Complaint.
+
+1
+
+We refer to the plaintiffs collectively as “Cellular South”.
+
+1083234
+
+Case: 3:12-cv-00036-SA-SAA Doc #: 119 Filed: 11/15/12 2 of 7 PageID #: 3900
+
+1. 3GPP Working Rules
+Cellular South admits that the 3GPP Working Procedures “may” be judicially
+noticed for “what they say”. See Pls.’ Opp’n to Def. Qualcomm’s Request for Judicial Notice
+(“CS Opp’n”), at 4, ECF No. 118. Cellular South argues, however, that the contents of the 3GPP
+Working Procedures have no relevance to the Motion for Leave unless this Court takes judicial
+notice of truth of the contents of the document, and that such use is not permissible. Id.
+However, a specific statement within a document, as well as the authenticity of the document
+itself, may be judicially noticed if the statement is “not subject to reasonable dispute”. Cellular
+South’s response does not dispute that the document provided as Exhibit A to Qualcomm’s
+Response in Opposition to Cellular South’s Motion for Leave to Amend, ECF No. 111, is a true
+and correct copy of the published Working Procedures of 3GPP. Consequently, this Court,
+presented with a document that is conceded to be an authentic statement of 3GPP Working
+Procedures, can certainly find that it is not subject to reasonable dispute that a particular rule
+stated therein—such as the rule that each member company is entitled to only one vote—is
+actually a rule of procedure followed by 3GPP in its standards-setting process.
+Cellular South relies principally on Lovelace v. Software Spectrum, Inc., 78 F.3d
+1015 (5th Cir. 1996). Lovelace held that, while the court, in ruling on a 12(b)(6) motion, could
+take judicial notice of SEC filings for proof that certain statements were or were not made in
+such filings, the court could not take judicial notice of the truth of statements contained in the
+filings in order to resolve a disputed fact. Lovelace, 78 F.3d at 1018. That holding is not
+remarkable, because the truth of statements contained in an SEC filing could still be “reasonably
+subject to dispute”. However, Lovelace and the other cases cited by Cellular South that rely on
+Lovelace are of no help to Cellular South, because, in contrast to statements in SEC filings, the
+3GPP rules are not statements that are true or false, but rather are statements of policy. They
+1083234
+
+2
+
+Case: 3:12-cv-00036-SA-SAA Doc #: 119 Filed: 11/15/12 3 of 7 PageID #: 3901
+
+have no substance beyond “what they say”, and they do not purport to “prove” or “disprove” any
+fact. Accordingly, Qualcomm is not offering the document to prove the “truth” of the rules, but
+rather that such rules are in place, and it is not reasonably subject to dispute that 3GPP rules
+permit each member company only one vote regardless of the number of representatives it has
+present.
+Furthermore, the undisputed existence of this “one member, one vote” rule is
+relevant because it tends to make the allegation that the defendants manipulated the standardssetting process implausible, and it establishes that this case is not analogous to Allied Tube, as
+Cellular South argues. Cellular South relies on Allied Tube in the proposed Second Amended
+Complaint for the argument that their allegations permit a plausible inference that the 3GPP
+proceedings were manipulated to create Band 17. See Mem. of Law in Supp. of Pls.’ Mot. for
+Leave, at 10, ECF No. 106. But putting aside the fact that Cellular South has not alleged that the
+defendants engaged in vote-packing as was done in Allied Tube, the 3GPP rule that members
+have only one vote makes it implausible that any company could have “packed” meetings even if
+it tried to. See Def. Opp’n to Pls.’ Mot. for Leave (“QC Opp’n”), at 11-12, 12 n.3, ECF No. 112.
+This Court may therefore take judicial notice of the 3GPP Working Procedures in connection
+with Qualcomm’s Opposition to Leave to Amend.
+2. Qualcomm’s Petition Comments
+As to Qualcomm’s Comments in response to the Interoperability Petition, Cellular
+South opposes judicial notice by arguing that Qualcomm seeks to use the statements made in its
+Comments to disprove Cellular South’s allegations that interference does not exist. See CS
+Opp’n at 5. But Qualcomm is not seeking to use the Comments for that purpose. Rather, the
+portion of the Comments cited in Qualcomm’s brief opposing Cellular South’s Motion for Leave
+to Amend is offered to show the lack of plausibility of Cellular South’s assertion that
+1083234
+
+3
+
+Case: 3:12-cv-00036-SA-SAA Doc #: 119 Filed: 11/15/12 4 of 7 PageID #: 3902
+
+Qualcomm’s decision to produce Band 12 chips supports an inference that interference concerns
+expressed by Qualcomm were pretextual rather than sincere. Cellular South’s inference depends
+on the assumption that Qualcomm would only undertake to produce Band 12 chips if they would
+not be subject to interference. See QC Opp’n at 21 n.11. Cellular South’s inference is rendered
+implausible by the fact that Qualcomm did not previously contend either that Band 12 devices
+could not be produced or that Band 12 chips would be interference-free. That implausibility is
+demonstrated by, among other things, Qualcomm’s statements in the Comments, in which
+Qualcomm acknowledged that Band 12 devices could be produced with the use of wider filters,
+but nonetheless expressed concerns that Band 12 devices would be subject to interference
+because they must use wider—and therefore less effective—filters. See id.
+Cellular South also argues that pretext is shown in the FCC’s Notice of Proposed
+Rule Making (“NPRM”), which, according to Cellular South, “rejected” statements about
+interference allegedly made by Qualcomm in its Comments. See Pls.’ Proposed Second Amd.
+and Supp. Compl., at ¶ 269, ECF No. 105-1. As explained in Qualcomm’s brief opposing leave
+to amend, Cellular South claimed that Qualcomm raised “concerns regarding base station
+filtering”, but the cited portion of the Comments shows that Qualcomm actually raised concerns
+about filtering in devices. See QC Opp’n at 20-21 & n.10. Judicial notice of what Qualcomm
+said in this document therefore shows that Cellular South has mischaracterized the NPRM—the
+NPRM simply did not “reject” Qualcomm’s assertions about interference.
+For these reasons, Cellular South’s objections to this Court taking judicial notice
+of the 3GPP Working Procedures and Qualcomm’s Petition Comments are without merit.
+Accordingly, this Court should grant Qualcomm’s request to take judicial notice of the
+documents and consider them in connection with Cellular South’s Motion for Leave to file a
+Second Amended Complaint.
+1083234
+
+4
+
+Case: 3:12-cv-00036-SA-SAA Doc #: 119 Filed: 11/15/12 5 of 7 PageID #: 3903
+
+Dated: November 15, 2012
+/s/ L. F. Sams, Jr.
+L. F. Sams, Jr. (MSB #6426)
+Otis R. Tims (MSB #8221)
+Margaret Sams Gratz (MSB #99231)
+MITCHELL MCNUTT & SAMS, P.A.
+P.O. Box 7120
+Tupelo, MS 38802
+(662) 842-3871
+ssams@mitchellmcnutt.com
+otims@mitchellmcnutt.com
+mgratz@mitchellmcnutt.com
+Roger G. Brooks
+Yonatan Even
+CRAVATH, SWAINE & MOORE LLP
+Worldwide Plaza
+825 Eighth Avenue
+New York, NY 10019
+(212) 474-1000
+rgbrooks@cravath.com
+yeven@cravath.com
+Attorneys for Defendant Qualcomm Incorporated
+
+1083234
+
+5
+
+Case: 3:12-cv-00036-SA-SAA Doc #: 119 Filed: 11/15/12 6 of 7 PageID #: 3904
+
+CERTIFICATE OF SERVICE
+I, L. F. Sams, Jr., one of the attorneys for defendant Qualcomm Incorporated, hereby
+certify that I have electronically filed the foregoing Reply Brief with the Clerk of the Court using
+the ECF system, which sent notification of such filing to the following:
+Attorneys for Plaintiffs:
+Alan W. Perry
+Daniel J. Mulholland
+Water H. Boone
+Forman Perry Watkins Krutz & Tardy, LLP
+City Centre, Suite 200
+200 South Lamar Street
+Jackson, MS 39201
+Charles L. McBride, Jr.
+M. Patrick McDowell
+Joseph A. Sclafani
+Brian C. Kimball
+Brunini Grantham Grower & Hewes, PLLC
+The Pinnacle Building, Suite 100
+190 East Capitol Street
+Jackson, MS 39201
+Walter T. Johnson
+Watkins & Eager, LLC
+P. O. Box 650
+Jackson, MS 39205
+Attorney for Defendants AT&T, Inc. and AT&T Mobility, LLC:
+Aaron M. Panner
+Kenneth M. Fetterman
+Michael K. Kellogg
+William J. Rinner
+Kellogg, Huber, Hansen, Todd, Evans & Figel, PLLC
+1615 M Street NW, Suite 400
+Washington State, DC 20036
+David W. Upchurch
+Holland Ray Upchurch and Hillen
+P. O. Drawer 409
+Tupelo, MS 38802-0409
+Attorneys for Defendant Motorola Solutions, Inc.:
+1083234
+
+6
+
+Case: 3:12-cv-00036-SA-SAA Doc #: 119 Filed: 11/15/12 7 of 7 PageID #: 3905
+
+Chahira Solh
+John S. Gibson
+Jason C. Murray
+Crowell & Moring, LLP
+3 Park Plaza, 20th Floor
+Irvine, CA 92614
+Jim Ming Greenlee
+James D. Johnson
+Holcomb Dunbar – Oxford
+Post Office Box 707
+Oxford, MS 38655-0707
+This the 15th day of November, 2012.
+
+/s/ L.F. Sams, Jr.
+L. F. Sams, Jr.
+
+1083234
+
+7
+
+

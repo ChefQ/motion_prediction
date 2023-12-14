@@ -1,0 +1,517 @@
+Case: 3:12-cv-00036-SA-SAA Doc #: 107 Filed: 10/18/12 1 of 16 PageID #: 3443
+
+UNITED STATES DISTRICT COURT
+FOR THE NORTHERN DISTRICT OF MISSISSIPPI
+
+CORR WIRELESS COMMUNICATIONS, L.L.C.,
+CELLULAR SOUTH, INC., AND
+CELLULAR SOUTH LICENSES, LLC,
+Plaintiffs,
+v.
+AT&T, INC., AT&T MOBILITY LLC,
+MOTOROLA SOLUTIONS, INC., AND
+QUALCOMM INCORPORATED,
+Defendants.
+
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+
+No. 3:12-cv-036-SA-SAA
+
+DEFENDANT AT&T MOBILITY LLC’S MEMORANDUM OF LAW IN OPPOSITION
+TO MOTION FOR LEAVE TO AMEND
+
+Case: 3:12-cv-00036-SA-SAA Doc #: 107 Filed: 10/18/12 2 of 16 PageID #: 3444
+
+TABLE OF CONTENTS
+Page
+TABLE OF AUTHORITIES .......................................................................................................... ii
+INTRODUCTION ...........................................................................................................................1
+BACKGROUND .............................................................................................................................2
+ARGUMENT ...................................................................................................................................4
+THE NEW ALLEGATIONS OF THE PROPOSED SECOND AMENDED
+COMPLAINT DO NOT SUPPORT ANY CLAIM THAT DEFENDANTS
+CONSPIRED TO SUBVERT THE 3GPP PROCESS ........................................................6
+CONCLUSION ..............................................................................................................................10
+
+Case: 3:12-cv-00036-SA-SAA Doc #: 107 Filed: 10/18/12 3 of 16 PageID #: 3445
+
+TABLE OF AUTHORITIES
+Page
+CASES
+Allied Tube & Conduit Corp. v. Indian Head, Inc.,
+486 U.S. 492 (1988) .....................................................................................................3, 7, 8
+Clamp-All Corp. v. Cast Iron Soil Pipe Inst.,
+851 F.2d 478 (1st Cir. 1988) ................................................................................................8
+Enron Corp. Sec., In re,
+535 F.3d 325 (5th Cir. 2008) ...............................................................................................5
+Golden Bridge Tech., Inc. v. Motorola, Inc.,
+547 F.3d 266 (5th Cir. 2008) ...............................................................................................8
+Southmark Corp., In re,
+88 F.3d 311 (5th Cir. 1996) .................................................................................................5
+TruePosition, Inc. v. LM Ericsson Tel. Co.,
+Civil Action No. 11-4574, 2012 WL 3584626 (E.D. Pa. Aug. 21, 2012) .........................10
+United States ex rel. Adrian v. Regents of the Univ. of California,
+363 F.3d 398 (5th Cir. 2004) ...............................................................................................5
+
+STATUTES
+Communications Act of 1934, 47 U.S.C. § 151 et seq. ..................................................................2
+Sherman Act, 15 U.S.C. § 1 et seq. .............................................................................................2, 6
+§ 1, 15 U.S.C. § 1 ...........................................................................................................2, 10
+§ 2, 15 U.S.C. § 2 .............................................................................................................2, 3
+
+OTHER MATERIALS
+XIII Herbert Hovenkamp, Antitrust Law (2d ed. 2005)...................................................................8
+
+ii
+
+Case: 3:12-cv-00036-SA-SAA Doc #: 107 Filed: 10/18/12 4 of 16 PageID #: 3446
+
+AT&T Mobility respectfully requests that the Court deny Plaintiffs’ motion for leave to
+amend their antitrust complaint because the proposed amendment would be futile. 1 The
+proffered Second Amended Complaint, like the previous amended complaint, would fail to state
+a claim on which relief may be granted because it fails to allege facts sufficient to support the
+claim that Defendants entered into an unlawful conspiracy in violation of the antitrust laws.
+Plaintiffs’ Second Amended Complaint introduces no new facts indicative of a conspiracy;
+indeed, in their memorandum, Plaintiffs do not cite to a single specific allegation that they have
+added to the Second Amended Complaint, nor do they attempt to explain why any such
+allegations differ from what Plaintiffs previously alleged and argued. Their motion simply reargues points already, and properly, rejected by the Court.
+INTRODUCTION
+The Court should deny Plaintiffs’ motion for leave to amend their complaint because the
+allegations they seek to add fail to remedy the deficiencies that led this Court to dismiss their
+First Amended Complaint. In its August 31, 2012 Memorandum Opinion (“Op.”), the Court
+correctly held that the first amended complaint failed to state any claim based on Defendants’
+alleged participation in the 3GPP standard-setting process because Plaintiffs failed to allege that
+Defendants conspired “to employ . . . any improper practices within the standard setting process”
+that would “subvert[]” that process or turn it “into a sham.” Op. 21. The Second Amended
+Complaint supplies no such allegations – to the contrary, Plaintiffs concede that the 3GPP
+process was followed “to the letter,” Mot. 8, and the added allegations in the Second Amended
+Complaint confirm that fact. As this Court has recognized, disputes about the technical merits of
+
+1
+
+The proposed Second Amended Complaint continues to name AT&T Inc. as a defendant but
+contains no new allegations concerning conduct by AT&T Inc. AT&T Inc.’s pending motion to
+dismiss for lack of personal jurisdiction is not affected by the proposed amendment.
+
+Case: 3:12-cv-00036-SA-SAA Doc #: 107 Filed: 10/18/12 5 of 16 PageID #: 3447
+
+standards adopted through a valid standard-setting process cannot be the basis for a conspiracy
+claim. Plaintiffs have alleged nothing more.
+BACKGROUND
+1.
+
+The First Amended Complaint sought to allege claims under Sections 1 and 2 of
+
+the Sherman Act based on four types of actual or anticipated conduct: alleged manipulation of
+3GPP standard-setting; alleged delay in the development of Band 12 standards and devices;
+alleged potential agreements between AT&T Mobility and device manufacturers to restrict the
+supply of devices to Plaintiffs; and the alleged possibility that AT&T Mobility might refuse to
+allow Plaintiffs’ customers to “roam” onto AT&T Mobility’s network. Based on these
+allegations, Plaintiffs set out five antitrust claims under Sections 1 and 2 of the Sherman Act and
+a single claim under the Communications Act of 1934.
+2.
+
+On August 31, 2012, after extensive briefing and a full day of oral argument, the
+
+Court dismissed the amended complaint.
+a.
+
+With respect to the claim that Defendants had conspired unlawfully to
+
+manipulate the 3GPP process, the Court noted that Plaintiffs had provided “no factual allegations
+to plausibly show the existence of an agreement.” Op. 18. Plaintiffs offered no direct
+allegations concerning the time, place, or participants in any agreement, “or even what such an
+alleged agreement entailed.” Id. The fact that all of the Defendants participated in the 3GPP
+process relating to the creation of Band 17 did not support Plaintiffs’ claim, because Defendants’
+joint participation in standard-setting does not provide a basis for an antitrust claim in the
+absence of allegations that Defendants “bias[ed] the standard setting process . . . through the use
+of improper and unfair practices and procedures.” Op. 21. “While Plaintiffs argue that
+Defendants’ technical justifications set forth during the 3GPP process are merely pretext for
+
+2
+
+Case: 3:12-cv-00036-SA-SAA Doc #: 107 Filed: 10/18/12 6 of 16 PageID #: 3448
+
+anticompetitive behavior, the 3GPP process was followed to the letter. That is, there are no facts
+demonstrating procedural irregularities within the process, that the 3GPP process was subverted
+or turned into a sham, or that the Defendants agreed to employ – or indeed did employ – any
+improper practices within the standard setting process.” Id. The Court thus distinguished Allied
+Tube & Conduit Corp. v. Indian Head, Inc., 486 U.S. 492 (1988), in which the Supreme Court
+held that conspirators are not immune from antitrust liability when they employ such improper
+means to bias a standard-setting process.
+b.
+
+The Court held that the amended complaint likewise failed to allege any
+
+facts to support the claim that Defendants reached any agreement to delay development of Band
+Class 12 standards and devices. Op. 25-26. The Court dismissed Plaintiffs’ remaining claims –
+based on AT&T Mobility’s alleged exclusive-dealing arrangements with device manufacturers
+and its alleged refusal to provide roaming services access to Plaintiffs – because “conclusory
+speculation regarding what could happen at some unknown date in the future . . . fails to
+plausibly state a violation of federal antitrust laws.” Op. 26; see Op. 32. With respect to
+Plaintiffs’ roaming-related claim, the Court noted that AT&T Mobility is subject to regulatory
+requirements; “Cellular South has not alleged that AT&T has presently failed to comply” with
+those obligations. Op. 26-27. And the Court noted, in any event, Plaintiffs did not allege any
+basis for a claim that AT&T Mobility has any duty, under the antitrust laws, to provide roaming
+services to the Plaintiffs. See Op. 29-30. With respect to Plaintiffs’ “exclusive dealing”
+allegations, the Court also held that the amended complaint “fail[ed] to allege facts” in support of
+the assertion that any such arrangements could “harm competition.” Op. 32.
+c.
+
+The Court further held that the foregoing deficiencies were also fatal to
+
+Plaintiffs’ claims under Section 2. See Op. 32-39.
+
+3
+
+Case: 3:12-cv-00036-SA-SAA Doc #: 107 Filed: 10/18/12 7 of 16 PageID #: 3449
+
+3.
+
+Plaintiffs filed their motion for leave to file a Second Amended Complaint; the
+
+new allegations in the proffered complaint provide additional detail concerning 3GPP’s
+deliberative process related to the adoption of Band 17 standards. The purpose of the allegations
+appears to be to support Plaintiffs’ argument that (1) despite broad membership in 3GPP, a small
+number of interested parties may influence the consideration and resolution of certain issues, and
+that occurred in this case (Mot. Ex. A ¶¶ 209-237); and (2) Plaintiffs and other similarly situated
+licensees did not pay attention to the proposed creation of Band 17 because they assumed that
+development would continue on existing Band 12 (id. ¶¶ 238-250). But the basis for Plaintiffs’
+standard-setting-related claims has not changed: Plaintiffs concede that “[t]he heart of this
+antitrust claim is and was the allegation that the interference justifications offered by the
+Defendants to justify the creation of Band 17 were simply not true.” Mem. 6 (emphasis added);
+cf. Mot. Ex. A ¶ 257 (acknowledging that “the two types of interference described above as
+justification for the creation of Band 17” are “real” but claiming that they nonetheless “provided
+no justification for the creation of Band 17”).
+ARGUMENT
+Plaintiffs’ proposed amendments make clear that their only remaining antitrust claim is a
+direct attack on the 3GPP’s decision to create a new Band 17. Plaintiffs make no attempt to
+resuscitate claims related to (1) delay in development of Band 12 standards or devices;
+(2) alleged exclusive-dealing arrangements in the future; or (3) alleged future denial of access to
+roaming. Accordingly, those claims remain dismissed.
+The Court should reject Plaintiffs’ effort to revive their claims related to establishment of
+Band 17 because Plaintiffs offer no new factual allegations to support the claim that Defendants
+unlawfully conspired to subvert the 3GPP process. The decision whether to grant a motion for
+
+4
+
+Case: 3:12-cv-00036-SA-SAA Doc #: 107 Filed: 10/18/12 8 of 16 PageID #: 3450
+
+leave to amend rests within the sound discretion of this Court. See United States ex rel. Adrian
+v. Regents of Univ. of California, 363 F.3d 398, 403 (5th Cir. 2004). Such a motion should be
+denied where, as here, the proposed amendment is “futile” because the amended allegations fail
+to state a claim. See In re Enron Corp. Sec., 535 F.3d 325, 334 n.6 (5th Cir. 2008); In re
+Southmark Corp., 88 F.3d 311, 314-15 (5th Cir. 1996); see also Mem. 3 (admitting that leave for
+amend is properly denied when “amendment [is] deemed to be futile”). Denial of leave to
+amend is particularly appropriate in this case because Plaintiffs’ motion is, in substance, a
+motion for reconsideration of the Court’s order of dismissal. Plaintiffs do not argue that they
+have offered any new direct allegations to support the claim that Defendants entered into an
+unlawful agreement, when the alleged agreement was entered into, or who the individuals
+participating were. The proposed Second Amended Complaint contains no allegations regarding
+any specific statements or conduct by AT&T Mobility. Nor do Plaintiffs offer any new factual
+allegations to support their assertion that Defendants illegally subverted the 3GPP standardsetting process. To the contrary, Plaintiffs simply argue what they have argued all along: that
+Defendants’ concerns about interference were pretextual and that this allegation is sufficient to
+state a claim under Section 1 – even though the 3GPP process was followed “to the letter” and
+even though there is no allegation that Defendants ever submitted any false or misleading data to
+the 3GPP. 2 Plaintiffs’ amended allegations continue to ask the Court simply to infer that the
+
+2
+
+Plaintiffs repeatedly claim – as they did in their First Amended Complaint – that “the
+interference claims which were submitted by [Defendants] to justify the creation of Band 17
+were in fact false and pretextual.” Mot. Ex. A ¶ 253. Compare First Am. Compl. ¶ 200 (filed
+June 8, 2012) (ECF No. 75) (“none of the interference claims had any merit”; “all of [them] were
+pretextual”). But Plaintiffs acknowledge that “the two types of interference described above as
+justification for the creation of Band 17” are “real.” Mot. Ex. A ¶ 257. See also id ¶ 255
+(“[T]here is no dispute that a nearby Channel 51 broadcast station will interfere with a wireless
+carrier if it operates on the Lower A Block.”). In fact, there is no allegation at all that any
+defendant ever submitted any falsified or inaccurate data concerning interference, so Plaintiffs’
+5
+
+Case: 3:12-cv-00036-SA-SAA Doc #: 107 Filed: 10/18/12 9 of 16 PageID #: 3451
+
+conspiracy “had to have” occurred. Op. 17-18. This Court has already ruled that Plaintiffs’
+theory is untenable; Plaintiffs offer no reason for the Court to revisit its prior resolution of this
+legal issue. 3
+THE NEW ALLEGATIONS OF THE PROPOSED SECOND AMENDED COMPLAINT
+DO NOT SUPPORT ANY CLAIM THAT DEFENDANTS CONSPIRED
+TO SUBVERT THE 3GPP PROCESS
+1.
+
+Plaintiffs argue that their antitrust claim may proceed because they have
+
+adequately alleged that “the 3GPP deck . . . was stacked” against Cellular South and that the
+“ ‘spirit’ of 3GPP” was “not satisfied by the process that led to the creation of Band 17.” Mem.
+10. Such conclusory assertions cannot supply the factual allegations required to demonstrate an
+agreement in violation of the Sherman Act. 4 As this Court correctly ruled, in the absence of
+allegations that Defendants conspired to subvert the 3GPP process or turn it into a sham, the
+assertion that challenged standards are “anticompetitive” either in their purpose or in effect fails
+to state a claim under Section 1 of the Sherman Act. Op. 21. Despite access to the records of the
+3GPP proceedings, including all of the submissions considered therein – not to mention the
+benefit of extensive Federal Communications Commission proceedings addressing these very
+issues – Plaintiffs not only are forced to concede that the 3GPP process was followed to the
+
+allegation of “falsity” appears to refer to nothing more than a disagreement as to whether the
+interference data provided a justification for the creation of Band 17. That is not a basis for any
+antitrust claim.
+3
+
+Plaintiffs’ assertion (at 12) that there is “uncertainty” concerning pleading requirements after
+Bell Atlantic Corp. v. Twombly, 550 U.S. 544 (2007), is unsupported; more important, it is
+irrelevant because nothing in the proposed Second Amended Complaint “cure[s] the pleading
+defects” of the prior amended complaint, Mem. 13. To the contrary, the proposed pleading
+offers no new factual allegations to support the inference that Defendants illegally conspired.
+4
+
+Not only are these assertions conclusory, but they also contradict the factual allegations of the
+complaint, which acknowledge – as noted below – that substantial players in the wireless
+industry, such as Ericsson, Nortel, and Verizon, did have a meaningful opportunity to raise
+objections to the approval of Band 17 and to oppose that approval if they had concluded the
+action was unjustified. See infra p. 9.
+6
+
+Case: 3:12-cv-00036-SA-SAA Doc #: 107 Filed: 10/18/12 10 of 16 PageID #: 3452
+
+letter, but also fail to identify a single piece of data that any of the Defendants submitted to 3GPP
+that was false or misleading. As this Court correctly noted:
+The highly complex and technical arguments in favor of creating Band Class 17
+were set out in writing for evaluation by experts, and the concerns relating to such
+creation of Band Class 17 were duly contemplated at 3GPP meetings. The 3GPP
+acted by a consensus as it relates to the creation of Band Class 17, and there was
+no objection from any person or entity, including the Plaintiffs and Verizon
+Wireless, who also holds spectrum licenses in the Lower A Block.
+Id. Plaintiffs do not and cannot take issue with this conclusion.
+Plaintiffs mischaracterize the Court’s holding, however, when they claim that the Court
+found that “the action of 3GPP made it implausible that the interference claim was false.” Mem.
+8. As an initial matter, as noted in note 2, supra, Plaintiffs do not allege that Defendants’
+interference claims are false; to the contrary, they affirmatively allege that interference exists.
+See, e.g., Mot. Ex. A ¶¶ 255, 257. Rather, they argue that interference concerns did not justify
+the creation of a separate Band Class because such interference would not affect carriers
+operating in certain portions of Band 12. And the Court never questioned that assertion; that is,
+the Court did not reject the technical validity of Plaintiffs’ arguments about the necessity for the
+creation of a separate Band 17. See Op. 21. The Court nevertheless correctly ruled that such
+disputes about the technical merits of a standard adopted through a bona fide standard-setting
+process do not provide the basis for an antitrust claim – and that does not change because a
+plaintiff accuses the participants in the standard-setting process of anticompetitive motives.
+2.
+
+Plaintiffs argue that the allegations of the proffered Second Amended Complaint
+
+give greater force to their argument that the 3GPP process described in the complaint was
+comparable to the actions of the defendants in Allied Tube. Plaintiffs have alleged nothing of the
+
+7
+
+Case: 3:12-cv-00036-SA-SAA Doc #: 107 Filed: 10/18/12 11 of 16 PageID #: 3453
+
+kind. 5 As this Court explained, in Allied Tube, the defendants conspired to block approval of the
+plaintiff ’s product by packing a meeting with voters who had no professional interest in the
+standards at issue. See Op. 20. It was thus an “egregious case where it [was] clear that the
+exclusion can have no other purpose than facilitation of collusion or the exclusion of a superior
+product.” XIII Herbert Hovenkamp, Antitrust Law ¶ 2232b, at 415 (2d ed. 2005). As this Court
+explained, Allied Tube involved a standard-setting process “that was biased through the use of
+improper and unfair practices and procedures.” Op. 21 (citing Clamp-All Corp. v. Cast Iron Soil
+Pipe Inst., 851 F.2d 478, 488 (1st Cir. 1988)). Nothing comparable is alleged here; to the
+contrary, all the participants in the standard-setting process were legitimate parties with an
+undisputed interest in the standards governing wireless spectrum.
+Plaintiffs argue that it is enough for them to assert that AT&T Mobility “took advantage
+of an existing forum at which its friends were present and in control,” to bring their allegations
+within Allied Tube. Mem. 11. But the same type of conclusory allegation can be put forward
+with respect to any standard-setting activity. It is always possible for a plaintiff to assert that
+interested members of a standard-setting organization took a more vigorous role in deliberations
+than other members with less at stake; that non-participants did not appreciate the importance of
+an issue; or that the organization failed to conduct an adequate investigation. If such assertions
+were sufficient to subject every industry standard to antitrust scrutiny, standard-setting would
+grind to a halt. See Op. 21-22 (citing Golden Bridge Tech., Inc. v. Motorola, Inc., 547 F.3d 266,
+273 (5th Cir. 2008)).
+
+5
+
+This Court has already considered and rejected Plaintiffs’ arguments based on Allied Tube. See
+Op. 20-21. Plaintiffs nevertheless devote a substantial portion of their memorandum re-arguing
+the applicability of that precedent, see Mem. 8-11, illustrating that their motion is an improper
+motion for reconsideration that should be rejected for that reason as well.
+8
+
+Case: 3:12-cv-00036-SA-SAA Doc #: 107 Filed: 10/18/12 12 of 16 PageID #: 3454
+
+Moreover, the factual allegations of the complaint provide no support for Plaintiffs’
+characterization of the process that the 3GPP followed in this case: as alleged in the complaint,
+several companies (not just Defendants) actively participated in the deliberations that led to the
+creation of Band 17, and the 3GPP acted in a manner consistent with the technical
+recommendations submitted. See Mot. Ex. A ¶¶ 225-229 (acknowledging, but downplaying,
+participation by Ericsson, Nortel, and T-Mobile). Notwithstanding Plaintiffs’ readiness to accuse
+Defendants of having made “false” claims, they do not allege that anything in the technical
+papers that Motorola and AT&T Mobility submitted to the 3GPP was false. Plaintiffs concede
+that Verizon Wireless – AT&T’s largest competitor – participated in the 3GPP process; Verizon
+had a critical interest in the standards for the Lower A Block because it is a major owner of that
+spectrum. See id. ¶ 234. While Plaintiffs assert that Verizon was indifferent to standard-setting
+for the Lower A Block, see id., that assertion is implausible: even if Verizon had no immediate
+plans to exploit that spectrum, it would be economically irrational for Verizon to fail to protect
+the economic value of spectrum for which it had paid hundreds of millions of dollars. And
+though Plaintiffs fault Defendants for failing to give them better “notice” of contemplated 3GPP
+action, id. ¶ 242, the complaint does not contest that 3GPP agendas and planned actions were
+publicly announced. Plaintiffs may regret that they did not take a more active role in the 3GPP
+process, but that does not give them an antitrust claim.
+The standards governing antitrust challenges to standard-setting activity reflect the procompetitive importance of legitimate standard-setting, which necessarily involves concerted
+action and which virtually always favors some interests over others. See AT&T Mobility Mem.
+13-16 (filed May 23, 2012) (ECF No. 66). Absent a factual basis for the claim that standardsetting was turned into a sham designed to exclude competitors, such activity is lawful. Leaving
+
+9
+
+Case: 3:12-cv-00036-SA-SAA Doc #: 107 Filed: 10/18/12 13 of 16 PageID #: 3455
+
+conclusory rhetoric to one side, Plaintiffs allege nothing but a disagreement with the consensus
+judgment of the 3GPP, reached after legitimate deliberations that followed the organization’s
+lawful procedures “to the letter.”
+3.
+
+Plaintiffs’ reliance on the district court’s denial of the defendants’ motion to
+
+dismiss in TruePosition, Inc. v. LM Ericsson Telephone Co., Civil Action No. 11-4574, 2012
+WL 3584626 (E.D. Pa. Aug. 21, 2012) – which the Court already considered in its previous
+order 6 – does not support Plaintiffs’ effort to allege a violation of Section 1. The TruePosition
+court found that the plaintiff had alleged sufficient facts to support the claim that the defendants
+had agreed to manipulate the 3GPP standard-setting process by using positions of power within
+3GPP to circumvent 3GPP rules and by relying on “false” data to prevent or delay consideration
+of a rival technology. See id. at *10-*20 (reviewing allegations related to improper manipulation
+of 3GPP process), *22 (summarizing detailed allegations). Here, Plaintiffs have failed to allege
+any such improper manipulation and subversion of the 3GPP process. See Op. 21-22.
+
+6
+
+See Op. 2 n.2. Plaintiffs cite the district court’s denial of the defendants’ motion for
+reconsideration (decided after this Court ruled) but that brief memorandum contains no
+additional substantive analysis of the complaint at issue there.
+10
+
+Case: 3:12-cv-00036-SA-SAA Doc #: 107 Filed: 10/18/12 14 of 16 PageID #: 3456
+
+CONCLUSION
+For the foregoing reasons, the Court should deny the motion.
+Dated: October 18, 2012
+
+Respectfully submitted,
+AT&T MOBILITY LLC
+/s/ David W. Upchurch
+DAVID W. UPCHURCH, MSB #10558
+HOLLAND, RAY, UPCHURCH & HILLEN, P.A.
+P.O. DRAWER 409
+TUPELO, MISSISSIPPI 38802-0409
+TELEPHONE: (662) 842-1721
+FACSMILE: (662) 844-6413
+dwu@hruhpa.com
+Michael K. Kellogg (Admitted Pro Hac Vice)
+Aaron M. Panner (Admitted Pro Hac Vice)
+William J. Rinner (Admitted Pro Hac Vice)
+Kellogg, Huber, Hansen, Todd,
+Evans & Figel, P.L.L.C.
+1615 M Street, N.W., Suite 400
+Washington, D.C. 20036
+Telephone: (202) 326-7921
+mkellogg@khhte.com
+apanner@khhte.com
+wrinner@khhte.com
+
+11
+
+Case: 3:12-cv-00036-SA-SAA Doc #: 107 Filed: 10/18/12 15 of 16 PageID #: 3457
+
+CERTIFICATE OF SERVICE
+I, David W. Upchurch, hereby certify that I have this 18th day of October 2012 filed the
+foregoing document with the Clerk of the Court using the CM/ECF system, which will send
+electronic notification of such filing to the following registered participants:
+Alan W. Perry, Esq., MSB #4127
+Daniel J. Mulholland, Esq., #3643
+Walter H. Boone, Esq., #8651
+Forman, Perry, Watkins, Krutz & Tardy, LLP
+200 S. Lamar Street, Suite 100
+Jackson, Mississippi 39201-4099
+Tel: (601) 969-7833
+Fax: (601) 960-8613
+aperry@fpwk.com
+Charles L. McBride, Esq., MSB #8995
+M. Patrick McDowell, Esq., MSB #9746
+Joseph A. Sclafani, Esq., MSB #99670
+Brian C. Kimball, Esq., MSB #100787
+Brunini, Grantham, Grower & Hewes, PLLC
+190 East Capitol Street, Suite 100
+Jackson, Mississippi 39201-2151
+Tel: (601) 960-6891
+Fax: (601) 960-6902
+cmcbride@brunini.com
+Walter T. Johnson, Esq., MSB #8712
+Watkins & Eager PLLC
+400 East Capitol Street, Suite 300 (39201)
+P.O. Box 650
+Jackson, Mississippi 39205
+Tel: (601) 965-1900
+Fax: (601) 965-1901
+wjohnson@watkineager.com
+Counsel for Plaintiffs
+Corr Wireless Communications, LLC,
+Cellular South, Inc., and
+Cellular South Licenses, LLC
+
+Case: 3:12-cv-00036-SA-SAA Doc #: 107 Filed: 10/18/12 16 of 16 PageID #: 3458
+
+L.F. Sams, Jr., Esq.
+Otis R. Tims, Esq.
+Margaret Sams Gratz, Esq.
+Mitchell, McNutt & Sams, P.A.
+P.O. Box 7120
+Tupelo, Mississippi 38802-7120
+Tel: (662) 842-3871
+Fax: (662) 842-8450
+ssams@mitchellmcnutt.com
+otims@mitchellmcnutt.com
+mgratz@mitchellmcnutt.com
+Roger G. Brooks, Esq.
+Yonatan Even, Esq.
+Cravath, Swaine & Moore, LLP
+Worldwide Plaza
+825 Eighth Avenue
+New York, New York 10019
+Tel: (212) 474-1000
+Fax: (212) 474-3700
+rgbrooks@cravath.com
+yeven@cravath.com
+Counsel for Defendant Qualcomm Inc.
+Jim M. Greenlee, Esq.
+Holcomb, Dunbar, Watts, Best, Masters & Golmon, P.A.
+400 South Lamar Boulevard, Suite A
+P.O. Drawer 707
+Oxford, Mississippi 38655
+jgreenlee@holcombdunbar.com
+Tel: (662) 234-8775
+Fax: (662) 238-7552
+John S. Gibson, Esq.
+Chahira Solh, Esq.
+Crowell & Moring, LLP
+3 Park Plaza, 20th Floor
+Irvine, California 92614-8505
+Tel: (949) 263-8400
+Fax: (949) 263-8414
+jgibson@crowell.com
+csolh@crowell.com
+Counsel for Defendant Motorola Solutions, Inc.
+/s/ David W. Upchurch
+DAVID W. UPCHURCH
+
+2
+
+

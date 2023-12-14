@@ -1,0 +1,880 @@
+Case 1:11-cv-10128-RGS Document 109 Filed 08/24/11 Page 1 of 25
+
+UNITED STATES DISTRICT COURT
+DISTRICT OF MASSACHUSETTS
+--------------------------------- x
+COLD SPRING HARBOR LABORATORY,
+
+:
+CIVIL ACTION NO. 11-CV-10128-RGS
+
+Plaintiff,
+- against ROPES & GRAY LLP and
+MATTHEW P. VINCENT,
+
+:
+:
+:
+
+:
+Defendants.
+--------------------------------- x
+
+DEFENDANT ROPES & GRAY LLP’S MEMORANDUM OF LAW
+IN SUPPORT OF ITS MOTION TO DISMISS PLAINTIFF’S FIRST AMENDED
+COMPLAINT
+
+PATTERSON BELKNAP WEBB & TYLER LLP
+Sarah Levin Goodstine (BBO # 664112)
+Philip R. Forlenza, pro hac vice
+Nicolas Commandeur, pro hac vice
+Irena Royzman, pro hac vice
+1133 Avenue of the Americas
+New York, New York 10036
+Telephone: (212) 336-2000
+Fax: (212) 336-2222
+Attorneys for Defendant Ropes & Gray LLP
+
+Case 1:11-cv-10128-RGS Document 109 Filed 08/24/11 Page 2 of 25
+TABLE OF CONTENTS
+Page
+PRELIMINARY STATEMENT .....................................................................................................1
+FACTUAL BACKGROUND..........................................................................................................3
+A.
+
+Dr. Hannon’s Alleged Invention and the Prosecution of Patents ............................3
+
+B.
+
+The PTO Rejected Hannon’s Applications on Multiple Bases................................5
+
+C.
+
+The PTO Has Consistently Interpreted the Fire Patent in
+Rejecting the Hannon Applications and Applications of Other Scientists. .............6
+
+D.
+
+Allegations Regarding Defendants’ Representation of Other Clients .....................7
+
+E.
+
+1.
+
+Allegations Regarding RXi..........................................................................8
+
+2.
+
+Allegations Regarding Insert Therapeutics..................................................8
+
+Allegations Regarding Mr. Vincent’s Termination .................................................9
+
+ARGUMENT.................................................................................................................................10
+I.
+
+The Amended Complaint Should Be Dismissed Pursuant To Rule 12(b)(6). ..................10
+A.
+
+The Amended Complaint Fails to State a Claim for Malpractice..........................10
+
+B.
+
+The Breach of Fiduciary Duty Claim Fails............................................................13
+1.
+
+2.
+C.
+
+D.
+
+CSHL Fails to Allege a Conflict
+From the Representation of Other Clients. ................................................14
+a.
+
+Allegations Regarding RXi............................................................14
+
+b.
+
+Allegations Regarding Insert Therapeutics and Calando...............15
+
+Failure to Allege Damages.........................................................................16
+
+The Fraud Claim Should Be Dismissed.................................................................17
+1.
+
+Alleged Failure to Disclose Copying.........................................................18
+
+2.
+
+Allegations Regarding Invoices from Mr. Vincent’s Company ................18
+
+The Negligence Claim Should Be Dismissed........................................................19
+
+CONCLUSION..............................................................................................................................20
+
+i
+
+Case 1:11-cv-10128-RGS Document 109 Filed 08/24/11 Page 3 of 25
+TABLE OF AUTHORITIES
+Page(s)
+CASES
+Amadasu v. Ngati,
+No. 05-CV-2585(JFB)(LB), 2006 U.S. Dist. LEXIS 19654
+(E.D.N.Y. March 27, 2006) .....................................................................................................18
+AmBase Corp. v. Davis Polk & Wardwell,
+8 N.Y.3d 428 (N.Y. 2007) (New York law) ............................................................................11
+Ashcroft v. Iqbal,
+129 S. Ct. 1937 (2009)...........................................................................................10, 13, 16, 17
+Bell Atl. Corp. v. Twombly,
+550 U.S. 544 (2007)...............................................................................................10, 13, 16, 17
+Cannon v. Sears, Roebuck & Co.,
+374 Mass. 739 (Mass. 1978) ....................................................................................................19
+Colucci v. Rosen, Goldberg, Slavet, Levenson & Wekstein, P.C.,
+25 Mass.App.Ct. 107 (Mass. App. Ct. 1987)...........................................................................11
+Crigger v. Fahnestock and Co., Inc.,
+443 F.3d 230 (2d Cir. 2006).....................................................................................................18
+Ehrens v. Rubin, Weisman, Colasanti, Kajko & Stein, LLP,
+24 Mass. L. Rptr. 327, 2008 WL 2895900 (Mass. Super. July 1, 2008). ................................12
+Fiduciary Trust Co. v. Bingham, Dana & Gould,
+58 Mass. App. Ct. 245 (Mass. App. Ct. 2003).........................................................................12
+Flutie Bros. LLC v. Hayes,
+No. 04 CIV. 4187, 2006 WL 1379594 (S.D.N.Y. May 18, 2006)...........................................12
+Glidden v. Maglio,
+430 Mass. 694 (Mass. 2000) ....................................................................................................19
+Hardcastle v. Sebelius,
+No. 09-40014-GAO, 2010 WL 2598632 (D. Mass. June 25, 2010)........................................20
+Hayes v. Hayes,
+No. 03-cv-719, 2007 WL 3015118 (Mass. Super. Ct. May 22, 2007),
+aff’d by, 72 Mass. App. Ct. 1111 (Mass. App. 2008) ........................................................18, 19
+Immunocept, LLC v. Fulbright & Jaworski, LLP,
+504 F.3d 1281 (Fed. Cir. 2007)................................................................................................11
+
+ii
+
+Case 1:11-cv-10128-RGS Document 109 Filed 08/24/11 Page 4 of 25
+TABLE OF AUTHORITIES
+(continued)
+Page(s)
+Johnson v. Nextel Commc’ns., Inc.,
+No. 09-CV-8473, 2009 WL 928131 (S.D.N.Y. Mar. 31 2009) ...............................................13
+Kaempe v. Myers,
+367 F.3d 958 (D.C. Cir. 2004) ...................................................................................................3
+LaBelle v. McGonagle,
+No. 07-CV-12097 (GAO), 2008 WL 3842998 (D. Mass. Aug. 15, 2008) ..............................11
+Law Practice Mgmt. Consultants LLC v. M&A Counselors & Fiduciaries, LLC,
+599 F. Supp. 2d 355 (E.D.N.Y.2009) ......................................................................................13
+Lefkowitz v. Bank of New York,
+676 F. Supp. 2d 229 (S.D.N.Y. 2009)......................................................................................14
+Martin v. Applied Cellular Tech.,
+284 F.3d 1 (1st Cir. 2002)..........................................................................................................3
+McElroy v. Robinson & Cole LLP,
+No. 03-P-273, 2004 WL 1292042 (Mass. App. Ct. June 10, 2004) ..................................13, 17
+Nazarro v. Balber,
+No. 05-CV-2172, 2005 U.S. Dist. LEXIS 20673 (S.D.N.Y. Sept. 20, 2005)..........................13
+Niehoff v. Maynard & Long Ridge Associates L.P.,
+299 F.3d 41 (1st Cir. 2002)......................................................................................................11
+Qestec, Inc. v. Krummenacker,
+367 F. Supp. 2d 89 (D. Mass. 2005) ........................................................................................14
+Robinson v. Bodoff,
+382 F. Supp. 2d 229 (D. Mass. 2005) ......................................................................................16
+Seippel v. Jenkens & Gilchrist, P.C.,
+341 F. Supp. 2d 363 (S.D.N.Y. 2004)......................................................................................14
+Sentinel Prods. Corp. v. Platt,
+No. 98-CV-11143 (GAO), 2002 WL 1613713 (D. Mass. July 22, 2002) ...................11, 16, 19
+Taylor v. American Chemistry Counsel,
+576 F.3d 16 (1st Cir. 2009)......................................................................................................18
+Ulico Casualty Co. v. Wilson,
+865 N.Y.S.2d 14 (N.Y. 1st Dep’t 2008) ..................................................................................17
+
+iii
+
+Case 1:11-cv-10128-RGS Document 109 Filed 08/24/11 Page 5 of 25
+TABLE OF AUTHORITIES
+(continued)
+Page(s)
+Unger v. Paul Weiss Rifkind Wharton & Garrison,
+696 N.Y.S. 2d 36 (N.Y. 1st Dep’t. 1999) ................................................................................17
+United States ex rel. Saltzman v. Textron Sys. Corp.,
+No. 09-11985-RGS, 2011 WL 2414207 (D. Mass. June 9, 2011)...........................................10
+Wehringer v. Powers & Hall, P.C.,
+874 F.Supp. 425 (D. Mass. 1995) ............................................................................................13
+
+OTHER AUTHORITIES
+Fed. R. Civ. P. 9(b) ........................................................................................................................18
+Fed. R. Civ. P. 12(b)(6)..............................................................................................................1, 10
+DAVID PRESSMAN, PATENT IT YOURSELF 181 (13th ed. 2008) ........................................................4
+http://med.stanford.edu/featured_topics/nobel/fire/.....................................................................3, 4
+
+iv
+
+Case 1:11-cv-10128-RGS Document 109 Filed 08/24/11 Page 6 of 25
+
+Defendant Ropes & Gray LLP (“R&G”) respectfully submits this memorandum
+of law in support of its motion to dismiss the Amended Complaint of Plaintiff Cold Spring
+Harbor Laboratory (“CSHL”) pursuant to Fed. R. Civ. P. 12(b)(6).
+PRELIMINARY STATEMENT
+CSHL has sued R&G claiming that the firm and one of its former partners,
+Matthew Vincent, improperly described an alleged invention of CSHL scientists led by Dr.
+Gregory Hannon in certain patent applications (the “Hannon Applications”), and that the United
+States Patent and Trademark Office (“PTO”) rejected the claims in those applications as a result.
+The core premise of CSHL’s legal malpractice claim is not only speculative and implausible on
+its face, it is also flatly contradicted by the indisputable documentary record.
+CSHL contends that, unbeknownst to Dr. Hannon and CSHL, Mr. Vincent used
+text copied from the patent application of another scientist, Dr. Andrew Fire (the “Fire
+Application”), to describe Dr. Hannon’s alleged invention. CSHL further alleges that this
+copying led the PTO to conclude that Dr. Hannon’s alleged invention was indistinguishable from
+Dr. Fire’s, and therefore unsuitable for patent protection.
+But what is critical to this motion, and dooms CSHL’s claim, is what CSHL
+conspicuously omits. Whereas the Amended Complaint focuses exclusively on the PTO’s
+reliance upon Fire, the decisions rejecting the various Hannon Applications – the same rejections
+that CSHL cites in its Amended Complaint – rejected the proposed claims not only based on
+Fire, but also on the separate and independent grounds that Dr. Hannon’s alleged invention was
+not patentable in view of earlier disclosures by other researchers in addition to Dr. Fire. The
+Amended Complaint fails even to mention the PTO’s reliance upon the disclosures of these other
+scientists. Moreover, the Amended Complaint does not even suggest, much less plausibly allege,
+
+1
+
+Case 1:11-cv-10128-RGS Document 109 Filed 08/24/11 Page 7 of 25
+
+that anything Mr. Vincent did led the PTO to conclude that the prior disclosures of these other
+scientists provided independent bases for rejecting the claims sought in the Hannon Applications.
+This failure alone means that CSHL cannot meet the causation elements of its malpractice claim.
+Even with respect to the PTO’s reliance upon Fire in denying the Hannon
+Applications, which is the focus of the Amended Complaint, CSHL’s malpractice claim requires
+the finder of fact to determine, without any support in the Amended Complaint, (1) that the PTO
+concluded erroneously that Fire discloses the alleged invention for which CSHL sought patent
+protection; and (2) that Mr. Vincent’s conduct is what caused that supposed error. Such a
+considerable and purely speculative leap is incompatible with a claim for legal malpractice,
+which requires but-for causation. Indeed, the PTO’s understanding of Fire cannot have been
+caused by Mr. Vincent’s actions because the PTO has applied the same understanding of Fire in
+rejecting patent applications by other scientists who were represented by different counsel.
+CSHL’s remaining claims should also be dismissed. CSHL’s allegations
+regarding a supposed conflict-of-interest vis-à-vis Mr. Vincent’s representation of two
+companies, Insert Therapeutics, Inc. (“Insert Therapeutics”) and RXi Pharmaceuticals
+Corporation (“RXi”) do not state a claim for breach of fiduciary duty.1 Once again, CSHL’s
+claims are doomed by what it fails to allege: that R&G’s representation of these other entities
+was in conflict with its representation of CSHL or that these representations caused any harm to
+CSHL. Similarly deficient is CSHL’s fraud claim regarding payments of fees to a patent-search
+company owned by Mr. Vincent called IP Resource Company, as the pleading nowhere alleges
+that CSHL has not been reimbursed for those fees Because it suffered no damage, it has no
+claim. The Amended Complaint should be dismissed.
+
+1
+
+The allegations involving Insert Therapeutics also relate to its successor, Arrowhead Research
+Corporation, and its affiliate, Calando Pharmaceuticals, Inc. (“Calando”).
+
+2
+
+Case 1:11-cv-10128-RGS Document 109 Filed 08/24/11 Page 8 of 25
+
+FACTUAL BACKGROUND
+The facts below derive from the Amended Complaint, documents referenced
+therein, and matters of public record of which this Court may take judicial notice (including PTO
+filings). See Kaempe v. Myers, 367 F.3d 958, 965 (D.C. Cir. 2004) (“documents recorded by the
+PTO … are public records subject to judicial notice on a motion to dismiss.”)2
+A.
+
+Dr. Hannon’s Alleged Invention and the Prosecution of Patents
+CSHL sought to obtain patent protection for Dr. Hannon’s work in the field of
+
+RNA interference (“RNAi”). (D.I. 107 ¶ 7.) In general terms, RNAi refers to the cellular
+process by which double-stranded RNA (“dsRNA”) are used to regulate “expression of a cellular
+gene.” (Id.) The process is of interest to researchers working to suppress the expression of
+certain undesirable target genes, such as those associated with cancer. (Id.) The study of RNAi
+is a crowded field in which many prominent scientists are working and making various advances.
+For example, Dr. Andrew Fire – the scientist whose patent served as one of the bases for the
+denial of the Hannon Applications – received the 2006 Nobel Prize in Medicine for his
+discoveries in the field of RNAi. See http://med.stanford.edu/featured_topics/nobel/fire/.
+According to the Amended Complaint, Dr. Hannon’s alleged invention consisted
+of turning off target genes (via RNAi) in mammalian cells through the use of so-called “short
+hairpin” RNAs (“shRNAs”). (D.I. 107 ¶ 7.) Mr. Vincent and R&G served as outside patent
+counsel in the prosecution of the Hannon Applications. (Id. ¶¶ 22, 23.)
+As set forth in the Amended Complaint, the prosecution of the patent applications
+relating to Dr. Hannon’s alleged invention has been a long process, with much back-and-forth
+between Mr. Vincent and representatives of CSHL, on the one hand, and the PTO, on the other.
+2
+
+Although R&G disputes many of the facts alleged in the Amended Complaint, they are accepted,
+arguendo, as true for purposes of this motion. See Martin v. Applied Cellular Tech., 284 F.3d 1, 5-6 (1st
+Cir. 2002).
+
+3
+
+Case 1:11-cv-10128-RGS Document 109 Filed 08/24/11 Page 9 of 25
+
+Dr. Hannon “regularly communicated” with Mr. Vincent regarding the applications (D.I. 107 ¶
+31) and he reviewed each of the patent applications before it was filed. Indeed, Dr. Hannon
+(along with his four co-inventors) signed declarations under oath that were submitted to the PTO
+confirming that each application accurately disclosed the work for which they were seeking
+patent protection. (Declaration of Philip R. Forlenza (“Forlenza Decl.”), Exhs. A-E.)
+The crux of CSHL’s malpractice claim is its allegation that Mr. Vincent
+improperly described Dr. Hannon’s work in the early patent applications by copying text from
+the Fire Application and then subsequently relied upon that allegedly improper description. (D.I.
+107 ¶ 27.) Significantly, CSHL does not contend that there is anything inherently wrong with
+copying text into a patent application.3 Rather, CSHL’s claim is that by copying text from the
+Fire Application, Mr. Vincent “implied that Dr. Hannon’s short hairpin RNA technology was
+either something that Dr. Fire invented or was suggested by the Fire Application.” (Id. ¶ 10)
+(emphasis added). CSHL asserts that this “unfairly prejudiced [the Hannon Applications] by the
+erroneous perception that the technology invented by Dr. Hannon is not sufficiently unique from
+what the Fire application describes…” (Id. ¶ 12) (emphasis added). Tellingly, CSHL never
+alleges how Mr. Vincent should have otherwise described the alleged invention, besides
+repeating the vague mantra that he should have used “original text accurately describing [Dr.
+Hannon’s work].” (Id. ¶ 30.)4
+
+3
+
+To the contrary, such copying is accepted practice. See DAVID PRESSMAN, PATENT IT YOURSELF 181
+(13th ed. 2008) (sold in the PTO’s store and relied on by many practitioners) (“If you see any prior-art
+patent whose specification contains words, descriptions, and/or drawing figures that you can use in your
+application, feel free to plagiarize! Patents are not covered by copyright and it’s considered perfectly
+legal and ethical to make use of them.”).
+
+4
+
+CSHL continues to prosecute these applications through successor counsel at Wilmer Cutler Pickering
+Hale and Dorr, LLP (D.I. 107 ¶ 59, supra at p. 6 and at p. 6 n.2), and has recently obtained a patent for
+one of its applications drafted by Mr. Vincent, as well as an allowance of one of the other applications.
+See U.S. Patent No. 7,732,417 B2; D.I. 100. As acknowledged by CSHL, these recently allowed claims
+
+4
+
+Case 1:11-cv-10128-RGS Document 109 Filed 08/24/11 Page 10 of 25
+
+B.
+
+The PTO Rejected Hannon’s Applications on Multiple Bases.
+Although the PTO initially allowed one of the Hannon Applications, the PTO
+
+later withdrew the allowance “due to a mistake by the [PTO]” and rejected the claims. (D.I. 107
+¶¶ 38-39; Forlenza Decl. Exh. F at 2). The PTO provided several bases for its rejection. In
+addition to the Fire reference that is the sole focus of CSHL’s Amended Complaint, the PTO
+determined that a published patent application describing the work of Dr. Yin-Xiang Li, et al.,
+was an anticipatory reference (i.e., that it disclosed all of the subject matter in Dr. Hannon’s
+sought-after claims) and that a patent issued to Dr. Michael Graham, et al., rendered Dr.
+Hannon's claims obvious. (Id. at pp. 8-12; Forlenza Decl. Exh. H at pp. 6-7, 13-15; Forlenza
+Decl. Exh. G at 7-8, 14-16.) The PTO found that the disclosures of each of these three teams of
+scientists (Fire et al., Li et al., and Graham et al.) separately and independently pre-dated Dr.
+Hannon’s supposed invention – i.e., the expression of short hairpin, double-stranded RNAs in
+mammalian cells to effect RNAi (D.I. 107 ¶¶ 7, 29-30) – and rendered it unpatentable. For
+example, with respect to Dr. Li, the PTO noted in rejecting the Hannon Application:
+Li et al disclose a method for attenuating the expression of a target
+gene in a cell comprising introducing into the cell a double
+stranded RNA in an amount sufficient to attenuate expression of
+the target gene… The cell can be a mammalian cell including a
+human cell. … The double stranded RNA can be formed from one
+strand to take the form of a self-complementary hairpin-type
+molecule … at least 25 (which includes 25) bases in length [i.e., a
+short hairpin].
+(Forlenza Decl. Exh. G at pp. 7-8 (emphasis added); see also Forlenza Decl. Exh. H at p. 6;
+Forlenza Decl. Exh. F at p. 8.) CSHL does not suggest that Mr. Vincent’s alleged malpractice
+did anything to contribute to the PTO’s determination that the disclosures of these other
+scientists besides Dr. Fire precluded the claims in the Hannon Applications.
+(for use of a library of hairpins) are different from and narrower than the claims at issue in the Amended
+Complaint. (D.I. 100 at 2.)
+
+5
+
+Case 1:11-cv-10128-RGS Document 109 Filed 08/24/11 Page 11 of 25
+
+Subsequent rejections by the PTO of the Hannon Applications – rejections of
+separate applications and/or of distinct claims (including those asserted in attempts to overcome
+prior rejections) – have similarly been based upon multiple examples of preclusive disclosures
+by other scientists. For example, the most recent rejection from July 2010 of the ‘086
+application relies on another independent ground for rejecting the patent claims sought by CSHL.
+(See Forlenza Decl. Exh. I at pp. 8-9 (maintaining rejection of the claims based on Kruetzer,
+Dietz, and Kingsman).) The PTO determined that the work of these other scientists made
+obvious the claims sought by CSHL. (Id.)
+C.
+
+The PTO Has Consistently Interpreted the Fire Patent in
+Rejecting the Hannon Applications and Applications of Other
+Scientists.
+In addition, the Amended Complaint does not provide a factual basis for CSHL’s
+
+speculation that the PTO’s interpretation of Fire (i.e., that it disclosed the invention for which Dr.
+Hannon sought claims) was caused by Mr. Vincent’s actions. Indeed, the PTO has consistently
+interpreted the disclosures in the Fire patent in the same fashion when rejecting both (i) the
+Hannon Applications; and (ii) applications by other scientists who were not represented by Mr.
+Vincent or by R&G and whose applications did not copy text from Fire.
+First, the PTO repeatedly emphasized that Fire pre-dates Dr. Hannon’s work and
+disclosed the claims for which CSHL sought patent protection during the time R&G prosecuted
+the Hannon Applications. The PTO rejected the argument made by CSHL in prosecuting the
+patent applications – reiterated by CSHL in its Amended Complaint (D.I. 107 ¶¶ 20, 32, 44) –
+that Dr. Fire only disclosed long double-stranded RNA molecules, not the short hairpins that are
+allegedly the focus of Dr. Hannon’s work. Instead, the examiner stated:
+Fire et al. explicitly discloses methods of attenuating expression of
+a target gene in cells wherein the cells are mammalian cells,
+discloses a dsRNA wherein the dsRNA can be formed by a self6
+
+Case 1:11-cv-10128-RGS Document 109 Filed 08/24/11 Page 12 of 25
+
+complementary single stranded RNA i.e. a hairpin RNA, discloses
+each strand of the hairpin RNA can be at least 25 nucleotides in
+length i.e. a short hairpin RNA ….
+(Forlenza Decl. Exh. J at pp. 15-16 (emphasis added); see also Forlenza Decl. Exh. H at pp. 3-5;
+Forlenza Decl. Exh. G at pp. 5-6.)
+Second, the PTO has interpreted Dr. Fire’s disclosure in the same way in rejecting
+patent applications filed by other influential scientists in the field of RNAi, including those of
+Dr. Graham and of Dr. David Engelke (of the University of Michigan) and their respective coinventors. (Forlenza Decl. Exh. K at pp. 4-5; Forlenza Decl. Exh. L at pp. 22-23, 27-28.) The
+PTO rejected the applications by these other scientists as unpatentable in view of Fire
+notwithstanding the fact that they were drafted and prosecuted by attorneys other than Mr.
+Vincent and did not copy substantial text from Fire. Id.
+For example, in rejecting the patent claims of Dr. Engelke’s team, the PTO
+interpreted Fire just as it did in rejecting the Hannon Applications:
+Fire et al. teach methods of RNA interference in cells by
+administering compositions comprising double stranded RNAs.
+These dsRNAs are complementary to a target gene and … are
+taught as formed from a single self complementary strand [i.e., a
+hairpin]. Fire et al. teach … that the dsRNA can be 25 base pairs
+in length [i.e., a short hairpin]. Fire et al. teach … that the
+dsRNA of their invention can be made in cells, including
+mammalian and human cells…
+(Forlenza Decl. Exh. K at pp. 4-5 (emphasis added).)
+D.
+
+Allegations Regarding Defendants’ Representation of Other Clients
+CSHL’s Amended Complaint alleges that Defendants breached a fiduciary duty
+
+owed to CSHL and committed negligence by representing two other companies, Insert
+Therapeutics (including its successor Arrowhead Research Corporation and affiliate Calando)
+and RXi Pharmaceuticals Corporation. (D.I. 107 ¶¶ 88-101, 113-120). As explained below,
+
+7
+
+Case 1:11-cv-10128-RGS Document 109 Filed 08/24/11 Page 13 of 25
+
+CSHL fails to allege that either of these representations constituted a conflict, or that they
+resulted in damages to CSHL.
+1.
+
+Allegations Regarding RXi
+
+The sum total of the Amended Complaint’s allegations concerning RXi are as
+follows: R&G was engaged by RXi by February 2007 (D.I. 107 ¶ 71); RXi and CSHL entered
+into a licensing agreement in March 2007 (Id.); Mr. Vincent contacted CSHL’s general counsel,
+John Maroney, in October 2007 to request a waiver of conflicts for R&G to represent RXi as
+counsel with respect to corporate matters; and CSHL was not aware that R&G was also
+prosecuting patent applications for RXi. (D.I. 107 ¶ 72.) Notably, the Amended Complaint does
+not allege: that R&G represented either RXi or CSHL in connection with the negotiation or
+preparation of the parties’ license agreement; or that RXi’s patent applications competed in the
+same field as any patent applications filed by CSHL; or that RXi’s interests in any way
+conflicted with CSHL’s.
+2.
+
+Allegations Regarding Insert Therapeutics
+
+The Amended Complaint alleges that Mr. Vincent represented another
+biotechnology company, Insert Therapeutics, which filed a patent application related to RNAi six
+months after Mr. Vincent filed one of the Hannon Applications. (D.I. 107 ¶¶ 61-62.) While
+CSHL baldly alleges that Mr. Vincent “co-opted” CSHL’s alleged inventions by including them
+in the Insert Therapeutics application (the “Insert Application”), that allegation is refuted by the
+face of the Insert Application, in which the Hannon Applications are cited in a background
+description for Insert Therapeutics’ claims that are different than the technologies described by
+the Hannon Applications. Supra p. 15 (Comparing Forlenza Exh. M. at pp. 2-3 to D.I. 107 ¶¶ 78). It is further belied by CSHL’s allegation that Mr. Vincent proposed to Dr. Hannon that
+
+8
+
+Case 1:11-cv-10128-RGS Document 109 Filed 08/24/11 Page 14 of 25
+
+“CSHL and Insert combine patent portfolios” (D.I. 107 ¶ 63.), a proposal that Mr. Vincent never
+would have made had he in fact co-opted Dr. Hannon’s work for the Insert Application.
+CSHL attempts to buttress its insufficient allegations regarding Insert
+Therapeutics by describing the licensing of the Insert Application to Calando,5 a company in
+which Mr. Vincent had an ownership interest that CSHL alleges was not disclosed to its
+“attorneys or management.” (Id. ¶ 68.) CSHL does not, and cannot, allege that this relationship
+conflicted with CSHL’s interests, or that others at CSHL (such as Dr. Hannon) were unaware of
+this ownership interest.
+Finally, CSHL alleges that Mr. Vincent “approached Dr. Hannon to propose that
+CSHL and [Calando] form a new venture for the development and commercialization of short
+hairpin RNAi.” (Id. ¶ 69.) But there is no allegation that any relationship was created between
+CSHL and Calando; that such a relationship would have been in conflict with CSHL’s interests if
+it had been created; or that R&G represented any of these entities in connection with such a
+relationship. In short, there is nothing about these allegations to support an assertion that R&G
+was engaged in representing conflicting interests.
+E.
+
+Allegations Regarding Mr. Vincent’s Termination
+In April 2009, Mr. Vincent was terminated from R&G, and in July 2009, he
+
+resigned from the Massachusetts Bar as a result of conduct relating to billing clients for patentdatabase-search services by a company that he owned (the IP Resource Company) (D.I. 107 ¶¶
+75-76), a fact disclosed by Mr. Vincent in an affidavit that he filed with the Massachusetts Board
+of Bar Overseers. (Id. ¶ 76.) The Amended Complaint alleges that Mr. Vincent “never
+
+5
+
+Specifically, CSHL alleges that Insert Therapeutics was acquired by Arrowhead Research Corporation
+(“Arrowhead”), which, along with Mr. Vincent, created a company called Calando, (D.I. 107 at ¶ 66); that
+Calando licensed technology developed by Insert Therapeutics, (id. at ¶ 66); and that Calando and Insert
+Therapeutics merged in 2008. (Id. at ¶ 67.)
+
+9
+
+Case 1:11-cv-10128-RGS Document 109 Filed 08/24/11 Page 15 of 25
+
+maintained or did not retain” the billing records for the invoices submitted by IP Resource
+Company, that these invoices were submitted to R&G for payment and then billed to the
+appropriate client for the services, and that R&G was not aware that Mr. Vincent was the owner
+and operator of the IP Resource Company. (Id.) CSHL also asserts that it paid approximately
+$10,000 to R&G for work allegedly performed by the IP Resource Company. (Id. ¶ 77.)
+CSHL fails to allege how it has been damaged by payment of these invoices. In
+particular, it does not – and cannot – allege that the amounts paid have not been reimbursed.
+CSHL cannot avoid reality through clever pleading. The Court can, and should, infer from the
+lack of such allegations that CSHL has already been reimbursed for the expenditures.
+ARGUMENT
+I.
+
+THE AMENDED COMPLAINT SHOULD BE DISMISSED
+PURSUANT TO RULE 12(b)(6).
+For a complaint to survive a motion to dismiss, it “must contain sufficient factual
+
+matter, accepted as true, to ‘state a claim to relief that is plausible on its face.’” Ashcroft v.
+Iqbal, 129 S. Ct. 1937, 1949 (2009) (quoting Bell Atl. Corp. v. Twombly, 550 U.S. 544, 570
+(2007)). A claim has facial plausibility only “when the plaintiff pleads factual content that
+allows the court to draw the reasonable inference that the defendant is liable for the misconduct
+alleged.” Id. (citing Twombly, 550 U.S. at 556). See also United States ex rel. Saltzman v.
+Textron Sys. Corp., No. 09-11985-RGS, 2011 WL 2414207, *2, 4 (D. Mass. June 9, 2011)
+(Stearns, J.) (granting motion to dismiss where plaintiff’s complaint did not contain facts
+sufficient to suggest that each element of the pleaded claims were present).
+A.
+
+The Amended Complaint Fails to State a Claim for Malpractice.
+A plaintiff seeking to prove legal malpractice must demonstrate three elements:
+
+(1) that the attorney was negligent in the representation; (2) that the client-plaintiff suffered
+
+10
+
+Case 1:11-cv-10128-RGS Document 109 Filed 08/24/11 Page 16 of 25
+
+actual damages; and (3) that the attorney’s negligence was the “but-for” cause of those damages.
+Colucci v. Rosen, Goldberg, Slavet, Levenson & Wekstein, P.C., 25 Mass.App.Ct. 107, 111
+(Mass. App. Ct. 1987) (Massachusetts law); AmBase Corp. v. Davis Polk & Wardwell, 8 N.Y.3d
+428, 434 (N.Y. 2007) (New York law).6 To prevail on a claim of legal malpractice in connection
+with patent prosecution:
+the plaintiffs must demonstrate that but for [the attorney’s] negligence
+they would have received a valid patent with consequent economic
+benefit. To do so, the plaintiffs would need to establish the patentability
+of their claimed invention ….
+LaBelle v. McGonagle, No. 07-CV-12097 (GAO), 2008 WL 3842998 at *2 (D. Mass. Aug. 15,
+2008). CSHL’s Amended Complaint fails to satisfy these requirements.
+Specifically, CSHL has failed to allege that Mr. Vincent’s alleged malpractice
+(the copying of Fire) caused the PTO to reject the applications. As an initial matter, CSHL
+cannot overcome the fact that the PTO rejected Dr. Hannon’s claims not only based on the Fire
+patent but also on separate and independent grounds having nothing to do with Fire or the
+alleged malpractice. Although the Amended Complaint focuses exclusively on the PTO’s
+reliance upon Fire in rejecting the Hannon Applications, the examiners made clear that the
+Hannon Applications would have been rejected in any event, based on prior art references
+separate and apart from Fire. Supra at pp. 4-7. The Amended Complaint contains no allegation
+
+6
+
+The Amended Complaint does not specify the applicable law that controls CSHL’s claims. CSHL
+contends that the Court has federal question jurisdiction (D.I. 107 ¶ 5), presumably because the
+malpractice claims depend on the resolution of a substantial question of federal patent law. See
+Immunocept, LLC v. Fulbright & Jaworski, LLP, 504 F.3d 1281, 1283 (Fed. Cir. 2007). Nevertheless, the
+elements of each cause of action are governed by state law. See id. at 1284-1285. Massachusetts law
+should be applied here, as Mr. Vincent was located in Massachusetts, was licensed to practice in
+Massachusetts, and performed his work in Massachusetts. See Sentinel Prods. Corp. v. Platt, No. 98-CV11143 (GAO), 2002 WL 1613713 (D. Mass. July 22, 2002) (applying Massachusetts law where attorney
+performed patent work in Massachusetts). In any event, because the elements for legal malpractice under
+Massachusetts law are the same as under New York law (the only other potentially relevant jurisdiction
+given that CSHL is located there), the Court need not reach this issue. See Niehoff v. Maynard & Long
+Ridge Associates L.P., 299 F.3d 41, 48 (1st Cir. 2002).
+
+11
+
+Case 1:11-cv-10128-RGS Document 109 Filed 08/24/11 Page 17 of 25
+
+suggesting that Mr. Vincent’s conduct did anything to contribute to the examiners’ determination
+with respect to these other references. Because the indisputable documentary evidence (i.e., the
+PTO decisions) confirms that Mr. Vincent’s alleged malpractice was not the but-for cause of
+CSHL’s failure to obtain a patent, the malpractice claim fails as a matter of law. See, e.g.,
+Ehrens v. Rubin, Weisman, Colasanti, Kajko & Stein, LLP, 24 Mass. L. Rptr. 327, 2008 WL
+2895900, at *1-2 (Mass. Super. July 16, 2008) (dismissing malpractice action where underlying
+court’s decision was based on an independent reason having nothing to do with the alleged
+malpractice); Fiduciary Trust Co. v. Bingham, Dana & Gould, 58 Mass. App. Ct. 245, 254
+(Mass. App. Ct. 2003) (dismissing claim where unrelated bankruptcy caused plaintiffs harm, not
+any alleged malpractice); Flutie Bros. LLC v. Hayes, No. 04 CIV. 4187, 2006 WL 1379594
+(S.D.N.Y. May 18, 2006) (same).
+Moreover, even with respect to the PTO’s rejections based on Fire (the only basis
+for the PTO’s rejections referenced in the Amended Complaint), CSHL cannot establish that “but
+for” Mr. Vincent’s conduct, the PTO would have taken a different view of Fire. The PTO has
+repeatedly concluded that Fire discloses the use of short-hairpin RNA to effect RNA interference
+in mammalian cells (see supra pp. 7-9) – i.e., Dr. Hannon’s alleged invention. CSHL’s claim
+thus depends upon the finder of fact determining: (1) that each of the several patent examiners
+at the PTO who reached the same conclusion regarding the import of Fire got it wrong; and
+(2) that the PTO only made this mistake because Mr. Vincent copied text from the Fire
+Application into the Hannon Applications. This is implausible speculation. Indeed, it would
+require the fact finder to disregard the fact that the PTO has made the same supposedly mistaken
+interpretation of Fire’s disclosures across several different patent applications from different
+inventors who were not represented by Mr. Vincent or R&G and did not copy text from Fire.
+
+12
+
+Case 1:11-cv-10128-RGS Document 109 Filed 08/24/11 Page 18 of 25
+
+Such an untenable claim should be dismissed. See Iqbal, 129 S.Ct. at 1951 (“Taken as true,
+these allegations are consistent with [plaintiffs’ theory of the case]. But given more likely
+explanations, they do not plausibly establish this [theory].”); Twombly, 550 U.S. at 570 (“[Where
+plaintiffs] have not nudged their claims across the line from conceivable to plausible, their
+complaint must be dismissed.”).
+Courts routinely dismiss such speculative legal malpractice claims. See Law
+Practice Mgmt. Consultants LLC v. M&A Counselors & Fiduciaries, LLC, 599 F. Supp. 2d 355,
+359 (E.D.N.Y.2009) (“The Court is unwilling to take the considerable and purely speculative
+leap that the Plaintiffs would have prevailed in the BVI Litigation before Boston Life went into
+liquidation if only [the defendant attorney] had timely filed papers in opposition to [the] motion
+for summary judgment.”); Wehringer v. Powers & Hall, P.C., 874 F.Supp. 425, 427-28 (D.
+Mass. 1995) (dismissing action where plaintiffs allegations could not demonstrate “that he
+probably would have succeeded in his underlying law suit” while the underlying law suit
+continued); Johnson v. Nextel Commc’ns., Inc., No. 09-CV-8473, 2009 WL 928131, at * 7
+(S.D.N.Y. Mar. 31 2009) (“[Plaintiffs] purely speculate that had defendants not agreed on
+attorney’s fees, plaintiffs might have received more. … Such a speculative argument cannot be
+the basis of a valid claim.”); Nazarro v. Balber, No. 05-CV-2172, 2005 U.S. Dist. LEXIS 20673
+(S.D.N.Y. Sept. 20, 2005) (granting motion to dismiss legal malpractice claim where plaintiff did
+not allege how defendant attorney’s selection of an improper venue damaged plaintiffs).
+CSHL’s legal malpractice claim should be similarly dismissed.
+B.
+
+The Breach of Fiduciary Duty Claim Fails
+To the extent that CSHL’s claim for breach of fiduciary duty arises from the same
+
+facts as the legal malpractice claim (i.e., the copying of the Fire patent) or the fraud claim (i.e.,
+the IP Resource Company billings) it is duplicative and legally insufficient. See McElroy v.
+13
+
+Case 1:11-cv-10128-RGS Document 109 Filed 08/24/11 Page 19 of 25
+
+Robinson & Cole LLP, No. 03-P-273, 2004 WL 1292042 at *3 n.9 (Mass. App. Ct. June 10,
+2004) (concluding that a fiduciary duty claim may be duplicative where it arises out of the same
+alleged conduct and damages as the alleged malpractice claim); Seippel v. Jenkens & Gilchrist,
+P.C., 341 F. Supp. 2d 363, 376 (S.D.N.Y. 2004). To the extent this claim is based upon the
+alleged “conflicts” from R&G’s representation of other clients, the claim is equally unavailing.
+1.
+
+CSHL Fails to Allege a Conflict
+From the Representation of Other Clients.
+
+CSHL’s allegations regarding the purported conflicts of interest stemming from
+R&G’s representation of RXi and Insert Therapeutics (and its affiliate Calando) fail to establish a
+claim for breach of fiduciary duty. To state such a claim, a plaintiff must show: the existence of
+a fiduciary duty, the breach of that duty, and harm caused by that breach. See Qestec, Inc. v.
+Krummenacker, 367 F. Supp. 2d 89, 97 (D. Mass. 2005); Lefkowitz v. Bank of New York, 676 F.
+Supp. 2d 229, 250 (S.D.N.Y. 2009). CSHL fails to state a claim because it fails to allege any
+facts demonstrating that Mr. Vincent or R&G breached any duty owed to CSHL, let along that
+the non-existent breach caused any harm.
+a.
+
+Allegations Regarding RXi
+
+The allegations regarding RXi fail to allege any conflict of interest. The relevant
+allegations are in totality as follows: (1) CSHL and RXi have a licensing agreement together; (2)
+R&G represented both CSHL and RXi during the same time period; (3) R&G has represented
+RXi in prosecuting patent applications; and (4) at some point in October 2007 R&G asked CSHL
+for a waiver of conflicts relating to R&G’s representation of RXi as corporate counsel. (D.I. 107
+¶¶ 71-73.) But these allegations do not amount to any breach of Mr. Vincent’s ethical duties to
+CSHL. For example, CSHL does not allege that R&G simultaneously represented CSHL and/or
+RXi in connection with the parties’ licensing agreement; that R&G ever represented RXi in
+
+14
+
+Case 1:11-cv-10128-RGS Document 109 Filed 08/24/11 Page 20 of 25
+
+prosecuting a patent application based on information obtained from CSHL or that otherwise
+conflicted with CSHL’s interests; that R&G represented CSHL in an area where CSHL and
+RXi’s interests conflicted; or that any problem of any type ever arose from the situation. CSHL
+has not alleged a breach of any duty owed to it, and this claim should be dismissed.7
+b.
+
+Allegations Regarding Insert Therapeutics and Calando
+
+With regard to Insert Therapeutics and Calando, the gravamen of CSHL’s
+Amended Complaint is a vague allegation that R&G somehow “co-opted” CSHL’s alleged
+inventions and used them in the Insert Application for Insert Therapeutics’ benefit, and later
+Calando’s benefit as Insert Therapeutics’ licensee. (D.I. 107 ¶¶ 62, 93.) According to the
+Amended Complaint, the alleged “co-option” consisted of “including CSHL-derived subject
+matter in the invention disclosure of the [Insert Application], including subject matter relating to
+a ‘hairpin’ of ‘19-30 base pairs in length.’” (D.I. 107 ¶ 93.) In fact, the only “CSHL-derived
+subject matter” that is included in the Insert Application is a cite to two published articles by
+CSHL scientists (including Dr. Hannon) that were referenced in describing the background of the
+work that had preceded Insert Therapeutics’ discovery. (Forlenza Decl. Exh. M at p. 2.) CSHL
+can have no objection to the citation of one of its published articles. Moreover, the Insert
+Application could not have “co-opted” Dr. Hannon’s alleged invention because it does not seek
+patent protection for the alleged invention that CSHL claims as Dr. Hannon’s. The Insert
+Application was directed to a method of delivering certain RNAi molecules to tissues of interest
+(Forlenza Exh. M. at pp. 2-3), while the Hannon Applications are allegedly directed to using
+short-hairpin RNA in mammalian cells to obtain RNAi. (D.I. 107 ¶¶ 7-8.) Finally, the
+
+7
+
+CSHL’s implication that R&G concealed from CSHL that it was acting as RXi’s patent prosecution
+counsel is also insufficient to state a claim, as CSHL does not allege that R&G had any duty to make this
+disclosure. Moreover, the allegation is implausible as Dr. Hannon (of CSHL) was a founder of RXi and
+sat on RXi’s Scientific Advisory Board. See SEC Filings for RXi (Forlenza Decl. Exh. N at p. 2, 96, 99).
+
+15
+
+Case 1:11-cv-10128-RGS Document 109 Filed 08/24/11 Page 21 of 25
+
+allegations that “Vincent approached Dr. Hannon” twice, once in 2004 and once in 2006, about
+possible ventures between CSHL and Insert Therapeutics or Calando (D.I. 107 ¶¶ 63, 69) renders
+implausible any suggestion that the application “co-opted” Dr. Hannon’s own alleged invention.
+See Iqbal, 129 S.Ct. at 1949; Twombly, 550 U.S. at 570.
+2.
+
+Failure to Allege Damages
+
+The breach of fiduciary duty claim fails for the independent reason that CSHL has
+failed to allege any damages stemming from the purported conflicts of interest. “[F]or a client to
+sue his attorney successfully for breach of fiduciary duty he must be able to show that the breach
+caused him some harm.” Sentinel Prods. Corp. v. Platt, No. Civ.A.98-11143, 2002 WL 1613713
+at *2 (D. Mass. July 22, 2002); see also Robinson v. Bodoff, 382 F. Supp. 2d 229, 234 (D. Mass.
+2005) (“Plaintiff has not sufficiently alleged that he suffered damages as a result of the alleged
+conflict of interest and common sense indicates that such damage could not occur.”).
+CSHL does not allege that R&G’s representation of RXi, Insert Therapeutics, or
+Calando, or Mr. Vincent’s alleged interest in Calando, in any way affected R&G’s prosecution of
+the Hannon Applications. In other words, CSHL does not assert that any alleged conflict of
+interest caused R&G to favor the interests of another client over those of CSHL or to
+shortchange CSHL in any way. This is fatal to CSHL’s claim. See Sentinel Products, 2002 WL
+1613713 at *4 (dismissing claim for breach of fiduciary duty where plaintiff “has not offered
+evidence to prove that [defendants] intentionally or inadvertently pulled their punches in
+prosecuting [plaintiff’s] applications or otherwise failed to vigorously represent [plaintiff’s]
+interest.”).
+And while CSHL argues that it should be awarded three types of damages from
+the Court, none of these damages has any connection to its allegations of a conflict of interest:
+(i) lost licensing revenue; (ii) legal fees paid to successor counsel; and (iii) disgorgement of legal
+16
+
+Case 1:11-cv-10128-RGS Document 109 Filed 08/24/11 Page 22 of 25
+
+fees paid to R&G. (D.I. 107 ¶ 101.) With respect to its claim for lost licensing revenue, CSHL
+asserts in conclusory fashion that “[h]ad Vincent and R&G satisfied their duties of care, Insert
+and Calando would have come to CSHL to obtain a license of the Hannon technology.” (D.I.
+107 ¶ 99.) CSHL does not provide any plausible factual basis for this assertion, as required by
+Iqbal, 129 S. Ct. at 1949. Indeed, CSHL does not allege that Insert Therapeutics or Calando
+would have infringed any of the claims of the Hannon Applications, and thus needed a license.
+CSHL’s allegations thus fail to establish that it is “conceivable,” let alone “plausible,” that CSHL
+lost any licensing revenue as a result of the purported conflict of interest. Twombly, 550 U.S. at
+570. CSHL’s second category of claimed damages for the breach of fiduciary duty – fees paid to
+successor patent counsel – has no connection to the allegations regarding conflicts of interest.
+Finally, CSHL’s third category of damages, for disgorgement of R&G’s fees, does not establish
+the type of damages necessary to sustain a claim for breach of fiduciary duty. Even assuming
+CSHL had alleged an actual conflict (it has not) it would only be entitled to a return of fees if it
+had suffered actual damage. See McElroy, 2004 WL 1292042 at *3. CSHL has alleged no such
+damage, and its claim should be dismissed for this additional reason.8
+C.
+
+The Fraud Claim Should Be Dismissed.
+CSHL describes two separate supposed frauds. (D.I. 107 ¶ 85.) The first stems
+
+from the same conduct that CSHL alleges gives rise to its malpractice claim; namely, Mr.
+Vincent’s purported failure to disclose that some of the information in the Hannon Applications
+was copied from the Fire Application. The second stems from a claim totally unrelated to the
+8
+
+This is true whether the Court applies Massachusetts or New York law to this claim. Compare supra at
+pp. 16-17 (discussing Massachusetts law), with Ulico Casualty Co. v. Wilson, 865 N.Y. S.2d 14, 21-22
+(N.Y. 1st Dep’t 2008) (“To recover under a claim for damages against an attorney arising out of the
+breach of the attorney’s fiduciary duty, the plaintiff must establish the ‘but for’ element of malpractice,
+irrespective of how the claim is denominated in the complaint.”); Unger v. Paul Weiss Rifkind Wharton &
+Garrison, 696 N.Y.S. 2d 36, 37 (N.Y. 1st Dep’t. 1999) (“[A]n attorney’s failure to disclose a conflict of
+interest is not actionable absent allegations that such a failure proximately caused actual damages”).
+
+17
+
+Case 1:11-cv-10128-RGS Document 109 Filed 08/24/11 Page 23 of 25
+
+underlying patent applications, concerning CSHL paying bills for the services of Mr. Vincent’s
+private company. Because CSHL’s allegations do not state fraud or fraudulent concealment
+claims under either set of facts, these claims should also be dismissed.
+To set forth a claim for fraud, a plaintiff must establish all of the following
+elements: (1) a material misrepresentation or omission of fact (2) made by defendant with
+knowledge of its falsity (3) and intent to defraud; and (4) reasonable reliance on the part of the
+plaintiff (5) resulting in damage to the plaintiff. See Taylor v. American Chemistry Counsel, 576
+F.3d 16, 31 (1st Cir. 2009) (Massachusetts law); Crigger v. Fahnestock and Co., Inc., 443 F.3d
+230, 235 (2d Cir. 2006) (New York law). Fraud allegations must also be stated with the
+specificity required by Fed. R. Civ. P. 9(b).
+1.
+
+Alleged Failure to Disclose Copying
+
+CSHL’s allegation that Defendants concealed Mr. Vincent’s copying of the Fire
+Application is the same allegation that CSHL relies on in its malpractice claim, (compare D.I.
+107 ¶¶ 104-105 with D.I. 107 ¶¶ 35, 41), and dismissal is therefore appropriate on the same
+grounds as the dismissal of the malpractice claim. See, e.g., Hayes v. Hayes, No. 03-cv-719,
+2007 WL 3015118, at *5 (Mass. Super. Ct. May 22, 2007) (dismissing fraudulent
+misrepresentation claim where plaintiff “describe[d] no misrepresentation other than defendants’
+alleged failure to fulfill their duties as her attorneys”), aff’d by, 72 Mass. App. Ct. 1111 (Mass.
+App. 2008); Amadasu v. Ngati, No. 05-CV-2585(JFB)(LB), 2006 U.S. Dist. LEXIS 19654, at *
+32 (E.D.N.Y. March 27, 2006) (concluding that “mere concealment or failure to disclose one’s
+own malpractice” is insufficient to state a claim for fraud).
+2.
+
+Allegations Regarding Invoices from Mr. Vincent’s Company
+
+CSHL alleges that “Vincent committed a separate fraud upon CSHL through his
+tendering, through R&G, of invoices from The IP Resource Company totaling at least $9587.45,
+18
+
+Case 1:11-cv-10128-RGS Document 109 Filed 08/24/11 Page 24 of 25
+
+all of which were paid by CSHL.” (D.I. 107 ¶ 85.) CSHL further alleges that Vincent “could
+not substantiate any work performed by that company for CSHL” (id.); that the invoices were
+“material misrepresentations” (id.); that Vincent tendered the invoices “knowing that they were
+false, with the intent that CSHL would rely” on them (Id. ¶ 86); that CSHL did in fact “rely on”
+the invoices; and that “[i]n making payment on these fraudulent invoices, CSHL suffered
+damages in an amount to be determined at trial, plus punitive damages.” (Id. ¶ 88.)
+Fatal to CSHL’s claim is what it does not allege. Specifically, CSHL fails to
+allege, and cannot allege, that it was not reimbursed for the amounts that it paid on the invoices.
+This Court can and should infer based on this conspicuous omission that CSHL has in fact been
+reimbursed. Accordingly, the Amended Complaint fails to allege the damages necessary to
+support a fraud claim. See Hayes, 2007 WL 3015118.
+D.
+
+The Negligence Claim Should Be Dismissed.
+CSHL also asserts a cause of action for negligence against R&G, purportedly for
+
+its failure to supervise adequately and prevent Mr. Vincent’s alleged malpractice, breach of
+fiduciary duty, and fraud. (D.I. 107 ¶ 114-115). With respect to all of these allegations, as
+explained above, because CSHL has failed to plead that Mr. Vincent’s alleged conduct caused
+CSHL any harm, there can be no liability against R&G. See Sentinel, 2002 WL 1613713, *2
+(“[c]ausation is an essential element” of any claim against an attorney for negligence) (quoting
+Glidden v. Maglio, 430 Mass. 694, 696 (Mass. 2000)); Cannon v. Sears, Roebuck & Co., 374
+Mass. 739, 742 (Mass. 1978) (“negligence requires that both negligence and harm be shown,
+with a causal connection between these two elements.”). With respect to the alleged negligence
+as it relates to the fiduciary duty and malpractice claims, CSHL’s pleading also fails because it
+has not adequately pleaded that R&G and Mr. Vincent committed malpractice, or breached a
+
+19
+
+Case 1:11-cv-10128-RGS Document 109 Filed 08/24/11 Page 25 of 25
+
+fiduciary duty. Supra at pp. 11-17. For all of these reasons, the negligence claim should be
+dismissed.
+CONCLUSION
+For the foregoing reasons, Defendant R&G respectfully requests that the Court
+grant its motion to dismiss. Moreover, because CSHL has failed, despite two attempts to
+articulate a sufficient claim, the dismissal should be with prejudice. See Hardcastle v. Sebelius,
+No. 09-40014-GAO, 2010 WL 2598632 (D. Mass. June 25, 2010).
+
+Dated: New York, New York
+August 24, 2011
+PATTERSON BELKNAP WEBB & TYLER LLP
+By: /s/ Sarah Levin Goodstine
+Sarah Levin Goodstine (BBO # 664112)
+Philip R. Forlenza, pro hac vice
+Nicolas Commandeur, pro hac vice
+Irena Royzman, pro hac vice
+1133 Avenue of the Americas
+New York, New York 10036
+Telephone: (212) 336-2000
+Fax: (212) 336-2222
+Attorneys for Defendant Ropes & Gray LLP
+
+.
+
+20
+
+.
+
+

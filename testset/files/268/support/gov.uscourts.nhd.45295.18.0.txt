@@ -1,0 +1,776 @@
+Case 1:16-cv-00545-JL Document 18 Filed 02/16/17 Page 1 of 23
+
+UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF NEW HAMPSHIRE
+
+Scottsdale Capital Advisors Corp. et al.,
+
+Docket No. 1:16-cv-00545
+
+Plaintiffs
+v.
+The Deal, LLC, et al.,
+Defendants
+
+PLAINTIFFS’ MEMORANDUM OF LAW IN OPPOSITION TO
+DEFENDANTS’ MOTION TO DISMISS
+
+DEVINE, MILLIMET & BRANCH, P.A.
+George R. Moore, Esq.
+NH Bar No. 1791
+111 Amherst Street
+Manchester, NH 03101
+HARDER MIRELL & ABRAMS LLP
+Charles J. Harder, Esq. (pro hac vice)
+132 South Rodeo Drive, 4th Floor
+Beverly Hills, CA 90212
+
+{00078077;1}
+
+Case 1:16-cv-00545-JL Document 18 Filed 02/16/17 Page 2 of 23
+
+TABLE OF CONTENTS
+INTRODUCTION .......................................................................................................................... 1
+FACTUAL BACKGROUND ......................................................................................................... 3
+A.
+
+This Lawsuit.................................................................................................................. 3
+
+B.
+
+Defendants’ Contacts With New Hampshire ................................................................ 4
+
+ARGUMENT .................................................................................................................................. 5
+A.
+
+Legal Standards for Challenges to Personal Jurisdiction.............................................. 5
+
+B.
+
+This Court Has Personal Jurisdiction Over Defendants ............................................... 6
+1.
+
+Defendants Purposefully Availed Themselves To Personal Jurisdiction In
+New Hampshire. ..................................................................................................... 6
+a.
+
+Defendants Purposefully Availed Themselves Under Keeton v.
+Hustler................................................................................................... 6
+
+C.
+
+b.
+
+Personal Jurisdiction Exists Under Zippo. ............................................ 9
+
+c.
+
+The Number of New Hampshire Subscribers Is Irrelevant ................. 12
+
+2.
+
+This Action Arises From Defendants’ New Hampshire Related Activities ........ 13
+
+3.
+
+The Exercise Of Personal Jurisdiction In New Hampshire Is Reasonable ........... 15
+Jurisdictional Discovery is Warranted. ....................................................................... 17
+
+CONCLUSION ............................................................................................................................. 18
+
+{00078077;1}
+
+i
+
+Case 1:16-cv-00545-JL Document 18 Filed 02/16/17 Page 3 of 23
+
+TABLE OF AUTHORITIES
+Cases
+Alternative Energy, Inc. v. St. Paul Fire & Marine Ins. Co., 267 F.3d 30 (1st Cir.
+2001)............................................................................................................................................ 6
+American Network, Inc. v. Access America/Connect Atlanta, Inc., 975 F. Supp.
+494 (S. D. N. Y. 1997) .............................................................................................................. 10
+Brother Records, Inc. v. Harpercollins Publishers, 141 N.H. 322 (1996) ..................................... 4
+Buckley v. McGraw–Hill, Inc., 762 F. Supp. 430 (D.N.H. 1991) ................................................. 16
+Burger King Corp. v. Rodzewicz, 471 U.S. 462 (1985) .................................................................. 7
+Calder v. Jones, 465 U.S. 783 (1984) ......................................................................................... 4, 8
+Christian v. Barricade Books, Inc., No. CIV. 02-408-B, 2003 WL 21146168
+(D.N.H. May 15, 2003) ............................................................................................................. 14
+CompuServe, Inc. v. Patterson, 89 F.3d 1257 (6th Cir.1996)....................................................... 13
+Conlin Enterprise Corp. v. SNEWS, LLC, 2008 WL 803041 (D. Utah March 24,
+2008).............................................................................................................................. 11, 13, 14
+Eagle Coffee Co. v. Eagle Coffee International, Inc., 2010 WL 481201 (D. Md.
+Feb. 4, 2010)................................................................................................................................ 9
+Garvey v. Arkoosh, 354 F. Supp. 2d 73 (D. Mass. 2005) ............................................................... 3
+Gordy v. Daily News, L.P., 95 F.3d 829 (9th Cir. 1996) ................................................................ 9
+Gray v. St. Martin's Press, Inc., 929 F. Supp. 40 (D.N.H. 1996) ................................................... 4
+Hanson v. Denckla, 357 U.S. 235 (1958) ....................................................................................... 2
+Hugel v. McNell, 886 F.2d 1 (1st Cir. 1989)................................................................................... 5
+International Shoe Co. v. Washington, 326 U.S. 310 (1945) ....................................................... 12
+
+{00078077;1}
+
+ii
+
+Case 1:16-cv-00545-JL Document 18 Filed 02/16/17 Page 4 of 23
+
+Keeton v. Hustler Magazine, Inc., 131 N.H. 6 (1988) ................................................................ 7, 8
+Keeton v. Hustler Magazine, Inc., 465 U.S. 770 (1984) ............................................................. 1, 8
+Manufacturing Co. v. Zippo Dot Com, Inc., 952 F. Supp. 1119 (W.D. Pa. 1997) ......................... 2
+McGee v. International Life Insurance Co., 355 U.S. 220, 223 (1957) ....................................... 12
+Phillips Exeter Acad. v. Howard Phillips Fund, 196 F.3d 284 (1st Cir. 1999) .............................. 6
+Reynolds v. InVivo Therapeutics Holdings Corp., No. 16-CV-384-JL, 2016 WL
+6997489 (D.N.H. Nov. 30, 2016) ................................................................................................ 9
+Sawtelle v. Farrell, 70 F.3d 1381 (1st Cir. 1995) ......................................................................... 17
+Sefton v. Jew, 201 F. Supp. 2d 730 (W. D. Tex. 2001)................................................................. 10
+Surpitski v. Hughes-Keenan Corp., 362 F.2d 254 (1st Cir. 1966) ................................................ 18
+Ticketmaster-New York, Inc. v. Alioto, 26 F.3d 201 (1st Cir. 1994)............................................. 15
+United States v. Swiss Am. Bank, Ltd., 274 F.3d 610 (1st Cir. 2001). ............................................ 6
+Weld Power Indus., Inc. v. C.S.I. Techs., Inc., 124 N.H. 121 (1983) ............................................. 6
+Wolfe v. Gooding & Co., 2015 WL 917311 (D.N.J. Mar. 15, 2015) .............................................. 8
+World–Wide Volkswagen Corp. v. Woodsen, 444 U.S. 286 (1980).............................................. 15
+Zippo Manufacturing Co. v. Zippo Dot Com, Inc., 952 F. Supp. 1119 (W.D. Pa.
+1997)............................................................................................................................................ 9
+Statutes
+N.H. Rev. Stat. § 510:4(I) ............................................................................................................... 5
+N.Y. C.P.L.R. 215(3) .................................................................................................................... 16
+
+{00078077;1}
+
+iii
+
+Case 1:16-cv-00545-JL Document 18 Filed 02/16/17 Page 5 of 23
+
+INTRODUCTION
+In 1981, a New York resident named Keeton brought a libel suit in New Hampshire
+against Hustler Magazine, Inc., located in Ohio. New Hampshire had no connection to the case
+other than Hustler’s distribution of the libelous statements about Keeton to New Hampshire
+residents. The U.S. Supreme Court held that New Hampshire had personal jurisdiction over the
+case, and rejected Hustler’s arguments (the same arguments by the defendants in this action) that
+there was no meaningful connection to New Hampshire. In Keeton v. Hustler, none of the
+parties resided in the New Hampshire, and the magazine’s circulation in the state amounted to
+less than one percent of its total circulation in the United States. The U.S. Supreme Court still
+upheld jurisdiction, holding that Hustler’s regular monthly sales in New Hampshire “cannot by
+any stretch of the imagination be characterized as random, isolated, or fortuitous. It is, therefore,
+unquestionable that New Hampshire jurisdiction over a complaint based on those contacts would
+ordinarily satisfy the requirement of the Due Process Clause that a State's assertion of personal
+jurisdiction over a nonresident defendant be predicated on ‘minimum contacts’ between the
+defendant and the State.” Keeton v. Hustler Magazine, Inc., 465 U.S. 770 (1984).
+Defendants here are reprising the same arguments that the U.S. Supreme Court
+unanimously rejected more than 30 years ago in Keeton v. Hustler, and Defendants’ arguments
+should fail for the same reasons. In particular, Defendants’ argument that less than one percent
+of their subscribers are in New Hampshire is of no consequence, because Defendants have
+continuously and deliberately exploited the New Hampshire market, must therefore
+reasonably anticipate being haled into court here in a libel action based on the contents of their
+publication. Keeton, 465 U.S. at 781.
+
+{00078077;1}
+
+1
+
+Case 1:16-cv-00545-JL Document 18 Filed 02/16/17 Page 6 of 23
+
+Similarly, Defendants’ argument regarding Plaintiffs’ purported lack of contacts with
+New Hampshire also is without merit. A Plaintiff is not required to have “minimum contacts”
+with New Hampshire in order for New Hampshire to assert personal jurisdiction over a
+nonresident defendant. Id. at 779.
+Defendants also make a number of extraneous and fanciful allegations regarding
+Plaintiffs’ alleged motives for suing in New Hampshire, including claims that Plaintiffs are
+seeking to “coerce Defendants into giving up their source[s]” and that Plaintiffs are trying to take
+advantage of New Hampshire’s statute of limitations. These arguments are red herrings designed
+to distract the Court from another of Keeton’s holdings: that “applying New Hampshire’s statute
+of limitations to all aspects of this nationwide suit has nothing to do with the jurisdiction of the
+Court to adjudicate the claims. ‘The issue is personal jurisdiction, not choice of law.’” Id. at 778
+(quoting Hanson v. Denckla, 357 U.S. 235, 254 (1958)).
+Finally, personal jurisdiction also is present under the holding of Manufacturing Co. v.
+Zippo Dot Com, Inc., 952 F. Supp. 1119, 1124 (W.D. Pa. 1997) (“Zippo”). Defendants here sold
+subscriptions to their online website in New Hampshire, and therefore entered into at least one
+contract in New Hampshire. Defendants were “clearly doing business” in New Hampshire, and
+its contacts were neither “fortuitous” nor “coincidental.” Id. at 1124, 1127. In fact, the object of
+Defendants’ contract in New Hampshire was to transmit to New Hampshire the online news site
+on which the defamatory articles that form the basis of this suit appeared. Id. at 1127.
+In sum, Defendants purposefully availed themselves of the privilege of conducting
+activities within New Hampshire. Consequently, there is no unfairness in calling them to answer
+for those activities in the state.
+
+{00078077;1}
+
+2
+
+Case 1:16-cv-00545-JL Document 18 Filed 02/16/17 Page 7 of 23
+
+FACTUAL BACKGROUND
+A.
+
+This Lawsuit
+On December 6, 2013, an article written by Mr. Meagher appeared in Deal Pipeline, an
+
+online publication of defendant The Deal, headlined “FBI, securities officials investigating
+Scottsdale Capital, Alpine Securities, source says” (“December 6 Article”). (Motion, Meagher
+Decl. ¶ 5, Exh. A). The December 6 Article falsely stated that Plaintiffs and their affiliated
+companies were being criminally investigated and being investigated by securities regulators.
+The December 6 Article further falsely stated that Plaintiffs engaged in favoritism towards
+shareholders of a company named Biozoom, including by allowing them to trade in violation of
+SCA policies and giving them special perks. The December 6 Article also falsely stated that
+Plaintiffs ignored “red flags” with respect to Biozoom transactions.
+On March 20, 2014, an article written by Mr. Meagher appeared in Deal Pipeline
+headlined “SEC requests default judgment in $34M Biozoom pump-and-dump case” (“March 20
+Article”). (Motion, Meagher Decl. ¶ 10, Exh. B). The March 20 Article falsely stated that
+Plaintiffs and their affiliated companies were being investigated by the FBI, and were the targets
+of criminal and securities investigations. The March 20 Article also falsely stated that Plaintiffs
+were involved in a “pump and dump” scheme with Biozoom.1
+On April 16, 2014, an article written by Mr. Meagher appeared in Deal Pipeline
+headlined “FINRA focusing on money-laundering violations” (“April 16 Article”). (Motion,
+
+1
+
+“In a typical ‘pump and dump’ scheme, insiders inflate demand for a stock by disseminating
+laudatory information about a company – information that is usually false. If the market reacts
+favorably, the insiders cash in their shares before the market readjusts and the share price
+collapses. Garvey v. Arkoosh, 354 F. Supp. 2d 73, 76 (D. Mass. 2005).
+{00078077;1}
+
+3
+
+Case 1:16-cv-00545-JL Document 18 Filed 02/16/17 Page 8 of 23
+
+Meagher Decl. ¶ 10, Exh. C). The April 16 Article repeated the false claim that Plaintiffs and
+their affiliated companies were under FBI investigation.
+Plaintiffs filed this lawsuit in New Hampshire on November 18, 2016, asserting causes of
+action against Defendants for defamation, invasion of privacy—false light, intentional
+interference with contractual relations, and tortious interference with prospective economic
+advantage.
+B.
+
+Defendants’ Contacts With New Hampshire2
+Defendant The Deal is a Delaware limited liability company that publishes print and
+
+electronic publications concerning the financial sector, including The DealFlow Report
+(“DealFlow”) and The Deal Pipeline (“Deal Pipeline”). Defendant Meagher is a staff writer and
+associate editor at The Deal. (Susman Decl. ¶ 2, Exh. 1). Evidence proffered by Defendants,
+and supplemented herein (based entirely on publicly available information and prior to any
+jurisdictional discovery), demonstrates that Defendants purposefully injected themselves into
+New Hampshire in order to reap an economic benefit.
+
+2
+
+Defendants improperly try to separate Mr. Meagher from The Deal, alleging that each
+defendant’s contacts with the forum state should be assessed individually. (Motion at p. 14). As
+an initial matter, the case Defendants cite for this proposition, Calder v. Jones, 465 U.S. 783
+(1984), concerned the “effects test,” and whether the defendant targeted the particular forum. Id.
+at 789. As discussed infra, personal jurisdiction in this matter does not arise under Calder.
+Second, courts in this district have routinely held that the author of a published work is treated
+the same as the publisher for personal jurisdiction purposes. See e.g., Brother Records, Inc. v.
+Harpercollins Publishers, 141 N.H. 322, 326-28 (1996) (authors of book are subject to personal
+jurisdiction because they “are directly responsible for its content” and they “knew the book
+would be distributed and sold nationally, and [] stood to profit from the sale of books in New
+Hampshire.”); Gray v. St. Martin's Press, Inc., 929 F. Supp. 40, 48 (D.N.H. 1996) (“By
+executing a contract with a national publisher for the national and international distribution of a
+book with nationwide appeal, [defendant who authored book] should reasonably have anticipated
+being haled into court in New Hampshire, a forum regularly served by [publisher] and one in
+which the book was actually sold.”).
+{00078077;1}
+
+4
+
+Case 1:16-cv-00545-JL Document 18 Filed 02/16/17 Page 9 of 23
+
+According to Defendants, Deal Pipeline is available on a subscription-only basis.
+(Motion p. 6). These subscribers receive, among other things: “actionable, intraday coverage of
+mergers, acquisitions and all other changes in corporate control to institutional investors, private
+equity, hedge funds and the firms that serve them.” (Susman Decl. ¶ 3, Exh. 2). Subscribers also
+receive “immediate access to our up-to-the-minute news, data and information. News, video,
+webcasts, podcasts, events and whitepapers, [t]opical newsletters target[ing] specific niches to
+form a holistic reach across the breadth of the deal community.” (Susman Decl. ¶ 4, Exh. 3).
+According to Defendants, articles on Deal Pipeline “sit behind a paywall and are
+available only to authorized subscribers.” (Motion, Lundberg Decl. ¶ 10). The Deal assigns
+authentication codes to their subscribers. (Motion, Lundberg Decl. ¶ 11). In addition to making
+content available through Deal Pipeline, The Deal also distributes newsletters to their
+subscribers. To be clear: the only way to access articles on Deal Pipeline is to enter into a
+contract with The Deal.
+According to Defendants, there were approximately 670 subscribers to Deal Pipeline
+during the relevant timeframe, including one subscriber in New Hampshire, Dartmouth College.
+(Motion, Lundberg Decl. ¶¶ 13, 14). Accordingly, at the time the defamatory articles were
+published and distributed on Deal Pipeline, Defendants were in a contractual relationship with a
+New Hampshire resident that expressly provided that resident with the defamatory articles.
+ARGUMENT
+A.
+
+Legal Standards for Challenges to Personal Jurisdiction
+New Hampshire’s long arm statute confers jurisdiction over non-resident defendants who
+
+themselves or through an agent commit a tortious act in New Hampshire. N.H. Rev. Stat. Ann. §
+510:4(I); Hugel v. McNell, 886 F.2d 1, 3 (1st Cir. 1989). The New Hampshire long-arm statute
+
+{00078077;1}
+
+5
+
+Case 1:16-cv-00545-JL Document 18 Filed 02/16/17 Page 10 of 23
+
+is coextensive with the limits of personal jurisdiction set by the Due Process clause of the
+Constitution. Weld Power Indus., Inc. v. C.S.I. Techs., Inc., 124 N.H. 121, 125 (1983).
+“When a district court rules on a motion to dismiss for lack of personal jurisdiction
+without holding an evidentiary hearing, as in this case, the ‘prima facie’ standard governs its
+determination.” United States v. Swiss Am. Bank, Ltd., 274 F.3d 610, 618 (1st Cir. 2001).
+“In deciding whether the plaintiff has proved a prima facie case of personal jurisdiction,
+the district court must draw all reasonable inferences arising from the proof, and resolve all
+factual disputes, in the plaintiff’s favor.” Alternative Energy, Inc. v. St. Paul Fire & Marine Ins.
+Co., 267 F.3d 30, 36 (1st Cir. 2001).
+Determining whether a plaintiff has alleged sufficient facts for a finding of specific
+jurisdiction requires a three-part analysis: (1) whether the defendant’s contacts constitute
+purposeful availment of the benefits and protections afforded by the forum’s laws; (2) whether
+the claim that undergirds the litigation directly relates to or arises out of the defendant’s contacts
+with the forum, and (3) the overall reasonableness of an exercise of jurisdiction in light of a
+variety of pertinent factors that touch upon the fundamental fairness of an exercise of
+jurisdiction. Phillips Exeter Acad. v. Howard Phillips Fund, 196 F.3d 284, 288 (1st Cir. 1999).
+B.
+
+This Court Has Personal Jurisdiction Over Defendants
+1.
+
+Defendants Purposefully Availed Themselves To Personal
+Jurisdiction In New Hampshire.
+a.
+
+Defendants Purposefully Availed Themselves Under Keeton v.
+Hustler
+
+Pursuant to established personal jurisdiction cases, there is more than ample evidence
+here of Defendants’ minimum contacts with New Hampshire. In Keeton v. Hustler, the U.S.
+Supreme Court held that jurisdiction is proper over a publisher who “produces a national
+
+{00078077;1}
+
+6
+
+Case 1:16-cv-00545-JL Document 18 Filed 02/16/17 Page 11 of 23
+
+publication aimed at a nationwide audience” with respect to a libel claim brought by a nonresident plaintiff. See also Burger King Corp. v. Rodzewicz, 471 U.S. 462, 473 (1985)
+(explaining that Keeton holds that a “publisher who distributes magazines in a distant state may
+fairly be held accountable in that forum for damages resulting there from an allegedly
+defamatory story”). This is true even where “only a small portion” of copies of the publisher’s
+publication were distributed within the forum state. Keeton, 465 U.S. at 775.
+In Keeton, a New York resident brought a libel suit in New Hampshire, against Hustler
+Magazine, Inc., an Ohio corporation. A small number of copies of Hustler magazine (10,000 to
+15,000 per month) were distributed in New Hampshire. Keeton, 465 U.S. at 772. This was less
+than one percent (1%) of Hustler’s circulation at the time. Keeton v. Hustler Magazine, Inc., 131
+N.H. 6, 9 (1988). The United States Supreme Court held that Hustler’s “regular circulation” of
+its publication in New Hampshire was sufficient to support assertion of jurisdiction. Keeton, 465
+U.S. at 773-74.
+The U.S. Supreme Court expressly found that such regular distribution could not “by any
+stretch of the imagination be characterized as random, isolated, or fortuitous” and it was
+“unquestionable that New Hampshire jurisdiction over a complaint based on those contacts
+would ordinarily satisfy the requirement of the Due Process Clause that a State’s assertion of the
+personal jurisdiction over a nonresident defendant be predicated on ‘minimum contacts’ between
+the defendant and the State.” Id. at 774. Because Hustler was “carrying on a ‘part of its general
+business’ in New Hampshire,” this was “sufficient to support jurisdiction when a cause action
+arose out of the very activity being conducted.” Id. at 779-80.
+In so finding, the Court said that New Hampshire had a “significant interest” in
+redressing injuries that occurred within the state, including injuries in libel actions brought by
+
+{00078077;1}
+
+7
+
+Case 1:16-cv-00545-JL Document 18 Filed 02/16/17 Page 12 of 23
+
+nonresidents against nonresidents. Id. at 776. “False statements of fact harm both the subject of
+the falsehood and the readers of the statement.” Id. A state “may rightly employ its libel laws to
+discourage deception of its citizens” and to address “the injury that in-state libel causes within
+[the state] to a nonresident.” Id. “The communication of the libel may create a negative
+reputation among the residents of a jurisdiction where the plaintiff’s previous reputation was,
+however small, at least unblemished.” Id.
+Based on Defendants’ substantial contacts with this forum through its subscriber(s), New
+Hampshire has a legitimate interest in holding Defendants answerable to Plaintiffs’ claims based
+upon the posting of the defamatory articles on Deal Pipeline. As in Keeton, New Hampshire has
+a “significant interest” in redressing injuries that occur within the State, including injuries in this
+libel action brought by nonresidents against nonresidents.
+Defendants’ attempt to analogize its conduct to defendants who engaged in minimal
+distribution in the forum state fails for another reason as well—Keeton did not establish a
+threshold of subscribers (in either raw numbers or percentage of total subscribers) in the forum
+state in order to exercise personal jurisdiction. In Keeton, Hustler’s distribution of between
+10,000 and 15,000 of its magazine constituted approximately one percent (1%) of its total
+circulation (Keeton, 131 N.H. at 9), and was sufficient to confer personal jurisdiction over
+defendant. Keeton, 465 U.S. at 774. Looking at raw numbers, the court in Wolfe v. Gooding &
+Co., 2015 WL 917311 at *3 (D.N.J. Mar. 15, 2015) upheld personal jurisdiction under Keeton
+based on the distribution of just 55 copies of a publication in the forum state.3 As the Court of
+
+3
+
+Defendants conflate the Keeton test with another case, Calder v. Jones, 465 U.S. 783 (1984),
+which holds that the plaintiff’s residence is a sufficient contact for specific jurisdiction in a libel
+case, because the defamatory communication injured the plaintiff in the forum state. Plaintiffs
+are not making a Calder claim here; Plaintiffs are not residents of New Hampshire. Plaintiffs are
+{00078077;1}
+
+8
+
+Case 1:16-cv-00545-JL Document 18 Filed 02/16/17 Page 13 of 23
+
+Appeals for the Ninth Circuit concluded, “mailing to regular subscribers, even though few,” may
+amount to purposeful availment because such mailing “is not random or fortuitous and is not
+even necessarily isolated.” Gordy v. Daily News, L.P., 95 F.3d 829, 833 (9th Cir. 1996).
+Defendants entered into ongoing business relationship with a New Hampshire resident,
+New Hampshire therefore has a significant interest in redressing the harm caused in the forum
+that resulted from that relationship.
+b.
+
+Personal Jurisdiction Exists Under Zippo.
+
+Personal jurisdiction is also present under the test enunciated by Zippo Manufacturing
+Co. v. Zippo Dot Com, Inc., 952 F. Supp. 1119, 1124 (W.D. Pa. 1997) (“Zippo”). Under Zippo,
+personal jurisdiction over the operators of interactive websites is determined by “examining the
+level of interactivity and commercial nature of the exchange of information that occurs on the
+Web site.” Id. “[T]he Zippo model does not supersede the traditional personal jurisdiction
+analysis, it merely compliments [sic] it.” Eagle Coffee Co. v. Eagle Coffee International, Inc.,
+2010 WL 481201 at *3 (D. Md. Feb. 4, 2010).
+Zippo established a “sliding scale” test to evaluate a defendant’s contacts with a forum
+state when the defendant’s only contacts are through a website. Zippo, 952 F. Supp. at 1124.
+The Zippo test outlined three basic designations for contacts with the forum state: (1) Clearly
+Doing Business: “If the defendant enters into contracts with residents of a foreign jurisdiction
+
+making a Keeton claim (and a Zippo claim), which turns on the distribution of the defendant’s
+publication in the jurisdiction, not the targeting of harm towards the plaintiff residing in the
+jurisdiction. In their Motion, Defendants extensively discuss Reynolds v. InVivo Therapeutics
+Holdings Corp., No. 16-CV-384-JL, 2016 WL 6997489 (D.N.H. Nov. 30, 2016), which is a
+Calder case, not a Keeton case. Defendants do not cite any authority for the proposition that the
+analysis in Reynolds applies to Keeton claims.
+{00078077;1}
+
+9
+
+Case 1:16-cv-00545-JL Document 18 Filed 02/16/17 Page 14 of 23
+
+that involve the knowing and repeated transmission of computer files over the Internet, personal
+jurisdiction is proper.” (2) The Middle Ground: “occupied by interactive Web sites where a
+user can exchange information with the host computer. In these cases, the exercise of jurisdiction
+is determined by examining the level of interactivity and commercial nature of the exchange of
+information that occurs on the Web site.” (3) Passive Website: “situations where a defendant
+has simply posted information on an Internet Web site which is accessible to users in foreign
+jurisdictions . . .[D]oes little more than make information available to those who are interested in
+it, [so] it is not grounds for the exercise personal jurisdiction.” Id.
+Over and over again, courts have consistently held that a subscription-based website falls
+within the first category, and personal jurisdiction is proper. See e.g., Zippo, 952 F. Supp. at
+1126; American Network, Inc. v. Access America/Connect Atlanta, Inc., 975 F. Supp. 494, 499
+(S. D. N. Y. 1997); Sefton v. Jew, 201 F. Supp. 2d 730, 741 (W. D. Tex. 2001).
+In Zippo, the defendant operated an online news service, which had three levels of
+membership ranging from free/public information to exclusive subscription-only information.
+Zippo, 952 F. Supp. at 1121. Defendant had approximately 140,000 paying subscribers, of
+whom approximately 3,000 were located in Pennsylvania. Id. These subscribers entered into
+contracts with defendant, for which they received a password to access defendant’s online news
+services. Id. The court held that personal jurisdiction in Pennsylvania was proper over
+defendant because it purposefully availed itself of doing business in the forum. Id. at 1125-26.
+[Defendant] was under no obligation to sell its services to
+Pennsylvania residents. It freely chose to do so, presumably in
+order to profit from those transactions. If a corporation determines
+that the risk of being subject to personal jurisdiction in a particular
+forum is too great, it can choose to sever its connection to the
+state. If [defendant] had not wanted to be amenable to jurisdiction
+in Pennsylvania, the solution would have been simple—it could
+have chosen not to sell its services to Pennsylvania residents.
+{00078077;1}
+
+10
+
+Case 1:16-cv-00545-JL Document 18 Filed 02/16/17 Page 15 of 23
+
+Id. at 1126-27.
+The case of Conlin Enterprise Corp. v. SNEWS, LLC, 2008 WL 803041 (D. Utah March
+24, 2008) is instructive. In Conlin Enterprise, the defendant published an online trade
+newsletter, and the only thing that could be purchased on defendant’s website was a subscription
+to the online trade newsletter. Id. Defendants were not Utah residents and had no Utah
+employees, no place of business in Utah, no Utah bank accounts, no Utah phone or fax numbers,
+no Utah mailing address, and no Utah agents. Id. There were however, sixty (60) subscribers to
+the newsletter in Utah. The Court held that it could exercise personal jurisdiction over
+Defendants because:
+[Defendants] engaged in at least sixty commercial transactions in
+Utah when individuals subscribed to [Defendants’] newsletter. . . .
+Selling subscriptions to the newsletter is a commercial transaction.
+. . . This is doing business in the forum state.
+Id. at *6.
+Paraphrasing Zippo, the court held:
+[Defendant] repeatedly and consciously chose to process Utah
+residents’ applications and to assign them passwords. [Defendant]
+knew that the result of these contracts would be the transmission of
+electronic messages into Utah. The transmission of these files was
+entirely within its control. Defendant was under no obligation to
+sell its services to Utah residents. If [defendant] had not wanted to
+be amenable to jurisdiction in Utah, the solution would have been
+simple – it could have chosen not to sell its services to Utah
+residents.
+
+Id. at *6 (internal quotes and citations omitted).
+The holdings in Zippo and Conlin Enterprise are directly on point here: The Deal
+repeatedly and consciously chose to process a New Hampshire resident’s application and to
+assign it a subscription. The Deal knew that the result of this contract would be the transmission
+{00078077;1}
+
+11
+
+Case 1:16-cv-00545-JL Document 18 Filed 02/16/17 Page 16 of 23
+
+of electronic messages into New Hampshire. The transmission of these files was entirely within
+its control. The Deal was under no obligation to sell its services to a New Hampshire resident. It
+freely chose to do so, presumably to make a profit from the transaction(s). If The Deal did not
+want to be haled into court in New Hampshire, it could easily have chose not to sell its services
+to a New Hampshire resident.
+The Deal purposefully availed itself of the privilege of conducting business in New
+Hampshire; it is therefore subject to personal jurisdiction in the state.
+c.
+
+The Number of New Hampshire Subscribers Is Irrelevant
+
+The gravamen of Defendants’ argument is that they only have one subscriber in New
+Hampshire, and the exercise of personal is somehow “random” or “fortuitous.” This species of
+argument has been made time and again by internet defendants trying to escape personal
+jurisdiction in forums where they conducted business. Time and again, these arguments have
+been rejected by the courts, because courts evaluate “the nature and quality of commercial
+activity that an entity conducts over the Internet” not the quantity of the contacts. Zippo, 952 F.
+Supp. at 1124.
+In Zippo, the defendant argued that only two percent (2%) of its online news subscribers
+were residents of the forum state. Id. at 1127. The Court was decisive in rejecting this
+argument:
+Defendant points to the fact that only two percent of its subscribers
+are Pennsylvania residents. However, the Supreme Court has
+made clear that even a single contact can be sufficient. McGee v.
+International Life Insurance Co., 355 U.S. 220, 223 (1957). The
+test has always focused on the “nature and quality” of the contacts
+with the forum and not the quantity of those contacts.
+International Shoe Co. v. Washington, 326 U.S. 310, 320 (1945).
+The Sixth Circuit also rejected a similar argument in CompuServe
+when it wrote that the contacts were “deliberate and repeated even
+
+{00078077;1}
+
+12
+
+Case 1:16-cv-00545-JL Document 18 Filed 02/16/17 Page 17 of 23
+
+if they yielded little revenue.” CompuServe, Inc. v. Patterson, 89
+F.3d 1257, 1265 (6th Cir.1996).
+
+Id. (emphasis added).
+Similarly, in Sefton, defendants argued that their website did not target Texas residents
+and that Texas residents represented only 1.86% of their subscribers. Sefton, 201 F. Supp. 2d at
+740. The court found this argument “unpersuasive.” Id. “The minimum contacts test focuses
+on the ‘nature and quality’ of the contacts with the forum, not the quantity of those contacts.” Id.
+As discussed above, in Conlin Enterprise, the defendant published an online trade
+newsletter with approximately 5,000 subscribers worldwide, of whom approximately 60 resided
+in Utah – i.e., 1.2%. Conlin Enterprise, 2008 WL 803041*1. Again, the Court held that these 60
+transactions constituted doing business in Utah. Id.
+Here, Defendants had less than 670 subscribers worldwide, one of whom was in New
+Hampshire. This one subscription was not random or fortuitous: The Deal deliberately and
+repeatedly entered into a subscription contract with Dartmouth College, even if it yielded little
+revenue. Defendants therefore cannot say that they did not target New Hampshire, because they
+expressly, knowingly, entered into an ongoing contract with one of its residents.
+Under both Keeton and Zippo, it is indisputable that Defendants conducted business in
+New Hampshire and purposefully availed themselves of the benefits and protections afforded by
+the New Hampshire’s laws. The Court should therefore exercise personal jurisdiction over
+Defendants.
+2.
+
+This Action Arises From Defendants’ New Hampshire Related
+Activities
+
+Defendants argue that Plaintiffs’ claims do not arise out of Defendants’ contacts with
+New Hampshire. Nonsense. “The tort of libel is generally held to occur wherever the offending
+{00078077;1}
+
+13
+
+Case 1:16-cv-00545-JL Document 18 Filed 02/16/17 Page 18 of 23
+
+material is circulated. The reputation of the libel victim may suffer harm even in a state in which
+he has hitherto been anonymous.” Keeton, 465 U.S. at 777 (citing Restatement (Second) of
+Torts § 577A, Comment a (1977)).
+Moreover, Defendants willingly and knowingly entered into a subscription contract with
+a New Hampshire resident that provided New Hampshire residents with access to Deal Pipeline
+– the subscription-based website and newsletter on which the defamatory articles appeared. As
+the U.S. Supreme Court in Keeton held: “respondent is carrying on a ‘part of its general
+business’ in New Hampshire, and that is sufficient to support jurisdiction when the cause of
+action arises out of the very activity being conducted, in part, in New Hampshire.” Keeton, 465
+U.S. at 779-80.
+In Conlin Enterprise, the Court examined similar facts regarding an online subscriptionbased newsletter and similar causes of actions for defamation and interference with contractual
+relations. Conlin Enterprise, 2008 WL 803041*7 The Court held:
+The relevant contacts with Utah are the Internet subscriptions
+through [defendant’s] website. The cause of action arises out of the
+contacts with Utah because those Utah subscribers had access to
+the purportedly defamatory article. Not only is the defamatory
+article the source of the harm, its explicit purpose was to harm the
+Plaintiffs who are Utah residents.
+Id.
+Plaintiffs’ contacts arise from Defendants’ New Hampshire related activities—a
+subscription agreement between Defendants and a New Hampshire resident.4
+
+4
+
+Defendants’ attempt to analogize the facts of this case to Christian v. Barricade Books, Inc.,
+No. CIV. 02-408-B, 2003 WL 21146168 (D.N.H. May 15, 2003) to argue a lack of relatedness to
+New Hampshire fails because it ignores the ongoing business relationship Defendants have in
+this jurisdiction. In Christian, the court found the relatedness requirement was not satisfied
+because the one book that was shipped to the New Hampshire bookstore was not sold and was
+returned to the defendant. Id. at *3. In other words, no sale was consummated and the defendant
+{00078077;1}
+
+14
+
+Case 1:16-cv-00545-JL Document 18 Filed 02/16/17 Page 19 of 23
+
+3.
+
+The Exercise Of Personal Jurisdiction In New Hampshire Is
+Reasonable
+
+The final prong for exercising personal jurisdiction over Defendants concerns whether
+the exercise of personal jurisdiction is reasonable. Phillips Exeter Acad., 196 F.3d at 288. The
+“reasonableness” prong exists to protect defendants against unfairly inconvenient litigation
+(World–Wide Volkswagen Corp. v. Woodson, 444 U.S. 286, 292 (1980)), and the exercise of
+jurisdiction is reasonable if it does not offend “traditional notions of fair play and substantial
+justice.” Int'l Shoe Co., 326 U.S. at 316. When determining the reasonableness of a particular
+forum, the Supreme Court has identified five “gestalt factors,” namely: “(1) the defendant’s
+burden of appearing, (2) the forum state's interest in adjudicating the dispute, (3) the plaintiff’s
+interest in obtaining convenient and effective relief, (4) the judicial system's interest in obtaining
+the most effective resolution of the controversy, and (5) the common interests of all sovereigns in
+promoting substantive social policies.” Ticketmaster-New York, Inc. v. Alioto, 26 F.3d 201, 209
+(1st Cir. 1994) (citing Burger King, 471 U.S. at 477). Defendants have the burden to show that,
+in light of these factors, defending the suit in this court would be “so gravely difficult and
+
+did not receive any profits from a New Hampshire resident. Defendants herein however, are in
+fact receiving an ongoing economic benefit from a New Hampshire resident vis-à-vis their
+subscription contract with Dartmouth. Defendants’ reliance on United States v. Swiss Am. Bank,
+Ltd., 274 F.3d 610 (1st Cir. 2001) is similarly unavailing. There, the court found that relatedness
+was not satisfied because the defendant, a foreign based bank, did not reach into the forum since
+it did not call or write to the customer at issue. Id. at 622. Only after making this finding did the
+court note that the funds at issue came from a foreign location rather than from the United States.
+Id. Defendants’ reliance on this case again ignores the subscription agreement with Dartmouth
+and the fact that they called and emailed Dartmouth to negotiate the agreement and continue to
+perform “client service work” for Dartmouth via telephone phone and email. (Motion p. 5).
+Based on these facts, the court in Swiss Am. Bank would have undoubtedly found that
+Defendants reached into this forum regardless of where Dartmouth’s payments originate from.
+{00078077;1}
+
+15
+
+Case 1:16-cv-00545-JL Document 18 Filed 02/16/17 Page 20 of 23
+
+inconvenient” that they would be at a “severe disadvantage” in comparison to the Plaintiffs.
+Burger King, 471 U.S. at 478. Defendants have not met this burden.
+New Hampshire has an interest in adjudicating this dispute. A State’s interest in
+adjudicating a dispute extends to libel actions brought by nonresidents because libel harms both
+the subject of the falsehood and the readers of the statement. Thus “New Hampshire may rightly
+employ its libel laws to discourage the deception of its citizens,” even to remedy “the injury that
+in-state libel causes within New Hampshire.” Brother Records, Inc., 141 N.H. at 328 (citing
+Keeton, 465 U.S. at 776.
+This principle applies to the facts of this case: That the parties have no apparent
+connections to New Hampshire does not mean that Plaintiffs did not suffer injury in New
+Hampshire. The defendants, all of whom had a direct hand in the writing and publication of the
+defamatory articles must reasonably anticipate being haled into court in a libel action where
+injury to the targeted plaintiffs can be expected to occur, which in this case included New
+Hampshire. Buckley v. McGraw–Hill, Inc., 762 F. Supp. 430, 438–39 (D.N.H. 1991).
+Plaintiffs’ interest in obtaining convenient and effective relief necessitates that the
+matter be heard in New Hampshire. Perhaps not surprisingly, Defendants relegate their
+argument regarding this factor to a single footnote. (Motion p. 25). This, however, may be the
+most important of the gestalt factors. Because of New York’s draconian one-year statute of
+limitations for libel (N.Y. C.P.L.R. 215(3)), Plaintiffs’ claims would be barred if brought there.
+As is their right, Plaintiffs have brought their claims in New Hampshire because it is one of the
+only jurisdictions in which they can obtain relief for their claims.
+
+{00078077;1}
+
+16
+
+Case 1:16-cv-00545-JL Document 18 Filed 02/16/17 Page 21 of 23
+
+The facts and holding in Keeton are instructive. In Keeton, plaintiff’s claims were barred
+by the statute of limitations in every single state except New Hampshire. Keeton, 465 U.S. at
+773. The Supreme Court, rightfully, put the onus on defendant, holding:
+Petitioner's successful search for a State with a lengthy statute of
+limitations is no different from the litigation strategy of countless
+plaintiffs who seek a forum with favorable substantive or
+procedural rules or sympathetic local populations. Certainly
+Hustler Magazine, Inc., which chose to enter the New Hampshire
+market, can be charged with knowledge of its laws and no doubt
+would have claimed the benefit of them if it had a complaint
+against a subscriber, distributor, or other commercial partner.
+
+Id. at 779.
+Defendants’ burden of appearing in New Hampshire is a red herring. According to
+Defendants, Defendants are based in California and New York, and it would supposedly impose
+a burden to litigate in New Hampshire. (Motion at p. 24). However, even if Plaintiffs brought
+this action in California or New York (or in Plaintiffs’ home state of Arizona), at least one of the
+Defendants would be required to travel cross-country. “[D]efending in a foreign jurisdiction
+almost always presents some measure of inconvenience, and hence this factor becomes
+meaningful only where a party can demonstrate a special or unusual burden.” Sawtelle v.
+Farrell, 70 F.3d 1381, 1395 (1st Cir. 1995) (internal citations and quotes omitted). When, as
+here, one of the Defendants would be required to defend the action on the other side of the
+country, the burden is neither special nor unusual.
+The exercise of personal jurisdiction in New Hampshire is therefore reasonable.
+C.
+
+Jurisdictional Discovery is Warranted.
+If the Court is at all inclined to dismiss (which would be unwarranted for the reasons
+
+discussed herein), Plaintiffs should be entitled to conduct limited discovery regarding
+
+{00078077;1}
+
+17
+
+Case 1:16-cv-00545-JL Document 18 Filed 02/16/17 Page 22 of 23
+
+Defendants’ connections to New Hampshire. See Swiss Am. Bank, Ltd., 274 F.3d at 625 (“We
+have long held that a diligent plaintiff who sues an out-of-state corporation and who makes out a
+colorable case for the existence of in personam jurisdiction may well be entitled to a modicum of
+jurisdictional discovery if the corporation interposes a jurisdictional defense.”). As one court
+colorfully explained, such discovery is not a fishing expedition: “When the fish is identified, and
+the question is whether it is in the pond, we know no reason to deny a plaintiff the customary
+license.” Surpitski v. Hughes-Keenan Corp., 362 F.2d 254, 256 (1st Cir. 1966).
+CONCLUSION
+For the foregoing reasons, Plaintiffs respectfully request that the instant motion be denied
+in its entirety or, in the alternative, that Plaintiff be allowed the opportunity to conduct
+jurisdictional discovery.
+Respectfully submitted,
+SCOTTSDALE CAPITAL ADVISORS CORP.
+AND JOHN HURRY
+By their attorneys
+DEVINE, MILLIMET & BRANCH, P.A.
+
+Dated: February 16, 2017
+
+By:
+/s/ George Moore
+George R. Moore, Esquire (NH Bar No. 1791)
+111 Amherst Street
+Manchester, NH 03101
+603-669-1000
+
+HARDER, MIRELL & ABRAMS, LLP
+Dated: February 16, 2017
+
+{00078077;1}
+
+By:
+/s/ Charles Harder
+Charles J. Harder (pro hac vice)
+132 South Rodeo Drive, 4th Floor
+Beverly Hills, CA 90212
+424-203-1600
+
+18
+
+Case 1:16-cv-00545-JL Document 18 Filed 02/16/17 Page 23 of 23
+
+CERTIFICATE OF SERVICE
+I hereby certify that on this 16th day of February, 2017, I served a copy of the foregoing
+pleading upon Defendants’ counsel in the manner specified herein:
+Electronically served through ECF:
+Elizabeth A. McNamara, Esq. – lizmcnamara@dwt.com
+John M. Browning, Esq. - jackbrowning@dwt.com
+Steven M. Gordon, Esq. – sgordon@shaheengordon.com
+
+{00078077;1}
+
+19
+
+

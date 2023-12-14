@@ -1,0 +1,1608 @@
+Case 4:13-cv-00157-AWA-LRL Document 83 Filed 06/02/15 Page 1 of 45 PageID# 1554
+
+IN THE UNITED STATES DISTRICT COURT
+EASTERN DISTRICT OF VIRGINIA
+Newport News Division
+___________________________________
+)
+)
+IN RE LUMBER LIQUIDATORS
+)
+HOLDINGS, INC. SECURITIES
+)
+LITIGATION
+)
+)
+___________________________________ )
+
+Master File No. 4:13-cv-00157-AWA-DEM
+Hon. Arenda L. Wright Allen
+CLASS ACTION
+
+MEMORANDUM IN SUPPORT OF DEFENDANTS’ MOTION TO DISMISS
+PLAINTIFFS’ CONSOLIDATED AMENDED COMPLAINT
+
+Case 4:13-cv-00157-AWA-LRL Document 83 Filed 06/02/15 Page 2 of 45 PageID# 1555
+TABLE OF CONTENTS
+PAGE
+INTRODUCTION ......................................................................................................................... 1
+BACKGROUND ........................................................................................................................... 3
+ARGUMENT ............................................................................................................................... 10
+I.
+
+The Pleading Standards for Securities Fraud are Unusually Strict ...................... 10
+
+II.
+
+Plaintiffs Do Not and Cannot Plead a Strong Inference that Any of the
+Defendants Acted with Scienter........................................................................... 12
+
+III.
+
+IV.
+
+A.
+
+Plaintiffs Offer No Allegations Establishing a Strong Inference that
+Defendants Were Aware of Any CARB Violations ................................ 13
+
+B.
+
+Plaintiffs Offer No Allegations Establishing a Strong Inference that
+Defendants Were Aware of Any Lacey Act Violations........................... 18
+
+C.
+
+Plaintiffs Do Not Adequately Allege that Defendants Acted with
+Scienter in Making Any Statements About the Company’s
+Financial Performance ............................................................................. 22
+
+D.
+
+The Individual Defendants’ Stock Sales Are Not Unusual or
+Suspicious ................................................................................................ 22
+
+Plaintiffs Fail to Adequately Plead that Defendants Made Any False
+Statements ............................................................................................................ 26
+A.
+
+Alleged False Statements Regarding Regulatory Compliance ................ 27
+
+B.
+
+Alleged False Statements Regarding Financial Performance .................. 28
+
+Plaintiffs Fail to Adequately Plead Loss Causation ............................................. 30
+
+CONCLUSION ............................................................................................................................ 35
+
+i
+
+Case 4:13-cv-00157-AWA-LRL Document 83 Filed 06/02/15 Page 3 of 45 PageID# 1556
+TABLE OF AUTHORITIES
+PAGE(S)
+
+Cases
+In re Alstom SA Sec. Litig.,
+406 F. Supp. 2d 433 (S.D.N.Y. 2005)......................................................................................33
+Ashcroft v. Iqbal,
+556 U.S. 662 (2009) .................................................................................................................29
+In re BearingPoint, Inc. Sec. Litig.,
+525 F. Supp. 2d 759 (E.D. Va. 2007) ......................................................................................20
+In re Biogen Sec. Litig.,
+179 F.R.D. 25 (D. Mass. 1997) ................................................................................................15
+Brophy v. Jiangbo Pharm., Inc.,
+781 F.3d 1296 (11th Cir. 2015) ...............................................................................................18
+In re Burlington Coat Factory Sec. Litig.,
+114 F.3d 1410 (3d Cir. 1997)...................................................................................................26
+In re Cable & Wireless, PLC,
+321 F. Supp. 2d 749 (E.D. Va. 2004) ......................................................................................11
+In re Career Educ. Corp. Sec. Litig.,
+2006 WL 999988 (N.D. Ill. Mar. 28, 2006) .......................................................................21, 34
+In re Citigroup, Inc. Sec. Litig.,
+330 F. Supp. 2d 367 (S.D.N.Y. 2004)......................................................................................29
+City of Royal Oak Ret. Sys. v. Juniper Networks, Inc.,
+880 F. Supp. 2d 1045 (N.D. Cal. 2012) ...................................................................................15
+In re Computer Sciences Corp. Sec. Litig.,
+890 F. Supp. 2d 650 (E.D. Va. 2012) ................................................................................12, 21
+In re Constellation Inc. Sec. Litig.
+738 F. Supp. 2d 614 (D. Md. 2010) .........................................................................................26
+Corban v. Sarepta Therapeutics, Inc.,
+2015 WL 1505693 (D. Mass. Mar. 31, 2015) ..........................................................................27
+Cozzarelli v. Inspire Pharm. Inc.,
+549 F.3d 618 (4th Cir. 2008) .............................................................................................12, 20
+
+ii
+
+Case 4:13-cv-00157-AWA-LRL Document 83 Filed 06/02/15 Page 4 of 45 PageID# 1557
+
+TABLE OF AUTHORITIES
+(continued)
+Page(s)
+In re Daou Sys., Inc.,
+411 F.3d 1006 (9th Cir. 2005) .................................................................................................29
+Davis v. SPSS, Inc.,
+385 F. Supp. 2d 697 (N.D. Ill. 2005) .......................................................................................22
+Dura Pharm., Inc. v. Broudo,
+544 U.S. 336 (2005) ...................................................................................................................2
+In re ECI Telecom Ltd. Sec. Litig.,
+CV No. 01-913-A, slip op. (E.D. Va. Nov. 21, 2001) .......................................................15, 19
+In re Francesca’s Holdings Corp. Sec. Litig.,
+2015 WL 1600464 (S.D.N.Y. Mar. 31, 2015) .........................................................................30
+Gaer v. Am. Pub. Educ., Inc.,
+895 F. Supp. 2d 763 (N.D.W. Va. 2011) .................................................................................24
+In re Galileo Corp. S’holders Litig.,
+127 F. Supp. 2d 251 (D. Mass. 2001) ......................................................................................19
+Greenhouse v. MCG Capital Corp.,
+392 F.3d 650 (4th Cir. 2004) .....................................................................................................3
+Gross v. Summa Four, Inc.,
+93 F.3d 987 (1st Cir. 1996) ......................................................................................................29
+Ho v. Duoyuan Global Water, Inc.,
+887 F. Supp. 2d 547 (S.D.N.Y. 2012)......................................................................................21
+Hoffman v. Comshare, Inc.,
+183 F.3d 542 (6th Cir. 1999) ...................................................................................................17
+In re Homestore.com, Inc. Sec. Litig.,
+252 F. Supp. 2d 1018 (C.D. Cal. 2003) ...................................................................................25
+Iron Workers Local 16 Pension Fund v. Hilb Rogal & Hobbs Co.,
+432 F. Supp. 2d 571 (E.D. Va. 2006) ..........................................................................26, 29, 30
+Janus Capital Grp., Inc. v. First Derivative Traders,
+131 S. Ct. 2296 (U.S. 2011) ............................................................................................. passim
+
+iii
+
+Case 4:13-cv-00157-AWA-LRL Document 83 Filed 06/02/15 Page 5 of 45 PageID# 1558
+
+TABLE OF AUTHORITIES
+(continued)
+Page(s)
+Johnson v. Pozen Inc.,
+2009 WL 426235 (M.D.N.C. Feb. 19, 2009).............................................................................3
+Katyle v. Penn Nat’l Gaming, Inc.,
+637 F.3d 462 (4th Cir. 2011) .................................................................................30, 31, 32, 35
+Longman v. Food Lion, Inc.,
+197 F.3d 675 (4th Cir. 1999) ...................................................................................................26
+Loos v. Immersion Corp.,
+762 F.3d 880 (9th Cir. 2014) .................................................................................31, 32, 34, 35
+In re Marsh & McLennan Cos., Inc. Sec. Litig.,
+501 F. Supp. 2d 452 (S.D.N.Y. 2006)......................................................................................29
+Matrix Capital Mgmt. Fund, LP v. BearingPoint, Inc.,
+576 F.3d 172 (4th Cir. 2009) ...................................................................................................20
+In re Medimmune, Inc. Sec. Litig.,
+873 F. Supp. 953 (D. Md. 1995) ..............................................................................................15
+Metzler Investment GMBH v. Corinthian Colleges, Inc.,
+540 F.3d 1049 (9th Cir. 2008) ...........................................................................................31, 35
+Meyer v. Greene,
+710 F.3d 1189 (11th Cir. 2013) ...................................................................................31, 32, 34
+In re Michaels Stores, Inc. Sec. Litig.,
+2004 WL 2851782 (N.D. Tex. Dec. 10, 2004) ........................................................................25
+In re Mut. Funds Inv. Litig.,
+566 F.3d 111 (4th Cir. 2009) ...................................................................................................11
+Nolte v. Capital One Fin. Corp.,
+390 F.3d 311 (4th Cir. 2004) .......................................................................................27, 30, 31
+In re Omnicom Grp. Sec. Litig.,
+541 F. Supp. 2d 546 (S.D.N.Y. 2008)......................................................................................33
+Oneida Sav. Bank v. Uni-Ter Underwriting Mgmt. Corp.,
+2014 WL 4678046 (N.D.N.Y. Sept. 18, 2014) ........................................................................21
+
+iv
+
+Case 4:13-cv-00157-AWA-LRL Document 83 Filed 06/02/15 Page 6 of 45 PageID# 1559
+
+TABLE OF AUTHORITIES
+(continued)
+Page(s)
+Ottman v. Hanger Orthopedic Grp., Inc.,
+353 F.3d 338 (4th Cir. 2003) ...................................................................................................17
+In re PEC Solutions Sec. Litig.,
+2004 WL 1854202 (E.D. Va. May 25, 2004) ....................................................................22, 24
+Plumbers and Pipefitters Local Union 719 Pension Fund v. Zimmer Holdings,
+Inc.,
+2011 WL 338865 (S.D. Ind. Jan. 28, 2011) .............................................................................21
+Plymouth Cnty. Ret. Ass'n v. Primo Water Corp.,
+966 F. Supp. 2d 525 (M.D.N.C. 2013) ....................................................................................35
+Ronconi v. Larkin,
+253 F.3d 423 (9th Cir. 2001) .............................................................................................23, 24
+In re Royal Ahold N.V. Sec. & ERISA Litig.,
+351 F. Supp. 2d at 369-70 ........................................................................................................26
+Simpson v. Homestore.com, Inc.,
+519 F.3d 1041 (9th Cir. 2008) .................................................................................................25
+Stoneridge Inv. Partners, LLC v. Scientific-Atlanta, Inc.,
+552 U.S. 148 (2008) .................................................................................................................11
+Teachers’ Ret. Sys. of La. v. Hunter,
+477 F.3d 162 (4th Cir. 2007) ........................................................................................... passim
+In re Travelzoo Inc. Sec. Litig.,
+2013 WL 1287342 (S.D.N.Y. Mar. 29, 2013) .........................................................................23
+In re Trex Co., Inc. Sec. Litig.,
+454 F. Supp. 2d 560 (W.D. Va. 2006) .....................................................................................16
+Tyler v. Liz Claiborne, Inc.,
+814 F. Supp. 2d 323 (S.D.N.Y. 2011)......................................................................................17
+In re Vertex Pharm. Inc., Sec. Litig.,
+357 F. Supp. 2d 343 (D. Mass. 2005) ......................................................................................15
+Weill v. Dominion Res., Inc.,
+875 F. Supp. 331 (E.D. Va. 1994) ...........................................................................................29
+v
+
+Case 4:13-cv-00157-AWA-LRL Document 83 Filed 06/02/15 Page 7 of 45 PageID# 1560
+
+TABLE OF AUTHORITIES
+(continued)
+Page(s)
+Wietschner v. Monterey Pasta Co.,
+294 F. Supp. 2d 1102 (N.D. Cal. 2003) ...................................................................................24
+In re Winn-Dixie Stores, Inc. Sec. Litig.,
+531 F. Supp. 2d 1334 (M.D. Fla. 2007) .............................................................................17, 20
+Witthohn v. Fed. Ins. Co.,
+164 F. App’x 395 (4th Cir. 2006) ..............................................................................................3
+Yates v. Mun. Mortg. & Equity, LLC,
+744 F.3d 874 (4th Cir. 2014) ........................................................................................... passim
+Statutes
+15 U.S.C.
+§ 78j(b) .....................................................................................................................................10
+§ 78t(a) .....................................................................................................................................35
+§ 78u-4 ...............................................................................................................................11, 12
+16 U.S.C. §§ 3371- ..........................................................................................................................5
+§ 3372(f)...................................................................................................................................20
+§ 3378.........................................................................................................................................5
+Private Securities Litigation Reform Act of 1995 ................................................................. passim
+Securities Exchange Act
+§ 10(b) .............................................................................................................................. passim
+§ 20(a) ......................................................................................................................................35
+Other Authorities
+17 C.F.R.
+§ 10b-5 ............................................................................................................................. passim
+§ 240.10b-5 ........................................................................................................................10, 24
+Federal Rule of Civil Procedure
+9(b) .....................................................................................................................................11, 29
+12(b)(6) ......................................................................................................................................1
+
+vi
+
+Case 4:13-cv-00157-AWA-LRL Document 83 Filed 06/02/15 Page 8 of 45 PageID# 1561
+
+Lumber Liquidators Holdings, Inc. (“Lumber Liquidators” or the “Company”), Robert M.
+Lynch, Daniel E. Terrell, Thomas D. Sullivan, and William K. Schlegel (“Individual
+Defendants”; with Lumber Liquidators, “Defendants”), hereby move to dismiss Plaintiffs’
+Complaint with prejudice under Federal Rule of Civil Procedure 12(b)(6).1
+INTRODUCTION
+Lumber Liquidators is the largest specialty retailer of hardwood flooring in North
+America. In 2012 and 2013, the Company expanded its operations and enjoyed unprecedented
+financial success. As a result, the Company’s stock price increased significantly, nearly
+doubling in 2013 alone. In conjunction with this rise in fortunes, however, the Company also
+attracted short sellers, who were eager to profit from generating negative publicity that would
+reverse some or all of that stock price increase.
+In June 2013, an internet post from a professed short seller alleged that the Company’s
+laminate flooring products might not be in compliance with formaldehyde emissions standards.
+Subsequently, in September 2013, an environmental group provided the government with an
+advance copy of a report alleging that the Company had imported illegally harvested wood.
+With this prompting, the government executed search warrants related to the
+allegations. Another short seller, named Whitney Tilson, gave a public presentation in
+November 2013 stating that, in his opinion, formaldehyde and illegal harvesting issues could
+disrupt the Company’s supply chain and impact its margins. Finally, in 2015, Mr. Tilson (after
+increasing his short position in 2014) convinced a prominent CBS television show, 60 Minutes,
+to run an investigative report on Lumber Liquidators claiming that CBS had tested the
+Company’s laminate products and found high levels of formaldehyde. Not surprisingly, in the
+face of this drumbeat of negative publicity, Lumber Liquidators’ stock price declined.
+Negative publicity, however, is an insufficient basis for a securities fraud claim.
+Plaintiffs are reduced to asserting that because Lumber Liquidators has been accused of having
+
+1
+
+“Complaint” or “Compl.” refer to Plaintiffs’ Consolidated Amended Complaint. ECF No. 80.
+1
+
+Case 4:13-cv-00157-AWA-LRL Document 83 Filed 06/02/15 Page 9 of 45 PageID# 1562
+
+engaged in regulatory violations, those accusations are enough to adequately allege that (a)
+widespread regulatory violations occurred and (b) the Company’s senior officers knew about the
+widespread regulatory violations and hid their financial impact from investors. Plaintiffs are
+wrong.
+Under the Private Securities Litigation Reform Act of 1995 (the “PSLRA”), securities
+fraud claims are subject to heightened pleading standards that Plaintiffs completely fail to
+meet. First, Plaintiffs do not, because they cannot, plead the required strong inference of
+scienter as to any of the Defendants. The Complaint is devoid of any allegations as to how
+Defendants knew, or were severely reckless in not knowing, about any regulatory violations or
+their financial impact. Indeed, Plaintiffs’ formaldehyde-related claims amount, at best, to an
+inactionable dispute over the adequacy and meaning of various formaldehyde testing procedures.
+Plaintiffs also fail to demonstrate that the Defendants had any relevant motive to commit fraud.
+Second, Plaintiffs do not provide any factual allegations demonstrating that Lumber
+Liquidators’ statements about its regulatory compliance programs and historical financial
+performance were false or misleading.
+Finally, Plaintiffs cannot establish loss causation based on allegations that stock price
+declines occurred as the result of the internet post, the announcement of the government
+investigation, the short seller presentation, or the 60 Minutes report. While these disclosures
+created negative publicity for the Company, they were not “corrective disclosures” that provided
+the required “new facts” alerting the market to the fraud alleged in the Complaint.
+Securities fraud claims do not exist “to provide investors with broad insurance against
+market losses.” Dura Pharm., Inc. v. Broudo, 544 U.S. 336, 345 (2005). If a successful case
+could be brought every time a company is accused of having engaged in regulatory violations,
+the courts would be awash with securities litigation. Plaintiffs have failed to provide any facts to
+support their assertion that Defendants knowingly engaged in a fraudulent scheme to import
+illegal or hazardous wood products to inflate the Company’s gross margin and then hid that
+scheme from investors. Indeed, this is exactly the type of speculative securities fraud claim that
+2
+
+Case 4:13-cv-00157-AWA-LRL Document 83 Filed 06/02/15 Page 10 of 45 PageID# 1563
+
+Congress sought to prevent when it passed the PSLRA. Defendants respectfully request that the
+Court dismiss Plaintiffs’ claims with prejudice.
+BACKGROUND2
+The Company’s Business – Lumber Liquidators is the largest specialty retailer of
+hardwood flooring in North America. (2014 Form 10-K at 2, Ex. 1); see also Compl. ¶ 6. The
+Company offers an extensive assortment of exotic and domestic hardwood species, engineered
+hardwood, laminate, vinyl plank, bamboo, and cork direct to the consumer. Id. It also provides
+a wide selection of flooring enhancements and accessories, including moldings, noise-reducing
+underlay, adhesives, and flooring tools. (2014 Form 10-K at 4, Ex. 1.) The Company’s primary
+customers are homeowners or contractors acting on behalf of homeowners. (2014 Form 10-K at
+7, Ex. 1); see also Compl. ¶ 6.
+The Company is well-diversified in its product sources, in terms of both geography and
+number of suppliers. From 2012 to 2014, approximately half of the Company’s sales were of
+products sourced in North America, with the other half coming from Asia (plus a small
+additional percentage from South America, Europe, and Australia). (2014 Form 10-K at 4, Ex.
+1.) In 2014, 43% of these products were hardwood (solid and engineered), with less than 2% of
+that hardwood consisting of oak purchased from northern China. (Business Update presentation
+at 42, attached to March 12, 2015 Form 8-K, Ex. 2.)
+A number of changes to Lumber Liquidators’ business from 2011 to 2013 led to an
+
+2
+
+As is permitted in securities fraud cases, this factual background is drawn from all wellpleaded facts, judicially noticed matters, and documents central to or referred to in the
+Complaint. On a motion to dismiss, “a court may consider official public records, documents
+central to plaintiff’s claim, and documents sufficiently referred to in the complaint so long as the
+authenticity of these documents is not disputed.” Witthohn v. Fed. Ins. Co., 164 F. App’x 395,
+396 (4th Cir. 2006) (unpublished). Courts also may take “judicial notice of the content of
+relevant SEC filings and other publicly available documents.” Yates v. Mun. Mortg. & Equity,
+LLC, 744 F.3d 874, 881 (4th Cir. 2014). These publicly available documents can include
+newspaper articles, press releases, transcripts from conference calls, analysts’ reports, and stock
+prices. See. e.g., Johnson v. Pozen Inc., 2009 WL 426235, at *1-2 (M.D.N.C. Feb. 19, 2009);
+see also Greenhouse v. MCG Capital Corp., 392 F.3d 650, 655 n.4 (4th Cir. 2004). All exhibits
+referred to in this Memorandum are exhibits to the Declaration of Lyle Roberts in support of the
+Motion to Dismiss.
+3
+
+Case 4:13-cv-00157-AWA-LRL Document 83 Filed 06/02/15 Page 11 of 45 PageID# 1564
+
+increase in the Company’s gross margins from 35.3% to 41.1%.3 Compl. ¶ 53; (2013 Form 10-K
+at 28, Ex. 3.) These changes included a series of “sourcing initiatives” designed to reduce the
+cost of its products. Compl. ¶ 47. The sourcing initiatives covered three primary areas:
+(1) volume-based discounts and cost sharing with the Company’s suppliers in areas such as
+marketing, product samples, and new store openings; (2) engaging with mills in competitive line
+reviews of specific merchandise categories to evaluate product assortment, quality, logistics, and
+cost; and (3) direct sourcing from mills to better control product cost and quality, enhance
+forecasting, and broaden product assortment.4 Compl. ¶ 215.
+Although the sourcing initiatives and related decline in product costs were an important
+part of the gross margins increase, they were not the only factor. (2013 Form 10-K at 28-29, Ex.
+3.) Of the 6.1 percentage point increase in gross margin between 2011 and 2013, only 1.5 to 2
+percentage points were attributable to the sourcing initiatives. (CSFB presentation at 20, 24,
+attached to December 9, 2013 Form 8-K, Ex. 4.) Most of the increase – 2.5 to 4 percentage
+points – was attributable to changes in the Company’s overall sales mix, including an increase in
+the average selling price for its products.5 (Id.)
+3
+
+Gross margin is a “company’s total sales revenue minus its cost of goods sold, divided by the
+total sales revenue, expressed as a percentage. The gross margin represents the percent of total
+sales revenue that the company retains after incurring the direct costs associated with producing
+the goods and services sold by a company.” Investopedia, “Gross Margin,”
+http://www.investopedia.com /terms/g/grossmargin.asp (last visited May 29, 2015).
+4
+As part of the implementation of these initiatives, in September 2011, the Company acquired
+certain assets of Sequoia Floorings (“Sequoia”) in China. Compl. ¶ 49. Whereas Lumber
+Liquidators previously had used Sequoia to provide sourcing services for most of its purchases
+from China suppliers, the Company was now able to have a direct relationship with these
+suppliers. Id. ¶ 49-50. In addition, it reduced its costs by no longer having to pay Sequoia to act
+as a middleman in the purchasing process. Id. ¶ 217 (cost of product declined, in part, due to
+“net cost reduction of owning those [Sequoia] services”).
+5
+Lumber Liquidators competes against both local flooring retailers and national home
+improvement warehouse chains (e.g., Home Depot and Lowe’s) in selling hardwood flooring to
+consumers. Compl. ¶ 53. Home Depot and Lowe’s, however, also sell a vast array of other
+products, including building materials, home improvement products, paint, lawn and garden
+items, and related services. (The Home Depot 2014 Form 10-K at 1, Ex. 5; Lowe’s 2014 Form
+10-K at 5, Ex. 6.) Indeed, Lumber Liquidators estimates that its “product categories represent
+less than 2% of sales at an average Home Depot or Lowe’s store.” (2014 Form 10-K at 7, Ex. 1.)
+When Home Depot or Lowe’s provides investors with its gross margins, those gross margins
+reflect the product costs and sales revenues for all of the products sold by those companies, not
+just hardwood flooring. Compl. ¶¶ 46, 53.
+4
+
+Case 4:13-cv-00157-AWA-LRL Document 83 Filed 06/02/15 Page 12 of 45 PageID# 1565
+
+The Regulatory Environment for Wood Products – As an importer and seller of
+hardwood flooring, Lumber Liquidators is subject to numerous environmental regulations.
+These environmental regulations include: (a) the Lacey Act, 16 U.S.C. §§ 3371-3378, which
+bans the import and trade of illegally sourced wood products (including wood products sourced
+in violation of foreign laws), and (b) regulations related to formaldehyde emissions from wood
+products as established by the California Air Resources Board (“CARB”), Cal. Code. Regs., Tit.
+17, § 93120, et seq.; Compl. ¶¶ 69-73, 85-90.
+The Lacey Act requires importers of wood products to exercise “due care” in identifying
+illegally harvested wood, and companies found to have imported such wood can be subject to
+civil or criminal sanctions. Compl. ¶ 72. The Lacey Act does not itself, however, ban the
+importation of wood products from any particular geographic area. The relevant issue is whether
+the taking of the particular wood products at issue was illegal under the laws of the country
+where they were harvested, not whether the harvesting had an environmental impact.
+CARB’s Composite Wood Products Airborne Toxic Control Measure (“ATCM”) sets
+limits on how much formaldehyde may be emitted from composite wood raw material products
+sold in the state of California. Compl. ¶¶ 86-87. CARB requires manufacturers of composite
+wood products, not retailers like Lumber Liquidators, to “conduct emission testing of their
+products . . . to verify that the composite wood products produced comply with the [applicable]
+emission standards . . . .” CARB ATCM Frequently Asked Questions at 6, Ex. 7, available at
+http://www.arb.ca.gov/toxics/compwood/implementation/faq.htm (last accessed May 30, 2015).
+To satisfy these requirements, CARB requires the manufacturers to ensure that those products
+emit no more than 0.05 ppm of formaldehyde under one of two tests: a test using a “desiccator”
+or a test using a “small chamber.” Id. at 7-8. CARB’s enforcement staff uses a different test –
+“deconstructive testing” – to test finished goods in CARB laboratories for compliance with
+applicable emission standards, id. at 6, but manufacturers, fabricators, and retailers are not
+required to engage in such finished goods testing. Id.
+Lumber Liquidators has publicly recognized the need to work with its suppliers to
+5
+
+Case 4:13-cv-00157-AWA-LRL Document 83 Filed 06/02/15 Page 13 of 45 PageID# 1566
+
+comply with these environmental regulations. Compl. ¶¶ 171, 271, 221, 316. As a part of these
+efforts, the Company has instituted compliance processes that are performed and monitored by
+approximately 60 professionals around the world, including in China. Id. ¶¶ 58, 240, 247. The
+Company also has gone beyond its obligations under the ATCM by augmenting its on-site
+compliance efforts with additional testing in its own labs and in independent certified facilities.
+Id. ¶¶ 58, 240.
+Both Lacey Act and CARB compliance, however, cannot be achieved without the
+cooperation of a company’s suppliers. It is the suppliers who control both the purchases of raw
+wood and the manufacturing process that uses resins containing formaldehyde. As a result,
+Lumber Liquidators has consistently warned investors that “while our suppliers agree to operate
+in compliance with applicable laws and regulations, including those relating to environmental
+and labor practices, we do not control our suppliers. Accordingly, we cannot guarantee that they
+comply with such laws and regulations or operate in a legal, ethical, and responsible manner.”
+(2011 Form 10-K at 13, Ex. 8; 2012 Form 10-K at 13, Ex. 9; 2013 Form 10-K at 13, Ex. 3; 2014
+Form 10-K at 14, Ex. 1.) If the Company’s suppliers were to violate applicable environmental
+laws, such conduct could “reduce demand for our products if, as a result of such violation or
+failure, we were to attract negative publicity” or be “expose[d] . . .to legal risks as a result of our
+purchase of product from non-compliant suppliers.” (2011 Form 10-K at 13, Ex. 8; 2012 Form
+10-K at 13, Ex. 9.)
+The Zhou Post – On June 20, 2013, Xuhua Zhou wrote a post on the SeekingAlpha.com
+website about Lumber Liquidators’ CARB compliance (the “Zhou Post”). Compl. ¶¶ 126-27.
+Seeking Alpha is an investment website that accepts posts from public “contributors,” who are
+then paid, in part, based on how many people choose to view the posts. (See Seeking Alpha,
+“Article Submission Guidelines,” Ex. 10, available at http://seekingalpha.com/page/articlesubmission-guidelines (last visited May 30, 2015). As disclosed by Seeking Alpha, Zhou held a
+short position in Lumber Liquidators’ stock – i.e., he stood to make money if the Company’s
+stock price declined. (Zhou Post at 1, Ex. 11.) Zhou allegedly engaged independent labs to test
+6
+
+Case 4:13-cv-00157-AWA-LRL Document 83 Filed 06/02/15 Page 14 of 45 PageID# 1567
+
+samples of two of Lumber Liquidators’ wood products for formaldehyde emissions using
+deconstructive testing. He reported that one of the two samples emitted formaldehyde at a level
+that exceeded CARB limits. (Id. at 6-7); Compl. ¶¶ 127-29.
+Execution of Federal Search Warrant – On September 26, 2013, federal agents
+executed search warrants at Lumber Liquidators’ Virginia corporate offices related to the
+importation of certain wood products. Compl. ¶ 19. According to a subsequent Wall Street
+Journal article (Ex. 12), the search warrants were prompted by the government’s receipt of an
+advance copy of a report by an environmental group called the Environmental Investigation
+Agency (“EIA”) that discussed Lumber Liquidators (the “EIA Report”). Compl. ¶¶ 17-18.
+The EIA Report – The EIA Report, which was issued to the public on October 11, 2013,
+concerns hardwood logging in the Russian Far East (“RFE”). (See EIA Report, Ex. 13.)
+Logging in the RFE is permissible if done pursuant to valid permits, but the World Wildlife Fund
+has concluded that “at least 50% of the oak exported in 2010 was illegally harvested.” (Id. at 7.)
+The EIA investigated the trade in RFE hardwoods and alleged that one of the major purchasers
+of illegal RFE oak is a wood-flooring company called Suifenhe Xingjia Economic and Trade
+Company (“Xingjia”). (Id. at 6.) According to the report, Xingjia told EIA that it illegally cuts
+outside of its concession boundaries, overcuts within those boundaries, and purchases over 90%
+of its stock from RFE trading companies that do not provide the required proof of legality of
+sourcing. Compl. ¶ 97; (EIA Report at 5, Ex.13.) An affiliate of Xingjia was one of Lumber
+Liquidators’ suppliers of wood products. While the EIA Report criticized Lumber Liquidators’
+business relationship with Xingjia, it did not allege that (a) any actual wood purchased by
+Lumber Liquidators was illegally harvested, or (b) Lumber Liquidators knew about any
+harvesting issues with Xingjia’s oak products. Indeed, the EIA merely concluded, based on pure
+speculation, that Lumber Liquidators “would have learned of the known high risk of illegally
+sourced timber in the RFE and known illegal actions of Xingjia and its suppliers” if it had “asked
+appropriate questions.” (Id. at 21.)
+The Tilson Presentation – On November 22, 2013, a hedge fund manager named
+7
+
+Case 4:13-cv-00157-AWA-LRL Document 83 Filed 06/02/15 Page 15 of 45 PageID# 1568
+
+Whitney Tilson, who held a short position in Lumber Liquidators’ stock, gave a presentation
+opining that the stock was overvalued (the “Tilson Presentation”). (Tilson Presentation at 18-19,
+Ex. 14.) The presentation was predicated entirely on existing public information about Lumber
+Liquidators, including the Zhou Post, the EIA report, and the Company’s financial disclosures.
+Tilson concluded that “any disruption to Lumber Liquidator’s supply chain and/or margins could
+result in the stock being cut in half.” (Id. at 19.)
+2Q 2014 Earnings Announcement – On July 9, 2014, the Company updated its second
+quarter earnings forecast. The Company announced that its gross margin in the second quarter of
+2014 was expected to contract in comparison to the second quarter of 2013, and reported second
+quarter sales of $263.1 million, compared with analysts’ projections of $303.2 million. Compl. ¶
+359. The Company attributed the majority of the less than 1% decline in gross margin to
+“adverse net shifts in sales mix and greater discounting at the point of sale.” (Press Release
+attached to July 9, 2014 Form 8-K at 1, Ex. 15.) The remainder – at most $18 million of the
+sales shortfall – resulted from inventory constraints caused by the Company’s implementation of
+enhanced “supply controls” and “quality assurance requirements.” Compl. ¶ 361. As Plaintiffs
+concede, this decrease in sales reflected the Company’s further enhancement of its internal
+compliance program in 2014. See, e.g., id. ¶ 296 (noting Company’s heightened “quality
+assurance requirements”).
+Proposition 65 Lawsuit – On July 23, 2014, Global Community Monitor (“GCM”) and
+Sunshine Park LLC6 filed a lawsuit against the Company in California state court. Id. ¶ 133.
+The Complaint alleges that the Company violated Proposition 65 – which requires businesses to
+notify Californians about significant amounts of chemicals in their products – by failing to warn
+consumers in California that certain of the Company’s products emit formaldehyde in excess of
+the applicable safe harbor limits. Id. ¶¶ 132-34. GCM conducted its own deconstructive tests on
+
+6
+
+The plaintiffs in the Proposition 65 suit “are backed by short sellers.” See Ex. 16, available at
+http://www.cbsnews.com/news/lumber-liquidators-linked-to-health-and-safety-violations/ (last
+accessed May 27, 2015).
+8
+
+Case 4:13-cv-00157-AWA-LRL Document 83 Filed 06/02/15 Page 16 of 45 PageID# 1569
+
+certain of the Company’s Chinese-made laminate flooring products and allegedly found that they
+violated CARB limits.7
+February 25, 2015 Earnings Call – On February 25, 2015, the Company held a
+conference call with analysts to discuss the Company’s results for 2014. The Company stated
+that the DOJ might file criminal charges stemming from its 2013 Lacey Act investigation, and
+that it believed the news program, 60 Minutes, would feature Lumber Liquidators in an
+“unfavorable light with regard to [its] sourcing and product quality, specifically related to
+laminates.” Compl. ¶ 365.
+60 Minutes Report – On March 1, 2015, the CBS News television program 60 Minutes
+aired a news report entitled “Lumber Liquidators” on the levels of formaldehyde in the
+Company’s Chinese-made laminate flooring products. Tilson brought the story to 60 Minutes
+after he “established [his] full (~3%) short position” in the Company.8 60 Minutes reported that
+30 of 31 samples it tested (using the deconstructive method) exceeded the formaldehyde
+emission limits set by CARB. Compl. ¶¶ 138-39. These findings were the only lab results
+reported by 60 Minutes with respect to CARB compliance. Id. Using a separate “surface
+testing” method, 60 Minutes found that only one of the three samples tested “emitted a
+concentration of formaldehyde . . . that the US EPA . . . has cited as ‘polluted indoor
+conditions.’” Compl. ¶¶ 140-41; Ex. 19, http://www.cbsnews.com/news/more-on-tests-used-toinvestigate-lumber-liquidators (last accessed June 1, 2015); (see also Piper Jaffray, April 13,
+2015 at 2-3, Ex. 25.). In addition, 60 Minutes reported that employees at three mills used by
+Lumber Liquidators claimed to have used cheaper “core boards with higher levels of
+formaldehyde” in Lumber Liquidators products, falsely labeled Lumber Liquidators products as
+CARB-compliant, and charged the Company 10-15% less on price. Compl. ¶¶ 144-45.
+
+7
+
+See GCM March 2, 2015 Press Release, Ex. 17, available at http://www.gcmonitor.org/pressrelease-all-chinese%E2%80%90made-laminates-purchased-for-testing-failed-carb-standards/
+(last accessed May 27, 2015).
+8
+See Ex. 18, available at http://seekingalpha.com/article/2972606-why-lumber-liquidatorswood-testing-doesnt-comply-with-carb (last accessed May 27, 2015).
+9
+
+Case 4:13-cv-00157-AWA-LRL Document 83 Filed 06/02/15 Page 17 of 45 PageID# 1570
+
+The Company’s Response to the 60 Minutes Report – On March 2, 2015, the
+Company responded to the allegations in the 60 Minutes piece in a Form 8-K. Id. ¶ 149. The
+Company reaffirmed its belief in the safety of its products and stated “that 60 Minutes used an
+improper test method in its reporting that is not included in CARB’s regulations and does not
+measure a product according to how it is actually used by consumers.” Id. ¶ 149. In a
+subsequent presentation on March 12, 2015, the Company detailed its extensive CARB
+compliance program, which includes a full-time compliance team on the ground in China that
+has steadily grown in size since 2011. (Presentation attached to the Company’s March 12, 2015
+Form 8-K at 18, 28, 31, Ex. 2.) The Company also requires all of its suppliers to be CARBcertified, or to source from certified manufacturers; regularly confirms core manufacturercertification on the CARB website; conducts “announced and unannounced visits to [its]
+suppliers to conduct inspections and select samples” for testing; reviews supplier documentation
+quarterly; tests composite wood cores according to CARB testing procedures; and tests “finished
+goods as sold in the store . . . using standard ASTM small chamber test methods . . . .” Id. at 28,
+31.
+In March 2015, the Company initiated a program that provided at-home air testing kits to
+consumers. (May 7, 2015 Press Release on Laminate Flooring Sourced from China at 1, Ex. 20.)
+Preliminary results of these indoor air quality tests released on May 7, 2015 “indicate that over
+97% of customers’ homes were within the protective guidelines established by the World Health
+Organization for formaldehyde levels in indoor air.” Id. The Company also established a
+Special Committee of the Board to review the certification and labeling processes of its Chinese
+suppliers. Id. at 2. Finally, in May 2015, despite the Company’s continued belief in the safety of
+its products and the positive results from its air testing program, the Company suspended its sales
+of Chinese laminate products pending completion of the Committee’s review. Id.
+ARGUMENT
+I.
+
+The Pleading Standards for Securities Fraud are Unusually Strict
+Plaintiffs’ principal claim arises under Section 10(b) of the Securities Exchange Act, 15
+10
+
+Case 4:13-cv-00157-AWA-LRL Document 83 Filed 06/02/15 Page 18 of 45 PageID# 1571
+
+U.S.C. § 78j(b), and SEC Rule 10b-5, 17 C.F.R. § 240.10b-5 (a “Rule 10b-5 claim”). See
+Compl. ¶ 162. To successfully state a Rule 10b-5 claim, a plaintiff must establish: “(1) a
+material misrepresentation or omission by the defendant; (2) scienter; (3) a connection between
+the misrepresentation or omission and the purchase or sale of a security; (4) reliance upon the
+misrepresentation or omission; (5) economic loss; and (6) loss causation.” Stoneridge Inv.
+Partners, LLC v. Scientific-Atlanta, Inc., 552 U.S. 148, 157 (2008).
+It is not enough, however, for a plaintiff to engage in notice pleading. A federal
+securities fraud claim is subject to various heightened pleading standards. A plaintiff must
+satisfy Federal Rule of Civil Procedure 9(b), which requires fraud claims to be pled “with
+particularity.” The particularity requirement means that a plaintiff must plead “the time, place,
+and contents of the false representations, as well as the identity of the person making the
+misrepresentation and what he obtained thereby.” In re Mut. Funds Inv. Litig., 566 F.3d 111,
+120 (4th Cir. 2009) (internal quotation marks omitted), rev’d on other grounds sub nom. Janus
+Capital Grp., Inc. v. First Derivative Traders, 131 S. Ct. 2296 (2011).
+In addition, Congress enacted the PSLRA with the specific objective of discouraging
+“speculative lawsuits.” In re Cable & Wireless, PLC, 321 F. Supp. 2d 749, 761 (E.D. Va. 2004).
+To that end, the PSLRA reaffirms and augments Fed. R. Civ. P. 9(b) by requiring a plaintiff to
+“specify each statement alleged to have been misleading, the reason or reasons why the
+statement is misleading, and, if an allegation regarding the statement or omission is made on
+information and belief, . . . [to] state with particularity all facts upon which that belief is formed.”
+15 U.S.C. § 78u-4(b)(1).
+The PSLRA also requires that a plaintiff must, “with respect to each act or omission
+alleged to violate [the securities laws], state with particularity facts giving rise to a strong
+inference that the defendant acted with the required state of mind” – i.e., scienter. 15 U.S.C.
+§ 78u-4(b)(2)(A) (emphasis added). To meet this requirement, “a plaintiff must allege that the
+defendant made the misleading statement or omission intentionally or with ‘severe recklessness’
+
+11
+
+Case 4:13-cv-00157-AWA-LRL Document 83 Filed 06/02/15 Page 19 of 45 PageID# 1572
+
+regarding the danger of deceiving the plaintiff.”9 Teachers’ Ret. Sys. of La. v. Hunter, 477 F.3d
+162, 184 (4th Cir. 2007). “A plaintiff must allege facts that support a ‘strong inference’ that
+each defendant acted with at least recklessness in making [each] false statement.” Id. (emphasis
+in original).
+“‘An inference of scienter can only be strong . . . when it is weighed against the opposing
+inferences that may be drawn from the facts in their entirety.’” Yates, 744 F.3d at 885 (internal
+punctuation omitted). Thus, evaluating whether a strong inference of scienter has been pled
+“necessarily [entails] a comparative inquiry.” Id. “‘The question is whether the allegations in
+the complaint, viewed in their totality and in light of all the evidence in the record, allow [the
+court] to draw a strong inference, at least as compelling as any opposing inference,’” that a
+defendant acted knowingly or with severe recklessness. Id. “When the facts as a whole more
+plausibly suggest that the defendant acted innocently – or even negligently – rather than with
+intent or severe recklessness, the action must be dismissed.” Cozzarelli v. Inspire Pharm. Inc.,
+549 F.3d 618, 624 (4th Cir. 2008).
+Complaints that fail to meet these heightened pleading standards must be dismissed. See
+15 U.S.C. § 78u-4(b)(3)(A). Here, Plaintiffs fail to adequately plead the existence of scienter,
+falsity, and loss causation.
+II.
+
+Plaintiffs Do Not and Cannot Plead a Strong Inference that Any of the Defendants
+Acted with Scienter
+The Complaint’s factual allegations fail to establish the required “strong inference” that
+
+any of the Defendants acted with scienter.10 The Complaint identifies no document, witness, or
+
+9
+
+“In the § 10(b) context, a reckless act is one that is ‘so highly unreasonable and such an
+extreme departure from the standard of ordinary care as to present a danger of misleading the
+plaintiff to the extent that the danger was either known to the defendant or so obvious that the
+defendant must have been aware of it.’” Yates, 744 F.3d at 884.
+10
+For a corporation to have acted with the requisite scienter, at least one of its agents that made
+the false or misleading statement must have acted with scienter. See Teachers’ Ret., 477 F.3d at
+184 (strong inference of scienter required for “at least one authorized agent of the corporation”);
+In re Computer Sciences Corp. Sec. Litig., 890 F. Supp. 2d 650, 664-65 (E.D. Va. 2012)
+(rejecting argument that scienter of corporate agents who did not make statements in question
+could be imputed to corporation).
+12
+
+Case 4:13-cv-00157-AWA-LRL Document 83 Filed 06/02/15 Page 20 of 45 PageID# 1573
+
+other piece of evidence establishing that any Individual Defendant – or anyone else at the
+Company – knew or was severely reckless in not knowing of the supposed regulatory violations
+and their alleged impact on Lumber Liquidators’ financial performance. Indeed, the most
+compelling inference to be drawn from a holistic analysis of all of the facts properly before this
+Court is that, even if regulatory violations occurred, Defendants acted appropriately in making
+the Company’s public disclosures.
+A.
+
+Plaintiffs Offer No Allegations Establishing a Strong Inference that
+Defendants Were Aware of Any CARB Violations
+
+Plaintiffs allege that “the Company sourced laminate and engineered flooring products
+that contained and emitted dangerously high levels of formaldehyde and that failed to comply
+with applicable laws and regulations governing formaldehyde emissions under CARB
+standards.” Compl. ¶ 13. Even if Plaintiffs are ultimately able to demonstrate that this took
+place (in unspecified quantities and at unspecified times), they have failed to adequately allege,
+as to each Defendant, that the Defendant knew (or was severely reckless in not knowing) (a)
+about the importation of laminate products with high levels of formaldehyde, and (b) that those
+formaldehyde levels did not comply with applicable laws and regulations governing
+formaldehyde emissions, and (c) that the Company’s statements regarding compliance with those
+laws and regulations were false or misleading. Indeed, rather than offer any specific factual
+allegations demonstrating individualized knowledge or severe recklessness, Plaintiffs make
+general allegations that courts have routinely rejected as insufficient to meet the “strong
+inference” standard.
+First, Plaintiffs assert that outside third parties have “easily determined that Lumber
+Liquidators’ Chinese-made laminates and engineered flooring products contained and emitted
+high levels of formaldehyde.” Compl. ¶ 336. Contrary to the repeated assertions in the
+Complaint, however, it is unclear that Lumber Liquidators has sold any products that contain an
+inappropriately high level of formaldehyde. There is an ongoing scientific dispute about how to
+test the formaldehyde emissions from laminate flooring that is not resolved by any applicable
+
+13
+
+Case 4:13-cv-00157-AWA-LRL Document 83 Filed 06/02/15 Page 21 of 45 PageID# 1574
+
+CARB guidance. The Company has consistently taken the position, based on its own testing,
+that its laminate flooring products are compliant with CARB standards.
+Notably missing from the Complaint are any factual allegations suggesting that Lumber
+Liquidators’ reliance on its own testing (which the Company was not even required to conduct)
+was unreasonable. The Zhou Post, the Global Community case, and the 60 Minutes report all
+use deconstructive testing, which takes apart the finished product and tests the core (which is the
+only component regulation by CARB’s emissions standards). (Script for Business Update
+Conference Call attached to the Company’s March 12, 2015 Form 8-K at 13, Ex. 21.) CARB’s
+enforcement staff also uses deconstructive testing to test finished goods, but CARB provides no
+standards for evaluating the results. See CARB ATCM Frequently Asked Questions at 6, Ex. 7.
+Moreover, it is indisputable that deconstructive testing does not measure a product the way it is
+used in a home. Removing the outer protective layers, along with the adhesive glues and resins,
+exposes the less dense fiberboard that was previously sealed and protected by higher density
+barriers. (Ex. 21, March 12, 2015 Form 8-K at 13.) This process “promotes formaldehyde
+release because the higher density areas, which act as barriers, have been stripped away.” Id. 11
+Accordingly, outside groups, including most notably the Consumer Product Safety
+Commission (CPSC), have apparently agreed with Lumber Liquidators that the use of a
+“deconstruction test” – i.e., the test used by all of the individuals and entities who have claimed
+that the Company is not in compliance with CARB – is inappropriate to evaluate emissions for a
+consumer. 12 The existence of a scientific disagreement over testing procedures, by itself,
+11
+
+CARB recognizes that “[v]arious studies have shown that laminated flooring . . . [with] sealed
+surfaces and edges reduce the emissions from the platform materials.” CARB Fact Sheet, Ex.
+22, available at http://www.arb.ca.gov/html/fact_sheets/composite_wood_flooring_faq.pdf (last
+accessed May 27, 2015).
+12
+When the CPSC announced that it was launching an investigation into Lumber Liquidators
+laminate products, it stated that the Commission would not utilize deconstructive testing. Rather,
+it would rely on “a method that most closely replicates the way that the products are used in the
+home.” Transcript of CPSC Media Call on Lumber Liquidators at 8, Ex. 23, available at
+http://www.cpsc.gov/Global/Newsroom/CPSCPressCall03262015_FINAL.pdf (last accessed
+May 27, 2015). See also Federal Wood Industries Coalition Statement on Deconstructive
+Testing, Ex. 24, (“[Deconstructive testing] is not required by CARB to demonstrate
+compliance[,] . . . nor has it been adopted by ASTM or other consensus standards bodies. The
+14
+
+Case 4:13-cv-00157-AWA-LRL Document 83 Filed 06/02/15 Page 22 of 45 PageID# 1575
+
+obviously cannot form any inference of scienter. See In re Vertex Pharm. Inc., Sec. Litig., 357 F.
+Supp. 2d 343, 355 (D. Mass. 2005) (“existence of scientific disagreement” as to potential
+viability of drug cannot provide necessary inference of scienter).13
+Nor have Plaintiffs provided any basis for questioning that Defendants believed Lumber
+Liquidators was in compliance with the CARB standards. Plaintiffs interviewed a series of
+former Lumber Liquidators employees who allegedly worked in senior positions at the Company
+and are familiar with its China operations. Compl. ¶¶ 60-68. But none of these former
+employees claimed, even anonymously, that Lumber Liquidators knew about CARB violations
+or even that the Company had any deficiencies in its regulatory compliance program. See, e.g.,
+In re ECI Telecom Ltd. Sec. Litig., CV No. 01-913-A, slip op. at 7 (E.D. Va. Nov. 21, 2001), Ex.
+26 (“Because plaintiffs clearly have obtained the cooperation of former [defendant] employees,
+this Court expects that plaintiffs should be able to articulate these claims with the requisite
+specificity.”); City of Royal Oak Ret. Sys. v. Juniper Networks, Inc., 880 F. Supp. 2d 1045, 1064
+(N.D. Cal. 2012) (dismissing complaint where plaintiffs “fail[ed] to allege facts that provide an
+analytical link between the particular facts supplied by the confidential witness and the ultimate
+conclusion that Juniper could not meet its overall revenue and growth goals”). These
+“omissions” cut strongly against any inference of scienter.14
+deconstructive method . . . can fundamentally change the emission properties of the panel
+substrate.”), available at http://www.iwpawood.org/news/221058/IWPA-Joins-IndustryAssociations-in-Statement-on-Deconstructive-Testing-for-Formaldehyde-Emiissions.htm (last
+accessed May 27, 2015).
+13
+See also In re Biogen Sec. Litig., 179 F.R.D. 25, 38 (D. Mass. 1997) (“split of expert opinion”
+cannot support either fraudulent intent or recklessness); In re Medimmune, Inc. Sec. Litig., 873 F.
+Supp. 953, 966-67 (D. Md. 1995) (“Medical researchers may well differ over the adequacy of
+given testing procedures and in the interpretation of test results. Although the Advisory
+Committee may have disagreed, there is nothing to suggest that Defendants could not reasonably
+have entertained the opinion, for example, that the concentration of test results at the Denver site
+was a function of either or both the altitude or the higher proportion of bronchopulmonary
+dysplasia patients at that site.”). The fact that 60 Minutes also applied a test that used a “surface”
+method is irrelevant. Compl. ¶¶ 140-141. The Complaint conveniently omits the fact that, under
+that testing methodology, only one of three Lumber Liquidators samples emitted a high level of
+formaldehyde. (Id.; see also http://www.cbsnews.com/news/more-on-tests-used-to-investigatelumber-liquidators, Ex. 19; Piper Jaffray, April 13, 2015 at 2-3, Ex. 25.)
+14
+The only confidential witness who supplies any statements concerning Lacey Act or CARB
+compliance is CW6, but the statements attributed to him are both unreliable and inadequate.
+15
+
+Case 4:13-cv-00157-AWA-LRL Document 83 Filed 06/02/15 Page 23 of 45 PageID# 1576
+
+Second, Plaintiffs argue that Defendants knew that the laminate flooring was non-CARB
+compliant based on their positions at the Company and the fact that they are in the business of
+selling wood flooring. In particular, Plaintiffs assert (a) the Individual Defendants oversaw
+“Lumber Liquidators’ sourcing practices in China,” Compl. ¶¶ 340-41, and (b) laminate flooring
+was a “core operation” of the Company. Compl. ¶¶ 346-47.
+As a threshold matter, general assertions that defendants must have acted intentionally or
+recklessly because they were executives or the relevant product was important to the company
+must be rejected. Yates, 744 F.3d at 890 (“[I]n accordance with several of our sister circuits, we
+reject plaintiffs’ contention that the individual defendants must have acted intentionally or
+recklessly . . . merely because (1) they were senior executives, and (2) [the operations at issue]
+represent a core business of the Company.”). Without “additional detailed allegations
+establishing the defendants’ actual exposure to the . . . problem,” these “must have known”
+allegations cannot create a strong inference of scienter. Id.
+Moreover, Plaintiffs’ allegations concerning the Individual Defendants’ roles at the
+Company and the “core” nature of laminate flooring are deficient on their face. While some of
+the Individual Defendants participated in the Company’s sourcing initiatives, Compl. ¶¶ 340-41,
+there are no allegations that they personally were involved with CARB compliance or ever
+received any information concerning CARB compliance. Plaintiffs’ suggestion that because Mr.
+Lynch and Mr. Schlegel visited some of the Chinese mills they must have known about CARB
+
+Compl. ¶¶ 60(f), 67-68. First, CW6 is described as working in inbound sales, commercial sales,
+marketing, and special events, not in compliance or as a products buyer. Compl. ¶ 60(f).
+Accordingly, there is no reason to believe that CW6 had any first-hand knowledge of regulatory
+compliance issues. Teacher’s Ret., 477 F.3d at 174 (“When the complaint chooses to rely on
+facts provided by confidential sources, it must describe the sources ‘with sufficient particularity
+to support the probability that a person in the position occupied by the source would possess the
+information alleged or in the alternative provide other evidence to support their allegations.’”).
+Second, CW6’s supposed statements – e.g., “With regard to laminates and formaldehyde content,
+CW6 said that ‘there may have been some wrong doing on our part.’” (Compl. ¶ 68) – do not
+provide any facts that could be used to create an inference of scienter, even if some unspecified
+“wrong doing” had occurred. In re Trex Co., Inc. Sec. Litig., 454 F. Supp. 2d 560, 573 (W.D.
+Va. 2006) (CW statements were “based on speculation and opinion and do not provide the
+information and belief necessary to support pleadings under the PSLRA.”).
+16
+
+Case 4:13-cv-00157-AWA-LRL Document 83 Filed 06/02/15 Page 24 of 45 PageID# 1577
+
+compliance issues is spurious. Nowhere do Plaintiffs allege that the Individual Defendants were
+given tours of any of the supposedly non-CARB compliant mills or that they were informed of
+any CARB compliance issues. See, e.g., In re Winn-Dixie Stores, Inc. Sec. Litig., 531 F. Supp.
+2d 1334, 1350 (M.D. Fla. 2007) (“‘[I]t is not enough to make conclusory allegations that
+Defendants had access to the ‘true facts’ in order to demonstrate scienter, particularly when the
+complaint fails to allege which defendant knew what, how they knew it, or when.”). Laminate
+flooring also was not a “core operation” of Lumber Liquidators. A “core operation” is
+something that constitutes “nearly all of a company’s business.” Tyler v. Liz Claiborne, Inc., 814
+F. Supp. 2d 323, 343-44 (S.D.N.Y. 2011) (rejecting allegation that business constituting 16% of
+sales was “core” business). A product that constitutes only 23% of a company’s net sales – as
+laminates allegedly did for Lumber Liquidators in 2011 (Compl. ¶ 347) – obviously does not
+meet that definition.
+Finally, Plaintiffs appear to allege that Defendants disregarded supposed “red flags” such
+as “absurdly low prices” for laminates, Compl. ¶¶ 342-43, a supposedly inadequate compliance
+program, id. ¶¶ 344-45, and a handful of anonymous customer complaints on the Company’s
+website. Id. ¶¶ 348-51. While circumstantial evidence of corporate problems can contribute to
+an inference of scienter, that is only true if the “red flags . . . would have revealed the errors prior
+to their inclusion in public statements.” Ottman v. Hanger Orthopedic Grp., Inc., 353 F.3d 338,
+351 (4th Cir. 2003) (quoting Hoffman v. Comshare, Inc., 183 F.3d 542, 554 (6th Cir. 1999)).
+Plaintiffs offer very little in the way of factual predicate for the existence of these “red
+flags.” The entire basis for the assertion that Lumber Liquidators saved money by purchasing
+non-CARB compliant laminate flooring is supposed statements by unknown Chinese mill
+employees that “they are capable of manufacturing CARB compliant flooring, but it would cost
+10-15% more.” Compl. ¶ 343. These allegations must be steeply discounted because Plaintiffs
+do not explain who these employees are, what position they held at the mills, or why they would
+be in a position to speak reliably about Lumber Liquidators’ purchases. Teachers’ Ret., 477 F.3d
+
+17
+
+Case 4:13-cv-00157-AWA-LRL Document 83 Filed 06/02/15 Page 25 of 45 PageID# 1578
+
+at 174 (plaintiffs must establish reliability of confidential witness statements).15 As for the
+Company’s compliance program, Plaintiffs rely entirely on a supposed public admission that
+“Lumber Liquidators did not begin building a compliance team in China until December of
+2014.” Compl. ¶ 344. In fact, the cited article merely includes a quote from Lumber
+Liquidators’ head of compliance to the effect that he is having “a compliance team being built in
+China as we speak,” with no specificity as to what that particular team would cover. Id. In
+numerous other public statements, the Company has made it clear that it had compliance
+personnel in China throughout this period. (See, e.g., Business Update Presentation attached to
+March 12, 2015 Form 8-K, at 18, Ex. 2) Meanwhile, the customer complaints consist of exactly
+four complaints made over the course of four years (2010 – 2014), for a product that Plaintiffs
+elsewhere allege has been installed in “hundreds of thousands” homes. Compl. ¶ 136.
+Whether viewed individually or collectively, these supposed “red flags” cannot establish
+a strong inference of scienter. Nothing about a modest price savings (10-15% is hardly “absurd”
+under any circumstances), the Company’s continued efforts to expand its compliance team in
+China, or a handful of customer complaints would have put the Individual Defendants on notice
+of widespread formaldehyde emissions problems. In the absence of any red flags that actually
+revealed these problems – to the extent that they existed at all – Plaintiffs’ scienter pleading
+burden has not been met. See, e.g., Brophy v. Jiangbo Pharm., Inc., 781 F.3d 1296, 1304 (11th
+Cir. 2015) (red flag allegations insufficient to establish inference of scienter because “complaint
+provides no explanation as to how these red flags should have alerted [the defendant] to the
+fraud”).
+B.
+
+Plaintiffs Offer No Allegations Establishing a Strong Inference that
+Defendants Were Aware of Any Lacey Act Violations
+
+Plaintiffs face a formidable burden in pleading that Defendants knew, or were severely
+
+15
+
+Plaintiffs also cite Whitney Tilson for the proposition that Lumber Liquidators was receiving a
+10% discount on non-CARB compliant laminate flooring, but Mr. Tilson would have no
+independent basis for this knowledge and appears merely to be repeating what was supposedly
+stated by the mill employees. See, e.g., Compl. ¶ 148.
+18
+
+Case 4:13-cv-00157-AWA-LRL Document 83 Filed 06/02/15 Page 26 of 45 PageID# 1579
+
+reckless in not knowing, that the Company purchased illegally harvested oak from the RFE.
+After all, neither the Complaint nor the EIA Report alleges that Lumber Liquidators engaged in
+illegal harvesting. Rather, the supposed illegal harvesting was at the beginning of the supply
+chain, when the oak was harvested, and therefore before the wood was bought by Xingjia,
+processed, and allegedly re-sold as flooring to Lumber Liquidators. See, e.g., Compl. ¶ 76; (EIA
+Report at 6-8, Ex. 13.) The relevant issue is thus whether Defendants knew that any Russian oak
+the Company purchased from a supplier had been illegally harvested by someone else.
+The Complaint contains no direct allegations concerning the Defendants’ knowledge of
+this supposed illegal harvesting. In particular, Plaintiffs cite no confidential witness statements
+or company documents that would support an inference that any Individual Defendant was aware
+that the hardwood the Company imported from northern China had been illegally sourced in the
+RFE. See, e.g., ECI Telecom, slip op. at 7, Ex. 26 (“Because plaintiffs clearly have obtained the
+cooperation of former [defendant] employees, this Court expects that plaintiffs should be able to
+articulate these claims with the requisite specificity.”). Instead, Plaintiffs rely on circumstantial
+allegations that are clearly deficient.
+First, Plaintiffs suggest that Defendants must have known that some of the wood the
+Company purchased was illegally harvested because the oak purchases came from the RFE. The
+bare fact that oak comes from the RFE, however, has no bearing on its legality. As the
+Complaint concedes, it is perfectly legal to harvest timber in the RFE in certain areas and subject
+to permits. Compl. ¶ 76. Even under the World Wildlife Fund’s most recent estimate, only 50%
+of the oak exported from the RFE is done so illegally, which leaves another 50% that can be
+properly imported by a U.S. company.16 (EIA Report at 7, Ex.13.)
+16
+
+Plaintiffs allege that Lumber Liquidators would have learned the “truth” if it had entered
+certain specific terms into the Russian version of Google or called an unidentified “forest
+enforcement office.” Compl. ¶¶ 101-02. Of course, as the Complaint implicitly concedes, such
+actions would not have demonstrated that any of the wood actually being purchased by Lumber
+Liquidators had been illegally harvested. See, e.g., In re Galileo Corp. S’holders Litig., 127 F.
+Supp. 2d 251, 265 (D. Mass. 2001) (“Because at the most the plaintiffs here have alleged only
+that the defendants failed to discover warning signs about Imagyn’s financial condition, the
+plaintiffs have failed sufficiently to allege scienter in the form of reckless, as distinguished from
+19
+
+Case 4:13-cv-00157-AWA-LRL Document 83 Filed 06/02/15 Page 27 of 45 PageID# 1580
+
+Second, Plaintiffs appear to suggest that the fact that certain agencies of the U.S.
+government executed search warrants at the Lumber Liquidators headquarters and might bring
+charges against the Company supports an inference of scienter. See, e.g., Compl. ¶¶ 19, 22. The
+execution of search warrants or potential charges, however, only indicates that the government is
+investigating, and a mere investigation is “too speculative to add much, if anything, to an
+inference of scienter.” Cozzarelli, 549 F.3d at 628 n.2.17 Plaintiffs do not, because they cannot,
+identify any facts that the government has uncovered that would provide evidence of intentional
+wrongdoing at the Company.
+Finally, Plaintiffs focus on visits by Lumber Liquidators’ personnel to Xingjia facilities.
+See, e.g., Compl. ¶¶ 104, 110. In particular, Plaintiffs allege that EIA investigators were given a
+tour of the Xingjia facilities during which Xingjia officials allegedly confessed to illegal conduct,
+and that Lumber Liquidators employees were at some point given a “similar” tour. Id. ¶¶105110. But at no point do Plaintiffs allege that the Xingjia officials made the same confessions to
+Lumber Liquidators’ employees (even though this would have been an obvious follow-up
+question for the EIA investigators to ask). See, e.g., Winn-Dixie, 531 F. Supp. 2d at 1350 (“‘[I]t
+is not enough to make conclusory allegations that Defendants had access to the ‘true facts’ in
+order to demonstrate scienter, particularly when the complaint fails to allege which defendant
+knew what, how they knew it, or when.’”). Indeed, Plaintiffs do not allege anything about what
+the Company’s employees allegedly heard or saw at the Xingjia facilities.18 Plumbers and
+negligent, conduct on the part of the defendants.”). Plaintiffs also point to an alleged “fraudulent
+Lacey Act Declaration” that misidentifies the source of the wood. (Id. ¶ 119.) The EIA Report,
+however, discloses that the document was provided by Greenhome, not by Lumber Liquidators.
+(EIA Report at 21,22 Ex. 13.) Moreover, the declaration, which is ultimately supposed to be
+filled out, signed, and filed with the U.S. Department of Agriculture, see 16 U.S.C. § 3372(f), is
+unsigned. This strongly suggests that it was never filed or approved for filing, and Plaintiffs
+offer no allegations to suggest that Lumber Liquidators was ever made aware of this document
+(even in draft form).
+17
+See also In re BearingPoint, Inc. Sec. Litig., 525 F. Supp. 2d 759, 777 (E.D. Va. 2007)
+(“Inferring scienter from the mere existence of an investigation would be an end-run around the
+stringent pleading requirements of the PSLRA . . . .”), rev’d and remanded on other grounds sub
+nom. Matrix Capital Mgmt. Fund, LP v. BearingPoint, Inc., 576 F.3d 172 (4th Cir. 2009).
+18
+At best, Plaintiffs rely on hearsay statements from an officer at one Chinese mill. According
+to the Complaint, EIA asked Mr. Yu – the manager of Xingjia’s Dalian facilities – directly
+20
+
+Case 4:13-cv-00157-AWA-LRL Document 83 Filed 06/02/15 Page 28 of 45 PageID# 1581
+
+Pipefitters Local Union 719 Pension Fund v. Zimmer Holdings, Inc., 2011 WL 338865, at *2021 (S.D. Ind. Jan. 28, 2011) (plaintiff’s allegation that defendants’ representatives may have
+witnessed company problems failed to support strong inference of scienter).
+Moreover, the only one of the Individual Defendants alleged to have attended these site
+visits was Mr. Schlegel. Compl. ¶¶ 337-39. Even if this allegation could support an inference of
+scienter as to Mr. Schlegel, which it cannot (see supra), his supposed knowledge cannot be
+imputed to any other Defendant. The Complaint contains no allegations establishing that Mr.
+Schlegel communicated anything about his visits to the other Individual Defendants. In addition,
+Mr. Schlegel had nothing to do with the public disclosures at issue, and his mental state thus
+cannot be attributed to Lumber Liquidators for purposes of a Rule 10b-5 claim. See Computer
+Sciences Corp., 890 F. Supp. 2d at 664-65 (corporation’s scienter cannot be established by
+scienter of individuals not involved in public statements).19
+
+whether Lumber Liquidators was aware of any illegal harvesting. Compl. ¶ 108. Mr. Yu opines
+to EIA: “Yes, of course they know that.” Id. Noticeably missing from Mr. Yu’s comments,
+however, are factual allegations establishing how and when Lumber Liquidators supposedly
+obtained this knowledge, and which of the Individual Defendants allegedly obtained it. For
+example, Mr. Yu provides information about Lumber Liquidators’ visits to his mill, but
+noticeably does not state that during those visits the Company personnel were ever told about
+illegal harvesting. Accordingly, Mr. Yu’s opinion as to Lumber Liquidators’ knowledge does
+nothing to support a strong inference of scienter. In re Career Educ. Corp. Sec. Litig., 2006 WL
+999988, at *6 (N.D. Ill. Mar. 28, 2006) (plaintiffs could not rely on interviews in 60 Minutes
+segment because, inter alia, they failed to establish “that it is probable that each of the
+interviewees had access to or knowledge of the allegations about which they spoke”).
+19
+In fact, because Mr. Schlegel had no involvement with the public statements, all claims against
+him must be dismissed. Only the “maker” of a false or misleading statement can be held liable
+under Rule 10b-5 for making false statements. Janus Capital Grp., Inc. v. First Derivative
+Traders, 131 S. Ct. 2296, 2302 (2011). “For purposes of Rule 10b-5, the maker of a statement is
+the person or entity with ultimate authority over the statement, including its content and whether
+and how to communicate it.” Id. Plaintiffs allege that “Defendant Schlegel was involved in
+drafting, reviewing, and/or disseminating the false and misleading statements that were issued by
+Lumber Liquidators, approved or ratified these statements,” but this type of boilerplate allegation
+cannot save their claims. Plaintiffs do not identify any specific statements made by Mr.
+Schlegel, much less offer any plausible allegations that, as a Chief Merchandising Officer, he
+wielded “ultimate authority” over any corporate statements. Nor can Mr. Schlegel be held liable
+for any alleged failure to correct statements made by other corporate officers. Oneida Sav. Bank
+v. Uni-Ter Underwriting Mgmt. Corp., 2014 WL 4678046, at *12 (N.D.N.Y. Sept. 18, 2014); Ho
+v. Duoyuan Global Water, Inc., 887 F. Supp. 2d 547, 572 n.13 (S.D.N.Y. 2012).
+21
+
+Case 4:13-cv-00157-AWA-LRL Document 83 Filed 06/02/15 Page 29 of 45 PageID# 1582
+
+C.
+
+Plaintiffs Do Not Adequately Allege that Defendants Acted with Scienter in
+Making Any Statements About the Company’s Financial Performance
+
+Plaintiffs’ overall theory of fraud is that the Company’s gross margin increases were
+driven by its importation of illegal and hazardous products. See, e.g., Compl. ¶ 13. Having
+failed to establish any strong inference of scienter as to CARB and Lacey Act violations,
+however, Plaintiffs have obviously failed to establish that the Defendants knew the Company’s
+financial statements were misleading as a result of those violations. Indeed, the Complaint
+contains no particularized facts concerning the impact of the supposed regulatory violations on
+the Company’s gross margins (or, more broadly, its earnings and revenues), let alone that
+Defendants knew about this impact. The Tilson Presentation, which appears to be the sole
+source of the Complaint’s financial assertions, also makes no reference to what any individual
+Defendant would have known, cites no internal sources or documents, and even disclaims its
+own accuracy. (See, e.g., Tilson Presentation at 3, Ex. 14.) In sum, none of the allegations in the
+Complaint rebuts the competing inference that Defendants innocently (and correctly) attributed
+the Company’s increased gross margins to normal business developments. See, e.g., Davis v.
+SPSS, Inc., 385 F. Supp. 2d 697, 716 (N.D. Ill. 2005) (where “complaint provides factual
+allegations of [] knowledge of improper practices,” but does not establish “what relevance they
+had on [the company’s] bottom line,” the court cannot assume defendants knowingly
+misrepresented financial statements).
+D.
+
+The Individual Defendants’ Stock Sales Are Not Unusual or Suspicious
+
+Specific facts demonstrating motive and opportunity may be relevant to the issue of
+scienter, but usually are insufficient to establish a strong inference of scienter by themselves. In
+re PEC Solutions Sec. Litig., 2004 WL 1854202, at *13 (E.D. Va. May 25, 2004), aff’d, 418 F.3d
+379 (4th Cir. 2005). Here, Plaintiffs’ primary motive allegation is that the Individual Defendants
+sold their Lumber Liquidators stock during the Class Period and therefore had a “motive” to
+artificially inflate the stock price by making false statements. In the Fourth Circuit, however,
+“[i]nsider trading allegations will only support an inference of scienter ‘if the timing and amount
+of a defendant’s trading were unusual or suspicious.’” Yates, 744 F.3d at 890 (emphases added).
+22
+
+Case 4:13-cv-00157-AWA-LRL Document 83 Filed 06/02/15 Page 30 of 45 PageID# 1583
+
+Whether the Individual Defendants’ trading histories are examined individually or collectively,
+their trading does not meet this standard.
+Mr. Sullivan – Mr. Sullivan’s class period sales were anything but unusual. The fact that
+an insider’s class period sales are consistent with a pattern predating the class period weighs
+against an inference of scienter. Id. at 891 (finding no inference of scienter when defendant’s
+sales “occurred at fairly regular intervals and amounts compared to earlier periods”). Here, as
+demonstrated in the chart and Form 4s attached as Exhibits 27 and 28, Mr. Sullivan began to
+divest himself of his Lumber Liquidators shares in 2007, well before the start of the class period.
+Indeed, Mr. Sullivan sold more than ten times as many shares in the five-year period preceding
+the class period (13,183,289), as he did during the three-year class period (1,207,713). And he
+still held 608,998 shares at the end of the class period – more than 50% of the number of shares
+that he sold during the class period. Thus, when considered in context, his class period sales
+were not “unusual” and do not contribute to a strong inference of scienter.20
+The timing of Mr. Sullivan’s sales also shows that they were not suspicious. Courts have
+routinely found that even large stock sales – large in terms of total amount or as a percentage of
+the seller’s holdings – are not suspicious when plaintiffs fail to adequately allege that the timing
+of the sales was “‘calculated to maximize the personal benefit from undisclosed inside
+information.’” Ronconi v. Larkin, 253 F.3d 423, 435 (9th Cir. 2001); see also Teachers’ Ret.,
+477 F.3d at 184 (“[D]efendants’ sales generally occurred at prices that were not especially high
+for the class period.”). Here, the majority of Mr. Sullivan’s sales were made at prices markedly
+below the class period high. Of the 1,207,713 shares Mr. Sullivan sold during the class period,
+707,713 – 58% of his total class period sales – were sold at less than $30 per share. See Chart of
+Insider Sales, Ex. 29. Moreover, 75% of his total sales were made at prices less than $55 per
+share, and 92% of his total sales were made at prices below $85 per share. In contrast, the class
+20
+
+See, e.g., In re Travelzoo Inc. Sec. Litig., 2013 WL 1287342, at *10 (S.D.N.Y. Mar. 29, 2013)
+(holding that defendant’s sale of 95% of her stock did not give rise to strong inference of scienter
+because her sale during class period “was [not] inconsistent with her prior trading practices”).
+
+23
+
+Case 4:13-cv-00157-AWA-LRL Document 83 Filed 06/02/15 Page 31 of 45 PageID# 1584
+
+period high was $119.44. As the Ninth Circuit found in Ronconi, “[w]hen insiders miss the boat
+this dramatically, their sales do not support an inference” that they are defrauding the public.
+253 F.3d at 435.
+Mr. Terrell – Mr. Terrell’s class period sales also cannot be considered suspicious.
+More than 84% of Mr. Terrell’s sales during the class period occurred on November 7, 2012,
+when the price of the Company’s stock was $57.86, less than half of the class period high of
+$119.44. See Chart of Insider Sales, Ex. 29; see also Terrell Form 4s, Ex. 30. Again, sales that
+“miss[ed] the boat this dramatically” do not contribute to a strong inference of scienter.
+Ronconi, 253 F.3d at 435.
+Mr. Lynch – Various aspects of Mr. Lynch’s trading history also weigh against an
+inference of scienter. First, when Mr. Lynch started selling in May 2013, the Company’s
+performance was still improving, and the stock price was still rising. Lumber Liquidators’
+second quarter was better than its first, and its third quarter was better than its second.21 Second,
+on October 29, 2014, Mr. Lynch purchased 4,000 shares of the Company’s stock, and shortly
+thereafter, on November 5, 2014, he purchased an additional 2,000 shares. Lynch Form 4s, Ex.
+31. As Plaintiffs emphasize, at that time the Company was the subject of an ongoing
+investigation. See, e.g., Compl. ¶ 19. Mr. Lynch would not have made such purchases had he
+believed that the investigation would reveal illicit sourcing practices.22 See, e.g., PEC Solutions,
+2004 WL 1854202, at *16 (“Moreover, the fact that three of the four Individual Defendants
+acquired PEC stock during the class period[] further negates any idea that the Individual
+
+21
+
+The Complaint’s allegation (¶ 322) that Mr. Lynch held only 10,000 shares of unrestricted
+stock by the time of the government’s raid on September 26, 2013 is incorrect. As Mr. Lynch’s
+SEC filings show, he held 34,216 unrestricted shares at that time, worth approximately
+$3,865,039 ($112.96 per share).
+22
+In addition, many of Mr. Lynch’s sales were pursuant to a 10b5-1 trading plan. See Lynch
+Form 4s, Ex. 31. Such plans “allow[] corporate insiders to set a schedule by which to
+[automatically] sell shares” over time. Wietschner v. Monterey Pasta Co., 294 F. Supp. 2d 1102,
+1117 (N.D. Cal. 2003); see also 17 C.F.R. 240.10b5-1. Because an insider cannot control the
+timing of sales made pursuant to a 10b5-1 plan, Mr. Lynch’s sales made under this plan could
+not have been “timed . . . to profit from any particular disclosure.” See, e.g., Gaer v. Am. Pub.
+Educ., Inc., 895 F. Supp. 2d 763, 790-91 (N.D.W. Va. 2011).
+24
+
+Case 4:13-cv-00157-AWA-LRL Document 83 Filed 06/02/15 Page 32 of 45 PageID# 1585
+
+Defendants had a motive to commit fraud.”).
+Mr. Schlegel – As shown previously, Mr. Schlegel did not “make” any of the alleged
+misstatements in the Complaint, and therefore is not subject to Rule 10b-5 liability. See supra at
+p. 21 n.19. Mr. Schlegel’s sales of $1,455,452.59 of stock – a relatively modest figure in
+comparison to the other Individual Defendants – is therefore irrelevant in analyzing the scienter
+of the remaining Defendants. See Schlegel Form 4s, Ex. 32; see also, e.g., In re Michaels Stores,
+Inc. Sec. Litig., 2004 WL 2851782, at *13 (N.D. Tex. Dec. 10, 2004) (“[B]ecause [certain
+insiders] are not specifically linked to any of the alleged misstatements or omissions, their sales
+are irrelevant to the scienter determination.”).23 In any event, Plaintiffs’ allegation (Compl.
+¶ 325) that prior to the Class Period Mr. Schlegel “had not sold a single share of stock or
+exercised a single option” is hardly surprising: Mr. Schlegel did not arrive at Lumber
+Liquidators until 2011 (id. ¶ 38).
+Plaintiffs’ insider trading allegations fare no better when the trading of the Individual
+Defendants is examined collectively.24 Nearly 45% of the shares sold by the Individual
+Defendants were at prices below $50, and nearly 85% of the shares sold by Defendants were sold
+at prices below $90 – prices well below the class period high of $119.44. See Chart of Insider
+Sales, Ex. 29.25 In sum, the most plausible inference drawn from the Individual Defendants’
+23
+
+For the same reasons, Plaintiffs’ allegations regarding the sales of other non-defendant
+insiders, see Compl. ¶¶ 326-39, cannot support a strong inference of scienter as to the Individual
+Defendants.
+24
+Plaintiffs also contend that the Company’s insiders engaged in a “coordinated and wholesale
+selling of securities.” See Compl. ¶ 330. This allegation fails to move the needle toward
+scienter. The Company’s Insider Trading Policy establishes a trading window that opens three
+days after an earnings release and closes thirty days before the end of the quarter. (Lumber
+Liquidators Holdings, Inc. Insider Trading Policy at 3, Ex. 33, available at
+http://investors.lumberliquidators.com/corporate-governance (last visited June 1, 2015).). Both
+sets of supposedly “coordinated” transactions by the Company’s insiders took place during these
+open windows, which were the only times that insiders could have sold. See, e.g., In re
+Homestore.com, Inc. Sec. Litig., 252 F. Supp. 2d 1018, 1030 (C.D. Cal. 2003) (“The trading
+window . . . explains why the insider defendants had common trading days.”) vacated sub nom.
+on other grounds Simpson v. Homestore.com, Inc., 519 F.3d 1041 (9th Cir. 2008).
+25
+As the Fourth Circuit has held, “a lengthy class period makes it difficult to infer intent from
+the mere fact of a stock sale, as it is not unusual for insiders to trade at some point during their
+tenure with a company.” Yates, 744 F.3d at 891. The expansive 36-month putative class period
+alleged here therefore also weighs against an inference that any individual stock sale was
+25
+
+Case 4:13-cv-00157-AWA-LRL Document 83 Filed 06/02/15 Page 33 of 45 PageID# 1586
+
+trading histories is the innocent inference that they sold their shares “in the normal course of
+events.” See In re Burlington Coat Factory Sec. Litig., 114 F.3d 1410, 1424 (3d Cir. 1997) (“A
+large number of today’s corporate executives are compensated in terms of stock and stock
+options. It follows then that these individuals will trade those securities in the normal course of
+events.”).26
+III.
+
+Plaintiffs Fail to Adequately Plead that Defendants Made Any False Statements
+Not only have Plaintiffs failed to plead a strong inference of scienter, but they also have
+
+not pled facts demonstrating that the Company’s failure to disclose the existence of supposed
+CARB and Lacey Act violations rendered all of its statements about regulatory compliance and
+financial performance false. Even assuming, arguendo, that Plaintiffs had adequately pled that
+widespread violations occurred (which they have not), the mere existence of the violations do not
+demonstrate falsity.27 Longman v. Food Lion, Inc., 197 F.3d 675, 682 (4th Cir. 1999) (plaintiffs
+must adequately plead that omitted information rendered statements misleading).
+
+suspicious. See, e.g., id. (“An additional problem with the allegations of insider trading relates to
+the length of the putative class period. The plaintiffs have chosen an inordinately long period of
+44 months.”); Teachers’ Ret., 477 F.3d at 185 (characterizing class period of 46 months as
+“exceedingly long”).
+26
+Plaintiffs attempt to bolster their motive allegations by claiming that the incentive
+compensation paid to Mr. Lynch and Mr. Schlegel was tied to the Company’s gross margin.
+Compl. ¶¶ 331-34. However, courts have recognized that allegations that the individual
+defendants failed to disclose information based on their desire to increase their executive
+compensation are insufficient to support a strong inference of scienter. See, e.g., Iron Workers
+Local 16 Pension Fund v. Hilb Rogal & Hobbs Co., 432 F. Supp. 2d 571, 591 (E.D. Va. 2006)
+(“Allowing a party to plead scienter by alleging executives were motivated by a financial
+incentive program would effectively eliminate the state of mind requirement as to all corporate
+officers . . . . [T]his generalized motive, shared by most, if not all, corporate officers, is
+insufficient to plead scienter.” (internal citations and quotation marks omitted)).
+27
+Moreover, noticeably absent from the Complaint are any allegations that Mr. Sullivan, as the
+Chairman of the Company, took actions in furtherance of the alleged fraud (other than the
+signing of the Company’s annual reports). Under the PSLRA, courts in this Circuit have rejected
+the use of group pleading, under which “corporate officers and directors who are alleged to be in
+day-to-day control of the company may be presumed to be collectively responsible for a
+company’s ‘group published’ information such as prospectuses, registration statements, annual
+reports, press releases and other public filings.” In re Royal Ahold N.V. Sec. & ERISA Litig., 351
+F. Supp. 2d at 369-70; see also In re Constellation Inc. Sec. Litig. 738 F. Supp. 2d 614, 635 n.20
+(D. Md. 2010). Inasmuch as Mr. Sullivan did not sign any documents other than the Company’s
+annual reports, see Compl. ¶¶ 165, 211, 259, 306, he cannot be held liable for any of the other
+allegedly false statements.
+26
+
+Case 4:13-cv-00157-AWA-LRL Document 83 Filed 06/02/15 Page 34 of 45 PageID# 1587
+
+A.
+
+Alleged False Statements Regarding Regulatory Compliance
+
+Plaintiffs allege that Lumber Liquidators’ statements concerning its regulatory
+compliance were false. See, e.g., Compl. ¶¶ 240, 269, 271, 318. These statements, however,
+generally fall into two categories: (a) statements of fact concerning the Company’s compliance
+policies, personnel, and activities (e.g., id. ¶ 247 (“The Company has more than 60 professionals
+around the world who perform and monitor those processes . . . .”)), and (b) statements of
+opinion that the Company has a strong quality control and assurance program and conducts its
+activities in compliance with the law (e.g., id. ¶ 271 (“We believe that we currently conduct . . .
+our activities and operations in substantial compliance with applicable laws and regulations . . .
+.”)). As to the statements of fact, the mere existence of regulatory violations does not establish
+that Lumber Liquidators lacked compliance policies, personnel, and activities.28 As to the
+statements expressing the Company’s opinions regarding its regulatory compliance, a statement
+of opinion is only false “if the statement is false, disbelieved by its maker, and related to matters
+of fact which can be verified by objective evidence.” Nolte v. Capital One Fin. Corp., 390 F.3d
+311, 315 (4th Cir. 2004). As already discussed, Plaintiffs fail to plead any facts establishing that
+the senior corporate officers who made these statements did not believe that Lumber Liquidators
+had a strong quality control and assurance program or was conducting its activities in substantial
+compliance with the law. See Section II infra. Nor do Plaintiffs adequately allege that
+Defendants knew, but failed to disclose, some material fact about the Company’s inquiry into or
+knowledge concerning the opinions. Corban v. Sarepta Therapeutics, Inc., 2015 WL 1505693,
+at *11 (D. Mass. Mar. 31, 2015) (rejecting omission theory where plaintiffs’ allegations
+amounted to dispute over how to interpret drug testing results).
+
+28
+
+To the extent that Plaintiffs attempt to plug this gaping hole in their pleadings with the
+Company’s supposed admission that “Lumber Liquidators did not begin building a compliance
+team in China until December of 2014,” Compl. ¶ 344, that tactic should be rejected. In other
+public statements, the Company has made it clear that it has had compliance personnel in China
+throughout the class period. (See, e.g., Business Update Presentation attached to March 12, 2015
+8-K, at 18, Ex. 2; Compl. ¶¶ 58, 240, 247.)
+27
+
+Case 4:13-cv-00157-AWA-LRL Document 83 Filed 06/02/15 Page 35 of 45 PageID# 1588
+
+B.
+
+Alleged False Statements Regarding Financial Performance
+
+Plaintiffs allege that every statement Lumber Liquidators made about its increase in gross
+margins and overall financial performance was false because the Company did not disclose that
+CARB and Lacey Act violations were contributing to those results. See, e.g., Compl. ¶ 163. In
+particular, all of these financial statements are alleged to be false because (a) the supposed
+regulatory violations caused “the decrease in the Company’s cost of product and increase in
+margins,” (b) “a substantial portion of the Company’s earnings and revenues were thereby
+earned as a result of the violation of these laws,” and (c) “the Company’s gross margin
+expansion was not sustainable.” Id. ¶ 13. The problem with this sweeping accusation of
+financial fraud is that it cannot be substantiated by the actual allegations.
+Lumber Liquidators’ revenue totaled over $1 billion in 2013 and 2014. (2013 Form 10-K
+at 26-27, Ex. 3; 2014 Form 10-K at 29-30, Ex. 1.) Even if one assumes that a handful of Chinese
+mills sold Lumber Liquidators an undetermined amount of non-compliant laminate flooring at a
+10-15% discount, this assumption utterly fails to demonstrate any significant financial impact
+from CARB violations. Similarly, any possible Lacey Act violations related to Lumber
+Liquidators’ purchase of RFE oak could not have affected a “substantial portion” of the
+Company’s revenue. As the Company has disclosed, less than 2% of its hardwood purchases
+(which, in turn, only make up 43% of its overall product purchases) consisted of oak purchased
+from northern China. (CSFB presentation at 24, attached to December 9, 2013 Form 8-K, Ex. 4.)
+In other words, less than 1% of the Company’s overall purchases of products are possibly
+implicated by EIA’s investigation into RFE logging and Xingjia. Even if every piece of oak that
+Lumber Liquidators purchased from northern China had been illegally sourced (and the
+Complaint contains no factual allegations that would support such an assumption), these
+purchases and subsequent sales to consumers would have accounted for an extremely small
+portion of the Company’s revenues, not a “substantial” one.29 Plaintiffs’ failure to allege facts
+29
+
+In addition, nowhere in the Complaint is it alleged that the illegally harvested oak hardwood
+that the Company supposedly purchased was actually cheaper than similar, compliant products.
+The Complaint appears to assume that this is true, but offers no factual allegations in support of
+28
+
+Case 4:13-cv-00157-AWA-LRL Document 83 Filed 06/02/15 Page 36 of 45 PageID# 1589
+
+establishing that CARB or Lacey Act violations had any impact (and certainly no significant
+impact) on Lumber Liquidators’ financial performance means that their claims based on the
+Company’s financial disclosures must be dismissed. See, e.g., Gross v. Summa Four, Inc., 93
+F.3d 987, 995-96 (1st Cir. 1996) (general allegation that certain practices affected company’s
+earnings are insufficient under Rule 9(b); plaintiff failed to offer particularized allegations
+because he did “not allege[] the amount of the putative overstatement or the net effect it had on
+the company’s earnings”); In re Daou Sys., Inc., 411 F.3d 1006, 1016-18 (9th Cir. 2005)
+(plaintiff must specifically plead effect of alleged misconduct on company’s revenues).
+Moreover, even if the supposed regulatory violations did have some financial impact on
+Lumber Liquidators, it is well-established that the Company was not required to disclose the
+existence of those violations. Plaintiffs do not allege that any of the financial results reported by
+Lumber Liquidators, including its gross margins, were inaccurate. Instead, they assert that the
+Company had a duty to disclose that these financial results were the result of illegal activities.
+As courts in this District and around the country have held, however, no such duty exists. Iron
+Workers, 432 F. Supp. 2d at 586-87 (companies have no “duty to disclose illegal and illicit
+activities”); Weill v. Dominion Res., Inc., 875 F. Supp. 331, 337 (E.D. Va. 1994) (“[S]ecurities
+laws do not obligate defendants to reveal the culpability of their activities . . . .”); see also In re
+Citigroup, Inc. Sec. Litig., 330 F. Supp. 2d 367, 377 (S.D.N.Y. 2004) (“[F]ederal securities laws
+do not require a company to accuse itself of wrongdoing.”). Accordingly, unless Lumber
+Liquidators “reported income that it did not actually receive, the allegation that a corporation
+properly reported income that is alleged to have been, in part, improperly obtained is insufficient
+to impose Section 10(b) liability.” In re Marsh & McLennan Cos., Inc. Sec. Litig., 501 F. Supp.
+2d 452, 470 (S.D.N.Y. 2006).30
+that assumption (indeed, the EIA Report does not state that the products were cheaper). See
+Ashcroft v. Iqbal, 556 U.S. 662, 679 (2009) (allegations that permit court to infer only “the mere
+possibility of misconduct” are insufficient).
+30
+Plaintiffs also assert that the Company had a duty to inform the market that its gross margins
+were “not sustainable.” See, e.g., Compl. ¶ 174. In Iron Workers, the court found that in the
+absence of specific statements where the company “guaranteed that revenues would continue,”
+29
+
+Case 4:13-cv-00157-AWA-LRL Document 83 Filed 06/02/15 Page 37 of 45 PageID# 1590
+
+IV.
+
+Plaintiffs Fail to Adequately Plead Loss Causation
+Plaintiffs bear the burden of adequately pleading “loss causation, i.e., that the defendant’s
+
+material misrepresentation[s] or omission[s] caused the loss for which the plaintiff seeks to
+recover damages.” Katyle v. Penn Nat’l Gaming, Inc., 637 F.3d 462, 465 (4th Cir. 2011)
+(quotations and citations omitted). To do so, Plaintiffs must plead with specificity a “direct
+relationship” between their alleged loss and the alleged fraudulent conduct. Id. at 472. “The
+degree of specificity demanded is that which will ‘enable the court to evaluate whether the
+necessary causal link exists.’” Id. at 471. (citations omitted).
+Courts have recognized two possible ways of pleading loss causation: “(i) a corrective
+disclosure informed the market of the fraud, and the market reacted negatively; or (ii) the risk
+concealed from investors materialized and caused a foreseeable loss.” In re Francesca’s
+Holdings Corp. Sec. Litig., 2015 WL 1600464, at *18 (S.D.N.Y. Mar. 31, 2015). In this case,
+Plaintiffs rely solely on allegations of corrective disclosures, specifically alleging that each stock
+price decline they identify as contributing to their alleged loss was preceded by a disclosure of
+“new facts” that “partially corrected Defendants’ prior misrepresentations and omissions.”
+Compl. ¶¶ 353, 355, 357, 359, 365, 368. While it is possible to demonstrate that the “truth
+gradually emerged through a series of partial disclosures,” these partial disclosures must be
+adequately alleged to have revealed “new facts suggesting [the defendant] had perpetrated a
+fraud on the market.” Katyle, 637 F.3d. at 472-73 (emphasis added). In other words, the newly
+disclosed facts “must reveal to the market in some sense the fraudulent nature of the practices
+about which [the] plaintiff complains.” Id. at 473. For the reasons shown below, Plaintiffs’
+allegations of partial “corrective disclosures” cannot satisfy their loss causation pleading burden.
+The Zhou Post – Plaintiffs first point to the Zhou Post on June 22, 2013, in which Zhou
+claims that one of two wood samples he tested emitted excessive formaldehyde. It is clear that
+the Zhou Post did not “reveal” the “fraudulent nature of the practices about which the plaintiff
+no such duty existed. 432 F. Supp. 2d at 586. As in Iron Workers, Lumber Liquidators provided
+investors with no guarantees about its gross margins, and it therefore cannot be held liable for
+allegedly failing to disclose that they were “not sustainable.”
+30
+
+Case 4:13-cv-00157-AWA-LRL Document 83 Filed 06/02/15 Page 38 of 45 PageID# 1591
+
+complains.” Katyle, 637 F.3d at 473. These alleged “practices” are the supposed scheme to
+improperly inflate the Company’s gross margins through the sale of illegal or hazardous wood
+products constituting a “substantial portion of the Company’s earnings and revenues.” Compl. ¶
+13. Mr. Zhou’s post, by merely claiming that one isolated sample of the Company’s product
+exceeded the CARB standard in California, did not in any meaningful sense reveal this scheme.
+For example, in Metzler Investment GMBH v. Corinthian Colleges, Inc., 540 F.3d 1049
+(9th Cir. 2008), which the Fourth Circuit cited favorably in Katyle, the plaintiff alleged that
+Corinthian Colleges – a for-profit educational institution with 88 campuses in 22 states –
+engaged in fraudulent practices to maximize its federal funding. The plaintiff tried to plead loss
+causation by alleging that the fraud was revealed by a Financial Times story reporting that the
+Department of Education had investigated only one of the school’s many campuses, found
+compliance deficiencies, and “placed [it] on ‘reimbursement’ status” as a result of its financial
+aid practices. Id. at 1057. The Ninth Circuit held that the Financial Times story was not a
+corrective disclosure because it did not “disclose[] – or even suggest[] – to the market that
+Corinthian was manipulating student enrollment figures company-wide in order to procure
+excess federal funding . . . . [and could not] be reasonably read to reveal widespread financial aid
+manipulation by Corinthian . . . .” Id. at 1063 (emphasis added). The Zhou Post is not a
+“corrective disclosure” for the same reasons.
+The Government’s Investigation – Plaintiffs suggest that the Company’s September
+27, 2013 announcement about the execution of search warrants at the Company’s corporate
+offices constituted a partial corrective disclosure. Compl. ¶¶ 355-56. The announcement of a
+government investigation, however, cannot act as the revelation of a fraud. Indeed, every
+appellate court that has addressed the issue has held the disclosure of an investigation is not
+sufficient. Loos v. Immersion Corp., 762 F.3d 880, 890 (9th Cir. 2014); Meyer v. Greene, 710
+F.3d 1189, 1201 (11th Cir. 2013). As the Ninth Circuit explained, “at the moment an
+investigation is announced, the market cannot possibly know what the investigation will
+ultimately reveal.” Loos, 762 F.3d at 890. Any related decline in the stock price “can only be
+31
+
+Case 4:13-cv-00157-AWA-LRL Document 83 Filed 06/02/15 Page 39 of 45 PageID# 1592
+
+attributed to market speculation about whether fraud has occurred. This type of speculation
+cannot form the basis of a viable loss causation theory.” Id.
+The Tilson Presentation – Plaintiffs argue that the Tilson Presentation on November 22,
+2013 was a partial corrective disclosure. Compl. ¶¶ 357-58. But Fourth Circuit law is clear:
+corrective disclosures must reveal the “truth” through new facts. Katyle, 637 F.3d at 477. On its
+face, the Tilson Presentation is predicated entirely on existing public information about Lumber
+Liquidators, including the Zhou Post, the EIA report, and the Company’s financial disclosures,
+and it contains no “new facts.” Although Plaintiffs note that the Company’s stock price dropped
+after the Tilson Presentation was made, see Compl. ¶¶ 20, 358, a stock price drop that results
+from a disclosure based on facts that were already known to the market cannot form the basis for
+loss causation. See, e.g., Teachers’ Ret., 477 F.3d at 187; Greene, 710 F.3d at 1195-98.
+That conclusion is not altered just because the Tilson Presentation, as analyst reports
+generally do, also contained opinions and analysis regarding the previously disclosed
+information. The Eleventh Circuit recently faced a virtually identical set of allegations – an
+analyst presentation that led to a stock-price drop – and held that the plaintiffs had failed to
+adequately allege loss causation. Greene, 710 F.3d at 1195-98. As that court found, “the mere
+repackaging of already-public information by an analyst or short-seller is simply insufficient to
+constitute a corrective disclosure.” Id. at 1199. Indeed, “[i]f every analyst or short-seller’s
+opinion based on already-public information could form the basis for a corrective disclosure,
+then every investor who suffers a loss in the financial markets could sue under § 10(b) using an
+analyst’s negative analysis of public filings as a corrective disclosure. That cannot be – nor is it
+– the law.” Id.
+As in Greene, the Tilson Presentation sets forth some speculative opinions and
+conclusions about those previously-disclosed facts. (See, e.g., Tilson Presentation at 10, 15, 18,
+19, Ex. 14 (“I believe that a substantial fraction of LL’s gross (and operating) margins expansion
+is due simply to buying the same products for less”; “I think it is likely that a meaningful
+percentage of the 51% of LL’s wood sourced in Asia is from Chinese mills . . .”; “my best guess
+32
+
+Case 4:13-cv-00157-AWA-LRL Document 83 Filed 06/02/15 Page 40 of 45 PageID# 1593
+
+is that this is a big problem . . .”) (emphases added).) These opinions and conclusions, however,
+are not “facts” by any stretch of the imagination – nor, tellingly, are they even described as such
+in the Presentation itself. Any stock price decline associated with the Tilson Presentation cannot
+support the existence of loss causation.
+2Q 2014 Earnings Announcement – Plaintiffs assert that the Company’s 2Q 2014
+earnings announcement was a partial corrective disclosure. Compl. ¶¶ 359-64. This assertion is
+nonsensical. Lumber Liquidators reported that that it was experiencing a sales shortfall because
+of inventory constraints. Id. ¶ 361. The inventory was constrained, at least in part, because of
+“production delays” caused by the Company’s enhancement of its “quality assurance
+requirements” in China and elsewhere. Id. ¶¶ 361-62. The sales shortfall and constrained
+inventory levels “led to shifts in our net sales mix that were adverse to gross margin.” Id. ¶ 295.
+The actual decline in gross margin as compared to the prior year, however, was less than 1%
+(41.3% in 2013 2Q and 40.4% in 2014 2Q). (July 30, 2014 2Q 2014 Form 10-Q at 15, Ex. 34.)
+Nothing in these disclosures presented “new facts” concerning Lumber Liquidators’
+CARB or Lacey Act compliance. The Company’s decision to implement additional quality
+assurance requirements following the launching of a government investigation was prudent
+corporate governance, not an admission that any wrongdoing had taken place. In re Alstom SA
+Sec. Litig., 406 F. Supp. 2d 433, 471 (S.D.N.Y. 2005) (remedial measures taken by company
+“more plausibly suggest that Alstom took the approach that would be reasonably followed by
+any prudent corporation when confronted with this type of crisis”). Moreover, to the extent that
+the new quality assurance requirements had an effect on gross margin, there was no indication in
+the public disclosures that this was the result of the discovery of either prior or current CARB or
+Lacey Act violations, as opposed to simply the stated production delays. In re Omnicom Grp.
+Sec. Litig., 541 F. Supp. 2d 546, 552 (S.D.N.Y. 2008) (“[W]here a disclosure does not reveal the
+falsity of the alleged misstatements, it does not qualify as ‘corrective.’”).
+February 25, 2015 Earnings Call – Plaintiffs fare no better when they attempt to plead
+loss causation based on the Company’s disclosures, in a February 25, 2015 earnings call, that the
+33
+
+Case 4:13-cv-00157-AWA-LRL Document 83 Filed 06/02/15 Page 41 of 45 PageID# 1594
+
+DOJ might file criminal charges related to its Lacey Act investigation and that it believed 60
+Minutes would run a negative report related to laminates support loss causation. Compl. ¶¶ 36566. These disclosures did not reveal any previously hidden “truths” to investors. At best, as with
+the government investigation itself, any stock price drop related to the possibility of criminal
+charges “can only be attributed to market speculation about whether fraud has occurred. This
+type of speculation cannot form the basis of a viable loss causation theory.” Loos, 762 F.3d at
+890. Similarly, the fact that 60 Minutes might run a negative story about laminates did not
+provide investors with any information concerning past CARB violations.
+60 Minutes Report – Plaintiffs final assertion, that the 60 Minutes report on March 1,
+2015 was a partial corrective disclosure, also is untenable. As courts have recognized in
+addressing securities fraud claims, there are “problems inherent in a news report from a
+television program like 60 Minutes, e.g., the reporter’s biases, the editing of the interviews to tell
+a story . . . .” Career Educ., 2006 WL 999988, at *6. Even putting those issues aside, the report
+makes clear that it is based almost entirely on existing allegations about excessive formaldehyde
+levels in Lumber Liquidators’ flooring.
+At the outset, 60 Minutes interviewed the Executive Director of Global Community
+Monitor and his attorney about the testing they had done on Lumber Liquidators laminate
+flooring. That testing had been disclosed in a lawsuit filed nine months earlier in July 2014.
+Compl. ¶¶ 135-36. In that lawsuit, as in the 60 Minutes report, Global Community claims to
+have tested numerous boxes of laminate flooring and found that “every single sample of
+Chinese-made laminate flooring from Lumber Liquidators failed to meet California
+formaldehyde emissions standards.” Id. ¶ 136. 60 Minutes’ repetition of Global Community
+Monitor’s allegations and its own similar testing was simply a repackaging of previously
+available information and cannot qualify as a corrective disclosure. Teachers’ Ret., 477 F.3d at
+187; Greene, 710 F.3d at 1197-99.
+In the end, the only “new facts” contained in the 60 Minutes report were the purported
+revelations that certain laminate flooring sold to Lumber Liquidators was not – according to
+34
+
+Case 4:13-cv-00157-AWA-LRL Document 83 Filed 06/02/15 Page 42 of 45 PageID# 1595
+
+employees in three mills – CARB compliant and, as a result, was less expensive. Compl. ¶¶
+145-47. As with the Zhou Post, however, these allegations do not and cannot act as a corrective
+disclosure of a supposed scheme to improperly inflate the Company’s gross margins through the
+sale of hazardous wood products constituting a “substantial portion of the Company’s earnings
+and revenues.” Compl. ¶ 13. At best, the 60 Minutes report shows that there may have been
+CARB compliance issues at a handful of mills that sold an unknown amount of laminate flooring
+to Lumber Liquidators. Metzler, 540 F.3d at 1063-64 (rejecting alleged corrective disclosure that
+could not be said to have revealed a “widespread” fraud).
+It is not enough for Plaintiffs to argue that based on a series of partial corrective
+disclosures the market “must have known” that the Company’s earlier statements were false or
+misleading. Katyle, 637 F.3d at 477 (rejecting plaintiffs’ proposed “holistic” reading of alleged
+partial corrective disclosures). While the partial disclosures do not have to provide a “fact-forfact disclosure of the relevant truth,” id. at 472-73, missing from the Complaint are any
+disclosures – whether considered individually or together – that revealed the Company’s alleged
+fraudulent scheme. See Loos, 762 F.3d at 887-88 (announcements of disappointing earnings and
+investigations into revenue transactions insufficient partial corrective disclosures of alleged
+fraudulent accounting practices).
+CONCLUSION
+For these reasons, the Complaint should be dismissed in its entirety and with prejudice.31
+
+31
+
+Plaintiffs also bring claims against each Individual Defendant under Section 20(a) of the
+Securities Exchange Act, 15 U.S.C. § 78t(a), which under certain circumstances provides for
+secondary liability for “control persons,” or those who exercised control over another person or
+entity that violated the securities laws. Compl. ¶¶ 92-97. But “a Section 20(a) claim will stand
+or fall based on the court’s decision regarding the Section 10(b) claim.” Plymouth Cnty. Ret.
+Ass’n v. Primo Water Corp., 966 F. Supp. 2d 525, 552-53 (M.D.N.C. 2013); see also Yates, 744
+F.3d at 894 n.8. Because Plaintiffs have failed to adequately allege any violations of Section
+10(b) or Rule 10b-5, see supra §§ II-IV, the control person claims must be dismissed as well. Id.
+35
+
+Case 4:13-cv-00157-AWA-LRL Document 83 Filed 06/02/15 Page 43 of 45 PageID# 1596
+
+Dated: June 2, 2015
+
+Respectfully submitted,
+
+/s/ Lyle Roberts
+Lyle Roberts
+Virginia State Bar Number 45808
+George E. Anhang
+Kyle P. Reynolds
+COOLEY LLP
+1299 Pennsylvania Avenue, NW, Suite 700
+Washington, DC 20004
+Telephone: (202) 842-7800
+Facsimile: (202) 842-7899
+lroberts@cooley.com
+ganhang@cooley.com
+kreynolds@cooley.com
+Jonathan P. Bach
+COOLEY LLP
+1114 Avenue of the Americas
+New York, NY 10036-7798
+Telephone: (212) 479-6000
+Facsimile: (212) 479-6275
+jbach@cooley.com
+Counsel for Lumber Liquidators Holdings,
+Inc., Robert M. Lynch, Daniel E. Terrell,
+Thomas D. Sullivan, and William K. Schlegel
+
+36
+
+Case 4:13-cv-00157-AWA-LRL Document 83 Filed 06/02/15 Page 44 of 45 PageID# 1597
+
+CERTIFICATE OF SERVICE
+I hereby certify that on the 2nd day of June 2015, I will electronically file the foregoing
+with the Clerk of the Court using the CM/ECF system, which will then send a notification of
+such filing (NEF) to the following:
+Steven J. Toll
+Daniel S. Sommers
+Elizabeth Aniskevich
+COHEN MILSTEIN SELLERS & TOLL PLLC
+1100 New York Ave., NW
+Washington, DC 20005-3956
+stoll@cohenmilstein.com
+dsommers@cohenmilstein.com
+dbunch@cohenmilstein.com
+eaniskevich@cohenmilstein.com
+Liaison Counsel for the Class
+Jeremy A. Lieberman
+Michael J. Wernke
+POMERANTZ LLP
+600 Third Avenue, 20th Floor
+New York, New York 10016
+Telephone: (212) 661-1100
+Facsimile: (212) 661-8665
+Patrick V. Dahlstrom
+POMERANTZ LLP
+10 South LaSalle Street, Suite 3505
+Chicago, Illinois 60603
+Telephone: (312) 377-1181
+Facsimile: (312) 377-1184
+Gerald H. Silk
+Avi Josefson
+Jai K. Chandrasekhar
+BERNSTEIN LITOWITZ BERGER & GROSSMANN LLP
+1285 Avenue of the Americas
+New York, New York 10019
+Telephone: (212) 554-1400
+Facsimile: (212) 554-1444
+jerry@blbglaw.com
+avi@blbglaw.com
+jai@blbglaw.com
+Co-Lead Counsel for the Class
+37
+
+Case 4:13-cv-00157-AWA-LRL Document 83 Filed 06/02/15 Page 45 of 45 PageID# 1598
+
+Susan R. Podolsky (Va. Bar #27891)
+LAW OFFICES OF SUSAN R. PODOLSKY
+1800 Diagonal Road, Suite 600
+Alexandria, Virginia 22314
+Telephone: (571) 366-1702
+Facsimile: (703) 647-6009
+spodolsky@podolskylaw.com
+Additional Counsel for Plaintiffs
+
+/s/ Lyle Roberts
+Lyle Roberts
+COOLEY LLP
+1299 Pennsylvania Avenue, NW, Suite 700
+Washington, DC 20004
+Telephone: (202) 842-7800
+Facsimile: (202) 842-7899
+Email: lroberts@cooley.com
+Counsel for Lumber Liquidators Holdings, Inc.,
+Robert M. Lynch, Daniel E. Terrell, Thomas D.
+Sullivan and William K. Schlegel
+
+38
+
+

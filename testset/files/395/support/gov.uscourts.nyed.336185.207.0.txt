@@ -1,0 +1,950 @@
+Case 1:12-cv-05567-RJD-MDG Document 207 Filed 12/02/15 Page 1 of 25 PageID #: 10887
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE EASTERN DISTRICT OF NEW YORK
+
+RUSSELL DOVER, HENRY HORSEY, CODY
+RANK, and SUZETTE PERRY, on behalf of
+themselves and all others similarly situated,
+Plaintiffs
+-vs.-
+
+Case No. 1:12-cv-05567 (RJD) (MDG)
+Judge: Raymond J. Dearie
+
+BRITISH AIRWAYS, PLC (UK),
+
+Magistrate Judge: Marilyn D. Go
+
+Defendant.
+
+MEMORANDUM IN SUPPORT OF PLAINTIFFS’
+MOTION FOR CLASS CERTIFICATION
+
+David S. Stellings
+Nicholas Diamand
+Jason L. Lichtman
+Douglas I. Cuthbertson
+LIEFF CABRASER HEIMANN &
+BERNSTEIN, LLP
+250 Hudson Street, 8th Floor
+New York, NY 10013-1413
+212.355.9500
+
+Clive Zietman
+Fiona Stewart
+Daniel Loblowitz
+STEWARTS LAW, LLP
+5 New Street Square
+London, UK EC4A 3BF
++44 (0)20.7822.8000
+
+Counsel for Plaintiffs
+Additional Counsel Listed on Signature Page
+
+1274889.6
+
+Case 1:12-cv-05567-RJD-MDG Document 207 Filed 12/02/15 Page 2 of 25 PageID #: 10888
+
+TABLE OF CONTENTS
+Page
+I.
+
+INTRODUCTION AND SUMMARY OF THE ARGUMENT ..........................1
+
+II.
+
+LEGAL STANDARD...........................................................................................3
+
+III.
+
+THE PROPOSED CLASS ....................................................................................4
+
+IV.
+
+RELEVANT FACTS ............................................................................................4
+
+V.
+
+A.
+
+BA used the YQ Charge as a “revenue enhancement charge” rather
+than a fuel surcharge. ................................................................................ 5
+
+B.
+
+The parties have proposed competing definitions of the term “fuel
+surcharge”: BA will either be liable to all class members or to
+none. .......................................................................................................... 6
+
+C.
+
+If BA is liable, it is undisputed that damages can be calculated on a
+formulaic, class-wide basis. ...................................................................... 9
+
+D.
+
+The proposed representative plaintiffs seek to hold British Airways
+liable to all proposed class members. ....................................................... 9
+
+PLAINTIFFS HAVE ESTABLISHED THE SEVEN PREREQUISITES
+TO CLASS CERTIFICATION...........................................................................10
+A.
+
+The class is ascertainable because the class is defined with
+reference to objective criteria, and there is a database that contains
+identifying information about all proposed class members. ................... 11
+
+B.
+
+Numerosity is satisfied because there are hundreds of thousands of
+proposed class members. ........................................................................ 12
+
+C.
+
+There is at least one issue common to all members of the class. ............ 12
+
+D.
+
+The proposed class representatives’ claims are typical. ......................... 13
+
+E.
+
+The proposed class representatives and their counsel will
+adequately represent the class. ................................................................ 15
+
+F.
+
+Common issues predominate over individual ones. ............................... 16
+
+G.
+
+A class action is superior to other methods of adjudication. .................. 18
+
+CONCLUSION ...........................................................................................................................19
+CERTIFICATE OF SERVICE ...................................................................................................20
+
+-i1274889.6
+
+Case 1:12-cv-05567-RJD-MDG Document 207 Filed 12/02/15 Page 3 of 25 PageID #: 10889
+
+TABLE OF AUTHORITIES
+Page
+Cases
+Amchem Prods. v. Windsor,
+521 U.S. 591 (1997) ................................................................................................................ 15
+Amgen Inc. v. Conn. Ret. Plans & Trust Funds,
+133 S. Ct. 1184 (2013) .......................................................................................................... 2, 3
+Brecher v. Republic of Argentina,
+No. 14-4385, __ F. 3d __, 2015 WL 5438797 (2d Cir. Sept. 16, 2015) ............................. 3, 11
+Butler v. Sears, Roebuck & Co.,
+727 F.3d 796 (7th Cir. 2013), cert. denied, 134 S. Ct. 1277 (2014) ....................................... 16
+Carnegie v. Household Int’l, Inc.,
+376 F.3d 656 (7th Cir. 2004) .................................................................................................. 18
+Denney v. Deutsche Bank AG,
+443 F.3d 253 (2d Cir. 2006) ............................................................................................. 15, 17
+Dupler v. Costco Wholesale Corp.,
+249 F.R.D. 29 (E.D.N.Y. 2008) .............................................................................................. 17
+Ellis v. Costco Wholesale Corp.,
+657 F.3d 970 (9th Cir. 2011) ............................................................................................ 15, 16
+Harris v. comScore, Inc.,
+292 F.R.D. 579 (N.D. Ill. 2013) ..............................................................................................10
+In re Delta/Airtran Baggage Fee Antitrust Litig.,
+No. CIV.A. 1:09-MD-2089, 2015 WL 5258757 (N.D. Ga. Aug. 5, 2015) ............................ 11
+In re Nassau Cnty. Strip Search Cases,
+461 F.3d 219 (2d Cir. 2006) ................................................................................................... 17
+In re Nigeria Charter Flights Contract Litig.,
+233 F.R.D. 297 (E.D.N.Y. 2006) ...................................................................................... 11, 12
+In re Scotts EZ Seed Litig.,
+304 F.R.D. 397 (S.D.N.Y. 2015) .....................................................................................passim
+In re U.S. Foodservice Inc. Pricing Litig.,
+729 F.3d 108 (2d Cir. 2013), cert. denied, 134 S. Ct. 1938 (2014) ........................ 3, 10, 13, 16
+Kleiner v. The First National Bank of Atlanta,
+97 F.R.D. 683 (N.D. Ga. 1983)............................................................................................... 10
+Marshall v. Deutsche Post DHL,
+No. 13-CV-1471 RJD JO, 2015 WL 5560541 (E.D.N.Y. Sept. 21, 2015) .......................12, 14
+
+-ii1274889.6
+
+Case 1:12-cv-05567-RJD-MDG Document 207 Filed 12/02/15 Page 4 of 25 PageID #: 10890
+
+TABLE OF AUTHORITIES
+(continued)
+Page
+Midwestern Mach. v. Nw. Airlines, Inc.,
+211 F.R.D. 562 (D. Minn. 2001) ............................................................................................11
+Ramcharan v. A.F.L. Quality, Inc.,
+No. 1:12-CV-07551, 2014 WL 4388579 (D.N.J. Sept. 5, 2014) ............................................ 12
+Roach v. T.L. Cannon Corp.,
+778 F.3d 401 (2d Cir. 2015) ............................................................................................... 3, 10
+Rodman v. Safeway, Inc.,
+No. 11-CV-03003-JST, 2014 WL 988992 (N.D. Cal. Mar. 10, 2014) ................................... 10
+Salim Shahriar v. Smith & Wollensky Rest. Group, Inc.,
+659 F.3d 234 (2d Cir. 2011) ................................................................................................... 13
+Steinberg v. Nationwide Mut. Ins. Co.,
+224 F.R.D. 67 (E.D.N.Y. 2004) ....................................................................................2, 10, 19
+Sykes v. Mel S. Harris & Assocs. LLC,
+780 F.3d 70 (2d Cir. 2015) ..............................................................................................passim
+Toure v. Cent. Parking Sys.,
+No. 05-5237, 2007 U.S. Dist. LEXIS 74056 (S.D.N.Y. Sept. 28, 2007) ............................... 15
+UFCW Local 1776 v. Eli Lilly & Co.,
+620 F.3d 121 (2d Cir. 2010) ................................................................................................... 16
+Vincent v. Money Store,
+304 F.R.D. 446 (S.D.N.Y. 2015) ............................................................................................ 17
+Vu v. Diversified Collection Servs., Inc.,
+293 F.R.D. 343 (E.D.N.Y. 2013) ............................................................................................ 12
+Wal-Mart Stores v. Dukes,
+131 S. Ct. 2541 (2011) ............................................................................................................ 13
+Whitton v. Deffenbaugh Disposal, Inc.,
+No. 12-2247, 2015 WL 751817 (D. Kan. Feb. 23, 2015) ................................................passim
+Williams v. Mohawk Indus., Inc.,
+568 F.3d 1350 (11th Cir. 2009) .............................................................................................. 18
+Wolph v. Acer America Corp.,
+No. C09-01314, 2012 WL 993531 (N.D. Cal. Mar. 23, 2012) ...............................................12
+Yarger v. ING Bank, fsb,
+285 F.R.D. 308 (D. Del. 2012) ...............................................................................................12
+Rules
+Fed. R. Civ. P. 23(a)(1) ........................................................................................................... 3, 12
+-iii1274889.6
+
+Case 1:12-cv-05567-RJD-MDG Document 207 Filed 12/02/15 Page 5 of 25 PageID #: 10891
+
+TABLE OF AUTHORITIES
+(continued)
+Page
+Fed. R. Civ. P. 23(a)(2) ........................................................................................................... 3, 12
+Fed. R. Civ. P. 23(a)(3) ........................................................................................................... 3, 13
+Fed. R. Civ. P. 23(a)(4) ........................................................................................................... 3, 15
+Fed. R. Civ. P. 23(b)(3)..................................................................................................... 3, 16, 18
+
+-iv1274889.6
+
+Case 1:12-cv-05567-RJD-MDG Document 207 Filed 12/02/15 Page 6 of 25 PageID #: 10892
+
+I.
+
+INTRODUCTION AND SUMMARY OF THE ARGUMENT
+Most major airlines invite their customers to join frequent flyer programs. Customers
+
+who join these programs (“Members”) earn points from engaging in various activities, such as
+flying with the airline or using a particular credit card. Members frequently redeem these points
+for “free” airline tickets (“Redemption Tickets”).
+Plaintiffs are Members of Defendant’s frequent flier program. As part of their
+membership, each of them entered into a standard, form contract with British Airways, Plc
+(“BA”). That contract gave British Airways the right to assess a “fuel surcharge” on Redemption
+Tickets. Consistent with the common understanding of the term, BA announced that its “fuel
+surcharge” was “a charge based on the fluctuating price of worldwide oil.”1
+When Plaintiffs redeemed their points, BA imposed a huge charge—sometimes more
+than $500 per ticket—and told them that it was a “fuel surcharge.” Plaintiffs allege that BA did
+not use the “fuel surcharge” to protect itself from fluctuations in the volatile fuel market. The
+evidence has confirmed this: BA used the “fuel surcharge” as a revenue maximization tool.
+*
+
+*
+
+*
+
+British Airways all but admits that its “fuel surcharge” did not fluctuate with its fuel costs.
+BA says that for any given year during the class period, it used “fuel surcharges” to attempt to
+capture the difference in cost between BA’s total fuel bill in 2003 and its total fuel bill in the
+year in question. For example, assume British Airways paid $1 billion for fuel in 2003, $2.3
+billion in 2010, and $2.5 billion in 2011. BA’s 2011 “fuel surcharge” would reflect not the $200
+million change in costs since 2010 (much less monthly or quarterly fluctuation in the price of
+fuel), but BA’s entire $1.5 billion fuel cost change since 2003. This resulted in the assessment of
+1
+
+Ex. B (RFA Resp.) at 6 (admitting that for the vast majority of the proposed class period BA’s
+website stated that the “fuel surcharge” reflected the “fluctuating price of worldwide oil.” ).
+
+1274889.6
+
+-1-
+
+Case 1:12-cv-05567-RJD-MDG Document 207 Filed 12/02/15 Page 7 of 25 PageID #: 10893
+
+a wildly improper “fuel surcharge” that did not track fluctuations in BA’s cost of fuel and
+sometimes exceeded 100% of BA’s total fuel costs on certain routes.
+Why did BA charge its customers based on its total fuel costs in 2003? When Plaintiffs
+asked BA’s CEO that very question, he admitted that there was no logic to it at all and stated:
+“Why not 1992? Why not 1962?”2
+To be sure, British Airways’ contract could have defined a “fuel surcharge” as a charge
+linked to BA’s total cost of fuel in 2003, but BA chose not to do this. Rather, BA took precisely
+the opposite tack and hid its actions: it even went so far as to designate the 2003 baseline a
+“trade secret” (in this case). That secrecy indicates that BA believes that it may calculate the
+“fuel surcharge” however it wants. Not so. Plaintiffs will prove to the jury that BA’s “fuel
+surcharge” wasn’t a fuel surcharge at all, and that a fuel surcharge is a charge that changes as the
+cost of fuel changes.
+Because this is a motion for class certification, however, what matters for present
+purposes is not how this Court or a jury ultimately will interpret the meaning of the term “fuel
+surcharge.” What matters instead is whether all class members’ breach of contract claims will
+rise or fall in unison. See Amgen Inc. v. Conn. Ret. Plans & Trust Funds, 133 S. Ct. 1184, 1191
+(2013). The answer to that question is yes: either the contract permitted all of BA’s “fuel
+surcharges,” or it permitted none of them (because they were not fuel surcharges). Indeed,
+because this case arises “from interpretations of a form contract,” it “present[s] the classic case
+for treatment as a class action.” In re Scotts EZ Seed Litig., 304 F.R.D. 397, 411 (S.D.N.Y. 2015)
+(Briccetti, J.) (quoting Steinberg v. Nationwide Mut. Ins. Co., 224 F.R.D. 67, 74 (E.D.N.Y.
+2004)).
+2
+
+Ex. P (3/13/15 Williams Dep.) at 35:21.
+
+1274889.6
+
+-2-
+
+Case 1:12-cv-05567-RJD-MDG Document 207 Filed 12/02/15 Page 8 of 25 PageID #: 10894
+
+Plaintiffs respectfully ask the Court to certify this straightforward breach of contract
+claim. See In re U.S. Foodservice Inc. Pricing Litig., 729 F.3d 108, 124 (2d Cir. 2013)
+(affirming class certification where, as here, each proposed class member was subject to the
+same material contractual terms), cert. denied, 134 S. Ct. 1938 (2014); Whitton v. Deffenbaugh
+Disposal, Inc., No. 12-2247, 2015 WL 751817, at *6-8 (D. Kan. Feb. 23, 2015) (finding class
+certification proper for a breach of contract claim alleging that a “fuel surcharge” was not truly a
+fuel surcharge).
+II.
+
+LEGAL STANDARD
+When plaintiffs seek class certification for money damages, they must affirmatively
+
+prove seven prerequisites to class certification:
+(1) Ascertainability. It must be administratively feasible for the court to determine
+whether a particular individual is a member of the proposed class. Brecher v.
+Republic of Argentina, No. 14-4385, __ F. 3d __, 2015 WL 5438797, at *2 (2d
+Cir. Sept. 16, 2015).
+(2) Numerosity. Class certification is only appropriate if it is not practical to join all
+potential claimants in one litigation. Fed. R. Civ. P. 23(a)(1).
+(3) Commonality. At least one legal or factual question must be common to every
+member of the class. Fed. R. Civ. P. 23(a)(2);
+(4) Typicality. The named plaintiffs must have the same type of claim as other class
+members. Fed. R. Civ. P. 23(a)(3).
+(5) Adequacy. The named plaintiffs and their counsel must represent the interests of
+absent class members. Fed. R. Civ. P. 23(a)(4).
+(6) Predominance. Legal and factual issues that can be resolved on a classwide basis
+must be more important than those that could only be resolved on an individual
+basis. Fed. R. Civ. P. 23(b)(3).
+(7) Superiority. A class action must be superior to many individual lawsuits. Fed. R.
+Civ. P. 23(b)(3).
+See, e.g., Amgen, 133 S. Ct. at 1191 (articulating the standards for class certification); Roach v.
+T.L. Cannon Corp., 778 F.3d 401, 405 (2d Cir. 2015).
+
+1274889.6
+
+-3-
+
+Case 1:12-cv-05567-RJD-MDG Document 207 Filed 12/02/15 Page 9 of 25 PageID #: 10895
+
+III.
+
+THE PROPOSED CLASS
+Plaintiffs respectfully move to certify a class of:
+All members of the British Airways Executive Club who redeemed frequent flier
+miles for an award ticket from November 9, 2006 through April 17, 2013 and who
+paid a BA-imposed “fuel surcharge,” so long as that member provided British
+Airways with a valid United States address at the time of booking. This class
+excludes: (1) members who redeemed frequent flier miles exclusively using what
+British Airways termed its “Cash + Avios” option; (2) any judge to whom this
+case is assigned, along with his or her staff; (3) British Airways officers, directors,
+employees, as well as outside counsel in this litigation, and; (4) immediate family
+of any individual excluded by 2 or 3.
+
+IV.
+
+RELEVANT FACTS
+British Airways entered into a form contract with every one of the proposed class
+
+members. See generally Ex. A (Contract) at BA00003946; see also Ex. B (BA RFA) at 1
+(admitting that the relevant contractual language applied throughout the class time period). In
+particular, the contract stated that BA reserved the right to impose a “fuel surcharge.” Id. at ¶
+13.14 (Members will be liable for all taxes and other charges associated with Reward travel on
+British Airways or a Service Partner airline, including without limitation . . . fuel
+surcharges . . . .). The contract is governed by English law. Id. at ¶ 30.1 (“[T]hese Terms and
+Conditions shall be governed by and construed in accordance with English law.”); cf. Ex. C
+(7/15/15 Sutcliffe Rep.) (articulating the governing principles of English law).
+Plaintiffs’ sole claim in this case is straightforward: BA’s “fuel surcharge” was not
+actually a fuel surcharge at all. Instead, the “fuel surcharge” was a charge that helped BA
+maximize its revenues. See Ex. D (5/4/15 Kokonis Rep.) ¶¶ 9, 19, 52. Indeed, one of BA’s own
+experts admitted that the “fuel surcharge” was simply a component of BA’s overall ticket price.
+
+1274889.6
+
+-4-
+
+Case 1:12-cv-05567-RJD-MDG Document 207 Filed 12/02/15 Page 10 of 25 PageID #: 10896
+
+Ex. E (9/4/15 Kasper Rep.) ¶ 51.3 In part for this reason, Plaintiffs refer to the “fuel surcharge”
+by the technical name that BA used internally, the YQ Charge.4
+A.
+
+BA used the YQ Charge as a “revenue enhancement charge” rather than a
+fuel surcharge.
+
+The evidence shows that the YQ Charge was designed primarily to maximize BA’s
+revenues. For example, on some flights, the YQ Charge could exceed the difference between
+BA’s cost of fuel in BA’s purported 2003 “base year” and BA’s cost of fuel at the time of ticket
+purchase. See Ex. F (7/27/15 Kokonis Rep.) ¶¶ 45-46. Indeed, the YQ Charge significantly
+exceeded BA’s total cost of fuel for at least one of BA’s routes. Id. In other words, instead of
+protecting BA from fluctuations in its cost of fuel, the “fuel surcharge” sometimes paid for more
+than 100% of BA’s fuel costs.
+The YQ Charge, moreover, was not always changed for reasons that related to fuel costs
+(or prices). Ex. D (5/4/15 Kokonis Rep.) ¶¶ 18-19; see also id. Appx. D (analyzing testimony in
+which BA executives discussed the YQ Charge without referencing fuel). Among other things,
+British Airways would raise the YQ Charge when the competitive environment allowed it to do
+so, whether or not BA’s fuel costs were rising. See id.
+And because the YQ Charge was set simply to maximize revenue (rather than to capture
+fluctuations in fuel prices), it could vary based on the point of sale. Ex. D (5/4/15 Kokonis Rep.)
+¶ 22; Ex. F (7/27/15 Kokonis Rep.) ¶¶ 33-39. For example, customers in New York purchasing
+roundtrip tickets between London and New York paid 30% more for the YQ Charge than
+3
+
+The Court may recall that one of the early disputes in this litigation revolved around the
+question of whether a “fuel surcharge” is a charge that relates to fuel prices, fuel costs, or either.
+Because this issue is not relevant to class certification or either party’s theory of liability,
+Plaintiffs refer only to costs in this brief, but do so to mean “cost or price.”
+4
+
+The term “YQ” was created by the International Air Transport Association; it was the code BA
+used for the “fuel surcharge.”
+
+1274889.6
+
+-5-
+
+Case 1:12-cv-05567-RJD-MDG Document 207 Filed 12/02/15 Page 11 of 25 PageID #: 10897
+
+customers who purchased the same roundtrip tickets on the same day in London, even if the New
+Yorker and the Londoner flew on the exact same flights. In other words, customers who on the
+same day purchased the same ticket, for the same flights, would each pay a different YQ Charge
+(even though they “consumed” the exact same amount of fuel). Obviously, that disparity has
+nothing to do with fluctuations in BA’s cost of fuel. See Ex. D (5/4/15 Kokonis Rep.) ¶ 22.5
+At bottom, the YQ Charge was not primarily used to recover fuel costs: it was simply
+part of BA’s “broad revenue maximization scheme.” Ex. F (7/27/15 Kokonis Rep.) ¶ 4; cf., e.g.,
+Id. ¶ 2; Ex. D (5/4/15 Kokonis Rep.) ¶¶ 20-21 (noting that the YQ Charge was sometimes nonrefundable, even though a consumer who does not fly uses no fuel).
+B.
+
+The parties have proposed competing definitions of the term “fuel
+surcharge”: BA will either be liable to all class members or to none.
+
+As this Court predicted more than two years ago, this trial “will be a battle of the experts.”
+Ex. G (9/20/13 Hr’g Tr.) at 4:3-4. To that end, Plaintiffs support their claim that the YQ Charge
+was not a fuel surcharge with testimony from Dr. Jonathan Arnold, former Chief Economist at
+the New York State Office of the Attorney General and an economics professor at numerous
+schools, including the University of Chicago (in both the Booth School of Business and the
+Department of Economics). See Ex. H (5/4/15 Arnold Rep.) ¶ 2 & Appx. 1. Dr. Arnold has
+concluded that the YQ Charge does not reflect the price or cost of fuel, but rather was simply an
+element of the total price BA charged it customers. See id. ¶ 9.
+
+5
+
+Similarly, BA’s YQ Charge was $300 more for a customer who purchased a ticket in Miami
+for travel to and from London than it was for a customer who purchased a ticket in London for
+travel to and from Miami on the same flights. See Ex. D (5/4/15 Kokonis Rep.) ¶ 22. When a
+customer asked BA’s non-executive chairman, Martin Broughton, about the great disparity in the
+YQ Charge based solely on point of purchase, Mr. Broughton initially responded that
+competition was the “most important’ factor in setting the YQ Charge. See id. ¶¶ 20-23.
+Interestingly, BA’s CEO incorrectly testified that competition was not a factor in setting the YQ
+Charge. See id. ¶ 25.
+
+1274889.6
+
+-6-
+
+Case 1:12-cv-05567-RJD-MDG Document 207 Filed 12/02/15 Page 12 of 25 PageID #: 10898
+
+1.
+
+If a “fuel surcharge” is a charge based on changes in the price or cost
+of fuel, BA will be liable to all class members.
+
+As explained above, Plaintiffs contend that the contractual term “fuel surcharge” means
+that BA will include its regular fuel costs (BA’s single largest operating cost) in its fares, but that
+BA will impose an extra charge on top of the fare for recent changes in the cost of fuel. In other
+words, Plaintiffs contend that a “fuel surcharge” is exactly what BA publicly said that it was, a
+charge that reflects the “fluctuating price of worldwide oil.” Ex. B (RFA Resp.) at 6 (admitting
+that BA’s website made this statement for the majority of the class period). This definition is
+consistent with the dictionary definition of the term “surcharge” quoted by one of BA’s experts,
+which explains that a “surcharge” is “an amount of money that must be paid in addition to the
+regular price.” Ex. I (8/28/15 Sherman Rep.) ¶ 28; cf. Ex. J (7/15/15 Arnold Rep.) ¶ 27 (noting
+that BA’s experts cited an academic paper that proposed this same definition).
+Dr. Arnold, moreover, directly addresses BA’s contention that a fuel surcharge is a
+charge that attempts to recover a particular year’s fuel costs compared to 2003. He explains that
+to be reasonably based on the cost of fuel from an economic perspective, the YQ Charge must be
+based on relatively recent changes in the cost of fuel:
+[I]t is not reasonable to assess a fuel surcharge based on a benchmark that is
+several years old. To see why this is so, consider that most of the changes in fuel
+prices that had occurred (or were to occur) between 2003 and 2008 were already
+known in 2007. Thus, using 2003 prices as a benchmark instead of some more
+recent price will inappropriately ignore a great deal of information known to BA.
+Id. ¶ 45; see also, e.g., ¶ 44 (“BA’s own executives have acknowledged the arbitrary nature of
+this reference period. BA’s CEO, Mr. Keith Williams, when asked why the baseline for fuel
+prices was 2004, responded “Why not 1992? Why not 1962?”). See Ex. P (3/13/15 Williams
+Dep.) at 35:21.
+
+1274889.6
+
+-7-
+
+Case 1:12-cv-05567-RJD-MDG Document 207 Filed 12/02/15 Page 13 of 25 PageID #: 10899
+
+2.
+
+If “fuel surcharge” means a charge linked to the price of fuel at a
+single undisclosed time in the distant past that incorporates a number
+of competitive factors, BA will not be liable to any class member.
+
+British Airways does not accept Plaintiffs’ proposed definition of a “fuel surcharge.”
+Instead, BA argues that a “fuel surcharge” is a charge that takes into account a number of
+competitive factors along with the cost of fuel at a single undisclosed time in the past (2003).
+See, e.g., Ex. I (8/25/15 Sherman Rep.) ¶¶ 25, 31, 39-40, 43, 57, 63, 70, 71-83. In particular, BA
+executives have stated in their deposition testimony that the YQ Charge took into account the
+competitive environment and attempted to recover the cost of fuel in a given year relative to
+2003. See, e.g., Ex. Q (2/26/15 Foran Dep.) at 22:4-23:2; Ex. P (3/13/15 Williams Dep.) at 28:313. The “fact” that the YQ Charge was an effort to recover BA’s total cost of fuel (relative to
+2003) was never disclosed to the public, and BA still considers it a highly confidential trade
+secret. See, e.g., Ex. R (Lichtman Decl.) ¶ 8 (“BA designated every reference to the 2003
+baseline as confidential information under the Protective Order.”).6
+Whether a “fuel surcharge” can be set to attempt to recover all of BA’s fuel costs relative
+to a secret, arbitrarily chosen year in the distant past is of dispositive relevance. BA will not be
+liable to any class member if the jury finds that BA met its contractual obligations when it
+charged them a “fuel surcharge” that BA claims was set to allow it to recover as much of its
+annual fuel costs as possible compared to its fuel costs in 2003. See Ex. H (5/4/15 Arnold Rep.)
+
+6
+
+All of BA’s executives other than its CEO claimed that the YQ Charge was based on the cost of
+fuel in 2003 (whereas he stated that it was based on the cost of fuel in 2004). BA’s experts have
+split this difference and said that it is based on the cost of fuel in 2003-2004. See Ex. I (8/25/15
+Sherman Rep.) ¶¶ 73-81. In any event, neither BA nor its experts attempt to justify basing the
+YQ Charge on 2003-2004. Instead, BA makes the circular argument that it was justified in using
+2003-2004 as an undisclosed baseline because it used 2003-2004 as an undisclosed baseline. See,
+e.g., Ex. H (5/4/15 Arnold Rep.) ¶ 44 (quoting BA’s CEO on this point).
+
+1274889.6
+
+-8-
+
+Case 1:12-cv-05567-RJD-MDG Document 207 Filed 12/02/15 Page 14 of 25 PageID #: 10900
+
+¶ 53 (“As a matter of economics, either all of the YQ Charges were fuel surcharges or none of
+them were.”).
+C.
+
+If BA is liable, it is undisputed that damages can be calculated on a
+formulaic, class-wide basis.
+
+Plaintiffs and BA appear to agree on at least one thing: if there are damages, they can be
+calculated on a class-wide basis. See Ex. J (7/15/15 Arnold Rep.) ¶¶ 34-37. Dr. Arnold has
+proposed a formulaic method for calculating damages, and BA’s experts do not propose an
+alternative damages calculation, nor do they argue that Dr. Arnold’s calculations are not
+appropriate for use on a class-wide basis separately from their argument that there are no
+damages at all. As Dr. Arnold explained:
+[T]he amount by which each class member was damaged is either the total
+amount of the illegitimate charge or the difference between the actual YQ Charge
+and a legitimate fuel surcharge. As I demonstrated in my initial report, such a
+“but-for” fuel surcharge can be constructed without reference to customer-specific
+information. Mr. Sherman and Mr. Kasper appear to agree with me on this point,
+as neither argues that customer-specific information is relevant to an appropriate
+fuel surcharge.
+Id. ¶ 37.
+D.
+
+The proposed representative plaintiffs seek to hold British Airways liable to
+all proposed class members.
+
+Four proposed representative plaintiffs have stepped forward—at the expense of
+significant time and effort—to hold BA accountable for its conduct, seek compensation for those
+who have been harmed, and to deter BA’s future misconduct. See, e.g., Ex. K (Dover Decl.) ¶
+5(a) (“I do not seek relief solely for myself, nor do I seek any type of relief that is different from
+the relief that I seek on behalf of all other proposed class members.”); Ex. L (Horsey Decl.) ¶ 5(a)
+(same); Ex. M (Rank Decl.) ¶ 5(a) (same); Ex. N (Perry Decl.) ¶ 5(a) (same).
+Each representative plaintiff has taken his or her duties seriously and devoted significant
+time and attention to this case: producing documents, repeatedly traveling cross-country for
+
+1274889.6
+
+-9-
+
+Case 1:12-cv-05567-RJD-MDG Document 207 Filed 12/02/15 Page 15 of 25 PageID #: 10901
+
+multiple depositions, and reviewing numerous pleadings. See Ex. K (Dover Decl.) ¶ 6; Ex. L
+(Horsey Decl.) ¶ 6; Ex. M (Rank Decl.) ¶ 6; Ex. N (Perry Decl.) ¶ 6. None has any interest that
+is antagonistic other class members. See Ex. K (Dover Decl.) ¶ 5(c) (“I know of no reason that I
+would gain financially while other class members would lose financially, nor do I know of any
+reason that I would lose financially while other class members would gain.”); Ex. L (Horsey
+Decl.) ¶ 5(c) (same); Ex. M (Rank Decl.) ¶ 5(c) (same); Ex. N (Perry Decl.) ¶ 5(c) (same).
+Perhaps most importantly, each has testified that he or she “will at all times consider the
+interest of other class members to be just as important as my own interests, and I will never seek
+to benefit myself at the expense of other class members.” Ex. K (Dover Decl.) ¶ 5(b); Ex. L
+(Horsey Decl.) ¶ 5(b); Ex. M (Rank Decl.) ¶ 5(b); Ex. N (Perry Decl.) ¶ 5(b).
+V.
+
+PLAINTIFFS HAVE ESTABLISHED THE SEVEN PREREQUISITES TO CLASS
+CERTIFICATION.
+Plaintiffs respectfully submit that class certification in this case is not a close question.
+
+Indeed, it is well established that litigation involving the “interpretation of a form contract . . .
+present[s] the classic case for treatment as a class action.” Scotts EZ Seed, 304 F.R.D. at 411
+(quoting Steinberg, 224 F.R.D. at 74). This proposition has been affirmed many dozens of times.
+See, e.g., Rodman v. Safeway, Inc., No. 11-CV-03003-JST, 2014 WL 988992, at *7 (N.D. Cal.
+Mar. 10, 2014) (“[I]nterpretation of a form contract . . . present[s] the classic case for treatment
+as a class action.”); Harris v. comScore, Inc., 292 F.R.D. 579, 585 (N.D. Ill. 2013) (same);
+Kleiner v. The First National Bank of Atlanta, 97 F.R.D. 683, 692 (N.D. Ga. 1983) (same).
+The Second Circuit, moreover, recently affirmed class certification where, as here, the
+plaintiffs moved to certify a breach of contract claim when each proposed class member was
+subject to the same material contractual provision. U.S. Foodservice Pricing Litig., 729 F.3d at
+124; see also Roach, 778 F.3d at 405 (reaffirming same). And another district court recently
+
+1274889.6
+
+-10-
+
+Case 1:12-cv-05567-RJD-MDG Document 207 Filed 12/02/15 Page 16 of 25 PageID #: 10902
+
+explained that class certification was proper when plaintiffs alleged that they had been charged a
+“fuel surcharge” that was not genuinely a fuel surcharge. Whitton, 2015 WL 751817, at *6-8; cf.
+In re Delta/Airtran Baggage Fee Antitrust Litig., No. CIV.A. 1:09-MD-2089, 2015 WL 5258757,
+at *8 (N.D. Ga. Aug. 5, 2015) (certifying antitrust claims against airlines notwithstanding the
+airline defendants’ argument that the airline industry involves “an elaborate pricing system that
+results in a range of prices” (quoting Midwestern Mach. v. Nw. Airlines, Inc., 211 F.R.D. 562,
+571–72 (D. Minn. 2001)). The same result is appropriate in this case. Cf. In re Nigeria Charter
+Flights Contract Litig., 233 F.R.D. 297, 299 (E.D.N.Y. 2006) (Dearie, J.) (granting class
+certification for breach of contract claim brought against an airline).
+A.
+
+The class is ascertainable because the class is defined with reference to
+objective criteria, and there is a database that contains identifying
+information about all proposed class members.
+
+Rule 23 contains “an implied requirement of ascertainability.” Brecher, 2015 WL
+5438797, at *2. In particular, a “class is ascertainable when defined by objective criteria that are
+administratively feasible and when identifying its members would not require a mini-hearing on
+the merits of each case.” Id. (internal quotation marks and citation omitted). It is not, however,
+necessary for Plaintiffs to actually identify proposed class members. Id. n. 2 (internal quotations
+omitted) (citation omitted).
+Ascertainability should not be meaningfully contested in this case. That is so because
+BA has a database known as the “ICW database” that contains the identity of all 168,259
+proposed class members. See Ex. O (4/9/15 Cemlyn-Jones Dep.) at 245:19-23 (“[The ICW
+database] contain[s] all the address records for any Executive Club member that made a booking
+during the class period that had a U.S. address that was active at the time of booking”); see also
+Ex. H (5/4/15 Arnold Rep.) ¶¶ 55-60 (using the ICW database to calculate damages
+formulaically for all proposed class members); cf. Ex. R (Lichtman Decl.) ¶ 9 (“Plaintiffs did not
+
+1274889.6
+
+-11-
+
+Case 1:12-cv-05567-RJD-MDG Document 207 Filed 12/02/15 Page 17 of 25 PageID #: 10903
+
+attach the database because it is voluminous, however, Plaintiffs will produce this database if the
+Court requests it.”). Put simply, ascertainability is not in doubt when the defendant has a
+database that contains the actual identity of most class members. Vu v. Diversified Collection
+Servs., Inc., 293 F.R.D. 343, 355 (E.D.N.Y. 2013) (Garaufis, J.) (“[T]hrough searches of its
+database guided by Plaintiff’s various class definitions, Defendant has been able to produce
+estimates of the class sizes, thereby demonstrating . . . ascertainability.”).7
+B.
+
+Numerosity is satisfied because there are hundreds of thousands of proposed
+class members.
+
+Plaintiffs must also demonstrate that “the class is so numerous that joinder of all
+members is impracticable.” Fed. R. Civ. P. 23(a)(1). Plaintiffs have established numerosity
+because the proposed class includes 168,259 members. See Ex. O (4/9/15 Cemlyn-Jones Dep.)
+at 245:19-23 (“[A]ll the address records for any Executive Club member that made a booking
+during the class period . . . .”). Indeed, numerosity is presumed when a class contains more than
+40 members. See, e.g., Marshall v. Deutsche Post DHL, No. 13-CV-1471 RJD JO, 2015 WL
+5560541, at *3 (E.D.N.Y. Sept. 21, 2015) (Dearie, J.); In re Nigeria Charter Flights Contract
+Litig., 233 F.R.D. at 302.
+C.
+
+There is at least one issue common to all members of the class.
+
+Plaintiffs also must demonstrate that there is a question of fact or law common to the
+class. Fed. R. Civ. P. 23(a)(2). In particular, Plaintiffs must show that there is at least one
+
+7
+
+See also, e.g., Ramcharan v. A.F.L. Quality, Inc., No. 1:12-CV-07551, 2014 WL 4388579, at
+*4 (D.N.J. Sept. 5, 2014) (explaining that a class was ascertainable when it could be identified
+through a payroll database, even when that database was not provided to the Court); Yarger v.
+ING Bank, fsb, 285 F.R.D. 308, 318 (D. Del. 2012) (explaining that when a company has a
+database of proposed class members, the class is ascertainable); Wolph v. Acer America Corp.,
+No. C09-01314, 2012 WL 993531, at *2 (N.D. Cal. Mar. 23, 2012) (“[T]he identity and contact
+information for a significant portion of these individuals [can] be obtained from the warranty
+registration information and through [defendant’s] customer service databases.”).
+
+1274889.6
+
+-12-
+
+Case 1:12-cv-05567-RJD-MDG Document 207 Filed 12/02/15 Page 18 of 25 PageID #: 10904
+
+common question such that “a classwide proceeding [can] generate common answers apt to drive
+the resolution of the litigation.” Wal-Mart Stores v. Dukes, 131 S. Ct. 2541, 2551 (2011)
+(emphasis in original) (citation omitted); see also id. (“[E]ven a single common question will
+do.”).
+Commonality is readily met in cases where, as here, plaintiffs allege breach of a
+materially identical contract. See, e.g., U.S. Foodservice Pricing Litig., 729 F.3d at 124. This
+case, like other “claims arising from interpretations of a form contract,” Scotts EZ Seed, 304
+F.R.D. at 411, turns on the resolution of a single, indisputably common issue: the meaning of the
+contractual term “fuel surcharge.” Either a “fuel surcharge” is an extra charge in addition to the
+normal price of fuel to take into account recent changes in fuel prices (and BA has breached its
+contract with all proposed class members), or a “fuel surcharge” is simply a charge that attempts
+to recover as much of BA’s annual fuel costs relative to 2003 as possible (and BA breached its
+contract with none of the class members). See, e.g., Ex. H (5/14/15 Arnold Rep.) ¶ 53 (“As a
+matter of economics, either all of the YQ Charges were fuel surcharges or none of them were.”).
+Plaintiffs thus respectfully submit that that there is at least one issue common to the class
+that will drive the resolution of this litigation. Whitton, 2015 WL 751817, at *6-8 (finding class
+certification proper for breach of contract claim alleging that a “fuel surcharge” was not truly a
+fuel surcharge); see also, e.g., Scotts EZ Seed, 304 F.R.D. at 411 (explaining that cases involving
+a form contract “present the classic case for treatment as a class action”).
+D.
+
+The proposed class representatives’ claims are typical.
+
+Plaintiffs must also show that the representative plaintiffs’ claims are typical. See Fed. R.
+Civ. P. 23(a)(3). The Second Circuit has explained that typicality is satisfied “when each class
+member’s claim arises from the same course of events and each class member makes similar
+legal arguments to prove the defendant’s liability.” Salim Shahriar v. Smith & Wollensky Rest.
+
+1274889.6
+
+-13-
+
+Case 1:12-cv-05567-RJD-MDG Document 207 Filed 12/02/15 Page 19 of 25 PageID #: 10905
+
+Group, Inc., 659 F.3d 234, 252 (2d Cir. 2011) (citation and internal quotation marks omitted). In
+other words, the named plaintiffs should bring claims “for the same type of injury under the
+same legal theory as the rest of the class.” Marshall, 2015 WL 5560541, at *3.
+Typicality, like the other prerequisites to class certification, is not a close call here. The
+proposed representative plaintiffs do not merely make arguments that are similar to the legal
+arguments of other class members (which is all that Rule 23 requires), the representative
+plaintiffs make the same legal arguments as other class members:
+[BA’s experts] use common, albeit flawed, arguments to suggest that class
+members’ claims should fail. I have used analysis common to all class members
+to explain why their claims should succeed. In other words, no expert for either
+party has suggested that the Court or jury apply any methodology under which it
+is possible that some class members’ claims could prevail, while other class
+members’ claims would not.
+Ex. J (7/15/15 Arnold Rep.) ¶ 36 (emphasis added); accord, e.g., Scotts EZ Seed, 304 F.R.D. at
+411; Whitton, 2015 WL 751817, at *6-8.8 Put another way, typicality is met for the same reason
+that commonality is met: BA either breached its contract with all proposed class members, or it
+breached its contract with none of them. See, e.g., Ex. H (5/14/15 Arnold Rep.) ¶ 53 (“As a
+matter of economics, either all of the YQ Charges were fuel surcharges or none of them were.”);
+cf. Sykes v. Mel S. Harris & Assocs. LLC, 780 F.3d 70, 80 (2d Cir. 2015) (explaining that in
+some cases the “commonality and typicality requirements of Rule 23(a) tend to merge”).
+
+8
+
+See also Ex. K (Dover Decl.) ¶ 5(a) (“I do not seek relief solely for myself, nor do I seek any
+type of relief that is different from the relief that I seek on behalf of all other proposed class
+members. Among other things, I understand my claim to be based on the same events as the
+events on which every other proposed class members’ claim is based, and I understand my legal
+arguments in this litigation to be the same as the legal arguments of other proposed class
+members.”); Ex. L (Horsey Decl.) ¶ 5(a) (same); Ex. M (Rank Decl.) ¶ 5(a) (same); Ex. N (Perry
+Decl.) ¶ 5(a) (same).
+
+1274889.6
+
+-14-
+
+Case 1:12-cv-05567-RJD-MDG Document 207 Filed 12/02/15 Page 20 of 25 PageID #: 10906
+
+E.
+
+The proposed class representatives and their counsel will adequately
+represent the class.
+
+Plaintiffs must “fairly and adequately protect the interests of the class.” Fed. R. Civ. P.
+23(a)(4); see also Amchem Prods. v. Windsor, 521 U.S. 591, 625 (1997). The adequacy
+determination requires determining: (1) “whether the named plaintiffs and their counsel have
+any conflicts of interest with other class members;” and (2) whether “the named plaintiffs and
+their counsel [will] prosecute the action vigorously on behalf of the class[.]” Ellis v. Costco
+Wholesale Corp., 657 F.3d 970, 985 (9th Cir. 2011) (citation and internal quotation marks
+omitted); see also Sykes, 780 F.3d at 80.
+The proposed class representatives and their counsel have met Rule 23’s “adequacy”
+prong. See Sykes, 780 F.3d at 80; Ellis, 657 F.3d at 985. First, there is no conflict between the
+proposed representative plaintiffs and other class members:
+[T]here is no economic sense in which the named Class representatives’ claims
+are antagonistic to the claims of any other Class member. Among other things, the
+named class representatives would not recover damages unless the other Class
+members also recovered damages, and no class member would be worse off if the
+Plaintiffs should prevail.
+Ex. H (5/14/15 Arnold Rep.) ¶ 53.9
+Second, there can be no serious doubt that the proposed named plaintiffs and their
+counsel will “vigorously pursue the claims of the class.” Toure v. Cent. Parking Sys., No. 055237, 2007 U.S. Dist. LEXIS 74056 at *18-19 (S.D.N.Y. Sept. 28, 2007) (quoting Denney v.
+Deutsche Bank AG, 443 F.3d 253, 268 (2d Cir. 2006)); see also Sykes, 780 F.3d at 80. Each of
+9
+
+See also Ex. K (Dover Decl.) ¶ 5(c) (“I am aware of no interest of mine in this litigation that is
+antagonistic to the interest of other class members. Among other things, I know of no reason
+that I would gain financially while other class members would lose financially, nor do I know of
+any reason that I would lose financially while other class members would gain.”); Ex. L (Horsey
+Decl.) ¶ 5(c) (same); Ex. M (Rank Decl.) ¶ 5(c) (same); Ex. N (Perry Decl.) ¶ 5(c) (same); Ex. R
+(Lichtman Decl.) ¶ 7 (certifying that proposed class counsel is aware of no conflicts between
+themselves and the class).
+
+1274889.6
+
+-15-
+
+Case 1:12-cv-05567-RJD-MDG Document 207 Filed 12/02/15 Page 21 of 25 PageID #: 10907
+
+the proposed class representatives has testified that they “have participated actively in the case
+and will continue to do so” and “will at all times consider the interest of other class members to
+be just as important as [their] own interests, and [ ] never seek to benefit [themselves] at the
+expense of other class members.” Ex. K (Dover Decl.) ¶ 5; Ex. L (Horsey Decl.) ¶ 5; Ex. M
+(Rank Decl.) ¶ 5; Ex. N (Perry Decl.) ¶ 5; cf. Ex. R (Lichtman Decl.) ¶¶ 2-6 (discussing proposed
+class counsel’s qualifications and commitment to the class).
+Adequacy should not be disputed. See Sykes, 780 F.3d at 80; Ellis, 657 F.3d at 985.
+F.
+
+Common issues predominate over individual ones.
+
+Common questions of law or fact predominate “if resolution of some of the legal or
+factual questions that qualify each class member’s case as a genuine controversy can be achieved
+through generalized proof, and if these particular issues are more substantial than the issues
+subject only to individualized proof.” U.S. Foodservice Pricing Litig., 729 F.3d at 118; UFCW
+Local 1776 v. Eli Lilly & Co., 620 F.3d 121, 131 (2d Cir. 2010); see also Fed. R. Civ. P. 23(b)(3).
+While this is a “more demanding” inquiry than commonality, “Rule 23(b)(3) does not require a
+plaintiff seeking class certification to prove that each elemen[t] of [her] claim [is] susceptible to
+classwide proof.’” Sykes, 780 F.3d at 81 (citation and quotation marks omitted) (emphasis in
+original). Indeed, “[a]n issue ‘central to the validity of each one of the claims’ in a class action,
+if it can be resolved ‘in one stroke,’ can justify class treatment.” Butler v. Sears, Roebuck & Co.,
+727 F.3d 796, 801 (7th Cir. 2013) (Posner, J.), cert. denied, 134 S. Ct. 1277 (2014).
+In this case, common issues predominate over individual ones. Plaintiffs’ claims do not
+turn on any individual issues:
+[E]very proposed Class member’s claim requires the finder of fact to answer a
+single question—whether BA’s YQ Charges were, in fact, fuel surcharges. As a
+matter of economics, either all of the YQ Charges were fuel surcharges or none of
+them were. . . . should the finder of fact determine that BA’s YQ Charges were
+not fuel surcharges, every member of the proposed class will have suffered an
+
+1274889.6
+
+-16-
+
+Case 1:12-cv-05567-RJD-MDG Document 207 Filed 12/02/15 Page 22 of 25 PageID #: 10908
+
+economic injury through the same mechanism: he or she will have paid money to
+BA (by way of a YQ Charge) to which BA was not legally entitled. While the
+actual money damages will vary by class member, the damages themselves
+occurred through the same mechanism.
+Ex. H (5/14/15 Arnold Rep.) ¶ 53; accord, e.g., Scotts EZ Seed, 304 F.R.D. at 411; Whitton,
+2015 WL 751817, at *1.10 Put simply, “no expert for either party has suggested that the Court or
+jury apply any methodology under which it is possible that some class members’ claims could
+prevail, while other class members’ claims would not.” Ex. J (7/15/15 Arnold Rep.) ¶ 36.11
+BA may respond that while Plaintiffs will prove (or fail to prove) their claims with
+common evidence, BA intends to offer affirmative defenses that could vary based on the
+individual class member. To that end, and while Plaintiffs at all times bear the burden of
+establishing the propriety of class certification, it is important to note that BA must do more than
+simply raise the possibility of individual affirmative defenses: it must show that such defenses
+are “meritorious” and “likely to detract significant attention from the common issues in the
+litigation.” Vincent v. Money Store, 304 F.R.D. 446, 462 (S.D.N.Y. 2015) (Koeltl, J.) (citing In
+re Nassau Cnty. Strip Search Cases, 461 F.3d 219, 225 (2d Cir. 2006); see also Dupler v. Costco
+Wholesale Corp., 249 F.R.D. 29, 45 (E.D.N.Y. 2008) (Bianco, J.) (citing same); cf. Sykes, 780
+10
+
+See also Ex. K (Dover Decl.) ¶ 5(a) (“I understand my claim to be based on the same events as
+the events on which every other proposed class members’ claim is based, and I understand my
+legal arguments in this litigation to be the same as the legal arguments of other proposed class
+members.”); Ex. L (Horsey Decl.) ¶ 5(a) (same); Ex. M (Rank Decl.) ¶ 5(a) (same); Ex. N (Perry
+Decl.) ¶ 5(a) (same).
+
+11
+
+Depending on the way a jury calculated damages, it is possible that a tiny fraction of the
+proposed class (between 0.3% and 2.6%) would not have any damages. See Ex. H (5/14/15
+Arnold Rep.) ¶ 69 & Figure 14. This would be true if the jury finds that BA would have
+imposed some kind of alternative “true” fuel surcharge and deducts the amount of that “true”
+fuel surcharge from Plaintiffs’ damages; i.e., if the jury found that BA did not have to return all
+of the wrongfully collected money at issue in this case. See id. In other words, while BA did or
+did not breach its contract with all proposed class members, it is possible that some tiny fraction
+of the class might not ultimately recover damages from that breach. It is well-established that
+this does not bar class certification. See, e.g., Denney, 443 F.3d at 264-65.
+
+1274889.6
+
+-17-
+
+Case 1:12-cv-05567-RJD-MDG Document 207 Filed 12/02/15 Page 23 of 25 PageID #: 10909
+
+F.3d at 81(“Individual questions need not be absent. The text of Rule 23(b)(3) itself contemplates
+that such individual questions will be present.” (citations omitted).)
+G.
+
+A class action is superior to other methods of adjudication.
+
+Finally, Plaintiffs must show that “a class action is superior to other available methods
+for fairly and efficiently adjudicating the controversy.” Fed. R. Civ. P. 23(b)(3). In consumer
+lawsuits such as this one, because of the burdens of litigation and relatively small damages,
+superiority ordinarily is met any time common issues predominate over individual ones. See,
+e.g., Carnegie v. Household Int’l, Inc., 376 F.3d 656, 661 (7th Cir. 2004) (Posner, J.) (“The
+realistic alternative to a class action is not 17 million individual suits, but zero individual suits,
+as only a lunatic or a fanatic sues for $30. But a class action has to be unwieldy indeed before it
+can be pronounced an inferior alternative—no matter how massive the fraud or other
+wrongdoing that will go unpunished if class treatment is denied—to no litigation at all.”
+(emphasis in original)).
+It does bear emphasis that class-wide resolution is superior to the hypothetical possibility
+of many individual suits. See Sykes, 780 F.3d at 81 (instructing trial courts to consider whether a
+class action would be more “manageable” than individual actions). The single trial Plaintiffs
+propose will be significantly less complicated than tens of thousands of hypothetical trials for
+breach of contract, in which the Court (and numerous juries) would be forced to decide the same
+legal and factual issues over and over and over again. See, e.g., Williams v. Mohawk Indus., Inc.,
+568 F.3d 1350, 1358 (11th Cir. 2009) (“If a district court determines that issues common to all
+class members predominate over individual issues, then a class action will likely be more
+manageable than and superior to individual actions.”); cf., e.g., Scotts EZ Seed, 304 F.R.D. at 411
+(“[I]nterpretation of a form contract . . . present[s] the classic case for treatment as a class action.”
+
+1274889.6
+
+-18-
+
+Case 1:12-cv-05567-RJD-MDG Document 207 Filed 12/02/15 Page 24 of 25 PageID #: 10910
+
+(quoting Steinberg, 224 F.R.D. at 74)). Plaintiffs thus respectfully submit that they have
+established superiority, along with the six other prerequisites to class certification.
+CONCLUSION
+For the above reasons, Plaintiffs respectfully ask the Court to grant their motion for class
+certification.
+Dated: October 1, 2015
+
+Respectfully submitted,
+
+/s/ David S. Stellings
+David S. Stellings
+David S. Stellings (dstellings@lchb.com)
+Nicholas Diamand (ndiamand@lchb.com)
+Jason L. Lichtman (jlichtman@lchb.com)
+Douglas I. Cuthbertson (dcuthbertson@lchb.com)
+LIEFF CABRASER HEIMANN & BERNSTEIN, LLP
+250 Hudson Street, 8th Floor
+New York, NY 10013-1413
+212.355.9500
+Clive Zietman (czietman@stewartslaw.com)
+Fiona Stewart (fstewart@stewartslaw.com)
+Daniel Loblowitz (dloblowitz@stewartslaw.com)
+STEWARTS LAW, LLP
+5 New Street Square
+London, UK EC4A 3BF
+Telephone: +44 (0)20.7822.8000
+Mark Schlachet (mschlachet@gmail.com)
+3515 Severn Road
+Cleveland, Ohio 44118
+(216) 896-0714
+Attorneys for Plaintiffs
+
+1274889.6
+
+-19-
+
+Case 1:12-cv-05567-RJD-MDG Document 207 Filed 12/02/15 Page 25 of 25 PageID #: 10911
+
+CERTIFICATE OF SERVICE
+I hereby certify that on October 1, 2015, service of this document was accomplished via
+e-mail and hand-delivery.
+
+Jason L. Lichtman
+
+1274889.6
+
+-20-
+
+

@@ -1,0 +1,929 @@
+Case 1:08-cv-00177-BLW Document 163
+
+Frank J. Dykas (ISB #1777)
+Email: frank@dykaslaw.com
+Elizabeth H. Schierman (ISB #7208)
+Email: schierman@dykaslaw.com
+DYKAS, SHAVER & NIPPER, LLP
+P.O. Box 877
+Boise, Idaho 83701-0877
+Telephone: (208) 345-1122
+Facsimile: (888) 388-6035
+
+Filed 09/13/10 Page 1 of 26
+
+Edward W. Goldstein (Texas Bar No. 08099500)
+Email: egoldstein@gfpiplaw.com
+Matthew Prebeg (Texas Bar No. 00791465)
+Email: mprebeg@gfpiplaw.com
+Stephen W. Abbott (Texas Bar No. 00795933)
+Email: sabbott@gfpiplaw.com
+Wendy L. Boone (Texas Bar No. 24047310)
+Email: wboone@gfpiplaw.com
+GOLDSTEIN, FAUCETT & PREBEG L.L.P.
+1177 West Loop South, Suite 400
+Houston, Texas 77027
+Telephone: (713) 877-1515
+Facsimile: (713) 877-1737
+
+Attorneys for Plaintiff
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF IDAHO
+
+55 BRAKE, L.L.C.,
+Plaintiff,
+v.
+AUDI OF AMERICA, INC., et al.,
+Defendants.
+
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+
+55 BRAKE, L.L.C.’S MEMORANDUM
+OF LAW IN SUPPORT OF ITS
+MOTION FOR SUMMARY
+JUDGMENT OF NO INEQUITABLE
+CONDUCT
+Case No. CV 1:08-cv-00177-BLW
+
+Case 1:08-cv-00177-BLW Document 163
+
+Filed 09/13/10 Page 2 of 26
+
+TABLE OF CONTENTS
+I.
+
+INTRODUCTION AND SUMMARY OF ARGUMENT ---------------------------------------- 1
+
+II.
+
+FACTUAL BACKGROUND ------------------------------------------------------------------------- 1
+A. The Parties. ------------------------------------------------------------------------------------------- 1
+B. The Patent-in-Suit and an Overview of the Technology at Issue ----------------------------- 2
+C. Litigation and Procedural History ----------------------------------------------------------------- 3
+
+III.
+
+VGA’S ALLEGED BASES FOR INEQUITABLE CONDUCT ----------------------------- 5
+
+IV.
+
+ARGUMENT AND AUTHORITIES ------------------------------------------------------------- 5
+A. The Summary Judgment Standard ---------------------------------------------------------------- 5
+B. The Law of Inequitable Conduct ------------------------------------------------------------------ 6
+a. Standards for inequitable conduct. -------------------------------------------------------------- 6
+i. Intent to deceive. -------------------------------------------------------------------------------- 7
+ii. Materiality. -------------------------------------------------------------------------------------- 8
+iii. Therasense, Inc. v. Becton, Dickinson & Co. --------------------------------------------- 8
+iv. Reinstatement of an expired patent. ------------------------------------------------------- 11
+v. Reasonable inquiry into the facts and circumstances underlying the delayed payment
+of maintenance fees when seeking to reinstate a lapsed patent. --------------------------- 12
+C. There was No Inequitable Conduct because There Was No Intent to Deceive the PTO
+and Because No Material Information Was Withheld from the PTO. ----------------------- 12
+a. 55 Brake’s failure to pay the required maintenance fee of the ‘587 patent was
+unintentional. ---------------------------------------------------------------------------------------- 13
+b. Attorney Epstein made a reasonable inquiry into the facts and circumstances
+underlying the delayed payment of the maintenance fee when seeking to reinstate the
+‘587 patent. ------------------------------------------------------------------------------------------- 15
+c. Attorney Pedersen did not breach her duty of candor and good faith in dealing with the
+PTO. --------------------------------------------------------------------------------------------------- 17
+d. The Dietchman patent.--------------------------------------------------------------------------- 18
+e. The Semmler patent application. --------------------------------------------------------------- 19
+
+V.
+
+CONCLUSION ----------------------------------------------------------------------------------------- 20
+
+55 BRAKE, L.L.C.’S MEMORANDUM OF LAW IN SUPPORT OF ITS
+MOTION FOR SUMMARY JUDGMENT OF NO INEQUITABLE CONDUCT - i
+
+Case 1:08-cv-00177-BLW Document 163
+
+Filed 09/13/10 Page 3 of 26
+
+TABLE OF AUTHORITIES
+Cases
+Abbott Labs. v. Sandoz, Inc.,
+544 F.3d 1341 (2008) ................................................................................................................ 7
+Anderson v. Liberty Lobby, Inc.,
+477 U.S. 242, 106 S. Ct. 2505 (1986) ......................................................................................... 6
+Astrazeneca Pharm., LP v. Teva Pharm. USA, Inc.,
+2009 U.S. App. LEXIS 21165 (Fed. Cir. Sept. 25, 2009) ............................................ 6, 7, 8, 15
+ATD Corp. v. Lydall, Inc.,
+159 F.3d 534 (Fed. Cir. 1998)..................................................................................................... 6
+Cargill, Inc. v. Canbra Foods, Ltd.,
+476 F.3d 1359 (Fed. Cir. 2007)................................................................................................... 7
+Celotex Corp. v. Catrett,
+477 U.S. 317, 106 S. Ct. 2548 (1986) ......................................................................................... 6
+Digital Control, Inc. v. Charles Mach. Works,
+437 F.3d 1309 (Fed. Cir. 2006)..................................................................................................... 10
+Exergen Corp. v. Wal-Mart Stores, Inc.,
+575 F.3d 1312 (Fed. Cir. 2009)................................................................................................... 7
+Exigent Tech. v. Atrana Solutions, Inc.,
+442 F.3d 1301 (Fed. Cir. 2006)................................................................................................... 6
+Femspec, L.L.C. v. Dudas,
+2007 U.S. Dist. LEXIS 8482 (N.D. Cal. Jan. 26, 2007) ........................................................... 11
+Goss Int'l Ams., Inc. v. MAN Roland, Inc.,
+2006 U.S. Dist. LEXIS 53245 (D.N.H. July 31, 2006) ............................................................ 12
+Hazel-Atlas Glass Co. v. Hartford-Empire Co.,
+322 U.S. 238 (1944) ...................................................................................................................... 10
+Impax Labs., Inc. v. Aventis Pharms. Inc.,
+468 F.3d 1366 (Fed. Cir. 2006)................................................................................................... 7
+In re Application of Maldague,
+Serial No. 725,592, 1988 Commr. Pat. LEXIS 22 (Comm'r Pat. & Trademarks June 10, 1988)
+................................................................................................................................................... 12
+
+55 BRAKE, L.L.C.’S MEMORANDUM OF LAW IN SUPPORT OF ITS
+MOTION FOR SUMMARY JUDGMENT OF NO INEQUITABLE CONDUCT – ii
+
+Case 1:08-cv-00177-BLW Document 163
+
+Filed 09/13/10 Page 4 of 26
+
+Intel Corp. v. U.S. Int’l Trade Comm’n,
+946 F.2d 821 (Fed. Cir. 1991)..................................................................................................... 7
+Keystone Driller Co. v. General Excavator Co.,
+290 U.S. 240 (1933) .................................................................................................................. 10
+Kingsdown Med. Consultants, Ltd. v. Hollister, Inc.,
+863 F.2d 867 (Fed. Cir. 1988)............................................................................................... 8, 15
+Life Technologies, Inc. v. Clontech Labs., Inc.,
+224 F.3d 1320 (Fed. Cir. 2000)................................................................................................... 7
+Norton v. Curtiss, 433 F.2d 779,
+792-93 (C.C.P.A. 1971) ............................................................................................................ 11
+Precision Instrument Manufacturing Co. v. Automotive Maintenance Machinery Co.,
+324 U.S. 806 (1945) .................................................................................................................. 10
+Regents of Univ. of Cal. v. Eli Lilly Co.,
+119 F.3d 1559 (Fed. Cir. 1997)…………………………………………………………………8
+Scripps Clinic & Research Found. v. Genetech, Inc.,
+927 F.2d 1565 (Fed. Cir. 1991)) ................................................................................................. 8
+Star Scientific, Inc. v. R.J. Reynolds Tobacco Co.,
+537 F.3d 1357 (Fed. Cir. 2008)............................................................................................... 7, 8
+Therasense, Inc. v. Becton, Dickinson & Co.,
+565 F. Supp. 2d 1088 (N.D. Cal. 2008) ...................................................................................... 8
+Unigene Labs., Inc. v. Apotex, Inc.,
+2009 U.S. Dist. LEXIS 78051 (S.D.N.Y. 2009) ......................................................................... 7
+Statutes
+35 U.S.C. § 41(b) .......................................................................................................................... 11
+35 U.S.C. § 41(c)(1) ...................................................................................................................... 11
+37 C.F.R. § 1.378 .......................................................................................................................... 11
+37 C.F.R. § 1.56(a).......................................................................................................................... 8
+Treatises
+4 DONALD S. CHISUM, CHISUM ON PATENTS § 11.02(1)(d)(iv)(C) ............................................... 12
+
+55 BRAKE, L.L.C.’S MEMORANDUM OF LAW IN SUPPORT OF ITS
+MOTION FOR SUMMARY JUDGMENT OF NO INEQUITABLE CONDUCT – iii
+
+Case 1:08-cv-00177-BLW Document 163
+
+Filed 09/13/10 Page 5 of 26
+
+I. INTRODUCTION AND SUMMARY OF ARGUMENT
+Plaintiff 55 Brake, L.L.C. (“55 Brake”) respectfully moves this Court for summary
+judgment as to defendant Volkswagen Group of America, Inc.’s (“VGA’s”) counterclaim and
+affirmative defense alleging the unenforceability of United States Patent No. 6,450,587 (“the
+‘587 patent”) based upon inequitable conduct. VGA has identified no evidence and can come
+forward with no direct evidence whatsoever – much less clear and convincing evidence – of any
+intent by 55 Brake to deceive the United States Patent and Trademark Office (“PTO”) during the
+either the prosecution of the ‘587 patent (as all material prior was submitted to the PTO in
+accordance with the applicable patent rules), to intentionally delay payment of the maintenance
+fee for the ‘587 patent, or its subsequent reinstatement of the ‘587 patent. On the contrary, the
+only evidence adduced to date is that 55 Brake had no intent to deceive the PTO in these regards,
+and 55 Brake’s attorneys adhered to their duty of candor and good faith to the PTO in all
+respects.
+Accordingly, because there are no questions of material fact and because VGA can come
+forward with no evidence to sustain its burden of proving inequitable conduct by clear and
+convincing evidence, 55 Brake respectfully requests that the Court grant its motion for summary
+judgment and a enter judgment dismissing VGA’s counterclaim and defense of unenforceability
+for inequitable conduct.
+II. FACTUAL BACKGROUND
+A. The Parties.
+55 Brake is the owner of all rights, title and interest in and to three (3) United States
+patents, including the ‘587 patent, as well as several foreign counterpart patents. While 55 Brake
+(and its predecessor in interest) once attempted to enter into the business of manufacturing
+55 BRAKE, L.L.C.’S MEMORANDUM OF LAW IN SUPPORT OF ITS
+MOTION FOR SUMMARY JUDGMENT OF NO INEQUITABLE CONDUCT - 1
+
+Case 1:08-cv-00177-BLW Document 163
+
+Filed 09/13/10 Page 6 of 26
+
+certain automobile brake control systems, business conditions unfortunately precluded 55 Brake
+from developing its original and then anticipated business purpose. Consequently, 55 Brake took
+its only remaining asset – its patent portfolio – and began its efforts to license these patents as its
+main and only source of revenue.
+VGA holds itself out as the American arm of the third largest automaker in the world, the
+Volkswagen Group. VGA also lays claim to having more than 2,500 employees in the United
+States with operations including the development, manufacture and sales of the Audi, Bentley,
+Bugatti, Lamborghini and Volkswagen auto brands.
+B. The Patent-in-Suit and an Overview of the Technology at Issue
+The ‘587 patent is directed generally toward an automatic brake control system that
+detects potentially unsafe conditions, as sensed by a plurality of sensors, and then enhances
+safety by automatically applying or maintaining the brake. The patented system was invented by
+local Idaho natives, G. David MacGregor, Noble Hamilton, and Dale Maslonka. The ‘587 patent
+was later assigned to 55 Brake. See Ex. 1, the ‘587 patent. The patented control system includes
+a management mechanism, a controller and sensors.
+The management mechanism applies the brakes while the controller acts as the “brain” of
+the system. The controller is equipped with the logic to decide when the brakes should be
+applied. It also operates the management system to apply the brakes. Sensors link the controller
+to various locations inside, outside, or around the vehicle. In other words, the various sensors
+and switches sense conditions in or around the vehicle that are potentially unsafe if the vehicle
+were to move and automatically signal the controller, which decides whether or not to trip the
+management mechanism to apply the brakes.
+
+55 BRAKE, L.L.C.’S MEMORANDUM OF LAW IN SUPPORT OF ITS
+MOTION FOR SUMMARY JUDGMENT OF NO INEQUITABLE CONDUCT - 2
+
+Case 1:08-cv-00177-BLW Document 163
+
+Filed 09/13/10 Page 7 of 26
+
+The ‘587 patent describes many unsafe conditions such as a driver exiting the vehicle
+without applying the parking brake or without turning off the vehicle, a wheelchair lift being
+extended, seat belts being disengaged, low tire pressure, and an ajar delivery vehicle door. See
+Ex. 1, the ‘587 patent, col. 2, ll. 37-63. These conditions are detected by the sensors, and the
+controller then decides whether or not to trip the management mechanism to apply the brakes.
+This invention allows a driver to focus more on safe driving and vehicle operation rather than on
+repeated manual operation of the parking brake and repeated checking of the parking brake
+position. It may be used with a variety of existing brake systems by adapting the management
+mechanism for the particular type of brake system being used.
+C. Litigation and Procedural History
+On April 21, 2008, 55 Brake sued VGA and a number of other entities alleging
+infringement of at least claims 7-11, 13-17, 26, 27, 29, 33, 34, 40, and 41 of the ‘587 patent. See
+First Amended Complaint, Doc. No. 10 at 7. More specifically, 55 Brake alleged that the
+defendants, including VGA, infringe the ‘587 patent by making or using electric parking brakes
+and electric braking systems of a certain design, and by selling products having electric parking
+brakes of this design. Id.
+The Court held a claim construction hearing on June 25, 2009 in order to construe certain
+terms and phrases found in the ‘587 patent. The Court issued its claim construction order on July
+8, 2009. See Memorandum Decision and Order on Claim Construction, Doc. No. 91.
+On June 19, 2009, VGA filed a motion for summary judgment of invalidity of the ‘587
+patent. After briefing and argument, the Court denied VGA’s motion. See VGA’s Motion for
+Summary Judgment of Invalidity, Doc. No. 85.
+
+55 BRAKE, L.L.C.’S MEMORANDUM OF LAW IN SUPPORT OF ITS
+MOTION FOR SUMMARY JUDGMENT OF NO INEQUITABLE CONDUCT - 3
+
+Case 1:08-cv-00177-BLW Document 163
+
+Filed 09/13/10 Page 8 of 26
+
+Fact discovery closed in this matter on June 1, 2010. See Docket Control Order, Doc.
+No. 111 at 2. Prior to the close of fact discovery, 55 Brake deposed the corporate representative
+of VGA.
+
+VGA has taken no less than eleven depositions from California to Michigan,
+
+concentrating mostly, and in some instances exclusively on their inequitable conduct claim,
+including the Rule 30(b)(6) deposition of 55 Brake, managing members of 55 Brake (Mr. David
+MacGregor, Mr. Gary Babbitt, Mr. Jeff Fletcher, Mr. Joe Holmes), the two inventors of the ‘587
+patent (Mr. Noble Hamilton and Mr. MacGregor), two attorneys associated with the prosecution
+of the ‘587 patent (Mr. Ken J. Pedersen and Ms. Barbara S. Pedersen), an attorney overseeing the
+payment of maintenance fees and foreign annuities (Mr. Joseph Coppola), the attorney
+responsible for filing the petition to reinstate the patent (Mr. Robert H. Epstein) and a staff
+member of this same attorney (Ms. Lee Paige Rhodes), and Mr. Sven Evers, an individual
+contracted to do a product design and review several pieces of prior art for 55 Brake, including
+the Semmler patent application.
+Neither party has exchanged expert reports, including expert reports with respect to the
+issue of inequitable conduct.
+At the conclusion of fact discovery, the parties jointly moved for a stay and a limited trial
+on the inequitable conduct issue. The Court granted in part and denied in part the parties’
+stipulated motion requesting a bench trial on inequitable conduct and stay of other proceedings.
+In its Order, this Court left the existing schedule intact with respect to the deadlines for filing
+summary judgment motions. See Doc. No. 158 at 4. A trial on the inequitable conduct issue is
+set for March 21, 2011, with the remaining schedule, including the trial date, to be scheduled
+soon thereafter.
+
+55 BRAKE, L.L.C.’S MEMORANDUM OF LAW IN SUPPORT OF ITS
+MOTION FOR SUMMARY JUDGMENT OF NO INEQUITABLE CONDUCT - 4
+
+Case 1:08-cv-00177-BLW Document 163
+
+Filed 09/13/10 Page 9 of 26
+
+As the undisputed facts and the arguments and authorities point out, the instant motion
+renders the need for a trial on the inequitable conduct issue a nullity.
+III. VGA’S ALLEGED BASES FOR INEQUITABLE CONDUCT
+VGA has alleged in its Amended Answer and Counterclaim (Doc. No. 121) that the ‘587
+is unenforceable for 55 Brake’s alleged inequitable conduct. See Ex. 2, VGA’s Amended
+Answer and Counterclaim (“Amended Answer”) at 14-26.
+
+VGA’s Amended Answer
+
+summarizes these allegations of inequitable conduct in ¶ 60 (i-ii):
+As described in further detail below, the ’587 patent is unenforceable for
+inequitable conduct because:
+(i) after the ’587 patent had expired on September 18, 2006 due to an intentional
+failure to pay the required maintenance fee, 55 Brake, through its attorney
+Robert H. Epstein, filed a “Petition to Accept Unintentionally Delayed
+Payment of Maintenance Fee in an Expired Patent” with the Patent and
+Trademark Office on August 14, 2007, making the false or uninvestigated
+statement that “[t]he delay in payment of the maintenance fee to this patent
+was unintentional,” which led to the reinstatement of the ‘587 patent; and
+(ii) during prosecution of the application leading to the issuance of the ‘587
+patent, at least the inventors, G. David MacGregor, Noble Hamilton, and Dale
+Maslonka, or their attorneys or agents who prepared or prosecuted the
+application, Ken J. Pedersen and Barbara S. Pedersen, breached their duty of
+candor and good faith in dealing with the Patent and Trademark Office, and
+misled the Patent and Trademark Office, by failing to disclose to the Patent
+and Trademark Office all information known to those individuals to be
+material to patentability of the claims of the patents, for example the
+information related to the Deitchman patent and the Semmler patent
+application, as described below.
+See Ex. 2, VGA’s Amended Answer.
+As the following paragraphs point out, VGA’s inequitable conduct defense fails as a
+matter of law.
+IV. ARGUMENT AND AUTHORITIES
+A. The Summary Judgment Standard
+55 BRAKE, L.L.C.’S MEMORANDUM OF LAW IN SUPPORT OF ITS
+MOTION FOR SUMMARY JUDGMENT OF NO INEQUITABLE CONDUCT - 5
+
+Case 1:08-cv-00177-BLW Document 163
+
+Filed 09/13/10 Page 10 of 26
+
+Summary judgment is properly granted where the record shows “that there is no genuine
+issue as to any material fact and that the moving party is entitled to a judgment as a matter of
+law.” Fed. R. Civ. P. 56(c). The party moving for summary judgment under Fed. R. Civ. P. 56
+has the initial burden of demonstrating that there is no genuine issue as to any material fact and
+that it is entitled to judgment as a matter of law. Anderson v. Liberty Lobby, Inc., 477 U.S. 242,
+256, 106 S. Ct. 2505, 2514 (1986). A movant may establish that the other party has the burden
+of proof at trial, and has failed to “make a showing sufficient to establish the existence of an
+element essential to [its] case.” Celotex Corp. v. Catrett, 477 U.S. 317, 322-23, 106 S. Ct. 2548,
+2522 (1986). A motion for summary judgment of no inequitable conduct “‘may be granted
+when, drawing all reasonable factual inferences in favor of the non-movant, the evidence is such
+that the non-movant can not prevail.’”
+
+Astrazeneca Pharmaceuticals LP v. Teva
+
+Pharmaceuticals USA, Inc., 2009 U.S. App. LEXIS 21165, at *4 (Fed. Cir. Sept. 25, 2009)
+(quoting ATD Corp. v. Lydall, Inc., 159 F.3d 534, 547 (Fed. Cir. 1998)). In other words, “the
+burden on the moving party may be discharged by ‘showing’ – that is, point out to the district
+court – that there is an absence of evidence to support the nonmoving party’s case.” Exigent
+Tech. v. Atrana Solutions, Inc., 442 F.3d 1301, 1308 (Fed. Cir. 2006) (internal citations omitted).
+B. The Law of Inequitable Conduct
+a. Standards for inequitable conduct.
+To render a patent unenforceable, the proponent of the inequitable conduct defense must
+establish by clear and convincing evidence that “the applicant (1) made an affirmative
+misrepresentation of material fact, failed to disclose material information, or submitted false
+material information, and (2) intended to deceive the U.S. Patent and Trademark Office
+
+55 BRAKE, L.L.C.’S MEMORANDUM OF LAW IN SUPPORT OF ITS
+MOTION FOR SUMMARY JUDGMENT OF NO INEQUITABLE CONDUCT - 6
+
+Case 1:08-cv-00177-BLW Document 163
+
+Filed 09/13/10 Page 11 of 26
+
+(“PTO”).” Cargill, Inc. v. Canbra Foods, Ltd., 476 F.3d 1359, 1364-65 (Fed. Cir. 2007) (citing
+Impax Labs., Inc. v. Aventis Pharms. Inc., 468 F.3d 1366, 1374 (Fed. Cir. 2006)).
+“Materiality and intent to deceive are distinct factual inquiries, and each must be shown
+by clear and convincing evidence.” Life Technologies, Inc. v. Clontech Labs., Inc., 224 F.3d
+1320, 1324 (Fed. Cir. 2000). “This burden is significant because clear and convincing evidence
+‘proves in the mind of the trier of fact an abiding conviction that the truth of [the] factual
+contentions [is] highly probable.” Unigene Labs., Inc. v. Apotex, Inc., 2009 U.S. Dist. LEXIS
+78051, at * 11 (S.D.N.Y. 2009) (quoting Intel Corp. v. U.S. Int’l Trade Comm’n, 946 F.2d 821,
+830 (Fed. Cir. 1991). Those asserting inequitable conduct must identify “the specific who, what,
+when, where, and how of the material misrepresentation or omission committed before the
+PTO.” Exergen Corp. v. Wal-Mart Stores, Inc., 575 F.3d 1312, 1331 (Fed. Cir. 2009).
+i. Intent to deceive.
+“Intent to deceive is an independent element of inequitable conduct, and must be
+independently established by clear and convincing evidence.”
+
+Astrazeneca Pharm., LP, 2009
+
+U.S. App. LEXIS 21165, at *20 (citing Star Scientific, Inc. v. R.J. Reynolds Tobacco Co., 537
+F.3d 1357, 1365 (Fed. Cir. 2008) (citations omitted). To establish intent under the clear and
+convincing evidence standard, the party asserting inequitable conduct “must show that the
+applicant made a deliberate decision to withhold a known material reference.” Exergen Corp.,
+575 F.3d at 1331 (internal citations omitted). In other words, “[i]ntent to deceive cannot be
+inferred solely from the fact that information was not disclosed; there must be a factual basis for
+a finding of deceptive intent.” Abbott Labs. v. Sandoz, Inc., 544 F.3d 1341, 1355 (2008)
+(internal citations omitted).
+
+55 BRAKE, L.L.C.’S MEMORANDUM OF LAW IN SUPPORT OF ITS
+MOTION FOR SUMMARY JUDGMENT OF NO INEQUITABLE CONDUCT - 7
+
+Case 1:08-cv-00177-BLW Document 163
+
+Filed 09/13/10 Page 12 of 26
+
+Although intent to deceive may be inferred from indirect and circumstantial evidence,
+“such evidence must still be clear and convincing, and inferences drawn from lesser evidence
+cannot satisfy the deceptive intent requirement.” Star Scientific, Inc., 537 F.3d at 1366 (citations
+omitted). Rather, “the inference must not only be based on sufficient evidence and be reasonable
+in light of that evidence, but it must also be the single most reasonable inference able to be
+drawn from the evidence to meet the clear and convincing standard.” Id. (citations omitted)
+(emphasis added). Further, “[e]vidence of mistake or negligence, even gross negligence, is not
+sufficient to support inequitable conduct in patent prosecution.” Astrazeneca Pharm., LP, 2009
+U.S. App. LEXIS 21165, at *20-21 (citing Kingsdown Med. Consultants, Ltd. v. Hollister, Inc.,
+863 F.2d 867, 876 (Fed. Cir. 1988).
+ii. Materiality.
+Information is material “where there is a substantial likelihood that a reasonable examiner
+would consider it important in deciding whether to allow the application to issue as a patent.” 37
+C.F.R. § 1.56(a). Information is not material, however, where it “is ‘simply cumulative to other
+references,’ i.e., if the reference teaches no more than what a reasonable examiner would
+consider to be taught by the prior art already before the PTO.” Regents of Univ. of Cal. v. Eli
+Lilly Co., 119 F.3d 1559, 1574-75 (Fed. Cir. 1997) (citing Scripps Clinic & Research Found. v.
+Genetech, Inc., 927 F.2d 1565, 1582 (Fed. Cir. 1991).
+iii. Therasense, Inc. v. Becton, Dickinson & Co.
+Currently on appeal before the Federal Circuit is an appeal from a final judgment of the
+United States District Court for the Northern District of California in the lawsuit styled:
+Therasense, Inc. v. Becton, Dickinson & Co., 565 F. Supp. 2d 1088 (N.D. Cal. 2008). Following
+a bench trial, the district court determined that claims 1–4 of U.S. Patent No. 5,820,551 (“the
+55 BRAKE, L.L.C.’S MEMORANDUM OF LAW IN SUPPORT OF ITS
+MOTION FOR SUMMARY JUDGMENT OF NO INEQUITABLE CONDUCT - 8
+
+Case 1:08-cv-00177-BLW Document 163
+
+Filed 09/13/10 Page 13 of 26
+
+’551 patent”) were invalid due to obviousness and that the entire ’551 patent was unenforceable
+due to inequitable conduct. An Original Panel of the Federal Circuit rendered a decision on
+January 25, 2010 affirming that the district court did not abuse its discretion in holding the ‘551
+patent unenforceable due to inequitable conduct.
+The Plaintiffs-Appellants, TheraSense (now Abbott Diabetes Care, Inc.) and Abbott
+Laboratories, filed a petition for rehearing en banc; it was granted on April 26, 2010.
+(TheraSense filed its opening brief on July 26, 2010. Becton Dickinson & Bayer’s opposing
+brief is due October 8, 2010. Oral arguments are scheduled for November 9, 2010.)
+The district court and the Federal Circuit in its Original Panel decision held the ‘551
+patent unenforceable for inequitable conduct based on a failure to disclose statements made to
+the European Patent Office (“EPO”) during a revocation proceeding of the European counterpart
+to the ‘382 patent.
+The ‘551 patent was in prosecution for over fourteen years. During this period, Genetics
+International changed its name to Medisense, Inc. In 1996—while the ‘551 patent was still
+pending before the PTO—Medisense was purchased by Abbott Laboratories. When Abbott
+acquired the pending application that led to the ‘551 patent, its in-house lawyer, Lawrence Pope,
+took over the prosecution. Dr. Sanghera was the director of research and development in the
+United States for Medisense (later sold to Abbott). His duties included supervising Abbott’s
+patent portfolio. Dr. Sanghera and Attorney Pope were major players in the prosecution of the
+‘551 patent.
+The district court found that statements made by Abbott’s predecessor to the EPO were
+highly material to the prosecution of the ‘551 patent because they contradicted representations
+Abbott made to the PTO regarding the membraneless sensor disclosed in the ‘382 patent, prior
+55 BRAKE, L.L.C.’S MEMORANDUM OF LAW IN SUPPORT OF ITS
+MOTION FOR SUMMARY JUDGMENT OF NO INEQUITABLE CONDUCT - 9
+
+Case 1:08-cv-00177-BLW Document 163
+
+Filed 09/13/10 Page 14 of 26
+
+art. The submissions made to the EPO were inconsistent with the submissions made to the PTO
+in at least two important ways.
+Dr. Sanghera had been much involved in the EPO appeal. He helped develop the
+arguments and had even attended the oral argument before the EPO on June 20, 1995. He was
+completely familiar with the points made in the EPO appeal by Medisense. Dr. Sanghera
+disclosed all of the EPO submissions to Attorney Pope, who read and understood them.
+Both, Pope and Dr. Sanghera, decided to withhold the EPO materials from the PTO. Both
+knew that Dr. Sanghera’s declaration would be submitted to the PTO without disclosing the EPO
+submissions to the contrary. Both knew that the EPO materials made affirmative statements
+inconsistent with the declaration and the attorney remarks concerning the ‘382 sentence in
+question.
+In its opening brief on rehearing en banc, Abbott’s main argument stems from the
+“inequitable conduct” doctrine originating from three Supreme Court decisions—Keystone
+Driller Co. v. General Excavator Co., 290 U.S. 240 (1933); Hazel-Atlas Glass Co. v. HartfordEmpire Co., 322 U.S. 238 (1944); and Precision Instrument Manufacturing Co. v. Automotive
+Maintenance Machinery Co., 324 U.S. 806 (1945). In those foundational cases, the Supreme
+Court “refused to enforce [the] patents” at issue because “the patentees had engaged in fraud in
+order to procure those patents.” Digital Control, Inc. v. Charles Mach. Works, 437 F.3d 1309,
+1315 (Fed. Cir. 2006). Abbott continues to argue that those cases did not involve missteps in
+making the legally and factually complex decisions applicants regularly make (such as whether
+to submit marginal prior art or potentially cumulative material). Nor were they “mere” cases of
+fraud. They were extreme cases of blatant misconduct involving perjury, fabricated evidence,
+
+55 BRAKE, L.L.C.’S MEMORANDUM OF LAW IN SUPPORT OF ITS
+MOTION FOR SUMMARY JUDGMENT OF NO INEQUITABLE CONDUCT - 10
+
+Case 1:08-cv-00177-BLW Document 163
+
+Filed 09/13/10 Page 15 of 26
+
+and bribery—“conduct so reprehensible” that it warranted the “severe penalt[y]” of
+unenforceability. Norton v. Curtiss, 433 F.2d 779, 792-93 (C.C.P.A. 1971). 1
+iv. Reinstatement of an expired patent.
+When a patent expires for failure to pay maintenance fees per 35 U.S.C. § 41(b) the
+patent owner may reinstate the patent via the procedures in 35 U.S.C. § 41(c)(1). 35 U.S.C. §
+41(b)–(c) (2006). The relevant regulation derived from 35 U.S.C. § 41 is 37 C.F.R. § 1.378
+which governs the reinstatement of a patent after expiration. 37 C.F.R. § 1.378 (2009). The
+regulation requires that “any petition to accept an unintentionally delayed payment of a
+maintenance fee . . . must include . . . [a] statement that the delay in payment of the maintenance
+fee was unintentional.” 37 C.F.R. § 1.378(c).
+Case law for the “unintentional” standard directly on point with the issue presented is
+sparse. “Unintentional” is seen as being something less than “unavoidable.” See Femspec,
+L.L.C. v. Dudas, No. C-06-2719 JCS, 2007 U.S. Dist. LEXIS 8482, at *25–27 (N.D. Cal. Jan.
+26, 2007) (finding the patent owner’s delay avoidable but noting that the patent owner’s
+complete ignorance of a maintenance fee “was understandable under the circumstances and [] his
+failure to pay the required maintenance fee was unintentional.”).
+For purposes of this motion, 55 Brake presumes that the same “unintentional” standard
+used in the context of abandoned patent applications would also apply to patent expiration for
+failure to timely pay maintenance fees. See 4 DONALD S. CHISUM, CHISUM
+
+1
+
+ON
+
+PATENTS §
+
+Therasense is wholly inapplicable to the instant action, regardless of the legal issues to be addressed on appeal.
+The facts of Therasense are easily distinguished from the facts of the instant case. Put simply, the facts in
+Therasense were egregious acts of knowingly withholding material prior art from a foreign prosecution with full
+knowledge that declarations submitted to the PTO were contradictory. The facts of the instant case clearly establish
+that the references identified by the EPO were submitted to the PTO during the prosecution of the ‘587 patent.
+Moreover, there were no arguments leveled during the prosecution regarding these references, thus there are no
+contradictory arguments regarding these references, let alone willful and fraudulent concealment of facts from the
+PTO as was the case in Therasense.
+55 BRAKE, L.L.C.’S MEMORANDUM OF LAW IN SUPPORT OF ITS
+MOTION FOR SUMMARY JUDGMENT OF NO INEQUITABLE CONDUCT - 11
+
+Case 1:08-cv-00177-BLW Document 163
+
+Filed 09/13/10 Page 16 of 26
+
+11.02(1)(d)(iv)(C) n. 169 (suggesting that the “unintentional” standard of patent application
+abandonment applies to patent expiration). The unintentional standard “excludes, at a minimum,
+deliberate decisions not to prosecute [or, by analogy, to pay maintenance fees].” 4 DONALD S.
+CHISUM, CHISUM ON PATENTS § 11.03(2)(b)(vi)(A) (Matthew Bender 2010); In re Application of
+Maldague, Serial No. 725,592, 1988 Commr. Pat. LEXIS 22, at *3–4 (Comm'r Pat. &
+Trademarks June 10, 1988) (“[A] mistake in fact . . . may form the basis for a holding of
+unintentional abandonment . . . [but] . . . an application abandoned as a result of a deliberative,
+intentional course of action . . . does not amount to an unintentional abandonment . . . .
+Intentional abandonment precludes revival . . . .”). An inquiry into a party’s good faith in
+claiming unintentional delay is an inequitable conduct inquiry. See, e.g., Goss Int'l Ams., Inc. v.
+MAN Roland, Inc., No. 03-cv-513-SM, 2006 U.S. Dist. LEXIS 53245 (D.N.H. July 31, 2006)
+(finding no inequitable conduct in an unintentional abandonment of a patent application, despite
+facts that suggested deliberate intent to abandon).
+v. Reasonable inquiry into the facts and circumstances
+underlying the delayed payment of maintenance fees when
+seeking to reinstate a lapsed patent.
+There is a dearth of authority with respect to an attorney’s duty with respect to the inquiry
+that must be made into the underlying facts and circumstances surrounding a delayed
+maintenance fee payment. However, the facts of the instant case indicate that, according to the
+PTO, the duty applicable in the instant case is a “reasonable inquiry into the facts and
+circumstances of such delay [in paying the maintenance fee].” See Ex. 3, PTO’s June 3, 2008,
+Corrected Decision on the Petition to Accept Unintentionally Delayed Payment of Maintenance
+Fee in an Expired Patent.
+C. There was No Inequitable Conduct because There Was No Intent to Deceive
+the PTO and Because No Material Information Was Withheld from the PTO.
+55 BRAKE, L.L.C.’S MEMORANDUM OF LAW IN SUPPORT OF ITS
+MOTION FOR SUMMARY JUDGMENT OF NO INEQUITABLE CONDUCT - 12
+
+Case 1:08-cv-00177-BLW Document 163
+
+Filed 09/13/10 Page 17 of 26
+
+a. 55 Brake’s failure to pay the required maintenance fee of the ‘587
+patent was unintentional.
+There is absolutely no question that 55 Brake’s failure to pay the maintenance fees due
+and owing on the ‘587 patent was unintentional. The simple fact is that each and every one of
+the members (or former members) of 55 Brake testified that the failure to pay maintenance fees
+due and owing on the ‘587 was unintentional. Importantly, VGA can point to no testimony to
+refute this simple fact. Moreover, VGA can point to no document that establishes that 55 Brake
+intended to not pay the maintenance fees due on the ‘587 patent.
+With respect to whether 55 Brake intended to not pay the maintenance fees due on the
+‘587 patent, a bullet point summary of the testimony of 55 Brake’s members (or former
+members) is as follows:
+•
+
+David MacGregor, a managing member of 55 Brake testified as follows: “That’s
+absolutely a fact. I had no intention of letting the ‘587 patent lapse. And I did not
+know that it had.” See Ex. 4, MacGregor Depo. at 185; see also id. at 155-56, 223.
+
+•
+
+Jeffrey Fletcher, a former managing member of 55 Brake (and its predecessor-in
+interest’s President and CEO), testified that he had absolutely no intention of letting
+the ‘587 patent expire or go abandoned and that the opposite was true—55 Brake
+intended to keep its U.S. patents in force because they were its most valuable assets.
+See Ex. 5, Fletcher Depo. at 176. Mr. Fletcher further testified that no one at 55
+Brake ever indicated that they wanted to let the ‘587 patent expire, go abandoned or
+not pay the maintenance fees. Id.; see also id. at 159.
+
+•
+
+Joe M. Holmes, a former member of 55 Brake (and its predecessor-in interest’s
+President and CEO) testified that he did not recall any conversation or meetings to
+discuss not paying maintenance fees and that the patents were the “life blood” of the
+company and he did not see giving them up. See Ex. 6, Holmes Depo. at 184. Mr.
+Holmes also testified that he could have accidentally “dropped the ball” with respect
+to the payment of the maintenance fee. Id. at 184.
+
+Each of the current or former members of 55 Brake who were responsible at one time or
+another was charged with the responsibility of overseeing the payment of patent maintenance
+
+55 BRAKE, L.L.C.’S MEMORANDUM OF LAW IN SUPPORT OF ITS
+MOTION FOR SUMMARY JUDGMENT OF NO INEQUITABLE CONDUCT - 13
+
+Case 1:08-cv-00177-BLW Document 163
+
+Filed 09/13/10 Page 18 of 26
+
+fees or annuities on foreign patents, made it clear in no uncertain terms – 55 Brake’s missed
+maintenance fee payment for the ‘587 patent was unintentional.
+VGA will undoubtedly point to two categories of evidence in an attempt to establish that
+55 Brake’s delayed payment of the maintenance fee was intentional: (1) 55 Brake’s poor
+financial condition; and (2) maintenance fee due date reminders from the law firm of
+Honnigman, Miller, Schwartz & Cohn (the “Honigman Firm”) charged with maintaining the
+deadlines for maintenance fee and foreign annuity payments. See, e.g., Ex. 2, Amended Answer
+at ¶¶ 60-61, 66-68, 72.
+
+However, these arguments are based wholly on speculation and
+
+conjecture and ignore the uncontroverted evidence.
+For example, the testimony makes clear that 55 Brake’s poor financial condition had
+nothing to do with whether the maintenance fees on the ‘587 patent would be paid. Mr. Holmes
+testified that the non-payment of the maintenance fee had nothing to do with 55 Brake’s cash
+situation. See Ex. 6, Holmes Depo. at 187-188. Additionally, Mr. MacGregor testified that that
+even if 55 Brake’s cash situation was poor that there was always a source of money to pay the
+maintenance fees (i.e., either he or Jim Banducci would make the necessary cash contribution).
+See Ex. 4, MacGregor Depo. at 185-186. VGA’s argument that 55 Brake intended to not pay the
+maintenance fees because it was cash poor is based purely upon conjecture and ignores the
+undisputed facts provided by the testimony of the current (and former) members of 55 Brake.
+With respect to the notion that the maintenance fee reminders sent by the Honnigman
+Firm prior to the date the maintenance fees were due somehow evidences 55 Brake’s intent to
+not pay the maintenance fees, VGA’s argument would, once again, require one to merely
+speculate that such was the case, and, more importantly, ignores the undisputed facts. While the
+Honnigman Firm did send maintenance fee reminders to 55 Brake, there is absolutely no
+55 BRAKE, L.L.C.’S MEMORANDUM OF LAW IN SUPPORT OF ITS
+MOTION FOR SUMMARY JUDGMENT OF NO INEQUITABLE CONDUCT - 14
+
+Case 1:08-cv-00177-BLW Document 163
+
+Filed 09/13/10 Page 19 of 26
+
+correspondence to or from 55 Brake and the Honnigman Firm indicating that 55 Brake did not
+intend to pay the maintenance fees on the ‘587 patent. 2
+In addition to the written evidence that 55 Brake intended to pay the maintenance fees
+due on the ‘587 patent, the testimony makes clear that 55 Brake – a patent licensing company
+whose only revenue stems from the licensing of its patents – implied that it would be foolish to
+allow its most valuable assets, its United States patents, go abandoned. See Ex. 5, Fletcher Depo.
+at 175-176.
+At worst, 55 Brake can only be charged with an accident for letting the payment of the
+maintenance fees on the ‘587 “fall through the crack.” However, an inequitable conduct finding
+cannot arise from a party’s gross negligence, let alone an accident. See Astrazeneca
+Pharmaceuticals LP, 2009 U.S. App. LEXIS at *20-21 (citing Kingsdown Med. Consultants, 863
+F.2d at 876 (“[e]vidence of mistake or negligence, even gross negligence, is not sufficient to
+support inequitable conduct in patent prosecution.”).
+b. Attorney Epstein made a reasonable inquiry into the facts and
+circumstances underlying the delayed payment of the maintenance fee
+when seeking to reinstate the ‘587 patent.
+Mr. MacGregor believes that the first time he learned that the ‘587 patent had lapsed due
+to the non-payment of maintenance fees was when he met with its litigation counsel, Goldstein,
+Faucett & Prebeg on or about August of 2007. See Ex. 4, MacGregor Depo., 154-155. When
+Mr. MacGregor learned of this fact, he was “shocked”. See Ex. 4, MacGregor Depo., at 154155. After learning that Mr. MacGregor had no knowledge that the ‘587 patent had lapsed (and
+2
+
+VGA will likely point to the email of Joseph Coppola of the Honnigman Firm directed to Mr. MacGregor that
+purports to inform him that the ‘587 patent had lapsed and that efforts to reinstate the patent need to be instituted.
+See Ex. 6.1, Honnigman Firm Email to MacGregor, Depo. Ex.170. However, Mr. MacGregor has no recollection of
+ever receiving the email and indicated that as of the date of the email he was heavily involved in his ranching
+business addressing issues that arise in the ranching business during the winter. See Ex. 4, MacGregor Depo. at 217,
+226.
+55 BRAKE, L.L.C.’S MEMORANDUM OF LAW IN SUPPORT OF ITS
+MOTION FOR SUMMARY JUDGMENT OF NO INEQUITABLE CONDUCT - 15
+
+Case 1:08-cv-00177-BLW Document 163
+
+Filed 09/13/10 Page 20 of 26
+
+that the non-payment of the maintenance fees was unintentional), Goldstein, Faucett & Prebeg
+immediately referred 55 Brake to Mr. Robert Epstein an attorney located in the Washington D.C.
+area to begin the efforts necessary to reinstate the ‘587 patent.
+Mr. Epstein sought to obtain the facts and circumstances underlying the non-payment of
+the maintenance fees and inquired of Mr. Edward Goldstein of Goldstein, Faucett & Prebeg
+seeking information relating to the aspects related to the non-payment. See Ex. 7, Epstein Depo.
+at 43. As a result of Mr. Epstein’s inquiry, Goldstein, Faucett & Prebeg sought an inquiry into
+the facts and circumstances surrounding the non-payment of the ‘587 patent’s maintenance fees.
+See Ex. 8, Babbitt Depo. at 41. The inquiry was conducted by Mr. Gary Babbitt, a member in 55
+Brake. Id. at 44.
+While Mr. Epstein never met personally with or conducted interviews of the members of
+55 Brake (or its prior counsel at the Honnigman Firm) to discuss the underlying facts related to
+the failure to pay the maintenance fee on the ‘587 patent, he did rely upon the inquiry conducted
+by Mr. Gary Babbitt, a member of 55 Brake, that was conducted at the request of 55 Brake’s
+litigation counsel. See Ex. 7, Epstein Depo. at 43, 59.
+The inquiries made by Mr. Babbitt consisted of telephone interviews with 55 Brake’s
+current and former members, Messrs. MacGregor, Fletcher and Holmes, as well as Mr. Jim
+Banducci (a former member of 55 Brake), related to the non-payment of the ‘587 patent’s
+maintenance fees. See Ex. 8, Babbitt Depo. at 43-46. Each of these individuals uniformly
+indicated to Mr. Babbitt that the failure to pay the maintenance fee on the ‘587 patent was
+unintentional. See Ex. 9, Babbitt Depo. Ex.102. Mr. Babbitt recorded these conversations in an
+email and forwarded them to 55 Brake’s litigation counsel, who in turn forwarded the email to
+Mr. Epstein. See Ex. 9, Babbitt Depo. Ex 102.
+55 BRAKE, L.L.C.’S MEMORANDUM OF LAW IN SUPPORT OF ITS
+MOTION FOR SUMMARY JUDGMENT OF NO INEQUITABLE CONDUCT - 16
+
+Case 1:08-cv-00177-BLW Document 163
+
+Filed 09/13/10 Page 21 of 26
+
+Based upon the information obtained by Mr. Babbitt and communicated to Mr. Epstein,
+Mr. Epstein filed a Petition to Accept Unintentionally Delayed Payment of Maintenance Fee in
+an Expired Patent with the PTO (“the Petition”) on August 14, 2007. See, e.g., Ex. 7, Epstein
+Depo. at 43, 58-59. The Petition stated that ““[t]he delay in payment of the maintenance fee to
+this patent was unintentional”. See Ex. 10, Epstein Depo. Ex. 94 at Epstein 007. The interviews
+conducted by Mr. Babbitt make clear – now and at the time Mr. Epstein obtained the information
+– that none of the members of 55 Brake intended to not pay the maintenance fees and let the ‘587
+patent go abandoned. See Ex. 9, Depo. Ex. 102, E-mail string including 55 Brake interviews. 3
+VGA alleges that “[h]ad 55 Brake disclosed either that the non-payment of the
+maintenance fee was intentional or that Mr. Epstein had not investigated the circumstances of the
+abandonment, the Patent Office would have denied the petition.” See Ex. 2, Amended Answer at
+¶ 79. There is no question based on the uncontested facts set forth herein that: (1) 55 Brake’s
+non-payment of the ‘587 patent’s maintenance fee was unintentional; and (2) that Mr. Epstein
+made, as required by the PTO, a “reasonable inquiry into the facts and circumstances”
+underlying the delayed payment of the maintenance fee such that Mr. Epstein’s statement to the
+PTO that the “[t]he delay in payment of the maintenance fee to this patent was unintentional,”
+was neither false nor uninvestigated.
+55 Brake did not deceive the PTO, nor did it intend to deceive the PTO
+c. Attorney Pedersen did not breach her duty of candor and good faith
+in dealing with the PTO.
+VGA’s extensive inequitable conduct allegations also point to the conduct of 55 Brake’s
+attorney that prosecuted the application leading to the ‘587 patent, Ms. Barbara S. Pedersen, as
+3
+
+Mr. Babbitt’s email summary of the interviews conducted with current and former members of 55 Brake is entirely
+consistent with their uncontroverted testimony in this case – the non-payment of the maintenance fees for the ‘587
+patent was unintentional.
+
+55 BRAKE, L.L.C.’S MEMORANDUM OF LAW IN SUPPORT OF ITS
+MOTION FOR SUMMARY JUDGMENT OF NO INEQUITABLE CONDUCT - 17
+
+Case 1:08-cv-00177-BLW Document 163
+
+Filed 09/13/10 Page 22 of 26
+
+well as her husband, attorney Kenneth J. Pedersen. See Ex. 2, Amended Answer at ¶¶ 60(ii), 8687, 91, 94-97.
+
+According to VGA’s allegations, the inventors of the ‘587 patent or their
+
+attorneys committed inequitable conduct with respect to their alleged non-disclosures to the PTO
+with respect to two pieces of prior art, a United States Patent No. 4,838,617 (the “Deitchman
+patent”) and a German Published Patent Application DE 43 42 543 (the “Semmler patent
+application”). Id. at ¶¶ 60(ii), 80-97.
+d. The Dietchman patent.
+The Dietchman patent was identified to the PTO on December 26, 2000, and referenced
+with other prior art references in the first Information Disclosure Statement (“IDS”) submitted
+during the prosecution of the application leading to the ‘587 patent. See Ex. 11, IDS, Depo. Ex.
+Ex. 134 (VWGOA 24939-24941). In fact, the Dietchman patent is referenced on the face of the
+‘587 patent. See Ex. 1, the ‘587 patent.
+As pointed out in VGA’s Amended Answer, the Dietchman patent was disclosed to the
+PTO before it received an International Search Report (“ISR”) from the European Patent Office
+with respect to the prosecution of a related foreign patent. See Ex. 2, Amended Answer at ¶ 85.
+While the ISR was not included in a second Information Disclosure Statement (“Second IDS”)
+submitted to the PTO on July 30, 2001, which cited the other prior art references disclosed in the
+ISR, inclusion of the Dietchman patent was unnecessary in view of the submission with the IDS.
+See Ex. 12, Second IDS., Depo. Ex. 134 (VWGOA 249888-24993). Ms. Pedersen testified that
+once a reference is disclosed to the PTO in an IDS, it is not her “conventional approach to re-list
+a patent, because it was already disclosed. See Ex. 13, B. Pedersen Depo. at 148-149.
+
+55 BRAKE, L.L.C.’S MEMORANDUM OF LAW IN SUPPORT OF ITS
+MOTION FOR SUMMARY JUDGMENT OF NO INEQUITABLE CONDUCT - 18
+
+Case 1:08-cv-00177-BLW Document 163
+
+Filed 09/13/10 Page 23 of 26
+
+The undisputed facts establish that the Deitchman patent was cited to the PTO.
+Accordingly, VGA’s allegations of inequitable conduct with respect to the Dietchman patent
+must fail.
+e. The Semmler patent application.
+The Semmler patent application, which was published in the German language, was
+disclosed to the PTO on July 30, 2001, by Ms. Pedersen. See Ex. 12, Second IDS, Depo. Ex. 134
+(VWGOA 24988-24993). The Second IDS stated that the references cited therein “were cited in
+an international search report mailed on April 27, 2001, from the PCT search authority in a
+related case.” Id. at 24989-990. Like the Dietchman patent, the Semmler patent application is
+referenced on the face of the ‘587 patent. See Ex. 1, the ‘587 patent.
+VGA alleges that Ms. Pedersen failed to satisfy her obligations under the then applicable
+patent rules related to foreign language references (Section 1.98(a)(3) of the Patent Rules, as well
+as the then applicable section of the Manual of Patent Examining Procedure, Section 609). Ex.
+2, Amended Answer at ¶¶ 92-93. In summary, VGA alleges that Ms. Pedersen failed to provide
+the PTO with a “concise explanation of relevance [of the reference] as it is presently understood”
+or a copy of an English language translation of the foreign language document if it is in the
+possession, custody or control of, or readily available to the applicant, his attorney or agent, or
+any other person who is substantively involved in the prosecution of the application. The
+uncontested evidence contradicts VGA’s allegations with respect to the Semmler Application.
+Ms. Pedersen satisfied her duty of candor and good faith to the PTO by disclosing not
+only the Semmler patent application in the Second IDS, but also submitting a concise
+explanation to the PTO of the relevance of the Semmler patent application as it was then
+understood, wherein Ms. Pedersen notes that no translation is provided, “but comments
+55 BRAKE, L.L.C.’S MEMORANDUM OF LAW IN SUPPORT OF ITS
+MOTION FOR SUMMARY JUDGMENT OF NO INEQUITABLE CONDUCT - 19
+
+Case 1:08-cv-00177-BLW Document 163
+
+Filed 09/13/10 Page 24 of 26
+
+supplied”. See Ex. 12, Second IDS at VWGOA 24991. The comments provided to the PTO
+were an enclosed letter from Mr. Sven Evers, a consultant contracted by 55 Brake to engage in
+product design and the review of prior art, along with the Second IDS that summarized the
+contents of the Semmler patent application. See Ex. 12, Second IDS at VWGOA 24992-993.
+Moreover, despite VGA’s allegations, the uncontroverted testimony from Mr. Evers establishes
+that there never was a written translation of the Semmler patent application prepared. See Ex.
+14, Evers Depo. at 42, 49, 76-77.
+Ms. Pedersen discharged her duty to the PTO and disclosed the Semmler patent
+application and provided the everNet letter to the PTO, setting forth a concise explanation of
+relevance of the Semmler patent application as it then understood. Moreover, Ms. Pedersen
+could certainly be under no obligation to disclose to the PTO a translation of the Semmler patent
+application that did not exist.
+V. CONCLUSION
+VGA has identified no direct evidence whatsoever – much less clear and convincing
+evidence – of any intent by 55 Brake to deceive the United States Patent and Trademark Office
+during the prosecution of the ‘587 patent. All material prior art was submitted to the PTO in
+accordance with the applicable patent rules, either during the initial prosecution, along with the
+delayed payment of the maintenance fee, or with the subsequent reinstatement of the ‘587 patent.
+Contrary to VGA’s arguments, the only evidence adduced to date is that 55 Brake had no intent
+to deceive the PTO in these regards. Because VGA can come forward with no direct evidence to
+sustain its high burden of proving inequitable conduct by clear and convincing evidence, 55
+Brake respectfully requests that the Court grant its motion and a enter judgment dismissing
+VGA’s inequitable conduct defense and counterclaim.
+55 BRAKE, L.L.C.’S MEMORANDUM OF LAW IN SUPPORT OF ITS
+MOTION FOR SUMMARY JUDGMENT OF NO INEQUITABLE CONDUCT - 20
+
+Case 1:08-cv-00177-BLW Document 163
+
+Filed 09/13/10 Page 25 of 26
+
+DATED: September 13, 2010
+Respectfully submitted,
+/s/ Matthew J.M. Prebeg
+Matthew J.M. Prebeg (Texas Bar No. 00791465)
+Edward W. Goldstein (Texas Bar No. 08099500)
+Stephen W. Abbott (Texas Bar No. 00795933)
+Wendy L. Boone (Texas Bar No. 24047310)
+GOLDSTEIN, FAUCETT & PREBEG L.L.P.
+1177 West Loop South, Suite 400
+Houston, Texas 77027
+Telephone: (713) 877-1515
+Facsimile: (713) 877-1737
+Andrew J. Kochanowski (P55117)
+Lisa R. Mikalonis (P39485)
+SOMMERS SCHWARTZ, P.C.
+2000 Town Center, Suite 900
+Southfield, Michigan 48075
+Telephone: (248) 355-0300
+Facsimile: (248) 936-2153
+E-mail: akochanowski@sommerspc.com
+lmikalonis@sommerspc.com
+Local Counsel:
+Frank J. Dykas (ISB #1777)
+Elizabeth Herbst Schierman (ISB #7208)
+DYKAS, SHAVER & NIPPER, LLP
+P.O. Box 877
+Boise, Idaho 83701-0877
+Telephone: (208) 345-1122
+Facsimile: (888) 388-6035
+ATTORNEYS FOR PLAINTIFF
+
+55 BRAKE, L.L.C.’S MEMORANDUM OF LAW IN SUPPORT OF ITS
+MOTION FOR SUMMARY JUDGMENT OF NO INEQUITABLE CONDUCT - 21
+
+Case 1:08-cv-00177-BLW Document 163
+
+Filed 09/13/10 Page 26 of 26
+
+CERTIFICATE OF SERVICE
+I HEREBY CERTIFY that on the 13th day of September 2010, I filed the
+MEMORANDUM OF LAW IN SUPPORT OF 55 BRAKE, L.L.C.’S MOTION FOR
+SUMMARY JUDGMENT OF NO INEQUITABLE CONDUCT electronically through the
+CM/ECF system, which caused the following parties or counsel to be served by electronic
+means, as more fully reflected on the Notice of Electronic Filing:
+Mark Hannemann
+mhannemann@kenyon.com
+Volkswagen Group of America, Inc.
+
+Philip J. McCabe
+pmccabe@kenyon.com
+Volkswagen Group of America, Inc.
+
+Michael J. Lennon
+mlennon@kenyon.com
+Volkswagen Group of America, Inc.
+
+Susan Smith
+ssmith@kenyon.com
+Volkswagen Group of America, Inc.
+
+Georg C. Reitboeck
+greitboeck@kenyon.com
+Volkswagen Group of America, Inc.
+
+Stephen R. Thomas
+srt@moffatt.com
+Volkswagen Group of America, Inc.
+Tyler J. Anderson
+tya@moffatt.com
+Volkswagen Group of America, Inc.
+
+/s/ Matthew M.J. Prebeg_______________
+Matthew M.J. Prebeg
+
+55 BRAKE, L.L.C.’S MEMORANDUM OF LAW IN SUPPORT OF ITS
+MOTION FOR SUMMARY JUDGMENT OF NO INEQUITABLE CONDUCT - 22
+
+

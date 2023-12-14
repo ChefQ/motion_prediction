@@ -1,0 +1,2211 @@
+Case 3:07-cv-02000-H-CAB
+
+Document 147
+
+Filed 12/14/2007
+
+Page 1 of 31
+
+David A. Hahn (SBN 125784)
+1 HAHN & ADEMA
+501 West Broadway, Suite 1600
+2 San Diego, California 92101-3595
+Telephone: (619) 235-2100
+3 Facsimile: (619) 235-2101
+4 Attorneys for Plaintiff Lucent Technologies Inc.
+5
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF CALIFORNIA
+
+6
+
+7 LUCENT TECHNOLOGIES INC. and
+MULTIMEDIA PATENT TRUST,
+8
+Plaintiff,
+9
+v.
+10 GATEWAY, INC., GATEWAY COUNTRY
+STORES LLC, GATEWAY COMPANIES,
+11 INC., GATEWAY MANUFACTURING LLC
+and COWABUNGA ENTERPRISES, INC.,
+12
+Defendants,
+13
+and
+14 MICROSOFT CORPORATION,
+15
+
+Intervener.
+
+16 MICROSOFT CORPORATION,
+17
+v.
+
+18
+19
+
+Plaintiff,
+
+Case No. 07-CV-2000-H (CAB)
+consisting of matters severed from
+consolidated cases:
+Case No. 02-CV-2060 B (CAB)
+Case No. 03-CV-0699 B (CAB)
+Case No. 03-CV-1108 B (CAB)
+LUCENT’S OPPOSITION TO
+GATEWAY’S MOTION FOR
+PARTIAL SUMMARY JUDGMENT
+OF INVALIDITY OF U.S. PATENT
+NO. 4,439,759 (FLEMING)
+Date:
+Time:
+Courtroom:
+Judge:
+
+January 7, 2008
+10:30 A.M.
+13
+Hon. Marilyn L. Huff
+
+LUCENT TECHNOLOGIES INC.,
+Defendant.
+
+20
+
+LUCENT TECHNOLOGIES INC. and
+21 MULTIMEDIA PATENT TRUST,
+22
+v.
+
+23
+24
+25
+
+Plaintiff,
+
+DELL INC.,
+Defendant.
+
+26
+27
+28
+
+LUCENT’S OPPOSITION TO GATEWAY’S MOTION FOR
+PARTIAL SUMMARY JUDGMENT OF INVALIDITY OF U.S.
+PATENT NO. 4,439,759 (FLEMING)
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Filed 12/14/2007
+
+Page 2 of 31
+
+TABLE OF CONTENTS
+
+1
+2 I.
+3
+
+Document 147
+
+II.
+
+4
+
+INTRODUCTION ...............................................................................................................1
+FACTUAL BACKGROUND..............................................................................................2
+A.
+
+5
+6
+7
+
+Technical Background .............................................................................................2
+1.
+
+Pixels, Direct Color, and Indexed Color......................................................2
+
+2.
+
+Foreground and Background Colors............................................................5
+
+B.
+
+The Fleming ‘759 Patent..........................................................................................6
+
+C.
+
+The Asserted Claims Of The Fleming ‘759 Patent..................................................7
+
+10
+
+D.
+
+Recommendation S.100. ..........................................................................................9
+
+11 III.
+
+LEGAL STANDARDS .....................................................................................................11
+
+12
+
+A.
+
+Summary Judgment ...............................................................................................11
+
+13
+
+B.
+
+Obviousness ...........................................................................................................11
+
+8
+9
+
+14
+15
+
+IV.
+
+ARGUMENT.....................................................................................................................13
+A.
+
+16
+17
+
+Ample Evidence Establishes A Genuine Dispute Concerning The Alleged
+Obviousness Of Claim 1 Of The Fleming ‘759 Patent. .........................................13
+1.
+
+The Fleming ‘759 Patent Does Not Admit That The Second And Third
+Modes Of Access Of Claim 1 Were Known In The Prior Art...................13
+
+2.
+
+A Genuine Factual Dispute Exists As To Whether Recommendation
+S.100 Discloses The Second And Third Modes Of Access Of Claim 1....16
+
+18
+19
+20
+21
+22
+23
+
+3.
+
+24
+25
+
+B.
+
+26
+27
+28
+
+V.
+
+a.
+
+Recommendation S.100 Does Not Disclose A Color Memory. ....16
+
+b.
+
+Recommendation S.100 Does Not Disclose Specifying Colors
+As Indexes Into A Color Memory. ................................................18
+
+Recommendation S.100 Does Not Disclose The Use Of An In-Use
+Background Color In Connection With The Alphamosaic Parallel
+Mode. .........................................................................................................20
+
+Ample Evidence Establishes A Genuine Dispute Concerning The Alleged
+Obviousness Of Claims 2 And 3 Of The Fleming ‘759 Patent..............................23
+
+CONCLUSION..................................................................................................................25
+
+LUCENT’S OPPOSITION TO GATEWAY’S MOTION FOR
+PARTIAL SUMMARY JUDGMENT OF INVALIDITY OF U.S.
+PATENT NO. 4,439,759 (FLEMING)
+
+i
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 147
+
+Filed 12/14/2007
+
+Page 3 of 31
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+LUCENT’S OPPOSITION TO GATEWAY’S MOTION FOR
+PARTIAL SUMMARY JUDGMENT OF INVALIDITY OF U.S.
+PATENT NO. 4,439,759 (FLEMING)
+
+ii
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Filed 12/14/2007
+
+Page 4 of 31
+
+TABLE OF AUTHORITIES
+
+1
+2
+
+Document 147
+
+Cases
+
+3 Anderson v. Liberty Lobby, Inc.,
+477 U.S. 242 (1986)................................................................................................................ 11
+4
+Arkie Lures, Inc. v. Gene Larew Tackle, Inc.,
+5
+119 F.3d 953 (Fed. Cir. 1997)................................................................................................. 24
+6 Caterpillar Inc. v. John Deere & Co.,
+224 F.3d 1374 (Fed. Cir. 2000)............................................................................................... 11
+7
+8 Celotex Corp. v. Catrett,
+477 U.S. 317 (1986)................................................................................................................ 11
+9
+Daiichi Sankyo Co., Ltd. v. Apotex, Inc.,
+501 F.3d 1254 (Fed. Cir. 2007)............................................................................................... 12
+10
+11 Eli Lilly and Co. v. Barr Labs., Inc.,
+251 F.3d 955 (Fed. Cir. 2001)................................................................................................. 11
+12
+Forest Labs., Inc. v. Ivax Pharmas., Inc.,
+13
+501 F.3d 1263 (Fed. Cir. 2007)............................................................................................... 12
+14
+Graham v. John Deere Co.,
+383 U.S. 1 (1966).................................................................................................................... 12
+15
+16 In re Donaldson Co., Inc.,
+16 F.3d 1189 (Fed. Cir. 1994)................................................................................................. 25
+17
+In re Kahn,
+18
+441 F.3d 977 (Fed. Cir. 2006)................................................................................................. 12
+19
+
+KSR Int’l Co. v. Teleflex Inc.,
+127 S. Ct. 1727 (2007)...................................................................................................... 12, 13
+20
+21 Pfizer, Inc. v. Apotex, Inc,
+480 F.3d 1348 (Fed. Cir. 2007)............................................................................................... 11
+22
+PharmaStem Therapeutics, Inc. v. Viacell, Inc.,
+23
+491 F.3d 1342 (Fed. Cir. 2007)................................................................................... 12, 13, 16
+24
+
+Schumer v. Laboratory Computer Sys., Inc.,
+308 F.3d 1304 (Fed. Cir. 2002)............................................................................................... 11
+25
+26 SRAM Corp. v. AD-II Eng’g, Inc.,
+465 F.3d 1351 (Fed. Cir. 2006)............................................................................................... 24
+27
+28
+
+LUCENT’S OPPOSITION TO GATEWAY’S MOTION FOR
+PARTIAL SUMMARY JUDGMENT OF INVALIDITY OF U.S.
+PATENT NO. 4,439,759 (FLEMING)
+
+iii
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+1
+
+Document 147
+
+Filed 12/14/2007
+
+Page 5 of 31
+
+Takeda Chem. Indus., Ltd. v. Alphapharm Pty., Ltd.,
+492 F.3d 1350 (Fed. Cir. 2007)............................................................................................... 12
+
+2
+
+United States v. Boyce,
+148 F. Supp. 2d 1069 (S.D. Cal. 2001)................................................................................... 11
+3
+4 Statutes
+5 35 U.S.C. § 103(a) .............................................................................................................................. 12
+6 Fed. R. Civ. P. 56(c) ........................................................................................................................... 11
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+LUCENT’S OPPOSITION TO GATEWAY’S MOTION FOR
+PARTIAL SUMMARY JUDGMENT OF INVALIDITY OF U.S.
+PATENT NO. 4,439,759 (FLEMING)
+
+iv
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 147
+
+Filed 12/14/2007
+
+Page 6 of 31
+
+1 I.
+
+INTRODUCTION
+
+2
+
+Gateway’s summary judgment motion is a textbook example of an accused infringer
+
+3 dissecting patent claims into carefully selected pieces, and then arguing that the claims are obvious
+4 because each of those pieces is allegedly found somewhere in the prior art. But under Supreme
+5 Court and Federal Circuit precedent, including the recent KSR decision, the proper obviousness
+6 inquiry is not whether individual elements of the claims were known in the prior art, but whether the
+7 claimed inventions as a whole would have been obvious to one of ordinary skill in the art. Gateway
+8 ignores this fundamental tenet of patent law, and attempts to reduce the obviousness inquiry into an
+9 inquiry as to whether the elements of claims 1-3 of the Fleming ‘759 Patent are individually found in
+10 the prior art.
+11
+
+But even under Gateway’s improper interpretation of the law, Gateway’s motion for
+
+12 summary judgment fails. The prior art upon which Gateway relies — the Fleming ‘759 Patent’s
+13 discussion of the prior art, Recommendation S.100, and Crowther — wholly fails to disclose
+14 numerous elements of the asserted claims. For example, none of these references disclose the
+15 second and third modes of access of claim 1. While Gateway relies on the conclusory opinions of its
+16 expert to attempt to prove that these elements are disclosed in the cited art, Lucent’s own expert,
+17 Jake Richter, has reviewed the prior art upon which Gateway relies and has opined that the second
+18 and third modes of access of claim 1 are not disclosed. Moreover, even if the prior art disclosed
+19 individually each element of claim 1 as Gateway contends, Gateway has offered no proof that it
+20 would have been obvious to combine those elements in the particular way claim 1 does. Nor could
+21 it. At the time of the invention of the Fleming ‘759 Patent, it was believed that a digital image
+22 display system that combined direct and indexed modes of access would not work, as such a system
+23 was expected to be unreliable. Further, market trends towards higher resolution displays, a wider
+24 range of colors, and decreasing costs of memory weighed in favor of using direct color rather than
+25 indexed color. Genuine factual disputes therefore exist that preclude summary judgment with
+26 respect to claim 1.
+27
+28
+
+LUCENT’S OPPOSITION TO GATEWAY’S MOTION FOR
+PARTIAL SUMMARY JUDGMENT OF INVALIDITY OF U.S.
+PATENT NO. 4,439,759 (FLEMING)
+
+1
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+1
+
+Document 147
+
+Filed 12/14/2007
+
+Page 7 of 31
+
+With respect to claims 2 and 3, there exist factual disputes not only as to whether one of
+
+2 ordinary skill in the art would have had a reason to combine the Crowther reference with
+3 Recommendation S.100 as Gateway contends, but also as to whether the proposed combination
+4 would have all of the elements of claim 2 and 3. In particular, Gateway ignores the means-plus5 function elements of claims 2 and 3, which require particular algorithms to implement the color
+6 setting functions of those claims. Gateway’s technical expert has offered no analysis whatsoever as
+7 to whether Recommendation S.100 or Crowther disclose the identical or equivalent algorithm
+8 required by the Court’s claim construction. As such, Gateway has not met its initial burden on
+9 summary judgment of coming forward with proof that, left unrebutted, would support a finding of
+10 obviousness of claims 2 and 3 by clear and convincing evidence. Gateway’s motion for summary
+11 judgment should therefore be denied in its entirety.
+12 II.
+
+FACTUAL BACKGROUND
+
+13
+
+A.
+
+14
+
+Technical Background
+1.
+
+15
+
+Pixels, Direct Color, and Indexed Color.
+
+The Fleming ‘759 Patent relates to video display technology. The basic unit of information
+
+16 that is displayed on a display monitor is a “pixel,” a term derived from the words “picture element.”
+17 (Richter Dec. ¶ 5.) A pixel defines both the individually displayable element on the display monitor
+18 and the unit of memory used to define the data that generated the element on the display monitor.
+19 (Id.) Pixels and their respective colors are controlled by software executed by the central processing
+20 unit (CPU) of the computer, terminal, or workstation to which the display monitor is connected.
+21 (Id.)
+22
+
+Regardless of whether the system is a personal computer, a terminal (where keyboard,
+
+23 monitor, and computer chassis are integrated into a single case), or a workstation, the display system
+24 will contain a video memory, or frame buffer, that is used to display information on the screen. (Id.
+25 ¶ 6.) Memory is typically made up of random access memory (RAM) chips. (Id.) In a personal
+26 computer, the frame buffer may be resident on a separate graphics board, or on the motherboard of
+27 the system sharing the memory of the CPU. (Id.) When a program running on the CPU, such as a
+28
+
+LUCENT’S OPPOSITION TO GATEWAY’S MOTION FOR
+PARTIAL SUMMARY JUDGMENT OF INVALIDITY OF U.S.
+PATENT NO. 4,439,759 (FLEMING)
+
+2
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 147
+
+Filed 12/14/2007
+
+Page 8 of 31
+
+1 word processing or other application program, decides it wants to display something on the display
+2 monitor, it puts data into the frame buffer that identifies each pixel and the color to be displayed at
+3 each pixel. (Id.) This information is then transferred to the display monitor. (Id.)
+4
+
+The frame buffer is conceptually laid out in a rectangular array of such pixels as depicted
+
+5 below:
+6
+7
+8
+9
+10
+11
+12
+13
+
+Frame Buffer (showing pixel array)
+
+14
+15 (Id. ¶ 7.) The number of pixels across the horizontal dimension (the X dimension) of the displayed
+16 part of the frame buffer and the number of lines of pixels in the vertical dimension (the Y dimension)
+17 of the displayed part of the frame buffer are generally expressed as the display resolution using an X
+18 by Y nomenclature. (Id.) Typical display resolutions are 320x200, 512x480, 640x480, 800x600,
+19 1024x768, 1280x1024, and 1600x1200. (Id.)
+20
+
+The frame buffer stores for each pixel a number that identifies the color associated with the
+
+21 pixel. (Id. ¶ 9.) There are two ways that colors can be represented by the number in a pixel – either
+22 as a direct color value or as an index into a color map. (Id.) Color display information typically is
+23 generated as a blend of three colored light components: red, green, and blue (RGB). (Id. ¶ 10.) The
+24 combination of all three of these color components at full intensity produces a white output, while
+25 the absence of all three produces black output. (Id.) Blending these three color components at
+26 different intensities can produce a near infinite number of distinct colors. (Id.) Below is a table
+27
+28
+
+LUCENT’S OPPOSITION TO GATEWAY’S MOTION FOR
+PARTIAL SUMMARY JUDGMENT OF INVALIDITY OF U.S.
+PATENT NO. 4,439,759 (FLEMING)
+
+3
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 147
+
+Filed 12/14/2007
+
+Page 9 of 31
+
+1 showing some examples of what colors result from blending different combinations of red, green,
+2 and blue light:
+3
+
+Red Green
+Blue
+Result
+0%
+0%
+0% Black
+0%
+0% 100% Bright Blue
+0%
+100%
+0% Bright Green
+100%
+0%
+0% Bright Red
+0%
+100% 100% Bright Cyan
+100%
+0% 100% Bright Magenta
+50%
+50%
+0% Brown / Yellow
+100%
+100%
+0% Bright Yellow
+50%
+50%
+50% Medium Gray
+100%
+100% 100% Bright White
+Color table for various combinations
+of red, green, and blue light intensities.
+
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+(Id.)
+In direct color, a certain number of the pixel’s bits is assigned to each of the RGB color
+components. (Id. ¶ 11.) A pixel’s size is defined by the number of “bits” of data the pixel occupies,
+and the number of bits there are per pixel determines the number of possible color values a pixel
+might have. (Id.) For example, in the case when the number of bits per pixel is 24, 8 bits might be
+assigned to each of the three color components, for a total of 24 bits. (Id.)
+A drawback of direct color is that, if memory is a concern, it takes a relatively large amount
+of memory for a frame buffer to support common resolutions, because three different color values
+are actually stored for each pixel. (Id. ¶ 12.) A color map, or color look-up table, allows a pixel
+value to be specified by an index into a list of color values stored in memory. (Id.) This permits the
+frame buffer to store for each pixel a single number representing a single color, thereby reducing the
+required frame buffer memory. (Id.) A color map also adds a degree of versatility. For example, in
+a 4 bits per pixel mode (16 possible values), a program could choose the 16 colors from a much
+larger palette of colors instead of being limited to just 16 fixed colors. (Id.) A color look-up table
+typically provides a good compromise between memory cost and output. (Id.) However, as
+compared to direct color, significantly fewer colors are available at any one time with indexed color.
+(Id.)
+
+LUCENT’S OPPOSITION TO GATEWAY’S MOTION FOR
+PARTIAL SUMMARY JUDGMENT OF INVALIDITY OF U.S.
+PATENT NO. 4,439,759 (FLEMING)
+
+4
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+1
+
+Document 147
+
+Filed 12/14/2007
+
+Page 10 of 31
+
+When an application program wishes to display information on a display device, such as a
+
+2 cathode ray tube (CRT), the CPU, either directly or via a graphics chip, places color information for
+3 each pixel into the frame buffer, either as a direct color value or as an index to the color map. (Id.
+4 ¶ 13.) This color information is then fetched from the frame buffer, one pixel at a time, converted
+5 from digital information into analog electrical signals representing the red, green, and blue
+6 intensities for that pixel. (Id.) If indexed color is used, the color map is consulted to retrieve the
+7 RGB values for that index value before the digital to analog conversion. (Id.) Those electrical
+8 signals are then passed to the display monitor, which displays the image. (Id.)
+9
+10
+
+2.
+
+Foreground and Background Colors.
+
+Conceptually, display systems also make use of foreground and background colors. The
+
+11 foreground color is the color used to draw an object, like a line or character. (Id. ¶ 14.) The
+12 background color is the color used for the non-foreground space associated with the object such as
+13 the inside of an “O” for example. (Id.) The foreground and background colors associated with
+14 representative text characters is shown below:
+15
+16
+17
+18
+19
+20
+21 Thus, the background color is not the background color of the entire screen, but the background
+22 color of the area in the immediate vicinity of the character. (Id.)
+23
+
+For some hardware and software combinations, it is possible to set the foreground and
+
+24 background colors at the beginning of a series of object drawing functions, so that it is not necessary
+25 to specify the foreground and background colors each time an object is drawn into the frame buffer.
+26 (Id. ¶ 15.) For example, a common graphics operation is to display text using word processor. (Id.)
+27 To draw a character of the text, the processor retrieves the character and the colors for the character
+28
+
+LUCENT’S OPPOSITION TO GATEWAY’S MOTION FOR
+PARTIAL SUMMARY JUDGMENT OF INVALIDITY OF U.S.
+PATENT NO. 4,439,759 (FLEMING)
+
+5
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 147
+
+Filed 12/14/2007
+
+Page 11 of 31
+
+1 from memory, and then draws the character on the display. (Id.) The display of additional
+2 characters can be made more efficient by specifying the foreground and background colors upfront,
+3 since the processor will not need to specify the colors for each additional character. (Id.) These pre4 set colors are referred to as in-use foreground and in-use background colors. (Id.)
+5
+
+B.
+
+6
+
+The ‘759 patent relates to a digital image display system that makes use of three modes of
+
+The Fleming ‘759 Patent.
+
+7 access to color data values, one where color is directly specified and two others where colors are
+8 specified as indexes in a color memory. (See, e.g., ‘759 Patent, claim 1.) The inventions of the
+9 Fleming ‘759 Patent provide display device independence that enables content providers to create
+10 graphics content portable to a variety of display devices regardless of the particular hardware
+11 configuration of the devices. (Richter Dec. ¶ 18.)
+12
+
+Before the inventions of the ‘759 patent in the early 1980’s, most commercial information
+
+13 display systems were textual in nature, representing information solely using text characters. The
+14 desire to present information graphically on such display systems led to the use of blocky graphical
+15 characters called “block mosaics” from which extremely crude graphical imagery could be
+16 constructed. (Id. ¶ 17.) These initial systems required specific display hardware configurations, and
+17 content was therefore limited to those configurations, with each vendor having their own specific,
+18 fixed configuration incompatible with that of other vendors. (Id.) Display devices tended to be
+19 single function, single resolution devices, operating in a particular manner and no other. (Id.) If one
+20 wanted to increase the resolution or increase the number of colors, one had to physically modify the
+21 hardware. (Id.)
+22
+
+Recognizing the limitations of these systems, the inventors of the Fleming ‘759 Patent
+
+23 invented the technology of the ‘759 patent at AT&T Bell Labs. One application for the inventions of
+24 the Fleming ‘759 Patent was videotex systems. As the Fleming ‘759 Patent explains, videotex
+25 systems enabled customers to access a remote host computer and associated database with a digital
+26 image display terminal. (Fleming ‘759 Patent, col. 1, lns. 39-42.) The technology of the Fleming
+27 ‘759 Patent became the basis of the North American Presentation Layer Protocol Syntax (NAPLPS),
+28
+
+LUCENT’S OPPOSITION TO GATEWAY’S MOTION FOR
+PARTIAL SUMMARY JUDGMENT OF INVALIDITY OF U.S.
+PATENT NO. 4,439,759 (FLEMING)
+
+6
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 147
+
+Filed 12/14/2007
+
+Page 12 of 31
+
+1 the display device independent videotex protocol used in North America that allowed content
+2 providers to create graphics content portable across any device that supported the protocol. (Ex. 4;1
+3 O’Brien Tr. 39-40.)
+4
+
+C.
+
+5
+
+Asserted claim 1 of the Fleming ‘759 Patent reads as follows:
+
+6
+
+1. In a digital image display system:
+
+7
+
+a memory for storing color data values;
+
+8
+
+processing means responsive to a predetermined command and data sequence
+comprising at least one command, the processing means decoding the
+predetermined command and data sequence, the predetermined command and
+data sequence selecting one of a plurality of modes of access to color data
+values, the modes comprising
+
+9
+10
+11
+12
+
+a first mode of access wherein an in-use foreground color is directly specified
+as a color data value;
+
+13
+
+a second mode of access wherein the in-use foreground color is specified as
+an index into the color memory; and
+
+14
+15
+
+a third mode of access wherein the in-use foreground color and an in-use
+background color are specified as indexes into the color memory; and
+
+16
+17
+
+display means responsive to the processing means, the display means
+displaying the colors associated with the color data values accessed by the
+selected mode.
+
+18
+19
+20
+21
+22
+23
+
+The Asserted Claims Of The Fleming ‘759 Patent.
+
+Claim 1 thus requires, among other things, three separate modes of access to color data
+values: a first mode of access wherein an in-use foreground color is directly specified as a color data
+value, a second mode of access wherein the in-use foreground color is specified as an index into a
+color memory, and a third mode of access wherein the in-use foreground color and an in-use
+background color are specified as indexes into the color memory. The court construed the term
+
+24
+25
+
+Unless otherwise indicated, references herein to “Ex.” refer to the Declaration Of James E. Marina
+In
+Support Of Lucent’s Oppositions To Defendants’ Motions For Summary Judgment Of Invalidity
+26
+Of Claims 1-3 Of The Fleming ‘759 Patent filed concurrently herewith.
+27
+28
+
+1
+
+LUCENT’S OPPOSITION TO GATEWAY’S MOTION FOR
+PARTIAL SUMMARY JUDGMENT OF INVALIDITY OF U.S.
+PATENT NO. 4,439,759 (FLEMING)
+
+7
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 147
+
+Filed 12/14/2007
+
+Page 13 of 31
+
+1 “color memory” as “a color map that stores a table of color data values indexed by numbers,”
+2 construed the term “in-use foreground color” as “a color that will be used as the background color
+3 for subsequently received text and graphics drawing commands until changed,” and construed the
+4 term “in-use background color” as “a color that will be used as the background color for
+5 subsequently received text and graphics drawing commands until changed.” (Thomases Dec. Ex. 4.)
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+
+Asserted claim 2 of the Fleming ‘759 Patent reads as follows:
+2. A digital image display system comprising:
+a color memory for storing color data values;
+processing means responsive to predetermined command and data
+sequences, the processing means, responsive to a first command,
+selecting a mode of access to the color memory; and responsive to a
+second command, setting a color data value in the color memory; and
+display means responsive to the processing means, the display means
+displaying a color associated with the color data value accessed by the
+selected mode.
+Claim 2 thus requires, among other things, a processing means responsive to a command that
+sets a color data value in the color memory. The Court, pursuant to 35 U.S.C. ¶ 112, construed the
+corresponding structure of the “processing means” of claim 2 as it relates to the setting function as:
+Data processor 1 programmed to perform the algorithm shown in Fig. 5:
+boxes 501, 504, 506, 508, and 510 (See, Col. 7, lines 14-17 (except for
+“or (2) in color mode 0, for setting”), Col. 7, lines 53-64 (except for
+“The sequence of boxes 501, 504, 506, 508, and 510 is”)).
+
+20 (Thomases Dec. Ex. 4.) Asserted claim 3 depends from claim 2 and includes the following
+21 additional limitation: “wherein the processing means responsive to a second command sets plural
+22 color data values in color memory.” The Court, pursuant to 35 U.S.C. ¶ 112, construed the
+23 corresponding structure of the “processing means” of claim 3 as it relates to the setting function as:
+24
+25
+26
+27
+28
+
+Data processor 1 programmed to perform the algorithm shown in Fig. 5:
+Boxes 501, 504, 506, 508, and 510 and the line exiting box 510 (See, Col.
+7 Lns. 14-17 [except for “or (2) in color mode 0, for setting”], Col. 7,
+lines 53-65.
+(Thomases Dec. Ex. 4.)
+
+LUCENT’S OPPOSITION TO GATEWAY’S MOTION FOR
+PARTIAL SUMMARY JUDGMENT OF INVALIDITY OF U.S.
+PATENT NO. 4,439,759 (FLEMING)
+
+8
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+1
+
+Document 147
+
+Filed 12/14/2007
+
+Page 14 of 31
+
+Thus, to prove the alleged obviousness of claims 2 and 3, Gateway would, among other
+
+2 things, need to prove, in accordance with 35 U.S.C. ¶ 112, that a system performing the recited
+3 functions and using structure identical or equivalent to the foregoing structure would have been
+4 obvious to one of ordinary skill in the art.
+5
+
+D.
+
+6
+
+The primary piece of prior art relied upon by Gateway is Recommendation S.100, a
+
+Recommendation S.100.
+
+7 recommendation issued in 1981 by the International Telegraph and Telephone Consultative
+8 Committee (CCITT) of the International Telecommunication Union (ITU) relating to videotex
+9 services.
+10
+
+Recommendation S.100 discusses four different options for representing pictorial
+
+11 information in a videotex system (mosaic character sets (referred to as the alphamosaic option),
+12 geometric system (referred to as alphageometric option), dynamically redefinable character sets, and
+13 photographic representation), discloses codes that could be used to send pictorial information in
+14 accordance with some of these options, and suggests that systems may be developed using two or
+15 more of these options. (Thomases Dec. Ex. 2 at 25, 31-55.) But contrary to Gateway’s
+16 representations, these options have to do with how pictures are drawn on the screen, not how color is
+17 specified. (Richter Dec. ¶ 30.)
+18
+
+For example, Recommendation S.100 explains that “[i]n the alphamosaic option, the display
+
+19 frame is composed of defined character positions, which may be occupied by any of the characters
+20 of the repertoire.” (Section 5.1.1.) In the alphageometric option, on the other hand, “the display is
+21 composed of alphanumeric text and pictorial drawings that are defined in terms of geometric
+22 primitives transmitted to the terminal as drawing commands.” (Section 6.1.1.) Thus, the four
+23 different options presented by Recommendation S.100 do not relate to the method of color
+24 specification. (Richter Dec. ¶ 30.) Nor do they require a particular method of color specification.
+25 For example, Gateway’s paid consultant Douglas O’Brien testified that the use of alphageometric
+26 techniques does not require direct color specification, although Recommendation S.100 used direct
+27 color specification for that option:
+28
+
+LUCENT’S OPPOSITION TO GATEWAY’S MOTION FOR
+PARTIAL SUMMARY JUDGMENT OF INVALIDITY OF U.S.
+PATENT NO. 4,439,759 (FLEMING)
+
+9
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+1
+2
+3
+4
+
+Document 147
+
+Filed 12/14/2007
+
+Page 15 of 31
+
+Q. What I’m getting at is that by selecting a geometric system, for
+example, you are not necessarily picking a way of specifying a color.
+Right?
+A. By selecting a geometric in the general, you are not. By selecting the
+alphageometric option, I’ll use the word, of S.100, the capa -- the
+command here is a direct command. So in this document, S.100,
+selecting the geometric option is selecting direct.
+
+5 (Thomases Dec. Ex. 7 at 344.)
+6
+
+Thus, Recommendation S.100 does not disclose multiple modes of access to color data
+
+7 values. Rather, Recommendation S.100 discloses multiple options for pictorial representation,
+8 where color is specified directly for each of those options. Contrary to Gateway’s assertions,
+9 Recommendation S.100 does not disclose the specification of color via an index into a color
+10 memory, and thus does not disclose any indexed modes of access. (Richter Dec. ¶¶ 21-33.)
+11
+
+Further, as the NAPLPS standard explains, it was recognized that Recommendation S.100
+
+12 did not provide sufficient information to videotex designers on how to integrate the various drawing
+13 options into one system:
+14
+15
+16
+17
+18
+19
+
+In November 1980, the International Telegraph and Telephone
+Consultative Committee (CCITT) adopted Recommendation S.100,
+International Information Exchange for Interactive Videotex. This
+recommendation was developed by CCITT Study Group VIII, and
+included the essence of the British (Prestel), French (Antiope), and
+Canadian (Telidon) coding schemes. However, S.100 was incomplete
+since it did not completely define how to integrate the two mosaic modes
+(ie, Prestel’s serial coding and Antiope’s parallel coding), the geometric
+mode (ie, Telidon), the Dynamically Redefinable Character Sets (DRCS),
+or the photographic mode.
+
+20 (Ex. 4 at FLEMING000006.) Rather, it was the Bell System Videotex Standard Presentation Level
+21 Protocol (Ex. 5), designed by the inventors of the Fleming ‘759 Patent (see, e.g., Ex. 6 at 72, Ex. 7 at
+22 89), which ultimately disclosed how to combine various display options into one system:
+23
+24
+25
+26
+27
+28
+
+In May 1981, the American Telephone and Telegraph Company
+announced the publication of the Bell System Videotex Standard
+Presentation Level Protocol (PLP), which combined all of the functions
+of S.100 with more complete graphical and color capabilities and
+provided a unified coding syntax. The PLP contained functions such as
+the incremental commands, continuously variable text size, dynamic
+blink, DRCS, MACRO’s, and color maps.
+(Ex. 4 at FLEMING000006.)
+LUCENT’S OPPOSITION TO GATEWAY’S MOTION FOR
+PARTIAL SUMMARY JUDGMENT OF INVALIDITY OF U.S.
+PATENT NO. 4,439,759 (FLEMING)
+
+10
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+III.
+
+Document 147
+
+Filed 12/14/2007
+
+Page 16 of 31
+
+LEGAL STANDARDS
+A.
+
+Summary Judgment
+
+Summary judgment is appropriate only where “the pleadings, depositions, answers to
+interrogatories, and admissions on file, together with the affidavits, if any, show that there is no
+genuine issue as to any material fact and that the moving party is entitled to judgment as a matter of
+law.” Celotex Corp. v. Catrett, 477 U.S. 317, 322-23 (1986); accord Fed. R. Civ. P. 56(c). Where,
+as here, “the moving party bears the burden of proof at trial, it cannot obtain summary judgment
+unless it presents evidence so compelling that no rational jury would fail to award judgment for the
+moving party.” United States v. Boyce, 148 F. Supp. 2d 1069, 1080 (S.D. Cal. 2001). Furthermore,
+“[w]hen ruling on a motion for summary judgment, all of the nonmovant’s evidence is to be
+credited, and all justifiable inferences are to be drawn in the nonmovant’s favor.” Caterpillar Inc. v.
+John Deere & Co., 224 F.3d 1374, 1379 (Fed. Cir. 2000).
+A summary judgment determination must also be guided by the appropriate burden of proof.
+If the Court determines that a reasonable jury applying the proper burden of proof — in this case
+clear-and-convincing evidence — could find for the non-movant, then there exists a genuine issue of
+material fact that precludes granting of summary judgment. See Anderson v. Liberty Lobby, Inc.,
+477 U.S. 242, 255 (1986).
+B.
+
+Obviousness
+
+Because every patent is presumed valid, accused infringers face a “high burden of showing
+invalidity on summary judgment.” Schumer v. Lab. Computer Sys., Inc., 308 F.3d 1304, 1315 (Fed.
+Cir. 2002). “[A] moving party seeking to invalidate a patent at summary judgment must submit such
+clear and convincing evidence of invalidity so that no reasonable jury could find otherwise.” Eli
+Lilly and Co. v. Barr Labs., Inc., 251 F.3d 955, 962 (Fed. Cir. 2001) (emphasis added). If evidence
+is presented establishing a prima facie case of invalidity, the nonmovant must come forward with
+evidence sufficient to support a finding of validity, but “the ultimate burden of proving invalidity
+remains with the challenger throughout the litigation.” Pfizer, Inc. v. Apotex, Inc, 480 F.3d 1348,
+1360 (Fed. Cir. 2007).
+
+LUCENT’S OPPOSITION TO GATEWAY’S MOTION FOR
+PARTIAL SUMMARY JUDGMENT OF INVALIDITY OF U.S.
+PATENT NO. 4,439,759 (FLEMING)
+
+11
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+1
+
+Document 147
+
+Filed 12/14/2007
+
+Page 17 of 31
+
+A claimed invention can be found obvious only “if the differences between the subject matter
+
+2 sought to be patented and the prior art are such that the subject matter as a whole would have been
+3 obvious at the time the invention was made to a person having ordinary skill in the art.” 35 U.S.C. §
+4 103(a). Obviousness is ultimately a question of law based on underlying determinations of fact.
+5 Forest Labs., Inc. v. Ivax Pharms., Inc., 501 F.3d 1263, 1269 (Fed. Cir. 2007). The underlying
+6 factual issues to be considered in an obviousness analysis that must be considered by the trier of fact
+7 include: (1) the scope and content of the prior art; (2) the level of ordinary skill in the art; (3) the
+8 differences between the claimed invention and the prior art; and (4) objective indicia of
+9 nonobviousness.” Daiichi Sankyo Co., Ltd. v. Apotex, Inc., 501 F.3d 1254, 1256 (Fed. Cir. 2007).
+10 Earlier this year, the United States Supreme Court reaffirmed the primacy of those factors in
+11 determining whether a patent is invalid for obviousness. See KSR Int’l Co. v. Teleflex Inc., 127 S.
+12 Ct. 1727, 1734 (2007) (citing Graham v. John Deere Co., 383 U.S. 1, 17-18 (1966)).
+13
+
+“[R]ejections on obviousness grounds cannot be sustained by mere conclusory statements;
+
+14 instead, there must be some articulated reasoning with some rational underpinning to support the
+15 legal conclusion of obviousness.” KSR, 127 S. Ct. at 1741 (quoting In re Kahn, 441 F.3d 977, 988
+16 (Fed. Cir. 2006)). Thus, “the burden falls on the patent challenger to show by clear and convincing
+17 evidence that a person of ordinary skill in the art would have had reason to attempt to make the
+18 composition or device, or carry out the claimed process, and would have had a reasonable
+19 expectation of success in doing so.” PharmaStem Therapeutics, Inc. v. Viacell, Inc., 491 F.3d 1342,
+20 1360 (Fed. Cir. 2007) (citing, inter alia, KSR, 127 S. Ct. at 1740).
+21
+
+In that regard, the Supreme Court has “acknowledged the importance of identifying ‘a reason
+
+22 that would have prompted a person of ordinary skill in the relevant field to combine the elements in
+23 the way the claimed new invention does’ in an obviousness determination.” Takeda Chem. Indus.,
+24 Ltd. v. Alphapharm Pty., Ltd., 492 F.3d 1350, 1356-57 (Fed. Cir. 2007) (quoting KSR, 127 S. Ct. at
+25 1731). Accordingly, “a patent . . . is not proved obvious merely by demonstrating that each of its
+26 elements was, independently, known in the prior art.” KSR, 127 S. Ct. at 1731. For example,
+27 “combining elements that work together ‘in an unexpected and fruitful manner’ would not have been
+28
+
+LUCENT’S OPPOSITION TO GATEWAY’S MOTION FOR
+PARTIAL SUMMARY JUDGMENT OF INVALIDITY OF U.S.
+PATENT NO. 4,439,759 (FLEMING)
+
+12
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 147
+
+Filed 12/14/2007
+
+Page 18 of 31
+
+1 obvious.” PharmaStem, 491 F.3d at 1360 (quoting KSR, 127 S. Ct. at 1740). Moreover, “when the
+2 prior art teaches away from combining certain known elements, discovery of a successful means of
+3 combining them is more likely to be nonobvious.” KSR, 127 S.Ct at 1740.
+4 IV.
+5
+
+ARGUMENT
+As set forth below, ample evidence exists on which a reasonable jury could find that the
+
+6 inventions of claim 1, 2, and 3 would not have been obvious to a person of ordinary skill in the art.
+7 Accordingly, summary judgment should be denied.
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+A.
+
+Ample Evidence Establishes A Genuine Dispute Concerning
+The Alleged Obviousness Of Claim 1 Of The Fleming ‘759 Patent.
+
+Gateway contends that “claim 1 of the ‘759 patent is obvious in light of the patent’s
+admissions regarding the prior art videotex systems (and the ‘known modes’ of access to color data
+values) in view of Recommendation S.100.” (Gateway Br. 16.) As discussed below, however,
+genuine issues of fact exist that preclude summary judgment. In particular, Gateway has failed to
+demonstrate that the second and third modes of access of claim 1 are disclosed in the cited prior art,
+or otherwise would have been obvious to one of ordinary skill in the art.
+1.
+
+The Fleming ‘759 Patent Does Not Admit That The Second And Third
+Modes Of Access Of Claim 1 Were Known In The Prior Art.
+
+Gateway’s first argument is that the Fleming ‘759 Patent itself purportedly admits that the
+second and third modes of access of claim 1 were in the prior art. This argument, however, is based
+on a mischaracterization of what the specification of the Fleming ‘759 Patent actually says about the
+Prestel and Antiope systems — the systems that Gateway alleges contained the second and third
+modes of access of claim 1. When the actual text of the specification is compared to the claim
+language, it is clear that the Fleming ‘759 Patent contains no such admission concerning the Prestel
+and Antiope systems.
+The Prestel and Antiope systems are addressed in a single sentence in the Fleming ‘759
+Patent: “The Prestel videotex customer terminal developed by the British Post Office and the
+Antiope terminal developed by the French CCETT employ a technique for specifying both a
+foreground and a background color by indexing a permanent read-only color memory.” (‘759
+LUCENT’S OPPOSITION TO GATEWAY’S MOTION FOR
+PARTIAL SUMMARY JUDGMENT OF INVALIDITY OF U.S.
+PATENT NO. 4,439,759 (FLEMING)
+
+13
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 147
+
+Filed 12/14/2007
+
+Page 19 of 31
+
+1 Patent, col. 1, lns. 23-27.) Claim 1 of the Fleming ‘759 Patent, on the other hand, requires “a second
+2 mode of access wherein the in-use foreground color is specified as an index into the color memory”
+3 and “a third mode of access wherein the in-use foreground color and an in-use background color are
+4 specified as indexes into the color memory.” (‘759 Patent, claim 1.) When the actual claim
+5 language is compared to the single sentence from the specification that mentions the Prestel and
+6 Antiope systems, it is clear that the Fleming ‘759 Patent contains no admission that the second and
+7 third modes of access were present in the Prestel and Antiope systems.
+8
+
+First, the specification of the Fleming ‘759 Patent nowhere states that in-use foreground and
+
+9 background colors could be specified in the Prestel and Antiope systems. Rather, the patent simply
+10 refers to “foreground” and “background” colors. Second, the specification nowhere states that
+11 Prestel and Antiope had two separate modes, one where an in-use foreground color is specified as an
+12 index into the color memory, and another where in-use foreground and background colors are
+13 specified as indexes into the color memory. Gateway also argues that the Fleming ‘759 Patent’s
+14 reference to “the known modes of color access” (col. 1, lns. 56-57) is somehow an admission that the
+15 second and third modes of access of claim 1 were known in the prior art. But this is again a
+16 mischaracterization of the Fleming ‘759 Patent. Nowhere does the Fleming ‘759 Patent say that the
+17 three particular modes of access of claim 1 were known in the prior art. Thus, Gateway’s assertion
+18 that the Fleming ‘759 Patent admits that the second and third modes of access of claim 1 were
+19 known in the prior art is simply not correct.
+20
+
+But even if the second and third modes of access were present in the Antiope and Prestel
+
+21 systems, Gateway has come forward with no evidence beyond the conclusory opinion of its expert
+22 that it would have been obvious to one of ordinary skill in the art to combine the three modes of
+23 access of claim 1 into one display device. While Gateway’s strategy on its motion is to attempt
+24 show that each claim element was individually known in the prior art, the issue is whether the
+25 particular combination of those elements as claimed would have been obvious to one of ordinary
+26 skill in the art.
+27
+28
+
+LUCENT’S OPPOSITION TO GATEWAY’S MOTION FOR
+PARTIAL SUMMARY JUDGMENT OF INVALIDITY OF U.S.
+PATENT NO. 4,439,759 (FLEMING)
+
+14
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+1
+
+Document 147
+
+Filed 12/14/2007
+
+Page 20 of 31
+
+As discussed below, although Gateway’s expert contends that it would have been obvious to
+
+2 combine the three modes of access of claim 1 into a single system because Recommendation S.100
+3 purportedly discloses such a combination of modes, a genuine factual dispute exists as to whether
+4 Recommendation S.100 actually discloses the second and third modes of access. Moreover, in the
+5 l980 timeframe, it was believed that combining specification of colors using color data values with
+6 indexed color specification in a single display system would likely not work. In an August 1979
+7 Status Report issued by the Graphics Standard Planning Committee of SIGGRAPH, which was the
+8 leading graphics standards body at the time, the Graphics Standard Planning Committee specifically
+9 rejected the combination of direct color and indexed color modes in a single system precisely
+10 because the combination would be unlikely to lead to useful results:
+11
+12
+
+For a device which has an index table, direct specification may be
+impossible, or may result in a color which is not at all close to the
+desired one.
+
+13 (GW-LT 253627; Richter Dec. ¶ 34.) The Committee went on to recommend a system that only
+14 used indexed color. (Id.)
+15
+
+Similarly, Gateway’s paid consultant, Douglas O’Brien, testified that he believed that a
+
+16 system that used direct color specification was preferable to one that used indexed color, because
+17 unless the user kept track of the colors in the color map, the color selected via an index value would
+18 be unpredictable:
+19
+20
+21
+22
+23
+24
+
+Q. Right. But what if I didn’t put them in, what if they were
+already there and I know want to use them. How am I going to
+know what the colors are?
+A. Well, that’s why I preferred the use of direct color for
+information providers, because I felt that it made it easier for
+information providers. That was my preference in the use of direct
+color. It is easier for color map management to work with direct
+color. But indirect color, yes, you have to keep track of what’s in
+the map. If you don’t keep track of what’s in the map, then you
+start selecting the 23rd color in a map of 256 and you just don’t
+keep track of what it is, you could get whatever is there.
+
+25 (Thomases Dec. Ex. 7 at 364-65.) Indeed, Mr. O’Brien, who worked on the Telidon videotex
+26 system, testified that the Telidon system in the 1979-1981 timeframe included a color map, but
+27 nonetheless used only direct color specification. (Id. at 218-219.)
+28
+
+LUCENT’S OPPOSITION TO GATEWAY’S MOTION FOR
+PARTIAL SUMMARY JUDGMENT OF INVALIDITY OF U.S.
+PATENT NO. 4,439,759 (FLEMING)
+
+15
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+1
+
+Document 147
+
+Filed 12/14/2007
+
+Page 21 of 31
+
+Further, the market trends at the time —higher resolution displays, a wider range of colors,
+
+2 and decreasing costs of memory — weighed in favor of direct color and against indexed color.
+3 (Richter Dec. ¶ 36.) Thus, given the demonstrated industry reluctance to combine direct color
+4 specification and indexed color specification in one system based on a belief that such a combination
+5 would be unlikely to lead to useful results, as well the market trends against indexed color, at a
+6 minimum there exist factual issues as to whether it would have been obvious to one of ordinary skill
+7 in the art to combine the three modes of access of claim 1 — if in fact they were all known in the
+8 prior art, which they were not — into a single display system as Gateway contends. (Richter Dec.
+9 ¶ 30.) See PharmaStem, 491 F.3d at 1360 (“Combining elements that work together ‘in an
+10 unexpected and fruitful manner’ would not have been obvious,” quoting KSR, 127 S. Ct. at 1740).
+11
+
+2.
+
+12
+
+Gateway argues that the “alphamosaic parallel mode” of Recommendation S.100 — which
+
+13
+14
+15
+16
+17
+18
+19
+20
+
+Gateway alleges was taken from the Antiope system and is a subset of the alphamosaic option of
+Recommendation S.100 — discloses both the second and third modes of claim 1. As an initial
+matter, the unambiguous plain language of claim 1 indicates that the second and third modes of
+claim 1 are two separate and distinct modes, and not the same mode as Gateway is contending with
+respect to the “alphamosaic parallel mode” of Recommendation S.100. But even if the second and
+third modes could actually be one mode, there is a genuine factual dispute as to whether
+Recommendation S.100 discloses the second and third mode of access.2
+a.
+
+21
+
+24
+
+Recommendation S.100 Does Not Disclose A Color Memory.
+
+First, there is a factual dispute as to whether Recommendation S.100 discloses a color
+
+22
+23
+
+A Genuine Factual Dispute Exists As To Whether Recommendation S.100
+Discloses The Second And Third Modes Of Access Of Claim 1.
+
+memory as required by the second and third modes of access. (Richter Dec. ¶¶ 21-31.) Gateway
+argues that the following two sentences in Section 9.3.2. of Recommendation S.100 disclose a color
+
+25
+26
+
+Despite Gateway’s assertions, there is no evidence that any of the inventors of the Fleming ‘759
+Patent “kept” Recommendation S.100 from the Patent Office.
+2
+
+27
+28
+
+LUCENT’S OPPOSITION TO GATEWAY’S MOTION FOR
+PARTIAL SUMMARY JUDGMENT OF INVALIDITY OF U.S.
+PATENT NO. 4,439,759 (FLEMING)
+
+16
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 147
+
+Filed 12/14/2007
+
+Page 22 of 31
+
+1 memory: “The ability to simulate motion (i.e. animation) is a potential enhancement that can be
+2 achieved by several means. These include . . . dynamically altering the colour portions of the
+3 display image, making them appear or disappear by redefining the colour table (an image disappears
+4 when its colour is set to the same colour as the surrounding area.”
+5
+
+But the Court in its claim construction defined the term “color memory” as “a color map that
+
+6 stores a table of color data values indexed by number.” (Thomases Dec. Ex. 4.) Nowhere does
+7 Recommendation S.100 indicate that the “colour table” referenced in Section 9.3.2 is a “a color map
+8 that stores a table of color data values indexed by number.” In fact, Recommendation S.100 says
+9 nothing whatsoever about what the “colour table” is, how it is structured, where it is located, or how
+10 it is used. Thus, Lucent’s expert has opined that Recommendation S.100 does not disclose a color
+11 memory within the meaning of the Court’s claim construction. (Richter Dec. ¶¶ 21-31.)
+12
+
+Gateway, for its part, offers no evidence that the reference to “colour table” in Section 9.3.2
+
+13 is a reference to a color memory other than the following conclusory opinion of its technical expert
+14 concerning Section 9.3.2:
+15
+16
+
+Therefore, given the knowledge of one of ordinary skill in the art and the
+explicit citation to a color memory, it is clear that Recommendation
+S.100 discloses a color memory that contains Color Data Values.
+
+17 (Thomases Dec. Ex. 15 ¶ 33.) But the flaw in this opinion is glaring: Recommendation S.100 does
+18 not contain an “explicit citation to a color memory.” Rather, Recommendation S.100 merely
+19 mentions the phrase “colour table.” Realizing that his opinion is unsupported, Dr. Wedig testified at
+20 his deposition that the reference to “animation” in Section 9.3.2 means that the “colour table” is
+21 necessarily a color memory within the Court’s construction. But this opinion was not set forth
+22 anywhere in his expert report, and should be rejected. To the extent this opinion is not rejected, in
+23 response to this new opinion, Lucent’s expert Mr. Richter submitted a supplemental report opining
+24 that the reference to animation in Section 9.3.2 did not imply a color memory, but could have
+25 referred to the frame buffer, dynamic redefinition of the color set, or color hardware sprites.
+26 (Richter Dec. ¶¶ 23-25 and Richter Dec. Ex. 2.) Mr. Richter also testified to these facts at his
+27 deposition under questioning from Gateway’s counsel. (Thomas Dec. Ex. 5 at 498-513.)
+28
+
+LUCENT’S OPPOSITION TO GATEWAY’S MOTION FOR
+PARTIAL SUMMARY JUDGMENT OF INVALIDITY OF U.S.
+PATENT NO. 4,439,759 (FLEMING)
+
+17
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+1
+
+Document 147
+
+Filed 12/14/2007
+
+Page 23 of 31
+
+Moreover, although Gateway asserts that “Mr. Richter admitted at his deposition that his
+
+2 interpretation was not the only interpretation of Recommendation S.100 and that a possible
+3 interpretation of the document was that it could be discussing color memory,” Mr. Richter did not so
+4 testify. Rather, Mr. Richter steadfastly testified that Recommendation S.100, including the
+5 reference in Section 9.3.1 to expanding the number of available colors from 8 to 512, did not
+6 disclose a color memory. (See, e.g., Thomas Dec. Ex. 5 at 493, 496, 543.)
+7
+
+b.
+
+8
+
+But even if the “colour table” of Recommendation S.100 was viewed as a color memory,
+
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+Recommendation S.100 Does Not Disclose Specifying Colors As
+Indexes Into A Color Memory.
+
+there is a further dispute as to whether Recommendation S.100 discloses specifying colors as
+indexes into a color memory, which is required by the second and third modes of access. As even
+the Fleming ‘759 Patent makes clear in its discussion of the first mode of access, it is possible to
+specify colors directly (color mode 0 in the Fleming patent), but still use a color memory to set the
+colors:
+If the color access mode at decision box 502 is 0, then the first operand is
+located if possible at box 503. If the operand is located at decision box
+505 then a second operand is located if possible at box 507.
+If a second operand was not successfully located at decision box 509,
+then the foreground color and the background color will be modified at
+boxes 512 and 514 respectively. At box 512, the foreground color is set
+to the index of the closest match of the first operand and a color value
+from the color map memory table 6a.
+(Fleming ‘759 Patent, col. 7, lns. 25-34.) Thus, while a color memory is required in order to specify
+colors as indexes into a color memory, the fact that a system has a color memory does not mean that
+colors are necessarily specified as indexes into that color memory. Rather, colors can be specified
+directly, and the closest match in the color memory can be used for the color.
+Lucent’s expert has reviewed Recommendation S.100 in detail, and it his opinion that
+Recommendation S.100 discloses direct color specification, and not indexed color specification.
+(Richter Dec. ¶¶ 21-31.) And this opinion is not “conclusory” as Gateway argues, but is based on
+Recommendation S.100 itself. First, Recommendation S.100 nowhere states that colors are ever
+LUCENT’S OPPOSITION TO GATEWAY’S MOTION FOR
+PARTIAL SUMMARY JUDGMENT OF INVALIDITY OF U.S.
+PATENT NO. 4,439,759 (FLEMING)
+
+18
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 147
+
+Filed 12/14/2007
+
+Page 24 of 31
+
+1 specified as indexes into color memory. Gateway’s expert simply relies on a reference to the term
+2 “colour table” in Recommendation S.100, and then makes an unsupported assumption that color
+3 specification is indexed. Second, Gateway’s expert agrees that in the “alphamosaic parallel mode”
+4 discussed in Recommendation S.100, “colors are specified as simple seven bit values indicating the
+5 color such as yellow, magenta, etc.” (Thomases Dec. Ex. 15 ¶ 43.) The value of these seven bits,
+6 however, are defined by the code table shown in Figure 7/S.100 of Recommendation S.100.
+7 (Thomases Dec. Ex. 2; Richter Dec. ¶ 28.) And in Mr. Richter’s opinion, the first three bits of that
+8 seven bit sequence — b1, b2, and b3 — specify respectively the red (R), blue (B), and green (G)
+9 values of the specified color. (Id.) Thus, direct specification of color via specification of RGB
+10 values, not indexed color, is used in the “alphamosaic parallel mode.” (Id.)
+11
+
+This is clear when one compares Figure 7/S.100 to the standard RGB color model for color
+
+12 specification. Figure 7/S.100 indicates that the following values of b1, b2, and b3 are to be specified
+13 when the foreground or background colors of black, red, green, yellow, blue, magenta, cyan, or
+14 white are desired:
+15
+
+Specified Color
+
+16
+
+Red
+Blue
+Green
+Yellow
+Magenta
+Cyan
+White
+Black
+
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+Values of b1 (Red), b2 (Green), and
+b3 (Blue) from Figure 7/S.100
+100
+001
+010
+110
+101
+110
+111
+000
+
+The foregoing table is identical to the standard RGB color model for color specification in an 8color system, where colors are determined based on whether the RGB values are on (a “1” bit) or off
+(a “0” bit). (See, e.g., Ex. 9 at GW-LT 4444443; Ex. 10 at GW-LT 428641; Richter Dec. ¶ 10.) This
+is also what Section 9.3.1 of Recommendation S.100 states: “Most of the currently planned and/or
+offered services utilize images created with only eight colors, which are formed by the various
+combinations (on or off) of three primary colors — red, green, and blue.” (Thomases Dec. Ex. 2 at
+57.)
+LUCENT’S OPPOSITION TO GATEWAY’S MOTION FOR
+PARTIAL SUMMARY JUDGMENT OF INVALIDITY OF U.S.
+PATENT NO. 4,439,759 (FLEMING)
+
+19
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+1
+
+Document 147
+
+Filed 12/14/2007
+
+Page 25 of 31
+
+Thus, it is the opinion of Lucent’s expert that Recommendation S.100 discloses direct color,
+
+2 not indexed color, and therefore the second and third modes of access of claim 1, which require
+3 indexed color, are not disclosed by Recommendation S.100. (Richter Dec. ¶¶ 21-31.) While
+4 Gateway’s expert may disagree, the contrary opinion of Lucent’s expert — which is supported by
+5 ample evidence from Recommendation S.100 itself — raises an issue of fact that precludes summary
+6 judgment.
+7
+
+Gateway nonetheless argues that Lucent has admitted that the Antiope system used indexed
+
+8 color, and that the “alphamosaic parallel mode” was taken from the Antiope system. But as
+9 discussed above, the alphamosaic option of Recommendation S.100 does not refer to the method of
+10 color specification, but how pictorial information is represented. The fact that an alphamosaic
+11 option is used does not mean that indexed color is used. Indeed, the Preliminary Specification for
+12 the Antiope system explicitly used direct color for the alphamosaic mode:
+13
+14
+15
+16
+17
+18
+19
+20
+21
+
+The code permitting the selection of the color of the character also allows
+the alphabetic or graphical nature thereof.
+There is a direct
+correspondence between the binary elements b1, b2, and b3 of the code
+and the presence of the primary colors red, green, and blue.
+(Ex. 3, GW-LT 433459) Thus, Gateway’s logic is flawed. The only way to tell what type of color
+specification was used in Recommendation S.100 for the alphamosaic parallel mode is to look at
+Recommendation S.100, and in Mr. Richter’s opinion Recommendation S.100 discloses that direct
+color specification is used for that mode. (Richter Dec. ¶¶ 21-31.)
+3.
+
+Recommendation S.100 Does Not Disclose The Use Of An In-Use
+Background Color In Connection With The Alphamosaic Parallel Mode.
+
+It is also Mr. Richter’s opinion that Recommendation S.100 fails to disclose the third mode
+
+22 of access of claim 1 for the additional reason that the alphamosaic parallel mode upon which
+23 Gateway relies does not include an in-use background color. (Richter Dec. ¶¶ 32-33.) The Court
+24 construed the term “in-use background color” as a “color that will be used for subsequently received
+25 text and graphics drawing commands until changed.” Thus, after the in-use background color has
+26 been set, that color will be the background color that will be used for subsequent drawing
+27 commands. In Mr. Richter’s opinion, however, Recommendation S.100 does not disclose a
+28
+
+LUCENT’S OPPOSITION TO GATEWAY’S MOTION FOR
+PARTIAL SUMMARY JUDGMENT OF INVALIDITY OF U.S.
+PATENT NO. 4,439,759 (FLEMING)
+
+20
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 147
+
+Filed 12/14/2007
+
+Page 26 of 31
+
+1 background color in the alphamosaic parallel mode that will be used for received drawing
+2 commands. Rather, Section 5.4.2.2.10 of Recommendation S.100 states that when a background
+3 color is set, characters will be “displayed in their foreground color on a background of the colour
+4 indicated.” There is no indication in Recommendation S.100, however, that the background color
+5 will be used for any text or graphics drawing commands. (Richter Dec. ¶¶ 21-31.) Thus, for
+6 example, it possible that some other command would be issued to draw the background, over which
+7 a text or graphics drawing command will draw a character:
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+Q. What are the options of what could be done based on your
+understanding of that language?
+A. Well, at least two things popped in mind. One is that this could force
+a colored rectangle to be written into the frame buffer first, and then the
+character written over the top of that. Okay. So basically it’s a separate
+function that occurs, a rectangle drawing function. That’s one possibility.
+Another is that there could be some additional overlay array that’s in the
+system, or actually it’s an underlay; where you basically just set a value
+into it like an attribute for that particular cell, and that changes the
+material of that cell. And then the writing of the character occurs in
+separate memory, and then basically composites it on the way out.
+(Thomases Dec. Ex. 5 at 473-74.)
+In contrast, when Recommendation S.100 discusses foreground colors, it indicates that
+characters will be “written in the colour indicated.” (Section 5.4.2.2.1.) Thus, in the case of the
+foreground color, the color is used for subsequently received text and graphics drawing commands.
+Gateway nonetheless argues that Lucent is misconstruing the Court’s claim construction, contending
+that “nothing in the Court’s claim construction requires that the foreground color and the background
+color need to be written at the exact same time by the same command.” (Gateway Br. at 20.) But
+what Gateway neglects to mention is that the Court adopted Gateway’s proposed constructions for
+“in-use foreground color” and “in-use background color,” and Gateway admitted during the claim
+construction hearing that the in-use foreground and background colors are drawn at the same time
+by the same command:
+So when the terminal processor receives the draw command, what it
+does is it looks to see what the current foreground and background
+colors are, you know, the in-use foreground and in-use background
+colors, and it will write into video memory in the particular pixels that
+the host computer tells it to draw in certain color information. And it’ll
+LUCENT’S OPPOSITION TO GATEWAY’S MOTION FOR
+PARTIAL SUMMARY JUDGMENT OF INVALIDITY OF U.S.
+PATENT NO. 4,439,759 (FLEMING)
+
+21
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 147
+
+Filed 12/14/2007
+
+Page 27 of 31
+
+set the foreground color for character and video memory to two and the
+background color to seven.
+
+1
+
+2 (Ex. 11 at 230-31.) This is also consistent with the Summary of the Invention of the Fleming ‘759
+3 Patent, which states that “[t]hese in-use drawing colors may be applied by subsequently received
+4 text and graphics drawing commands.” (Col. 1, lns. 61-63.) Finally, Gateway’s technical expert
+5 admitted in his original expert report on the issue of alleged invalidity that an in-use background
+6 color is written into the video memory (frame buffer) along with the in-use foreground color by the
+7 same drawing command at the same time:
+8
+
+In many image display systems, the idea of foreground and background
+color is used to help specify the image on the display. The application
+program issues a command to the image display system and instructs the
+system that a foreground color is to be used for subsequent drawing
+commands. The user can also issue command that particular
+background color is to be used for all future drawing commands. Then,
+whenever a command to draw an object with foreground and
+background characteristics is issued, the previously specified
+foreground and background colors are used to determine the Pixel
+values in Video Memory to create the object on the display.
+
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+(Ex. 12, ¶ 14.)
+Gateway nonetheless argues that “even under Lucent’s flawed reading of the claim
+construction, a person of ordinary skill in the art would understand that Antiope and the alphamosaic
+parallel mode did set both a foreground color and a background color that would persist and be used
+for subsequently received text and graphics drawing commands and that both the foreground and
+background colors would be written by the same command at the same time.” (Gateway Br. 21.) In
+support of this argument, Gateway cites to the deposition testimony of its paid consultant, Douglas
+O’Brien. But Mr. O’Brien’s testimony is contradicted by Recommendation S.100 itself as discussed
+above, the Preliminary Antiope Specification, which indicates that the background color needs to be
+reset at the beginning of each row and therefore does not persist (Ex. 3 at § 7), and the opinion of
+Mr. Richter that the Antiope and alphamosaic parallel mode did not make use of an in-use
+background color. (Richter Dec. ¶ 33.) A factual dispute thus exists with respect to this issue as
+well.
+In view of the foregoing, it is clear that Gateway’s motion for summary judgment fails
+because Gateway has failed to meet its burden of proof that it would have been obvious to one
+LUCENT’S OPPOSITION TO GATEWAY’S MOTION FOR
+PARTIAL SUMMARY JUDGMENT OF INVALIDITY OF U.S.
+PATENT NO. 4,439,759 (FLEMING)
+
+22
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 147
+
+Filed 12/14/2007
+
+Page 28 of 31
+
+1 ordinary skill in the art to combine the three claimed modes of access of claim 1 into as single
+2 system to arrive at the specific invention of Claim 1.3 And because claims 2 and 3 require the same
+3 corresponding structure of claim 1, and hence the three modes of access of claim 1, Gateway way
+4 failed to meet its burden with respect to claims 2 and 3 as well.
+5
+
+B.
+
+6
+
+There is also a genuine issue of fact as to whether the combination of Recommendation
+
+7
+8
+9
+
+S.100 and the Crowther reference renders obvious claims 2 and 3 of the Fleming ‘759 Patent,
+independent of whether or not claim 1 is valid.
+First, Gateway’s obviousness argument depends entirely on the premise that
+
+10
+11
+12
+13
+14
+15
+16
+17
+
+Ample Evidence Establishes A Genuine Dispute Concerning
+The Alleged Obviousness Of Claims 2 And 3 Of The Fleming ‘759 Patent
+
+Recommendation S.100 contains a color memory. As discussed above, however, a genuine factual
+dispute exists as to whether Recommendation S.100 discloses a color memory. In the absence of a
+color memory in Recommendation S.100, there would have been no reason for one to combine
+Crowther with Recommendation S.100 as Gateway suggests. (Richter Dec. ¶ 36.) For example, the
+market trends toward higher resolution displays, a wider range of colors, and decreasing costs of
+memory would have taught away from combining the direct specification of Recommendation S.100
+with Crowther, since these trends weighed in favor of direct color and against indexed color. (Id.)
+
+18
+19
+20
+21
+22
+23
+24
+25
+26
+
+Because Recommendation S.100 does not disclose the second and third modes of access of claim 1,
+it also does not disclose the corresponding structure for the processing means of claim 1, which
+requires an algorithm that selects the three modes of access. (Thomases Dec. Ex. 4.) Thus,
+Gateway’s assertion at page 18 of its brief that “Lucent and its expert do not dispute that
+Recommendation S.100 discloses the processing means limitation of claim 1” is simply incorrect.
+Nor did Mr. Richter admit that “digital image display systems that were responsive to predetermined
+command and data sequences and use an algorithm equivalent to the algorithm identified by the
+Court’s claim construction existed in the prior art” as Gateway contends at page 10 of its brief.
+Rather, Mr. Richter merely testified that digital display systems with processors — not processing
+means — responsive to a qualitative algorithm for selecting a mode of access were known in the art,
+and that a qualitative algorithm is equivalent to the quantitative algorithm of the corresponding
+structure for claim 1. (Thomases Dec. Ex. 5 at 421.) Mr. Richter did not testify, however, that a
+quantitative algorithm that selects the three particular modes of access of claim 1 was known in the
+art.
+3
+
+27
+28
+
+LUCENT’S OPPOSITION TO GATEWAY’S MOTION FOR
+PARTIAL SUMMARY JUDGMENT OF INVALIDITY OF U.S.
+PATENT NO. 4,439,759 (FLEMING)
+
+23
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 147
+
+Filed 12/14/2007
+
+Page 29 of 31
+
+1 And one of ordinary skill in the art would have not been led to combine Recommendation S.100
+2 with Crowther simply because they both refer to DRCS, since they address different aspects of
+3 DRCS. (Id.)
+4
+
+Second, even if one were to combine Crowther with Recommendation S.100 as Gateway
+
+5 suggests, Gateway has failed to make a prima facie showing of obviousness. It is well-settled that
+6 “[t]he party moving for summary judgment bears the initial burden of coming forward with evidence
+7 that demonstrates the absence of a genuine material question of disputed fact and establishes that the
+8 moving party is entitled to judgment as a mater of law.” Arkie Lures, Inc. v. Gene Larew Tackle,
+9 Inc., 119 F.3d 953, 955 (Fed. Cir. 1997). Here, the “proof” presented by Gateway in support of its
+10 summary judgment motion on claims 2 and 3 — even if unrebutted — would not support a finding
+11 of obviousness. Gateway’s motion for summary with respect to claims 2 and 3 judgment therefore
+12 fails from the outset. See SRAM Corp. v. AD-II Eng’g, Inc., 465 F.3d 1351, 1357 (Fed. Cir. 2006)
+13 (“[A] moving party seeking to invalidate a patent at summary judgment must submit such clear and
+14 convincing evidence of facts underlying invalidity that no reasonable jury could find otherwise.”).
+15
+
+Claims 2 and 3 are each means-plus-function claims, but Gateway has failed to point out how
+
+16 Recommendation S.100 or Crowther purportedly discloses structure that is identical or equivalent to
+17 the corresponding structure for setting functions of these claims identified by the Court. With
+18 respect to the color setting function of claim 2 (claim 2 also contains a mode selecting function), the
+19 Court identified the following corresponding structure:
+20
+21
+22
+23
+24
+25
+26
+
+Data processor 1 programmed to perform the algorithm shown in Fig. 5:
+boxes 501, 504, 506, 508, and 510 (See, Col. 7, lines 14-17 (except for
+“or (2) in color mode 0, for setting”), Col. 7, lines 53-64 (except for
+“The sequence of boxes 501, 504, 506, 508, and 510 is”)).
+With respect to the color setting function of claim 3, the Court identified the following
+corresponding structure
+Data processor 1 programmed to perform the algorithm shown in Fig. 5:
+Boxes 501, 504, 506, 508, and 510 and the line exiting box 510 (See, Col.
+7 Lns. 14-17 [except for “or (2) in color mode 0, for setting”], Col. 7,
+lines 53-65.
+
+27
+28
+
+LUCENT’S OPPOSITION TO GATEWAY’S MOTION FOR
+PARTIAL SUMMARY JUDGMENT OF INVALIDITY OF U.S.
+PATENT NO. 4,439,759 (FLEMING)
+
+24
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+1
+
+Document 147
+
+Filed 12/14/2007
+
+Page 30 of 31
+
+Gateway’s expert Dr. Wedig, however, has offered no opinion whatsoever as to whether the
+
+2 foregoing structures are identically or equivalently disclosed by Recommendation S.100 or
+3 Crowther, or whether they otherwise would have been obvious to one of ordinary skill in the art. In
+4 fact, in his export report, Dr. Wedig ignores the Court’s corresponding structure for the setting
+5 functions of claims 2 and 3. (See Thomases Dec. Ex. 15 at 423-24 and Ex. 2.) Gateway’s motion
+6 for summary judgment with respect to claims 2 and 3 thus fails as a matter of law due to an utter
+7 lack of proof. See In re Donaldson Co., Inc., 16 F.3d 1189, 1196-97 (Fed. Cir. 1994) (reversing
+8 obviousness determination where PTO considered claimed function but not structure).
+9 V.
+10
+
+CONCLUSION
+For all the foregoing reasons, Lucent respectfully requests that the Court deny Gateway’s
+
+11 motion for partial summary judgment that claims 1, 2, and 3 of the Fleming ‘759 patent are invalid
+12 for obviousness
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+LUCENT’S OPPOSITION TO GATEWAY’S MOTION FOR
+PARTIAL SUMMARY JUDGMENT OF INVALIDITY OF U.S.
+PATENT NO. 4,439,759 (FLEMING)
+
+25
+
+Case No. 07-CV-2000-H (CAB)
+
+Case 3:07-cv-02000-H-CAB
+
+Document 147
+
+Filed 12/14/2007
+
+Page 31 of 31
+
+1 Dated: December 14, 2007
+By:
+
+2
+3
+4
+5
+
+s/David A. Hahn
+David A. Hahn (SBN 125784)
+HAHN & ADEMA
+501 West Broadway, Suite 1600
+San Diego, California 92101-3595
+Telephone: (619) 235-2100
+Facsimile: (619) 235-2101
+John M. Desmarais (admitted pro hac vice)
+Robert A. Appleby (admitted pro hac vice)
+James E. Marina (admitted pro hac vice)
+KIRKLAND & ELLIS LLP
+153 East 53rd Street
+New York, New York 10022
+Telephone: (212) 446-4800
+Facsimile: (212) 446-4900
+
+6
+7
+8
+9
+10
+
+Attorneys for Lucent Technologies Inc.
+
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+LUCENT’S OPPOSITION TO GATEWAY’S MOTION FOR
+PARTIAL SUMMARY JUDGMENT OF INVALIDITY OF U.S.
+PATENT NO. 4,439,759 (FLEMING)
+
+26
+
+Case No. 07-CV-2000-H (CAB)
+
+

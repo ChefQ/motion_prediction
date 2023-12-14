@@ -1,0 +1,910 @@
+Case 1:14-cv-01062-SS Document 8 Filed 12/15/14 Page 1 of 24
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE WESTERN DISTRICT OF TEXAS
+AUSTIN DIVISION
+BANCPASS, INC.,
+Plaintiff,
+v.
+HIGHWAY TOLL ADMINISTRATION,
+Defendant.
+
+§
+§
+§
+§
+§
+§
+§
+
+Civil Action No. 1:14-CV-01062-SS
+
+PLAINTIFF’S RESPONSE TO DEFENDANT’S RULE 12(B)(6) MOTION TO
+DISMISS FOR FAILURE TO STATE A CLAIM
+
+Case 1:14-cv-01062-SS Document 8 Filed 12/15/14 Page 2 of 24
+
+TABLE OF CONTENTS
+I.
+
+Preliminary Statement .......................................................................................... 1
+
+II.
+
+Factual Allegations from Plaintiff’s Petition ........................................................... 3
+
+III.
+
+Arguments and Authorities ................................................................................... 8
+A.
+
+Rule 12(b)(6) Standard .............................................................................. 8
+
+B.
+
+Plaintiff has stated a claim for declaratory relief. ........................................ 9
+1.
+
+Plaintiff seeks a declaration that HTA’s proposed agreement is a per
+se violation of section one of the Sherman Act. ............................... 10
+
+2.
+
+BancPass has standing to seek a declaratory judgment regarding a
+potential antitrust violation. .............................................................. 12
+
+3.
+
+BancPass has standing to seek a declaratory judgment as to
+customer’s freedom to lawfully choose BancPass’s service over
+HTA’s. .............................................................................................. 14
+
+C.
+
+BancPass has stated claims for tortious interference and tortious
+interference with prospective relations ..................................................... 15
+
+D.
+
+Should the court grant Defendant’s motion in any part, Plaintiff
+requests leave to amend.......................................................................... 19
+
+IV.
+
+Conclusion .......................................................................................................... 20
+
+V.
+
+Prayer ................................................................................................................. 20
+Certificate of Service .......................................................................................... 22
+
+PLAINTIFF’S RESPONSE TO DEFENDANT’S RULE 12(B)(6) MOTION TO DISMISS FOR FAILURE TO STATE A CLAIM
+PAGE I
+BPI10.0001 4817-7813-0464
+
+Case 1:14-cv-01062-SS Document 8 Filed 12/15/14 Page 3 of 24
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE WESTERN DISTRICT OF TEXAS
+AUSTIN DIVISION
+BANCPASS, INC.,
+Plaintiff,
+v.
+HIGHWAY TOLL ADMINISTRATION,
+Defendant.
+
+§
+§
+§
+§
+§
+§
+§
+
+Civil Action No. 1:14-CV-01062-SS
+
+PLAINTIFF’S RESPONSE TO DEFENDANT’S RULE 12(B)(6) MOTION TO DISMISS
+FOR FAILURE TO STATE A CLAIM
+Plaintiff BancPass, Inc. (“BancPass” or “Plaintiff”) files this response to
+Defendant Highway Toll Administration’s (“HTA” or “Defendant”) Motion to Dismiss, and
+in support thereof would show the Court the following:
+I.
+
+PRELIMINARY STATEMENT
+
+This case is about a dominant market player taking repeated wrongful actions
+designed to put a smaller competitor out of business.
+
+It is also about consumers’
+
+choice. When a customer rents a car, he may elect to fill the gas tank back up at the
+local gas station for $2.49 a gallon, or he can choose the convenience of letting the
+rental car company refuel the car at $9.89 per gallon. But, at least according to HTA,
+when it comes to toll-road charges, that same rental car consumer has no such right.
+Rental car companies typically charge customers $4 per day plus the actual costs of
+tolls incurred for the option to have HTA and the rental car company pay the tolls
+consumers incur while driving a rental car, though the actual cost of enabling such toll
+payments is closer to 20 cents per toll.
+BancPass offers an alternative: an easily accessible technology, that allows
+customers to simply download an app called “PToll™” (“PToll™”) on their smartphones,
+
+PLAINTIFF’S RESPONSE TO DEFENDANT’S RULE 12(B)(6) MOTION TO DISMISS FOR FAILURE TO STATE A CLAIM
+PAGE 1
+BPI10.0001 4817-7813-0464
+
+Case 1:14-cv-01062-SS Document 8 Filed 12/15/14 Page 4 of 24
+
+photograph their rental car license plate, activate the plate with BancPass, and pay only
+the actual tolls, plus a 20 cents per transaction service charge.
+
+Thus, BancPass
+
+represents the ability to “buy gas elsewhere,” and this much less costly threat explains
+precisely why HTA (and the rental car companies) are determined to put BancPass out
+of business and why they so wish to terminate this litigation quickly.
+Apparently not content with its 80% market share and seemingly intent on
+preventing any competition from the BancPass app, HTA has made a multi-front assault
+on BancPass. Since BancPass’s product is a smartphone app, it contracts with Google
+and Apple to offer the PToll™ app through the Google Play and iTunes stores. To cut
+BancPass off at its source, HTA made demands to both Google and Apple that they
+remove PToll™ from their app stores. In order to provide toll processing services to
+consumers, BancPass also needs to contract with tolling authorities, such as the Texas
+Department of Transportation (“TXDOT”), or Central Texas Regional Mobility Authority
+(“CTRMA”). So, HTA’s next assault on BancPass has been to contact tolling authorities
+seeking to prevent them from doing business with BancPass and threatening legal
+action against the tolling authorities if they don’t comply. Finally, HTA made a direct
+assault, threatening legal action against BancPass unless BancPass makes an
+agreement to cede the rental car portion of the toll processing market to HTA.
+Despite HTA’s repeated attempts to characterize the filing of this case as merely
+an effort to “create publicity” or “gain attention,” in truth, this lawsuit was filed in
+response to HTA’s repeated interference with BancPass’s contractual relationships, and
+in an effort to establish BancPass’s right to compete. BancPass has asserted three
+causes of action: (1) tortious interference with existing contracts and prospective
+
+PLAINTIFF’S RESPONSE TO DEFENDANT’S RULE 12(B)(6) MOTION TO DISMISS FOR FAILURE TO STATE A CLAIM
+PAGE 2
+BPI10.0001 4817-7813-0464
+
+Case 1:14-cv-01062-SS Document 8 Filed 12/15/14 Page 5 of 24
+
+business relations with Apple, Google, and tolling authorities; (2) for declaratory relief
+that rental car consumers have the right to choose PToll™ as an alternative to HTA’s
+service; and (3) for declaratory relief that if BancPass were to agree to HTA’s demand
+to cede the rental car toll processing market to it, such an agreement would be a per se
+violation of section one of the Sherman Act. The petition pleads facts plausibly stating
+each of these claims, and Defendant’s motion should, therefore, be denied.
+II.
+
+FACTUAL ALLEGATIONS FROM PLAINTIFF’S PETITION
+
+Plaintiff BancPass is an innovator in providing toll road users access to electronic
+payment technologies.
+
+BancPass provides toll-paying solutions for both tolling
+
+authorities and directly to consumers. In April 2014, BancPass rolled out “PToll™,”
+BancPass’s smartphone application. PToll™ provides toll road users with a simple and
+convenient method to pay tolls using the camera on their smart phones. See Plaintiff’s
+Original Petition, ¶ 10.
+A consumer can download the PToll™ application on his smartphone, take a
+photo of the license plate of the car he is driving, assign a method of payment, and drive
+on participating toll roads as though he had a “tag” or “pass” issued by the local tolling
+authority. This system provides a quick and seamless method for a user to pay tolls, no
+matter what car they are driving, and no matter where they are from. While PToll™ is
+well suited for use by rental car consumers, drivers can use PToll™ with their own
+vehicles as well. See Plaintiff’s Original Petition, ¶ 11.
+PToll™ is available on Apple iTunes® and Google Play®, and can be downloaded
+for free. PToll™ users are charged a $.20 to $.25 per transaction fee for using the
+system, which amounts to a fraction of BancPass’s competitors’ charges. See Plaintiff’s
+Original Petition, ¶ 12.
+PLAINTIFF’S RESPONSE TO DEFENDANT’S RULE 12(B)(6) MOTION TO DISMISS FOR FAILURE TO STATE A CLAIM
+PAGE 3
+BPI10.0001 4817-7813-0464
+
+Case 1:14-cv-01062-SS Document 8 Filed 12/15/14 Page 6 of 24
+
+Defendant HTA contracts with rental car companies to provide toll processing
+services for rental cars. HTA claims to be the largest provider of toll services for the
+rental car industry. On its website, HTA declares it handles the “tolling interests of more
+than 1.7 million vehicles” on behalf of major rental car companies, including Alamo,
+Avis, Budget, Enterprise, National and Payless. HTA’s website further proclaims that it
+“is proud to say we have more than 80% of the market share by transaction volume.”
+See Plaintiff’s Original Petition, ¶ 13.
+HTA provides toll processing services to rental car companies in two ways. The
+first is through radio-frequency identification (“RFID”) toll tags that are charged to HTA’s
+account when a rental car driver uses the tag to pay a toll. The second method is by
+HTA registering rental car license plate numbers with toll agencies. When a registered
+rental car is driven through a toll lane, the license plate is captured and the toll is
+charged to HTA’s account. HTA, in turn, bills the rental car company, who then charges
+the consumer. See Plaintiff’s Original Petition, ¶ 14.
+Participating rental car companies charge consumers a per-day rental fee for
+using HTA’s services—typically about $4.00 per day, plus the amount of any tolls
+incurred. The daily rental rate applies whether any actual tolls are incurred or not.
+Thus, consumers can pay $5.00 for a single $1.00 toll, if they rent a car for one day. If
+the car is rented for two days, that $1.00 toll can cost $9.00. HTA and rental companies
+also profit by charging consumers tolls at non-discounted rates, even though HTA is
+paying only the discounted subscriber toll. This upcharge can be as much as 20-30%
+higher than the toll HTA actually paid to the tolling authority as a subscriber. By burning
+
+PLAINTIFF’S RESPONSE TO DEFENDANT’S RULE 12(B)(6) MOTION TO DISMISS FOR FAILURE TO STATE A CLAIM
+PAGE 4
+BPI10.0001 4817-7813-0464
+
+Case 1:14-cv-01062-SS Document 8 Filed 12/15/14 Page 7 of 24
+
+the consumer from both ends, HTA has enjoyed fat margins and has not, before now,
+been challenged in the free market. See Plaintiff’s Original Petition, ¶ 15.
+BancPass, via PToll™, has designed a better alternative for the consumer.
+When a consumer rents a vehicle, the consumer can simply “decline” the optional toll
+package provided by HTA and take a picture of the rental car’s license plate with his/her
+smartphone.
+
+Through the PToll™ application, the consumer will then upload this
+
+information to BancPass to tell the system that the consumer is driving this vehicle now
+and for how long, and to bill his/her BancPass account for tolls charged to that license
+plate. The consumer will only pay for what is needed, and avoids the daily fees that
+HTA, through the rental car company, would have otherwise charged. See Plaintiff’s
+Original Petition, ¶ 16
+Rental car consumers finally have a choice in how they pay tolls: use BancPass
+or use HTA. See Plaintiff’s Original Petition, ¶ 17.
+In an effort to bully and intimidate BancPass, an attorney representing HTA sent
+BancPass a letter, dated September 30, 02014, threatening to take various steps to
+block BancPass from freely competing in the rental car tolling market, and admitting that
+HTA has already taken certain anti-competitive actions to prevent BancPass from
+competing.1 See Plaintiff’s Original Petition, ¶ 18. The September 30th letter stated in
+relevant part:
+By enabling and encouraging users to register rental cars
+through the PToll app, you are intentionally interfering with
+the contract between the users and their rental car agencies
+and creating a litany of potential billing problems. For this
+1
+
+A true and correct copy of the September 30, 2014 letter was attached to Plaintiff’s
+original petition and may, therefore, be considered by this Court in ruling on the current
+motion. Collins v. Morgan Stanley Dean Witter, 224 F.3d 496, 498-99 (5th Cir. 2000).
+
+PLAINTIFF’S RESPONSE TO DEFENDANT’S RULE 12(B)(6) MOTION TO DISMISS FOR FAILURE TO STATE A CLAIM
+PAGE 5
+BPI10.0001 4817-7813-0464
+
+Case 1:14-cv-01062-SS Document 8 Filed 12/15/14 Page 8 of 24
+
+reason, HTA demands that you immediately stop promoting
+use of the PToll App by rental car drivers and add
+disclosures to the App prohibiting such use.
+….
+As someone who is also engaged in efforts to simplify
+management of tolls across various State platforms, we
+would expect you to understand and respect this process.
+Instead, you are intentionally interfering with the contracts
+between the Rental Agencies and rental car drivers by
+encouraging rental car drivers to pay for tolls through PToll
+instead. This intentional interference is recognized as
+unlawful tortious conduct in all fifty (50) states…
+….
+In order to avoid this administrative nightmare, HTA has no
+choice but to aggressively pursue a bar to the PToll App. As
+you are likely already aware, HTA has sent requests to the
+App Store and Google Play requesting removal of the PToll
+App. If needed, HTA will meet with each State Authority to
+convince them that prioritizing PToll users over fleet
+registrants is both unlawful and costly. HTA will also take
+action in court to enforce its rights, including by seeking
+injunctive relief.
+There is a possibility, however, that this legal battle will not
+be necessary, and that a co-existence agreement can be
+reached. As we understand it, the primary purpose of the
+PToll App is to permit drivers to manage payment of tolls
+electronically without the need for a transponder or account
+with a particular State Authority. This purpose does not rely
+on rental car drivers to succeed. Accordingly, HTA proposes
+that BancPass agree not to encourage or permit users of the
+PToll App to register vehicles that are part of any Rental
+Agency fleet. Thus, BancPass would need to:
+(1) Immediately cease and desist advertising for the PToll
+App directed at rental car drivers, including advertising in
+airports, travel magazines, and other publications and
+venues directed toward rental car drivers;
+(2) Immediately remove the provision in the “FAQs” section
+of the PToll App promising future functionality with respect to
+rental vehicles;
+(3) Add a provision to the Terms of Use for the PToll App
+prohibiting registration of rental vehicles, to be approved by
+HTA; and
+PLAINTIFF’S RESPONSE TO DEFENDANT’S RULE 12(B)(6) MOTION TO DISMISS FOR FAILURE TO STATE A CLAIM
+PAGE 6
+BPI10.0001 4817-7813-0464
+
+Case 1:14-cv-01062-SS Document 8 Filed 12/15/14 Page 9 of 24
+
+(4) Add a disclosure, to be displayed clearly and
+conspicuously in the footer of all screens of the PToll App,
+prohibiting registration of rental vehicles, to be approved by
+HTA.
+By taking these actions, BancPass would avoid litigation by
+HTA, would bring the PToll App into compliance with the law,
+and would drastically reduce the potential for billing
+problems with its own customers. We believe this proposal
+is fair and in the best interest of all involved. However, if
+BancPass is unwilling to consider it, or does not respond to
+HTA, HTA will have no choice but to move forward as
+described above.
+See Ex. A to Plaintiff’s Original Petition. In addition, BancPass has learned that HTA
+has actually sent a letter to the Texas Department of Transportation complaining of
+TXDOT’s processing of tolls for BancPass customers, and threatening “to take any and
+all legal actions necessary to protect our rights.” See Plaintiff’s Original Petition, ¶ 20.
+HTA’s initial attempts to shut down BancPass were, unfortunately, at least
+partially successful. On October 6, 2014, at 6:41 p.m., BancPass received an email
+from Google Play® informing it that PToll™ had been removed from the Google Play®
+store.
+
+After it was informed of the baselessness of HTA’s accusations, Google
+
+reinstated the PToll™ app the next day. See Plaintiff’s Original Petition, ¶ 22.
+BancPass’s technology is not only available for consumers; it is also available as
+a toll collection solution for tolling authorities. HTA’s threats to contact, and its actual
+contact with, various tolling authorities in attempt to block BancPass from being able to
+provide toll processing services could further damage BancPass’s business, since
+BancPass must contract with tolling authorities in order to be able to process tolls for
+consumers. See Plaintiff’s Original Petition, ¶ 23.
+
+PLAINTIFF’S RESPONSE TO DEFENDANT’S RULE 12(B)(6) MOTION TO DISMISS FOR FAILURE TO STATE A CLAIM
+PAGE 7
+BPI10.0001 4817-7813-0464
+
+Case 1:14-cv-01062-SS Document 8 Filed 12/15/14 Page 10 of 24
+
+III.
+
+ARGUMENTS AND AUTHORITIES
+
+In its petition, BancPass alleges claims for tortious interference and tortious
+interference with prospective business relations, and requests declaratory relief. The
+petition provides Defendant with fair notice of these claims, and Defendant’s motion to
+dismiss should be denied.
+A.
+
+Rule 12(b)(6) Standard
+
+Motions to dismiss for failure to state a claim are generally viewed with disfavor.
+See, e.g., Collings v. Morgan Stanley Dean Witter, 224 F.3d 496, 498 (5th Cir. 2000).
+In ruling on a Rule 12(b)(6) motion to dismiss, a trial court is to accept all well-pleaded
+facts as true and view those facts in the light most favorable to the plaintiff. Hale v.
+King, 642 F.3d 492 (5th Cir. 2011) (“Under the 12(b)(6) standard, all well-pleaded facts
+are viewed in the light most favorable to the plaintiff.”).
+
+The complaint should be
+
+construed in the light most favorable to the plaintiff, its allegations taken as true, and all
+reasonable inferences that can be drawn from the pleading should be drawn in favor of
+the pleader. Erickson v. Pardus, 551 U.S. 89, 93-94 (2007). “All federal courts are in
+agreement that the burden is on the moving party to prove that no legally cognizable
+claim for relief exists.” 5B CHARLES ALAN WRIGHT & ARTHUR R. MILLER
+
+ET AL.,
+
+FEDERAL
+
+PRACTICE & PROCEDURE §1357 (3d ed. 2014).
+To pass muster under Rule 12(b)(6) “[a] complaint need not contain ‘detailed
+factual allegations’ but must include sufficient facts to indicate the plausibility of the
+claims asserted raising the ‘right to relief above the speculative level.”
+
+Steward v.
+
+International Ass’n of Machinists and Aerospace Workers, 16 F.Supp.3d 783, 791
+(S.D. Tex. 2014). In light of this liberal pleading standard motions to dismiss under Rule
+12(b)(6) are rarely granted. 5B CHARLES ALAN WRIGHT & ARTHUR R. MILLER
+
+ET AL.,
+
+PLAINTIFF’S RESPONSE TO DEFENDANT’S RULE 12(B)(6) MOTION TO DISMISS FOR FAILURE TO STATE A CLAIM
+PAGE 8
+BPI10.0001 4817-7813-0464
+
+Case 1:14-cv-01062-SS Document 8 Filed 12/15/14 Page 11 of 24
+
+FEDERAL PRACTICE & PROCEDURE §1357 (3d ed. 2014).
+
+Indeed, Wright and Miller
+
+suggest that:
+As a practical matter, a dismissal under Rule 12(b)(6) is
+likely to be granted by the district court only in the relatively
+unusual case in which the plaintiff includes allegations that
+show on the face of the complaint that there is some
+insuperable bar to securing relief. In other words, dismissal
+is justified only when the allegations of the complaint itself
+clearly demonstrate that whatever interpretation is given to
+the facts the plaintiff does not have a claim that is legally
+redressible; in a real sense, the plaintiff has pleaded himself
+out of federal court.
+Id. Even where a District Court determines a complaint falls short, courts typically will
+give the plaintiff leave to file an amended complaint. Hildebrand v. Honeywell, Inc., 622
+F.2d 179 (5th Cir. 1980) (holding, leave to amend should have been granted, and case
+should not have been dismissed under Rule 12(b)(6)).
+B.
+
+Plaintiff has stated a claim for declaratory relief
+
+Pursuant to the Declaratory Judgment Act, a party may request declaratory relief
+in a case of actual controversy, in which the Court may declare the rights and other
+legal relations of any interested party seeking such a declaration, whether or not further
+relief could be sought. 28 U.S.C. §2201(a). “Fifth Circuit law provides three factors for
+district courts to consider in determining whether to adjudicate a declaratory judgment
+action: (1) whether the action is justiciable; (2) whether the court has authority to grant
+relief; and (3) whether the court should exercise its discretion to decide the action based
+on the factors stated in St. Paul Ins. Co v. Trejo.” Southwestern Bell Telephone Co. v.
+Fitch, 643 F.Supp.2d 902, 907 (S.D. Tex. 2009). An action is justiciable when there is
+an active controversy, not just a hypothetical, or conjectural controversy.
+
+Id.
+
+As
+
+demonstrated below, that is true in this case. The court has authority to grant relief
+
+PLAINTIFF’S RESPONSE TO DEFENDANT’S RULE 12(B)(6) MOTION TO DISMISS FOR FAILURE TO STATE A CLAIM
+PAGE 9
+BPI10.0001 4817-7813-0464
+
+Case 1:14-cv-01062-SS Document 8 Filed 12/15/14 Page 12 of 24
+
+where there is no concurrent state action. Id. No such action exists here. Moreover,
+Defendant has not argued that any of the Trejo factors weigh in favor of dismissal, and
+HTA has not even argued, let alone demonstrated, that early dismissal at this stage is
+warranted on that basis. See Id at 907-08. Accordingly, BancPass has adequately
+stated a claim for declaratory relief.
+1.
+
+Plaintiff seeks a declaration that HTA’s proposed agreement is a per
+se violation of section one of the Sherman Act
+
+HTA complains at length that BancPass has failed to adequately plead an antitrust claim. However, HTA’s argument misses the point that, as pled, BancPass’s
+petition does not attempt to assert a cause of action for any antitrust violation(s).
+Instead, the petition requests a declaration that if BancPass were to accept the market
+allocation proposal demanded by HTA, the resulting agreement would be a per se
+violation of the Sherman Act.2
+A market allocation scheme exists where competitors agree to a division of a
+market, whether the allocation be geographical, territorial, or by customers; such a
+scheme is a per se violation of section one of the Sherman Act. See United States v.
+Cadillac Overall Supply Co., 568 F.2d 1078,1090 (5th Cir. 1978) (“We hold that the
+allocation of customers is a per se violation of Section One of the Sherman Act.”);
+United States v. Topco Associates, Inc., 405 U.S. 596, 608 (1972) (“[o]ne of the classic
+examples of a per se violation of Sec. 1 is an agreement between competitors at the
+same level of the market structure to allocate territories in order to minimize
+competition.”).
+2
+
+Although, BancPass has, at this point, made no Sherman Act claims, it reserves the
+right to amend its pleadings to make such claims should discovery reveal evidence
+supporting such a claim.
+
+PLAINTIFF’S RESPONSE TO DEFENDANT’S RULE 12(B)(6) MOTION TO DISMISS FOR FAILURE TO STATE A CLAIM
+PAGE 10
+BPI10.0001 4817-7813-0464
+
+Case 1:14-cv-01062-SS Document 8 Filed 12/15/14 Page 13 of 24
+
+HTA has demanded that BancPass agree to limit its services to the non-rental
+car portion of the toll processing market and cede the rental car portion of the market to
+HTA:
+There is a possibility, however, that this legal battle will not
+be necessary, and that a co-existence agreement can be
+reached. Accordingly, HTA proposes that BancPass agree
+not to encourage or permit users of the PToll™ App to
+register vehicles that are part of any Rental Agency fleet.
+See Ex. A to Plaintiff’s Original Petition at p. 2 of 3. Thus, HTA has demanded that
+BancPass enter into an agreement to divide the toll processing market between the
+parties.
+There is a live controversy between the parties, as HTA has threatened to
+continue contacting tolling authorities to demand they exclude BancPass from their
+tolling systems and to sue BancPass for tortious interference, unless BancPass agrees
+to enter into HTA’s proposed market division agreement.
+
+Specifically, Defendant’s
+
+September 30th letter threatens to use all means necessary, up to and including
+litigation unless BancPass agrees to remove itself as a tolling solution for rental cars
+and cede that portion of the toll processing market to HTA:
+By taking these actions, BancPass would avoid litigation by
+HTA, [and] would bring the PToll™ app into compliance with
+the law. …However, if BancPass is unwilling to consider it,
+or does not respond to HTA, HTA will have no choice but to
+move forward as described above.
+See Ex. A to Plaintiff’s Original Petition at p. 3 of 3. HTA’s motion completely ignores
+the letter it sent BancPass, despite the fact that it was attached to Plaintiff’s Original
+Petition that HTA now seeks to have dismissed.
+
+PLAINTIFF’S RESPONSE TO DEFENDANT’S RULE 12(B)(6) MOTION TO DISMISS FOR FAILURE TO STATE A CLAIM
+PAGE 11
+BPI10.0001 4817-7813-0464
+
+Case 1:14-cv-01062-SS Document 8 Filed 12/15/14 Page 14 of 24
+
+BancPass’s petition states a claim for a declaration that if it agrees to such a
+division of the tolling market, it would constitute a per se violation of the Sherman Act. 3
+Despite HTA’s attempts to setup a straw-man claim for an indeterminate antitrust
+violation, or a section 2 monopolization claim, BancPass asserts no such causes of
+action.
+
+Accordingly, Defendant’s arguments are without merit, and the motion to
+
+dismiss this declaratory judgment claim should be denied.
+2.
+
+BancPass has standing to seek a declaratory judgment regarding a
+potential antitrust violation
+
+BancPass has standing to bring the request for a declaration that entering into
+HTA’s proposed agreement would be a per se violation of the Sherman Act. BancPass
+is directly an “interested party” in the dispute. 28 U.S.C. §2201. Indeed, it is the legal
+effect of BancPass’s own conduct that is at issue in this claim, as BancPass is
+attempting to prevent harm to itself by obtaining a determination that agreeing to HTA’s
+demand could result in future Sherman Act liability.
+
+It is well established that
+
+declaratory relief is available to a party seeking a judicial declaration on the legality of a
+pending action. See 5B CHARLES ALAN WRIGHT & ARTHUR R. MILLER
+
+ET AL.,
+
+FEDERAL
+
+PRACTICE & PROCEDURE §2751 (3d ed. 2014). (“[Declaratory action] relieves potential
+defendants ‘from the Damoclean threat of impending litigation which a harassing
+adversary might brandish, while initiating suit at his leisure—or never.’ It permits actual
+controversies to be settled before they ripen into violations of law or a breach of
+contractual duty and it helps avoid a multiplicity of actions by affording an adequate,
+expedient, and inexpensive means for declaring in one action the rights and obligations
+of litigants.”)
+3
+
+The same analysis applies for Texas Free Enterprise and Antitrust Act. TEX. BUS. &
+COM. CODE §15.01, et al.
+PLAINTIFF’S RESPONSE TO DEFENDANT’S RULE 12(B)(6) MOTION TO DISMISS FOR FAILURE TO STATE A CLAIM
+PAGE 12
+BPI10.0001 4817-7813-0464
+
+Case 1:14-cv-01062-SS Document 8 Filed 12/15/14 Page 15 of 24
+
+HTA still argues that there is not an actual, existing controversy between the
+parties, despite the fact that it has threatened to continue to demand tolling authorities
+cease doing business with BancPass and threatens to sue BancPass for tortious
+interference if it does not cede the rental car portion of the toll processing market to
+HTA, a threat it repeated in the introduction to its motion to dismiss. HTA has presented
+BancPass with a Hobson’s choice. On the one hand, BancPass could agree to divide
+the tolling market with HTA and potentially be susceptible to section 1 Sherman Act
+claims, or, on the other hand, face continued fights at tolling authorities, and tort claims
+by HTA. That is a genuine controversy, and one in which BancPass’s rights are directly
+implicated.
+HTA also argues that BancPass’s claim should be dismissed on the basis that
+BancPass lacks standing because BancPass did not specifically allege a danger of
+future harm. While this statement is an over simplification of the holdings in the cases
+cited by Defendant, even if HTA’s formulation were correct, BancPass has amply
+alleged the danger of future harm, both in the risks BancPass would face if it violates
+section one of the Sherman Act, and for the potential loss of an entire class of
+customers should BancPass remove itself from that portion of the toll processing
+market.4 See Plaintiffs Original Petition, ¶ 38. BancPass is an interested party under
+the declaratory judgment act, and the motion to dismiss should be denied.
+
+4
+
+For example, the standard articulated in the City of Los Angeles v. Lyons, 461 U.S.
+95,102 (1983) case is actually for injunctive relief, while Johnson v. Moore, 958 F.2d 92,
+94 (5th Cir. 1992) addresses conduct that already occurred and was moot because the
+incident had already occurred and had only the speculative chance to reoccur. Neither
+case applies here.
+PLAINTIFF’S RESPONSE TO DEFENDANT’S RULE 12(B)(6) MOTION TO DISMISS FOR FAILURE TO STATE A CLAIM
+PAGE 13
+BPI10.0001 4817-7813-0464
+
+Case 1:14-cv-01062-SS Document 8 Filed 12/15/14 Page 16 of 24
+
+3.
+
+BancPass has standing to seek a declaratory judgment as to
+customer’s freedom to lawfully choose BancPass’s service over
+HTA’s
+
+BancPass has requested that the Court grant declaratory relief that rental car
+customers have the right to choose to use BancPass’s PToll™ app to pay tolls instead
+of HTA’s service and that the continued marketing and operation of PToll™ to rental
+car customers is lawful. BancPass also has standing to assert this claim.
+There can be no question that there is a live dispute between BancPass and
+HTA regarding this issue. HTA demonstrates this in its own motion:
+Defendant [sic] is the one that actually has been interfering
+with the contracts between rental car companies and their
+customers and that Defendant [sic] also has been interfering
+with HTA’s contracts with HTA’s customers. That is what
+this case should actually be about.
+See Defendant’s Rule 12(b)(6) Motion to Dismiss at 2. Defendant also demonstrated
+the existence of a live dispute in its September 30th letter:
+[Bancpass is] intentionally interfering with the contracts
+between Rental Agencies and rental car drivers by
+encouraging rental car drivers to pay for tolls through PToll™
+instead. This intentional interference is recognized as
+unlawful tortious conduct in all fifty (50) states.
+See Ex. A to Plaintiff’s Original Petition at p. 2 of 3. HTA has repeatedly threatened to
+sue BancPass on this issue. There is, thus, an actual controversy on this issue.
+In addition, BancPass is an interested party and has standing to seek this
+declaration. See 28 U.S.C. §2201 (“any court… may declare the rights and other legal
+relations of any interested party seeking such declaration, whether or not further relief is
+or could be sought.”)
+Here, BancPass’s interests are directly implicated by HTA’s threats to sue and by
+HTA’s claim that BancPass is legally prohibited from competing with HTA for the toll
+PLAINTIFF’S RESPONSE TO DEFENDANT’S RULE 12(B)(6) MOTION TO DISMISS FOR FAILURE TO STATE A CLAIM
+PAGE 14
+BPI10.0001 4817-7813-0464
+
+Case 1:14-cv-01062-SS Document 8 Filed 12/15/14 Page 17 of 24
+
+processing business of rental car consumers. Of course BancPass is not a party to any
+contract between rental car companies and/or HTA and rental car consumers; to the
+contrary BancPass competes with those contracts. BancPass is not trying to enforce
+those contracts, which might, as HTA contends, have required that BancPass be a party
+(or third party beneficiary) to them. Instead, BancPass simply seeks declaratory relief
+that it may compete with HTA and the rental car companies. Fortunately, the rental car
+companies themselves agree that rental car consumers may choose to use BancPass’s
+PToll™ instead of the service they and HTA offer. As pled in BancPass’s Original
+Petition, the rental car companies represent to consumers that the toll processing
+service is “optional,” and that consumers may decline HTA’s service. As this case
+develops, BancPass expects to be able to provide evidence that rental car contracts
+typically contain language to the effect that consumers may use other devices to pay
+tolls.
+BancPass’s ability to do business with rental car consumers is directly implicated
+by the live dispute between the parties on this issue.
+
+Accordingly, BancPass has
+
+standing, and the motion to dismiss this declaratory judgment claim should be denied.
+C.
+
+BancPass has stated claims for tortious interference and tortious
+interference with prospective relations
+
+The elements of tortious interference with contract under Texas law are: (1) an
+existing contract subject to interference; (2) a willful and intentional act of interference
+with the contract; (3) that proximately caused the plaintiff’s injury; and (4) caused actual
+damages or loss. Prudential Ins. Co. of America v. Financial Review Services, Inc., 29
+S.W.3d 74, 77 (Tex. 2000). Here, BancPass’s Original Petition amply pleads each of
+these elements. BancPass has plead three distinct types of contracts with regard to its
+PLAINTIFF’S RESPONSE TO DEFENDANT’S RULE 12(B)(6) MOTION TO DISMISS FOR FAILURE TO STATE A CLAIM
+PAGE 15
+BPI10.0001 4817-7813-0464
+
+Case 1:14-cv-01062-SS Document 8 Filed 12/15/14 Page 18 of 24
+
+PToll™ app: (1) between BancPass and Google, and BancPass and Apple for the
+distribution of PToll™; (2) between BancPass and tolling agencies for integration and
+use of the PToll™ app on the authorities’ toll roads; and (3) between BancPass and the
+consumers who have downloaded and use the PToll™ app. See Plaintiff’s Original
+Petition, ¶ 25.
+As specifically laid out in the petition: “BancPass has contracts with both Google
+Play store and Apple to distribute the PToll™ app.” See Plaintiff’s Original Petition,
+¶ 25. As alleged in the Original Petition, HTA has admitted, in the September 30th letter,
+that it has taken steps to intentionally interfere with those contracts:
+HTA has sent requests to the App Store and Google Play
+requesting removal of the PToll™ app. HTA has willfully and
+intentionally interfered with the contracts between BancPass
+and Google, and BancPass and Apple, by writing letters to
+both Google and Apple demanding they remove the PToll™
+app.
+See Plaintiff’s Original Petition, ¶ 26. It is not an implausible leap to conclude that
+HTA’s admitted actions in demanding Google pull down PToll™, proximately resulted in
+Google actually pulling down PToll™. Apple may still remove the PToll™ app from
+iTunes.
+After Google removed the PToll™ app from the Google Play Store, it was
+unavailable for download by consumers, resulting in damages to BancPass, which in
+essence, was unable to “sell” its product or service.5 Thus, the petition pleads the
+existence of contracts, intentional and willful interference by HTA with those contracts,
+
+5
+
+Similarly, tolling authorities BancPass was soliciting to do business with would likewise
+be unable to download the app during this time.
+PLAINTIFF’S RESPONSE TO DEFENDANT’S RULE 12(B)(6) MOTION TO DISMISS FOR FAILURE TO STATE A CLAIM
+PAGE 16
+BPI10.0001 4817-7813-0464
+
+Case 1:14-cv-01062-SS Document 8 Filed 12/15/14 Page 19 of 24
+
+damages, in the form of lost sales and lost toll transactions, and that HTA’s actions
+proximately caused those damages.
+BancPass has also pled prospective relations with both additional tolling
+authorities and new customers seeking to download and utilize the PToll™ app: “HTA’s
+actions interfere with potential contracts with consumers and additional tolling
+authorities.” See Plaintiff’s Original Petition, ¶ 28. BancPass already has customers
+successfully using the app, and as its solution becomes known by the general public
+through legitimate advertising such as radio endorsements, ads placed in travel
+magazines, and other marketing media, more toll road consumers download PToll™ on
+their smartphones and other devices.
+
+BancPass can show that its PToll™ app is
+
+downloaded daily, which creates a reasonable probability that consumers were
+attempting to download the PToll™ app when it was not available on Google. HTA cites
+no authority for its contention that BancPass must specifically identify each potential
+customer who searched for PToll™ and was unable to download it, and Texas authority
+actually seems to establish the opposite. See Bradford v. Vento, 997 S.W.2d 713, 732
+(Tex.App.- Corpus Christi 1999), rev’d in part on other grounds, 48 S.W.3d 749 (Tex.
+2001) (holding generally, the plaintiff does not need to identify a specific prospective
+contract that was interfered with).
+The unavailability of the app also affected presentations with tolling authorities
+who were interested in the PToll™ application and how it could improve their tolling, but
+these tolling authorities were unable to download the app in advance of the
+presentation. As alleged in the petition:
+
+PLAINTIFF’S RESPONSE TO DEFENDANT’S RULE 12(B)(6) MOTION TO DISMISS FOR FAILURE TO STATE A CLAIM
+PAGE 17
+BPI10.0001 4817-7813-0464
+
+Case 1:14-cv-01062-SS Document 8 Filed 12/15/14 Page 20 of 24
+
+HTA’s interference has been a proximate cause of harm to
+BancPass, and BancPass incurs actual damages and losses
+when consumers are unable to obtain the PToll™ app, and
+as BancPass is unable to demonstrate its product to
+additional tolling authorities.
+See Plaintiff’s Original Petition, ¶ 29.
+BancPass has not yet had the opportunity to see all of the correspondence that
+HTA sent to tolling authorities, Google and Apple. Discovery should reveal the content
+of such communications and enable BancPass to plead HTA’s malfeasance in even
+greater detail.
+Since BancPass was able to have PToll™ reinstated by the Google Play store,
+HTA appears to argue that this case should be dismissed because it believes the
+damages BancPass has suffered are small.6 The fact that a defendant contests an
+amount of damages does not justify dismissal pursuant to Rule12(b)(6). Moreover, the
+facts that BancPass’s damages are unliquidated, and that the exact amount of damages
+suffered is not yet known, likewise do not warrant dismissal. See Avitia v. Metropolitan
+Club of Chicago, Inc., 49 F.3d 1219, 1226 (7th Cir. 1995) (plaintiff not required to
+itemize damages in complaint).
+
+Indeed, BancPass’s petition appropriately pleads
+
+damages “in an amount within the jurisdictional limits of this court” as required by Texas
+Rule of Civil Procedure 47.
+BancPass has sufficiently pled its tortious interference claims, and HTA’s motion
+to dismiss should be denied.
+
+6
+
+This is ironic considering that it was HTA who removed this case on diversity grounds,
+specifying that the amount in controversy exceeds this Court’s jurisdiction.
+PLAINTIFF’S RESPONSE TO DEFENDANT’S RULE 12(B)(6) MOTION TO DISMISS FOR FAILURE TO STATE A CLAIM
+PAGE 18
+BPI10.0001 4817-7813-0464
+
+Case 1:14-cv-01062-SS Document 8 Filed 12/15/14 Page 21 of 24
+
+D.
+
+Should the court grant Defendant’s motion in any part, Plaintiff
+requests leave to amend
+
+Should this court find that Defendant’s motion is meritorious in any respect and
+be inclined to grant it, Plaintiff respectfully requests leave to amend. “Generally, a court
+will not dismiss without leave to amend on the first challenge to the plaintiff’s complaint.”
+Curley v. Perry, 246 F.3d 1278, 1281-82 (10th Cir. 2001); 5B CHARLES ALAN WRIGHT &
+ARTHUR R. MILLER
+
+ET AL.,
+
+FEDERAL PRACTICE & PROCEDURE §1357 (3d ed. 2014).
+
+(“[D]istrict court normally will give the plaintiff leave to file an amended complaint.”).
+BancPass drafted and filed its petition in state court in accordance with Texas
+law and pleading rules. Should the court determine there are any deficiencies under
+federal pleading rules, BancPass requests the opportunity to amend to address any
+such issues.7 Finally, at this time, BancPass does not possess all of the evidence
+against HTA regarding its conduct, but BancPass has pled based on the evidence in its
+possession, the letter BancPass received from HTA admitting defendant’s actions, and
+events that took place shortly after the letter was received.
+
+BancPass respectfully
+
+requests the opportunity to conduct discovery to learn more details regarding HTA’s
+conduct.
+
+7
+
+Although Defendant characterizes its motion as a motion to dismiss for failure to state
+a claim its motion as it is written actually seeks a more definite statement. In fact, in its
+second sentence, Defendant’s motion complains that “Plaintiff’s claims lack the
+specificity required for a proper pleading.” See Defendant’s Rule 26(b)(6) Motion to
+Dismiss at 1. To the extent the court agrees, the appropriate relief would be to order a
+more definite statement, which Plaintiff is willing to do if so ordered. See FED. R. CIV. P.
+12(E).
+PLAINTIFF’S RESPONSE TO DEFENDANT’S RULE 12(B)(6) MOTION TO DISMISS FOR FAILURE TO STATE A CLAIM
+PAGE 19
+BPI10.0001 4817-7813-0464
+
+Case 1:14-cv-01062-SS Document 8 Filed 12/15/14 Page 22 of 24
+
+IV.
+
+CONCLUSION
+
+BancPass has met the minimum threshold of the pleading requirements and has
+provided a short statement with facts that puts HTA on notice of the claims against it.
+HTA is aware of its actions, and has admitted such to BancPass in the September 30th
+letter. BancPass seeks relief for: (1) tortious interference with existing contracts and
+prospective business relations; (2) declaratory relief that rental car consumers have the
+right to choose PToll™ as an alternative to HTA’s service; and (3) declaratory relief that
+if BancPass were to agree to HTA’s demand to cede the rental car toll processing
+market to it, such an agreement would be a per se violation of section one of the
+Sherman Act. BancPass’s petition demonstrates it has standing to assert each of these
+claims, and sets out facts that plausibly support each cause of action. The motion to
+dismiss should, therefore, be dismissed.
+V.
+
+PRAYER
+
+Wherefore, Plaintiff BancPass respectfully requests that HTA’s Rule 12(b)(6)
+Motion to Dismiss be denied, or in the alternative, should the court believe the motion
+should be granted in any part that BancPass be granted the opportunity to amend, and
+that BancPass have all such further relief to which it may be justly entitled.
+
+PLAINTIFF’S RESPONSE TO DEFENDANT’S RULE 12(B)(6) MOTION TO DISMISS FOR FAILURE TO STATE A CLAIM
+PAGE 20
+BPI10.0001 4817-7813-0464
+
+Case 1:14-cv-01062-SS Document 8 Filed 12/15/14 Page 23 of 24
+
+Respectfully submitted,
+
+Thomas M. Fulkerson
+tfulkerson@fulkersonlotz.com
+State Bar No. 07513500
+Jerry L. Mitchell
+jmitchell@fulkersonlotz.com
+State Bar No. 14214650
+Gavin K. Uttecht (admitted pro hac vice)
+guttecht@fulkersonlotz.com
+State Bar No. 24069111
+FULKERSON LOTZ LLP
+700 Louisiana Street, Suite 5200
+Houston, Texas 77002-2773
+Telephone: 713.654.5800
+Facsimile: 713.654.5801
+J. David Rowe
+drowe@dbcllp.com
+State Bar No. 00794564
+DUBOIS, BRYANT & CAMPBELL, LLP
+700 Lavaca, Suite 1300
+Austin, Texas 78701
+Telephone: 512.381.8020
+Facsimile: 512.457.8008
+ATTORNEYS FOR PLAINTIFF
+BANCPASS, INC.
+
+PLAINTIFF’S RESPONSE TO DEFENDANT’S RULE 12(B)(6) MOTION TO DISMISS FOR FAILURE TO STATE A CLAIM
+PAGE 21
+BPI10.0001 4817-7813-0464
+
+Case 1:14-cv-01062-SS Document 8 Filed 12/15/14 Page 24 of 24
+
+CERTIFICATE OF SERVICE
+The undersigned certifies a true and correct copy of the foregoing document was
+electronically filed on December 15, 2014 with the Clerk of Court using the CM/ECF
+system which will send notification of such filing to the following:
+Gregory J. Casas
+casasg@gtlaw.com
+Elizabeth Ross Hadley
+hadleye@gtlaw.com
+300 West 6th Street, Suite 2050
+Austin, Texas 78701
+Telephone: 512.320.7200
+Facsimile: 512.320.7210
+ATTORNEYS FOR DEFENDANT HIGHWAY
+TOLL ADMINISTRATION, LLC
+
+Thomas M. Fulkerson
+
+PLAINTIFF’S RESPONSE TO DEFENDANT’S RULE 12(B)(6) MOTION TO DISMISS FOR FAILURE TO STATE A CLAIM
+PAGE 22
+BPI10.0001 4817-7813-0464
+
+

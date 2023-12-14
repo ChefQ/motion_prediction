@@ -1,0 +1,964 @@
+Case 1:07-cv-10329-RJS Document 116
+
+Filed 01/10/13 Page 1 of 27
+
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+
+x
+CITY OF LIVONIA EMPLOYEES'
+RETIREMENT SYSTEM, On Behalf of Itself
+and All Others Similarly Situated,
+
+Civil Action No. 1:07-cv-10329-RJS
+CLASS ACTION
+
+ECF CASE
+
+Plaintiff,
+vs.
+WYETH, et al.,
+Defendants
+
+797276_1
+
+x
+
+MEMORANDUM OF LAW IN SUPPORT
+OF LEAD PLAINTIFF'S MOTION FOR
+FINAL APPROVAL OF CLASS ACTION
+SETTLEMENT AND PLAN OF
+ALLOCATION OF SETTLEMENT
+PROCEEDS
+
+Case 1:07-cv-10329-RJS Document 116
+
+Filed 01/10/13 Page 2 of 27
+
+TABLE OF CONTENTS
+Page
+I.
+
+PRELIMINARY STATEMENT .........................................................................................1
+
+II.
+
+PROCEDURAL AND FACTUAL BACKGROUND ........................................................2
+
+III. THE PROPOSED SETTLEMENT IS FAIR, REASONABLE, AND
+ADEQUATE.......................................................................................................................3
+A.
+
+Settlements Are Favored and Encouraged ...............................................................3
+
+B.
+
+The Settlement Is Presumptively Fair .....................................................................4
+
+C.
+
+The Settlement Meets the Second Circuit Requirements for Approval .................. 5
+1.
+
+The Complexity, Expense, and Likely Duration of the Litigation
+Justifies the Settlement ................................................................................ 5
+
+2.
+
+The Reaction of the Class to the Settlement ................................................ 7
+
+3.
+
+The Stage of the Proceedings and Discovery Completed ............................ 8
+
+4.
+
+The Risk of Establishing Liability .............................................................10
+
+5.
+
+The Risk of Establishing Damages ............................................................12
+
+6.
+
+The Risks of Maintaining the Class Action Through Trial .......................14
+
+7.
+
+The Ability of the Defendants to Withstand a Greater Judgment .............14
+
+8.
+
+The Reasonableness of the Settlement in Light of the Best Possible
+Recovery and the Attendant Risks of Litigation .......................................15
+
+IV.
+
+THE PLAN OF ALLOCATION IS FAIR AND REASONABLE ...................................16
+
+V.
+
+CONCLUSION .................................................................................................................18
+
+-1797276_1
+
+Case 1:07-cv-10329-RJS Document 116
+
+Filed 01/10/13 Page 3 of 27
+
+TABLE OF AUTHORITIES
+Page
+CASES
+Beecher v. Able,
+575 F.2d 1010 (2d Cir. 1978) ..................................................................................................16
+Berger v. Compaq Computer Corp.,
+257 F.3d 475 (5th Cir. 2001) ...................................................................................................14
+Chatelain v. Prudential-Bache Sec.,
+805 F. Supp. 209 (S.D.N.Y. 1992) ..........................................................................................14
+D'Amato v. Deutsche Bank,
+236 F.3d 78 (2d Cir. 2001) ........................................................................................................4
+Detroit v. Grinnell Corp.,
+495 F.2d 448 (2d Cir. 1974) .............................................................................................passim
+Dura Pharms., Inc. v. Broudo,
+544 U.S. 336 (2005) ................................................................................................................12
+Emergent Capital Inv. Mgmt., LLC v. Stonepath Grp., Inc.,
+343 F.3d 189 (2d Cir. 2003) ....................................................................................................11
+Ernst & Ernst v. Hochfelder,
+425 U.S. 185 (1976) ................................................................................................................11
+Heyer v. N.Y. City Hous. Auth.,
+No. 80 Civ. 1196 (RWS), 2006 WL 1148689
+(S.D.N.Y. Apr. 28, 2006) ........................................................................................................10
+Hicks v. Morgan Stanley,
+No. 01 Civ. 10071 (RJH), 2005 WL 2757792
+(S.D.N.Y. Oct. 24, 2005) ........................................................................................................... 6
+In re "Agent Orange" Prod. Liab. Litig.,
+597 F. Supp. 740 (E.D.N.Y. 1984),
+aff'd, 818 F.2d 145 (2d Cir. 1987) ...........................................................................................15
+In re "Agent Orange" Prod. Liab. Litig.,
+611 F. Supp. 1396 (E.D.N.Y. 1985),
+aff'd in part and rev 'd in part on other grounds,
+818 F.2d 179 (2d Cir. 1987) ....................................................................................................17
+
+-ii797276_1
+
+Case 1:07-cv-10329-RJS Document 116
+
+Filed 01/10/13 Page 4 of 27
+
+Page
+In re Alloy, Inc. Sec. Litig.,
+No. 03 Civ. 1597 (WHP), 2004 WL 2750089
+(S.D.N.Y. Dec. 2, 2004) ............................................................................................................4
+In re Am. Bank Note Holographics,
+127 F. Supp. 2d 418 (S.D.N.Y. 2001) .....................................................................................16
+In re AOL Time Warner, Inc. Sec. & "ERISA" Litig.,
+No. MDL 1500, 2006 WL 903236
+(S.D.N.Y. Apr. 6, 2006) ..........................................................................................................15
+In re Austrian & German Bank Holocaust Litig.,
+80 F. Supp. 2d 164 (S.D.N.Y. 2000),
+aff'd sub nom. D'Amato v. Deutsche Bank,
+236 F.3d 78 (2d Cir. 2001) ........................................................................................................8
+In re Bear Stearns Cos., Inc. Sec., Derivative and ERISA Litig.,
+No. 08 MDL 1963, 2012 WL 5465381
+(S.D.N.Y. Nov. 9, 2012) ..........................................................................................................10
+In re Cendant Corp. Litig.,
+264 F.3d 201 (3d Cir. 2001) ....................................................................................................13
+In re Corrugated Container Antitrust Litig.,
+643 F.2d 195 (5th Cir. 1981) ...................................................................................................17
+In re Global Crossing Sec. & ERISA Litig.,
+225 F.R.D. 436 (S.D.N.Y. 2004) .....................................................................................5, 8, 17
+In re Indep. Energy Holdings PLC,
+No. 00 Civ. 6689 (SAS), 2003 WL 22244676
+(S.D.N.Y. Sept. 29, 2003) ........................................................................................6, 12, 15, 16
+In re Luxottica Grp. S.p.A. Sec. Litig.,
+233 F.R.D. 306 (E.D.N.Y. 2006) .................................................................................3, 4, 7, 16
+In re Michael Milken & Assocs. Sec. Litig.,
+150 F.R.D. 46 (S.D.N.Y. 1993) ...............................................................................................10
+In re Novatel Wireless Sec. Litig.,
+846 F. Supp. 2d 1104 (S.D. Cal. 2012) ...................................................................................13
+
+- iii 797276_1
+
+Case 1:07-cv-10329-RJS Document 116
+
+Filed 01/10/13 Page 5 of 27
+
+Page
+In re PaineWebber Ltd. P'ships Litig.,
+171 F.R.D. 104 (S.D.N.Y.),
+aff'd, 117 F.3d 721 (2d Cir. 1997) ........................................................... .........................passim
+In re Sony SXRD Rear Projection Television Class Action Litig.,
+No. 06 Civ. 5173 (RPP), 2008 WL 1956267
+(S.D.N.Y. May 1, 2008) ..........................................................................................................14
+In re Wachovia Equity Sec. Litig.,
+No. 08 Civ. 6171(RJS), 2012 WL 2774969
+(S.D.N.Y. June 12, 2012) ........................................................................................................15
+In re Warfarin Sodium Antitrust Litig.,
+391 F.3d 516 (3d Cir. 2004) ....................................................................................................14
+In re Warner Commc'ns Sec. Litig.,
+618 F. Supp. 735 (S.D.N.Y. 1985),
+aff'd, 798 F.2d 35 (2d Cir. 1986) .......................................................................................13, 17
+Lewis v. Newman,
+59 F.R.D. 525 (S.D.N.Y. 1973) ...............................................................................................10
+Maley v. Del Global Techs. Corp.,
+186 F. Supp. 2d 358 (S.D.N.Y. 2002) .....
+
+...........................................................................16
+
+Milstein v. Huck,
+600 F. Supp. 254 (E.D.N.Y. 1984) ..........
+
+............................................................................. 5
+
+Newman v. Stein,
+464 F.2d 689 (2d Cir. 1972) ............................................................................................ 3, 4, 15
+Petrovic v. AMOCO Oil Co.,
+200 F.3d 1140 (8th Cir. 1999) .................................................................................................17
+Plummer v. Chem. Bank,
+668 F.2d 654 (2d Cir. 1982) ...................................................................................................... 8
+
+S.C. Nat'l Bank v. Stone,
+749 F. Supp. 1419 (D.S.C. 1990) ............................................................................................17
+
+Strougo v. Bassini,
+258 F. Supp. 2d 254 (S.D.N.Y. 2003) .
+
+.................................................................................
+
+- iv 797276_1
+
+6
+
+Case 1:07-cv-10329-RJS Document 116
+
+Filed 01/10/13 Page 6 of 27
+
+Page
+
+Taft v. Ackerman,
+No. 02 Civ. 7951 (PKL), 2007 WL 414493
+(S.D.N.Y. Jan. 31, 2007) .....................................................................................................3, 16
+Teachers'Ret. Sys. of La. v. A.C.L.N., Ltd.,
+No. 01-CV-11814 (MP), 2004 WL 1087261
+(S.D.N.Y. May 14, 2004) ........................................................................................................10
+Trief v. Dun & Bradstreet Corp.,
+840 F. Supp. 277 (S.D.N.Y. 1993) ............................................................................................6
+Wal-Mart Stores, Inc. v. Visa U.S.A., Inc.,
+396 F.3d 96 (2d Cir. 2005) ........................................................................................................3
+Weinberger v. Kendrick,
+698 F.2d 61 (2d Cir. 1982) .................................................................................................. 3, 17
+Whalen v. Hibernia Foods PLC,
+No. 04 Civ. 3182, 2005 WL 1799370
+(S.D.N.Y. Aug. 1, 2005) ..........................................................................................................11
+White v. NFL,
+822 F. Supp. 1389 (D. Minn. 1993) .........................................................................................16
+STATUTES, RULES AND REGULATIONS
+15 U.S.C.
+§78j(b) .....................................................................................................................................12
+§ 78u-4(a) (4) ...............................................................................................................................1
+Federal Rules of Civil Procedure
+Rule23 .......................................................................................................................................1
+Rule23(f) .......................................................................................................................6, 12, 14
+SECONDARYAUTHORITY
+4 Alba Conte, Herbert B. Newberg, Newberg on Class Actions
+§11.45 (4th ed. 2002) ................................................................................................................. 8
+
+-v797276_1
+
+Case 1:07-cv-10329-RJS Document 116
+
+Filed 01/10/13 Page 7 of 27
+
+I. PRELIMINARY STATEMENT
+Pursuant to Rule 23 of the Federal Rules of Civil Procedure, Lead Plaintiff, Pipefitters Union
+Local 537 Pension Fund, respectfully moves this Court for an order approving the proposed
+settlement of this class action (the "Litigation"), and approving the proposed Plan of Allocation of
+settlement proceeds. 1
+Under the terms of the proposed settlement (the "Settlement"), as set forth in the Stipulation,
+Defendants have caused the sum of $67,500,000 in cash to be paid into an interest-bearing escrow
+account maintained on behalf of the Class, in exchange for the dismissal of all claims brought
+against the Defendants in this Litigation. This Settlement represents an excellent recovery for the
+Class particularly in light of the considerable expense, delay, and risks posed by continued litigation,
+including successfully opposing summary judgment, prevailing at trial, and litigating inevitable posttrial appeals. As discussed below and in the accompanying Declaration of Tor Gronborg in Support
+of Lead Plaintiff's Motion for Final Approval of Class Action Settlement and Plan of Allocation of
+Settlement Proceeds and Award of Attorneys' Fees and Expenses and Lead Plaintiff's Expenses
+Pursuant to 15 U.S.C. §78u-4(a)(4) ("Gronborg Decl."), the significant risks involved in taking this
+Litigation further and through trial, when measured against the immediate benefit of the Settlement,
+justify approval of this Settlement.
+On November 20, 2012, the Court entered its Order Preliminarily Approving Settlement and
+Providing for Notice (Dkt. No. 114) ("Preliminary Approval Order"), which directed that a hearing
+be held on March 1, 2013 to determine the fairness, reasonableness, and adequacy of the Settlement.
+In accordance with the Preliminary Approval Order, the Notice of Proposed Settlement of Class
+
+Unless otherwise noted, all capitalized terms used herein are defined in the November 7,
+1
+2012 Settlement Agreement (the "Stipulation"). Dkt. No. 112.
+-1797276_1
+
+Case 1:07-cv-10329-RJS Document 116
+
+Filed 01/10/13 Page 8 of 27
+
+Action (the "Notice") was mailed to over 302,000 potential Class Members as of January 8, 2013.
+
+See Declaration of Carole K. Sylvester Re A) Mailing of the Notice of Proposed Settlement of Class
+Action and the Proof of Claim Form, B) Publication of the Summary Notice, and C) Internet Posting
+("Sylvester Decl."), ¶¶3-10.
+Also, the Notice, the Proof of Claim form, the Stipulation and its Exhibits, and the
+Preliminarily Approval Order were posted on the Claims Administrator's website, and pursuant to
+the Preliminary Approval Order a Summary Notice was published in Investor's Business Daily and
+over Business Wire on December 7, 2012. See Sylvester Decl., ¶¶12-13.
+In light of their informed assessment of the strengths and weaknesses of the claims and
+defenses asserted, the considerable risks and delays associated with continued litigation and trial, and
+the significant settlement amount, Lead Plaintiff and Lead Counsel believe that the Settlement is
+eminently fair, reasonable, and adequate and provides an outstanding result for the Class.
+Accordingly, Lead Plaintiff respectfully requests that the Court approve this Settlement. Moreover,
+the Plan of Allocation, which was developed with the assistance of Lead Plaintiff's economics and
+damages experts, is fair and reasonable and, therefore, should also be approved by the Court.
+
+II. PROCEDURAL AND FACTUAL BACKGROUND
+The Court is respectfully referred to the accompanying Gronborg Declaration for a full
+discussion of the factual background and procedural history of the Litigation, the extensive litigation
+efforts of Lead Counsel, a discussion of the negotiations leading to this Settlement, and the reasons
+why the Settlement and Plan of Allocation are fair and reasonable and should be approved.
+
+-2797276_1
+
+Case 1:07-cv-10329-RJS Document 116
+
+Filed 01/10/13 Page 9 of 27
+
+III. THE PROPOSED SETTLEMENT IS FAIR, REASONABLE, AND
+ADEQUATE
+A.
+
+Settlements Are Favored and Encouraged
+
+The court may approve a "class action settlement if it is fair, adequate, and reasonable, and
+not a product of collusion." Wal-Mart Stores, Inc. v. Visa U.S.A., Inc., 396 F.3d 96, 116 (2d Cir.
+2005). The evaluation of a proposed settlement requires the court to consider "both the settlement's
+terms and the negotiating process leading to settlement." Wal-Mart Stores, 396 F.3d at 116. While
+the decision to grant or deny approval of a settlement lies within the broad discretion of the trial
+court, a general policy favoring settlement exists, especially with respect to class actions.
+
+Taft v.
+
+Ackermans, No. 02 Civ. 7951 (PKL), 2007 WL 414493, at *4 (S.D.N.Y. Jan. 31, 2007); see also
+Weinberger v. Kendrick, 698 F.2d 61, 73 (2d Cir. 1982) (The settlement of complex class action
+litigations are clearly favored by the courts.). Moreover, "[c]lass action suits readily lend themselves
+to compromise because of the difficulties of proof, the uncertainties of the outcome, and the typical
+length of the litigation." In re Luxottica Grp. S.p.A. Sec. Litig., 233 F.R.D. 306, 310 (E.D.N.Y.
+2006); see also Weinberger, 698 F.2d at 73 ("There are weighty justifications, such as the reduction
+of litigation and related expenses, for the general policy favoring the settlement of litigation.
+
+").
+
+Recognizing that a settlement represents an exercise of judgment by the negotiating parties,
+the Second Circuit has cautioned that, while a court should not give "rubber stamp approval" to a
+proposed settlement, it must "stop short of the detailed and thorough investigation that it would
+undertake if it were actually trying the case." Detroit v. Grinnell Corp., 495 F.2d 448, 462 (2d Cir.
+1974). As stated by the Second Circuit in Newman v. Stein, 464 F.2d 689 (2d Cir. 1972),
+the role of a court in passing upon the propriety of the settlement of a derivative or
+other class action is a delicate one.... [W]e recognized that since "the very purpose
+of a compromise is to avoid the trial of sharply disputed issues and to dispense with
+wasteful litigation', the court must not turn the settlement hearing `into a trial or a
+rehearsal of the trial'."
+-3797276_1
+
+Case 1:07-cv-10329-RJS Document 116
+
+Filed 01/10/13 Page 10 of 27
+
+Id. at 691-92 (citation omitted).
+B.
+
+The Settlement Is Presumptively Fair
+
+A strong initial presumption of fairness attaches to the proposed settlement if it is reached by
+experienced counsel after arm's-length negotiations, and great weight is accorded to the
+recommendations of counsel, who are most closely acquainted with the facts of the underlying
+litigation. Luxottica Grp., 233 F.R.D. at 315; see also In re Alloy, Inc. Sec. Litig., No. 03 Civ. 1597
+(WHP), 2004 WL 2750089, at * 1-*2 (S.D.N.Y. Dec. 2, 2004). A court may find the negotiating
+process is fair where, as here, "the settlement resulted from 'arm's-length negotiations and that
+plaintiffs' counsel have possessed the experience and ability ... necessary to effective representation
+of the class's interests. " D'Amato v. Deutsche Bank, 236 F.3d 78, 85 (2d Cir. 2001) (citation
+omitted).
+This initial presumption of fairness and adequacy applies in this case because the Settlement
+was reached by experienced, fully-informed counsel after arm's-length negotiations with the
+assistance of a highly experienced mediator, the Honorable Layn R. Phillips (Ret.). Gronborg Decl.,
+¶¶4, 75. "So long as the integrity of the arm's length negotiation process is preserved ... a strong
+initial presumption of fairness attaches to the proposed settlement." In re Paine Webber Ltd. P'ships
+Litig., 171 F.R.D. 104, 125 (S.D.N.Y.), aff'd, 117 F.3d 721 (2d Cir. 1997). In addition, Lead
+Counsel was unquestionably fully informed of the merits and weaknesses of the case at the time the
+Settlement was reached. Lead Counsel had conducted an extensive factual investigation of Lead
+Plaintiff's claims, including significant document and deposition discovery from Defendants and
+third parties, and had retained and consulted with numerous experts and consultants.
+
+See, e.g.,
+
+Gronborg Decl., ¶¶45-64. Moreover, following the first phase of bifurcated discovery on the issues
+of materiality and statistical significance, the parties attended a face-to-face settlement and discovery
+-4797276_1
+
+Case 1:07-cv-10329-RJS Document 116
+
+Filed 01/10/13 Page 11 of 27
+
+meeting where each side presented their respective positions on the merits of the case, along with
+supporting evidence and expert presentations. Thus, this Settlement is entitled to the presumption of
+procedural fairness dictated by Second Circuit law.
+C.
+
+The Settlement Meets the Second Circuit Requirements for Approval
+
+There are nine factors the Second Circuit has identified to determine whether to approve a
+proposed settlement of a class action:
+(1) the complexity, expense and likely duration of the litigation; (2) the reaction of
+the class to the settlement; (3) the stage of the proceedings and the amount of
+discovery completed; (4) the risks of establishing liability; (5) the risks of
+establishing damages; (6) the risks of maintaining the class action through the trial;
+(7) the ability of the defendants to withstand a greater judgment; (8) the range of
+reasonableness of the settlement fund in light of the best possible recovery; [and]
+(9) the range of reasonableness of the settlement fund to a possible recovery in light
+of all the attendant risks of litigation.
+Grinnell, 495 F.2d at 463 (citations omitted). All nine factors need not be satisfied. Rather, the
+Court should look at the totality of these factors in light of the specific circumstances involved. In re
+Global Crossing Sec. & ERISA Litig., 225 F.R.D. 436, 456 (S.D.N.Y. 2004).
+As demonstrated below and in the Gronborg Declaration, the Settlement meets each of the
+relevant criteria set forth above.
+1.
+
+The Complexity, Expense, and Likely Duration of the
+Litigation Justifies the Settlement
+
+"The expense and possible duration of the litigation should be considered in evaluating the
+reasonableness of [a] settlement." Milstein v. Huck, 600 F. Supp. 254, 267 (E.D.N.Y. 1984). In this
+case, the securities claims advanced by the Lead Plaintiff involve complex legal and factual issues.
+Lead Plaintiff claims that Defendants violated federal securities laws by making misleading
+statements to investors about one of Wyeth's leading drug candidates, Pristiq for the treatment of
+vasomotor symptoms ("VMS"), and failing to disclose safety concerns about the drug to investors.
+-5797276_1
+
+Case 1:07-cv-10329-RJS Document 116
+
+Filed 01/10/13 Page 12 of 27
+
+Proof of these claims would require, inter alia, extensive expert testimony, including testimony from
+experts with medical, pharmacological, and biostatistics expertise.
+The legal issues proving materiality, scienter, loss causation, and damages are equally
+complex, and would also require extensive percipient and expert testimony. Here, as in other similar
+cases involving violations of the federal securities laws, " [i]t is beyond cavil that continued
+litigation ... would be complex, lengthy, and expensive, with no guarantee of recovery by the
+[C]lass [M]embers." Strougo v. Bassini, 258 F. Supp. 2d 254, 258 (S.D.N.Y. 2003) (quoting Trief
+v. Dun & Bradstreet Corp., 840 F. Supp. 277, 282 (S.D.N.Y. 1993)); see also In re Indep. Energy
+Holdings PLC, No. 00 Civ. 6689 (SAS), 2003 WL 22244676, at *3 (S.D.N.Y. Sept. 29, 2003)
+(noting necessity of completing expert discovery, summary judgment briefing, joint pre-trial order,
+in limine motions, trial, and post-trial appeals weighed in favor of settlement).
+Settling the Litigation at this time will undoubtedly spare all litigants the delay and expense
+of continued litigation. Many hours of the Court's time and resources required to see this case
+through trial will also be spared. Moreover, at the time of the Settlement, Defendants had filed a
+Rule 23(f) petition with the Second Circuit Court of Appeals. Had Defendants' position been
+accepted and granted, any potential recovery by the Class would have been in jeopardy. Even if the
+Class could obtain a larger judgment after a trial, the additional delay through likely post-trial
+motions and appeals could deny the Class any recovery for years, which would further reduce its
+value. See Strougo, 258 F. Supp. 2d at 261 ("even if a shareholder or class member was willing to
+assume all the risks of pursuing the actions through further litigation ... the passage of time would
+introduce yet more risks ... and would, in light of the time value of money, make future recoveries
+less valuable than this current recovery"); Hicks v. Morgan Stanley, No. 01 Civ. 10071 (RJH), 2005
+WL 2757792, at *6 (S.D.N.Y. Oct. 24, 2005) ("Further litigation would necessarily involve further
+-6797276_1
+
+Case 1:07-cv-10329-RJS Document 116
+
+Filed 01/10/13 Page 13 of 27
+
+costs [and] justice may be best served with a fair settlement today as opposed to an uncertain future
+settlement or trial of the action.
+
+").
+
+The Settlement for $67,500,000, at this juncture, results in an immediate and substantial
+tangible recovery, without the considerable risk, expense, and delay of trial. Therefore, Lead
+Plaintiff submits that the Court should find that this factor weighs heavily in favor of the proposed
+Settlement.
+2.
+
+The Reaction of the Class to the Settlement
+
+The reaction of the class to the settlement is a significant factor in assessing its fairness and
+adequacy, and "the absence of objectants may itself be taken as evidencing the fairness of a
+settlement." PaineWebber, 171 F.R.D. at 126 (citation omitted); see also Luxottica Grp., 233
+F.R.D. at 311-12. Notices describing the nature of the Litigation and the terms of the Settlement,
+were distributed to over 302,000 potential Class Members. Sylvester Decl., ¶1J3-10. As of the date
+this motion was filed, no objections to the Settlement have been received, no institutional investors
+have opted out of the proposed Settlement, and no individual investors have opted out. 2 However,
+the Court-ordered deadline set for objections is January 28, 2013. Accordingly, if Lead Counsel
+receive any objections to the Settlement or Plan of Allocation, they will be addressed in Lead
+Plaintiffs reply brief scheduled to be filed on February 14, 2013.
+
+As of the date of this filing, Lead Counsel and the Claims Administrator have received 47
+requests from individuals to be excluded from the Litigation. None of these requests represent a
+valid opt out, as the individuals either stated that they did not acquire Wyeth common stock during
+the Class Period (and, thus, are not members of the Class) or failed to provide any information to
+establish whether they are eligible class members as required by the Notice (i. e., number of shares
+purchased/sold during the Class Period and proper evidence of transactions during the Class Period).
+2
+
+-7797276_1
+
+Case 1:07-cv-10329-RJS Document 116
+
+3.
+
+Filed 01/10/13 Page 14 of 27
+
+The Stage of the Proceedings and Discovery Completed
+
+"There is no precise formula for what constitutes sufficient evidence to enable the court to
+analyze intelligently the contested questions of fact. It is clear that the court need not possess
+evidence to decide the merits of the issue, because the compromise is proposed in order to avoid
+further litigation.... At minimum, the court must possess sufficient information to raise its decision
+above mere conjecture." 4 Alba Conte, Herbert B. Newberg, Newberg on Class Actions § 11.45, at
+127, 128 (4th ed. 2002). As previously noted, "[f]ormal discovery is not a prerequisite; the question
+is whether the parties had adequate information about their claims." Global Crossing, 225 F.R.D. at
+458. See also In re Austrian & German Bank Holocaust Litig., 80 F. Supp. 2d 164, 176 (S.D.N.Y.
+2000) (not necessary for court to find parties engaged in extensive discovery; must merely find that
+they engaged in sufficient investigation to enable court to make intelligent appraisal of case) (citing
+Plummer v. Chem. Bank, 668 F.2d 654 (2d Cir. 1982)), aff'd sub nom. D'Amato v. Deutsche Bank,
+236 F.3d 78 (2d Cir. 2001).
+The volume and substance of Lead Counsel's knowledge of this case are unquestionably
+adequate to support the Settlement. In drafting a cogent well-pled complaint, that withstood
+Defendants' motion to dismiss and motion for reconsideration, Lead Counsel conducted an extensive
+investigation and informal discovery, including the: (i) review and analysis of filings made by,
+and/or concerning, Wyeth with the U.S. Securities and Exchange Commission ("SEC") and Food
+and Drug Administration ("FDA"); (ii) review and analysis of analyst conference calls concerning
+Wyeth and other pharmaceutical companies; (iii) review and analysis of analysts' reports concerning
+Wyeth and other pharmaceutical companies; and (iv) review and analysis of wire and press releases,
+public statements, news articles, and other publications disseminated by, and/or concerning, Wyeth.
+
+-8797276_1
+
+Case 1:07-cv-10329-RJS Document 116
+
+Filed 01/10/13 Page 15 of 27
+
+Following denial of Defendants' motion to dismiss, Lead Plaintiff served document requests
+on Defendants and more than a dozen securities analysts and other third party entities with relevant
+information concerning Wyeth's activities during the Class Period. In response to these requests for
+documents, Defendants produced more than 1.3 million pages of documents, which were reviewed
+and analyzed by Lead Counsel. An additional 52,000 pages of documents were produced or
+provided by third parties, including financial analysts and the European Medicines Agency
+("EMA"). Lead Counsel deposed three former/current Wyeth employees, including two Wyeth
+corporate representatives, deposed Defendants' market efficiency and damages expert, and prepared
+for over 20 additional depositions, including the deposition of each Defendant. The parties also
+engaged in a face-to-face meeting in June 2011 to address discovery issues and discuss potential
+settlement, during which each party presented their respective positions and evidence supporting
+their claims and defenses and had the opportunity to question each other's biostatistics consultants.
+To assist Lead Counsel with the prosecution and analysis of this case, experts and
+consultants, including a physician, two biostatisticians, an FDA expert, and economics and damages
+experts were retained and consulted. With their assistance, Lead Counsel were able to critically
+analyze document discovery, determine additional areas of investigation to pursue, meet with
+defense counsel and the mediator to discuss the issues in the case, and draft a cogent and persuasive
+mediation brief, which set forth Lead Plaintiff s theory of its case, and the facts supporting its
+position.
+The extensive investigation and discovery that Lead Counsel conducted, therefore, provided
+a strong basis to assess the strengths and weaknesses of their case, the parties' positions on liability
+and damages, and to knowledgeably assess a possible settlement. Thus, this Litigation had advanced
+to a stage where the parties certainly "have a clear view of the strengths and weaknesses of their
+S
+797276_1
+
+Case 1:07-cv-10329-RJS Document 116
+
+Filed 01/10/13 Page 16 of 27
+
+cases." Teachers'Ret. Sys. ofLa. v. A. C. L.N., Ltd., No. 01-CV-11814 (MP), 2004 WL 1087261, at
+*3 (S.D.N.Y. May 14, 2004) (citation omitted); see also Heyer v. NY. City Hous. Auth., No. 80 Civ.
+1196 (RWS), 2006 WL 1148689, at *3-*4 (S.D.N.Y. Apr. 28, 2006) (although only limited
+discovery was completed before settlement negotiations began, the familiarity of counsel for all
+parties with the case justifies settlement). Therefore, the Court should find that this factor further
+supports approval of the Settlement.
+4.
+
+The Risk of Establishing Liability
+
+In assessing the Settlement, the Court should balance the benefits afforded the Class,
+including the immediacy and certainty of a recovery, against the continuing risks of litigation. See
+Grinnell, 495 F.2d at 463. While Lead Plaintiff believes it could survive Defendants' anticipated
+motion for summary judgment, it recognizes that ultimate success is not assured, and further believes
+that this substantial Settlement, when viewed in light of the risks of proving liability, is fair,
+adequate, and reasonable. See In re Michael Milken & Assocs. Sec. Litig., 150 F.R.D. 46, 53
+(S.D.N.Y. 1993) (when evaluating securities class action settlements, courts have long recognized
+such litigation to be "notably difficult and notoriously uncertain") (quoting Lewis v. Newman, 59
+F.R.D. 525, 528 (S.D.N.Y. 1973)); In re Bear Stearns Cos., Inc. Sec., Derivative and ERISA Litig.,
+No. 08 MDL 1963, 2012 WL 5465381, at *4 (S.D.N.Y. Nov. 9, 2012) ("As a general rule, securities
+class actions are `notably difficult and notoriously uncertain' to litigate.")
+Despite the strengths of Lead Plaintiff's case, it faced numerous hurdles to establishing
+liability. This Litigation involves claims for relief under federal securities laws and, to prevail, Lead
+Plaintiff must demonstrate that Defendants made misstatements or omissions of material fact with
+scienter in connection with the purchase of securities and that the Defendants intentionally engaged
+
+-10797276_1
+
+Case 1:07-cv-10329-RJS Document 116
+
+Filed 01/10/13 Page 17 of 27
+
+in this conduct for the purpose of misleading investors. 3 Ernst & Ernst v. Hochfelder, 425 U.S. 185,
+193 n.12 (1976).
+Defendants have maintained throughout the Litigation that the evidence would demonstrate
+that they did not make any misleading statements or omissions and that they did not act with the
+requisite state of mind. While Lead Counsel believe that Defendants made misstatements and
+omissions of material fact, and that evidence produced by Defendants would support an inference of
+scienter, some of the evidence might also be interpreted as supporting Defendants' position that their
+statements were not actionable under the federal securities laws. Specifically, Defendants
+continuously maintained that there was no intent to deceive shareholders and that they believed
+Pristiq was a safe, effective treatment for VMS. Defendants also maintained that during the Class
+Period cardiovascular safety data was fully disclosed and that they reasonably believed that the
+allegedly omitted data was not material to the safety of Pristiq as it was not statistically significant.
+Defendants also were adamant that their Class Period stock sales were insufficient to support
+scienter because they either did not sell any stock, sold a small percentage of their total holdings, or
+sold their shares as they were retiring from Wyeth. Defendants also argued that Lead Plaintiff could
+not establish any plausible motive to support its allegations that Defendants knowingly committed
+securities fraud.
+Even if Defendants' defenses could be overcome, Lead Plaintiff would have to make the
+requisite showings of loss causation. See, e.g., Emergent Capital Inv. Mgmt., LLC v. Stonepath
+
+Proof of scienter can be established: "(a) by alleging facts to show that defendants had both
+motive and opportunity to commit fraud, or (b) by alleging facts that constitute strong circumstantial
+evidence of conscious misbehavior or recklessness. " Whalen v. Hibernia Foods PLC, No. 04 Civ.
+3182, 2005 WL 1799370, at *2 (S.D.N.Y. Aug. 1, 2005) (citation omitted).
+3
+
+-11797276_1
+
+Case 1:07-cv-10329-RJS Document 116
+
+Filed 01/10/13 Page 18 of 27
+
+Grp., Inc., 343 F.3d 189,196-97 (2d Cir. 2003) (plaintiffs required to plead and prove loss causation
+and proximate causation). Lead Plaintiff faced a significant hurdle to prove loss causation, i.e., that
+Defendants' fraud caused Lead Plaintiff and the Class to suffer economic loss. Under the Supreme
+Court's holding in Dura Pharms., Inc. v. Broudo, 544 U.S. 336, 338 (2005), a "private plaintiff who
+claims securities fraud must prove that the defendant's fraud caused an economic loss." As they did
+in their Rule 23 (f) petition, at summary judgment and trial, Defendants would have argued that any
+losses suffered by Class Members on the purchases of Wyeth common stock were completely
+attributable to other factors and not the alleged misstatements.
+By the time the parties agreed on the proposed Settlement, Lead Counsel had come to the
+conclusion that the evidence indicated that the defenses described above might have a certain jury
+appeal, and would render the inherently difficult burden of proving the elements of Lead Plaintiffs
+claims as to all of the Defendants even more difficult. While Lead Plaintiff remained confident in its
+ability to ultimately prove its claims and to counter any asserted affirmative defenses, the risks of
+this Litigation being dismissed at the summary judgment stage, or of losing at trial, when weighed
+against the immediate and substantial benefits of settlement, established that the Settlement is in the
+best interest of the Class.
+5.
+
+The Risk of Establishing Damages
+
+Lead Plaintiff also faced substantial risk in proving damages. See Indep. Energy, 2003 WL
+22244676, at * 3-*4 (noting difficulty of proving damages in securities cases). In order to prevail on
+its § 10(b) claims, Lead Counsel would be required to prove that the Defendants' misleading
+statements and omissions inflated the price of Wyeth stock, and would also be required to prove the
+amount of the artificial inflation. Lead Counsel, with the assistance of their economics and damages
+experts, have calculated the artificial inflation in the market price of Wyeth stock, that, in their
+-12797276_1
+
+Case 1:07-cv-10329-RJS Document 116
+
+Filed 01/10/13 Page 19 of 27
+
+opinion, is attributable to the alleged wrongdoing. This figure assumes that every element of the
+Class's damages theory is accepted by ajury as being correct and recoverable. As such, its viability
+as an actual calculation for damages could be affected by many factors that might arise in continued
+litigation, such as Defendants' rebuttals and defenses to Lead Plaintiffs damage calculations and
+expert testimony.
+The proof of damages is a complex matter that would require the presentation of expert
+testimony. As a result, Lead Counsel knew that the Class would ultimately face a "battle of experts"
+— a battle in which no party is ever assured to prevail. While Lead Counsel believe that reliable and
+convincing expert testimony can be provided on the damages question, and that a judgment could
+ultimately be obtained for the full amount of damages available under the law, meaningful obstacles
+remain. First, the Court must determine that Lead Plaintiffs damages model is admissible — and
+only then may a jury determine whether Lead Plaintiff's or Defendants' model is more accurate.
+The Class was by no means assured of a ruling in their favor. See, e.g., In re Novatel Wireless Sec.
+Litig., 846 F. Supp. 2d 1104, 1107 (S.D. Cal. 2012) (loss causation expert's testimony was excluded
+
+because he employed the wrong legal standard in performing his loss causation analysis). It is
+possible that, in the unavoidable "battle of experts," ajury might disagree with the Class's expert, or
+find Defendants' expert more persuasive. 4 As a result of the aforementioned considerations, the
+
+See, e.g., PaineWebber, 171 F.R.D. at 129 (noting unpredictability of outcome of battle of
+damage experts); In re Warner Commc'ns Sec. Litig., 618 F. Supp. 735, 744-45 (S.D.N.Y. 1985)
+
+4
+
+("In this `battle of experts,' it is virtually impossible to predict with any certainty which testimony
+would be credited, and ultimately, which damages would be found to have been caused by
+actionable, rather than the myriad nonactionable factors such as general market conditions."), aff'd,
+798 F.2d 35 (2d Cir. 1986). See also In re Cendant Corp. Litig., 264 F.3d 201, 239 (3d Cir. 2001)
+("establishing damages at trial would lead to a `battle of experts' ... with no guarantee whom the
+jury would believe").
+-13797276_1
+
+Case 1:07-cv-10329-RJS Document 116
+
+Filed 01/10/13 Page 20 of 27
+
+likelihood of proving damages, even assuming the Class prevailed on the liability issues, is difficult.
+As a result, this factor also weighs in favor of the Settlement.
+6.
+
+The Risks of Maintaining the Class Action Through Trial
+
+Although the Court certified the Class on September 18, 2012, if the Litigation had not
+settled, there would be no assurance of maintaining class status through trial, since courts may
+always exercise their discretion to re-evaluate the appropriateness of class certification at any time.
+See Chatelain v. Prudential-Bache Sec., 805 F. Supp. 209,214 (S.D.N.Y. 1992) ("Even if certified,
+
+the class would face the risk of decertification."); see also Berger v. Compaq Computer Corp., 257
+F.3d 475 (5th Cir. 2001) (decertifying class, finding proposed class representatives did not
+sufficiently remain apprised of status and claims of litigation). In fact, at the time the Settlement was
+reached, Defendants' Rule 23(f) petition for interlocutory appeal was pending before the Second
+Circuit. The Settlement avoids any uncertainty with respect to this issue.
+7.
+
+The Ability of the Defendants to Withstand a Greater
+Judgment
+
+The ability of a defendant to pay ajudgment greater than the amount offered in a settlement
+can be relevant to whether a settlement is fair. Grinnell, 495 F.2d at 463. The fact, however, that a
+defendant is able to pay more than it offers in settlement, does not, standing alone, indicate that the
+settlement is unreasonable or inadequate. See In re Warfarin Sodium Antitrust Litig., 391 F.3d 516,
+538 (3d Cir. 2004) ("[T]he fact that DuPont could afford to pay more does not mean that it is
+obligated to pay any more than what the .... class members are entitled to under the theories of
+liability that existed at the time the settlement was reached."); In re Sony SXRD Rear Projection
+Television ClassAction Litig., No. 06 Civ. 5173 (RPP), 2008 WL 1956267, at *8 (S.D.N.Y. May 1,
+
+2008) ("a defendant is not required to `empty its coffers' before a settlement can be found
+
+-14797276_1
+
+Case 1:07-cv-10329-RJS Document 116
+
+Filed 01/10/13 Page 21 of 27
+
+adequate"); In re Wachovia Equity Sec. Litig., No. 08 Civ. 6171(RJS), 2012 WL 2774969, at *5
+(S.D.N.Y. June 12, 2012) (same).
+Wyeth is now owned by Pfizer Inc. While it is apparent that Pfizer has sufficient resources
+to pay a sum larger than the settlement amount, as discussed above, as a practical matter the
+prospects of recovering a substantially greater sum would have been offset by the inevitable post
+trial motions and appeals Defendants would likely pursue following any judgment. Additionally,
+settlement eliminates the risk of collection. Defendants have paid the Settlement Fund into escrow
+pursuant to the Stipulation which is already earning interest for the Class.
+8.
+
+The Reasonableness of the Settlement in Light of the Best
+Possible Recovery and the Attendant Risks of Litigation
+
+The last two factors are satisfied here. The adequacy of the amount offered in settlement
+must be judged "not in comparison with the possible recovery in the best of all possible worlds, but
+rather in light of the strengths and weaknesses of plaintiffs' case." In re "Agent Orange" Prod.
+
+Liab. Litig., 597 F. Supp. 740,762 (E.D.N.Y. 1984), aff'd, 818 F.2d 145 (2d Cir. 1987). The Court
+need only determine whether the Settlement falls within a "range of reasonableness."
+
+Paine Webber, 171 F.R.D. at 130 (citation omitted); Newman, 464 F.2d at 693 ("[I]n any case there is
+a range of reasonableness with respect to a settlement.
+
+").
+
+See also Indep. Energy, 2003 WL
+
+22244676, at *4 (noting few cases tried before a jury result in full amount of damages claimed). In
+addition, in considering the reasonableness of the Settlement, the Court should consider that the
+Settlement provides for payment to the Class now, rather than a speculative payment many years
+down the road. See In re AOL Time Warner, Inc. Sec. & "ERISA " Litig., No. MDL 1500, 2006 WL
+903236, at * 13 (S.D.N.Y. Apr. 6, 2006) (where settlement fund is in escrow and earning interest for
+the class, "the benefit of the Settlement will ... be realized far earlier than a hypothetical post-trial
+recovery"). There are numerous risks involved in litigation — especially litigation that involves the
+-15797276_1
+
+Case 1:07-cv-10329-RJS Document 116
+
+Filed 01/10/13 Page 22 of 27
+
+complex issues inherent in securities class actions. In light of the complex legal and factual issues
+typically present in securities class actions, the unpredictability of a lengthy and complex trial, and
+the appellate process that would most likely follow, the fairness of a substantial settlement is clearly
+apparent. Maley v. Del Global Techs. Corp., 186 F. Supp. 2d 358, 366 (S.D.N.Y. 2002). Here, the
+Settlement of $67,500,000 in cash represents an excellent recovery for the Class, given the risks of
+proceeding further in this matter.
+Considering the probability of lengthy litigation in the absence of a settlement, the risk that
+the Class might not have been able to succeed on liability, and the possibility that damages awarded
+by a jury could have been lower than those demanded by the Class (or no recovery at all), the
+Settlement is an excellent recovery.
+In sum, the Grinnell factors, individually and collectively, weigh strongly in favor of the
+Settlement being approved.
+IV. THE PLAN OF ALLOCATION IS FAIR AND REASONABLE
+If the Court approves the proposed Settlement, upon completion of the claims filing process,
+the Net Settlement Fund will be distributed to Members of the Class according to the Plan of
+Allocation set forth in the Notice. "[T]he adequacy of an allocation plan turns on whether counsel
+has properly apprised itself of the merits of all claims, and whether the proposed apportionment is
+fair and reasonable in light of that information." PaineWebber, 171 F.R.D. at 133; Luxottica Grp.,
+233 F.R.D. at 316-17. See also Taft, 2007 WL 414493, at *9• As with the Settlement, the opinion of
+experienced and informed counsel carries considerable weight. Indep. Energy, 2003 WL 22244676,
+at *4-* 5. An allocation formula need only have a reasonable basis, particularly if recommended by
+experienced class counsel. White v. NFL, 822 F. Supp. 1389, 1420-24 (D. Minn. 1993); In re Am.
+Bank Note Holographics, 127 F. Supp. 2d 418, 429-30 (S.D.N.Y. 2001).
+-16797276_1
+
+Case 1:07-cv-10329-RJS Document 116
+
+Filed 01/10/13 Page 23 of 27
+
+District courts enjoy "broad supervisory powers over the administration of class-action
+settlements to allocate the proceeds among the claiming class members ... equitably." Beecher v.
+
+Able, 575 F.2d 1010, 1016 (2d Cir. 1978). Numerous courts have approved distribution plans that
+allocate the settlement proceeds according to the relative strengths and weaknesses of the various
+claims. See Warner Commc'ns, 618 F. Supp. at 745; Weinberger, 698 F.2d at 78. Thus, "if one set
+of claims had a greater likelihood of ultimate success than another set of claims, it is appropriate to
+weigh `distribution of the settlement ... in favor of plaintiffs whose claims comprise the set' that
+was more likely to succeed." In re "Agent Orange" Prod. L iab. L itig. , 611 F. Supp. 1.396, 1411
+(E.D.N.Y. 1985) (quoting In re Corrugated Container Antitrust Litig., 643 F.2d 195, 220 (5th Cir.
+1981)), aff'd in part and rev'd in part on other grounds, 818 F.2d 179 (2d Cir. 1987). Moreover,
+there is no requirement that a settlement must benefit all class members equally.
+
+See Petrovic v.
+
+AMOCO Oil Co., 200 F.3d 1140, 1152 (8th Cir. 1999) (upholding distribution plan where class
+members received different levels of compensation and finding that no subgroup was treated
+unfairly); S.C. Nat'l Bank v. Stone, 749 F. Supp. 1419, 1437 (D.S.C. 1990) (approving settlement
+where some class members did not share in recovery).
+The decisions cited above acknowledge that the goal of a distribution plan is fairness to the
+class as a whole, taking into consideration the strength of claims based on available evidence. Here,
+experienced and informed counsel formulated the Plan of Allocation with their economics and
+damages experts, which involved careful assessments of the strengths and weaknesses of Lead
+Plaintiffs claims, as well as assessments of the manner in which the damages should be allocated to
+the Class in light of those strengths and weaknesses. As a result, the Plan of Allocation clearly has a
+"reasonable, rational basis" and should be approved by the Court. Global Crossing, 225 F.R.D. at
+462 (citation omitted).
+-17797276_1
+
+Case 1:07-cv-10329-RJS Document 116
+
+V.
+
+Filed 01/10/13 Page 24 of 27
+
+CONCLUSION
+The $67,500,000 Settlement reached in this Litigation is an excellent result that provides an
+
+immediate and substantial benefit for the Class. For the reasons set forth herein and in the Gronborg
+Declaration, Lead Plaintiff and Lead Counsel respectfully submit that the Settlement and Plan of
+Allocation are fair, reasonable, and adequate, and respectfully request the Court grant approval of the
+Settlement and Plan of Allocation.
+DATED: January 10, 2013
+
+Respectfully submitted,
+ROBBINS GELLER RUDMAN
+& DOWD LLP
+TOR GRONBORG
+TRIG R. SMITH
+LAURIE L. LARGENT
+CHRISTOPHER D. STEWART
+SUSANNAH R. CONN
+
+s/ Tor Gronborg
+TOR GRONBORG
+655 West Broadway, Suite 1900
+San Diego, CA 92101
+Telephone: 619/231-1058
+619/231-7423 (fax)
+torg@rgrdlaw.com
+trigs@rgrdlaw.com
+llargent@rgrdlaw. com
+cstewart@rgrdlaw.com
+sconn rgrdlaw.com
+
+-18797276_1
+
+Case 1:07-cv-10329-RJS Document 116
+
+Filed 01/10/13 Page 25 of 27
+
+ROBBINS GELLER RUDMAN
+& DOWD LLP
+SAMUEL H. RUDMAN
+DAVID A. ROSENFELD
+58 South Service Road, Suite 200
+Melville, NY 11747
+Telephone: 631/367-7100
+631/367-1173 (fax)
+srudman@rgrdlaw.com
+dro senfeld@rgrdlaw. com
+Lead Counsel for Lead Plaintiff
+
+-19797276_1
+
+Case 1:07-cv-10329-RJS Document 116
+
+Filed 01/10/13 Page 26 of 27
+
+CERTIFICATE OF SERVICE
+I hereby certify that on January 10, 2013, I authorized the electronic filing of the foregoing
+with the Clerk of the Court using the CM/ECF system which will send notification of such filing to
+the e-mail addresses denoted on the attached Electronic Mail Notice List, and I hereby certify that I
+caused to be mailed the foregoing document or paper via the United States Postal Service to the nonCM/ECF participants indicated on the attached Manual Notice List.
+I certify under penalty of perjury under the laws of the United States of America that the
+foregoing is true and correct. Executed on January 10, 2013.
+s/ Tor Gronborg
+TOR GRONBORG
+ROBBINS GELLER RUDMAN
+655 West Broadway, Suite 1900
+San Diego, CA 92101-3301
+Telephone: 619/231-1058
+619/231-7423 (fax)
+E-mail : TorGQrgrdlaw. com
+
+797276_1
+
+SDNY CM/ECF
+Version 4.2Case 1:07-cv-10329-RJS
+Document 116
+
+Filed 01/10/13 Page 27 of 27 Page 1 of I
+
+Mailing Information for a Case 1:07-cv-10329-RJS
+Electronic Mail Notice List
+The following are those who are currently on the list to receive e-mail notices for this case.
+• Rae Caroline Adams
+radams@stblaw.com ,mwasserman@stblaw. corn
+• Susannah R Conn
+sconn@rgrdlaw.com
+• Tor Gronborg
+torg@rgrdlaw.com ,E File SD@rgrdlaw.coin
+• Laurie L. Largent
+llargent@rgrdlaw. com
+• Lynn Katherine Neuner
+lneuner@stblaw: com,managingclerk@stblaw. com
+• Bryce Allan Pashler
+bpashler@stblaw.com ,managingclerk@stblaw.com
+• David Avi Rosenfeld
+dosenfeld@rgrdlaw.com ,e_file_ny@rgrdlaw.com ,e file sd@rgrdlaw.com
+
+• Samuel Howard Rudman
+srudman@rgrdlaw.com ,e_file_ny@rgrdlaw.com ,mblasy@rgrdlaw.com ,e_file sd@rgrdlaw.com
+• Trig Randall Smith
+trigs@rgrdlaw. com ,e_file sd@rgrdlaw.con1
+• Christopher D. Stewart
+cstewart@rgrdlaw. corn, karenc@rgrdlaw.ccm,e_file sd@rgrdlaw.com
+• George S Wang
+gwang@stblaw. com, managingclerk@stblaw. com
+
+Manual Notice List
+The following is the list of attorneys who are not on the list to receive e-mail notices for this case (who
+therefore require manual noticing). You may wise to use your mouse to select and copy this list into
+your word processing program in order to create notices or labels for these recipients.
+• (No manual recipients)
+
+https://ecf.nysd.uscourts.gov/cgi-bin/MailList.pl `'2182006913801 52-L_55 5_0-1
+
+1 / 10/2013
+
+

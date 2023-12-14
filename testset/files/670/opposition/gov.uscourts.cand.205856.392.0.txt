@@ -1,0 +1,979 @@
+Google Inc. et al v. Egger et al
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+Doc. 392
+
+ELECTRONIC FRONTIER FOUNDATION
+CINDY COHN (145997)
+cindy@eff.org
+LEE TIEN (148216)
+tien@eff.org
+KURT OPSAHL (191303)
+kurt@eff.org
+KEVIN S. BANKSTON (217026)
+bankston@eff.org
+CORYNNE MCSHERRY (221504)
+corynne@eff.org
+JAMES S. TYRE (083117)
+jstyre@eff.org
+454 Shotwell Street
+San Francisco, CA 94110
+Telephone: 415/436-9333
+415/436-9993 (fax)
+
+10
+
+Attorneys for Plaintiffs
+
+11
+
+[Additional counsel appear on signature page.]
+
+12
+13
+
+UNITED STATES DISTRICT COURT
+
+14
+
+FOR THE NORTHERN DISTRICT OF CALIFORNIA
+
+15
+
+SAN FRANCISCO DIVISION
+
+16
+17
+18
+19
+20
+21
+22
+23
+24
+
+)
+)
+)
+)
+)
+This Document Relates To:
+)
+)
+ALL CASES except AL HARAMAIN v. BUSH )
+07-0109; CENTER FOR CONSTITUTIONAL )
+RIGHTS v. BUSH 07-1115; UNITED STATES )
+)
+V. FARBER, ET AL 07-1324; UNITED
+)
+STATES V. ADAMS, ET. AL. 07-1323;
+UNITED STATES V. PALERMINO, ET AL, )
+)
+07-1326; UNITED STATES V. VOLZ, ET AL, )
+07-1396
+)
+)
+IN RE NATIONAL SECURITY AGENCY
+TELECOMMUNICATIONS RECORDS
+LITIGATION, MDL No. 1791
+
+MDL Docket No 06-1791 VRW
+CLASS ACTION
+PLAINTIFFS’ REPLY IN SUPPORT OF
+MOTION FOR ORDER TO PRESERVE
+EVIDENCE
+Judge:
+Date:
+Time:
+Courtroom:
+
+The Hon. Vaughn R. Walker
+November 15, 2007
+2:00 p.m.
+6, 17th Floor
+
+25
+26
+27
+28
+No. M-06-01791-VRW
+
+PLAINTIFFS’ REPLY IN SUPPORT OF MOTION TO
+PRESERVE EVIDENCE
+
+Dockets.Justia.com
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+
+INTRODUCTION
+Plaintiffs have now spent over a year trying to get a basic evidence preservation agreement
+from defendants and the intervenor. Starting from shortly after the Hepting case was filed in early
+2006, plaintiffs began discussions, first with AT&T and the government and later, after all the
+cases were consolidated into this multi-district litigation, with all of the carrier defendants.
+Plaintiffs’ goal is simple: to avoid a situation in which plaintiffs are finally entitled to engage in
+substantive discovery only to find that needed relevant evidence has been destroyed. Given the
+context of this case – a complex litigation where the evidence relates to communications and
+communications records of millions of ordinary Americans over a period of many years – a formal
+stipulation or order should govern the critical issue of evidence preservation. This is especially the
+case since substantive discovery is, at best, months away.
+Plaintiffs have tried multiple times to accommodate the government’s concerns about its
+invocation of the state secrets privilege. Plaintiffs have said that they are willing to await the Ninth
+Circuit’s decision in Hepting before engaging in discussions concerning the details of the parties’
+preservation duties (without conceding that the state secrets privilege applies). They have framed
+their request as generously as possible, merely asking defendants and the intervenor to agree that
+the scope of the legal duty is as expressed in the leading caselaw. The specific proposed order is
+modeled on the “Interim Order Regarding Preservation” in the Manual for Complex Litigation
+(“MCL”). That interim order is designed to be used “[u]ntil the parties reach agreement on a
+preservation plan.” MCL, Fourth § 40.25, item 3 (a). This seems to be the appropriate model since
+the parties are not going to address a more detailed preservation plan at least until after the Ninth
+Circuit provides some clarity on the scope of the state secrets privilege.
+Plaintiffs ultimately brought this matter to the court’s attention because the government
+insisted that their invocation of the state secrets privilege meant that neither they nor the carriers
+could make any agreement to preserve evidence. The most the government would say was that
+they knew that generally “parties to litigation” had obligations to preserve evidence, not that they
+or the carriers had any obligations or would abide by them. Declaration of Cindy Cohn in Support
+
+28
+No. M-06-01791-VRW
+
+1
+
+PLAINTIFFS’ REPLY IN SUPPORT OF MOTION TO
+PRESERVE EVIDENCE
+
+1
+
+of Plaintiffs’ Motion to Preserve Evidence, Exh. C, (Coppolino email of June 29, 2007). The
+
+2
+
+government did offer to make an ex parte, in camera presentation to the court on this issue,
+
+3
+
+although they resisted plaintiffs’ suggestion that the best vehicle for such a presentation was the
+
+4
+
+court’s ordinary motion schedule.
+
+5
+
+At heart, defendants’ and intervenor’s position was that because the government has made a
+
+6
+
+state secrets privilege assertion over at least some of the technological details, they cannot be held
+
+7
+
+to any formal duty to preserve relevant evidence. Yet the state secrets privilege does not allow
+
+8
+
+parties to evade basic procedural duties. As plaintiffs noted in their opening brief, “invocation of
+
+9
+
+the privilege results in no alteration of pertinent substantive or procedural rules . . ..” Ellsberg v.
+
+10
+
+Mitchell, 709 F.2d 51,64 (D.C. Cir. 1983).
+
+11
+
+In their opposition and joinders, both the government and the carriers take baby steps
+
+12
+
+toward agreeing to preserve relevant evidence, while still resisting the imposition of any
+
+13
+
+preservation order that could enforce these duties. The Verizon Defendants actually move the
+
+14
+
+closest, formally stating in their joinder “that they are obligated to take reasonable steps to
+
+15
+
+preserve” potentially discoverable evidence. Verizon Opposition (Docket No. 388) at 1:8-9.1 Yet
+
+16
+
+Verizon still opposes plaintiffs’ motion. The government initially repeats its limited assertion that
+
+17
+
+it “recognizes[s]” the obligations. Government Opposition (Docket No. 386) at 1:6. It later states
+
+18
+
+that the ex parte, in camera declaration by an unnamed NSA agent “shows that if any potentially
+
+19
+
+relevant information exists as to any allegations . . . appropriate preservation steps, if any, are being
+
+20
+
+taken.” Govt. Opp. at p. 12:12-15.2 The AT&T3 and Sprint Defendants merely join in the
+
+21
+
+government’s opposition (AT&T Joinder (Docket No. 391); Sprint Joinder (Docket No. 390),
+
+22
+
+1
+
+23
+24
+25
+26
+27
+28
+
+All references are to docket numbers in the In Re National Security Agency Telecommunications
+Records Litigation, MDL case no. 1791-VRW.
+2
+
+The government insists in two footnotes that its ex parte, in camera filing is not made pursuant to
+50 U.S.C. §1806(f). Govt. Opp. at footnote 1 and 10. Plaintiffs disagree. Situations in which the
+parties are discussing evidence where the government has raised concerns about national security
+are exactly what Section 1806(f) covers, and the government appears to be using the process laid
+out by Congress, just without naming it. Nonetheless, the court need not resolve this issue now.
+Plaintiffs do not oppose the government’s ex parte, in camera filing because it appears to
+substantially comply with the Section 1806(f) process.
+3
+
+Referencing the AT&T Defendants here we include the AT&T, Cingular and BellSouth
+defendants as defined in footnotes 3 and 5 of the Joint Case Management Statement, docket 61-1.
+2
+No. M-06-01791-VRW
+
+PLAINTIFFS’ REPLY IN SUPPORT OF MOTION TO
+PRESERVE EVIDENCE
+
+1
+
+presumably meaning that the unnamed NSA agent’s declaration also explains what these carrier
+
+2
+
+defendants are doing to preserve potentially relevant evidence.4
+
+3
+
+Given these small steps, it is not much more to require the defendants and intervenor to
+
+4
+
+abide by the normal preservation duties applicable in complex litigation, as expressed in plaintiffs’
+
+5
+
+proposed order. These duties are: 1) identification of the persons responsible at each defendant and
+
+6
+
+the intervenor for ensuring that evidence is preserved; 2) the institution of a litigation hold; 3) a
+
+7
+
+standard for preservation so that later disputes can be properly framed, and 4) the availability of
+
+8
+
+sanctions if the parties breach their duty.
+
+9
+
+The Court may also wish to make more specific requirements of the carriers and
+
+10
+
+government in an ex parte, in camera order (presented only to the affected parties), based on the
+
+11
+
+presumably more specific information it has received from the government in camera, ex parte.
+
+12
+
+Obviously, plaintiffs are not in a position to list the specifics of such a secret order, but it could
+
+13
+
+ensure that the information reasonably needed to address plaintiffs’ statutory and Constitutional
+
+14
+
+claims is preserved (for instance, information related to the communications of ordinary citizens
+
+15
+
+which pass through the split cables referenced in the Klein documents, which are admittedly not
+
+16
+
+state secrets, and information sufficient to establish which call records belonging to which
+
+17
+
+customers were turned over by which carriers at approximately which times).5 Such a secret order
+
+18
+
+could also eliminate the government’s concern that the public order proposed by plaintiffs would
+
+19
+
+leave them and the carriers without specific guidance about what to preserve. See Govt. Opp. at p.
+
+20
+
+4
+
+25
+
+It seems strange that an unnamed NSA agent could give admissible evidence about what AT&T,
+Sprint, and Verizon defendants are doing individually to preserve relevant evidence. Given the
+range of information from each carrier that would be relevant in these cases, it is hard to imagine
+how one NSA declarant could credibly give admissible testimony about the preservation efforts
+taken by the individual carriers. While the in camera nature of the declaration makes it difficult to
+be sure, it seems that the unnamed NSA agent’s declaration would appear, at best, to be hearsay
+about the efforts taken by the carriers, or perhaps not to address the actions taken by the carriers at
+all. If either of these is the case, we ask that the court require the carrier defendants to present their
+own declarations about efforts to preserve relevant evidence from individuals with appropriate
+knowledge.
+
+26
+
+5
+
+21
+22
+23
+24
+
+27
+28
+
+Given the uncertainty as to what information may be privileged and what information the court
+may have to examine in making that determination or as part of the 50 U.S.C 1806(f) process, the
+parties must preserve all evidence which might fall within the scope of discovery. United States v.
+Reynolds, 345 U.S. 1, 10 (1953) (Noting that a court may “require a complete disclosure to the
+judge before the claim of privilege will be accepted . . .”)
+3
+No. M-06-01791-VRW
+
+PLAINTIFFS’ REPLY IN SUPPORT OF MOTION TO
+PRESERVE EVIDENCE
+
+1
+
+11:20-12:2. What cannot be the case is the Catch-22 that the government wishes to impose on
+
+2
+
+plaintiffs: on the one hand, that the state secrets privilege prevents a detailed factual determination
+
+3
+
+of what should be preserved and on the other, that any order short of that cannot be imposed
+
+4
+
+because it does not provide sufficient factual detail about what should be preserved.
+
+5
+
+Plaintiffs respectfully request that their motion be granted.
+
+6
+
+ARGUMENT
+
+7
+
+The government makes a two-part argument in opposition. The government’s first
+
+8
+
+argument fails because it incorrectly asserts that the applicable standard is the one articulated in a
+
+9
+
+non-complex case from the Western District of Pennsylvania, Capricorn Power Co. v. Siemens
+
+10
+
+Westinghouse Power Corp., 220 F.R.D. 429 (W.D. Penn. 2004). Capricorn Power expressly
+
+11
+
+distinguishes itself from complex litigation, stating:
+
+12
+13
+14
+15
+16
+
+The Court recognizes that it has become routine to order the preservation of
+evidence prior to the beginning of the discovery period at the initial case
+management conference and sometimes even before such a conference in complex
+litigation. Manual for Complex Litigation, Fourth § 11.442. The circumstances of
+the three motions before the Court do not concern “complex” litigation nor are we at
+the initial stages of discovery with all of the attendant circumstances which are
+normally present in cases for which the Manual for Complex Litigation is intended
+to provide guidance. Id at §§ 10.1, 11.442. Therefore, the Court does not invoke
+any of the recommendations of that manual for the present analysis.
+
+17
+
+Id. at 434, n.2. Similarly, the government mistakenly relies on a Southern District of New York
+
+18
+
+case, Treppel v. Bovail Corp., 233 F.R.D. 363 (S.D.N.Y 2006), which concerned an alleged
+
+19
+
+attempt to harm the reputation of an individual stock analyst. Plainly, that case was also not
+
+20
+
+complex litigation.
+
+21
+
+As the plaintiffs explained in their opening brief, the proper place to look for assistance in
+
+22
+
+determining whether an interim preservation order is appropriate in complex litigation such as this
+
+23
+
+is the MCL. It says, “[b]efore discovery starts, and perhaps before the initial conference, the court
+
+24
+
+should consider whether to enter an order requiring the parties to preserve and retain documents,
+
+25
+
+files, data, and records that may be relevant to the litigation.” MCL, Fourth § 11.442. As noted
+
+26
+
+above, plaintiffs’ proposed order is modeled on an interim preservation order designed to be used
+
+27
+
+“[u]ntil the parties reach agreement on a preservation plan.” MCL, Fourth § 40.25, item 3 (a).
+
+28
+
+This seems to be the appropriate course until the Ninth Circuit decides the Hepting appeal, since
+No. M-06-01791-VRW
+
+4
+
+PLAINTIFFS’ REPLY IN SUPPORT OF MOTION TO
+PRESERVE EVIDENCE
+
+1
+
+plaintiffs have agreed to forgo detailed discussions regarding a preservation plan until then.
+
+2
+
+The second part of the government’s argument extends its erroneous reasoning, claiming
+
+3
+
+that the motion “cannot be resolved without state secrets” because of the detailed inquiry involved.
+
+4
+
+Govt. Opp. at p. 6:23. The government makes the “straw man” argument that resolving this motion
+
+5
+
+would invariably disclose “intelligence sources and methods subject to the state secrets privilege.”
+
+6
+
+Id. at p. 10:19-22. Plaintiffs are not seeking a factually specific preservation order. As noted
+
+7
+
+above, plaintiffs have expressly modeled their request on the MCL’s “Interim Order Regarding
+
+8
+
+Preservation”, which is imposed before the parties engage in the factual discussion of a
+
+9
+
+preservation plan. The Capricorn Power court observed that such orders are “routine” in complex
+
+10
+
+cases. Capricorn Power, supra at 434, n.2. More importantly, though, such an order does not
+
+11
+
+require the defendants to reveal any information whatsoever to plaintiffs, much less to reveal state
+
+12
+
+secrets.
+
+13
+
+The risk of spoliation of evidence in a large, complex, litigation such as this is real, and
+
+14
+
+plaintiffs’ concerns are reasonable. Mindful of the state secrets privilege issue before the Ninth
+
+15
+
+Circuit, plaintiffs seek a modest preservation order that would simply spell out the parties’ legal
+
+16
+
+obligations, require identification of responsible persons, and provide plaintiffs with clear recourse
+
+17
+
+in the event that relevant evidence is destroyed. It may make sense for the Court to supplement
+
+18
+
+plaintiffs’ proposed public order with a more specific, ex parte, in camera Order to give the
+
+19
+
+defendants and the intervenor more factually detailed assistance in carrying out their preservation
+
+20
+
+duties.
+
+21
+
+Finally, the government maintains that no hearing should be held because the issues are
+
+22
+
+“inherently factual.” Plaintiffs disagree, and believe that the core of this dispute is about whether
+
+23
+
+an interim preservation order is appropriate to ensure that evidence is not destroyed, not what a
+
+24
+
+specific final preservation order should say. Because of this, plaintiffs respectfully submit that it
+
+25
+
+may be helpful to the Court to have the parties before it to answer any questions.
+
+26
+27
+28
+No. M-06-01791-VRW
+
+5
+
+PLAINTIFFS’ REPLY IN SUPPORT OF MOTION TO
+PRESERVE EVIDENCE
+
+1
+2
+3
+
+CONCLUSION
+For the reasons stated above, the plaintiffs respectfully request this Court grant the
+plaintiffs’ motion for an order to preserve evidence.
+
+4
+5
+6
+7
+
+ELECTRONIC FRONTIER FOUNDATION
+
+DATED: November 1, 2007
+
+8
+By
+
+9
+10
+11
+12
+13
+14
+
+ATTORNEYS FOR AT&T CLASS
+PLAINTIFFS AND CO-CHAIR OF
+PLAINTIFFS’ EXECUTIVE COMMITTEE
+
+15
+16
+
+Additional Plaintiffs' Counsel on Executive
+Committee and Liaison Counsel:
+
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+
+/s/
+Cindy A. Cohn, Esq. (SBN 145997)
+Lee Tien, Esq. (SBN 148216)
+Kurt Opsahl, Esq. (SBN 191303)
+Kevin S. Bankston, Esq. (SBN 217026)
+Corynne McSherry, Esq. (SBN 221504)
+James S. Tyre, Esq. (SBN 083117)
+454 Shotwell Street
+San Francisco, CA 94110
+Telephone:
+(415) 436-9333 x108
+Facsimile:
+(415) 436-9993
+
+ROGER BALDWIN FOUNDATION OF
+ACLU
+HARVEY GROSSMAN
+ADAM SCHWARTZ
+180 North Michigan Avenue
+Suite 2300
+Chicago, IL 60601
+Telephone: (312) 201-9740
+Facsimile: (312) 201-9760
+
+LIEFF, CABRASER, HEIMANN &
+BERNSTEIN, LLP
+ELIZABETH J. CABRASER
+BARRY R. HIMMELSTEIN
+ERIC B. FASTIFF
+275 Battery Street, 30th Floor
+San Francisco, CA 94111-3339
+Telephone: (415) 956-1000
+Facsimile: (415) 956-1008
+PLAINTIFFS’ COUNSEL FOR MCI
+SUBSCRIBER CLASS
+
+PLAINTIFFS’ COUNSEL FOR AT&T
+SUBSCRIBER CLASS AND CO-CHAIR OF
+PLAINTIFFS’ EXECUTIVE COMMITTEE
+
+28
+No. M-06-01791-VRW
+
+6
+
+PLAINTIFFS’ REPLY IN SUPPORT OF MOTION TO
+PRESERVE EVIDENCE
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+
+MOTLEY RICE LLC
+RONALD MOTLEY
+DONALD MIGLIORI
+JODI WESTBROOK FLOWERS
+JUSTIN KAPLAN
+28 Bridgeside Boulevard
+P.O. Box 1792
+Mt. Pleasant, SC 29465
+Telephone: (843) 216-9000
+Facsimile: (843) 216-9450
+
+GEORGE & BROTHERS, L.L.P.
+R. JAMES GEORGE, JR.
+DOUGLAS BROTHERS
+1100 Norwood Tower
+114 W. 7th Street
+Austin, Texas 78701
+Telephone: (512) 495-1400
+Facsimile: (512) 499-0094
+PLAINTIFFS’ COUNSEL FOR CINGULAR
+SUBSCRIBER CLASS
+
+PLAINTIFFS’ COUNSEL FOR VERIZON
+SUBSCRIBER CLASS
+THE MASON LAW FIRM, PC
+GARY E. MASON
+NICHOLAS A. MIGLIACCIO
+1225 19th St., NW, Ste. 500
+Washington, DC 20036
+Telephone: (202) 429-2290
+Facsimile: (202) 429-2294
+
+MAYER LAW GROUP
+CARL J. MAYER
+66 Witherspoon Street, Suite 414
+Princeton, New Jersey 08542
+Telephone: (609) 921-8025
+Facsimile: (609) 921-6964
+PLAINTIFFS’ COUNSEL FOR BELLSOUTH
+SUBSCRIBER CLASS
+
+PLAINTIFFS’ COUNSEL FOR SPRINT
+SUBSCRIBER CLASS
+
+17
+18
+19
+
+BRUCE I AFRAN, ESQ.
+10 Braeburn Drive
+Princeton, NJ 08540
+609-924-2075
+
+20
+21
+22
+
+PLAINTIFFS’ COUNSEL FOR
+BELLSOUTH SUBSCRIBER CLASS
+
+LISKA, EXNICIOS & NUNGESSER
+ATTORNEYS-AT-LAW
+VAL PATRICK EXNICIOS
+One Canal Place, Suite 2290
+365 Canal Street
+New Orleans, LA 70130
+Telephone: (504) 410-9611
+Facsimile: (504) 410-9937
+PLAINTIFFS’ COUNSEL FOR BELLSOUTH
+SUBSCRIBER CLASS
+
+23
+24
+25
+26
+27
+28
+No. M-06-01791-VRW
+
+7
+
+PLAINTIFFS’ REPLY IN SUPPORT OF MOTION TO
+PRESERVE EVIDENCE
+
+1
+2
+3
+4
+5
+
+KRISLOV & ASSOCIATES, LTD.
+CLINTON A. KRISLOV
+20 North Wacker Drive
+Suite 1350
+Chicago, IL 60606
+Telephone: (312) 606-0500
+Facsimile: (312) 606-0207
+
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+
+THE LAW OFFICES OF STEVEN E.
+SCHWARZ, ESQ.
+STEVEN E. SCHWARZ
+2461 W. Foster Ave., #1W
+Chicago, IL 60625
+Telephone: (773) 837-6134
+PLAINTIFFS’ COUNSEL FOR BELLSOUTH
+SUBSCRIBER CLASS
+
+PLAINTIFFS’ COUNSEL FOR
+BELLSOUTH SUBSCRIBER CLASS
+ANN BRICK
+NICOLE A. OZER
+AMERICAN CIVIL LIBERTIES UNION
+FOUNDATION OF NORTHERN
+CALIFORNIA
+39 Drumm Street
+San Francisco, CA 94111
+Telephone: (415) 621-2493
+Facsimile: (415) 255-8437
+
+PEGGY A. WHIPPLE (MO 54758)
+JENNIFER HEINTZ (MO 57128)
+P.O. BOX 360
+Jefferson City, MO 65102
+ATTORNEYS FOR MISSOURI PUBLIC
+SERVICE COMMISSION
+(Plaintiffs in Clayton v. AT&T, 07-1187 and
+Defendants in United States v. Gaw, 07-1242)
+
+LAURENCE F. PULGRAM
+JENNIFER L. KELLY
+CANDACE MOREY
+AARON K. PERZANOWSKI
+FENWICK & WEST LLP
+555 California Street
+San Francisco, CA 94104
+Telephone: (415) 875-2300
+Facsimile: (415) 281-1350
+ATTORNEYS FOR PLAINTIFFS
+(Campbell v. ATT Communications of
+California, C-06-3596, and Riordan v.
+Verizon Communications, Inc., C-06-3574)
+
+21
+22
+23
+24
+25
+26
+27
+28
+No. M-06-01791-VRW
+
+8
+
+PLAINTIFFS’ REPLY IN SUPPORT OF MOTION TO
+PRESERVE EVIDENCE
+
+1
+2
+
+CERTIFICATE OF SERVICE
+I hereby certify that on November 1, 2007, I electronically filed the foregoing with the
+
+3
+
+Clerk of the Court using the CM/ECF system which will send notification of such filing to the e-
+
+4
+
+mail addresses denoted on the attached Electronic Mail Notice List.
+
+5
+
+By
+
+6
+7
+8
+9
+
+/s/
+Cindy A. Cohn, Esq. (SBN.145997)
+ELECTRONIC FRONTIER FOUNDATION
+454 Shotwell Street
+San Francisco, CA 94110
+Telephone:
+(415) 436-9333 x108
+Facsimile:
+(415) 436-9993
+cindy@eff.org
+
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+No. M-06-01791-VRW
+
+CERTIFICATE OF SERVICE
+
+

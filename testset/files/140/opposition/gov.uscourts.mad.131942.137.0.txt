@@ -1,0 +1,822 @@
+Case 1:10-md-02193-RWZ Document 137 Filed 08/20/12 Page 1 of 25
+
+UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF MASSACHUSETTS
+
+In re: Bank of America Home Affordable
+Modification Program (HAMP) Contract
+Litigation
+
+No. 1:10-md-02193
+
+DEFENDANT BANK OF AMERICA, N.A.’S
+OPPOSITION TO PLAINTIFFS’ MOTION TO COMPEL
+
+Case 1:10-md-02193-RWZ Document 137 Filed 08/20/12 Page 2 of 25
+
+TABLE OF CONTENTS
+Page
+ARGUMENT .................................................................................................................................. 3
+I.
+
+Plaintiffs’ request for Email Should be denied. .................................................................. 3
+A.
+
+Plaintiffs’ Proposal Would Impose an Undue Burden on BANA that is Not
+Justified at this Pre-Certification Stage of the Lawsuit ...........................................4
+
+B.
+
+Plaintiffs Fail To Justify The Incredible Burden They Seek To Impose .................6
+1.
+
+Plaintiffs’ Proposed Custodians and Search Terms Illustrate the
+Overbroad and Burdensome Nature of Their Request. ................................6
+
+2.
+
+None of Plaintiffs’ Proffered Reasons Justify The Protocol........................9
+
+3.
+II.
+
+III.
+
+IV.
+
+a.
+
+No BANA employee has testified that they could not
+provide substantive testimony without seeing their old
+email. ................................................................................................9
+
+b.
+
+Plaintiffs’ “evidence” of BANA’s purported “scheme to
+wrongfully deny mortgage modifications” does not justify
+the burden of their proposal. ..........................................................11
+
+The Existence of Potentially Relevant Reports Does Not Justify
+Imposition of Plaintiffs’ Burdensome Email Requests. .............................12
+
+Plaintiffs’ Motion for an Order Compelling BANA to Produce Additional IR2 Data
+Should be Denied. ............................................................................................................. 13
+A.
+
+This Court Should Follow Judge Stearns’ Order Precluding Discovery of
+IR2 Data .................................................................................................................14
+
+B.
+
+Plaintiffs Seek Data That Does Not Exist. .............................................................14
+
+C.
+
+Requiring BANA to Review And Produce Data From Each Of Its Uploads
+to the Treasury Department Would Impose An Undue Burden. ...........................15
+
+The Court Should Deny Plaintiffs’ Motion to Compel with Respect to the Sample of
+3,000 Loan Files and Direct Plaintiffs to Meet and Confer in Good Faith on this Topic. 16
+A.
+
+The Motion Should Be Denied Because Plaintiffs’ Demand Exceeds The
+Scope Of The Relevant Request For Production. ..................................................16
+
+B.
+
+The Motion Should Be Denied Because Some Of The Information
+Plaintiffs Seek, To The Extent BANA Understands Plaintiffs’ Demands,
+Does Not Exist Or Would Be Unduly Burdensome To Produce. ..........................17
+
+C.
+
+The Motion Should Be Denied Because Plaintiffs Have Failed To Meet
+And Confer In Good Faith On This Topic. ............................................................19
+
+Conclusion ........................................................................................................................ 20
+
+i
+
+Case 1:10-md-02193-RWZ Document 137 Filed 08/20/12 Page 3 of 25
+
+TABLE OF AUTHORITIES
+Page(s)
+CASES
+Adair v. EQT Prod. Co.,
+Nos. 10-cv-37 & 10-cv-41, 2012 WL 2526982 (W.D. Va. Jun. 29, 2012) ...............................9
+Amorim Holding Financeria S.G.P.S., S.A. v. C.P. Baker & Co.,
+No. 09-10641-DPW, 2011 WL 5879433 (D. Mass. Nov. 22, 2011) .........................................3
+Aponte-Navedo v. Nalco Chem. Co.,
+268 F.R.D. 31 (D. P.R. 2010) ..............................................................................................7, 20
+Chase HAMP
+MDL. Chase HAMP MDL Order at 2 ..........................................................................14, 15, 16
+Contracom Commodity Trading Co. v. Seaboard Corp.,
+189 F.R.D. 456 (D. Kan. 1999)............................................................................................7, 20
+Cutter v. HealthMarkets, Inc.,
+No. 10-11488-JLT, 2011 WL 613703 (D. Mass. Feb. 10, 2011) ..............................................3
+In re Ford Motor Co.,
+345 F.3d 1315 (11th Cir. 2003) ...............................................................................................16
+In re JPMorgan Chase Mortg. Modification Litig.,
+Case No. 11-md-02290, Order on Pls. .......................................................................................2
+McPeek v. Ashcroft,
+202 F.R.D. 31 (D.D.C. 2001).....................................................................................................6
+Walker v. Asset Mktg Sys. Ins. Servs.,
+2012WL 827010, at *2-3 (S.D. Cal. Mar. 9, 2012) ...................................................................9
+OTHER AUTHORITIES
+Chief Justices, Guidelines for State Trial Courts Regarding Discovery of ElectronicallyStored Information .....................................................................................................................4
+Fed. R. Civ. P. 23 .............................................................................................................................1
+Fed. R. Civ. P. 26(b)(2)(C)(iii) ........................................................................................................3
+Fed. R. Civ. P. 34 .............................................................................................................1, 3, 16, 20
+Rule 26(b)(1)(B) ..............................................................................................................................4
+ii
+
+Case 1:10-md-02193-RWZ Document 137 Filed 08/20/12 Page 4 of 25
+
+Rule 26(b)(2)....................................................................................................................................4
+Rule 26(b)(2)(B)’s ...........................................................................................................................3
+Rule 26(b)(2)(C) ..............................................................................................................................6
+Rule 26(b)(2)(C)’s ...........................................................................................................................4
+Sedona Principles, Comment 10.b.................................................................................................16
+
+iii
+
+Case 1:10-md-02193-RWZ Document 137 Filed 08/20/12 Page 5 of 25
+
+Plaintiffs’ Motion to Compel Discovery (“Motion”), which is long on rhetoric and short
+on any meaningful explanation as to why the subject discovery is proper and necessary, should
+be denied. Reduced to its essence, the Motion seeks to compel Bank of America (“BANA”) to
+produce voluminous data and documents falling into three categories, all of which are of
+questionable relevance, facially overbroad and unduly burdensome, and, perhaps more
+fundamentally, not described with the reasonable particularity required by Fed. R. Civ. P. 34.1
+Satisfying Plaintiffs’ Motion would require BANA to spend millions of dollars toward the
+collection, processing, and review of these data and documents when the case has yet to be
+certified as a class and where the discovery sought does nothing to satisfy Plaintiffs’ burden at
+class certification to establish that the claims and defenses as to the 56 named plaintiffs are
+“common” or “typical” and otherwise meet the requirements of Fed. R. Civ. P. 23.
+First, Plaintiffs seek to compel BANA to produce all email and attachments (together,
+“email”) authored by, received by, and/or copied to any one of 24 proposed custodians at any
+time since January 1, 2009 (well before HAMP was even announced) containing any one of 274
+proposed search terms (including, for example, multiple derivatives of several expletives).
+Although Plaintiffs describe this demand as “specific” and “targeted,” it is anything but. To the
+contrary, if such production were ordered, it would easily cost $3 to $6 million dollars and take
+tens of thousands of hours to complete. Such a production is, by definition, unduly burdensome
+and unwarranted, especially at this pre-certification stage of the litigation and where large
+portions of the requested email has marginal, if any, relevance to the actual issues. Indeed, in a
+similar HAMP MDL against another defendant involving the same Plaintiffs’ counsel, Judge
+1
+
+In meet and confer correspondence, BANA asked Plaintiffs to provide additional information
+about exactly what Plaintiffs seek. Plaintiffs refused Defendants’ requests, choosing instead to
+press this Motion.
+
+1
+
+Case 1:10-md-02193-RWZ Document 137 Filed 08/20/12 Page 6 of 25
+
+Stearns recently denied plaintiffs’ motion to compel production of similar email. See In re
+JPMorgan Chase Mortg. Modification Litig., Case No. 11-md-02290, Order on Pls.’ Mot. to
+Compel Produc. of Docs., at 1-2, Dkt. No. 87, (D. Mass. Jun. 1, 2012) (Stearns, J.) (“Chase
+HAMP MDL Order”). This Court should do the same.
+Second, Plaintiffs’ request that BANA produce significantly more IR2 data (data reported
+to the Treasury Department over the past three-plus years) than it already has produced should
+similarly be denied. Judge Stearns denied the Chase HAMP MDL plaintiffs’ motion to compel
+the production of any IR2 data on the grounds that such data was not relevant, overly broad, and
+unduly burdensome. See id. Again, this Court should not hesitate to follow this authority and
+conclude that Plaintiffs’ complaint that BANA has not produced more IR2 data rings hollow.
+Beyond this, the Court should deny the Motion, because the additional data Plaintiffs seek either
+does not exist, will not permit Plaintiffs to discern the information they purport to seek and
+would be unduly burdensome for Defendants to produce.
+Third, Plaintiffs seek to compel BANA to produce virtually all data and documents,
+many categories of which are vague and ambiguous and which Plaintiffs have steadfastly refused
+to explain or clarify, relating to each of 3,000 randomly-selected loans. As an initial matter, the
+information Plaintiffs demand grossly exceeds the scope of the discovery request upon which
+they claim their demand is based and, therefore, there is no basis for an order compelling its
+production. Moreover, even as to the data and information Defendants understand Plaintiffs to
+seek, the production would be unduly burdensome, requiring thousands of hours and hundreds of
+thousands of dollars to complete. This is, of course, the very result the production of a sample is
+designed to avoid. Apart from these issues, Plaintiffs’ Motion on this topic is unnecessary and
+premature. BANA has agreed, in general terms, to produce reasonable data and documents as to
+
+2
+
+Case 1:10-md-02193-RWZ Document 137 Filed 08/20/12 Page 7 of 25
+
+each of the 3,000 loans. It is not, however, willing to comb all of its paper and electronic records
+looking for every piece of information, no matter how immaterial or inconsequential, relating to
+3,000 loans as Plaintiffs’ non-targeted Motion contemplates. Nor should it have to guess as to
+the particular information and documents Plaintiffs seek. Rather, as Rule 34 requires, Plaintiffs
+must describe what they seek with reasonable particularity. They have failed to do so.
+ARGUMENT
+The Federal Rules of Civil Procedure protect against unwarranted fishing expeditions
+such as those Plaintiffs invite this Court to authorize by the Motion. “[T]he party seeking
+discovery information over an adversary's objection has the burden of showing [the
+information's] relevance.” Cutter v. HealthMarkets, Inc., No. 10-11488-JLT, 2011 WL 613703,
+at *2 (D. Mass. Feb. 10, 2011) (quotations and citation omitted). In addition, discovery – even if
+relevant – should be denied if “the burden or expense of the proposed discovery outweighs its
+likely benefit.” Fed. R. Civ. P. 26(b)(2)(C)(iii); see, e.g., Amorim Holding Financeria S.G.P.S.,
+S.A. v. C.P. Baker & Co., No. 09-10641-DPW, 2011 WL 5879433, at *1-2 (D. Mass. Nov. 22,
+2011). Application of these principles here requires that Plaintiffs’ Motion be denied.
+I.
+
+PLAINTIFFS’ REQUEST FOR EMAIL SHOULD BE DENIED.
+Plaintiffs’ demand that BANA produce e-mail and attachments, authored by, received by,
+
+and/or copied to any one of 24 custodians2 since January 1, 2009 that contains any one of 274
+search terms completely disregards Rule 26(b)(2)(B)’s instruction that parties need not produce
+discovery of email from sources “not reasonably accessible because of undue burden or cost,”
+
+2
+
+BANA was not able to locate any information regarding three of Plaintiffs’ 24 proposed
+custodians: “Sean Peirce,” “Christina Racelly,” and “Ken Feltch.” See Daniel Decl., ¶ 4 n.1.
+With respect to proposed custodian “Ken Feltch,” BANA believes that Plaintiffs intended to
+refer instead to Patricia Feltch, as her name has been disclosed to Plaintiffs in discovery as a
+person with knowledge about loan modifications. Id.
+
+3
+
+Case 1:10-md-02193-RWZ Document 137 Filed 08/20/12 Page 8 of 25
+
+and Rule 26(b)(2)(C)’s limitations. See Manual for Complex Litigation (Fourth), § 11.446 (Rule
+26(b)(2) “should be used to discourage costly, speculative, duplicative, or unduly burdensome
+discovery of computer data and systems”). Indeed, in the Chase HAMP MDL, Judge Stearns
+denied a comparable request for all email brought by the same counsel representing Plaintiffs
+here as “overbroad, excessively burdensome, and likely to delay the progress of the litigation
+without conferring any corresponding benefit in terms of shaping plaintiffs’ case.” See Chase
+HAMP MDL Order at 2. The same conclusion applies here. Indeed, based on BANA’s
+conservative estimates, implementing Plaintiffs’ demand could cost well over $6 million and
+require as much as 100,000 hours or more of time to complete. See Decl. of Robert M. Daniel in
+Supp. of Def.’s Opp’n to Mot. to Compel (“Daniel Decl.”), ¶¶ 5, 16-18.
+A.
+
+PLAINTIFFS’ PROPOSAL WOULD IMPOSE AN UNDUE BURDEN ON BANA THAT IS
+NOT JUSTIFIED AT THIS PRE-CERTIFICATION STAGE OF THE LAWSUIT
+
+As an initial matter, the process of simply collecting the 24 custodians’ email to make it
+available for review is itself unduly burdensome and time-consuming. Rule 26(b)(1)(B)
+explicitly limits initial discovery of email to information that is “reasonably accessible.” See,
+e.g., Conference of Chief Justices, Guidelines for State Trial Courts Regarding Discovery of
+Electronically-Stored Information, Guideline 1(B) (August 2006) (defining “accessible”
+information as “electronically-stored information that is easily retrievable in the ordinary course
+of business without undue cost and burden”).
+
+See Daniel Decl., ¶¶ 6-9, 11.
+
+4
+
+Case 1:10-md-02193-RWZ Document 137 Filed 08/20/12 Page 9 of 25
+
+The collection costs, however, are the tip of the iceberg. BANA will incur significant
+costs to search and review the restored email. See, e.g., The Sedona Principles: Best Practices
+Recommendations & Principles for Addressing Electronic Document Production (“Sedona
+Principles”) 2nd edition, June 2007,Comment 2.b. (“Costs cannot be calculated solely in terms of
+the expense of computer technicians to retrieve the data but must factor in other litigation costs,
+including the interruption and disruption of routine business processes and the costs of reviewing
+the information [and the] burdens on information technology personnel and the resources
+required to review documents for relevance, privilege, confidentiality, and privacy.”).
+
+.3 See Daniel Decl., ¶¶ 12-15.
+
+. Id. ¶ 16.
+
+e. Id. ¶¶
+16 & 18.
+Id. ¶ 17.
+3
+
+. See
+
+Daniel Decl., ¶ 13.
+. See id.
+. Id.
+
+5
+
+Case 1:10-md-02193-RWZ Document 137 Filed 08/20/12 Page 10 of 25
+
+. Id. ¶¶ 17-18. Based on the results of this “test run,” the conclusion is inescapable
+that the email production Plaintiffs seek to compel would impose an undue and unjustified
+burden on BANA and substantially delay the progress of this case. This provides sufficient
+grounds to deny the Motion. See, e.g., McPeek v. Ashcroft, 202 F.R.D. 31, 34 (D.D.C. 2001)
+(full restoration of email unnecessary based upon a “test run” for a single custodian).
+B.
+
+PLAINTIFFS FAIL TO JUSTIFY THE INCREDIBLE BURDEN THEY SEEK TO
+IMPOSE
+
+Rule 26(b)(2)(C) requires the Court to determine if “the burden or expense of the
+proposed discovery outweighs its likely benefit, considering the needs of the case, the amount in
+controversy, the parties’ resources, the importance of the issues at stake in the action, and the
+importance of the discovery in resolving the issues.” Given the multi-million dollar cost and
+burden to BANA of implementing Plaintiffs’ proposal, Plaintiffs must demonstrate that it will
+provide a commensurately incredible benefit. They have not done so. Nor could they, given the
+large number of custodians and search terms with no real connection to the matters at issue.
+1.
+
+PLAINTIFFS’ PROPOSED CUSTODIANS AND SEARCH TERMS ILLUSTRATE THE
+OVERBROAD AND BURDENSOME NATURE OF THEIR REQUEST.
+
+Although Plaintiffs claim that their demand for email is “targeted” and “limited,” nothing
+could be farther from the truth. The number of proposed custodians – 24 –
+See Daniel Decl., at
+¶¶ 2 &10. Yet Plaintiffs have made no attempt to justify the large number of custodians or to
+explain why they need email from any given custodian on the list, let alone all of them.
+
+6
+
+Case 1:10-md-02193-RWZ Document 137 Filed 08/20/12 Page 11 of 25
+
+Similarly, the number of proposed search terms – 274 –
+. Id..4
+Plaintiffs claim that they “tailored their proposed search terms to target only documents
+referencing HAMP that are likely to have relevant information,” but their list includes several
+categories of terms that have no conceivable relevance to the lawsuit or are so broad that they
+will capture nearly all of each custodian’s documents.5 See Pls.’ Mem. In Supp. of Mot. to
+Compel Discovery (“Pls.’ Mem.”) at 5. A few examples illustrate BANA’s point.
+Profanity. Plaintiffs seek to compel BANA to search for emails containing profane
+words (and derivatives of these words). This, of course, cannot reasonably be said “to target
+only documents referencing HAMP that are likely to have relevant information.” The only result
+of searching for such terms will be the wasted effort of reviewing email that has nothing to do
+4
+
+Highlighting the unreasonable nature of their demand, Plaintiffs apparently view 24 custodians
+and 274 search terms as only a starting point. See Decl. of Tyler Weaver in Supp. of Pls.’ Mot.
+to Compel (“Weaver Decl.”), Ex. 6 at 2, Dkt. No. 128 (D. Mass. July 23, 2012) (stating that six
+months after production of the initial email, Plaintiffs will provide additional 20 custodians and
+additional search terms).
+
+5
+
+BANA raised these concerns to Plaintiffs, but received no substantive response. See Weaver
+Decl., Exs. 7-9; Decl. of James McGarry In Supp. of Opp’n to Mot. to Compel (“McGarry
+Decl.”), Ex. A. For example, on June 11, 2012, Plaintiffs informed BANA they would provide a
+list of proposed custodians and search terms for email searches, noting that BANA would find it
+too voluminous and unacceptable. McGarry Decl., ¶¶ 3, 14. Contrary to Plaintiffs’ claim that
+BANA “repeatedly rebuffed” their request for email “[w]ithout explanation or justification,”
+(Pls.’ Mem. at 2, 4) after receiving Plaintiffs’ request for proposed custodians and search terms,
+BANA responded by explaining that the proposal was, in fact, untenable because the number of
+proposed custodians and proposed search terms were (a) unlikely to reduce the amount of email
+that would need to be reviewed and (b) not calculated to lead to relevant, admissible evidence,
+and identifying specific examples of each type of problematic search term. Weaver Decl., Ex. 7.
+Plaintiffs responded not by “invit[ing] BOA to make a counterproposal” (Pls.’ Mem. at 4), but
+rather declaring that “we are at an impasse on this issue” and proceeding with the filing of this
+Motion despite BANA’s good faith efforts to reach a compromise. Weaver Decl., Exs. 7-9,
+McGarry Decl., Ex. A. This failure to meet-and-confer in good faith compels denial of
+Plaintiffs’ Motion. See, e.g., Aponte-Navedo v. Nalco Chem. Co., 268 F.R.D. 31, 40-41 (D. P.R.
+2010); Contracom Commodity Trading Co. v. Seaboard Corp., 189 F.R.D. 456, 459-60 (D. Kan.
+1999).
+
+7
+
+Case 1:10-md-02193-RWZ Document 137 Filed 08/20/12 Page 12 of 25
+
+with the litigation, but will no doubt embarrass the users of such language. Plaintiffs include as
+many as 17 terms that fall into this category.
+Non-Case Specific Terms. Plaintiffs also seek to compel emails containing non-case
+specific, common words (e.g., “class action,” “breach,” “massive,” “unprecedented,” “jail,”
+“prison,” “confuse,” and “database!”) that are so broad that the vast majority of resulting hits
+will be irrelevant or minimally relevant to the facts at issue in this litigation.
+Overly-Broad Case Terms. Even where Plaintiffs have attempted to tie a search term to
+an issue in the case, they have done so in such a broad and overreaching manner as to ensure that
+virtually every e-mail ever authored or received by any of the proposed custodians will be
+captured and require review. Indeed, as demonstrated above, application of Plaintiffs’ proposed
+search terms to the
+. Id. ¶¶ 16 & 17.
+sent or received by a custodian as potentially
+responsive can hardly be said to be targeted and specific.
+Given the prohibitively high number of custodians and the overbroad search terms, the
+email production Plaintiffs seek to compel is patently unreasonable. Even without accounting
+for Judge Stearns’ denial of Plaintiffs similar request in the Chase HAMP MDL, the cases
+Plaintiffs cite compel no different conclusion; indeed, they counsel in favor of denying the
+Motion. For example, although Plaintiffs claim that, in a substantially-similar multi-district
+litigation, the Central District of California compelled CitiMortgage, Inc. to “produce emails
+using the exact same protocol that Plaintiffs proposed to” BANA (Pls.’ Mem. at 4), the
+circumstances are much different here. First, CitiMortgage “provided no evidence at all as to the
+burden it allegedly would suffer in responding to” the discovery at issue (see Weaver Decl., Ex.
+
+8
+
+Case 1:10-md-02193-RWZ Document 137 Filed 08/20/12 Page 13 of 25
+
+15 at 6), whereas BANA has provided the detailed declaration of Robert Daniel explaining the
+estimated prohibitive cost and burden of the requested search. See Daniel Decl. Second, despite
+CitiMortgage putting in no burden evidence at all, the court ordered far fewer custodians and
+search terms than Plaintiffs seek here. See Weaver Decl., Ex. 15 at 9.
+The other cases Plaintiffs cite in support of their claim that their proposal “is in line with
+the standard practice for searching for, and producing electronic documents” (see Pls.’ Mem. At
+8) are similarly inapposite. See Adair v. EQT Prod. Co., Nos. 10-cv-37 & 10-cv-41, 2012 WL
+2526982,, at *2, 5 (W.D. Va. Jun. 29, 2012) (parties agreed to eight custodians); Walker v. Asset
+Mktg Sys. Ins. Servs., 2012WL 827010, at *2-3 (S.D. Cal. Mar. 9, 2012) (email ordered as to
+search of servers, not from custodians’ historical documents).
+2.
+
+NONE OF PLAINTIFFS’ PROFFERED REASONS JUSTIFY THE PROTOCOL.
+
+Without any on-point authority to support it, Plaintiffs next claim that the emails they
+seek to compel are somehow necessary and appropriate because (1) BANA employees allegedly
+“testified that they could not provide substantive testimony on key issues without seeing copies
+of their emails” (Pls.’ Mem. at 3, 6-7); (2) it will uncover evidence relevant to Plaintiffs’ badfaith and unfair-practices claims (id. at 7-11); and (3) it will result in the production of relevant
+internal BANA reports (id. at 11-13). None of these purported justifications supports Plaintiffs’
+demand that BANA conduct millions of dollars of electronic discovery encompassing tens of
+thousands of hours of effort at this pre-certification stage of the lawsuit.
+a.
+
+No BANA employee has testified that they could not provide
+substantive testimony without seeing their old email.
+
+In support of their claim that BANA employees are unable to provide substantive
+testimony without reviewing their emails, Plaintiffs cite to the deposition testimony of three of
+the 24 custodians from whom Plaintiffs seek email – Lourdes Duarte, Jinja Martin, and Elizabeth
+
+9
+
+Case 1:10-md-02193-RWZ Document 137 Filed 08/20/12 Page 14 of 25
+
+Smith, only one of which was a 30(b)(6) witness, despite Plaintiffs’ suggestion otherwise. But
+Plaintiffs grossly mischaracterize the testimony of these witnesses. Ms. Smith did not testify, as
+Plaintiffs claim, that she “cannot recall what happened in meetings to formulate [BANA]’s
+HAMP policies without seeing related documents that came via email.” Pls.’ Mem. at 3, 6-7. To
+the contrary, she testified that certain meetings “may have” resulted in emails and that she did
+not recall what “specific” emails, if any, were generated, and thus could not testify to the
+“specific content” of these emails. Weaver Decl., Ex. 11 at 64:1-15. Similarly, Ms. Duarte did
+not testify, as Plaintiffs claim, that she “cannot recall what inquiries she made of colleagues
+regarding the ability to locate data without having her emails in front of her.” Pls.’ Mem. at 3, 7.
+Rather, her testimony was that she did remember her inquiries, including what she had asked her
+colleagues. Weaver Decl., Ex. 12 at 77-81. That she could not remember the “exact words” or
+“specific verbiage” she had used in her inquiries does not mean she did not recall them and
+provide testimony about them. See id. And, finally, Ms. Martin did not testify, as Plaintiffs
+claim, that she
+. Pls.’ Mem. at 6. Rather she testified that she had
+
+. Weaver
+Decl., Ex. 10 at 92:2-93:9. But, since she testified about the issue she had identified, Plaintiffs
+charge of lack of memory is unsupported. Thus, while Plaintiffs’ claim that they need email
+from 24 custodians because BANA employees cannot provide substantive testimony, the cited
+testimony does not support the argument.
+
+10
+
+Case 1:10-md-02193-RWZ Document 137 Filed 08/20/12 Page 15 of 25
+
+b.
+
+Plaintiffs’ “evidence” of BANA’s purported “scheme to
+wrongfully deny mortgage modifications” does not justify the
+burden of their proposal.
+
+Plaintiffs next attempt to obscure the defects in their argument to compel production of
+email by pointing to testimony from two employees of BANA’s vendors that Plaintiffs claim
+evidence some sort of scheme by BANA to “fraudulently” deny HAMP modifications. BANA,
+of course, denies the existence of any such scheme. But, as relevant to the Motion, the purported
+existence of such a scheme provides no legitimate basis for Plaintiffs’ request, because it does
+not and cannot change the fact that the request will cost millions of dollars and consume tens of
+thousands of hours. And, more fundamentally, the record reveals that Plaintiffs have grossly
+mischaracterized the cited testimony in a failed attempt to support the Motion.
+First, as to Christopher Orris (“Orris”), an employee of one of BANA’s third-party
+vendors, Urban Lending Solutions (“Urban”), Plaintiffs’ repeated insinuation that Orris testified
+that
+
+Pls.’ Mem. at
+
+9-10. Orris did not
+McGarry Decl., Ex. B at 44:19-25
+, 58:2-7
+
+, 182:6-8
+. Rather, as an employee in Urban’s Executive Customer Relations (“ECR”)
+group from July 2010 through January 2012, Orris
+
+(id. at 83:8-86:24; 123:18-124:1)
+(id. at
+
+11
+
+Case 1:10-md-02193-RWZ Document 137 Filed 08/20/12 Page 16 of 25
+
+183:15-184:5, 185:13-19). Viewed in this context, the testimony that Plaintiffs cite adds nothing
+to the resolution of this Motion.6
+Second, Plaintiffs’ claim that the declaration of Bert Sheeks (“Sheeks”), a former Urban
+employee, constitutes evidence that BANA directed, or knowingly allowed, contractors to
+fraudulently deny HAMP modifications to homeowners who were entitled to them is similarly
+incorrect. Pls.’ Mem. at 8. Nothing in Sheeks’ statement suggests that BANA directed or
+knowingly allowed Urban to engage in any “fraudulent” activity. Weaver Decl., Ex. 14.
+Moreover, neither Sheeks’ apparent belief that his job was to find any pretext to justify closing a
+file or his opinion that requests for homeowners to provide missing documents were “often
+suspect” support a conclusion that Urban engaged in any “fraudulent” activity.
+Apart from these issues, and even if Plaintiffs’ characterization of the testimony of Orris
+and Sheeks were correct, it would not support imposing the undue burden of Plaintiffs’ proposal
+upon BANA. Nowhere in the Motion do Plaintiffs explain why their 24 proposed custodians
+should be expected to have emails regarding BANA’s relationships with Urban or other vendors.
+Similarly, their proposed search terms are obviously not “narrowly targeted” to identify email
+focusing on these relationships. Plaintiffs’ invocation of some “evidence” that is arguably
+relevant to their claims cannot justify the burdensome fishing expedition they demand.
+3.
+
+The Existence of Potentially Relevant Reports Does Not Justify
+Imposition of Plaintiffs’ Burdensome Email Requests.
+
+As a final attempt to justify compelling the review and production of almost all email of
+24 custodians, Plaintiffs cite deposition testimony regarding the existence of several different
+types of internal BANA reports (e.g., “control reports,” “pipeline reports,” and “MHA summary
+6
+
+In addition, further demonstrating the overreach of Plaintiffs’ proposal, Orris began working at
+Urban in July 2010 (see id. at 6:14-20), after all but a handful of the named plaintiffs allege they
+had completed their trial periods, and he testified that
+(see 94:12-17; 189:23-190:6).
+12
+
+Case 1:10-md-02193-RWZ Document 137 Filed 08/20/12 Page 17 of 25
+
+reports”) that may be attached to such emails. Pls.’ Mem. at 12. But this effort gets them
+nowhere. Even assuming that these reports were relevant, their existence would not justify
+Plaintiffs’ demand for email. If Plaintiffs want these reports, they should simply propound a
+discovery request specifically asking for them instead of demanding that BANA undertake a
+multi-million dollar search reviewing email to find them. This is particularly true where BANA
+has already provided Plaintiffs with samples of many reports and identified the existence and
+subject matter of numerous others. See McGarry Decl., Ex. C.
+II.
+
+PLAINTIFFS' MOTION FOR AN ORDER COMPELLING BANA TO PRODUCE
+ADDITIONAL IR2 DATA SHOULD BE DENIED.
+BANA has produced voluminous IR2 data,
+, for customers seeking HAMP
+
+modifications and comprising all information BANA had reported to the Treasury Department as
+of the time of BANA’s production – March 2012. See McGarry Decl., ¶ 12. Apparently
+unsatisfied, Plaintiffs now ask this Court to compel BANA to provide more IR2 data, including
+(a) “any periodic summary data that were provided to the Treasury;” or (ii) “data sufficient to
+identify when each borrower in the IR2 database received a denial letter, if any.” Pls.’ Mem. at
+15.7 This Court should decline this request for several reasons.
+
+7
+
+Plaintiffs erroneously assert that, in February, this Court ordered BANA to produce all IR2
+Data. See Pls.’ Mem. at 13. As the record confirms, the Court issued no such order. Indeed,
+Plaintiffs did not serve discovery seeking IR2 Data until after they had filed the motion to
+compel that was the subject of the Court’s February order. See McGarry Decl., Ex. D.(Pls.’
+Second Req. for Produc. Of Docs., Req. No. 4). After BANA’s March 2012 production of this
+data, Plaintiffs’ counsel was apparently so satisfied with this production that it highlighted
+BANA’s production in its unsuccessful motion to compel production of IR2 Data in the Chase
+HAMP MDL. See Chase HAMP MDL, Case No. 11-md-2290, Decl. of Kevin Costello in Supp.
+of Pls.’ Mot. to Compel Produc. of Docs., ¶ 8, Dkt. No. 75 (D. Mass. May 24, 2012).
+
+13
+
+Case 1:10-md-02193-RWZ Document 137 Filed 08/20/12 Page 18 of 25
+
+A.
+
+THIS COURT SHOULD FOLLOW JUDGE STEARNS’ ORDER PRECLUDING
+DISCOVERY OF IR2 DATA
+
+First, while Plaintiffs avoid even mentioning it, Judge Stearns already has rejected a
+Motion to compel IR2 data in the Chase HAMP MDL. Chase HAMP MDL Order at 2. In
+denying Plaintiffs any IR2 data, Judge Stearns rejected arguments to compel substantively
+similar data to those advanced by Plaintiffs here. Chase HAMP MDL, Pls.’ Mot. to Compel
+Produc. of Docs., ¶2, Dkt. No. 74 (D. Mass. May 24, 2012). But Plaintiffs have made no attempt
+– none – to explain why this Court should not follow Judge Stearns’ ruling, choosing instead to
+ignore it. BANA has already provided more than enough IR2 data. The Court should deny the
+request for more.
+B.
+
+PLAINTIFFS SEEK DATA THAT DOES NOT EXIST.
+
+Second, the additional data Plaintiffs seek does not exist, and, even if it did, it would be
+unduly burdensome for BANA to produce. As to “periodic summary data” provided to the
+Treasury Department, and although it is not entirely clear what Plaintiffs mean by the term,
+
+. See Decl. of Joe Bridges in Supp. of Def.’s Opp’n to Mot. to Compel
+(“Bridges Decl.”), ¶ 5.
+
+. Id.
+Likewise, as to the date of any denial letter,
+
+Id. ¶ 6.
+
+14
+
+Case 1:10-md-02193-RWZ Document 137 Filed 08/20/12 Page 19 of 25
+
+. Id.
+
+Id.
+
+. Id. ¶¶ 7-8. This is so for many reasons as articulated in the Bridges
+Declaration submitted herewith.8
+C.
+
+REQUIRING BANA TO REVIEW AND PRODUCE DATA FROM EACH OF ITS
+UPLOADS TO THE TREASURY DEPARTMENT WOULD IMPOSE AN UNDUE
+BURDEN.
+
+Apart from the fact that the date of any HAMP denial or adverse action letter cannot be
+“reversed engineered” from a review of each upload to the Treasury Department, the uploads
+themselves comprise significant volumes of data the collection and production of which would
+involve substantial time and expense and present significant technological challenges. Id. ¶ 9.
+
+See id. ¶ 9-10.
+
+8
+
+To the extent Plaintiffs seek the date of HAMP adverse action letters to particular customers,
+BANA can provide such information through the loan sampling process. See Decl. of Michael
+Sunlin in Supp. of Def.’s Opp’n to Mot. to Compel (“Sunlin Decl.”), ¶ 5. However, since
+Plaintiffs elected to press the issue in this Motion and in the context of IR2 data, BANA responds
+in turn as to the issue presented to the Court.
+15
+
+Case 1:10-md-02193-RWZ Document 137 Filed 08/20/12 Page 20 of 25
+
+. Id. ¶ 10. The Motion as to IR2 data should be denied.9
+III.
+
+THE COURT SHOULD DENY PLAINTIFFS’ MOTION TO COMPEL WITH
+RESPECT TO THE SAMPLE OF 3,000 LOAN FILES AND DIRECT
+PLAINTIFFS TO MEET AND CONFER IN GOOD FAITH ON THIS TOPIC.
+A.
+
+THE MOTION SHOULD BE DENIED BECAUSE PLAINTIFFS’ DEMAND EXCEEDS
+THE SCOPE OF THE RELEVANT REQUEST FOR PRODUCTION.
+
+In December 2011, Plaintiffs moved to compel (the “December 2011 Motion”) – and in
+February 2012, the Court orally ordered – BANA to produce information regarding a sample of
+loan files in response to one of Plaintiffs’ discovery requests. Critically, the Court ordered the
+parties to meet and confer over the amount of data sought, recognizing that the original requests
+were overly broad and unduly burdensome. See McGarry Decl., ¶ 12. Now, Plaintiffs seek to
+bootstrap the Court’s February order into an order compelling BANA to produce data and
+documents that far exceeds the scope of the initial discovery request, let alone any attempt to
+comply with the Court’s order by actually narrowing the sampling information.
+Plaintiffs’ Document Request No. 2 sought 10 categories of “Loan Level Account data”
+for each loan in a randomly-selected sample. See Weaver Decl., Ex. 16. Therefore, the scope of
+the December 2011 Motion – and the Court’s February order – was necessarily limited to these
+
+9
+
+As an “alternative remedy” to the production of additional IR2 data, Plaintiffs suggest that the
+Court order BANA “to make a computer or server available which contains all of the databases
+which contain information about when borrowers received notice that they would not be
+provided a permanent modification, and allow Plaintiffs to designate a database expert to review
+the data.” Pls.’ Mem. at 15. However, “even with a protective order in place, court-ordered
+inspections of computer systems should be used sparingly.” Sedona Principles, Comment 10.b.
+“Courts should guard against undue intrusiveness resulting from inspecting or testing such
+systems.” Fed. R. Civ. P. 34 Committee Note (2006); see also In re Ford Motor Co., 345 F.3d
+1315, 1317 (11th Cir. 2003) (granting mandamus to prevent implementation of district court
+order allowing inspection of databases as abuse of discretion). Here, Plaintiffs provide no
+justification for their extraordinary demand for access to BANA’s proprietary databases in
+contravention of BANA’s data security policies. In the absence of such a demonstration, the
+Court must deny Plaintiffs’ demand for access out-of-hand.
+16
+
+Case 1:10-md-02193-RWZ Document 137 Filed 08/20/12 Page 21 of 25
+
+10 categories of “Loan Level Account data.” Pls.’ Mem. in Sup. of Mot. to Compel at 3 n.3,
+Dkt. No. 92 (Dec. 2, 2011). In June, however, Plaintiffs demanded BANA produce 25 “data
+points” – including such vague, ambiguous and overly broad items as “all notations” concerning
+documents “related to the TPP,” “all waterfall outcomes,” “any and all underwriting data,” “any
+pre-foreclosure analysis,” “all inline QA results,” and “all FAQ 1222 analysis” – and four
+categories of documents for each loan in the sample. Weaver Decl., Ex. 4 at 2-3. As even a
+cursory comparison demonstrates, these 25 “data points” encompass a much larger amount of
+information than the 10 categories of “Loan Level Account data” sought by Document Request
+No. 2. See Comparison of Records Sought By Req. for Produc. No. 2 Against “Data Points”
+Sought by Pls.’ June 14, 2012 Letter (attached to this Opposition as Exhibit A).
+Notwithstanding the vast expansion of their demands, Plaintiffs now move to compel
+production of these 25 “data points,” relying heavily on the Court’s February order, but
+conveniently neglecting to remind the Court of the much narrower scope of the discovery request
+that the February order concerned and the Court’s direction that the parties meet to narrow,
+rather than expand, the sampling information to be produced. See Pls.’ Mem. at 16. There is
+simply no basis for a motion to compel or an order compelling production of the 25 “data points”
+and four categories of documents for 3,000 loans because Plaintiffs have never served formal
+discovery seeking them.
+B.
+
+THE MOTION SHOULD BE DENIED BECAUSE SOME OF THE INFORMATION
+PLAINTIFFS SEEK, TO THE EXTENT BANA UNDERSTANDS PLAINTIFFS’
+DEMANDS, DOES NOT EXIST OR WOULD BE UNDULY BURDENSOME TO
+PRODUCE.
+
+The Motion should also be denied because some of the “data points” Plaintiffs seek, to
+the extent BANA understands them, do not exist or would be unduly burdensome for BANA to
+produce for each of 3,000 loans. For example, Plaintiffs seek “all exceptions codes” for each
+
+17
+
+Case 1:10-md-02193-RWZ Document 137 Filed 08/20/12 Page 22 of 25
+
+loan. See Weaver Decl., Ex. 4 at 2. However,
+
+See Decl. of Michael Sunlin in Supp. of
+Def.’s Opp’n to Mot. to Compel (“Sunlin Decl.”), ¶ 14. Without additional clarification of or
+context for this “data point,” BANA cannot ascertain the information that Plaintiffs seek,
+determine whether it exists, or, assuming it exists, determine the process for and the costs of
+gathering it. Id. ¶¶ 12-14. The same holds true for a number of the other “data points.” Id.
+¶¶ 12-16.
+Even for those “data points” that do exist, the costs of producing many of them for each
+of 3,000 loans is prohibitive.10 Id.¶ 6. For example, Plaintiffs demand “the date and amount of
+any payments made pursuant to a TPP.” While BANA is willing to provide Plaintiffs with
+payment histories for each of these 3,000 loans, Plaintiffs are demanding that BANA generate
+the date “in an excel spreadsheet that allows [Plaintiffs] to manipulate the order of records as
+needed,” or in essence, do Plaintiffs’ work for them. See Weaver Decl., Ex. 4 at 3. This data,
+however, cannot be generated in the manner Plaintiffs are requesting.
+
+See Sunlin Decl., ¶ 7.
+
+Id.
+
+10
+
+To the extent BANA understands the “data points” Plaintiffs seek,
+See Sunlin Decl., ¶ 5.
+18
+
+Case 1:10-md-02193-RWZ Document 137 Filed 08/20/12 Page 23 of 25
+
+Id.
+Similarly, it would be unduly burdensome for BANA to produce the documents Plaintiffs
+have demanded for each of 3,000 loans.
+
+See Declaration of
+Lourdes Duarte In Support of Def.’s Opp’n to Mot. to Compel, ¶ 4.
+
+Id. ¶ 6;
+see also Sunlin Decl., ¶ 8.
+Duarte Decl., ¶ 5. Given the burden of production of these “data points” and
+documents would impose upon BANA, Plaintiffs’ Motion should be denied.
+C.
+
+THE MOTION SHOULD BE DENIED BECAUSE PLAINTIFFS HAVE FAILED TO
+MEET AND CONFER IN GOOD FAITH ON THIS TOPIC.
+
+Notwithstanding the overreach of Plaintiffs’ Motion, BANA has agreed to produce
+information regarding each of a randomly-selected sample of 3,000 loan files. However, BANA
+has, to date, been unable to produce this data set because, notwithstanding the Court’s clear
+instructions, Plaintiffs have refused to provide adequate explanation of the information they
+want. See McGarry Decl., Ex. E at 17:25-18:9; 19:16-22.11
+Instead, by letter dated June 14, 2012, Plaintiffs demanded that BANA produce 25 “data
+points” and 4 categories of documents for each of the 3,000 loans by no later than June 29,
+11
+
+During a March 27, 2012, status conference, the Court directed Plaintiffs to tell BANA the
+“precise data” they wanted and to “be very specific in terms of . . . the data for the sample ,”
+See, e.g., id. at 17:25-18:9. The court emphasized that “the burden really should be on
+[Plaintiffs], to begin with, certainly given what [Plaintiffs] have already discovered, to tell
+[BANA] what [Plaintiffs] want.” See id. at 19:16-22.
+
+19
+
+Case 1:10-md-02193-RWZ Document 137 Filed 08/20/12 Page 24 of 25
+
+2012.12 Plaintiffs invited BANA to specify any points requiring clarification. Id. at 3. Because
+many of the requested “data points” and document categories were vague, ambiguous or overly
+broad, BANA accepted Plaintiffs’ invitation and asked for clarification. Id., Ex. 5. Plaintiff
+refused to provide the invited clarification, arguing their request was “fully understandable” and
+declared that the parties had reached an impasse. See McGarry Decl., Ex. F. BANA urged
+Plaintiffs to reconsider their refusal to provide clarification (id. Ex. G), but Plaintiffs instead filed
+their Motion.
+Rule 34 requires Plaintiffs to describe with reasonable particularity the information or
+categories of information to be produced. As discussed above, Plaintiffs have failed to do this.
+Nor have Plaintiffs responded to BANA’s requests for clarification. Because Plaintiffs failed to
+meet-and-confer in good faith on this topic, their Motion should be denied. See, e.g., AponteNavedo, 268 F.R.D. at 40-41; Contracom Commodity Trading Co., 189 F.R.D. at 459-60.
+CONCLUSION
+For all of the reasons above, Plaintiffs’ Motion to Compel should be denied.
+
+Dated: August 20, 2012
+
+Respectfully submitted,
+Bank of America, N.A., for itself and as
+successor by merger to BAC Home Loans
+Servicing, L.P.,
+By their attorneys,
+
+12
+
+Contrary to Plaintiffs’ assertion (Pls.’ Mem. at 16-17; Weaver Decl., ¶ 5), there was no
+discussion of the specific information Plaintiffs wanted during the parties’ June 11, 2012
+conference call. See McGarry Decl., ¶ 15. Although BANA was prepared to discuss its systems
+and databases and the data contained therein during this call, Plaintiffs obviated the need for this
+discussion by stating that they would provide BANA with a “master list” of elements to be
+included in the sample, and the parties moved on to other topics without further discussion. Id.
+
+20
+
+Case 1:10-md-02193-RWZ Document 137 Filed 08/20/12 Page 25 of 25
+
+/s/ James W. McGarry
+James W. McGarry (BBO #633726)
+jmcgarry@goodwinprocter.com
+GOODWIN PROCTER LLP
+Exchange Place
+53 State Street
+Boston, Massachusetts 02109
+Tel.: 617.570.1000
+Fax: 617.523.1231
+CERTIFICATE OF SERVICE
+I hereby certify that this document filed through the ECF system will be sent
+electronically to the registered participants as identified on the Notice of Electronic Filing (NEF)
+and paper copies will be sent to those indicated as non-registered participants on August 20,
+2012.
+/s/ James W. McGarry
+
+21
+
+

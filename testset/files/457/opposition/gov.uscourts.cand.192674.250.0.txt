@@ -1,0 +1,1136 @@
+Case 3:07-cv-02845-WHA
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+
+Document 250
+
+Filed 08/29/2008
+
+Page 1 of 10
+
+BRYAN WILSON (CA SBN 138842)
+ERIC C. PAI (CA SBN 247604)
+MORRISON & FOERSTER LLP
+755 Page Mill Road
+Palo Alto, California 94304-1018
+Telephone: 650.813.5600
+Facsimile: 650.494.0792
+E-Mail: BWilson@mofo.com; EPai@mofo.com
+DAVID C. DOYLE (CA SBN 70690)
+STEVEN E. COMER (CA SBN 154384)
+BRIAN M. KRAMER (CA SBN 212107)
+MORRISON & FOERSTER LLP
+12531 High Bluff Drive, Suite 100
+San Diego, California 92130-2040
+Telephone: 858.720.5100
+Facsimile: 858.720.5125
+E-Mail: DDoyle@mofo.com; SComer@mofo.com;
+BMKramer@mofo.com
+Attorneys for Plaintiff
+APPLERA CORPORATION – APPLIED BIOSYSTEMS GROUP
+
+13
+
+UNITED STATES DISTRICT COURT
+
+14
+
+NORTHERN DISTRICT OF CALIFORNIA
+
+15
+
+SAN FRANCISCO DIVISION
+
+16
+17
+18
+19
+20
+21
+22
+23
+
+APPLERA CORPORATION – APPLIED
+BIOSYSTEMS GROUP, a Delaware corporation,
+Plaintiff,
+v.
+ILLUMINA, INC., a Delaware corporation,
+SOLEXA, INC., a Delaware corporation, and
+STEPHEN C. MACEVICZ, an individual,
+Defendants.
+
+24
+25
+26
+27
+28
+PLAINTIFF’S RESPONSE TO SOLEXA’S MOTION FOR CLARIFICATION
+Case No. C07 02845 WHA
+sd-439513
+
+Case No.
+
+C07 02845 WHA
+
+PLAINTIFF APPLERA
+CORPORATION – APPLIED
+BIOSYSTEMS GROUP’S
+RESPONSE TO SOLEXA’S
+MOTION FOR CLARIFICATION
+AND FOR LEAVE TO FILE
+MOTION SEEKING
+RECONSIDERATION OF THE
+COURT’S AUGUST 22, 2008
+ORDER
+
+Case 3:07-cv-02845-WHA
+
+Document 250
+
+Filed 08/29/2008
+
+Page 2 of 10
+
+1
+
+I.
+
+2
+
+The Court’s Order Granting In Part And Denying In Part Plaintiff’s Motion For Summary
+
+INTRODUCTION
+
+3
+
+Judgment Of Non-Infringement And Denying Defendants’ Motion For Partial Summary
+
+4
+
+Judgment Of Infringement (the “Order”), as understood by AB, is correct in all respects. The
+
+5
+
+Order correctly determines that the SOLiD System employing two-base encoding, which is the
+
+6
+
+only SOLiD System ever sold, does not infringe the ’341 or ’597 patents. The Court correctly
+
+7
+
+ruled that Illumina waived the doctrine of equivalents as to the ’341 and ’597 patents by failing to
+
+8
+
+respond to AB’s direct and specific (not “vague and conclusory”) doctrine of equivalents
+
+9
+
+argument in its Summary Judgment Motion. The Court’s ruling is also correct that the Agencourt
+
+10
+
+one-base encoding prototype did not infringe the ’341 patent. In the prototype the initializing
+
+11
+
+oligonucleotide probe did not hybridize to the target polynucleotide as required by the claims of
+
+12
+
+the ’341 patent and the Court’s claim construction.
+
+13
+
+AB does not understand the Order to grant summary judgment that the one-base encoding
+
+14
+
+prototype does not infringe the ’597 patent. AB did not seek that relief in its motion. This does
+
+15
+
+not mean, as argued by Illumina in seeking reconsideration, that it is entitled to summary
+
+16
+
+judgment that the one-base encoding prototype does infringe the ’597 patent. As explained herein
+
+17
+
+and in AB’s summary judgment briefing, multiple fact issues regarding infringement and AB’s
+
+18
+
+affirmative defenses preclude the granting of Illumina’s motion.
+
+19
+20
+21
+22
+
+II.
+
+DISCUSSION
+A.
+
+Solexa Waived its Infringement Argument Under the Doctrine of
+Equivalents and Has Not Established Grounds for Reconsideration.
+
+Solexa acknowledges that “[a] motion for leave to file a Motion for Reconsideration must
+
+23
+
+specifically show that one or more of three specific grounds for reconsideration exist. L. R. 7-
+
+24
+
+9(b)(1)-(3).” (Mot. at 3.) These three grounds are (1) a material difference in fact or law than
+
+25
+
+that which was previously presented to the Court before entry of the order at issue; (2) new
+
+26
+
+material facts or a change of law since entry of the order at issue; and (3) “manifest failure by the
+
+27
+
+Court to consider material facts or dispositive legal arguments which were presented to the Court
+
+28
+
+before such interlocutory order.” L. R. 7-9(b)(1)-(3). However, in requesting that this Court
+PLAINTIFF’S RESPONSE TO SOLEXA’S MOTION FOR CLARIFICATION
+Case No. C07 02845 WHA
+sd-439513
+
+1
+
+Case 3:07-cv-02845-WHA
+
+Document 250
+
+Filed 08/29/2008
+
+Page 3 of 10
+
+1
+
+reconsider its holding that Solexa waived the doctrine of equivalents, Solexa fails to establish, or
+
+2
+
+even attempt to establish, the existence of at least one of these three grounds as required under the
+
+3
+
+Rules of this Court.
+
+4
+
+Solexa does not dispute the Court’s finding that in its opposition, “Solexa made no
+
+5
+
+infringement argument under the doctrine of equivalents despite the fact it was raised by AB in its
+
+6
+
+opening brief.” (Mot. at 5.) Because Solexa did not dispute AB’s doctrine of equivalents
+
+7
+
+argument in its opposition, Solexa cannot now contend (1) that there is “a material difference in
+
+8
+
+fact or law than …was presented to the Court”; (2) that there are “new material facts or a change
+
+9
+
+of law”; or (3) that the Court manifestly failed “to consider material facts or dispositive legal
+
+10
+
+arguments which were presented to the Court.” L.R. 7-9(b)(1)-(3). This Court properly
+
+11
+
+considered the absence of such facts and arguments in the face of AB’s arguments, and affirmed
+
+12
+
+that “[i]f a party fails to assert a legal reason why summary judgment should not be granted, that
+
+13
+
+ground is waived and cannot be considered or raised on appeal.” (Order at 19 n.6 (internal
+
+14
+
+quotation omitted).) The Local Rules do not authorize a motion for reconsideration under these
+
+15
+
+circumstances.
+
+16
+
+Instead of demonstrating grounds for leave to file a Motion for Reconsideration, Solexa
+
+17
+
+makes the argument that it failed to make in its opposition, and thus waived. In doing so, Solexa
+
+18
+
+selectively cites a portion of AB’s doctrine of equivalents argument from its Motion for Summary
+
+19
+
+Judgment: ”Illumina is estopped based on the arguments it made during prosecution because
+
+20
+
+Macevicz’s arguments clearly and unambiguously narrowed the scope of the claims.” (Mot. at 6
+
+21
+
+(internal quotation omitted).) Solexa then ignores the rest of AB’s argument, falsely telling this
+
+22
+
+Court that “AB did not identify which ‘arguments’ it was relying upon.” (Id.)
+
+23
+
+In fact, the portion of AB’s Motion selectively quoted by Solexa goes on to identify the
+
+24
+
+arguments at issue as those “Macevicz made to the PTO” in which he “clearly and
+
+25
+
+unambiguously narrowed the scope of the claims, surrendering subject matter relating to when in
+
+26
+
+the claimed process the ‘identifying’ step must be performed.” (AB’s Motion at 16, Docket No.
+
+27
+
+207.) AB then cites pages 13-14 of this Court’s Claim Construction Order, in which the Court,
+
+28
+
+on page 14, quotes in full Macevicz’s arguments to the PTO that were at issue. AB’s citation to
+PLAINTIFF’S RESPONSE TO SOLEXA’S MOTION FOR CLARIFICATION
+Case No. C07 02845 WHA
+sd-439513
+
+2
+
+Case 3:07-cv-02845-WHA
+
+Document 250
+
+Filed 08/29/2008
+
+Page 4 of 10
+
+1
+
+Macevicz’s PTO arguments is a more than sufficient ground for this Court’s grant of summary
+
+2
+
+judgment under Celotex, which states that a motion for summary judgment “may, and should, be
+
+3
+
+granted so long as whatever is before the district court demonstrates that the standard for the entry
+
+4
+
+of summary judgment, as set forth in Rule 56(c) is satisfied.” Celotex Corp. v. Catrett, 477 U.S.
+
+5
+
+317, 323 (1986).
+
+6
+
+Solexa moves from selective quoting to disingenuousness when it claims to be so
+
+7
+
+unfamiliar with AB’s prosecution history argument that it could not be “required to ‘fill-in-the-
+
+8
+
+blanks’ in a speculative attempt to rebut AB’s two vague and wholly conclusory sentences about
+
+9
+
+Macevicz’s ‘arguments’ during prosecution.” (Mot. at 6.) Solexa is intimately familiar with
+
+10
+
+AB’s prosecution history estoppel arguments in this case. The Court, in fact, poked a little fun at
+
+11
+
+the parties in its Claim Construction Order on this subject: ”[t]he parties spill much ink over how
+
+12
+
+the term ‘identifying’ should be construed.” (Claim Const. Order at 13, Docket No. 133.) In
+
+13
+
+light of both parties’ extensive, prior briefing of the estoppel issue, Solexa made a strategic
+
+14
+
+decision not to respond to AB’s doctrine of equivalents argument, and instead concentrate on
+
+15
+
+literal infringement. Indeed, Illumina did not address the doctrine of equivalents at the motion
+
+16
+
+hearing despite AB having pointed out Illumina’s waiver in its reply brief. (AB’s MSJ Reply Br.
+
+17
+
+at 7, Docket No. 225.)
+
+18
+
+Because Solexa chose not “to assert a legal reason why summary judgment should not be
+
+19
+
+granted [with respect to AB’s doctrine of equivalents arguments], that ground is waived and
+
+20
+
+cannot be considered or raised on appeal.” (Order at 19 n.6 (quoting Vaughner v. Pulito, 804
+
+21
+
+F.2d 873, 877 n.2 (5th Cir. 1986)).) This Court was correct in holding that “Solexa has thus
+
+22
+
+waived its reliance on” its “infringement argument under the doctrine of equivalents.” (Id.)
+
+23
+
+B.
+
+24
+
+The One-Base Encoding Prototype Did Not Infringe the ’341 Patent
+Because The Initializing Oligonucleotide Probe Was Hybridized to the
+Binding Region, Not the Target Polynucleotide.
+
+25
+
+In its motion for reconsideration, Solexa neglected to mention that AB also argued that the
+
+26
+
+one-base encoding prototype did not infringe the ’341 patent because the “initializing
+
+27
+
+oligonucleotide probe” was not “hybridized to the target polynucleotide” as required by all of the
+
+28
+
+claims of the ’341 patent. (See AB’s Opp’n at 11, Docket No. 216.) A key limitation of claim 1
+PLAINTIFF’S RESPONSE TO SOLEXA’S MOTION FOR CLARIFICATION
+Case No. C07 02845 WHA
+sd-439513
+
+3
+
+Case 3:07-cv-02845-WHA
+
+Document 250
+
+Filed 08/29/2008
+
+Page 5 of 10
+
+1
+
+of the ’341 patent is that step (a) requires “an initializing oligonucleotide probe hybridized to a
+
+2
+
+target polynucleotide.” In its Claim Construction Order, the Court held that the express language
+
+3
+
+of the claim requires that the initializing oligonucleotide probe hybridize to the target
+
+4
+
+polynucleotide, not the binding region. (Claim Const. Order at 8-9.) No accused product –
+
+5
+
+including the one-base encoding prototype at issue in Illumina’s motion – met this limitation.
+
+6
+
+Therefore, the Court correctly concluded that the one-base encoding prototype did not infringe
+
+7
+
+the ’341 patent as a matter of law.
+
+8
+9
+10
+11
+12
+
+There was no dispute over how this aspect of the prototype worked. The only dispute was
+the correct construction of “hybridized to a target polynucleotide,” which the Court already
+resolved in determining the correct construction of “initializing oligonucleotide probe.”
+In its Claim Construction Order, the Court found that the patent clearly distinguishes
+between the binding region and the target polynucleotide:
+
+13
+
+The language makes clear that a binding region and the target
+polynucleotide are connected, and together form the template. . . .
+The binding region, target polynucleotide, and template are each
+distinct items.
+
+14
+15
+16
+
+(Id. at 8-9 (emphasis added).) The Court held that the express language of the claim requires that
+
+17
+
+the initializing oligonucleotide probe hybridize to the target polynucleotide, not the binding
+
+18
+
+region. (Id.)
+
+19
+
+Illumina sought to reargue, through its expert, the same claim construction position the
+
+20
+
+Court already rejected. Dr. Backman tried to conflate the “binding region” and the “target
+
+21
+
+polynucleotide,” despite the Court’s conclusion that the terms are distinct: “I respectfully
+
+22
+
+disagree with Judge Alsup’s statement that the use of the term ‘target polynucleotide’ in claim 1
+
+23
+
+represents a ‘drafting error.’” (Comer Decl. Ex. I (Backman Report) ¶ 136, Docket No. 212.) Dr.
+
+24
+
+Backman then repeated Illumina’s legal argument that the distinctions between the target
+
+25
+
+polynucleotide, the binding region, and the template can be ignored as only part of a preferred
+
+26
+
+embodiment. (Id. ¶ 136; Solexa’s Reply Claim Const. Br. at 8, 11, Docket No. 100.) That
+
+27
+
+position was addressed and rejected during claim construction. (Claim Const. Order at 9 (“The
+
+28
+
+binding region, target polynucleotide, and template are each distinct items.”).)
+PLAINTIFF’S RESPONSE TO SOLEXA’S MOTION FOR CLARIFICATION
+Case No. C07 02845 WHA
+sd-439513
+
+4
+
+Case 3:07-cv-02845-WHA
+
+1
+
+Document 250
+
+Filed 08/29/2008
+
+Page 6 of 10
+
+AB also showed that amendment-based estoppel barred Illumina from asserting the
+
+2
+
+doctrine of equivalents because Macevicz narrowed the scope of the claim limitation at issue
+
+3
+
+through an amendment in response to a rejection by the Patent Office. Norian Corp. v. Stryker
+
+4
+
+Corp., 432 F.3d 1356, 1363 (Fed. Cir. 2005) (citing Festo Corp. v. Shoketsu Kinzoku Kogyo
+
+5
+
+Kabushiki Co., 535 U.S. 722, 741 (2002)). In the original application, Macevicz drafted claim 1
+
+6
+
+to read “extending an initializing oligonucleotide along the polynucleotide.” (Comer Decl. Ex. N
+
+7
+
+at 28, Docket No. 212 (emphasis added).) This used the broad term “polynucleotide,” rather than
+
+8
+
+any of the specific terms Macevicz used in the specification: target polynucleotide, binding
+
+9
+
+region, or template. The Examiner rejected this language as indefinite. (Id. Ex. D at 3.) In
+
+10
+
+amending the claim in response to the rejection, Macevicz could have chosen to replace
+
+11
+
+“polynucleotide” with any of the three specific terms he used in the specification – “target
+
+12
+
+polynucleotide,” “binding region,” or “template.” He chose “target polynucleotide” and thereby
+
+13
+
+relinquished any additional claim scope that would have been covered by those other terms or by
+
+14
+
+the original term “polynucleotide.” (Id. Ex. E at 2-3.) Illumina cannot recapture that relinquished
+
+15
+
+claim scope through the doctrine of equivalents.1
+
+16
+
+Illumina’s only response was to try to duck under an exception that applies when “the
+
+17
+
+rationale underlying the amendment . . . bear[s] no more than a tangential relation to the
+
+18
+
+equivalent in question.” Festo Corp., 535 U.S. at 740. (Illumina’s Opp’n at 18-19, Docket No.
+
+19
+
+213.) The Federal Circuit cautions that this exception “for overcoming the Festo presumption is
+
+20
+
+very narrow.” Cross Med. Prods., Inc. v. Medtronic Sofamor Danek, Inc., 480 F.3d 1335, 1342
+
+21
+22
+23
+24
+25
+26
+27
+28
+
+1
+
+Even if Illumina had been entitled to assert the doctrine of equivalents, it could not (and
+did not attempt to) show that hybridizing the primer to the binding region is equivalent to
+hybridizing the primer to the target polynucleotide. Its expert, Dr. Backman, had already
+admitted that hybridizing the primer to a fully-known binding region provides advantages in
+efficiency, consistency, and convenience:
+Linking the target polynucleotide to a binding region of known
+sequence is advantageous because it allows predesigned initializing
+oligonucleotides to be used in the claimed method. . . . Because
+these regions and oligonucleotides are pre-designed, they can be
+tested, optimized, and kept conveniently at hand for use.
+(Comer Decl. Ex. I (Backman Report) ¶ 138, Docket No. 212.)
+PLAINTIFF’S RESPONSE TO SOLEXA’S MOTION FOR CLARIFICATION
+Case No. C07 02845 WHA
+sd-439513
+
+5
+
+Case 3:07-cv-02845-WHA
+
+Document 250
+
+Filed 08/29/2008
+
+Page 7 of 10
+
+1
+
+(Fed. Cir. 2007), cert. denied, 128 S. Ct. 614 (2007). The amendment changing “polynucleotide”
+
+2
+
+to “target polynucleotide” does not fit this very narrow exception for two alternative reasons.
+
+3
+
+First, no rationale was given for the amendment. “If the prosecution history reveals no
+
+4
+
+reason for the narrowing amendment, the presumption is not rebutted. Silence does not overcome
+
+5
+
+the presumption.” Honeywell Int’l, Inc. v. Hamilton Sundstrand Corp., 523 F.3d 1304, 1315-16
+
+6
+
+(Fed. Cir. 2008) (citation omitted). Illumina conceded that no reason was given:
+
+7
+8
+9
+
+[In the amendment] in which the applicant explained the rationales
+underlying the various amendments to the pending claims, there is
+no discussion of the change of “polynucleotide” to “target
+polynucleotide” (or of the terms “binding region” or “template”).
+
+10
+
+(Illumina’s Opp’n at 19, Docket No. 213.) This was an admission that the tangential relation
+
+11
+
+exception cannot be met.
+
+12
+
+Second, if there were any reason for changing “polynucleotide” to “target
+
+13
+
+polynucleotide,” it was to overcome the indefiniteness rejection by specifying where the
+
+14
+
+initializing oligonucleotide hybridizes, which is directly related to the equivalent in question. The
+
+15
+
+indefiniteness rejection was based on where the initializing oligonucleotide hybridizes:
+
+16
+17
+18
+19
+
+The claims are vague and indefinite because in the independent
+Claim 1, it is unclear as to what limitations are involved in the
+identifying step (b) and how it is related to step (a), for instance, the
+relative position of the nucleotide(s), with respect to the initializing
+oligonucleotide, the oligonucleotide probe and the duplex, which is
+to be identified is not recited.
+
+20
+
+(Comer Decl. Ex. D ¶ 3, Docket No. 212 (emphasis added).) Amending the claim to specify “an
+
+21
+
+initializing oligonucleotide probe hybridized to a target polynucleotide” surrendered any claim
+
+22
+
+scope over potential equivalents based on hybridizing the initializing oligonucleotide probe
+
+23
+
+elsewhere, such as the binding region or template. Illumina was therefore precluded from
+
+24
+
+asserting the doctrine of equivalents.
+
+25
+
+Illumina further precluded itself from relying on the doctrine of equivalents by not
+
+26
+
+addressing it in opposition to AB’s motion. PC Connector Solutions LLC v. Smartdisk Corp.,
+
+27
+
+406 F.3d 1359, 1364 (Fed. Cir. 2005) (affirming summary judgment of noninfringement where
+
+28
+
+patentee offered only “conclusory statements regarding equivalence”). Illumina’s opposition did
+PLAINTIFF’S RESPONSE TO SOLEXA’S MOTION FOR CLARIFICATION
+Case No. C07 02845 WHA
+sd-439513
+
+6
+
+Case 3:07-cv-02845-WHA
+
+Document 250
+
+Filed 08/29/2008
+
+Page 8 of 10
+
+1
+
+not even offer conclusory statements regarding equivalence – it simply asserts without
+
+2
+
+explanation that there is a “factual dispute.” (Illumina’s Opp’n at 17, Docket No. 213.)
+
+3
+
+Accordingly, Illumina waived the doctrine of equivalents as a ground for opposing summary
+
+4
+
+judgment of noninfringement as to this limitation as well.
+
+5
+6
+7
+
+C.
+
+The One-Base Encoding Prototype Was Used To Identify A Base
+Within Each Cycle, But It Did Not Infringe.
+
+Solexa argues that the Court did not consider the arguments regarding whether the one-
+
+8
+
+base prototype infringed the ’341 and ’597 patents. AB raised a number of noninfringement
+
+9
+
+grounds in opposition to Solexa’s motion for summary judgment as to the prototype. Each of
+
+10
+11
+12
+
+these grounds supported, and required, denial of Solexa’s motion.
+1.
+
+The Use of the Prototype was De Minimis.
+
+AB argued in its opposition to Solexa’s motion for summary judgment that infringement
+
+13
+
+cannot be found because the use was de minimis. (See AB’s Opp’n at 17-18, Docket No. 216.)
+
+14
+
+The one-base prototype is so insignificant that Illumina did not have its damages expert evaluate
+
+15
+
+damages attributable to the prototype. (Pai Decl. Ex. 3 (Siuta Dep.) at 160:1-7, Docket No. 219
+
+16
+
+(“Q. If we assume that the two base encoding version of the SOLiD system is found not to
+
+17
+
+infringe, what are the appropriate damages in this case? A. I don’t have an opinion on that at this
+
+18
+
+moment. That’s not something that I considered.”).)
+
+19
+
+The Federal Circuit recognizes a de minimis exception to patent infringement. Embrex,
+
+20
+
+Inc. v. Serv. Eng’g Corp., 216 F.3d 1343, 1349 (Fed. Cir. 2000). While the Federal Circuit has
+
+21
+
+not set precise boundaries for the exception, there is a question of fact as to whether AB’s use of
+
+22
+
+the prototype, which was used for internal research and never marketed or sold to the public,
+
+23
+
+qualifies for the exception. See Baxter Diagnostics Inc. v. AVL Scientific Corp., 924 F. Supp.
+
+24
+
+994, 1016, modified on other grounds, 954 F. Supp. 199 (C.D. Cal. 1996) (de minimis
+
+25
+
+infringement exists where the manufacture or sale is insignificant in amount and where alleged
+
+26
+
+infringing activity is terminated at the de minimis stage); Maxon Premix Burner Co. v. Eclipse
+
+27
+
+Fuel Eng’g Co., 471 F.2d 308, 317 (7th Cir. 1972) (holding that manufacture and sale of a single
+
+28
+
+experimental prototype would be excused as de minimis activity). Factual disputes regarding the
+PLAINTIFF’S RESPONSE TO SOLEXA’S MOTION FOR CLARIFICATION
+Case No. C07 02845 WHA
+sd-439513
+
+7
+
+Case 3:07-cv-02845-WHA
+
+Document 250
+
+Filed 08/29/2008
+
+Page 9 of 10
+
+1
+
+nature and extent of Agencourt’s use of the one-base encoding prototype required denial of
+
+2
+
+Illumina’s motion for summary judgment.
+
+3
+
+2.
+
+4
+
+AB’s Defenses Based On Ownership Precluded Summary
+Judgment.
+
+5
+
+AB also argued in opposition to Illumina’s motion that even if the Court were to accept
+
+6
+
+every representation and argument offered by Illumina, its motion must still be denied because
+
+7
+
+Illumina failed to overcome AB’s affirmative defenses. (See Order at 11, Docket No. 88 (statute
+
+8
+
+of limitations defense basis for denial of summary judgment).) The issues of fact regarding AB’s
+
+9
+
+defenses, which were never addressed by Illumina, preclude summary judgment of infringement.
+
+10
+
+Summary judgment of infringement is precluded unless Illumina demonstrated that there is no
+
+11
+
+genuine issue of material fact that all of AB’s affirmative defenses must fail. See 10B Charles
+
+12
+
+Alan Wright & Arthur R. Miller, Federal Practice and Procedure § 2734, at 256 (3d ed. 1998)
+
+13
+
+(“A claimant is entitled to summary judgment only when . . . every one of the defenses asserted
+
+14
+
+legally are insufficient”). Illumina did not do so. AB’s defenses ─ ownership, standing, shop
+
+15
+
+rights, equitable rights to practice the patents, estoppel, and unclean hands ─ are all based on its
+
+16
+
+legal or equitable title to the Macevicz patents and Illumina’s misconduct in claiming title to the
+
+17
+
+patents. (See Docket Nos. 61, 70.) The Court has already held that there are disputed issues of
+
+18
+
+fact that require trial.2 (See Orders, Docket Nos. 88, 180.)
+
+19
+
+III.
+
+20
+
+On all of the issues presented by the parties’ motions for summary judgment, the Court’s
+
+21
+
+rulings are correct. They should not be reconsidered. Illumina’s complaints are that it disagrees
+
+22
+
+with the Court’s rulings or that it wants the Court to provide further explanation for its rulings.
+
+23
+24
+25
+26
+27
+
+CONCLUSION
+
+2
+
+Even if the Court had ruled on statute of limitations grounds that AB was precluded from
+making an affirmative claim of ownership of the patents, evidence of ownership would remain
+relevant to AB’s affirmative defenses. See Styne v. Stevens, 26 Cal. 4th 42, 51 (2001) (“Under
+well-established authority, a defense may be raised at any time, even if the matter alleged would
+be barred by a statute of limitations if asserted as the basis for affirmative relief.”); see generally
+3 Bernard E. Witkin, California Procedure § 423 (4th ed. 1996). Thus, even if AB’s affirmative
+state law causes of action had been barred, defenses based on Macevicz’s misconduct would still
+be viable.
+
+28
+PLAINTIFF’S RESPONSE TO SOLEXA’S MOTION FOR CLARIFICATION
+Case No. C07 02845 WHA
+sd-439513
+
+8
+
+Case 3:07-cv-02845-WHA
+
+Document 250
+
+Filed 08/29/2008
+
+Page 10 of 10
+
+1
+
+To the extent that Illumina disagrees with the Court’s rulings, it has not shown grounds for
+
+2
+
+reconsideration under Local Rule 7-9. To the extent that it seeks further explanation, its request
+
+3
+
+seems presumptuous, given that Illumina’s arguments on the key summary judgment issues
+
+4
+
+directly conflicted with the Court’s claim constructions.
+
+5
+
+Dated: August 29, 2008
+
+MORRISON & FOERSTER LLP
+
+6
+7
+8
+9
+
+By:
+
+/s/ Steven E. Comer
+Steven E. Comer
+Attorneys for Plaintiff
+APPLERA CORPORATION APPLIED BIOSYSTEMS GROUP
+
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+PLAINTIFF’S RESPONSE TO SOLEXA’S MOTION FOR CLARIFICATION
+Case No. C07 02845 WHA
+sd-439513
+
+9
+
+

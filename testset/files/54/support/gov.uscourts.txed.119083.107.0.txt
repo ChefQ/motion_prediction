@@ -1,0 +1,482 @@
+Case 6:09-cv-00448-JDL Document 107
+
+Filed 01/29/10 Page 1 of 14
+
+UNITED STATES DISTRICT COURT
+FOR THE EASTERN DISTRICT OF TEXAS
+TYLER DIVISION
+
+U.S. Ethernet Innovations, LLC,
+Plaintiff,
+v.
+Acer, Inc., Acer America Corporation, Apple,
+Inc., ASUS Computer International, ASUSTeK
+Computer Inc., Dell Inc., Fujitsu Ltd., Fujitsu
+America, Inc., Gateway, Inc., Hewlett Packard
+Co., HP Development Company LLC, Sony
+Corporation, Sony Corporation of America, Sony
+Electronics Inc., Toshiba Corporation, Toshiba
+America, Inc., and Toshiba America Information
+Systems, Inc.,
+
+Case No. 6:09-CV-448-LED
+
+Defendants.
+
+INTEL CORPORATION’S MOTION TO INTERVENE
+Pursuant to Federal Rule of Civil Procedure 24, Intel Corporation (“Intel”) hereby moves
+to intervene in this action as of right, or alternatively, with permission of the Court. Intel seeks
+to intervene in this patent infringement action filed by U.S. Ethernet Innovations, LLC (“U.S.
+Ethernet”) to protect both its interests and the interests of many of its customers who have been
+named as defendants in this action.1 Intel is seeking to intervene because a number of the patent
+infringement claims at issue relate to networking technology that Intel supplies to those
+1
+
+Intel’s customers include all of the Defendants, namely Acer, Inc., Acer America
+Corporation, Apple, Inc., ASUS Computer International, ASUSTeK Computer Inc., Dell Inc.,
+Fujitsu Ltd., Fujitsu America, Inc., Gateway, Inc., Hewlett Packard Co., HP Development
+Company LLC, Sony Corporation, Sony Corporation of America, Sony Electronics Inc., Toshiba
+Corporation, Toshiba America, Inc., and Toshiba America Information Systems, Inc.
+(collectively, the “Intel Customers”).
+INTEL CORPORATION’S MOTION TO INTERVENE - Page 1
+
+Case 6:09-cv-00448-JDL Document 107
+
+Filed 01/29/10 Page 2 of 14
+
+defendants. Indeed, the complaint in this action explicitly accuses Intel® Pro/100 network
+adapters sold by Dell of infringement.
+U.S. Ethernet’s assertion that computer systems in which Intel products provide
+networking functionality infringe certain of its patents is tantamount to accusing Intel of
+infringement. Intel, therefore, has a direct interest in the outcome of this litigation. Moreover,
+Intel has agreed to defend and partially indemnify customers who have requested indemnity in
+connection with U.S. Ethernet’s claims directed against Intel products incorporated into those
+customers' products. As a result, Intel has a substantial direct financial interest in the outcome of
+this litigation.
+Intel can also offer unique technical knowledge and expertise as the designer and
+manufacturer of networking technology that its customers incorporate into the accused products.
+To the extent that U.S. Ethernet subsequently sues other Intel customers, Intel’s interest in the
+issues to be litigated here, such as claim interpretation, validity, and infringement based on Intel
+components, will extend beyond this case to those future actions. This case is still in its initial
+pleading phase and granting Intel leave to intervene would not prejudice any of the parties.
+Denying the motion, however, would significantly prejudice Intel and other companies that use
+Intel products. If Intel is denied the opportunity to defend its technology against U.S. Ethernet’s
+allegations, its products may be found to infringe without Intel ever having had the benefit of a
+full and fair opportunity to litigate the issues.
+Intel therefore requests leave to intervene as of right in this action under Rule 24(a)(2), or
+in the alternative, seeks the Court’s permission to intervene pursuant to Rule 24(b)(1)(B). In
+accordance with Rule 24(c), a copy of Intel’s proposed Complaint in Intervention is attached as
+Exhibit A.
+
+INTEL CORPORATION’S MOTION TO INTERVENE - Page 2
+
+Case 6:09-cv-00448-JDL Document 107
+
+I.
+
+Filed 01/29/10 Page 3 of 14
+
+FACTUAL BACKGROUND
+A.
+
+This Case Is In Its Initial Pleading Stage.
+
+The Complaint was filed on October 9, 2009 for alleged infringement of United States
+Patents 5,307,459, 5,434,872, 5,732,094, and 5,299,313. [Dkt. 1] Defendants include many
+Intel Customers. Defendants Apple Inc., Dell Inc., and Hewlett-Packard Co. filed answers and
+counterclaims to the Complaint on December 17, 2009. The remaining Defendants received
+extensions and answered in mid January, 2010, and U.S. Ethernet received an extension to
+respond to counterclaims in February, 2010. [Dkts. 37, 43, 55, 68, 82]
+B.
+
+This Action Implicates Products That Intel Sells To Its Customers.
+
+Intel manufactures and sells networking solutions -- including the Intel® PRO/100 and
+PRO/1000 network adapters and computer motherboard chipsets with integrated network
+adapters -- that enable computers to connect to and communicate with networks and the Internet.
+The Intel Customers incorporate these network interface components into some of the products
+that are alleged to infringe U.S. Ethernet’s patents. In fact, U.S. Ethernet’s Complaint expressly
+accuses an Intel component of infringement with respect to one defendant, stating “Dell imports,
+makes, uses, offers for sale, and/or sells certain products and devices which embody one or more
+claims of the Patents-in-Suit, including, without limitation, the Intel PRO/100, E1405, D420,
+and Inspiron 1525 (collectively, the ‘Dell Accused Products’).” [Complaint (Dkt. 1), ¶ 25
+(emphasis added).]
+Many of the named defendants are significant customers of Intel, accounting for more
+than one third of Intel’s net revenue in 2007. [See Intel 2008 Annual Report
+http://www.intc.com/intelAR2008/business/marketing/index.html (visited December 14, 2009).]
+Although Intel vigorously denies that its products or technology infringe U.S. Ethernet’s patents,
+
+INTEL CORPORATION’S MOTION TO INTERVENE - Page 3
+
+Case 6:09-cv-00448-JDL Document 107
+
+Filed 01/29/10 Page 4 of 14
+
+it appears clear that U.S. Ethernet is accusing Intel networking technology incorporated in some
+of the Intel Customers’ products.
+C.
+
+Intel Has Agreed to Partially Indemnify Its Customers Against Claims that
+Their Intel-Based Products Infringe U.S. Ethernet’s Patents.
+
+In the wake of the filing of the Complaint, at least six Intel customers – Asus, Toshiba,
+Fujitsu, Apple, Dell, and Sony – have already demanded that Intel indemnify, defend, and hold
+them harmless from U.S. Ethernet’s claims in this action, based on indemnity agreements
+relating to their purchases of Intel networking products. [Ex. B (Declaration of Michael
+Labbee)] Based on the nature of the claims at issue in this suit, Intel has agreed to defend and
+partially indemnify those customers. Id. Other customer defendants may make similar indemnity
+demands.
+II.
+
+ARGUMENT
+Intel is entitled to intervene in this action as a matter of right pursuant to Rule 24(a)(2).
+
+Alternatively, the Court should permit Intel to intervene under Rule 24(b)(1)(B).
+A.
+
+Intel Is Entitled To Intervene As A Matter Of Right.
+
+Rule 24(a)(2) permits intervention on timely motion for anyone who:
+claims an interest relating to the property or transaction that is the subject of the
+action, and is so situated that disposing of the action may as a practical matter
+impair or impede the movant’s ability to protect its interest, unless existing parties
+adequately represent that interest.
+Fed. R. Civ. P. 24(a)(2). In assessing a motion to intervene as a matter of right, four
+criteria are to be considered: (1) the timeliness of the motion; (2) the potential intervener’s
+interest in the property or transaction that is the subject of the underlying lawsuit; (3) any
+impairment to the intervener’s ability to protect its interest absent intervention; and (4) the
+adequacy of the representation of the potential intervener’s interest by the existing parties. Ross
+v. Marshall, 426 F.3d 745, 753 (5th Cir. 2005); State of Texas v. Am. Tobacco Co., No. 5-98CV-
+
+INTEL CORPORATION’S MOTION TO INTERVENE - Page 4
+
+Case 6:09-cv-00448-JDL Document 107
+
+Filed 01/29/10 Page 5 of 14
+
+270, 1999 WL 1022129, at *1 (E.D. Tex. Nov. 5, 1999). Where the intervener’s interest is
+substantial, for example where a manufacturer seeks to intervene in a suit brought against its
+customer, the intervener’s interest is to be given a greater weight. See, e.g., Honeywell Int’l Inc.
+v. Audiovox Commc’ns Corp., No. Civ. A. 04-1337-KAJ et al., 2005 U.S. Dist. LEXIS 22933, at
+*9-10 (D. Del. May 18, 2005); accord LG Elecs., Inc. v. Q-Lity Computer Inc., 211 F.R.D. 360
+(N.D. Cal. 2002).
+“The inquiry under [Rule 24] subsection (a)(2) is a flexible one, which focuses on the
+particular facts and circumstances surrounding each application…intervention of right must be
+measured by a practical rather than technical yardstick.” Ross, 426 F.3d at 753 (emphasis
+added). Thus, for example, intervention is proper when the prejudice to the potential intervener
+outweighs the potential prejudice to the remaining parties, particularly where there have been no
+legally significant proceedings other than discovery. See Diaz v. S. Drilling Corp., 427 F.2d
+1118, 1125-56 (5th Cir. 1970); Ross, 426 F. 3d at 753 (“Intervention should generally be allowed
+where ‘no one would be hurt and great justice could be attained.’”).
+As explained below, Intel’s request for intervention as a matter of right is well-founded.
+1.
+
+Intel’s motion to intervene is timely.
+
+When evaluating whether a motion to intervene is timely, the Fifth Circuit has “set forth
+four factors that must be considered,” including:
+Factor 1. The length of time during which the would-be intervener actually or
+reasonably should have known of his interest in the case before he petitioned for
+leave to intervene. Factor 2. The extent of prejudice that the existing parties to the
+litigation may suffer as a result of the would-be intervener’s failure to apply for
+intervention as soon as he actually knew or reasonably should have known of his
+interest in the case. Factor 3. The extent of the prejudice that the would-be
+intervener may suffer if his petition for leave to intervene is denied. Factor 4. The
+existence of unusual circumstances militating either for or against a determination
+that the application is timely.
+Ross, 426 F.3d at 754 (citing Stallworth v. Monsanto Co., 558 F.2d 257 (5th Cir. 1977)).
+INTEL CORPORATION’S MOTION TO INTERVENE - Page 5
+
+Case 6:09-cv-00448-JDL Document 107
+
+Filed 01/29/10 Page 6 of 14
+
+Here, Intel is seeking to intervene at the initial stages of the litigation. No discovery has
+taken place, and a docket control order has not been issued. Intel’s intervention will not
+prejudice any of the existing parties. There can be no question that Intel has moved timely to
+intervene. Ross, 426 F.3d at 756 (unless some result can be demonstrated that would not have
+occurred “but-for” Intel’s failure to file its motion to intervene earlier, there is no prejudice to the
+other parties); Chiles v. Thornburgh, 865 F.2d 1197, 1213 (11th Cir. 1989) (motion to intervene
+was timely when filed before discovery had begun); Alabama v. U.S. Army Corps of Eng’rs, 229
+F.R.D. 669, 672 (N.D. Ala. 2005) (motion to intervene was timely when court had not yet
+conducted proceedings on the merits and intervention would not delay the proceedings);
+Travelsource Corp. v. Old Republic Int’l Corp., No. 85 C 8116, 1986 WL 3848, at *2 (N.D. Ill.
+Mar. 14, 1986) (motion to intervene was timely because suit was only six months old and no
+pleadings had been filed other than the complaint and answer).
+2.
+
+Intel has a compelling interest related to the property at issue.
+
+“A party has an interest relating to the subject matter of an action when it has a ‘direct,
+substantial, legally protectable interest in the proceedings.’” Am. Tobacco, 1999 WL 1022129,
+at *2. “[T]he interest ‘test’ is primarily a practical guide to disposing of lawsuits by involving as
+many apparently concerned persons as is compatible with efficiency and due process.” Ross,
+426 F.3d at 757 (citations omitted).
+Intervention is routinely granted as of right in patent actions where, as here, accused
+products incorporate components manufactured by the intervening party. Chandler & Price Co.
+v. Brandtjen & Kluge, Inc., 296 US 53, 55 (1935) (manufacturer’s intervention in patent
+infringement action against its customers was “necessary for the protection of its interest”);
+Tegic Commc’ns Corp. v. Bd. Of Regents of the Univ. of Tex. Sys., 458 F.3d 1335, 1344 (Fed.
+Cir. 2006) (“[T]o the extent that [the interest of the manufacturer of allegedly infringing
+INTEL CORPORATION’S MOTION TO INTERVENE - Page 6
+
+Case 6:09-cv-00448-JDL Document 107
+
+Filed 01/29/10 Page 7 of 14
+
+products] may be impaired by the Texas litigation, [the manufacturer] may seek to intervene in
+that litigation.”); Stewart-Warner Corp. v. Westinghouse Elec. Corp., 325 F.2d 822, 826 (2d Cir.
+1963) (“There is no doubt of the propriety of [a party’s] intervention as the manufacturer and
+vendor to [defendants] and others of the equipment alleged by [plaintiff] to be an infringement of
+its [] patent[s].”); Honeywell, 2005 U.S. Dist. LEXIS 22933, at *9-10 (“It is impracticable to try
+an infringement case against 40 some defendants or third-party defendants with many different
+accused devices, and it is unwise to attempt any such thing when liability depends exclusively
+upon infringement being found as to an LCD component that the defendants do not manufacture
+and when at least some of the manufacturers of the LCDs are before the court and are willing to
+stand behind their products in this litigation.”).2
+Further, Intel has a substantial and protectable interest in defending the customers it has
+agreed to partially indemnify. See Fisherman’s Harvest, Inc. v. U.S., 74 Fed. Cl. 681, 685
+(2006) (“An indemnitor may be allowed to intervene in a lawsuit brought against an indemnitee
+in order to protect its interest under an indemnity agreement.”) (internal citations omitted); IBM,
+1994 WL 706208, at *5 (patent infringement claims against an indemnitee are in effect claims
+against the indemnitor); Lemelson v. Larami Corp., No. 80CIV6081, 1981 WL 319072
+(S.D.N.Y. Mar. 23, 1981) (permitting intervention in patent infringement action by manufacturer
+that had an indemnification obligation). Moreover, Intel has many other customers that
+
+2
+
+Accord LG Elecs. Inc. v. Q-Lity Computer, Inc., 211 F.R.D. 360, 365 (N.D. Cal. 2002)
+(“[An intervening manufacturer] has more than a speculative economic interest, as the products
+that it sells will be at the heart of the [patent infringement] litigation”); IBM Corp. v. Conner
+Peripherals, Inc., No. C-93-20117, 1994 WL 706208, at *5 (N.D. Cal. Dec. 13, 1994)
+(intervening manufacturer “played an important role in manufacturing and designing the
+controllers that allegedly infringed” and “should be able to present facts relevant to whether the
+controllers actually did infringe”); Engineered Sports Prods. v. Brunswick Corp., 362 F. Supp.
+722, 729 (D. Utah 1973) (“The manufacturer is the party of greatest interest in a determination of
+the patent’s validity…”).
+INTEL CORPORATION’S MOTION TO INTERVENE - Page 7
+
+Case 6:09-cv-00448-JDL Document 107
+
+Filed 01/29/10 Page 8 of 14
+
+incorporate its networking technology in their products. Consequently, the potential impact of
+this litigation on Intel and its customers may extend beyond claims made by those named in this
+suit.
+3.
+
+The disposition of this action may impair Intel’s ability to protect its
+interests.
+
+The nature of the intervenor’s interest and the effect that the outcome will have on its
+ability to protect that interest are closely related factors for determining whether a motion to
+intervene should be granted. Chiles, 865 F.2d at 1214. “‘The second cannot be answered without
+reference to the first.’” Id. (quoting Hobson v. Hansen, 44 F.R.D. 18, 30 (D.D.C. 1968)). As a
+general rule, “[i]f an absentee would be substantially affected in a practical sense by the
+determination made in an action, he should … be entitled to intervene.” Fed. R. Civ. P. 24,
+Advisory Committee Notes, 1966 Amendments.
+Intel’s ability to protect its interest will be significantly impaired if it cannot intervene. A
+manufacturer has a strong interest in being heard on validity, infringement and claim
+construction issues where the accused products incorporate its components. See Honeywell
+Int’l., 2005 U.S. Dist. LEXIS 22933, at *12-13 (in a patent infringement action, a manufacturer’s
+interests “will be impaired or affected, as a practical matter, by the disposition of the action,
+unless it is involved in the case directly and able to make its positions [on validity and
+infringement] known”). Even if the result in this case may not have preclusive effects on Intel or
+its other customers, Intel’s relationship with its customers will be affected if, as a practical
+matter, the outcome in this case effectively prohibits its customers from selling products that
+incorporate Intel networking technology. Katz v. Lear Siegler, Inc., 909 F.2d 1459, 1464 (Fed.
+Cir. 1990) (“it is a simple fact of life that a manufacturer must protect its customers, either as a
+matter of contract, or good business, or in order to avoid the damaging impact of an adverse
+
+INTEL CORPORATION’S MOTION TO INTERVENE - Page 8
+
+Case 6:09-cv-00448-JDL Document 107
+
+Filed 01/29/10 Page 9 of 14
+
+ruling against its products”) (citing Codex Corp. v. Milgo Elec. Corp., 553 F.2d 735 (1st Cir.
+1977)); LG Elecs., 211 F.R.D. at 365 (a manufacturer’s legally protectable interest “will
+unquestionably be impaired” if injunctive relief is granted and the manufacturer is prohibited
+from selling its product); see also Ranger Ins. Co. v. United Housing of New Mexico, Inc., 488
+F.2d 682, 683 (5th Cir. 1974) (the potential for a negative ruling and the potential consequence
+of such a ruling are sufficient to support intervention as of right); Natural Res. Def. Council, Inc.
+v. U.S. Nuclear Regulatory Comm’n, 578 F.2d 1341, 1345 (10th Cir. 1978) (“there can be little
+question but that the interests of [a licensee] would be affected” if the parties to the litigation
+prevail and licenses are revoked).
+Finally, as already discussed, Intel has agreed to partially indemnify its customers. Given
+the high cost of patent litigation and its potential effects, Intel should be allowed to protect its
+interests first hand. Intel should not be required to stand back and watch its fate litigated without
+a say in the outcome.
+4.
+
+The named defendants inadequately represent Intel’s interests.
+
+In evaluating whether a potential intervener’s interests are adequately represented, the
+Fifth Circuit has described this burden as “minimal,” noting that the potential intervener need
+only show that “representation by the existing parties may be inadequate.” Ross, 426 F.3d at 761
+(emphasis added); see Edwards v. City of Houston, 78 F.3d 983, 1005 (5th Cir. 1996) (minimal
+burden of would-be intervener to show inadequate representation met by showing that
+representation by existing parties “may” be inadequate); Thurmond v. Compaq Computer Corp.,
+No. 1:99-CV-711, 2000 U.S. Dist. LEXIS 20893, at *4 (E.D. Tex. June 26, 2000) (Federal Rule
+of Civil Procedure 24(a) should be “construed broadly, in favor of the applicant[] for
+intervention”).
+
+INTEL CORPORATION’S MOTION TO INTERVENE - Page 9
+
+Case 6:09-cv-00448-JDL Document 107
+
+Filed 01/29/10 Page 10 of 14
+
+Existing parties may not adequately represent the intervenor’s interests where they
+“possess interests inimical” to the proposed intervenor. Fed. Sav. & Loan Ins. Corp. v. Falls
+Chase Special Taxing Dist., 983 F.2d 211, 216 (11th Cir. 1993) (granting intervention where the
+party to the litigation possessed interests antagonistic to intervenor’s objectives). In Honeywell,
+for example, the court found that because Seiko was uniquely situated to understand and defend
+its own products, its interests were not adequately represented by existing parties to the litigation,
+even though Seiko’s customers obviously had an interest in vigorously defending against the
+allegations of infringement. See Honeywell, 2005 U.S. Dist. LEXIS 22933, at *13.
+In this case, Intel cannot rely on the Intel Customers to protect its interests. A
+manufacturer like Intel is presumed to have a greater interest than its customers in defending
+against actions of patent infringement involving its products. In practical terms, it makes more
+sense for the manufacturer of component parts rather than the customer who uses those parts to
+litigate issues such as infringement. Honeywell, 2005 U.S. Dist. LEXIS 22933, at *11 (“[F]rom
+the perspective of the host of defendants [plaintiff] has chosen to sue, and in the interest of
+judicial economy, dealing with the manufacturers first is the fairest and most efficient way to
+proceed.”)
+Further, the Intel Customers do not have the same knowledge or level of expertise that
+Intel has with its own technology. The Intel Customers incorporate Intel’s highly complex
+networking technology components into their products, but do not design or manufacture them.
+Therefore, the Intel Customers may not be in a position to assert all applicable non-infringement
+defenses or invalidity arguments. Id. at *4 (because a manufacturer “is uniquely situated to
+understand and defend its own product, its interest are not adequately represented by existing
+parties to the litigation”).
+
+INTEL CORPORATION’S MOTION TO INTERVENE - Page 10
+
+Case 6:09-cv-00448-JDL Document 107
+
+Filed 01/29/10 Page 11 of 14
+
+Moreover, the Intel Customers may not see this case through to judgment. Settlement
+negotiations can begin and the cost of litigation often forces parties to settle without addressing
+the merits of the claims. Additionally, because the Intel Customers may have alternative
+suppliers, they may not have so great an interest as Intel does in obtaining findings of invalidity
+and non-infringement. Intervention as of right should be granted to one who may potentially
+present a “more vigorous presentation” of its interests than the existing parties. N.Y. Pub.
+Interest Research Group, Inc. v. Regents of Univ. of State of N.Y., 516 F.2d 350, 352 (2d Cir.
+1975).
+B.
+
+Alternatively, the Court Should Exercise Its Discretion to Permit Intel to
+Intervene.
+
+Although Intel believes it is entitled to intervene as a matter of right, it moves in the
+alternative for leave to intervene with permission of the Court. Intervention is permitted on
+timely motion for anyone who “has a claim or defense that shares with the main action a
+common question of law or fact.” Fed. R. Civ. P. 24(b)(1)(B).
+Permissive intervention is allowed when three criteria are met: (1) the motion is
+sufficiently timely; (2) there is a common question of law or fact between the intervener’s claim
+or defense and the main action; and (3) intervention will not unduly delay or prejudice the
+adjudication of rights of the original parties. Am. Tobacco, 1999 WL 1022129, at * 1.
+Permissive intervention under Rule 24(b)(2) should be construed liberally to permit intervention
+“when an applicant’s claim or defense and the main action have a question of law or fact in
+common.” See Dayton Indep. Sch. Dist. v. U.S. Mineral Prods. Co., Civ. A. Nos. B-8700507¬CA, B-88-00429-CA, 1989 WL 237732, at *4 (E.D. Tex. Feb. 14, 1989) (“Rule 24(b)
+‘plainly dispenses with any requirement that the intervener [shall] have a direct, personal or
+pecuniary interest in the subject of the litigation.’”) (citation omitted).
+
+INTEL CORPORATION’S MOTION TO INTERVENE - Page 11
+
+Case 6:09-cv-00448-JDL Document 107
+
+Filed 01/29/10 Page 12 of 14
+
+As discussed previously, this motion has been filed timely. Moreover, there are issues of
+law and fact common among the indemnified Intel Customers and Intel. U.S. Ethernet is
+accusing them of infringement based on their use of Intel networking technology. The common
+questions of law and fact include whether the claims asserted in the accused patents are valid and
+enforceable and whether the Intel Customers’ products that incorporate Intel networking
+technology infringe. Intel’s Complaint in Intervention, which seeks declaratory judgment of
+non-infringement, invalidity and unenforceability of the patents in suit, raises questions of law
+and fact that overlap with the defenses that the Intel Customers will likely assert in this action.
+See Reid v. Gen. Motors Corp., 240 F.R.D. 257, 260 (E.D. Tex. 2006) (granting manufacturer
+permissive intervention in patent infringement action due to common issues); Lemelson, 1981
+WL 319072, at *1 (common questions of fact and law exist when validity of patent is essential to
+both named defendants and intervenor); Salem Eng’g Co. v. Nat’l Supply Co., 75 F. Supp. 993,
+996 (W.D. Pa. 1948) (granting permissive intervention to manufacturer in patent infringement
+action because “‘it is plain the applicant’s defense and the main action have a question of law
+and fact in common.’”).
+Finally, Intel’s intervention will not in any way delay the adjudication of these claims.
+To the contrary, Intel’s intervention will simplify these proceedings given the complex nature of
+technology and the patent infringement claims.
+III.
+
+CONCLUSION
+For the foregoing reasons, Intel respectfully requests that the Court grant its Motion to
+
+Intervene as a matter of right pursuant to Rule 24(a)(2), or alternatively, to intervene by
+permission pursuant to Rule 24(b)(1)(B).
+
+INTEL CORPORATION’S MOTION TO INTERVENE - Page 12
+
+Case 6:09-cv-00448-JDL Document 107
+
+Dated: January 29, 2010
+
+Filed 01/29/10 Page 13 of 14
+
+Respectfully submitted,
+FISH & RICHARDSON P.C.
+
+By: /s/ Garland T. Stephens
+Garland T. Stephens, Lead Attorney
+(24053910)
+David J. Healey (09327980)
+Benjamin C. Elacqua (24055443)
+FISH & RICHARDSON P.C.
+1221 McKinney Street
+Suite 2800
+Houston, TX 77010
+713-652-0115
+Fax: 713-652-0109
+stephens@fr.com
+healey@fr.com
+elacqua@fr.com
+John W. Thornburgh
+Seth M. Sproul
+FISH & RICHARDSON P.C.
+12390 El Camino Real
+San Diego, CA 92130
+858-678-5070
+Fax: 858-678-5099
+thornburgh@fr.com
+sproul@fr.com
+Counsel for Intervening Party
+INTEL CORPORATION
+
+INTEL CORPORATION’S MOTION TO INTERVENE - Page 13
+
+Case 6:09-cv-00448-JDL Document 107
+
+Filed 01/29/10 Page 14 of 14
+
+CERTIFICATE OF SERVICE
+The undersigned hereby certifies that a true and correct copy of the above and foregoing
+document has been served on January 29, 2010 to all counsel of record who are deemed to have
+consented to electronic service via the Court’s CM/ECF system per Local Rule CV-5(a)(3).
+
+/s/ Stacci H. Mahadeo
+Stacci H. Mahadeo
+
+CERTIFICATE OF CONFERENCE
+I hereby certify that I conferred with counsel for U.S. Ethernet Innovations, LLC,
+regarding the subject matter of this motion on January 29, 2010 and they indicated they wanted
+us to file motion before they would decide whether or not they would oppose said motion.
+
+/s/ Garland T. Stephens
+Garland T. Stephens
+
+2010-01-29 Intel Corporation's Mtn to Intervene.doc
+
+INTEL CORPORATION’S MOTION TO INTERVENE - Page 14
+
+

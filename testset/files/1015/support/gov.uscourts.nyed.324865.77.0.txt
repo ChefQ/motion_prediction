@@ -1,0 +1,1116 @@
+Case 1:11-cv-05910-PKC-RER Document 77 Filed 04/18/16 Page 1 of 36 PageID #: 1089
+Index No. 11-CV-5910 (PKC)(RER)
+UNITED STATES DISTRICT COURT
+EASTERN DISTRICT OF NEW YORK
+SHANE RHOOMS,
+Plaintiff,
+-againstCITY OF NEW YORK, ROBERT ORTLIEB,
+Individually, ROBERT HENDERSON, Individually,
+JOSEPH SEMINARA, Individually, DEVON FREED,
+Individually, and JOHN DOE 1,
+Defendants.
+
+MEMORANDUM OF LAW IN SUPPORT OF
+DEFENDANTS’ MOTION FOR SUMMARY
+JUDGMENT
+
+ZACHARY W. CARTER
+Corporation Counsel of the City of New York
+Attorney for Defendants
+100 Church Street
+New York, N.Y. 10007
+Of Counsel: Kimberly M. Joyce
+Tel: (212) 356-2650
+Matter #:
+
+Case 1:11-cv-05910-PKC-RER Document 77 Filed 04/18/16 Page 2 of 36 PageID #: 1090
+
+TABLE OF CONTENTS
+Page
+TABLE OF AUTHORITIES ......................................................................................................... iii
+PRELIMINARY STATEMENT .................................................................................................... 1
+STATEMENT OF FACTS ............................................................................................................. 2
+STANDARD OF REVIEW ............................................................................................................ 4
+ARGUMENT .................................................................................................................................. 5
+POINT I
+THERE WAS PROBABLE CAUSE TO ARREST
+PLAINTIFF................................................................................................. 5
+POINT II
+DEFENDANTS SHOULD BE GRANTED
+SUMMARY JUDGMENT ON PLAINTIFF'S
+FEDERAL AND STATE MALICIOUS
+PROSECUTION CLAIMS ....................................................................... 10
+A. Defendant Freed Did Not Initiate or Continue a
+Criminal Proceeding Against Plaintiff............................................... 11
+B. There was Probable Cause for the Criminal
+Prosecution Against Plaintiff. ............................................................ 12
+C. Plaintiff Cannot Show That Defendants Acted
+with Actual Malice ............................................................................ 15
+D. Plaintiff’s Claims With Regard to Defendants’
+Grand Jury Testimony Fail As A Matter of
+Law. ................................................................................................... 15
+POINT III
+PLAINTIFF’S CLAIM FOR DENIAL OF THE
+RIGHT TO A FAIR TRIAL SHOULD BE
+DISMISSED AGAINST ALL DEFENDANTS ....................................... 16
+A. Plaintiff has no claim under Brady. ................................................. 129
+
+Case 1:11-cv-05910-PKC-RER Document 77 Filed 04/18/16 Page 3 of 36 PageID #: 1091
+
+Page
+POINT IV
+PLAINTIFF CANNOT ESTABLISH A FAILURE
+TO INTERVENE CLAIM AGAINST ANY
+INDIVIDUAL DEFENDANT ................................................................. 20
+POINT V
+DEFENDANTS ARE ENTITLED TO
+QUALIFIED IMMUNITY ....................................................................... 21
+POINT VI
+Plaintiff’s CLAIMS AGAINST JOHN DOE 1
+SHOULD BE DISMISSED ...................................................................... 22
+POINT VII
+Plaintiff’s state law claims SHOULD BE
+DISMISSED UNDER NEW YORK LAW .............................................. 23
+CONCLUSION ..................................................................................................... 24
+
+ii
+
+Case 1:11-cv-05910-PKC-RER Document 77 Filed 04/18/16 Page 4 of 36 PageID #: 1092
+
+TABLE OF AUTHORITIES
+Cases
+
+Pages
+
+Alcantara v. City of New York,
+646 F. Supp. 2d 449 (S.D.N.Y. June 23, 2009) ....................................................................... 11
+Alfaro Motors, Inc. v. Ward,
+814 F.2d 883 (2d Cir. 1987) ...................................................................................................... 9
+Alvarado v. City of New York,
+453 Fed. App’x 56 (2d Cir. 2011) ............................................................................................. 8
+Ambrose v. City of New York,
+623 F. Supp. 2d 454 (S.D.N.Y. Mar. 31, 2009) ....................................................................... 19
+Anderson v. Branen,
+17 F.3d 552 (2d Cir. 1994) ...................................................................................................... 21
+Astra Media Group, LLC v. Clear Channel Taxi Media, LLC,
+414 F. App’x 334 (2d Cir. 2011) ............................................................................................. 24
+Bernard v. United States,
+25 F.3d 98 (2d Cir. 1994) .................................................................................................... 6, 14
+Bradway v. Gonzales,
+26 F.3d 313 (2d Cir. 1994) ...................................................................................................... 21
+Brady v. Maryland,
+373 U.S. 83 (1963) ................................................................................................................... 19
+Briscoe v. LaHue,
+460 U.S. 325 (1983) ................................................................................................................. 17
+Brown v. City of New York,
+No. 14-CV-5372 (BMC), 2014 U.S. Dist. LEXIS 181736 (E.D.N.Y. Dec. 23, 2014) ...... 17, 18
+Bryant v. Maffucci,
+923 F.2d 979 (2d Cir. 1991) .................................................................................................... 14
+Campbell v. Giuliani,
+No. 99-CV-2603 (JG), 2001 U.S. Dist. LEXIS 609
+(E.D.N.Y. Jan. 24, 2001) ...................................................................................................... 6, 13
+Celestin v. City of New York,
+581 F. Supp. 2d 420 (E.D.N.Y. 2008) ....................................................................................... 7
+Cerbelli v. City of New York,
+2008 U.S. Dist. LEXIS 109341 (E.D.N.Y. Sept. 8, 2008) ...................................................... 23
+iii
+
+Case 1:11-cv-05910-PKC-RER Document 77 Filed 04/18/16 Page 5 of 36 PageID #: 1093
+
+Cases
+
+Pages
+
+Cifarelli v. Village of Babylon,
+93 F.3d 47 (2d Cir. 1996) .......................................................................................................... 4
+Coggins v. Buonora,
+No. 13-CV-4635, 2015 U.S. App. LEXIS 487
+(2d Cir. Jan. 13, 2015) .............................................................................................................. 16
+Colon v. New York,
+468 N.Y.S.2d 453 (1983) ..................................................................................................... 7, 14
+Connecticut ex rel. Blumenthal v. Crotty,
+346 F.3d 84 (2d Cir. 2003) ...................................................................................................... 22
+Crawford v. City of New York,
+2012 U.S. App. LEXIS 8444 (2d Cir. 2012) ........................................................................... 13
+Cunningham v. City of New York,
+2007 U.S. Dist. LEXIS 69801 (S.D.N.Y. Sept. 18. 2007) ....................................................... 10
+Curley v. Village of Suffern,
+268 F. 3d 65 (2d Cir. 2001) ..................................................................................................... 20
+Daughtry v. City of New York,
+2015 U.S. Dist. LEXIS 68627 (E.D.N.Y. Feb. 23, 2015)...................................................... 7, 8
+Dickerson v. Napolitano,
+604 F.3d 732 (2d Cir. 2010) .................................................................................................... 12
+Doyle v. Coombe,
+No. 97-2680, 1998 U.S. App. LEXIS 20261 (2d Cir. June 12, 1998) ....................................... 9
+Dukes v. City of New York,
+879 F. Supp. 335 (S.D.N.Y. 1995) .......................................................................................... 12
+Fappiano v. City of New York,
+No. 01-CV-2476 (SLT), 2014 U.S. Dist. LEXIS 179584 (E.D.N.Y. Jan. 7, 2015) ................ 18
+Farid v. Ellen,
+593 F.3d 233, 249 (2d Cir. 2010) .............................................................................................. 9
+Farrell v. Burke,
+449 F.3d 470 (2d Cir. 2006) ...................................................................................................... 9
+Franks v. City of New York,
+2015 U.S. Dist. LEXIS 66004 (E.D.N.Y. May 20, 2015) ......................................................... 7
+
+iv
+
+Case 1:11-cv-05910-PKC-RER Document 77 Filed 04/18/16 Page 6 of 36 PageID #: 1094
+
+Cases
+
+Pages
+
+Franks v. City of New York,
+2015 U.S. Dist. LEXIS 104640 (E.D.N.Y. Aug. 10, 2015)....................................................... 8
+Gabai v. Jacoby,
+800 F. Supp. 1149 (S.D.N.Y. Aug. 6, 1992).............................................................................. 5
+Gaston v. Coughlin,
+249 F.3d 156 (2d Cir. 2001) .................................................................................................... 10
+Girden v. Sandals Int’l,
+262 F.3d 195 (2d Cir. 2001) .................................................................................................... 24
+Glassman v. City of New York,
+No. 10 Civ. 2468 (SHS), 2013 U.S. Dist. LEXIS 1170 (S.D.N.Y. Jan 3, 2013) ..................... 20
+Green v. Montgomery,
+219 F.3d 52 (2d Cir. 2000) ...................................................................................................... 14
+Guzman v. United States,
+2013 U.S. Dist. LEXIS 131684 (S.D.N.Y. Feb. 14, 2013) ...................................................... 11
+Hewitt v. City of New York,
+No. 2009-CV-0214 (RJD) (MDG), 2011 U.S. Dist. LEXIS 11479
+(E.D.N.Y. Feb. 7, 2011) ........................................................................................................... 21
+Hewitt v. City of New York,
+2012 U.S. Dist. LEXIS 141067 (E.D.N.Y. Sept. 27, 2012), aff’d, 544 F. App’x 24
+(2d Cir. 2013) .............................................................................................................................. 7
+Horvath v. City of New York,
+No. 12-CV-6005 (RJD) (JMA), 2015 U.S. Dist. LEXIS 51029 (E.D.N.Y. Apr. 17,
+2015) ................................................................................................................................... 17, 18
+Jaramillo v. Weyerhaeuser Co.,
+536 F.3d 140 (2d Cir. 2008) ...................................................................................................... 5
+Jermosen v. Coughlin,
+877 F. Supp. 864 (S.D.N.Y. Mar. 3, 1995) ................................................................................ 5
+Jocks v. Tavernier,
+316 F.3d 128 (2d Cir. 2003) .................................................................................................... 17
+Jones v. City of New York,
+2013 U.S. Dist. LEXIS 162235 (E.D.N.Y. Nov. 14, 2013) ..................................................... 17
+
+v
+
+Case 1:11-cv-05910-PKC-RER Document 77 Filed 04/18/16 Page 7 of 36 PageID #: 1095
+
+Cases
+
+Pages
+
+Jovanovic v. City of New York,
+No. 10-CV-4398, (2d Cir. June 20, 2012) (Summary Order) ............................................ 16, 17
+Kijak v. Columbia Presbyterian Hosp.,
+No. 11 Civ. 6076 (NRB), 2013 U.S. Dist. LEXIS 134965 (S.D.N.Y. Sept. 20, 2013) ........... 23
+Kinsella v. Rumsfeld,
+320 F.3d 309 (2d Cir. 2003) .......................................................................................................4
+Lauer v. City of New York,
+711 N.Y.S.2d 112 (2000) ..........................................................................................................23
+Lennon v. Miller,
+66 F.3d 416 (2d Cir. 1995) .................................................................................................21, 22
+Lowth v. Town of Cheektowaga,
+82 F.3d 563 (2d Cir. 1996) .......................................................................................................13
+Manganiello v. City of New York,
+612 F.3d 149 (2d Cir. 2010) .......................................................................................................7
+Martin v. City of Albany,
+42 N.Y.2d 13 (1977) ...................................................................................................................15
+Martinez v. Simonetti,
+202 F.3d 625 (2d Cir. 2000) .................................................................................................6, 13
+Massey v. Starbucks Corp.,
+No. 03 Civ. 7279 (SAS), 2004 U.S. Dist. LEXIS 12993 (S.D.N.Y. July 12, 2004) ................23
+Matsushita Elec. Indus. Co. v. Zenith Radio Corp.
+475 U.S. 574 (1986) ....................................................................................................................4
+McClellan v. Smith,
+439 F.3d 137 (2d Cir. 2006) .................................................................................................5, 14
+McLaurin v. New Rochelle Police Officers,
+379 F. Supp. 2d 475 (S.D.N.Y. 2005) ...................................................................................6, 13
+Mejia v. City of New York,
+119 F. Supp. 2d 232 (E.D.N.Y. 2000) .......................................................................................12
+Miloslavsky v. AES Eng’g Soc’y, Inc.,
+808 F. Supp. 351 (S.D.N.Y. 1992) ............................................................................................13
+
+vi
+
+Case 1:11-cv-05910-PKC-RER Document 77 Filed 04/18/16 Page 8 of 36 PageID #: 1096
+
+Cases
+
+Pages
+
+Mon v. City of New York,
+574 N.Y.S.2d 529 (N.Y. 1991) ..................................................................................................23
+Moore v. City of New York,
+2015 U.S. Dist. LEXIS 31994 (E.D.N.Y. Mar. 16, 2015) ...........................................................7
+Moorehead v. City of New York,
+11-CV-3294 (SLT)(SMG) (Dkt. 52) (E.D.N.Y. Dec. 2, 2013) ...................................................8
+Nolasco v. City of New York,
+131 A.D.3d 683 (N.Y. App. Div. 2d Dep’t 2015) .......................................................................6
+Norwood v. Mason,
+524 Fed. Appx. 762 (2d Cir. 2013) ..............................................................................................7
+Obilo v. City Univ. of N.Y,
+01-CV-5118 (DGT), 2003 U.S. Dist. LEXIS 2886 (E.D.N.Y. Feb. 28, 2003) .........................12
+Panetta v. Crowley,
+460 F.3d 388 (2d Cir. 2006) .................................................................................................6, 13
+People v. Radcliffe,
+23 A.D.3d 301, 808 N.Y.S.2d 22 (1st Dep’t 2005) .....................................................................7
+Pierson v. Ray,
+386 U.S. 547 (1967) ....................................................................................................................6
+Pitchell v. Callan,
+13 F.3d 545 (2d Cir. 1994) .......................................................................................................24
+Pizarro v. City of New York,
+2015 U.S. Dist. LEXIS 131471 (E.D.N.Y. Sept. 29, 2015) ...............................................19, 20
+Posr v. Doherty,
+944 F.2d 91 (2d Cir. 1991) ........................................................................................................10
+Provost v. City of Newburgh,
+262 F.3d 146 (2d Cir. 2001) ......................................................................................................10
+Rehberg v. Paulk,
+___ U.S. ___, 132 S. Ct. 1497, 1505-10 (2012) ...........................................................15, 16, 17
+Ricciuti v. N.Y.C. Transit Auth.,
+124 F.3d 123 (2d Cir. 1997) ......................................................................................................17
+
+vii
+
+Case 1:11-cv-05910-PKC-RER Document 77 Filed 04/18/16 Page 9 of 36 PageID #: 1097
+
+Cases
+
+Pages
+
+Rodriguez v. City of New York,
+No. 08-CV-04173 (RRM) (RLM), 2012 U.S. Dist. LEXIS 43005 (E.D.N.Y. Mar. 28, 2012) .20
+Rohman v. New York City Transit Auth.,
+215 F.3d 208 (2d Cir. 2000) ........................................................................................................11
+Rothstein v. Carriere,
+373 F.3d 275 (2d Cir. 2004) .....................................................................................................13
+Rounseville v. Zahl,
+13 F.3d 625 (2d Cir. 1994) .......................................................................................................15
+Savino v. City of New York,
+331 F.3d 63 (2d Cir. 2003) ...................................................................................................6, 14
+Sealey v. Giltner,
+116 F.3d 47 (2d Cir. 1997) .........................................................................................................9
+Selinger v. City of New York,
+No. 08 Civ. 2096 (RMB), 2010 U.S. Dist. LEXIS 119700, (S.D.N.Y. Nov. 5, 2010),
+aff’d, No. 10-4955-cv, 2011 U.S. App. LEXIS 25736 (2d Cir. Dec. 23, 2011) .......................14
+Singer v. Fulton County Sheriff,
+63 F.3d 110 (2d. Cir. 1995) ..............................................................................................5, 6, 10
+Smith v. City of New York,
+2010 U.S. Dist. LEXIS 88774 (S.D.N.Y. Aug. 27, 2010) ..................................................11, 12
+Strickler v. Greene,
+527 U.S. 263 (1999) ..................................................................................................................19
+Sulkowska v. City of New York,
+129 F. Supp. 2d 274 (S.D.N.Y. 2001) ..........................................................................................15
+Thomas v. Roach,
+165 F.3d 137 (2d Cir. 1999) .....................................................................................................21
+Walker v. New York,
+974 F.2d 293 (2d Cir. 1992) .....................................................................................................19
+Weyant v. Okst,
+101 F.3d 845 (2d Cir. 1996) .......................................................................................................6
+Wieder v. City of New York,
+2013 U.S. Dist. LEXIS 60890 (E.D.N.Y. Apr. 29, 2013) ..........................................................8
+
+viii
+
+Case 1:11-cv-05910-PKC-RER Document 77 Filed 04/18/16 Page 10 of 36 PageID #: 1098
+
+Cases
+
+Pages
+
+Williams v. City of New York,
+No. 07-CV-5362 (NG)(VVP) (E.D.N.Y. Oct. 18, 2012) ............................................................7
+Williams v. Smith,
+781 F.2d 319 (2d Cir. 1985) ...................................................................................................5, 9
+Williams v. Young,
+769 F. Supp. 2d 594 (S.D.N.Y. 2011) ........................................................................................9
+Wray v. City of New York,
+490 F.3d 189 (2d Cir. 2007) .......................................................................................................8
+Zahrey v. Coffey,
+221 F.3d 342 (2d Cir. 2000) .....................................................................................................18
+Zellner v. Summerlin,
+494 F.3d 344 (2d Cir. 2007) ...............................................................................................21, 22
+Statutes
+42 U.S.C. §1983 ...............................................................................................................................1
+Fed. R. Civ. P. 56 (a) ........................................................................................................................4
+Fed. R. Civ. P. 56 (c) ........................................................................................................................1
+Local Civil Rule 56.1 .......................................................................................................................2
+
+ix
+
+Case 1:11-cv-05910-PKC-RER Document 77 Filed 04/18/16 Page 11 of 36 PageID #: 1099
+
+Statutes
+
+Pages
+
+N.Y. Penal Law §110/125.27 ...................................................................................................... 4
+
+x
+
+Case 1:11-cv-05910-PKC-RER Document 77 Filed 04/18/16 Page 12 of 36 PageID #: 1100
+
+UNITED STATES DISTRICT COURT
+EASTERN DISTRICT OF NEW YORK
+----------------------------------------------------------------------x
+SHANE RHOOMS,
+Plaintiff,
+
+11-CV-5910 (PKC)(RER)
+
+-againstCITY OF NEW YORK, ROBERT ORTLIEB,
+Individually, ROBERT HENDERSON, Individually,
+JOSEPH SEMINARA, Individually, DEVON FREED,
+Individually, and JOHN DOE 1,
+Defendants.
+----------------------------------------------------------------------x
+MEMORANDUM OF LAW IN SUPPORT OF
+DEFENDANTS’ MOTION FOR SUMMARY
+JUDGMENT
+Defendants City of New York, Devon Freed, Joseph Seminara, Robert Henderson,
+and Robert Ortlieb, by their attorney, Zachary W. Carter, Corporation Counsel of the City of New
+York, respectfully submit this memorandum of law in support of their motion for summary
+judgment pursuant to Rule 56(c) of the Federal Rules of Civil Procedure.
+PRELIMINARY STATEMENT
+Shane Rhooms brings this action alleging various violations of his federal and state
+constitutional rights. Plaintiff alleges federal claims under 42 U.S.C.§ 1983 for false arrest and
+false imprisonment, malicious prosecution, denial of right to a fair trial due to fabrication of
+evidence, and failure to intervene, and related state law claims for false arrest, battery, malicious
+prosecution, and respondeat superior against the City of New York. (See 56.1 ¶ 1) Defendants now
+move for summary judgment pursuant to Rule 56 on all of Plaintiff’s claims.
+
+Case 1:11-cv-05910-PKC-RER Document 77 Filed 04/18/16 Page 13 of 36 PageID #: 1101
+
+Defendants are entitled to summary judgment for the following reasons: (1) The
+undisputed facts show that there was probable cause to arrest Plaintiff; (2) there was also probable
+cause to initiate and sustain the prosecution of plaintiff due to the presumption of probable cause
+created by the grand jury indictment; (3) defendants should be granted qualified immunity with
+respect to plaintiff’s claims; (4) plaintiff fails to state a claim for denial of right to a fair trial; (5)
+plaintiff fails to state a claim for failure to intervene; (6) plaintiff’s state law claims fail as a matter
+of law, and the Court should decline to exercise supplemental jurisdiction, and (7) John Doe 1
+should be dismissed as a defendant.
+STATEMENT OF FACTS
+For a complete statement of the relevant and undisputed facts, the Court is
+respectfully referred to Defendants’ Statement Pursuant to Rule 56.1, dated November 3, 2015,
+(“56.1”) submitted concurrently herewith.
+Plaintiff was arrested on September 6, 2010, in connection with a shooting at NYPD
+Lieutenant Robert Ortlieb, Lieutenant Robert Henderson, and Sergeant Joseph Seminara, at about
+12:40 a.m., at 222 Lenox Road, Brooklyn, NY. (See 56.1 ¶ 43.) For a summary of the shooting
+incident leading to Plaintiff’s arrest See 56.1 ¶¶ 3-15. After the shooting an investigation quickly
+commenced.
+
+(See 56.1 ¶¶ 12, 13, 14.)
+
+investigator.
+
+(See 56.1 ¶ 2.)
+
+1st Grade Det. Devon Freed was assigned as lead
+
+Det. Freed, and many other NYPD investigators, started an
+
+investigation into the identity of the shooter, which included, but was not limited to, speaking to 911
+callers, canvasing the building of 222 Lenox for witnesses or suspects, canvasing the surrounding
+locations for vehicle information, speaking to witnesses who heard shots or were in the vicinity of
+the shooting incident, and conducting computer checks. (See 56.1 ¶ 14.) The investigation led to
+the name Shane, provided by a resident of 222 Lenox, named Jason Brown. (See 56.1 ¶¶ 24, 25,
+29.) The name Shane led the investigators to conduct computer checks, which informed them that
+
+2
+
+Case 1:11-cv-05910-PKC-RER Document 77 Filed 04/18/16 Page 14 of 36 PageID #: 1102
+
+a Shane Rhooms had been arrested on July 3, 2010, at 210 Lenox Road, near the location of the
+shooting. (See 56.1 ¶ 26.) Jason Brown confirmed that a photograph of Shane Rhooms was the
+individual he knew to be Shane. (See 56.1 ¶ 29.) The Plaintiff’s photograph was put into a photo
+array, and Sergeant Seminara positively identified the Plaintiff as the individual who had shot at
+himself, Lt. Ortlieb, and Lt. Henderson. (See 56.1 ¶ 39, 40.)
+For the purpose of this motion only, taking the evidence in the light most favorable
+to the non-moving party Plaintiff, Defendants will adopt as true the allegations that non-party
+witness Trevor Perez was coerced into signing a written statement, on a photograph of the Plaintiff,
+saying he saw Plaintiff running from the cops with a gun, because, according to him, the officers
+told him they already knew that plaintiff was involved. (See 56.1 ¶¶ 30-37.) According to Mr.
+Perez, this was not true, and he told the detectives that it was not true. (See 56.1 ¶ 31.) Mr. Perez
+knew the Plaintiff. (See 56.1 ¶ 33, 34.) He had known the Plaintiff as someone who came to the
+building, 222 Lenox, for many years. (See 56.1 ¶ 34.) Mr. Perez had seen plaintiff earlier in the
+day before the shooting near Lenox. (See 56.1 ¶ 35.)
+After the Plaintiff was identified as the shooter a wanted poster was prepared, and
+apprehension efforts began. (See 56.1 ¶ 41.) Plaintiff’s mother called him to inform him that the
+police were looking for him. (See 56.1 ¶ 46.) Even though Plaintiff knew the police were looking
+for him, he did not surrender himself to the precinct until 6:00 p.m. on September 6, 2010. (See
+56.1 ¶ 42.) After Plaintiff arrived at the precinct he was read his Miranda Warnings, and provided
+an oral and written statement, giving an alibi, stating that he was at Webster Hall in Manhattan with
+his cousin, and friends, at the time of the shooting. (See 56.1 ¶ 44, 45.) Plaintiff was subsequently
+arrested. (See 56.1 ¶ 43.)
+On September 7, 2010, the Plaintiff was positively identified in three separate
+lineups by Lt. Henderson, Lt. Ortlieb, and Sgt. Seminara. (See 56.1 ¶ 47.) Plaintiff was asked what
+
+3
+
+Case 1:11-cv-05910-PKC-RER Document 77 Filed 04/18/16 Page 15 of 36 PageID #: 1103
+
+position he wanted in the linup and he said he wanted number 3. (See 56.1 ¶ 48.) On September 7,
+2010, a criminal court complaint was signed by a paralegal with the DA’s office, based upon
+information provided by complainant Robert Ortlieb. (See 56.1 ¶ 49.) After the lineups Plaintiff
+was arraigned, and held on Rikers Island, until he was released on his own recognizance on
+September 24, 2010. (See 56.1 ¶ 57.) During that time, a Grand Jury was convened, at which Det.
+Freed testified on September 8, 2010, and Sgt. Seminara, and Lt. Henderson testified on September
+10, 2010. (See 56.1 ¶ 50-53.) Plaintiff was Indicted on September 10, 2010 for twenty counts,
+including three top counts of attempted murder in the first degree, C.P.L. § 110/125.27. (See 56.1 ¶
+50.) Following Plaintiff’s Indictment, Det. Freed, in conjunction with the Kings County District
+Attorney’s Office, obtained surveillance video from Webster Hall. (See 56.1 ¶ 54-56.) A meeting
+was held with Det. Freed, ADA Lewis Lieberman, the Plaintiff’s cousin, and the Plaintiff’s defense
+attorney, Sam Gregory, to view the video. (See 56.1 ¶ 55.) Shortly after this meeting the Plaintiff
+was released from Rikers. (See 56.1 ¶ 57.) The charges were ultimately dismissed against Plaintiff
+on December 21, 2010. (See 56.1 ¶ 58.)
+STANDARD OF REVIEW
+A court must grant a motion for summary judgment when “the movant shows that
+there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter
+of law.” FED. R. CIV. P. 56 (a). Summary judgment is appropriate when the evidence, viewed in the
+light most favorable to the non-movant, presents no genuine issue of material fact. Id.; Cifarelli v.
+Village of Babylon, 93 F.3d 47, 51 (2d Cir. 1996). A material fact is one that might affect the
+outcome of a suit under governing law. Kinsella v. Rumsfeld, 320 F.3d 309, 311 (2d Cir. 2003).
+“Where the record taken as a whole could not lead a rational trier of fact to find for the nonmoving
+party, there is no ‘genuine issue for trial.’” Matsushita Elec. Indus. Co. v. Zenith Radio Corp., 475
+U.S. 574, 587 (1986).
+
+4
+
+Case 1:11-cv-05910-PKC-RER Document 77 Filed 04/18/16 Page 16 of 36 PageID #: 1104
+
+In a motion for summary judgment, the moving party can show that no genuine issue
+of material fact exists by “setting forth specific facts denying [plaintiff’s] claims.” Jermosen v.
+Coughlin, 877 F. Supp. 864, 867 (S.D.N.Y. Mar. 3, 1995) (citing Williams v. Smith, 781 F.2d 319,
+323 (2d Cir. 1986)). The moving party may also prevail “by pointing out that there is an absence of
+evidence to support the non-moving party’s case.” Jermosen, 877 F. Supp. at 867 (quoting Gabai v.
+Jacoby, 800 F. Supp. 1149, 1153 (S.D.N.Y. Aug. 6, 1992)). In order to avoid summary judgment,
+the non-moving party must come forward with admissible evidence sufficient to raise a genuine
+issue of fact for trial. Jaramillo v. Weyerhaeuser Co., 536 F.3d 140, 145 (2d Cir. 2008) (internal
+citations omitted).
+
+Evidence which is merely “colorable, conclusory, speculative or not
+
+significantly probative” is insufficient to withstand a summary judgment motion. Gabai, 800 F.
+Supp. at 1153 (S.D.N.Y. Aug. 6, 1992). Similarly, “[t]he nonmoving party cannot defeat summary
+judgment by ‘simply showing that there is some metaphysical doubt as to the material facts’. . . or
+by a factual argument based on ‘conjecture or surmise.’” McClellan v. Smith, 439 F.3d 137, 144
+(2d Cir. 2006) (internal citations omitted).
+In this case, summary judgment is warranted because plaintiff cannot show that there
+are genuine issues for trial. Defendants therefore respectfully request that summary judgment be
+granted in their favor.
+ARGUMENT
+POINT I
+THERE WAS PROBABLE CAUSE TO ARREST
+PLAINTIFF
+Defendants are entitled to summary judgment on plaintiff’s state and federal claims
+for false arrest and false imprisonment because plaintiff’s arrest was supported by probable cause.
+The elements of a claim of false arrest under § 1983 “are substantially the same as the elements of a
+false arrest claim under New York law.” Singer v. Fulton County Sheriff, 63 F.3d 110, 118 (2d Cir.
+5
+
+Case 1:11-cv-05910-PKC-RER Document 77 Filed 04/18/16 Page 17 of 36 PageID #: 1105
+
+1995). Under New York law, the elements of a false arrest claim are, and the plaintiff must prove
+that: “(1) the defendant intended to confine the plaintiff, (2) the plaintiff was conscious of the
+confinement, (3) the plaintiff did not consent to the confinement, and (4) the confinement was not
+otherwise privileged.” Savino v. City of New York, 331 F.3d 63, 75 (2d Cir. 2003) (quoting
+Bernard v. United States, 25 F.3d 98, 102 (2d Cir. 1994)); Singer v. Fulton County Sheriff, 63 F.3d
+110, 118 (2d Cir. 1995).
+“The existence of probable cause to arrest constitutes justification and ‘is a complete
+defense to an action for false arrest.’” Weyant v. Okst, 101 F.3d 845, 852 (2d Cir. 1996) (quoting
+Bernard v. United States, 25 F.3d 98, 102 (2d Cir. 1994)). The existence of probable cause defeats
+a claim for false arrest even if any arrestee is ultimately revealed to be innocent. Pierson v. Ray,
+386 U.S. 547, 555 (1967). The police have probable cause to arrest if they receive “information
+from some person, normally the putative victim or eyewitness.” Panetta v. Crowley, 460 F.3d 388,
+395 (2d Cir. 2006) (quoting Martinez v. Simonetti, 202 F.3d 625, 634 (2d Cir. 2000)); McLaurin v.
+New Rochelle Police Officers, 379 F. Supp. 2d 475, 477-78 (S.D.N.Y. 2005). “Indeed, as sources
+of information go, crime victims are among the most reliable; they usually can provide a first-hand
+non-hearsay account of the criminal activity.” Campbell v. Giuliani, No. 99-CV-2603 (JG), 2001
+U.S. Dist. LEXIS 609, at *9 (E.D.N.Y. Jan. 24, 2001). “Once officers possess facts sufficient to
+establish probable cause, they are neither required nor allowed to sit as prosecutor, judge or jury.
+Their function is to apprehend those suspected of wrongdoing, and not to finally determine guilt
+through a weighing of the evidence.” Panetta v. Crowley, 460 F.3d 388, 396 (2d Cir. 2006).
+Further, an arrest doesn’t need to be supported by information that “excludes all possibility of
+innocence and points to the defendant’s guilt beyond a reasonable doubt…As the very name
+suggests, probable cause depends upon probabilities, not certainty.” Nolasco v. City of New York,
+131 A.D.3d 683, 685 (N.Y. App. Div. 2d Dep’t 2015.)
+
+6
+
+Case 1:11-cv-05910-PKC-RER Document 77 Filed 04/18/16 Page 18 of 36 PageID #: 1106
+
+The instant matter is an archetypal complaining victim case – three on duty police
+officers were shot at. Sgt. Seminara identified the plaintiff in a photo array, and Seminara, Ortlieb,
+and Henderson identified plaintiff in three separate lineups.
+
+Those identifications provided
+
+sufficient probable cause to arrest plaintiff, despite the fact that plaintiff provided an alibi. “A
+positive photo identification by an eyewitness is normally sufficient to establish probable cause to
+arrest.” Celestin v. City of New York, 581 F. Supp. 2d 420, 431 (E.D.N.Y. 2008); Franks v. City of
+New York, 2015 U.S. Dist. LEXIS 66004, 7-8 (E.D.N.Y. May 20, 2015); Daughtry v. City of New
+York, 2015 U.S. Dist. LEXIS 68627, 8-9 (E.D.N.Y. Feb. 23, 2015). This is true even when the
+identification may not be 100% reliable. See Norwood v. Mason, 524 Fed. Appx. 762, 765 (2d Cir.
+2013); People v. Radcliffe, 23 A.D.3d 301, 808 N.Y.S.2d 22, 23 (1st Dep’t 2005) (holding that
+photo identification established probable cause for defendant’s arrest, despite challenge to reliability
+of identification); see Moore v. City of New York, 2015 U.S. Dist. LEXIS 31994 (E.D.N.Y. Mar.
+16, 2015) (finding sufficient probable cause from a photo array identification where the witness
+recognized the eyes.)
+Further, a mistake or misidentification of Plaintiff as the shooter does not undermine
+probable cause. See Colon v. City of New York, 60 N.Y.2d 78, 82, 455 N.E.2d 1248, 468 N.Y.S.2d
+453 (N.Y. 1983). When assessing probable cause, officers are entitled to reasonably rely on
+identifications which later turn out to be mistaken. See Manganiello v. City of New York, 612 F.3d
+149, 161 (2d Cir. 2010); Hewitt v. City of New York, 2012 U.S. Dist. LEXIS 141067, 13-14
+(E.D.N.Y. Sept. 27, 2012), aff’d, 544 F. App’x 24 (2d Cir. 2013) (“misidentification do not
+undermine probable cause.”)
+
+Plaintiff cannot show that simply by having an alibi, that the
+
+identifications by Seminara, Ortlieb, and Henderson were anything other than mistaken
+identifications, which does not undermine probable cause. See Williams v. City of New York, No.
+07-CV-5362 (NG) (VVP) (E.D.N.Y. Oct. 18, 2012) (“All that plaintiff does is assume the officers
+
+7
+
+Case 1:11-cv-05910-PKC-RER Document 77 Filed 04/18/16 Page 19 of 36 PageID #: 1107
+
+lied because he states that he did not deal in drugs. This bare assumption is insufficient to withstand
+a motion for summary judgment.”) Additionally, gaps in the continuity of observation does not
+render identifications unreasonable, or undermine the probable cause to arrest. See Franks v. City
+of New York, et al., 2015 U.S. Dist. LEXIS 104640, *9-10 (E.D.N.Y. Aug. 10, 2015).
+To the extent Plaintiff argues that there was not probable cause to arrest Plaintiff
+because he provided an alibi that was compelling and readily verifiable (See Compl, Exh. A, ¶ 49)
+such claim is without merit. Failure to review or obtain surveillance video, that an individual
+claims exonerates them, does not vitiate probable cause, and officers have no obligation to do so.
+See Wieder v. City of New York, 2013 U.S. Dist. LEXIS 60890 (E.D.N.Y. Apr. 29, 2013);
+Moorehead v. City of New York, 11-CV-3294 (SLT)(SMG) (Dkt. 52) (E.D.N.Y. Dec. 2, 2013).
+The law imposes no duty to investigate potentially exculpatory stories, such as investigating alibi
+witnesses, viewing security footage, or corroborating receipts or cell phone records. See Daughtry
+v. City of New York, et al., 12-CV-2655 (NGG) (RER) (Dkt. 48) (E.D.N.Y. Feb. 23, 2015);
+Alvarado v. City of New York, 453 Fed. App’x 56, 58 (2d Cir. 2011) (finding that, once probable
+cause was established, detective had no obligation to refrain from making the arrest, nor investigate
+a potentially exculpatory story).
+Finally, to the extent Plaintiff argues in his complaint that the identification
+procedures were “sham” procedures, Courts have held that suggestive identifications alone are not
+constitutional violations, rather it is the individual’s right to a fair trial that is “impaired by the
+admission of testimony regarding the unreliable identification.” Wray v. City of New York, 490
+F.3d 189, 193 (2d Cir. 2007). Not only has Plaintiff failed to specify how the identification
+procedures were shams or suggestive, but even if he had pled such facts, the claim would fail.
+Whereas here, Detective Freed relied upon the identification of Plaintiff in a photo
+array, and three subsequent positive identifications in lineups, Detective Freed had probable cause
+
+8
+
+Case 1:11-cv-05910-PKC-RER Document 77 Filed 04/18/16 Page 20 of 36 PageID #: 1108
+
+to arrest the Plaintiff, and the false arrest claims against him should be dismissed. In addition,
+defendants Seminara, Ortlieb, and Henderson, had zero involvement. They were, unfortunately, the
+victims of serious crime. They acted like, and were treated like, victims. They only identified the
+plaintiff. They did not make the determination to arrest him. Therefore, the claims for false arrest
+should be dismissed for lack of personal involvement.
+It is well established that personal involvement in an alleged constitutional
+deprivation must be alleged for § 1983 liability to lie against an individual defendant. Farid v.
+Ellen, 593 F.3d 233, 249 (2d Cir. 2010) (citing Farrell v. Burke, 449 F.3d 470, 484 (2d Cir. 2006));
+Alfaro Motors, Inc. v. Ward, 814 F.2d 883, 886 (failure to plead the personal involvement of a
+government official renders a complaint “fatally defective on its face”). It is well established that
+Section 1983 imposes liability only upon a defendant who personally subjects, or causes to be
+subjected any person to the deprivation of any federal right. Accordingly, “personal involvement of
+defendants in alleged constitutional deprivations is a prerequisite to an award of damages under §
+1983.” Williams v. Smith, 781 F.2d 319, 323 (2d Cir. 1986) (citation omitted); Doyle v. Coombe,
+No. 97-2680, 1998 U.S. App. LEXIS 20261, at *3 (2d Cir. June 12, 1998); Sealey v. Giltner, 116
+F.3d 47, 51 (2d Cir. 1997).
+To prevail on a § 1983 false arrest claim against a particular defendant, plaintiff must
+demonstrate that the defendant was personally involved in the alleged constitutional deprivations.
+Farid, 593 F.3d at 249 (“It is well settled in this Circuit that personal involvement of defendants in
+alleged constitutional deprivations is a prerequisite to an award of damages under § 1983.”)
+(quoting Farrell v. Burke, 449 F.3d 470, 484 (2d Cir. 2006)); Williams v. Young, 769 F. Supp. 2d
+594, 602-03 (S.D.N.Y. 2011) (noting that the plaintiff did not have a false arrest claim because the
+defendant was not alleged to have participated in the plaintiff’s arrest). The Second Circuit has
+defined “personal involvement” to mean direct participation, such as “personal participation by one
+
+9
+
+Case 1:11-cv-05910-PKC-RER Document 77 Filed 04/18/16 Page 21 of 36 PageID #: 1109
+
+who has knowledge of the facts that rendered the conduct illegal,” or indirect participation, such as
+“ordering or helping others to do the unlawful acts.” Provost v. City of Newburgh, 262 F.3d 146,
+155 (2d Cir. 2001) (citing Gaston v. Coughlin, 249 F.3d 156, 165-66 (2d Cir. 2001). Plaintiff has
+established no facts to show that Seminara, Henderson, or Ortlieb were personally involved in his
+arrest or prosecution, aside from being the victim of crime, or that, if there was a constitutional
+violation, that they were personally responsible. Accordingly, there can be no personal liability on
+the part of Seminara, Henderson, or Ortlieb, and the claims against them should be dismissed.
+Based on the foregoing, defendants are entitled to summary judgment on plaintiff’s
+false arrest claims.
+POINT II
+DEFENDANTS
+SHOULD
+BE
+GRANTED
+SUMMARY JUDGMENT ON PLAINTIFF’S
+FEDERAL
+AND
+STATE
+MALICIOUS
+PROSECUTION CLAIMS
+Defendants should be granted summary judgment on plaintiff’s claims for malicious
+prosecution. To establish a claim of malicious prosecution under federal or state law, a plaintiff
+must establish that: “(1) the defendant either commenced or continued a criminal proceeding against
+him; (2) that the proceeding terminated in his favor; (3) that there was no probable cause for the
+criminal proceeding; and (4) that the criminal proceeding was instituted with actual malice.” Posr
+v. Doherty, 944 F.2d 91, 100 (2d Cir. 1991) (citations omitted). For claims arising under 42 U.S.C.
+§1983, a plaintiff must also establish a deprivation of liberty consistent with the concept of seizure.
+Cunningham v. City of New York, 2007 U.S. Dist. LEXIS 69801, at *12 (S.D.N.Y. Sept. 18. 2007)
+(citing Singer v. Fulton County Sheriff, 63 F.3d 110, 116 (2d. Cir. 1995)). A plaintiff must satisfy
+all elements of this claim in order to survive a motion for summary judgment. However, plaintiff
+has not proffered the requisite evidence to establish his malicious prosecution claims.
+
+10
+
+Case 1:11-cv-05910-PKC-RER Document 77 Filed 04/18/16 Page 22 of 36 PageID #: 1110
+
+A.
+
+Defendant Freed Did Not Initiate or Continue a Criminal Proceeding Against
+Plaintiff.
+
+Plaintiff’s malicious prosecution claims against Freed fail because defendant Freed
+did not initiate or continue plaintiff’s underlying criminal prosecution. It is undisputed that the
+criminal prosecution against the Plaintiff began once he was positively identified by the victims,
+Joseph Seminara, Robert Ortlieb, and Robert Henderson. The Second Circuit has held that initiation in
+the context of a malicious prosecution claim is “a term of art” involving more than merely reporting a
+crime and giving testimony. Rohman v. New York City Transit Auth., 215 F.3d 208, 217 (2d Cir. 2000).
+To prevail, the plaintiff must show that the defendant “played an active role in the prosecution, such as
+giving advice and encouragement or importuning the authorities to act.” Manganiello v. City of New
+York, 612 F.3d 149, 163 (2d Cir. N.Y. 2010) (citing to Rohman, 215 F.3d at 217). Indeed, when the
+police are accused of misconduct, “a malicious-prosecution claim cannot stand if the decision made
+by the prosecutor to bring criminal charges was independent of any pressure exerted by [the]
+police.” Alcantara v. City of New York, 646 F. Supp. 2d 449, 457 (S.D.N.Y. 2009) (citing cases);
+Smith v. City of New York, 04 Civ. 3286 (TPG), 2010 U.S. Dist. LEXIS 88774 (S.D.N.Y. Aug. 27,
+2010).
+“New York law imposes a presumption that a prosecutor exercises his own
+independent judgment in deciding to prosecute a criminal defendant.” Guzman v. United States,
+2013 U.S. Dist. LEXIS 131684, at *19 (S.D.N.Y. Feb. 14, 2013) (citation omitted). “[A] maliciousprosecution claim cannot stand if the decision made by the prosecutor to bring criminal charges was
+independent of any pressure exerted by [the] police.” Alcantara, 646 F. Supp. 2d at 457 (citations
+omitted). Further, “once a criminal defendant has been formally charged, the chain of causation
+between the officer’s conduct and the claim of malicious prosecution is broken by the intervening
+actions of the prosecutor, thereby abolishing the officer’s responsibility for the prosecution.” Smith
+
+11
+
+Case 1:11-cv-05910-PKC-RER Document 77 Filed 04/18/16 Page 23 of 36 PageID #: 1111
+
+v. City of New York, 2010 U.S. Dist. LEXIS 88774, at *22 (S.D.N.Y. Aug. 27, 2010) (citing
+Alcantara, 646 F. Supp. 2d at 459).
+Plaintiff has not proffered any evidence to overcome the presumption that the
+Brooklyn District Attorney’s Office, and Assistant District Attorney Lewis Lieberman, exercised
+independent judgment in deciding to prosecute him. Even if ADA Lieberman had known about the
+alleged coercion, he still would have proceeded based on the lineup identifications. (See 56.1 ¶¶
+59-62.) Further, there is no evidence that defendant Freed played any significant role in the
+initiation and continuation of the prosecution of plaintiff’s criminal case, other than investigating
+plaintiff’s alibi. As such, plaintiff has failed to show not only that defendant Freed commenced or
+continued his criminal prosecution, but also that there was actual malice on the part of any of the
+defendants in the institution of his criminal proceeding. As such, plaintiff cannot satisfy the
+initiation or actual malice elements of his malicious prosecution claim.
+B.
+
+There was Probable Cause for the Criminal Prosecution Against Plaintiff.
+
+Plaintiff’s malicious prosecution claim fails because there was probable cause for the
+prosecution. Probable cause is a complete defense to an action for malicious prosecution in New
+York. Dickerson v. Napolitano, 604 F.3d 732, 751 (2d Cir. 2010). The existence or lack of
+probable cause is measured at the time of the commencement of the judicial proceeding, i.e. at the
+time of plaintiff’s arraignment. Mejia v. City of New York, 119 F. Supp. 2d 232 (E.D.N.Y. 2000).
+The general rule is that “[p]robable cause to arrest is sufficient for probable cause to prosecute
+unless facts come to light between the arrest and arraignment that vitiate the probable cause.” Obilo
+v. City Univ. of N.Y, 01-cv-5118 (DGT), 2003 U.S. Dist. LEXIS 2886, at *34 (E.D.N.Y. February
+28, 2003); Dukes v. City of New York, 879 F. Supp. 335, 342 (S.D.N.Y. 1995). While probable
+cause to arrest an individual can dissipate by the time criminal proceedings are commenced such to
+breathe new life into a malicious prosecution claim, probable cause dissipates only where “the
+
+12
+
+Case 1:11-cv-05910-PKC-RER Document 77 Filed 04/18/16 Page 24 of 36 PageID #: 1112
+
+groundless nature of the charge [is] made apparent by the discovery of some intervening fact.”
+Lowth v. Town of Cheektowaga, 82 F.3d 563, 571 (2d Cir. 1996).
+Plaintiff bears the burden of showing there was no probable cause for the criminal
+charge. Rothstein v. Carriere, 373 F.3d 275, 282 (2d Cir. 2004). Courts have found that police have
+probable cause to arrest if they receive “information from some person, normally the putative victim
+or eyewitness.” Panetta v. Crowley, 460 F.3d 388, 395 (2d Cir. 2006) (quoting Martinez v.
+Simonetti, 202 F.3d 625, 634 (2d Cir. 2000); McLaurin v. New Rochelle Police Officers, 379 F.
+Supp. 2d 475 (S.D.N.Y. 2005). “Indeed, as sources of information go, crime victims are among the
+most reliable; they usually can provide a first-hand non-hearsay account of the criminal activity.”
+Campbell v. Giuliani, No. 99 Civ. 2603 (JG), 2001 U.S. Dist. LEXIS 609, at *9 (E.D.N.Y. Jan. 24,
+2001) (citing Miloslavsky v. AES Eng’g Soc’y, Inc., 808 F. Supp. 351, 355 (S.D.N.Y. 1992) (“The
+veracity of citizen complainants who are the victims of the very crime they report to the police is
+assumed”)); see also, Crawford v. City of New York, 2012 U.S. App. LEXIS 8444 (2d Cir. 2012)
+(affirming grant of Summary Judgment for defendants where two complaining witnesses claimed
+that plaintiff molested them notwithstanding plaintiff’s arguments that the complaining witnesses’
+allegations were inconsistent and that officers failed to investigate his alibi and failed to review
+ACS file).
+As set forth, supra, on September 6, 2010, there was probable cause to arrest
+plaintiff for the attempted murder of Seminara, Ortlieb, and Henderson. Plaintiff has proffered no
+evidence that probable cause dissipated at the commencement, or during the pendency, of his
+criminal prosecution.
+
+Accordingly, plaintiff cannot satisfy the third prong of the malicious
+
+prosecution test and defendants should be granted summary judgment on plaintiff’s malicious
+prosecution claim.
+
+13
+
+Case 1:11-cv-05910-PKC-RER Document 77 Filed 04/18/16 Page 25 of 36 PageID #: 1113
+
+Further, an “indictment by a grand jury creates a presumption of probable cause that
+may only be rebutted by evidence that the indictment was procured by fraud, perjury, the
+suppression of evidence or other police conduct undertaken in bad faith.” Savino v. City of New
+York, 331 F.3d 63, 72 (2d Cir. 2003) (quoting Colon v. New York, 468 N.Y.S.2d 453, 456 (1983))
+(emphasis in original); see also McClellan v. Smith, 439 F.3d 137, 145 (2d Cir. 2006) (indictment
+“gives rise to a presumption that probable cause exists [for] the crimes described” in the
+indictment). This “rule is founded upon the premise that the Grand Jury acts judicially and it may
+be presumed that it has acted regularly.” Colon v. New York, 468 N.Y.S.2d 453, 455 (1983).
+Plaintiff bears the burden of proof in rebutting the presumption of probable cause. Savino, 331 F.3d
+at 73 (citing Bernard v. United States, 25 F.3d 98, 104 (2d Cir. 1994)). Plaintiff’s burden may not
+be met by offering “mere ‘conjecture’ and ‘surmise’ that [an] indictment was procured as a result of
+conduct undertaken by the defendants in bad faith.” Savino, 331 F.3d at 73 (quoting Bryant v.
+Maffucci, 923 F.2d 979, 982 (2d Cir. 1991)). Even if an indictment is later dismissed for
+insufficient evidence, the presumption of probable cause created by the indictment still stands.
+Selinger v. City of New York, No. 08 Civ. 2096 (RMB), 2010 U.S. Dist. LEXIS 119700, at *10-14
+(S.D.N.Y. Nov. 5, 2010), aff’d, No. 10-4955-cv, 2011 U.S. App. LEXIS 25736 (2d Cir. Dec. 23,
+2011). Where a plaintiff was indicted by a grand jury, probable cause for his prosecution is
+presumed to have existed. McClellan v. Smith, 439 F.3d 137, 145 (2d Cir. 2006); Green v.
+Montgomery, 219 F.3d 52, 60 (2d Cir. 2000). In order to overcome this presumption, plaintiff must
+show that “the indictment was produced by fraud, perjury, the suppression of evidence or other
+police conduct undertaken in bad faith,” which plaintiff has failed to do. Green, 219 F.3d at 60
+(quoting Colon v. City of New York, 60 N.Y.2d 78, 82 (1983)).
+Plaintiff has failed to meet the burden of proof in rebutting the presumption of
+probable cause. Plaintiff has proferred no evidence sufficient to overcome the presumption that the
+
+14
+
+Case 1:11-cv-05910-PKC-RER Document 77 Filed 04/18/16 Page 26 of 36 PageID #: 1114
+
+Grand Jury acted judiciously. Over the course of this litigation, plaintiff has adduced no evidence
+that would show that the indictment was procured by fraud, perjury, suppression of evidence, or any
+police conduct taken in bad faith. As such, plaintiff has failed to rebut the presumption of probable
+cause, and summary judgment must be granted to defendants.
+C.
+
+Plaintiff Cannot Show That Defendants Acted with Actual Malice
+
+Plaintiff’s malicious prosecution claim also fails because Plaintiff cannot show any
+evidence of actual malice on the part of defendants. New York law requires plaintiff to establish
+that the defendants commenced the criminal proceeding due to a wrong or improper motive, such as
+something other than a desire to see the ends of justice served. Rounseville v. Zahl, 13 F.3d 625,
+631 (2d Cir. 1994). Only where probable cause to initiate a proceeding is “so totally lacking” may
+malice reasonably be inferred. Sulkowska v. City of New York, 129 F. Supp. 2d 274, 295 (S.D.N.Y.
+2001) (quoting Martin v. City of Albany, 42 N.Y.2d 13, 17 (1977)).
+In this case, there is no evidence that Defendant Freed initiated or continued the
+prosecution of Plaintiff at all, or that any of the defendants acted with actual malice, as Plaintiff has
+provided no evidence that probable cause was “so totally lacking.” Since plaintiff’s arrest was
+based on complaints by three victims, Joseph Seminara, Robert Henderson, and Robert Ortlieb, that
+they were shot at by the Plaintiff, there was probable cause for the arrest of Plaintiff and so malice
+cannot be inferred. Because there is nothing in the record to suggest that Defendants acted with
+malice, Plaintiff’s claim of malicious prosecution must fail.
+D.
+
+Plaintiff’s Claims With Regard to Defendants Grand Jury Testimony Fail As
+A Matter of Law.
+
+To the extent that plaintiff seeks to bring a malicious prosecution claim based on his
+conclusory challenge to defendants Freed, Seminara, or Ortlieb’s statements before the grand jury,
+such a claim will also fail. Under the U.S. Supreme Court, Rehberg v. Paulk, a plaintiff cannot
+satisfy his burden to overcome the presumption of probable cause created by a Grand Jury
+15
+
+Case 1:11-cv-05910-PKC-RER Document 77 Filed 04/18/16 Page 27 of 36 PageID #: 1115
+
+indictment by relying upon testimony made to a Grand Jury. Rehberg v. Paulk, ___ U.S. ___, 132
+S. Ct. 1497, 1505-10 (2012) (holding that witnesses who testify before a grand jury are immune
+from suit for having done so). ); Coggins v. Buonora, No. cv-13-4635, 2015 U.S. App. LEXIS 487
+(2d Cir. Jan. 13, 2015) (holding that, post-Rehberg, a plaintiff cannot establish a § 1983 claim by
+relying on grand jury testimony); Jovanovic v. City of New York, No. 10-4398-cv, (2d Cir. June 20,
+2012) (Summary Order) (finding police officer absolutely immune from claim of fabrication of
+evidence for testifying before the grand jury). As such, to the extent that plaintiff claims that
+defendants made false statements in their Grand Jury testimony, such allegations are barred under
+Rehberg and cannot be used to overcome the presumption of probable cause created by plaintiff’s
+indictment. As such, plaintiff’s malicious prosecution claim fails as a matter of law.
+POINT III
+PLAINTIFF’S CLAIM FOR DENIAL OF THE
+RIGHT TO A FAIR TRIAL SHOULD BE
+DISMISSED AGAINST ALL DEFENDANTS
+Plaintiff alleges a denial of the right to a fair trial based upon the defendants
+conveying the false identification of Plaintiff as the perpetrator to the District Attorney’s Office,
+conveying fabricated testimony that Plaintiff selected his position in the lineup, in addition to
+withholding the facts surrounding the defendants “inability to observe the shooter,” withholding or
+misrepresenting the circumstances of the “tainted and otherwise sham identification procedures,”
+withholding the identity of Trevor Perez from the ADA, and did not disclose the “coerced written
+statement by Trevor Perez.” (Compl. Exh. A ¶¶ 38, 49, 50, 51, 53, 54, 56.) Plaintiff’s claims are
+without legal basis and should be summarily dismissed.
+To ultimately prevail on this cause of action, a plaintiff must prove that a defendant
+fabricated evidence that would be likely to influence a jury’s decision, that he forwarded that
+evidence to prosecutors, and that the plaintiff suffered a deprivation of liberty as a result. Jovanovic
+
+16
+
+Case 1:11-cv-05910-PKC-RER Document 77 Filed 04/18/16 Page 28 of 36 PageID #: 1116
+
+v. City of New York, 486 Fed. Appx. 149, 152 (2d Cir. 2012); Ricciuti v. N.Y.C. Transit Auth., 124
+F.3d 123, 128 (2d Cir. 1997). In order to find for plaintiff, you must find that the manufactured or
+fabricated evidence was the proximate cause of the deprivation of plaintiff’s liberty. Id. Plaintiff’s
+allegations are insufficient to state a claim for denial of the right to a fair trial.
+Even if the statements made by officers Freed, Seminara, Ortlieb, and Henderson
+were untrue, they are an insufficient predicate for Plaintiff’s claim of denial of the right to a fair trial
+because the alleged falsifications are testimonial. As a matter of law, police officers, like other
+witnesses, are immune from liability for giving false testimony in connection with criminal matters.
+Rehberg v. Paulk, 132 S. Ct. 1497, 1505-07 (2012); Briscoe v. LaHue, 460 U.S. 325, 335 (1983);
+Jovanovic, 486 Fed. Appx. at 152 (dismissing a fair trial claim where “the only avenue by which the
+[allegedly false evidence] could reach the jury was through [the officer’s] testimony, for which he
+enjoys absolute immunity”). This rule applies with equal force to pre-trial testimony as to trial or
+grand jury testimony. Rehberg, 132 S. Ct. at 1507 (immunity extends to “preparatory activity, such
+as a preliminary discussion in which the witness relates the substance of his intended testimony” to
+the prosecutor); Brown v. City of New York, No. 14-CV-5372 (BMC), 2014 U.S. Dist. LEXIS
+181736, at *9-10 (E.D.N.Y. Dec. 23, 2014) (a false statement in the arrest paperwork, the criminal
+court complaint or told to a district attorney is not actionable because, as inadmissible hearsay, it
+would never get before a jury in a criminal case); Jones v. City of New York, 2013 U.S. Dist.
+LEXIS 162235, at *28-29 (E.D.N.Y. Nov. 14, 2013) (finding that “a false statement by [a police
+officer] to an ADA…would amount to inadmissible hearsay” and therefore could not be “likely to
+influence a jury’s decision.” (quoting Ricciuti, 125 F.3d at 130 and citing Jocks v. Tavernier, 316
+F.3d 128, 138 (2d Cir. 2003))), vacated on other grounds by 603 Fed. Appx. 13 (2d Cir. Mar. 4,
+2015); Horvath v. City of New York, No. 12cv6005 (RJD) (JMA), 2015 U.S. Dist. LEXIS 51029, at
+
+17
+
+Case 1:11-cv-05910-PKC-RER Document 77 Filed 04/18/16 Page 29 of 36 PageID #: 1117
+
+*17 (E.D.N.Y. Apr. 17, 2015); see also Fappiano v. City of New York, No. 01-cv-2476 (SLT), 2014
+U.S. Dist. LEXIS 179584, at *66 (E.D.N.Y. Jan. 7, 2015).
+As the only evidence that defendants are alleged to have falsified are statements
+regarding their ability to view the perpetrator, and the allegedly false identifications themselves of
+Plaintiff, were statements made/conveyed to the ADA, plaintiff’s hypothetical cause of action for
+denial of the right to a fair trial must be dismissed as a matter of law. The present case is
+distinguishable from Ricciuti and Jocks, which dealt with a fabricated post-arrest confession of the
+plaintiff that led to an additional deprivation of liberty beyond the arrest and prosecution for assault
+in the first instance, and an allegedly fabricated written statement post arrest.
+The Plaintiff is attempting to do exactly what the Supreme Court said in Rehberg
+should not be allowed: he is attempting to circumvent the rule of grand jury immunity by claiming
+the wrong occurred when the officers conspired to present false testimony. Rehberg, 132 S. Ct. at
+1506 (“this rule may not be circumvented by claiming that a grand jury witness conspired to prevent
+false testimony…”). This should not be allowed because at its core, Plaintiff’s fabrication of
+evidence claim is a “§ 1983 claim concerning the initiation or maintenance of the prosecution.” Id.
+To state a claim against an individual police officer, a plaintiff must show that “each
+particular police officer has knowingly or with gross recklessness violated his rights – alleging a
+collective violation is insufficient.” Brown v. City of New York, 2014 U.S. Dist. LEXIS 181736,
+*11 (E.D.N.Y. Dec. 23, 2014). “The manufacture of false evidence, in and of itself…does not
+impair anyone’s liberty, and therefore does not impair anyone’s constitutional right.” Zahrey v.
+Coffey, 221 F.3d 342, 348 (2d Cir. 2000). Furthermore, “Court should be wary of attempts by
+creative litigants who cannot meet the requirements of recognized common-law derived
+constitutional torts like false arrest or malicious prosecution to create new rights with labels that
+sound attractive but make little logical sense and have no common law antecedents.” Id. at 8. As
+
+18
+
+Case 1:11-cv-05910-PKC-RER Document 77 Filed 04/18/16 Page 30 of 36 PageID #: 1118
+
+Plaintiff fails to allege that the defendants did any more than convey false or fabricated statements
+to the prosecutor, there can be no claim for denial of the right to fair trial as against them for their
+testimonial evidence, and the claim should be dismissed.
+A. Plaintiff has no claim under Brady
+To the extent Plaintiff alleges a denial of the right to a fair trial based upon the
+withholding of evidence or information, his claim fails as a matter of law, since the information was
+not forwarded to prosecutors, and could therefore not be relied on by a jury. In Brady v. Maryland,
+the Supreme Court held that “the suppression by the prosecution of evidence favorable to an
+accused upon request violates due process where the evidence is material either to guilt or to
+punishment, irrespective of the good faith or bad faith of the prosecution.” 373 U.S. 83, 87 (1963).
+In order to establish a Brady violation, the aggrieved party must show that the prosecution
+“suppressed” evidence “favorable to the accused, either because it is exculpatory, or because it is
+impeaching,” and “prejudice” ensued. Strickler v. Greene, 527 U.S. 263, 281-82 (1999). While
+police officers, like prosecutors, have a constitutional duty to disclose exculpatory evidence, their
+Brady obligation extends only as far as the DA’s Office. Walker V. New York, 974 F.2d 293, 299
+(2d Cir. 1992).
+The majority view amongst the circuits is that when a Plaintiff is acquitted of the
+criminal charges against him, it “negates any violation of his Brady rights and extinguishes any
+Section 1983 due process claim that might arise from Defendants’ alleged suppression of
+exculpatory evidence.” Ambrose v. City of New York, et al., 623 F. Supp. 2d 454, 471 (S.D.N.Y.
+Mar. 31, 2009); see also Pizarro v. City of New York, et al., 2015 U.S. Dist. LEXIS 131471, *21-22
+(E.D.N.Y. Sept. 29, 2015). The fact that it could be argued that the suppression of Brady material
+could “prevent a defendant from securing an earlier favorable termination of his or her case is not
+considered as a potential source of ‘prejudice’ within the meaning of the Brady rule.” Id. at 472.
+
+19
+
+Case 1:11-cv-05910-PKC-RER Document 77 Filed 04/18/16 Page 31 of 36 PageID #: 1119
+
+Additionally, this Circuit has found that Brady does not “mandate disclosure of evidence any earlier
+than the point in time at which the criminal defendant needs access to the evidence so that he or she
+may effectively use it at a proceeding that determines guilt.” Id. at 469. Accordingly, since the
+claims against plaintiff were dismissed, he can have no claim under Brady.
+POINT IV
+PLAINTIFF CANNOT ESTABLISH A FAILURE
+TO INTERVENE CLAIM AGAINST ANY
+INDIVIDUAL DEFENDANT
+Plaintiff alleges that the defendants failed to intervene on his behalf. (Compl. Ex. A
+¶¶ 79-83.) As a threshold matter, plaintiff cannot state a claim for failure to intervene because he
+has failed to establish a violation of his constitutional rights. Glassman v. City of New York, No.
+10 Civ. 2468 (SHS), 2013 U.S. Dist. LEXIS 1170 at *22 (S.D.N.Y. Jan. 3, 2013 (“Where the
+arresting and prosecuting officers committed no constitutional violation, a claim for failure to
+intervene will not lie.”) Moreover, even to the extent that plaintiff could establish that defendants
+should be deemed liable for false arrest, because they are entitled to qualified immunity, his failure
+to intervene claim cannot stand. Rodriguez v. City of New York, No. 08-CV-04173 (RRM) (RLM),
+2012 U.S. Dist. LEXIS 43005 at *38 (E.D.N.Y. Mar. 28, 2012) (“police officers are immune from
+suit for failure to intervene if the qualified immunity test is met.”). Assuming, arguendo, that
+plaintiff had established a violation of his constitutional rights for which the defendants were not
+entitled to qualified immunity, there would still be no basis for imposing liability against the
+defendants for failure to intervene.
+“[L]aw enforcement officials have an affirmative duty to intervene to protect against
+the infringement of constitutional rights from conduct committed by other officers in their
+presence.” Curley v. Village of Suffern, 268 F. 3d 65, 70 (2d Cir. 2001). If they fail to do so, “in
+order for liability to attach, they must have known that a constitutional violation was being
+
+20
+
+Case 1:11-cv-05910-PKC-RER Document 77 Filed 04/18/16 Page 32 of 36 PageID #: 1120
+
+committed,” Hewitt v. City of New York, No. 2009-CV-0214 (RJD) (MDG), 2011 U.S. Dist.
+LEXIS 11479, 3-4 (E.D.N.Y. Feb. 7, 2011), and “there must have been a realistic opportunity to
+intervene to prevent harm from occurring.” Anderson v. Branen, 17 F.3d 552, 557 (2d Cir. 1994).
+It appears as if Plaintiff alleges that all of the defendants collectively, directly,
+violated his rights and somehow also failed to intervene. The premise of Plaintiff’s claim is unclear
+and unsound. Such an argument is untenable, and the claim should be dismissed.
+POINT V
+DEFENDANTS ARE ENTITLED TO QUALIFIED
+IMMUNITY
+If the Court finds that Seminara, Ortlieb, and Henderson should not be dismissed as
+defendants for lack of personal involvement, as they were the victims of the crime and nothing
+more, then all Defendants are entitled to qualified immunity from suit for the arrest and prosecution
+of plaintiff. The “doctrine of qualified immunity shields public officials performing discretionary
+functions from civil liability insofar as their conduct does not violate clearly established statutory or
+constitutional rights of which a reasonable person would have known or insofar as it was
+objectively reasonable for them to believe that their acts did not violate those rights.” Bradway v.
+Gonzales, 26 F.3d 313, 317-18 (2d Cir. 1994) (internal citations and quotations omitted); Thomas v.
+Roach, 165 F.3d 137, 142 (2d Cir. 1999).
+Defendants should be granted qualified immunity with respect to plaintiff’s false
+arrest and malicious prosecution claims. A police officer is entitled to qualified immunity from a
+claim for arrest without probable cause if: (1) it was objectively reasonable for the officer to believe
+that probable cause existed; or (2) officers of reasonable competence could disagree on whether
+there was probable cause. Zellner v. Summerlin, 494 F.3d 344, 369 (2d Cir. 2007) (citations
+omitted).
+
+“An officer’s actions are objectively unreasonable when no officer of reasonable
+
+competence could have made the same choice in similar circumstances.” Lennon v. Miller, 66 F.3d
+21
+
+Case 1:11-cv-05910-PKC-RER Document 77 Filed 04/18/16 Page 33 of 36 PageID #: 1121
+
+416, 420-21 (2d Cir. 1995). For qualified immunity purposes, in deciding whether an officer’s
+conduct was “objectively reasonable,” the Court must examine the information possessed by the
+officer at the time of the arrest, but “[courts] do not consider the subjective intent, motives, or
+beliefs” of the officer. Connecticut ex rel. Blumenthal v. Crotty, 346 F.3d 84, 106 (2d Cir. 2003).
+In the instant matter, it is clear that defendant Freed is entitled to qualified immunity.
+Based on the information available to Freed at the time of the arrest, namely the identification of the
+Plaintiff as the perpetrator in a photo array, it was objectively reasonable for Freed to believe that
+there was probable cause to arrest plaintiff. Even if the Court were to conclude that probable cause
+was absent, there was still “arguable probable cause” to arrest plaintiff. See Zellner, 494 F.3d at
+369. Accordingly, defendants are entitled to qualified immunity because their actions in arresting
+plaintiff were lawful and objectively reasonable.
+
+POINT VI
+PLAINTIFF’S CLAIMS AGAINST JOHN DOE 1
+SHOULD BE DISMISSED
+Plaintiff’s claims against John Doe 1 officer should be dismissed and he should
+properly be removed from the caption of the complaint. Plaintiff filed this Second Amended
+Consolidated Complaint on July 21, 2015, after the close of discovery and over one dozen
+depositions. Plaintiff has failed to amend the complaint or attempt to add or substitute officers for
+the John Doe unidentified officer. Plaintiff should not be permitted to use the John Doe as a place
+holder for an individual they’ve been unable to identify. Accordingly, John Doe 1 officer should be
+dismissed from the complaint and removed from the caption.
+
+22
+
+Case 1:11-cv-05910-PKC-RER Document 77 Filed 04/18/16 Page 34 of 36 PageID #: 1122
+
+POINT VII
+PLAINTIFF’S STATE LAW CLAIMS SHOULD
+BE DISMISSED UNDER NEW YORK LAW
+In addition to asserting state law claims that correspond to their federal claims,
+specifically false arrest and malicious prosecution, plaintiff alleges in conclusory fashion that
+defendants violated his rights under New York State law. First, plaintiff attempts to present a state
+law theory of respondeat superior liability against defendant City, which requires plaintiff to
+establish that an individual defendant, acting within the scope of his or her employment, committed
+a culpable act. Massey v. Starbucks Corp., No. 03 Civ. 7279 (SAS), 2004 U.S. Dist. LEXIS 12993,
+at *24 (S.D.N.Y. July 12, 2004). Because plaintiff has failed to establish culpable conduct by
+defendants, this claim necessarily fails.
+Even if Plaintiff could establish a state law claim against defendants relating to his
+detention and arrest, defendants are entitled to governmental immunity. “‘[W]hen official action [of
+a police officer] involves the exercise of discretion of expert judgment in policy matters, and is not
+exclusively ministerial, [he] generally is not answerable in damages for the injurious consequences
+of that action.’”
+
+Cerbelli v. City of New York, 2008 U.S. Dist. LEXIS 109341, at *76-77
+
+(E.D.N.Y. Sept. 8, 2008) (citing Mon v. City of New York, 574 N.Y.S.2d 529 (N.Y. 1991)
+(brackets in original)). If a plaintiff’s claims relate to an officer’s exercise of discretion, then
+“governmental immunity applies unless the court also finds that the exercise of discretion was
+unreasonable.” Id. at 77. In this case, in exercising their discretion, the individual defendants acted
+reasonably and, as such, are protected by governmental immunity. Kijak v. Columbia Presbyterian
+Hosp., No. 11 Civ. 6076 (NRB), 2013 U.S. Dist. LEXIS 134965, at *21 (S.D.N.Y. Sept. 20, 2013)
+(“A public employee’s discretionary acts, comprising ‘conduct involving the exercise of reasoned
+judgment,’ may not result in liability for the municipality.”) (citing Lauer v. City of New York, 711
+N.Y.S.2d 112 (2000)).
+23
+
+Case 1:11-cv-05910-PKC-RER Document 77 Filed 04/18/16 Page 35 of 36 PageID #: 1123
+
+Plaintiff brings a further claim for battery. Under New York Law, a “‘battery’ is an
+intentional wrongful physical contact with another person without consent.” Girden v. Sandals
+Int’l, 262 F.3d 195, 203 (2d Cir. 2001). Plaintiff pled no specific allegations against the defendants
+to support this claim. Accordingly, it should be dismissed.
+To the extent Plaintiff’s state law claims are not dismissed for the reasons advanced
+herein, because defendants are entitled to summary judgment on all plaintiffs’ federal causes of
+action, the Court should decline to exercise its supplemental jurisdiction over plaintiffs’ state law
+claims. See Astra Media Group, LLC v. Clear Channel Taxi Media, LLC, 414 F. App’x 334, 337
+(2d Cir. 2011) (“where all federal claims have been dismissed at a relatively early stage, the district
+court should decline to exercise supplemental jurisdiction over pendant state law claims”). See, e.g.,
+Pitchell v. Callan, 13 F.3d 545, 549 (2d Cir. 1994) (“it is axiomatic that a court should decline to
+exercise jurisdiction over state-law claims when it dismisses the federal claims prior to trial”).
+Based on the foregoing, plaintiff cannot maintain his state law causes of action, and
+therefore, these claims should be dismissed and defendants granted summary judgment.
+CONCLUSION
+For the foregoing reasons, defendants City of New York, Devon Freed, Joseph
+Seminara, Robert Henderson, and Robert Ortlieb, respectfully request that the Court grant their
+motion for summary judgment in its entirety, together with costs, fees and such other and further
+relief as the Court deems just and proper.
+
+24
+
+Case 1:11-cv-05910-PKC-RER Document 77 Filed 04/18/16 Page 36 of 36 PageID #: 1124
+
+Dated:
+
+New York, New York
+November 6, 2015
+ZACHARY W. CARTER
+Corporation Counsel of the City of New York
+Attorney for Defendants City of New York, Devon
+Freed, Joseph Seminara, Robert Henderson, and
+Robert Ortlieb
+100 Church Street
+New York, New York 10007
+(212) 356-2650
+By:
+
+To:
+
+_/s/___________________________________
+Kimberly M. Joyce
+Senior Counsel
+Special Federal Litigation Division
+
+Brett Klein (by email, and hand delivery)
+
+25
+
+

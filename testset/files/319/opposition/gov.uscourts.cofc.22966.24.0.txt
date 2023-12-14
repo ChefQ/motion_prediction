@@ -1,0 +1,1469 @@
+Case 1:08-cv-00069-LSM
+
+Document 24
+
+Filed 06/23/2008
+
+Page 1 of 37
+
+IN THE UNITED STATES COURT OF FEDERAL CLAIMS
+AVOCENT REDMOND CORP.
+Plaintiff,
+v.
+
+No. 08-69C
+
+THE UNITED STATES
+
+Judge Lawrence S. Margolis
+
+Defendant,
+and
+ROSE ELECTRONICS,
+Proposed Defendant-Intervenor.
+
+ROSE ELECTRONICS’ CROSS-MOTION FOR A PROTECTIVE ORDER
+Proposed Defendant-Intervenor Rose Electronics cross-moves for a protective order that
+would prohibit attorneys who have access to highly confidential information disclosed in
+discovery from engaging in patent prosecution on the subject technology for a limited time. For
+the reasons set forth in the accompanying memorandum in support, Rose respectfully requests
+that the Court enter a protective order containing such a patent prosecution provision.
+A proposed order granting this cross-motion, and a proposed protective order, are
+attached.
+Respectfully submitted,
+Dated: June 23, 2008
+
+/s/ Bert C. Reiser
+Bert C. Reiser, Esq.
+HOWREY LLP
+1299 Pennsylvania Ave NW
+Washington, DC 20004
+Ph.: 202.783.0800
+Fax: 202.383.6610
+reiserb@howrey.com
+Attorney for Proposed Defendant-Intervenor
+Rose Electronics
+10707 Stancliff Road
+Houston, TX 77099
+
+DM_US:21302199_1
+
+Case 1:08-cv-00069-LSM
+
+OF COUNSEL:
+Michael S. Dowler, Esq.
+Thomas L. Casagrande, Esq.
+HOWREY LLP
+1111 Louisiana, 25th floor
+Houston, TX 77002-5242
+713.787.1400 (phone)
+713.787.1440 (fax)
+dowlerm@howrey.com
+casagrandet@howrey.com
+phillipsj@howrey.com
+Brian L. Jackson, Esq.
+LAW OFFICE OF BRIAN L. JACKSON
+1302 Waugh Drive # 582
+Houston, TX 77019-3908
+713.522.5766 (phone)
+713.583.5785 (fax)
+brian@brianjacksonlaw.com
+(application for admission pending)
+
+DM_US:21302199_1
+
+Document 24
+
+Filed 06/23/2008
+
+Page 2 of 37
+
+Case 1:08-cv-00069-LSM
+
+Document 24
+
+Filed 06/23/2008
+
+Page 3 of 37
+
+RCFC 26(c) CERTIFICATION
+The undersigned hereby certifies the following: Counsel for Rose Electronics has
+conferred with counsel for Avocent Redmond (Mr. Don Jackson) by telephone on June 13, 2008,
+and with counsel for the United States (Mr. Robert Hilton) by telephone, in an effort to resolve
+this dispute without court action. Counsel for the United States does not object to the relief
+requested by Rose, but counsel for plaintiff Avocent Redmond Corp. objects. Rose and
+Avocent’s counsel could not reach a resolution of their disagreement.
+
+/s/ Thomas L. Casagrande
+Thomas L. Casagrande
+Attorney for Rose Electronics
+
+DM_US:21302199_1
+
+Case 1:08-cv-00069-LSM
+
+Document 24
+
+Filed 06/23/2008
+
+Page 4 of 37
+
+CERTIFICATE OF SERVICE
+The undersigned hereby certifies that the counsel of record who are deemed to
+have consented to electronic service are being served on this 23rd day of June, 2008 with
+a copy of this document via the Court’s CM/ECF system per RCFC 5.2. Any other
+counsel of record will be served by electronic mail, facsimile transmission and/or first
+class mail on this same date.
+
+James D. Berquist
+J. Scott Davidson
+Donald L. Jackson
+Grace Obermann
+DAVIDSON, BERQUIST
+JACKSON & GOWDEY LLP
+4300 Wilson Blvd, Suite 700
+Arlington, VA 22203
+
+Jeffrey S. Bucholtz
+Acting Assistant Attorney General
+John Fargo
+Director
+Robert G. Hilton
+Attorney
+Commercial Litigation Branch
+Civil Division
+DEPARTMENT OF JUSTICE
+Washington, DC 20530
+
+/s/ Bert C. Reiser___________
+Bert C. Reiser
+
+DM_US:21295662_1
+
+Case 1:08-cv-00069-LSM
+
+Document 24
+
+Filed 06/23/2008
+
+Page 5 of 37
+
+IN THE UNITED STATES COURT OF FEDERAL CLAIMS
+AVOCENT REDMOND CORP.
+Plaintiff,
+v.
+
+No. 08-69C
+
+THE UNITED STATES
+
+Judge Lawrence S. Margolis
+
+Defendant,
+and
+ROSE ELECTRONICS,
+Proposed Defendant-Intervenor.
+
+ROSE ELECTRONICS’ MEMORANDUM:
+(1) IN OPPOSITION TO AVOCENT’S MOTION FOR A PROTECTIVE ORDER; AND
+(2) SUPPORTING ROSE’S CROSS-MOTION FOR A PROTECTIVE ORDER
+
+DM_US:21301878_1
+
+Case 1:08-cv-00069-LSM
+
+Document 24
+
+Filed 06/23/2008
+
+Page 6 of 37
+
+TABLE OF CONTENTS
+I. INTRODUCTION .....................................................................................................................1
+II. BACKGROUND .......................................................................................................................2
+A. The KVM Switch Market and Avocent’s Decade-Long Attempt to Assert a
+Patent Monopoly Over It. ....................................................................................................2
+B. Avocent’s Law Firm’s Current Proceedings Before the Patent Office. ..............................4
+C. Rose’s Proposed Prosecution Provision. .............................................................................4
+III. ISSUE ........................................................................................................................................5
+IV. ARGUMENT.............................................................................................................................5
+A. General Principles................................................................................................................5
+B. There is an Unavoidable Risk that Avocent’s Patent Prosecution Attorneys
+Will Inadvertently Use Rose’s Confidential Information In Amending Claims
+in Patents that Avocent Is Currently Asserting Against Rose. ............................................6
+1. Patent Prosecution Provisions Generally.......................................................................6
+2. The Facts and Circumstances Here Indicate a High Risk of Both
+Inadvertent Disclosure and Substantial Prejudice to Rose. ...........................................9
+V. CONCLUSION........................................................................................................................13
+
+i
+DM_US:21301878_1
+
+Case 1:08-cv-00069-LSM
+
+Document 24
+
+Filed 06/23/2008
+
+Page 7 of 37
+
+TABLE OF AUTHORITIES
+Cases
+Andrx Pharmaceuticals, LLC v. GlaxoSmithKline, PLC,
+236 F.R.D. 583, 587 (S.D. Fla. 2006).............................................................................. 10, 13
+Avocent Redmond Corp. v. Rose Electronics, Inc.,
+242 F.R.D. 574 (W.D. Wash. 2007) ...................................................................................... 13
+Biotechnology Indus. Org. v. District of Columbia,
+496 F.3d 1362 (Fed. Cir. 2007). ............................................................................................ 11
+Brown Bag Software v. Symantec Corp.,
+960 F.2d 1465 (9th Cir. 1992) (emphasis added) .................................................................... 9
+Chan v. Intuit, Inc.,
+218 F.R.D. 659, 662 (N.D. Cal. 2003)................................................................................... 10
+Commissariat à L’Energie Atomique v. Dell Computer Corp.,
+No. Civ.A. 03-484-KAJ, 2004 WL 1196965 (D. Del. May 25, 2004) .................................. 10
+Cummings-Allison Corp. v. Glory Ltd.,
+2003 U.S. Dist. LEXIS 23653, *39 (N.D. Ill. 2003) ............................................................. 10
+FTC v. Exxon Corp.,
+636 F.2d 1336 (D.C. Cir. 1980)......................................................................................... 9, 15
+In Re Papst Licensing,
+2000 U.S. Dist. LEXIS 6374, *12 (E.D. La. 2000) ............................................................... 10
+Infosint S.A. v. H. Lundbeck A.S.,
+No. 06 CIV 2869 LAK RLE, 2007 WL 1467784, at *4 (S.D.N.Y. May 16, 2007)........ 10, 12
+Interactive Coupon Marketing Group, Inc. v. H.O.T! Coupons, LLC,
+1999 U.S. Dist. LEXIS 12437, *11 (N.D. Ill. 1999) ............................................................. 10
+MercExchange, LLC v. eBay, Inc.,
+467 F. Supp. 2d 608, n.23 (E.D. Va. 2006) ..................................................................... 10, 13
+Mercoid Corp. v. Mid-Continent Inv. Co.,
+320 U.S. 661, 64 S. Ct. 268, (1944)....................................................................................... 11
+Mikohn Gaming Corp. v. Acres Gaming Inc.,
+50 USPQ2d 1783 (D. Nev. Apr. 15, 1998)...................................................................... 10, 13
+Motorola, Inc. v. Interdigital Tech. Corp.,
+1994 U.S. Dist. LEXIS 20714, *19 (D. Del. 1994)............................................................... 10
+Presidio Components, Inc. v. American Technical Ceramics Corp.,
+___ F. Supp. 2d ___, 2008 WL 608407 (S.D. Cal. Mar. 4, 2008).............................. 9, 10, 12
+Superior Fireplace Co. v. Majestic Prods. Co.,
+270 F.3d 1358 (Fed. Cir. 2001) ............................................................................................. 11
+
+ii
+DM_US:21301878_1
+
+Case 1:08-cv-00069-LSM
+
+Document 24
+
+Filed 06/23/2008
+
+Page 8 of 37
+
+Transparent-Wrap Mach. Corp. v. Stokes & Smith Co.,
+329 U.S. 637, 643 67 S. Ct. 610, 614 (1947)......................................................................... 11
+U.S. Steel Corp. v. United States,
+730 F.2d 1465 (Fed. Cir. 1984) ............................................................................. 8, 10, 11, 14
+
+iii
+DM_US:21301878_1
+
+Case 1:08-cv-00069-LSM
+
+I.
+
+Document 24
+
+Filed 06/23/2008
+
+Page 9 of 37
+
+INTRODUCTION
+Plaintiff, Avocent Redmond Corp. (“Avocent”), has rushed into Court seeking a
+
+protective order governing treatment of the parties’ confidential information without soliciting
+any input from Rose Electronics (“Rose”), the party whose products and confidential information
+are at stake. Avocent did this despite Rose’s pending motion to intervene, and despite the
+defendant’s specific request that Avocent seek Rose’s input. Avocent clearly wanted a ruling on
+this issue before Rose could have its say, and with good reason: Avocent has failed to apprise
+the Court of the dire consequences Rose will suffer from Avocent’s requested order.
+By this cross-motion, Rose seeks entry of a more balanced protective order, which differs
+from Avocent’s proposed order only by the inclusion of a neutral “patent prosecution”
+provision.1 The proposed provision simply and logically prevents anyone (on either side of the
+case) who receives discovery information designated at the highest level of confidentiality from
+prosecuting patent applications before the U.S. Patent and Trademark Office (“Patent Office”)
+on the subject technology for a limited period of time. This type of provision ensures legitimate
+competition among the parties and has been approved by the overwhelming majority of federal
+courts that have considered the issue.
+Although this provision was previously considered by the U.S. District Court in Seattle in
+a now stayed case between Rose and Avocent, the circumstances have changed dramatically
+since the Seattle court considered the issue: three of the patents at issue in this case (and all the
+patents at issue in Seattle) are now undergoing reexamination in the Patent Office.
+Consequently, and in contrast to the Seattle proceedings, Avocent now has the opportunity to
+1
+
+The only other change between Avocent’s and Rose’s proposed protective orders is that
+Rose uses the term “Confidential” rather than “Protected” for the lower level of confidentiality,
+(cont.. . .)
+
+1
+DM_US:21301878_1
+
+Case 1:08-cv-00069-LSM
+
+Document 24
+
+Filed 06/23/2008
+
+Page 10 of 37
+
+amend the claims of the three patents that are being asserted in both lawsuits. To make matters
+worse, the very lawyers representing Avocent in this lawsuit are also representing Avocent
+before the Patent Office in the reexamination proceedings. Thus, under Avocent’s proposal, its
+lawyers will gain access to highly confidential technical information about Rose’s products,
+while simultaneously re-writing the very patent claims being litigated to target those same
+products. Simply put, it would be manifestly unfair—indeed unthinkable—for Avocent to have
+access to Rose’s secret technical documents while re-writing the very patents that those products
+are already accused of infringing.
+In view of this serious competitive harm to Rose, and based on the authorities and
+testimonial evidence set forth herein, Avocent’s motion should be denied, and Rose’s proposed
+protective order entered for this case.
+II.
+
+BACKGROUND
+A.
+
+The KVM Switch Market and Avocent’s Decade-Long Attempt to
+Assert a Patent Monopoly Over It.
+
+Avocent and Rose are competing manufacturers of keyboard-video-mouse (KVM)
+switches. (Docket No. 1, Complaint ¶¶ 2, 6.) In 1995, Avocent’s predecessor tried to gain a
+legal monopoly on a portion of the KVM switch market by applying for a patent relating to
+certain KVM switch technologies. In the following thirteen years, Avocent then took the 1995
+application and filed one after another “continuation” applications.
+
+These continuation
+
+applications would permit Avocent to keep “tweaking” the claims in each successive application
+as it learned more and more about the way the market was developing over a period of several
+years, with each of the ensuing applications still able to gain the benefit of the 1995 application’s
+
+so that the labels in this case conform to those previously used in the parties’ related Seattle
+litigation.
+
+2
+DM_US:21301878_1
+
+Case 1:08-cv-00069-LSM
+
+Document 24
+
+Filed 06/23/2008
+
+Page 11 of 37
+
+filing date. Amazingly, Avocent has a continuation application still pending from its thirteenyear old parent application.
+From that 1995 parent application, Avocent has already obtained at least six patents,
+including all four patents at issue in this litigation. (See Exh. 1.)2 Avocent sued Rose in 1998 in
+Seattle after obtaining the first issued patent from this still-continuing string of applications.
+After having a motion for summary judgment of invalidity filed against it, Avocent dropped the
+suit against Rose in 1999. (Dowler Decl. ¶ 2.) Avocent then went back to the Patent Office to
+try to obtain more “attack-proof” patents that it could then assert against its competitors. During
+that period, it also sued and ultimately settled with another competitor (Raritan Computer) (see
+Exh. 2). Then, with several more patents and cash in hand, Avocent trained its sights back on
+Rose, suing Rose again in Seattle in 2006, asserting several of the “new and improved” siblings
+from the 1995 parent application (Patent Nos. 5,884,096, 6,112,264, and 7,113,978), all of which
+are at issue in this lawsuit as well. (See Exh. 3.)
+In October 2007, the Seattle court stayed the 2006 litigation because the Patent Office
+had determined that there were substantial new questions as to the patentability of all three
+patents-in-suit, and had instituted proceedings to re-examine those patents. (Dowler Decl. ¶ 4.)
+Frustrated by its repeated inability to use its contrived stable of patents to shut Rose out
+of the KVM market, Avocent seeks—by filing the instant case against Rose’s customer, the
+United States—a third bite at Rose’s documents and money.
+
+2
+
+Unless otherwise noted, all exhibits cited herein are attached to the Declaration of
+Michael S. Dowler.
+
+3
+DM_US:21301878_1
+
+Case 1:08-cv-00069-LSM
+
+B.
+
+Document 24
+
+Filed 06/23/2008
+
+Page 12 of 37
+
+Avocent’s Law Firm’s Current Proceedings Before the Patent Office.
+
+In the stayed Seattle case (see Exh. 3) and in this case, Avocent’s lead attorneys are from
+the 7-lawyer firm of Davidson Berquist Jackson & Gowdy (“DBJG”).3 (See Exh. 4.) DBJG
+lawyers are also responsible for Avocent’s proceedings before the Patent Office (i.e., patent
+prosecution). (See Exh. 5.) For example, they were counsel of record listed on the most
+recently-issued patent at issue in this lawsuit (No. 7,113,978). (See Exh. 6.) They are also
+counsel of record in the three currently-pending reexamination proceedings before the Patent
+Office. (See Exhs. 7-9.) Rose has already filed a request with the Patent Office seeking
+reexamination of the fourth patent at issue in this case (Patent No. 6,345,323) (Dowler Decl. at ¶
+5), and no doubt DBJG will appear for Avocent in the newly-filed reexamination request as well.
+DBJG is also counsel of record concerning the patent application still pending in the Patent
+Office from the same 1995 parent application. (See Exh. 10.)
+C.
+
+Rose’s Proposed Prosecution Provision.
+
+Rose proposes that the following language be added to paragraph 7 of Avocent’s
+proposed protective order:
+Proprietary Information designated as ATTORNEYS EYES ONLY can be
+disclosed to those persons designated in ¶¶ 7(a)-7(e) and 7(g)-7(k) only on the
+condition that any person who receives access to such information shall have no
+involvement whatsoever, from and after the date of first disclosure of any such
+information to such person, in the prosecution of any patent application that
+involves KVM switch technology for a period of one year after the conclusion of
+this litigation (including the exhaustion of all subsequent appeals). Patent
+prosecution shall include drafting, reviewing, editing, or supervising the drafting
+or preparation of patent applications, claims, specifications, amendments,
+responses to office actions and any other materials submitted to the United States
+Patent & Trademark Office or any other patent authority elsewhere in the world,
+3
+
+Interestingly, these same lawyers were counsel for Cybex Computer Products Corp., a
+co-defendant of Rose’s in the 1998 Seattle litigation. In other words, like Rose, they were
+adverse to Avocent in that case and argued that the exact same Avocent patent application that
+spawned the four patents-in-suit was invalid.
+
+4
+DM_US:21301878_1
+
+Case 1:08-cv-00069-LSM
+
+Document 24
+
+Filed 06/23/2008
+
+Page 13 of 37
+
+as well as identifying or evaluating potential inventions, participating in the
+decision to file patent applications or consulting on any of the foregoing matters
+with others performing any of these activities.
+III.
+
+ISSUE
+Should Avocent’s lawyers be permitted access to Rose’s confidential and trade secret
+
+materials and simultaneously be permitted to represent Avocent before the Patent Office, thereby
+creating a situation where they can amend the terms of Avocent’s currently-asserted patent
+claims in an attempt to cover Rose’s technology?
+IV.
+
+ARGUMENT
+Avocent’s proposed protective order permits its attorneys to see Rose’s confidential
+
+technical documents and simultaneously be involved in reexamination and prosecution
+proceedings where they can amend the very patents in this suit to precisely target Rose’s
+products.
+
+Rose’s proposed protective order protects against this misuse of its confidential
+
+technical information by using a widely-accepted and neutral “patent prosecution” provision.
+Because Avocent and Rose are direct competitors, and because the risk of the use (inadvertent or
+otherwise) of Rose’s trade secret and confidential technical information by Avocent’s attorneys
+in the Patent Office proceedings is both unavoidable and high, and because the prejudice to Rose
+is so great, fairness requires entry of Rose’s proposed protective order.
+A.
+
+General Principles
+
+The Federal Circuit, as well as a vast majority of other courts across the country, has
+specifically adopted protective orders including prosecution provisions of the type Rose now
+seeks. In U.S. Steel Corp. v. United States, the Federal Circuit held that protective orders
+denying lawyers’ access to an adversary’s confidential documents are appropriate when there is
+“an unacceptable opportunity for inadvertent disclosure.” 730 F.2d 1465, 1468 (Fed. Cir. 1984).
+Whether such an unacceptable opportunity exists must be determined “on the basis of each
+
+5
+DM_US:21301878_1
+
+Case 1:08-cv-00069-LSM
+
+Document 24
+
+Filed 06/23/2008
+
+Page 14 of 37
+
+individual counsel’s actual activity and relationship with the party represented.” Id. at 1469.
+Elaborating on U.S. Steel, the Ninth Circuit held that the U.S. Steel standard “requires the . . .
+court to examine factually all the risks and safeguards surrounding inadvertent disclosure by any
+counsel . . . .” Brown Bag Software v. Symantec Corp., 960 F.2d 1465, 1470 (9th Cir. 1992)
+(emphasis added).
+B.
+
+There is an Unavoidable Risk that Avocent’s Patent Prosecution
+Attorneys Will Inadvertently Use Rose’s Confidential Information In
+Amending Claims in Patents that Avocent Is Currently Asserting
+Against Rose.
+
+Protective orders prohibiting a patentee’s patent prosecution attorneys from seeing an
+accused infringer’s confidential business and product information are commonplace.
+
+As
+
+explained below, where, as here, the specific circumstances and facts maximize both the
+likelihood of inadvertent disclosure and the magnitude of the prejudice flowing from it, and
+where Avocent has taken no steps to effectively safeguard against such inadvertent disclosure,
+such a provision is necessary.
+1.
+
+Patent Prosecution Provisions Generally
+
+“[I]t is very difficult for the human mind to compartmentalize and selectively suppress
+information once learned, no matter how well-intentioned the effort may be to do so.” FTC v.
+Exxon Corp., 636 F.2d 1336, 1350 (D.C. Cir. 1980). For this very reason, courts applying the
+U.S. Steel holding to patent cases routinely enter protective orders preventing one party’s patent
+prosecution attorneys from being able to see its adversary’s confidential technical documents.
+See, e.g.:
+Presidio Components, Inc. v. American Technical Ceramics Corp., ___ F. Supp.
+2d ___, 2008 WL 608407 (S.D. Cal. Mar. 4, 2008) (Exh. 11)
+Infosint S.A. v. H. Lundbeck A.S., No. 06 CIV 2869 LAK RLE, 2007 WL
+1467784, at *4 (S.D.N.Y. May 16, 2007) (Exh. 12)
+
+6
+DM_US:21301878_1
+
+Case 1:08-cv-00069-LSM
+
+Document 24
+
+Filed 06/23/2008
+
+Page 15 of 37
+
+Andrx Pharmaceuticals, LLC v. GlaxoSmithKline, PLC, 236 F.R.D. 583, 587
+(S.D. Fla. 2006)
+MercExchange, LLC v. eBay, Inc., 467 F. Supp. 2d 608, 624-25 & n.23 (E.D. Va.
+2006)
+Commissariat à L’Energie Atomique v. Dell Computer Corp., No. Civ.A. 03-484KAJ, 2004 WL 1196965 (D. Del. May 25, 2004) (Exh. 13)
+Cummings-Allison Corp. v. Glory Ltd., 2003 U.S. Dist. LEXIS 23653, *39 (N.D.
+Ill. 2003) (Exh. 14)
+Chan v. Intuit, Inc., 218 F.R.D. 659, 662 (N.D. Cal. 2003)
+In Re Papst Licensing, 2000 U.S. Dist. LEXIS 6374, *12 (E.D. La. 2000) (Exh.
+15)
+Interactive Coupon Marketing Group, Inc. v. H.O.T! Coupons, LLC, 1999 U.S.
+Dist. LEXIS 12437, *11 (N.D. Ill. 1999) (Exh. 16)
+Mikohn Gaming Corp. v. Acres Gaming Inc., 50 USPQ2d 1783 (D. Nev. Apr. 15,
+1998) (Exh. 17)
+Motorola, Inc. v. Interdigital Tech. Corp., 1994 U.S. Dist. LEXIS 20714, *19 (D.
+Del. 1994) (Exh. 18)
+The reason that the majority of courts addressing this issue concur that “patent
+prosecution prohibitions” in protective orders are appropriate is because patent prosecution
+attorneys’ activities put them in a unique position to “develop a patent prosecution strategy that
+will bring more of [its adversary’s] products within the scope of [their client’s] patents.”
+Presidio Components, 2008 WL 608407 at *3 (Exh. 11). Patent prosecution counsel thus come
+within one of the specific situations mentioned by the U.S. Steel court as creating and
+“unacceptable opportunity” for inadvertent disclosure: situations where the person seeking
+access to a competitor’s confidential documents is involved in “competitive decision-making.”
+See U.S. Steel, 730 F.2d at 1468 (“In a particular case, e.g., where in-house counsel are involved
+
+7
+DM_US:21301878_1
+
+Case 1:08-cv-00069-LSM
+
+Document 24
+
+Filed 06/23/2008
+
+Page 16 of 37
+
+in competitive decision-making, it may well be that a party seeking access should . . . be denied
+access” despite the need for access).4
+Patent prosecution is competitive decision-making personified.
+
+(See generally,
+
+Declaration of Michael L. Lynch.) Patents confer upon their owners the right to exclude all
+competitors from making, using, or selling the claimed invention. See, e.g., Biotechnology
+Indus. Org. v. District of Columbia, 496 F.3d 1362, 1372 (Fed. Cir. 2007). “Patentees value the
+right to exclude others in part because the ability to foreclose competitors from making, using,
+and selling the invention may allow them an opportunity to obtain above-market profits during
+the patent’s term.” Id. (emphasis added); see generally Transparent-Wrap Mach. Corp. v. Stokes
+& Smith Co., 329 U.S. 637, 643 67 S. Ct. 610, 614 (1947) (“A patent . . . carries for the statutory
+period ‘a right to be free from competition in the practice of the invention.’”); Mercoid Corp. v.
+Mid-Continent Inv. Co., 320 U.S. 661, 665, 64 S. Ct. 268, 271 (1944) (same). Patent prosecution
+attorneys’ ability to amend or modify the claims of an alleged patented invention during
+prosecution or reexamination puts them at the very center of competitive decisions of how to
+define the scope of the right to exclude as much competition as possible. See, e.g., Superior
+Fireplace Co. v. Majestic Prods. Co., 270 F.3d 1358, 1375 (Fed. Cir. 2001) (“The scope of a
+patent claim is its very essence, and that with which the patentee and any competitors are most
+concerned.”)
+Because patents confer the right to exclude competition altogether, it is no surprise that
+the majority of courts agree that patent prosecution attorneys are engaged in activities where
+4
+
+The U.S. Steel court noted that “‘competitive decisionmaking’ . . . would appear
+serviceable as shorthand for a counsel’s activities, association, and relationship with a client that
+are such as to involve counsel’s advice and participation in any or all of the client’s decisions
+(pricing, product design, etc.) made in light of similar or corresponding information about a
+competitor.”) 730 F.2d at 1468 n.3.
+
+(cont.. . .)
+
+8
+DM_US:21301878_1
+
+Case 1:08-cv-00069-LSM
+
+Document 24
+
+Filed 06/23/2008
+
+Page 17 of 37
+
+“unacceptable opportunit[ies] for inadvertent disclosure” exist, and it is therefore appropriate
+under U.S. Steel to prohibit them from seeing a competitor’s confidential documents. See, e.g.,
+Presidio Components, ___ F. Supp. 2d ___, 2008 WL 608407 at *7 (“Humphrey is involved in
+competitive decision-making for Presidio. . . . By prosecuting patents for Presidio, Humphrey
+would have had to make decisions involving scope and emphasis, such as drafting claims to read
+on new products and new directions ‘where [a party] projects sales to be more critical.’”) (Exh.
+11); Infosint S.A., 2007 WL 1467784 at *4 (“Prosecuting patent applications ‘involves decisions
+of scope and emphasis’ that implicate competitive decision making, as claims may be drafted to
+‘read on new products and new directions where [a party] projects] sales to be most critical.’”)
+(citations omitted) (Exh. 12).
+2.
+
+The Facts and Circumstances Here Indicate a High Risk of
+Both Inadvertent Disclosure and Substantial Prejudice to
+Rose.
+
+Avocent’s patent prosecution attorneys are more deeply steeped in a long-term, close
+relationship with Avocent in their efforts to exclude competition through patents than a typical
+patent attorney retained only on an as-needed basis.
+
+Attorney Davidson averred in his
+
+declaration in the Seattle case that he has “been outside patent counsel to Avocent Corporation
+and its affiliates for almost 10 years” and that he has “handled, and [he] continues to handle,
+dozens of patent applications directed to the field of KVM switches for Avocent Corporation and
+its affiliates.” (Exh. 5 at ¶ 3.) In so doing, certainly Mr. Davidson would adhere to his firm’s
+policy, stated on its website, to “work with our clients to develop and implement the legal
+strategies necessary to protect their business goals” and “always with an eye towards advancing
+our clients’ objectives.” See http://www.davidsonberquist.com (emphasis added). These sorts of
+
+9
+DM_US:21301878_1
+
+Case 1:08-cv-00069-LSM
+
+Document 24
+
+Filed 06/23/2008
+
+Page 18 of 37
+
+activities, coupled with a patent prosecution relationship of this duration and closeness, present
+an unacceptable risk that Rose’s confidential information will be misused during Avocent’s
+patent prosecution activities. See, e.g., Andrx Pharmaceuticals, 236 F.R.D. at 587 (“Mr. Endres
+has prosecuted patents on behalf of Andrx for twelve years. The extent of his relationship with
+Andrx suggests that he actively participates in competitive decision-making.”)
+Specifically, Avocent’s patent prosecution attorneys are currently working on all three of
+the reexamination proceedings that are underway (see Exhs. 7-9) and which—significantly—
+concern three of the four patents that Avocent is asserting against Rose in this case. See, e.g.,
+MercExchange, 467 F. Supp. 2d at 624-25 & n.23 (agreeing with courts that had held that there
+was an unacceptable risk of inadvertent disclosure where patentee’s litigation counsel was
+simultaneously representing patentee in reexamination proceedings concerning those patents).
+In addition, Avocent’s patent counsel is also currently representing Avocent on yet another
+pending application continuing from the initial 1995 Avocent application that has given rise to
+the four patents-in-suit. See Mikohn Gaming, 50 USPQ2d at 1786 (Exh. 17) (litigation counsel
+was in an “untenable position” where counsel was simultaneously prosecuting applications
+related to the patents-in-suit; bar imposed).
+Rather than disclose and address these facts in its motion, Avocent instead argues that the
+judge in the Seattle case made a factual “finding that Avocent’s counsel was not engaged in
+competitive decision-making” (Avocent Mot. at 2) and suggests that this Court should simply
+parrot that ruling (see id. at 4). The Seattle judge, however, made no such finding. Rather, she
+noted that the defendants “have not offered any evidence that suggests that [Avocent’s patent
+prosecution attorneys] advise Avocent in its ‘competitive decisionmaking.’” Avocent Redmond
+Corp. v. Rose Electronics, Inc., 242 F.R.D. 574, 579 (W.D. Wash. 2007). Moreover, irrespective
+
+10
+DM_US:21301878_1
+
+Case 1:08-cv-00069-LSM
+
+Document 24
+
+Filed 06/23/2008
+
+Page 19 of 37
+
+of what the facts were over a year ago, it has since become clear that Avocent’s patent attorneys
+are indeed engaged in competitive decision-making directed specifically at squelching
+competition by Rose through proceedings in the Patent Office.
+The facts before this Court show that Avocent’s attorneys are now representing Avocent
+in ongoing proceedings before the Patent Office concerning three of the very patents asserted
+here—proceedings in which they will be permitted to propose amendments to the patent claims
+asserted in this case. And yet, while they are in this unique position to re-write patent claims
+that they are actively litigating against Rose, they would propose that they simultaneously be
+permitted to use their status as litigation counsel to review Rose’s confidential technical
+materials, describing the operation of the very products that they hope to cover with the claims
+that they are actively re-writing.
+
+In addition, there is substantial proof—including from
+
+Avocent’s attorney’s own declaration—that Avocent’s patent prosecution attorneys have indeed
+been integrally and closely involved in Avocent’s competitive decision-making for nearly 10
+years. (See Exhs. 2, 5, and 6.) These specific activities, particularly in light of the length and
+closeness of patent prosecution counsel’s relationship with Avocent, weigh heavily in favor of
+such a prophylactic provision. Cf. U.S. Steel, 730 F.2d at 1468 (protective order should be
+“developed in light of the particular counsel’s relationship and activities, not solely on a
+counsel’s status as in-house or retained”).
+The impossible situation in which Avocent’s lawyers would place themselves is easily
+illustrated. Consider Avocent’s lawyer sitting down, in the pending Patent Office reexamination
+proceedings, to re-write the claims of the patents-in-suit that are being litigated in this case.
+Under Avocent’s proposed protective order, that lawyer in his litigation capacity will have
+already had access to and reviewed highly confidential documents from Rose describing the
+
+11
+DM_US:21301878_1
+
+Case 1:08-cv-00069-LSM
+
+Document 24
+
+Filed 06/23/2008
+
+Page 20 of 37
+
+detailed operation of Rose’s accused products. Thus, for any revision he makes to the patent
+claims, he will already know how it would affect Avocent’s infringement case against Rose. In
+such a situation, which is unfortunately very real, Avocent’s lawyer cannot help but misuse
+Rose’s confidential information to Rose’s detriment, because he cannot make himself “forget”
+how Rose’s products operate while re-writing the patent claims. See FTC v. Exxon, 636 F.2d at
+1350 (“[I]t is very difficult for the human mind to compartmentalize and selectively suppress
+information once learned, no matter how well-intentioned the effort may be to do so.”). Any
+claim amendment he makes would be made in light of that knowledge. Avocent’s lawyers
+should not be able to use their litigation role to gain access to a competitor’s secret information
+and then use it to enhance their patent portfolio in a way that harms that competitor.
+In support of its opposition and cross-motion, Rose submits the Declaration of Michael
+L. Lynch, a former law professor and twenty-seven year patent law practitioner with extensive
+experience as both in-house and outside counsel for high-tech companies, whose career has
+focused on patent prosecution activities. As Mr. Lynch states, a patent is a way for a company to
+obtain an advantage over its competitors, by writing the broadest valid claims that cover the
+competitive landscape as best possible. (Lynch Decl. at ¶¶ 10-11.) Patent draftspersons often
+seek out publicly available information concerning competitors’ products when drafting patent
+claims on behalf of a client, and importantly, seeing such information permits the attorney to
+write claims that he might not have thought to write on his own. (Lynch Decl. at ¶¶ 12-13.)
+Thus, Mr. Lynch’s declaration demonstrates that which the case law naturally confirms—that
+patent prosecution is a key form of competitive decision-making.
+
+(Lynch Decl. at ¶ 14.)
+
+Further, it provides an example of the unfair advantage that Avocent could obtain if permitted to
+have access to Rose’s confidential technical information while re-writing the claims of the
+
+12
+DM_US:21301878_1
+
+Case 1:08-cv-00069-LSM
+
+Document 24
+
+Filed 06/23/2008
+
+Page 21 of 37
+
+patents-in-suit: it would enable Avocent’s lawyers to write patent claims that are more closely
+tailored to Rose’s products than they could write without access to that secret information.
+This is not a dispute about the theoretical possibility of a situation possibly arising where
+inadvertent disclosure could hurt Rose. As set forth in the declaration of Peter Macourek, the
+founder and one of the owners of Rose, Rose’s business would be seriously harmed if Avocent’s
+patent prosecution attorneys used Rose’s confidential information to specifically target Rose’s
+products with the patent claims they are currently prosecuting in various Patent Office
+proceedings—even if Rose were ultimately to prove, at the end of litigation, that the patents
+were unenforceable because of such wrongful conduct. (Declaration of Peter Macourek at ¶¶ 47.)
+V.
+
+CONCLUSION
+When a patent lawyer is specifically trying to craft patent claims to cover a competitor’s
+
+product, but at the same time has access to the competitor’s secret technical documents through
+litigation, the potential for competitive harm is clear. The facts here present the prototypical
+case for a patent prosecution bar in the protective order:
+•
+
+Avocent and Rose compete in the KVM switch market;
+
+•
+
+Avocent has been engaged in a decade-long mission to use patent procurement
+and litigation to hinder Rose and other competitors in the KVM switch market;
+
+•
+
+The same small law firm that represents Avocent in this litigation also represents
+Avocent in ongoing patent prosecution proceedings;
+
+•
+
+Avocent’s lawyers have worked closely with Avocent to use patents to further
+Avocent’s competitive goals for over 10 years;
+
+•
+
+The ongoing patent prosecution proceedings in which Avocent’s litigation
+lawyers are involved concern three of the patents-in-suit and one additional
+application from the same patent family; and
+
+•
+
+The prejudice and harm that such disclosure would work upon Rose is substantial.
+
+13
+DM_US:21301878_1
+
+Case 1:08-cv-00069-LSM
+
+Document 24
+
+Filed 06/23/2008
+
+Page 22 of 37
+
+Accordingly, Rose respectfully requests that the Court enter a protective order that prohibits any
+lawyer engaging in patent prosecution activities concerning KVM switches from having access
+to any documents another party has marked “Attorneys’ Eyes Only.”
+A proposed protective order—which is agreed-to except for this provision—is attached.
+Respectfully submitted,
+Dated: June 23, 2008
+
+/s/ Bert C. Reiser
+Bert C. Reiser
+HOWREY LLP
+1299 Pennsylvania Ave NW
+Washington, DC 20004
+Ph.: 202.783.0800
+Fax: 202.383.6610
+reiserb@howrey.com
+Attorney for Proposed Defendant-Intervenor
+Rose Electronics
+10707 Stancliff Road
+Houston, TX 77099
+
+OF COUNSEL:
+Michael S. Dowler
+Thomas L. Casagrande
+HOWREY LLP
+1111 Louisiana, 25th floor
+Houston, TX 77002-5242
+713.787.1400 (phone)
+713.787.1440 (fax)
+dowlerm@howrey.com
+casagrandet@howrey.com
+Brian L. Jackson
+LAW OFFICE OF BRIAN L. JACKSON
+1302 Waugh Drive # 582
+Houston, TX 77019-3908
+713.522.5766 (phone)
+713.583.5785 (fax)
+brian@brianjacksonlaw.com
+(application for admission pending)
+
+14
+DM_US:21301878_1
+
+Case 1:08-cv-00069-LSM
+
+Document 24
+
+Filed 06/23/2008
+
+Page 23 of 37
+
+CERTIFICATE OF SERVICE
+The undersigned hereby certifies that the counsel of record who are deemed to
+have consented to electronic service are being served on this 23rd day of June, 2008 with
+a copy of this document via the Court’s CM/ECF system per RCFC 5.2. Any other
+counsel of record will be served by electronic mail, facsimile transmission and/or first
+class mail on this same date.
+
+James D. Berquist
+J. Scott Davidson
+Donald L. Jackson
+Grace Obermann
+DAVIDSON, BERQUIST
+JACKSON & GOWDEY LLP
+4300 Wilson Blvd, Suite 700
+Arlington, VA 22203
+
+Jeffrey S. Bucholtz
+Acting Assistant Attorney General
+John Fargo
+Director
+Robert G. Hilton
+Attorney
+Commercial Litigation Branch
+Civil Division
+DEPARTMENT OF JUSTICE
+Washington, DC 20530
+
+/s/ Bert C. Reiser___________
+Bert C. Reiser
+
+DM_US:21295662_1
+
+Case 1:08-cv-00069-LSM
+
+Document 24
+
+Filed 06/23/2008
+
+Page 24 of 37
+
+IN THE UNITED STATES COURT OF FEDERAL CLAIMS
+AVOCENT REDMOND CORP.
+Plaintiff,
+
+V.
+
+No. 08-69C
+
+THE UNITED STATES
+
+JUDGE LAWRENCE S. MARGOLIS
+
+Defendant
+and
+ROSE ELECTRONICS,
+Proposed Defendant-Intervenor.
+
+ORDER
+Upon consideration of Rose Electronics’ Cross-Motion For A Protective Order, the Court
+hereby ORDERS that the motion be, and hereby is, GRANTED. Plaintiff Avocent Redmond
+Corporation’s motion for a protective order is DENIED-IN-PART, to the extent it does not
+contain a patent prosecution provision.
+The Court will enter the Protective Order attached hereto as Exhibit 1.
+IT IS SO ORDERED.
+Signed this __________ day of ________, 2008
+
+___________________________________
+LAWRENCE S. MARGOLIS
+Judge, United States Court of Federal Claims
+
+DM_US:21270646_1
+
+Case 1:08-cv-00069-LSM
+
+Document 24
+
+Filed 06/23/2008
+
+Page 25 of 37
+
+!
+!
+!
+!
+!
+!
+
+"#$%&%'!(!
+
+Case 1:08-cv-00069-LSM
+
+Document 24
+
+Filed 06/23/2008
+
+Page 26 of 37
+
+IN THE UNITED STATES COURT OF FEDERAL CLAIMS
+AVOCENT REDMOND CORP.
+Plaintiff,
+
+v.
+
+No. 08-69C
+
+THE UNITED STATES
+
+Judge Lawrence S. Margolis
+
+Defendant,
+and
+ROSE ELECTRONICS,
+Proposed Defendant-Intervenor.
+PROPOSED PROTECTIVE ORDER
+THIS MATTER having come before the Court on the parties’ cross-motions for entry of
+a protective order, and the Court having determined that there is good cause under RCFC 26(c)
+for entry of a protective order to limit disclosure of confidential research, development, and
+commercial information as those terms are used in RCFC 26(c)(7), and information that the party
+is under a legal duty to maintain in confidence,
+THEREFORE, IT IS HEREBY ORDERED that:
+1.
+
+Scope. This Protective Order shall govern any information produced or disclosed
+
+in this action by any party or by any third party.
+2.
+
+Proprietary Information. “Proprietary Information” means any information,
+
+document, electronically stored information, or thing that contains or is a trade secret or other
+confidential research, development, or commercial information as those terms are used in RCFC
+26(c)(7), and information that the party is under a legal duty to maintain in confidence, provided
+that such information, document, electronically stored information, or thing is designated as set
+forth herein. Any Proprietary Information may be designated as CONFIDENTIAL. Proprietary
+Information relating to highly sensitive financial information, including but not limited to,
+
+DM_US:21296521_1
+
+Case 1:08-cv-00069-LSM
+
+Document 24
+
+Filed 06/23/2008
+
+Page 27 of 37
+
+customer identification, sales prices to specific customers, profit margins and prospective
+marketing strategies, and highly sensitive technical information, including but not limited to,
+product design and development materials relating to products not yet for sale or released to the
+public, source code, or other highly sensitive, trade secret technical information not yet publicly
+disclosed, may be designated as ATTORNEYS EYES ONLY.
+Any party to this action and any third party may designate as CONFIDENTIAL or
+ATTORNEYS EYES ONLY all or part of the following material: (a) answers to interrogatories
+or requests for admission; (b) deposition testimony; (c) documents produced by it or made
+available for inspection; and (d) any other materials or information produced or disclosed during
+the course of this litigation.
+3.
+
+Designation of Documentary Material. Documentary material may be
+
+designated as CONFIDENTIAL or ATTORNEYS EYES ONLY by stamping or otherwise
+marking each page with the appropriate confidentiality designation and with the identity of the
+classifying party unless it is indicated as part of the production number (e.g., “Plaintiff P00001”)
+contained on the document. Except with respect to documents produced by any party prior to the
+execution by the parties of this Stipulated Protective Order, the identification and designation of
+Proprietary Information shall be made at the time when the answer to the interrogatory or the
+answer to the request for admission is served and when a copy of the document is provided to the
+requesting party.
+Unless otherwise designated or agreed by the parties, all documents made available for
+inspection prior to copying and production shall be presumed to have been marked
+ATTORNEYS EYES ONLY. No documents of the party or third party producing documents
+shall be removed from the site of the inspection or copied until such producing party or third
+
+-2DM_US:21296521_1
+
+Case 1:08-cv-00069-LSM
+
+Document 24
+
+Filed 06/23/2008
+
+Page 28 of 37
+
+party has had an opportunity to review and designate such documents in the manner previously
+explained.
+With regard to non-written material, such as recordings, magnetic media, photographs
+and things, the designation of any information as CONFIDENTIAL or ATTORNEYS EYES
+ONLY for purposes of this Protective Order shall be made by affixing a CONFIDENTIAL or
+ATTORNEYS EYES ONLY designation to the material, or a container for the material, in any
+suitable manner at the time of copying (if any).
+4.
+
+Designation of Depositions. Deposition or other oral testimony given in this
+
+case may be designated as CONFIDENTIAL or ATTORNEYS EYES ONLY by any party or
+third party either (a) during the deposition or proceeding during which the testimony is given, or
+(b) by written notice to the court reporter and to all counsel of record, within five (5) days of
+receipt, either by mail or email, of the deposition transcript. Unless otherwise ordered by the
+Court, pending the expiration of this five (5) day period, all parties and persons shall treat the
+testimony as if it has been designated ATTORNEYS EYES ONLY. Unless otherwise ordered
+by the Court, the designating party shall have the right to have all persons, except the witness, his
+or her counsel, the court reporter, and such other persons authorized to receive the designating
+party’s Proprietary Information pursuant to this Protective Order, excluded from a deposition or
+proceeding, or any portion thereof, before the taking therein of testimony that has been so
+designated. The court reporter shall mark the cover of the original and all copies of the transcript
+or the portion of the transcript containing testimony designated as either CONFIDENTIAL or
+ATTORNEYS EYES ONLY with the appropriate legend.
+5.
+
+Belated Designation. Notwithstanding the obligations to timely designate
+
+Proprietary Information under the foregoing paragraphs 3 and 4, nothing contained herein shall
+
+-3DM_US:21296521_1
+
+Case 1:08-cv-00069-LSM
+
+Document 24
+
+Filed 06/23/2008
+
+Page 29 of 37
+
+preclude a party or a third party from later changing that designation and notifying the other
+parties in writing of that change; provided, however, that it shall not be deemed a breach of this
+Order for any action to have been taken by a party or its counsel with respect to such information
+consistent with the original designation of such information prior to receipt of such notice. A
+party receiving such written notice shall make every reasonable effort to retrieve any such
+materials from persons not authorized to receive them pursuant to this Protective Order and to
+avoid any further unauthorized disclosure. Any party that changes the designation of any
+materials under this Order shall timely provide the other parties to this action with new copies of
+the materials with the new designation(s).
+6.
+
+Non-use. All Proprietary Information shall be used only for purposes of this
+
+litigation.
+7.
+
+Access to CONFIDENTIAL and ATTORNEYS EYES ONLY Materials.
+
+Materials designated CONFIDENTIAL shall not be disclosed to any person except:
+a.
+
+the Court and its officers and staff;
+
+b.
+
+outside counsel of record in this action for each party (i.e., counsel of record for a
+
+party who is not an employee of the party or its affiliates) and employees of such outside
+counsel;
+c.
+
+outside experts who are not regularly employed by a party and who have been
+
+expressly retained to assist a party’s counsel in the prosecution or defense of the litigation, and
+the secretarial, technical and clerical staff of such experts, provided that such experts have been
+approved pursuant to paragraph 8 hereof;
+d.
+
+current or former employees of the disclosing party during the deposition of such
+
+employees or during examination of such employees at trial;
+
+-4DM_US:21296521_1
+
+Case 1:08-cv-00069-LSM
+
+e.
+
+Document 24
+
+Filed 06/23/2008
+
+Page 30 of 37
+
+any party or non-party who authored, received, or reviewed the material prior to
+
+its production in the litigation;
+f.
+
+two representatives of Avocent and two representatives of each of the defendants
+
+that are identified to opposing counsel, and necessary secretarial personnel of those individuals,
+provided that each such person has first signed a written statement under oath in the form
+attached as Exhibit A hereto, and a copy of that statement has been provided to opposing
+counsel;
+g.
+
+court reporters and videographers, solely for the purpose of transcribing and/or
+
+recording testimony in the litigation;
+h.
+
+independent litigation support services personnel, including copying services,
+
+imaging and coding services, trial exhibit preparation services, solely for the purpose of assisting
+a party with the litigation;
+i.
+
+trial consultants, jury consultants, and mock jurors, focus group members and the
+
+like selected by trial consultants, jury consultants or by counsel in preparation for trial; provided
+that such persons have executed a confidentiality agreement in the form of Exhibit A and such
+agreement shall be kept by counsel for reference;
+j.
+
+other persons as ordered by the Court or agreed to in writing or on the record by
+
+the parties, provided that each such person has first signed a written statement under oath in the
+form attached as Exhibit A hereto, and a copy of that statement has been provided to opposing
+counsel; and
+k.
+
+attorneys within the Department of Justice involved in this litigation, including,
+
+but not limited to, attorneys of record and attorneys of counsel for the Government, and any
+attorney employed by the Government who is assisting the attorney of record in this litigation
+
+-5DM_US:21296521_1
+
+Case 1:08-cv-00069-LSM
+
+Document 24
+
+Filed 06/23/2008
+
+Page 31 of 37
+
+and the staff of such attorneys to whom it is necessary that the information be shown for
+purposes of this litigation.
+Proprietary Information designated as ATTORNEYS EYES ONLY can be disclosed to
+those persons designated in ¶¶ 7(a)-7(e) and 7(g)-7(k) only on the condition that any person who
+receives access to such information shall have no involvement whatsoever, from and after the
+date of first disclosure of any such information to such person, in the prosecution of any patent
+application that involves KVM switch technology for a period of one year after the conclusion of
+this litigation (including the exhaustion of all subsequent appeals). Patent prosecution shall
+include drafting, reviewing, editing, or supervising the drafting or preparation of patent
+applications, claims, specifications, amendments, responses to office actions and any other
+materials submitted to the United States Patent & Trademark Office or any other patent authority
+elsewhere in the world, as well as identifying or evaluating potential inventions, participating in
+the decision to file patent applications or consulting on any of the foregoing matters with others
+performing any of these activities.
+This Protective Order has no effect upon and shall not apply to (1) any party’s use of its
+own Proprietary Information for any purpose, or (2) any party’s use of documents or other
+information developed or obtained independently of discovery in this action for any purpose.
+Nothing herein shall bar or otherwise restrict an attorney, who is a qualified recipient
+under the terms of paragraph 7(b) of this Protective Order, from rendering advice to his or her
+client with respect to this action, and in the course thereof, from generally relying upon his or her
+examination of Proprietary Information. In rendering such advice or in other communications
+with the client, the attorney shall not disclose any Proprietary Information of another party or
+
+-6DM_US:21296521_1
+
+Case 1:08-cv-00069-LSM
+
+Document 24
+
+Filed 06/23/2008
+
+Page 32 of 37
+
+third party where such disclosure would not otherwise be permitted under the terms of this
+Protective Order.
+8.
+
+Approval of Experts. A party seeking to disclose another party’s Proprietary
+
+Information to an outside expert shall serve such other party with a copy of the Undertaking
+attached hereto as “Exhibit A” signed by the expert, along with the expert’s current resume,
+identifying (by employer and position) all past and current employment relating to his or her
+field of expertise, including employment as a consultant. The party receiving such Undertaking
+and resume shall have ten (10) calendar days after such service within which to object to such
+disclosure. Failure to object within this period shall be deemed approval. If the parties are
+unable to reach agreement within ten (10) days after service of an objection, the party objecting
+to disclosure to an expert shall raise its objection with the Court within fifteen (15) calendar days
+of such service of the objection. Failure to raise such objection with the Court within this period
+shall be deemed approval. Any party objecting to disclosure to an expert under this Protective
+Order shall bear the burden of proving that it will be harmed by such disclosure and that the
+protections of this Order are insufficient to reasonably protect such parties’ proprietary interests.
+9.
+
+Filing Proprietary Information. All papers, documents and transcripts
+
+containing or revealing the substance of Proprietary Information shall be filed under seal through
+the Court’s CM/ECF system. Without prior written order of this Court, the Clerk of the Court
+shall not permit access to materials filed under seal to anyone other than counsel for the parties.
+10.
+
+Inadvertent Disclosure of Privileged or Immune Materials. RCFC
+
+26(b)(5)(B) governs the inadvertent or mistaken production of information that is subject to a
+claim of privilege or of protection as trial-preparation material. The inadvertent disclosure of
+
+-7DM_US:21296521_1
+
+Case 1:08-cv-00069-LSM
+
+Document 24
+
+Filed 06/23/2008
+
+Page 33 of 37
+
+information that is privileged or otherwise immune from discovery shall not, by itself, constitute
+a waiver of the privilege or immunity.
+11.
+
+Disclosure of Proprietary Information to Unauthorized Person(s). If
+
+Proprietary Information is disclosed to any person other than those authorized to receive such
+information by this Order, the party responsible for the disclosure shall immediately inform the
+designating party of all pertinent facts relating to such disclosure and shall make every
+reasonable effort to prevent disclosure by each unauthorized person who received such
+information and to obtain the return of such information.
+12.
+
+Conclusion of the Litigation. Within ninety (90) days after entry of a final
+
+judgment or dismissal with prejudice in this litigation (including appeals or petitions for review)
+finally disposing of all issues raised in this litigation, counsel for the parties and all other persons
+having possession, custody or control of another party’s or third party’s Proprietary Information
+shall: (a) destroy all Proprietary Information and any copies thereof, or (b) if requested by the
+producing party, return all Proprietary Information and any copies thereof to the producing party.
+Notwithstanding paragraph 12(b), a receiving party shall destroy all Proprietary Information of
+another party or third party containing or contained in any notes, summaries, digest, synopses or
+other documents created by or on behalf of the receiving party. Counsel for each party shall give
+a written certification to counsel for all other parties that all of the producing party’s Proprietary
+Information has either been destroyed or returned pursuant to this paragraph. If requested,
+counsel shall also provide the opposing party with the originals of all Undertaking forms
+executed by experts pursuant to paragraph 8.
+Notwithstanding the foregoing paragraph, outside counsel may retain (a) copies of the
+pleadings and other Court filings, (b) copies of the deposition, hearing, and trial transcripts and
+
+-8DM_US:21296521_1
+
+Case 1:08-cv-00069-LSM
+
+Document 24
+
+Filed 06/23/2008
+
+Page 34 of 37
+
+any related exhibits, and (c) one file copy of all materials produced in this litigation that are
+specifically referred to in an expert report, a motion, pleading or other paper filed with the Court.
+In addition, the Government may retain an archival copy of each of (a) the pleadings and
+other Court filings, (b) the depositions, hearings, and trial transcripts and any related exhibits,
+and (c) all materials produced in this litigation that are specifically referred to in an expert report,
+a motion, pleading or other paper filed with the Court.
+13.
+
+Contested Designations. The parties shall use reasonable care to avoid
+
+designating as CONFIDENTIAL or ATTORNEYS EYES ONLY any documents or information
+that has been published or otherwise entered the public domain. A party shall not be obligated to
+challenge the propriety of any other party’s designation of materials or information as
+Proprietary Information at the time such designation is made, and failure promptly to challenge
+the designation shall not preclude a subsequent challenge thereto. In the event that a party
+disagrees at any stage of these proceedings with the designation of any information as
+CONFIDENTIAL or ATTORNEYS EYES ONLY, the parties shall try first to resolve such
+dispute in good faith on an informal basis. If the dispute cannot be resolved, the objecting party
+may seek appropriate relief from this Court. The party asserting that the material is entitled to
+CONFIDENTIAL treatment shall have the burden of proof. All Proprietary Information shall
+remain under the protection of this Order until otherwise ordered by the Court.
+14.
+
+Trial Procedures. A party may request that the Court implement appropriate
+
+procedures to protect Proprietary Information that may be disclosed at the trial or any hearing in
+this matter consistent with the spirit and scope of this Order.
+15.
+
+Modification. Stipulations may be made between counsel for the respective
+
+parties as to the application of this Order to specific situations provided that such stipulations are
+
+-9DM_US:21296521_1
+
+Case 1:08-cv-00069-LSM
+
+Document 24
+
+Filed 06/23/2008
+
+Page 35 of 37
+
+recorded in writing or contained in the record of any oral proceeding. Nothing contained herein
+shall preclude any party from seeking an order of the Court modifying or supplementing this
+Order.
+16.
+
+Effect. This Protective Order shall continue in effect until further order of this
+
+Court.
+DATED this _______ day of _________, 2008.
+
+______________________________________
+LAWRENCE S. MARGOLIS
+Judge
+
+-10DM_US:21296521_1
+
+Case 1:08-cv-00069-LSM
+
+Document 24
+
+Filed 06/23/2008
+
+Page 36 of 37
+
+EXHIBIT A
+IN THE UNITED STATES COURT OF FEDERAL CLAIMS
+AVOCENT REDMOND CORP.
+Plaintiff,
+
+v.
+
+No. 08-69C
+
+THE UNITED STATES
+
+Judge Lawrence S. Margolis
+
+Defendant,
+and
+ROSE ELECTRONICS,
+Proposed Defendant-Intervenor.
+UNDERTAKING AND CONSENT TO BE BOUND BY
+PROTECTIVE ORDER
+
+I, ___________________________________, hereby declare as follows:
+1.
+
+My address is _____________________________________________. My
+
+current employer is ____________________________________. My current occupation is
+_________________________________________.
+2.
+
+I have received a copy of the Protective Order entered in the above-captioned
+
+action (the “Protective Order”). I have carefully read and understand the provisions of the
+Protective Order.
+3.
+
+I will comply with all the provisions of the Protective Order. I will hold in
+
+confidence, will not disclose to anyone not qualified under the Protective Order, and will use
+only for purposes of this action any Proprietary Information that is disclosed to me.
+4.
+
+Promptly upon termination of this action, I will return all Proprietary Information
+
+that came into my possession, and all documents and things that I have prepared relating thereto,
+to counsel for the party by whom I am employed or retained.
+5.
+
+I hereby submit to the jurisdiction of this Court for the purpose of enforcement of
+
+the Protective Order in this action.
+-1DM_US:21296521_1
+
+Case 1:08-cv-00069-LSM
+
+6.
+
+Document 24
+
+Filed 06/23/2008
+
+Page 37 of 37
+
+I understand that this Undertaking and the Protective Order are enforceable after
+
+the termination of this action.
+I declare under penalty of perjury that the foregoing is true and correct.
+
+Dated: ____________________
+
+__________________________________________
+(Signature)
+__________________________________________
+(Printed Name)
+
+-2DM_US:21296521_1
+
+

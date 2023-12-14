@@ -1,0 +1,773 @@
+Case 1:14-cv-01993-RBW Document 15 Filed 02/13/15 Page 1 of 25
+
+Richard E. Ayres
+Jessica L. Olson
+John H. Bernetich
+AYRES LAW GROUP LLP
+1707 L St. NW, Suite 850
+Washington, DC 20036
+Ph: (202) 452-9200 / Fax: (202) 872-7739
+ayresr@ayreslawgroup.com
+olsonj@ayreslawgroup.com
+bernetichj@ayreslawgroup.com
+Counsel for Plaintiffs
+UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF COLUMBIA
+
+WESTERN ORGANIZATION OF
+RESOURCE COUNCILS and FRIENDS
+OF THE EARTH,
+Plaintiffs,
+v.
+SALLY JEWELL, in her capacity as
+Secretary of the Interior, DEPARTMENT
+OF THE INTERIOR, NEIL KORNZE, in
+his capacity as Director, Bureau of Land
+Management, BUREAU OF LAND
+MANAGEMENT,
+Defendants.
+
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+
+Case No. 1:14-cv-1993-RBW
+
+PLAINTIFFS’ RESPONSE IN OPPOSITION TO
+FEDERAL DEFENDANTS’ MOTION TO DISMISS
+
+Case 1:14-cv-01993-RBW Document 15 Filed 02/13/15 Page 2 of 25
+
+TABLE OF CONTENTS
+INTRODUCTION ......................................................................................................................... 1
+LEGAL BACKGROUND ............................................................................................................. 3
+A. National Environmental Policy Act .................................................................................. 3
+B. Administrative Procedure Act .......................................................................................... 4
+STANDARD OF REVIEW ........................................................................................................... 5
+ARGUMENT ................................................................................................................................. 6
+I. DEFENDANTS HAVE A DISCRETE MANDATORY DUTY TO SUPPLEMENT THE 1979 PEIS. ....... 6
+A. NEPA Requires Supplementation of an EIS if Environmentally Significant
+Government Action Remains to be Taken in the Program.................................................. 6
+B. The Cases Cited by Defendants Demonstrate that Defendants Have a Discrete
+Mandatory Duty to Supplement the 1979 PEIS. ................................................................. 9
+C. The Federal Coal Management Program is a Continuing Federal Action Subject to
+NEPA’s Obligations. ......................................................................................................... 14
+i. Plaintiffs Have Alleged Sufficient Facts to Establish that the Federal Coal Management
+Program is a Continuing Major Federal Action Standing On Its Own. ..................................... 14
+ii. The 1979 PEIS Analyzes the Environmental Impacts of Activities to be Conducted Under
+the Coal Management Program, Rather Than Simply a Procedural Rulemaking. ..................... 15
+
+D. Plaintiffs Have Adequately Alleged that Sufficient Government Action Remains to
+Require Supplementation of the 1979 PEIS. ..................................................................... 17
+E. Plaintiffs Have Adequately Alleged that the Increased Understanding of Global
+Warming and the Effects on Global Warming of the Federal Coal Management Program
+is New and Significant Information. ................................................................................. 18
+II. DEFENDANTS’ FAILURE TO SUPPLEMENT THE 1979 PEIS IS FINAL AGENCY ACTION
+REVIEWABLE UNDER THE ADMINISTRATIVE PROCEDURE ACT. ................................................. 20
+CONCLUSION ............................................................................................................................ 21
+
+Case 1:14-cv-01993-RBW Document 15 Filed 02/13/15 Page 3 of 25
+
+INTRODUCTION
+The federal government’s program to lease the right to mine coal on federal land,
+administered by Defendants under substantially the same regulatory procedures in place since
+1979, results in emissions of nearly a billion tons of carbon dioxide and other greenhouse gases
+annually, making the U.S. Department of the Interior’s Bureau of Land Management (BLM)
+among the handful of institutions on Earth most responsible for emissions of greenhouse gases
+into the atmosphere. Compl. ¶ 101, Dkt. 1. The program currently manages 309 leases in 10
+states, id. ¶ 4, and continues to issue leases and lease modifications today, opening up billions of
+tons of coal resources to development.
+In 1979, BLM’s Programmatic Environmental Impact Statement for the federal coal
+management program (“Program”) barely mentioned the effects of greenhouse gases emitted
+from coal combustion. Bureau of Land Management, Final Environmental Statement: Federal
+Coal Management Program (Apr. 1979) (“1979 PEIS”). Since the 1979 PEIS was prepared
+highly significant new information and data have become available and conditions have arisen
+that bear on the disruptive effects of the use of coal on human health and on the Earth’s climate.
+Just five years ago, the Environmental Protection Agency (EPA) made an official finding under
+the Clean Air Act that rising concentrations of carbon dioxide and other greenhouse gases
+endanger public health and the environment. EPA Endangerment and Cause or Contribute
+Findings for Greenhouse Gases Under Section 202(a) of the Clean Air Act, 74 Fed. Reg. 66,496
+(Dec. 15, 2009).
+Regulations of the President’s Council on Environmental Quality (CEQ) arising from the
+National Environmental Policy Act, 42 U.S.C. § 4321 et seq. (NEPA), require that a PEIS be
+supplemented whenever there are “significant new circumstances or information relevant to
+
+1
+
+Case 1:14-cv-01993-RBW Document 15 Filed 02/13/15 Page 4 of 25
+
+environmental concerns and bearing on the proposed action or its impacts.” 40 C.F.R. §
+1502.9(c)(ii).
+The Complaint alleges that the continued BLM failure to reassess the environmental
+impact of the significant new information on greenhouse gas emissions in a supplemental PEIS
+constitutes agency “action unlawfully withheld or unreasonably delayed” under the
+Administrative Procedure Act, 5 U.S.C. § 706(1). Taking the facts alleged by Plaintiffs as true,
+the Complaint establishes that the BLM cannot continue to operate the Program without
+supplementing its outdated 1979 PEIS for the Program.
+Defendants’ Corrected Motion to Dismiss should be denied for two reasons. First, the
+standard of review for a Motion to Dismiss pursuant to Fed. R. Civ. P. 12(b)(6) does not permit
+the court to reconcile competing factual allegations advanced by the parties. In an effort to
+demonstrate it is not under a duty to supplement the 1979 PEIS, Defendants dispute the facts
+alleged in the Complaint and offer their own facts. But the standard of review requires the court
+to take all the facts alleged in the Complaint as true and draw all reasonable inferences
+therefrom. Under this standard, Plaintiffs have sufficiently supported their claim that the failure
+to supplement the 1979 PEIS is action unreasonably withheld. In the Complaint and
+accompanying Declarations, Plaintiffs have shown that since the issuance of the 1979 PEIS
+prepared for BLM’s Program, scientific understanding of global warming and its causes and
+effects has grown from an untested hypothesis to hard science accepted by the global scientific
+community. Compl. ¶¶ 102-81; see generally Declaration of Michael C. MacCracken,
+Attachment 1 to Compl.; Declaration of Stephen Dycus, Attachment 2 to Compl. Despite these
+facts, adequately alleged in the Complaint, Defendants have failed to conduct an updated
+analysis of the Program’s environmental impacts as required by NEPA.
+
+2
+
+Case 1:14-cv-01993-RBW Document 15 Filed 02/13/15 Page 5 of 25
+
+Second, Defendants’ Motion to Dismiss should be denied because it argues the crabbed
+view that because the 1979 PEIS evaluated a program that included a proposed regulation, any
+obligations under NEPA ceased when that regulation was adopted. But the federal coal
+management program analyzed in the PEIS and established in those regulations, which has
+grown to account for 40% of the entire U.S. production of coal, continues to this day. The
+relevant statute, regulations, and case law require federal agencies administering such continuing
+programs to supplement an EIS or PEIS when significant new information or changed
+circumstances occur. See, e.g., 40 C.F.R. 1502.9(c)(ii); Marsh v. Ore. Natural Res. Council, 490
+U.S. 360, 371-72 (1989); Exec. Order No. 11514, 35 Fed. Reg. 4,247 (Mar. 7, 1970).
+The Court should deny Defendants’ Corrected Motion to Dismiss because Defendants
+impermissibly challenge the Complaint’s allegations regarding the existence of an ongoing major
+federal action subject to NEPA, and because Defendants ignore or misconstrue case law
+providing that the mandatory duty to supplement an EIS applies when there remains significant
+federal action to occur in a program.
+LEGAL BACKGROUND
+A.
+
+National Environmental Policy Act
+NEPA is the “basic national charter” for environmental protection. 40 C.F.R. § 1500.1(a).
+
+Rather than mandating a particular substantive environmental result, NEPA works “by focusing
+Government and public attention on the environmental effects of proposed agency action.”
+Marsh, 490 U.S. at 371. The heart of NEPA is its requirement that agencies prepare an
+environmental impact statement before undertaking a “major Federal action[] significantly
+affecting the quality of the human environment.” 42 U.S.C. § 4332(2)(C). Among other
+requirements, the EIS must address the action’s environmental impact, including “reasonably
+
+3
+
+Case 1:14-cv-01993-RBW Document 15 Filed 02/13/15 Page 6 of 25
+
+foreseeable” effects that are direct, indirect, or cumulative. 42 U.S.C. § 4332(2)(C); 40 C.F.R. §§
+1508.7, 1508.8, 1508.25.
+Environmental impacts of a “national program” are to be addressed in a program-level
+EIS, also called a programmatic EIS or PEIS. 40 C.F.R. § 1508.28. Preparation of a PEIS is
+appropriate where the major federal action under analysis is a program made up of numerous
+project-level actions. Id. A PEIS differs in scope from a project-level EIS in that a PEIS analyzes
+the broad environmental impacts of the program at large; a project-level analysis focuses on
+impacts from a site-specific project.
+CEQ regulations implementing NEPA provide that agencies “[s]hall prepare supplements
+to either draft or final [EISs] if . . . [t]here are significant new circumstances or information
+relevant to environmental concerns and bearing on the proposed action or its impacts.” 40 C.F.R.
+§ 1502.9(c)(ii). CEQ was created by NEPA and implements the Act through its regulations. See
+Robertson v. Methow Valley Citizens Council, 490 U.S. 332 (1989).
+B.
+
+Administrative Procedure Act
+The Administrative Procedure Act, 5 U.S.C. § 706(1), provides a cause of action for
+
+plaintiffs seeking to “compel agency action unlawfully withheld or unreasonably delayed.”
+Section 706(2) allows a court to “set aside agency action” in certain enumerated circumstances. 5
+U.S.C. § 706(2). The APA defines “agency action to “include[] the whole or a part of an agency
+rule, order, license, sanction, relief, or the equivalent or denial thereof, or failure to act.” 5
+U.S.C. § 551(13) (emphasis supplied); 5 U.S.C. § 701(b)(2). Courts have found that this
+definition is expansive. Fund for Animals, Inc. v. U.S. Bureau of Land Mgmt., 460 F.3d 13, 1920 (D.C. Cir. 2006) (internal citations omitted) (noting that “agency action” as defined by §
+
+4
+
+Case 1:14-cv-01993-RBW Document 15 Filed 02/13/15 Page 7 of 25
+
+551(13) is “meant to cover comprehensively every manner in which an agency may exercise its
+power”).1
+STANDARD OF REVIEW
+In review of a motion to dismiss for failure to state a claim for relief under Fed. R. Civ. P.
+12(b)(6), the court “must treat the complaint’s factual allegations as true, and must grant plaintiff
+‘the benefit of all inferences that can be derived from the facts alleged.’” Sparrow v. United Air
+Lines, Inc., 216 F.3d 1111, 1113 (D.C. Cir. 2000). “A plaintiff's complaint need only provide ‘a
+short and plain statement of the claim showing that the pleader is entitled to relief’ in order to
+survive a motion to dismiss.” Atherton v. D.C. Office of Mayor, 567 F.3d 672, 681 (D.C. Cir.
+2009) (quoting Fed. R. Civ. P. 8(a)(2)). A complaint must give the defendants notice of the
+claims and the grounds upon which they rest. Erickson v. Pardus, 551 U.S. 89, 93 (2007). “To
+survive a motion to dismiss, a complaint must contain sufficient factual matter, accepted as true,
+to state a claim to relief that is plausible on its face. A claim has facial plausibility when the
+plaintiff pleads factual content that allows the court to draw the reasonable inference that the
+defendant is liable for the misconduct alleged.” Ashcroft v. Iqbal, 556 U.S. 662, 678 (2009)
+(quotations and citations omitted).
+
+1
+
+Defendants erroneously argue that Plaintiffs have not stated a claim under § 706(2) because the
+complaint does not identify an affirmative agency action. Courts have held that claims
+challenging agency inaction may be brought under either § 706(1) or § 706(2) since § 706 offers
+similar relief under both sections. In reviewing § 706 claims, courts examine whether, assuming
+there exists a mandatory duty for the agency to act in the case of a § 706(1) claim, the agency
+acted or failed to act in a way that was arbitrary or capricious. See N.A.A.C.P. v. Sec’y of Hous.
+& Urban Dev., 817 F.2d 149, 160 (1st Cir. 1987) (Breyer, J.) (finding unpersuasive the federal
+defendant’s argument that § 706(2) was inapplicable because the plaintiff did not seek to “set
+aside” any particular agency action). The First Circuit in N.A.A.C.P. explained that, “One can …
+reasonably view the NAACP’s suit as one to ‘set aside’ HUD’s practice, which practice reflects
+an ‘abuse’ of HUD’s ‘discretion.’ This view is consistent with the statute. The APA defines
+‘agency action’ to include ‘failure to act.’ 5 U.S.C. § 551(13).”
+5
+
+Case 1:14-cv-01993-RBW Document 15 Filed 02/13/15 Page 8 of 25
+
+In considering a motion under Rule 12(b)(6), a “court must assess the legal feasibility of
+the complaint, but may not weigh the evidence that might be offered to support it.” Howard v.
+Office of Chief Admin. Officer of U.S. House of Representatives, 720 F.3d 939, 950 (D.C. Cir.
+2013) (internal quotation marks and alterations omitted). A court may not grant a motion to
+dismiss for failure to state a claim “even if it strikes a savvy judge that . . . recovery is very
+remote and unlikely.” Bell Atl. Corp. v. Twombly, 550 U.S. 544, 556 (2007) (internal quotation
+marks and citation omitted). “So long as the pleadings suggest a ‘plausible’ scenario to ‘sho[w]
+that the pleader is entitled to relief,’ a court may not dismiss.” Tooley v. Napolitano, 556 F.3d
+836, 839 (D.C. Cir. 2009) (quoting Twombly, 550 U.S. at 557).
+ARGUMENT
+Accepting Plaintiffs’ factual allegations as true, Plaintiffs have stated a claim under
+NEPA and the APA that (1) Defendants have a discrete mandatory duty to supplement the 1979
+PEIS, and (2) Defendants’ failure to undertake that duty is reviewable under the APA.
+Accordingly, Defendants’ Corrected Motion to Dismiss should be denied.
+I.
+
+Defendants Have a Discrete Mandatory Duty to Supplement the 1979 PEIS.
+A.
+
+NEPA Requires Supplementation of an EIS if Environmentally Significant
+Government Action Remains to be Taken in the Program.
+
+Agencies must supplement a completed EIS where there is new information and the
+remaining government action would have significant environmental effects. 40 C.F.R. §
+1502.9(c)(ii). NEPA’s requirement that agencies must supplement a final EIS in the face of new
+information or circumstances serves to buttress NEPA’s primary objective that agencies take a
+“hard look” at the environmental effects of a federal action before taking that action. In Marsh,
+the Supreme Court noted that “[i]t would be incongruous with [NEPA’s] approach to
+environmental protection, and with the Act’s manifest concern with preventing uninformed
+
+6
+
+Case 1:14-cv-01993-RBW Document 15 Filed 02/13/15 Page 9 of 25
+
+action, for the blinders to adverse environmental effects, once unequivocally removed, to be
+restored prior to the completion of agency action simply because the relevant proposal has
+received initial approval.” 490 U.S. at 371. The Court recognized that “it would make sense to
+hold NEPA inapplicable at some point in the life of a project, because the agency would no
+longer have a meaningful opportunity to weigh the benefits of the project versus the detrimental
+effects on the environment.” Id. at 371-72. But “up to that point, NEPA cases have generally
+required agencies to file environmental impact statements when the remaining governmental
+action would be environmentally significant.” Id. at 372 (internal quotation marks omitted)
+(emphasis supplied). Thus, where the remaining governmental action would be environmentally
+significant and there is significant new information or circumstances bearing on the impacts of
+the federal action, NEPA requires that a final EIS be supplemented. Id.; 40 C.F.R. §
+1502.9(c)(ii). This duty is mandatory and non-discretionary. See 40 C.F.R. § 1502.9(c)
+(mandating supplementation); Marsh, 490 U.S. at 372 (deferring to regulation).
+The duty to supplement an EIS applies to ongoing federal actions made up of discrete,
+smaller, project-level actions, such as decisions to lease federal coal. In Friends of the
+Clearwater v. Dombeck, 222 F.3d 552 (9th Cir. 2000), the court was confronted with whether the
+Forest Service was required to supplement a 1987 PEIS for a forest plan prepared for a National
+Forest. A number of timber sales had been conducted in accordance with the forest plan. Eleven
+years after the issuance of the PEIS, plaintiffs sought a supplemental EIS based on recent listings
+of species under the Endangered Species Act. Id. at 555. The court held that because timber sales
+continued to be issued in accordance with the forest plan, NEPA’s duty to supplement applied.
+Id. at 558-59. The court admonished the agency for failing to satisfy its duty to ensure
+compliance with NEPA: “The agency must be alert to new information that may alter the results
+
+7
+
+Case 1:14-cv-01993-RBW Document 15 Filed 02/13/15 Page 10 of 25
+
+of its original environmental analysis, and continue to take a ‘hard look at the environmental
+effects of [its] planned action’” so long as “‘there remains major Federal action to occur.’” Id. at
+557-58 (quoting Marsh, 490 U.S. at 374). The federal action in Friends of the Clearwater, timber
+sales pursuant to a forest plan, is analogous to the present case where BLM continues to lease
+coal pursuant to its Program.
+Defendants erroneously argue that Plaintiffs would not be without relief if BLM fails to
+supplement the PEIS, citing the opportunity to challenge each individual EIS for site-specific
+lease applications. Motion at 12 n.3. Defendants misapprehend the application of NEPA to
+agency programs. In National Wildlife Federation v. Appalachian Regional Commission, 677
+F.2d 883 (D.C. Cir. 1981), the D.C. Circuit squarely addressed whether a federal program for
+which a programmatic EIS had been prepared, is itself an ongoing major federal action subject to
+NEPA’s obligations, even though the program is made up of similar but separate federal actions,
+each subject to a site-specific EIS. The court answered this question affirmatively, and held that
+such programs are subject to NEPA’s obligations. 677 F.2d at 888.
+Clarifying this concept further, Friends of the Clearwater and Appalachian Regional
+Commission established two incontrovertible principles that apply to this case: first, where an
+agency establishes a program made up of similar but separate major federal actions, such as the
+federal coal management program, and the agency prepares a programmatic EIS at the
+commencement of that program, such as the 1979 PEIS, that program is itself an ongoing major
+federal action subject to NEPA obligations; and second, NEPA’s duty to supplement an already
+prepared EIS continues to apply to ongoing major federal actions up to the point where agency
+decisionmaking could no longer be informed by additional NEPA evaluation. The decision in
+Marsh further drives home this point. See 490 U.S. at 374 (noting that NEPA’s “rule of reason”
+
+8
+
+Case 1:14-cv-01993-RBW Document 15 Filed 02/13/15 Page 11 of 25
+
+requires consideration of the “value of the new information” to the agency’s decision making
+process).
+Defendants do not dispute that the federal coal management program continues today. In
+section I.E., below, we demonstrate the environmental significance of the continuing action. A
+supplemental PEIS at this point in the Program would inform subsequent leasing decisions by
+taking into account the contributions of the leasing decisions, in total, to the effects of global
+warming. Thus, a supplemental PEIS would provide BLM with an opportunity to evaluate the
+new information and determine whether a change to its Program is necessary in light of such
+information.
+B.
+
+The Cases Cited by Defendants Demonstrate that Defendants Have a
+Discrete Mandatory Duty to Supplement the 1979 PEIS.
+
+The cases cited by Defendants fail to support Defendants’ argument that BLM has no
+duty to supplement the 1979 PEIS. Indeed, the cases relied on by Defendants and discussed
+below require a NEPA statement prepared for an ongoing major federal action to be
+supplemented where necessary. Defendants rely on Norton v. Southern Utah Wilderness
+Alliance, 542 U.S. 55 (2004) (“SUWA”), for their argument that the issuance of the regulations
+establishing the coal leasing Program marked the completion of the proposed “major Federal
+action” subject to NEPA. Motion at 9-10.
+But SUWA does not address the question of when a PEIS prepared for an ongoing
+national program requires supplementation. The Court in SUWA held that the agency had no
+obligation to supplement an EIS prepared for a concluded federal action. In reviewing the
+approval of a land use plan pursuant to the Federal Land Policy and Management Act, the Court
+found determinative a regulation explicitly defining the approval of the land use plan as the
+discrete action that concluded the agency’s NEPA duties. See 542 U.S. at 73 (quoting 43 C.F.R.
+
+9
+
+Case 1:14-cv-01993-RBW Document 15 Filed 02/13/15 Page 12 of 25
+
+§ 1601.0-6 (2003), providing that “the ‘[a]pproval of a [land use plan]’ is a ‘major Federal
+action’ requiring an EIS” (emphasis in SUWA)).
+In the present case, there is no regulation defining what agency actions constitute major
+federal actions. For that, we must turn to the specific facts of this case, which, as shown in
+sections I.C. and I.D., below, support Plaintiffs’ contention that the ongoing Program is a
+continuing major federal action. For example, BLM’s statements in the 1979 PEIS about its
+scope show the ongoing implementing nature of the Program. BLM wrote, “The statement is
+programmatic in scope and discusses the national and interregional impacts associated with the
+Federal Coal Management Program.” Letter from Frank Gregg, BLM Director, accompanying
+1979 PEIS. It goes on to list “unavoidable national and inter-regional impacts of coal production
+that could be affected by decisions made under the program.” Id.
+Nothing in the Court’s decision in SUWA indicates that the Court intended its analysis to
+apply beyond the unique land use plan and regulatory landscape in that case, let alone to an
+agency’s establishment of a national long-term program, such as the federal coal management
+program. In fact, SUWA itself offers a characterization of an agency land use plan that easily
+distinguishes such a plan from the establishment of the Program implementing a statutory
+mandate to lease coal: “[A] land use plan is generally a statement of priorities; it guides and
+constrains actions, but does not (at least in the usual case) prescribe them.” SUWA, 542 U.S. at
+71. By contrast,BLM’s creation of an ongoing Program to manage and lease coal is an
+implementing action directed by Congress, an action that is certainly something far more than a
+“statement of priorities.” Defendants’ efforts to expand SUWA’s holding beyond the
+circumstances in that case to apply to the facts at hand would place more weight on the decision
+than its narrow holding could bear. Likewise, SUWA did not limit the scope of the holding in
+
+10
+
+Case 1:14-cv-01993-RBW Document 15 Filed 02/13/15 Page 13 of 25
+
+Marsh, which established that an agency has a duty to supplement so long as significant federal
+action remains to occur. See 490 U.S. at 371-72 (“Often an initial EIS is sufficient, but in certain
+circumstances an EIS must be supplemented,” citing Marsh).
+Accordingly, it is the continued implementation of the federal coal management program
+and not the lack of a new regulatory proposal that is determinative of Defendants’ NEPA
+obligations. Defendants mistakenly assert that Kleppe v. Sierra Club, 427 U.S. 390 (1976),
+supports their argument that no new NEPA obligations apply with regard to the Program unless
+BLM makes a new regulatory proposal. Motion at 11. To the contrary, the Court in Kleppe was
+concerned with ensuring that NEPA not be construed to require redundant levels of NEPA
+analysis—for example, a regional EIS where no regional plan existed and where the national
+program and each constituent project would receive an EIS. 427 U.S. at 401. Without a “regional
+plan [that] would define precisely the scope and limits of the proposed development of the
+region,” “[t]here would be no factual predicate for the production” of a regional EIS. Id. at 402.
+Thus, because the agency had not advanced a plan for federal coal leasing in the Northern Great
+Plains region, the Kleppe Court held that NEPA did not require a regional EIS addressing
+impacts from coal leasing in that region. Id. at 414-15.
+Kleppe therefore does not support Defendants’ argument that no duty to supplement has
+been triggered. The Court in Kleppe determined that, as to the number of levels of NEPA
+analysis required, two levels of EISs were all that NEPA required in this instance because the
+agency had advanced plans for those two levels; only at the national programmatic level and at
+the lease-specific level could a “major Federal action” be found. Where, however, BLM has
+established a national coal management program, the Court noted that a programmatic EIS was
+required by NEPA. Id. at 400 (recognizing that NEPA “required the Coal Programmatic EIS that
+
+11
+
+Case 1:14-cv-01993-RBW Document 15 Filed 02/13/15 Page 14 of 25
+
+was prepared in tandem with the new national coal-leasing program [because] the new leasing
+program is a coherent plan of national scope” and carries “significant environmental
+consequences”).
+Nowhere does Kleppe speak to whether the issuance of a regulation is the conclusion of
+major federal action, nor to the question of when an agency has a duty to supplement an already
+issued EIS. Those issues were instead directly dealt with by cases cited above—Appalachian
+Regional Commission, Friends of the Clearwater, and Marsh—each of which was decided after
+Kleppe.2
+Marsh, Friends of the Clearwater, and Appalachian Regional Commission establish that
+Defendants’ efforts to expand the holdings in Kleppe and SUWA to require dismissal of this
+action stretch those cases past their breaking point. Defendants’ contention that NEPA does not
+impose a discrete, mandatory duty to supplement the 1979 PEIS cannot be squared with the law.
+See Marsh, 490 U.S. at 374 (“If there remains ‘major Federal actio[n]’ to occur, and if the new
+information is sufficient to show that the remaining action will ‘affec[t] the quality of the human
+environment’ in a significant manner or to a significant extent not already considered, a
+supplemental EIS must be prepared”); id. at 385 (“There is little doubt that if all of the [proffered
+information] was both new and accurate, the Corps would have been required to prepare a
+second supplemental EIS.”); SUWA, 542 U.S. at 73 (“supplementation is necessary . . . if there
+remains ‘major Federal action’ to occur”); Friends of the Clearwater, 222 F.3d at 557 (agency
+“must . . . prepare a supplemental EIS when there are ‘significant new circumstances or
+2
+
+Courts have relied on both Appalachian Regional Commission and Friends of the Clearwater
+since the decision in SUWA. It cannot be said, therefore, that SUWA overruled or limited the
+analyses in either of those cases. See, e.g., Piedmont Envt’l Council, 558 F.3d at 316 (applying
+Appalachian Regional Commission); Great Old Broads for Wilderness, 709 F.3d 836, 855 (9th
+Cir. 2013) (applying Friends of the Clearwater); Kunaknana v. U.S. Army Corps of Engineers,
+23 F. Supp. 3d 1063, 1090 (D. Alaska 2014) (applying Friends of the Clearwater).
+12
+
+Case 1:14-cv-01993-RBW Document 15 Filed 02/13/15 Page 15 of 25
+
+information’”); Warm Springs Dam Task Force v. Gribble, 621 F.2d 1017, 1024 (9th Cir. 1980)
+(“When new information comes to light the agency must consider it, evaluate it, and make a
+reasoned determination whether it is of such significance as to require [an SEIS].”). There can be
+little doubt that where sufficient federal action remains to occur, the duty to supplement in light
+of new and significant information is a discrete and mandatory one.
+The federal coal management program is an ongoing major federal action, as addressed in
+more detail in I.C., below. Thus, Defendants’ reliance on Lujan v. National Wildlife Federation,
+497 U.S. 871 (1990), for their argument that NEPA does not impose a duty to supplement under
+these circumstances is misplaced. Lujan addresses only the question of when a series of similar
+actions taken by the agency constitutes final agency action, such that the program itself can be
+directly challenged under the APA. The Court confronted the question of whether a program
+existed at all, and determined that it did not.
+Lujan is inapposite to this case for two reasons. First, the Court’s holding, that the actions
+that plaintiffs asserted constituted a “program” did not constitute final agency action, has no
+application to this case. It is beyond reasonable dispute that the series of coal leasing decisions
+taken by BLM were conducted as part of the agency’s Program. See, e.g., Kleppe, 427 U.S. at
+400 (“the federal petitioners agreed . . . that [NEPA] required the Coal Programmatic EIS that
+was prepared . . . as part of the final report on the proposal for adoption of that program”).
+Second, unlike as in Lujan, the agency action challenged by Plaintiffs is the failure to
+supplement an already prepared EIS for a series of actions that have been characterized by the
+agency itself as a program. In Lujan, plaintiffs argued that the agency program itself was
+unlawful. Here, Plaintiffs do not challenge the federal coal management program itself. Nowhere
+
+13
+
+Case 1:14-cv-01993-RBW Document 15 Filed 02/13/15 Page 16 of 25
+
+in Lujan does the Court address whether the failure to supplement a final EIS is agency action
+cognizable under the APA. That question was answered later by Marsh, 490 U.S. at 375-76.
+Given that the Court in Lujan was concerned with whether an agency program was
+subject to direct challenge under the APA, the Court’s admonition that Congress and not the
+courts was the proper venue for obtaining such relief is eminently reasonable. See 497 U.S. at
+891. Defendants place great weight on the Court’s holding that the agency program at issue
+could only be challenged on a lease-by-lease basis, rather than at the programmatic level. Motion
+at 8-9. This reasoning has no application to the issues presented to the Court here. Plaintiffs do
+not ask this Court to improve the federal coal management program itself, only that BLM be
+compelled to comply with NEPA’s procedural requirements. Compl. ¶¶ 187-97.
+C.
+
+The Federal Coal Management Program is a Continuing Federal Action
+Subject to NEPA’s Obligations.
+i.
+
+Plaintiffs Have Alleged Sufficient Facts to Establish that the
+Federal Coal Management Program is a Continuing Major
+Federal Action Standing On Its Own.
+
+Plaintiffs have adequately alleged that the federal coal management Program is
+conducted according to a set of regulations and policies to permit the Court to find that the
+Program is a continuing federal action. Compl. ¶¶ 47-51. For example, as of 2013, as part of the
+Program, BLM manages 309 existing leases in 10 states across the United States and continually
+processes applications for new leases and modifications to existing leases. Id. ¶ 4. New leases
+continue to be issued under the Program each year. Id. ¶ 18. In fiscal year 2013 alone, BLM
+issued four new competitive non-regional lease-by-application coal leases, in addition to other
+types of new leases. Id. ¶ 18. BLM also granted numerous applications for lease modifications to
+add acreage to existing leases, and issued three coal exploration licenses in fiscal year 2013. Id. ¶
+18. BLM issues these leases as part of its federal coal management program. See U.S. BLM,
+
+14
+
+Case 1:14-cv-01993-RBW Document 15 Filed 02/13/15 Page 17 of 25
+
+Final Environmental Impact Statement for the Wright Area Coal Lease Applications (July 2010)
+at 1-18 (“The development of federal coal reserves is integral to the BLM coal leasing program
+under the authority of the Mineral Leasing Act of 1920 (MLA), as well as the Federal Land
+Policy Management Act of 1976 (FLPMA) and the Federal Coal Leasing Act Amendments of
+1976 (FCLAA)” (emphasis supplied); U.S. BLM, Final Land Use Analysis and Final
+Environmental Impact Statement for the East Lynn Lake Coal Lease 264, EIS-ES-030-20080004 (Mar. 2009) at ii (“The BLM coal leasing program encourages private development of
+federal coal reserves …”) (emphasis supplied)).
+The allegations in the Complaint demonstrate that both Defendants and the courts have
+consistently treated the Program as a continuing federal action requiring NEPA analysis. See
+Kleppe, 427 U.S. at 400. Defendants’ attempt to draw their own inferences from the facts alleged
+in the Complaint cannot be the basis of dismissal for failure to state a claim for relief. Sparrow,
+216 F.3d at 1113 (in reviewing a motion to dismiss under Rule 12(b)(6), the court “must treat the
+complaint’s factual allegations as true” and “must grant plaintiff the benefit of all inferences that
+can be derived from the facts alleged” (internal quotation marks omitted)).
+ii.
+
+The 1979 PEIS Analyzes the Environmental Impacts of Activities to
+be Conducted Under the Federal Coal Management Program,
+Rather Than Simply a Procedural Rulemaking.
+
+Defendants contend that the 1979 PEIS was conducted “solely for the issuance” of a
+BLM rulemaking promulgating regulations regarding the Program. Motion at 2-3. With this
+argument, they apparently imply that the BLM’s NEPA analysis has nothing to do with the
+actual implementation of a program of leasing and mining billions of tons of coal from federal
+lands. If that view were accepted, the NEPA process would become a meaningless paper
+exercise, entirely divorced from the choices an agency makes when implementing its programs.
+
+15
+
+Case 1:14-cv-01993-RBW Document 15 Filed 02/13/15 Page 18 of 25
+
+Moreover, the text of the 1979 PEIS itself belies Defendants’ argument. BLM stated in
+the 1979 PEIS that the document was intended to address environmental impacts far beyond the
+scope of merely the rulemaking: “National and interregional impacts of the Federal coal
+management program are analyzed in this programmatic environmental impact statement. The
+document would be updated when conditions change sufficiently to require new analyses of
+those impacts.” 1979 PEIS at 3-9 (emphasis supplied). If the 1979 PEIS were conducted solely to
+analyze effects of the rulemaking, as Defendants contend, the agency’s commitment to update
+the document as “conditions change” would be nonsensical.3 Surely, if the agency were simply
+analyzing the issuance of a regulatory framework, BLM would have used a phrase more
+reflective of that position.
+BLM’s description of the purpose of the 1979 PEIS supports this conclusion. In BLM’s
+own words, the purpose of the 1979 PEIS is to “assess[] the national impacts of a Federal coal
+management program and related Federal coal policies,” 1979 PEIS at 1-3 (emphasis supplied),
+and to “address[] the total national demand for coal, and impacts associated with Federal and
+non-Federal coal development,” 1979 PEIS at 1-4. These statements indicate the document was
+conducted to analyze the effects of activities conducted under the federal coal management
+program, not merely the agency rulemaking.
+Plaintiffs’ argument that federal action analyzed in the 1979 PEIS is the federal coal
+management program, not merely the regulation, is further supported by BLM’s commitment to
+maintain multiple levels of NEPA analysis, with the 1979 PEIS serving as the top-level analysis,
+3
+
+Indeed, the title of the 1979 PEIS itself, Final Environmental Statement: Federal Coal
+Management Program, indicates the document’s scope included the activities conducted under
+the program, not merely the promulgation of regulations. See also Letter from Frank Gregg,
+BLM Director, accompanying 1979 PEIS (“The statement is programmatic in scope and
+discusses the national and interregional impacts associated with the Federal Coal Management
+Program.”).
+16
+
+Case 1:14-cv-01993-RBW Document 15 Filed 02/13/15 Page 19 of 25
+
+to satisfy its NEPA obligations with respect to the Program. The 1979 PEIS states: “Current
+Departmental policy for preparing environmental assessments and impact statements . . . covers
+generic (programmatic), regional, and site-specific considerations.” 1979 PEIS at 1-5. There can
+be no question that BLM recognized its obligation under NEPA to maintain multiple levels of
+environmental review during the course of the Program, as evidenced in a portion of the 1979
+PEIS titled, significantly, “Post-Programmatic Environmental Analysis”:
+The Department, in formulating the preferred coal management program, considered
+which key leasing decision points could represent major Federal actions within the
+meaning of [NEPA].
+The preferred option is to maintain two separate levels of environmental impacts
+analysis, one to consider interregional and national impacts and one to consider sitespecific and cumulative intraregional impacts. The first level of analysis would be
+contained in this programmatic environmental impact statement, updated when
+necessary, and the second level of analysis would be made in environmental impact
+statements for each region covering the four-year sales periods and discussing the tract
+delineation, ranking, and selection process.
+1979 PEIS 3-68 (emphasis supplied). This framework demonstrates BLM’s commitment to
+update the 1979 PEIS as necessary to comply with NEPA as leasing continued under the
+Program.
+D.
+
+Plaintiffs Have Adequately Alleged that Sufficient Government Action
+Remains to Require Supplementation of the 1979 PEIS.
+
+The federal coal management program has not proceeded past the point where NEPA
+analysis could no longer inform agency decisionmaking. Marsh, 490 U.S. at 371-72 (noting that
+NEPA obligations continue to apply so long as “the remaining governmental action would be
+environmentally ‘significant’” (quoting Tenn. Valley Auth. v. Hill, 437 U.S. 153, 188 n.34
+(1978))). The Complaint alleges that no end is in sight for federal leasing of the right to mine
+coal, Compl. ¶¶ 50-51, 194; that substantial amounts of federal coal remain to be developed, id.
+¶¶ 50-51; and that mining and combusting this coal will result in significant environmental
+
+17
+
+Case 1:14-cv-01993-RBW Document 15 Filed 02/13/15 Page 20 of 25
+
+impacts, id. ¶¶ 102-81. Defendants do not dispute these facts, nor are they entitled to do so at this
+stage in the proceeding. Kingman Park Civic Ass’n v. Williams, 348 F.3d 1033, 1040 (D.C. Cir.
+2003).
+Dismissing Plaintiffs’ claims at this early stage would be contrary to law, supra, and
+would cut off agency consideration of an important and significant environmental impact of the
+federal coal management program, contrary to NEPA’s objective to ensure that agencies are
+informed of all environmental impacts of an action before completing that action. See Marsh,
+490 U.S. at 371-74. The major federal action analyzed by the 1979 PEIS was the leasing, and
+therefore mining, of federal coal, an action that continues to this day. Compl. ¶¶ 52-79. BLM
+itself recognized in the 1979 PEIS that the coal it planned to lease would be almost exclusively
+burned for electricity generation and that the emissions from combustion of the coal could
+contribute to the warming of the atmosphere. Compl. ¶ 64. BLM acknowledged then that the
+effects of global warming were not well understood, and that growing knowledge about such
+effects might require BLM to update its analysis of the environmental impacts coal leasing if
+“conditions” such as these changed during the life of the Program. Id. ¶ 64.
+Thus, the facts alleged in the Complaint are sufficient to establish a claim under the APA
+§ 706(1) and § 706(2) that (1) Defendants have a discrete, mandatory, duty under NEPA to
+supplement the 1979 PEIS, and (2) Defendants have failed, in violation of NEPA, to discharge
+that duty.
+E.
+
+Plaintiffs Have Adequately Alleged that the Increased Understanding of
+Global Warming and the Effects on Global Warming of the Federal Coal
+Management Program is New and Significant Information.
+
+Plaintiffs have alleged sufficient facts to permit the Court to make the factual
+determination that increased understanding of global warming and the related effects of the
+
+18
+
+Case 1:14-cv-01993-RBW Document 15 Filed 02/13/15 Page 21 of 25
+
+federal coal management program constitute new and significant information.4 For purposes of
+review of a motion under Rule 12(b)(6), the Complaint’s allegations are sufficient to establish
+that the information proffered by Plaintiffs is both new and significant as those terms are used in
+40 C.F.R. § 1502.9(c). See Sparrow, 216 F.3d at 1113. The Complaint includes exhaustive and
+detailed allegations detailing new (since 1979) and significant scientific findings and
+understanding of global warming and its causes and effects, and of conventional pollutants
+emitted during coal combustion. Compl. ¶¶ 95-181. The substantial increase in coal development
+under the federal coal management program is also new and significant information. Id. ¶¶ 5,
+100.
+For example, in the period since the 1979 PEIS, two conditions changed radically: the
+quantities of coal mined from federal lands and the understanding of the threat of climate
+disruption have both significantly increased. Between 1979 and 2013, sales of coal mined on
+federal lands has climbed from almost nothing to 42.1% of all U.S. coal sold in 2012. Id. ¶¶ 5,
+100. Coal mined on federal lands now accounts for approximately 724 million metric tons of
+CO2 emissions, or approximately 11% of our nation’s emissions of carbon dioxide, the
+greenhouse gas primarily responsible for climate change. Id. ¶ 101. Over 2 billion short tons of
+coal have been leased just since the beginning of the Obama Administration. Id. ¶ 51.
+It is now known that,
+[T]he scientific evidence is sound, that the pace of the change and onset of
+impacts is intensifying and becoming more detrimental more rapidly than
+previously projected, and that continued mining and combustion of coal…at the
+rate occurring in the U.S. must be rapidly and sharply cut if the increase in global
+average temperature is to be limited to the international goal of no more than
+~2°C (3.6°F) over preindustrial conditions and other increasing impacts and risks
+of climate change are to be moderated.”
+4
+
+Whether proffered evidence is new and significant under 40 C.F.R. § 1502.9(c) is a question of
+fact. Marsh, 490 U.S. at 361.
+19
+
+Case 1:14-cv-01993-RBW Document 15 Filed 02/13/15 Page 22 of 25
+
+MacCracken Decl., Dkt 1-1 at 3.
+In response to this information, the nations of the world have agreed upon a goal of
+preventing increases in average atmospheric temperature of more than 2°C (3.6°F). MacCracken
+Decl., Dkt 1-1 at 31. In order to restrain average temperatures to that target, the total remaining
+“budget” of CO2 emissions for the entire world may not exceed 1,000 billion tons. MacCracken
+Decl., Dkt 1-1 at 33. Extracting and burning all U.S. coal reserves would use up approximately
+three-fourths of this entire global carbon “budget.” Id.
+The significant new information about the environmental impact of greenhouse gas
+emissions led the EPA to conclude formally in 2009 that global warming substantially endangers
+human health and the environment. Compl. ¶¶ 109-13. Other international organizations in
+which the United States participates, and national scientific assessment organizations, have
+reached similar conclusions. Id. ¶¶ 114-15, 116-52. Economists have concluded that global
+warming will have a significant negative effect on the U.S. economy, Id. ¶¶ 153, 161-63, 166.
+The Department of Defense and other national security agencies of the U.S. government have
+identified global warming as threatening extremely serious consequences, including
+destabilization of national governments, rising terrorism, and new geopolitical conflicts that will
+stress U.S. military resources. Id. ¶¶ 171-81.
+These allegations, taken as true, are sufficient to establish that the information proffered
+is new and significant, pursuant to 40 C.F.R. § 1502.9(c)(ii).
+II.
+
+Defendants’ Failure to Supplement the 1979 PEIS is Final Agency Action
+Reviewable Under the Administrative Procedure Act.
+
+Plaintiffs assert a cognizable claim under the Administrative Procedure Act, 5 U.S.C. §
+706(1). That subsection provides a cause of action seeking to “compel agency action unlawfully
+
+20
+
+Case 1:14-cv-01993-RBW Document 15 Filed 02/13/15 Page 23 of 25
+
+withheld or unreasonably delayed.” The APA defines “agency action to “include[] the whole or a
+part of an agency rule, order, license, sanction, relief, or the equivalent or denial thereof, or
+failure to act.” 5 U.S.C. § 551(13) (emphasis supplied). This definition is “expansive.” In Fund
+for Animals, Inc. v. U.S. Bureau of Land Mgmt, the Court noted that “agency action” as defined
+by § 551(13) is “meant to cover comprehensively every manner in which an agency may
+exercise its power.” 460 F.3d 13, 19-20 (internal citations omitted).
+The failure to perform a discrete regulatory obligation under NEPA is cognizable under §
+706(1). See SUWA, 542 U.S. at 64 (holding that “a claim under § 706(1) can proceed . . . where a
+plaintiff asserts that an agency failed to take a discrete agency action that it is required to take”
+(emphasis in original)); Friends of the Clearwater, 222 F.3d at 560 (holding an action to compel
+an agency to prepare a supplemental EIS arises under 5 U.S.C. § 706(1)). As demonstrated in
+Section I, supra, Defendants have a discrete mandatory duty to consider significant new
+information bearing on the environmental impacts of the federal coal management program.
+Having failed to execute that duty, Defendants’ inaction is subject to judicial review under §
+706(1).5
+CONCLUSION
+Thirty-eight years ago, the President of the United States ordered that:
+The Federal Government shall provide leadership in protecting and
+enhancing the quality of the Nation's environment to sustain and
+enrich human life. Federal agencies shall initiate measures needed
+to direct their policies, plans and programs so as to meet national
+environmental goals.
+5
+
+There is little doubt that a claim to compel an agency to take a discrete, mandatory action is
+proper under § 706(1). See SUWA, 542 U.S. at 64. But under the plain text of the APA, such a
+claim is also cognizable under § 706(2). See N.A.A.C.P., 817 F.2d at 160. That section provides
+that a court shall set aside “agency action” found to be unlawful. As noted supra, “agency
+action” is defined to include “failure to act.” 5 U.S.C. §§ 701(b)(2), 551(13). Thus, Plaintiffs’
+claim is properly brought under either subsection (1) or (2).
+21
+
+Case 1:14-cv-01993-RBW Document 15 Filed 02/13/15 Page 24 of 25
+
+Exec. Order No. 11514, 35 Fed. Reg. 4,247 (Mar. 7, 1970). Rather than “initiate measures . . . to
+direct [its] . . . program[] so as to meet national environmental goals,” the BLM asks this Court
+to endorse the agency’s refusal to examine the new and significant environmental impacts of the
+federal coal management program. Plaintiffs ask only that, in accord with NEPA and the APA,
+this Court reject the BLM’s attempt to avoid analysis and discussion of the impact of the federal
+coal management program, taking into account the new and significant information about the
+environmental impact of carbon dioxide emissions from burning coal mined on federal lands.
+For the foregoing reasons, Plaintiffs respectfully request the Court to deny Defendants’
+Corrected Motion to Dismiss.
+
+Respectfully submitted this 13th day of February, 2015,
+/s/ Richard E. Ayres
+RICHARD E. AYRES (DC Bar No. 212621)
+JESSICA L. OLSON (DC Bar No. 497560)
+JOHN H. BERNETICH (DC Bar No. 1018769)
+Ayres Law Group LLP
+1707 L Street NW, Suite 850
+Washington, DC 20036
+T: (202) 452-9200 / F: (202) 872-7739
+ayresr@ayreslawgroup.com
+olsonj@ayreslawgroup.com
+bernetichj@ayreslawgroup.com
+Counsel for Plaintiffs
+
+22
+
+Case 1:14-cv-01993-RBW Document 15 Filed 02/13/15 Page 25 of 25
+
+CERTIFICATE OF SERVICE
+I certify that a copy of the foregoing is being filed with the Clerk of the Court using the
+CM/ECF system, thereby serving it on all parties of record, this 13th day of February, 2015.
+
+/s/ Jessica L. Olson
+Jessica L. Olson
+Counsel for Plaintiffs
+
+23
+
+

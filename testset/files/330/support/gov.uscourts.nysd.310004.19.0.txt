@@ -1,0 +1,609 @@
+Case 1:07-cv-06348-PAC
+
+Document 19
+
+Filed 08/30/2007
+
+Page 1 of 14
+
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+
+DISCOVISION ASSOCIATES,
+Plaintiff,
+
+Index No.: 07-Civ.-6348 (PAC)
+
+v.
+
+FUJI PHOTO FILM CO., LTD., a Japanese
+corporation; FUJIFILM U.S.A., INC., a New
+York corporation; FUJIFILM RECORDING
+MEDIA MANUFACTURING U.S.A., INC., a
+Delaware corporation; and FUJI MAGNETICS
+GMBH, a German corporation,
+Defendants.
+
+PLAINTIFF'S MEMORANDUM OF LAW IN SUPPORT OF MOTION TO REMAND
+
+40001127 l.DOC
+
+Case 1:07-cv-06348-PAC
+
+Document 19
+
+Filed 08/30/2007
+
+Page 2 of 14
+
+TABLE OF CONTENTS
+Page
+TABLE OF AUTHORITIES
+
+ii
+
+PRELIMINARY STATEMENT
+
+1
+
+STATEMENT OF FACTS
+
+2
+
+A.
+
+The License Agreement
+
+2
+
+B.
+
+The Parties
+
+3
+
+ARGUMENT
+I.
+II.
+
+III.
+
+4
+
+DVA' S COMPLAINT DOES NOT "ARISE UNDER" PATENT LAW OR
+REQUIRE RESOLUTION OF ANY ISSUE OF PATENT LAW
+
+4
+
+THE JOINT DELAWARE CITIZENSHIP OF DVA AND FUJIFILM RMM
+AND THE NEW YORK CITIZENSHIP OF FUJIFILM US INDEPENDENTLY
+REQUIRE REMAND
+
+6
+
+UNDER 28 U.S.C. § 1447(c), DVA SHOULD RECOVER ITS COSTS AND
+ACTUAL EXPENSES, INCLUDING ATTORNEYS' FEES, INCURRED AS A
+RESULT OF DEFENDANTS'REMOVAL...
+
+8
+
+CONCLUSION
+
+9
+
+-i40001127 l.DOC
+
+Case 1:07-cv-06348-PAC
+
+Document 19
+
+Filed 08/30/2007
+
+Page 3 of 14
+
+TABLE OF AUTHORITIES
+CASES
+Automatic Radio Manufacturing Co. v. Hazeltine Research. Inc..
+339 U.S. 827 (1950)
+BPL Development Corp. v. Cappel.
+86 A.D.2d 591,446 N.Y.S.2d 134 (2d Dep't 1982)
+
+3
+
+Beghin-Sav International Inc. v. Rasmussen.
+733 F.2d 1568 (Fed. Cir. 1984)
+
+6
+
+Caterpillar Inc. v. Williams.
+482 U.S. 386(1987)
+
+4
+
+Christianson v. Colt Industries Operating Corp..
+486 U.S. 800(1988)
+
+4
+
+Dexter v. A C & S Inc..
+No. 02 Civ. 6522 RCC, 2003 WL 22725461 (S.D.N.Y. Nov. 18,2003)
+
+7
+
+Evans v. Watts.
+194 F. Supp. 2d 572 (E.D. Tex. 2001)
+
+5
+
+Green v. Hendrickson Publishers, Inc..
+770 N.E.2d 784 (Ind. 2002)
+
+4-5
+
+Holmes Group. Inc. v. Vornado Air Circulation Systems. Inc..
+535 U.S. 826 (2002)
+
+4,5
+
+Lear. Inc. v. Adkins.
+395 U.S. 653 (1969)
+
+4
+
+Luckett v. Delpark. Inc..
+270 U.S. 496 (1926)
+
+6
+
+Martin v. Franklin Capital Corp..
+546 U.S. 132(2005)
+
+8
+
+Pampillonia y. RJR Nabisco. Inc..
+138 F.3d 459 (2d Cir. 1998)
+
+7
+
+-H40001127 I.DOC
+
+Case 1:07-cv-06348-PAC
+
+Document 19
+
+Filed 08/30/2007
+
+Page 4 of 14
+
+Stan Winston Creatures. Inc. v. Toys "R" Us. Inc..
+314 F. Supp. 2d 177 (S.D.N.Y. 2003)
+
+7
+
+Zerafa v. Montefiore Hospital Housing Co..
+403 F. Supp. 2d 320 (S.D.N.Y. 2005)
+
+5
+
+STATUTES
+28U.S.C. §1332(c)(l)
+
+6
+
+28 U.S.C. § 1441(b)
+
+,
+
+28 U.S.C. § 1447(c)
+
+7
+1, 8
+
+OTHER AUTHORITIES
+13B Wright, Miller & Cooper, Federal Practice & Procedure: Jurisdiction & Related
+Matters § 3582 (2d ed. 1984)
+
+6
+
+13B Wright, Miller & Cooper, Federal Practice & Procedure: Jurisdiction & Related
+Matters § 3630 (2d ed. 1984)
+
+3
+
+14B Wright, Miller & Cooper, Federal Practice & Procedure: Jurisdiction & Related
+Matters § 3721 (3d ed. 1998)
+
+6
+
+14C Wright, Miller & Cooper, Federal Practice & Procedure: Jurisdiction & Related
+Matters § 3739 (3d ed. 1998)
+
+1
+
+-11140001127 l.DOC
+
+Case 1:07-cv-06348-PAC
+
+Document 19
+
+Filed 08/30/2007
+
+Page 5 of 14
+
+Plaintiff Discovision Associates ("DVA") respectfully submits this memorandum of law
+in support of its motion to remand this action to the Supreme Court of the State of New York for
+the County of New York ("State Court") hi which DVA originally filed it. For the reasons set
+forth below and in the accompanying declaration of Robert T. Braun ("Braun Decl."), the motion
+should be granted and, pursuant to 28 U.S.C. § 1447(c), DVA should be awarded its costs and
+actual expenses, including attorneys' fees, incurred as a result of Defendants' removal.
+PRELIMINARY STATEMENT
+It is "well-settled under the case law that the burden is on the party seeking to preserve
+the district court's removal jurisdiction, typically the defendant, not the party moving for remand
+to state court, typically the plaintiff, to show that the requirements for removal have been met."
+14C Wright, Miller & Cooper, Federal Practice & Procedure: Jurisdiction & Related Matters
+§ 3739, at 424 (3d ed. 1998) (footnote 7 citing scores of cases omitted). In determining whether
+Defendants have carried their burden, the controlling standard is the well-pleaded-complaint rule
+under which a plaintiff like DVA is the master of its complaint and may decide what claims to
+assert and whether to sue under state contract law or federal patent law (or both). DVA's
+complaint is a straightforward effort to enforce its state-law contract rights under the parties'
+License Agreement. Braun Decl. f 2 and Exh. 1 thereto, which is the same as Exh. 1 to DVA's
+complaint; Answer f 3. DVA's complaint raises no issue of federal patent law. In addition,
+there is no diversity of citizenship among the parties and one of the defendants is a citizen of the
+forum state. For all these reasons, Defendants cannot carry their burden of establishing removal
+jurisdiction and this action must be remanded to the State Court.
+
+-140001127 l.DOC
+
+Case 1:07-cv-06348-PAC
+
+Document 19
+
+Filed 08/30/2007
+
+Page 6 of 14
+
+STATEMENT OF FACTS
+A.
+
+The License Agreement
+
+DVA and defendant Fuji Photo Film Co., Ltd. ("Fujifilm Japan") entered into the License
+Agreement as of January 1,1995.l Recital 1.5 sets forth the parties' basic premise in
+contracting:
+"The parties, having examined the relative value to one
+another of avoiding potential disputes over infringement of DVA
+patents and determination of royalties due on past, present and
+future sales, have independently concluded, in the interest of
+convenience of the parties, that their respective business interests
+will be best served by [Fujifilm Japan] taking a license under the
+terms and conditions of this Agreement."
+Sections 3.1 and 3.3 of the License Agreement authorize Fujifilm Japan and its Affiliates
+(defined in § 2.13 of the License Agreement) to "make, have made, use, lease (rent) and/or
+otherwise Transfer Licensed Products" without risk of infringing any of DVA's "Licensed
+Patents" (defined in § 2.10 and listed in Appendix A to the License Agreement). Section 2.7 of
+the License Agreement defines "Licensed Products" to be specific types of optical discs, Le.,
+"Digital Discs" (e.g., CDs), "Video Discs" (e.g.. DVDs) and "Recordable Media" fe.g.. DVDRWs), without reference to whether Licensed Products practice any of DVA's Licensed Patents.
+Section 5.1 of the License Agreement requires Fujifilm Japan and its Affiliates to pay DVA a
+modest royalty on their activity involving Licensed Products, and § 6 of the License Agreement
+requires Fujifilm Japan and its Affiliates to report periodically to DVA on such activity.
+Under §§ 2.13 and 3.3 of the License Agreement, Fujifilm Japan's license extended
+across the enterprise to any "corporation, company, or other business entity controlled by
+
+1
+
+Effective October 1,2006, Fujifilm Japan changed its name to FUJIFILM Holdings Corporation and
+formed a new subsidiary called FUJIFILM Corporation to operate its business. Braun Decl. f 3 and Exh. 2 thereto.
+
+-240001127 1.DOC
+
+Case 1:07-cv-06348-PAC
+
+Document 19
+
+Filed 08/30/2007
+
+Page 7 of 14
+
+[Fujifilm Japan]"2 and thus included the three Fujifilm Japan Affiliates named in DVA's
+complaint. Fujifilm Japan represented to DVA in §§ 4.1 and 4.2 and Appendix B of the License
+Agreement that, as of January 1,1995, its only Affiliate was Fuji Magne-Disk Co., Ltd. When
+other Affiliates subsequently dealt in Licensed Products, Fujifilm Japan should have notified
+DVA under § 3.3 of the License Agreement so that DVA could track their activity. Because the
+notice requirement is for DVA's benefit, Fujifilm Japan's failure to notify is hardly a ground for
+excusing it or its Affiliates from their reporting, payment and other obligations under the License
+Agreement with respect to Licensed Products. See, e.g.. BPL Development Corp. v. Cappel. 86
+A.D.2d 591,446 N.Y.S.2d 134 (2d Dep't 1982) (defendant required to perform despite failure of
+condition that was for plaintiffs benefit).
+B-
+
+The Parties
+
+DVA is a partnership whose two partners are Pioneer Electronics (USA) Inc. and Pioneer
+Electronics Capital Inc., both of which are corporations organized under the laws of Delaware
+and have their principal places of business in California. Braun Decl. f 1; Complaint f 1. For
+jurisdictional purposes, therefore, DVA is a citizen of Delaware and California. E.g.. 13B
+Wright, Miller & Cooper, Federal Practice & Procedure: Jurisdiction & Related Matters § 3630,
+at 682-89 (2d ed. 1984) ("each of [a partnership's] members must be considered in determining
+whether diversity jurisdiction exists").
+Defendant Fujifilm Recording Media Manufacturing U.S.A., Inc. ("Fujifilm RMM") is a
+Fujifilm Japan Affiliate within the meaning of § 2.13 of the License Agreement. Complaint f 2;
+Braun Decl. f 4 and Exh. 3 thereto (Fujifilm Japan's 2007 Annual Report at 49, 82 (identifying
+2
+
+"[CJontrol means direct or indirect beneficial ownership of greater than fifty percent (50%) of the voting
+securities or greater than fifty percent (50%) interest in die income of such corporation, company, or other business
+entity." License Agreement §2.13.
+
+-340001127 1.DOC
+
+Case 1:07-cv-06348-PAC
+
+Document 19
+
+Filed 08/30/2007
+
+Page 8 of 14
+
+its controlled subsidiaries for purposes of consolidated reporting)). See Defendants' Rule 7.1
+Statements filed on July 11, 2007 (showing Defendants' Affiliate status). For jurisdictional
+purposes, Fujifilm RMM is a citizen of Delaware, where (like DVA's two constituent partners) it
+is incorporated. Complaint f 2; Answer f 2.
+Like Fujifilm RMM, defendant Fujifilm U.S.A., Inc. ("Fujifilm US") also is an Affiliate
+of Fujifilm Japan within the meaning of § 2.13 of the License Agreement. For jurisdictional
+purposes, it is a citizen of New York, where it is incorporated. Complaint f 2; Answer f 2.
+ARGUMENT
+I.
+
+DVA'S COMPLAINT DOES NOT "ARISE UNDER"
+PATENT LAW OR REQUIRE RESOLUTION
+OF ANY ISSUE OF PATENT LAW
+As the United States Supreme Court has long held:
+"[S]ince the plaintiff is 'the master of the complaint,' the wellpleaded-eomplaint rule enables him, 'by eschewing claims based
+on federal law,... to have the cause heard in state court."
+Holmes Group. Inc. v. Vornado Air Circulation Systems. Inc.. 535 U.S. 826, 831 (2002).
+Accord Caterpillar Inc. v. Williams. 482 U.S. 386, 392 (1987) (citing cases going back to 1913;
+footnote and citation omitted):
+"The presence or absence of federal-question jurisdiction is
+governed by the 'well-pleaded complaint rule,' which provides that
+federal jurisdiction exists only when a federal question is presented
+on the face of the plaintiffs properly pleaded complaint. The rule
+makes the plaintiff the master of the claim; he or she may avoid
+federal jurisdiction by exclusive reliance on state law."3
+Defendants' assertion of a federal patent-law defense or a federal patent-law counterclaim cannot create
+federal jurisdiction. Holmes. 535 U.S. at 831-32 (federal counterclaim insufficient basis for jurisdiction);
+Christianson v. Colt Indus. Operating Corp.. 486 U.S. 800, 809 (1988) (federal patent-law defense insufficient basis
+for jurisdiction). Federal defenses and, following Holmes, federal counterclaims can be resolved in state court.
+Lear. Inc. v. Adkins. 395 U.S. 653,675-76 (1969) (state court can resolve federal patent defense); Green v.
+Hendrickson Publishers. Inc.. 770 N.E.2d 784,793 (Ind. 2002) (state court can resolve federal copyright
+counterclaim).
+
+-440001127 1.DOC
+
+Case 1:07-cv-06348-PAC
+
+Document 19
+
+Filed 08/30/2007
+
+Page 9 of 14
+
+This rule preserves the plaintiffs right to choose the forum and gives "'[d]ue regard for
+the rightful independence of state governments' that [the Supreme Court's] cases addressing
+removal require." Holmes. 535 U.S. at 832 (citation omitted); Zerafa v. Montefiore Hospital
+Housing Co.. 403 F. Supp. 2d 320,324 (S.D.N.Y. 2005) ("Removal jurisdiction is strictly
+construed inasmuch as it implicates significant federalism concerns and abridges the deference
+courts generally give to a plaintiffs choice of forum."). A further benefit is that the rule is clear
+and easy to administer, thus permitting prompt resolution of jurisdictional conflicts without
+having to address the merits of a case. Holmes. 535 U.S. at 832.
+DVA alleges in 14 of its complaint that Defendants have violated §§5 and 6 of the
+License Agreement. Under these contractual provisions, Fujifilm Japan and its Affiliates must
+report and pay royalties if they make, have made, use, lease (rent) or otherwise transfer Licensed
+Products, whether or not in doing so they practice any DVA patent they are licensed to practice.
+That is what the License Agreement provides, and there is nothing unusual or inappropriate
+about such an arrangement. E.g., Automatic Radio Manufacturing Co. v. Hazeltine Research.
+Inc.. 339 U.S. 827, 834 (1950):
+"What [Petitioner] acquired by the agreement into which it
+entered was the privilege to use any or all of the patents and
+developments as it desired to use them. If it chooses to use none of
+them, it has nevertheless contracted to pay for the privilege of
+using existing patents plus any developments resulting from
+respondent's continuous research."
+See Evans v. Watts. 194 F. Supp. 2d 572, 576 (E.D. Tex. 2001) ("it appears from the language of
+the licensing agreement that Plaintiffs could recover from Watts regardless of whether a covered
+patent was actually infringed").4
+
+4
+In paragraphs 5 through 8 of their Notice of Removal, Defendants torture the language of the License
+Agreement and subvert its basic premise by arguing that the reporting and royalty obligations they undertook arise
+not if they make, have made, use, lease (rent) and/or otherwise transfer the Licensed Products defined in § 2.7, but
+
+(footnote continued on next page)
+
+-540001127 1JDOC
+
+Case 1:07-cv-06348-PAC
+
+Document 19
+
+Filed 08/30/2007
+
+Page 10 of 14
+
+As pleaded, DVA's claims are for breach of the Licensing Agreement and do not arise
+under patent law or require a determination of any issue of patent law. E.g., Luckett v. Delpark.
+Inc.. 270 U.S. 496, 502 (1926):
+"It is a general rule that a suit by a patentee for royalties
+under a license or assignment granted by him, or for any remedy in
+respect of a contract permitting use of the patent is not a suit under
+the patent laws of the United States, and can not be maintained in a
+federal court as such."
+Accord 13B Wright, Miller & Cooper, Federal Practice & Procedure: Jurisdiction & Related
+Matters § 3582, at 302-08 & nn.12-13 (2d ed. 1984) (quoting Luckett as the "leading case").5
+Accordingly, there is no removal jurisdiction under Defendants' patent-infringement theory.
+II.
+
+THE JOINT DELAWARE CITIZENSHIP OF DVA AND FUJIFILM RMM
+AND THE NEW YORK CITIZENSHIP OF FUJIFILM US
+INDEPENDENTLY REQUIRE REMAND
+Needless to say, if complete diversity of citizenship is lacking because two adverse
+parties are citizens of the same state for purposes of jurisdiction, 28 U.S.C. § 1332(c)(l) cannot
+
+(footnote continued from previous page)
+only if they actually use DVA's Licensed Patents in doing so. In other words, Fujifilm Japan and its Affiliates ask
+the Court to construe the License Agreement not to have eliminated risk and to have avoided potential disputes but
+to have preserved uncertainty and to have assured controversy. They do so by reading meanings into the neutral
+phrase "is licensed hereunder" or "under the Licensed Patents" that are flatly inconsistent with the overall wording,
+intent and premise of the License Agreement and its consistent use of the defined term "Licensed Products". Their
+proffered contract interpretation would produce exactly the result that the parties sought to avoid by entering into the
+License Agreement in the first place. In any event, the issue of contract interpretation that Defendants raise is not
+jurisdictional but rather one addressed to the merits that the State Court can resolve. See 14B Wright, Miller &
+Cooper, Federal Practice & Procedure: Jurisdiction & Related Matters § 3721, at 331 (3d ed. 1998) ("the defendant
+may not use removal proceedings as an occasion to adjudicate the substantive issues of a case").
+5
+
+Indeed, as the Federal Circuit observed in Beghin-Say Int'l Inc. v. Rasmussen. 733 F.2d 1568,1571 (Fed.
+Cir. 1984):
+"Wilson v. Sandford, 51 U.S. (10 How.) 99,13 L.Ed. 344 (1850) and its
+progeny (Ausherman v. Stump, 209 USPQ 984 (10th Cir. 1981); Combs v. Plough,
+Inc., 681 F.2d 469,216 USPQ 463 (6th Cir. 1982)), have consistently held
+for over 130 years that contract disputes involving patents do not arise 'under
+any Act of Congress relating to patents,' as required by 28 U.S.C. § 1338(a)."
+
+-640001127 1.DOC
+
+Case 1:07-cv-06348-PAC
+
+Document 19
+
+Filed 08/30/2007
+
+Page 11 of 14
+
+support removal. Moreover, 28 U.S.C. § 1441 (b) precludes removal by a citizen of the forum
+state. Because DVA and Fujifilm RMM are both citizens of Delaware and Fujifilm US is a
+citizen of New York, removal was improper and this action must be remanded.
+Based on their counsel's July 24 letter to the Court summarizing their position,
+Defendants intend to argue in opposition to DVA's motion to remand that Fujifilm RMM and
+Fujifilm US are not proper parties and should be ignored for purposes of removal and remand.
+The Second Circuit Court of Appeals in Pampillonia v. RJR Nabisco. Inc.. 138 F.3d 459 (2d Cir.
+1998), established a stringent test for resolving any such argument:
+"In order to show that naming a non-diverse defendant is a
+'fraudulent joinder' effected to defeat diversity, the defendant must
+demonstrate, by clear and convincing evidence, either that there
+has been outright fraud committed in the plaintiffs pleadings or
+that there is no possibility, based on the pleadings, that a plaintiff
+can state a cause of action against the non-diverse defendant in
+state court. The defendant seeking removal bears a heavy burden
+of proving fraudulent join[d]er, and all factual and legal issues
+must be resolved in favor of the plaintiff."
+138 F.3d at 461 (emphasis added; footnote 3 citing cases omitted). Accord Stan Winston
+Creatures. Inc. v. Tovs "R" Us. Inc.. 314 F. Supp. 2d 177,182 (S.D.N.Y. 2003) (quoting
+Pampillonia) ("not sufficient to argue that the complaint fails to state a claim against that
+defendant"); Dexter v. A C & S Inc.. No. 02 Civ. 6522 RCC, 2003 WL 22725461, at *2
+(S.D.N.Y. Nov. 18,2003) (same).
+The stringency of the test and the policies that underlie it compel remand of this action to
+the State Court. DVA alleges that Fujifilm RMM and Fujifilm US deal in Licensed Products and
+are licensed under the License Agreement. Complaint ff 2-4,15,16; Exh. 1 §§ 2.13 and 3.3. As
+noted above, Fujifilm Japan's failure to comply with its obligation to notify DVA of Fujifilm
+Japan's Affiliates' activities by adding them to Appendix B does not excuse them from their
+contractual obligations. Resolving all legal and factual issues in DVA's favor and recognizing
+
+-740001127 1.DOC
+
+Case 1:07-cv-06348-PAC
+
+Document 19
+
+Filed 08/30/2007
+
+Page 12 of 14
+
+that Defendants must show by clear and convincing evidence that there is no possibility, based
+on the pleadings, that DVA can state a cause of action against Fujifilm Japan's Affiliates, they
+clearly are proper parties for purposes of removal, and their presence requires remand under the
+authorities cited above.
+
+III.
+UNDER 28 U.S.C. § 1447(c), DVA SHOULD
+RECOVER ITS COSTS AND ACTUAL EXPENSES,
+INCLUDING ATTORNEYS' FEES, INCURRED AS
+A RESULT OF DEFENDANTS' REMOVAL
+Under the clear and stringent legal standards described above, Defendants did not have an
+objectively reasonable basis for removal. Accordingly, under 28 U.S.C. § 1447(c), DVA should
+recover its costs and actual expenses, including attorneys' fees, incurred as a result of
+Defendants' removal. Martin v. Franklin Capital Corp.. 546 U.S. 132,139-40 (2005).
+
+-840001127 I.DOC
+
+Case 1:07-cv-06348-PAC
+
+Document 19
+
+Filed 08/30/2007
+
+Page 13 of 14
+
+CONCLUSION
+For the reasons set forth above and in the Braun Deel., this action should be remanded to
+the State Court and DVA should recover its costs and actual expenses, including attorneys' fees,
+incurred as a result of Defendants' removal.
+Dated:
+
+Los Angeles, California
+August 30, 2007
+
+HUGHES HUBBARD & REED LLP
+William T. Bisset
+350 South Grand Avenue
+36th Floor
+Los Angeles, California 90071-3442
+Tel: (213)613-2881
+Fax: (213)613-2950
+email: bisset@hugheshubbard.com
+HUGHES HUBBARD & REED LLP
+James B. Kobak
+One Battery Park Plaza
+New York, New York 10004-1482
+Tel: (212)837-6757
+Fax: (212)422-4726
+email: kobak@hugheshubbard.com
+By
+
+William T. Bisset
+Attorneys for DVA
+
+-940001127 l.DOC
+
+Case 1:07-cv-06348-PAC
+
+Document 19
+
+Filed 08/30/2007
+
+Page 14 of 14
+
+DECLARATION OF SERVICE BY FEDERAL EXPRESS
+The undersigned declares:
+I am, and was at all times herein mentioned, a citizen of the United States, a resident
+of the County of Los Angeles, over the age of 18 years and not a party to this proceeding. My
+business address is 350 South Grand Avenue, 36th Floor, Los Angeles, California 90071, and I am
+employed in the office of a member of the bar of this Court, at whose direction the service described
+herein was made. On August 30, 2007,1 served the foregoing PLAINTIFF'S MEMORANDUM
+OF LAW IN SUPPORT OF MOTION TO REMAND by sending true copies thereof via Federal
+Express, Priority Overnight Service, all fees prepaid by sender, addressed as follows:
+Steven J. Routh
+Hogan & Hartson, L.L.P.
+555 Thirteenth Street, N.W.
+Washington, D.C. 20004-1109
+
+Eric J. Lobenfeld
+Hogan & Hartson, L.L.P.
+875 Third Avenue
+New York, New York 10022
+
+I declare under penalty of perjury that the foregoing is true and correct. Executed in
+Los Angeles, California, this 30th day of August 2007.
+
+40001127 1.DOC
+
+

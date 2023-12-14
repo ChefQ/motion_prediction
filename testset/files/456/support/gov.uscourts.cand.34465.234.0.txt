@@ -1,0 +1,658 @@
+CLRB Hanson Industries, LLC et al v. Google Inc. Doc. 234
+
+1 | DAVID T. BIDERMAN, Bar No. 101577
+TIMOTHY J. FRANKS, Bar No. 197645
+
+2 | M. CHRISTOPHER JHANG, Bar No. 211463
+FARSCHAD FARZAN, Bar No. 215194
+
+3 | PERKINS COIE LLP
+
+Four Embarcadero Center, Suite 2400
+
+4 | San Francisco, California 94111
+Telephone: (415) 344-7000
+5 || Facsimile: (415) 344-7050
+Email: DBiderman@perkinscoie.com
+6 | Email: TFranks@perkinscoie.com
+Email: CJhang@perkinscoie.com
+7 | Email: FFarzan@perkinscoie.com
+8 || Attorneys for Defendant GOOGLE INC.
+9
+UNITED STATES DISTRICT COURT
+10
+NORTHERN DISTRICT OF CALIFORNIA
+11
+12
+'S | CLRB HANSON INDUSTRIES, LLC Case No. C 05-03649 JW
+14 || d/b/a INDUSTRIAL PRINTING, and
+HOWARD STERN, on behalf of GOOGLE INC.'S NOTICE OF
+
+15 || themselves and all others similarly situated, MOTION AND MOTION FOR
+PARTIAL SUMMARY JUDGMENT
+
+ 
+
+ 
+
+16 Plaintiffs, ON PLAINTIFFS' "120% RULE" AND
+"PARTIAL MONTH" CLAIMS; AND
+
+17 MEMORANDUM OF POINTS AND
+
+18 v. AUTHORITIES IN SUPPORT
+
+19 GOOGLE, INC., Date: November 10, 2008
+Time: 9:00 a.m.
+
+20 Detendant. Place: Courtroom 8
+
+71 Judge: Honorable James Ware
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+ 
+
+GOOGLE'S MOTION FOR PARTIAL SUMMARY
+
+JUDGMENT ON PLFS' "120% RULE" CLAIM CASE NO. C 05-03649 JW
+41063-00231 FGAT.14630961 3
+
+ 
+
+ 
+
+Dockets.Justia.com
+ao ns N
+
+\O
+
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+Table of Contents
+Table of Authorities 20... cc cecessessessesesscescesssssscasssecessssensssesessecsessesesecaessesseneesesnecetsesasearersersentenss ii
+Notice of Motion and Motion .0......cccccccessssscssssssessesssesesesesseaesessesesesscseseeaeeesseceeseseeesseneseveneeseaseeees 1
+Memorandum of Points and Authorities ..........:cccsssscsesscsesscseseesssceseeaceessecacsaeessesaesecaeeecscereassesecaees 1
+Statement Of Facts... es seeeseeseesseseeseeecsecsecseceeeeeesscseesesesseeessececsecaesesaesesssscaseeseeeseeeeseeecseaseeeaeeesas 4
+A. The AdWords Program, "Daily Budgets," the "120% Rule," and Pausing............ 4
+B. Plaintiffs' Advertising Campaigns...........cccccsscsssssscessssesscseeneeteeeseseceeeneeerenseeeneeees 5
+ATQUMEM 00... eee sseceseceneseestessnevsssevseseceseeesssceseecatesseessueesueensesenescseeseresenseseasesesersusessssenaucarsenssesecaes 7
+I, Plaintiffs Have No Standing to Seek Restitution for Injury Due to Google's
+Occasional Delivery of Additional Clicks Under the 120% Rulle............escecscesecteesetseesnees 7
+A. Plaintiffs Have No Evidence that They Suffered an Injury in Fact Due to
+Being Charged up to 120% of their Daily Budget on Certain Days... eee 8
+B. As a Matter of Law, Lost Business Opportunities Do Not Constitute "Lost
+Money or Property" as Required by the UCL and FAA... eeecssseseeseesetenseesees 11
+II. At Minimum, Plaintiffs Suffered No Injury After They Knew that Google Would
+Charge Them Up to 120% of Their Daily Budget on Certain Days ......... cs eceeeeeeeereeeee 13
+III. - Plaintiffs Have No Evidence to Support Any Claim that Google Overcharged
+Them for "Partial Month" Campaigns ..0.......ccccccecscsseeeeseeetscseeeeseeseseenenenecsesarseseseneneseeatees 14
+CONCLUSION ......seseescsseeceeetseseescncerscsecseeeesssesacsasecussesazsesesseaccesacsessaseacsusenesaeaseccacensnseeesensssaseseeees 15
+
+ 
+
+ 
+
+GOOGLE'S MOTION FOR PARTIAL SUMMARY
+
+JUDGMENT ON PLFS' "120% RULE" CLAIM -i- CASE NO. C 05-03649 JW
+410N63-0093/1 FGA 14630941 3
+
+ 
+f
+
+oO Se JT HD WN
+
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+Table of Authorities
+
+Cases Pages
+
+Animal Legal Def. Fund v. Mendes,
+160 Cal. App. 4th 136, 72 Cal. Rptr. 3d 553 (2008) ...ccceessesesesessteneeesseseecerscseatsesateeesevens 8
+
+Brown v. Bank of Am., N.A.,
+457 F. Supp. 2d 82 (D. Mass. 2006) oo... ecccessssssesesseseseescsessesesevseseseseessaeeseceeeecstaseeeeeees 12, 13
+
+Buckland v. Threshold Enters., Ltd.,
+155 Cal. App. 4th 798, 66 Cal. Rptr. 3d 543 (2007) oo... cecccssesesssseesssenseseesesseetereaees 11,12, 13
+
+Celotex Corp. v. Catrett,
+ATT U.S. 317 (1986) oe eeeeessscessescesesessenscssssesseesesesseseesesnessessesessuseesusnseessscsseesaedacaeeaseusessesaseaees 6
+
+Chavez v. Blue Sky Natural Beverage Co.,
+503 F. Supp. 2d 1370 (N.D. Cal. 2007) wo. ccccccssccesesesssesssseseesesscsscsssesseessesseseesesseneaes 7, 8,9
+
+Chern v. Bank of Am.,
+15 Cal. 3d 866, 127 Cal. Rptr. 110 (1976) oo. eeeessssescsesscseeseeeseseseseacseseeacseeeeeeseneeecseneneeaceees 10
+
+Daro v. Superior Court,
+151 Cal. App. 4th 1079, 61 Cal. Rptr. 3d 716 (2007) o....ceeceeseseeesceneterecesectacetereneresenesens 7,12
+
+Hal Roach Studios, Inc. v. Richard Feiner & Co.,
+896 F.2d 1542 (9th Cir. 1990) oo. cccsccsscssssscsssccsescssescsseccsssevsssesssessecesssesseeesseeeessseeeteseatesssens 6
+
+Korea Supply Co. v. Lockheed Martin Corp.,
+29 Cal. 4th 1134, 131 Cal. Rptr. 2d 29 (2003) occ ccccsccesessssecseseeseecsecseeeeeesseetseeeeserstecsareeens 10
+
+Kung v. FOM Inv. Corp.,
+563 F.2d 1316 (Oth Cir, 1977) occceeescsecssescneeseseeecseeeeseneeeseecsesesecseeeeeceeeessenesesaeetseeseteetas 10
+
+Lujan v. Defenders of Wildlife,
+504 U.S. 555 (1992) voc eeseseesessctetscsssseessssecsssecucsessecsecseeesesaesessesaesesaesseessesnensseteesesrsaeeates 8
+
+MAI Sys. Corp. v. UIPS,
+856 F. Supp. 538 (N.D. Cal. 1994) ooo cccccssssssscssesseseesesssscesesevseeecseesessssessesesersessasatarsaseeses 12
+
+Nat'l Rural Telecomms. Co-op. v. DIRECTV, Inc.,
+319 F. Supp. 2d 1059 (C.D, Cal. 2003) vc cccccccecccesccssccsscssscesscesscsscssccssecssessseseseseseaseessanteeses il
+
+Peterson y. Cellco P'ship,
+164 Cal. App. 4th 1583, 80 Cal. Rptr. 3d 316 (Ct. App. 2008) oo. eeeeeteeeeenetees 7, 8,9, 12
+
+Ruiz v. Gap, Inc.,
+540 F. Supp. 2d 1121 (N.D. Cal. 2008) oo. cececccssscesssceessesssseceeesssesesseeeesesseeeseeeseseasesseaeees 7
+
+Walker v. USAA Cas. Ins. Co.,
+474 F. Supp. 2d 1168 (E.D. Cal. 2007) ooo. ..cccccccccccsscccssscesseeeesscsesessssesecesseeeseeesetesseeaeses 10, 11
+
+ 
+
+ 
+
+GOOGLE'S MOTION FOR PARTIAL SUMMARY .
+JUDGMENT ON PLFS' "120% RULE" AND -ll- CASE NO. C 05-03649 JW
+"PARTIAL MONTH" CLAIMS
+
+ 
+>
+
+XO oo "rN Ww
+
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+Statutes and Rules Pages
+Fed. R. Civ. P. 56(C) ceeccscscssssssssessessucssessessucssssasssessvesessncesvesecsasssscaresasssecsusssecsunsavecnessucsnveneesvcaveseceave 6
+Fed. R. Civ. P. S6(euro)(2) vocecceesesesesssssssseseseetsssssssussesevssssesssesessseecsescscseeseessseeecsessseseseseesecacseaeees 10
+Cal. Bus. & Prof. Code 0x00A70x00A7 17200 ef Seuroq. weccecsccsccsssssssssescesessesssssssesscssecsusstessssensesessasesesens 1, passim
+Cal. Bus. & Prof. Code 0x00A7 17204 ooeccccccccsccssssssssssessevesceecssceccssesacssesassesesceavsevesseseassarensease 3, passim
+Cal. Bus. & Prof. Code 0x00A70x00A7 17500 ef Seq. ..cescceccccccssssesssscssesssssscsscsssecssvscesssersssevscsevsersvensees 1, passim
+Cal. Bus. & Prof. Code 0x00A7 17535 w..ccccccsccsscsscsscssccssscessccsecsessecsscsceevsetsesassacsassecereretsevereess 3, passim
+
+ 
+
+ 
+
+GOOGLE'S MOTION FOR PARTIAL SUMMARY .
+JUDGMENT ON PLFS' "120% RULE" AND -1l1- CASE NO. C 05-03649 JW
+"PARTIAL MONTH" CLAIMS
+
+ 
+EE Ww NK
+
+SN NHN WN
+
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+Notice of Motion and Motion
+TO ALL PARTIES AND THEIR ATTORNEYS OF RECORD:
+
+PLEASE TAKE NOTICE that on November 10, 2008 at 9:00 a.m., or soon thereafter as
+the matter may be heard, in Court Room 8 of the United States District Court for the Northern
+District of California, San Jose Division, defendant Google Inc. ("Google") will, and hereby,
+does, move the Court for partial summary judgment dismissing Plaintiffs' claims that Google's
+policy of delivering "clicks" valued at up to 120% of a user's designated "Daily Budget" is a
+deceptive trade practice that violates California's Unfair Competition Law, Cal. Bus. & Prof.
+Code 0x00A70x00A7 17200 et seq., and False Advertising Act, Cal. Bus. & Prof. Code 0x00A70x00A7 17500 et seg. This
+motion is made on the ground that Plaintiffs lack standing to bring those claims because even if
+Google's policies were somehow deceptive (which Google denies), Plaintiffs suffered no injury
+in fact and lost no money or property as a result. For the same reasons, Google moves for partial
+summary judgment dismissing any claims that Plaintiffs overpaid for campaigns that were
+cancelled after a portion of a month ("partial month" campaigns).
+
+Google's motion is based on this Notice of Motion, the accompanying Memorandum of
+Points and Authorities, the supporting Declarations of Adam Samet and David T. Biderman, filed
+concurrently herewith, and the papers and records that are on file in this action, and such other
+matters and arguments as may be presented to the Court prior to or at the hearing on the motion.
+
+Memorandum of Points and Authorities
+
+This is an action against Google by two participants in "AdWords," Google's online
+advertising program. The AdWords program allows advertisers to have ads displayed in response
+to particular search queries by internet users. A participating advertiser sets a "Daily Budget" to
+control its costs, which in most cases are determined by the number of users that "click" on its
+advertisement and are thus linked to that advertiser's designated website or sites. Because
+internet traffic and query volumes fluctuate significantly, Google's software delivers more clicks
+on some days to make up for other days when delivery is below the targeted level. In particular,
+as Google explains when advertisers sign up, the AdWords program may deliver additional clicks
+
+and charge advertisers up to 120% of their Daily Budget on a given day to make up for shortfalls.
+
+ 
+
+ 
+
+GOOGLE'S MOTION FOR PARTIAL SUMMARY
+JUDGMENT ON PLFS' "120% RULE" AND -1- CASE NO. C 05-03649 JW
+"PARTIAL MONTH" CLAIMS
+
+ 
+& WwW
+
+o eS ND
+
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+This "120% Rule" ensures that advertisers' expenses in a given month equal, or nearly equal,
+their Daily Budget times the number of days in that month, without going over that limit.
+
+In its previous orders on the parties' cross-motions for summary judgment, this Court
+granted summary judgment for Google on Plaintiffs' claims for breach of the implied covenant of
+good faith and fair dealing and unjust enrichment. See ECF Document No. 193 [Aug. 21, 2007
+Order Granting in Part and Denying in Part Defendant's Motion for Summary Judgment ("ECF #
+193")] at 16-17, 20; ECF Document No. 223 [May 14, 2008 Order Granting in Part and Denying
+in Part Defendant's Motion for Partial Summary Judgment ("ECF # 223")] at 3-4. The Court also
+denied summary judgment on Plaintiffs' claims for (1) breach of contract; (2) violation of
+California's Unfair Competition Law ("UCL"), Cal. Bus. & Prof. Code 0x00A70x00A7 17200 et seg.; and (3)
+violation of California's False Advertising Law ("FAL"), Cal. Bus. & Prof. Code 0x00A70x00A7 17500 et
+seq. See ECF # 193 at 16, 19; ECF # 223 at 3-4, 8, 11. On Plaintiffs' breach of contract claim,
+
+this Court held that
+
+[uJnder the plain language of the AdWords Agreement, Google is
+not in breach of the "Daily Budget" provision if the following two
+things are true: (1) in any particular day in which a customer's ad
+campaign is running, Google charges that customer no more than
+120% of his or her "Daily Budget;" and (2) in any particular month
+iii which a customer's ad is running, Google charges a customer no
+more than his or her "Daily Budget" multiplied by the days in
+which the ad ran in the month. Accordingly, the Court finds that
+Google's practice of charging customers up to 120% of their
+"Daily Budget" does not, in and of itself, constitute a breach of
+the AdWords Agreement.
+
+ECF # 223 at 8 (emphasis added; footnotes omitted). On the other hand, the Court determined
+that a breach might exist if advertisers "were charged more than their `Daily Budget' multiplied
+by the number of days in which their ad campaigns were running," potentially including
+customers running "partial month" campaigns and customers who "paused" their campaigns
+during the month. See id. at 15-16.
+
+On Plaintiffs' UCL and FAL claims, this Court found that there were triable issues of fact
+as to whether a reasonable consumer would have been deceived by Google's use of the term
+
+"Daily Budget." See ECF # 193 at 19; ECF # 223 at 10-11. In addition to the "partial month"
+
+ 
+
+ 
+
+GOOGLE'S MOTION FOR PARTIAL SUMMARY
+JUDGMENT ON PLFS' "120% RULE" AND -2- CASE NO. C 05-03649 JW
+"PARTIAL MONTH" CLAIMS
+
+ 
+N
+
+oo eo NHN Dn HO EP W
+
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+and "pausing" issues described above, this Court suggested that confusion over the term "Daily
+Budget" may have injured advertisers who on certain days received more clicks than the targets
+that their Daily Budgets implied. ECF # 223 at 11, fn.10.
+
+Unlike the potential injury from "partial month" and "pausing" issues, the potential injury
+from receiving more than the targeted number of clicks on particular days is not that advertisers
+paid more for clicks than they had agreed. See id. at 8 (holding that Google's application of the
+120% Rule did not violate the AdWords Agreement). Rather, the Court indicated that such an
+injury might arise if an advertiser lost business opportunities to obtain new customers or retain
+old ones due to the delivery of clicks in excess of its Daily Budget on certain days. As the Court
+put it, "the system could result in `overexposure' on certain days, which could create difficulties
+in meeting demand and maintaining customer satisfaction." Jd. at.11, fn.10.
+
+This motion focuses primarily on the purported injury caused by Google's occasional
+delivery of clicks above Plaintiffs' Daily Budget pursuant to the 120% Rule. As a matter of law,
+to have standing to assert UCL or FAL claims, a private plaintiff must allege and prove that (1) he
+suffered an injury in fact; and (2) he lost money or property as a result of the unfair competition
+or false advertising. Cal. Bus. & Prof. Code 0x00A70x00A7 17204, 17535. As to the occasional delivery of
+clicks above their Daily Budgets, the named Plaintiffs cannot meet this standing requirement.
+First, Plaintiffs have no evidence that receiving more visitors to their websites on certain days
+caused them to lose any business or caused them any other injury. Second, even if Plaintiffs had
+such evidence, lost business opportunities do not qualify as "lost money or property" within the
+meaning of the UCL and FAL.
+
+At a minimum, even if Plaintiffs could show an injury in fact and a loss of money or
+property from an occasional increase of clicks and traffic to their websites, Plaintiffs have no
+standing to seek restitution of that money or property for the period after they learned that Google
+delivered clicks and charged advertisers up to 120% of their Daily Budgets on some days.
+Standing under the UCL and FAL requires a causal nexus between the acts of unfair competition
+or false advertising and a plaintiff's injury. Once Plaintiffs had the 120% Rule explained to them,
+
+any previous confusion was moot and could no longer cause them compensable injury.
+
+ 
+
+ 
+
+GOOGLE'S MOTION FOR PARTIAL SUMMARY
+JUDGMENT ON PLFS' "120% RULE" AND -3- CASE NO. C 05-03649 JW
+"PARTIAL MONTH" CLAIMS
+
+ 
+oO Se ND
+
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+Finally, Plaintiffs also cannot maintain any claim that they were injured and lost money or
+property as a result of running "partial month" campaigns. As discussed below, the evidence is
+clear and indisputable: neither Plaintiff was ever charged more than its Daily Budget multiplied
+by the number of days in which its advertising campaign ran in any month. The only claims on
+
+which Plaintiffs can conceivably proceed to trial are their "pausing" claims.
+
+Statement of Facts
+
+A. The AdWords Program, "Daily Budgets," the "120% Rule," and Pausing
+
+Under the AdWords program, Google posts "sponsored link" ads on its websites or its
+syndication partner websites. ECF # 193 at 2; ECF #223 at 2; ECF Document No. 88
+[Declaration of Michael Schulman in Support of Motion for Summary Judgment ("Schulman
+Decl.")], 43. When an internet user clicks on a sponsored link, he or she is sent to the website or
+sites designated by the advertiser that purchased the advertisement. ECF # 193 at 2; ECF # 223 at
+2; Schulman Decl., 5. Google generally charges advertisers based on the number of times their
+ads are clicked on by users, using a methodology called cost-per-click ("CPC"). Schulman Decl.,
+95.
+
+In creating their AdWords campaigns, advertisers set a Daily Budget. ECF # 193 at 2-3;
+ECF # 223 at 3; Schulman Decl., 9. Through their Daily Budget, advertisers can control the
+charges they incur over the course of a month. ECF # 193 at 2-3; ECF # 223 at 3; Schulman
+Decl., { 9; ECF Document No. 90 [Declaration of M. Christopher Jhang in Support of First
+Motion for Summary Judgment ("Shang Decl.")], Ex. D (Excerpts of FAQs for AdWords
+program at 84 & 125 of 489).
+
+The number of clicks that an advertiser receives for a campaign can vary from day to day
+depending on the usage patterns of internet users. Schulman Decl., 0x00A7 7. To account for this
+fluctuation, and to make up for days when the number of clicks delivered is below the targeted
+amount and advertisers accordingly are charged less than their Daily Budget, the AdWords
+program may deliver more clicks and charge advertisers up to 120% of their Daily Budget on
+other days in the same month. ECF # 193 at 4, 6-7; Jhang Decl., Ex. D (Excerpts of FAQs for
+AdWords program at 84 & 125 of 489); ECF Document No. 206-12, Ex. F [Deposition of
+
+ 
+
+ 
+
+GOOGLE'S MOTION FOR PARTIAL SUMMARY
+JUDGMENT ON PLFS' "120% RULE" AND -4- CASE NO. C 05-03649 Jw
+"PARTIAL MONTH" CLAIMS
+
+ 
+&
+
+"NA WN
+
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+Heather Wilburn ("Wilburn Depo."')] at 67:22-68:20. Over the course of a month, this "120%
+Rule" is designed to make an advertiser's charges equal or come as close as possible to its Daily
+Budget times the number of days in that month-but never exceed that amount. ECF # 193 at 4;
+Jhang Decl., Ex. D (Excerpts of FAQs for AdWords program at 84 & 125 of 489); Wilburn Depo.
+at 67:22-68:20. If an advertiser's daily charges ever exceed 120% of its Daily Budget or its
+monthly charges exceed its Daily Budget times the number of days in that month, Google
+provides the advertiser an "overdelivery credit." ECF #193 at 3; Jhang Decl., Ex. D (Excerpts of
+FAQs for AdWords program at 84 & 125 of 489).
+
+At all times, an AdWords advertiser has the option of "pausing" its campaign to stop its
+ads from being displayed. ECF # 193 at 3, 7; Jnang Decl., Ex. D (Excerpts of FAQs for
+AdWords program at 261 of 489). No charges accrue to an advertiser when its campaign is
+paused. ECF # 193 at 7; Jhang Decl., Ex. D (Excerpts of FAQs for AdWords program at 261 of
+489). Advertisers may "un-pause" their campaigns when and if they wish to resume delivery of
+clicks. Jhang Decl., Ex. D (Excerpts of FAQs for AdWords program at 261 of 489).
+
+B. Plaintiffs' Advertising Campaigns
+
+Plaintiff CLRB Hanson Industries, LLC is an industrial printing business that began
+running campaigns with Google's AdWords program in July 2002. ECF # 223 at 2; Declaration
+of David T. Biderman in Support of Google Inc.'s Motion for Partial Summary Judgment on
+Plaintiffs' "120% Rule" and "Partial Month" Claims ("Biderman Decl."), 42, Ex. A [Deposition
+of CLRB Hanson representative Brett R. Hanson ("Hanson Depo.")] at 20:10-15. Plaintiff
+Howard Stern runs a homework-solving business called "homeworksolver.net" and began
+running AdWords campaigns in October 2003. See ECF # 223 at 2; Biderman Decl., 93, Ex. B
+[Deposition of Howard Stern ("Stern Depo.")] at 20:10-17.
+
+Plaintiffs were sometimes charged more than 100% of their Daily Budgets on particular
+days, but only when Google delivered additional clicks to offset shortfalls occurring during the
+same month. Declaration of Adam Samet in Support of Google Inc.'s Motion for Partial
+Summary Judgment on Plaintiffs' "120% Rule" and "Partial Month" Claims ("Samet Decl."), J
+
+11. Consistent with Google's policy, neither Plaintiff was ever charged more than 120% of its
+
+ 
+
+ 
+
+GOOGLE'S MOTION FOR PARTIAL SUMMARY
+JUDGMENT ON PLFS' "120% RULE" AND -5- CASE NO. C 05-03649 Jw
+"PARTIAL MONTH" CLAIMS
+
+ 
+oOo Oo NS DN
+
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+Daily Budget on a given day. Jd. Moreover, Plaintiffs' monthly charges never exceeded their
+Daily Budgets multiplied by the number of days in each month. Jd. When either Plaintiff
+canceled an advertising campaign after only part of a month, Google did not charge that Plaintiff
+more than its Daily Budget times the number of days that its campaign was running in that month.
+Id.
+
+Both Plaintiffs testified that they paused their AdWords campaigns when they did not
+want to receive clicks. Hanson Depo. at 72:18-25, 82:5-13; Stern Depo. at 75:19-76:11. Brett
+Hanson, the representative of CLRB Hanson, paused CLRB Hanson's advertising campaigns
+when there was "[lJack of capacity within the plant" to take on additional work. Hanson Depo. at
+72:18-25. Hansen also paused the campaigns when CLRB Hanson "met [its] targeted return on
+investment at that point and there [was] no need to continue expending money" on clicks. Jd.
+Hanson paused CLRB Hanson's campaigns on weekends as well. Jd. at 82:5-13. For his part,
+Plaintiff Stern testified that he paused his campaigns "on the weekends because I don't think
+people are going to be responding, and I'm not available to work on these problems on the
+weekends" and when he was "out of [his] home on vacation." Stern Depo. at 75:19-76:11.
+
+Both Plaintiffs sent emails to Google complaining about being charged more than their
+Daily Budget on certain days. Hanson Depo. at 132:19-134:4, 137:23-138:20, 174:3-17; Stern
+Depo. at 99:17-24, 104:2-16. In both cases, Google employees responded to these emails by
+explaining the 120% Rule. Hanson Depo. at 135:20-137:15, 169:16-170:15, 177:19-178:9; Stern
+Depo. at 99:17-100:15, 104:2-105:24. Specifically, Google informed Brett Hanson in March
+2005 of its practice of sometimes charging advertisers up to 120% of their Daily Budget. Hanson
+Depo. at 135:20-137:15, 169:16-170:15, 177:19-178:9. Google explained to Hanson: "In
+general, we try to keep your daily cost fluctuation to no more than 20 percent above your daily
+budget. And we make sure that within the 30-day billing period you are never charged more than
+the number of days in that billing period times your daily budget." Jd. at 135:20-136:6. Google
+likewise informed Stern in October 2003-the same month he began running AdWords
+campaigns-that he might accrue charges up to 120% of his Daily Budget on any given day.
+Stern Depo. at 99:17-100:15, 104:2-105:24. Google told Stern that "[i]n general, we try to keep
+
+ 
+
+ 
+
+GOOGLE'S MOTION FOR PARTIAL SUMMARY
+JUDGMENT ON PLFS' "120% RULE" AND -6- CASE NO. C 05-03649 JW
+"PARTIAL MONTH" CLAIMS
+
+ 
+

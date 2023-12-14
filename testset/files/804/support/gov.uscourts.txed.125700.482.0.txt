@@ -1,0 +1,816 @@
+Case 6:10-cv-00521-LED Document 482 Filed 08/13/13 Page 1 of 22 PageID #: 14671
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE EASTERN DISTRICT OF TEXAS
+TYLER DIVISION
+WI-LAN INC.,
+Plaintiff,
+v.
+ALCATEL-LUCENT USA INC.; et al.,
+Defendants.
+
+§
+§
+§
+§
+§
+§
+§
+§
+§
+§
+
+Civil Action No. 6:10-cv-521-LED
+Civil Action No. 6:13-cv-252-LED
+CASES CONSOLIDATED FOR
+TRIAL
+JURY TRIAL DEMANDED
+
+PLAINTIFF WI-LAN INC.’S RENEWED MOTION FOR JUDGMENT AS A
+MATTER OF LAW OF NO INVALIDITY OR, ALTERNATIVELY,
+MOTION FOR NEW TRIAL ON INVALIDITY
+
+Case 6:10-cv-00521-LED Document 482 Filed 08/13/13 Page 2 of 22 PageID #: 14672
+
+Table of Contents
+
+I.
+
+INTRODUCTION ...............................................................................................................1
+
+II.
+
+LEGAL STANDARDS .......................................................................................................2
+
+III.
+
+IV.
+
+A.
+
+Standard for Granting Judgment as a Matter of Law ...............................................2
+
+B.
+
+Standard for Granting a New Trial ..........................................................................2
+
+C.
+
+Anticipation..............................................................................................................3
+
+D.
+
+Obviousness .............................................................................................................4
+
+ARGUMENT .......................................................................................................................5
+A.
+
+Mr. Lanning’s Testimony Regarding the Prior Art Combinations for
+Obviousness and the Motivation to Combine Was Conclusory and
+Insufficient as a Matter of Law. ...............................................................................5
+
+B.
+
+Tiedemann Fails to Anticipate or Render the Claims Obvious Because It
+Does Not Disclose Allocating Time Slots to Data Items “Based on One or
+More Characteristics Associated With the Data Item” as Required by the
+Court’s Construction of “TDM Techniques.” ........................................................10
+
+C.
+
+The Court Should Grant a New Trial on Invalidity Because the
+Overwhelming Weight of the Evidence Showed That Characteristics of
+the User, Such as User or Device Identification, Cannot Satisfy the
+Requirement of “TDM Techniques” to Use “Characteristics Associated
+with the Data Item.” ...............................................................................................14
+
+CONCLUSION ..................................................................................................................16
+
+i
+
+Case 6:10-cv-00521-LED Document 482 Filed 08/13/13 Page 3 of 22 PageID #: 14673
+
+Table of Authorities
+Cases
+ActiveVideo Networks, Inc. v. Verizon Commcn’s, Inc.,
+694 F.3d 1312 (Fed. Cir. 2012) ...................................................................................... 4, 5, 7, 8
+Advanced Display Sys., Inc. v. Kent State Univ.,
+212 F.3d 1272 (Fed. Cir. 2000) .................................................................................................. 3
+Bettcher Indus., Inc. v. Buznl USA, Inc.,
+661 F.3d 629 (Fed. Cir. 2011) .................................................................................................... 3
+Dawson v. Wal-Mart Stores, Inc.,
+978 F.2d 205 (5th Cir. 1992) ...................................................................................................... 2
+Hartness Int’l, Inc. v. Simplimatic Eng’g Co.,
+819 F.2d 1100 (Fed. Cir. 1987) .................................................................................................. 4
+In re Aoyama,
+656 F.3d 1293 (Fed. Cir. 2011) .................................................................................................. 3
+In re Kahn,
+441 F.3d 977 (Fed. Cir. 2006) ................................................................................................ 6, 7
+In re Oelrich,
+666 F.2d 578 (C.C.P.A. 1981) .................................................................................................... 3
+In re Robertson,
+169 F.3d 743 (Fed. Cir. 1999) .................................................................................................... 3
+KSR Int’l Co. v. Teleflex Inc.,
+550 U.S. 398 (2007) ............................................................................................................ 4, 6, 7
+Microsoft Corp. v. i4i Ltd. P’ship,
+564 U.S. –––, 131 S. Ct. 2238 (2011) ......................................................................................... 3
+Minn. Mining & Mfg. Co. v. Chemque, Inc.,
+303 F.3d 1294 (Fed. Cir. 2002) .................................................................................................. 4
+Mirror Worlds, LLC v. Apple, Inc.,
+784 F. Supp. 2d 703 (E.D. Tex. 2011),
+aff’d, 692 F.3d 1351 (Fed. Cir. 2012) ......................................................................................... 2
+Oakley, Inc. v. Sunglass Hut Int’l,
+316 F.3d 1331 (Fed. Cir. 2003) .................................................................................................. 3
+Power Mosfet Techs., L.L.C. v. Siemens AG,
+378 F.3d 1396 (Fed. Cir. 2004) .................................................................................................. 3
+ii
+
+Case 6:10-cv-00521-LED Document 482 Filed 08/13/13 Page 4 of 22 PageID #: 14674
+
+Procter & Gamble v. Teva Pharm. USA, Inc.,
+566 F.3d 989 (Fed. Cir. 2009) ................................................................................................ 4, 7
+Reeves v. Sanderson Plumbing Prods., Inc.,
+530 U.S. 133 (2000) .................................................................................................................... 2
+Silicon Graphics, Inc. v. ATI Techs., Inc.,
+607 F.3d 784 (Fed. Cir. 2010) .................................................................................................... 3
+Smith v. Transworld Drilling Co.,
+773 F.2d 610 (5th Cir. 1985) ................................................................................................ 2, 18
+Trintec Indus., Inc. v. Top-U.S.A. Corp.,
+295 F.3d 1292 (Fed. Cir. 2002) .................................................................................................. 4
+Uniloc USA, Inc. v. Microsoft Corp.,
+632 F.3d 1292 (Fed. Cir. 2011) .................................................................................................. 3
+Statutes
+35 U.S.C. § 282 ............................................................................................................................... 3
+Rules
+Fed. R. Civ. P. 50(a) ....................................................................................................................... 2
+Fed. R. Civ. P. 50(b) ................................................................................................................... 1, 2
+Fed. R. Civ. P. 59 ............................................................................................................................ 2
+Fed. R. Civ. P. 59(a) ....................................................................................................................... 2
+
+iii
+
+Case 6:10-cv-00521-LED Document 482 Filed 08/13/13 Page 5 of 22 PageID #: 14675
+
+I.
+
+INTRODUCTION
+The jury verdict finding claims 2, 5, and 9 of U.S. Patent No. 6,088,326 (“the ’326
+
+patent); claim 11 of U.S. Patent No. 6,222,819 (“the ’819 patent”); and claims 2 and 5 of U.S.
+Patent No. 6,381,211 (“the ’211 patent”) (collectively, “the asserted claims”) invalid cannot
+stand on the evidence introduced at trial. No reasonable jury could have found that Defendants’
+expert on invalidity, Mr. Mark Lanning, presented evidence sufficient to meet Defendants’
+burden to show that the claims were anticipated and/or obvious by clear and convincing
+evidence.
+First, Mr. Lanning’s conclusory testimony on obviousness engages in improper hindsight
+bias, lacks evidentiary support, and ignores the differences between the references, such that
+Defendants failed to satisfy their burden to explain why a person of ordinary skill would have
+combined elements from the prior art in the same way as the asserted claims. Second, as to
+anticipation of claims 2 and 5 of the ’326 patent and claims 2 and 5 of the ’211 patent, Mr.
+Lanning presented just a single prior art reference: an article titled “CDMA for Cellular and
+PCS” by Edward G. Tiedemann, Jr. published in 1994 (“Tiedemann”) (see Trial Exhibit DX124, attached as Exhibit A).
+
+However, Tiedemann fails to disclose at least the “TDM
+
+techniques” required by each of these four claims. Thus, no reasonable jury could have found
+the asserted claims anticipated and/or obvious in light of the evidence presented at trial. In
+addition, the jury’s verdict of invalidity was against the strong weight of the evidence, because
+the evidence at trial overwhelmingly favored the conclusion that user or mobile identity, or other
+characteristics of the user, could not satisfy the Court’s construction of “TDM techniques”
+requiring “characteristics associated with the data item.”
+Plaintiff Wi-LAN Inc. (“Wi-LAN”) therefore respectfully renews its motion for judgment
+as a matter of law (“JMOL”) under Federal Rule of Civil Procedure 50(b) that the asserted
+1
+
+Case 6:10-cv-00521-LED Document 482 Filed 08/13/13 Page 6 of 22 PageID #: 14676
+
+claims of the ’326, ’819, and ’211 patents are not invalid. Alternatively, if the Court denies this
+renewed motion for JMOL, Wi-LAN respectfully requests a new trial on the issue of invalidity
+under Federal Rule of Civil Procedure 59.
+II.
+
+LEGAL STANDARDS
+A.
+
+Standard for Granting Judgment as a Matter of Law
+
+Judgment as a matter of law must be granted when “a reasonable jury would not have a
+legally sufficient evidentiary basis to find for the party on that issue.” Mirror Worlds, LLC v.
+Apple, Inc., 784 F. Supp. 2d 703, 710 (E.D. Tex. 2011) (quoting Fed. R. Civ. P. 50(a)), aff’d, 692
+F.3d 1351 (Fed. Cir. 2012). “[A] court should render judgment as a matter of law when a party
+has been fully heard on an issue and there is no legally sufficient evidentiary basis for a
+reasonable jury to find for the party on that issue.” Reeves v. Sanderson Plumbing Prods., Inc.,
+530 U.S. 133, 149 (2000) (quotation marks omitted); see also Fed. R. Civ. P. 50(a) & (b). In
+deciding a motion for judgment as a matter of law, the proper inquiry is whether sufficient
+evidence exists to support the non-movant’s claim when the evidence is viewed most favorably
+to the non-movant. Reeves, 530 U.S. at 150.
+B.
+
+Standard for Granting a New Trial
+
+Under Federal Rule of Civil Procedure 59, following a jury trial, “[t]he [C]ourt may, on
+motion, grant a new trial on all or some of the issues—and to any party— . . . for any reason for
+which a new trial has heretofore been granted in an action at law in federal court.” Fed. R. Civ.
+P. 59(a). “A new trial may be granted, for example, if the district court finds the verdict is
+against the weight of the evidence, the damages awarded are excessive, the trial was unfair, or
+prejudicial error was committed in its course.” Smith v. Transworld Drilling Co., 773 F.2d 610,
+613 (5th Cir. 1985) (footnotes omitted). A new trial is appropriate where “the court believes that
+
+2
+
+Case 6:10-cv-00521-LED Document 482 Filed 08/13/13 Page 7 of 22 PageID #: 14677
+
+reasonable persons could not arrive at a contrary conclusion.” Dawson v. Wal-Mart Stores, Inc.,
+978 F.2d 205, 208 (5th Cir. 1992).
+C.
+
+Anticipation
+
+A patent is presumed valid. 35 U.S.C. § 282; Microsoft Corp. v. i4i Ltd. P’ship, 564 U.S.
+–––, –––, 131 S. Ct. 2238, 2242 (2011). “To show that a patent claim is invalid as anticipated,
+the accused infringer must show by clear and convincing evidence that a single prior art
+reference discloses each and every element of a claimed invention.” Silicon Graphics, Inc. v.
+ATI Techs., Inc., 607 F.3d 784, 796 (Fed. Cir. 2010); see also Microsoft, 131 S. Ct. at 2242;
+Uniloc USA, Inc. v. Microsoft Corp., 632 F.3d 1292, 1321 (Fed. Cir. 2011).
+“Determining whether claims are anticipated involves a two-step analysis.”
+
+In re
+
+Aoyama, 656 F.3d 1293, 1296 (Fed. Cir. 2011). The first step is construction of the claims of the
+patent at issue, which is a question of law. Id. “The second step in the analysis requires a
+comparison of the properly construed claim to the prior art . . . .” Power Mosfet Techs., L.L.C. v.
+Siemens AG, 378 F.3d 1396, 1406 (Fed. Cir. 2004) (citing Oakley, Inc. v. Sunglass Hut Int’l, 316
+F.3d 1331, 1339 (Fed. Cir. 2003)).
+“[I]nvalidity by anticipation requires that the four corners of a single, prior art document
+describe every element of the claimed invention, either expressly or inherently, such that a
+person of ordinary skill in the art could practice the invention without undue experimentation.”
+Advanced Display Sys., Inc. v. Kent State Univ., 212 F.3d 1272, 1282 (Fed. Cir. 2000). If a prior
+art reference does not expressly set forth a particular claim element, the reference may still
+anticipate if the element is inherent in the prior art. In re Robertson, 169 F.3d 743, 745 (Fed.
+Cir. 1999). The claim element must necessarily be present in the prior art. Id. “Inherency,
+however, may not be established by probabilities or possibilities. The mere fact that a certain
+thing may result from a given set of circumstances is not sufficient.” Bettcher Indus., Inc. v.
+3
+
+Case 6:10-cv-00521-LED Document 482 Filed 08/13/13 Page 8 of 22 PageID #: 14678
+
+Buznl USA, Inc., 661 F.3d 629, 639 (Fed. Cir. 2011) (quoting In re Oelrich, 666 F.2d 578, 581
+(C.C.P.A. 1981)); see also Trintec Indus., Inc. v. Top-U.S.A. Corp., 295 F.3d 1292, 1297 (Fed.
+Cir. 2002) (“Inherency does not embrace probabilities or possibilities.”). Thus, if prior art
+potentially has all claim elements, but does not necessarily have all claim elements, the prior art
+does not anticipate the patent claim.
+If an independent claim is not anticipated, any claims that depend upon that claim cannot
+be anticipated. See Minn. Mining & Mfg. Co. v. Chemque, Inc., 303 F.3d 1294, 1299 (Fed. Cir.
+2002); Hartness Int’l, Inc. v. Simplimatic Eng’g Co., 819 F.2d 1100, 1108 (Fed. Cir. 1987).
+D.
+
+Obviousness
+
+“[A] patent composed of several elements is not proved obvious by merely demonstrating
+that each of its elements was, independently, known in the prior art.” KSR Int’l Co. v. Teleflex
+Inc., 550 U.S. 398, 418 (2007). “To invalidate a patent claim based on obviousness, a challenger
+must demonstrate ‘by clear and convincing evidence that a skilled artisan would have been
+motivated to combine the teachings of the prior art references to achieve the claimed invention,
+and that the skilled artisan would have had a reasonable expectation of success in doing so.’”
+ActiveVideo Networks, Inc. v. Verizon Commcn’s, Inc., 694 F.3d 1312, 1327 (Fed. Cir. 2012)
+(quoting Procter & Gamble v. Teva Pharm. USA, Inc., 566 F.3d 989, 994 (Fed. Cir. 2009)). “[I]t
+can be important to identify a reason that would have prompted a person of ordinary skill in the
+relevant field to combine the elements in the way the claimed new invention does . . . because
+inventions in most, if not all, instances rely upon building blocks long since uncovered, and
+claimed discoveries almost of necessity will be combinations of what, in some sense, is already
+known.” KSR, 550 U.S. at 418–19. As such, this analysis “should be explicit.” Id. at 418. An
+expert opining on obviousness therefore must “explain why a person of ordinary skill in the art
+would have combined elements from specific references in the way the claimed invention does.”
+4
+
+Case 6:10-cv-00521-LED Document 482 Filed 08/13/13 Page 9 of 22 PageID #: 14679
+
+ActiveVideo Networks, 694 F.3d at 1328 (emphasis in original). Thus, “conclusory” testimony or
+assertions by an expert are inadequate as a matter of law to support a jury finding of obviousness,
+as they may be “fraught with hindsight bias.” See id. at 1327.
+III.
+
+ARGUMENT
+A.
+
+Mr. Lanning’s Testimony Regarding the Prior Art Combinations for
+Obviousness and the Motivation to Combine Was Conclusory and
+Insufficient as a Matter of Law.
+
+Defendants’ invalidity expert, Mr. Lanning, failed to engage in a proper obviousness
+analysis. At trial, Mr. Lanning testified that there were two combinations of prior art that would
+have rendered the asserted claims obvious: Tiedemann combined with U.S. Patent No. 6,018,528
+(“Gitlin”) (see Trial Exhibit DX-148, attached as Exhibit B), and Gitlin combined with PCT
+international application publication no. WO 95/03652 (“Gilhousen”) (see Trial Exhibit DX-150,
+attached as Exhibit C). However, Mr. Lanning’s testimony as to why a person of ordinary skill
+would have combined these references was entirely conclusory and factually unsupported.
+Further, Mr. Lanning failed to explain why a person of ordinary skill in the art would have
+combined elements from these references in the way that the asserted claims do. Therefore, as a
+matter of law, the evidence was insufficient for a reasonable jury to support a determination of
+obviousness. See ActiveVideo Networks, 694 F.3d at 1327–28.
+Mr. Lanning’s obviousness analysis was entirely conclusory and clearly reflects hindsight
+bias. For example, Defense counsel asked Mr. Lanning: “Why would you combine Gitlin and
+Tiedemann?” Trial Transcript 68:2–3 (July 12, 2013 Morning Session) (cited portions attached
+as Exhibit E). His response:
+4
+5
+6
+7
+8
+
+A. Because Gitlin doesn't have the overlay codes.
+So, essentially, for at least the reason -- there's two
+different reasons; but the main reason is that Gitlin
+doesn't describe overlay codes. But as I showed you
+earlier, Tiedemann does.
+5
+
+Case 6:10-cv-00521-LED Document 482 Filed 08/13/13 Page 10 of 22 PageID #: 14680
+
+9
+10
+11
+12
+13
+14
+15
+
+So in combining Gitlin with Tiedemann, Gitlin
+gives us the CDMA plus TDM; Tiedemann gives us the
+overlay codes.
+Additionally, Tiedemann also gives us the
+Walsh codes, if we need to show for the orthogonal codes
+or CDMA. I have it in two places. Both Gitlin and
+Tiedemann gives it -- gives us the orthogonal codes.
+
+Id. at 68:4–15. Mr. Lanning’s explanation as to why one would combine Tiedemann with Gitlin
+thus incredibly reduces to the simple fact that he believes one reference has a claim element that
+the other lacks. But “a patent composed of several elements is not proved obvious by merely
+demonstrating that each of its elements was, independently, known in the prior art.” KSR, 550
+U.S. at 418.
+Regarding a motivation to combine references, Mr. Lanning later also testified vaguely
+and in a conclusory fashion:
+2
+Q. Okay. And why would it have been obvious in
+3 your mind to combine Gitlin and Tiedemann?
+4
+A. Because both of these patents are in regard to
+5 cellular systems, specifically, CDMA wireless systems.
+6
+And Gitlin was from Bell Labs, AT&T Bell Labs.
+7 Tiedemann was from Qualcomm. And as you've heard, in
+8 the early 1990s, they were working together on CDMA
+9 solutions.
+10
+So there's multiple reasons why one of
+11 ordinary skill in the art would combine Gitlin with
+12 Tiedemann.
+Ex. E, Trial Transcript 70:2–12 (July 12, 2013 Morning Session). However, neither the fact that
+both Tiedemann and Gitlin relate to “cellular systems” and “CDMA wireless systems,” nor the
+fact that the two companies may have worked together, explains why a person of ordinary skill
+in the art would have been motivated to combine these two distinct references to solve the
+problem confronting the inventors. At best, Mr. Lanning’s testimony shows that Tiedemann and
+Gitlin are analogous art, but this is different than explaining a motivation to combine. See, e.g.,
+In re Kahn, 441 F.3d 977, 986–88 (Fed. Cir. 2006).
+6
+
+Case 6:10-cv-00521-LED Document 482 Filed 08/13/13 Page 11 of 22 PageID #: 14681
+
+The Supreme Court stated in KSR that “it can be important to identify a reason that would
+have prompted a person of ordinary skill in the relevant field to combine the elements in the way
+the claimed new invention does . . . because inventions in most, if not all, instances rely upon
+building blocks long since uncovered, and claimed discoveries almost of necessity will be
+combinations of what, in some sense, is already known.” 550 U.S. at 418–19. Indeed, the Court
+made clear that the obviousness analysis “should be explicit.” Id. at 418 (citing Kahn, 441 F.3d
+at 988 (“[R]ejections on obviousness grounds cannot be sustained by mere conclusory
+statements; instead, there must be some articulated reasoning with some rational underpinning to
+support the legal conclusion of obviousness”)).
+The law thus requires that “a challenger must demonstrate ‘by clear and convincing
+evidence that a skilled artisan would have been motivated to combine the teachings of the prior
+art references to achieve the claimed invention, and that the skilled artisan would have had a
+reasonable expectation of success in doing so.’” ActiveVideo Networks, 694 F.3d at 1327
+(quoting Procter & Gamble, 566 F.3d at 994). Mr. Lanning’s testimony, on the other hand, “is
+generic and bears no relation to any specific combination of prior art elements. It also fails to
+explain why a person of ordinary skill in the art would have combined elements from specific
+references in the way the claimed invention does.” See id. at 1328 (emphasis in original).
+Indeed, Mr. Lanning completely ignores the differences between Tiedemann and Gitlin,
+and suggests that the references could have been combined without considering how those
+differences would relate to the combination or the elements as arranged in the claims. For
+example, in asserting that “Gitlin gives us the CDMA plus TDM; Tiedemann gives us the
+overlay codes” (Ex. E, Trial Transcript 68:9–11 (July 12, 2013 Morning Session)), Mr. Lanning
+suggests that Tiedemann’s use of overlay codes on traffic channels (see id. at 63:17–19
+
+7
+
+Case 6:10-cv-00521-LED Document 482 Filed 08/13/13 Page 12 of 22 PageID #: 14682
+
+(explaining that Tiedemann’s traffic channels used overlay codes)) could have been combined
+with Gitlin. But as Mr. Lanning testified earlier, Gitlin already discloses traffic channels, and
+those are the channels that Mr. Lanning alleges use “TDM techniques.” See id. at 66:23–67:22.
+Thus, Mr. Lanning’s testimony fails to explain how or why a person of ordinary skill in the art
+would have combined the different types of traffic channels along with other elements from
+Tiedemann and Gitlin “in the way the claimed invention does.” ActiveVideo Networks, 694 F.3d
+at 1328.
+Mr. Lanning’s testimony to his combination of Gitlin and Gilhousen is, if anything, even
+thinner. As with the combination of Tiedemann and Gitlin, Mr. Lanning appears to start his
+analysis with the fact that he believes one reference can fill a gap in another—a clear case of
+hindsight bias:
+16
+Q. If the jury were to conclude that a single
+17 OVSF code was both an orthogonal code and an overlay
+18 code, do you have an opinion as to whether Gitlin, in
+19 combination with Gilhousen, would disclose all of the
+20 elements of the asserted claims?
+21
+A. Yes. So let me go through it just briefly.
+22
+If you agree with Dr. Wells that the OVSF tree
+23 meets the limitations of the claims, then you also have
+24 to reconcile in your own mind who really defined it
+25 first. And this was three years, at least three years
+1 before the Airspan patents.
+2
+And then when you look at Dr. Gitlin from AT&T
+3 Bell Labs, he has the CDMA plus the TDM here. And,
+4 again, he's years before the Airspan patents.
+5
+And, again, you have the combination of AT&T
+6 Bell Laboratories and of Qualcomm, when they were
+7 working together. And both of these are wireless
+8 cellular systems.
+Ex. E, Trial Transcript 74:16–75:8 (July 12, 2013 Morning Session).
+
+As with his first
+
+combination, Mr. Lanning notes that both Gitlin and Gilhousen relate to “wireless cellular
+systems” and that the two companies worked together. But again, these conclusory statements
+8
+
+Case 6:10-cv-00521-LED Document 482 Filed 08/13/13 Page 13 of 22 PageID #: 14683
+
+are insufficient to satisfy Defendants’ burden as a matter of law, as they fail to explain how or
+why one would be motivated to combine the different pieces of the references in the way the
+claimed invention does.
+Moreover, Mr. Lanning made no effort in his testimony to address the secondary
+considerations of nonobviousness introduced throughout trial. For example, Dr. Jonathan Wells
+explained that the claimed inventions were adopted by the HSDPA standard and were directly
+tied to two of the major improvements offered by HSDPA. See Trial Transcript 75:20–76:18
+(July 8, 2013 Afternoon Session) (cited portions attached as Exhibit F). Dr. Wells also testified
+about how those same improvements were praised by the industry, including by Defendants
+themselves. See id. at 78:11–79:5. Furthermore, Dr. Wells testified that the inventions of the
+patents in suit addressed the long felt need to provide an efficient and flexible system for
+wireless cellular communication due to the limited bandwidth problem. See id. at 49:9–50:2,
+64:10–20. In addition, Mr. Andrew Parolin testified about the approximately 70 companies that
+have taken licenses to the patents in suit. See Trial Transcript 84:14–85:25 (July 9, 2013
+Afternoon Session) (cited portions attached as Exhibit G). Mr. Lanning failed to address any of
+these objective indicia that the asserted claims are not obvious.
+Thus, Mr. Lanning’s conclusory testimony as to his proposed combinations of prior art
+and obviousness was insufficient as a matter of law, and as such, a reasonable jury would not
+have had a legally sufficient evidentiary basis to find that the asserted claims were invalid as
+obvious.
+
+9
+
+Case 6:10-cv-00521-LED Document 482 Filed 08/13/13 Page 14 of 22 PageID #: 14684
+
+B.
+
+Tiedemann Fails to Anticipate or Render the Claims Obvious Because It
+Does Not Disclose Allocating Time Slots to Data Items “Based on One or
+More Characteristics Associated With the Data Item” as Required by the
+Court’s Construction of “TDM Techniques.”
+
+Defendants at trial presented Tiedemann as the sole anticipatory reference to claims 2 and
+5 of the ’326 patent and claims 2 and 5 of the ’211 patent. Therefore, the jury’s finding that
+these four claims were anticipated (see Verdict Form, Dkt. No. 465 at 3) could only have been
+based on Tiedemann. Mr. Lanning also expressed his opinion that Tiedemann as a single
+reference renders claim 9 of the ’326 patent and claim 11 of the ’819 patent obvious. Ex. E,
+Trial Transcript 61:8–65:23 (July 12, 2013 Morning Session). However, nothing in the four
+corners of Tiedemann discloses “TDM techniques” as construed by the Court. In particular,
+nothing in Tiedemann discloses that time slots are allocated to data items “based on one or more
+characteristics associated with the data item.”
+
+Moreover, Mr. Lanning’s testimony to the
+
+contrary is not supported by Tiedemann itself. Therefore, based on the evidence introduced at
+trial concerning Tiedemann, no reasonable jury could have found that claims 2 and 5 of the ’326
+patent and claims 2 and 5 of the ’211 patent are anticipated, and no reasonable jury could have
+found that claim 9 of the ’326 patent and claim 11 of the ’819 patent are obvious in light of
+Tiedemann.
+Each of claims 2, 5, and 9 of the ’326 patent, claim 11 of the ’819 patent, and claims 2
+and 5 of the ’211 patent requires “TDM techniques.” The claims of the ’326 and ’819 patents
+contain this limitation within the text of the claims themselves, and the claims of the ’211 patent
+contain this limitation through the term “TDM decoder,” which the Court construed as
+“hardware and/or software for extracting a data item from a channel that has been encoded using
+TDM techniques.” Memorandum Opinion and Order, Dkt. No. 200 at 13. The Court construed
+“TDM techniques” as “techniques for allocating an interval of time within a predetermined
+10
+
+Case 6:10-cv-00521-LED Document 482 Filed 08/13/13 Page 15 of 22 PageID #: 14685
+
+frame period to a data item, based on one or more characteristics associated with the data item.”
+Id. at 11. Therefore, in order for Tiedemann to invalidate the asserted claims as anticipated or
+obvious, it must disclose allocating time slots to data “based on one or more characteristics
+associated with the data item.”1 Tiedemann, however, fails in this regard.
+During trial, Mr. Lanning focused on just the “paging channel” disclosed in Tiedemann
+to show “TDM techniques.” Noticeably absent from Mr. Lanning’s testimony and the text of
+Tiedemann is any explanation of what criteria are used to allocate time slots to data within the
+paging channel mentioned in Tiedemann. Mr. Lanning testified:
+14
+Q. And did you also find that TDM -- or that
+15 Tiedemann described TDM techniques?
+16
+A. Yes, I did.
+17
+Q. And could you explain that?
+18
+A. Yes. And if this looks similar, this is very
+19 similar to the language that I showed you for the
+20 IS-95-A specification. And here at the top,
+21 Mr. Tiedemann is describing the paging channel that I
+22 talked about. It's divided into slots of 80
+23 milliseconds' duration.
+24
+So this is the interval of time, are those
+25 80-millisecond slots. And then he describes that there
+1 is a period of repetition, and that would be the frame.
+2 And those are assigned slots.
+3
+And then he discusses that there's hash
+4 functions that are used on the paging channel for a
+5 specific slot that the mobile and the base station are
+6 to use. The mobile is to monitor.
+7
+So you can see -- and that is almost the exact
+8 language out of the IS-95-A specification.
+9
+Q. And so did you find that the Tiedemann
+10 document itself described TDM techniques under the
+11 Court's construction?
+12
+A. Yes.
+
+1
+
+Mr. Lanning did not offer any testimony that the “TDM techniques” element was obvious in
+light of Tiedemann. To support the verdict, Tiedemann must therefore disclose “TDM
+techniques” explicitly or inherently.
+11
+
+Case 6:10-cv-00521-LED Document 482 Filed 08/13/13 Page 16 of 22 PageID #: 14686
+
+Ex. E, Trial Transcript 44:14–45:12 (July 12, 2013 Morning Session). Here, Mr. Lanning
+referred to the only portion of Tiedemann to discuss the paging channel in any detail. It states, in
+its entirety:
+A single CDMA frequency can support up to 7 Paging Channels, operating at
+either 4800 bps or 9600 bps, for communications from the base station to the
+mobile station. Paging Channels can also be included on different CDMA
+frequencies. The Paging Channel is divided into slots of 80 ms duration. A
+mobile station need only listen for pages in its assigned slots. The base station
+can indicate that it has no more messages for mobile stations operating in the
+slotted mode, thus allowing these mobile stations, typically portables, to power
+down early in the slot further increasing battery life. For a mobile staton, the
+period of slot repetition, called the slot cycle, is 0.08 x 2N+4 seconds where N is
+from 0 though 7. The mobile station can select the period of its assigned slots by
+registering with the value of N that it is using. The mobile station uses a series of
+three hash functions to select the CDMA frequency to use, the Paging Channel on
+the frequency, and the slot in its specified slot cycle to monitor. Similarly, the
+base station performs the hashing to determine the frequency, Paging Channel,
+and slot in which to send a page.
+Ex. A, Tiedemann, DX-124 at DEFS0011381–82.
+
+While Tiedemann explains that
+
+communication between the base station and mobile stations occurs in “assigned slots,” no part
+of Tiedemann or of Mr. Lanning’s above-cited testimony explains how those slots are assigned
+“based on one or more characteristics associated with the data item.”
+The only statement in the record possibly relating to how Tiedemann might allocate time
+slots to data items is Mr. Lanning’s statement later in his testimony that Tiedemann “has one or
+more characteristics associated with the data item, which would be the actual identification of the
+cell phone.” Ex. E, Trial Transcript 49:25–50:2 (July 12, 2013 Morning Session). But this
+statement has no evidentiary support from Tiedemann. Neither the portion of Tiedemann quoted
+above nor any other portion of Tiedemann explains the allocation of slots in the paging channel
+based on device identification—which, furthermore, is not a “characteristic associated with the
+data item,” as discussed in detail below—or anything else. Instead, Mr. Lanning appears to have
+improperly incorporated disclosures from other prior art, in particular the IS-95-A standard (see
+12
+
+Case 6:10-cv-00521-LED Document 482 Filed 08/13/13 Page 17 of 22 PageID #: 14687
+
+Trial Exhibit DX-149, relevant portions attached as Exhibit D), into his testimony about
+Tiedemann. Indeed, Mr. Lanning purposefully suggested to the jury that the specific disclosure
+lacking in Tiedemann was explained by his earlier testimony regarding IS-95-A. See Ex. E, Trial
+Transcript 44:18–20 (July 12, 2013 Morning Session) (“And if this looks similar, this is very
+similar to the language that I showed you for the IS-95-A specification.”); id. at 45:7–8 (“So you
+can see -- and that is almost the exact language out of the IS-95-A specification.”).
+But Defendants did not argue that IS-95-A was incorporated by reference in Tiedemann,
+and in fact they assured the Court that “Mr. Lanning will be testifying that the Tiedemann
+reference itself, within the four corners of the document, anticipates the claims of the asserted
+patents . . . [w]ithout having to rely on the incorporated reference.” Id. at 7:3–10. The text
+within the four corners of Tiedemann fails to disclose how time slots are assigned in the paging
+channel, and no disclosure from IS-95-A can fill that gap for purposes of anticipation.2
+Because no portion of Tiedemann or Mr. Lanning’s testimony discloses how the time
+slots are assigned in the paging channel, no reasonable jury could have found that Tiedemann
+allocates slots “based on one or more characteristics associated with the data item.” Therefore,
+no reasonable jury could have found that Tiedemann anticipates claims 2 and 5 of the ’326 patent
+and claims 2 and 5 of the ’211 patent, or that Tiedemann as a single reference renders obvious
+claim 9 of the ’326 patent and claim 11 of the ’819 patent.
+2
+
+Furthermore, Defendants cannot reasonably argue that the jury could have found the asserted
+claims obvious based on the combination of Tiedemann with IS-95-A, as Mr. Lanning at no
+point in his testimony offered any opinion regarding the combination of these two references. As
+explained during a sidebar conference with the Court, the IS-95 standard mentioned in
+Tiedemann and the IS-95-A standard discussed during the trial are different standards, with IS95 coming out a year-and-a-half before Tiedemann was published and IS-95-A coming out a
+year after Tiedemann. See Ex. E, Trial Transcript 8:1–9 (July 12, 2013 Morning Session).
+Therefore, no reasonable jury could have found the asserted claims obvious in light of
+Tiedemann and IS-95-A because there was no evidentiary basis presented for such a
+combination.
+13
+
+Case 6:10-cv-00521-LED Document 482 Filed 08/13/13 Page 18 of 22 PageID #: 14688
+
+C.
+
+The Court Should Grant a New Trial on Invalidity Because the
+Overwhelming Weight of the Evidence Showed That Characteristics of the
+User, Such as User or Device Identification, Cannot Satisfy the Requirement
+of “TDM Techniques” to Use “Characteristics Associated with the Data
+Item.”
+
+If the Court does not grant Wi-LAN’s renewed motion for judgment as a matter of law of
+no invalidity, the Court should grant Wi-LAN a new trial on the issue of invalidity for the
+reasons discussed above. The jury verdict that the asserted claims are invalid as anticipated
+and/or obvious was against the weight of the evidence because (1) Mr. Lanning’s testimony as to
+why or how a person of ordinary skill in the art would have been motivated to combine the prior
+art references in the manner of the claimed invention was insufficient as a matter of law, and (2)
+there was no evidence whatsoever that Tiedemann disclosed “TDM techniques”—in particular,
+allocation of time slots “based on one or more characteristics associated with the data item.” In
+addition, the Court should grant Wi-LAN a new trial on invalidity because the overwhelming
+weight of the evidence showed that characteristics of the user, such as the user or device
+identification, cannot satisfy the requirement that “TDM techniques” allocate time slots “based
+on one or more characteristics associated with the data.”
+Besides Tiedemann, Mr. Lanning testified that two other prior art references disclosed
+“TDM techniques”: the IS-95-A standard and Gitlin. Mr. Lanning’s testimony for the “TDM
+techniques” element in the IS-95-A standard and Gitlin relied on characteristics of the user,
+rather than “characteristics associated with the data item.” For example, for IS-95-A, Mr.
+Lanning testified that “the one or more characteristics of the data item is the phone’s identity”
+which is based on the “equipment serial number.” Ex. E, Trial Transcript 37:15–16, 38:9–14
+(July 12, 2013 Morning Session). With Gitlin, Mr. Lanning testified that “the characteristics of
+data have to do with whether you have high-speed users, medium-speed users, or low-speed
+
+14
+
+Case 6:10-cv-00521-LED Document 482 Filed 08/13/13 Page 19 of 22 PageID #: 14689
+
+users, and also the user ID.” Id. at 67:13–15. However, this information all relates to the user,
+not the data being transmitted.
+An inventor on the asserted patents, Mr. Paul Struhsaker, provided uncontradicted
+testimony that the distinction between allocating time slots based on the data rather than the user
+was a key part of the claimed invention. Mr. Struhsaker explained that “the idea was we would
+look at the data and what was going on in the system, and we would schedule those based on
+what was happening.” Trial Transcript 125:6–8 (July 8, 2013 Morning Session) (cited portions
+attached as Exhibit H). Indeed, Mr. Struhsaker testified in detail that a system that allocated time
+slots based on something as simple as user identification or other characteristics dependent on
+the user, rather than based on characteristics associated with the data, could not offer the benefits
+and flexibility of the invention, because consideration of different types of data and different
+requirements of the data would be lost. See id. at 126:14–24; id. at 130:1–133:5. He explained:
+14
+15
+16
+17
+18
+19
+20
+21
+22
+
+The idea behind this whole thing was a degree
+of flexibility, because there were many types of data.
+And in some cases, our customers might be doing two
+phone calls, sending a fax, because they had a third
+line, and running two or three computers. And they may
+add another computer.
+So it really was never based on what the
+customer actually had as a quality of service or
+business service level. That's something different.
+
+Id. at 126:14–22. When asked specifically why his invention “did . . . not base [allocation of
+bandwidth] on the characteristics of the user,” Mr. Struhsaker explained:
+17
+18
+19
+20
+21
+22
+23
+24
+
+The issue ending up being is that you can't
+just say what the user is doing. The user may be doing
+many things. So it's the many things; it's the many
+activities that are important. It's not that it's Joe.
+Joe just doesn't do one thing. Joe may be doing
+multiple things, and Joe may be doing nothing.
+It's really important to be able to look at
+just what the services Joe needs and divide that up.
+
+15
+
+Case 6:10-cv-00521-LED Document 482 Filed 08/13/13 Page 20 of 22 PageID #: 14690
+
+Id. at 132:4–5, 17–24.
+Dr. Wells explained that prior art such as IS-95-A and Gitlin failed to allocate time slots
+based on “characteristics associated with the data item.” For example, Dr. Wells explained that
+IS-95-A “doesn’t look at the data that it’s about to send and make -- and say this is a particular
+type of data. It actually just looks at which unit this mobile is actually going to be sent to, and it
+sends it to that.” Trial Transcript 13:1–5 (July 12, 2013 Afternoon Session) (cited portions
+attached as Exhibit I). Dr. Wells explained that the “mobile identification number,” or “MIN,”
+used by IS-95-A to assign slots in the paging channel is “associated with the user. . . . It has
+nothing to do with the data that’s being scheduled.” Id. at 13:14–17. Likewise, for Gitlin, Dr.
+Wells testified that the time slots are assigned based on the user’s level of service—i.e., a highspeed user, a medium-speed user, or a low-speed user—rather than based on a characteristic of a
+particular data item. See id. at 29:6–30:5. In Gitlin, “it doesn’t matter, for example, whether this
+is a piece of voice traffic, whether it’s a piece of text message, whether it’s a website. That’s not
+taken into account. It’s the characteristics of the user within Gitlin.” Id. at 29:21–25. Thus,
+Gitlin’s disclosure, like that of IS-95-A, is directly contrary to the Court’s construction of “TDM
+techniques” and also inventor Mr. Struhsaker’s testimony.
+The weight of the evidence presented at trial, therefore, was that characteristics of the
+user cannot satisfy the Court’s requirement of “characteristics associated with the data item.”
+Hence, Defendants failed to satisfy their burden to show invalidity by clear and convincing
+evidence. The weight of the evidence is against a finding of invalidity, and a new trial on the
+issue of invalidity is thus warranted.
+IV.
+
+CONCLUSION
+For the reasons set forth above, Wi-LAN respectfully requests that this Court set aside
+
+the jury verdict that the asserted claims of the ’326, ’819, and ’211 patents are invalid and enter
+16
+
+Case 6:10-cv-00521-LED Document 482 Filed 08/13/13 Page 21 of 22 PageID #: 14691
+
+judgment as a matter of law that these asserted claims are not invalid. Alternatively, Wi-LAN
+requests that this Court grant Wi-LAN’s motion for a new trial on the issue of invalidity.
+
+Dated: August 13, 2013
+
+Respectfully submitted,
+By: /s/David B. Weaver
+David B. Weaver (TX Bar 00798576)
+Lead Attorney
+Avelyn M. Ross (TX Bar 24027817)
+Ajeet P. Pai (TX Bar 24060376)
+Syed K. Fareed (TX Bar 24065216)
+Jeffrey T. Han (TX Bar 24069870)
+Seth A. Lindner (TX Bar 24078862)
+VINSON & ELKINS LLP
+2801 Via Fortuna, Suite 100
+Austin, TX 78746
+Tel: (512) 542-8400
+Fax: (512) 236-3476
+dweaver@velaw.com
+aross@velaw.com
+apai@velaw.com
+sfareed@velaw.com
+jhan@velaw.com
+slindner@velaw.com
+Steve R. Borgman (TX Bar 02670300)
+Gwendolyn Johnson Samora
+(TX Bar 00784899)
+VINSON & ELKINS LLP
+1001 Fannin Street, Suite 2500
+Houston, TX 77002-6760
+Tel: (713) 758-2222
+Fax: (713) 758-2346
+sborgman@velaw.com
+gsamora@velaw.com
+Local Counsel
+Johnny Ward (TX Bar No. 00794818)
+Wesley Hill (TX Bar No. 24032294)
+Claire Abernathy Henry
+(TX Bar No. 24053063)
+Ward & Smith Law Firm
+17
+
+Case 6:10-cv-00521-LED Document 482 Filed 08/13/13 Page 22 of 22 PageID #: 14692
+
+P.O. Box 1231
+1127 Judson Rd., Ste. 220
+Longview, TX 75606-1231
+Tel: (903) 757-6400
+Fax: (903) 757-2323
+jw@jwfirm.com
+wh@jwfirm.com
+claire@wsfirmcom
+Attorneys for Plaintiff Wi-LAN Inc.
+
+CERTIFICATE OF SERVICE
+The undersigned certifies that the foregoing document was filed electronically in
+compliance with Local Rule CV-5(a). As such, this document was served on all counsel who are
+deemed to have consented to electronic service on this the 13th day of August, 2013.
+/s/David B. Weaver
+David B. Weaver
+
+18
+
+

@@ -1,0 +1,604 @@
+Case 2:11-cv-00512-RAJ-TEM Document 982 Filed 09/04/13 Page 1 of 19 PageID# 23944
+
+UNITED STATES DISTRICT COURT
+EASTERN DISTRICT OF VIRGINIA
+NORFOLK DIVISION
+I/P ENGINE, INC.
+
+Plaintiff,
+
+v.
+AOL, INC., et al.,
+
+Civil Action No. 2:11-cv-512
+Defendants.
+
+OPPOSITION TO PLAINTIFF I/P ENGINE, INC.’S MOTION FOR DEFENDANTS TO
+SHOW CAUSE UNDER RULE 37 FOR NONCOMPLIANCE WITH AUGUST 13, 2013
+ORDER
+
+Case 2:11-cv-00512-RAJ-TEM Document 982 Filed 09/04/13 Page 2 of 19 PageID# 23945
+
+Introduction
+This is a motion that should never have been brought. Google has fully complied with
+the Court’s Order by producing the source code for the redesigned system and the relevant
+technical documents. In addition, even though Google did not agree that the discovery I/P
+Engine demanded was called for by the Court’s August 14 Order, before I/P Engine filed its
+motion, Google agreed to I/P Engine’s demand for the production of email to avoid burdening
+the Court with further motion practice. I/P Engine complains that Google has not produced
+custodial emails, but in the very correspondence that I/P Engine attaches to its motion, Google
+clearly and explicitly agrees to produce them: “[I]n order to work with Plaintiff in good faith to
+avoid unnecessary disputes, Google will do a targeted production of email.” (Dkt. 979-1
+(emphasis added).) I/P Engine omits this commitment in its brief, choosing instead to quote the
+next two sentences in the email to create the false appearance that Google equivocated on its
+commitment. Despite Google’s commitment and without any attempt by I/P Engine to further
+meet and confer about timing, custodians, search terms or anything else, I/P Engine filed this
+motion the next day.
+At bottom, this motion is a misguided attempt by I/P Engine to win procedurally what it
+cannot win on the merits. Google has fully cooperated with I/P Engine by offering discovery
+into the redesigned system as far back as April of this year, producing source code and technical
+documents, and agreeing to produce email. I/P Engine’s sole complaint is that Google did not
+review and cull for production millions of custodial emails in ten days. Google disagrees that I/P
+Engine’s expectation was contemplated by the Court’s August 14, 2013 Order, but even
+assuming I/P Engine had a legitimate grievance, the appropriate course would have been to work
+with Defendants to resolve the issue through, for example, an agreement to seek an extension of
+
+1
+
+Case 2:11-cv-00512-RAJ-TEM Document 982 Filed 09/04/13 Page 3 of 19 PageID# 23946
+
+the briefing schedule, not to rush to Court and seek a default judgment on the issue of an ongoing
+royalty and other extraordinary relief.
+This is not the first time I/P Engine has needlessly raced to Court to file unnecessary
+motions. I/P Engine has filed no fewer than three previous motions for discovery sanctions.
+(Dkt. 201; Dkt. 278; Dkt. 283.) In each instance, the Court denied I/P Engine’s requests for
+sanctions.1 (Dkt. 275; Dkt. 697.) In addition, I/P Engine previously moved to compel faster
+production of custodial documents. (Dkt. 117.) In the subsequent hearing on the motion, the
+Court explicitly found that Google’s document production efforts were reasonable (Dkt. 165 at
+51-52), and simply ordered Google to complete its production by the time to which Google had
+already committed. (Dkt. 156 at 2-3.) Like I/P Engine’s previous failed attempts to seek
+sanctions or otherwise hasten discovery Google already agreed to provide, this motion, too,
+should be denied.
+Background
+A.
+
+I/P Engine Moves For an Ongoing Royalty
+
+I/P Engine first moved for an ongoing royalty on December 18, 2012. (Dkt. 823.) In
+response, Defendants moved to postpone briefing until after the Court had ruled on motions for a
+new trial and for judgment as a matter of law (Dkt. 847), which the Court granted. (Dkt. 860.)
+On April 3, 2013, following its ruling on post-trial motions, the Court directed Defendants to
+respond to I/P Engine’s motion. (Dkt. 909.) Google then informed I/P Engine that it had
+redesigned the accused system to avoid infringement and offered discovery on the newly
+designed system. (Dkt. 942-29.) I/P Engine responded that it did not believe discovery on the
+redesigned system was relevant to its request for ongoing royalties, and therefore declined the
+1
+
+In reference to one motion, the Court merely ordered Google to produce certain
+revenue that Google had actually already provided. (Dkt. 697.)
+
+2
+
+Case 2:11-cv-00512-RAJ-TEM Document 982 Filed 09/04/13 Page 4 of 19 PageID# 23947
+
+offer.2 (Id.) Google has thus voluntarily and openly offered discovery into the redesigned
+system for the past five months.
+On August 14, 2013, the Court found that limited discovery aimed at determining
+whether Google’s new system was more than colorably different was in order. (Dkt. 963 at 8.)
+The Court therefore sua sponte set a focused discovery and briefing schedule. In terms of
+discovery, the Court ordered that by Sunday, August 25, “[t]he parties must produce any
+documents relevant for determining whether New AdWords is no more than a colorable
+variation of the adjudicated product.” (Id. (emphasis added).) The Court additionally allowed
+no more than three (3) depositions per side, including expert witnesses. (Id.)
+B.
+
+Google Produces Documents and Source Code Related to the Design Around
+
+Pursuant to the Court’s Order, and as it offered to do months ago, Google made the
+relevant source code for the new system available for inspection on Friday, August 23. (Sistos
+Dec. ¶ 4.) This production included approximately 968 source code files and almost two million
+lines of code. (Id..) Google also timely produced the relevant technical documents, such as
+design documents, related to the new system. (Id. ¶¶ 2-3.) The source code is the best available
+documentation for showing the actual changes to the system, how the new system no longer
+infringes, and how the system is more than a colorable variation of the adjudicated product.
+On August 26, 2013, I/P Engine requested a meet and confer to discuss inspection of
+Google’s source code. (Sistos Dec., Ex. A (8/26 email from C. Monterio to M. Kammerud).)
+Google inquired about specific aspects of that inspection that I/P Engine wished to discuss, and
+I/P Engine responded that it intended to confer on the logistics of the inspection, Google’s
+document production, and the identity of the person most knowledgeable about the redesigned
+2
+
+I/P Engine had refused to make its expert on the appropriate ongoing royalty, Dr.
+Becker, available for deposition, which the Court’s August 14 Order now requires. (Dkt. 923.)
+
+3
+
+Case 2:11-cv-00512-RAJ-TEM Document 982 Filed 09/04/13 Page 5 of 19 PageID# 23948
+
+system. (Sistos Dec., Ex. A (8/26 email from C. Monterio to D. Perlson).) This was also the
+first time I/P Engine suggested that it believed custodial emails were relevant to its request for an
+ongoing royalty. (Sistos Dec. ¶ 5.)
+The parties discussed the issue of email production for the first time telephonically on
+August 27. (Sistos Dec. ¶ 6.) Google informed I/P Engine that it had produced the relevant
+documents pursuant to the Court’s Order. (Id.; Dkt. 979-1.) I/P Engine insisted that Google also
+produce emails. (Sistos Dec. ¶ 6.) Google did not agree that emails were relevant to the issue of
+whether the redesigned system is more than colorably different from the previous system, an
+issue for which the source code itself is dispositive. (Id.) Nevertheless, in the interest of
+compromise and to avoid motion practice, Google informed I/P Engine the next day that it would
+produce custodial emails. (Id.) I/P Engine did not raise any further objection or initiate any
+further communications with Google. (Id..) Rather, I/P Engine brought this motion the next day.
+C.
+
+Google’s Reasonable Efforts to Produce Emails Pursuant to I/P Engine’s
+Request
+
+Google has committed to diligently producing custodial emails as it told I/P Engine it
+would despite the fact that Google does not believe these emails are relevant to determining the
+differences between the redesigned and old version of the product or are called for by the Court’s
+August 14 Order. To that end, it has assigned fifteen attorneys to the task of reviewing custodial
+emails. (Zmrhal Dec. ¶ 7.) While I/P Engine has refused to engage with Google on the
+custodians whose documents will be searched or the appropriate keywords to perform that
+search, Google expects to complete production of emails from the relevant custodians by
+September 13. (Id. ¶ 10.) As a result, Google is likely to have completed the production it had
+already agreed to well before the Court even rules on this motion.
+
+4
+
+Case 2:11-cv-00512-RAJ-TEM Document 982 Filed 09/04/13 Page 6 of 19 PageID# 23949
+
+Argument
+I.
+
+GOOGLE HAS COMPLIED WITH THE COURT’S ORDER
+Google has fully complied with the Court’s Order to provide discovery on the redesigned
+
+AdWords system. I/P Engine’s arguments to the contrary rest on a misreading of the Court’s
+Order, are inconsistent, and ignore the history of this litigation. The Court Order provides for
+focused and streamlined discovery, not limitless document production. Consistent with that
+Order, Google produced the source code for the accused system and the relevant technical
+documents. This is consistent with the nature of the focused discovery and language adopted by
+the Court, which described the documents to be produced as any documents relevant for
+determining whether New AdWords is no more than a colorable variation. (Dkt. 963 at 8.)
+Google has therefore fully complied with the Court Order.
+I/P Engine nevertheless contends that Google was required to produce every document,
+file, or email that relates in any way to the new system. That is not a reasonable reading of the
+Order in light of the history of this litigation. There are many Google employees that work on
+the AdWords system. Even the subset of them that Google has identified as custodians for the
+email review and production that I/P Engine has requested have approximately two million email
+files acquired or generated since the date of trial. (Zmrhal Dec. ¶ 3.) The process of reviewing
+and producing such a large volume of documents in a matter of a few days is not possible, and
+I/P Engine’s claim that the Court ordered such a process is not reasonable.
+The history of discovery in this litigation fully supports Google’s interpretation of the
+Court’s Order. During fact discovery in this case, on April 11, 2012, I/P Engine similarly moved
+to compel Google to produce custodial documents, arguing that Google had artificially delayed
+this review and production. (Dkt. 117.) In response, Google explained that it had begun
+collecting, processing, and producing these documents weeks before I/P Engine filed its motion
+5
+
+Case 2:11-cv-00512-RAJ-TEM Document 982 Filed 09/04/13 Page 7 of 19 PageID# 23950
+
+to compel. (Dkt. 146.) Google then employed fifty-five attorneys to review the millions of
+documents potentially responsive to I/P Engine’s document requests and keyword search terms
+and that, even given these extensive resources, the review would take until May 30, 2012, to
+complete.3 (Dkt. 145 at 3.) During the subsequent hearing on I/P Engine’s motion, the Court
+agreed that this was reasonable in light of the volume of documents at issue:
+I do find that production efforts of Google with regard to these documents is
+appropriate as far as the Court is concerned. It looks to me as though they have
+devoted sufficient resources to the effort. They have a very carefully worked out
+plan. They have ranked the custodians, they have produced technical documents,
+licensing agreements, and so forth. So it’s clear that they are attempting to
+complete their obligations without any intention of prejudicing the plaintiff.
+(Dkt. 165 at 51-52.) The Court therefore ordered Google to complete its production by May 30,
+the date to which Google had previously committed. (Dkt. 156.) In other words, the Court
+carefully determined that it would reasonably take weeks or months to review and produce
+custodial documents related to the accused systems. Yet I/P Engine now contends that the Court
+contemplated that Google would similarly collect, process, review, and produce custodial emails
+in only ten days on pain of contempt. To the contrary, the only reasonable interpretation is that
+the Court contemplated that Google would identify and produce the relevant technical
+documents and source code concerning the design-around, which is precisely what Google has
+completed.
+I/P Engine’s own inconsistent arguments also demonstrate Google’s compliance with the
+Court’s Order. I/P Engine argues, on the one hand, that it has received “virtually no meaningful
+discovery” on the redesigned system. (Motion at 2.) Then, on the other hand, it claims it has
+3
+
+Google had also agreed, as requested by I/P Engine, to a much earlier production of
+technical documents relevant to the accused systems that it could readily identify from I/P
+Engine’s infringement contentions. (Dkt. 145 at 4.) This confirms I/P Engine’s understanding
+that the best way to understand how the accused products works is not by sifting through
+hundreds of thousands of employee emails.
+
+6
+
+Case 2:11-cv-00512-RAJ-TEM Document 982 Filed 09/04/13 Page 8 of 19 PageID# 23951
+
+received “boundless source code.” (Motion at 1.) The source code is, however, the most
+“meaningful discovery” on how the redesigned system operates. Indeed, it is direct and
+dispositive evidence of the operation of the redesigned system. As Plaintiff’s infringement
+expert Dr. Frieder stated at trial, source code is “as detailed as you get” when it comes to the
+operation of the accused system. (Trial Tr. 592:23-593:3.) Yet, I/P Engine suggests, without
+any explanation, that emails are somehow the “meaningful discovery” necessary to determine
+how the accused system operates. But no matter what any email says, the system works as set
+forth in the source code. That code is the best evidence of what changes were made and how the
+system now works. The absurdity of claiming that the source code and technical documentation
+are not “meaningful discovery” demonstrates that I/P Engine is not reasonably interpreting the
+Court’s Order.
+II.
+
+I/P ENGINE HAS NOT BEEN PREJUDICED BY GOOGLE’S PRODUCTION
+Because Google has fully complied with the Court’s Order by producing the source code
+
+and relevant technical documents, I/P Engine is fully capable of determining what changes have
+been made to the accused system. There is therefore no prejudice. Further, I/P Engine’s
+complaint about email production is entirely moot because Google agreed to produce custodial
+emails as soon as I/P Engine requested them.4 Google has devoted fifteen attorneys working full
+time to processing, reviewing, and producing these emails. (Zmrhal Dec. ¶ 7.)
+I/P Engine’s only complaint is that Google did not begin this process until I/P Engine
+requested custodial emails and, as a result, the production will be delayed a few days. It claims
+
+4
+
+Contrary to I/P Engine’s assertion, Google does not attempt to “relitigate” the Court’s
+order. Indeed, Google has been openly offering I/P Engine discovery into the redesigned
+systems since April of this year and agreed to provide I/P Engine with emails from relevant
+custodians. Instead, it is I/P Engine that is attempting to manufacture a discovery dispute to gain
+strategic advantage where Google had already agreed to produce email as I/P Engine requests.
+
+7
+
+Case 2:11-cv-00512-RAJ-TEM Document 982 Filed 09/04/13 Page 9 of 19 PageID# 23952
+
+this delay is prejudicial because the current schedule for expert reports and briefing on I/P
+Engine’s ongoing royalty request is too compressed. (Motion at 5 (describing the schedule as
+“truncated” and its review of the source code as “unduly burdensome).) Although Google has
+agreed to produce email to avoid further dispute, this minor delay is not prejudicial because
+Google’s initial production of source code and technical documents met its obligations under the
+Court Order. Further, I/P Engine has not approached Defendants about requesting any extension
+to this schedule even though Defendants are willing to stipulate to one. Nor is there any
+particular reason why briefing on I/P Engine’s request for an ongoing royalty must be performed
+with special dispatch. Indeed, the reason why I/P Engine has sought an ongoing royalty and not
+a permanent injunction against the use of its patents is precisely because that alleged use is not
+causing irreparable harm. The appropriate remedy for the allegedly large burden that I/P Engine
+claims to face in reviewing the source code is simply to seek an extension of time, not sanctions
+or a default judgment.
+Even setting aside the possibility of an extension, I/P Engine’s prejudice claims are not
+supported. I/P Engine goes to great lengths to argue that emails are necessary for it to determine
+whether the redesigned AdWords system infringes and that any delay in production is
+prejudicial. According to I/P Engine, emails are necessary to provide a “roadmap” to understand
+the source code, and so that it can learn who worked on the redesign, what functionality was
+removed, and how Google implemented these changes in the source code. (Motion at 5.) None
+of these arguments holds water.
+I/P Engine fails to explain how sifting through emails is likely to provide it with a
+“roadmap” of Google’s design around. Indeed, that is far from the most efficient way of
+determining the changes that were made to the accused system. Instead, it is far easier to simply
+
+8
+
+Case 2:11-cv-00512-RAJ-TEM Document 982 Filed 09/04/13 Page 10 of 19 PageID# 23953
+
+generate a “diff”—the engineering equivalent of a legal redline—that compares the previous
+version of a source code file to the present version and indicates any changes that have been
+made. (Sistos Dec. ¶ 7.) During the parties’ meet and confer, Google explained to I/P Engine
+that it was putting old and new versions of the relevant source code files on the source code
+review computer and that the easiest way to determine the changes was to create such “diffs.”
+(Id.) Google also offered to place the appropriate software on the source-code review computer
+and, upon I/P Engine’s request, provide Google engineer Bartholomew Furrow for deposition
+about the changes. (Id.)
+I/P Engine also argues that email is necessary for it to learn the identity of the Google
+engineers that worked on changes to the accused system, “what functionalities were removed or
+modified and what they were replaced with,” and how Google “implemented each alleged
+change in its code.” (Motion at 5.) Initially, Google previously filed a declaration with the
+Court that identifies “what functionalities were removed” in connection with its previous
+opposition to I/P Engine’s ongoing royalty request. (Dkt. 940.) Further, as described above, the
+simplest way to determine what was removed from or modified in the accused systems and how
+those changes were implemented in the code is to examine a redline comparing the previous
+version of the code to the current version. (Sistos Dec. ¶ 7.)
+Indeed, all the evidence suggests that I/P Engine’s claims that reviewing the source code
+is unduly burdensome are pretextual. I/P Engine sent two attorneys (and not its technical expert)
+to review Google’s source code on August 28. (Eff Dec. ¶ 3.) Those attorneys devoted only
+four hours to that inspection. (Id.) One of I/P Engine’s attorneys inspected the source code
+again on August 30, but devoted only four hours to the task. (Id. ¶ 4.) This lack of diligence
+belies I/P Engine’s claim of undue burden.
+
+9
+
+Case 2:11-cv-00512-RAJ-TEM Document 982 Filed 09/04/13 Page 11 of 19 PageID# 23954
+
+III.
+
+I/P ENGINE’S REQUESTED SANCTIONS ARE UNSUPPORTED AND
+UNREASONABLE
+Even assuming that Google has inadvertently misinterpreted the Court’s Order, the
+
+extreme remedies that I/P Engine seeks are disproportionate and unwarranted. For what it
+contends is at most a minor delay in the production of marginally relevant emails, I/P Engine
+would have the Court effectively impose a default judgment in its favor. This is despite the fact
+that I/P Engine did not even raise the issue of email production until a single meet and confer
+immediately before filing this motion and that Google, in response, agreed to produce the
+requested emails. Any prejudice (assuming there were any) could be cured by a short extension
+of time for I/P Engine to prepare its expert report, but I/P Engine asks the Court for a dispositive
+ruling on its request for an ongoing royalty, potentially worth hundreds of millions of dollars.5
+That request is unreasonable on its face.
+Rule 37(b)(2)(A) allows a court to issue “further just orders” when a party fails to obey
+an order to provide or permit discovery. In deciding the appropriate order, the court must
+consider four factors:
+(1) whether the non-complying party acted in bad faith; (2) the amount of
+prejudice that noncompliance caused the adversary; (3) the need for deterrence of
+the particular sort of non-compliance; and (4) whether less drastic sanctions
+would have been effective.
+Anderson v. Found. for Advancement, Educ. & Employment of Am. Indians, 155 F.3d 500, 504
+(4th Cir. 1998). I/P Engine does not even attempt to show that these factors weigh in favor of a
+default judgment, much less any of the other remedies it requests.
+
+5
+
+I/P Engine has requested a 7% ongoing royalty. (Dkt. 823.) This is twice the 3.5%
+royalty rate found by the jury and, using the manner I/P engine calculated supplemental
+damages, would be more than $20 million per month. (Dkt. 968 Ex. A.)
+
+10
+
+Case 2:11-cv-00512-RAJ-TEM Document 982 Filed 09/04/13 Page 12 of 19 PageID# 23955
+
+A.
+
+Google Has Not Acted in Bad Faith
+
+Google’s conduct does not even approach bad faith. As soon as it became relevant,
+Google proactively informed I/P Engine of its design-around and changes to AdWords, and
+offered I/P Engine discovery, an offer I/P Engine declined. In other words, from the start Google
+sought to make the changes in AdWords transparent to I/P Engine. I/P Engine refused this
+discovery, instead arguing to the Court that discovery into changes to AdWords would be
+irrelevant to an ongoing royalty determination. (Dkt. 942-29.)
+After the Court issued its scheduling Order, Google produced the source code and
+relevant technical documentation. Then, immediately after I/P Engine raised the issue of email
+production that Google did not agree was contemplated by the Court’s Order, Google agreed to
+I/P Engine’s demand, even though this will require culling through millions of documents.
+Google invited I/P Engine to meet and confer on the appropriate custodians and search terms to
+use in identifying responsive documents, but I/P Engine would not engage, responding rather
+that it interpreted the Order to mean “all” regardless of the burden or cost. (Sistos Dec. ¶ 6.)
+And Google has tasked fifteen attorneys full time with the task of reviewing and producing these
+emails. (Zmrhal Dec. ¶ 7.) Far from even suggesting bad faith, the undisputed evidence
+demonstrates Google’s good faith.
+Further, as discussed above and as the Court implicitly recognized in the Court’s ruling
+on I/P Engine’s prior motion to compel custodial documents, Google would not have been able
+to comply with the Court’s Order if the Court’s Order actually required Google to produce
+custodial emails by August 25, 2013. (See Zmrhal Dec. ¶¶ 2-10.) Again, this would have
+required the review of approximately two million files in only ten days. (Zmrhal Dec. ¶ 3) This
+is a further reason there should be no sanction. See Wright & Miller, Federal Practice and
+Procedure § 2283 (3d ed.) (“]B]efore imposing a serious merits sanction the court should
+11
+
+Case 2:11-cv-00512-RAJ-TEM Document 982 Filed 09/04/13 Page 13 of 19 PageID# 23956
+
+determine whether the party guilty of a failure to provide discovery was unable to comply with
+the discovery.”).
+B.
+
+I/P Engine Has Suffered No Prejudice and Defendants Are Agreeable to an
+Extension of Time
+
+As fully described above, I/P Engine has suffered no prejudice. I/P Engine will shortly
+receive Google’s custodial emails. As I/P Engine would have learned had it simply discussed the
+issue, Defendants are willing to stipulate to a reasonable extension of time for I/P Engine to
+serve its expert report. I/P Engine has not argued or offered any explanation why it would be
+prejudiced by such an extension. There is therefore no evidence of prejudice, and if there were,
+such prejudice is readily curable.
+C.
+
+If Any “Deterrence” Is Warranted, It Would Be to Deter I/P Engine’s
+Tactics
+
+As described above, Google promptly produced the relevant technical documentation and
+source code related to the redesign of the accused system. When I/P Engine claimed that it was,
+in addition, entitled to custodial emails, Google promptly met and conferred and agreed to I/P
+Engine’s demands. This is exactly the type of cooperation on discovery issues that the Rules of
+Civil Procedure and Local Rules of this Court contemplate and encourage. However, when
+asked to work with Google to meaningfully reduce the costs and burden of such an effort, I/P
+Engine, once again, refused to engage. The Court should, if anything, shift the costs of the email
+search and production to I/P Engine.
+I/P Engine claims that sanctions are necessary because Google has a “modus operandi”
+of delaying production of custodial emails. (Motion at 5.) To support that claim, it cites its prior
+motion to compel custodial documents during fact discovery. But that motion demonstrates the
+exact opposite. As described above, the Court explicitly found at the hearing on that motion that
+Google’s document production efforts were reasonable, and the Court simply ordered Google to
+12
+
+Case 2:11-cv-00512-RAJ-TEM Document 982 Filed 09/04/13 Page 14 of 19 PageID# 23957
+
+complete its production by the date to which Google had already committed. If anything, this
+history instead confirms I/P Engine’s modus operandi of needlessly burdening the Court with
+discovery disputes after the parties had already agreed to a reasonable protocol for production.
+D.
+
+There Is No Basis to Find Google in Contempt
+
+I/P Engine argues throughout its motion that Google is in “willful contempt” of this
+Court’s Order and should be sanctioned as a result. (Motion at 6 & 7.) No such basis for a
+contempt finding exists. I/P Engine does not even recite the standard for proving contempt,
+much less attempt to meet its burden of proving contempt by clear and convincing evidence. See
+Ashcraft v. Conoco, Inc., 218 F.3d 288, 301 (4th Cir. 2000) (movant must establish by clear and
+convincing evidence: (1) the existence of a valid order that the alleged contemnor had actual or
+constructive knowledge of; (2) the order was in the movant’s favor; (3) a knowing violation; and
+(4) resulting harm). For the reasons stated above, there has been no knowing violation of the
+Court’s Order, and I/P Engine has suffered no harm.
+Nor are any of the remedies I/P Engine requests appropriate for civil contempt. It is wellestablished that “civil contempt sanctions are intended ‘to coerce the contemnor into compliance
+with court orders or to compensate the complainant for losses sustained.’” Bradley v. Am.
+Household Inc., 378 F.3d 373, 378 (4th Cir. 2004). Because Google agreed, prior to I/P Engine
+bringing its motion, that it would produce custodial documents, coercion is not necessary.
+Further, no compensation would be equitable because I/P Engine chose to bear the costs of
+bringing the motion despite the fact that Google had already agreed to comply with I/P
+Engine’s demand to produce custodial emails.
+E.
+
+I/P Engine Seeks Extremely Drastic Sanctions
+
+The sanctions I/P Engine has asked for are extreme, especially when considered in light
+of Google’s good-faith efforts and agreement to produce email even before I/P Engine filed this
+13
+
+Case 2:11-cv-00512-RAJ-TEM Document 982 Filed 09/04/13 Page 15 of 19 PageID# 23958
+
+motion. The fact that Google immediately agreed to produce email as soon as I/P Engine
+requested it demonstrates that no sanction is necessary.
+1. A Default on the Issue of an Ongoing Royalty Is Not Appropriate
+I/P Engine’s preferred remedy is a finding that the redesigned system is “not colorably
+different than the adjudged infringing system.” Thus, I/P Engine attempts to win this entire
+dispute and receive an ongoing royalty to which it is not entitled on procedural grounds. Given
+the stage of the proceedings, this is essentially a request for a default judgment on I/P Engine’s
+claim for ongoing royalties.
+Such a harsh sanction would be contrary to law here for several reasons. First, a default
+remedy is limited to cases where the Court provided a “warning [to] a defendant about the
+possibility of default before entering such a harsh sanction.” Hathcock v. Navistar Int'l Transp.
+Corp., 53 F.3d 36, 40 (4th Cir. 1995). Here, the Court has not previously warned that Google
+would be required to produce potentially hundreds of thousands of custodial emails in only ten
+days or else suffer a finding that its new system is not more than colorably different than its old
+system. This is especially true in light of the focused discovery ordered by the Court, the fact
+that Google proactively offered discovery five months ago that I/P Engine refused, and Google’s
+production of the technical documents, source code and its offer of a knowledgeable witness on
+the changes. Where the alleged violation of a court order is (as in this case) the violation of a
+general scheduling order, “the lack of any advance notice is especially problematic.” Id.
+Second, a default as a sanction is reserved for the “‘flagrant case’ in which it is
+demonstrated that the failure to produce ‘materially affect(s) the substantial rights of the adverse
+party’ and is ‘prejudicial to the presentation of his case.’” Wilson v. Volkswagen of Am., 561
+F.2d 494, 504 (4th Cir. 1977). Here, an extension cures any alleged prejudice to I/P Engine.
+There is therefore no effect on I/P Engine’s ability to support its claim to an ongoing royalty.
+14
+
+Case 2:11-cv-00512-RAJ-TEM Document 982 Filed 09/04/13 Page 16 of 19 PageID# 23959
+
+Third, the Fourth Circuit has cautioned that the Court must consider and impose less
+drastic sanctions first before ordering a default. In Hathcock, for example, the court held that it
+was an abuse of discretion to order a default sanction before considering and imposing a lesser
+sanction, such as costs and attorneys fees, “as a preliminary deterrent” to ensure compliance. 53
+F.3d at 41.
+Fourth, no sanction is appropriate where failure to comply is “due to inability, and not to
+willfulness, bad faith, or any fault of” the non-movant. Wilson, 561 F.2d at 504. As described
+above, it would not have been reasonably possible for Google to review and produce in only ten
+days the hundreds of thousands (if not millions) of emails and other custodial documents that I/P
+Engine now claims it is entitled to.
+2. I/P Engine’s Alternative Remedies Are Not Appropriate
+I/P Engine’s alternative requests, while less extreme than a default judgment, are also far
+too drastic. I/P Engine asks that the Court impose a laundry list of sanctions, including that
+Google will produce emails within three days, that I/P Engine shall receive an additional ten days
+to meet its deadlines related to its ongoing royalty request, that Google produce an additional
+witness to testify at deposition about the location and existence of documents on three-days’
+notice, that I/P Engine receive an additional seven hours of deposition time, that I/P Engine be
+relieved from complying with the the bulk of the Protective Order’s provisions for source-code
+review, and that it receive its attorneys fees and costs. (Motion at 7.) I/P Engine does not even
+attempt to explain how any of this would remedy a short delay in receiving custodial emails. For
+example, it is unclear how I/P Engine being granted an additional seven hours to depose the
+original three Google witnesses serves as an appropriate remedy for Google’s alleged delay in
+producing custodial emails. (See id.) Further, I/P Engine has not shown that it is entitled to any
+
+15
+
+Case 2:11-cv-00512-RAJ-TEM Document 982 Filed 09/04/13 Page 17 of 19 PageID# 23960
+
+sanction under the four-factor test, and it is clear that a simple request for a custodial production
+was effective to achieve production of emails, such that no sanction is needed.
+Fees and costs should also be denied because Google’s failure, if any, was “substantially
+justified” and “other circumstances make an award of expenses unjust,” namely that I/P Engine’s
+motion was unnecessary given Google’s previous agreement to produce the custodial emails.
+See Fed. R. Civ. P. 37(b)(2)(C). If fees are awarded, they should be awarded to Defendants for
+having to respond to this unnecessary motion.
+Conclusion
+Defendants respectfully request that the Court deny I/P Engine’s unnecessary motion.
+DATED: September 4, 2013
+
+/s/ Stephen E. Noona
+Stephen E. Noona
+Virginia State Bar No. 25367
+KAUFMAN & CANOLES, P.C.
+150 West Main Street, Suite 2100
+Norfolk, VA 23510
+Telephone: (757) 624-3000
+Facsimile: (757) 624-3169
+senoona@kaufcan.com
+David Bilsker
+David A. Perlson
+QUINN EMANUEL URQUHART &
+SULLIVAN, LLP
+50 California Street, 22nd Floor
+San Francisco, California 94111
+Telephone: (415) 875-6600
+Facsimile: (415) 875-6700
+davidbilsker@quinnemanuel.com
+davidperlson@quinnemanuel.com
+Counsel for Google Inc., Target Corporation,
+IAC Search & Media, Inc., and Gannett Co., Inc.
+
+/s/ Stephen E. Noona
+Stephen E. Noona
+Virginia State Bar No. 25367
+16
+
+Case 2:11-cv-00512-RAJ-TEM Document 982 Filed 09/04/13 Page 18 of 19 PageID# 23961
+
+KAUFMAN & CANOLES, P.C.
+150 W. Main Street, Suite 2100
+Norfolk, VA 23510
+Telephone: (757) 624-3000
+Facsimile: (757) 624-3169
+senoona@kaufcan.com
+Robert L. Burns
+FINNEGAN, HENDERSON, FARABOW, GARRETT &
+DUNNER, LLP
+Two Freedom Square
+11955 Freedom Drive
+Reston, VA 20190
+Telephone: (571) 203-2700
+Facsimile: (202) 408-4400
+Cortney S. Alexander
+FINNEGAN, HENDERSON, FARABOW, GARRETT &
+DUNNER, LLP
+3500 SunTrust Plaza
+303 Peachtree Street, NE
+Atlanta, GA 94111
+Telephone: (404) 653-6400
+Facsimile: (415) 653-6444
+Counsel for Defendant AOL Inc.
+
+17
+
+Case 2:11-cv-00512-RAJ-TEM Document 982 Filed 09/04/13 Page 19 of 19 PageID# 23962
+
+CERTIFICATE OF SERVICE
+I hereby certify that, on September 4, 2013, I will electronically file the foregoing with
+the Clerk of Court using the CM/ECF system, which will send a notification of such filing (NEF)
+to the following:
+Jeffrey K. Sherwood
+Kenneth W. Brothers
+DICKSTEIN SHAPIRO LLP
+1825 Eye Street NW
+Washington, DC 20006
+Telephone: (202) 420-2200
+Facsimile: (202) 420-2201
+sherwoodj@dicksteinshapiro.com
+brothersk@dicksteinshapiro.com
+Donald C. Schultz
+W. Ryan Snow
+Steven Stancliff
+CRENSHAW, WARE & MARTIN, P.L.C.
+150 West Main Street, Suite 1500
+Norfolk, VA 23510
+Telephone: (757) 623-3000
+Facsimile: (757) 623-5735
+dschultz@cwm-law.cm
+wrsnow@cwm-law.com
+sstancliff@cwm-law.com
+Counsel for Plaintiff, I/P Engine, Inc.
+
+/s/ Stephen E. Noona
+Stephen E. Noona
+Virginia State Bar No. 25367
+KAUFMAN & CANOLES, P.C.
+150 West Main Street, Suite 2100
+Norfolk, VA 23510
+Telephone: (757) 624-3000
+Facsimile: (757) 624-3169
+senoona@kaufcan.com
+
+18
+
+

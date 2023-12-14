@@ -1,0 +1,411 @@
+Case 1:09-cv-00213-WES-LDA Document 73 Filed 03/02/11 Page 1 of 14 PageID #: 1018
+
+UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF RHODE ISLAND
+KAREN PETRO, as Administratrix of the
+Estate of Mark Jackson
+Plaintiff,
+vs.
+
+C.A. No. 09-213S
+
+TOWN OF WEST WARWICK, ET AL
+Defendants.
+DEFENDANTS’ MEMORANDUM OF LAW IN SUPPORT OF THEIR OBJECTION TO
+PLAINTIFF’S MOTION IN LIMINE TO EXCLUDE TESTIMONY BY DEFENDANTS’
+EXPERTS DEBORAH MASH, CHARLES WETLI, AND GARY DIAS
+
+I.
+
+INTRODUCTION
+Plaintiff’s Motion in Limine seeks to exclude the testimony of Drs. Deborah Mash and
+
+Charles Wetli. Drs. Mash and Wetli are Defendants’ experts on Excited-Delirium Syndrome
+(ExDS). Citing Daubert v. Merril Dow Pharmaceuticals, Inc., Plaintiff contends that Dr. Mash
+is not qualified to offer an opinion at all and that Drs. Mash and Wetli’s reasoning and
+methodology are not scientifically valid. 509 U.S. 579 (1993). The overarching implication of
+Plaintiff’s argument is that ExDS is not a recognized medical condition.
+Plaintiff’s argument betrays a profound misunderstanding of this Circuit’s Daubert
+jurisprudence. In applying Daubert, this Circuit has never required courts to track the inferences
+of experts to the point of scientific certainty. Nor would it be proper for this Court to disqualify
+Dr. Mash. Given the state of research on ExDS, Dr. Mash’s qualifications are sufficient to allow
+her to comment on the presence of ExDS.
+
+1
+
+Case 1:09-cv-00213-WES-LDA Document 73 Filed 03/02/11 Page 2 of 14 PageID #: 1019
+
+II.
+
+HISTORY OF DAUBERT JURISPRUDENCE
+Plaintiff’s reading of Daubert is, even in the most generous light, disingenuous. Plaintiff
+
+succeeds in construing Daubert in the rigid terms of its Motion In Limine by drawing authority
+from scattered District Court decisions from outside this Circuit. This approach is disingenuous
+in two ways: First, by drawing rules with casual ease from this and that District Court, Plaintiff
+fails to acknowledge the confusion the Daubert decision generated for courts put against the
+difficult task of admitting expert evidence. Secondly, by citing decisions outside of this Circuit,
+Plaintiff disregards the principles our own courts have laid down to manage the confusion.
+Prior to Daubert, federal courts followed the Frye rule when it came to admitting
+scientific experts. Frye v. United States, 293 F. 1013, 1014 (D.C. Cir. 1923). Frye allowed
+expert opinion based on scientific technique to be admissible only if the technique was generally
+accepted as reliable “in the particular field in which it belongs.” Id. In 1993, the Daubert Court
+recognized that the Frye rule was superseded by the adoption of the Federal Rules of Evidence.
+Daubert, 509 U.S. at 587. Specifically, Rule 702 states, “If scientific, technical, or other
+specialized knowledge will assist the trier of fact to understand the evidence or to determine a
+fact in issue, [a qualified expert] may testify thereto.” Fed. R. Evid. 702. But Daubert also
+requires the trial judge to “ensure that any and all scientific testimony or evidence admitted is not
+only relevant, but reliable.” Daubert, 509 U.S. at 589.
+But this reliability requirement presented a peculiar problem. How could scientific
+evidence be judged reliable in an evidentiary sense? See id. at 590, n.9. Science, the Court
+acknowledged, is not “an encyclopedic body of knowledge about the universe.” Id. (quoting
+Brief for American Association for the Advancement of Science et al. as Amici Curiae, 7-8).
+Rather, science “represents a process for proposing and refining theoretical explanations about
+
+2
+
+Case 1:09-cv-00213-WES-LDA Document 73 Filed 03/02/11 Page 3 of 14 PageID #: 1020
+
+the world that are subject to further testing and refinement.” Id. (quoting same). The Court’s
+solution to this problem was to obfuscate the difference between evidentiary reliability and
+scientific validity. “In a case involving scientific evidence, evidentiary reliability will be based
+upon scientific validity.” Id. And so, the Court suggested four ways by which trial courts could
+determine the validity of a scientific expert’s theory or technique; viz., (1) whether it can be (or
+has been) tested; (2) whether it has been subjected to peer review and publication; (3) what the
+known or potential rate of error is; and (4) what the particular degree of acceptance of the theory
+or technique is within the relevant scientific community. Id. at 593-94.
+Chief Justice Rehnquist anticipated problems from the start. He and Justice Stevens took
+particular issue with the majority’s collapsing of the difference between evidentiary reliability
+and scientific validity. See id. at 599-600 (Rehnquist, C.J., dissenting). The Chief Justice was
+primarily concerned with the notion of federal judges evaluating the reliability of scientific offers
+of evidence in scientific terms. Id. at 600. “I do not doubt,” wrote the Chief Justice, “that Rule
+702 confides to the judge some gatekeeping responsibility in deciding questions of the
+admissibility of proffered expert testimony. But I do not think it imposes on them either the
+obligation or the authority to become amateur scientists in order to perform that role.” Id. at
+600-01.
+The Chief Justice’s comments turned out to be prescient. Eighteen years after Daubert,
+there is still no uniform rule for evaluating scientific evidence in federal courts. Some judges do
+not admit scientific evidence unless they are satisfied that the expert can show that his
+conclusions follow from demonstrable premises. See, e.g., Best v. Lowe’s Home Ctrs., Inc., 563
+F.3d 171, 177 (6th Cir. 2009) (criticizing district court’s exclusion of physician’s opinions
+because it disagreed with the physician’s extrapolation of the evidence, reliance on past
+
+3
+
+Case 1:09-cv-00213-WES-LDA Document 73 Filed 03/02/11 Page 4 of 14 PageID #: 1021
+
+experiences, reliance on temporal proximity, failure to consider other causes, and subjectivity);
+Rose v. Truck Ctrs., Inc., 338 Fed. Appx. 528, 535-36 (6th Cir. 2010) (“[T]he reliability inquiry
+focuses ‘solely on the principles and methodology, not on the conclusions they generate.’”).
+Other courts are content with an expert’s conclusions so long as the analytical gap between the
+data and the expert’s conclusions is not too great. See, e.g., Ruiz-Troche v. Pepsi Cola, 161 F.3d
+77, 81 (1st. Cir. 1998) (“[W]hile methodology remains the central focus of a Daubert inquiry,
+this focus need not completely pretermit judicial consideration of an expert’s conclusions.”). All
+of which is to say that some Circuits evaluate the reliability of an expert’s testimony deductively;
+other Circuits would evaluate experts’ reliability inductively. The former, tracking the expert’s
+premises towards his conclusion, evaluate the soundness of the premises along the way and test
+the strength of the expert’s inferences. See, e.g., Rose, 388 Fed. Appx. at 535. The latter
+“evaluate the data offered to support an expert’s bottom-line opinions to determine if that data
+provides adequate support to mark the expert’s testimony as reliable.” Ruiz-Troche, 161 F.3d at
+81.
+In this Circuit, courts have approached Daubert inquiries inductively. That is, they do
+not focus “solely on principles and methodology” in evaluating the reliability of an expert’s
+opinions. See id. at 81 (citing and quoting Daubert, 509 U.S. at 595). Rather, they recognize
+that “conclusions and methodology are not entirely distinct from one another,” and the reliability
+of an expert’s opinion depends on whether there is “too great an analytical gap between the data
+and the opinion offered.” Id. (quoting Gen. Elec. Co. v. Joiner, 522 U.S. 136, 146 (1997)).
+Defendants submit that, in the case at bar, there is not a sufficient gap between the data offered
+and the conclusions drawn either to disqualify Dr. Mash as an expert or to exclude the
+methodology of either of Defendants’ experts.
+
+4
+
+Case 1:09-cv-00213-WES-LDA Document 73 Filed 03/02/11 Page 5 of 14 PageID #: 1022
+
+III.
+
+DISCUSSION
+In the case at bar, Plaintiff cherry-picks authority from various district courts outside this
+
+Circuit so as to create a rule rigid enough to exclude the testimony of Defendants’ experts. But
+when considered by the Daubert jurisprudence in the First Circuit, Defendants’ experts are
+suitably qualified to testify, and the methodology the Defendants experts employed is sound
+enough to satisfy Daubert’s reliability requirements.
+
+A. Excited Delirium Is a Recognized Condition.
+Plaintiff’s experts attempt to cast doubt on whether ExDS is a recognized condition.
+These experts characterize ExDS as a “diagnosis of exclusion,” propounded when no other cause
+of death can be determined. See, e.g., Pl.’s Mot. Lim. at 4, 5. To be sure, Dr. Brown is not even
+sure that ExDS “can be a valid cause of death.” Id. at 5.
+Defendants submit that ExDS is a recognized condition, even if it is not entirely
+understood. The condition is recognized by ACEP and the National Association of Medical
+Examiners. American College of Emergency Physicians (ACEP) White Paper Report to the
+Council and Board of Directors, September 10, 2009, attached as Ex. A. Several Federal District
+Courts have also recognized ExDS. See, e.g., Mann v. Taser Int’l, Inc., 588 F.3d 1291, 1307
+(11th Cir. 2009) (recognizing ExDS as a “serious medical need); Cruz v. City of Laramie, 239
+F.3d 1183, 1189 (10th Cir. 2001) (recognizing dangers created by placing pressure on the back
+of an arrested person in the prone position when that person is in a state of excited delirium);
+Bowen-Soto v. City of Liberal, C.A. No. 08-1171-MLB, 2010 U.S. Dist. LEXIS 118630, at *16
+(D. Kan. Nov. 9, 2010) (recognizing that a suspect with ExDS has diminished capacity and
+cannot be subjected to hog-tying without constitutional violation) Marquez v. City of Phoenix,
+
+5
+
+Case 1:09-cv-00213-WES-LDA Document 73 Filed 03/02/11 Page 6 of 14 PageID #: 1023
+
+CV-08-1132-PHX-NVW, 2010 U.S. Dist. LEXIS 88545, at *14 (D. Ariz. Aug. 25, 2010)
+(relying on autopsy report that subject “had died from ‘excited delirium,’ which was the product
+of ‘adrenaline toxicity’”); Lee v. City of Nashville and Davidson Cty., Civil No. 3:06-0108, 2009
+U.S. Dist LEXIS 69825, at *38 (M.D. Tenn. Aug. 10, 2009) (allowing State of Tennessee M.E.
+to testify that ExDS caused subject’s death). Therefore, the notion that ExDS is, somehow,
+“junk science” is untenable.
+
+B.
+
+Dr. Mash is Qualified to Offer Expert Opinions in This Case.
+Plaintiff seeks to disqualify Dr. Mash from testifying as an expert on two grounds. First,
+
+Plaintiff argues that Dr. Mash’s opinions amount to a diagnosis of Mr. Jackson’s condition and
+that, because Dr. Mash is a Ph.D. rather than an M.D., she is not qualified to offer her opinion.
+See Conde v. Velsicol Chem. Corp., 24 F.3d 809, 813 (6th Cir. 1994); Plourde v. Gladstone, 190
+F. Supp. 2d 708, 719 (D. Vt. 2002). Secondly, Plaintiff argues that Dr. Mash’s expertise in
+pharmacology, toxicology, and post-mortem analysis of brain tissue does not qualify her to give
+opinions in this case because “Mr. Jackson was not on drugs and no post-mortem analysis of
+brain tissue is available.” Pl.’s Mot. Lim. at 11. Each of these arguments misses the point.
+Plaintiff’s first argument is a textbook example of the straw-man fallacy. Plaintiff
+characterizes Dr. Mash’s comments as a “diagnosis.” Id. at 5. Plaintiff then cites cases from
+various Circuits that state that only a medical doctor can make a diagnosis. Id. at 5. Having laid
+this groundwork, Plaintiff has only to point out that Dr. Mash is not a medical doctor and so
+cannot make a diagnosis.
+Plaintiff’s characterization of the matter here is too simplistic. Dr. Mash is more than
+qualified to testify as an expert regarding ExDS. First, the condition that Plaintiff argues Dr.
+
+6
+
+Case 1:09-cv-00213-WES-LDA Document 73 Filed 03/02/11 Page 7 of 14 PageID #: 1024
+
+Mash purports to “diagnose” is a syndrome. See ACEP, White Paper. A “syndrome” is “a group
+of signs or symptoms that occur together and characterize a particular abnormality.” Merriam
+Webster’s Medical Dictionary (1995). A syndrome “constitute[es] a picture of the disease.”
+Stedman’s Medical Dictionary, 28th ed. (2006). A syndrome can be recognized – just as any
+“picture” or “characterization” may be recognized – even though there is no definitive diagnostic
+“test” for it. ACEP White Paper (comparing ExDS with the similarly mysterious Sudden Infant
+Death Syndrome).
+ExDS is a syndrome insofar as it can be identified by a cluster of associated symptoms.
+Id. Indeed, ACEP recognizes ExDS as a syndrome rather than a unique disease because of the
+difficulty surrounding clinical identification of its presence. Id. ACEP has identified ten
+potential clinical features of excited delirium syndrome: pain tolerance, tachypnea (rapid
+breathing), sweating, agitation, tactile hyperthermia, police noncompliance, lack of tiring,
+unusual strength, inappropriately clothed, mirror or glass attraction. Id. While the fundamental
+manifestation of the syndrome is delirium, there are several potential underlying associations or
+causes; viz., stimulant drug abuse, psychiatric disease, psychiatric drug withdrawal, and
+metabolic disorders. Id. Even so, there is no definitive, diagnostic “test” for Excited Delirium
+Syndrome. Rather, it “must be identified by its clinical features.” Id.
+All of which is to say that it is beside the point that Dr. Mash is not a medical doctor. See
+Pl.’s Mot. in Limine at 11 (citing Conde v. Velsicol Chem. Co., 24 F.3d 809, 813 (6th Cir. 1994)).
+Even a medical doctor cannot make a definitive diagnosis of ExDS, for there is no definitive
+diagnostic test for it. Rather, the syndrome “may be identified by the presence of a distinctive
+group of clinical and behavioral characteristics that can be recognized in the pre-mortem state.”
+
+7
+
+Case 1:09-cv-00213-WES-LDA Document 73 Filed 03/02/11 Page 8 of 14 PageID #: 1025
+
+ACEP White Paper. With this understanding of the syndrome, Dr. Mash, having studied the
+syndrome extensively, is qualified to offer her opinion.
+Plaintiff’s second argument fails to recognize the particular relevance of Dr. Mash’s work
+to the medical community’s broader understanding of ExDS. Defendants acknowledge that
+much of Dr. Mash’s work has to do with cases involving cocaine intoxication and are willing to
+assume for the purpose of argument that Mr. Jackson was not on drugs. But much of what is
+known about ExDS comes from analyses of patients whose ExDS episodes are associated with
+cocaine use. To be sure, these analyses have been instructive. Postmortem brain examinations
+of such patients show certain evidence of brain abnormalities, such as “a characteristic loss of the
+dopamine transporter in the striatum of chronic cocaine abusers who die in police custody from
+apparent ExDS.” Id. This seminal observation has led the ACEP to recognize that “one
+potential pathway for the development of ExDS is excessive dopamine stimulation in the
+striatum.” Id. While the significance of these findings is unknown in the context of excited
+delirium episodes unrelated to chronic cocaine abuse, these studies nevertheless help to explain
+the presence of hyperthermia in ExDS subjects, for hypothalamic dopamine receptors are
+responsible for thermoregulation. Id. Disturbances of dopamine neurotransmissions, such as
+those brought on by chronic drug use, may therefore help explain the hyperthermia found in
+many ExDS patients whose episodes are not associated with drug use. Id. It is expected at the
+hearing that Dr. Mash will testify that these disturbances are also associated with
+neuropsychiatric disorders and that the same pattern of biomarker abnormality is shown in these
+subjects at brain autopsy. Collectively, these studies demonstrate that sudden unexplained death
+in custody is frequently associated with either the abuse of stimulants or a preexisting psychiatric
+condition.
+
+8
+
+Case 1:09-cv-00213-WES-LDA Document 73 Filed 03/02/11 Page 9 of 14 PageID #: 1026
+
+Dr. Mash is a Professor of Neurology and Molecular and Cellular Pharmacology at the
+University of Miami. She has received peer-reviewed National Institute on Health PHS funding
+for studies of ExDS for almost two decades. PHS Grant DA06227, Deborah C. Mash, Ph.D.,
+Principal Investigator. She is also the Director of the University of Miami Brain Endowment
+Bank, which boasts of the largest collection of autopsy specimens from excited delirium and
+sudden death. And she is the author of various studies on the effects of drug use and disease on
+the chemistry of the brain. Of particular relevance to this point, she is the author of Biomarkers
+for Identifying Excited Delirium as a Cause of Sudden Death, Forensic Sci Int, 190(1-3):e13-9,
+2009 and Cocaine Abuse Elevates Alpha-Synuclein and Dopamine Transporter Levels in the
+Human Striatum, Neuroreport 16(13): 1489-93, 2005. Dr. Mash works with medical examiners
+in the United States, Canada, and Europe, providing consult services for cases of in-custody
+death. She is a co-author with Drs. Stephens, Jentzen, Karch, and Wetli on the National
+Association of Medical Examiners’ (NAME) position paper on the certification of cocainerelated deaths, which describes ExDS. 25 Journal of Forensic Medicine and Pathology 1, 11-13
+(2004). Dr. Mash’s area of expertise is, therefore, focused upon the very issues that the ACEP
+and the NAME identifies as the most promising avenues of inquiry into the causes of Excited
+Delirium Syndrome. See ACEP White Paper.
+
+C.
+
+The Methodologies of Drs. Mash and Wetli are Sufficiently Sound Under This Circuit’s
+
+Daubert Jurisprudence.
+Plaintiff also seeks to exclude the testimony of Drs. Mash and Wetli on the ground that
+their methodologies are not sound. Pl.’s Mot. Lim. at 11-12. Drs. Mash and Wetli, Plaintiff’s
+argument goes, failed to make a valid differential diagnosis of Mr. Jackson’s cause of death.
+
+9
+
+Case 1:09-cv-00213-WES-LDA Document 73 Filed 03/02/11 Page 10 of 14 PageID #: 1027
+
+According to Plaintiff, a differential diagnosis is reliable and admissible when: (1) the physician
+objectively ascertains the nature (to the extent possible) of the injury; (2) the physician rules in
+one or more causes using valid methodology; and (3) the physician rules out alternative causes to
+reach the cause most likely. See id. at 12 (citing Best, 563 F.3d at 179). Plaintiff argues that,
+because Mash and Wetli offer no explanation about why Mr. Jackson’s cardiac abnormalities and
+his altercation with the police were alone not sufficient to cause his death, they have not
+satisfactorily “ruled out” alternative causes of his death. Because they have not ruled out these
+possible alternative causes of Mr. Jackson’s death, the argument goes, they have not succeeded
+in making a differential diagnosis.
+Plaintiff again misses the point. First, Plaintiff’s argument fails to understand the manner
+in which District Courts in this Circuit apply the Daubert standard. Secondly, Plaintiff’s appeal
+to differential diagnosis in this motion seeks to remove a critical question of fact from the jury.
+
+1. Daubert does not require judges to become amateur scientists.
+As noted above, Daubert has generated confusion among courts. Some courts have taken
+Justice Blackmun’s commentary on scientific reliability to heart and rigidly track the grounds
+upon which scientific experts form their opinions. These courts trace the experts’ inferences and
+evaluate whether both grounds and inferences are cogent enough for the expert to draw the
+opinion that he draws. Other courts assess the reliability of an expert’s methodology by looking
+at the expert’s premises and conclusions and then assessing whether the conclusions follow well
+from the known data.
+This Court must assess the methodology of Drs. Mash and Wetli in a way that is
+consistent with this Circuit’s Daubert jurisprudence. That assessment ought to take the form of
+
+10
+
+Case 1:09-cv-00213-WES-LDA Document 73 Filed 03/02/11 Page 11 of 14 PageID #: 1028
+
+an analysis of these experts’ conclusions in light of their premises rather than a examination of
+the inferences they draw from their premises with no eye whatsoever to their conclusions. See
+Ruiz-Troche, 161 F. 3d at 81; compare Rose v. Truck Ctrs., Inc., 388 Fed. Appx. at 535 (“[T]he
+reliability inquiry focuses ‘solely on the principles and methodology, not on the conclusions they
+generate.’”). The question before this Court, in other words, is whether there is a significant
+analytical gap between these experts’ opinions and the available data. See Ruiz-Troche, 161 F.3d
+at 81 (holding that while “conclusions and methodology are not entirely distinct from one
+another,” “[a] court may conclude that there is simply too great an analytical gap between the
+data and the opinion offered”) (quoting and citing Joiner, 522 U.S. at 146).
+Dr. Mash posits that Mr. Jackson’s behavior was consistent with an acute onset of excited
+delirium. Opinion of Dr. Deborah Mash at 5. She notes that Mr. Jackson “demonstrated
+paranoid, violent, and aggressive behaviors that were unremitting,” “was impervious to pain
+control measures and . . . failed to respond to verbal commands,” and “demonstrated extreme
+strength requiring the assistance of five Officers at the scene.” Id. at 5. These behaviors and
+symptoms are consistent with the cluster of symptoms that ACEP identifies as indicating the
+presence of Excited Delirium Syndrome.
+Dr. Mash further states that Mr. Jackson was at risk for excited delirium because he was
+an unmedicated schizophrenic. See id. at 7. Many who experience ExDS are also chronic
+abusers of stimulants such as cocaine and suffer from dopamine abnormalities in the striatum.
+ACEP White Paper. Schizophrenia similarly features abnormal dopamine and dopamine
+receptors. See Opinion of Dr. Deborah Mash at 7. Left untreated, schizophrenia conceivably
+poses harm to the brain similar to that of chronic drug use. See id. at 7; ACEP White Paper. It
+therefore stands to reason that the harm caused by untreated schizophrenia may manifest
+
+11
+
+Case 1:09-cv-00213-WES-LDA Document 73 Filed 03/02/11 Page 12 of 14 PageID #: 1029
+
+ultimately manifest as ExDS, just as the harm caused by chronic cocaine use may. Dr. Mash’s
+opinion that Mr. Jackson suffered from an excited delirium episode at the time of his death is
+therefore sufficiently supported by known data to satisfy Daubert as that standard is applied in
+this Circuit; which is to say, there are no significant analytical gaps between her conclusions and
+the known data. See Ruiz-Troche, 161 F.3d at 81.
+Dr. Wetli’s conclusions also pass muster under Daubert jurisprudence in this Circuit. Dr.
+Wetli concludes that Mr. Jackson had many of the characteristics of excited delirium. These
+included: “violent and aggressive behavior, a marked apparent increase in strength, no response
+to pain compliance techniques . . ., unintelligible and inappropriate verbalization, and sudden
+loss of vital signs shortly after cessation of the struggle.” Opinion of Charles v. Wetli, M.D.
+These symptoms are consistent with symptoms that are generally recognized as belonging to the
+cluster of symptoms that characterizes the syndrome. See ACEP White Paper. Dr. Wetli’s
+conclusions follow easily from the known data and do not leave any analytical gaps. Therefore,
+he should not be excluded from offering his opinion.
+
+2. Defendant should not bear the burden of disproving Plaintiff’s case in a Daubert
+hearing any more than at trial.
+Defendants submit that Plaintiff’s prayer to this Court to hold Defendants’ experts
+exclusively to the methodology of differential diagnosis is inappropriate. Plaintiff argues that
+Drs. Mash and Wetli’s opinions may not be admitted because they fail to show why ExDS alone,
+rather than his struggle with the police or “several cardiac anomalies,” caused Mr. Jackson’s
+death. Pl.’s Mot. Lim. at 12. Plaintiff would have it that Defendants bear the burden, in
+
+12
+
+Case 1:09-cv-00213-WES-LDA Document 73 Filed 03/02/11 Page 13 of 14 PageID #: 1030
+
+qualifying their experts, to disprove Plaintiff’s theory of the case, viz., that the struggle with the
+police caused Mr. Jackson’s death. But this is wholly inappropriate.
+Plaintiff has the burden to prove by a preponderance of evidence that Defendants’
+conduct resulted in the loss of Plaintiff’s life. Velez-Rivera v. Agosto-Alicia, 437 F.3d 145, 15152 (1st Cir. 2006) (“In order to establish liability under § 1983, plaintiffs “must show by a
+preponderance of evidence that: (1) the challenged conduct was attributable to a person acting
+under color of state law; and (2) the conduct deprived the plaintiff of rights secured by the
+Constitution or laws of the United States.”). Defendants need only show that their experts are
+qualified and that the methodology they employ is reliable. Defendants do not bear the burden
+of proving that the expert’s opinions are unassailable by disproving Plaintiff’s theory of the case.
+United States v. Mooney, 315 F. 3d 54, 63 (1st Cir. 2002) (Daubert does not demand
+“unassailable expert testimony.”). While Defendants do not question Plaintiff’s right to challenge
+Defendants’ experts in a Daubert hearing, Defendants submit that Daubert does not require
+Defendants to disprove Plaintiff’s case at that hearing. See United States v. Mooney, 315 F.3d
+54, 63 (1st Cir. 2002) (“[A]ny flaws in [an expert’s] opinion may be exposed through crossexamination or competing expert testimony.”).
+
+IV.
+
+GARY DIAS’S TESTIMONY
+Plaintiff’s Motion in Limine also seeks to exclude Gary Dias as an expert. Plaintiff’s
+
+ground for exclusion is that Mr. Dias’s testimony, that police officers have no duty to render
+CPR to an injured or ill person, addresses a question of law. Defendants agree that this is a legal
+question and will address the particulars of why police officers have no such duty in a separate
+brief.
+
+13
+
+Case 1:09-cv-00213-WES-LDA Document 73 Filed 03/02/11 Page 14 of 14 PageID #: 1031
+
+V.
+
+CONCLUSION
+For the reasons herein and other that may be presented at hearing, Defendants
+
+respectfully ask this Court to deny Plaintiff’s Motion in Limine as far as it seeks to exclude the
+testimony of Drs. Mash and Wetli.
+
+Defendants,
+By their Attorney
+/s/Marc DeSisto
+Marc DeSisto, Esq. #2575
+DeSisto Law
+211 Angell Street-PO Box 2563
+Providence, RI 02906-2563
+(401) 272-4442 telephone
+(401) 272-9937 facsimile
+
+CERTIFICATION OF SERVICE
+I hereby certify that the within document has been electronically filed with the Court on
+March 2, 2011 and is available for viewing and downloading from the ECF system.
+Stephen P. Sheehan, Esq. #4030
+sps@wistbar.com
+/s/Marc DeSisto
+
+14
+
+

@@ -1,0 +1,941 @@
+2:14-cv-13710-SFC-DRG Doc # 60 Filed 05/02/16 Pg 1 of 32
+
+Pg ID 1770
+
+UNITED STATES DISTRICT COURT
+EASTERN DISTRICT OF MICHIGAN
+SOUTHERN DIVISION
+Equal Employment
+Opportunity Commission,
+Plaintiff,
+
+Civil Action No.
+2:14-cv-13710
+Hon. Sean F. Cox
+
+v.
+R.G. & G.R. Harris Funeral
+Homes, Inc.,
+Defendant.
+
+DEFENDANT R.G. & G.R. HARRIS FUNERAL HOMES, INC.’S
+MEMORANDUM OF LAW IN OPPOSITION TO PLAINTIFF EQUAL
+OPPORTUNITY EMPLOYMENT COMMISSION’S MOTION FOR
+SUMMARY JUDGMENT
+
+James A. Campbell (AZ Bar 026737)
+Douglas G. Wardlow (AZ Bar 032028)
+Joseph P. Infranco (NY Bar 1268739)
+Bradley S. Abramson (AZ Bar 029470)
+ALLIANCE DEFENDING FREEDOM
+15100 N. 90th Street
+Scottsdale, AZ 85260
+(480) 444-0020
+(480) 444-0028 Fax
+jcampbell@ADFlegal.org
+dwardlow@ADFlegal.org
+jinfranco@ADFlegal.org
+babramson@ADFlegal.org
+
+Joel J. Kirkpatrick (P62851)
+JOEL J. KIRKPATRICK, P.C.
+843 Penniman Ave., Suite 201
+Plymouth, MI 48170
+(734) 404-5710
+(866) 241-4152 Fax
+joel@joelkirkpatrick.com
+
+Attorneys for Defendant
+
+2:14-cv-13710-SFC-DRG Doc # 60 Filed 05/02/16 Pg 2 of 32
+
+Pg ID 1771
+
+Statement of the Issues Presented
+1.
+
+Whether testimony indicating that Defendant R.G. & G.R. Funeral
+
+Homes, Inc. (“R.G.”) discharged Charging Party Stephens because Stephens intended
+to violate R.G’s sex-specific dress code constitutes direct evidence of discrimination
+based on sex in violation of Title VII, when the undisputed evidence establishes that
+R.G.’s dress code imposes equal burdens on the sexes.
+2.
+
+Whether the Religious Freedom Restoration Act (“RFRA”) prohibits the
+
+Court from applying Title VII to Plaintiff Equal Opportunity Employment
+Commission’s (“EEOC”) claims on behalf of Stephens, when the undisputed
+evidence shows that this application of Title VII would compel R.G. (a closely held
+corporation) to violate its owner’s sincerely held religious beliefs, and when the
+EEOC cannot demonstrate that applying Title VII under these circumstances is the
+least restrictive means of furthering a compelling government interest.
+3.
+
+Whether the EEOC is entitled to summary judgment on its Title VII
+
+claim challenging R.G.’s manner of providing work clothes and clothing allowances to
+its employees, when the EEOC lacks authority to bring that claim, and when the
+undisputed evidence demonstrates that R.G. provides equivalent clothing benefits to
+comparable male and female employees.
+
+i
+
+2:14-cv-13710-SFC-DRG Doc # 60 Filed 05/02/16 Pg 3 of 32
+
+Pg ID 1772
+
+Authority for the Relief Sought
+Issue No. 1
+Barker v. Taft Broadcasting Co., 549 F.2d 400 (6th Cir. 1977)
+Jespersen v. Harrah’s Operating Co., 444 F.3d 1104 (9th Cir. 2006) (en banc)
+Issue No. 2
+Religious Freedom Restoration Act, 42 U.S.C. § 2000bb-1, et seq.
+Burwell v. Hobby Lobby Stores, Inc., 134 S. Ct. 2751 (2014)
+Issue No. 3
+EEOC v. Bailey Co., 563 F.2d 439 (6th Cir. 1977)
+
+ii
+
+2:14-cv-13710-SFC-DRG Doc # 60 Filed 05/02/16 Pg 4 of 32
+
+Pg ID 1773
+
+Table of Contents
+Introduction ............................................................................................................................ 1
+Argument ................................................................................................................................. 2
+I.
+
+II.
+
+III.
+
+RG’s Enforcement of Its Sex-Specific Dress Code Does Not Constitute
+Impermissible Sex Stereotyping under Title VII..................................................... 2
+A.
+
+The EEOC’s Argument Is Fatally Flawed Because It Fails to
+Account for R.G.’s Sex-Specific Dress Code. ............................................. 3
+
+B.
+
+Accepting the EEOC’s Argument Would Invalidate All SexSpecific Dress Codes under Title VII. ........................................................ 10
+
+C.
+
+Stephens’s Purported Intent to Abide by R.G.’s Dress Code for
+Female Employees Is Not Relevant. ........................................................... 13
+
+RFRA Prohibits the EEOC from Applying Title VII to Force R.G. to
+Violate its Sincerely Held Religious Beliefs. .......................................................... 16
+A.
+
+Contrary to the EEOC’s Contentions, Applying Title VII in this
+Case Would Substantially Burden R.G.’s Religious Exercise................... 16
+
+B.
+
+The EEOC Has Not Shown that Applying Title VII in this Case
+Satisfies Strict Scrutiny. ................................................................................. 20
+
+The EEOC Is Not Entitled to Summary Judgment on Its ClothingAllowance Claim. ...................................................................................................... 22
+
+Conclusion ............................................................................................................................. 24
+
+iii
+
+2:14-cv-13710-SFC-DRG Doc # 60 Filed 05/02/16 Pg 5 of 32
+
+Pg ID 1774
+
+Table of Authorities
+Cases:
+Barker v. Taft Broadcasting Co.,
+549 F.2d 400 (6th Cir. 1977) .................................................................................. 3, 8
+Burwell v. Hobby Lobby Stores, Inc.,
+134 S. Ct. 2751 (2014) ..................................................................... 17, 18, 20, 21, 22
+Carroll v. Talman Federal Savings and Loan Association of Chicago,
+604 F.2d 1028 (7th Cir. 1979).......................................................................... 8, 9, 12
+Christiansburg Garment Co. v. EEOC,
+434 U.S. 412 (1978)................................................................................................... 23
+EEOC v. Bailey Co.,
+563 F.2d 439 (6th Cir. 1977) .................................................................................... 23
+EEOC v. Preferred Management Corporation,
+216 F. Supp. 2d 763 (S.D. Ind. 2002) ..................................................................... 20
+EEOC v. R.G. & G.R. Harris Funeral Homes, Inc.,
+100 F. Supp. 3d 594 (E.D. Mich. 2015) ........................................................... 15, 16
+Fagan v. National Cash Register Co.,
+481 F.2d 1115 (D.C. Cir. 1973) ........................................................................... 3, 12
+Frank v. United Airlines, Inc.,
+216 F.3d 845 (9th Cir. 2000) ...................................................................................... 7
+Gonzales v. O Centro Espirita Beneficente Uniao do Vegetal,
+546 U.S. 418 (2006)................................................................................................... 20
+Harper v. Blockbuster Entertainment Corporation,
+139 F.3d 1385 (11th Cir. 1998).................................................................................. 7
+Holt v. Hobbs,
+135 S. Ct. 853 (2015) ................................................................................................ 19
+Hurley v. Irish-American Gay, Lesbian & Bisexual Group of Boston,
+515 U.S. 557 (1995)................................................................................................... 20
+
+iv
+
+2:14-cv-13710-SFC-DRG Doc # 60 Filed 05/02/16 Pg 6 of 32
+
+Pg ID 1775
+
+Jespersen v. Harrah’s Operating Co.,
+444 F.3d 1104 (9th Cir. 2006).......................................................................... 7, 8, 16
+Los Angeles Department of Water and Power v. Manhart,
+435 U.S. 702 (1978)................................................................................................... 13
+Price Waterhouse v. Hopkins,
+490 U.S. 228 (1989)................................................................................................. 7, 8
+Smith v. City of Salem,
+378 F.3d 566 (6th Cir. 2004) .................................................................................... 11
+Tavora v. New York Mercantile Exchange,
+101 F.3d 907 (2nd Cir. 1996) ..................................................................................... 7
+Willingham v. Macon Telegraph Publishing Co.,
+507 F.2d 1084 (5th Cir. 1975).................................................................................. 13
+Other Authorities:
+EEOC Compliance Manual (June 2006) ............................................................................. 5
+
+v
+
+2:14-cv-13710-SFC-DRG Doc # 60 Filed 05/02/16 Pg 7 of 32
+
+Pg ID 1776
+
+Introduction
+Plaintiff Equal Opportunity Employment Commission (“EEOC”) argues that
+Defendant R.G. & G.R. Harris Funeral Homes, Inc. (“R.G.”) violated Title VII’s ban
+on sex discrimination when it discharged Charging Party Stephens for refusing to
+comply with its sex-specific dress code. In essence, the EEOC asks this Court to hold
+that R.G.’s sex-specific dress code constitutes unlawful sex stereotyping for the sole
+reason that it is sex-specific—a holding that would expand Title VII to invalidate all
+such dress codes. No court has ever gone so far. On the contrary, giving due
+consideration to an employer’s right to manage the public face of its business, courts
+have long held that sex-specific dress codes are permissible under Title VII when they
+do not unequally burden one sex. Because there is no dispute that R.G.’s dress code
+does not unequally burden one sex, it is R.G. (not the EEOC) that is entitled to
+summary judgment on the EEOC’s unlawful discharge claim.
+The EEOC also contends that the Religious Freedom Restoration Act
+(“RFRA”) does not protect R.G.’s and its owner Tom Rost’s exercise of religion. But
+the undisputed facts show that R.G.’s exercise of religion is substantially burdened by
+forcing it to purchase female work attire for a male employee and by requiring it to
+permit its male funeral directors to wear the female uniform. Because the EEOC
+cannot show that imposing these burdens is the least restrictive means of furthering a
+compelling interest, RFRA bars the application of Title VII in this case.
+
+1
+
+2:14-cv-13710-SFC-DRG Doc # 60 Filed 05/02/16 Pg 8 of 32
+
+Pg ID 1777
+
+Finally, the EEOC claims that R.G.’s clothing allowance treats men more
+favorably than women. But the EEOC lacks standing to bring that claim, and the
+undisputed facts show that male and female employees receive equivalent benefits. As
+a result, it is R.G. (not the EEOC) that is entitled to summary judgment on the
+clothing allowance claim.
+Argument
+I.
+
+RG’s Enforcement of Its Sex-Specific Dress Code Does Not Constitute
+Impermissible Sex Stereotyping under Title VII.
+The EEOC’s argument in this case is deceivingly simple: it contends that R.G.’s
+
+“admission” that it discharged Stephens because Stephens stated an intent to wear
+female attire at work constitutes direct evidence of sexual stereotyping. See EEOC
+Mem. at 26-29. The EEOC, however, is categorically wrong. Its argument skims
+across a critical, decisive, and undisputed fact: that when Stephens, a biological man,
+stated an intent to wear the female uniform at work, Stephens announced an intent to violate
+R.G.’s sex-specific dress code. T. Rost 30(b)(6) Dep. 136:22-137:15 (Def. SJ Ex. 4).1 This
+sex-specific dress code makes all the difference in the world. To the best of R.G.’s
+knowledge, no state or federal court has ever held that an employer whose dress code
+is sex-specific violates Title VII simply because men are expected to wear different
+clothing than women. By shrouding its argument in concepts like gender identity and
+1
+
+Defendant’s Summary Judgment Exhibits 1 through 34 are attached to Defendant’s Memorandum
+of Law in Support of R.G.’s Motion for Summary Judgment. Defendant’s Summary Judgment
+Exhibits 35 through 40 are attached to Defendant’s Memorandum of Law in Opposition to the
+EEOC’s Motion for Summary Judgment.
+
+2
+
+2:14-cv-13710-SFC-DRG Doc # 60 Filed 05/02/16 Pg 9 of 32
+
+Pg ID 1778
+
+transgender status, the EEOC attempts to mask the enormity of what it wants this
+Court to do—to hold that sex-specific dress codes constitute illegal sex stereotyping
+in all cases, even when the burdens they impose on the sexes are entirely equal. That
+would depart from the longstanding precedent of the Sixth Circuit and every other
+circuit in the country.
+A.
+
+The EEOC’s Argument Is Fatally Flawed Because It Fails to
+Account for R.G.’s Sex-Specific Dress Code.
+
+As explained in R.G.’s memorandum in support of its motion for summary
+judgment, see Memorandum of Law in Support of R.G. & G.R. Harris Funeral Homes,
+Inc.’s Motion for Summary Judgment (“Def. SJ Mem.”) at 5-7, it has long been held
+that sex-specific dress codes and grooming policies that impose equal burdens on men
+and women do not violate Title VII. See, e.g., Barker v. Taft Broad. Co., 549 F.2d 400,
+401 (6th Cir. 1977) (holding that a sex-specific employee-appearance standard that did
+not impose an unequal burden on one sex did not violate Title VII); Fagan v. Nat’l
+Cash Register Co., 481 F.2d 1115, 1117 n.3 (D.C. Cir. 1973) (explaining that when
+employers adopt policies that take account of “common differences in customary
+dress of male and female employees, it is not usually thought that there is unlawful
+discrimination ‘because of sex’’’). The undisputed facts in this case demonstrate that
+R.G.’s dress code does not impose an unequal burden on one sex. See Def. SJ Mem. at
+7-9. Accordingly, R.G.—not the EEOC—is entitled to summary judgment on the
+EEOC’s unlawful discharge claim.
+3
+
+2:14-cv-13710-SFC-DRG Doc # 60 Filed 05/02/16 Pg 10 of 32
+
+Pg ID 1779
+
+At first glance, the arguments of the EEOC and R.G. appear to be like ships
+passing in the night heading for opposite shores. To understand why the EEOC’s
+argument must be rejected in favor of R.G.’s, it is important to understand the point
+at which the two arguments necessarily come to grips—namely, R.G.’s sex-specific
+dress code.
+The EEOC attempts to avoid the central importance of R.G.’s dress code by
+stating that the EEOC “is not asserting that R.G.[]’s dress code violates Title VII—
+rather the violation is R.G.[]’s insistence that Stephens dress in accord with . . . gender
+stereotypes.” Memorandum in Support of Plaintiff EEOC’s Motion for Summary
+Judgment (“Pl. Mem.”) at 30. That argument is nothing more than an attempt to
+avoid addressing the real issue in this case. Two considerations show that to be true.
+First, while the EEOC avoids a direct challenge to R.G.’s sex-specific dress
+code, there is no dispute that R.G. discharged Stephens because of Stephens’s stated
+intention to violate the dress code at work. This fact is established by Rost’s
+uncontested testimony on behalf of R.G.:
+Q.
+
+Is . . . the reason you fired him . . . because he claimed that he was
+really a woman; or was it because . . . he would no longer dress as
+a man?
+A.· · That he would no longer dress as a man.
+Q.· · And why was that a problem?
+A.· · Well, because we -- we have a dress code that is very specific that
+men will dress as men; in appropriate manner, in a suit and tie that
+we provide and that women will conform to their dress code that
+we specify.
+
+4
+
+2:14-cv-13710-SFC-DRG Doc # 60 Filed 05/02/16 Pg 11 of 32
+
+Pg ID 1780
+
+T. Rost 30(b)(6) Dep. 136:22-137:10 (Def. SJ Ex. 4); see also id. at 137:11-15 (Def. SJ
+Ex. 4) (testifying that R.G. would not have terminated Stephens if Stephens had stated
+an intention to present as a woman only outside of work); T. Rost Aff. ¶ 50 (Def. SJ
+Ex. 1) (“It was Stephens’s refusal to wear the prescribed uniform and intent to violate
+the dress code while at work that was the decisive consideration in my employment
+decision”). Accordingly, if the enforcement of R.G.’s dress code is permissible under
+Title VII, then R.G. is entitled to summary judgment on the EEOC’s unlawful
+discharge claim.
+Second, by claiming that R.G.’s sex-specific dress code “insist[s]” that
+employees “dress in accord with . . . gender stereotypes,” the EEOC merely states a
+truism. Pl. Mem. at 30. Of course R.G.’s sex-specific dress code insists that employees
+dress sex specifically. That is the entire point. The EEOC’s own policies recognize
+that it does not consider unlawful the sort of benign sex stereotyping inherent
+whenever an employer adopts a sex-specific dress code that requires men to wear
+clothing customary for men and women to wear clothing customary for women. For
+example, in its Compliance Manual, the EEOC acknowledges:
+[A] dress code may require male employees to wear neckties at all times
+and female employees to wear skirts or dresses at all times. So long as
+these requirements are suitable and are equally enforced and so long as
+the requirements are equivalent for men and women with respect to the
+standard or burden that they impose, there is no violation of Title VII.
+EEOC Compliance Manual § 619.4(d) (June 2006).
+
+5
+
+2:14-cv-13710-SFC-DRG Doc # 60 Filed 05/02/16 Pg 12 of 32
+
+Pg ID 1781
+
+In this case too, the EEOC tacitly admits that not all sex stereotyping with
+respect to employee dress violates Title VII. Indeed, the EEOC’s claims are
+unintelligible unless one relies upon sex stereotypes. The EEOC contends that R.G.
+violated Title VII because R.G. refused to permit Stephens to dress consistently with
+Stephens’s claimed gender identity while at work. See Pl. Mem. at 31. In other words,
+the EEOC claims that R.G. should have permitted Stephens to dress as a woman. But
+the only way to discern what it means to dress as a woman is by relying on
+preconceived notions about how women typically dress. The EEOC’s argument thus
+boils down to this: R.G. engaged in impermissible sex stereotyping with respect to
+employee dress because R.G. refused to permit Stephens to insist upon sex
+stereotypes concerning women’s dress. The EEOC’s own argument thus posits that in
+some situations, sex stereotypes are acceptable.
+What is more, Stephens agrees that certain instances of sex stereotyping should
+be permissible. When asked at deposition whether R.G. should “be required . . . to
+allow a male funeral director who was . . . bald and [who had] a neatly trimmed beard
+and mustache, to wear a professional[] female dress and high heels while meeting with
+a bereaved family or officiating at a funeral,” Stephens responded: “If that’s the way he
+was going to present himself, no.” Stephens Dep. 126:7-19 (emphasis added) (Def. SJ
+Ex. 35). Stephens thus testified that R.G. should not be forced to allow a biological
+man who is clearly male to wear stereotypically female clothes. When asked why not,
+Stephens explained that the hypothetical funeral director’s appearance would not
+6
+
+2:14-cv-13710-SFC-DRG Doc # 60 Filed 05/02/16 Pg 13 of 32
+
+Pg ID 1782
+
+“typically . . . meet the expectations of a female,” thus openly acknowledging that R.G.
+should be allowed to insist on certain sex stereotypes related to employee dress. Id. at
+126:21-22. Therefore, even Stephens understands that not all sex stereotyping
+constitutes a societal evil that should be eradicated with the heavy hand of the law.
+Courts have also refused to denounce the harmless sex-based generalizations
+that underlie all sex-specific appearance policies. Indeed, even after Price Waterhouse v.
+Hopkins, 490 U.S. 228 (1989), courts have permitted employers to distinguish between
+the sexes in their dress and grooming policies. See, e.g., Jespersen v. Harrah’s Operating Co.,
+444 F.3d 1104, 1110 (9th Cir. 2006) (en banc) (holding that a sex-specific dress code
+that required female employees to wear makeup and nail polish did not constitute
+unlawful sex stereotyping); Frank v. United Airlines, Inc., 216 F.3d 845, 854 (9th Cir.
+2000) (“An appearance standard that imposes different but essentially equal burdens
+on men and women is not disparate treatment”); Harper v. Blockbuster Entm’t Corp., 139
+F.3d 1385, 1387 (11th Cir. 1998) (holding that an employee-appearance policy
+prohibiting men, but not women, from wearing long hair does not violate Title VII);
+Tavora v. N.Y. Mercantile Exch., 101 F.3d 907 (2nd Cir. 1996) (upholding a sex-specific
+grooming policy).
+At bottom, then, the central question in this case is not whether R.G.’s dress
+code relies on customary distinctions between male and female dress. All sex-specific
+employee-appearance policies do that. Rather, the critical question is whether R.G.’s
+sex-specific dress code engages in sex stereotyping of a type that is impermissible under
+7
+
+2:14-cv-13710-SFC-DRG Doc # 60 Filed 05/02/16 Pg 14 of 32
+
+Pg ID 1783
+
+Title VII. Thus to prevail on its motion for summary judgment, the EEOC must
+explain why R.G.’s sex-specific dress code is different from other sex-specific dress
+and grooming policies that have been upheld after Price Waterhouse and that the EEOC
+recognizes are appropriate in its Compliance Manual. But the EEOC does not even
+attempt to do this.
+Nor could it, for there is no meaningful distinction between R.G.’s sex-specific
+dress code and those other sex-specific policies. That is because R.G.’s dress code,
+like those other policies, does not impose an unequal burden on one sex. See Def. SJ
+Mem. at 7-9. And that consideration—whether a dress code imposes an unequal
+burden on one of the sexes—is what matters when determining whether a sex-specific
+dress code violates Title VII. See Jespersen, 444 F.3d at 1110 (“The material issue under
+our settled law is not whether the policies [for men and women] are different, but
+whether the policy imposed on the plaintiff creates an ‘unequal burden’ for the
+plaintiff’s gender”); Barker, 549 F.2d at 401 (holding that a plaintiff who failed to
+allege that his employer’s grooming policy imposed an unequal burden on one sex did
+not state a claim under Title VII); EEOC Compliance Manual § 619.4(d) (“[S]o long
+as the [dress code] requirements are equivalent for men and women with respect to
+the standard or burden that they impose, there is no violation of Title VII.”).
+For example, in Carroll v. Talman Federal Savings and Loan Association of Chicago,
+the Seventh Circuit considered whether Talman Federal’s dress policy, which required
+female employees to wear a “clearly identifiable uniform” but allowed male employees
+8
+
+2:14-cv-13710-SFC-DRG Doc # 60 Filed 05/02/16 Pg 15 of 32
+
+Pg ID 1784
+
+to wear a “variety of normal business attire,” violated Title VII’s prohibition on sex
+discrimination. 604 F.2d 1028, 1032-33 (7th Cir. 1979). The court observed that “[s]o
+long as [employee appearance regulations] find some justification in commonly
+accepted social norms and are reasonable related to the employer’s business needs,
+such regulations are not necessarily violations of Title VII even though the standards
+prescribed differ somewhat for men and women.” Id. at 1032. The court, however,
+concluded that Talman Federal’s dress policy discriminated “based on offensive [sex]
+stereotypes” and was “demeaning to women” because of the “natural tendency to
+assume that the uniformed women have a lesser professional status than their male
+colleagues attired in normal business clothes.” Id. at 1033. In other words, Talman
+Federal’s dress policy discriminated based on sex in violation of Title VII because it
+imposed an unequal burden on female employees: the burden of wearing a
+professionally demeaning uniform.
+Here, however, R.G.’s dress code for funeral directors like Stephens does not
+impose an unequal burden on the sexes because R.G. provides professional suits for
+all funeral directors, whether male or female. See Def. SJ Mem. at 7-9. Thus,
+discharging Stephens because of Stephens’s intent to violate the dress code does not
+violate Title VII.
+
+9
+
+2:14-cv-13710-SFC-DRG Doc # 60 Filed 05/02/16 Pg 16 of 32
+
+B.
+
+Pg ID 1785
+
+Accepting the EEOC’s Argument Would Invalidate All SexSpecific Dress Codes under Title VII.
+
+As discussed above, courts use “equal burdens” analysis to separate unlawful
+sex-specific dress codes from lawful ones. The EEOC, however, asks this Court to
+hold that R.G. engaged in impermissible sex stereotyping when it discharged Stephens
+simply because R.G.’s dress code—the reason for Stephens’s discharge—requires that
+employees “conform to [RG’s] expectations of how someone assigned the male [or
+female] sex at birth” should dress at work. Pl. Mem. at 28. The EEOC thus would
+have this Court ignore equal-burdens analysis and hold that R.G.’s sex-specific dress
+code violates Title VII for the sole reason that it requires employees to dress sex specifically. But
+this would amount to holding that all sex-specific dress codes are unlawful under Title
+VII. Nothing warrants such a significant departure from precedent, congressional
+intent, and common sense.
+No state or federal court of which R.G. is aware has ever held that a sexspecific employee-appearance policy constitutes unlawful sex stereotyping simply
+because it distinguishes between the sexes. Nor has any state or federal court of which
+R.G. is aware ever held that an employer engages in sex stereotyping in violation of
+Title VII simply by requiring its male employees to comply with dress-code
+requirements for male employees and its female employees to comply with dress-code
+requirements for female employees.
+
+10
+
+2:14-cv-13710-SFC-DRG Doc # 60 Filed 05/02/16 Pg 17 of 32
+
+Pg ID 1786
+
+The EEOC relies on Smith v. City of Salem, 378 F.3d 566 (6th Cir. 2004), a case
+involving a biological male firefighter who presented as a female, arguing that there
+the Sixth Circuit held that an employer “violates Title VII when it takes action against
+an employee based on ‘[s]ex stereotyping,’ that is, ‘based on a person’s gender nonconforming behavior.’” Pl. Mem. at 27 (quoting Smith, 378 F.3d at 575). But the
+EEOC ignores a critical difference between the facts in Smith and those in this case:
+Smith did not involve a sex-specific dress code.2 The plaintiff in Smith alleged that his
+employer singled him out for adverse treatment because he “express[ed] less
+masculine, and more feminine mannerisms and appearance.” 378 F.3d at 572. Here,
+however, R.G. did not target Stephens for disparate treatment, but rather evenly
+applied its sex-specific dress code. See Def. SJ Mem. at 10-11. Consequently, Smith
+provides no guidance on the decisive dress-code question at issue in this case.
+Many important considerations have led courts to uphold sex-specific dress
+codes against Title VII challenges, and they counsel against invalidating sex-specific
+dress codes in the manner urged by the EEOC in this case. First, an employer must
+be able to control the manner in which it presents its business to the public through
+its employees. When holding that a company’s sex-specific grooming policy did not
+constitute unlawful sex discrimination, the D.C. Circuit concisely explained the
+significance of a business’s right to control its public image:
+2
+
+Indeed, the EEOC fails to cite a single case where an employer’s dress or grooming regulations
+were at issue.
+
+11
+
+2:14-cv-13710-SFC-DRG Doc # 60 Filed 05/02/16 Pg 18 of 32
+
+Pg ID 1787
+
+Perhaps no facet of business life is more important than a company’s
+place in public estimation. That the image created by its employees
+dealing with the public when on company assignment affects its relations
+is so well known that we may take judicial notice of an employer’s
+proper desire to achieve favorable acceptance.
+Fagan, 481 F.2d at 1124-25. Accepting the EEOC’s position would severely hinder the
+ability of businesses to control their public image. It would, for example, force an
+employer to allow a biological male employee who is bearded and balding to wear
+high heels and a dress to work. But even Stephens testified that this would be
+unacceptable in the funeral industry. Stephens Dep. 126:7-19 (emphasis added) (Def.
+SJ Ex. 35).
+Second, sex-specific dress and grooming policies not only enable businesses to
+control their public image, they also advance legitimate—and even vital—business
+purposes. See Carroll, 604 F.2d at 1032 (observing that employee-dress policies are
+often “related to the employer’s business needs”). That is certainly the case here.
+R.G.’s dress code advances its critical interest in creating an environment free from
+distractions and conducive to the healing process of grieving family members and
+friends. See T. Rost Aff. ¶ 34 (Def. SJ Ex. 1) (“Maintaining a professional dress code
+that is not distracting to grieving families is an essential industry requirement that
+furthers their healing process.”). R.G. thus does not allow funeral directors to wear
+the uniform for members of the opposite sex because that would attract undue
+attention to those funeral directors and disrupt the grieving process for clients. Id. at ¶
+
+12
+
+2:14-cv-13710-SFC-DRG Doc # 60 Filed 05/02/16 Pg 19 of 32
+
+Pg ID 1788
+
+37 (Ex. 1). Title VII does not require businesses to eliminate dress codes that advance
+such legitimate business purposes.
+Third, nothing suggests that Congress intended Title VII to override all sexspecific dress codes, as the EEOC’s argument would do. When enacting Title VII’s
+sex-discrimination prohibition, “Congress sought only to give all persons equal access
+to the job market, not to limit an employer’s right to exercise his informed judgment
+as to how best to run his shop.” Willingham v. Macon Tel. Pub. Co., 507 F.2d 1084, 1092
+(5th Cir. 1975). Thus, using Title VII to invalidate a sex-specific dress code that
+imposes equal burdens on the sexes would stretch the statute far beyond “the intent
+of Congress to . . . guarantee . . . equal job opportunity for males and females.” Id. at
+1091; see also Los Angeles Dept. of Water and Power v. Manhart, 435 U.S. 702, 707 n.13
+(1978) (“In forbidding employers to discriminate against individuals because of their
+sex, Congress intended to strike at the entire spectrum of disparate treatment of men
+and women resulting from sex stereotypes.”) (citation and quotation marks omitted)
+(emphasis added).
+C.
+
+Stephens’s Purported Intent to Abide by R.G.’s Dress Code for
+Female Employees Is Not Relevant.
+
+The EEOC argues that compelling R.G. to allow male employees to wear the
+uniform for female employees would not invalidate all sex-specific dress codes
+because “Stephens fully intended to abide by the female dress code—and to continue
+to dress in a professional manner at work.” Pl. Mem. at 31; see also Pl. Mem. at 29
+13
+
+2:14-cv-13710-SFC-DRG Doc # 60 Filed 05/02/16 Pg 20 of 32
+
+Pg ID 1789
+
+(arguing that Stephens “intended to dress professionally, in a manner consistent with
+[RG’s] dress requirements for women”) (citing Stephens Dep. 133:6-9 (Pl. Ex. Q)).
+This is another sleight-of-hand meant to distract from the central issue in this case.
+In order to utilize a sex-specific dress code to control the public face of its
+business, an employer must be able to do two things. First, the employer must be able
+to dictate sex-differentiated appearance regulations. Second, the employer must be
+able to set an objective standard for determining the sex of an employee. This means
+that the employer must be allowed to apply its sex-specific dress code based on the
+employee’s biological sex rather than his or her gender identity. Otherwise, the sexspecific nature of the dress code is not useful for controlling the image of the
+employer’s business.
+Consider, for example, a company that requires its male employees to wear
+men’s suits and its female employees to wear skirts or dresses. By the EEOC’s logic, a
+male employee could wear a men’s suit to work one day, declare his gender identity to
+be female and wear a skirt the next day, and then declare himself male and switch
+back to a men’s suit at some point in the future, all without violating the company’s
+“sex-specific” dress code. Thus, if the EEOC is right that an employer may establish
+sex-differentiated appearance standards but may not apply those standards based on
+its employees’ biological sex, it is meaningless to say that the employer’s appearance
+standards are sex-differentiated in the first instance.
+
+14
+
+2:14-cv-13710-SFC-DRG Doc # 60 Filed 05/02/16 Pg 21 of 32
+
+Pg ID 1790
+
+Here, the undisputed record evidence establishes that, from the time of hiring
+through the time of termination, Stephens was a biological male. Indeed, this fact is
+conclusively established for purposes of this proceeding. See Pl.’s Resp. to Def.’s First
+Set of Discovery at Request for Admission No. 6 (Def. SJ. Ex. 25) (denying that
+Stephens is “female and not a male for purposes of determining whether discrimination
+on the basis of ‘sex’ has occurred under Title VII”) (emphasis added); Stephens Dep.
+at 49:5-13 (Def. SJ Ex. 14) (testifying that Stephens “was assigned male at birth”). But
+if this Court does not allow R.G. to apply its dress code to Stephens based on
+Stephens’s undisputed status as a biological man, it will transform the sex-specificity
+of R.G.’s dress code into a dead letter that serves no purpose, and in that way, it will
+undermine R.G.’s ability to control its public face and create distraction-free
+environments for grieving families.
+Underlying the EEOC’s arguments is an unstated claim that Stephens is a
+transgender woman and that, because of that alone, Stephens should have been
+allowed to comply with R.G.’s dress code for female funeral directors. But arguing
+that transgendered employees may comply with their employers’ sex-specific dress
+codes in accordance with their gender identity, while non-transgendered employees
+must comply with those dress codes in accordance with their biological sex, essentially
+asserts that transgender status is a protected classification entitled to special treatment
+under Title VII. This Court, however, has already rejected that position in this very
+case. See EEOC v. R.G. & G.R. Harris Funeral Homes, Inc., 100 F. Supp. 3d 594, 595
+15
+
+2:14-cv-13710-SFC-DRG Doc # 60 Filed 05/02/16 Pg 22 of 32
+
+Pg ID 1791
+
+(E.D. Mich. 2015) (holding that “transgender status is not a protected class under
+Title VII”). The EEOC should not be able to avoid the clear import of that holding
+by subtly repackaging its arguments.
+* * *
+The foregoing discussion demonstrates that, as a matter of law, Rost’s
+statement that R.G. discharged Stephens as a result of Stephens’s intent to wear the
+female uniform in violation of R.G.’s sex-specific dress code does not constitute
+direct evidence of unlawful sex stereotyping under Title VII. This Court should thus
+refuse to hold that R.G.’s enforcement of its dress code constitutes unlawful sex
+stereotyping simply because it is sex-specific. Rather, the Court should follow the lead
+of other courts (like the Ninth Circuit in Jespersen), apply equal-burdens analysis to
+R.G.’s dress code, and determine that R.G.—not the EEOC—is entitled to summary
+judgment on the unlawful discharge claim.
+II.
+
+RFRA Prohibits the EEOC from Applying Title VII to Force R.G. to
+Violate its Sincerely Held Religious Beliefs.
+A.
+
+Contrary to the EEOC’s Contentions, Applying Title VII in this
+Case Would Substantially Burden R.G.’s Religious Exercise.
+
+The EEOC contends that its attempt to apply Title VII in this case does not
+substantially burden or even affect R.G.’s religious exercise. See Pl. Mem. at 18-24. Yet
+the EEOC’s arguments rely upon mischaracterizations of R.G.’s RFRA defense. This
+Court should thus reject the EEOC’s position and conclude that R.G. has established
+the prerequisites of its RFRA defense: (1) religious exercise; and (2) substantial burden.
+16
+
+2:14-cv-13710-SFC-DRG Doc # 60 Filed 05/02/16 Pg 23 of 32
+
+Pg ID 1792
+
+Religious Exercise. As R.G. explained in its memorandum in support of its
+motion for summary judgment, Rost and R.G. engage in religious exercise that RFRA
+protects. See Def. SJ Mem. at 15-18. The EEOC tries to reduce R.G.’s religious
+exercise to its “placement of devotionals and cards for the public.” Pl. Mem. at 20.
+But the undisputed facts establish that Rost’s life work of serving those who mourn
+the loss of their loved ones—that is, his very operation of R.G.—constitutes
+protected religious exercise. The Supreme Court has recognized that “the exercise of
+religion involves . . . acts that are engaged in for religious reasons,” which include
+“[b]usiness practices that are compelled . . . by the tenets of a religious doctrine.”
+Burwell v. Hobby Lobby Stores, Inc., 134 S. Ct. 2751, 2770 (2014) (quotation marks and
+citation omitted). Here, the record shows that Mr. Rost’s “faith compels [him]” to
+“serve grieving people” as he does through R.G., see T. Rost Aff. ¶ 10 (Def. SJ Ex. 1)
+(“I believe God has called me to serve grieving people . . . , and my faith compels me
+to do this important work.”). Accordingly, R.G. is not just a business; it is the
+embodiment of Rost’s religious exercise.
+Furthermore, another more specific aspect of R.G.’s and Rost’s religious
+exercise is at issue in this case. R.G. operates consistently with Rost’s sincerely held
+religious beliefs that a person’s sex (whether male or female) is an immutable Godgiven gift and that people should not deny or attempt to change their sex. Id. at ¶ 42.
+Because of these convictions, R.G. will not purchase female attire for a male funeral
+director (or male attire for a female funeral director), or otherwise permit a funeral
+17
+
+2:14-cv-13710-SFC-DRG Doc # 60 Filed 05/02/16 Pg 24 of 32
+
+Pg ID 1793
+
+director to wear the uniform for members of the opposite sex. See id. at ¶¶ 43-46.
+Supreme Court precedent confirms that this qualifies as religious exercise protected
+under RFRA. For just as Hobby Lobby’s religiously motivated business practice of
+declining to pay for its employees’ abortion-inducing drugs is protected religious
+exercise under RFRA, see Hobby Lobby, 134 S. Ct. at 2766, 2775, so is R.G.’s religiously
+motivated decision not to purchase female attire for a male funeral director.3
+These facts about R.G.’s religious exercise show that the EEOC is incorrect
+when it claims that R.G. discharged Stephens simply because Stephens “does not act
+as Rost’s beliefs dictate [Stephens] should.” Pl. Mem. at 20. On the contrary, the
+uncontested evidence establishes that Rost would not have discharged Stephens if
+Stephens had stated an intent to present as a woman on Stephens’s own time while
+complying with R.G.’s dress code at work. Rost 30(b)(6) Dep. 137:11-15 (Def. SJ Ex.
+4); T. Rost Aff. ¶¶ 50-51 (Def. SJ Ex. 1). Thus, the decisive factor in R.G.’s
+employment decision was Stephens’s intent to dress in female attire while representing
+R.G. because what Stephens wears at work implicates Rost’s religious convictions and
+R.G.’s dress code. T. Rost Aff. ¶ 50 (Def. SJ Ex. 1).
+Substantial Burden. As R.G. demonstrated in its memorandum in support of its
+motion for summary judgment, applying Title VII in this case would substantially
+3
+
+The EEOC curiously argues that RFRA protects only “religious exercise, not simply beliefs.” Pl.
+Mem. at 18. This argument is irrelevant because, as explained above, R.G. engages in protected
+religious exercise. But to the extent that it is relevant, it is flatly wrong because “the exercise of
+religion” protected by RFRA includes “belief and profession” as well as “the performance of (or
+abstention from) physical acts that are engaged in for religious reasons.” Hobby Lobby, 134 S. Ct. at
+2770.
+
+18
+
+2:14-cv-13710-SFC-DRG Doc # 60 Filed 05/02/16 Pg 25 of 32
+
+Pg ID 1794
+
+burden R.G.’s and Rost’s religious exercise. See Def. SJ Mem. at 18-19. The EEOC
+disagrees, claiming that “Rost’s religious exercises are not affected” by Stephens’s
+wearing the uniform for female funeral directors, Pl. Mem. at 20, and that “RG[]
+cannot establish a substantial burden” on its exercise of religion, id. at 21.
+But the undisputed facts demonstrate that forcing R.G. to allow Stephens to
+wear the uniform for female funeral directors would require Rost “to engage in
+conduct that seriously violates [his] religious beliefs,” Holt v. Hobbs, 135 S. Ct. 853, 862
+(2015), thus imposing a substantial burden on R.G.’s exercise of religion. See Def. SJ
+Mem. at 18. Moreover, as R.G. has already shown, requiring it to permit a male
+funeral director to wear the uniform for female funeral directors would directly
+interfere with—and thus impose a substantial burden on—R.G.’s ability to carry out
+Rost’s religious exercise of caring for the grieving. Id. at 18-19. It would do this in at
+least two ways. First, allowing a funeral director to wear the uniform for members of
+the opposite sex would often create distractions for the deceased’s loved ones and
+thereby hinder their healing process. T. Rost 30(b)(6) Dep. 54:8-17, 59:13-60:9 (Def.
+SJ Ex. 4); T. Rost Aff. ¶¶ 36-38 (Def. SJ Ex. 1). Second, by forcing R.G. to violate
+Rost’s faith, this application of Title VII would significantly pressure Rost to leave the
+funeral industry and end his ministry to grieving people. T. Rost Aff. ¶ 48 (Def. SJ Ex.
+1). Thus, applying Title VII here would substantially burden R.G.’s and Rost’s
+religious exercise of caring for the grieving.
+
+19
+
+2:14-cv-13710-SFC-DRG Doc # 60 Filed 05/02/16 Pg 26 of 32
+
+B.
+
+Pg ID 1795
+
+The EEOC Has Not Shown that Applying Title VII in this Case
+Satisfies Strict Scrutiny.
+
+The EEOC argues that even if this application of Title VII substantially
+burdens Rost’s religious exercise, that burden is nonetheless justified because it
+purportedly serves a compelling government interest in the “‘eradication of
+employment discrimination based on the criteria identified in Title VII.’” Pl. Mem. at
+25-26 (quoting EEOC v. Preferred Mgmt. Corp., 216 F. Supp. 2d 763, 810 (S.D. Ind.
+2002)). This argument is flawed because RFRA’s strict-scrutiny test focuses not on
+generalized state interests like the eradication of discrimination in employment, but
+rather on the state’s specific interest in applying the law at issue to the party before
+the court and “the asserted harm of granting specific exemptions to [that party].”
+Gonzales v. O Centro Espirita Beneficente Uniao do Vegetal, 546 U.S. 418, 430-31 (2006); see
+also Hobby Lobby, 134 S. Ct. at 2779 (similar); Hurley v. Irish-Am. Gay, Lesbian & Bisexual
+Grp. of Bos., 515 U.S. 557, 578 (1995) (analyzing a nondiscrimination law’s “apparent
+object” when “applied . . . in the way it was done [t]here” rather than its general
+purpose of prohibiting discrimination on all the statutorily “proscribed grounds”).
+Thus, the relevant question is whether the state has a specific compelling interest in
+forcing R.G. to allow its male funeral directors to wear the uniform for female funeral
+directors while on the job. But as R.G. has shown in its memorandum in support of
+its motion for summary judgment, the EEOC has no interest in requiring that. See
+Def. SJ Mem. at 19-20.
+20
+
+2:14-cv-13710-SFC-DRG Doc # 60 Filed 05/02/16 Pg 27 of 32
+
+Pg ID 1796
+
+This need for a particularized analysis of the asserted governmental interest
+explains why the EEOC’s reliance on dicta in Hobby Lobby is unavailing. See Pl. Mem.
+at 24-25. The majority in Hobby Lobby addressed the principal dissent’s contention that
+“discrimination in hiring, for example on the basis of race, might be cloaked as
+religious practice to escape legal sanction.” 134 S. Ct. at 2783 (citing id. at 2804-05
+(Ginsberg, J., dissenting)). The EEOC argues that the Hobby Lobby majority’s rejection
+of the dissent’s contention somehow means that “Title VII serves a compelling
+governmental interest which cannot be overridden by RFRA” in any case. Pl. Mem. at
+24. The EEOC is incorrect.
+The majority in Hobby Lobby stated that its decision “provides no . . . shield”
+against cloaked racial discrimination because the government “has a compelling
+interest in providing an equal opportunity to participate in the workforce without
+regard to race, and prohibitions on racial discrimination are precisely tailored to
+achieve that critical goal.” 134 S. Ct. at 2783. The majority spoke only of racial
+discrimination, not discrimination based on sex, sex stereotyping, or transgender
+status. And it certainly did not discuss the government’s interest in applying Title VII
+to force a funeral home to allow its funeral directors to dress in the uniform for
+members of the opposite sex. Hobby Lobby thus did not address what is at issue here.
+Notably, the Court in Hobby Lobby confirmed that RFRA’s strict-scrutiny
+analysis demands a “focused inquiry” that “look[s] beyond broadly formulated
+interests” and scrutinizes the government’s particularized interest in applying its law
+21
+
+2:14-cv-13710-SFC-DRG Doc # 60 Filed 05/02/16 Pg 28 of 32
+
+Pg ID 1797
+
+under the specific circumstances. Id. at 2779 (quotation marks and alterations omitted).
+Hobby Lobby thus leaves no doubt that each court must scrutinize the facts before it to
+determine whether that particular application of a government mandate satisfies strict
+scrutiny. Therefore, the EEOC’s attempt to invoke Hobby Lobby in its effort to bypass
+the particularized analysis that Hobby Lobby mandates is unpersuasive.
+Finally, it is telling that the EEOC does not even attempt to explain why
+forcing R.G. to allow its funeral directors to wear uniforms for members of the
+opposite sex satisfies RFRA’s least-restrictive-means requirement. The EEOC’s
+silence on this point is not at all surprising because “[t]he least-restrictive-means
+standard is exceptionally demanding.” Id. at 2780. Thus, for the reasons explained in
+R.G.’s memorandum in support of its motion for summary judgment, this Court
+should find that the EEOC has not satisfied the least-restrictive-means requirement,
+see Def. SJ Mem. at 20-21, conclude that R.G. must prevail on its RFRA defense, and
+declare that R.G. (not the EEOC) is entitled to summary judgment on the EEOC’s
+unlawful discharge claim.4
+III.
+
+The EEOC Is Not Entitled to Summary Judgment on Its ClothingAllowance Claim.
+The EEOC also contends that R.G. violates Title VII through a purported
+
+4
+
+The EEOC also argues that the application of Title VII in this case does not violate R.G.’s freeexercise rights under the First Amendment. See Pl. Mem. at 15-17. Because RFRA provides more
+expansive protection for R.G.’s free-exercise rights than the First Amendment does, and because
+R.G. is entitled to summary judgment on its RFRA defense, the Court need not reach R.G.’s First
+Amendment free-exercise defense. See Hobby Lobby, 134 S. Ct. at 2785 (concluding, after finding a
+RFRA violation, that it was “unnecessary to reach the First Amendment claim”).
+
+22
+
+2:14-cv-13710-SFC-DRG Doc # 60 Filed 05/02/16 Pg 29 of 32
+
+Pg ID 1798
+
+“policy of paying for the work clothing of male employees” but not “provid[ing] a
+comparable benefit to female employees.” Pl. Mem. at 32. This argument also fails.
+First, the EEOC does not have standing to maintain a claim with respect to
+R.G.’s clothing allowance on behalf of a class of female employees. As explained in
+R.G.’s memorandum in support of its motion for summary judgment, see Def. SJ
+Mem. at 21-24, because the clothing-allowance claim is “unrelated to [the charging]
+party” and involves discrimination “of a kind other than that raised by [the charging
+party],” it is not the result of an “investigation reasonably expected to grow out of
+[Stephens’s] charge of discrimination.” EEOC v. Bailey Co., 563 F.2d 439, 446-448 (6th
+Cir. 1977), disapproved of on other grounds by Christiansburg Garment Co. v. EEOC, 434 U.S.
+412 (1978). Consequently, the EEOC lacks authority to raise the claim in this lawsuit.
+Second, contrary to the EEOC’s assertions, the undisputed facts demonstrate
+that R.G. provides equivalent clothing benefits to male employees and female
+employees. For funeral directors, it is R.G.’s policy to provide all of them (whether
+male or female) with company-issued suits. See Def. SJ Mem. at 24. For employees
+who interact with the public in positions other than funeral director, even though the
+male employees receive company-issued suits and the female employees receive a
+clothing allowance, both sexes receive clothing benefits that enable them to conform
+to the dress code and replace worn clothing as necessary. See id. at 24-25. And for
+employees in positions that do not interact with the public, no one (regardless of their
+sex) receives clothes or a clothing allowance. See id. at 25.
+23
+
+2:14-cv-13710-SFC-DRG Doc # 60 Filed 05/02/16 Pg 30 of 32
+
+Pg ID 1799
+
+The EEOC claims that the benefits are not comparable because the clothing
+allowance for female employees who interact with the public in positions other than
+funeral director is only $150 for full-time employees and $75 for part-time employees,
+while the suit purchased for comparable male employees is worth “in excess of $200.”
+Pl. Mem. at 33. This argument ignores that these female employees are given the
+allowance every year, while the men’s suits are used until they wear out. Thus, if a
+part-time male employee has his suit for three years, the value of what he receives
+during that time is approximately $225, and a part-time female employee who works
+during those same three years has equally received clothing allowance checks in the
+amount of $225. Or if that male employee’s suit lasts for five years, which is common
+for part-time male employees, see T. Rost Dep. 18:10-24 (Def. SJ Ex. 3), the value of
+what he receives ($225) is far less than what a comparable female employee obtains
+over that time ($375). So the EEOC’s suggestion that R.G.’s clothing benefits
+discriminate against female employees is simply mistaken.
+For these reasons, R.G.—not the EEOC—is entitled to summary judgment on
+the EEOC’s clothing-allowance claim.
+Conclusion
+For the foregoing reasons, R.G. respectfully requests that the Court deny the
+EEOC’s motion for summary judgment.
+
+24
+
+2:14-cv-13710-SFC-DRG Doc # 60 Filed 05/02/16 Pg 31 of 32
+
+Pg ID 1800
+
+Dated: May 2, 2016
+Respectfully submitted,
+/s/ Douglas G. Wardlow
+Douglas G. Wardlow
+James A. Campbell (AZ Bar 026737)
+Douglas G. Wardlow (AZ Bar 032028)
+Joseph P. Infranco (NY Bar 1268739)
+Bradley S. Abramson (AZ Bar 029470)
+ALLIANCE DEFENDING FREEDOM
+15100 N. 90th Street
+Scottsdale, AZ 85260
+(480) 444-0020
+(480) 444-0028 Fax
+jcampbell@ADFlegal.org
+dwardlow@ADFlegal.org
+jinfranco@ADFlegal.org
+babramson@ADFlegal.org
+Joel J. Kirkpatrick (P62851)
+JOEL J. KIRKPATRICK, P.C.
+843 Penniman Ave., Suite 201
+Plymouth, MI 48170
+(734) 404-5710
+(866) 241-4152 Fax
+joel@joelkirkpatrick.com
+Attorneys for Defendant
+
+25
+
+2:14-cv-13710-SFC-DRG Doc # 60 Filed 05/02/16 Pg 32 of 32
+
+Pg ID 1801
+
+CERTIFICATE OF SERVICE
+I hereby certify that on May 2, 2016, I electronically filed the foregoing
+Opposition to EEOC’s Motion for Summary Judgment and all accompanying papers
+(which include the Exhibits in Support of this Opposition) with the Clerk of the
+Court using the ECF system, which will send notification of this filing to all parties in
+the case.
+/s/ Douglas G. Wardlow
+Douglas G. Wardlow
+
+26
+
+

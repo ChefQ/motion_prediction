@@ -1,0 +1,1971 @@
+Case 1:07-cv-10329-RJS
+
+Document 28
+
+Filed 07/25/2008
+
+Page 1 of 50
+
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+
+x
+CITY OF LIVONIA EMPLOYEES’
+:
+RETIREMENT SYSTEM, On Behalf of Itself :
+and All Others Similarly Situated,
+:
+:
+Plaintiff,
+:
+:
+vs.
+:
+:
+WYETH, et al.,
+:
+:
+Defendants.
+:
+x
+
+Civil Action No. 1:07-cv-10329-RJS
+CLASS ACTION
+ECF CASE
+MEMORANDUM OF LAW IN
+OPPOSITION TO DEFENDANTS’ MOTION
+TO DISMISS THE CONSOLIDATED
+COMPLAINT FOR VIOLATIONS OF THE
+FEDERAL SECURITIES LAWS
+
+Case 1:07-cv-10329-RJS
+
+Document 28
+
+Filed 07/25/2008
+
+Page 2 of 50
+
+TABLE OF CONTENTS
+Page
+I.
+
+Introduction..........................................................................................................................1
+
+II.
+
+Statement of Facts................................................................................................................4
+A.
+
+Pristiq Was Vitally Important to Wyeth’s Financial Health....................................4
+
+B.
+
+Statistically Significant Evidence of Serious Adverse Effects Associated
+with Pristiq Were Known by Defendants by 2005 ..................................................5
+
+C.
+
+The Truth Is Uncovered About the Serious Cardiovascular and Hepatic
+Effects Associated with Pristiq ................................................................................8
+
+D.
+
+Post-Class Period Events .........................................................................................9
+
+III.
+
+Legal Standard for Determining Defendants’ Motion to Dismiss .......................................9
+
+IV.
+
+Defendants’ Actionable Misrepresentations and Omissions About Pristiq.......................11
+
+V.
+
+A.
+
+The Complaint Identifies Defendants’ False Statements and Omissions
+and Details Why the Statements Were Misleading When Made...........................13
+
+B.
+
+Defendants’ Statements Were False and Misleading for Failing to Disclose
+the Material Adverse Events Revealed in Study 315.............................................15
+
+C.
+
+Neither the PSLRA Safe Harbor Nor the Bespeaks Caution Doctrine
+Shield Defendants’ Misstatements and Omissions About Pristiq..........................19
+
+D.
+
+Defendants Cannot Establish a Truth-on-the-Market Defense..............................23
+
+Plaintiffs Pled Defendants’ Scienter with More than Sufficient Particularity...................26
+A.
+
+The Complaint Sufficiently Alleges Facts Demonstrating Defendants’
+Knowledge or Reckless Disregard of the Pristiq Adverse Effects ........................27
+
+B.
+
+Plaintiffs Also Identify Defendants’ Motive and Opportunity to Commit
+the Fraud ................................................................................................................30
+
+VI.
+
+Plaintiffs Have Properly Alleged Loss Causation .............................................................36
+
+VII.
+
+Plaintiffs Have Alleged a Claim Under Section 20(a).......................................................39
+
+VIII.
+
+Conclusion .........................................................................................................................40
+
+-i-
+
+Case 1:07-cv-10329-RJS
+
+Document 28
+
+Filed 07/25/2008
+
+Page 3 of 50
+
+TABLE OF AUTHORITIES
+Page
+CASES
+ATSI Commc’ns, Inc. v. Shaar Fund, Ltd.,
+493 F.3d 87 (2d Cir. 2007).................................................................................................10
+Basic Inc. v. Levinson,
+485 U.S. 224 (1988)...........................................................................................................18
+Bell Atl. Corp. v. Twombly,
+__ U.S. __, 127 S. Ct. 1955 (2007)................................................................................9, 15
+Caiola v. Citibank, N.A.,
+295 F.3d 312 (2d Cir. 2002).........................................................................................15, 21
+Chiarella v. United States,
+445 U.S. 222 (1980)...........................................................................................................33
+Constr. Laborers Pension Trust of Greater St. Louis v. Neurocrine Biosciences, Inc.,
+No. 07CV1111-IEG-RBB, 2008 U.S. Dist. LEXIS 38899 (S.D. Cal. May 13,
+2008) ..................................................................................................................................25
+Credit Suisse First Boston Corp. v. ARM Fin. Group, Inc.,
+No. 99 CIV-12046 WHP, 2001 U.S. Dist. LEXIS 3332
+(S.D.N.Y. Mar. 28, 2001) ..................................................................................................21
+Dura Pharms., Inc. v. Broudo,
+544 U.S. 336 (2005)................................................................................................... passim
+Emergent Capital Inv. Mgmt., LLC v. Stonepath Group, Inc.,
+343 F.3d 189 (2d Cir. 2003)...............................................................................................38
+Fogarazzo v. Lehman Bros., Inc.,
+341 F. Supp. 2d 274 (S.D.N.Y. 2004)..................................................................................9
+Freeland v. Iridium World Commc’ns, Ltd.,
+545 F. Supp. 2d 59 (D.D.C. 2008) .....................................................................................25
+Ganino v. Citizens Utils.,
+228 F.3d 154 (2d Cir. 2000)...............................................................................................26
+Gargiulo v. Demartino,
+527 F. Supp. 2d 384 (E.D. Pa. 2007) .................................................................................33
+
+- ii -
+
+Case 1:07-cv-10329-RJS
+
+Document 28
+
+Filed 07/25/2008
+
+Page 4 of 50
+
+Page
+Helwig v. Vencor,
+251 F.3d 540 (6th Cir. 2001) .......................................................................................28, 35
+In re Amgen Inc. Sec. Litig.,
+544 F. Supp. 2d 1009 (C.D. Cal. 2008) .............................................................................11
+In re Amylin Pharms., Inc. Sec. Litig.,
+No. 01cv1455 BTM (NLS), 2003 U.S. Dist. LEXIS 7667
+(S.D. Cal. May 1, 2003)...............................................................................................12, 32
+In re AOL Time Warner Sec. & “ERISA” Litig.,
+381 F. Supp. 2d 192 (S.D.N.Y. 2004)................................................................................19
+In re Astea Int’l Inc. Sec. Litig.,
+No. 06-1467, 2007 U.S. Dist. LEXIS 58238
+(E.D. Pa. Aug. 8, 2007)......................................................................................................24
+In re AstraZeneca, Sec. Litig.,
+No. 05 Civ. 2688 (TPG), 2008 U.S. Dist. LEXIS 43680
+(S.D.N.Y. June 3, 2008).....................................................................................................20
+In re Bristol-Myers Squibb Sec. Litig.,
+312 F. Supp. 2d 549 (S.D.N.Y. 2004)................................................................................20
+In re Carter-Wallace Sec. Litig.,
+220 F.3d 36 (2d Cir. 2000)...........................................................................................15, 23
+In re Cell Pathways, Inc., Sec. Litig.,
+No. 99-752, 2000 U.S. Dist. LEXIS 8584
+(E.D. Pa. June 21, 2005) ....................................................................................................23
+In re Columbia Sec. Litig.,
+155 F.R.D. 466 (S.D.N.Y. 1994) .......................................................................................26
+In re Connetics Corp. Sec. Litig.,
+542 F. Supp. 2d 996 (N.D. Cal. 2008) ...............................................................................20
+In re CV Therapeutics Sec. Litig.,
+No. C 03-03709 SI, 2004 U.S. Dist. LEXIS 17419
+(N.D. Cal. Aug. 5, 2004)....................................................................................................21
+In re Daou Sys.,
+411 F.3d 1006 (9th Cir. 2005) ...........................................................................................36
+- iii -
+
+Case 1:07-cv-10329-RJS
+
+Document 28
+
+Filed 07/25/2008
+
+Page 5 of 50
+
+Page
+In re Elan Corp. Sec. Litig.,
+543 F. Supp. 2d 187 (S.D.N.Y. 2008)................................................................................16
+In re Forest Labs. Sec. Litig.,
+No. 05 Civ. 2827 (RMB), 2006 U.S. Dist. LEXIS 97475
+(S.D.N.Y. July 19, 2006) ...................................................................................................11
+In re IBM Corporate Sec. Litig.,
+163 F.3d 102 (2d Cir. 1998)...............................................................................................19
+In re Immune Response Sec. Litig.,
+375 F. Supp. 2d 983 (S.D. Cal. 2005)................................................................................18
+In re KeySpan Corp. Sec. Litig.,
+383 F. Supp. 2d 358 (E.D.N.Y. 2003) ...............................................................................35
+In re Monster Worldwide, Inc. Sec. Litig.,
+No. 07 Civ. 2237 (JSR), 2008 U.S. Dist LEXIS 19573
+(S.D.N.Y. Mar. 4, 2008) ....................................................................................................30
+In re MTC Elec. Techs. S’holders Litig.,
+898 F. Supp. 974 (E.D.N.Y. 1995) ....................................................................................35
+In re NeoPharm, Inc. Sec. Litig.,
+No. 02 C 2976, 2003 U.S. Dist. LEXIS 1862
+(N.D. Ill. Feb. 7, 2003).......................................................................................................29
+In re Nortel Networks Corp. Sec. Litig.,
+238 F. Supp. 2d 613 (S.D.N.Y. 2003)................................................................................21
+In re NPS Pharms., Inc.,
+No. 2:06-cv-00570, 2007 U.S. Dist. LEXIS 48713
+(D. Utah July 3, 2007)........................................................................................................12
+In re Omnicom Group, Inc. Sec. Litig.,
+No. 02 Civ. 4483 (RCC), 2005 U.S. Dist. LEXIS 5272
+(S.D.N.Y. Mar. 30, 2005) ..................................................................................................17
+In re Openwave Sys. Sec. Litig.,
+528 F. Supp. 2d 236 (S.D.N.Y. 2007)................................................................................28
+In re Oxford Health Plans, Inc. Sec. Litig.,
+187 F.R.D. 133 (S.D.N.Y. 1999) .................................................................................34, 35
+- iv -
+
+Case 1:07-cv-10329-RJS
+
+Document 28
+
+Filed 07/25/2008
+
+Page 6 of 50
+
+Page
+In re Par Pharm., Inc. Sec. Litig.,
+733 F. Supp. 668 (S.D.N.Y. 1990) ....................................................................................15
+In re Pfizer Inc. Sec. Litig.,
+No. 04 Civ. 9866 (LTS) (DCF), 2008 U.S. Dist. LEXIS 50923
+(S.D.N.Y. July 1, 2008) ............................................................................................. passim
+In re Quintel Entm’t Inc. Sec. Litig.,
+72 F. Supp. 2d 283 (S.D.N.Y. 1999)..................................................................................35
+In re Regeneron Pharms., Inc. Sec. Litig.,
+No. 03 Civ. 3111 (RWS), 2005 U.S. Dist. LEXIS 1350
+(S.D.N.Y. Feb. 3, 2005) .........................................................................................12, 19, 29
+In re Scholastic Corp. Sec. Litig.,
+252 F.3d 63 (2d Cir. 2001)......................................................................................... passim
+In re Scottish Re Group,
+524 F. Supp. 2d 370 (S.D.N.Y. 2007)..........................................................................39, 40
+In re Sepracor, Inc. Sec. Litig.,
+308 F. Supp. 2d 20 (D. Mass. 2004) ............................................................................12, 29
+In re Suprema Specialties, Inc. Sec. Litig.,
+438 F.3d 256 (3d Cir. 2006).........................................................................................10, 35
+In re U.S. Interactive, Inc. Sec. Litig.,
+No. 01-cv-522, 2002 U.S. Dist. LEXIS 16009
+(E.D. Pa. Aug. 23, 2002)....................................................................................................35
+In re Vicuron Pharms., Inc. Sec. Litig.,
+No. 04-2627, 2005 U.S. Dist. LEXIS 15613
+(E.D. Pa. July 1, 2005).................................................................................................12, 29
+In re Viropharma, Inc., Sec. Litig.,
+No. 02-1627, 2003 U.S. Dist. LEXIS 5623
+(E.D. Pa. Apr. 7, 2003) ..........................................................................................12, 23, 29
+In re Vivendi Universal, S.A. Sec. Litig.,
+381 F. Supp. 2d 158 (S.D.N.Y. 2003)....................................................................13, 14, 21
+In re Zyprexa Prods. Liab. Litig.,
+549 F. Supp. 2d 496 (E.D.N.Y. 2008) ...............................................................................24
+-v-
+
+Case 1:07-cv-10329-RJS
+
+Document 28
+
+Filed 07/25/2008
+
+Page 7 of 50
+
+Page
+Irvine v. ImClone Sys.,
+No. 02 Civ. 109 (RO), 2003 U.S. Dist. LEXIS 9342
+(S.D.N.Y. June 4, 2003)...............................................................................................21, 22
+Lapin v. Goldman Sachs Group, Inc.,
+506 F. Supp. 2d 221 (S.D.N.Y. 2006)................................................................................15
+Lentell v. Merrill Lynch & Co.,
+396 F.3d 161 (2d Cir. 2005).........................................................................................36, 39
+Makor Issues & Rights, Ltd. v. Tellabs Inc.,
+513 F.3d 702 (7th Cir. 2008) .......................................................................................29, 31
+McCarthy v. Dun & Bradstreet Corp.,
+482 F.3d 184 (2d Cir. 2007).................................................................................................9
+Miss. Pub. Employees Ret. Sys. v. Boston Sci. Corp.,
+523 F.3d 75 (1st Cir. 2008)..............................................................................10, 11, 18, 32
+Moore U.S.A., Inc. v. Standard Register Co.,
+139 F. Supp. 2d 348 (W.D.N.Y. 2001) ..............................................................................24
+Noble Asset Mgmt. v. Allos Therapeutics, Inc.,
+No. CIVA-04CV-1030-RPM, 2005 WL 4161977
+(D. Colo. Oct. 20, 2005) ..............................................................................................20, 22
+Novak v. Kasaks,
+216 F.3d 300 (2d Cir. 2000).........................................................................................10, 29
+Oran v. Stafford,
+226 F.3d 275 (3d Cir. 2000)...............................................................................................19
+Phelps v. Kapnolas,
+308 F.3d 180 (2d Cir. 2002).................................................................................................9
+Robertson v. Strassner,
+32 F. Supp. 2d 443 (S.D. Tex. 1998) .................................................................................20
+Roth v. Aon Corp.,
+No. 04-C-6835, 2008 U.S. Dist. LEXIS 18471
+(N.D. Ill. Mar. 7, 2008)......................................................................................................27
+Rothman v. Gregor,
+220 F.3d 81 (2d Cir. 2000)...........................................................................................17, 34
+- vi -
+
+Case 1:07-cv-10329-RJS
+
+Document 28
+
+Filed 07/25/2008
+
+Page 8 of 50
+
+Page
+Rubinstein v. Collins,
+20 F.3d 160 (5th Cir. 1994) ...............................................................................................35
+Ruskin v. TIG Holdings, Inc.,
+No. 98 Civ. 1068 (LLS), 2000 U.S. Dist. LEXIS 11517
+(S.D.N.Y. Aug. 14, 2000) ..................................................................................................22
+Schlagel v. Learning Tree Int’l,
+No. CV 98-6384 ABC(Ex), 1998 U.S. Dist. LEXIS 20306
+(C.D. Cal. Dec. 23, 1998) ..................................................................................................35
+SEC v. Capital Gains Research Bureau, Inc.,
+375 U.S. 180 (1963).............................................................................................................2
+Tellabs, Inc. v. Makor Issues & Rights, Ltd.,
+__ U.S. __, 127 S. Ct. 2499 (2007)............................................................................ passim
+STATUTES, RULES AND REGULATIONS
+15 U.S.C.
+§78j(b)..................................................................................................................................1
+§78t(a) ..................................................................................................................................1
+§78u-4(b)(1).........................................................................................................................9
+§78u-5 ................................................................................................................................22
+§78u-5(a)............................................................................................................................20
+§78u-5(c)............................................................................................................................19
+§78u-5(c)(1)(A)(i)..............................................................................................................21
+17 C.F.R.
+§240.10b-5 ...................................................................................................................19, 40
+Federal Rules of Civil Procedure
+Rule 8(a)(2)..................................................................................................................11, 36
+Rule 9(b) .................................................................................................................... passim
+Rule 12(b)(6)............................................................................................................9, 25, 38
+
+- vii -
+
+Case 1:07-cv-10329-RJS
+
+Document 28
+
+Filed 07/25/2008
+
+Page 9 of 50
+
+Lead Plaintiff, the Pipefitters Union Local 537 Pension Fund and named plaintiff City of
+Livonia Employees’ Retirement System (collectively, “Plaintiffs”), have brought this action against
+Wyeth (the “Company”) and the Company’s Chief Executive Officer, Robert Essner, Senior Vice
+President, Joseph Mahady, Chief Financial Officer, Kenneth Martin, Chief Operating Officer,
+Bernard Poussot, Senior Vice President of Wyeth Research, Robert Ruffolo, Jr., and Vice President
+of Women’s Health, Ginger Constantine (collectively, “Defendants”), for violations of §§10(b) and
+20(a) of the Securities Exchange Act of 1934 (the “Exchange Act”).
+I.
+
+Introduction
+This securities fraud class action seeks to recover damages sustained in connection with
+
+Defendants’ actionable misrepresentations and omissions concerning the safety of Wyeth’s leading
+drug candidate Pristiq for the treatment of vasomotor symptoms (“VMS”). Contrary to Defendants’
+contentions, this case does not arise out of Defendants’ failure to predict whether the Food & Drug
+Administration (“FDA”) would approve Pristiq for marketing to post-menopausal women for the
+treatment of VMS. Rather, this case is about Defendants’ concealment throughout the June 26,
+2006-July 24, 2007 Class Period of material adverse data about serious cardiovascular and hepatic
+adverse effects, including heart attacks, coronary occlusions and hypertension, associated with the
+use of Pristiq. While these adverse effects were known to Defendants by no later than May 2005, it
+was not until July 24, 2007, after the FDA refused to approve Pristiq for VMS, that Defendants
+revealed “the potential for serious adverse cardiovascular and hepatic effects associated with the use
+of Pristiq [for VMS].” ¶107.1 Upon the revelation of these facts, long known to Defendants,
+
+1
+
+All “¶” references are to the Consolidated Complaint for Violations of the Federal Securities
+Laws (“Complaint”), filed April 11, 2008. Throughout this brief, all emphasis has been added and
+citations omitted unless otherwise noted.
+
+-1-
+
+Case 1:07-cv-10329-RJS
+
+Document 28
+
+Filed 07/25/2008
+
+Page 10 of 50
+
+Wyeth’s stock fell $5.70 per share on heavy volume and continued to drop sharply over the
+following trading days. ¶¶47, 112, 133.
+The fundamental purpose of the federal securities laws is “to substitute a philosophy of full
+disclosure for the philosophy of caveat emptor and thus to achieve a high standard of business ethics
+in the securities industry.” SEC v. Capital Gains Research Bureau, Inc., 375 U.S. 180, 186 (1963).
+When, as here, defendants fail to provide full disclosure and violate §10(b) of the Exchange Act, a
+plaintiff must plead: (1) a material misrepresentation or omission (falsity); (2) made with scienter;
+(3) in connection with the purchase or sale of a security; (4) relied upon by plaintiffs; (5) a loss
+causally connected to the alleged fraud; and (6) economic loss or damages. Dura Pharms., Inc. v.
+Broudo, 544 U.S. 336, 341-42 (2005); see also In re Pfizer Inc. Sec. Litig., No. 04 Civ. 9866 (LTS)
+(DCF), 2008 U.S. Dist. LEXIS 50923, at *17-*18 (S.D.N.Y. July 1, 2008).
+Defendants concede, by their silence, that Plaintiffs have properly pled the elements of
+reliance and economic loss. Moreover, Defendants do not deny that even before the beginning of
+the Class Period, they knew that the Phase 3 testing of Pristiq for the treatment of VMS (“Study
+315”) resulted in a statistically significant rate of adverse effects for study patients on Pristiq versus
+those on a placebo. Worse, the very target market for Pristiq was particularly susceptible to these
+adverse effects, which included heart attacks, coronary occlusions, hypertension and liver damage.
+¶¶67(a), (c), 78(a), (c), 84(a), (c), 90(a), (c), 95(a), (c), 105(a), (c). These adverse effects put the
+commercial viability of Pristiq at risk, if not actually extinguishing it completely. ¶¶111, 114, 118120. Given that Wyeth was heavily reliant on the VMS indication for Pristiq’s commercial success,
+as well as to replace billions of dollars in lost revenue, the undisclosed results of Study 315 were
+highly material to investors.
+
+-2-
+
+Case 1:07-cv-10329-RJS
+
+Document 28
+
+Filed 07/25/2008
+
+Page 11 of 50
+
+Confronted with the facts of their fraud, Defendants resort to claiming that the negative
+Pristiq study results did not need to be disclosed or, alternatively, that they were disclosed in May
+2007, albeit partially at best and several years after Defendants knew about the negative results.
+Defendants are wrong on both counts. The negative information about Pristiq was statistically
+significant and certainly threatened the commercial viability of the drug for VMS. ¶¶67(c), 78(c),
+84(c), 90(c), 95(c), 105(c), 111, 114, 118-120. A fundamental purpose of the federal securities laws
+is to ensure that investors are quickly, accurately and completely apprised of material information.
+Defendants cannot dodge that purpose by claiming that their statements were “forward looking” – at
+all times during the Class Period, the omitted Study 315 results were a historical fact – or hiding
+behind boilerplate disclosures that made no mention of the known adverse effects associated with
+Pristiq. Nor can Defendants hide behind their incomplete and inaccurate “disclosure” in May 2007.
+The failure to disclose the full extent and statistical significance of the adverse effects associated
+with Pristiq, as well as the heavily fact-specific nature of the “truth on the market defense,” provide
+no basis for dismissal.
+While Defendants challenge the allegations of scienter, Plaintiffs have provided specific (and
+unrefuted) allegations of both Defendants’ knowledge of the adverse effects associated with Pristiq
+and Defendants’ motive and opportunity to commit the fraud: salvaging Pristiq’s marketability for
+other uses; stemming billions of dollars in lost income from generic versions of Effexor; remaining
+viable in the women’s health market after the collapse of Premarin and Prempro; and personally
+dumping more than 1.55 million shares of Wyeth stock for insider trading proceeds of $83.32
+million. ¶¶7, 11-15, 121-130. When considered collectively, as they must be under the Supreme
+Court’s holding in Tellabs, these allegations are “cogent and compelling” and the inference of
+
+-3-
+
+Case 1:07-cv-10329-RJS
+
+Document 28
+
+Filed 07/25/2008
+
+Page 12 of 50
+
+scienter is easily “at least as compelling as any opposing inference.” Tellabs, Inc. v. Makor Issues &
+Rights, Ltd., __ U.S. __, 127 S. Ct. 2499, 2510 (2007).
+Defendants’ final challenge, attacking the allegations of loss causation, essentially ignores
+the pleading standard set by the Supreme Court in Dura. Plaintiffs need only set forth what the
+relevant loss to shareholders “might be” and “what the causal connection might be between” the loss
+and the alleged misconduct. Dura, 544 U.S. at 347. Plaintiffs have done just that, identifying the
+$5.70 per share decline in Wyeth’s stock price on July 24, 2007 and linking that drop to Defendants’
+belated disclosure of the cardiovascular and hepatic adverse effects associated with Pristiq. ¶¶131134. No more is required to plead loss causation.
+Plaintiffs’ Complaint in every respect satisfies the pleading requirements of the Exchange
+Act, the Private Securities Litigation Reform Act (“PSLRA”) and Federal Rule of Civil Procedure
+9(b). Therefore, Plaintiffs respectfully request that Defendants’ Motion to Dismiss be denied.
+II.
+
+Statement of Facts
+A.
+
+Pristiq Was Vitally Important to Wyeth’s Financial Health
+
+By the beginning of the Class Period, Wyeth intended to market Pristiq for both the treatment
+of VMS and major depressive disorder (“MDD”). ¶16. However, it was Pristiq’s use for the
+treatment of VMS that was essential to make the drug a commercially viable billion-dollar product.
+¶¶13, 15-19, 33-34. Early Phase 3 studies showed that Pristiq for the treatment of MDD failed to
+differentiate in any way from Wyeth’s best selling, but soon to be generic, anti-depressant drug
+Effexor. ¶15. While Wyeth still proceeded to obtain FDA approval for the MDD indication, it
+caused analysts and investors to question the commercial value of Pristiq as a “me-too” drug for
+MDD. Id. The Company desperately needed to create a distinction between the two drugs. Id.
+Thus, prior to the Class Period, Defendants began promoting Pristiq for the treatment of VMS.
+¶¶16-19.
+-4-
+
+Case 1:07-cv-10329-RJS
+
+Document 28
+
+Filed 07/25/2008
+
+Page 13 of 50
+
+As alleged in the Complaint, Pristiq for VMS was critical to Wyeth’s long-term financial
+health. ¶¶9-20. In the United States alone nearly 23 million women suffer from VMS. ¶7. Prior to
+2002, the first-line treatment for VMS was hormone therapy, such as Wyeth’s Premarin and
+Prempro. Id. These drugs were struck a blow, however, when in July 2002, the Women’s Health
+Initiative Hormone Program (“WHI”), published a 15-year study which concluded that Premarin
+increased the risks of stroke and blood clots and that Prempro caused an increased risk of breast
+cancer, heart disease, stroke, blood clots and urinary incontinence. Id. As a result, Wyeth’s sales of
+Premarin and Prempro plummeted from $4.4 billion in 2001 to under $880 million in 2004 and the
+Company desperately needed a way to tap into the lucrative women’s health market. Id. Pristiq,
+touted as the first non-hormonal therapy for VMS, was going to be the answer. Id. Indeed, Pristiq
+for VMS was projected to generate more than $2 billion in annual peak sales for Wyeth. ¶¶18, 34,
+74-75, 114.
+Pristiq was also important to Wyeth because its new drug “pipeline” was drying up and the
+Company faced the loss of significant income from drugs set to go off-patent. ¶11. The U.S. patent
+protection for Effexor expired in 2006 and generic versions were already “cannibalizing” Wyeth’s
+revenue streams by August 2006. Id. Even more daunting for Wyeth, the patent protection for
+Effexor XR was set to expire in 2008 and generic versions of the drug were expected to launch in
+June 2010. Id. Pristiq was slated as the drug to replace the revenue streams from Effexor and
+Effexor XR as their patents expired and went generic, and the ability to bring Pristiq VMS to market
+was essential to the future growth of the Company. ¶13.
+B.
+
+Statistically Significant Evidence of Serious Adverse Effects
+Associated with Pristiq Were Known by Defendants by 2005
+
+Well before the beginning of the Class Period, Defendants conducted three Phase 3 trials of
+Pristiq’s safety and efficacy in treating VMS. ¶6. By the time Wyeth completed the Phase 3 VMS
+-5-
+
+Case 1:07-cv-10329-RJS
+
+Document 28
+
+Filed 07/25/2008
+
+Page 14 of 50
+
+clinical trials, the Company had invested several years and tens of millions of dollars to develop the
+drug and prepare it for marketing. Id.
+As of the start of the Class Period, Pristiq was one of only a few drugs in Wyeth’s
+development pipeline with revenue producing potential and a chance to offset both the declining
+revenues the Company faced as Effexor XR went generic and the market’s reaction to the WHI
+studies. ¶21. As a result, investors and analysts were highly focused on Pristiq for VMS and, in
+turn, Defendants touted the success of the Pristiq clinical trial. Id.
+While Defendants were touting the benefits of Pristiq – both for women with VMS and for
+Wyeth’s corporate coffers – and expressing their confidence in a timely launch of Pristiq in 2007,
+they knew that a significant number of women taking Pristiq had already suffered serious adverse
+events (“SAEs”) during Phase 3 VMS clinical trials. ¶¶22, 67, 78, 84, 90, 95, 105. Specifically,
+Study 315, which commenced in December 2003 and was completed by May 2005 (¶23), revealed
+that the use of Pristiq for the treatment of VMS caused serious hepatic (liver damage) and
+cardiovascular side effects such as heart attacks, coronary artery obstructions and hypertension.
+¶¶25, 67, 78, 84, 90, 95, 105. In fact, during Study 315, 27 women taking Pristiq suffered SAEs,
+including three coronary occlusions and two heart attacks. Id.
+Incidents of hypertension in Study 315 were even worse. Study 315 showed that women
+taking Pristiq for VMS were 353% to 508% more likely to suffer hypertension in comparison to
+women taking placebo. ¶25. Study 315 also showed that incidents of hypertension increased with
+dosage. For instance, hypertension was reported in only 1.3% of the placebo-treated group, while an
+average of 5.9% of all women in the Pristiq-treated group reported hypertension and 7.9% of women
+receiving a 200-mg dose of Pristiq reported suffering from hypertension. ¶¶67, 78, 84, 90, 95, 105.
+
+-6-
+
+Case 1:07-cv-10329-RJS
+
+Document 28
+
+Filed 07/25/2008
+
+Page 15 of 50
+
+Thus, incidents of hypertension in Study 315 patients taking Pristiq were up to five times greater
+than the patients taking placebo, a stunning difference. Id.
+Study 315 results further showed that not a single women being treated with placebo
+suffered an SAE during Study 315. ¶¶26, 67, 78, 84, 90, 95, 105. The relative significance of the
+SAEs, and all other adverse effects, was only heightened as the study revealed that more women on a
+regimen of Pristiq who suffered from an adverse event discontinued treatment in comparison to the
+number of women taking placebo. Id. Given that the target market for Pristiq for VMS – postmenopausal women – would have heightened sensitivity to these effects, the Study 315 results were
+particularly material to any evaluation of Pristiq and a threat to Pristiq’s commercial viability. Id.
+As Wyeth’s top officers and executives, the individual defendants, all knew of, or had access
+to information showing, the negative results from Study 315. ¶¶52-57, 67, 78, 84, 90, 95, 105. The
+Defendants were all responsible for monitoring and reporting to investors on the status of Wyeth’s
+products, clinical trials and FDA submissions, including those for Pristiq. ¶¶52-57. Defendant
+Constantine was Wyeth’s Vice President of Women’s Health and personally sat in on Study Team
+meetings during the Class Period where the clinical data on Pristiq were evaluated. ¶57. Similarly,
+defendants Essner, Martin, Poussot, Mahady and Ruffolo were all members of Wyeth’s
+Law/Regulatory Review Committee, which was responsible for monitoring the FDA submissions for
+Pristiq. ¶¶52-56. The Law/Regulatory Review Committee met regularly during the Class Period
+and was responsible for monitoring regulatory issues, including issues related to the submission for
+the Pristiq VMS New Drug Application (“NDA”). Id.
+Despite submitting the Study 315 data to the FDA, Defendants failed to disclose publicly the
+negative safety results of the study or reveal the existence or nature of the SAEs, which all indicated
+that Pristiq posed a real and serious risk to patients and threatened the commercial success of Pristiq.
+
+-7-
+
+Case 1:07-cv-10329-RJS
+
+Document 28
+
+Filed 07/25/2008
+
+Page 16 of 50
+
+¶¶31, 52-57, 67, 78, 84, 90, 95, 105. Indeed, throughout the Class Period, Defendants continued to
+discuss with analysts and investors the results of the Pristiq clinical studies, and the purported safety
+and benefits of Pristiq, but failed to disclose the known cardiovascular and hepatic side effects.
+¶¶63-66, 69-77, 80, 82, 83, 85-89, 92-94, 97-104.
+Given their high-level positions at Wyeth and their direct involvement with the marketing of
+Pristiq, including the FDA submission and clinical trials, Defendants were fully aware of the
+statistically significant adverse effects shown in Study 315. ¶¶52-57, 67, 78, 84, 90, 95, 105. Had
+Defendants fully disclosed this negative information during the Class Period, it would have had
+disastrous consequences for Wyeth given the Company’s financial dependence on the commercial
+success of Pristiq for the treatment of VMS.
+C.
+
+The Truth Is Uncovered About the Serious Cardiovascular and
+Hepatic Effects Associated with Pristiq
+
+On July 24, 2007, Defendants issued a press release stating that the Company failed to gain
+FDA approval for Pristiq for the treatment of VMS as a result of concerns about serious liver
+damage and cardiovascular side effects associated with the use of the drug. ¶¶42, 107. The July 24,
+2007 disclosures were essentially a rejection of Pristiq as a VMS treatment and posed a serious
+threat to the Company’s drug pipeline and the viability of Pristiq. ¶¶43, 45, 46, 107-111, 113, 116,
+119-120.
+As a result of Defendants’ disclosure, on July 24, 2007 Wyeth’s stock price dropped more
+than 10%, $5.70 per share, on extremely heavy volume. ¶¶47, 112, 133. Within three trading days,
+Wyeth’s stock was trading below $490 per share – near where it was at the start of the Class Period.
+¶¶47, 115, 117, 133. The dramatic drop in Wyeth’s stock price was the result of the artificial
+inflation, caused by defendants’ misstatements and omissions about Pristiq, being stripped out of the
+stock price. ¶¶108-111, 113, 114, 116, 117.
+-8-
+
+Case 1:07-cv-10329-RJS
+
+D.
+
+Document 28
+
+Filed 07/25/2008
+
+Page 17 of 50
+
+Post-Class Period Events
+
+By in August 2007, Wyeth announced that it had terminated a Phase 3 study of Pristiq as a
+treatment for fibromyalgia. ¶¶44, 118. In addition, in August 2007, Wyeth cancelled its Study 407
+(Pristiq as a treatment for breast cancer survivors) as a result of the FDA’s refusal to approve Pristiq
+for VMS due to safety concerns. Id. Thereafter, on March 12, 2008, Wyeth announced that it was
+withdrawing its application for European Marketing Authorization for Pristiq as a treatment for
+VMS. Like the FDA in July 2007, the European Medicines Agency had stated concerns about the
+drug’s association with serious hepatic and cardiovascular side effects. ¶¶45, 119.
+III.
+
+Legal Standard for Determining Defendants’ Motion to Dismiss
+When deciding a motion to dismiss for failure to state a claim under Federal Rule of Civil
+
+Procedure 12(b)(6), the Court must “accept as true all factual statements alleged in the complaint and
+draw all reasonable inferences in favor of the non-moving party.” McCarthy v. Dun & Bradstreet
+Corp., 482 F.3d 184, 191 (2d Cir. 2007). The issue “‘is not whether a plaintiff is likely to prevail
+ultimately, but whether the claimant is entitled to offer evidence to support the claims.’” Fogarazzo
+v. Lehman Bros., Inc., 341 F. Supp. 2d 274, 285 (S.D.N.Y. 2004) (quoting Phelps v. Kapnolas, 308
+F.3d 180, 184-85 (2d Cir. 2002)). Furthermore, a complaint “attacked by a Rule 12(b)(6) motion to
+dismiss does not need detailed factual allegations,” but rather must simply provide the grounds of
+entitlement to relief and raise a right to relief above the speculative level. Bell Atl. Corp. v.
+Twombly, __ U.S. __, 127 S. Ct. 1955, 1964-65 (2007).
+Here, Defendants have moved to dismiss on the grounds that Plaintiffs have not adequately
+set forth their allegations of falsity, scienter and loss causation. With regard to pleading falsity, the
+PSLRA simply requires plaintiffs to “specify each statement [or omission] alleged to have been
+misleading [and] the reason or reasons why the statement is misleading.” 15 U.S.C. §78u-4(b)(1).
+The PSLRA pleading requirements are consistent with those of Federal Rule of Civil Procedure 9(b).
+-9-
+
+Case 1:07-cv-10329-RJS
+
+Document 28
+
+Filed 07/25/2008
+
+Page 18 of 50
+
+Miss. Pub. Employees Ret. Sys. v. Boston Sci. Corp., 523 F.3d 75, 85 n.5 (1st Cir. 2008) (Rule 9(b)’s
+requirements for pleading fraud with particularity are “comparable to and effectively subsumed by
+the requirements of the PSLRA”); see also In re Suprema Specialties, Inc. Sec. Litig., 438 F.3d 256,
+276-77 (3d Cir. 2006) (Rule 9(b) requires that plaintiffs support their allegation of securities fraud
+with the “‘“who, what, when, where and how” of the events at issue’”).
+A strong inference of scienter may be established either by (a) facts constituting strong
+circumstantial evidence of conscious misbehavior or recklessness, or (b) by alleging facts showing
+that defendants had both motive and opportunity to commit fraud. Novak v. Kasaks, 216 F.3d 300,
+307-08, 311 (2d Cir. 2000) (reaffirming that Second Circuit case law remains the standard after
+passage of the PSLRA); In re Scholastic Corp. Sec. Litig., 252 F.3d 63, 74 (2d Cir. 2001). The
+Supreme Court’s decision last year in Tellabs, 127 S. Ct. 2499, did not alter this pleading standard.2
+In Tellabs, the Supreme Court held that in evaluating a motion to dismiss a securities fraud claim
+courts must, as with any motion to dismiss for failure to plead a claim, accept all
+factual allegations in the complaint as true. . . .
+Second, courts must consider the complaint in its entirety . . . . The inquiry,
+as several Courts of Appeals have recognized, is whether all of the facts alleged,
+taken collectively, give rise to a strong inference of scienter, not whether any
+individual allegation, scrutinized in isolation, meets that standard. . . .
+Third, in determining whether the pleaded facts give rise to a “strong”
+inference of scienter, the court must take into account plausible opposing inferences
+[but only those that can be] rationally . . . drawn . . . from the facts alleged.
+Id. at 2509-10 (emphasis in the original and added).
+
+2
+
+See ATSI Commc’ns, Inc. v. Shaar Fund, Ltd., 493 F.3d 87, 98 (2d Cir. 2007) (where the
+court held post-Tellabs, that scienter is pled by showing either circumstantial evidence of
+recklessness or motive and opportunity).
+
+- 10 -
+
+Case 1:07-cv-10329-RJS
+
+Document 28
+
+Filed 07/25/2008
+
+Page 19 of 50
+
+In considering the above noted factors regarding scienter, a court must conclude that a strong
+inference of scienter has been pled “if a reasonable person would deem the inference of scienter
+cogent and at least as compelling as any opposing inference one could draw from the facts
+alleged.” Id. at 2510. Moreover, “[t]he inference that the defendant acted with scienter need not be
+irrefutable, i.e., of the ‘smoking-gun’ genre, or even the ‘most plausible of competing inferences.’”
+Id.
+With regard to pleading loss causation, Plaintiff need only provide Defendants “with some
+indication of the loss and the causal connection that the plaintiff has in mind.” Dura, 544 U.S. at
+347. Under Dura, a short and plain statement in accordance with Federal Rule of Civil Procedure
+8(a)(2) will satisfy this requirement. Id.
+As set forth below, Plaintiffs have met the appropriate pleading standards for the elements of
+materiality, scienter and loss causation.
+IV.
+
+Defendants’ Actionable Misrepresentations and Omissions About Pristiq
+Defendants’ fraud lies in their intentional failure to disclose the material, adverse events
+
+uncovered in Study 315 which demonstrated that Pristiq caused serious hepatic and cardiovascular
+side effects, including liver damage, heart attacks, coronary artery obstruction and hypertension.
+Concealment of just this type of adverse data is actionable under §10(b) of the Exchange Act. See,
+e.g., In re Forest Labs. Sec. Litig., No. 05 Civ. 2827 (RMB), 2006 U.S. Dist. LEXIS 97475, at *44
+(S.D.N.Y. July 19, 2006) (concealment of unfavorable clinical trial data was actionable under the
+federal securities law); Miss. Pub. Employees, 523 F.3d at 87 (defendants’ omissions about problems
+with coronary stent were actionable); In re Amgen Inc. Sec. Litig., 544 F. Supp. 2d 1009, 1030-32
+(C.D. Cal. 2008) (defendants’ failure to disclose negative information concerning the company’s
+drug was actionable); Pfizer, 2008 U.S. Dist. LEXIS 50923, at *16 (plaintiffs sufficiently alleged
+
+- 11 -
+
+Case 1:07-cv-10329-RJS
+
+Document 28
+
+Filed 07/25/2008
+
+Page 20 of 50
+
+that defendants knew of, but did not disclose studies that revealed the company’s drugs were linked
+to adverse cardiovascular events).3
+Faced with Plaintiffs’ detailed allegations of actionable misrepresentations and omissions,
+Defendants spin this case to be nothing more than a case about their ability to predict FDA approval.
+Memorandum of Law in Support of All Defendants’ Motion to Dismiss the Consolidated Class
+Action Complaint (“Defs.’ Mem.”) at 1-3, 7, 13, 17, 23, 32, 33. Defendants are wrong. This case is
+about Defendants’ failure to disclose the known, adverse cardiovascular and hepatic side effects
+associated with Pristiq. Defendants also argue that Plaintiffs’ allegations amount to fraud by
+hindsight. Id. at 20 & n.14. This too is inaccurate. Defendants do not dispute that Study 315
+showed that Pristiq for VMS was associated with serious hepatic and cardiovascular side effects or
+that they knew about these adverse results. Nor do Defendants dispute the materiality or statistical
+significance of Study 315’s results.
+
+3
+
+See also In re NPS Pharms., Inc., No. 2:06-cv-00570, 2007 U.S. Dist. LEXIS 48713, at *21
+(D. Utah July 3, 2007) (motion to dismiss denied on grounds that, based on clinical studies,
+defendants knew of problems with key drug, but failed to disclose them to the public); In re
+Viropharma, Inc., Sec. Litig., No. 02-1627, 2003 U.S. Dist. LEXIS 5623, at *18-*19 (E.D. Pa.
+Apr. 7, 2003) (defendants’ statements actionable where they failed to disclose adverse efficacy and
+drug interaction data from clinical trials); In re Amylin Pharms., Inc. Sec. Litig., No. 01cv1455 BTM
+(NLS), 2003 U.S. Dist. LEXIS 7667, at *12-*13 (S.D. Cal. May 1, 2003) (defendants could be liable
+under §10(b) for false statements about the safety profile of a drug, including the failure to fully
+disclose the results of drug studies); In re Sepracor, Inc. Sec. Litig., 308 F. Supp. 2d 20, 24-25 (D.
+Mass. 2004) (defendants’ misstatements actionable under §10(b) where they failed to disclose
+information about a drug’s known cardiac side effects); In re Regeneron Pharms., Inc. Sec. Litig.,
+No. 03 Civ. 3111 (RWS), 2005 U.S. Dist. LEXIS 1350, at *62-*63, *69 (S.D.N.Y. Feb. 3, 2005)
+(court denied defendants’ motion to dismiss finding that defendants’ failure to disclose serious side
+effects known about the company’s drug was actionable under §10(b)); In re Vicuron Pharms., Inc.
+Sec. Litig., No. 04-2627, 2005 U.S. Dist. LEXIS 15613, at *46 (E.D. Pa. July 1, 2005) (defendants’
+failure to disclose serious problems discovered in Phase 3 clinical trial were actionable under
+§10(b)).
+
+- 12 -
+
+Case 1:07-cv-10329-RJS
+
+A.
+
+Document 28
+
+Filed 07/25/2008
+
+Page 21 of 50
+
+The Complaint Identifies Defendants’ False Statements and
+Omissions and Details Why the Statements Were Misleading When
+Made
+
+Plaintiffs have specified each statement alleged to be misleading, identified the Defendants
+who made the statements, what the statements were regarding, and when and where the false and
+misleading statements were made. In other words, Plaintiffs have alleged the “who, what, when and
+where” for each of Defendants’ false statements about Pristiq. In re Vivendi Universal, S.A. Sec.
+Litig., 381 F. Supp. 2d 158, 165 (S.D.N.Y. 2003). Defendants possessed the negative results of
+Study 315 well before the beginning of the Class Period, yet during conference calls (¶¶63-65, 6976, 80, 85-87, 89, 92-94, 97, 101-104), in press releases (¶¶62, 77, 88, 100) and in SEC filings (¶¶66,
+82, 83, 98, 99), each of the Defendants assured investors that Pristiq was safe and effective, would
+benefit millions of women suffering from VMS and, as a result, would generate billions of dollars in
+revenue for the Company. Defendants also emphasized Pristiq’s market niche as the first nonhormonal treatment for VMS that would fill a significant unmet medical need in women’s health.
+¶¶69, 71, 72, 76, 77, 87, 92, 94, 97, 100, 102, 103. Indeed, in support of Pristiq’s safety and
+efficacy, Defendants referred to and reported on purportedly positive Phase 3 clinical trial results and
+safety data during conference calls and in press releases, all while leaving shareholders in the dark
+about the serious hepatic and cardiovascular side effects associated with Pristiq. ¶¶69, 72, 94, 100.
+Additionally, in order to convince the market that Pristiq would be economically viable and
+replace the income Wyeth was losing to generics, Defendants assured shareholders that Pristiq’s
+profile was “similar [to Effexor] in terms of its efficacy and safety and tolerability.” ¶¶60, 94.
+Defendants also specifically reported on the cardiovascular safety of Pristiq during the Class Period.
+¶¶38, 73, 94, 104. In a conference call with investors on July 19, 2007, for instance, defendant
+Poussot stated that “[o]n the cardiovascular profile, we stand by the safety of the product and we
+believe we have a very safe product and stand by that.” ¶104. Similarly on October 5, 2006,
+- 13 -
+
+Case 1:07-cv-10329-RJS
+
+Document 28
+
+Filed 07/25/2008
+
+Page 22 of 50
+
+defendant Constantine reported to investors on the safety and tolerability profile for Pristiq, stating
+“[b]lood pressure and pulse were comparable with other SNRIs.” ¶73. These detailed allegations
+put Defendants on notice of the false statements at issue in the case and are pled with more than
+enough specificity.
+Plaintiffs also provide the “why”: the specific reasons why the statements were false and
+misleading when made. ¶¶67, 78, 84, 90, 95, 105. When making each of the positive statements
+about Pristiq, Defendants knew that at least 27 women suffered serious adverse effects, including
+three coronary occlusions and two heart attacks, during the course of Study 315. ¶¶52-57, 67(b),
+78(b), 84(b), 90(b), 95(b), 105(b). Defendants also knew that study patients on Pristiq showed
+increased incidence of hypertension – a major health problem for post-menopausal women – as
+compared to placebo. ¶¶52-57, 67(c), 78(c), 84(c), 90(c), 95(c), 105(c). In fact, Study 315
+demonstrated that women on a regimen of Pristiq were 353% to 508% more likely to suffer
+hypertension in comparison to women on a placebo. ¶25. Hypertension was reported in only 1.3%
+of the placebo-treated patients, while 5.9% of all women in the Pristiq-treatment group suffered from
+hypertension and the number climbed to 7.9% for women receiving a 200-mg dose of Pristiq.
+¶¶67(c), 78(c), 84(c), 90(c), 95(c), 105(c). In addition to the serious cardiovascular side effects,
+including hypertension, Study 315 also showed that the use of Pristiq for VMS could cause serious
+hepatic side effects. ¶¶67(a), 78(a), 84(a), 90(a), 95(a), 105(a).
+Given the intended use of Pristiq for post-menopausal women, the high rate of cardiovascular
+and hepatic side effects was highly detrimental to the viability of the drug. Id. Remarkably, in
+comparison to the Pristiq-treatment group, not a single woman being treated with placebo suffered a
+serious adverse effect during Study 315. ¶¶26, 67(b), 78(b), 84(b), 90(b), 95(b), 105(b). Thus, while
+Defendants were trumpeting the benefits of Pristiq, they knew about the drug’s serious side effects,
+
+- 14 -
+
+Case 1:07-cv-10329-RJS
+
+Document 28
+
+Filed 07/25/2008
+
+Page 23 of 50
+
+yet failed to publicly disclose that information or provide any warning about the drug’s known
+problems. While Defendants do not have to agree with Plaintiffs’ allegations, and will have the
+chance to convince a jury otherwise, there should be no dispute that Plaintiffs have provided the
+particularized facts that are sufficient to allege why Defendants’ statements and omissions were false
+and misleading when made. See Bell Atl. Corp., 127 S. Ct. at 1974 (on a motion to dismiss the
+question is whether the pleading alleges “enough facts to state a claim to relief that is plausible on its
+face”).
+B.
+
+Defendants’ Statements Were False and Misleading for Failing to
+Disclose the Material Adverse Events Revealed in Study 315
+
+Once Defendants voluntarily chose to speak publicly about Pristiq’s purported safety,
+efficacy and benefits, they had a duty to do so accurately and completely. In re Par Pharm., Inc.
+Sec. Litig., 733 F. Supp. 668, 675 (S.D.N.Y. 1990) (“once corporate officers undertake to make
+statements, they are obligated to speak truthfully and to make such additional disclosures as are
+necessary to avoid rendering the statements made misleading”); Lapin v. Goldman Sachs Group,
+Inc., 506 F. Supp. 2d 221, 237 (S.D.N.Y. 2006) (“the lack of an independent duty to speak in the
+first instance becomes irrelevant once a party chooses to discuss material issues, because upon
+choosing to speak one ‘has a duty to be both accurate and complete’”) (quoting Caiola v. Citibank,
+N.A., 295 F.3d 312, 331 (2d Cir. 2002)). The Second Circuit recognizes that companies have the
+duty to disclose reports that show statistically significant evidence of an adverse effect associated
+with a pharmaceutical product. See In re Carter-Wallace Sec. Litig., 220 F.3d 36, 40 (2d Cir. 2000).
+Here, the adverse data from Study 315 was statistically significant in that, compared to placebo, the
+study patients taking Pristiq suffered from a remarkably high rate of serious adverse cardiovascular
+and hepatic events. ¶¶25, 67, 78, 84, 90, 95, 105. Moreover, given the intended use of Pristiq, these
+
+- 15 -
+
+Case 1:07-cv-10329-RJS
+
+Document 28
+
+Filed 07/25/2008
+
+Page 24 of 50
+
+adverse effects threatened the commercial viability of Pristiq for VMS. ¶¶67(c), 78(c), 84(c), 90(c),
+95(c), 105(c).
+Defendants do not, and cannot, dispute the statistical significance of the Study 315 findings.
+Indeed, the purpose of Study 315 was to test the efficacy, safety and tolerability of Pristiq in women
+suffering from VMS. ¶23. As the results showed, the adverse effects suffered by the Pristiq
+treatment group were stunning. For example, Study 315 demonstrated that women in the Pristiqtreatment group were 353% to 508% more likely to suffer hypertension, in comparison to women in
+the placebo-treatment group. ¶25. Moreover, 27 women in the study suffered a SAE. ¶¶67(b),
+78(b), 84(b), 90(b), 95(b), 105(b). Notably not a single woman being treated with placebo suffered a
+SAE during Study 315.4 Id.
+Notwithstanding the significance of these results, Defendants failed to timely disclose any of
+the adverse data.
+
+The significance of Study 315’s adverse events is further magnified by
+
+Defendants’ internal reaction to the negative results. In the aftermath of Study 315’s results,
+Defendants initiated two additional studies of Pristiq and VMS – Study 319 and Study 321 – but
+specifically excluded from the later studies any women with a history of heart attack, chest pains,
+elevated blood pressure and blood clots. ¶¶30, 67(d), 78(d), 84(d), 90(d), 95(d), 105(d). Given the
+intended use of Pristiq in post-menopausal women, who are highly likely to have high cardiac and
+
+4
+
+Even if Defendants did dispute the statistical significance of Study 315, there is no bright-line
+rule for the materiality of information regarding drug safety risks. “Instead, this type of information
+may become material even in the absence of statistically significant evidence in light of other
+indications that the risk associated with the adverse drug events is legitimate and serious enough to
+threaten drug sales.” In re Elan Corp. Sec. Litig., 543 F. Supp. 2d 187, 210 (S.D.N.Y. 2008). Here,
+Plaintiffs have not only alleged that the adverse events were statistically significant – including 27
+adverse events for study patients on Pristiq versus zero for the placebo control group – but that those
+negative indications were a direct threat to Pristiq’s target market, post-menopausal women. ¶¶67,
+78, 84, 90, 95, 105.
+
+- 16 -
+
+Case 1:07-cv-10329-RJS
+
+Document 28
+
+Filed 07/25/2008
+
+Page 25 of 50
+
+elevated blood pressure risks, these exclusions served only to mask, albeit temporarily, the link
+between Pristiq and cardiovascular and hepatic side effects. ¶¶67(c), 78(c), 84(c), 90(c), 95(c),
+105(c). Without question, these exclusions demonstrated that the Study 315 side effects were
+statistically significant and known to Defendants at all times during the Class Period.
+The recent decision in Pfizer is instructive in evaluating the falsity of Defendants’ statements.
+In Pfizer, Judge Swain found that plaintiffs had sufficiently alleged the statistical significance of
+study results that, like here, the defendants failed to disclose. 2008 U.S. Dist. LEXIS 50923, at *29*30. Plaintiffs in Pfizer alleged that defendants knew during the class period that their drugs
+Celebrex and Bextra had adverse cardiovascular effects. Id. at *7. In a study involving Celebrex,
+adverse cardiovascular events were observed in patients taking Celebrex at a rate 3.6 times greater
+than observed in patients taking placebo. Id. at *8. Thus, Plaintiffs’ allegations here, that women in
+the Pristiq-treatment group were 3.58 to 5.08 times more likely to suffer hypertension than the
+placebo treatment group and that there were 27 serious adverse effects in the Pristiq treatment group
+compared to none in the placebo treatment group, certainly give rise to Defendants’ duty to disclose.
+¶¶25, 67(b), 78(b), 84(b), 90(b), 95(b), 105(b).
+Just as the negative results of Study 315 were statistically significant, the commercial
+viability of Pristiq was highly material to investors.5 Information is material if a reasonable investor
+
+5
+
+In a footnote, Defendants challenge the accuracy of the Complaint’s factual allegations by
+improperly relying on extraneous documents that are not incorporated or referenced in the Complaint
+and are not documents properly subject to judicial notice. Defs.’ Mem. at 19 n.11; Affidavit of
+Michael J. Chepiga, Esq. (“Chepiga Aff.”), Exs. 6-7, 10, 12; see Rothman v. Gregor, 220 F.3d 81,
+88-89 (2d Cir. 2000) (for purposes of a motion to dismiss, the court’s review of documents is limited
+to documents attached to or incorporated by reference into the complaint, public disclosure
+documents that have been filed with the SEC and documents upon which plaintiff relied in filing the
+action). Even if a document is subject to judicial notice, or deemed to be a matter of public record,
+the documents cannot be used for the truth of the matter asserted or to dispute the factual allegations
+in plaintiffs’ complaint. See In re Omnicom Group, Inc. Sec. Litig., No. 02 Civ. 4483 (RCC), 2005
+- 17 -
+
+Case 1:07-cv-10329-RJS
+
+Document 28
+
+Filed 07/25/2008
+
+Page 26 of 50
+
+would have viewed it as having significantly altered the total mix of information made available.
+Basic Inc. v. Levinson, 485 U.S. 224, 231-32 (1988); Miss Pub. Employees, 523 F.3d at 85.
+Defendants repeatedly told investors that Pristiq was a critically important drug for Wyeth and was
+expected to generate billions of dollars in revenue. Not only was Wyeth facing a shortage of new
+products in its pipeline, but Pristiq was intended, and marketed as a replacement for hormone
+treatments, which had become disfavored, and both Effexor and Effexor XR, which were losing
+patent protection. ¶¶10-13. As defendant Essner claimed during the Class Period, “we are creating a
+natural position for Pristiq . . . which we believe[] gives the drug multi-billion dollar potential.” ¶17.
+Pristiq was one of, if not the most anticipated products in Wyeth’s pipeline and, if approved, would
+have had a serious impact on the Company’s earnings. Accordingly, any negative information about
+Pristiq that could impact those earnings was material and had to be disclosed to shareholders. In re
+Immune Response Sec. Litig., 375 F. Supp. 2d 983, 1020-21 (S.D. Cal. 2005) (“‘[A] fact is material
+if there is a “substantial likelihood” that a reasonable investor would consider it important in his or
+her decision making.’”).
+The materiality of Defendants’ omissions is further underscored by the sharp drop in Wyeth’s
+stock price on July 24, 2007, when news of the serious hepatic and cardiovascular adverse events
+associated with Pristiq was disclosed. ¶¶47, 112, 133. Numerous courts in this Circuit and others
+have held that the materiality of information can be properly measured post hoc by looking to the
+
+U.S. Dist. LEXIS 5272, at *38-*39 (S.D.N.Y. Mar. 30, 2005) (the court rejected defendants’ request
+for judicial notice of SEC filings to prove the truth of their purported contents). Accordingly, the
+Court should deny Defendants’ request to judicially notice these documents and not consider them
+on a motion to dismiss. Further, Defendants’ factual challenges are inappropriate at this stage and
+should be disregarded. As the court in Pfizer held, “[a] motion to dismiss a complaint is not an
+appropriate vehicle for determination as to the weight of the evidence.” 2008 U.S. Dist. LEXIS
+50923, at *27.
+
+- 18 -
+
+Case 1:07-cv-10329-RJS
+
+Document 28
+
+Filed 07/25/2008
+
+Page 27 of 50
+
+movement, in the period immediately following the alleged disclosure, of the price of the company’s
+stock. Regeneron, 2005 U.S. Dist. LEXIS 1350, at *63; see also Oran v. Stafford, 226 F.3d 275, 282
+(3d Cir. 2000). Here, Wyeth’s stock price dropped $5.70 per share immediately following the
+disclosure about “serious adverse cardiovascular and hepatic effects associated with the use of
+PRISTIQ.” ¶¶47, 112, 133. The market’s prompt and negative reaction further demonstrates the
+materiality of Defendants’ false and misleading statements about Pristiq.
+Given the dozens of statements Defendants elected to make about Pristiq, including
+reassurances about the drug’s safety and tolerance, and the significant risk to Wyeth’s corporate
+earnings as a result of the adverse effects associated with Pristiq for VMS, those statistically
+significant effects were material at all times during the Class Period. The Defendants’ failure to
+disclose this adverse information violated the federal securities laws.
+C.
+
+Neither the PSLRA Safe Harbor Nor the Bespeaks Caution Doctrine
+Shield Defendants’ Misstatements and Omissions About Pristiq
+
+Defendants’ false statements and omissions are not shielded by the PSLRA’s “safe harbor”
+provision. The safe harbor provision provides a limited protection only for forward-looking
+statements that are accompanied by meaningful cautionary statements identifying important factors
+that could cause actual results to differ materially. See 15 U.S.C. §78u-5(c). Statements that are not
+forward-looking or that a defendant knew were false and misleading when made are not protected.
+See In re IBM Corporate Sec. Litig., 163 F.3d 102, 107 (2d Cir. 1998) (holding that “[s]tatements
+regarding projections of future performance may be actionable under Section 10(b) or Rule 10b-5
+. . . if the speaker does not genuinely or reasonably believe them”); In re AOL Time Warner Sec. &
+“ERISA” Litig., 381 F. Supp. 2d 192, 223 (S.D.N.Y. 2004) (holding that “‘no degree of cautionary
+language will protect material misrepresentations or omissions where defendants knew their
+statements were false when made’”).
+- 19 -
+
+Case 1:07-cv-10329-RJS
+
+Document 28
+
+Filed 07/25/2008
+
+Page 28 of 50
+
+As an initial, and conclusive, matter, Defendants’ false statements were not forward looking.
+This case concerns Defendants’ misrepresentations and omissions about the results of Study 315,
+which was completed before the Class Period. ¶23 (Study 315 commenced in December 2003 and
+the review of the data was completed by May 2005). Statements about historical results are not
+covered by the safe harbor provision. See 15 U.S.C. §78u-5(a); Robertson v. Strassner, 32 F. Supp.
+2d 443, 450 (S.D. Tex. 1998) (statements concerning present facts not protected by safe harbor).
+Defendants, nevertheless, argue that Plaintiffs’ claims are based on misrepresentations about the
+likelihood that Pristiq would be approved by the FDA. Defs.’ Mem. at 1-3, 7, 13, 17, 23, 32, 33. To
+be clear, the Complaint does not premise liability upon Defendants’ inability to predict future events.
+Rather, the Complaint alleges Defendants’ concealment of existing material facts – that Study 315
+indicated that Pristiq could cause liver damage and serious cardiovascular side effects when used to
+treat VMS. ¶¶67, 78, 84, 90, 95, 105.6 The cases cited by Defendants are inapposite as the
+plaintiffs’ claims in those cases were based on statements regarding the likelihood of FDA approval.
+Defs.’ Mem. at 13. See In re Bristol-Myers Squibb Sec. Litig., 312 F. Supp. 2d 549, 557-58
+(S.D.N.Y. 2004) (plaintiffs’ allegations were based on defendants’ positive statements regarding the
+possibility of FDA approval); Noble Asset Mgmt. v. Allos Therapeutics, Inc., No. CIVA-04CV-1030RPM, 2005 WL 4161977, at *9 (D. Colo. Oct. 20, 2005) (same); In re Connetics Corp. Sec. Litig.,
+542 F. Supp. 2d 996, 1000 (N.D. Cal. 2008) (same); In re AstraZeneca, Sec. Litig., No. 05 Civ. 2688
+(TPG), 2008 U.S. Dist. LEXIS 43680, at *2 (S.D.N.Y. June 3, 2008) (same). Defendants’ liability
+here is premised on their failure to disclose known, material information regarding the adverse
+
+6
+
+Notably, in none of the paragraphs where Plaintiffs identify why Defendants’ statements
+were false and misleading – ¶¶67, 78, 84, 90, 95, 105 – do Plaintiffs allege that the failure to achieve
+FDA approval, expected or not, formed a basis for falsity.
+
+- 20 -
+
+Case 1:07-cv-10329-RJS
+
+Document 28
+
+Filed 07/25/2008
+
+Page 29 of 50
+
+effects associated with Pristiq. Defendants’ decision to talk about Pristiq and FDA approval, among
+other matters, triggered the duty to disclose the known, historical facts about the drug. Caiola, 295
+F.3d at 331 (“upon choosing to speak, one must speak truthfully about material issues”).
+Defendants concealed the negative findings of Study 315 while at the same time making
+misleading statements concerning Pristiq’s safety and efficacy. Regardless of Defendants’ efforts to
+rewrite the allegations, their statements concealed historic facts about Pristiq and therefore are not
+forward-looking. See In re CV Therapeutics Sec. Litig., No. C 03-03709 SI, 2004 U.S. Dist. LEXIS
+17419, at *10 (N.D. Cal. Aug. 5, 2004) (the court held that when the defendants possessed and failed
+to disclose detailed information about the drug’s safety and efficacy, such facts were historical facts
+and defendants’ statements were therefore not protected by the PSLRA safe harbor provisions).
+Even if Defendants’ statements somehow did qualify as forward-looking, they were not
+“accompanied by meaningful cautionary statements identifying important factors that could cause
+actual results to differ materially from those in the forward-looking statement.” 15 U.S.C. §78u5(c)(1)(A)(i); see also Irvine v. ImClone Sys., No. 02 Civ. 109 (RO), 2003 U.S. Dist. LEXIS 9342, at
+*4 (S.D.N.Y. June 4, 2003) (finding generic cautionary language to be insufficient); Vivendi, 381
+F. Supp. 2d at 183 (emphasizing that cautionary language must “‘render reliance on the
+misrepresentation unreasonable’”); see also Credit Suisse First Boston Corp. v. ARM Fin. Group,
+Inc., No. 99 CIV-12046 WHP, 2001 U.S. Dist. LEXIS 3332, at *23 (S.D.N.Y. Mar. 28, 2001)
+(“[W]arnings of specific risks . . . do not shelter defendants from liability if they fail to disclose hard
+facts critical to appreciating the magnitude of the risks described.”). The purported language “must
+‘precisely address the substance of the specific statement or omission that is challenged.’” See In re
+Nortel Networks Corp. Sec. Litig., 238 F. Supp. 2d 613, 628 (S.D.N.Y. 2003).
+
+- 21 -
+
+Case 1:07-cv-10329-RJS
+
+Document 28
+
+Filed 07/25/2008
+
+Page 30 of 50
+
+Here, Defendants allude to mere boilerplate warnings about “clinical data and/or the
+regulatory status” that are insufficient to bring the statements within the protection of the safe harbor
+provision. Defs.’ Mem. at 15; Chepiga Aff., Ex. 1; see Irvine, 2003 U.S. Dist. LEXIS 9342, at *4
+(repeated general warnings did not constitute sufficient cautionary language). These statements
+cannot be considered “meaningful cautionary statements” as contemplated by 15 U.S.C. §78u-5. See
+Ruskin v. TIG Holdings, Inc., No. 98 Civ. 1068 (LLS), 2000 U.S. Dist. LEXIS 11517, at *17-*19
+(S.D.N.Y. Aug. 14, 2000).7 The statements have no bearing on this matter since there are no
+warnings about the actual adverse effects associated with Pristiq, and provide no rationale as to why
+Defendants failed to disclose the findings of Study 315. Indeed, Defendants’ boilerplate contingency
+disclosures are plainly inadequate. Before, during and after the Class Period, Wyeth’s risk
+disclosures in the Company’s filings with the SEC were virtually identical from year-to-year with
+regard to the development and marketing of new drugs. See Declaration of Laurie L. Largent in
+Support of Plaintiffs’ Memorandum of Law in Opposition to Defendants’ Motion to Dismiss the
+Consolidated Complaint for Violation of the Federal Securities Laws (“Largent Decl.”), Exs. F-H.
+This boilerplate language failed to provide any specific, meaningful information about the known
+problems with Pristiq. Nowhere did Defendants warn or caution that Study 315 showed that Pristiq,
+when used for treating VMS, could cause patients severe liver damage or cardiovascular side effects.
+Although Defendants do not deny that they had this information prior to the Class Period, they never
+
+7
+
+Defendants’ reliance on Noble, 2005 U.S. Dist. LEXIS 24452, is misplaced. Defs.’ Mem. at
+14. In Noble, plaintiff argued that the company’s risk disclosure did not caution investors about the
+specific risk that the FDA would not accept its analyses. Id. at *26-*27. Unlike Noble, this case is
+not about FDA approval but about Defendants’ failure to disclose the known negative results of
+Study 315. ¶¶67, 78, 84, 90, 95, 105. Thus, any comparison between Defendants’ disclosures here
+and those in Noble dealing with FDA approval, is irrelevant.
+
+- 22 -
+
+Case 1:07-cv-10329-RJS
+
+Document 28
+
+Filed 07/25/2008
+
+Page 31 of 50
+
+disclosed this information in their warnings or cautionary language. For these same reasons, none of
+Defendants’ statements are protected by the “bespeaks caution” doctrine. 8
+Finally, as addressed fully in §V.A.55, Defendants knew that their statements were false and
+misleading when made and failed to disclose the truth about Pristiq. For this reason alone, the safe
+harbor provision does not apply. Viropharma, 2003 U.S. Dist. LEXIS 5623, at *29 (“defendant[s]
+may not use cautionary language to protect [themselves] when [they are] already aware that the risks
+[they are] cautioning against have come to fruition”).9
+D.
+
+Defendants Cannot Establish a Truth-on-the-Market Defense
+
+Switching gears, Defendants go from arguing that this case merely involves FDA approval to
+claiming that the adverse effects associated with Pristiq were actually disclosed. Defs.’ Mem. at 1819. Defendants assert that in May 2007, long after Study 315 was completed and the Class Period
+had begun, they disclosed the results of the clinical trial and potential Pristiq side effects.
+Defendants’ so-called disclosure was, in fact, misleading itself. Specifically, Defendants claim that a
+poster presented at a medical conference in May 2007 and a subsequent analyst report informed
+
+8
+
+The bespeaks caution doctrine provides a limited protection to forward-looking statements,
+but cannot be invoked for misleading statements of existing fact or where statements are
+accompanied by no more than generic “cautionary language.” In re Cell Pathways, Inc., Sec. Litig.,
+No. 99-752, 2000 U.S. Dist. LEXIS 8584, at *39 (E.D. Pa. June 21, 2005).
+9
+
+Defendants also suggest that all statements about pharmaceutical development should be
+considered “‘[m]ere puffery.’” Defs.’ Mem. at 15-16. Again, Defendants ignore the actual
+allegations of the Complaint and claim that the case simply concerns the FDA approval of Pristiq.
+Id. Defendants’ statements about the status of the clinical trials, and the “very significant upside
+potential” for Pristiq triggered the duty to provide investors with the whole truth about Pristiq. This
+whole truth, including the cardiovascular and hepatic adverse effects associated with Pristiq, was
+highly material to Wyeth shareholders. See Carter-Wallace, 220 F.3d at 40 (defendants have a duty
+to disclose reports showing material evidence that their drug has serious side effects).
+
+- 23 -
+
+Case 1:07-cv-10329-RJS
+
+Document 28
+
+Filed 07/25/2008
+
+Page 32 of 50
+
+investors about Study 315’s negative results. Id. at 19; Chepiga Aff., Exs. 11-12.10 The alleged
+disclosures did no such thing. During the Class Period, and in their poster, Defendants failed to
+disclose, among other matters, “the results of Study 315, which showed that usage of Pristiq for
+treatment of VMS was associated with hepatic and cardiovascular side effects.” ¶¶67(a), 78(a),
+84(a), 90(a), 95(a), 105(a). Neither the poster nor the analyst report that Defendants rely upon say a
+single word about the significant hepatic side effects of Pristiq. Further, far from disclosing that
+Study 315 showed Pristiq to be associated with cardiovascular side effects, Defendants’
+“disclosures” asserted the opposite.
+Defendants’ poster, which was not publicly distributed, identified that five patients in Study
+315 taking Pristiq experienced cardiovascular events, but emphasized that “[e]ach of the 5 subjects
+had 3 or more cardiovascular risk factors at baseline, and in all cases, cardiac catheterization
+revealed evidence of extensive occlusion, suggestive of long-standing coronary atherosclerosis. Due
+to multiple underlying cardiac risk factors in the subjects who experienced cardiovascular events, the
+lack of dose-clustering, and because those events were rare, no dose or causal relationship could be
+ascertained.” Chepiga Aff., Ex. 11. Accordingly, the poster concluded that Pristiq “was generally
+
+10
+
+Defendants’ Exhibits 11 (medical conference poster) and 12 (analyst report) are not proper
+for consideration on a motion to dismiss as they are neither public documents subject to judicial
+notice nor referenced in the Complaint. See n.5, supra; In re Zyprexa Prods. Liab. Litig., 549 F.
+Supp. 2d 496 (E.D.N.Y. 2008), the case relied upon by Defendants for consideration of the analyst
+report is unpersuasive. Zyprexa was at the summary judgment stage, and the court considered an
+analyst report only for the limited purpose of determining what the market knew. Here, at the
+motion to dismiss stage, all of Plaintiffs’ allegations must be accepted as true and evidentiary
+submissions and Defendants’ factual interpretations are improper. See Tellabs, 127 S. Ct. at 2509
+(the court must accept all factual allegations in the complaint as true); In re Astea Int’l Inc. Sec.
+Litig., No. 06-1467, 2007 U.S. Dist. LEXIS 58238, at *24-*25 (E.D. Pa. Aug. 8, 2007) (court
+granted plaintiffs’ motion to strike documents that were not matter of public record); Moore U.S.A.,
+Inc. v. Standard Register Co., 139 F. Supp. 2d 348, 363 (W.D.N.Y. 2001) (court refused to consider
+documents offered by defendants on motion to dismiss because they were not of public record).
+
+- 24 -
+
+Case 1:07-cv-10329-RJS
+
+Document 28
+
+Filed 07/25/2008
+
+Page 33 of 50
+
+safe and well tolerated.” Id. In fact, the analyst report Defendants rely upon repeated that “[t]he
+poster suggests . . . there is no clear link to the usage of Pristiq.” Id., Ex. 12 at 4. Thus, while
+Defendants provided a smattering of data regarding cardiac events associated with Pristiq, those
+events were downplayed and were not presented along with the other negative effects associated
+with Pristiq, including high blood pressure and liver damage.11 Even complete warnings, when
+accompanied by counterbalancing reassurances will not establish a truth-on-the-market defense. See
+Freeland v. Iridium World Commc’ns, Ltd., 545 F. Supp. 2d 59, 79 (D.D.C. 2008) (whether a
+purported disclosure is conveyed to the public with sufficient intensity and credibility sufficient to
+counterbalance defendants’ misleading information is a fact-intensive inquiry). Where, as here, the
+purported disclosures failed to provide a full disclosure and were accompanied by reassuring
+language, the truth-on-the-market defense is inapplicable.12
+
+11
+
+Defendants also claim that the fact that Studies 319 and 321 excluded patients likely to have
+cardiovascular problems was disclosed on a website in 2005 is somehow dispositive. Defs.’ Mem. at
+19. First, Plaintiffs do not allege that Defendants made misstatements about Studies 319 and 321.
+Second, Defendants failed to disclose that such patients were excluded because Wyeth was already
+aware of the Defendants’ adverse side effects associated with Pristiq. ¶105(d). In any event, as
+discussed in footnote 5, supra, Exhibits 6 and 7 (website screenshots), are not proper for
+consideration in determining Defendants’ motion because neither document is incorporated or
+referenced in the Complaint and the exhibits are not subject to judicial notice. See also Constr.
+Laborers Pension Trust of Greater St. Louis v. Neurocrine Biosciences, Inc., No. 07CV1111-IEGRBB, 2008 U.S. Dist. LEXIS 38899, at *22 n.7 (S.D. Cal. May 13, 2008) (court refused to take
+judicial notice of screenshots of websites).
+
+12
+
+The fact that Wyeth’s stock price did not decline following the May 2007 conference and
+analyst report is hardly surprising. While Defendants suggest that this supports the truth-on-themarket defense (Defs.’ Mem. at 20), it actually shows the opposite. The market did not treat these
+“disclosures” as providing any material information, good or bad. In comparison, after July 24,
+2007, when the truth about Pristiq was disclosed, Wyeth’s stock price dropped precipitously. ¶¶41,
+112, 133. In any event, Defendants’ speculation about why Wyeth’s stock may or may not have
+moved is just that, speculation, and provides no basis for dismissal pursuant to Federal Rule of Civil
+Procedure 12(b)(6).
+
+- 25 -
+
+Case 1:07-cv-10329-RJS
+
+Document 28
+
+Filed 07/25/2008
+
+Page 34 of 50
+
+Even where the evidence of full and timely disclosure is strong, which is not the case here,
+the burden of establishing the truth-on-the-market defense is “extremely difficult, perhaps
+impossible, to meet [even] at the summary judgment stage.” In re Columbia Sec. Litig., 155 F.R.D.
+466, 482-83 (S.D.N.Y. 1994). The Second Circuit has examined the concept of truth-on-the-market
+from the perspective of materiality, stating “a misrepresentation is immaterial if the information is
+already known to the market.” Ganino v. Citizens Utils., 228 F.3d 154, 167 (2d Cir. 2000). The
+Ganino court held, however, that “the corrective information must be conveyed to the public ‘with a
+degree of intensity and credibility sufficient to counter-balance effectively any misleading
+information.’” Id. The court further held that such a determination is “intensely fact-specific” and
+is rarely an appropriate basis for dismissing a §10(b) complaint. Id. Particularly in light of the
+incomplete and misleading “disclosure” cited by Defendants, this is not the rare case where the truthon-the-market defense provides a basis for dismissal.
+V.
+
+Plaintiffs Pled Defendants’ Scienter with More than Sufficient Particularity
+In the Second Circuit, a strong inference of scienter may be established by either (a) facts that
+
+constitute strong circumstantial evidence of conscious misbehavior or recklessness, or (b) facts to
+show that defendants had both motive and opportunity to commit fraud. Scholastic, 252 F.3d at 74.
+In cases where scienter is pled by alleging defendants “‘knew facts or had access to information
+suggesting that their public statements were not accurate,’” the scienter and falsity analysis are
+largely intertwined. Pfizer, 2008 U.S. Dist. LEXIS 50923, at *40-*41. Where a complaint
+sufficiently pleads both the materiality of defendants’ omissions as well as defendants’ knowledge,
+as Plaintiffs’ do here, “the question of scienter is implicitly resolved.” Id. at *39-*40.
+Plaintiffs have alleged with particularity that the Defendants knew prior to and at all times
+during the Class Period about Study 315’s negative results. ¶¶22, 31, 32, 36, 52-57, 67, 78, 84, 90,
+95, 105, 121, 124. Defendants do not dispute this. Coupled with Plaintiffs’ well-pled allegations
+- 26 -
+
+Case 1:07-cv-10329-RJS
+
+Document 28
+
+Filed 07/25/2008
+
+Page 35 of 50
+
+that Defendants’ omissions were material, the Complaint raises a strong inference that Defendants
+knowingly or recklessly withheld from investors the negative findings regarding Pristiq. Pfizer,
+2008 U.S. Dist. LEXIS 50923, at *39-*40.
+Even if these allegations were not sufficient, when considered collectively with the other
+facts alleged in the Complaint, as they must be under the Supreme Court’s holding in Tellabs, they
+more than suffice to plead a strong inference of scienter. Tellabs, 127 S. Ct. at 2511 (courts are “not
+to scrutinize each allegation in isolation but . . . assess all the allegations holistically”). Defendants’
+argument that a strong inference of scienter is not pled here (Defs.’ Mem. at 22-23) fails outright
+under Tellabs, as they scrutinize each of Plaintiffs’ allegations in isolation and argue wrongly that
+each, standing alone, is inadequate to raise a strong inference. Tellabs, 127 S. Ct. at 2511; Roth v.
+Aon Corp., No. 04-C-6835, 2008 U.S. Dist. LEXIS 18471, at *13-*14 (N.D. Ill. Mar. 7, 2008) (“For
+the Complaint to survive, the Plaintiff need only ‘plead facts rendering an inference of scienter at
+least as likely as any plausible opposing inference,’” and concluding, “we must reject Defendants’
+contention that Tellabs ‘emphatically’ or ‘dramatically’ heightened the existing standards to which
+securities fraud claims are held.”).
+A.
+
+The Complaint Sufficiently Alleges Facts Demonstrating Defendants’
+Knowledge or Reckless Disregard of the Pristiq Adverse Effects
+
+The Complaint alleges, and Defendants do not dispute, that each of the Defendants was a
+senior executive of the Company, intimately involved in monitoring, and communicating to
+investors, the status of Pristiq and the Pristiq clinical trials for VMS. ¶¶52(a), 53(a), 54(a), 55(a),
+56(a), 57. Indeed, each of the Defendants made specific public representations about Pristiq,
+purportedly based on his or her own knowledge of the clinical trials. See, e.g., ¶104 (defendant
+Poussot stated, “[o]n the cardiovascular profile, we stand by the safety of the product”); ¶72
+(defendant Constantine stated, “we have seen Pristiq is effective in treating [VMS] and that was
+- 27 -
+
+Case 1:07-cv-10329-RJS
+
+Document 28
+
+Filed 07/25/2008
+
+Page 36 of 50
+
+demonstrated . . . in our two pivotal trials”); ¶71 (defendant Mahady stated, “Pristiq possesses much
+of the proven SNRI clinical profile with respect to efficacy, safety, tolerability”). As common sense
+dictates, Defendants either knew the actual facts about the safety issues with Pristiq or were reckless
+in speaking about those facts and not knowing them: “‘A defendant who asserts a fact of his own
+knowledge or so positively as to imply that he has knowledge, under the circumstances when he is
+aware that he will be so understood when he knows that he does not in fact know whether what he
+says is true, is found to have intent to deceive . . . .” Helwig v. Vencor, 251 F.3d 540, 558 (6th Cir.
+2001).
+Defendants do not, and cannot, deny that they were aware of the adverse results from Study
+315. Defendant Constantine, for example, was one of the top two clinicians in the Women’s Health
+Division and personally sat in on the Study Team meetings prior to and during the Class Period
+where the clinical data on Pristiq were evaluated, including the Study 315 data. ¶57. Likewise,
+defendants Essner, Martin, Poussot, Mahady and Ruffolo were all members of Wyeth’s
+Law/Regulatory Review Committee, which was specifically responsible for monitoring the FDA
+submissions for Pristiq, including the study data submitted with the Pristiq NDA. ¶¶52-56.
+Accordingly, by no later than June 2006, when the Pristiq for VMS NDA was submitted to the FDA,
+each of the Defendants would have been responsible for reviewing the clinical trial data associated
+with the FDA submission, including the adverse Study 315 data. See, e.g., In re Openwave Sys. Sec.
+Litig., 528 F. Supp. 2d 236, 250 (S.D.N.Y. 2007) (in a case alleging violation of §10(b) for options
+backdating, plaintiff adequately pled scienter as to defendants who were part of the compensation
+committee charged with a duty to monitor the exercise dates of options granted).
+These allegations are more than sufficient to plead that Defendants were aware of the adverse
+hepatic and cardiovascular effects associated with Pristiq and therefore “‘knew facts or had access to
+
+- 28 -
+
+Case 1:07-cv-10329-RJS
+
+Document 28
+
+Filed 07/25/2008
+
+Page 37 of 50
+
+information suggesting that their public statements were not accurate.’” Pfizer, 2008 U.S. Dist.
+LEXIS 50923, at *40-*41; Novak, 216 F.3d at 308 (“securities fraud claims typically have sufficed
+to state a claim based on recklessness when they have specifically alleged defendants’ knowledge of
+facts or access to information contradicting their public statements”). Particularly in cases involving
+pharmaceutical development, senior corporate officers are deemed to be aware of problems or risks
+associated with critical products. See, e.g., Regeneron, 2005 U.S. Dist. LEXIS 1350, at *69 (strong
+inference of scienter was raised that defendants knew about the existence of antibodies that
+neutralized drug’s effect where drug was a “make-or-break” product and the market for it was
+extensive); Viropharma, 2003 U.S. Dist. LEXIS 5623, at *30 (knowledge regarding lack of efficacy,
+and lack of sufficient data to make conclusions regarding efficacy and safety, was imputed to
+defendants because drug at issue was company’s leading product and defendants, because of their
+positions, had access to documents containing undisclosed facts); Vicuron, 2005 U.S. Dist. LEXIS
+15613, at *28 (importance to company of lead drug candidate warranted an inference of
+recklessness, at a minimum, as to its CEO, CFO, Chief Medical Officer and directors with respect to
+misrepresentations about drug).13 Where defendants do not deny their knowledge of undisclosed
+facts, and those facts are properly alleged to be material, the PSLRA’s strong inference of scienter
+standard has been met. Pfizer, 2008 U.S. Dist. LEXIS, 50923, at *39-*40 (issue of scienter was
+
+13
+
+See also Sepracor, 308 F. Supp. 2d at 29-30 (imputing knowledge of undisclosed cardiac
+side effects in animal testing of defendant company’s antihistamine to CEO, CFO and other officers
+based on FDA’s publicized “zero tolerance” policy for cardiac side effects in new drugs being
+developed); In re NeoPharm, Inc. Sec. Litig., No. 02 C 2976, 2003 U.S. Dist. LEXIS 1862, at *43*44 (N.D. Ill. Feb. 7, 2003) (inference was drawn that chairman and CEO of drug company knew
+results of clinical trials); Makor Issues & Rights, Ltd. v. Tellabs Inc., 513 F.3d 702, 711 (7th Cir.
+2008) (“Is it conceivable that [the CEO] was unaware of the problems of his company’s two major
+products . . . ? It is conceivable, yes, but it is exceedingly unlikely.”).
+
+- 29 -
+
+Case 1:07-cv-10329-RJS
+
+Document 28
+
+Filed 07/25/2008
+
+Page 38 of 50
+
+“implicitly resolved” where plaintiffs sufficiently pled materiality and defendants’ knowledge of
+adverse events from studies of the company’s drug).14
+B.
+
+Plaintiffs Also Identify Defendants’ Motive and Opportunity to
+Commit the Fraud
+
+While unnecessary given Defendants’ knowledge of the problems associated with Pristiq,
+Plaintiffs have also provided specific allegations of Defendants’ motive and opportunity to mislead
+investors about Pristiq. ¶¶9-20, 40, 52-57, 81, 121-130. These include the efforts to replace the
+more than $3 billion in lost sales of Premarin and Prempro for VMS as a result of the WHI study,
+capture the billions of dollars worth of prescriptions being written for Effexor and Effexor XR before
+those drugs went generic, bolster the image of Pristiq as something more than a “me-too” drug for
+MDD, get an extended “exclusivity period” for the drug and the Defendants’ personal collection of
+over $83.8 million in insider trading proceeds. ¶¶9-20, 40, 52-57, 81, 121-130.15 Defendants
+respond to these allegations of motive by generally claiming they are “implausible,” “incoherent” or
+are no more than “ordinary corporate motive.” Defs.’ Mem. at 22-26. None of these labels stick.
+Defendants’ claim that it is implausible that they would continue with clinical trials on Pristiq
+if they believed the negative results of Study 315 were a threat to the drug’s commercial viability.
+
+14
+
+The Sarbanes-Oxley Act of 2002 certifications filed by defendants Essner and Martin further
+confirm that each of these Defendants had established and monitored Wyeth’s disclosure controls
+and were aware of material information about the Company’s business (or were reckless in claiming
+they did). See In re Monster Worldwide, Inc. Sec. Litig., No. 07 Civ. 2237 (JSR ), 2008 U.S. Dist.
+LEXIS 19573, at *5-*7 (S.D.N.Y. Mar. 4, 2008) (plaintiffs’ complaint adequately alleged scienter as
+to the former CEO and Chairman on the grounds that at the time he was participating in the
+fraudulent scheme, he was also certifying the accuracy of the company’s 10-Qs and 10-Ks which
+contained false statements).
+15
+
+With regard to opportunity, it is generally recognized that corporate officers “ha[ve] access to
+insider information and thus ha[ve] an opportunity to commit fraudulent acts.” Scholastic, 252 F.3d
+at 74.
+
+- 30 -
+
+Case 1:07-cv-10329-RJS
+
+Document 28
+
+Filed 07/25/2008
+
+Page 39 of 50
+
+Id. at 23. But, it is certainly plausible, if not more likely, that Defendants would try to stack the deck
+with new trials that excluded patients with cardiac or hepatic risk factors. Having already invested
+tens of millions of dollars, it is certainly plausible, indeed almost a certainty, that Defendants would
+push forward with the efforts to replace Premarin, Prempro, Effexor and Effexor XR. Indeed, given
+the timing of the fraud, Defendants were highly motivated to keep physicians from switching to
+generic versions of Effexor. And, the disclosure of adverse side effects in Pristiq for VMS would
+have been disastrous for the marketing and sales of Pristiq for MDD. ¶22. “The fact that a gamble –
+concealing bad news in the hope that it will be overtaken by good news – fails is not inconsistent
+with its having been considered, though because of the risk a reckless gamble.” Makor Issues, 513
+F.3d at 710. In other words, the fact that Defendants failed to disclose the truth about Pristiq and
+gambled that they could salvage the drug’s commercial viability does not render Plaintiffs’ pleadings
+implausible or negate the strong inference of scienter.
+Similarly, Defendants’ assertion that the allegations of motive are “incoherent” or
+“irrational” is a non-starter. Defs.’ Mem. at 22-23. Defendants do not have to agree with Plaintiffs’
+allegations, but, at the motion to dismiss stage, the allegations must still be accepted as true and
+considered in their entirety. Tellabs, 127 S. Ct. at 2509 (on a motion to dismiss, the court must
+accept all factual allegations in the complaint as true). Moreover, there is nothing incoherent or
+irrational about Defendants’ efforts to stave off the negative repercussions of the Study 315 findings,
+or attempt to market Pristiq for MDD without the overhanging concerns about cardiovascular and
+hepatic side effects or even just to delay the damage being done by Effexor’s pending generic status.
+Even if Defendants only succeeded in delaying the bad news for a year or two, it was time they
+could (and did) use to try and boost Pristiq for other uses, initiate and manipulate new studies to try
+and blunt the impact of Study 315 and to dump their own Wyeth stock holdings. ¶¶121-130.
+
+- 31 -
+
+Case 1:07-cv-10329-RJS
+
+Document 28
+
+Filed 07/25/2008
+
+Page 40 of 50
+
+Plaintiffs’ allegations are at least as plausible as Defendants’ suggestion that, if the allegations were
+true, they would simply have abandoned Pristiq rather than risk this lawsuit.16
+The suggestion that Plaintiffs have simply alleged “ordinary corporate motive” is belied by
+the particularity of the allegations themselves. Defs.’ Mem. at 24-25. Plaintiffs have not simply
+alleged that Defendants desired Wyeth’s “stock to be priced highly” or sought to “assure the
+financial continuity of the existence of a new blockbuster drug,” rather they identify those motives
+unique to the timing and market for Pristiq: replacing the revenue lost from Premarin and Prempro
+(¶7); replacing Effexor and Effexor XR as they went generic (¶¶11-13); establishing Pristiq as more
+than a “me too” drug that was indistinguishable from Effexor (¶15); locking in upwards of 15 years
+of patent protection (¶14); enhancing the marketing of Pristiq for multiple indications (¶16); and
+generating billions of dollars in sales (¶¶17-18). These are not generic or ordinary allegations, but
+very cogent motives that are related directly to the timing and substance of Defendants’ false
+statements and omissions.
+Plaintiffs’ detailed allegations of motive are further supplemented by the evidence of
+Defendants’ substantial insider trading. There is no dispute that after Tellabs, as it was before,
+unusual and suspicious insider trading will support a finding of a strong inference of scienter. Miss.
+Pub. Employees, 523 F.3d at 92. There is also no dispute that Defendants collected more than $83
+million in insider trading proceeds over the course of only nine months and that these stock sales
+16
+
+Defendants’ claim that they eventually did disclose the Study 315 results to the FDA does
+not render, or even suggest, Plaintiffs’ allegations are incoherent. Defs.’ Mem. at 23. Defendants
+were obligated to disclose all of the clinical study data to the FDA and did so outside the view of
+investors and the public. Even if Defendants hoped that the FDA would overlook the negative data
+about Pristiq, that was no basis for failing to disclose this material information to shareholders. See,
+e.g., Amylin, 2003 U.S. Dist. LEXIS 7667, at *12-*13 (court found there is nothing unlawful about
+taking a calculated risk, but if defendants mislead the public about such a risk by making false and
+misleading statements, defendants may be liable).
+
+- 32 -
+
+Case 1:07-cv-10329-RJS
+
+Document 28
+
+Filed 07/25/2008
+
+Page 41 of 50
+
+were not pursuant to any historical trading practices. ¶¶125-129.
+The Complaint identifies that: (1) the individual defendants, other than Constantine,17 sold
+over 1.55 million shares of Wyeth’s stock for $83.82 million in Class Period proceeds, representing
+between 70% and 99% of their stockholdings; (2) in the 12 months prior to the Class Period, the
+same Defendants only sold 175,580 shares of Wyeth stock for $8.63 million in proceeds (¶¶121,
+125-129); (3) Defendants’ sales were highly coordinated with nearly 60% of the sales occurring in
+October 2006, shortly following Wyeth’s October 5, 2006 annual investor conference during which
+Defendants announced their plans to position Pristiq as a billion-dollar drug for the treatment of
+VMS (¶122);18 and (4) the Defendants’ trades were made at peak prices for Wyeth stock (¶122).19
+These facts more than adequately plead motive and raise an inference of scienter. Indeed,
+collecting proceeds in excess of $83 million is certainly a cogent motive, and is at least as
+
+17
+
+Defendant Constantine’s lack of stock sales (Defs.’ Mem. at 28) does not negate a strong
+inference that she acted with scienter in light of the fact that the Complaint alleges facts
+demonstrating her conscious misbehavior or recklessness. See §V.A. See Tellabs, 127 S. Ct. at
+2511 (absence of insider trading is not dispositive).
+
+18
+
+Defendants’ stock sales did not merely follow the “‘release of accounting information’”
+(Defs.’ Mem. at 29), or the “end of a blackout period” (id.), but immediately followed positive,
+albeit misleading, statements regarding Pristiq that boosted Wyeth’s stock price. ¶¶69-78. See
+Gargiulo v. Demartino, 527 F. Supp. 2d 384, 390 (E.D. Pa. 2007) (defendants’ sales at times when
+stock price was artificially inflated due to alleged misrepresentations raised a strong inference of
+scienter); Scholastic, 252 F.3d at 74-75 (plaintiff sufficiently alleged motive where the allegedly
+fraudulent statements were quickly followed by defendant’s insider trading). In any event, the
+securities laws require individuals in possession of insider information to disclose or abstain from
+trading. See, e.g., Chiarella v. United States, 445 U.S. 222, 227, 229 (1980) (an “insider,” such as a
+corporate officer, who possesses material non-public information about the company, is subject to a
+duty to “disclose or abstain” – i.e., either disseminate the information to the investing public before
+trading in the company’s securities or refrain from trading until the information has been
+publicized).
+19
+
+Defendants sold at an average of over $54 per share compared to $46.77, the average trading
+price for Wyeth stock in the 90 days after Defendants’ fraud was revealed. ¶122.
+
+- 33 -
+
+Case 1:07-cv-10329-RJS
+
+Document 28
+
+Filed 07/25/2008
+
+Page 42 of 50
+
+compelling, if not more so, than any non-culpable inferences that Defendants put forth. Tellabs, 127
+S. Ct. at 2511.
+A court will generally consider several factors to determine whether insider trading activity is
+unusual, including “the amount of profit from the sales, the portion of the stockholdings sold, the
+change in volume of insider sales, and the number of insiders selling.” Scholastic, 252 F.3d at 74-75
+(citing Rothman, 220 F.3d at 94). Here, the individual defendants’ Class Period sales represented
+between 70% and 99% of their common stock holdings.20 ¶¶125-129. The individual defendants
+sold over 1.55 million shares of Wyeth stock at highly coordinated times during the Class Period for
+insider trading profits of $83.82 million, all before the true facts regarding Pristiq’s problems were
+revealed. ¶121. This amount is “massive by any measure” and supports a strong inference of
+scienter. In re Oxford Health Plans, Inc. Sec. Litig., 187 F.R.D. 133, 140 (S.D.N.Y. 1999) ($78
+million in profits over 13 months is “massive by any measure”).
+An examination of each Defendant’s individual sales during the Class Period is equally
+shocking. Defendants Essner (CEO and Chairman) and Martin (CFO) reaped over $9.23 million and
+$35.61 million, respectively.21 ¶¶52(d), 54(d), 125, 127. Defendants Mahady, Poussot and Ruffolo,
+all senior officers of Wyeth, reaped $10.34 million, $13.88 million and $14.76 million, respectively.
+
+20
+
+Defendants improperly challenge the allegations of percentages of stock sold. See Defs.’
+Mem. at 30. Plaintiffs stand by the numbers set forth in the Complaint. Indeed, Plaintiffs base every
+number in their computations on the Defendants’ own relevant SEC Form 4s, which are publiclyavailable documents. Copies of the relevant Form 4 for each Defendant, identifying the Wyeth
+securities “Beneficially Owned Following [reported] Transaction(s),” are attached as Exhibits A-E to
+the Largent Decl. Thus, contrary to Defendants’ assertions, the sales percentages set forth in the
+Complaint are based on Defendants’ own public representations. ¶¶125-129.
+
+21
+
+Defendants improperly argue that Martin’s stock sales were not suspicious because he sold
+his stock as a result of his resignation. See Defs.’ Mem. at 31-32. This purely factual argument is
+improper on a motion to dismiss and fails to account for the fact that Martin initiated his selling
+spree in October 2006, six months before he announced his resignation in April 2007. ¶127.
+
+- 34 -
+
+Case 1:07-cv-10329-RJS
+
+Document 28
+
+Filed 07/25/2008
+
+Page 43 of 50
+
+¶¶53(d), 55(d), 56(d), 126, 128-129. Many courts have found equal or smaller dollar amounts of
+insider sales, individually and in the aggregate, raise a strong inference of scienter.22
+The fact that some other non-defendant Company directors did not sell stock during the Class
+Period does not negate a strong inference of scienter. Defs.’ Mem. at 27. In re KeySpan Corp.
+Securities Litigation, 383 F. Supp. 2d 358, 383-84 (E.D.N.Y. 2003), the case relied upon by
+Defendants, is not persuasive. The court in KeySpan questioned the suspiciousness of the stock sales
+because the CEO and Chairman, who was a named defendant, did not sell any shares during the
+class period. Id. at 383-84. Here, defendant Essner was the CEO and Chairman and he did dump his
+stock during the Class Period. ¶¶52, 125. Thus, Defendants’ reliance on KeySpan is misplaced. See
+also Scholastic, 252 F.3d at 75 (whether or not non-defendants sold stock at a suspicious time is
+“irrelevant, since in that regard motive is considered with respect to [defendants] alone”). More
+importantly, as alleged in the Complaint, six other members of Wyeth’s Law/Regulatory Review
+Committee, who also reviewed the adverse clinical trial results regarding Pristiq, joined Defendants
+in selling their personal stock during the Class Period and before the truth about the drug was
+
+22
+
+See, e.g., Oxford Health, 187 F.R.D. at 140 ($78 million of insider sales by ten defendants is
+“massive by any measure” and supported strong inference; court held that stock sales were
+suspicious where certain insiders separately sold between $621,000 and $5.4 million worth of stock);
+In re MTC Elec. Techs. S’holders Litig., 898 F. Supp. 974, 980 (E.D.N.Y. 1995) (defendant sold
+almost 8,000 shares for profits of $173,000); see also Rubinstein v. Collins, 20 F.3d 160, 169 (5th
+Cir. 1994) (collective sales of only $760,599); Suprema, 438 F.3d at 277 (two defendants’ sales for
+total proceeds of $7 million supported strong inference of scienter); Helwig, 251 F.3d at 554, 558
+(total insider trading proceeds of $9.5 million, with one defendant reaping proceeds of $3 million,
+supported strong inference of scienter); In re U.S. Interactive, Inc. Sec. Litig., No. 01-cv-522, 2002
+U.S. Dist. LEXIS 16009, at *58-*59 (E.D. Pa. Aug. 23, 2002) (three insiders sold 244,500 shares for
+less than $4 million in days following allegedly misleading public interviews); In re Quintel Entm’t
+Inc. Sec. Litig., 72 F. Supp. 2d 283, 286-88, 296 (S.D.N.Y. 1999) (“collective profit of about $ 10
+million” was sufficient); Schlagel v. Learning Tree Int’l, No. CV 98-6384 ABC(Ex), 1998 U.S. Dist.
+LEXIS 20306, at *50 (C.D. Cal. Dec. 23, 1998) (total proceeds from high-level insider sales of over
+$10.6 million “easily established motive”).
+
+- 35 -
+
+Case 1:07-cv-10329-RJS
+
+Document 28
+
+Filed 07/25/2008
+
+Page 44 of 50
+
+revealed. ¶130. This coordinated selling further supports a strong inference of scienter. See In re
+Daou Sys., 411 F.3d 1006, 1024 (9th Cir. 2005) (coordinated selling by non-defendant insiders is
+indicative of scienter).23
+Certainly, by any measure, $83.32 million in proceeds is a more than sufficient motive to
+commit fraud and is at least as compelling as any non-culpable argument Defendants may assert.
+VI.
+
+Plaintiffs Have Properly Alleged Loss Causation
+The Supreme Court’s decision in Dura establishes that, at the pleading stage, all a plaintiff
+
+need do is “provide a defendant with some indication of the loss and the causal connection that the
+plaintiff has in mind.” 544 U.S. at 347. In other words, as the Second Circuit held before Dura, a
+plaintiff need only allege “that the misstatement or omission concealed something from the market
+that, when disclosed, negatively affected the value of the security.” Lentell v. Merrill Lynch & Co.,
+396 F.3d 161, 173 (2d Cir. 2005). The Supreme Court recognized that the loss causation pleading
+standard is “not meant to impose a great burden upon a plaintiff,” but simply requires a short and
+plain statement in accordance with Federal Rule of Civil Procedure 8(a)(2) setting forth what the
+relevant loss “might be” and “what the causal connection might be between” the plaintiffs’ loss and
+the defendants’ misconduct. Dura, 544 U.S. at 347. Plaintiffs’ Complaint easily meets this
+standard.
+Plaintiffs here have pled exactly what is required: identifying Defendants’ misrepresentations
+and omissions that artificially inflated the price of Wyeth stock acquired by investors (¶¶62-106);
+
+23
+
+Defendants convoluted and fact-intensive argument that the insider trading was against “their
+own economic self-interest” ignores the reality that Defendants collected proceeds of over $83
+million and merely held cashless options. Defs.’ Mem. at 4, 23. If, as it appears, Defendants are
+arguing that the $83 million was insufficient for their retirement planning, that is far from a coherent
+claim and certainly not the basis for ignoring the insider trading.
+
+- 36 -
+
+Case 1:07-cv-10329-RJS
+
+Document 28
+
+Filed 07/25/2008
+
+Page 45 of 50
+
+detailing the results of Study 315 which revealed that the usage of Pristiq for the treatment of VMS
+was associated with liver damage and cardiovascular side effects, including heart attacks, coronary
+artery obstructions and hypertension (¶¶21-28, 67, 78, 84, 90, 95, 105); providing the July 24, 2007
+disclosure that revealed the “serious adverse cardiovascular and hepatic effects associated with the
+use of PRISTIQ” for VMS (¶107); and identifying the resulting $5.70 per share decline in Wyeth’s
+stock price on July 24, 2007, and continued declines over the following two trading days, that were
+unrelated to any macroeconomic or industrywide factors. ¶¶112, 115, 133-134. Accordingly, the
+Complaint more than sufficiently sets forth how “the defendant’s misrepresentation (or other
+fraudulent conduct) proximately caused the plaintiff’s economic loss.” Dura, 544 U.S. at 346.
+As demonstrated by the following stock chart, Defendants’ July 24, 2007 disclosure of the
+adverse effects associated with Pristiq resulted in a swift and severe decline in the value of Wyeth’s
+stock:
+
+- 37 -
+
+Case 1:07-cv-10329-RJS
+
+Document 28
+
+Filed 07/25/2008
+
+Page 46 of 50
+
+Defendants do not actually contend that Plaintiffs have not adequately pled loss causation.
+Instead, relying again on the mistaken claim that the adverse effects associated with Pristiq had been
+disclosed in May 2007, Defendants contend that the July 24, 2007 disclosure “cannot be said to have
+‘caused’ Plaintiffs’ loss.” Defs.’ Mem. at 34. First, as addressed earlier, Defendants’ alleged May
+2007 disclosures failed to reveal the actual and significant extent of the adverse effects caused by
+Pristiq and were accompanied by reassuring, but false, language minimizing the findings of Study
+315. See §IV.D. Second, Defendants’ factual speculation about what the market reacted to on
+July 24, 2007 – the suggestion that the drop was due just to the FDA approval letter (Defs.’ Mem. at
+35) – is improper on a Federal Rule of Civil Procedure 12(b)(6) motion to dismiss and factually
+unsound. Plaintiffs’ detailed loss causation allegations, linking the revelations about Pristiq to the
+dramatic decline in Wyeth’s stock price, must be taken as true for the purposes of ruling on this
+motion. See, e.g., Emergent Capital Inv. Mgmt., LLC v. Stonepath Group, Inc., 343 F.3d 189, 197
+(2d Cir. 2003) (whether “the loss was caused by an intervening event, like a general fall in the price
+of Internet stocks . . . is a matter of proof at trial and not to be decided on a Rule 12(b)(6) motion to
+dismiss”). Indeed, the July 24, 2007 disclosure did not merely report the FDA decision, but
+disclosed that that decision was due to “the potential for liver damage and serious adverse
+cardiovascular and hepatic effects associated with the use of Pristiq [for VMS].” ¶107.
+Press and analyst reports issued after Defendants’ July 24, 2007 announcement reiterated
+investors’ concerns with the disclosure of the cardiovascular and hepatic side effects associated with
+Pristiq. The Associated Press reported on the “effects [on] the heart and liver” and The Star-Ledger
+reported “that the safety concerns could doom the drug.” ¶¶108, 114. Securities analysts also
+commented in the aftermath of the July 24, 2007 disclosure that “[f]or all intents and purposes, this
+
+- 38 -
+
+Case 1:07-cv-10329-RJS
+
+Document 28
+
+Filed 07/25/2008
+
+Page 47 of 50
+
+indication [Pristiq for VMS] is dead . . . [which] will intensify the company’s exposure to Effexor
+[XR] generics in 2010” and “Pristiq will have extreme difficulty replacing Effexor XR lost sales,
+implying that Wyeth will face an extremely large earnings cliff in 2011.” ¶111; see also ¶116.
+Accordingly, the Complaint easily meets the Supreme Court’s loss causation standard
+alleging “that [Wyeth’s] share price fell significantly after the truth became known” and that “the
+defendant’s misrepresentation (or other fraudulent conduct) proximately caused the plaintiff’s
+economic loss.” Dura, 544 U.S. at 344-46. This is all that is necessary to set forth the loss causation
+element of Plaintiffs’ claim. Id. at 347; Lentell, 396 F.3d at 175.
+VII.
+
+Plaintiffs Have Alleged a Claim Under Section 20(a)
+In order to establish a prima facie case of liability under §20(a), a plaintiff must show: (1) a
+
+primary violation by a controlled person; (2) control of the primary violator by the defendant; and
+(3) that the controlling person was in some meaningful sense a culpable participant in the primary
+violation. Pfizer, 2008 U.S. Dist. LEXIS 50923, at *43-*44; In re Scottish Re Group, 524 F. Supp.
+2d 370, 386 (S.D.N.Y. 2007) (“‘“[a] short, plain statement that gives the defendant fair notice of the
+claim that the defendant was a control person and the ground on which it rests its assertion . . . is all
+that is required”‘”).
+As detailed above, Plaintiffs have sufficiently alleged the violations of §10(b) and Rule 10b-5
+for “primary participation in making material misrepresentations and omissions.” Pfizer, 2008 U.S.
+Dist. LEXIS 50923, at *44.
+Plaintiffs have also sufficiently alleged that Defendants Essner, Martin, Mahady, Poussot,
+Ruffolo and Constantine controlled Wyeth by virtue of their high-level positions with Wyeth and
+responsibilities with regard to Pristiq and the clinical trials. ¶¶52-57.
+Plaintiffs have pled that the individual defendants participated in the day-to-day management
+of Wyeth’s strategic decisions about Pristiq and participated in making false and misleading
+- 39 -
+
+Case 1:07-cv-10329-RJS
+
+Document 28
+
+Filed 07/25/2008
+
+Page 48 of 50
+
+statements during the Class Period. ¶¶52-57, 62-104. This is “sufficient to meet Plaintiffs’ pleading
+obligation as to [the Individual Defendants’] culpable participation.” Pfizer, 2008 U.S. Dist. LEXIS
+50923, at *45-*46. Accordingly, Plaintiffs have sufficiently pled §20(a) liability.
+VIII. Conclusion
+For the reasons discussed above, Plaintiffs have satisfied all applicable pleading standards
+and Defendants’ Motion to Dismiss should be denied. In the event the Court is inclined to grant any
+part of Defendants’ motion, Plaintiffs respectfully request leave to amend. See Scottish Re Group,
+524 F. Supp. 2d at 387-88 (“‘[i]t is the usual practice upon granting a motion to dismiss to allow
+leave to replead’”).
+DATED: July 25, 2003
+
+Respectfully submitted,
+COUGHLIN STOIA GELLER
+RUDMAN & ROBBINS LLP
+SAMUEL H. RUDMAN
+DAVID A. ROSENFELD
+
+s/ SAMUEL H. RUDMAN
+SAMUEL H. RUDMAN
+58 South Service Road, Suite 200
+Melville, NY 11747
+Telephone: 631/367-7100
+631/367-1173 (fax)
+COUGHLIN STOIA GELLER
+RUDMAN & ROBBINS LLP
+TOR GRONBORG
+TRIG R. SMITH
+LAURIE L. LARGENT
+655 West Broadway, Suite 1900
+San Diego, CA 92101
+Telephone: 619/231-1058
+619/231-7423 (fax)
+Lead Counsel for Plaintiff
+C:\Program Files\pdfDocs\users\ReneeD\Import\omd00052879.doc
+
+- 40 -
+
+Case 1:07-cv-10329-RJS
+
+Document 28
+
+Filed 07/25/2008
+
+Page 49 of 50
+
+CERTIFICATE OF SERVICE
+I hereby certify that on July 25, 2008, I electronically filed the foregoing with the Clerk of
+the Court using the CM/ECF system which will send notification of such filing to the e-mail
+addresses denoted on the attached Electronic Mail Notice List, and I hereby certify that I have
+mailed the foregoing document or paper via the United States Postal Service to the non-CM/ECF
+participants indicated on the attached Manual Notice List.
+I certify under penalty of perjury under the laws of the United States of America that the
+foregoing is true and correct. Executed on July 25, 2008.
+
+s/ SAMUEL H. RUDMAN
+SAMUEL H. RUDMAN
+COUGHLIN STOIA GELLER
+RUDMAN & ROBBINS LLP
+58 South Service Road, Suite 200
+Melville, NY 11747
+Telephone: 631/367-7100
+631/367-1173 (fax)
+E-mail:srudman@csgrr.com
+
+Case 1:07-cv-10329-RJS
+
+Document 28
+
+Filed 07/25/2008
+
+Page 50 of 50
+
+Mailing Information for a Case 1:07-cv-10329-RJS
+Electronic Mail Notice List
+The following are those who are currently on the list to receive e-mail notices for this case.
+•
+•
+•
+•
+•
+•
+•
+•
+
+Michael Joseph Chepiga
+mchepiga@stblaw.com,managingclerk@stblaw.com
+Alexandra Emily Greif
+agreif@stblaw.com
+Tor Gronborg
+torg@lerachlaw.com
+Laurie L. Largent
+llargent@csgrr.com
+Lynn Katherine Neuner
+lneuner@stblaw.com,managingclerk@stblaw.com
+David Avi Rosenfeld
+drosenfeld@csgrr.com,e_file_ny@csgrr.com,amartin@csgrr.com
+Samuel Howard Rudman
+srudman@csgrr.com,e_file_ny@csgrr.com
+Trig Randall Smith
+trigs@csgrr.com
+
+Manual Notice List
+The following is the list of attorneys who are not on the list to receive e-mail notices for this case
+(who therefore require manual noticing). You may wish to use your mouse to select and copy
+this list into your word processing program in order to create notices or labels for these
+recipients.
+•
+
+(No manual recipients)
+
+
