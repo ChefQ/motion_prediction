@@ -153,14 +153,23 @@ if __name__ == "__main__": #True:
 
         testset['feature'] = ""
 
-        sparse_matrix = support_pipe.transform(testset["prompt"].loc[testset["brief_type"]=="support"]).toarray()
+        # sparse_matrix = support_pipe.transform(testset["prompt"].loc[testset["brief_type"]=="support"]).toarray()
 
-        testset['feature'].loc[testset["brief_type"]=="support"] =   sparse_matrix.tolist()
+        # testset['feature'].loc[testset["brief_type"]=="support"] =   sparse_matrix.tolist()
 
-        sparse_matrix = opposition_pipe.transform(testset["prompt"].loc[testset["brief_type"]=="opposition"]).toarray()
+        # sparse_matrix = opposition_pipe.transform(testset["prompt"].loc[testset["brief_type"]=="opposition"]).toarray()
 
-        testset['feature'].loc[testset["brief_type"]=="opposition"] =   sparse_matrix.tolist()
-        
+        # testset['feature'].loc[testset["brief_type"]=="opposition"] =   sparse_matrix.tolist()
+
+
+        sparse_matrix = support_pipe.transform(testset["prompt"].loc[testset["brief_type"]=="support"]).toarray().tolist()
+
+        testset.loc[testset["brief_type"]=="support" , 'feature'] = pd.Series( sparse_matrix , index = testset.loc[testset["brief_type"]=="support"].index)
+
+        sparse_matrix = opposition_pipe.transform(testset["prompt"].loc[testset["brief_type"]=="opposition"]).toarray().tolist()
+
+        testset.loc[testset["brief_type"]=="opposition", 'feature'] =  pd.Series( sparse_matrix , index = testset.loc[testset["brief_type"]=="opposition"].index)
+                
 
 
     x_support = np.array(testset["feature"].loc[(testset["brief_type"]=="support") & (testset["data_type"]=="test") ].to_list())  #  np.array(testset['file_path'].to_list())
@@ -207,5 +216,5 @@ if __name__ == "__main__": #True:
     support = support[["brief","predict","score","truth"]]
     opposition = opposition[["brief","predict","score","truth"]]
 
-    support.to_csv(f'{arg.model_name}-{arg.feature}-supppredictions.csv' , index = False)
-    opposition.to_csv(f'{arg.model_name}-{arg.feature}-oppopredictions.csv', index = False)
+    support.to_csv(f'predictions/{arg.model_name}-{arg.feature}-supppredictions.csv' , index = False)
+    opposition.to_csv(f'predictions/{arg.model_name}-{arg.feature}-oppopredictions.csv', index = False)
