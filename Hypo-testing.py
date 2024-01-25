@@ -37,8 +37,8 @@ def signtest(A, B, alternative='two-sided'):
 if __name__ == "__main__": #True:
     
     parser = argparse.ArgumentParser(description='Conduct hypothesis testing on two sets of predictions')
-    parser.add_argument('--Apath', default='RFT', help=f'path of predictions for model A')
-    parser.add_argument('--Bpath',  default= 'embeddings.csv', help='path of predictions for model B')
+    parser.add_argument('--Apath', help=f'path of predictions for model A')
+    parser.add_argument('--Bpath', help='path of predictions for model B')
 
     arg = parser.parse_args()
 
