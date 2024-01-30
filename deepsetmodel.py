@@ -144,11 +144,11 @@ class TwoSetDeepSets(torch.nn.Module):
     #and if not can we make it deeper?
 
 class DeepSets(torch.nn.Module):
-    def __init__(self, inputs, max_len_brief , hidden1, hidden2, hidden3, classify1, device= "mps"):
+    def __init__(self, inputs, max_len_brief , hidden1, hidden2, hidden3, classify1):
         super(DeepSets, self).__init__()
 
         self.narguments = max_len_brief
-        self.device = device
+        
         self.phi = Seq(
             Conv1d(inputs, hidden1, 1),
             BatchNorm1d(hidden1),
@@ -160,6 +160,7 @@ class DeepSets(torch.nn.Module):
             BatchNorm1d(hidden3),
             ReLU(),
         )
+
         self.rho = Seq(
             Lin(hidden3, classify1),
             BatchNorm1d(classify1),
@@ -170,8 +171,9 @@ class DeepSets(torch.nn.Module):
 
     def forward(self, x):
         out = self.phi(x)
-        indices = torch.LongTensor(np.zeros(self.narguments)).to(self.device)
-        out = scatter_mean(out, indices, dim=-1)
+        # indices = torch.LongTensor(np.zeros(self.narguments)).to(self.device)
+        #out = scatter_mean(out, indices, dim=-1)
+        out = torch.mean(out, dim=-1, dtype=torch.float32)
         return self.rho(torch.squeeze(out, dim=1))
 
 
