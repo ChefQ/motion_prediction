@@ -1,0 +1,215 @@
+{
+    "os": "Linux-4.15.0-213-generic-x86_64-with-glibc2.27",
+    "python": "3.11.4",
+    "heartbeatAt": "2024-02-09T02:17:51.343398",
+    "startedAt": "2024-02-09T02:17:50.923795",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/ChefQ/motion_prediction.git",
+        "commit": "610ec945b69409b391f189215217d725345f3f81"
+    },
+    "email": "oluwaseun.cardosos@mail.utoronto.ca",
+    "root": "/scratchB/oqcardoso/motion_prediction",
+    "host": "veggie4",
+    "username": "oqcardoso",
+    "executable": "/scratchB/oqcardoso/.pyenv/versions/3.11.4/bin/python",
+    "cpu_count": 16,
+    "cpu_count_logical": 32,
+    "cpu_freq": {
+        "current": 1553.765625,
+        "min": 1200.0,
+        "max": 3000.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1409.695,
+            "min": 1200.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1325.639,
+            "min": 1200.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1315.035,
+            "min": 1200.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1202.286,
+            "min": 1200.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1203.167,
+            "min": 1200.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1246.71,
+            "min": 1200.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1203.1,
+            "min": 1200.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1499.248,
+            "min": 1200.0,
+            "max": 3000.0
+        },
+        {
+            "current": 2102.039,
+            "min": 1200.0,
+            "max": 3000.0
+        },
+        {
+            "current": 2968.076,
+            "min": 1200.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1544.688,
+            "min": 1200.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1572.776,
+            "min": 1200.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1202.648,
+            "min": 1200.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1202.686,
+            "min": 1200.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1604.164,
+            "min": 1200.0,
+            "max": 3000.0
+        },
+        {
+            "current": 2104.717,
+            "min": 1200.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1512.521,
+            "min": 1200.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1499.979,
+            "min": 1200.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1421.287,
+            "min": 1200.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1199.918,
+            "min": 1200.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1200.727,
+            "min": 1200.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1287.493,
+            "min": 1200.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1201.07,
+            "min": 1200.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1472.963,
+            "min": 1200.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1906.272,
+            "min": 1200.0,
+            "max": 3000.0
+        },
+        {
+            "current": 2801.138,
+            "min": 1200.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1347.191,
+            "min": 1200.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1799.88,
+            "min": 1200.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1201.203,
+            "min": 1200.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1200.621,
+            "min": 1200.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1587.628,
+            "min": 1200.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1909.977,
+            "min": 1200.0,
+            "max": 3000.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 57.77036666870117,
+            "used": 34.72208786010742
+        }
+    },
+    "gpu": "Quadro P400",
+    "gpu_count": 3,
+    "gpu_devices": [
+        {
+            "name": "Quadro P400",
+            "memory_total": 2147483648
+        },
+        {
+            "name": "Quadro RTX 6000",
+            "memory_total": 25769803776
+        },
+        {
+            "name": "Quadro RTX 6000",
+            "memory_total": 25769803776
+        }
+    ],
+    "memory": {
+        "total": 251.77878952026367
+    }
+}
