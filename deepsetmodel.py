@@ -23,129 +23,106 @@ from torch_scatter import scatter_mean
 class MNIST_Adder(nn.Module):
     def __init__(self, input_size, hidden_size1, hidden_size2):
         super(MNIST_Adder, self).__init__()
-
+        p = 0.3
         self.feature_extractor = nn.Sequential(
             nn.Linear(input_size, hidden_size1),
             nn.ReLU(inplace=True),
+            nn.Dropout(p),
+            nn.Linear(hidden_size1, hidden_size1),
+            nn.ReLU(inplace=True),
+            nn.Dropout(p),
             nn.Linear(hidden_size1, hidden_size2),
             nn.ReLU(inplace=True),
+            nn.Dropout(p),
+            nn.Linear(hidden_size2, hidden_size2),
+            nn.ReLU(inplace=True),
+            nn.Dropout(p),
+            nn.Linear(hidden_size2, hidden_size2),
+            nn.ReLU(inplace=True),
+            nn.Dropout(p),
             nn.Linear(hidden_size2, hidden_size2),
             nn.ReLU(inplace=True)
         )
         self.adder = InvLinear(hidden_size2, hidden_size2, reduction='sum', bias=True)
         self.output_layer = nn.Sequential(nn.ReLU(inplace=True),
-                                          nn.Linear(30, 1),
+                                          nn.Linear(hidden_size2, hidden_size2),
+                                          nn.ReLU(inplace=True),
+                                          nn.Dropout(p),
+                                          nn.Linear(hidden_size2, hidden_size2),
+                                          nn.ReLU(inplace=True),
+                                          nn.Dropout(p),
+                                          nn.Linear(hidden_size2, hidden_size2),
+                                          nn.ReLU(inplace=True),
+                                          nn.Dropout(p),
+                                          nn.Linear(hidden_size2, 1),
                                           nn.Sigmoid())
 
     def forward(self, X, mask=None):
-        N, S, C, D, _ = X.shape
-        h = self.feature_extractor(X.reshape(N, S, C*D*D))
+        N, features, arguments  = X.shape
+        h = self.feature_extractor(X.reshape(N, arguments, features))
         h = self.adder(h, mask=mask)
         y = self.output_layer(h)
         return y
     
-class TwoSetMNIST_Adder(nn.Module):
-    def __init__(self, input_size, hidden_size1, hidden_size2):
-        super(TwoSetMNIST_Adder, self).__init__()
-
-        self.phi1 = nn.Sequential(
-            nn.Linear(input_size, hidden_size1),
-            nn.ReLU(inplace=True),
-            nn.Linear(hidden_size1, hidden_size2),
-            nn.ReLU(inplace=True),
-            nn.Linear(hidden_size2, hidden_size2),
-            nn.ReLU(inplace=True)
-        )
-        self.adder1 = InvLinear(hidden_size2, hidden_size2, reduction='sum', bias=True)
-
-        self.phi2 = nn.Sequential(
-            nn.Linear(28*28, hidden_size1),
-            nn.ReLU(inplace=True),
-            nn.Linear(hidden_size1, hidden_size2),
-            nn.ReLU(inplace=True),
-            nn.Linear(hidden_size2, hidden_size2),
-            nn.ReLU(inplace=True)
-        )
-        self.adder2 = InvLinear(hidden_size2, hidden_size2, reduction='sum', bias=True)
-
-        #figure out what nn.Sequential does
-        self.output_layer = nn.Sequential(nn.ReLU(inplace=True),
-                                          nn.Linear(hidden_size2*2, 1),nn.Sigmoid())
-        
-
-    def forward(self, X, mask=None):
-        
-        h1 = self.phi1(X)
-        h1 = self.adder1(h1, mask=mask)
-
-        h2 = self.phi2(X)
-        h2 = self.adder2(h2, mask=mask)
-
-        h = torch.cat((h1, h2), dim=1)
-        y = self.output_layer(h)
-        return y
 
 
-
-class TwoSetDeepSets(torch.nn.Module):
-    def __init__(self, supports, oppositions, max_len_brief , hidden1, hidden2, hidden3, classify1):
-        super(TwoSetDeepSets, self).__init__()
-
-        self.narguments = max_len_brief
-        self.phi1 = Seq(
-            Conv1d(supports, hidden1, 1),
-            BatchNorm1d(hidden1),
-            ReLU(),
-            Conv1d(hidden1, hidden2, 1),
-            BatchNorm1d(hidden2),
-            ReLU(),
-            Conv1d(hidden2, hidden3, 1),
-            BatchNorm1d(hidden3),
-            ReLU(),
-        )
-
-        self.phi2 = Seq(
-            Conv1d(oppositions, hidden1, 1),
-            BatchNorm1d(hidden1),
-            ReLU(),
-            Conv1d(hidden1, hidden2, 1),
-            BatchNorm1d(hidden2),
-            ReLU(),
-            Conv1d(hidden2, hidden3, 1),
-            BatchNorm1d(hidden3),
-            ReLU(),
-        )
-
-        self.rho = Seq(
-            Lin(hidden3, classify1),
-            BatchNorm1d(classify1),
-            ReLU(),
-            Lin(classify1, 1),
-            Sigmoid(),
-        )
-
-    def forward(self, support, opposition):
-        out_support = self.phi1(support)
-        out_opposition = self.phi2(opposition)
-
-
-        out_support = scatter_mean(out_support, torch.LongTensor(np.zeros(self.narguments)), dim=-1)
-        out_opposition = scatter_mean(out_opposition, torch.LongTensor(np.zeros(self.narguments)), dim=-1)
-
-        # what do i do here?
-        # how should i combine the two sets?
-
-        out = torch.cat((out_support, out_opposition), dim=1)
-
-        return self.rho(torch.squeeze(out, dim=1))
-    
 
 ## is this deep?
     #and if not can we make it deeper?
 
 class DeepSets(torch.nn.Module):
-    def __init__(self, inputs, max_len_brief , hidden1, hidden2, hidden3, classify1):
+    def __init__(self, input_size, max_len_brief , hidden1, hidden2, hidden3, classify1, p = 0.2):
         super(DeepSets, self).__init__()
+
+        self.narguments = max_len_brief
+        p = 0.3
+        self.phi = nn.Sequential(
+            nn.Linear(input_size, hidden1),
+            nn.ReLU(inplace=True),
+            nn.Dropout(p),
+            nn.Linear(hidden1, hidden1),
+            nn.ReLU(inplace=True),
+            nn.Dropout(p),
+            nn.Linear(hidden1, hidden2),
+            nn.ReLU(inplace=True),
+            nn.Dropout(p),
+            nn.Linear(hidden2, hidden2),
+            nn.ReLU(inplace=True),
+            nn.Dropout(p),
+            nn.Linear(hidden2, hidden3),
+            nn.ReLU(inplace=True),
+            nn.Dropout(p),
+            nn.Linear(hidden3, hidden3),
+            nn.ReLU(inplace=True)
+        )
+
+        self.rho = Seq(
+            Lin(hidden3, hidden3),
+            nn.ReLU(inplace=True),
+            nn.Dropout(p),
+            Lin(hidden3, classify1),
+            nn.ReLU(inplace=True),
+            nn.Dropout(p),
+            nn.Linear(classify1, classify1),
+            nn.ReLU(inplace=True),
+            nn.Dropout(p),
+            Lin(classify1, 1),
+            Sigmoid(),
+        )
+
+    def forward(self, x):
+        x = x.reshape(x.shape[0], x.shape[2], x.shape[1])
+        out = self.phi(x)
+        # indices = torch.LongTensor(np.zeros(self.narguments)).to(self.device)
+        #out = scatter_mean(out, indices, dim=-1)
+        out = torch.sum(out, dim=1, dtype=torch.float32)
+        return self.rho(torch.squeeze(out, dim=1))
+
+
+
+class DeepSetsCNN(torch.nn.Module):
+    def __init__(self, inputs, max_len_brief , hidden1, hidden2, hidden3, classify1):
+        super(DeepSetsCNN, self).__init__()
 
         self.narguments = max_len_brief
         
@@ -175,7 +152,6 @@ class DeepSets(torch.nn.Module):
         #out = scatter_mean(out, indices, dim=-1)
         out = torch.mean(out, dim=-1, dtype=torch.float32)
         return self.rho(torch.squeeze(out, dim=1))
-
 
 
 
