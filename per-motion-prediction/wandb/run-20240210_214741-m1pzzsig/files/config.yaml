@@ -9,7 +9,7 @@ _wandb:
     huggingface_version: 4.35.2
     is_jupyter_run: true
     is_kaggle_kernel: false
-    start_time: 1707532370.081295
+    start_time: 1707601661.949424
     t:
       1:
       - 1
@@ -49,89 +49,6 @@ _wandb:
     - 1: train/global_step
       6:
       - 3
-    - 1: eval/loss
-      5: 1
-      6:
-      - 1
-    - 1: eval/accuracy
-      5: 1
-      6:
-      - 1
-    - 1: eval/runtime
-      5: 1
-      6:
-      - 1
-    - 1: eval/samples_per_second
-      5: 1
-      6:
-      - 1
-    - 1: eval/steps_per_second
-      5: 1
-      6:
-      - 1
-    - 1: train/epoch
-      5: 1
-      6:
-      - 1
-    - 1: train/train_runtime
-      5: 1
-      6:
-      - 1
-    - 1: train/train_samples_per_second
-      5: 1
-      6:
-      - 1
-    - 1: train/train_steps_per_second
-      5: 1
-      6:
-      - 1
-    - 1: train/total_flos
-      5: 1
-      6:
-      - 1
-    - 1: train/train_loss
-      5: 1
-      6:
-      - 1
-vocab_size:
-  desc: null
-  value: 32000
-max_position_embeddings:
-  desc: null
-  value: 32768
-hidden_size:
-  desc: null
-  value: 4096
-intermediate_size:
-  desc: null
-  value: 14336
-num_hidden_layers:
-  desc: null
-  value: 32
-num_attention_heads:
-  desc: null
-  value: 32
-sliding_window:
-  desc: null
-  value: 4096
-num_key_value_heads:
-  desc: null
-  value: 8
-hidden_act:
-  desc: null
-  value: silu
-initializer_range:
-  desc: null
-  value: 0.02
-rms_norm_eps:
-  desc: null
-  value: 1.0e-05
-use_cache:
-  desc: null
-  value: true
-rope_theta:
-  desc: null
-  value: 10000.0
 return_dict:
   desc: null
   value: true
@@ -146,7 +63,7 @@ torchscript:
   value: false
 torch_dtype:
   desc: null
-  value: bfloat16
+  value: null
 use_bfloat16:
   desc: null
   value: false
@@ -158,7 +75,7 @@ pruned_heads:
   value: {}
 tie_word_embeddings:
   desc: null
-  value: false
+  value: true
 is_encoder_decoder:
   desc: null
   value: false
@@ -255,7 +172,7 @@ begin_suppress_tokens:
 architectures:
   desc: null
   value:
-  - MistralForCausalLM
+  - BertForMaskedLM
 finetuning_task:
   desc: null
   value: null
@@ -283,13 +200,13 @@ prefix:
   value: null
 bos_token_id:
   desc: null
-  value: 1
+  value: null
 pad_token_id:
   desc: null
-  value: 2
+  value: 0
 eos_token_id:
   desc: null
-  value: 2
+  value: null
 sep_token_id:
   desc: null
   value: null
@@ -304,16 +221,64 @@ problem_type:
   value: null
 _name_or_path:
   desc: null
-  value: mistralai/Mistral-7B-v0.1
+  value: bert-base-cased
 transformers_version:
   desc: null
   value: 4.35.2
+gradient_checkpointing:
+  desc: null
+  value: false
 model_type:
   desc: null
-  value: mistral
+  value: bert
+vocab_size:
+  desc: null
+  value: 28996
+hidden_size:
+  desc: null
+  value: 768
+num_hidden_layers:
+  desc: null
+  value: 12
+num_attention_heads:
+  desc: null
+  value: 12
+hidden_act:
+  desc: null
+  value: gelu
+intermediate_size:
+  desc: null
+  value: 3072
+hidden_dropout_prob:
+  desc: null
+  value: 0.1
+attention_probs_dropout_prob:
+  desc: null
+  value: 0.1
+max_position_embeddings:
+  desc: null
+  value: 512
+type_vocab_size:
+  desc: null
+  value: 2
+initializer_range:
+  desc: null
+  value: 0.02
+layer_norm_eps:
+  desc: null
+  value: 1.0e-12
+position_embedding_type:
+  desc: null
+  value: absolute
+use_cache:
+  desc: null
+  value: true
+classifier_dropout:
+  desc: null
+  value: null
 output_dir:
   desc: null
-  value: test_trainer
+  value: tutorial_trainer
 overwrite_output_dir:
   desc: null
   value: false
@@ -397,7 +362,7 @@ log_on_each_node:
   value: true
 logging_dir:
   desc: null
-  value: test_trainer/runs/Feb10_02-32-48_watgpu308
+  value: tutorial_trainer/runs/Feb10_21-47-40_watgpu208
 logging_strategy:
   desc: null
   value: steps
@@ -496,7 +461,7 @@ past_index:
   value: -1
 run_name:
   desc: null
-  value: test_trainer
+  value: tutorial_trainer
 disable_tqdm:
   desc: null
   value: false
@@ -595,9 +560,6 @@ hub_private_repo:
   desc: null
   value: false
 hub_always_push:
-  desc: null
-  value: false
-gradient_checkpointing:
   desc: null
   value: false
 gradient_checkpointing_kwargs:
