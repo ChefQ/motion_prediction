@@ -1,0 +1,1 @@
+{"loss_per_epoch": NaN, "accuracy_per_epoch": {"accuracy": 0.46105919003115264}, "test_accuracy": 0.5372168284789643, "test_recall": 0.0, "test_precision": 0.0, "_timestamp": 1707755828.2091615, "_runtime": 1159.958512544632, "_step": 11}

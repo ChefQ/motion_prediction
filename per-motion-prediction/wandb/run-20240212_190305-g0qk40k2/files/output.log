@@ -1,0 +1,220 @@
+
+Training model
+You're using a LlamaTokenizerFast tokenizer. Please note that with a fast tokenizer, using the `__call__` method is faster than using a method to encode the text followed by a call to the `pad` method to get a padded encoding.
+Accuracy: {'accuracy': 0.470404984423676}
+loss : 11.444312118902438
+Evaluating model on test set
+{'accuracy': 0.44983818770226536, 'precision': 0.4536082474226804, 'recall': 0.9230769230769231}
+Accuracy: {'accuracy': 0.5202492211838006}
+loss : 5.793302210365853
+Evaluating model on test set
+{'accuracy': 0.47249190938511326, 'precision': 0.462406015037594, 'recall': 0.8601398601398601}
+Accuracy: {'accuracy': 0.4766355140186916}
+loss : nan
+Evaluating model on test set
+{'accuracy': 0.5372168284789643, 'precision': 0.0, 'recall': 0.0}
+/u3/oqcardos/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1471: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+Accuracy: {'accuracy': 0.4672897196261682}
+loss : nan
+Evaluating model on test set
+/u3/oqcardos/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1471: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+{'accuracy': 0.5372168284789643, 'precision': 0.0, 'recall': 0.0}
+Accuracy: {'accuracy': 0.4672897196261682}
+loss : nan
+Evaluating model on test set
+/u3/oqcardos/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1471: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+{'accuracy': 0.5372168284789643, 'precision': 0.0, 'recall': 0.0}
+Accuracy: {'accuracy': 0.4672897196261682}
+loss : nan
+Evaluating model on test set
+/u3/oqcardos/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1471: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+{'accuracy': 0.5372168284789643, 'precision': 0.0, 'recall': 0.0}
+Accuracy: {'accuracy': 0.4672897196261682}
+loss : nan
+Evaluating model on test set
+{'accuracy': 0.5372168284789643, 'precision': 0.0, 'recall': 0.0}
+/u3/oqcardos/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1471: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+Accuracy: {'accuracy': 0.4672897196261682}
+loss : nan
+Evaluating model on test set
+{'accuracy': 0.5372168284789643, 'precision': 0.0, 'recall': 0.0}
+/u3/oqcardos/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1471: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+Accuracy: {'accuracy': 0.4672897196261682}
+loss : nan
+Evaluating model on test set
+{'accuracy': 0.5372168284789643, 'precision': 0.0, 'recall': 0.0}
+/u3/oqcardos/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1471: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+Accuracy: {'accuracy': 0.4672897196261682}
+loss : nan
+Evaluating model on test set
+/u3/oqcardos/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1471: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+{'accuracy': 0.5372168284789643, 'precision': 0.0, 'recall': 0.0}
+Accuracy: {'accuracy': 0.4672897196261682}
+loss : nan
+Evaluating model on test set
+/u3/oqcardos/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1471: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+{'accuracy': 0.5372168284789643, 'precision': 0.0, 'recall': 0.0}
+Accuracy: {'accuracy': 0.4672897196261682}
+loss : nan
+Evaluating model on test set
+{'accuracy': 0.5372168284789643, 'precision': 0.0, 'recall': 0.0}
+/u3/oqcardos/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1471: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+Accuracy: {'accuracy': 0.4672897196261682}
+loss : nan
+Evaluating model on test set
+{'accuracy': 0.5372168284789643, 'precision': 0.0, 'recall': 0.0}
+/u3/oqcardos/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1471: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+Accuracy: {'accuracy': 0.4672897196261682}
+loss : nan
+Evaluating model on test set
+{'accuracy': 0.5372168284789643, 'precision': 0.0, 'recall': 0.0}
+/u3/oqcardos/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1471: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+Accuracy: {'accuracy': 0.4672897196261682}
+loss : nan
+Evaluating model on test set
+/u3/oqcardos/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1471: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+{'accuracy': 0.5372168284789643, 'precision': 0.0, 'recall': 0.0}
+Accuracy: {'accuracy': 0.4672897196261682}
+loss : nan
+Evaluating model on test set
+{'accuracy': 0.5372168284789643, 'precision': 0.0, 'recall': 0.0}
+/u3/oqcardos/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1471: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+Accuracy: {'accuracy': 0.4672897196261682}
+loss : nan
+Evaluating model on test set
+{'accuracy': 0.5372168284789643, 'precision': 0.0, 'recall': 0.0}
+/u3/oqcardos/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1471: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+Accuracy: {'accuracy': 0.4672897196261682}
+loss : nan
+Evaluating model on test set
+/u3/oqcardos/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1471: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+{'accuracy': 0.5372168284789643, 'precision': 0.0, 'recall': 0.0}
+Accuracy: {'accuracy': 0.4672897196261682}
+loss : nan
+Evaluating model on test set
+{'accuracy': 0.5372168284789643, 'precision': 0.0, 'recall': 0.0}
+/u3/oqcardos/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1471: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+Accuracy: {'accuracy': 0.4672897196261682}
+loss : nan
+Evaluating model on test set
+/u3/oqcardos/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1471: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+{'accuracy': 0.5372168284789643, 'precision': 0.0, 'recall': 0.0}
+Accuracy: {'accuracy': 0.4672897196261682}
+loss : nan
+Evaluating model on test set
+{'accuracy': 0.5372168284789643, 'precision': 0.0, 'recall': 0.0}
+/u3/oqcardos/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1471: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+Accuracy: {'accuracy': 0.4672897196261682}
+loss : nan
+Evaluating model on test set
+{'accuracy': 0.5372168284789643, 'precision': 0.0, 'recall': 0.0}
+/u3/oqcardos/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1471: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+Accuracy: {'accuracy': 0.4672897196261682}
+loss : nan
+Evaluating model on test set
+/u3/oqcardos/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1471: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+{'accuracy': 0.5372168284789643, 'precision': 0.0, 'recall': 0.0}
+Accuracy: {'accuracy': 0.4672897196261682}
+loss : nan
+Evaluating model on test set
+/u3/oqcardos/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1471: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+{'accuracy': 0.5372168284789643, 'precision': 0.0, 'recall': 0.0}
+Accuracy: {'accuracy': 0.4672897196261682}
+loss : nan
+Evaluating model on test set
+{'accuracy': 0.5372168284789643, 'precision': 0.0, 'recall': 0.0}
+/u3/oqcardos/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1471: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+Accuracy: {'accuracy': 0.4672897196261682}
+loss : nan
+Evaluating model on test set
+{'accuracy': 0.5372168284789643, 'precision': 0.0, 'recall': 0.0}
+/u3/oqcardos/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1471: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+Accuracy: {'accuracy': 0.4672897196261682}
+loss : nan
+Evaluating model on test set
+{'accuracy': 0.5372168284789643, 'precision': 0.0, 'recall': 0.0}
+/u3/oqcardos/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1471: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+Accuracy: {'accuracy': 0.4672897196261682}
+loss : nan
+Evaluating model on test set
+/u3/oqcardos/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1471: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+{'accuracy': 0.5372168284789643, 'precision': 0.0, 'recall': 0.0}
+Accuracy: {'accuracy': 0.4672897196261682}
+loss : nan
+Evaluating model on test set
+{'accuracy': 0.5372168284789643, 'precision': 0.0, 'recall': 0.0}
+/u3/oqcardos/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1471: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+Accuracy: {'accuracy': 0.4672897196261682}
+loss : nan
+Evaluating model on test set
+{'accuracy': 0.5372168284789643, 'precision': 0.0, 'recall': 0.0}
+/u3/oqcardos/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1471: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+Accuracy: {'accuracy': 0.4672897196261682}
+loss : nan
+Evaluating model on test set
+/u3/oqcardos/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1471: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+{'accuracy': 0.5372168284789643, 'precision': 0.0, 'recall': 0.0}
+Accuracy: {'accuracy': 0.4672897196261682}
+loss : nan
+Evaluating model on test set
+/u3/oqcardos/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1471: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+{'accuracy': 0.5372168284789643, 'precision': 0.0, 'recall': 0.0}
+Accuracy: {'accuracy': 0.4672897196261682}
+loss : nan
+Evaluating model on test set
+/u3/oqcardos/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1471: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+{'accuracy': 0.5372168284789643, 'precision': 0.0, 'recall': 0.0}
+Accuracy: {'accuracy': 0.4672897196261682}
+loss : nan
+Evaluating model on test set
+/u3/oqcardos/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1471: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+{'accuracy': 0.5372168284789643, 'precision': 0.0, 'recall': 0.0}
+Accuracy: {'accuracy': 0.4672897196261682}
+loss : nan
+Evaluating model on test set
+/u3/oqcardos/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1471: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+{'accuracy': 0.5372168284789643, 'precision': 0.0, 'recall': 0.0}
+Accuracy: {'accuracy': 0.4672897196261682}
+loss : nan
+Evaluating model on test set
+/u3/oqcardos/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1471: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+{'accuracy': 0.5372168284789643, 'precision': 0.0, 'recall': 0.0}
+Accuracy: {'accuracy': 0.4672897196261682}
+loss : nan
+Evaluating model on test set
+/u3/oqcardos/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1471: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))

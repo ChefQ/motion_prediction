@@ -1,0 +1,215 @@
+{
+    "os": "Linux-5.15.0-92-generic-x86_64-with-glibc2.35",
+    "python": "3.11.5",
+    "heartbeatAt": "2024-02-12T22:17:49.272747",
+    "startedAt": "2024-02-12T22:17:48.573989",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/ChefQ/motion_prediction.git",
+        "commit": "05c3ef6938cf0da5bef4b604ca6e714c375d662f"
+    },
+    "email": null,
+    "root": "/u3/oqcardos/motion_prediction",
+    "host": "watgpu308",
+    "username": "oqcardos",
+    "executable": "/u3/oqcardos/.conda/envs/ml/bin/python",
+    "cpu_count": 16,
+    "cpu_count_logical": 32,
+    "cpu_freq": {
+        "current": 2444.1900625,
+        "min": 800.0,
+        "max": 2901.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3600.002,
+            "min": 800.0,
+            "max": 2901.0
+        },
+        {
+            "current": 3594.126,
+            "min": 800.0,
+            "max": 2901.0
+        },
+        {
+            "current": 2901.0,
+            "min": 800.0,
+            "max": 2901.0
+        },
+        {
+            "current": 2901.0,
+            "min": 800.0,
+            "max": 2901.0
+        },
+        {
+            "current": 2100.0,
+            "min": 800.0,
+            "max": 2901.0
+        },
+        {
+            "current": 2901.0,
+            "min": 800.0,
+            "max": 2901.0
+        },
+        {
+            "current": 3501.203,
+            "min": 800.0,
+            "max": 2901.0
+        },
+        {
+            "current": 2901.0,
+            "min": 800.0,
+            "max": 2901.0
+        },
+        {
+            "current": 2901.0,
+            "min": 800.0,
+            "max": 2901.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 2901.0
+        },
+        {
+            "current": 2900.0,
+            "min": 800.0,
+            "max": 2901.0
+        },
+        {
+            "current": 2000.0,
+            "min": 800.0,
+            "max": 2901.0
+        },
+        {
+            "current": 2901.0,
+            "min": 800.0,
+            "max": 2901.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 2901.0
+        },
+        {
+            "current": 2000.0,
+            "min": 800.0,
+            "max": 2901.0
+        },
+        {
+            "current": 2000.0,
+            "min": 800.0,
+            "max": 2901.0
+        },
+        {
+            "current": 3599.929,
+            "min": 800.0,
+            "max": 2901.0
+        },
+        {
+            "current": 2901.0,
+            "min": 800.0,
+            "max": 2901.0
+        },
+        {
+            "current": 2901.0,
+            "min": 800.0,
+            "max": 2901.0
+        },
+        {
+            "current": 2901.0,
+            "min": 800.0,
+            "max": 2901.0
+        },
+        {
+            "current": 2901.0,
+            "min": 800.0,
+            "max": 2901.0
+        },
+        {
+            "current": 3598.311,
+            "min": 800.0,
+            "max": 2901.0
+        },
+        {
+            "current": 3503.091,
+            "min": 800.0,
+            "max": 2901.0
+        },
+        {
+            "current": 2901.0,
+            "min": 800.0,
+            "max": 2901.0
+        },
+        {
+            "current": 3574.493,
+            "min": 800.0,
+            "max": 2901.0
+        },
+        {
+            "current": 2400.0,
+            "min": 800.0,
+            "max": 2901.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 2901.0
+        },
+        {
+            "current": 2901.0,
+            "min": 800.0,
+            "max": 2901.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 2901.0
+        },
+        {
+            "current": 2899.76,
+            "min": 800.0,
+            "max": 2901.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 2901.0
+        },
+        {
+            "current": 800.0,
+            "min": 800.0,
+            "max": 2901.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 54.251220703125,
+            "used": 18.7608642578125
+        }
+    },
+    "gpu": "NVIDIA RTX A6000",
+    "gpu_count": 3,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA RTX A6000",
+            "memory_total": 51527024640
+        },
+        {
+            "name": "NVIDIA RTX A6000",
+            "memory_total": 51527024640
+        },
+        {
+            "name": "NVIDIA RTX A6000",
+            "memory_total": 51527024640
+        }
+    ],
+    "memory": {
+        "total": 461.93599700927734
+    }
+}

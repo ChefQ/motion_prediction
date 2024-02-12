@@ -1,0 +1,52 @@
+
+You're using a LlamaTokenizerFast tokenizer. Please note that with a fast tokenizer, using the `__call__` method is faster than using a method to encode the text followed by a call to the `pad` method to get a padded encoding.
+Training model
+Accuracy: {'accuracy': 0.5077881619937694}
+loss : 14.989138719512194
+Evaluating model on test set
+{'accuracy': 0.48220064724919093, 'precision': 0.47038327526132406, 'recall': 0.9440559440559441}
+Accuracy: {'accuracy': 0.4953271028037383}
+loss : 4.184260670731708
+Evaluating model on test set
+{'accuracy': 0.47249190938511326, 'precision': 0.46503496503496505, 'recall': 0.9300699300699301}
+Accuracy: {'accuracy': 0.5046728971962616}
+loss : 4.727991615853658
+Evaluating model on test set
+{'accuracy': 0.4401294498381877, 'precision': 0.4423076923076923, 'recall': 0.8041958041958042}
+Accuracy: {'accuracy': 0.4984423676012461}
+loss : 3.3475282250381095
+Evaluating model on test set
+{'accuracy': 0.5339805825242718, 'precision': 0.49740932642487046, 'recall': 0.6713286713286714}
+Accuracy: {'accuracy': 0.48286604361370716}
+loss : 3.4402629573170733
+Evaluating model on test set
+{'accuracy': 0.5339805825242718, 'precision': 0.4975124378109453, 'recall': 0.6993006993006993}
+Accuracy: {'accuracy': 0.46417445482866043}
+loss : 7.636766387195122
+Evaluating model on test set
+{'accuracy': 0.47572815533980584, 'precision': 0.46360153256704983, 'recall': 0.8461538461538461}
+Accuracy: {'accuracy': 0.5264797507788161}
+loss : 3.263457321539158
+Evaluating model on test set
+{'accuracy': 0.5016181229773463, 'precision': 0.4773662551440329, 'recall': 0.8111888111888111}
+Accuracy: {'accuracy': 0.5607476635514018}
+loss : 3.0733731897865852
+Evaluating model on test set
+{'accuracy': 0.4563106796116505, 'precision': 0.4413145539906103, 'recall': 0.6573426573426573}
+Accuracy: {'accuracy': 0.4797507788161994}
+loss : 4.224657012195122
+Evaluating model on test set
+{'accuracy': 0.48220064724919093, 'precision': 0.4669260700389105, 'recall': 0.8391608391608392}
+Accuracy: {'accuracy': 0.470404984423676}
+loss : 6.508003048780488
+Evaluating model on test set
+{'accuracy': 0.5242718446601942, 'precision': 0.49029126213592233, 'recall': 0.7062937062937062}
+Accuracy: {'accuracy': 0.514018691588785}
+loss : 4.026819740853658
+Evaluating model on test set
+{'accuracy': 0.48220064724919093, 'precision': 0.46613545816733065, 'recall': 0.8181818181818182}
+Accuracy: {'accuracy': 0.46105919003115264}
+loss : nan
+Evaluating model on test set
+/u3/oqcardos/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1471: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))

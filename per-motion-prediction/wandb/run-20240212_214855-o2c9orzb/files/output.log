@@ -1,0 +1,11 @@
+DatasetDict({
+    train: Dataset({
+        features: ['prompt', 'completion', 'brief_type', 'data_type', 'file_path', 'file_name', 'labels'],
+        num_rows: 321
+    })
+    test: Dataset({
+        features: ['prompt', 'completion', 'brief_type', 'data_type', 'file_path', 'file_name', 'labels'],
+        num_rows: 309
+    })
+})
+Training model
