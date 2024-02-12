@@ -1,0 +1,416 @@
+
+Training model
+Accuracy: {'accuracy': 0.5046728971962616}
+loss : 0.7097746235568348
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.49221183800623053}
+loss : 0.7064073405614714
+Evaluating model on test set
+{'accuracy': 0.5372168284789643, 'precision': 0.0, 'recall': 0.0}
+/u3/oqcardos/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1471: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+Accuracy: {'accuracy': 0.5202492211838006}
+loss : 0.7035247930666295
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5109034267912772}
+loss : 0.7014426763464765
+Evaluating model on test set
+{'accuracy': 0.5372168284789643, 'precision': 0.0, 'recall': 0.0}
+/u3/oqcardos/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1471: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+Accuracy: {'accuracy': 0.4485981308411215}
+loss : 0.705480488335214
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5077881619937694}
+loss : 0.7099198946138707
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5202492211838006}
+loss : 0.6996183947819036
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5202492211838006}
+loss : 0.6918138672665852
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.4953271028037383}
+loss : 0.6995722273500954
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5295950155763239}
+loss : 0.7000340121548351
+Evaluating model on test set
+{'accuracy': 0.5372168284789643, 'precision': 0.0, 'recall': 0.0}
+/u3/oqcardos/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1471: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.6930569003267986
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.6954141869777586
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.514018691588785}
+loss : 0.6960978842363125
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.6985239851765517
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5264797507788161}
+loss : 0.6934782411994004
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.4766355140186916}
+loss : 0.6998083911290983
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.6971844856331988
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.46417445482866043}
+loss : 0.6949906988841731
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.48909657320872274}
+loss : 0.6920794030515159
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5171339563862928}
+loss : 0.7021641077064886
+Evaluating model on test set
+{'accuracy': 0.5372168284789643, 'precision': 0.0, 'recall': 0.0}
+/u3/oqcardos/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1471: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+Accuracy: {'accuracy': 0.5514018691588785}
+loss : 0.6957876158923637
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.693890054051469
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5077881619937694}
+loss : 0.69491353558331
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5295950155763239}
+loss : 0.6954416385511073
+Evaluating model on test set
+{'accuracy': 0.5372168284789643, 'precision': 0.0, 'recall': 0.0}
+/u3/oqcardos/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1471: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+Accuracy: {'accuracy': 0.5264797507788161}
+loss : 0.6930454591425453
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.6954769782903718
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.6922595152040807
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.695009634262178
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5015576323987538}
+loss : 0.6950431815007838
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.48286604361370716}
+loss : 0.6974082269319674
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.49221183800623053}
+loss : 0.7001050172782526
+Evaluating model on test set
+{'accuracy': 0.5372168284789643, 'precision': 0.0, 'recall': 0.0}
+/u3/oqcardos/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1471: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+Accuracy: {'accuracy': 0.5389408099688473}
+loss : 0.6911614072032091
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.48598130841121495}
+loss : 0.6953723299794081
+Evaluating model on test set
+{'accuracy': 0.5372168284789643, 'precision': 0.0, 'recall': 0.0}
+/u3/oqcardos/.local/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1471: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+Accuracy: {'accuracy': 0.5077881619937694}
+loss : 0.6957543550468073
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.6918038246108265
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.6941465604596022
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.6934208899009519
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.6989012854855235
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.6943883154450393
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.46417445482866043}
+loss : 0.696056588393886
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.6921258830442661
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.6934806704521179
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.6981464246424233
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.6967269836402521
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.6922692700130183
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.6940131623570512
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5015576323987538}
+loss : 0.6923620090252016
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.6954031586647034
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.48286604361370716}
+loss : 0.6943727528176656
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.6956336919854327
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.690803580167817
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.6945050024404759
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.6938324003684812
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5077881619937694}
+loss : 0.696248339443672
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.697075598123597
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.4766355140186916}
+loss : 0.6959882436729059
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.6948448477721796
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.6933997113530229
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.48909657320872274}
+loss : 0.6958100475916048
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.6941775548748854
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5077881619937694}
+loss : 0.696273922920227
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.6906267666235203
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.6935345254293303
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.6934435149518455
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.6906109074266945
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.6959299808595238
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.6920395100988993
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.6906165248010216
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.6953459352981753
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.6931936246592824
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.6900817737346743
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.6924545997526588
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.6905392379295535
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.6938112668874787
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.6907616083214922
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.6905966037657203
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.6918943451672066
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.6908850626247686
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.6926965539048358
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.6904041839808952
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.6930570558803838
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.6929508389496222
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.6906284137469966
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.6901107372307196
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.6938442340711268
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.6926096241648604
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.6908602103954409
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.6938707377852463
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.6928418453146772
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.6929606562707482
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.6922379892046858
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.690547930031288
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.6900541011880084
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.6899659531872447
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.6897719560599909
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.6931180372470762
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.6897731147161345
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.6896677816786417
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.6928446699933308
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5327102803738317}
+loss : 0.6896165318605376
+Evaluating model on test set
+{'accuracy': 0.4627831715210356, 'precision': 0.4627831715210356, 'recall': 1.0}

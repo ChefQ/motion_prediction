@@ -1,0 +1,64 @@
+wandb_version: 1
+
+optimizer:
+  desc: null
+  value: AdamW
+lr:
+  desc: null
+  value: 5.0e-05
+usingScheduler:
+  desc: null
+  value: linear
+architecture:
+  desc: null
+  value: Bert
+dataset:
+  desc: null
+  value: single-supports
+epochs:
+  desc: null
+  value: 100
+_wandb:
+  desc: null
+  value:
+    python_version: 3.11.5
+    cli_version: 0.16.3
+    framework: huggingface
+    huggingface_version: 4.35.2
+    is_jupyter_run: true
+    is_kaggle_kernel: false
+    start_time: 1707702002.146328
+    t:
+      1:
+      - 1
+      - 5
+      - 11
+      - 49
+      - 51
+      - 53
+      - 55
+      - 71
+      - 98
+      - 100
+      2:
+      - 1
+      - 5
+      - 11
+      - 49
+      - 51
+      - 53
+      - 55
+      - 71
+      - 98
+      - 100
+      3:
+      - 13
+      - 16
+      - 23
+      4: 3.11.5
+      5: 0.16.3
+      6: 4.35.2
+      8:
+      - 1
+      - 5
+      13: linux-x86_64

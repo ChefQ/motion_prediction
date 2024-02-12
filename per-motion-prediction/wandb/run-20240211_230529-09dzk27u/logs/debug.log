@@ -1,0 +1,75 @@
+2024-02-11 23:05:29,030 INFO    MainThread:1434530 [wandb_setup.py:_flush():76] Current SDK version is 0.16.3
+2024-02-11 23:05:29,030 INFO    MainThread:1434530 [wandb_setup.py:_flush():76] Configure stats pid to 1434530
+2024-02-11 23:05:29,030 INFO    MainThread:1434530 [wandb_setup.py:_flush():76] Loading settings from /u3/oqcardos/.config/wandb/settings
+2024-02-11 23:05:29,030 INFO    MainThread:1434530 [wandb_setup.py:_flush():76] Loading settings from /u3/oqcardos/motion_prediction/per-motion-prediction/wandb/settings
+2024-02-11 23:05:29,030 INFO    MainThread:1434530 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2024-02-11 23:05:29,030 INFO    MainThread:1434530 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2024-02-11 23:05:29,030 INFO    MainThread:1434530 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-02-11 23:05:29,031 INFO    MainThread:1434530 [wandb_init.py:_log_setup():526] Logging user logs to /u3/oqcardos/motion_prediction/per-motion-prediction/wandb/run-20240211_230529-09dzk27u/logs/debug.log
+2024-02-11 23:05:29,031 INFO    MainThread:1434530 [wandb_init.py:_log_setup():527] Logging internal logs to /u3/oqcardos/motion_prediction/per-motion-prediction/wandb/run-20240211_230529-09dzk27u/logs/debug-internal.log
+2024-02-11 23:05:29,031 INFO    MainThread:1434530 [wandb_init.py:_jupyter_setup():472] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x7f67e0af2e50>
+2024-02-11 23:05:29,031 INFO    MainThread:1434530 [wandb_init.py:init():566] calling init triggers
+2024-02-11 23:05:29,031 INFO    MainThread:1434530 [wandb_init.py:init():573] wandb.init called with sweep_config: {}
+config: {'optimizer': 'AdamW', 'lr': 5e-05, 'usingScheduler': 'linear', 'architecture': 'Bert', 'dataset': 'single-supports', 'epochs': 100}
+2024-02-11 23:05:29,031 INFO    MainThread:1434530 [wandb_init.py:init():591] re-initializing run, found existing run on stack: 4h51i83l
+2024-02-11 23:05:29,033 INFO    MainThread:1434530 [wandb_run.py:_finish():1970] finishing run oqcardoso/LLM_TOTURIAL/4h51i83l
+2024-02-11 23:05:29,033 INFO    MainThread:1434530 [wandb_run.py:_atexit_cleanup():2210] got exitcode: 0
+2024-02-11 23:05:29,033 INFO    MainThread:1434530 [wandb_run.py:_restore():2193] restore
+2024-02-11 23:05:29,034 INFO    MainThread:1434530 [wandb_run.py:_restore():2199] restore done
+2024-02-11 23:05:32,936 INFO    MainThread:1434530 [wandb_run.py:_footer_history_summary_info():3866] rendering history
+2024-02-11 23:05:32,936 INFO    MainThread:1434530 [wandb_run.py:_footer_history_summary_info():3898] rendering summary
+2024-02-11 23:05:32,953 INFO    MainThread:1434530 [wandb_run.py:_footer_sync_info():3825] logging synced files
+2024-02-11 23:05:32,997 INFO    MainThread:1434530 [wandb_init.py:init():616] starting backend
+2024-02-11 23:05:32,997 INFO    MainThread:1434530 [wandb_init.py:init():620] setting up manager
+2024-02-11 23:05:33,001 INFO    MainThread:1434530 [backend.py:_multiprocessing_setup():105] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2024-02-11 23:05:33,001 INFO    MainThread:1434530 [wandb_init.py:init():628] backend started and connected
+2024-02-11 23:05:33,012 INFO    MainThread:1434530 [wandb_run.py:_label_probe_notebook():1295] probe notebook
+2024-02-11 23:05:33,012 INFO    MainThread:1434530 [wandb_run.py:_label_probe_notebook():1305] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2024-02-11 23:05:33,013 INFO    MainThread:1434530 [wandb_init.py:init():720] updated telemetry
+2024-02-11 23:05:33,022 INFO    MainThread:1434530 [wandb_init.py:init():753] communicating run to backend with 90.0 second timeout
+2024-02-11 23:05:34,111 INFO    MainThread:1434530 [wandb_run.py:_on_init():2262] communicating current version
+2024-02-11 23:05:34,166 INFO    MainThread:1434530 [wandb_run.py:_on_init():2271] got version response 
+2024-02-11 23:05:34,166 INFO    MainThread:1434530 [wandb_init.py:init():804] starting run threads in backend
+2024-02-11 23:05:38,129 INFO    MainThread:1434530 [wandb_run.py:_console_start():2241] atexit reg
+2024-02-11 23:05:38,130 INFO    MainThread:1434530 [wandb_run.py:_redirect():2096] redirect: wrap_raw
+2024-02-11 23:05:38,131 INFO    MainThread:1434530 [wandb_run.py:_redirect():2161] Wrapping output streams.
+2024-02-11 23:05:38,131 INFO    MainThread:1434530 [wandb_run.py:_redirect():2186] Redirects installed.
+2024-02-11 23:05:38,131 INFO    MainThread:1434530 [wandb_init.py:init():847] run started, returning control to user process
+2024-02-11 23:05:38,131 INFO    MainThread:1434530 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2024-02-11 23:05:38,131 INFO    MainThread:1434530 [wandb_init.py:_pause_backend():437] pausing backend
+2024-02-11 23:05:49,283 INFO    MainThread:1434530 [wandb_init.py:_resume_backend():442] resuming backend
+2024-02-11 23:05:54,738 INFO    MainThread:1434530 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2024-02-11 23:05:54,738 INFO    MainThread:1434530 [wandb_init.py:_pause_backend():437] pausing backend
+2024-02-11 23:06:39,784 INFO    MainThread:1434530 [wandb_init.py:_resume_backend():442] resuming backend
+2024-02-11 23:15:24,742 INFO    MainThread:1434530 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2024-02-11 23:15:24,743 INFO    MainThread:1434530 [wandb_init.py:_pause_backend():437] pausing backend
+2024-02-11 23:18:46,764 INFO    MainThread:1434530 [wandb_init.py:_resume_backend():442] resuming backend
+2024-02-11 23:19:16,502 INFO    MainThread:1434530 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2024-02-11 23:19:16,502 INFO    MainThread:1434530 [wandb_init.py:_pause_backend():437] pausing backend
+2024-02-11 23:19:28,397 INFO    MainThread:1434530 [wandb_init.py:_resume_backend():442] resuming backend
+2024-02-11 23:19:28,719 INFO    MainThread:1434530 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2024-02-11 23:19:28,719 INFO    MainThread:1434530 [wandb_init.py:_pause_backend():437] pausing backend
+2024-02-11 23:19:34,799 INFO    MainThread:1434530 [wandb_init.py:_resume_backend():442] resuming backend
+2024-02-11 23:19:34,818 INFO    MainThread:1434530 [wandb_setup.py:_flush():76] Current SDK version is 0.16.3
+2024-02-11 23:19:34,819 INFO    MainThread:1434530 [wandb_setup.py:_flush():76] Configure stats pid to 1434530
+2024-02-11 23:19:34,819 INFO    MainThread:1434530 [wandb_setup.py:_flush():76] Loading settings from /u3/oqcardos/.config/wandb/settings
+2024-02-11 23:19:34,819 INFO    MainThread:1434530 [wandb_setup.py:_flush():76] Loading settings from /u3/oqcardos/motion_prediction/per-motion-prediction/wandb/settings
+2024-02-11 23:19:34,819 INFO    MainThread:1434530 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2024-02-11 23:19:34,819 INFO    MainThread:1434530 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2024-02-11 23:19:34,819 INFO    MainThread:1434530 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-02-11 23:19:34,819 INFO    MainThread:1434530 [wandb_init.py:_log_setup():526] Logging user logs to /u3/oqcardos/motion_prediction/per-motion-prediction/wandb/run-20240211_231934-ll1wfiwc/logs/debug.log
+2024-02-11 23:19:34,819 INFO    MainThread:1434530 [wandb_init.py:_log_setup():527] Logging internal logs to /u3/oqcardos/motion_prediction/per-motion-prediction/wandb/run-20240211_231934-ll1wfiwc/logs/debug-internal.log
+2024-02-11 23:19:34,819 INFO    MainThread:1434530 [wandb_init.py:init():566] calling init triggers
+2024-02-11 23:19:34,819 INFO    MainThread:1434530 [wandb_init.py:init():573] wandb.init called with sweep_config: {}
+config: {'optimizer': 'AdamW', 'lr': 5e-05, 'usingScheduler': 'linear', 'architecture': 'Bert', 'dataset': 'single-supports', 'epochs': 100}
+2024-02-11 23:19:34,819 INFO    MainThread:1434530 [wandb_init.py:init():591] re-initializing run, found existing run on stack: 09dzk27u
+2024-02-11 23:19:34,821 INFO    MainThread:1434530 [wandb_run.py:_finish():1970] finishing run oqcardoso/LLM_TOTURIAL/09dzk27u
+2024-02-11 23:19:34,822 ERROR   MainThread:1434530 [jupyter.py:save_history():437] Run pip install nbformat to save notebook history
+2024-02-11 23:19:34,822 INFO    MainThread:1434530 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2024-02-11 23:19:34,822 INFO    MainThread:1434530 [wandb_init.py:_jupyter_teardown():454] cleaning up jupyter logic
+2024-02-11 23:19:34,822 INFO    MainThread:1434530 [wandb_run.py:_atexit_cleanup():2210] got exitcode: 0
+2024-02-11 23:19:34,822 INFO    MainThread:1434530 [wandb_run.py:_restore():2193] restore
+2024-02-11 23:19:34,822 INFO    MainThread:1434530 [wandb_run.py:_restore():2199] restore done
+2024-02-11 23:19:40,787 INFO    MainThread:1434530 [wandb_run.py:_footer_history_summary_info():3866] rendering history
+2024-02-11 23:19:40,788 INFO    MainThread:1434530 [wandb_run.py:_footer_history_summary_info():3898] rendering summary
+2024-02-11 23:19:40,799 INFO    MainThread:1434530 [wandb_run.py:_footer_sync_info():3825] logging synced files

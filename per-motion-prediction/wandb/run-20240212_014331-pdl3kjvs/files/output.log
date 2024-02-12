@@ -1,0 +1,14 @@
+
+Training model
+You're using a LlamaTokenizerFast tokenizer. Please note that with a fast tokenizer, using the `__call__` method is faster than using a method to encode the text followed by a call to the `pad` method to get a padded encoding.
+/u3/oqcardos/.conda/envs/ml/lib/python3.11/site-packages/IPython/core/interactiveshell.py:1798: UserWarning: Tensor.H is deprecated on 0-D tensors. Consider using x.conj(). (Triggered internally at ../aten/src/ATen/native/TensorShape.cpp:3635.)
+  return getattr(obj, attrname)
+DatasetDict({
+    train: Dataset({
+        features: ['prompt', 'completion', 'brief_type', 'data_type', 'file_path', 'file_name', 'labels'],
+        num_rows: 321
+    })
+    test: Dataset({
+        features: ['prompt', 'completion', 'brief_type', 'data_type', 'file_path', 'file_name', 'labels'],
+        num_rows: 309
+    })

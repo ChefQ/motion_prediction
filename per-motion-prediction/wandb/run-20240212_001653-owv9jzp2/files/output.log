@@ -1,0 +1,8 @@
+
+Training model
+Accuracy: {'accuracy': 0.4844290657439446}
+loss : 0.7270201605719488
+Evaluating model on test set
+{'accuracy': 0.4391891891891892, 'precision': 0.4391891891891892, 'recall': 1.0}
+Accuracy: {'accuracy': 0.5467128027681661}
+loss : 0.7054895533097757

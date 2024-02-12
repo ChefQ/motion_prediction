@@ -1,0 +1,12 @@
+DatasetDict({
+    train: Dataset({
+        features: ['prompt', 'completion', 'brief_type', 'data_type', 'file_path', 'file_name', 'labels'],
+        num_rows: 289
+    })
+    test: Dataset({
+        features: ['prompt', 'completion', 'brief_type', 'data_type', 'file_path', 'file_name', 'labels'],
+        num_rows: 296
+    })
+})
+trainable params: 860,160 || all params: 7,111,528,448 || trainable%: 0.012095290151611583
+Some weights of MistralForSequenceClassification were not initialized from the model checkpoint at mistralai/Mistral-7B-v0.1 and are newly initialized: ['score.weight']

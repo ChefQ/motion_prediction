@@ -1,0 +1,1 @@
+{"loss_per_epoch": 0.6896165318605376, "accuracy_per_epoch": {"accuracy": 0.5327102803738317}, "test_accuracy": 0.4627831715210356, "test_recall": 1.0, "test_precision": 0.4627831715210356, "_timestamp": 1707699488.1496902, "_runtime": 877.9131851196289, "_step": 99, "_wandb": {"runtime": 854}}
