@@ -1,7 +1,5 @@
 # motion_prediction
 
-Updates to repository coming soon
+This project is obsolete [refer to this link for updated version](https://github.com/ChefQ/predictMotion)
 
-
-![alt-text](https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1037155966.jpg
-)
+This is preserved for keeping sake.
